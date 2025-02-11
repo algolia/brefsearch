@@ -10,14 +10,9 @@
   },
   "lines": [
     {
-      "content": "Bref, à chaque fois que\nma copine me faisait un cadeau,",
-      "end": 4,
-      "start": 2
-    },
-    {
-      "content": "elle mettait la barre très haut.\nTu viens ?",
+      "content": "Bref, à chaque fois que ma copine me faisait un cadeau,\nelle mettait la barre très haut. Tu viens ?",
       "end": 5,
-      "start": 4
+      "start": 2
     },
     {
       "content": "Tu descends ?",
@@ -30,7 +25,7 @@
       "start": 7
     },
     {
-      "content": "C'est la vidéo où Fanny et Nadia étaient\nbourrées et où elles ont fait des trucs.",
+      "content": "C'est la vidéo où Fanny et Nadia étaient bourrées et où elles ont fait des trucs.",
       "end": 14,
       "start": 9
     },
@@ -40,7 +35,7 @@
       "start": 14
     },
     {
-      "content": "Alors que moi, je galérais un peu plus.\nTiens, c'est...",
+      "content": "Alors que moi, je galérais un peu plus. Tiens, c'est...",
       "end": 20,
       "start": 16
     },
@@ -55,24 +50,14 @@
       "start": 24
     },
     {
-      "content": "Sauf que là, elle était partie trois jours\ndans sa famille et elle rentrait",
-      "end": 29,
+      "content": "Sauf que là, elle était partie trois jours dans sa famille et elle rentrait\npile pour la Saint-Valentin.",
+      "end": 30,
       "start": 26
     },
     {
-      "content": "pile pour la Saint-Valentin.",
-      "end": 30,
-      "start": 29
-    },
-    {
-      "content": "J'avais décidé d'être un homme et de\nlui faire un cadeau tellement puissant",
-      "end": 32,
-      "start": 30
-    },
-    {
-      "content": "que je n'aurais plus besoin de rien\nlui offrir pendant au moins six mois.",
+      "content": "J'avais décidé d'être un homme et de lui faire un cadeau tellement puissant\nque je n'aurais plus besoin de rien lui offrir pendant au moins six mois.",
       "end": 34,
-      "start": 32
+      "start": 30
     },
     {
       "content": "J'avais tout calculé.",
@@ -80,14 +65,9 @@
       "start": 34
     },
     {
-      "content": "Le matin, je lui avais dit\nque je ne pouvais pas aller la chercher",
-      "end": 37,
-      "start": 35
-    },
-    {
-      "content": "à la gare parce que je rangeais.\nVas-y, je range, écoute.",
+      "content": "Le matin, je lui avais dit que je ne pouvais pas aller la chercher\nà la gare parce que je rangeais. Vas-y, je range, écoute.",
       "end": 39,
-      "start": 37
+      "start": 35
     },
     {
       "content": "Tu vois ?",
@@ -95,29 +75,19 @@
       "start": 39
     },
     {
-      "content": "Je ne sais pas, moi,\ntu n'as qu'à demander à Steve.",
+      "content": "Je ne sais pas, moi, tu n'as qu'à demander à Steve.",
       "end": 42,
       "start": 40
     },
     {
-      "content": "En ouvrant la porte, elle allait\nfaire tomber la chaise pliante",
-      "end": 44,
+      "content": "En ouvrant la porte, elle allait faire tomber la chaise pliante\nqui était accrochée à l'interrupteur.",
+      "end": 45,
       "start": 42
     },
     {
-      "content": "qui était accrochée à l'interrupteur.",
-      "end": 45,
-      "start": 44
-    },
-    {
-      "content": "L'interrupteur allait déclencher\nune lumière qui allait projeter",
-      "end": 46,
-      "start": 45
-    },
-    {
-      "content": "la constellation de la petite cuillère\nque j'avais inventée quand",
+      "content": "L'interrupteur allait déclencher une lumière qui allait projeter\nla constellation de la petite cuillère que j'avais inventée quand",
       "end": 48,
-      "start": 46
+      "start": 45
     },
     {
       "content": "elle m'avait emmené en week-end.",
@@ -125,7 +95,7 @@
       "start": 48
     },
     {
-      "content": "Ça, là, c'est la constellation\nde la petite cuillère.",
+      "content": "Ça, là, c'est la constellation de la petite cuillère.",
       "end": 52,
       "start": 49
     },
@@ -135,34 +105,19 @@
       "start": 53
     },
     {
-      "content": "Ça allait aussi allumer le mixeur,\nrelier à des ficelles, elle-même relier",
-      "end": 57,
+      "content": "Ça allait aussi allumer le mixeur, relier à des ficelles, elle-même relier\nà des poulies qui allaient révéler ses plats préférés.",
+      "end": 58,
       "start": 54
     },
     {
-      "content": "à des poulies qui allaient\nrévéler ses plats préférés.",
-      "end": 58,
-      "start": 57
-    },
-    {
-      "content": "Le poulet croustillant du chef\nde chez des L'Elle Chouanne",
-      "end": 60,
+      "content": "Le poulet croustillant du chef de chez des L'Elle Chouanne\nqui n'existent pas en portée, les que j'avais réussi à récupérer.",
+      "end": 62,
       "start": 58
     },
     {
-      "content": "qui n'existent pas en portée,\nles que j'avais réussi à récupérer.",
-      "end": 62,
-      "start": 60
-    },
-    {
-      "content": "Des coquillettes avec beaucoup\nde gruyère et des macarons de la boutique",
-      "end": 64,
-      "start": 62
-    },
-    {
-      "content": "qui étaient toujours fermés\nquand on y allait.",
+      "content": "Des coquillettes avec beaucoup de gruyère et des macarons de la boutique\nqui étaient toujours fermés quand on y allait.",
       "end": 65,
-      "start": 64
+      "start": 62
     },
     {
       "content": "Non, c'est encore fermé.",
@@ -170,24 +125,19 @@
       "start": 65
     },
     {
-      "content": "Et surtout, ça allait allumer la chaîne\nHi-Fi et lancer sa chanson préférée.",
+      "content": "Et surtout, ça allait allumer la chaîne Hi-Fi et lancer sa chanson préférée.",
       "end": 68,
       "start": 66
     },
     {
-      "content": "Quant à moi, j'aurais qu'à attendre\navec le costume que je venais d'acheter.",
+      "content": "Quant à moi, j'aurais qu'à attendre avec le costume que je venais d'acheter.",
       "end": 71,
       "start": 68
     },
     {
-      "content": "Tout l'argent que j'avais gagné\npendant trois mois de télémarketing",
-      "end": 72,
-      "start": 71
-    },
-    {
-      "content": "était passé là-dedans.\nJ'ai attendu.",
+      "content": "Tout l'argent que j'avais gagné pendant trois mois de télémarketing\nétait passé là-dedans. J'ai attendu.",
       "end": 75,
-      "start": 72
+      "start": 71
     },
     {
       "content": "Longtemps.",
@@ -210,7 +160,7 @@
       "start": 82
     },
     {
-      "content": "La ficelle a cassé.\nElle a dit: C'est ça Angèle ?",
+      "content": "La ficelle a cassé. Elle a dit: C'est ça Angèle ?",
       "end": 89,
       "start": 86
     },
@@ -220,12 +170,12 @@
       "start": 89
     },
     {
-      "content": "Bon, Steve, je vais chez Fanny,\nil m'a saoulé, là.",
+      "content": "Bon, Steve, je vais chez Fanny, il m'a saoulé, là.",
       "end": 93,
       "start": 91
     },
     {
-      "content": "Elle est redescendue, Steve est entré.\nIl a allumé la lumière.",
+      "content": "Elle est redescendue, Steve est entré. Il a allumé la lumière.",
       "end": 95,
       "start": 93
     },
@@ -245,7 +195,7 @@
       "start": 109
     },
     {
-      "content": "Ça, c'est la constellation\nde la petite tuyère.",
+      "content": "Ça, c'est la constellation de la petite tuyère.",
       "end": 119,
       "start": 114
     },

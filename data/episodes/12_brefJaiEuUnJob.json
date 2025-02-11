@@ -10,12 +10,12 @@
   },
   "lines": [
     {
-      "content": "Bref, j'avais passé un entretien\nd'embauche que je pensais avoir raté.",
+      "content": "Bref, j'avais passé un entretien d'embauche que je pensais avoir raté.",
       "end": 6,
       "start": 3
     },
     {
-      "content": "Do you speak English ?\nYes.",
+      "content": "Do you speak English ? Yes.",
       "end": 8,
       "start": 6
     },
@@ -25,7 +25,7 @@
       "start": 8
     },
     {
-      "content": "Yes, mais ils m'ont engagé,\nà l'intendance.",
+      "content": "Yes, mais ils m'ont engagé, à l'intendance.",
       "end": 10,
       "start": 8
     },
@@ -35,12 +35,12 @@
       "start": 10
     },
     {
-      "content": "Je me suis rendu compte que je faisais\ntout, eux, ils faisaient rien.",
+      "content": "Je me suis rendu compte que je faisais tout, eux, ils faisaient rien.",
       "end": 15,
       "start": 11
     },
     {
-      "content": "En y repensant, j'ai compris\npourquoi ils m'avaient pris.",
+      "content": "En y repensant, j'ai compris pourquoi ils m'avaient pris.",
       "end": 17,
       "start": 15
     },
@@ -60,34 +60,24 @@
       "start": 21
     },
     {
-      "content": "Je faisais du café,\nje rechargeais les photocopieuses.",
+      "content": "Je faisais du café, je rechargeais les photocopieuses.",
       "end": 24,
       "start": 22
     },
     {
-      "content": "Un jour, Fabien m'a dit: C'est\nles chiffres, putain,",
-      "end": 26,
+      "content": "Un jour, Fabien m'a dit: C'est les chiffres, putain,\nça marche plus, regarde.",
+      "end": 27,
       "start": 24
     },
     {
-      "content": "ça marche plus, regarde.",
-      "end": 27,
-      "start": 26
-    },
-    {
-      "content": "J'ai fait semblant de taper\ndes trucs compliqués.",
+      "content": "J'ai fait semblant de taper des trucs compliqués.",
       "end": 28,
       "start": 27
     },
     {
-      "content": "J'ai pas utilisé la souris\npour faire américain et à un moment,",
-      "end": 31,
-      "start": 28
-    },
-    {
-      "content": "j'ai juste appuyé sur vernum.\nJ'ai dit: C'est réparé.",
+      "content": "J'ai pas utilisé la souris pour faire américain et à un moment,\nj'ai juste appuyé sur vernum. J'ai dit: C'est réparé.",
       "end": 34,
-      "start": 31
+      "start": 28
     },
     {
       "content": "Il m'a dit: Tu es un génie.",
@@ -95,12 +85,12 @@
       "start": 34
     },
     {
-      "content": "J'ai pensé: Tu es un couillon.\nTu n'as rien.",
+      "content": "J'ai pensé: Tu es un couillon. Tu n'as rien.",
       "end": 37,
       "start": 35
     },
     {
-      "content": "Au bout d'un mois, j'ai compris\npourquoi un bureau s'appelait un bureau.",
+      "content": "Au bout d'un mois, j'ai compris pourquoi un bureau s'appelait un bureau.",
       "end": 39,
       "start": 37
     },
@@ -110,7 +100,7 @@
       "start": 39
     },
     {
-      "content": "Tout le monde le pliait\ndans tous les sens.",
+      "content": "Tout le monde le pliait dans tous les sens.",
       "end": 41,
       "start": 40
     },
@@ -120,12 +110,12 @@
       "start": 41
     },
     {
-      "content": "Vous avez entendu ce\nque j'ai dit, Jean-Louis ?",
+      "content": "Vous avez entendu ce que j'ai dit, Jean-Louis ?",
       "end": 43,
       "start": 42
     },
     {
-      "content": "Oui.\nFrancis, c'est le scotch, il te lâche pas.",
+      "content": "Oui. Francis, c'est le scotch, il te lâche pas.",
       "end": 46,
       "start": 43
     },
@@ -140,7 +130,7 @@
       "start": 47
     },
     {
-      "content": "Elle, c'est la colle.\nElle sent bon, mais elle est saoulante.",
+      "content": "Elle, c'est la colle. Elle sent bon, mais elle est saoulante.",
       "end": 50,
       "start": 48
     },
@@ -150,14 +140,9 @@
       "start": 50
     },
     {
-      "content": "Comme il faisait beau avec mon mari,\nChristian, on est allé à la campagne",
-      "end": 55,
-      "start": 52
-    },
-    {
-      "content": "près d'un lac, on a fait du pédalo.\nJe m'en bats les steaks.",
+      "content": "Comme il faisait beau avec mon mari, Christian, on est allé à la campagne\nprès d'un lac, on a fait du pédalo. Je m'en bats les steaks.",
       "end": 58,
-      "start": 55
+      "start": 52
     },
     {
       "content": "C'est incroyable.",
@@ -165,7 +150,7 @@
       "start": 58
     },
     {
-      "content": "Jean-michel, c'est la graffeuse.\nOn le trouve jamais.",
+      "content": "Jean-michel, c'est la graffeuse. On le trouve jamais.",
       "end": 63,
       "start": 60
     },
@@ -175,17 +160,17 @@
       "start": 63
     },
     {
-      "content": "Il est voyant, collant\net il s'affiche partout.",
+      "content": "Il est voyant, collant et il s'affiche partout.",
       "end": 66,
       "start": 64
     },
     {
-      "content": "Elle a un cul.\nElle me dit oui, je lui dis pas prout.",
+      "content": "Elle a un cul. Elle me dit oui, je lui dis pas prout.",
       "end": 67,
       "start": 66
     },
     {
-      "content": "Je me suis demandé si j'étais aussi\nune fourniture de bureau.",
+      "content": "Je me suis demandé si j'étais aussi une fourniture de bureau.",
       "end": 70,
       "start": 67
     },
@@ -195,7 +180,7 @@
       "start": 70
     },
     {
-      "content": "À leur pied, allaient débarrasser\nde ce qu'il voulait pas.",
+      "content": "À leur pied, allaient débarrasser de ce qu'il voulait pas.",
       "end": 75,
       "start": 71
     },
@@ -205,17 +190,17 @@
       "start": 75
     },
     {
-      "content": "Le scotch m'a dit: Vous êtes sûr ?\nJ'ai dit: Oui.",
+      "content": "Le scotch m'a dit: Vous êtes sûr ? J'ai dit: Oui.",
       "end": 82,
       "start": 80
     },
     {
-      "content": "Il m'a dit: Vous aurez rien ?\nJ'ai dit: C'est pas un problème.",
+      "content": "Il m'a dit: Vous aurez rien ? J'ai dit: C'est pas un problème.",
       "end": 84,
       "start": 82
     },
     {
-      "content": "C'était un problème.\nVous êtes sûr ?",
+      "content": "C'était un problème. Vous êtes sûr ?",
       "end": 85,
       "start": 84
     },
@@ -230,17 +215,17 @@
       "start": 87
     },
     {
-      "content": "En partant, je lui aurais dit\nd'aller bien se faire foutre.",
+      "content": "En partant, je lui aurais dit d'aller bien se faire foutre.",
       "end": 91,
       "start": 89
     },
     {
-      "content": "Au revoir.\nBref, j'ai eu un job.",
+      "content": "Au revoir. Bref, j'ai eu un job.",
       "end": 94,
       "start": 91
     },
     {
-      "content": "Vous avez bien entendu, Jean-Louis ?\nC'est sûr ?",
+      "content": "Vous avez bien entendu, Jean-Louis ? C'est sûr ?",
       "end": 97,
       "start": 94
     },

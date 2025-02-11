@@ -15,52 +15,37 @@
       "start": 2
     },
     {
-      "content": "J'attendais sur un banc quand\nj'ai aperçu cette vieille dame.",
+      "content": "J'attendais sur un banc quand j'ai aperçu cette vieille dame.",
       "end": 6,
       "start": 3
     },
     {
-      "content": "Pour résumer, à chaque fois\nque je me prépare à un rendez-vous,",
-      "end": 10,
+      "content": "Pour résumer, à chaque fois que je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
+      "end": 12,
       "start": 7
     },
     {
-      "content": "je me lève à 5h30 parce que je m'ennuie.",
-      "end": 12,
-      "start": 10
-    },
-    {
-      "content": "Ensuite, je prends un bain\npendant 10 minutes et puis",
-      "end": 15,
+      "content": "Ensuite, je prends un bain pendant 10 minutes et puis\nje sors du bain pendant deux heures.",
+      "end": 17,
       "start": 12
     },
     {
-      "content": "je sors du bain pendant deux heures.",
-      "end": 17,
-      "start": 15
-    },
-    {
-      "content": "Je mets du parfum, j'oublie,\nj'en remets, je réoublie.",
+      "content": "Je mets du parfum, j'oublie, j'en remets, je réoublie.",
       "end": 21,
       "start": 17
     },
     {
-      "content": "Alors, je remets et vu\nque je cocotte trop, je reprends",
-      "end": 23,
+      "content": "Alors, je remets et vu que je cocotte trop, je reprends\nun bain et je suis prête.",
+      "end": 27,
       "start": 21
     },
     {
-      "content": "un bain et je suis prête.",
-      "end": 27,
-      "start": 23
-    },
-    {
-      "content": "Lui, c'est la solitude.\nIl m'a copaqué partout.",
+      "content": "Lui, c'est la solitude. Il m'a copaqué partout.",
       "end": 29,
       "start": 27
     },
     {
-      "content": "Je Je le vois tous les jours\ndepuis que Paul est parti.",
+      "content": "Je Je le vois tous les jours depuis que Paul est parti.",
       "end": 31,
       "start": 29
     },
@@ -70,12 +55,12 @@
       "start": 31
     },
     {
-      "content": "Parce que j'ai plus toute ma tête,\nmais j'ai encore tout mon cœur.",
+      "content": "Parce que j'ai plus toute ma tête, mais j'ai encore tout mon cœur.",
       "end": 35,
       "start": 32
     },
     {
-      "content": "Par contre, je sais plus\nsi j'ai mis du parfum.",
+      "content": "Par contre, je sais plus si j'ai mis du parfum.",
       "end": 37,
       "start": 35
     },
@@ -85,7 +70,7 @@
       "start": 37
     },
     {
-      "content": "Ensuite, avec Geneviève,\nje parle du temps.",
+      "content": "Ensuite, avec Geneviève, je parle du temps.",
       "end": 41,
       "start": 39
     },
@@ -105,7 +90,7 @@
       "start": 44
     },
     {
-      "content": "Avec les gens au supermarché,\nje parle du temps.",
+      "content": "Avec les gens au supermarché, je parle du temps.",
       "end": 48,
       "start": 46
     },
@@ -125,7 +110,7 @@
       "start": 52
     },
     {
-      "content": "Des fois, je passe du temps\navec mon petit-fils.",
+      "content": "Des fois, je passe du temps avec mon petit-fils.",
       "end": 56,
       "start": 53
     },
@@ -145,12 +130,12 @@
       "start": 59
     },
     {
-      "content": "Et des fois, il me\ndemande: À qui tu parles ?",
+      "content": "Et des fois, il me demande: À qui tu parles ?",
       "end": 66,
       "start": 61
     },
     {
-      "content": "À personne.\nAllez, viens.",
+      "content": "À personne. Allez, viens.",
       "end": 68,
       "start": 66
     },
@@ -185,12 +170,12 @@
       "start": 78
     },
     {
-      "content": "Après, on rentre à la maison, on joue\nensemble et son père vient le chercher.",
+      "content": "Après, on rentre à la maison, on joue ensemble et son père vient le chercher.",
       "end": 84,
       "start": 80
     },
     {
-      "content": "Je n'en sais rien, je ne sais pas,\nj'ai pas la solution, c'est ma maman.",
+      "content": "Je n'en sais rien, je ne sais pas, j'ai pas la solution, c'est ma maman.",
       "end": 86,
       "start": 84
     },
@@ -200,7 +185,7 @@
       "start": 86
     },
     {
-      "content": "Je n'ai pas le temps, je suis mal garé.\nOn se voit demain.",
+      "content": "Je n'ai pas le temps, je suis mal garé. On se voit demain.",
       "end": 90,
       "start": 87
     },
@@ -235,7 +220,7 @@
       "start": 107
     },
     {
-      "content": "Il ne fait pas très beau aujourd'hui.\nOuais.",
+      "content": "Il ne fait pas très beau aujourd'hui. Ouais.",
       "end": 111,
       "start": 108
     }

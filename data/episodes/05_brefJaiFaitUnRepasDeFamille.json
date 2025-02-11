@@ -10,22 +10,22 @@
   },
   "lines": [
     {
-      "content": "Bref, c'est un repas de famille\nclassique qui part en couille.",
+      "content": "Bref, c'est un repas de famille classique qui part en couille.",
       "end": 1,
       "start": 0
     },
     {
-      "content": "Et pour que ça parte en couille,\nil faut une bonne équipe.",
+      "content": "Et pour que ça parte en couille, il faut une bonne équipe.",
       "end": 3,
       "start": 1
     },
     {
-      "content": "Il faut un père qui n'aime plus\nsa femme et qui fait avec.",
+      "content": "Il faut un père qui n'aime plus sa femme et qui fait avec.",
       "end": 5,
       "start": 3
     },
     {
-      "content": "Une mère qui n'aime plus\nson mari et qui fait du ragoût.",
+      "content": "Une mère qui n'aime plus son mari et qui fait du ragoût.",
       "end": 7,
       "start": 5
     },
@@ -40,47 +40,37 @@
       "start": 9
     },
     {
-      "content": "Je reviens des chiottes,\nn'y allez pas avant 2h00.",
+      "content": "Je reviens des chiottes, n'y allez pas avant 2h00.",
       "end": 12,
       "start": 10
     },
     {
-      "content": "Une tante qui s'excuse.\nExcusez-le.",
+      "content": "Une tante qui s'excuse. Excusez-le.",
       "end": 14,
       "start": 12
     },
     {
-      "content": "Un frère complice.\nEt moi.",
+      "content": "Un frère complice. Et moi.",
       "end": 16,
       "start": 14
     },
     {
-      "content": "Comme d'hab, j'avais mangé trop\nde pain parce que l'apéro",
-      "end": 18,
+      "content": "Comme d'hab, j'avais mangé trop de pain parce que l'apéro\navait duré 2h et 34 minutes.",
+      "end": 20,
       "start": 16
     },
     {
-      "content": "avait duré 2h et 34 minutes.",
-      "end": 20,
-      "start": 18
-    },
-    {
-      "content": "Et comme d'hab, il parlait politique\nparce que l'apéro avait duré",
-      "end": 22,
+      "content": "Et comme d'hab, il parlait politique parce que l'apéro avait duré\n2 bouteilles et 34 verres. Tu veux pas dire ça.",
+      "end": 24,
       "start": 20
     },
     {
-      "content": "2 bouteilles et 34 verres.\nTu veux pas dire ça.",
-      "end": 24,
-      "start": 22
-    },
-    {
-      "content": "Mon oncle dit vraiment trop de gros mots.\nMais qu'elle aille se faire gros mots.",
+      "content": "Mon oncle dit vraiment trop de gros mots. Mais qu'elle aille se faire gros mots.",
       "end": 26,
       "start": 24
     },
     {
-      "content": "Je te jure, oui.\nGros mots, sept.",
+      "content": "Je te jure, oui. Gros mots, sept.",
       "end": 27,
       "start": 26
     },
@@ -95,67 +85,67 @@
       "start": 29
     },
     {
-      "content": "À un moment, ma mère a dit: D'ailleurs ?\nQuoi ?",
+      "content": "À un moment, ma mère a dit: D'ailleurs ? Quoi ?",
       "end": 35,
       "start": 31
     },
     {
-      "content": "Quoi ?\nOn divorce.",
+      "content": "Quoi ? On divorce.",
       "end": 38,
       "start": 35
     },
     {
-      "content": "Gros mots.\nDeux.",
+      "content": "Gros mots. Deux.",
       "end": 39,
       "start": 38
     },
     {
-      "content": "Gros mots.\nPo.",
+      "content": "Gros mots. Po.",
       "end": 40,
       "start": 39
     },
     {
-      "content": "Gros mots.\nDeux.",
+      "content": "Gros mots. Deux.",
       "end": 40,
       "start": 40
     },
     {
-      "content": "Gros mots.\nDeux.",
+      "content": "Gros mots. Deux.",
       "end": 41,
       "start": 40
     },
     {
-      "content": "Gros mots.\nDeux.",
+      "content": "Gros mots. Deux.",
       "end": 42,
       "start": 41
     },
     {
-      "content": "Gros mots.\nYann.",
+      "content": "Gros mots. Yann.",
       "end": 43,
       "start": 42
     },
     {
-      "content": "Thème.\nGros mots.",
+      "content": "Thème. Gros mots.",
       "end": 44,
       "start": 43
     },
     {
-      "content": "Excusez Pourquoi ?\nJ'ai dit: Mon père a fait.",
+      "content": "Excusez Pourquoi ? J'ai dit: Mon père a fait.",
       "end": 47,
       "start": 44
     },
     {
-      "content": "J'ai fait: Mon père a fait.\nJ'ai fait.",
+      "content": "J'ai fait: Mon père a fait. J'ai fait.",
       "end": 49,
       "start": 47
     },
     {
-      "content": "Mon père a fait.\nJ'ai fait.",
+      "content": "Mon père a fait. J'ai fait.",
       "end": 52,
       "start": 49
     },
     {
-      "content": "Mon frère a fait.\nMon oncle a fait.",
+      "content": "Mon frère a fait. Mon oncle a fait.",
       "end": 55,
       "start": 52
     },
@@ -165,7 +155,7 @@
       "start": 55
     },
     {
-      "content": "Et ma mère a fait la gueule.\nJ'ai redemandé: Pourquoi ?",
+      "content": "Et ma mère a fait la gueule. J'ai redemandé: Pourquoi ?",
       "end": 59,
       "start": 57
     },
@@ -175,7 +165,7 @@
       "start": 59
     },
     {
-      "content": "Mon père a dit: Je l'aime,\nelle me comprend.",
+      "content": "Mon père a dit: Je l'aime, elle me comprend.",
       "end": 63,
       "start": 61
     },
@@ -185,24 +175,19 @@
       "start": 63
     },
     {
-      "content": "Tu te fais pas grosmo.\nExcusez-le.",
+      "content": "Tu te fais pas grosmo. Excusez-le.",
       "end": 66,
       "start": 64
     },
     {
-      "content": "La raison, c'était Manuela,\n22 ans, étudiante en LEA.",
+      "content": "La raison, c'était Manuela, 22 ans, étudiante en LEA.",
       "end": 69,
       "start": 67
     },
     {
-      "content": "C'était ma mère avec 35 ans\nde moins, 15 kilos de moins",
-      "end": 71,
-      "start": 69
-    },
-    {
-      "content": "et trois tailles de bonnet en plus.\nElle était bonne, bonne et bonne.",
+      "content": "C'était ma mère avec 35 ans de moins, 15 kilos de moins\net trois tailles de bonnet en plus. Elle était bonne, bonne et bonne.",
       "end": 75,
-      "start": 71
+      "start": 69
     },
     {
       "content": "Bon, j'y vais.",
@@ -230,7 +215,7 @@
       "start": 87
     },
     {
-      "content": "Bon, là, il y avait des gros\nmots, mais j'étais d'accord.",
+      "content": "Bon, là, il y avait des gros mots, mais j'étais d'accord.",
       "end": 91,
       "start": 89
     },

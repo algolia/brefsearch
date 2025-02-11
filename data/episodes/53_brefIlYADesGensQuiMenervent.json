@@ -15,14 +15,9 @@
       "start": 0
     },
     {
-      "content": "Bref, s'il y a un truc qui m'énerve encore\nplus que perdre mes clés, c'est les mecs",
-      "end": 3,
-      "start": 1
-    },
-    {
-      "content": "qui me donnent des conseils pourris.\nT'as regardé dans ton autre poche ?",
+      "content": "Bref, s'il y a un truc qui m'énerve encore plus que perdre mes clés, c'est les mecs\nqui me donnent des conseils pourris. T'as regardé dans ton autre poche ?",
       "end": 6,
-      "start": 3
+      "start": 1
     },
     {
       "content": "Et qui ont raison.",
@@ -30,37 +25,27 @@
       "start": 6
     },
     {
-      "content": "Je suis comme ça, il y a\ndes gens qui m'énervent.",
+      "content": "Je suis comme ça, il y a des gens qui m'énervent.",
       "end": 9,
       "start": 7
     },
     {
-      "content": "Il y a les gens, quand tu leur racontes\nun truc marrant, au lieu de rigoler,",
-      "end": 11,
+      "content": "Il y a les gens, quand tu leur racontes un truc marrant, au lieu de rigoler,\nils disent: Ouais, c'est moi.",
+      "end": 12,
       "start": 9
     },
     {
-      "content": "ils disent: Ouais, c'est moi.",
-      "end": 12,
-      "start": 11
-    },
-    {
-      "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent: Ouais, c'est moi.",
+      "content": "Et quand tu leur racontes un truc pas marrant, ils disent: Ouais, c'est moi.",
       "end": 15,
       "start": 12
     },
     {
-      "content": "Il y a les filles qui te parlent\npendant des heures de trucs",
-      "end": 16,
+      "content": "Il y a les filles qui te parlent pendant des heures de trucs\nqui t'intéressent pas.",
+      "end": 17,
       "start": 15
     },
     {
-      "content": "qui t'intéressent pas.",
-      "end": 17,
-      "start": 17
-    },
-    {
-      "content": "Il faudra un shampoing\naux extraits naturels de couettes.",
+      "content": "Il faudra un shampoing aux extraits naturels de couettes.",
       "end": 20,
       "start": 17
     },
@@ -75,44 +60,34 @@
       "start": 21
     },
     {
-      "content": "Les mecs qui ont toujours\nplus de classe que moi.",
+      "content": "Les mecs qui ont toujours plus de classe que moi.",
       "end": 24,
       "start": 22
     },
     {
-      "content": "Moi, franchement,\nça me fait un petit style.",
+      "content": "Moi, franchement, ça me fait un petit style.",
       "end": 25,
       "start": 24
     },
     {
-      "content": "Même avec des pompes de bowling.\nJe suis à Châtelet, gros bordel.",
+      "content": "Même avec des pompes de bowling. Je suis à Châtelet, gros bordel.",
       "end": 28,
       "start": 25
     },
     {
-      "content": "Les mecs qui te coupent\ndans ton histoire pour te Je vais",
-      "end": 29,
+      "content": "Les mecs qui te coupent dans ton histoire pour te Je vais\nte raconter une autre histoire. Non, on dit au Châtelet.",
+      "end": 32,
       "start": 28
     },
     {
-      "content": "te raconter une autre histoire.\nNon, on dit au Châtelet.",
-      "end": 32,
-      "start": 29
-    },
-    {
-      "content": "Excuse-moi de te reprendre.\nOn dit pas à Châtelet, on dit au Châtelet.",
+      "content": "Excuse-moi de te reprendre. On dit pas à Châtelet, on dit au Châtelet.",
       "end": 33,
       "start": 32
     },
     {
-      "content": "Parce qu'avant d'être une station\nde métro, le Châtelet, c'était",
-      "end": 36,
-      "start": 33
-    },
-    {
-      "content": "une petite forteresse qui a permis\naux Parisiens de résister face",
+      "content": "Parce qu'avant d'être une station de métro, le Châtelet, c'était\nune petite forteresse qui a permis aux Parisiens de résister face",
       "end": 38,
-      "start": 36
+      "start": 33
     },
     {
       "content": "à la grande invasion des Vikings en 885.",
@@ -120,7 +95,7 @@
       "start": 38
     },
     {
-      "content": "Vas-y, je t'en prie,\nc'est quoi ton histoire ?",
+      "content": "Vas-y, je t'en prie, c'est quoi ton histoire ?",
       "end": 42,
       "start": 40
     },
@@ -135,7 +110,7 @@
       "start": 46
     },
     {
-      "content": "Les mecs qui t'offrent un truc\nparce qu'ils l'ont déjà en double.",
+      "content": "Les mecs qui t'offrent un truc parce qu'ils l'ont déjà en double.",
       "end": 50,
       "start": 48
     },
@@ -145,12 +120,12 @@
       "start": 50
     },
     {
-      "content": "Du coup, leur fille à quelqu'un.\nTiens, c'est un super passe-papier.",
+      "content": "Du coup, leur fille à quelqu'un. Tiens, c'est un super passe-papier.",
       "end": 54,
       "start": 52
     },
     {
-      "content": "Et je suis sûr qu'il va\nle remettre à quelqu'un d'autre.",
+      "content": "Et je suis sûr qu'il va le remettre à quelqu'un d'autre.",
       "end": 55,
       "start": 54
     },
@@ -160,17 +135,12 @@
       "start": 55
     },
     {
-      "content": "Un autre truc qui m'énerve,\nc'est les mecs qui passent toute",
-      "end": 58,
+      "content": "Un autre truc qui m'énerve, c'est les mecs qui passent toute\nleur soirée au téléphone.",
+      "end": 59,
       "start": 56
     },
     {
-      "content": "leur soirée au téléphone.",
-      "end": 59,
-      "start": 58
-    },
-    {
-      "content": "Et les mecs qui se déguisent pas\ndans les soirées déguisées.",
+      "content": "Et les mecs qui se déguisent pas dans les soirées déguisées.",
       "end": 60,
       "start": 59
     },
@@ -195,17 +165,17 @@
       "start": 72
     },
     {
-      "content": "Les mecs qui font\ndes fausses petites annonces.",
+      "content": "Les mecs qui font des fausses petites annonces.",
       "end": 76,
       "start": 74
     },
     {
-      "content": "Vous aviez dit vélo tout terrain.\nC'est en tout terrain.",
+      "content": "Vous aviez dit vélo tout terrain. C'est en tout terrain.",
       "end": 78,
       "start": 76
     },
     {
-      "content": "Vous pouvez le mettre où vous voulez, dans\nla rue, à la campagne, même dans un lac.",
+      "content": "Vous pouvez le mettre où vous voulez, dans la rue, à la campagne, même dans un lac.",
       "end": 82,
       "start": 78
     },
@@ -215,12 +185,12 @@
       "start": 82
     },
     {
-      "content": "Les mecs qui bougent les lèvres en\nmême temps que toi pendant que tu parles.",
+      "content": "Les mecs qui bougent les lèvres en même temps que toi pendant que tu parles.",
       "end": 86,
       "start": 84
     },
     {
-      "content": "Quand vous partez aux États-Unis,\nje sais pas trop parce que...",
+      "content": "Quand vous partez aux États-Unis, je sais pas trop parce que...",
       "end": 89,
       "start": 86
     },
@@ -235,47 +205,42 @@
       "start": 91
     },
     {
-      "content": "Les mecs qui posent des questions\nqui ne servent à rien.",
+      "content": "Les mecs qui posent des questions qui ne servent à rien.",
       "end": 93,
       "start": 91
     },
     {
-      "content": "Dis donc, pourquoi est-ce\nque la fille monte dans le sucre ?",
+      "content": "Dis donc, pourquoi est-ce que la fille monte dans le sucre ?",
       "end": 96,
       "start": 93
     },
     {
-      "content": "Et les mecs qui ont la réponse.\nC'est de la capillarité.",
+      "content": "Et les mecs qui ont la réponse. C'est de la capillarité.",
       "end": 98,
       "start": 96
     },
     {
-      "content": "C'est des molécules d'eau\nqui sont attirées par les molécules",
-      "end": 100,
+      "content": "C'est des molécules d'eau qui sont attirées par les molécules\ndu sucre et ça remonte.",
+      "end": 102,
       "start": 98
     },
     {
-      "content": "du sucre et ça remonte.",
-      "end": 102,
-      "start": 100
-    },
-    {
-      "content": "Quand une fille me dit: J'ai 30 ans passé.\nMoi, j'entends.",
+      "content": "Quand une fille me dit: J'ai 30 ans passé. Moi, j'entends.",
       "end": 106,
       "start": 103
     },
     {
-      "content": "Je suis bientôt 40.\nEt ça m'énerve.",
+      "content": "Je suis bientôt 40. Et ça m'énerve.",
       "end": 108,
       "start": 106
     },
     {
-      "content": "Par contre, quand une fille me dit...\nJ'ai 40 ans.",
+      "content": "Par contre, quand une fille me dit... J'ai 40 ans.",
       "end": 109,
       "start": 108
     },
     {
-      "content": "Moi, j'entends.\nJe suis très bien.",
+      "content": "Moi, j'entends. Je suis très bien.",
       "end": 111,
       "start": 109
     },
@@ -285,22 +250,17 @@
       "start": 111
     },
     {
-      "content": "Ça m'énerve les gens qui disent:\nQuand ils n'ont rien à dire.",
+      "content": "Ça m'énerve les gens qui disent: Quand ils n'ont rien à dire.",
       "end": 115,
       "start": 112
     },
     {
-      "content": "Par contre, je ne sais pas\npourquoi, j'aime bien les gens",
-      "end": 117,
+      "content": "Par contre, je ne sais pas pourquoi, j'aime bien les gens\nqui disent: Bref, bref. Bref, il y a des gens qui m'énervent.",
+      "end": 124,
       "start": 115
     },
     {
-      "content": "qui disent: Bref, bref.\nBref, il y a des gens qui m'énervent.",
-      "end": 124,
-      "start": 117
-    },
-    {
-      "content": "Excusez-moi.\nOui.",
+      "content": "Excusez-moi. Oui.",
       "end": 127,
       "start": 126
     },
@@ -310,7 +270,7 @@
       "start": 127
     },
     {
-      "content": "Non, je suis le pape et j'attends ma sœur.\nBref !",
+      "content": "Non, je suis le pape et j'attends ma sœur. Bref !",
       "end": 130,
       "start": 128
     }

@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "Presque ce matin-là,\nje me suis réveillé à côté d'une fille.",
+      "content": "Presque ce matin-là, je me suis réveillé à côté d'une fille.",
       "end": 3,
       "start": 1
     },
@@ -20,7 +20,7 @@
       "start": 3
     },
     {
-      "content": "Je me suis demandé ce que je pouvais\nlui dire si elle se réveillait.",
+      "content": "Je me suis demandé ce que je pouvais lui dire si elle se réveillait.",
       "end": 7,
       "start": 4
     },
@@ -40,37 +40,27 @@
       "start": 14
     },
     {
-      "content": "J'ai donc décidé d'agir comme un homme\net de partir avant qu'elle se réveille.",
+      "content": "J'ai donc décidé d'agir comme un homme et de partir avant qu'elle se réveille.",
       "end": 20,
       "start": 17
     },
     {
-      "content": "Mais mon bras était coincé\nsous-sel, ce qui me laissait",
-      "end": 22,
+      "content": "Mais mon bras était coincé sous-sel, ce qui me laissait\ntrois possibilités: le retirer d'un coup.",
+      "end": 25,
       "start": 20
     },
     {
-      "content": "trois possibilités: le retirer d'un coup.",
-      "end": 25,
-      "start": 22
-    },
-    {
-      "content": "Non, le laisser là.\nImpossible.",
+      "content": "Non, le laisser là. Impossible.",
       "end": 31,
       "start": 25
     },
     {
-      "content": "Ou alors saisir mon téléphone,\nposer sur la table de chevet,",
-      "end": 33,
+      "content": "Ou alors saisir mon téléphone, poser sur la table de chevet,\nrégler l'alarme pendant 10 minutes, attendre tranquillement qu'il sonne.",
+      "end": 37,
       "start": 31
     },
     {
-      "content": "régler l'alarme pendant 10 minutes,\nattendre tranquillement qu'il sonne.",
-      "end": 37,
-      "start": 33
-    },
-    {
-      "content": "Décrocher, dire.\nAllô ?",
+      "content": "Décrocher, dire. Allô ?",
       "end": 39,
       "start": 37
     },
@@ -80,7 +70,7 @@
       "start": 39
     },
     {
-      "content": "Papa ?\nMaman ?",
+      "content": "Papa ? Maman ?",
       "end": 42,
       "start": 40
     },
@@ -110,24 +100,19 @@
       "start": 48
     },
     {
-      "content": "Du coup, j'ai dû enlever\nmon bras un centimètre par minute.",
+      "content": "Du coup, j'ai dû enlever mon bras un centimètre par minute.",
       "end": 52,
       "start": 49
     },
     {
-      "content": "Je me suis demandé dans combien de temps\nelle allait se réveiller.",
+      "content": "Je me suis demandé dans combien de temps elle allait se réveiller.",
       "end": 53,
       "start": 52
     },
     {
-      "content": "Vu la façon dont le soleil entrait\ndans la pièce par la fenêtre",
-      "end": 55,
-      "start": 53
-    },
-    {
-      "content": "qui tenait plein sud et vu qu'on était\nen octobre, on devait être environ 8h30.",
+      "content": "Vu la façon dont le soleil entrait dans la pièce par la fenêtre\nqui tenait plein sud et vu qu'on était en octobre, on devait être environ 8h30.",
       "end": 58,
-      "start": 55
+      "start": 53
     },
     {
       "content": "J'étais large.",
@@ -135,17 +120,17 @@
       "start": 58
     },
     {
-      "content": "Après, j'ai arrêté le\nréveil Il était 13h17.",
+      "content": "Après, j'ai arrêté le réveil Il était 13h17.",
       "end": 61,
       "start": 58
     },
     {
-      "content": "J'ai libéré mon bras.\nJe me suis levé.",
+      "content": "J'ai libéré mon bras. Je me suis levé.",
       "end": 64,
       "start": 61
     },
     {
-      "content": "Je me suis appuyé sur le mur.\nMon bras marchait plus.",
+      "content": "Je me suis appuyé sur le mur. Mon bras marchait plus.",
       "end": 65,
       "start": 64
     },
@@ -175,7 +160,7 @@
       "start": 74
     },
     {
-      "content": "J'ai marché sur un truc,\nc'était une capote.",
+      "content": "J'ai marché sur un truc, c'était une capote.",
       "end": 80,
       "start": 78
     },
@@ -195,7 +180,7 @@
       "start": 83
     },
     {
-      "content": "C'était un placard.\nJ'ai ouvert l'autre porte.",
+      "content": "C'était un placard. J'ai ouvert l'autre porte.",
       "end": 89,
       "start": 84
     },
@@ -210,22 +195,22 @@
       "start": 93
     },
     {
-      "content": "Bref, je me suis réveillé\nà côté d'une fille.",
+      "content": "Bref, je me suis réveillé à côté d'une fille.",
       "end": 99,
       "start": 95
     },
     {
-      "content": "J'ai rêvé que ton père t'appelait\nparce que ta mère avait un problème.",
+      "content": "J'ai rêvé que ton père t'appelait parce que ta mère avait un problème.",
       "end": 102,
       "start": 99
     },
     {
-      "content": "Et t'avais un bras en moins et tu avais\nun bras enais que t'étais gay.",
+      "content": "Et t'avais un bras en moins et tu avais un bras enais que t'étais gay.",
       "end": 107,
       "start": 104
     },
     {
-      "content": "Et après, il y avait une girafe.\nChut.",
+      "content": "Et après, il y avait une girafe. Chut.",
       "end": 113,
       "start": 107
     }

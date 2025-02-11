@@ -10,17 +10,17 @@
   },
   "lines": [
     {
-      "content": "Bref, il était 23h00.\nJ'étais resté tard au bureau.",
+      "content": "Bref, il était 23h00. J'étais resté tard au bureau.",
       "end": 3,
       "start": 2
     },
     {
-      "content": "La fille dont je suis amoureux\nm'a proposé un verre sur Facebook.",
+      "content": "La fille dont je suis amoureux m'a proposé un verre sur Facebook.",
       "end": 5,
       "start": 3
     },
     {
-      "content": "Kheiron m'a dit qu'elle voulait\nvoir le dernier Woody Allen.",
+      "content": "Kheiron m'a dit qu'elle voulait voir le dernier Woody Allen.",
       "end": 7,
       "start": 5
     },
@@ -30,37 +30,37 @@
       "start": 7
     },
     {
-      "content": "Ça te dirait d'aller voir\nle dernier Woody Allen ?",
+      "content": "Ça te dirait d'aller voir le dernier Woody Allen ?",
       "end": 9,
       "start": 7
     },
     {
-      "content": "Tu voulais y aller ?\nCool.",
+      "content": "Tu voulais y aller ? Cool.",
       "end": 10,
       "start": 9
     },
     {
-      "content": "Par contre, je te laisse,\nj'ai plus beaucoup de batterie.",
+      "content": "Par contre, je te laisse, j'ai plus beaucoup de batterie.",
       "end": 11,
       "start": 10
     },
     {
-      "content": "J'ai raccroché, j'y suis allé.\nMerci Kheiron.",
+      "content": "J'ai raccroché, j'y suis allé. Merci Kheiron.",
       "end": 13,
       "start": 11
     },
     {
-      "content": "J'ai pris l'ascenseur.\nL'ascenseur s'est bloqué.",
+      "content": "J'ai pris l'ascenseur. L'ascenseur s'est bloqué.",
       "end": 17,
       "start": 13
     },
     {
-      "content": "Je me suis dit que j'avais la poisse.\nJ'ai dit non, 16 fois.",
+      "content": "Je me suis dit que j'avais la poisse. J'ai dit non, 16 fois.",
       "end": 20,
       "start": 17
     },
     {
-      "content": "J'ai appuyé sur le bouton,\nça a pas marché.",
+      "content": "J'ai appuyé sur le bouton, ça a pas marché.",
       "end": 22,
       "start": 20
     },
@@ -70,22 +70,17 @@
       "start": 22
     },
     {
-      "content": "J'ai pris mon portable, il était déchargé.\nJ'ai plus beaucoup de batterie.",
+      "content": "J'ai pris mon portable, il était déchargé. J'ai plus beaucoup de batterie.",
       "end": 25,
       "start": 23
     },
     {
-      "content": "J'ai regardé s'il y avait\nune trappe au plafond comme",
-      "end": 27,
+      "content": "J'ai regardé s'il y avait une trappe au plafond comme\ndans les films, il y en avait pas.",
+      "end": 28,
       "start": 25
     },
     {
-      "content": "dans les films, il y en avait pas.",
-      "end": 28,
-      "start": 27
-    },
-    {
-      "content": "Je me suis dit qu'il\npouvait pas m'arriver pire.",
+      "content": "Je me suis dit qu'il pouvait pas m'arriver pire.",
       "end": 29,
       "start": 28
     },
@@ -95,7 +90,7 @@
       "start": 29
     },
     {
-      "content": "Au bout de 10 minutes,\nelle s'est rallumée.",
+      "content": "Au bout de 10 minutes, elle s'est rallumée.",
       "end": 32,
       "start": 31
     },
@@ -105,17 +100,12 @@
       "start": 32
     },
     {
-      "content": "Je pensais que quelqu'un allait\narriver, personne n'est arrivé,",
+      "content": "Je pensais que quelqu'un allait arriver, personne n'est arrivé,\nmais je n'avais plus envie.",
       "end": 35,
       "start": 33
     },
     {
-      "content": "mais je n'avais plus envie.",
-      "end": 35,
-      "start": 35
-    },
-    {
-      "content": "Je me suis assis, allongé,\nassis, allongé, assis, allongé.",
+      "content": "Je me suis assis, allongé, assis, allongé, assis, allongé.",
       "end": 38,
       "start": 35
     },
@@ -125,37 +115,37 @@
       "start": 38
     },
     {
-      "content": "À un moment, je crois\nque je suis devenu fou.",
+      "content": "À un moment, je crois que je suis devenu fou.",
       "end": 45,
       "start": 39
     },
     {
-      "content": "J'ai entendu une voix.\nMonsieur ?",
+      "content": "J'ai entendu une voix. Monsieur ?",
       "end": 47,
       "start": 45
     },
     {
-      "content": "J'ai dit: Allô, je suis bloqué ?\nIl m'entendait pas.",
+      "content": "J'ai dit: Allô, je suis bloqué ? Il m'entendait pas.",
       "end": 49,
       "start": 47
     },
     {
-      "content": "J'ai dit: Allô, je suis bloqué ?\nIl m'entendait pas.",
+      "content": "J'ai dit: Allô, je suis bloqué ? Il m'entendait pas.",
       "end": 50,
       "start": 49
     },
     {
-      "content": "J'ai dit: Je suis bloqué, connard.\nIl m'entendait.",
+      "content": "J'ai dit: Je suis bloqué, connard. Il m'entendait.",
       "end": 53,
       "start": 51
     },
     {
-      "content": "Il a dit: J'arrive dans trois heures.\nVous rigolez ?",
+      "content": "Il a dit: J'arrive dans trois heures. Vous rigolez ?",
       "end": 55,
       "start": 53
     },
     {
-      "content": "Il m'a dit: Non, connard.\nJ'en parlerai votre patron.",
+      "content": "Il m'a dit: Non, connard. J'en parlerai votre patron.",
       "end": 58,
       "start": 55
     },
@@ -165,17 +155,17 @@
       "start": 58
     },
     {
-      "content": "J'en parlerai pas à votre patron.\nDans trois heures.",
+      "content": "J'en parlerai pas à votre patron. Dans trois heures.",
       "end": 62,
       "start": 59
     },
     {
-      "content": "Connard.\nSoudain, j'ai eu envie de pisser.",
+      "content": "Connard. Soudain, j'ai eu envie de pisser.",
       "end": 65,
       "start": 62
     },
     {
-      "content": "Ce furent les trois plus longues\nheures de toute ma vie.",
+      "content": "Ce furent les trois plus longues heures de toute ma vie.",
       "end": 72,
       "start": 66
     },
@@ -185,7 +175,7 @@
       "start": 73
     },
     {
-      "content": "Il m'a fait comprendre Il m'a\nfait comprendre qu'il vous l'a pourboire.",
+      "content": "Il m'a fait comprendre Il m'a fait comprendre qu'il vous l'a pourboire.",
       "end": 75,
       "start": 74
     },
@@ -195,7 +185,7 @@
       "start": 75
     },
     {
-      "content": "Il a dit: Vous savez, il y a\nune caméra dans l'ascenseur.",
+      "content": "Il a dit: Vous savez, il y a une caméra dans l'ascenseur.",
       "end": 81,
       "start": 76
     },

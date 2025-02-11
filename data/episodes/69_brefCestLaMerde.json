@@ -10,154 +10,129 @@
   },
   "lines": [
     {
-      "content": "Bref, ça faisait huit mois\nque j'étais avec ma copine",
-      "end": 2,
+      "content": "Bref, ça faisait huit mois que j'étais avec ma copine\net ça se passait super bien.",
+      "end": 3,
       "start": 1
     },
     {
-      "content": "et ça se passait super bien.",
-      "end": 3,
-      "start": 2
-    },
-    {
-      "content": "Quand t'es amoureux, tous les matins, il\ny a une chorégraphie qui se met en place.",
+      "content": "Quand t'es amoureux, tous les matins, il y a une chorégraphie qui se met en place.",
       "end": 6,
       "start": 3
     },
     {
-      "content": "T'as bien dormi ?\nOuais.",
+      "content": "T'as bien dormi ? Ouais.",
       "end": 7,
       "start": 6
     },
     {
-      "content": "Ils sont où les Chocapic ?\nJe sais pas.",
+      "content": "Ils sont où les Chocapic ? Je sais pas.",
       "end": 10,
       "start": 7
     },
     {
-      "content": "J'ai ronflé ?\nNon.",
+      "content": "J'ai ronflé ? Non.",
       "end": 11,
       "start": 10
     },
     {
-      "content": "Tu m'aimes ?\nGrave.",
+      "content": "Tu m'aimes ? Grave.",
       "end": 12,
       "start": 11
     },
     {
-      "content": "Autant que moi.\nTant mieux.",
+      "content": "Autant que moi. Tant mieux.",
       "end": 14,
       "start": 12
     },
     {
-      "content": "Bon, j'y vais.\nIls me baisent.",
+      "content": "Bon, j'y vais. Ils me baisent.",
       "end": 17,
       "start": 14
     },
     {
-      "content": "Et puis, un jour, tu sais pas\npourquoi, tout se décale.",
+      "content": "Et puis, un jour, tu sais pas pourquoi, tout se décale.",
       "end": 23,
       "start": 19
     },
     {
-      "content": "T'as bien dormi ?\nNon.",
+      "content": "T'as bien dormi ? Non.",
       "end": 25,
       "start": 23
     },
     {
-      "content": "Tu m'aimes ?\nJe sais pas.",
+      "content": "Tu m'aimes ? Je sais pas.",
       "end": 27,
       "start": 25
     },
     {
-      "content": "J'ai ronflé ?\nOu autant que moi.",
+      "content": "J'ai ronflé ? Ou autant que moi.",
       "end": 28,
       "start": 27
     },
     {
-      "content": "Grave.\nBon, J'y vais.",
+      "content": "Grave. Bon, J'y vais.",
       "end": 30,
       "start": 28
     },
     {
-      "content": "Tant mieux.\nEt mon bisou ?",
+      "content": "Tant mieux. Et mon bisou ?",
       "end": 34,
       "start": 30
     },
     {
-      "content": "C'était plus comme avant.\nC'était la merde.",
+      "content": "C'était plus comme avant. C'était la merde.",
       "end": 36,
       "start": 35
     },
     {
-      "content": "Je me demandais si j'étais\nencore amoureux d'elle.",
+      "content": "Je me demandais si j'étais encore amoureux d'elle.",
       "end": 38,
       "start": 36
     },
     {
-      "content": "Du coup, j'ai demandé à mes potes\nsi j'étais encore amoureux d'elle.",
+      "content": "Du coup, j'ai demandé à mes potes si j'étais encore amoureux d'elle.",
       "end": 40,
       "start": 38
     },
     {
-      "content": "Ils m'ont répondu: Carrément.\nCarrément ?",
+      "content": "Ils m'ont répondu: Carrément. Carrément ?",
       "end": 42,
       "start": 40
     },
     {
-      "content": "Je me disais que si je me posais\nla question, c'était mauvais signe.",
+      "content": "Je me disais que si je me posais la question, c'était mauvais signe.",
       "end": 45,
       "start": 42
     },
     {
-      "content": "Je me demandais si le verre était à moitié\nplein ou à moitié vide, mais le problème,",
-      "end": 47,
+      "content": "Je me demandais si le verre était à moitié plein ou à moitié vide, mais le problème,\nc'est qu'il l'était à moitié.",
+      "end": 48,
       "start": 45
     },
     {
-      "content": "c'est qu'il l'était à moitié.",
-      "end": 48,
-      "start": 47
-    },
-    {
-      "content": "Charles m'a dit: Si tu te poses\nla question, c'est que tu t'es à elle.",
+      "content": "Charles m'a dit: Si tu te poses la question, c'est que tu t'es à elle.",
       "end": 50,
       "start": 48
     },
     {
-      "content": "Je tenais à elle, comme je tenais à ma\nvieille paire de pommes que je ne m'étais",
-      "end": 52,
+      "content": "Je tenais à elle, comme je tenais à ma vieille paire de pommes que je ne m'étais\nplus, mes DVD que je ne regardais jamais et ma Nintendo qui prenait la poussière.",
+      "end": 55,
       "start": 50
     },
     {
-      "content": "plus, mes DVD que je ne regardais jamais\net ma Nintendo qui prenait la poussière.",
-      "end": 55,
-      "start": 52
-    },
-    {
-      "content": "Et puis mon frère a dit: Pour toi,\nla gueule ce soir, tu auras",
-      "end": 56,
+      "content": "Et puis mon frère a dit: Pour toi, la gueule ce soir, tu auras\nta réponse dans le matin. Son copain Marc a dit: Oh oui.",
+      "end": 60,
       "start": 55
     },
     {
-      "content": "ta réponse dans le matin.\nSon copain Marc a dit: Oh oui.",
-      "end": 60,
-      "start": 56
-    },
-    {
-      "content": "Du coup, j'ai appelé le spécialiste\nde ce genre de situation.",
+      "content": "Du coup, j'ai appelé le spécialiste de ce genre de situation.",
       "end": 62,
       "start": 60
     },
     {
-      "content": "Ben, dis-moi, tu te bourres la gueule\nquel soir pour oublier tes problèmes",
-      "end": 65,
-      "start": 62
-    },
-    {
-      "content": "avec ta meuf cette semaine ?",
+      "content": "Ben, dis-moi, tu te bourres la gueule quel soir pour oublier tes problèmes\navec ta meuf cette semaine ?",
       "end": 66,
-      "start": 65
+      "start": 62
     },
     {
       "content": "Ce soir ?",
@@ -180,12 +155,12 @@
       "start": 70
     },
     {
-      "content": "Le matin, mes questions étaient\nparties, mes sentiments étaient revenus.",
+      "content": "Le matin, mes questions étaient parties, mes sentiments étaient revenus.",
       "end": 75,
       "start": 71
     },
     {
-      "content": "J'avais ma réponse.\nLa chorégraphie pouvait reprendre.",
+      "content": "J'avais ma réponse. La chorégraphie pouvait reprendre.",
       "end": 77,
       "start": 75
     },
@@ -195,7 +170,7 @@
       "start": 77
     },
     {
-      "content": "Ouais.\nMais c'était pas elle.",
+      "content": "Ouais. Mais c'était pas elle.",
       "end": 83,
       "start": 79
     },
@@ -205,7 +180,7 @@
       "start": 83
     },
     {
-      "content": "Mon verre, il est complètement vide.\nArrête.",
+      "content": "Mon verre, il est complètement vide. Arrête.",
       "end": 90,
       "start": 85
     },

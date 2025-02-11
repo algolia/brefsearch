@@ -10,22 +10,22 @@
   },
   "lines": [
     {
-      "content": "C'est l'heure.\nOn divorce.",
+      "content": "C'est l'heure. On divorce.",
       "end": 1,
       "start": 0
     },
     {
-      "content": "À partir du jour où mon père a quitté\nma mère, il a tout fait pour être jeune.",
+      "content": "À partir du jour où mon père a quitté ma mère, il a tout fait pour être jeune.",
       "end": 4,
       "start": 1
     },
     {
-      "content": "Il mettait des slim, des baskets\net même des slim avec des baskets.",
+      "content": "Il mettait des slim, des baskets et même des slim avec des baskets.",
       "end": 7,
       "start": 4
     },
     {
-      "content": "Il faisait comme s'il aimait des groupes\ndont il arrivait pas à prononcer le nom.",
+      "content": "Il faisait comme s'il aimait des groupes dont il arrivait pas à prononcer le nom.",
       "end": 9,
       "start": 7
     },
@@ -40,17 +40,12 @@
       "start": 11
     },
     {
-      "content": "Il s'était créé un compte Facebook,\navait ajouté mes copines en amis",
-      "end": 15,
+      "content": "Il s'était créé un compte Facebook, avait ajouté mes copines en amis\net les draguait dans Farmville.",
+      "end": 16,
       "start": 13
     },
     {
-      "content": "et les draguait dans Farmville.",
-      "end": 16,
-      "start": 15
-    },
-    {
-      "content": "Il avait un iPad qu'il utilisait\nà 1% de ses capacités.",
+      "content": "Il avait un iPad qu'il utilisait à 1% de ses capacités.",
       "end": 18,
       "start": 16
     },
@@ -60,22 +55,22 @@
       "start": 18
     },
     {
-      "content": "Quand je suis venu vivre\nchez lui, c'est devenu invivable.",
+      "content": "Quand je suis venu vivre chez lui, c'est devenu invivable.",
       "end": 22,
       "start": 19
     },
     {
-      "content": "Dès que je m'absentais,\nil était chargé des virus: porno.",
+      "content": "Dès que je m'absentais, il était chargé des virus: porno.",
       "end": 24,
       "start": 22
     },
     {
-      "content": "Exe, hicboops.\nExe, job.",
+      "content": "Exe, hicboops. Exe, job.",
       "end": 25,
       "start": 24
     },
     {
-      "content": "Exe, et il niait en bloc.\nHistorique ?",
+      "content": "Exe, et il niait en bloc. Historique ?",
       "end": 26,
       "start": 25
     },
@@ -85,7 +80,7 @@
       "start": 26
     },
     {
-      "content": "Quand je partais, il me disait: Tu vas en\nQuand je revenais, il me disait: Alors ?",
+      "content": "Quand je partais, il me disait: Tu vas en Quand je revenais, il me disait: Alors ?",
       "end": 32,
       "start": 28
     },
@@ -95,7 +90,7 @@
       "start": 32
     },
     {
-      "content": "Il essayait d'utiliser des expressions\nde John, mais il y arrivait pas.",
+      "content": "Il essayait d'utiliser des expressions de John, mais il y arrivait pas.",
       "end": 35,
       "start": 33
     },
@@ -110,12 +105,12 @@
       "start": 38
     },
     {
-      "content": "Il faisait du charme aux serveuses\ndans les petits restaurants.",
+      "content": "Il faisait du charme aux serveuses dans les petits restaurants.",
       "end": 42,
       "start": 40
     },
     {
-      "content": "Il faisait son regard: Je suis\nun homme et j'ai une voiture.",
+      "content": "Il faisait son regard: Je suis un homme et j'ai une voiture.",
       "end": 45,
       "start": 42
     },
@@ -125,12 +120,12 @@
       "start": 45
     },
     {
-      "content": "Parfois, ça payait,\nmais ça lui coûtait cher.",
+      "content": "Parfois, ça payait, mais ça lui coûtait cher.",
       "end": 47,
       "start": 46
     },
     {
-      "content": "Oui, je comprends que tu\naies envie de parler.",
+      "content": "Oui, je comprends que tu aies envie de parler.",
       "end": 48,
       "start": 47
     },
@@ -145,12 +140,12 @@
       "start": 49
     },
     {
-      "content": "Il m'a dit qu'il avait\nun truc plus important à faire.",
+      "content": "Il m'a dit qu'il avait un truc plus important à faire.",
       "end": 53,
       "start": 51
     },
     {
-      "content": "Ça puait le mensonge.\nÀ tous les coups, il allait voir une meuf.",
+      "content": "Ça puait le mensonge. À tous les coups, il allait voir une meuf.",
       "end": 54,
       "start": 53
     },
@@ -160,12 +155,12 @@
       "start": 54
     },
     {
-      "content": "Il avait réservé une chambre d'hôtel\npour deux en plein après-midi.",
+      "content": "Il avait réservé une chambre d'hôtel pour deux en plein après-midi.",
       "end": 57,
       "start": 55
     },
     {
-      "content": "Ça m'a énervé.\nJe l'ai attendu.",
+      "content": "Ça m'a énervé. Je l'ai attendu.",
       "end": 59,
       "start": 57
     },
@@ -180,27 +175,22 @@
       "start": 60
     },
     {
-      "content": "Qu'est-ce que tu fous là, toi ?\nOn s'est engueulé.",
+      "content": "Qu'est-ce que tu fous là, toi ? On s'est engueulé.",
       "end": 64,
       "start": 62
     },
     {
-      "content": "À un moment, j'ai dit: Tu as quitté\nmaman pour des petites jeunes",
-      "end": 67,
+      "content": "À un moment, j'ai dit: Tu as quitté maman pour des petites jeunes\nqui emballent qu'à ton argent. Il a dit: Ça n'a rien à voir avec le fric.",
+      "end": 69,
       "start": 64
     },
     {
-      "content": "qui emballent qu'à ton argent.\nIl a dit: Ça n'a rien à voir avec le fric.",
-      "end": 69,
-      "start": 67
-    },
-    {
-      "content": "Le récépioniste a dit: Votre chambre\nhabituelle, monsieur ?",
+      "content": "Le récépioniste a dit: Votre chambre habituelle, monsieur ?",
       "end": 72,
       "start": 69
     },
     {
-      "content": "J'ai dit: Tu sais\nque maman t'aime toujours ?",
+      "content": "J'ai dit: Tu sais que maman t'aime toujours ?",
       "end": 76,
       "start": 72
     },
@@ -210,37 +200,27 @@
       "start": 76
     },
     {
-      "content": "Quand j'ai rencontré ta mère,\non a couru sous la pluie.",
+      "content": "Quand j'ai rencontré ta mère, on a couru sous la pluie.",
       "end": 80,
       "start": 77
     },
     {
-      "content": "Je lui ai offert des trucs de merde\nqui avaient plus de valeur que ce que",
-      "end": 83,
+      "content": "Je lui ai offert des trucs de merde qui avaient plus de valeur que ce que\nj'ai pu lui offrir avec de l'argent.",
+      "end": 84,
       "start": 80
     },
     {
-      "content": "j'ai pu lui offrir avec de l'argent.",
-      "end": 84,
-      "start": 83
-    },
-    {
-      "content": "Quand on allait nulle part\nen chantant à tu t'aides",
-      "end": 86,
+      "content": "Quand on allait nulle part en chantant à tu t'aides\ndans ma vieille voiture cabossée.",
+      "end": 87,
       "start": 84
     },
     {
-      "content": "dans ma vieille voiture cabossée.",
-      "end": 87,
-      "start": 86
-    },
-    {
-      "content": "Une fois, j'ai écrit: Je t'aime\npar terre tous les trois mètres.",
+      "content": "Une fois, j'ai écrit: Je t'aime par terre tous les trois mètres.",
       "end": 89,
       "start": 87
     },
     {
-      "content": "De chez elle à son arrêt de bus,\ncomme ça, pour qu'elle sourie un matin.",
+      "content": "De chez elle à son arrêt de bus, comme ça, pour qu'elle sourie un matin.",
       "end": 92,
       "start": 89
     },
@@ -255,7 +235,7 @@
       "start": 95
     },
     {
-      "content": "La fille qui m'attend là-haut,\nc'est ça mon truc important.",
+      "content": "La fille qui m'attend là-haut, c'est ça mon truc important.",
       "end": 100,
       "start": 97
     },
@@ -265,7 +245,7 @@
       "start": 100
     },
     {
-      "content": "J'ai rien dit, je l'ai\nregardé, il m'a regardé.",
+      "content": "J'ai rien dit, je l'ai regardé, il m'a regardé.",
       "end": 105,
       "start": 104
     },
@@ -275,7 +255,7 @@
       "start": 105
     },
     {
-      "content": "Les deux Allemands ont\ndit: Was ist denn los ?",
+      "content": "Les deux Allemands ont dit: Was ist denn los ?",
       "end": 108,
       "start": 107
     },

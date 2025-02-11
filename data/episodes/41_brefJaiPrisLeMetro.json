@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "Bref, dans la vie,\nj'étais obligé de manger.",
+      "content": "Bref, dans la vie, j'étais obligé de manger.",
       "end": 6,
       "start": 4
     },
@@ -20,17 +20,17 @@
       "start": 6
     },
     {
-      "content": "Du coup, j'étais obligé de prendre\nle métro tous les matins.",
+      "content": "Du coup, j'étais obligé de prendre le métro tous les matins.",
       "end": 9,
       "start": 7
     },
     {
-      "content": "Le métro, c'est blanc, ça sent mauvais.\nIl y a du carrelage.",
+      "content": "Le métro, c'est blanc, ça sent mauvais. Il y a du carrelage.",
       "end": 12,
       "start": 9
     },
     {
-      "content": "En gros, c'est comme 215 kilomètres\nde chiottes en dessous de Paris.",
+      "content": "En gros, c'est comme 215 kilomètres de chiottes en dessous de Paris.",
       "end": 14,
       "start": 12
     },
@@ -45,17 +45,12 @@
       "start": 16
     },
     {
-      "content": "Dans le métro, il y a\ndes bancs spécialement conçus",
-      "end": 20,
+      "content": "Dans le métro, il y a des bancs spécialement conçus\npar des mecs dans des bureaux pour qu'on puisse pas s'allonger dessus.",
+      "end": 24,
       "start": 19
     },
     {
-      "content": "par des mecs dans des bureaux\npour qu'on puisse pas s'allonger dessus.",
-      "end": 24,
-      "start": 20
-    },
-    {
-      "content": "Parce qu'avant, les pauvres gens\ndormaient dans le métro.",
+      "content": "Parce qu'avant, les pauvres gens dormaient dans le métro.",
       "end": 26,
       "start": 24
     },
@@ -75,42 +70,32 @@
       "start": 29
     },
     {
-      "content": "Pour le goût, un jour,\nj'ai vu un mec faire ça.",
+      "content": "Pour le goût, un jour, j'ai vu un mec faire ça.",
       "end": 36,
       "start": 32
     },
     {
-      "content": "Dans le métro, il y a des pubs\navec des mecs super contents de parler",
-      "end": 39,
+      "content": "Dans le métro, il y a des pubs avec des mecs super contents de parler\nanglais, des enfants super heureux de faire leurs devoirs et des familles",
+      "end": 41,
       "start": 36
     },
     {
-      "content": "anglais, des enfants super heureux\nde faire leurs devoirs et des familles",
-      "end": 41,
-      "start": 39
-    },
-    {
-      "content": "super contentes de s'endetter\n20 ans pour une machine à laver.",
+      "content": "super contentes de s'endetter 20 ans pour une machine à laver.",
       "end": 43,
       "start": 41
     },
     {
-      "content": "Sur ma ligne, il y a un mec,\nça fait six mois qui s'est fait virer",
+      "content": "Sur ma ligne, il y a un mec, ça fait six mois qui s'est fait virer\nla semaine dernière.",
       "end": 46,
       "start": 43
     },
     {
-      "content": "la semaine dernière.",
-      "end": 46,
-      "start": 46
-    },
-    {
-      "content": "Ayant perdu mon emploi\nla semaine dernière.",
+      "content": "Ayant perdu mon emploi la semaine dernière.",
       "end": 48,
       "start": 46
     },
     {
-      "content": "Et comme tous les mendiants,\nil avait la même mélodie.",
+      "content": "Et comme tous les mendiants, il avait la même mélodie.",
       "end": 49,
       "start": 48
     },
@@ -125,24 +110,14 @@
       "start": 51
     },
     {
-      "content": "Je me suis dit que ça ferait",
-      "end": 56,
+      "content": "Je me suis dit que ça ferait\nun super tube de l'été.",
+      "end": 60,
       "start": 52
     },
     {
-      "content": "un super tube de l'été.",
-      "end": 60,
-      "start": 56
-    },
-    {
-      "content": "Quand je m'ennuie, je m'amuse à bailler",
-      "end": 66,
-      "start": 60
-    },
-    {
-      "content": "et compter les gens que je fais bailler.",
+      "content": "Quand je m'ennuie, je m'amuse à bailler\net compter les gens que je fais bailler.",
       "end": 68,
-      "start": 66
+      "start": 60
     },
     {
       "content": "Un, deux, trois, quatre, cinq, six, sept.",
@@ -155,7 +130,7 @@
       "start": 75
     },
     {
-      "content": "Puis, parfois, le wagon s'arrête\nau milieu de nulle part, alors on attend.",
+      "content": "Puis, parfois, le wagon s'arrête au milieu de nulle part, alors on attend.",
       "end": 79,
       "start": 75
     },
@@ -165,7 +140,7 @@
       "start": 80
     },
     {
-      "content": "Merci d'attendre.\nAu cas où...",
+      "content": "Merci d'attendre. Au cas où...",
       "end": 85,
       "start": 82
     },

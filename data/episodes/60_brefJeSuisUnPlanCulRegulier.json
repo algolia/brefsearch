@@ -10,14 +10,9 @@
   },
   "lines": [
     {
-      "content": "Bref, j'avais beau avoir\ndu mal à oublier mon ex,",
-      "end": 4,
-      "start": 2
-    },
-    {
-      "content": "ça m'empêchait pas de voir ce mec.",
+      "content": "Bref, j'avais beau avoir du mal à oublier mon ex,\nça m'empêchait pas de voir ce mec.",
       "end": 6,
-      "start": 4
+      "start": 2
     },
     {
       "content": "Ce mec, c'est un garçon que je vois.",
@@ -25,14 +20,9 @@
       "start": 6
     },
     {
-      "content": "Mais comme j'ai pas envie\nde retomber amoureuse, j'hésite",
-      "end": 10,
-      "start": 8
-    },
-    {
-      "content": "pendant trois mois, je finis par craquer,\non couche ensemble et je repars.",
+      "content": "Mais comme j'ai pas envie de retomber amoureuse, j'hésite\npendant trois mois, je finis par craquer, on couche ensemble et je repars.",
       "end": 13,
-      "start": 10
+      "start": 8
     },
     {
       "content": "Des fois, je reste.",
@@ -40,7 +30,7 @@
       "start": 13
     },
     {
-      "content": "Je sais pas pourquoi,\nmais chez lui, je dors bien.",
+      "content": "Je sais pas pourquoi, mais chez lui, je dors bien.",
       "end": 17,
       "start": 15
     },
@@ -50,7 +40,7 @@
       "start": 17
     },
     {
-      "content": "En fait, il y a que chez lui\nque j'arrive à dormir.",
+      "content": "En fait, il y a que chez lui que j'arrive à dormir.",
       "end": 20,
       "start": 18
     },
@@ -70,14 +60,9 @@
       "start": 24
     },
     {
-      "content": "Des fois, j'ai envie de lui dire\nque je l'aime, alors je lui dis:",
-      "end": 28,
-      "start": 26
-    },
-    {
-      "content": "Je t'aime pas,Ouais, c'est cool.\nJe crois qu'il s'en fout.",
+      "content": "Des fois, j'ai envie de lui dire que je l'aime, alors je lui dis:\nJe t'aime pas,Ouais, c'est cool. Je crois qu'il s'en fout.",
       "end": 32,
-      "start": 28
+      "start": 26
     },
     {
       "content": "Du coup, j'essaie de lui dire autrement.",
@@ -100,17 +85,17 @@
       "start": 37
     },
     {
-      "content": "J'essaie de marquer des points,\nmais j'y arrive pas.",
+      "content": "J'essaie de marquer des points, mais j'y arrive pas.",
       "end": 40,
       "start": 39
     },
     {
-      "content": "Quand c'est facile pour gagner,\nj'appuie sur tous les boutons.",
+      "content": "Quand c'est facile pour gagner, j'appuie sur tous les boutons.",
       "end": 43,
       "start": 40
     },
     {
-      "content": "Pas dans ta face.\nPutain, t'es qu'un con.",
+      "content": "Pas dans ta face. Putain, t'es qu'un con.",
       "end": 46,
       "start": 43
     },
@@ -120,17 +105,17 @@
       "start": 46
     },
     {
-      "content": "Je mange ce que je veux\net il me fait pas de remarques.",
+      "content": "Je mange ce que je veux et il me fait pas de remarques.",
       "end": 49,
       "start": 46
     },
     {
-      "content": "Des fois, j'ai l'impression\nqu'il y a que nous deux sur Terre.",
+      "content": "Des fois, j'ai l'impression qu'il y a que nous deux sur Terre.",
       "end": 51,
       "start": 49
     },
     {
-      "content": "Vas-y, je t'emmerde, toi.\nNon, c'est pas grave.",
+      "content": "Vas-y, je t'emmerde, toi. Non, c'est pas grave.",
       "end": 54,
       "start": 51
     },
@@ -155,7 +140,7 @@
       "start": 60
     },
     {
-      "content": "Un jour, Marie m'a dit: Dis-lui que tu es\nenceinte, tu verras si je t'aime.",
+      "content": "Un jour, Marie m'a dit: Dis-lui que tu es enceinte, tu verras si je t'aime.",
       "end": 68,
       "start": 62
     },
@@ -165,12 +150,12 @@
       "start": 68
     },
     {
-      "content": "Il a dit: De qui ?\nJe lui ai dit: T'es qu'un con.",
+      "content": "Il a dit: De qui ? Je lui ai dit: T'es qu'un con.",
       "end": 72,
       "start": 70
     },
     {
-      "content": "Il a dit: Tu vas faire quoi ?\nJe lui ai dit: Je déconne.",
+      "content": "Il a dit: Tu vas faire quoi ? Je lui ai dit: Je déconne.",
       "end": 74,
       "start": 72
     },
@@ -185,7 +170,7 @@
       "start": 76
     },
     {
-      "content": "J'ai voulu le quitter,\nmais on n'était pas ensemble.",
+      "content": "J'ai voulu le quitter, mais on n'était pas ensemble.",
       "end": 80,
       "start": 77
     },

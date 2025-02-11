@@ -10,34 +10,24 @@
   },
   "lines": [
     {
-      "content": "Bref, c'était un soir\noù je me sentais fièvreux.",
+      "content": "Bref, c'était un soir où je me sentais fièvreux.",
       "end": 3,
       "start": 1
     },
     {
-      "content": "J'avais du mal à tenir debout mon cœur.\nJ'avais du mal à tenir debout mon cœur.",
+      "content": "J'avais du mal à tenir debout mon cœur. J'avais du mal à tenir debout mon cœur.",
       "end": 4,
       "start": 3
     },
     {
-      "content": "Je me suis dit qu'à tous\nles coups, c'était le steak haché",
-      "end": 5,
+      "content": "Je me suis dit qu'à tous les coups, c'était le steak haché\nque j'avais mangé dans le bar où j'ai bu douze shots de téquila.",
+      "end": 7,
       "start": 4
     },
     {
-      "content": "que j'avais mangé dans le bar\noù j'ai bu douze shots de téquila.",
-      "end": 7,
-      "start": 5
-    },
-    {
-      "content": "Je suis tombé direct",
-      "end": 15,
-      "start": 7
-    },
-    {
-      "content": "sur mon lit et j'ai dormi.",
+      "content": "Je suis tombé direct\nsur mon lit et j'ai dormi.",
       "end": 17,
-      "start": 15
+      "start": 7
     },
     {
       "content": "Je suis bloqué, connard.",
@@ -45,57 +35,47 @@
       "start": 17
     },
     {
-      "content": "Quand j'ai rouvert les yeux,\nje me suis retrouvé dans un ascenseur",
-      "end": 19,
+      "content": "Quand j'ai rouvert les yeux, je me suis retrouvé dans un ascenseur\navec un mec en porte-jarretelles.",
+      "end": 21,
       "start": 18
     },
     {
-      "content": "avec un mec en porte-jarretelles.",
-      "end": 21,
-      "start": 19
-    },
-    {
-      "content": "J'ai essayé de le tuer\n27 fois, il voulait pas mourir.",
+      "content": "J'ai essayé de le tuer 27 fois, il voulait pas mourir.",
       "end": 29,
       "start": 21
     },
     {
-      "content": "Je me suis mis à courir\ndans un couloir sans fin en canard.",
+      "content": "Je me suis mis à courir dans un couloir sans fin en canard.",
       "end": 31,
       "start": 29
     },
     {
-      "content": "À un moment, j'ai eu l'impression qu'on\nme filmait, mais quand j'ai voulu arrêter",
-      "end": 33,
+      "content": "À un moment, j'ai eu l'impression qu'on me filmait, mais quand j'ai voulu arrêter\nla caméra, il y a eu un générique.",
+      "end": 34,
       "start": 31
     },
     {
-      "content": "la caméra, il y a eu un générique.",
-      "end": 34,
-      "start": 33
-    },
-    {
-      "content": "Tout d'un coup, j'étais\nà mon ancien travail.",
+      "content": "Tout d'un coup, j'étais à mon ancien travail.",
       "end": 40,
       "start": 34
     },
     {
-      "content": "Il y avait cette fille dont je suis\namoureux qui photocopiait un chinois.",
+      "content": "Il y avait cette fille dont je suis amoureux qui photocopiait un chinois.",
       "end": 43,
       "start": 40
     },
     {
-      "content": "J'essayais de parler à cette fille, mais\nelle soufflait sa s'il y aurait sur moi.",
+      "content": "J'essayais de parler à cette fille, mais elle soufflait sa s'il y aurait sur moi.",
       "end": 45,
       "start": 43
     },
     {
-      "content": "Quand le nuage s'est dissipé,\nj'étais dans un supermarché.",
+      "content": "Quand le nuage s'est dissipé, j'étais dans un supermarché.",
       "end": 48,
       "start": 45
     },
     {
-      "content": "Et là, je sais pas pourquoi, je me suis\ndit qu'il fallait que j'achète des pâtes.",
+      "content": "Et là, je sais pas pourquoi, je me suis dit qu'il fallait que j'achète des pâtes.",
       "end": 51,
       "start": 48
     },
@@ -105,12 +85,12 @@
       "start": 51
     },
     {
-      "content": "Non, c'est pas celle de la merde.\nJ'ai reposé le paquet.",
+      "content": "Non, c'est pas celle de la merde. J'ai reposé le paquet.",
       "end": 55,
       "start": 53
     },
     {
-      "content": "Il y a cette fille\nqui s'est bien me parler.",
+      "content": "Il y a cette fille qui s'est bien me parler.",
       "end": 56,
       "start": 55
     },
@@ -120,7 +100,7 @@
       "start": 56
     },
     {
-      "content": "J'ai voulu lui dire,\nmais j'arrivais pas à parler.",
+      "content": "J'ai voulu lui dire, mais j'arrivais pas à parler.",
       "end": 59,
       "start": 57
     },
@@ -135,27 +115,22 @@
       "start": 61
     },
     {
-      "content": "J'ai reçu un texto de Kheiron\nqui me disait: C'est qui ces deux meufs ?",
+      "content": "J'ai reçu un texto de Kheiron qui me disait: C'est qui ces deux meufs ?",
       "end": 69,
       "start": 67
     },
     {
-      "content": "J'étais dans la pub Energy 3000\navec le costard que je mets",
-      "end": 71,
+      "content": "J'étais dans la pub Energy 3000 avec le costard que je mets\nau mariage, aux enterrements et aux entretiens d'embauche.",
+      "end": 74,
       "start": 69
     },
     {
-      "content": "au mariage, aux enterrements\net aux entretiens d'embauche.",
-      "end": 74,
-      "start": 71
-    },
-    {
-      "content": "J'ai regardé les filles,\nmais elles ont disparu.",
+      "content": "J'ai regardé les filles, mais elles ont disparu.",
       "end": 76,
       "start": 74
     },
     {
-      "content": "Et là, mon frère est arrivé et m'a dit\nque mon costume était bizarre.",
+      "content": "Et là, mon frère est arrivé et m'a dit que mon costume était bizarre.",
       "end": 78,
       "start": 76
     },
@@ -165,24 +140,19 @@
       "start": 78
     },
     {
-      "content": "Quand j'ai relevé la tête,\nj'étais en haut du Mont Blanc.",
+      "content": "Quand j'ai relevé la tête, j'étais en haut du Mont Blanc.",
       "end": 83,
       "start": 80
     },
     {
-      "content": "Et il y avait moi, à 15 ans,\nqui me disais que j'étais nul, nul, nul.",
+      "content": "Et il y avait moi, à 15 ans, qui me disais que j'étais nul, nul, nul.",
       "end": 86,
       "start": 83
     },
     {
-      "content": "Je me suis réveillé dans ma chambre,\nil y avait l'homme en porte-jarretelles",
-      "end": 88,
-      "start": 86
-    },
-    {
-      "content": "qui dansait avec mon père.\nJe n'étais pas réveillé.",
+      "content": "Je me suis réveillé dans ma chambre, il y avait l'homme en porte-jarretelles\nqui dansait avec mon père. Je n'étais pas réveillé.",
       "end": 90,
-      "start": 88
+      "start": 86
     },
     {
       "content": "Je me suis pincé, ça m'a fait mal.",
@@ -195,7 +165,7 @@
       "start": 92
     },
     {
-      "content": "J'ai disparu et ma voix\nest devenue celle de Bruce Willis.",
+      "content": "J'ai disparu et ma voix est devenue celle de Bruce Willis.",
       "end": 97,
       "start": 94
     },
@@ -215,7 +185,7 @@
       "start": 102
     },
     {
-      "content": "On peut de la suite, on va dire:,\npas deux fois.",
+      "content": "On peut de la suite, on va dire:, pas deux fois.",
       "end": 110,
       "start": 103
     },

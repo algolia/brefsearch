@@ -15,44 +15,29 @@
       "start": 0
     },
     {
-      "content": "Cette journée a l'air normale,\nmais en vérité, c'est le dernier jour",
-      "end": 3,
+      "content": "Cette journée a l'air normale, mais en vérité, c'est le dernier jour\nde ma vie où j'avais tous mes cheveux.",
+      "end": 6,
       "start": 1
     },
     {
-      "content": "de ma vie où j'avais tous mes cheveux.",
-      "end": 6,
-      "start": 3
-    },
-    {
-      "content": "Et ça, c'est le premier\njour où je l'ai accepté.",
+      "content": "Et ça, c'est le premier jour où je l'ai accepté.",
       "end": 9,
       "start": 6
     },
     {
-      "content": "Entre les deux, il s'est\npassé plein de choses.",
+      "content": "Entre les deux, il s'est passé plein de choses.",
       "end": 10,
       "start": 9
     },
     {
-      "content": "Quand j'ai commencé à perdre\nmes cheveux, je me suis pas rendu compte",
-      "end": 12,
+      "content": "Quand j'ai commencé à perdre mes cheveux, je me suis pas rendu compte\nque je perdais mes cheveux.",
+      "end": 13,
       "start": 10
     },
     {
-      "content": "que je perdais mes cheveux.",
-      "end": 13,
-      "start": 12
-    },
-    {
-      "content": "Je me suis rendu compte\nqu'on me regardait plus dans les yeux,",
-      "end": 14,
-      "start": 13
-    },
-    {
-      "content": "mais au-dessus des yeux.\nQu'est-ce qu'il y a ?",
+      "content": "Je me suis rendu compte qu'on me regardait plus dans les yeux,\nmais au-dessus des yeux. Qu'est-ce qu'il y a ?",
       "end": 17,
-      "start": 14
+      "start": 13
     },
     {
       "content": "Rien.",
@@ -60,17 +45,12 @@
       "start": 17
     },
     {
-      "content": "Que j'étais le premier à savoir\nquand il pleuvait, qu'il y avait",
-      "end": 20,
+      "content": "Que j'étais le premier à savoir quand il pleuvait, qu'il y avait\ndes signes évidents, mais que je refusais de les voir.",
+      "end": 22,
       "start": 18
     },
     {
-      "content": "des signes évidents, mais que\nje refusais de les voir.",
-      "end": 22,
-      "start": 20
-    },
-    {
-      "content": "Quand je me coiffais, je faisais\nça, mais je voyais ça.",
+      "content": "Quand je me coiffais, je faisais ça, mais je voyais ça.",
       "end": 26,
       "start": 22
     },
@@ -85,22 +65,17 @@
       "start": 30
     },
     {
-      "content": "J'étais obligé de le reconnaître.\nJe suis pas à mes cheveux.",
+      "content": "J'étais obligé de le reconnaître. Je suis pas à mes cheveux.",
       "end": 33,
       "start": 32
     },
     {
-      "content": "Le truc énervant, c'est\nque tous ceux qui te disent:",
-      "end": 34,
+      "content": "Le truc énervant, c'est que tous ceux qui te disent:\nC'est pas grave ont des cheveux. C'est pas grave.",
+      "end": 37,
       "start": 33
     },
     {
-      "content": "C'est pas grave ont des cheveux.\nC'est pas grave.",
-      "end": 37,
-      "start": 34
-    },
-    {
-      "content": "J'avais l'impression\nde dire: J'ai perdu Babit.",
+      "content": "J'avais l'impression de dire: J'ai perdu Babit.",
       "end": 40,
       "start": 37
     },
@@ -110,39 +85,24 @@
       "start": 40
     },
     {
-      "content": "Quand je croisais un autre chauve,\non s'est changé un regard de compassion.",
+      "content": "Quand je croisais un autre chauve, on s'est changé un regard de compassion.",
       "end": 45,
       "start": 42
     },
     {
-      "content": "Je suis allé sur Internet et des mots sont\napparus dans mon vocabulaire: Shampoing,",
-      "end": 48,
+      "content": "Je suis allé sur Internet et des mots sont apparus dans mon vocabulaire: Shampoing,\nralentissant la chute, shampoing, anti-chute, shampoing, après-chute,",
+      "end": 50,
       "start": 45
     },
     {
-      "content": "ralentissant la chute, shampoing,\nanti-chute, shampoing, après-chute,",
-      "end": 50,
-      "start": 48
-    },
-    {
-      "content": "fortifiant, allumateur,\nshampoing pour la repousse, propétia,",
-      "end": 52,
+      "content": "fortifiant, allumateur, shampoing pour la repousse, propétia,\nl'opéxil, implant, complément capillaire.",
+      "end": 53,
       "start": 50
     },
     {
-      "content": "l'opéxil, implant, complément capillaire.",
-      "end": 53,
-      "start": 52
-    },
-    {
-      "content": "Des mots qui servent à rien,\nmais qui rapportent beaucoup d'argent",
-      "end": 55,
-      "start": 53
-    },
-    {
-      "content": "à des mecs avec des blouses.",
+      "content": "Des mots qui servent à rien, mais qui rapportent beaucoup d'argent\nà des mecs avec des blouses.",
       "end": 56,
-      "start": 55
+      "start": 53
     },
     {
       "content": "Merci les chauves.",
@@ -150,12 +110,12 @@
       "start": 56
     },
     {
-      "content": "Et puis un jour, j'ai décidé\nde m'en battre les couilles.",
+      "content": "Et puis un jour, j'ai décidé de m'en battre les couilles.",
       "end": 61,
       "start": 58
     },
     {
-      "content": "Par contre, il fallait que\nje règle ce problème de poids.",
+      "content": "Par contre, il fallait que je règle ce problème de poids.",
       "end": 65,
       "start": 61
     },

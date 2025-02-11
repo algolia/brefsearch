@@ -10,22 +10,22 @@
   },
   "lines": [
     {
-      "content": "Bref, j'avais accosté\ncette meuf dans la rue.",
+      "content": "Bref, j'avais accosté cette meuf dans la rue.",
       "end": 4,
       "start": 3
     },
     {
-      "content": "Elle m'a ditDemain, OK.\nJ'ai dit Cool, 16h00.",
+      "content": "Elle m'a ditDemain, OK. J'ai dit Cool, 16h00.",
       "end": 6,
       "start": 4
     },
     {
-      "content": "Elle a ditJe termine mon service à 18h00.\nJ'ai ditT'es serveuse ?",
+      "content": "Elle a ditJe termine mon service à 18h00. J'ai ditT'es serveuse ?",
       "end": 9,
       "start": 6
     },
     {
-      "content": "Elle m'a ditNon.\nÀ demain.",
+      "content": "Elle m'a ditNon. À demain.",
       "end": 12,
       "start": 9
     },
@@ -35,22 +35,17 @@
       "start": 12
     },
     {
-      "content": "Le lendemain, à 18h00, très précisément,\nelle m'a envoyé un texto me demandant",
-      "end": 16,
+      "content": "Le lendemain, à 18h00, très précisément, elle m'a envoyé un texto me demandant\nmon adresse, mon code et mon étage.",
+      "end": 17,
       "start": 13
     },
     {
-      "content": "mon adresse, mon code et mon étage.",
-      "end": 17,
-      "start": 16
-    },
-    {
-      "content": "J'ai répondu Pourquoi ?\nT'es flic ?",
+      "content": "J'ai répondu Pourquoi ? T'es flic ?",
       "end": 19,
       "start": 17
     },
     {
-      "content": "Elle a répondu Oui.\nElle était marrante.",
+      "content": "Elle a répondu Oui. Elle était marrante.",
       "end": 20,
       "start": 19
     },
@@ -65,24 +60,14 @@
       "start": 22
     },
     {
-      "content": "En y réfléchissant bien,\nj'ai repensé à tous les trucs illégaux",
+      "content": "En y réfléchissant bien, j'ai repensé à tous les trucs illégaux\nque j'avais chez moi.",
       "end": 26,
       "start": 23
     },
     {
-      "content": "que j'avais chez moi.",
-      "end": 26,
-      "start": 26
-    },
-    {
-      "content": "Mon compteur EDF que j'avais bloqué\navec un fil de fer, ma beuh qui traînait",
-      "end": 29,
-      "start": 26
-    },
-    {
-      "content": "sur la table basse et surtout\nles 584 téléchargements de série",
+      "content": "Mon compteur EDF que j'avais bloqué avec un fil de fer, ma beuh qui traînait\nsur la table basse et surtout les 584 téléchargements de série",
       "end": 32,
-      "start": 29
+      "start": 26
     },
     {
       "content": "et MP3 en cours sur mon PC.",
@@ -95,12 +80,12 @@
       "start": 33
     },
     {
-      "content": "Elle a vu ma beuh,\nj'ai dit: C'est pas à moi.",
+      "content": "Elle a vu ma beuh, j'ai dit: C'est pas à moi.",
       "end": 36,
       "start": 34
     },
     {
-      "content": "Elle a dit: Dommage.\nJ'ai dit: Pourquoi ?",
+      "content": "Elle a dit: Dommage. J'ai dit: Pourquoi ?",
       "end": 37,
       "start": 36
     },
@@ -115,7 +100,7 @@
       "start": 38
     },
     {
-      "content": "On est allé dans ma chambre,\nelle a continué pour se mettre à l'aise.",
+      "content": "On est allé dans ma chambre, elle a continué pour se mettre à l'aise.",
       "end": 45,
       "start": 39
     },
@@ -125,7 +110,7 @@
       "start": 45
     },
     {
-      "content": "Elle m'a déstapé, on a commencé,\nj'ai pensé à Joe Estard.",
+      "content": "Elle m'a déstapé, on a commencé, j'ai pensé à Joe Estard.",
       "end": 47,
       "start": 45
     },
@@ -135,12 +120,12 @@
       "start": 47
     },
     {
-      "content": "Elle m'a plaqué contre le lit, elle m'a\ndit: Maintenant, tu t'appelles Sophie.",
+      "content": "Elle m'a plaqué contre le lit, elle m'a dit: Maintenant, tu t'appelles Sophie.",
       "end": 52,
       "start": 49
     },
     {
-      "content": "J'ai dit: Non.\nElle m'a mis une gifle.",
+      "content": "J'ai dit: Non. Elle m'a mis une gifle.",
       "end": 53,
       "start": 52
     },
@@ -150,27 +135,22 @@
       "start": 53
     },
     {
-      "content": "Je croyais qu'on avait fini\nquand elle a pris ses menottes",
-      "end": 57,
+      "content": "Je croyais qu'on avait fini quand elle a pris ses menottes\net elle m'a attaché à mon lit. J'ai trouvé ça cool.",
+      "end": 59,
       "start": 56
     },
     {
-      "content": "et elle m'a attaché à mon lit.\nJ'ai trouvé ça cool.",
-      "end": 59,
-      "start": 57
-    },
-    {
-      "content": "Elle s'est rhabillée.\nJ'ai trouvé ça triste.",
+      "content": "Elle s'est rhabillée. J'ai trouvé ça triste.",
       "end": 61,
       "start": 59
     },
     {
-      "content": "Ensuite, elle m'a dit: Je prends ta beuh.\nJ'ai dit: Non, pourquoi ?",
+      "content": "Ensuite, elle m'a dit: Je prends ta beuh. J'ai dit: Non, pourquoi ?",
       "end": 63,
       "start": 61
     },
     {
-      "content": "Elle est partie.\nAlors j'ai dit: Hé oh !",
+      "content": "Elle est partie. Alors j'ai dit: Hé oh !",
       "end": 65,
       "start": 63
     },

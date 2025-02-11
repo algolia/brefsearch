@@ -15,27 +15,27 @@
       "start": 0
     },
     {
-      "content": "Baptiste foutait jamais\nrien, sauf le bordel.",
+      "content": "Baptiste foutait jamais rien, sauf le bordel.",
       "end": 4,
       "start": 2
     },
     {
-      "content": "Un jour, j'ai voulu prendre du dentifrice.\nBaptiste a dit.",
+      "content": "Un jour, j'ai voulu prendre du dentifrice. Baptiste a dit.",
       "end": 6,
       "start": 4
     },
     {
-      "content": "J'ai voulu prendre des céréales.\nBaptiste a dit.",
+      "content": "J'ai voulu prendre des céréales. Baptiste a dit.",
       "end": 9,
       "start": 6
     },
     {
-      "content": "J'ai voulu mettre du parfum.\nBaptiste a dit.",
+      "content": "J'ai voulu mettre du parfum. Baptiste a dit.",
       "end": 10,
       "start": 9
     },
     {
-      "content": "Ça n'a plus.\nC'était le mien.",
+      "content": "Ça n'a plus. C'était le mien.",
       "end": 12,
       "start": 10
     },
@@ -45,7 +45,7 @@
       "start": 12
     },
     {
-      "content": "C'est mon caleçon, ça.\nJe sais, mais les miens sont sales.",
+      "content": "C'est mon caleçon, ça. Je sais, mais les miens sont sales.",
       "end": 19,
       "start": 15
     },
@@ -55,17 +55,17 @@
       "start": 19
     },
     {
-      "content": "En plus, depuis son divorce,\nmon père habitait en France.",
+      "content": "En plus, depuis son divorce, mon père habitait en France.",
       "end": 22,
       "start": 20
     },
     {
-      "content": "Tu as pas dit que t'étais un pote ?\nIl fallait que je parte.",
+      "content": "Tu as pas dit que t'étais un pote ? Il fallait que je parte.",
       "end": 24,
       "start": 22
     },
     {
-      "content": "En plus, Keyvan allait emménager\navec sa copine Maud.",
+      "content": "En plus, Keyvan allait emménager avec sa copine Maud.",
       "end": 26,
       "start": 24
     },
@@ -80,12 +80,12 @@
       "start": 28
     },
     {
-      "content": "Du coup, je pouvais récupérer son appart.\nJ'ai dit à Baptiste.",
+      "content": "Du coup, je pouvais récupérer son appart. J'ai dit à Baptiste.",
       "end": 31,
       "start": 29
     },
     {
-      "content": "Je pars.\nBaptiste a dit: À tout à l'heure.",
+      "content": "Je pars. Baptiste a dit: À tout à l'heure.",
       "end": 32,
       "start": 31
     },
@@ -100,22 +100,22 @@
       "start": 35
     },
     {
-      "content": "Ça m'a touché.\nIl a dit: Qui va payer le loyer ?",
+      "content": "Ça m'a touché. Il a dit: Qui va payer le loyer ?",
       "end": 41,
       "start": 38
     },
     {
-      "content": "J'ai dit: Je m'en fous.\nJe pars demain.",
+      "content": "J'ai dit: Je m'en fous. Je pars demain.",
       "end": 42,
       "start": 41
     },
     {
-      "content": "J'ai fait mes cartons.\nÇa m'a pris trois semaines.",
+      "content": "J'ai fait mes cartons. Ça m'a pris trois semaines.",
       "end": 47,
       "start": 42
     },
     {
-      "content": "Dans les déménagements, il y a toujours\nun mec qui porte que les trucs léger.",
+      "content": "Dans les déménagements, il y a toujours un mec qui porte que les trucs léger.",
       "end": 50,
       "start": 47
     },
@@ -125,27 +125,27 @@
       "start": 50
     },
     {
-      "content": "Sans le trois.\nUn mec qui dit: Ça passera.",
+      "content": "Sans le trois. Un mec qui dit: Ça passera.",
       "end": 54,
       "start": 52
     },
     {
-      "content": "Et celui qui dit: Ça passera pas.\nCelui qui mesure tout.",
+      "content": "Et celui qui dit: Ça passera pas. Celui qui mesure tout.",
       "end": 57,
       "start": 54
     },
     {
-      "content": "Tu peux m'aider là ?\nJe peux pas, je mesure.",
+      "content": "Tu peux m'aider là ? Je peux pas, je mesure.",
       "end": 59,
       "start": 57
     },
     {
-      "content": "C'est aussi celui\nqui porte les trucs légers.",
+      "content": "C'est aussi celui qui porte les trucs légers.",
       "end": 60,
       "start": 59
     },
     {
-      "content": "On a tapé un fou rire\ndans l'escalier en portant mon lit.",
+      "content": "On a tapé un fou rire dans l'escalier en portant mon lit.",
       "end": 63,
       "start": 60
     },
@@ -155,7 +155,7 @@
       "start": 63
     },
     {
-      "content": "Quand mon frère a répondu\nau téléphone, il a dit: Ouais ?",
+      "content": "Quand mon frère a répondu au téléphone, il a dit: Ouais ?",
       "end": 66,
       "start": 63
     },
@@ -170,7 +170,7 @@
       "start": 67
     },
     {
-      "content": "Ça faisait trop de ouais\npour une bonne nouvelle.",
+      "content": "Ça faisait trop de ouais pour une bonne nouvelle.",
       "end": 76,
       "start": 74
     },
@@ -185,22 +185,17 @@
       "start": 77
     },
     {
-      "content": "Du coup, je pouvais plus\nrécupérer son appart, je devais",
-      "end": 81,
+      "content": "Du coup, je pouvais plus récupérer son appart, je devais\nretourner chez Baptiste.",
+      "end": 82,
       "start": 80
     },
     {
-      "content": "retourner chez Baptiste.",
-      "end": 82,
-      "start": 81
-    },
-    {
-      "content": "Sauf qu'entre temps, Baptiste\navait trouvé Charles, un nouveau coloc.",
+      "content": "Sauf qu'entre temps, Baptiste avait trouvé Charles, un nouveau coloc.",
       "end": 84,
       "start": 82
     },
     {
-      "content": "Salut, je suis Charles,\nje suis le nouveau coloc.",
+      "content": "Salut, je suis Charles, je suis le nouveau coloc.",
       "end": 85,
       "start": 84
     },
@@ -210,12 +205,12 @@
       "start": 85
     },
     {
-      "content": "Mon père leur a demandé:\nVous avez pas des capotes ?",
+      "content": "Mon père leur a demandé: Vous avez pas des capotes ?",
       "end": 89,
       "start": 86
     },
     {
-      "content": "J'avais plus d'appart, plus de coloc.\nMon lit était en bas de l'immeuble.",
+      "content": "J'avais plus d'appart, plus de coloc. Mon lit était en bas de l'immeuble.",
       "end": 91,
       "start": 89
     },

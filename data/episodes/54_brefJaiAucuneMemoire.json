@@ -10,49 +10,39 @@
   },
   "lines": [
     {
-      "content": "Je rentrais à l'appart\nquand ma copine m'a dit: Tu as pensé",
-      "end": 2,
+      "content": "Je rentrais à l'appart quand ma copine m'a dit: Tu as pensé\nà prendre mes cigarettes ? Putain, je n'y avais pas pensé.",
+      "end": 5,
       "start": 1
     },
     {
-      "content": "à prendre mes cigarettes ?\nPutain, je n'y avais pas pensé.",
-      "end": 5,
-      "start": 2
-    },
-    {
-      "content": "Du coup, j'ai repensé à tous\nles trucs auxquels je ne pense jamais.",
+      "content": "Du coup, j'ai repensé à tous les trucs auxquels je ne pense jamais.",
       "end": 7,
       "start": 5
     },
     {
-      "content": "J'arrive souvent dans une pièce\nen oubliant pourquoi j'y suis allé.",
+      "content": "J'arrive souvent dans une pièce en oubliant pourquoi j'y suis allé.",
       "end": 9,
       "start": 7
     },
     {
-      "content": "J'oublie les anniversaires\nde ma famille, de mes amis.",
+      "content": "J'oublie les anniversaires de ma famille, de mes amis.",
       "end": 11,
       "start": 9
     },
     {
-      "content": "C'est pour qui le paquet dans la chambre ?\nÀ ton avis.",
+      "content": "C'est pour qui le paquet dans la chambre ? À ton avis.",
       "end": 13,
       "start": 11
     },
     {
-      "content": "Et de moi-même.\nDu coup,Merci.",
+      "content": "Et de moi-même. Du coup,Merci.",
       "end": 14,
       "start": 13
     },
     {
-      "content": "Je participe toujours\nà des cadeaux communs dont je n'ai",
-      "end": 15,
-      "start": 14
-    },
-    {
-      "content": "aucune idée et parfois,\nje ne sais même plus pour qui c'est.",
+      "content": "Je participe toujours à des cadeaux communs dont je n'ai\naucune idée et parfois, je ne sais même plus pour qui c'est.",
       "end": 17,
-      "start": 15
+      "start": 14
     },
     {
       "content": "Tu es qui ?",
@@ -60,32 +50,22 @@
       "start": 17
     },
     {
-      "content": "J'ai une liste de trucs à ne pas oublier,\nmais je vous dis de regarder la liste.",
+      "content": "J'ai une liste de trucs à ne pas oublier, mais je vous dis de regarder la liste.",
       "end": 21,
       "start": 18
     },
     {
-      "content": "Quand je vais à une soirée,\nj'oublie l'étage, alors je monte",
-      "end": 22,
+      "content": "Quand je vais à une soirée, j'oublie l'étage, alors je monte\nen écoutant à toutes les portes.",
+      "end": 23,
       "start": 21
     },
     {
-      "content": "en écoutant à toutes les portes.",
-      "end": 23,
-      "start": 22
-    },
-    {
-      "content": "J'achète un parapluie à chaque fois\nqu'il pleut, je l'oublie chez quelqu'un",
-      "end": 25,
+      "content": "J'achète un parapluie à chaque fois qu'il pleut, je l'oublie chez quelqu'un\nà chaque fois qu'il ne pleut plus.",
+      "end": 26,
       "start": 23
     },
     {
-      "content": "à chaque fois qu'il ne pleut plus.",
-      "end": 26,
-      "start": 25
-    },
-    {
-      "content": "J'ai déjà oublié de manger\npendant toute une journée.",
+      "content": "J'ai déjà oublié de manger pendant toute une journée.",
       "end": 28,
       "start": 26
     },
@@ -100,42 +80,37 @@
       "start": 30
     },
     {
-      "content": "J'oublie que j'ai regardé un film,\nje le re-regarde et je me souviens",
-      "end": 37,
+      "content": "J'oublie que j'ai regardé un film, je le re-regarde et je me souviens\nde la fin dix minutes avant la fin.",
+      "end": 39,
       "start": 35
     },
     {
-      "content": "de la fin dix minutes avant la fin.",
-      "end": 39,
-      "start": 37
-    },
-    {
-      "content": "J'oublie souvent le prénom des gens, mais\nj'ai une technique pour pas être vexant.",
+      "content": "J'oublie souvent le prénom des gens, mais j'ai une technique pour pas être vexant.",
       "end": 41,
       "start": 39
     },
     {
-      "content": "C'est quoi ton nom déjà ?\nFred.",
+      "content": "C'est quoi ton nom déjà ? Fred.",
       "end": 43,
       "start": 41
     },
     {
-      "content": "Je sais Fred, mais Fred comment ?\nBlanchard.",
+      "content": "Je sais Fred, mais Fred comment ? Blanchard.",
       "end": 44,
       "start": 43
     },
     {
-      "content": "Le problème, c'est que c'est Fred\nBlanchard qui m'a appris cette technique.",
+      "content": "Le problème, c'est que c'est Fred Blanchard qui m'a appris cette technique.",
       "end": 49,
       "start": 45
     },
     {
-      "content": "Dès qu'une dispute dure plus de dix\nminutes, j'oublie pourquoi je me dispute.",
+      "content": "Dès qu'une dispute dure plus de dix minutes, j'oublie pourquoi je me dispute.",
       "end": 52,
       "start": 50
     },
     {
-      "content": "Si quelqu'un me laisse pas parler\npendant plus de 30 secondes.",
+      "content": "Si quelqu'un me laisse pas parler pendant plus de 30 secondes.",
       "end": 54,
       "start": 52
     },
@@ -145,34 +120,24 @@
       "start": 54
     },
     {
-      "content": "Je ne sais plus ce que je voulais dire.\nJ'ai oublié ce que je voulais dire.",
+      "content": "Je ne sais plus ce que je voulais dire. J'ai oublié ce que je voulais dire.",
       "end": 59,
       "start": 57
     },
     {
-      "content": "Il y a un autre truc\nque j'oublie à chaque cette fois,",
-      "end": 61,
+      "content": "Il y a un autre truc que j'oublie à chaque cette fois,\nmais j'ai oublié ce que c'est.",
+      "end": 62,
       "start": 59
     },
     {
-      "content": "mais j'ai oublié ce que c'est.",
-      "end": 62,
-      "start": 61
-    },
-    {
-      "content": "Je me souviens que le truc qui ne servait\nà rien comme: Et où est donc Ordi car ?",
+      "content": "Je me souviens que le truc qui ne servait à rien comme: Et où est donc Ordi car ?",
       "end": 64,
       "start": 62
     },
     {
-      "content": "Le carré de l'hypoténuse\nest égal à la somme des carrés",
-      "end": 66,
-      "start": 64
-    },
-    {
-      "content": "des deux côtés opposés, où toutes\nles répliques de la cité de la peur.",
+      "content": "Le carré de l'hypoténuse est égal à la somme des carrés\ndes deux côtés opposés, où toutes les répliques de la cité de la peur.",
       "end": 67,
-      "start": 66
+      "start": 64
     },
     {
       "content": "Carabazoff, au calien.",
@@ -180,7 +145,7 @@
       "start": 67
     },
     {
-      "content": "À chaque fois que je me réveille\nchez quelqu'un d'autre, je panique.",
+      "content": "À chaque fois que je me réveille chez quelqu'un d'autre, je panique.",
       "end": 74,
       "start": 68
     },
@@ -190,19 +155,14 @@
       "start": 74
     },
     {
-      "content": "Je mange des pâtes trop molles,\nje ris trop dur et de la viande brûlée.",
+      "content": "Je mange des pâtes trop molles, je ris trop dur et de la viande brûlée.",
       "end": 77,
       "start": 75
     },
     {
-      "content": "J'ai gardé un chat, oublier\nque je le gardais et j'ai hurlé",
-      "end": 79,
-      "start": 77
-    },
-    {
-      "content": "quand il a bougé derrière moi.\nPutain de merde !",
+      "content": "J'ai gardé un chat, oublier que je le gardais et j'ai hurlé\nquand il a bougé derrière moi. Putain de merde !",
       "end": 81,
-      "start": 79
+      "start": 77
     },
     {
       "content": "Tu as pensé à prendre mes cigarettes ?",
@@ -215,14 +175,9 @@
       "start": 82
     },
     {
-      "content": "Je suis allé au tabac, j'ai pris\nun paquet, je me suis rendu compte",
-      "end": 85,
-      "start": 84
-    },
-    {
-      "content": "que j'en avais déjà un.\nJ'avais oublié que j'y avais pensé.",
+      "content": "Je suis allé au tabac, j'ai pris un paquet, je me suis rendu compte\nque j'en avais déjà un. J'avais oublié que j'y avais pensé.",
       "end": 87,
-      "start": 85
+      "start": 84
     },
     {
       "content": "Bref, j'ai aucune mémoire.",
@@ -230,7 +185,7 @@
       "start": 87
     },
     {
-      "content": "Ça que j'ai essayé\nde faire d'autres trucs.",
+      "content": "Ça que j'ai essayé de faire d'autres trucs.",
       "end": 92,
       "start": 89
     },

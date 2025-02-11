@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "Bref, ce jour-là, Marla m'a appelé.\nC'est rare qu'elle m'appelle.",
+      "content": "Bref, ce jour-là, Marla m'a appelé. C'est rare qu'elle m'appelle.",
       "end": 4,
       "start": 2
     },
@@ -20,32 +20,32 @@
       "start": 4
     },
     {
-      "content": "On couche ensemble et puis elle s'en va.\nAlors j'ai décroché.",
+      "content": "On couche ensemble et puis elle s'en va. Alors j'ai décroché.",
       "end": 7,
       "start": 5
     },
     {
-      "content": "J'ai dit: Elle a dit...\nNon, il est mort.",
+      "content": "J'ai dit: Elle a dit... Non, il est mort.",
       "end": 10,
       "start": 7
     },
     {
-      "content": "J'ai dit: Merde, qui ?\nElle a dit: Croquette, mon chat.",
+      "content": "J'ai dit: Merde, qui ? Elle a dit: Croquette, mon chat.",
       "end": 12,
       "start": 10
     },
     {
-      "content": "J'ai dit: Putain, j'ai eu peur.\nElle a dit: T'es qu'un con.",
+      "content": "J'ai dit: Putain, j'ai eu peur. Elle a dit: T'es qu'un con.",
       "end": 15,
       "start": 12
     },
     {
-      "content": "J'ai pas su quoi dire.\nJe détestais son chat.",
+      "content": "J'ai pas su quoi dire. Je détestais son chat.",
       "end": 17,
       "start": 15
     },
     {
-      "content": "Putain, il m'a griffé ton chat.\nCroquette.",
+      "content": "Putain, il m'a griffé ton chat. Croquette.",
       "end": 19,
       "start": 17
     },
@@ -55,39 +55,34 @@
       "start": 19
     },
     {
-      "content": "J'ai dit: On peut se\nvoir demain, si tu veux.",
+      "content": "J'ai dit: On peut se voir demain, si tu veux.",
       "end": 22,
       "start": 20
     },
     {
-      "content": "Elle a dit: OK.\nPour l'enterrement.",
+      "content": "Elle a dit: OK. Pour l'enterrement.",
       "end": 24,
       "start": 22
     },
     {
-      "content": "Pour l'enterrement.\nElle a accroché.",
+      "content": "Pour l'enterrement. Elle a accroché.",
       "end": 26,
       "start": 24
     },
     {
-      "content": "J'y suis allé.\nOn était deux au fond de son jardin.",
+      "content": "J'y suis allé. On était deux au fond de son jardin.",
       "end": 29,
       "start": 26
     },
     {
-      "content": "Je m'étais jamais Je lui ai demandé\nsi elle avait d'autres amis.",
+      "content": "Je m'étais jamais Je lui ai demandé si elle avait d'autres amis.",
       "end": 31,
       "start": 29
     },
     {
-      "content": "J'avais la costarde que je mets\nau mariage, aux entretiens d'embauche",
-      "end": 33,
-      "start": 31
-    },
-    {
-      "content": "et aux enterrements.",
+      "content": "J'avais la costarde que je mets au mariage, aux entretiens d'embauche\net aux enterrements.",
       "end": 34,
-      "start": 33
+      "start": 31
     },
     {
       "content": "Croquette était dans un sac plastique.",
@@ -110,12 +105,12 @@
       "start": 38
     },
     {
-      "content": "J'ai arrêté de parler.\nArrête de penser.",
+      "content": "J'ai arrêté de parler. Arrête de penser.",
       "end": 43,
       "start": 41
     },
     {
-      "content": "C'était long.\nArrête de penser, jeudi.",
+      "content": "C'était long. Arrête de penser, jeudi.",
       "end": 48,
       "start": 46
     },
@@ -130,22 +125,17 @@
       "start": 59
     },
     {
-      "content": "J'ai ri intérieurement, elle m'a\nregardé, j'ai arrêté de rire.",
+      "content": "J'ai ri intérieurement, elle m'a regardé, j'ai arrêté de rire.",
       "end": 74,
       "start": 70
     },
     {
-      "content": "Elle me connaissait bien,\nje Je me suis dit que ça allait",
-      "end": 75,
+      "content": "Elle me connaissait bien, je Je me suis dit que ça allait\nêtre compliqué de coucher avec elle. Elle a dit: Je peux venir chez toi ?",
+      "end": 77,
       "start": 74
     },
     {
-      "content": "être compliqué de coucher avec elle.\nElle a dit: Je peux venir chez toi ?",
-      "end": 77,
-      "start": 75
-    },
-    {
-      "content": "Non.\nOn a couché ensemble, elle m'a dit: Merci.",
+      "content": "Non. On a couché ensemble, elle m'a dit: Merci.",
       "end": 82,
       "start": 77
     },
@@ -155,7 +145,7 @@
       "start": 82
     },
     {
-      "content": "T'es qu'un con.\nBref, on a enterré Crockett.",
+      "content": "T'es qu'un con. Bref, on a enterré Crockett.",
       "end": 88,
       "start": 85
     },

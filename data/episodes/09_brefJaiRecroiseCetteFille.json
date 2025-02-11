@@ -10,24 +10,14 @@
   },
   "lines": [
     {
-      "content": "Bref, ce matin-là, je me suis réveillé\navec une envie pressante d'aller",
-      "end": 3,
+      "content": "Bref, ce matin-là, je me suis réveillé avec une envie pressante d'aller\naux toilettes.",
+      "end": 4,
       "start": 1
     },
     {
-      "content": "aux toilettes.",
-      "end": 4,
-      "start": 3
-    },
-    {
-      "content": "Juste à temps, je me suis rendu compte\nqu'il y avait plus de papier toilette,",
-      "end": 6,
-      "start": 4
-    },
-    {
-      "content": "plus de sopalin, plus de Kleenex\net j'avais pas encore fini ce magazine.",
+      "content": "Juste à temps, je me suis rendu compte qu'il y avait plus de papier toilette,\nplus de sopalin, plus de Kleenex et j'avais pas encore fini ce magazine.",
       "end": 9,
-      "start": 6
+      "start": 4
     },
     {
       "content": "Je suis parti au supermarché en acheter.",
@@ -40,29 +30,24 @@
       "start": 11
     },
     {
-      "content": "C'était une fille que\nj'avais draguée à une soirée.",
+      "content": "C'était une fille que j'avais draguée à une soirée.",
       "end": 13,
       "start": 12
     },
     {
-      "content": "Mon cul m'a dit cours,\nmon cœur m'a dit reste.",
+      "content": "Mon cul m'a dit cours, mon cœur m'a dit reste.",
       "end": 15,
       "start": 13
     },
     {
-      "content": "Elle m'a dit: Je m'appelle pas Vincent.\nJ'ai rien dit.",
+      "content": "Elle m'a dit: Je m'appelle pas Vincent. J'ai rien dit.",
       "end": 17,
       "start": 15
     },
     {
-      "content": "À ce moment précis, je me suis rendu\ncompte que: un, j'étais pas lavé, deux,",
-      "end": 20,
-      "start": 17
-    },
-    {
-      "content": "j'étais mal habillé, trois, j'avais des\ncacas du au coin des yeux et quatre, un",
+      "content": "À ce moment précis, je me suis rendu compte que: un, j'étais pas lavé, deux,\nj'étais mal habillé, trois, j'avais des cacas du au coin des yeux et quatre, un",
       "end": 24,
-      "start": 20
+      "start": 17
     },
     {
       "content": "paquet de rouleaux de PQ dans les mains.",
@@ -70,32 +55,32 @@
       "start": 24
     },
     {
-      "content": "Je me suis dit: C'est pas\nvrai, qu'est-ce qu'elle fout là ?",
+      "content": "Je me suis dit: C'est pas vrai, qu'est-ce qu'elle fout là ?",
       "end": 26,
       "start": 25
     },
     {
-      "content": "Je lui ai dit: Mais\nqu'est-ce que tu fais là ?",
+      "content": "Je lui ai dit: Mais qu'est-ce que tu fais là ?",
       "end": 27,
       "start": 26
     },
     {
-      "content": "On a discuté, elle m'a fait une blague,\nc'était pas marrant, j'ai rigolé.",
+      "content": "On a discuté, elle m'a fait une blague, c'était pas marrant, j'ai rigolé.",
       "end": 30,
       "start": 27
     },
     {
-      "content": "En rigolant, je me suis rendu compte\nque cinq, j'avais mauvaise haleine.",
+      "content": "En rigolant, je me suis rendu compte que cinq, j'avais mauvaise haleine.",
       "end": 33,
       "start": 30
     },
     {
-      "content": "On a parlé de tout et de rien,\nsurtout de rien.",
+      "content": "On a parlé de tout et de rien, surtout de rien.",
       "end": 35,
       "start": 33
     },
     {
-      "content": "Elle me dit ça, il ne faut pas le manger,\nc'est bourré de trucs mauvais et tout.",
+      "content": "Elle me dit ça, il ne faut pas le manger, c'est bourré de trucs mauvais et tout.",
       "end": 38,
       "start": 35
     },
@@ -105,47 +90,32 @@
       "start": 38
     },
     {
-      "content": "À un moment donné,\nelle s'est mordillée la lèvre.",
+      "content": "À un moment donné, elle s'est mordillée la lèvre.",
       "end": 45,
       "start": 42
     },
     {
-      "content": "J'ai eu envie de m'inviter à boire\nun verre, m'inviter au resto, m'inviter",
-      "end": 47,
+      "content": "J'ai eu envie de m'inviter à boire un verre, m'inviter au resto, m'inviter\nau cinéma, me raccompagner chez elle, coucher avec elle.",
+      "end": 48,
       "start": 45
     },
     {
-      "content": "au cinéma, me raccompagner\nchez elle, coucher avec elle.",
-      "end": 48,
-      "start": 47
-    },
-    {
-      "content": "Elle me demande si c'est sérieux\nentre nous, manger des glaces avec elle,",
-      "end": 50,
+      "content": "Elle me demande si c'est sérieux entre nous, manger des glaces avec elle,\nt'allonger dans l'air, lui présenter ma famille,",
+      "end": 51,
       "start": 48
     },
     {
-      "content": "t'allonger dans l'air,\nlui présenter ma famille,",
-      "end": 51,
-      "start": 50
-    },
-    {
-      "content": "partir en vacances avec elle,\nemménager avec elle,",
-      "end": 53,
+      "content": "partir en vacances avec elle, emménager avec elle,\nla demander en mariage, acheter une maison avec qui elle lui demander.",
+      "end": 54,
       "start": 51
     },
     {
-      "content": "la demander en mariage, acheter\nune maison avec qui elle lui demander.",
-      "end": 54,
-      "start": 53
-    },
-    {
-      "content": "Ça va ?\nQu'elle me réponde.",
+      "content": "Ça va ? Qu'elle me réponde.",
       "end": 55,
       "start": 54
     },
     {
-      "content": "Je suis enceinte.\nQu'elle me dise: C'est des jumeaux.",
+      "content": "Je suis enceinte. Qu'elle me dise: C'est des jumeaux.",
       "end": 56,
       "start": 55
     },
@@ -160,32 +130,32 @@
       "start": 57
     },
     {
-      "content": "J'ai répondu: Grégoire et Julie.\nQuoi ?",
+      "content": "J'ai répondu: Grégoire et Julie. Quoi ?",
       "end": 61,
       "start": 59
     },
     {
-      "content": "Je lui ai dit que c'était\nle nom de mes poissons.",
+      "content": "Je lui ai dit que c'était le nom de mes poissons.",
       "end": 62,
       "start": 61
     },
     {
-      "content": "Elle m'a demandé ce\nque c'était comme poisson.",
+      "content": "Elle m'a demandé ce que c'était comme poisson.",
       "end": 64,
       "start": 62
     },
     {
-      "content": "J'ai dit n'importe quoi.\nDes poissons clowns ?",
+      "content": "J'ai dit n'importe quoi. Des poissons clowns ?",
       "end": 65,
       "start": 64
     },
     {
-      "content": "Elle m'a répondu...\nMais c'est génial !",
+      "content": "Elle m'a répondu... Mais c'est génial !",
       "end": 66,
       "start": 65
     },
     {
-      "content": "Merde.\nComme des mots.",
+      "content": "Merde. Comme des mots.",
       "end": 67,
       "start": 66
     },
@@ -195,12 +165,12 @@
       "start": 67
     },
     {
-      "content": "Je lui ai dit: Tu pourras\npasser les voir un jour.",
+      "content": "Je lui ai dit: Tu pourras passer les voir un jour.",
       "end": 69,
       "start": 68
     },
     {
-      "content": "Elle a souri.\nElle a repris mon numéro.",
+      "content": "Elle a souri. Elle a repris mon numéro.",
       "end": 71,
       "start": 69
     },
@@ -210,7 +180,7 @@
       "start": 71
     },
     {
-      "content": "Elle m'a demandé: Tu t'appelles\nVincent comment déjà ?",
+      "content": "Elle m'a demandé: Tu t'appelles Vincent comment déjà ?",
       "end": 74,
       "start": 72
     },
@@ -225,7 +195,7 @@
       "start": 76
     },
     {
-      "content": "Elle est partie en souriant.\nJe suis partie en courance.",
+      "content": "Elle est partie en souriant. Je suis partie en courance.",
       "end": 80,
       "start": 78
     },
@@ -235,7 +205,7 @@
       "start": 80
     },
     {
-      "content": "Maintenant, je m'appelle Vincent Dubois\net j'ai deux poissons clowns.",
+      "content": "Maintenant, je m'appelle Vincent Dubois et j'ai deux poissons clowns.",
       "end": 82,
       "start": 80
     },

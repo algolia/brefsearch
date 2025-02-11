@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "Bref, ça faisait déjà quelques mois\nqu'il me fallait une vraie armoire.",
+      "content": "Bref, ça faisait déjà quelques mois qu'il me fallait une vraie armoire.",
       "end": 3,
       "start": 1
     },
@@ -20,12 +20,12 @@
       "start": 3
     },
     {
-      "content": "Après avoir monté le meuble moi-même,\nil fallait que je le monte moi-même.",
+      "content": "Après avoir monté le meuble moi-même, il fallait que je le monte moi-même.",
       "end": 6,
       "start": 4
     },
     {
-      "content": "Le plan du meuble était super\ncompliqué, mais il était à l'envers.",
+      "content": "Le plan du meuble était super compliqué, mais il était à l'envers.",
       "end": 8,
       "start": 6
     },
@@ -35,17 +35,12 @@
       "start": 8
     },
     {
-      "content": "Il y avait pas assez de place\ndans ma chambre pour le monter,",
-      "end": 11,
+      "content": "Il y avait pas assez de place dans ma chambre pour le monter,\nalors je l'ai monté dans mon salon.",
+      "end": 12,
       "start": 10
     },
     {
-      "content": "alors je l'ai monté dans mon salon.",
-      "end": 12,
-      "start": 11
-    },
-    {
-      "content": "J'ai dû pousser le canapé, déplacer\nla table basse, rouler le tapis.",
+      "content": "J'ai dû pousser le canapé, déplacer la table basse, rouler le tapis.",
       "end": 14,
       "start": 12
     },
@@ -55,7 +50,7 @@
       "start": 14
     },
     {
-      "content": "J'ai dit: Il est où le tournevis ?\n23 fois.",
+      "content": "J'ai dit: Il est où le tournevis ? 23 fois.",
       "end": 17,
       "start": 15
     },
@@ -65,52 +60,42 @@
       "start": 17
     },
     {
-      "content": "J'ai voulu enfoncer un truc avec ma main.\nJe me suis fait mal.",
+      "content": "J'ai voulu enfoncer un truc avec ma main. Je me suis fait mal.",
       "end": 20,
       "start": 18
     },
     {
-      "content": "Je me suis coupé avec une planche,\nj'ai remué la main.",
+      "content": "Je me suis coupé avec une planche, j'ai remué la main.",
       "end": 22,
       "start": 20
     },
     {
-      "content": "Je me suis demandé pourquoi on remue\nla main quand on se coupe.",
+      "content": "Je me suis demandé pourquoi on remue la main quand on se coupe.",
       "end": 25,
       "start": 22
     },
     {
-      "content": "J'ai essayé de fixer la planche B\nà la planche D avec la vis",
-      "end": 27,
+      "content": "J'ai essayé de fixer la planche B à la planche D avec la vis\nB5, mais ça marchait pas.",
+      "end": 28,
       "start": 25
     },
     {
-      "content": "B5, mais ça marchait pas.",
-      "end": 28,
-      "start": 27
-    },
-    {
-      "content": "Je me suis rendu compte que\nj'avais confondu la la planche B",
-      "end": 30,
+      "content": "Je me suis rendu compte que j'avais confondu la la planche B\navec la planche H, qui est pareil, mais avec deux autres trous sur le côté.",
+      "end": 32,
       "start": 28
     },
     {
-      "content": "avec la planche H, qui est pareil,\nmais avec deux autres trous sur le côté.",
-      "end": 32,
-      "start": 30
-    },
-    {
-      "content": "Je me suis senti triste.\nJ'ai crié.",
+      "content": "Je me suis senti triste. J'ai crié.",
       "end": 34,
       "start": 32
     },
     {
-      "content": "Sur la notice, ils indiquaient qu'il\nfallait être deux pour monter ce meuble.",
+      "content": "Sur la notice, ils indiquaient qu'il fallait être deux pour monter ce meuble.",
       "end": 38,
       "start": 34
     },
     {
-      "content": "Je me suis dit que je me\ndébrouillerai tout seul.",
+      "content": "Je me suis dit que je me débrouillerai tout seul.",
       "end": 40,
       "start": 38
     },
@@ -120,7 +105,7 @@
       "start": 40
     },
     {
-      "content": "Mon coloc ne m'a pas aidé.\nIl était occupé.",
+      "content": "Mon coloc ne m'a pas aidé. Il était occupé.",
       "end": 45,
       "start": 41
     },
@@ -140,47 +125,47 @@
       "start": 52
     },
     {
-      "content": "J'ai marché pied nu sur une vis C2.\nJ'ai dit les gros mots.",
+      "content": "J'ai marché pied nu sur une vis C2. J'ai dit les gros mots.",
       "end": 60,
       "start": 57
     },
     {
-      "content": "Putain de sa mère de qui j'ai\ntouché, c'était tellement bon.",
+      "content": "Putain de sa mère de qui j'ai touché, c'était tellement bon.",
       "end": 62,
       "start": 61
     },
     {
-      "content": "J'ai regardé l'étape 9\npendant environ 20 minutes.",
+      "content": "J'ai regardé l'étape 9 pendant environ 20 minutes.",
       "end": 64,
       "start": 62
     },
     {
-      "content": "J'ai sauté l'étape 9.\nLe meuble commençait à avoir de la gueule.",
+      "content": "J'ai sauté l'étape 9. Le meuble commençait à avoir de la gueule.",
       "end": 65,
       "start": 64
     },
     {
-      "content": "J'ai pris le temps de me dire\nque j'étais un putain de bonhomme.",
+      "content": "J'ai pris le temps de me dire que j'étais un putain de bonhomme.",
       "end": 67,
       "start": 65
     },
     {
-      "content": "Arrivé à l'étape 14, j'ai compris\nà quoi servait l'étape 9.",
+      "content": "Arrivé à l'étape 14, j'ai compris à quoi servait l'étape 9.",
       "end": 70,
       "start": 67
     },
     {
-      "content": "Je suis retourné en arrière, j'ai fait\nl'étape 9, je suis revenu à l'étape 14.",
+      "content": "Je suis retourné en arrière, j'ai fait l'étape 9, je suis revenu à l'étape 14.",
       "end": 72,
       "start": 70
     },
     {
-      "content": "J'avais fini mon meuble quand Baptiste a\ndit: Passera pas la porte ton meuble.",
+      "content": "J'avais fini mon meuble quand Baptiste a dit: Passera pas la porte ton meuble.",
       "end": 75,
       "start": 72
     },
     {
-      "content": "Merde.\nDemande.",
+      "content": "Merde. Demande.",
       "end": 79,
       "start": 75
     },
@@ -190,7 +175,7 @@
       "start": 80
     },
     {
-      "content": "J'ai tout démonté, j'ai\ntout remonté dans ma chambre.",
+      "content": "J'ai tout démonté, j'ai tout remonté dans ma chambre.",
       "end": 83,
       "start": 82
     },
@@ -200,17 +185,12 @@
       "start": 83
     },
     {
-      "content": "Je me suis dit que je rangerais\nmes affaires dedans demain",
-      "end": 85,
+      "content": "Je me suis dit que je rangerais mes affaires dedans demain\nparce que j'étais trop crevé.",
+      "end": 87,
       "start": 84
     },
     {
-      "content": "parce que j'étais trop crevé.",
-      "end": 87,
-      "start": 85
-    },
-    {
-      "content": "Deux semaines après,\nje l'avais toujours pas rempli.",
+      "content": "Deux semaines après, je l'avais toujours pas rempli.",
       "end": 88,
       "start": 87
     },

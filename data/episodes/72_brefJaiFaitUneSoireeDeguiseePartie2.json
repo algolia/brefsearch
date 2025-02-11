@@ -15,32 +15,27 @@
       "start": 0
     },
     {
-      "content": "Bref, ça faisait quelques semaines\nque ça se passait pas super bien",
-      "end": 3,
+      "content": "Bref, ça faisait quelques semaines que ça se passait pas super bien\navec mon copain, alors j'ai décidé de lui faire une surprise.",
+      "end": 5,
       "start": 1
     },
     {
-      "content": "avec mon copain, alors j'ai décidé\nde lui faire une surprise.",
-      "end": 5,
-      "start": 3
-    },
-    {
-      "content": "Je lui ai fait croire que\nje venais pas à la soirée de Maud.",
+      "content": "Je lui ai fait croire que je venais pas à la soirée de Maud.",
       "end": 7,
       "start": 5
     },
     {
-      "content": "Je pense que je viendrai\npas à la soirée de Maud.",
+      "content": "Je pense que je viendrai pas à la soirée de Maud.",
       "end": 9,
       "start": 7
     },
     {
-      "content": "Et j'ai demandé à Maud\nde s'assurer qu'il vienne.",
+      "content": "Et j'ai demandé à Maud de s'assurer qu'il vienne.",
       "end": 10,
       "start": 9
     },
     {
-      "content": "Promis, promis ?\nPromis, promis.",
+      "content": "Promis, promis ? Promis, promis.",
       "end": 12,
       "start": 10
     },
@@ -50,12 +45,12 @@
       "start": 12
     },
     {
-      "content": "J'ai voulu m'habiller en Lara\nCroft, mais il me manquait un accessoire.",
+      "content": "J'ai voulu m'habiller en Lara Croft, mais il me manquait un accessoire.",
       "end": 20,
       "start": 16
     },
     {
-      "content": "Je me suis habillée comme\nMia Wallace dans Pulp Fiction.",
+      "content": "Je me suis habillée comme Mia Wallace dans Pulp Fiction.",
       "end": 22,
       "start": 20
     },
@@ -65,12 +60,12 @@
       "start": 22
     },
     {
-      "content": "En plus, je pourrais lui faire\nle coup du regard avec la cigarette.",
+      "content": "En plus, je pourrais lui faire le coup du regard avec la cigarette.",
       "end": 24,
       "start": 22
     },
     {
-      "content": "Ça faisait un peu pute,\nmais c'était une soirée déguisée.",
+      "content": "Ça faisait un peu pute, mais c'était une soirée déguisée.",
       "end": 26,
       "start": 24
     },
@@ -80,44 +75,34 @@
       "start": 26
     },
     {
-      "content": "Le sol collait et il y avait tout ce\nque j'adorais dans les soirées déguisées.",
+      "content": "Le sol collait et il y avait tout ce que j'adorais dans les soirées déguisées.",
       "end": 30,
       "start": 28
     },
     {
-      "content": "Batman qui roulait enfin des pelles\nà Robin, même si Catwoman était vénère.",
+      "content": "Batman qui roulait enfin des pelles à Robin, même si Catwoman était vénère.",
       "end": 33,
       "start": 30
     },
     {
-      "content": "Einstein qui vomissait\nà la vitesse de la lumière",
-      "end": 34,
+      "content": "Einstein qui vomissait à la vitesse de la lumière\net des gens déguisés n'importe comment.",
+      "end": 36,
       "start": 33
     },
     {
-      "content": "et des gens déguisés n'importe comment.",
-      "end": 36,
-      "start": 34
-    },
-    {
-      "content": "Mais si, je suis déguisé\nen DDo, le prince des ténèbres.",
+      "content": "Mais si, je suis déguisé en DDo, le prince des ténèbres.",
       "end": 40,
       "start": 36
     },
     {
-      "content": "Cool.\nJe ne connaissais pas.",
+      "content": "Cool. Je ne connaissais pas.",
       "end": 43,
       "start": 41
     },
     {
-      "content": "C'était cool, mais j'étais quand même\ndans une soirée sans mon copain avec",
-      "end": 45,
-      "start": 43
-    },
-    {
-      "content": "des gens que je connaissais pas trop.",
+      "content": "C'était cool, mais j'étais quand même dans une soirée sans mon copain avec\ndes gens que je connaissais pas trop.",
       "end": 46,
-      "start": 45
+      "start": 43
     },
     {
       "content": "Mon copain est arrivé, il m'a vu.",
@@ -125,7 +110,7 @@
       "start": 46
     },
     {
-      "content": "J'ai vu qu'il m'avait vue,\nmais il n'est pas venu me voir.",
+      "content": "J'ai vu qu'il m'avait vue, mais il n'est pas venu me voir.",
       "end": 50,
       "start": 48
     },
@@ -135,24 +120,19 @@
       "start": 50
     },
     {
-      "content": "Je lui ai fait une blague,\nil a pas rigolé.",
+      "content": "Je lui ai fait une blague, il a pas rigolé.",
       "end": 55,
       "start": 52
     },
     {
-      "content": "Il m'a demandé.\nQu'est-ce que tu fais là ?",
+      "content": "Il m'a demandé. Qu'est-ce que tu fais là ?",
       "end": 56,
       "start": 55
     },
     {
-      "content": "J'ai voulu lui dire: Il faut\nqu'on parle, mais il a fait comme",
-      "end": 59,
-      "start": 57
-    },
-    {
-      "content": "s'il avait reçu un texto, alors\nje lui ai fait le coup de la cigarette.",
+      "content": "J'ai voulu lui dire: Il faut qu'on parle, mais il a fait comme\ns'il avait reçu un texto, alors je lui ai fait le coup de la cigarette.",
       "end": 61,
-      "start": 59
+      "start": 57
     },
     {
       "content": "Je lui ai dit: J'ai fumé.",
@@ -160,17 +140,17 @@
       "start": 61
     },
     {
-      "content": "Tu me lèves ?\nIl m'a dit: Non.",
+      "content": "Tu me lèves ? Il m'a dit: Non.",
       "end": 65,
       "start": 64
     },
     {
-      "content": "J'ai eu envie de pleurer.\nJe suis partie.",
+      "content": "J'ai eu envie de pleurer. Je suis partie.",
       "end": 67,
       "start": 65
     },
     {
-      "content": "J'ai bousculé ce mec,\nil m'a dit: Et après...",
+      "content": "J'ai bousculé ce mec, il m'a dit: Et après...",
       "end": 71,
       "start": 67
     },
@@ -185,12 +165,12 @@
       "start": 74
     },
     {
-      "content": "Mais si, Dédot, Dédot,\nle prince des ténèbres.",
+      "content": "Mais si, Dédot, Dédot, le prince des ténèbres.",
       "end": 81,
       "start": 77
     },
     {
-      "content": "Et tout à l'heure: Tu t'es pas\nrend, tu t'es pas rend.",
+      "content": "Et tout à l'heure: Tu t'es pas rend, tu t'es pas rend.",
       "end": 87,
       "start": 81
     },

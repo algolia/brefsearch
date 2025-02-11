@@ -10,14 +10,9 @@
   },
   "lines": [
     {
-      "content": "Bref, ce jour-là, j'avais\nrendez-vous à midi avec cette fille",
-      "end": 2,
-      "start": 0
-    },
-    {
-      "content": "que je draguais depuis un moment.\nMes yeux se sont ouverts à 10h00.",
+      "content": "Bref, ce jour-là, j'avais rendez-vous à midi avec cette fille\nque je draguais depuis un moment. Mes yeux se sont ouverts à 10h00.",
       "end": 4,
-      "start": 2
+      "start": 0
     },
     {
       "content": "Je me suis dit: Je suis large.",
@@ -25,49 +20,44 @@
       "start": 4
     },
     {
-      "content": "J'ai fermé les yeux, je les ai\nrouverts, il était 11h42.",
+      "content": "J'ai fermé les yeux, je les ai rouverts, il était 11h42.",
       "end": 7,
       "start": 5
     },
     {
-      "content": "Merde.\nJ'ai voulu l'appeler pour la prévenir.",
+      "content": "Merde. J'ai voulu l'appeler pour la prévenir.",
       "end": 9,
       "start": 7
     },
     {
-      "content": "J'ai cherché mon portable pendant\n13 putains de minutes et j'ai abandonné.",
+      "content": "J'ai cherché mon portable pendant 13 putains de minutes et j'ai abandonné.",
       "end": 12,
       "start": 9
     },
     {
-      "content": "J'y suis allé.\nJ'avais 13 minutes de retard.",
+      "content": "J'y suis allé. J'avais 13 minutes de retard.",
       "end": 13,
       "start": 12
     },
     {
-      "content": "J'ai raté le bus,\nje l'ai attendu 14 minutes.",
+      "content": "J'ai raté le bus, je l'ai attendu 14 minutes.",
       "end": 14,
       "start": 13
     },
     {
-      "content": "Après le bus, j'ai croisé un mec\navec trois chiens dégueulasses.",
+      "content": "Après le bus, j'ai croisé un mec avec trois chiens dégueulasses.",
       "end": 16,
       "start": 14
     },
     {
-      "content": "Il m'a dit qu'il pouvait plus se déplacer.\nJe peux plus me déplacer.",
+      "content": "Il m'a dit qu'il pouvait plus se déplacer. Je peux plus me déplacer.",
       "end": 18,
       "start": 16
     },
     {
-      "content": "Je l'ai regardé, j'ai regardé\nses chiens, je lui ai dit: Je lui ai",
-      "end": 21,
-      "start": 18
-    },
-    {
-      "content": "dit: Achète un traîneau.\nÇa l'a pas fait rire.",
+      "content": "Je l'ai regardé, j'ai regardé ses chiens, je lui ai dit: Je lui ai\ndit: Achète un traîneau. Ça l'a pas fait rire.",
       "end": 23,
-      "start": 21
+      "start": 18
     },
     {
       "content": "Il a voulu me casser la gueule.",
@@ -85,14 +75,9 @@
       "start": 25
     },
     {
-      "content": "Juste après, un mec m'a\ndemandé: Excuse-moi, tu peux",
-      "end": 28,
-      "start": 26
-    },
-    {
-      "content": "me prêter ton portable ?\nJ'ai entendu Excuse-moi.",
+      "content": "Juste après, un mec m'a demandé: Excuse-moi, tu peux\nme prêter ton portable ? J'ai entendu Excuse-moi.",
       "end": 30,
-      "start": 28
+      "start": 26
     },
     {
       "content": "Tu peux me donner tout ce que tu as ?",
@@ -100,7 +85,7 @@
       "start": 30
     },
     {
-      "content": "Je lui ai dit: J'ai pas mon téléphone.\nIl m'a pas cru.",
+      "content": "Je lui ai dit: J'ai pas mon téléphone. Il m'a pas cru.",
       "end": 33,
       "start": 31
     },
@@ -110,7 +95,7 @@
       "start": 33
     },
     {
-      "content": "J'ai entendu: Tu veux mourir ou quoi ?\nJ'ai dit non.",
+      "content": "J'ai entendu: Tu veux mourir ou quoi ? J'ai dit non.",
       "end": 36,
       "start": 34
     },
@@ -125,32 +110,27 @@
       "start": 38
     },
     {
-      "content": "Il m'a dit: Vas-y, je vais\nte fouiller pour voir si tu mens.",
+      "content": "Il m'a dit: Vas-y, je vais te fouiller pour voir si tu mens.",
       "end": 41,
       "start": 39
     },
     {
-      "content": "Je me suis dit, s'il me touche,\nje suis obligé de lui mettre une droite.",
+      "content": "Je me suis dit, s'il me touche, je suis obligé de lui mettre une droite.",
       "end": 43,
       "start": 41
     },
     {
-      "content": "Il m'a touché.\nJe n'ai rien fait.",
+      "content": "Il m'a touché. Je n'ai rien fait.",
       "end": 46,
       "start": 43
     },
     {
-      "content": "Pendant que ce mec que je ne connais pas\nme fouillait, je me suis dit que c'était",
-      "end": 48,
+      "content": "Pendant que ce mec que je ne connais pas me fouillait, je me suis dit que c'était\nquand même une bonne journée de merde.",
+      "end": 49,
       "start": 46
     },
     {
-      "content": "quand même une bonne journée de merde.",
-      "end": 49,
-      "start": 48
-    },
-    {
-      "content": "Il n'a pas trouvé de portable,\nil m'a dit au revoir.",
+      "content": "Il n'a pas trouvé de portable, il m'a dit au revoir.",
       "end": 51,
       "start": 49
     },
@@ -175,12 +155,12 @@
       "start": 59
     },
     {
-      "content": "Je suis arrivé au café avec 45 minutes\nde retard, je n'ai pas trouvé la fille.",
+      "content": "Je suis arrivé au café avec 45 minutes de retard, je n'ai pas trouvé la fille.",
       "end": 63,
       "start": 60
     },
     {
-      "content": "J'ai demandé au serveur s'il l'avait\nvue, il m'a demandé si je consommais.",
+      "content": "J'ai demandé au serveur s'il l'avait vue, il m'a demandé si je consommais.",
       "end": 65,
       "start": 63
     },
@@ -190,12 +170,12 @@
       "start": 65
     },
     {
-      "content": "Je lui ai dit que je cherchais quelqu'un,\nil m'a demandé si je consommais.",
+      "content": "Je lui ai dit que je cherchais quelqu'un, il m'a demandé si je consommais.",
       "end": 67,
       "start": 65
     },
     {
-      "content": "Consommer ou pas ?\nJe lui ai dit que je...",
+      "content": "Consommer ou pas ? Je lui ai dit que je...",
       "end": 68,
       "start": 67
     },
@@ -205,37 +185,22 @@
       "start": 68
     },
     {
-      "content": "J'ai eu envie qu'il perde son boulot,\nqu'il perde sa femme, qu'il obtienne",
-      "end": 72,
+      "content": "J'ai eu envie qu'il perde son boulot, qu'il perde sa femme, qu'il obtienne\nla garde de son enfant, ni qu'il le perd dans un accident.",
+      "end": 73,
       "start": 70
     },
     {
-      "content": "la garde de son enfant, ni\nqu'il le perd dans un accident.",
-      "end": 73,
-      "start": 72
-    },
-    {
-      "content": "Il culpabilise, il essaie\nde se suicider, qu'il se rafle,",
+      "content": "Il culpabilise, il essaie de se suicider, qu'il se rafle,\nqu'il tue sa mère par erreur.",
       "end": 75,
       "start": 73
     },
     {
-      "content": "qu'il tue sa mère par erreur.",
-      "end": 75,
-      "start": 75
-    },
-    {
-      "content": "Au cimetière, son père lui dit\nqu'il était pas son vrai père,",
-      "end": 77,
-      "start": 75
-    },
-    {
-      "content": "que son vrai père, c'était lui.\nJe lui ai répondu, non ?",
+      "content": "Au cimetière, son père lui dit qu'il était pas son vrai père,\nque son vrai père, c'était lui. Je lui ai répondu, non ?",
       "end": 81,
-      "start": 77
+      "start": 75
     },
     {
-      "content": "Enfin.\nBref, je suis arrivé 47 minutes en retard.",
+      "content": "Enfin. Bref, je suis arrivé 47 minutes en retard.",
       "end": 87,
       "start": 81
     },

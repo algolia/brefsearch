@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "De toute façon,\nn'hésitez pas à me contacter.",
+      "content": "De toute façon, n'hésitez pas à me contacter.",
       "end": 1,
       "start": 0
     },
@@ -20,17 +20,12 @@
       "start": 1
     },
     {
-      "content": "Ce soir-là, j'avais dit à Maud,\nl'ex de mon frère, que je venais",
-      "end": 4,
+      "content": "Ce soir-là, j'avais dit à Maud, l'ex de mon frère, que je venais\nà cette soirée déguisé. Promis ?",
+      "end": 6,
       "start": 3
     },
     {
-      "content": "à cette soirée déguisé.\nPromis ?",
-      "end": 6,
-      "start": 4
-    },
-    {
-      "content": "Promis.\nPromis, promis.",
+      "content": "Promis. Promis, promis.",
       "end": 7,
       "start": 6
     },
@@ -40,7 +35,7 @@
       "start": 7
     },
     {
-      "content": "Je n'avais pas envie d'y aller,\nmais j'avais promis trois fois.",
+      "content": "Je n'avais pas envie d'y aller, mais j'avais promis trois fois.",
       "end": 9,
       "start": 8
     },
@@ -50,22 +45,17 @@
       "start": 9
     },
     {
-      "content": "J'allais sortir du taf, mon boss m'a\ndit: Tu peux me classer les devis, là,",
-      "end": 13,
+      "content": "J'allais sortir du taf, mon boss m'a dit: Tu peux me classer les devis, là,\nil y en a pour cinq petites minutes. J'ai dit: En fait, je dois y aller.",
+      "end": 15,
       "start": 10
     },
     {
-      "content": "il y en a pour cinq petites minutes.\nJ'ai dit: En fait, je dois y aller.",
-      "end": 15,
-      "start": 13
-    },
-    {
-      "content": "Ensuite, on a discuté.\nAh bon ?",
+      "content": "Ensuite, on a discuté. Ah bon ?",
       "end": 16,
       "start": 15
     },
     {
-      "content": "Parce que je...\nOui, mais...",
+      "content": "Parce que je... Oui, mais...",
       "end": 18,
       "start": 16
     },
@@ -75,29 +65,24 @@
       "start": 18
     },
     {
-      "content": "Je n'avais pas envie de le faire,\nmais j'ai dit: D'accord.",
+      "content": "Je n'avais pas envie de le faire, mais j'ai dit: D'accord.",
       "end": 22,
       "start": 19
     },
     {
-      "content": "À la fin des cinq petites\nminutes, il était 22h00.",
+      "content": "À la fin des cinq petites minutes, il était 22h00.",
       "end": 25,
       "start": 22
     },
     {
-      "content": "Toutes les boutiques étaient fermées,\nmais j'avais promis de me déguiser.",
+      "content": "Toutes les boutiques étaient fermées, mais j'avais promis de me déguiser.",
       "end": 27,
       "start": 25
     },
     {
-      "content": "Alors, j'ai acheté un foulard,\ndeux bagues et un vieux email",
-      "end": 29,
-      "start": 27
-    },
-    {
-      "content": "à un vendeur à la Il m'a dit: 5,00.\nJ'ai entendu.",
+      "content": "Alors, j'ai acheté un foulard, deux bagues et un vieux email\nà un vendeur à la Il m'a dit: 5,00. J'ai entendu.",
       "end": 31,
-      "start": 29
+      "start": 27
     },
     {
       "content": "Il ne fallait pas promettre, mec.",
@@ -105,7 +90,7 @@
       "start": 31
     },
     {
-      "content": "J'étais le pire Jack Sparrow\nde toute l'histoire des Jack Sparrow.",
+      "content": "J'étais le pire Jack Sparrow de toute l'histoire des Jack Sparrow.",
       "end": 39,
       "start": 35
     },
@@ -115,27 +100,27 @@
       "start": 39
     },
     {
-      "content": "Je n'avais pas envie de rentrer,\nje suis rentré.",
+      "content": "Je n'avais pas envie de rentrer, je suis rentré.",
       "end": 41,
       "start": 39
     },
     {
-      "content": "Il y avait tout ce que je déteste\ndans les soirées déguisées.",
+      "content": "Il y avait tout ce que je déteste dans les soirées déguisées.",
       "end": 43,
       "start": 41
     },
     {
-      "content": "Le mec que personne ne connaît\net qui est un soir déguisé.",
+      "content": "Le mec que personne ne connaît et qui est un soir déguisé.",
       "end": 45,
       "start": 43
     },
     {
-      "content": "Le mec qui te demande: À\nton avis, je suis qui ?",
+      "content": "Le mec qui te demande: À ton avis, je suis qui ?",
       "end": 47,
       "start": 45
     },
     {
-      "content": "Un connard ?\nSuperman ?",
+      "content": "Un connard ? Superman ?",
       "end": 49,
       "start": 47
     },
@@ -145,12 +130,12 @@
       "start": 49
     },
     {
-      "content": "La meuf qui te demande:\nÀ ton avis, je suis qui ?",
+      "content": "La meuf qui te demande: À ton avis, je suis qui ?",
       "end": 51,
       "start": 49
     },
     {
-      "content": "Une meuf qui profite que c'est une soirée\ndéguisée pour s'habiller comme une pute ?",
+      "content": "Une meuf qui profite que c'est une soirée déguisée pour s'habiller comme une pute ?",
       "end": 54,
       "start": 51
     },
@@ -165,7 +150,7 @@
       "start": 55
     },
     {
-      "content": "Le sol collait, mes potes\nétaient déjà bourrés.",
+      "content": "Le sol collait, mes potes étaient déjà bourrés.",
       "end": 58,
       "start": 56
     },
@@ -175,27 +160,22 @@
       "start": 58
     },
     {
-      "content": "Julien Il y avait un déguisement\nqui lui allait pas du tout.",
+      "content": "Julien Il y avait un déguisement qui lui allait pas du tout.",
       "end": 60,
       "start": 59
     },
     {
-      "content": "Et en plus, il y avait ma copine\nque j'avais trompée et qui m'avait dit",
-      "end": 63,
+      "content": "Et en plus, il y avait ma copine que j'avais trompée et qui m'avait dit\nqu'elle serait pas là.",
+      "end": 65,
       "start": 60
     },
     {
-      "content": "qu'elle serait pas là.",
-      "end": 65,
-      "start": 63
-    },
-    {
-      "content": "Putain.\nElle est venue, elle m'a fait une blague.",
+      "content": "Putain. Elle est venue, elle m'a fait une blague.",
       "end": 67,
       "start": 65
     },
     {
-      "content": "C'était pas marrant.\nJ'ai pas rigolé, je lui ai dit.",
+      "content": "C'était pas marrant. J'ai pas rigolé, je lui ai dit.",
       "end": 70,
       "start": 67
     },
@@ -205,17 +185,17 @@
       "start": 70
     },
     {
-      "content": "J'ai reçu un texto où il y avait écrit:\nLargue-la avec 8 A, très exactement.",
+      "content": "J'ai reçu un texto où il y avait écrit: Largue-la avec 8 A, très exactement.",
       "end": 75,
       "start": 71
     },
     {
-      "content": "C'était Kheiron sur le canapé\nqui nous matait depuis tout à l'heure.",
+      "content": "C'était Kheiron sur le canapé qui nous matait depuis tout à l'heure.",
       "end": 77,
       "start": 75
     },
     {
-      "content": "Elle m'a dit: Je ne\nsupporte pas la cigarette.",
+      "content": "Elle m'a dit: Je ne supporte pas la cigarette.",
       "end": 80,
       "start": 77
     },
@@ -230,7 +210,7 @@
       "start": 80
     },
     {
-      "content": "Elle n'en avait rien à foutre, elle est\npartie.",
+      "content": "Elle n'en avait rien à foutre, elle est partie.",
       "end": 86,
       "start": 82
     },
@@ -240,17 +220,17 @@
       "start": 86
     },
     {
-      "content": "Au bout d'un quart d'heure,\nj'ai décidé de partir.",
+      "content": "Au bout d'un quart d'heure, j'ai décidé de partir.",
       "end": 91,
       "start": 89
     },
     {
-      "content": "J'ai bousculé ce mec\nque personne ne connaissait.",
+      "content": "J'ai bousculé ce mec que personne ne connaissait.",
       "end": 93,
       "start": 91
     },
     {
-      "content": "J'ai dit: Fais gaffe, merde.\nÇa va, tranquille.",
+      "content": "J'ai dit: Fais gaffe, merde. Ça va, tranquille.",
       "end": 94,
       "start": 93
     },

@@ -10,22 +10,17 @@
   },
   "lines": [
     {
-      "content": "Bref, j'étais dans cette soirée\nde merde quand ce mec",
-      "end": 2,
+      "content": "Bref, j'étais dans cette soirée de merde quand ce mec\nque je connaissais pas m'a demandé. C'est quoi ton problème ?",
+      "end": 4,
       "start": 0
     },
     {
-      "content": "que je connaissais pas m'a demandé.\nC'est quoi ton problème ?",
-      "end": 4,
-      "start": 2
-    },
-    {
-      "content": "Je me suis rendu compte que tout\nle monde s'en foutait de mon problème.",
+      "content": "Je me suis rendu compte que tout le monde s'en foutait de mon problème.",
       "end": 5,
       "start": 4
     },
     {
-      "content": "Ces gens-là ne voulaient\nsurtout pas avoir de problèmes.",
+      "content": "Ces gens-là ne voulaient surtout pas avoir de problèmes.",
       "end": 7,
       "start": 5
     },
@@ -35,12 +30,12 @@
       "start": 7
     },
     {
-      "content": "Je m'en bats les couilles,\nje vais leur dire.",
+      "content": "Je m'en bats les couilles, je vais leur dire.",
       "end": 9,
       "start": 8
     },
     {
-      "content": "J'ai pris l'iPad, je l'ai arrêté.\nQuoi ?",
+      "content": "J'ai pris l'iPad, je l'ai arrêté. Quoi ?",
       "end": 13,
       "start": 9
     },
@@ -60,14 +55,9 @@
       "start": 24
     },
     {
-      "content": "C'est ma faute si je pourrais devenir\ndes soirées que j'aime pas",
-      "end": 29,
-      "start": 27
-    },
-    {
-      "content": "avec des gens que j'aime pas.",
+      "content": "C'est ma faute si je pourrais devenir des soirées que j'aime pas\navec des gens que j'aime pas.",
       "end": 30,
-      "start": 29
+      "start": 27
     },
     {
       "content": "Je promis trois fois.",
@@ -80,7 +70,7 @@
       "start": 33
     },
     {
-      "content": "On va tellement les couilles de cette\nsoirée.",
+      "content": "On va tellement les couilles de cette soirée.",
       "end": 38,
       "start": 36
     },
@@ -90,49 +80,39 @@
       "start": 38
     },
     {
-      "content": "À part faire des photos, les mettre\nsur Facebook et dire: J'ai",
-      "end": 41,
+      "content": "À part faire des photos, les mettre sur Facebook et dire: J'ai\ndes amis, j'ai des amis. Personne n'a d'amis ici.",
+      "end": 44,
       "start": 39
     },
     {
-      "content": "des amis, j'ai des amis.\nPersonne n'a d'amis ici.",
-      "end": 44,
-      "start": 41
-    },
-    {
-      "content": "Maud, t'as pas T'es un ami.\nTu crois quoi ?",
+      "content": "Maud, t'as pas T'es un ami. Tu crois quoi ?",
       "end": 46,
       "start": 44
     },
     {
-      "content": "Tu passes ta soirée dans la cuisine\nà faire des cacos d'olive ?",
+      "content": "Tu passes ta soirée dans la cuisine à faire des cacos d'olive ?",
       "end": 48,
       "start": 46
     },
     {
-      "content": "Ça va pas ?\nTu fermes ta gueule !",
+      "content": "Ça va pas ? Tu fermes ta gueule !",
       "end": 51,
       "start": 48
     },
     {
-      "content": "Je suis là, j'ai mis un bandana,\nje me suis déguisé.",
+      "content": "Je suis là, j'ai mis un bandana, je me suis déguisé.",
       "end": 54,
       "start": 51
     },
     {
-      "content": "Je sais même pas pourquoi\nje me suis déguisé.",
+      "content": "Je sais même pas pourquoi je me suis déguisé.",
       "end": 55,
       "start": 54
     },
     {
-      "content": "Je me suis déguisé toute l'année\nen chien-chien au boulot,",
-      "end": 56,
-      "start": 55
-    },
-    {
-      "content": "je me suis déguisé avec vous,\nje me suis déguisé avec toi, là.",
+      "content": "Je me suis déguisé toute l'année en chien-chien au boulot,\nje me suis déguisé avec vous, je me suis déguisé avec toi, là.",
       "end": 60,
-      "start": 56
+      "start": 55
     },
     {
       "content": "Ta copine qui te prend pour un con.",
@@ -145,7 +125,7 @@
       "start": 63
     },
     {
-      "content": "Ton téléphone va vibrer,\ntu vas plus me calculer.",
+      "content": "Ton téléphone va vibrer, tu vas plus me calculer.",
       "end": 67,
       "start": 65
     },
@@ -155,14 +135,9 @@
       "start": 67
     },
     {
-      "content": "T'es peut-être le seul\nque je mérite, vu comment",
-      "end": 70,
-      "start": 69
-    },
-    {
-      "content": "tu t'entends pas les couilles des gens.",
+      "content": "T'es peut-être le seul que je mérite, vu comment\ntu t'entends pas les couilles des gens.",
       "end": 72,
-      "start": 70
+      "start": 69
     },
     {
       "content": "Et toi ?",
@@ -170,7 +145,7 @@
       "start": 73
     },
     {
-      "content": "À quoi tu sers à paraître\nplus heureux que moi ?",
+      "content": "À quoi tu sers à paraître plus heureux que moi ?",
       "end": 77,
       "start": 75
     },
@@ -180,37 +155,32 @@
       "start": 79
     },
     {
-      "content": "Ça va, je te regarde, je compare,\nje me rappelle, c'est cool.",
+      "content": "Ça va, je te regarde, je compare, je me rappelle, c'est cool.",
       "end": 84,
       "start": 81
     },
     {
-      "content": "T'es pédé depuis deux semaines, t'es plus\nheureux que moi en 10 ans avec des meufs.",
+      "content": "T'es pédé depuis deux semaines, t'es plus heureux que moi en 10 ans avec des meufs.",
       "end": 88,
       "start": 84
     },
     {
-      "content": "Tu crois qu'elle fait quoi là,\navec ses quelques olives",
-      "end": 90,
+      "content": "Tu crois qu'elle fait quoi là, avec ses quelques olives\nPourquoi tu crois qu'elle t'a invité ? Pour que tu sois heureux ?",
+      "end": 92,
       "start": 88
     },
     {
-      "content": "Pourquoi tu crois qu'elle t'a invité ?\nPour que tu sois heureux ?",
-      "end": 92,
-      "start": 90
-    },
-    {
-      "content": "Non, c'est pour que tu\nla baises, c'est tout.",
+      "content": "Non, c'est pour que tu la baises, c'est tout.",
       "end": 94,
       "start": 92
     },
     {
-      "content": "Le pire, c'est que c'est pas\nvrai, c'est qu'elle t'aime.",
+      "content": "Le pire, c'est que c'est pas vrai, c'est qu'elle t'aime.",
       "end": 99,
       "start": 97
     },
     {
-      "content": "Tout le monde t'aime.\nToi, t'es parfait, toi.",
+      "content": "Tout le monde t'aime. Toi, t'es parfait, toi.",
       "end": 102,
       "start": 99
     },
@@ -220,32 +190,27 @@
       "start": 103
     },
     {
-      "content": "Moi, je suis un gros lâche.\nJe sais pas quoi faire de ma vie.",
+      "content": "Moi, je suis un gros lâche. Je sais pas quoi faire de ma vie.",
       "end": 108,
       "start": 106
     },
     {
-      "content": "Je suis comme tout le monde,\nje crois que je suis unique.",
+      "content": "Je suis comme tout le monde, je crois que je suis unique.",
       "end": 111,
       "start": 108
     },
     {
-      "content": "Moi, tu me donnes un truc,\nmoi, je le pète.",
+      "content": "Moi, tu me donnes un truc, moi, je le pète.",
       "end": 112,
       "start": 111
     },
     {
-      "content": "Et depuis tout le temps,\ndepuis qu'on est petit, tu me donnes",
-      "end": 114,
+      "content": "Et depuis tout le temps, depuis qu'on est petit, tu me donnes\nta gameboy, je la pète.",
+      "end": 116,
       "start": 112
     },
     {
-      "content": "ta gameboy, je la pète.",
-      "end": 116,
-      "start": 114
-    },
-    {
-      "content": "Tu me donnes un couple,\nje vais baiser une autre meuf.",
+      "content": "Tu me donnes un couple, je vais baiser une autre meuf.",
       "end": 119,
       "start": 116
     },
@@ -265,22 +230,22 @@
       "start": 130
     },
     {
-      "content": "Tu sais quoi ?\nJe m'en bats les couilles.",
+      "content": "Tu sais quoi ? Je m'en bats les couilles.",
       "end": 134,
       "start": 132
     },
     {
-      "content": "Toi, t'es de toi.\nTrompe personne.",
+      "content": "Toi, t'es de toi. Trompe personne.",
       "end": 138,
       "start": 134
     },
     {
-      "content": "De toute façon, je te quitte.\nC'est fini, Sarah.",
+      "content": "De toute façon, je te quitte. C'est fini, Sarah.",
       "end": 145,
       "start": 138
     },
     {
-      "content": "Mon pote, je crois\nque tu es bourré et tu...",
+      "content": "Mon pote, je crois que tu es bourré et tu...",
       "end": 150,
       "start": 147
     },
@@ -295,7 +260,7 @@
       "start": 165
     },
     {
-      "content": "C'est ma soirée ou c'est pas ma soirée ?\nOuais.",
+      "content": "C'est ma soirée ou c'est pas ma soirée ? Ouais.",
       "end": 175,
       "start": 169
     }
