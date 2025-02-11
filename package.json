@@ -31,5 +31,9 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch",
     "release": "./scripts/release"
+  },
+  "dependencies": {
+    "firost": "4.9.0",
+    "golgoth": "3.0.0"
   }
 }
