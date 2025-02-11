@@ -1,0 +1,35 @@
+{
+  "name": "brefsearch",
+  "version": "0.0.1",
+  "author": "pixelastic",
+  "description": "",
+  "keywords": [],
+  "repository": "pixelastic/brefsearch",
+  "homepage": "https://github.com/pixelastic/brefsearch",
+  "type": "module",
+  "sideEffects": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "packageManager": "yarn@4.6.0",
+  "files": [
+    "lib/*.js"
+  ],
+  "exports": {
+    ".": "./lib/main.js"
+  },
+  "main": "./lib/main.js",
+  "devDependencies": {
+    "aberlaas": "2.13.0"
+  },
+  "scripts": {
+    "ci": "./scripts/ci",
+    "compress": "./scripts/compress",
+    "lint": "./scripts/lint",
+    "lint:fix": "./scripts/lint-fix",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch",
+    "release": "./scripts/release"
+  }
+}

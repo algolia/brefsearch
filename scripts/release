@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -e
+
+echo "TODO: Find a way to release a simple module, not in a mono-repo"
