@@ -8,6 +8,238 @@
     "name": "J'ai dragué cette fille.",
     "slug": "brefJaiDragueCetteFille"
   },
+  "lines": [
+    {
+      "content": "Alors, c'est ma soirée ou c'est pas ma soirée là ?",
+      "end": 2,
+      "start": 0
+    },
+    {
+      "content": "Bref, j'avais repéré",
+      "end": 8,
+      "start": 2
+    },
+    {
+      "content": "cette fille à la soirée de Maud.",
+      "end": 9,
+      "start": 8
+    },
+    {
+      "content": "J'ai demandé à Maude\nsi elle avait un copain.",
+      "end": 10,
+      "start": 9
+    },
+    {
+      "content": "Elle m'a dit: Je sais pas.",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "J'ai demandé à Kevin,\nil m'a dit: Je sais pas.",
+      "end": 13,
+      "start": 11
+    },
+    {
+      "content": "J'ai demandé à Baptiste,\nil m'a dit: J'entends pas.",
+      "end": 15,
+      "start": 13
+    },
+    {
+      "content": "J'ai demandé à Christine, elle m'a\ndit: J'ai pris ça pour un non.",
+      "end": 18,
+      "start": 15
+    },
+    {
+      "content": "Alors, je suis allé.\nJe lui ai fait une blague, elle a rigolé.",
+      "end": 20,
+      "start": 18
+    },
+    {
+      "content": "Je lui en ai fait une deuxième,\nelle a pas rigolé.",
+      "end": 21,
+      "start": 20
+    },
+    {
+      "content": "Mais elle avait pas compris.\nJ'avais pas compris.",
+      "end": 23,
+      "start": 21
+    },
+    {
+      "content": "Alors, ça va.\nUn mec est arrivé.",
+      "end": 24,
+      "start": 23
+    },
+    {
+      "content": "Je m'appelle Steve.\nJ'ai cru que c'était son mec.",
+      "end": 26,
+      "start": 24
+    },
+    {
+      "content": "Alors, je suis parti.\nEn fait, c'était son pote au bout.",
+      "end": 28,
+      "start": 26
+    },
+    {
+      "content": "Allez, j'y vais, je vais m'éclater.",
+      "end": 29,
+      "start": 28
+    },
+    {
+      "content": "On C'est bien beau.\nJe suis revenu.",
+      "end": 32,
+      "start": 29
+    },
+    {
+      "content": "Elle avait un popcorn sucré sur l'épaule.",
+      "end": 34,
+      "start": 32
+    },
+    {
+      "content": "J'ai fait comme si je l'avais pas\nvu, mais je me suis demandé",
+      "end": 35,
+      "start": 34
+    },
+    {
+      "content": "comment il était arrivé là.",
+      "end": 36,
+      "start": 35
+    },
+    {
+      "content": "Je lui ai demandé: Tu\nfais quoi dans la vie ?",
+      "end": 37,
+      "start": 36
+    },
+    {
+      "content": "Je suis caissière.\nC'était pas intéressant.",
+      "end": 39,
+      "start": 37
+    },
+    {
+      "content": "Dans un sac-shop.\nC'était intéressant.",
+      "end": 40,
+      "start": 39
+    },
+    {
+      "content": "Du coup, j'ai plein d'échantillons.\nC'était très intéressant.",
+      "end": 42,
+      "start": 40
+    },
+    {
+      "content": "C'est vachement bien, ça.",
+      "end": 43,
+      "start": 42
+    },
+    {
+      "content": "J'ai reçu un texto avec écrit\nBézla, avec 8 A, très exactement.",
+      "end": 46,
+      "start": 43
+    },
+    {
+      "content": "C'était Kheiron sur le canapé\nqui nous matait depuis tout à l'heure.",
+      "end": 49,
+      "start": 46
+    },
+    {
+      "content": "Elle m'a demandé: Pourquoi tu souris ?\nJ'ai bafouillé.",
+      "end": 51,
+      "start": 49
+    },
+    {
+      "content": "Non, je lui ai dit\nque ma mère était malade.",
+      "end": 53,
+      "start": 51
+    },
+    {
+      "content": "Quoi ?\nQu'elle allait mieux.",
+      "end": 54,
+      "start": 53
+    },
+    {
+      "content": "En y réfléchissant, j'ai compris\ncomment le popcorn sucré était arrivé là.",
+      "end": 57,
+      "start": 54
+    },
+    {
+      "content": "Elle m'a dit: Je vais fumer.",
+      "end": 61,
+      "start": 57
+    },
+    {
+      "content": "Je ne supporte pas la cigarette.\nJe suis là ?",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "Je ne supporte pas la solitude.\nElle m'a jeté un regard, ça m'a troublé.",
+      "end": 67,
+      "start": 63
+    },
+    {
+      "content": "Et puis, Kheiron m'a fait\nun signe discret pour m'encourager.",
+      "end": 69,
+      "start": 67
+    },
+    {
+      "content": "Ça m'a encouragé.",
+      "end": 72,
+      "start": 69
+    },
+    {
+      "content": "On a rediscuté, elle m'a soufflé une,\ndeux, trois, quatre, cinq, six, sept fois",
+      "end": 76,
+      "start": 72
+    },
+    {
+      "content": "sa putain de fumée dans le visage.",
+      "end": 78,
+      "start": 76
+    },
+    {
+      "content": "Puis elle m'a demandé: Je\npeux prendre ton numéro ?",
+      "end": 79,
+      "start": 78
+    },
+    {
+      "content": "Yes.\nJe lui ai donné.",
+      "end": 81,
+      "start": 79
+    },
+    {
+      "content": "Elle m'a dit: Merci,\nc'est Steve qui va être content.",
+      "end": 83,
+      "start": 81
+    },
+    {
+      "content": "Il m'a tanné toute la soirée\npour avoir ton numéro.",
+      "end": 85,
+      "start": 83
+    },
+    {
+      "content": "Alors, je lui ai répondu:\nDepuis tout à l'heure, tu as",
+      "end": 87,
+      "start": 85
+    },
+    {
+      "content": "un popcorn sucré sur l'épaule.",
+      "end": 89,
+      "start": 87
+    },
+    {
+      "content": "Salut.",
+      "end": 90,
+      "start": 89
+    },
+    {
+      "content": "Bref, j'ai dragué cette fille.",
+      "end": 98,
+      "start": 90
+    },
+    {
+      "content": "Ah le con.",
+      "end": 101,
+      "start": 101
+    }
+  ],
   "video": {
     "id": "UO8tcf3U0dY"
   }

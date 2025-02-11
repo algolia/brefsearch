@@ -24,6 +24,7 @@
     "aberlaas": "2.13.0"
   },
   "scripts": {
+    "update-episode-lines": "node ./scripts/update-episode-lines.js",
     "ci": "./scripts/ci",
     "compress": "./scripts/compress",
     "lint": "./scripts/lint",
