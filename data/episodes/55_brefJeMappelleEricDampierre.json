@@ -8,6 +8,298 @@
     "name": "Je m'appelle Eric Dampierre.",
     "slug": "brefJeMappelleEricDampierre"
   },
+  "lines": [
+    {
+      "content": "Oui, je vous appelle concernant le love.",
+      "end": 1,
+      "start": 0
+    },
+    {
+      "content": "Mon nom à moi, c'est Eric Dampierre.\nLui, c'est Eric Dampierre.",
+      "end": 4,
+      "start": 1
+    },
+    {
+      "content": "Lui, c'est Eric Dampierre.\nEt lui, c'est Eric Dampierre.",
+      "end": 6,
+      "start": 4
+    },
+    {
+      "content": "Eric Dampierre,\nà l'appareil de Télécom 3 000.",
+      "end": 7,
+      "start": 6
+    },
+    {
+      "content": "Bonjour.",
+      "end": 8,
+      "start": 7
+    },
+    {
+      "content": "Parmi les tafs de merde que j'ai pu\navoir, il y a eu le télémarketing.",
+      "end": 10,
+      "start": 8
+    },
+    {
+      "content": "On s'appelait tous Eric Dampierre.",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "Comme ça, quand quelqu'un nous rappelait\nen nous disant: Bonjour,",
+      "end": 13,
+      "start": 11
+    },
+    {
+      "content": "j'aimerais parler à monsieur Eric\nDampierre, s'il vous plaît.",
+      "end": 15,
+      "start": 13
+    },
+    {
+      "content": "N'importe qui pouvait répondre.\nOui, c'est moi.",
+      "end": 16,
+      "start": 15
+    },
+    {
+      "content": "Oui, c'est moi.\nOui, c'est moi.",
+      "end": 18,
+      "start": 16
+    },
+    {
+      "content": "C'est moi-même qui le demande.",
+      "end": 19,
+      "start": 18
+    },
+    {
+      "content": "Bonjour madame Dubreuil.",
+      "end": 20,
+      "start": 19
+    },
+    {
+      "content": "On avait une fiche qui résumait le client.",
+      "end": 21,
+      "start": 20
+    },
+    {
+      "content": "Vous avez réfléchi\nà la proposition d'hier ?",
+      "end": 23,
+      "start": 21
+    },
+    {
+      "content": "Oui.\nEn fait, je n'en ai pas vraiment besoin.",
+      "end": 26,
+      "start": 23
+    },
+    {
+      "content": "Maintenant que je suis à la retraite\net que mon mari n'est plus là.",
+      "end": 28,
+      "start": 26
+    },
+    {
+      "content": "On avait réponse à tout\ngrâce au script d'appel.",
+      "end": 29,
+      "start": 28
+    },
+    {
+      "content": "Le C'est un crypte d'appel, c'est un arbre\navec toutes les possibilités de réponses.",
+      "end": 31,
+      "start": 29
+    },
+    {
+      "content": "C'est comme aux échecs.",
+      "end": 32,
+      "start": 31
+    },
+    {
+      "content": "On avait dix coups d'avance préparés\npar des mecs en costard dans des bureaux.",
+      "end": 35,
+      "start": 32
+    },
+    {
+      "content": "Du coup, cette donnée.\nJe peux pas me le permettre.",
+      "end": 38,
+      "start": 36
+    },
+    {
+      "content": "Oui, mais...\nC'est vrai, mec.",
+      "end": 40,
+      "start": 38
+    },
+    {
+      "content": "Vous savez...\nOui, car...",
+      "end": 42,
+      "start": 40
+    },
+    {
+      "content": "Parfait.\nAlors...",
+      "end": 43,
+      "start": 42
+    },
+    {
+      "content": "Et la date d'expiration de votre carte.\nYou win.",
+      "end": 46,
+      "start": 43
+    },
+    {
+      "content": "Merci, passez une excellente\njournée, au revoir.",
+      "end": 48,
+      "start": 46
+    },
+    {
+      "content": "Si je rackettais cette petite vieille\nau téléphone, c'est parce qu'au-dessus",
+      "end": 49,
+      "start": 48
+    },
+    {
+      "content": "de tous les Eric dans Pierre,\nil y avait l'écran d'objectif.",
+      "end": 51,
+      "start": 49
+    },
+    {
+      "content": "Si j'atteignais pas mon objectif,\nmon salaire de merde devenait",
+      "end": 53,
+      "start": 51
+    },
+    {
+      "content": "un salaire de grosse merde.",
+      "end": 54,
+      "start": 53
+    },
+    {
+      "content": "Mon objectif était calculé\npour être 20% supérieur à l'objectif",
+      "end": 56,
+      "start": 54
+    },
+    {
+      "content": "que j'avais atteint le mois précédent.",
+      "end": 57,
+      "start": 56
+    },
+    {
+      "content": "En gros, travailler\nplus pour gagner pareil.",
+      "end": 58,
+      "start": 57
+    },
+    {
+      "content": "Le responsable de plateau nous espionnait.",
+      "end": 61,
+      "start": 58
+    },
+    {
+      "content": "Mais je peux vous écrire.",
+      "end": 62,
+      "start": 61
+    },
+    {
+      "content": "Je viens d'écouter\nta conversation, ça va pas du tout.",
+      "end": 65,
+      "start": 62
+    },
+    {
+      "content": "Tu fais beaucoup trop d'interro négatives.\nLui, c'est Stanley.",
+      "end": 67,
+      "start": 65
+    },
+    {
+      "content": "Il utilise des mots que celle\ndes mecs de Sarah se comprennent.",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Déjà que le prestat\nqui outsource nous a sous-taffé.",
+      "end": 70,
+      "start": 68
+    },
+    {
+      "content": "On est overkill à cause d'un match coding\nmal foutu, tu peux pas te permettre ça.",
+      "end": 73,
+      "start": 70
+    },
+    {
+      "content": "Regarde Mamadou, lui,\nc'est un bon Éric Dampierre.",
+      "end": 76,
+      "start": 73
+    },
+    {
+      "content": "Qui les demande ?",
+      "end": 77,
+      "start": 76
+    },
+    {
+      "content": "Je détestais ce taf de merde,\nmais il y avait des bons côtés.",
+      "end": 79,
+      "start": 77
+    },
+    {
+      "content": "Non.\nNon, je suis pas dans le délire.",
+      "end": 82,
+      "start": 79
+    },
+    {
+      "content": "C'est vrai, mais...\nTu sais ?",
+      "end": 85,
+      "start": 82
+    },
+    {
+      "content": "Ah bon ?\nOui, carrément.",
+      "end": 86,
+      "start": 85
+    },
+    {
+      "content": "Parfait.\nYou win perfect.",
+      "end": 90,
+      "start": 86
+    },
+    {
+      "content": "Bref, je m'appelle Éric Dampierre.\nOui.",
+      "end": 94,
+      "start": 90
+    },
+    {
+      "content": "Bonjour, Bruno Dussalier.",
+      "end": 95,
+      "start": 94
+    },
+    {
+      "content": "Je vous appelle à propos\nde votre abonnement.",
+      "end": 97,
+      "start": 95
+    },
+    {
+      "content": "En fait...",
+      "end": 98,
+      "start": 97
+    },
+    {
+      "content": "Je ne souhaite pas\nrépondre à vos questions.",
+      "end": 100,
+      "start": 98
+    },
+    {
+      "content": "Ah bon ?\nPourquoi ?",
+      "end": 101,
+      "start": 100
+    },
+    {
+      "content": "Ceci est une question,\nje ne souhaite pas y répondre.",
+      "end": 103,
+      "start": 101
+    },
+    {
+      "content": "Vous êtes dans la maison ?",
+      "end": 105,
+      "start": 105
+    },
+    {
+      "content": "Oui.",
+      "end": 107,
+      "start": 106
+    },
+    {
+      "content": "Bon courage.",
+      "end": 108,
+      "start": 107
+    }
+  ],
   "video": {
     "id": "tkOuQiO-Vzg"
   }

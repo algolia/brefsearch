@@ -8,6 +8,213 @@
     "name": "Je suis hypocondriaque.",
     "slug": "brefJeSuisHypocondriaque"
   },
+  "lines": [
+    {
+      "content": "Bref, j'étais en train de me mettre\ndes gouttes dans le nez.",
+      "end": 6,
+      "start": 4
+    },
+    {
+      "content": "Mon frère m'a dit: Tu es\nvraiment hippocondriac.",
+      "end": 7,
+      "start": 6
+    },
+    {
+      "content": "J'ai dit: Non.\nJe fais juste attention.",
+      "end": 10,
+      "start": 7
+    },
+    {
+      "content": "Je fais juste attention.",
+      "end": 10,
+      "start": 10
+    },
+    {
+      "content": "Quand j'ai un doute,\nje vais sur des forums.",
+      "end": 12,
+      "start": 10
+    },
+    {
+      "content": "Généralement, après les avoir\nconsultés, je suis sûr d'avoir",
+      "end": 14,
+      "start": 12
+    },
+    {
+      "content": "une maladie orpheline.",
+      "end": 15,
+      "start": 14
+    },
+    {
+      "content": "J'ai d'ailleurs tout le temps\ndeux symptômes sur trois.",
+      "end": 16,
+      "start": 15
+    },
+    {
+      "content": "Faut que je puisse m'en sortir.\nFief, tout.",
+      "end": 20,
+      "start": 17
+    },
+    {
+      "content": "Fief, tout.",
+      "end": 22,
+      "start": 20
+    },
+    {
+      "content": "C'est sûr, je l'ai.",
+      "end": 23,
+      "start": 22
+    },
+    {
+      "content": "Si quelqu'un me dit\nque j'ai l'air fatigué.",
+      "end": 24,
+      "start": 23
+    },
+    {
+      "content": "Je me sens fatigué.",
+      "end": 26,
+      "start": 24
+    },
+    {
+      "content": "Quand je vais bien, je m'inquiète.\nÇa cache quelque chose.",
+      "end": 28,
+      "start": 26
+    },
+    {
+      "content": "Il me suffit de lire\nles effets secondaires",
+      "end": 29,
+      "start": 28
+    },
+    {
+      "content": "des médicaments pour que je les ai.",
+      "end": 30,
+      "start": 29
+    },
+    {
+      "content": "Je lis aussi les contre-indications\nen cas de grossesse",
+      "end": 32,
+      "start": 30
+    },
+    {
+      "content": "et d'allaitement, on sait jamais.",
+      "end": 33,
+      "start": 32
+    },
+    {
+      "content": "Dès qu'un pote a besoin\nd'un médicament, il passe chez moi",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "avant de passer à la pharmacie.\nTu veux du 500 milligrammes ou du 1 000 ?",
+      "end": 36,
+      "start": 34
+    },
+    {
+      "content": "Si quelqu'un tousse, je m'éloigne.",
+      "end": 37,
+      "start": 36
+    },
+    {
+      "content": "Si quelqu'un est tardu, je le hais.",
+      "end": 41,
+      "start": 37
+    },
+    {
+      "content": "Quand je vais aux toilettes,\nje me lave les mains avant et après.",
+      "end": 44,
+      "start": 41
+    },
+    {
+      "content": "Je ne touche aucune poignée.",
+      "end": 45,
+      "start": 44
+    },
+    {
+      "content": "Quand j'ai mal à la tête, j'ai une tumeur.\nQuand j'ai mal au ventre, j'ai une tumeur.",
+      "end": 48,
+      "start": 45
+    },
+    {
+      "content": "Quand j'ai mal à l'orteil,\nj'ai une tumeur.",
+      "end": 49,
+      "start": 48
+    },
+    {
+      "content": "J'ai appris mon numéro\nde sécu par cœur, au cas où.",
+      "end": 51,
+      "start": 49
+    },
+    {
+      "content": "J'ai lu une statistique qui dit\nque la cuvette de nos toilettes",
+      "end": 53,
+      "start": 51
+    },
+    {
+      "content": "est trois fois plus propre\nque notre clavier d'ordinateur.",
+      "end": 54,
+      "start": 53
+    },
+    {
+      "content": "Du coup, je nettoie mes toilettes\nune fois par semaine et mon clavier,",
+      "end": 56,
+      "start": 54
+    },
+    {
+      "content": "trois fois par semaine.",
+      "end": 57,
+      "start": 56
+    },
+    {
+      "content": "Je vérifie sept fois pendant l'acte\nsi la capote n'a pas pété.",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "Quoi ?\nAttends, je vais aller.",
+      "end": 61,
+      "start": 59
+    },
+    {
+      "content": "C'est bon.",
+      "end": 64,
+      "start": 61
+    },
+    {
+      "content": "J'ai déjà nettoyé le lavabo\nd'un pote sans le lui dire.",
+      "end": 65,
+      "start": 64
+    },
+    {
+      "content": "Qu'est-ce que tu fous ?\nJ'arrive.",
+      "end": 66,
+      "start": 65
+    },
+    {
+      "content": "Entre hippocondriaques, on se reconnaît.",
+      "end": 72,
+      "start": 66
+    },
+    {
+      "content": "De toute façon, pour reconnaître\nun hippocondriaque, c'est simple.",
+      "end": 75,
+      "start": 72
+    },
+    {
+      "content": "Il suffit de lui dire:\nT'es hippocondriaque.",
+      "end": 77,
+      "start": 75
+    },
+    {
+      "content": "Il vous répondra: Non.\nJe fais juste attention.",
+      "end": 79,
+      "start": 77
+    },
+    {
+      "content": "Bref, je suis hippocondriaque..",
+      "end": 81,
+      "start": 79
+    }
+  ],
   "video": {
     "id": "_AH6uf2dTLg"
   }

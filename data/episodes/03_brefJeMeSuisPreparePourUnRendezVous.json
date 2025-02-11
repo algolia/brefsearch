@@ -8,6 +8,208 @@
     "name": "Je me suis préparé pour un rendez-vous.",
     "slug": "brefJeMeSuisPreparePourUnRendezVous"
   },
+  "lines": [
+    {
+      "content": "Quand je dois prendre rendez-vous avec\nune fille, j'attends toujours trois jours",
+      "end": 5,
+      "start": 2
+    },
+    {
+      "content": "avant de lui envoyer un texto\npour montrer que je suis un gars détaché.",
+      "end": 7,
+      "start": 5
+    },
+    {
+      "content": "Entre temps, je tape son nom\net son prénom dans Google et j'apprends",
+      "end": 10,
+      "start": 7
+    },
+    {
+      "content": "qu'elle était en seconde B\nau lycée Clemenceau, à Reims.",
+      "end": 12,
+      "start": 10
+    },
+    {
+      "content": "Génial.",
+      "end": 13,
+      "start": 12
+    },
+    {
+      "content": "À chaque fois que je me prépare pour\nun rendez-vous, je prends une douche,",
+      "end": 15,
+      "start": 13
+    },
+    {
+      "content": "deux fois, pour être bien propre.",
+      "end": 16,
+      "start": 15
+    },
+    {
+      "content": "Après, pendant une heure, je m'occupe\nde ma barbe pour avoir l'air d'un mec",
+      "end": 19,
+      "start": 16
+    },
+    {
+      "content": "qui s'occupe pas de sa barbe.",
+      "end": 19,
+      "start": 19
+    },
+    {
+      "content": "Je teste une tenue 1, une tenue 2,\nune tenue 3, une tenue 4.",
+      "end": 22,
+      "start": 19
+    },
+    {
+      "content": "Je reviens à la tenue 1, je vérifie\nsi j'ai pas de crotte de nez, je vérifie",
+      "end": 25,
+      "start": 22
+    },
+    {
+      "content": "si ma barguette est pas ouverte.",
+      "end": 26,
+      "start": 25
+    },
+    {
+      "content": "Je me mets du parfum, j'oublie,\nj'en remets, je réoublie,",
+      "end": 29,
+      "start": 26
+    },
+    {
+      "content": "je sens trop le parfum, je je prends\nune douche et je remets du parfum.",
+      "end": 31,
+      "start": 29
+    },
+    {
+      "content": "Je répète mes phrases d'accroche.\nSalut.",
+      "end": 33,
+      "start": 31
+    },
+    {
+      "content": "Salut.\nSalut.",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "Comment tu vas ?\nÇa va ?",
+      "end": 36,
+      "start": 34
+    },
+    {
+      "content": "Excuse-moi, je suis en retard.\nJe bosse également mon regard.",
+      "end": 39,
+      "start": 36
+    },
+    {
+      "content": "Je suis un homme, mais j'ai des filures.",
+      "end": 45,
+      "start": 39
+    },
+    {
+      "content": "J'accorde ma guitare et je la mets bien\nen évidence dans ma chambre",
+      "end": 47,
+      "start": 45
+    },
+    {
+      "content": "au cas où je la ramène chez moi.",
+      "end": 48,
+      "start": 48
+    },
+    {
+      "content": "Je range ma chambre au cas\noù je la ramène chez moi.",
+      "end": 50,
+      "start": 48
+    },
+    {
+      "content": "J'enlève le sopalin d'à côté de mon lit\nau cas où je la ramène chez moi.",
+      "end": 52,
+      "start": 50
+    },
+    {
+      "content": "Entre temps, je me suis habitué\nà mon parfum, alors je me demande si",
+      "end": 54,
+      "start": 52
+    },
+    {
+      "content": "j'en ai mis assez et je remets du parfum.",
+      "end": 55,
+      "start": 54
+    },
+    {
+      "content": "Je regarde si j'ai encore\ndes préservatifs depuis la dernière fois.",
+      "end": 58,
+      "start": 55
+    },
+    {
+      "content": "Mais vu qu'elle n'est pas venue\nla dernière fois, j'en ai encore.",
+      "end": 59,
+      "start": 58
+    },
+    {
+      "content": "Je place derrière mon coussin\npour pouvoir faire genre.",
+      "end": 64,
+      "start": 59
+    },
+    {
+      "content": "Mais que voilà !",
+      "end": 67,
+      "start": 64
+    },
+    {
+      "content": "Je regarde si je suis musclé,\nje suis pas musclé, je fais des pompes,",
+      "end": 70,
+      "start": 67
+    },
+    {
+      "content": "je suis toujours pas musclé,\nmais j'ai transpiré, alors je reprends",
+      "end": 71,
+      "start": 70
+    },
+    {
+      "content": "une douche et je remets du parfum.",
+      "end": 73,
+      "start": 71
+    },
+    {
+      "content": "Je prépare une playlist\nau cas où je la de chez moi.",
+      "end": 75,
+      "start": 73
+    },
+    {
+      "content": "Je me sens prêt, mais comme le rendez-vous\nest dans deux heures, j'attends.",
+      "end": 79,
+      "start": 75
+    },
+    {
+      "content": "Je m'endors.",
+      "end": 81,
+      "start": 79
+    },
+    {
+      "content": "Je me réveille en retard, je cours,\nje transpire, je reprends pas",
+      "end": 84,
+      "start": 81
+    },
+    {
+      "content": "de douche, je remets pas de parfum,\nj'accorde pas ma guitare, je range pas",
+      "end": 85,
+      "start": 84
+    },
+    {
+      "content": "le sopalin, je vérifie pas\nma braguette et j'ai une crotte de nez.",
+      "end": 88,
+      "start": 85
+    },
+    {
+      "content": "Bref, je me suis préparé\npour un rendez-vous.",
+      "end": 93,
+      "start": 88
+    },
+    {
+      "content": "Mais que voilà.",
+      "end": 100,
+      "start": 94
+    }
+  ],
   "video": {
     "id": "1x3P61ck0QI"
   }

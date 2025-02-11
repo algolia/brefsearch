@@ -8,6 +8,258 @@
     "name": "Mon frère a quelqu'un.",
     "slug": "brefMonFrereAQuelquun"
   },
+  "lines": [
+    {
+      "content": "La télé Pushkar,\nle sud de l'Inde, le Kerala, etc.",
+      "end": 4,
+      "start": 0
+    },
+    {
+      "content": "Lui, c'est mon frère.\nIl a toujours été là pour moi.",
+      "end": 6,
+      "start": 4
+    },
+    {
+      "content": "Ouais, il m'a quitté.\nJ'arrive.",
+      "end": 7,
+      "start": 6
+    },
+    {
+      "content": "J'ai eu mon permis.\nJ'arrive.",
+      "end": 9,
+      "start": 7
+    },
+    {
+      "content": "J'arrive.",
+      "end": 10,
+      "start": 9
+    },
+    {
+      "content": "Jusqu'au jour où il s'est fait\nlarguer, du coup, il allait pas bien.",
+      "end": 12,
+      "start": 10
+    },
+    {
+      "content": "Et moi, j'ai essayé d'être là pour lui.",
+      "end": 13,
+      "start": 12
+    },
+    {
+      "content": "T'étais pas bien, je t'ai fait une patate\navec des bras, mais je galérais.",
+      "end": 17,
+      "start": 13
+    },
+    {
+      "content": "Il pensait encore à son ex, Maude.",
+      "end": 22,
+      "start": 19
+    },
+    {
+      "content": "Maude, c'est le genre de meuf qui organise\ndes soirées pour pouvoir dire: C'est",
+      "end": 24,
+      "start": 22
+    },
+    {
+      "content": "ma soirée, c'est pas ma soirée.",
+      "end": 25,
+      "start": 24
+    },
+    {
+      "content": "Quand elle organise une soirée,\nelle organise une soirée.",
+      "end": 27,
+      "start": 25
+    },
+    {
+      "content": "Elle dit aux gens où ils\ndoivent s'asseoir.",
+      "end": 28,
+      "start": 27
+    },
+    {
+      "content": "Toi, tu es là.\nElle crie: Ouais.",
+      "end": 30,
+      "start": 28
+    },
+    {
+      "content": "Elle est débordée et elle fait\nen sorte qu'on voit qu'elle est débordée.",
+      "end": 32,
+      "start": 30
+    },
+    {
+      "content": "Non, je sais pas, je suis débordée.",
+      "end": 33,
+      "start": 32
+    },
+    {
+      "content": "Elle dit pardon de la façon\nla plus énervante du monde.",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "Pardon.\nElle crie ouais.",
+      "end": 35,
+      "start": 34
+    },
+    {
+      "content": "Elle passe sa soirée à prendre\ndes photos pour les mettre sur Facebook",
+      "end": 38,
+      "start": 35
+    },
+    {
+      "content": "pour montrer qu'elle a fait une soirée.",
+      "end": 39,
+      "start": 38
+    },
+    {
+      "content": "Elle tague les gens qui n'ont pas pu venir\nà la soirée pour qu'ils voient",
+      "end": 41,
+      "start": 39
+    },
+    {
+      "content": "que c'était une bonne soirée.\nElle part souvent du principe que...",
+      "end": 43,
+      "start": 41
+    },
+    {
+      "content": "Moi, je pars du principe que...\nElle fait des cacos d'olive.",
+      "end": 44,
+      "start": 43
+    },
+    {
+      "content": "Elle crie ouais.\nElle range alors qu'on est encore là.",
+      "end": 47,
+      "start": 44
+    },
+    {
+      "content": "Pardon.",
+      "end": 49,
+      "start": 47
+    },
+    {
+      "content": "À la fin, elle dit toujours: C'est\nla dernière fois que je fais une soirée.",
+      "end": 52,
+      "start": 49
+    },
+    {
+      "content": "Je suis crevée.",
+      "end": 53,
+      "start": 52
+    },
+    {
+      "content": "Et la semaine d'après,\nelle refait une soirée.",
+      "end": 56,
+      "start": 53
+    },
+    {
+      "content": "Je me suis dit qu'il fallait\nqu'ils se croisent par hasard.",
+      "end": 58,
+      "start": 56
+    },
+    {
+      "content": "Mon frère était là et dans 15 minutes,\nMode allait arriver par hasard.",
+      "end": 61,
+      "start": 58
+    },
+    {
+      "content": "Ouais, Maude, ça te dirait\nde passer à la maison ?",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "On pourrait parler de ta dernière soirée.",
+      "end": 65,
+      "start": 63
+    },
+    {
+      "content": "Sauf que mon frère avait la tête de\nquelqu'un qui avait rencontré quelqu'un.",
+      "end": 67,
+      "start": 65
+    },
+    {
+      "content": "J'ai dit: T'as rencontré quelqu'un ?\nIl m'a dit: Non.",
+      "end": 69,
+      "start": 67
+    },
+    {
+      "content": "J'ai dit: T'as rencontré quelqu'un ?\nIl m'a dit: Oui.",
+      "end": 71,
+      "start": 69
+    },
+    {
+      "content": "J'ai dit: C'est Maude ?\nIl m'a dit: Non.",
+      "end": 73,
+      "start": 71
+    },
+    {
+      "content": "Merde.",
+      "end": 74,
+      "start": 73
+    },
+    {
+      "content": "J'ai voulu savoir qui c'était.",
+      "end": 76,
+      "start": 74
+    },
+    {
+      "content": "Elle est brune ?\nNon.",
+      "end": 78,
+      "start": 76
+    },
+    {
+      "content": "Elle a un rire énervant ?\nNon.",
+      "end": 80,
+      "start": 78
+    },
+    {
+      "content": "Elle dit l'ol dans la vraie vie ?\nNon.",
+      "end": 81,
+      "start": 80
+    },
+    {
+      "content": "Grande, petite, chelou, alcoolique ?\nNon.",
+      "end": 84,
+      "start": 81
+    },
+    {
+      "content": "Non.\nAlors, ça peut être que...",
+      "end": 88,
+      "start": 84
+    },
+    {
+      "content": "Salut mon homme, salut.",
+      "end": 95,
+      "start": 89
+    },
+    {
+      "content": "C'est cool que tu sois là.",
+      "end": 96,
+      "start": 95
+    },
+    {
+      "content": "Justement, il y a Kevin qui est passé.",
+      "end": 97,
+      "start": 96
+    },
+    {
+      "content": "Entre.",
+      "end": 102,
+      "start": 97
+    },
+    {
+      "content": "Bref, mon frère a quelqu'un.",
+      "end": 107,
+      "start": 102
+    },
+    {
+      "content": "Il était à quoi ce cake\nsalé la dernière fois ?",
+      "end": 112,
+      "start": 109
+    },
+    {
+      "content": "Aux olives.\nAux olives..",
+      "end": 114,
+      "start": 112
+    }
+  ],
   "video": {
     "id": "m5Ezt99WggY"
   }

@@ -8,6 +8,278 @@
     "name": "Je suis allé aux urgences.",
     "slug": "brefJeSuisAlleAuxUrgences"
   },
+  "lines": [
+    {
+      "content": "Ce n'est pas normal.",
+      "end": 2,
+      "start": 0
+    },
+    {
+      "content": "Il était 2h00 du matin, je regardais\nun truc marrant en mangeant du poisson.",
+      "end": 4,
+      "start": 2
+    },
+    {
+      "content": "J'ai rigolé.",
+      "end": 4,
+      "start": 4
+    },
+    {
+      "content": "J'ai avalé une arête,\nça m'a fait super mal.",
+      "end": 5,
+      "start": 4
+    },
+    {
+      "content": "J'avais dû me la respirer.",
+      "end": 6,
+      "start": 5
+    },
+    {
+      "content": "Alors j'ai fait ce\nque n'importe qui aurait fait.",
+      "end": 7,
+      "start": 6
+    },
+    {
+      "content": "Je l'ai dit sur Facebook.\nBaptiste m'a dit: Lol.",
+      "end": 9,
+      "start": 7
+    },
+    {
+      "content": "Mon ex m'a dit: Bien fait.",
+      "end": 10,
+      "start": 9
+    },
+    {
+      "content": "Kheiron m'a dit: Un truc dégueulasse.\nJulien m'a dit: Mange de la mie de pain.",
+      "end": 12,
+      "start": 10
+    },
+    {
+      "content": "Enfin, je n'avais pas de mie de pain.",
+      "end": 13,
+      "start": 12
+    },
+    {
+      "content": "Je suis allé sur un forum, un mec disait\nà un autre qu'un mec qu'il connaissait",
+      "end": 16,
+      "start": 13
+    },
+    {
+      "content": "était mort à cause d'une arête.",
+      "end": 18,
+      "start": 16
+    },
+    {
+      "content": "Je ne voulais pas mourir,\nje suis allé aux urgences.",
+      "end": 19,
+      "start": 18
+    },
+    {
+      "content": "Vous avez besoin d'un bilan complet.",
+      "end": 21,
+      "start": 19
+    },
+    {
+      "content": "Coac, chimie, yono.",
+      "end": 22,
+      "start": 21
+    },
+    {
+      "content": "On est en train de perdre.",
+      "end": 24,
+      "start": 22
+    },
+    {
+      "content": "Allez, on passe au bloc,\non y va, on y va, on y va.",
+      "end": 28,
+      "start": 24
+    },
+    {
+      "content": "J'ai attendu 20 minutes.",
+      "end": 30,
+      "start": 28
+    },
+    {
+      "content": "Il y avait un mec bourré\nqui s'était pété l'arcade.",
+      "end": 31,
+      "start": 30
+    },
+    {
+      "content": "Il était bourré\nparce qu'il arrêtait pas de répéter.",
+      "end": 33,
+      "start": 31
+    },
+    {
+      "content": "Je suis pas bourré, moi.",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "Il y avait une vieille\nqui arrêtait pas de gémir.",
+      "end": 35,
+      "start": 34
+    },
+    {
+      "content": "Un mec bizarre s'est approché et m'a\ndit: J'ai un bébé mort dans le ventre.",
+      "end": 39,
+      "start": 35
+    },
+    {
+      "content": "J'ai dit: D'accord.",
+      "end": 41,
+      "start": 39
+    },
+    {
+      "content": "Il m'a proposé du chocolat.",
+      "end": 43,
+      "start": 41
+    },
+    {
+      "content": "J'ai dit: Non, merci.\nAprès, il a chanté.",
+      "end": 45,
+      "start": 43
+    },
+    {
+      "content": "Colombia.",
+      "end": 51,
+      "start": 45
+    },
+    {
+      "content": "Personne s'occupait de moi.",
+      "end": 53,
+      "start": 51
+    },
+    {
+      "content": "Ça faisait 45 minutes,\nje me suis bien paniqué.",
+      "end": 54,
+      "start": 53
+    },
+    {
+      "content": "Il y a personne qui s'occupe de moi ?\nQu'est-ce qui se passe ?",
+      "end": 56,
+      "start": 54
+    },
+    {
+      "content": "J'ai une arête coincée dans la gorge.",
+      "end": 57,
+      "start": 56
+    },
+    {
+      "content": "Ok, moi, j'ai un enfant de huit ans\nqui vient de tomber du biais",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "de tesAllez, on fait quoi ?",
+      "end": 61,
+      "start": 59
+    },
+    {
+      "content": "Occupez-vous de lui.",
+      "end": 64,
+      "start": 63
+    },
+    {
+      "content": "Allez, merci.",
+      "end": 66,
+      "start": 65
+    },
+    {
+      "content": "J'ai reattendu 20 minutes.\nUn interne est arrivé.",
+      "end": 68,
+      "start": 66
+    },
+    {
+      "content": "Il avait un jean trop court\net les pompes à scratch.",
+      "end": 69,
+      "start": 68
+    },
+    {
+      "content": "Il m'a demandé: Est-ce\nque vous avez des antécédents ?",
+      "end": 71,
+      "start": 69
+    },
+    {
+      "content": "J'ai dit que j'étais allergique\nau vinèvre, que je m'étais foulé",
+      "end": 73,
+      "start": 71
+    },
+    {
+      "content": "le gros entail gauche en 2001,\nque j'étais anégatif et que",
+      "end": 75,
+      "start": 73
+    },
+    {
+      "content": "je supportais ma léparastamol.",
+      "end": 77,
+      "start": 75
+    },
+    {
+      "content": "Il a noté: Hypocondriaque.",
+      "end": 79,
+      "start": 77
+    },
+    {
+      "content": "Après, il m'a mis\nde l'anesthésiant dans la bouche.",
+      "end": 80,
+      "start": 79
+    },
+    {
+      "content": "Il m'a dit qu'il allait revenir\nle temps que ça fasse effet.",
+      "end": 84,
+      "start": 80
+    },
+    {
+      "content": "Ça faisait pas effet.",
+      "end": 87,
+      "start": 86
+    },
+    {
+      "content": "Chocolat, chocolat.",
+      "end": 90,
+      "start": 87
+    },
+    {
+      "content": "Je suis pas bourré.",
+      "end": 92,
+      "start": 90
+    },
+    {
+      "content": "Il est revenu, il m'a\ndemandé si ça faisait effet.",
+      "end": 95,
+      "start": 92
+    },
+    {
+      "content": "J'ai voulu lui dire\nque ça faisait pas effet.",
+      "end": 97,
+      "start": 96
+    },
+    {
+      "content": "Ça faisait effet.\nIl m'a demandé d'ouvrir la bouche.",
+      "end": 99,
+      "start": 97
+    },
+    {
+      "content": "Il a retiré l'arrête.\nJ'ai dit merci.",
+      "end": 100,
+      "start": 99
+    },
+    {
+      "content": "Merci.\nJ'ai bavé sur ses pompes à scratch.",
+      "end": 104,
+      "start": 100
+    },
+    {
+      "content": "Bref, je suis allé aux urgences.",
+      "end": 109,
+      "start": 105
+    },
+    {
+      "content": "Non, non, non, non, non.",
+      "end": 112,
+      "start": 109
+    }
+  ],
   "video": {
     "id": "1tZiw9KR6Jk"
   }

@@ -8,6 +8,228 @@
     "name": "Mon frère est gay.",
     "slug": "brefMonFrereEstGay"
   },
+  "lines": [
+    {
+      "content": "Je suis gay.",
+      "end": 2,
+      "start": 2
+    },
+    {
+      "content": "Bref, comme mon frère a annoncé\nqu'il était gay, tout",
+      "end": 4,
+      "start": 2
+    },
+    {
+      "content": "le monde a eu sa réaction.",
+      "end": 5,
+      "start": 4
+    },
+    {
+      "content": "Ma mère a dit: L'important,\nc'est qu'il soit heureux.",
+      "end": 6,
+      "start": 5
+    },
+    {
+      "content": "Mon père a dit: L'important,\nc'est qu'il soit actif.",
+      "end": 8,
+      "start": 6
+    },
+    {
+      "content": "Mon oncle a dit: S'il a envie\nde se prendre une bonne crampe.",
+      "end": 10,
+      "start": 8
+    },
+    {
+      "content": "Cromo.\nCromo.",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "Franchement balai.\nGromo.",
+      "end": 12,
+      "start": 11
+    },
+    {
+      "content": "Ma tante s'est excusée.\nExcusez-le.",
+      "end": 14,
+      "start": 12
+    },
+    {
+      "content": "Ma copine a dit.",
+      "end": 15,
+      "start": 14
+    },
+    {
+      "content": "En tout cas, j'ai plein\nd'échantillons pour lui.",
+      "end": 17,
+      "start": 15
+    },
+    {
+      "content": "Steve m'a dit.\nEt toi, du coup, ça t'as fait réfléchir ?",
+      "end": 19,
+      "start": 17
+    },
+    {
+      "content": "Kheiron a ajouté tous\nses contacts fille sur Facebook.",
+      "end": 21,
+      "start": 19
+    },
+    {
+      "content": "Charles a dit.\nTu vois ça ?",
+      "end": 22,
+      "start": 21
+    },
+    {
+      "content": "Ça, c'est un beau combat.\nBen a dit.",
+      "end": 24,
+      "start": 22
+    },
+    {
+      "content": "Ah bon ?\nPourquoi ?",
+      "end": 25,
+      "start": 24
+    },
+    {
+      "content": "Julien a dit.\nC'est pas de sa faute.",
+      "end": 25,
+      "start": 25
+    },
+    {
+      "content": "Maud a dit: Il se me fout.",
+      "end": 27,
+      "start": 25
+    },
+    {
+      "content": "Et moi, j'ai dit: Parce qu'en fait,\nje savais pas quoi en penser.",
+      "end": 31,
+      "start": 27
+    },
+    {
+      "content": "Pour moi, il y avait trois types de gays.\nLa brute.",
+      "end": 33,
+      "start": 31
+    },
+    {
+      "content": "Salut les copains.",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "La folle.\nSalut les copines.",
+      "end": 35,
+      "start": 34
+    },
+    {
+      "content": "Et le parano.\nC'est parce que je suis gay, c'est ça ?",
+      "end": 37,
+      "start": 35
+    },
+    {
+      "content": "Non, votre voiture est vraiment\nsur mon pied, monsieur.",
+      "end": 40,
+      "start": 37
+    },
+    {
+      "content": "Mais comme mon frère a compris qu'il était\ngay, moi, j'ai compris que j'étais con.",
+      "end": 45,
+      "start": 42
+    },
+    {
+      "content": "J'avais envie de lui en parler\net de pas lui en parler en même temps.",
+      "end": 46,
+      "start": 45
+    },
+    {
+      "content": "C'est toi qui...\nOu tu te...",
+      "end": 49,
+      "start": 46
+    },
+    {
+      "content": "Non, ne me dis pas.",
+      "end": 50,
+      "start": 49
+    },
+    {
+      "content": "Si, enfin...\nNon, tu sais quoi ?",
+      "end": 52,
+      "start": 51
+    },
+    {
+      "content": "Oublie.",
+      "end": 53,
+      "start": 52
+    },
+    {
+      "content": "Du coup, je l'ai observé pour savoir quoi\nen penser et j'ai remarqué qu'il toussait",
+      "end": 57,
+      "start": 54
+    },
+    {
+      "content": "quand il mangeait du tiramisou à cause du\nchocolat en poudre, qui m'avait envoyé un",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "second mail avec qui est à l'intérieur.\nAvec la pièce jointe, c'est Mews.",
+      "end": 61,
+      "start": 59
+    },
+    {
+      "content": "Il avait 15 Seb et 11 Nico,\nsans nom de famille dans son répertoire.",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "Nico, c'était pour savoir tu es qui, Nico.",
+      "end": 65,
+      "start": 63
+    },
+    {
+      "content": "C'est Seb.\nCool.",
+      "end": 66,
+      "start": 65
+    },
+    {
+      "content": "On se voit ce soir ?",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Il m'avait déjà dit\nqu'il avait entendu parler d'un truc",
+      "end": 69,
+      "start": 68
+    },
+    {
+      "content": "dont il avait jamais entendu parler.\nOuais, j'en ai déjà entendu parler.",
+      "end": 71,
+      "start": 69
+    },
+    {
+      "content": "Il sait jamais sur quel bouton\nappuyer sur l'interphone, alors",
+      "end": 73,
+      "start": 71
+    },
+    {
+      "content": "il appuie sur tous les boutons.",
+      "end": 73,
+      "start": 73
+    },
+    {
+      "content": "Il a déjà mis une clé USB dans un sens,\npuis dans l'autre, puis dans l'autre.",
+      "end": 76,
+      "start": 73
+    },
+    {
+      "content": "Bref, mon frère est comme tout le monde.",
+      "end": 81,
+      "start": 76
+    },
+    {
+      "content": "Désolé, parfois, je conduis\nvraiment comme un noir..",
+      "end": 83,
+      "start": 81
+    }
+  ],
   "video": {
     "id": "-tInLKCRUrs"
   }

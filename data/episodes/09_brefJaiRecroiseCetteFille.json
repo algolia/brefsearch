@@ -8,6 +8,253 @@
     "name": "J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille"
   },
+  "lines": [
+    {
+      "content": "Bref, ce matin-là, je me suis réveillé\navec une envie pressante d'aller",
+      "end": 3,
+      "start": 1
+    },
+    {
+      "content": "aux toilettes.",
+      "end": 4,
+      "start": 3
+    },
+    {
+      "content": "Juste à temps, je me suis rendu compte\nqu'il y avait plus de papier toilette,",
+      "end": 6,
+      "start": 4
+    },
+    {
+      "content": "plus de sopalin, plus de Kleenex\net j'avais pas encore fini ce magazine.",
+      "end": 9,
+      "start": 6
+    },
+    {
+      "content": "Je suis parti au supermarché en acheter.",
+      "end": 11,
+      "start": 9
+    },
+    {
+      "content": "Et là, j'ai croisé cette fille.",
+      "end": 12,
+      "start": 11
+    },
+    {
+      "content": "C'était une fille que\nj'avais draguée à une soirée.",
+      "end": 13,
+      "start": 12
+    },
+    {
+      "content": "Mon cul m'a dit cours,\nmon cœur m'a dit reste.",
+      "end": 15,
+      "start": 13
+    },
+    {
+      "content": "Elle m'a dit: Je m'appelle pas Vincent.\nJ'ai rien dit.",
+      "end": 17,
+      "start": 15
+    },
+    {
+      "content": "À ce moment précis, je me suis rendu\ncompte que: un, j'étais pas lavé, deux,",
+      "end": 20,
+      "start": 17
+    },
+    {
+      "content": "j'étais mal habillé, trois, j'avais des\ncacas du au coin des yeux et quatre, un",
+      "end": 24,
+      "start": 20
+    },
+    {
+      "content": "paquet de rouleaux de PQ dans les mains.",
+      "end": 24,
+      "start": 24
+    },
+    {
+      "content": "Je me suis dit: C'est pas\nvrai, qu'est-ce qu'elle fout là ?",
+      "end": 26,
+      "start": 25
+    },
+    {
+      "content": "Je lui ai dit: Mais\nqu'est-ce que tu fais là ?",
+      "end": 27,
+      "start": 26
+    },
+    {
+      "content": "On a discuté, elle m'a fait une blague,\nc'était pas marrant, j'ai rigolé.",
+      "end": 30,
+      "start": 27
+    },
+    {
+      "content": "En rigolant, je me suis rendu compte\nque cinq, j'avais mauvaise haleine.",
+      "end": 33,
+      "start": 30
+    },
+    {
+      "content": "On a parlé de tout et de rien,\nsurtout de rien.",
+      "end": 35,
+      "start": 33
+    },
+    {
+      "content": "Elle me dit ça, il ne faut pas le manger,\nc'est bourré de trucs mauvais et tout.",
+      "end": 38,
+      "start": 35
+    },
+    {
+      "content": "Ça, c'était ma caution.",
+      "end": 40,
+      "start": 38
+    },
+    {
+      "content": "À un moment donné,\nelle s'est mordillée la lèvre.",
+      "end": 45,
+      "start": 42
+    },
+    {
+      "content": "J'ai eu envie de m'inviter à boire\nun verre, m'inviter au resto, m'inviter",
+      "end": 47,
+      "start": 45
+    },
+    {
+      "content": "au cinéma, me raccompagner\nchez elle, coucher avec elle.",
+      "end": 48,
+      "start": 47
+    },
+    {
+      "content": "Elle me demande si c'est sérieux\nentre nous, manger des glaces avec elle,",
+      "end": 50,
+      "start": 48
+    },
+    {
+      "content": "t'allonger dans l'air,\nlui présenter ma famille,",
+      "end": 51,
+      "start": 50
+    },
+    {
+      "content": "partir en vacances avec elle,\nemménager avec elle,",
+      "end": 53,
+      "start": 51
+    },
+    {
+      "content": "la demander en mariage, acheter\nune maison avec qui elle lui demander.",
+      "end": 54,
+      "start": 53
+    },
+    {
+      "content": "Ça va ?\nQu'elle me réponde.",
+      "end": 55,
+      "start": 54
+    },
+    {
+      "content": "Je suis enceinte.\nQu'elle me dise: C'est des jumeaux.",
+      "end": 56,
+      "start": 55
+    },
+    {
+      "content": "On se demande comment on va les appeler.",
+      "end": 57,
+      "start": 56
+    },
+    {
+      "content": "Elle me dit: Tu vas d'accord ?",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "J'ai répondu: Grégoire et Julie.\nQuoi ?",
+      "end": 61,
+      "start": 59
+    },
+    {
+      "content": "Je lui ai dit que c'était\nle nom de mes poissons.",
+      "end": 62,
+      "start": 61
+    },
+    {
+      "content": "Elle m'a demandé ce\nque c'était comme poisson.",
+      "end": 64,
+      "start": 62
+    },
+    {
+      "content": "J'ai dit n'importe quoi.\nDes poissons clowns ?",
+      "end": 65,
+      "start": 64
+    },
+    {
+      "content": "Elle m'a répondu...\nMais c'est génial !",
+      "end": 66,
+      "start": 65
+    },
+    {
+      "content": "Merde.\nComme des mots.",
+      "end": 67,
+      "start": 66
+    },
+    {
+      "content": "Merde.",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Je lui ai dit: Tu pourras\npasser les voir un jour.",
+      "end": 69,
+      "start": 68
+    },
+    {
+      "content": "Elle a souri.\nElle a repris mon numéro.",
+      "end": 71,
+      "start": 69
+    },
+    {
+      "content": "Mon corps envoyait des signaux pressants.",
+      "end": 72,
+      "start": 71
+    },
+    {
+      "content": "Elle m'a demandé: Tu t'appelles\nVincent comment déjà ?",
+      "end": 74,
+      "start": 72
+    },
+    {
+      "content": "Dubois.",
+      "end": 75,
+      "start": 74
+    },
+    {
+      "content": "Salut.",
+      "end": 77,
+      "start": 76
+    },
+    {
+      "content": "Elle est partie en souriant.\nJe suis partie en courance.",
+      "end": 80,
+      "start": 78
+    },
+    {
+      "content": "Voilà.",
+      "end": 80,
+      "start": 80
+    },
+    {
+      "content": "Maintenant, je m'appelle Vincent Dubois\net j'ai deux poissons clowns.",
+      "end": 82,
+      "start": 80
+    },
+    {
+      "content": "Il faut que je fasse une baisive.",
+      "end": 84,
+      "start": 82
+    },
+    {
+      "content": "Bref, j'ai recroisé cette fille.",
+      "end": 88,
+      "start": 84
+    },
+    {
+      "content": "Putain.",
+      "end": 88,
+      "start": 88
+    }
+  ],
   "video": {
     "id": "r7LVaWeM_bg"
   }

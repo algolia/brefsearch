@@ -8,6 +8,253 @@
     "name": "Je sais pas dire non.",
     "slug": "brefJeSaisPasDireNon"
   },
+  "lines": [
+    {
+      "content": "Bref, j'étais au supermarché,\nune femme m'a proposé du saucisson.",
+      "end": 3,
+      "start": 1
+    },
+    {
+      "content": "J'ai dit: Non.\nElle m'a dit: C'est gratuit ?",
+      "end": 5,
+      "start": 3
+    },
+    {
+      "content": "J'ai dit: Oui.",
+      "end": 6,
+      "start": 5
+    },
+    {
+      "content": "Elle m'a demandé: C'est bon ?\nJ'ai répondu: Oui.",
+      "end": 8,
+      "start": 6
+    },
+    {
+      "content": "Elle m'a dit: Vous voulez en acheter ?\nJ'ai dit: Non.",
+      "end": 10,
+      "start": 8
+    },
+    {
+      "content": "Elle avait l'air déçue.",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "Je me suis sentie coupable,\nj'en ai acheté.",
+      "end": 13,
+      "start": 11
+    },
+    {
+      "content": "Trois.\nJe suis comme ça, je ne sais pas dire non.",
+      "end": 15,
+      "start": 13
+    },
+    {
+      "content": "J'ai couché trois fois de suite\navec une fille parce que je ne sais pas",
+      "end": 17,
+      "start": 15
+    },
+    {
+      "content": "lui dire qu'elle me faisait pas.",
+      "end": 17,
+      "start": 17
+    },
+    {
+      "content": "J'ai aidé un mec à déménager,\nje ne le connaissais même pas.",
+      "end": 19,
+      "start": 17
+    },
+    {
+      "content": "Quand quelqu'un me marche\nsur le pied, je dis pardon.",
+      "end": 22,
+      "start": 19
+    },
+    {
+      "content": "Pardon ?",
+      "end": 23,
+      "start": 22
+    },
+    {
+      "content": "Je fais souvent\ndes heures sup pas payées parce que",
+      "end": 24,
+      "start": 23
+    },
+    {
+      "content": "mon boss doit partir en week-end.",
+      "end": 25,
+      "start": 24
+    },
+    {
+      "content": "Je laisse régulièrement un pourboire\nà un serveur que je déteste.",
+      "end": 28,
+      "start": 25
+    },
+    {
+      "content": "Je donne à toutes les ONG\nqui viennent me demander, même celles",
+      "end": 30,
+      "start": 28
+    },
+    {
+      "content": "avec lesquelles je suis pas d'accord.",
+      "end": 31,
+      "start": 30
+    },
+    {
+      "content": "Pour compenser, je donne\naussi à des ONG opposées.",
+      "end": 33,
+      "start": 31
+    },
+    {
+      "content": "À chaque fois qu'un vendeur fait\npitié, je lui achète une rose.",
+      "end": 37,
+      "start": 33
+    },
+    {
+      "content": "C'est clair, moi, je voulais partir aussi.",
+      "end": 41,
+      "start": 38
+    },
+    {
+      "content": "Je fais attention à le Mexique.",
+      "end": 44,
+      "start": 41
+    },
+    {
+      "content": "J'en ai parlé à mon psy, il m'a\ndit: Je propose qu'on se voit",
+      "end": 45,
+      "start": 44
+    },
+    {
+      "content": "deux fois par semaine.\nJ'avais pas les moyens.",
+      "end": 47,
+      "start": 45
+    },
+    {
+      "content": "J'ai dit: D'accord.",
+      "end": 47,
+      "start": 47
+    },
+    {
+      "content": "Une copine m'a recommandé\nun livre, savoir dire non.",
+      "end": 49,
+      "start": 47
+    },
+    {
+      "content": "Je l'ai lu, j'ai pas aimé,\nelle m'a demandé.",
+      "end": 51,
+      "start": 49
+    },
+    {
+      "content": "T'as aimé ?\nJ'ai dit: Oui.",
+      "end": 52,
+      "start": 51
+    },
+    {
+      "content": "J'ai participé à des cadeaux communs\nde mecs que je connaissais pas.",
+      "end": 54,
+      "start": 52
+    },
+    {
+      "content": "Un jour, j'en ai parlé\nà Baptiste, il m'a dit: En fait,",
+      "end": 55,
+      "start": 54
+    },
+    {
+      "content": "je peux pas payer le loyer ce mois-ci.",
+      "end": 58,
+      "start": 55
+    },
+    {
+      "content": "Ça t'embête ou pas ?\nÇa m'embêtait.",
+      "end": 60,
+      "start": 58
+    },
+    {
+      "content": "J'ai dit non.",
+      "end": 61,
+      "start": 60
+    },
+    {
+      "content": "J'ai déjà mangé un truc\ndégueulasse en souriant.",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "On m'en a reproposé.\nJ'ai dit oui.",
+      "end": 64,
+      "start": 63
+    },
+    {
+      "content": "Avec plaisir.\nJe trouve tout ce que mes potes créent.",
+      "end": 66,
+      "start": 64
+    },
+    {
+      "content": "T'es pas mal.\nSuper.",
+      "end": 67,
+      "start": 66
+    },
+    {
+      "content": "Excellent.",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Un jour, Fabien m'a dit: Ça te dérange pas\nsi j'écoute de la musique ?",
+      "end": 72,
+      "start": 68
+    },
+    {
+      "content": "Non.",
+      "end": 73,
+      "start": 72
+    },
+    {
+      "content": "Cool.",
+      "end": 79,
+      "start": 75
+    },
+    {
+      "content": "Ils s'appellent Euphorie,\nils sont norvégiens.",
+      "end": 83,
+      "start": 79
+    },
+    {
+      "content": "18 kilos de son, mon pote.",
+      "end": 84,
+      "start": 83
+    },
+    {
+      "content": "Écoute la basse, écoute la basse.",
+      "end": 86,
+      "start": 84
+    },
+    {
+      "content": "Bref, je sais pas dire non.",
+      "end": 89,
+      "start": 86
+    },
+    {
+      "content": "Ai pas les moyens ce mois-ci.",
+      "end": 94,
+      "start": 89
+    },
+    {
+      "content": "Non, non.",
+      "end": 96,
+      "start": 94
+    },
+    {
+      "content": "Et au fait, c'est\ntoujours cool pour le loyer.",
+      "end": 99,
+      "start": 96
+    },
+    {
+      "content": "Ouais.",
+      "end": 99,
+      "start": 99
+    }
+  ],
   "video": {
     "id": "OmEx0mpHFG4"
   }

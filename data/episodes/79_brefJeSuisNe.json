@@ -8,6 +8,263 @@
     "name": "Je suis né.",
     "slug": "brefJeSuisNe"
   },
+  "lines": [
+    {
+      "content": "C'est moi.\nÇa, c'est moi.",
+      "end": 2,
+      "start": 2
+    },
+    {
+      "content": "Ça, c'est moi.",
+      "end": 3,
+      "start": 2
+    },
+    {
+      "content": "Ça faisait plusieurs\nsemaines qu'on attendait.",
+      "end": 4,
+      "start": 3
+    },
+    {
+      "content": "On commençait sérieusement\nà avoir la dalle.",
+      "end": 5,
+      "start": 4
+    },
+    {
+      "content": "On voulait pas finir\ncomme nos frères partis trop tôt.",
+      "end": 8,
+      "start": 5
+    },
+    {
+      "content": "Carnage de la salle de bains !",
+      "end": 10,
+      "start": 8
+    },
+    {
+      "content": "Non !",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "Revue par non !",
+      "end": 13,
+      "start": 11
+    },
+    {
+      "content": "Non !",
+      "end": 14,
+      "start": 13
+    },
+    {
+      "content": "Sopalin !",
+      "end": 16,
+      "start": 14
+    },
+    {
+      "content": "Non !",
+      "end": 17,
+      "start": 16
+    },
+    {
+      "content": "Il y a des mecs payés\npour faire ce dessin ?",
+      "end": 19,
+      "start": 17
+    },
+    {
+      "content": "Trois minutes après, c'était le départ.",
+      "end": 21,
+      "start": 19
+    },
+    {
+      "content": "On se serait vu dans un film américain\nsur le débarquement.",
+      "end": 23,
+      "start": 21
+    },
+    {
+      "content": "Allez, mes Zetins, on se remue le plagelle\net on fonce tout droit jusqu'à l'ovule.",
+      "end": 26,
+      "start": 23
+    },
+    {
+      "content": "Non !",
+      "end": 27,
+      "start": 26
+    },
+    {
+      "content": "Allez-y, les mecs, continuez sans moi.",
+      "end": 30,
+      "start": 27
+    },
+    {
+      "content": "Ok.\nJ'ai traversé des vallées obscures.",
+      "end": 32,
+      "start": 30
+    },
+    {
+      "content": "J'ai contourné des obstacles.\nJ'ai attendu.",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "Je suis allé chercher en moi\ndes forces encore inconnues.",
+      "end": 36,
+      "start": 34
+    },
+    {
+      "content": "J'ai attendu.\nJ'ai fait la course avec numéro 986 321.",
+      "end": 38,
+      "start": 36
+    },
+    {
+      "content": "Je l'ai dépassé, il m'a dépassé.\nJe l'ai dépassé.",
+      "end": 40,
+      "start": 39
+    },
+    {
+      "content": "J'ai attendu.\nPuis, j'ai vu un mec chelou.",
+      "end": 42,
+      "start": 40
+    },
+    {
+      "content": "Je lui ai dit: Mec, tu es chelou, ça va ?\nNon, ça va pas.",
+      "end": 44,
+      "start": 42
+    },
+    {
+      "content": "Je suis mal formé, putain,\nc'est à cause de l'alcool.",
+      "end": 47,
+      "start": 45
+    },
+    {
+      "content": "J'ai trouvé ça triste.",
+      "end": 47,
+      "start": 47
+    },
+    {
+      "content": "Je me suis promis que jamais\nje boirais si je devenais un humain.",
+      "end": 49,
+      "start": 47
+    },
+    {
+      "content": "J'ai attendu.",
+      "end": 50,
+      "start": 49
+    },
+    {
+      "content": "J'espérais que quand mon spermatozoïde\ncharmant arriverait, ce serait",
+      "end": 52,
+      "start": 50
+    },
+    {
+      "content": "comme dans une comédie romantique.",
+      "end": 53,
+      "start": 52
+    },
+    {
+      "content": "Il aurait des beaux\ncheveux et il me cuirait.",
+      "end": 55,
+      "start": 53
+    },
+    {
+      "content": "Ovula ?\nJohnny, c'est toi ?",
+      "end": 57,
+      "start": 55
+    },
+    {
+      "content": "Ovula.\nJe suis là maintenant.",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "Je t'aime.",
+      "end": 60,
+      "start": 59
+    },
+    {
+      "content": "Johnny.",
+      "end": 61,
+      "start": 60
+    },
+    {
+      "content": "Mais en fait...",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "C'est vous, bordel !",
+      "end": 64,
+      "start": 63
+    },
+    {
+      "content": "Je suis arrivé devant l'ovule,\nelle était magnifique.",
+      "end": 66,
+      "start": 64
+    },
+    {
+      "content": "Je l'ai regardé, elle m'a\nregardé, je l'ai regardé.",
+      "end": 67,
+      "start": 66
+    },
+    {
+      "content": "Un spermatozoïde est arrivé.",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Il était loin de ressembler\nà mon spermatozoïde charmant.",
+      "end": 70,
+      "start": 68
+    },
+    {
+      "content": "Elle m'a dit: T'as des cheveux\ndans ton code génétique ?",
+      "end": 72,
+      "start": 70
+    },
+    {
+      "content": "J'ai dit: Bien sûr.",
+      "end": 73,
+      "start": 72
+    },
+    {
+      "content": "Elle m'a laissé entrer.",
+      "end": 76,
+      "start": 74
+    },
+    {
+      "content": "C'était incroyable.",
+      "end": 77,
+      "start": 76
+    },
+    {
+      "content": "On s'est mélangé.",
+      "end": 78,
+      "start": 77
+    },
+    {
+      "content": "Il est devenu moi.",
+      "end": 80,
+      "start": 78
+    },
+    {
+      "content": "Bref, je suis né.",
+      "end": 84,
+      "start": 80
+    },
+    {
+      "content": "Hé, les mecs, il y a quelqu'un ?",
+      "end": 87,
+      "start": 84
+    },
+    {
+      "content": "Ouais, il y a moi,\nmais je crois que c'est mort.",
+      "end": 90,
+      "start": 87
+    },
+    {
+      "content": "Là.",
+      "end": 91,
+      "start": 90
+    }
+  ],
   "video": {
     "id": "lGBPAoLUn-0"
   }

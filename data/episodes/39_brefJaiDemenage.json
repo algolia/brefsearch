@@ -8,6 +8,238 @@
     "name": "J'ai déménagé.",
     "slug": "brefJaiDemenage"
   },
+  "lines": [
+    {
+      "content": "Bref, je voulais arrêter la coloc.",
+      "end": 2,
+      "start": 0
+    },
+    {
+      "content": "Baptiste foutait jamais\nrien, sauf le bordel.",
+      "end": 4,
+      "start": 2
+    },
+    {
+      "content": "Un jour, j'ai voulu prendre du dentifrice.\nBaptiste a dit.",
+      "end": 6,
+      "start": 4
+    },
+    {
+      "content": "J'ai voulu prendre des céréales.\nBaptiste a dit.",
+      "end": 9,
+      "start": 6
+    },
+    {
+      "content": "J'ai voulu mettre du parfum.\nBaptiste a dit.",
+      "end": 10,
+      "start": 9
+    },
+    {
+      "content": "Ça n'a plus.\nC'était le mien.",
+      "end": 12,
+      "start": 10
+    },
+    {
+      "content": "Ça n'a plus.",
+      "end": 14,
+      "start": 12
+    },
+    {
+      "content": "C'est mon caleçon, ça.\nJe sais, mais les miens sont sales.",
+      "end": 19,
+      "start": 15
+    },
+    {
+      "content": "Tu peux les prendre si tu veux.",
+      "end": 20,
+      "start": 19
+    },
+    {
+      "content": "En plus, depuis son divorce,\nmon père habitait en France.",
+      "end": 22,
+      "start": 20
+    },
+    {
+      "content": "Tu as pas dit que t'étais un pote ?\nIl fallait que je parte.",
+      "end": 24,
+      "start": 22
+    },
+    {
+      "content": "En plus, Kevin allait emménager\navec sa copine Maude.",
+      "end": 26,
+      "start": 24
+    },
+    {
+      "content": "Il m'a dit: C'est la fin de ma vie.",
+      "end": 28,
+      "start": 26
+    },
+    {
+      "content": "C'est 300 € en moins sur le loyer.",
+      "end": 29,
+      "start": 28
+    },
+    {
+      "content": "Du coup, je pouvais récupérer son appart.\nJ'ai dit à Baptiste.",
+      "end": 31,
+      "start": 29
+    },
+    {
+      "content": "Je pars.\nBaptiste a dit: À tout à l'heure.",
+      "end": 32,
+      "start": 31
+    },
+    {
+      "content": "J'ai dit: Non, je pars vraiment.",
+      "end": 35,
+      "start": 32
+    },
+    {
+      "content": "Il était ému.",
+      "end": 38,
+      "start": 35
+    },
+    {
+      "content": "Ça m'a touché.\nIl a dit: Qui va payer le loyer ?",
+      "end": 41,
+      "start": 38
+    },
+    {
+      "content": "J'ai dit: Je m'en fous.\nJe pars demain.",
+      "end": 42,
+      "start": 41
+    },
+    {
+      "content": "J'ai fait mes cartons.\nÇa m'a pris trois semaines.",
+      "end": 47,
+      "start": 42
+    },
+    {
+      "content": "Dans les déménagements, il y a toujours\nun mec qui porte que les trucs léger.",
+      "end": 50,
+      "start": 47
+    },
+    {
+      "content": "Un mec qui dit: Un, deux.",
+      "end": 52,
+      "start": 50
+    },
+    {
+      "content": "Sans le trois.\nUn mec qui dit: Ça passera.",
+      "end": 54,
+      "start": 52
+    },
+    {
+      "content": "Et celui qui dit: Ça passera pas.\nCelui qui mesure tout.",
+      "end": 57,
+      "start": 54
+    },
+    {
+      "content": "Tu peux m'aider là ?\nJe peux pas, je mesure.",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "C'est aussi celui\nqui porte les trucs légers.",
+      "end": 60,
+      "start": 59
+    },
+    {
+      "content": "On a tapé un fou rire\ndans l'escalier en portant mon lit.",
+      "end": 63,
+      "start": 60
+    },
+    {
+      "content": "Ouais ?",
+      "end": 63,
+      "start": 63
+    },
+    {
+      "content": "Quand mon frère a répondu\nau téléphone, il a dit: Ouais ?",
+      "end": 66,
+      "start": 63
+    },
+    {
+      "content": "Après, il a dit: Ouais ?",
+      "end": 67,
+      "start": 66
+    },
+    {
+      "content": "Et enfin, il a dit: Ouais ?",
+      "end": 73,
+      "start": 67
+    },
+    {
+      "content": "Ça faisait trop de ouais\npour une bonne nouvelle.",
+      "end": 76,
+      "start": 74
+    },
+    {
+      "content": "Il a dit: C'est fini avec Maud.",
+      "end": 77,
+      "start": 76
+    },
+    {
+      "content": "Je garde l'appart.",
+      "end": 80,
+      "start": 77
+    },
+    {
+      "content": "Du coup, je pouvais plus\nrécupérer son appart, je devais",
+      "end": 81,
+      "start": 80
+    },
+    {
+      "content": "retourner chez Baptiste.",
+      "end": 82,
+      "start": 81
+    },
+    {
+      "content": "Sauf qu'entre temps, Baptiste\navait trouvé Charles, un nouveau coloc.",
+      "end": 84,
+      "start": 82
+    },
+    {
+      "content": "Salut, je suis Charles,\nje suis le nouveau coloc.",
+      "end": 85,
+      "start": 84
+    },
+    {
+      "content": "Mes potes m'ont dit.",
+      "end": 86,
+      "start": 85
+    },
+    {
+      "content": "Mon père leur a demandé:\nVous avez pas des capotes ?",
+      "end": 89,
+      "start": 86
+    },
+    {
+      "content": "J'avais plus d'appart, plus de coloc.\nMon lit était en bas de l'immeuble.",
+      "end": 91,
+      "start": 89
+    },
+    {
+      "content": "Mon frère pleurait dessus.",
+      "end": 92,
+      "start": 91
+    },
+    {
+      "content": "Bref, j'ai déménagé chez mon père.",
+      "end": 98,
+      "start": 92
+    },
+    {
+      "content": "C'est mon caleçon, ça.",
+      "end": 100,
+      "start": 98
+    },
+    {
+      "content": "Oui, mais je suis ton père.",
+      "end": 101,
+      "start": 100
+    }
+  ],
   "video": {
     "id": "YFLtnewtqAE"
   }

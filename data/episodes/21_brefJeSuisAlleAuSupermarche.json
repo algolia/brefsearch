@@ -8,6 +8,178 @@
     "name": "Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche"
   },
+  "lines": [
+    {
+      "content": "Bref, ce jour-là, je n'avais plus de déo.",
+      "end": 2,
+      "start": 1
+    },
+    {
+      "content": "Je déteste les gens\nqui ne mettent pas de déo.",
+      "end": 3,
+      "start": 2
+    },
+    {
+      "content": "Je n'avais pas envie de me détester.\nJe suis allé en acheter au supermarché.",
+      "end": 5,
+      "start": 3
+    },
+    {
+      "content": "En arrivant, j'ai vu qu'ils faisaient\ndes promotions sur les pains à hamburger.",
+      "end": 8,
+      "start": 5
+    },
+    {
+      "content": "Je me suis dit que ça faisait longtemps\nque je ne m'étais pas fait",
+      "end": 9,
+      "start": 8
+    },
+    {
+      "content": "un vrai hamburger.",
+      "end": 10,
+      "start": 9
+    },
+    {
+      "content": "Je n'en voulais qu'un, mais\nils n'en vendaient que par 10.",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "Du coup, j'ai pris des steak\npar 10, du fromage par 10, des oignons",
+      "end": 13,
+      "start": 11
+    },
+    {
+      "content": "par 10, des tomates par 10.",
+      "end": 14,
+      "start": 13
+    },
+    {
+      "content": "J'ai aussi pris de la\nsalade et des frites.",
+      "end": 15,
+      "start": 14
+    },
+    {
+      "content": "Je me suis retrouvé les bras pleins.",
+      "end": 16,
+      "start": 15
+    },
+    {
+      "content": "J'ai voulu prendre un panier,\nil n'y en avait plus.",
+      "end": 17,
+      "start": 16
+    },
+    {
+      "content": "J'ai pris un caddie.",
+      "end": 18,
+      "start": 18
+    },
+    {
+      "content": "J'ai voulu surfer sur mon caddie,\nmais il partait sur la droite.",
+      "end": 20,
+      "start": 18
+    },
+    {
+      "content": "Je n'ai pas pu surfer.",
+      "end": 20,
+      "start": 20
+    },
+    {
+      "content": "Et puis je me suis dit que si\nle caddie partait à droite, c'est à cause",
+      "end": 22,
+      "start": 20
+    },
+    {
+      "content": "des mecs comme moi qui surfent dessus.",
+      "end": 23,
+      "start": 22
+    },
+    {
+      "content": "Perdu pour perdu,\nj'ai aussi pris des pannes.",
+      "end": 25,
+      "start": 23
+    },
+    {
+      "content": "J'ai aussi pris du Energy\n3000 pour aucune raison.",
+      "end": 27,
+      "start": 25
+    },
+    {
+      "content": "Je me suis demandé pourquoi\nj'ai acheté tous ces trucs.",
+      "end": 28,
+      "start": 27
+    },
+    {
+      "content": "J'ai pensé à mon site qui m'a dit: Vous\ncherchez à combler la vie d'affective.",
+      "end": 31,
+      "start": 28
+    },
+    {
+      "content": "J'ai pensé à ma vie affective\net j'ai racheté d'autres trucs.",
+      "end": 34,
+      "start": 31
+    },
+    {
+      "content": "En y réfléchissant, j'ai compris\npourquoi j'ai acheté le Energy 3000.",
+      "end": 38,
+      "start": 34
+    },
+    {
+      "content": "Le MRC 3000, la boisson\ndes vrais bonhommes.",
+      "end": 42,
+      "start": 38
+    },
+    {
+      "content": "Du coup, j'ai pris conscience que la\nsociété de consommation m'avait rattrapé.",
+      "end": 46,
+      "start": 42
+    },
+    {
+      "content": "J'ai voulu jeter mon caddie en criant.",
+      "end": 48,
+      "start": 46
+    },
+    {
+      "content": "J'ai repris du surrhumine.",
+      "end": 54,
+      "start": 48
+    },
+    {
+      "content": "J'ai dit bonjour à la qu'il me dit.\nBonjour.",
+      "end": 58,
+      "start": 54
+    },
+    {
+      "content": "C'était pas mon tour.",
+      "end": 60,
+      "start": 59
+    },
+    {
+      "content": "J'ai attendu, j'ai redit bonjour.\nBonjour.",
+      "end": 62,
+      "start": 60
+    },
+    {
+      "content": "Bonjour.\nC'était mon tour.",
+      "end": 63,
+      "start": 62
+    },
+    {
+      "content": "J'ai payé, j'ai pris mes courses,\nje suis sorti, j'avais pas pris de déo.",
+      "end": 65,
+      "start": 63
+    },
+    {
+      "content": "Bref, je suis allé au supermarché.",
+      "end": 70,
+      "start": 65
+    },
+    {
+      "content": "Inerci 3000,\nla boisson des vrais bonhommes.",
+      "end": 73,
+      "start": 70
+    }
+  ],
   "video": {
     "id": "onb8vNaHYB4"
   }

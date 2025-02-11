@@ -8,6 +8,248 @@
     "name": "J'ai fait un concert.",
     "slug": "brefJaiFaitUnConcert"
   },
+  "lines": [
+    {
+      "content": "Mon cœur est si gris.",
+      "end": 2,
+      "start": 0
+    },
+    {
+      "content": "Bref, ça faisait un an que je jouais\nde la guitare et j'allais",
+      "end": 5,
+      "start": 2
+    },
+    {
+      "content": "faire mon premier concert.",
+      "end": 6,
+      "start": 5
+    },
+    {
+      "content": "J'avais fait une affiche\navec mon pseudonyme: Amère de toi,",
+      "end": 8,
+      "start": 6
+    },
+    {
+      "content": "avec ma photo en dessous, mais elle était\npas bien passée à l'impression.",
+      "end": 12,
+      "start": 8
+    },
+    {
+      "content": "J'ai dû la refaire.",
+      "end": 13,
+      "start": 12
+    },
+    {
+      "content": "Elle était magnifique.\nJ'étais au sommet, le café.",
+      "end": 15,
+      "start": 13
+    },
+    {
+      "content": "Un jour, j'ai perdu mes chaussettes.",
+      "end": 18,
+      "start": 15
+    },
+    {
+      "content": "Mes potes sont venus en retard.",
+      "end": 19,
+      "start": 18
+    },
+    {
+      "content": "Il y avait même cette fille\nque je draguais depuis des mois.",
+      "end": 21,
+      "start": 19
+    },
+    {
+      "content": "Elle me regardait, j'étais bien.",
+      "end": 23,
+      "start": 21
+    },
+    {
+      "content": "Son pote au mot aussi, je l'étais mitigée.",
+      "end": 25,
+      "start": 23
+    },
+    {
+      "content": "Je jouais à côté des toilettes,\nc'était pas cool.",
+      "end": 27,
+      "start": 25
+    },
+    {
+      "content": "À part pour ma chanson sur les ruisseaux.",
+      "end": 31,
+      "start": 27
+    },
+    {
+      "content": "Pendant que je jouais, des gens hurlaient.",
+      "end": 34,
+      "start": 31
+    },
+    {
+      "content": "Tu me l'es fait, c'est café ou quoi ?",
+      "end": 35,
+      "start": 34
+    },
+    {
+      "content": "Et puis, comme tous les chanteurs,\nj'ai fait un moment émotion.",
+      "end": 39,
+      "start": 35
+    },
+    {
+      "content": "Excusez-moi.",
+      "end": 41,
+      "start": 40
+    },
+    {
+      "content": "Maman.\nUne envolée.",
+      "end": 44,
+      "start": 42
+    },
+    {
+      "content": "Et j'ai tapé sur ma guitare pour que\nles gens tapent dans leurs mains.",
+      "end": 48,
+      "start": 44
+    },
+    {
+      "content": "Allez les sommets !\nOn y va, on tape dans les mains.",
+      "end": 53,
+      "start": 48
+    },
+    {
+      "content": "Je me sentais comme chez moi sur scène.",
+      "end": 56,
+      "start": 54
+    },
+    {
+      "content": "J'ai dit: Est-ce que je peux avoir\nune bière, s'il vous plaît ?",
+      "end": 58,
+      "start": 56
+    },
+    {
+      "content": "Ouais, la star, mais tu la payes.\nOuais, OK.",
+      "end": 61,
+      "start": 58
+    },
+    {
+      "content": "Des fois, je chantais\net personne me regardait.",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "Sauf elle.\nElle me regardait depuis le début.",
+      "end": 64,
+      "start": 63
+    },
+    {
+      "content": "Je la regardais,\nelle me regardait, je la regardais,",
+      "end": 66,
+      "start": 64
+    },
+    {
+      "content": "je lui souriais, elle me souriait.",
+      "end": 67,
+      "start": 66
+    },
+    {
+      "content": "La guitare faisait son effet.",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Les gens ont applaudi.\nLa fille applaudit.",
+      "end": 70,
+      "start": 68
+    },
+    {
+      "content": "Les potes sont partis.\nOn avance.",
+      "end": 72,
+      "start": 70
+    },
+    {
+      "content": "Après le concert,\nla fille est venue me parler.",
+      "end": 74,
+      "start": 72
+    },
+    {
+      "content": "Elle me regardait, je Regardez,\nelle m'a dit: Tu joues super bien.",
+      "end": 77,
+      "start": 74
+    },
+    {
+      "content": "J'ai dit: Merci.\nMerci.",
+      "end": 79,
+      "start": 77
+    },
+    {
+      "content": "Salut.",
+      "end": 79,
+      "start": 79
+    },
+    {
+      "content": "La fille que je voulais\nétait en train de partir.",
+      "end": 81,
+      "start": 79
+    },
+    {
+      "content": "Ça fait longtemps que tu joues ?",
+      "end": 82,
+      "start": 81
+    },
+    {
+      "content": "J'ai dit: J'ai voulu la rattraper.",
+      "end": 84,
+      "start": 82
+    },
+    {
+      "content": "Le serveur m'a dit: La star,\nelle paye son verre.",
+      "end": 86,
+      "start": 84
+    },
+    {
+      "content": "Attendez.\nLa fille m'a dit: Je suis là.",
+      "end": 88,
+      "start": 86
+    },
+    {
+      "content": "J'ai dit: Elle m'a dit: J'ai\ndit: Elle m'a dit: Comme ça,",
+      "end": 92,
+      "start": 88
+    },
+    {
+      "content": "tu me referais un autre jour.",
+      "end": 94,
+      "start": 92
+    },
+    {
+      "content": "J'ai dit: J'ai payé mon verre.\nJ'ai voulu rattraper la fille.",
+      "end": 96,
+      "start": 94
+    },
+    {
+      "content": "Je l'ai pas retrouvée.\nPutain.",
+      "end": 99,
+      "start": 96
+    },
+    {
+      "content": "Quand je suis rentré chez moi,\nj'ai regardé sur Facebook, personne",
+      "end": 101,
+      "start": 99
+    },
+    {
+      "content": "n'avait rien mis, sauf la fille.\nElle avait mis: Je l'aime.",
+      "end": 103,
+      "start": 101
+    },
+    {
+      "content": "J'étais content.\nBref, j'ai fait un concert.",
+      "end": 109,
+      "start": 103
+    },
+    {
+      "content": "Deux rissons.",
+      "end": 111,
+      "start": 109
+    }
+  ],
   "video": {
     "id": "04gASg8-J3Y"
   }

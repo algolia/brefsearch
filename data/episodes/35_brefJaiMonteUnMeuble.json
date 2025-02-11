@@ -8,6 +8,218 @@
     "name": "J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble"
   },
+  "lines": [
+    {
+      "content": "Bref, ça faisait déjà quelques mois\nqu'il me fallait une vraie armoire.",
+      "end": 3,
+      "start": 1
+    },
+    {
+      "content": "J'en ai acheté une.",
+      "end": 4,
+      "start": 3
+    },
+    {
+      "content": "Après avoir monté le meuble moi-même,\nil fallait que je le monte moi-même.",
+      "end": 6,
+      "start": 4
+    },
+    {
+      "content": "Le plan du meuble était super\ncompliqué, mais il était à l'envers.",
+      "end": 8,
+      "start": 6
+    },
+    {
+      "content": "Il était quand même compliqué.",
+      "end": 10,
+      "start": 8
+    },
+    {
+      "content": "Il y avait pas assez de place\ndans ma chambre pour le monter,",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "alors je l'ai monté dans mon salon.",
+      "end": 12,
+      "start": 11
+    },
+    {
+      "content": "J'ai dû pousser le canapé, déplacer\nla table basse, rouler le tapis.",
+      "end": 14,
+      "start": 12
+    },
+    {
+      "content": "J'en avais déjà marre.",
+      "end": 15,
+      "start": 14
+    },
+    {
+      "content": "J'ai dit: Il est où le tournevis ?\n23 fois.",
+      "end": 17,
+      "start": 15
+    },
+    {
+      "content": "Il est où ?",
+      "end": 18,
+      "start": 17
+    },
+    {
+      "content": "J'ai voulu enfoncer un truc avec ma main.\nJe me suis fait mal.",
+      "end": 20,
+      "start": 18
+    },
+    {
+      "content": "Je me suis coupé avec une planche,\nj'ai remué la main.",
+      "end": 22,
+      "start": 20
+    },
+    {
+      "content": "Je me suis demandé pourquoi on remue\nla main quand on se coupe.",
+      "end": 25,
+      "start": 22
+    },
+    {
+      "content": "J'ai essayé de fixer la planche B\nà la planche D avec la vis",
+      "end": 27,
+      "start": 25
+    },
+    {
+      "content": "B5, mais ça marchait pas.",
+      "end": 28,
+      "start": 27
+    },
+    {
+      "content": "Je me suis rendu compte que\nj'avais confondu la la planche B",
+      "end": 30,
+      "start": 28
+    },
+    {
+      "content": "avec la planche H, qui est pareil,\nmais avec deux autres trous sur le côté.",
+      "end": 32,
+      "start": 30
+    },
+    {
+      "content": "Je me suis senti triste.\nJ'ai crié.",
+      "end": 34,
+      "start": 32
+    },
+    {
+      "content": "Sur la notice, ils indiquaient qu'il\nfallait être deux pour monter ce meuble.",
+      "end": 38,
+      "start": 34
+    },
+    {
+      "content": "Je me suis dit que je me\ndébrouillerai tout seul.",
+      "end": 40,
+      "start": 38
+    },
+    {
+      "content": "L'étape sept a été difficile.",
+      "end": 41,
+      "start": 40
+    },
+    {
+      "content": "Mon coloc ne m'a pas aidé.\nIl était occupé.",
+      "end": 45,
+      "start": 41
+    },
+    {
+      "content": "Je suis occupé.",
+      "end": 46,
+      "start": 45
+    },
+    {
+      "content": "Tu veux le petit Wynnie ?",
+      "end": 52,
+      "start": 49
+    },
+    {
+      "content": "Je n'en veux pas.",
+      "end": 54,
+      "start": 52
+    },
+    {
+      "content": "J'ai marché pied nu sur une vis C2.\nJ'ai dit les gros mots.",
+      "end": 60,
+      "start": 57
+    },
+    {
+      "content": "Putain de sa mère de qui j'ai\ntouché, c'était tellement bon.",
+      "end": 62,
+      "start": 61
+    },
+    {
+      "content": "J'ai regardé l'étape 9\npendant environ 20 minutes.",
+      "end": 64,
+      "start": 62
+    },
+    {
+      "content": "J'ai sauté l'étape 9.\nLe meuble commençait à avoir de la gueule.",
+      "end": 65,
+      "start": 64
+    },
+    {
+      "content": "J'ai pris le temps de me dire\nque j'étais un putain de bonhomme.",
+      "end": 67,
+      "start": 65
+    },
+    {
+      "content": "Arrivé à l'étape 14, j'ai compris\nà quoi servait l'étape 9.",
+      "end": 70,
+      "start": 67
+    },
+    {
+      "content": "Je suis retourné en arrière, j'ai fait\nl'étape 9, je suis revenu à l'étape 14.",
+      "end": 72,
+      "start": 70
+    },
+    {
+      "content": "J'avais fini mon meuble quand Baptiste a\ndit: Passera pas la porte ton meuble.",
+      "end": 75,
+      "start": 72
+    },
+    {
+      "content": "Merde.\nDemande.",
+      "end": 79,
+      "start": 75
+    },
+    {
+      "content": "Tu demandes pas.",
+      "end": 82,
+      "start": 80
+    },
+    {
+      "content": "J'ai tout démonté, j'ai\ntout remonté dans ma chambre.",
+      "end": 83,
+      "start": 82
+    },
+    {
+      "content": "J'ai pas sauté l'étape neuve.",
+      "end": 84,
+      "start": 83
+    },
+    {
+      "content": "Je me suis dit que je rangerais\nmes affaires dedans demain",
+      "end": 85,
+      "start": 84
+    },
+    {
+      "content": "parce que j'étais trop crevé.",
+      "end": 87,
+      "start": 85
+    },
+    {
+      "content": "Deux semaines après,\nje l'avais toujours pas rempli.",
+      "end": 88,
+      "start": 87
+    },
+    {
+      "content": "Bref, j'ai monté un meuble.",
+      "end": 91,
+      "start": 88
+    }
+  ],
   "video": {
     "id": "46O65gqs03c"
   }

@@ -8,6 +8,188 @@
     "name": "J'ai couché avec une flic.",
     "slug": "brefJaiCoucheAvecUneFlic"
   },
+  "lines": [
+    {
+      "content": "Bref, j'avais accosté\ncette meuf dans la rue.",
+      "end": 4,
+      "start": 3
+    },
+    {
+      "content": "Elle m'a ditDemain, OK.\nJ'ai dit Cool, 16h00.",
+      "end": 6,
+      "start": 4
+    },
+    {
+      "content": "Elle a ditJe termine mon service à 18h00.\nJ'ai ditT'es serveuse ?",
+      "end": 9,
+      "start": 6
+    },
+    {
+      "content": "Elle m'a ditNon.\nÀ demain.",
+      "end": 12,
+      "start": 9
+    },
+    {
+      "content": "Salut.",
+      "end": 13,
+      "start": 12
+    },
+    {
+      "content": "Le lendemain, à 18h00, très précisément,\nelle m'a envoyé un texto me demandant",
+      "end": 16,
+      "start": 13
+    },
+    {
+      "content": "mon adresse, mon code et mon étage.",
+      "end": 17,
+      "start": 16
+    },
+    {
+      "content": "J'ai répondu Pourquoi ?\nT'es flic ?",
+      "end": 19,
+      "start": 17
+    },
+    {
+      "content": "Elle a répondu Oui.\nElle était marrante.",
+      "end": 20,
+      "start": 19
+    },
+    {
+      "content": "Elle était flic.",
+      "end": 22,
+      "start": 20
+    },
+    {
+      "content": "Elle était flic et bonne.",
+      "end": 23,
+      "start": 22
+    },
+    {
+      "content": "En y réfléchissant bien,\nj'ai repensé à tous les trucs illégaux",
+      "end": 26,
+      "start": 23
+    },
+    {
+      "content": "que j'avais chez moi.",
+      "end": 26,
+      "start": 26
+    },
+    {
+      "content": "Mon compteur EDF que j'avais bloqué\navec un fil de fer, ma beuh qui traînait",
+      "end": 29,
+      "start": 26
+    },
+    {
+      "content": "sur la table basse et surtout\nles 584 téléchargements de série",
+      "end": 32,
+      "start": 29
+    },
+    {
+      "content": "et MP3 en cours sur mon PC.",
+      "end": 33,
+      "start": 32
+    },
+    {
+      "content": "Elle s'est mis à l'aise.",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "Elle a vu ma beuh,\nj'ai dit: C'est pas à moi.",
+      "end": 36,
+      "start": 34
+    },
+    {
+      "content": "Elle a dit: Dommage.\nJ'ai dit: Pourquoi ?",
+      "end": 37,
+      "start": 36
+    },
+    {
+      "content": "On aurait pu s'enrouler.",
+      "end": 38,
+      "start": 37
+    },
+    {
+      "content": "J'ai dit: C'est à moi.",
+      "end": 39,
+      "start": 38
+    },
+    {
+      "content": "On est allé dans ma chambre,\nelle a continué pour se mettre à l'aise.",
+      "end": 45,
+      "start": 39
+    },
+    {
+      "content": "C'était cool.",
+      "end": 45,
+      "start": 45
+    },
+    {
+      "content": "Elle m'a déstapé, on a commencé,\nj'ai pensé à Joe Estard.",
+      "end": 47,
+      "start": 45
+    },
+    {
+      "content": "Nique la police.",
+      "end": 49,
+      "start": 47
+    },
+    {
+      "content": "Elle m'a plaqué contre le lit, elle m'a\ndit: Maintenant, tu t'appelles Sophie.",
+      "end": 52,
+      "start": 49
+    },
+    {
+      "content": "J'ai dit: Non.\nElle m'a mis une gifle.",
+      "end": 53,
+      "start": 52
+    },
+    {
+      "content": "J'ai dit: Sophie, comment ?",
+      "end": 55,
+      "start": 53
+    },
+    {
+      "content": "Je croyais qu'on avait fini\nquand elle a pris ses menottes",
+      "end": 57,
+      "start": 56
+    },
+    {
+      "content": "et elle m'a attaché à mon lit.\nJ'ai trouvé ça cool.",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "Elle s'est rhabillée.\nJ'ai trouvé ça triste.",
+      "end": 61,
+      "start": 59
+    },
+    {
+      "content": "Ensuite, elle m'a dit: Je prends ta beuh.\nJ'ai dit: Non, pourquoi ?",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "Elle est partie.\nAlors j'ai dit: Hé oh !",
+      "end": 65,
+      "start": 63
+    },
+    {
+      "content": "Et encore.",
+      "end": 66,
+      "start": 65
+    },
+    {
+      "content": "Hé oh ?",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Bref, j'ai couché avec une flic.",
+      "end": 72,
+      "start": 69
+    }
+  ],
   "video": {
     "id": "if3EipAM2WQ"
   }

@@ -8,6 +8,268 @@
     "name": "Mon pote s'est fait larguer.",
     "slug": "brefMonPoteSestFaitLarguer"
   },
+  "lines": [
+    {
+      "content": "Je suis amoureux.",
+      "end": 0,
+      "start": 0
+    },
+    {
+      "content": "Bref, j'avais rendez-vous\nau café avec Ben.",
+      "end": 2,
+      "start": 0
+    },
+    {
+      "content": "J'étais content.",
+      "end": 2,
+      "start": 2
+    },
+    {
+      "content": "J'avais une bonne nouvelle,\nj'allais lui dire.",
+      "end": 4,
+      "start": 2
+    },
+    {
+      "content": "Je suis amoureux.",
+      "end": 4,
+      "start": 4
+    },
+    {
+      "content": "Mais c'est lui qui a\ndit: Je l'avais déjà vu sept fois",
+      "end": 7,
+      "start": 4
+    },
+    {
+      "content": "à la même place pour les mêmes conneries.",
+      "end": 8,
+      "start": 7
+    },
+    {
+      "content": "C'est fini.",
+      "end": 9,
+      "start": 8
+    },
+    {
+      "content": "Du coup, je m'en battais les couilles.\nC'est pas vrai.",
+      "end": 13,
+      "start": 9
+    },
+    {
+      "content": "C'est bien parler.",
+      "end": 14,
+      "start": 13
+    },
+    {
+      "content": "J'ai pioché des phrases type:\nUne de perdue décide de retrouvées.",
+      "end": 16,
+      "start": 14
+    },
+    {
+      "content": "T'as raison.\nC'est un tant pis pour un tant mieux.",
+      "end": 19,
+      "start": 16
+    },
+    {
+      "content": "T'as raison.\nElle est jeune.",
+      "end": 20,
+      "start": 19
+    },
+    {
+      "content": "T'es encore toute ta vie.\nT'as raison.",
+      "end": 22,
+      "start": 20
+    },
+    {
+      "content": "Pendant tout ce temps,\nil arrêtait pas de tapoter sur la table.",
+      "end": 24,
+      "start": 22
+    },
+    {
+      "content": "Ça m'énervait.",
+      "end": 24,
+      "start": 24
+    },
+    {
+      "content": "Je crois vraiment que le garçon faisait\nexprès de faire 10 000 chocolats chauds",
+      "end": 26,
+      "start": 24
+    },
+    {
+      "content": "à deux mètres de mon oreille.\nJe lui ai dit: Il va revenir, tu crois ?",
+      "end": 28,
+      "start": 26
+    },
+    {
+      "content": "Pourquoi ?",
+      "end": 29,
+      "start": 28
+    },
+    {
+      "content": "Parce qu'elle est moisie\net qu'elle trouvera personne d'autre.",
+      "end": 31,
+      "start": 29
+    },
+    {
+      "content": "Elle tient, toi ?\nT'es pas à l'aise, oncle.",
+      "end": 32,
+      "start": 31
+    },
+    {
+      "content": "Il tapotait encore.",
+      "end": 33,
+      "start": 32
+    },
+    {
+      "content": "J'avais envie de sortir une machette\net de lui couper la main.",
+      "end": 35,
+      "start": 33
+    },
+    {
+      "content": "Il a dit: C'est terminé.",
+      "end": 36,
+      "start": 35
+    },
+    {
+      "content": "J'ai eu l'impression d'être\ndans un film français.",
+      "end": 39,
+      "start": 36
+    },
+    {
+      "content": "Tu penses à elle, tu sais.",
+      "end": 41,
+      "start": 39
+    },
+    {
+      "content": "Tu penses à toi un peu.",
+      "end": 44,
+      "start": 42
+    },
+    {
+      "content": "Mais je fume pas.",
+      "end": 49,
+      "start": 47
+    },
+    {
+      "content": "Lui et Cathy, c'était le couple\ngênant, le genre de couple qui crée",
+      "end": 51,
+      "start": 49
+    },
+    {
+      "content": "des silences dans les dîners.",
+      "end": 52,
+      "start": 51
+    },
+    {
+      "content": "Ok, tu me remets un, s'il te plaît.\nNon, mais tu es sérieux ?",
+      "end": 54,
+      "start": 52
+    },
+    {
+      "content": "Tu vas reprendre un verre, là ?",
+      "end": 57,
+      "start": 54
+    },
+    {
+      "content": "Pourquoi je me prends le nez ?",
+      "end": 59,
+      "start": 58
+    },
+    {
+      "content": "Profite-ra, s'il vous plaît.",
+      "end": 61,
+      "start": 59
+    },
+    {
+      "content": "Tu es sûr que tu veux prendre un dessert ?",
+      "end": 63,
+      "start": 61
+    },
+    {
+      "content": "Je vais prendre une tarte aux pommes.\nQuetsch ?",
+      "end": 66,
+      "start": 64
+    },
+    {
+      "content": "Tarte quetsch.",
+      "end": 67,
+      "start": 66
+    },
+    {
+      "content": "Moi, monsieur, il est trop fatigué\npour me faire l'amour.",
+      "end": 71,
+      "start": 67
+    },
+    {
+      "content": "Ben touillait son café depuis 20 minutes\nen faisant bien à la cuillère.",
+      "end": 75,
+      "start": 72
+    },
+    {
+      "content": "Il avait même pas mis de sucre.\nPourquoi ?",
+      "end": 77,
+      "start": 75
+    },
+    {
+      "content": "T'es malade.\nT'es malade, lui, ça touche pas à moi.",
+      "end": 79,
+      "start": 77
+    },
+    {
+      "content": "Je pense qu'elle est à l'autre côté.",
+      "end": 81,
+      "start": 79
+    },
+    {
+      "content": "Je suis amoureux, connard.",
+      "end": 89,
+      "start": 81
+    },
+    {
+      "content": "Et toi alors ?",
+      "end": 91,
+      "start": 89
+    },
+    {
+      "content": "Quoi de neuf ?",
+      "end": 92,
+      "start": 91
+    },
+    {
+      "content": "Figure-toi que je suis amoureux.",
+      "end": 93,
+      "start": 92
+    },
+    {
+      "content": "Il a reçu un texto.\nC'est Cathy.",
+      "end": 96,
+      "start": 93
+    },
+    {
+      "content": "Elle me laisse une chance.\nIl est parti en courant.",
+      "end": 97,
+      "start": 96
+    },
+    {
+      "content": "Il a pas payé, 14 €.",
+      "end": 98,
+      "start": 97
+    },
+    {
+      "content": "Bref, mon pote s'est fait larguer.",
+      "end": 101,
+      "start": 99
+    },
+    {
+      "content": "Vous acceptez la carte deux ?",
+      "end": 107,
+      "start": 101
+    },
+    {
+      "content": "Non, c'est à partir de 15 €.",
+      "end": 110,
+      "start": 108
+    }
+  ],
   "video": {
     "id": "J9EL_bGpdP4"
   }

@@ -8,6 +8,108 @@
     "name": "J'étais à côté de cette fille.",
     "slug": "brefJetaisACoteDeCetteFille"
   },
+  "lines": [
+    {
+      "content": "Bref, j'étais à côté de cette fille.",
+      "end": 2,
+      "start": 1
+    },
+    {
+      "content": "J'avais dragué cette\nfille à la soirée de mode.",
+      "end": 3,
+      "start": 2
+    },
+    {
+      "content": "Elle avait pris mon numéro,\nmais c'était pour Steve, son potomo.",
+      "end": 5,
+      "start": 3
+    },
+    {
+      "content": "Ensuite, elle m'a accepté sur Facebook.\nJe l'ai poquée.",
+      "end": 7,
+      "start": 5
+    },
+    {
+      "content": "Je l'ai recroisé au supermarché.\nElle se souvenait plus de mon nom.",
+      "end": 9,
+      "start": 7
+    },
+    {
+      "content": "Je lui ai dit que je m'appelais\nVincent Dubois et que j'avais",
+      "end": 10,
+      "start": 9
+    },
+    {
+      "content": "deux poissons clowns.\nC'était pas vrai et c'était pas vrai.",
+      "end": 12,
+      "start": 10
+    },
+    {
+      "content": "Ensuite, je l'ai invitée au cinéma, mais\nje suis resté coincé dans l'ascenseur.",
+      "end": 13,
+      "start": 12
+    },
+    {
+      "content": "Et là, j'étais à côté de cette fille.",
+      "end": 14,
+      "start": 13
+    },
+    {
+      "content": "J'ai voulu manger avec elle,\nmais j'ai eu 47 minutes de retard.",
+      "end": 16,
+      "start": 14
+    },
+    {
+      "content": "Elle m'obsédait, je rêvais d'elle.",
+      "end": 17,
+      "start": 16
+    },
+    {
+      "content": "Je me suis rendu compte\nque je l'intéressais aussi.",
+      "end": 19,
+      "start": 17
+    },
+    {
+      "content": "Et là, j'étais à côté de cette fille.\nJe l'intéressais.",
+      "end": 20,
+      "start": 19
+    },
+    {
+      "content": "Du coup, je l'ai invitée au cinéma, j'ai\nvoulu l'embrasser, mais elle est partie.",
+      "end": 23,
+      "start": 21
+    },
+    {
+      "content": "J'ai fait un concert, j'ai voulu\nl'embrasser, mais elle est partie.",
+      "end": 25,
+      "start": 23
+    },
+    {
+      "content": "J'ai dîné avec elle, j'ai voulu\nl'embrasser, mais elle est partie.",
+      "end": 27,
+      "start": 25
+    },
+    {
+      "content": "Avec le serveur.",
+      "end": 27,
+      "start": 27
+    },
+    {
+      "content": "Je n'avais plus d'appart,\nelle m'a dit: Passe.",
+      "end": 29,
+      "start": 27
+    },
+    {
+      "content": "Et là...",
+      "end": 30,
+      "start": 29
+    },
+    {
+      "content": "Bref.",
+      "end": 30,
+      "start": 30
+    }
+  ],
   "video": {
     "id": "DOMouPqhIus"
   }

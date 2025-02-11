@@ -8,6 +8,213 @@
     "name": "Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare"
   },
+  "lines": [
+    {
+      "content": "Bref, c'était à une soirée.",
+      "end": 3,
+      "start": 1
+    },
+    {
+      "content": "Un mec jouait de la guitare\ndans une chambre.",
+      "end": 5,
+      "start": 3
+    },
+    {
+      "content": "Tu joues trop bien.",
+      "end": 6,
+      "start": 5
+    },
+    {
+      "content": "Je me suis dit qu'à moi aussi,\nje voulais qu'on dise.",
+      "end": 8,
+      "start": 6
+    },
+    {
+      "content": "Tu joues trop bien.\nJ'ai emprunté une guitare à Ben.",
+      "end": 11,
+      "start": 8
+    },
+    {
+      "content": "Il m'a dit qu'il manquait une corde,\nmais qu'elle servait à rien.",
+      "end": 12,
+      "start": 11
+    },
+    {
+      "content": "Il manque une corde,\nmais elle sert à rien.",
+      "end": 14,
+      "start": 12
+    },
+    {
+      "content": "Je l'ai cru.",
+      "end": 15,
+      "start": 14
+    },
+    {
+      "content": "J'ai commencé à apprendre\nen regardant des vidéos sur Internet,",
+      "end": 16,
+      "start": 15
+    },
+    {
+      "content": "mais j'allais souvent sur des vidéos\nqui avaient aucun rapport.",
+      "end": 19,
+      "start": 16
+    },
+    {
+      "content": "Un jour, je m'y suis mis sérieusement.",
+      "end": 21,
+      "start": 19
+    },
+    {
+      "content": "Au début, c'était pas top.",
+      "end": 22,
+      "start": 21
+    },
+    {
+      "content": "Après, c'était pas top.",
+      "end": 23,
+      "start": 22
+    },
+    {
+      "content": "Et au bout d'un moment, c'était pas top.",
+      "end": 25,
+      "start": 23
+    },
+    {
+      "content": "En y réfléchissant, j'ai repensé\nà toutes les fois où Ben m'a dit",
+      "end": 28,
+      "start": 25
+    },
+    {
+      "content": "qu'un truc servait à rien.",
+      "end": 29,
+      "start": 28
+    },
+    {
+      "content": "Avise un aux États-Unis.",
+      "end": 30,
+      "start": 29
+    },
+    {
+      "content": "Ça sert à rien.\nTiens, pour mon vélo.",
+      "end": 33,
+      "start": 30
+    },
+    {
+      "content": "Il n'y a plus de frein,\nmais ça sert à rien.",
+      "end": 34,
+      "start": 33
+    },
+    {
+      "content": "Un bouton sur la paupière.",
+      "end": 36,
+      "start": 34
+    },
+    {
+      "content": "On va pas avoir un médecin pour ça.",
+      "end": 37,
+      "start": 36
+    },
+    {
+      "content": "Ça sert à rien.",
+      "end": 38,
+      "start": 37
+    },
+    {
+      "content": "Après être allé me faire enlever\nmon kyste à l'œil, je me suis dit",
+      "end": 40,
+      "start": 38
+    },
+    {
+      "content": "que j'allais racheter une corde.",
+      "end": 42,
+      "start": 40
+    },
+    {
+      "content": "C'était mieux, mais j'ai\ndû tout réapprendre.",
+      "end": 43,
+      "start": 42
+    },
+    {
+      "content": "Un jour, je suis allé sur des forums,\nj'ai appris qu'on pouvait serrer",
+      "end": 45,
+      "start": 43
+    },
+    {
+      "content": "des meufs avec seulement quatre accords:\nle do, le sol, le la et enfin le mi.",
+      "end": 49,
+      "start": 45
+    },
+    {
+      "content": "Je les ai travaillés sans relâche.",
+      "end": 52,
+      "start": 49
+    },
+    {
+      "content": "J'ai essayé de chanter\nen même temps, c'était super dur.",
+      "end": 55,
+      "start": 52
+    },
+    {
+      "content": "J'avais l'impression d'essayer\nde me branler avec des gants de box",
+      "end": 57,
+      "start": 55
+    },
+    {
+      "content": "en récitant l'alphabet à l'envers.",
+      "end": 59,
+      "start": 57
+    },
+    {
+      "content": "X, Y, W.\nPutain, j'arrive pas.",
+      "end": 62,
+      "start": 59
+    },
+    {
+      "content": "Putain, j'arrive pas.",
+      "end": 64,
+      "start": 62
+    },
+    {
+      "content": "Pendant un an, j'ai pas lâché l'affaire.",
+      "end": 68,
+      "start": 64
+    },
+    {
+      "content": "Et puis, mon cœur est",
+      "end": 80,
+      "start": 69
+    },
+    {
+      "content": "si gris quand il pleut.",
+      "end": 85,
+      "start": 80
+    },
+    {
+      "content": "Tu joues trop bien.",
+      "end": 89,
+      "start": 86
+    },
+    {
+      "content": "Bref, je joue de la guitare.",
+      "end": 92,
+      "start": 89
+    },
+    {
+      "content": "Tout ça à cause d'un\nputain de qui se ta l'œil.",
+      "end": 98,
+      "start": 92
+    },
+    {
+      "content": "C'est vachement bien.",
+      "end": 102,
+      "start": 100
+    },
+    {
+      "content": "Mais en quoi ça me concerne ?",
+      "end": 103,
+      "start": 102
+    }
+  ],
   "video": {
     "id": "QJEyHT7IU5M"
   }

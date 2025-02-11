@@ -8,6 +8,248 @@
     "name": "Mes parents divorcent.",
     "slug": "brefMesParentsDivorcent"
   },
+  "lines": [
+    {
+      "content": "Bref, ça faisait 30 ans\nque mes parents étaient ensemble.",
+      "end": 1,
+      "start": 0
+    },
+    {
+      "content": "Ça se passait super bien.",
+      "end": 3,
+      "start": 1
+    },
+    {
+      "content": "Ça se passait bien.",
+      "end": 5,
+      "start": 3
+    },
+    {
+      "content": "Zappa.",
+      "end": 6,
+      "start": 5
+    },
+    {
+      "content": "Ça se passait.\nQuand un jour, mon père a dit: On divorce.",
+      "end": 8,
+      "start": 6
+    },
+    {
+      "content": "Depuis, mon père dort chez moi.\nMaman a parlé de toi.",
+      "end": 11,
+      "start": 8
+    },
+    {
+      "content": "Je m'en fous.",
+      "end": 13,
+      "start": 11
+    },
+    {
+      "content": "Qu'est-ce qu'elle a dit ?",
+      "end": 13,
+      "start": 13
+    },
+    {
+      "content": "À partir de là, je suis devenu\nleur pigeon voyageur.",
+      "end": 15,
+      "start": 13
+    },
+    {
+      "content": "Des fois, je pense à lui.\nJ'ai envie de le tuer.",
+      "end": 19,
+      "start": 15
+    },
+    {
+      "content": "J'essayais d'arrondir les angles.\nElle pense à toi.",
+      "end": 20,
+      "start": 19
+    },
+    {
+      "content": "Elle peut coucher avec\nqui elle veut, je m'en tape.",
+      "end": 23,
+      "start": 20
+    },
+    {
+      "content": "J'espère que tu vois du monde.",
+      "end": 25,
+      "start": 23
+    },
+    {
+      "content": "Ça va les sous ?\nMaman va donner 100 €.",
+      "end": 27,
+      "start": 25
+    },
+    {
+      "content": "Elle m'en avait donné 20.",
+      "end": 29,
+      "start": 27
+    },
+    {
+      "content": "Tiens, 200.\nMon papa m'a filé 200 €.",
+      "end": 32,
+      "start": 29
+    },
+    {
+      "content": "Il faut me dire si tu as besoin de sous.",
+      "end": 34,
+      "start": 32
+    },
+    {
+      "content": "Mon loyer était payé.\nÀ part ça, c'est nul.",
+      "end": 37,
+      "start": 34
+    },
+    {
+      "content": "Tout le monde s'en fout que tes parents\ndivorcent quand tu as 30 ans.",
+      "end": 38,
+      "start": 37
+    },
+    {
+      "content": "20 minutes de retard ?\nOui.",
+      "end": 40,
+      "start": 38
+    },
+    {
+      "content": "C'est parce que j'ai mes parents qui\ndivorcent en ce moment et c'est chaud.",
+      "end": 44,
+      "start": 40
+    },
+    {
+      "content": "Non.",
+      "end": 45,
+      "start": 45
+    },
+    {
+      "content": "Papa, maman, ils ne s'aiment plus.\nNon.",
+      "end": 47,
+      "start": 45
+    },
+    {
+      "content": "C'est triste, hein ?\nOuais.",
+      "end": 49,
+      "start": 47
+    },
+    {
+      "content": "Au boulot.",
+      "end": 50,
+      "start": 49
+    },
+    {
+      "content": "J'ai compris que l'avis de ma mère\navait changé en regardant sa liste",
+      "end": 53,
+      "start": 50
+    },
+    {
+      "content": "de choses à faire sur le frigo.",
+      "end": 54,
+      "start": 53
+    },
+    {
+      "content": "Avant, c'était oignon,\nsovalin, gel douche, canard.",
+      "end": 56,
+      "start": 54
+    },
+    {
+      "content": "Maintenant, c'est épilation,\nsorties copines, cinéma, canard.",
+      "end": 58,
+      "start": 56
+    },
+    {
+      "content": "Elle aime le canard.",
+      "end": 59,
+      "start": 58
+    },
+    {
+      "content": "Et puis mon Mon père m'a dit\nqu'il avait une bonne et",
+      "end": 60,
+      "start": 59
+    },
+    {
+      "content": "une mauvaise nouvelle à m'annoncer.",
+      "end": 61,
+      "start": 60
+    },
+    {
+      "content": "Tristan, j'ai une bonne\net une mauvaise nouvelle à t'annoncer.",
+      "end": 64,
+      "start": 61
+    },
+    {
+      "content": "La mauvaise, c'est\nque je pars de chez toi.",
+      "end": 65,
+      "start": 64
+    },
+    {
+      "content": "C'était la bonne nouvelle.\nNon.",
+      "end": 66,
+      "start": 65
+    },
+    {
+      "content": "Et la bonne, c'est que j'ai pris l'appart\nqui s'est libéré juste en face.",
+      "end": 69,
+      "start": 66
+    },
+    {
+      "content": "C'était la mauvaise nouvelle.\nC'est bien ça.",
+      "end": 71,
+      "start": 69
+    },
+    {
+      "content": "Quand ma mère m'a dit: Tu peux\nme débourouiller sans ton père, tu sais ?",
+      "end": 74,
+      "start": 71
+    },
+    {
+      "content": "J'ai compris le canard.",
+      "end": 75,
+      "start": 74
+    },
+    {
+      "content": "Il a dit: Dis-lui que\nje vais récupérer mes chemines.",
+      "end": 77,
+      "start": 75
+    },
+    {
+      "content": "Elle a dit: Je vais lui chercher\nsa facture de téléphone.",
+      "end": 81,
+      "start": 77
+    },
+    {
+      "content": "Il a dit: Quelle facture ?",
+      "end": 82,
+      "start": 81
+    },
+    {
+      "content": "Alors j'ai dit: Je ne peux pas\nvous parler directement.",
+      "end": 86,
+      "start": 82
+    },
+    {
+      "content": "Bref, mes parents divorcent.",
+      "end": 88,
+      "start": 86
+    },
+    {
+      "content": "Pourquoi tu dis ça ?\nC'est pire.",
+      "end": 92,
+      "start": 89
+    },
+    {
+      "content": "On mange, on discute.",
+      "end": 94,
+      "start": 93
+    },
+    {
+      "content": "Tu dis canard ?",
+      "end": 96,
+      "start": 94
+    },
+    {
+      "content": "Non, pourquoi ?",
+      "end": 96,
+      "start": 96
+    }
+  ],
   "video": {
     "id": "cDWcCpqFh_M"
   }

@@ -8,6 +8,233 @@
     "name": "J'ai dîné avec cette fille.",
     "slug": "brefJaiDineAvecCetteFille"
   },
+  "lines": [
+    {
+      "content": "Bref, j'avais réussi à obtenir\nun dîner avec cette fille.",
+      "end": 3,
+      "start": 1
+    },
+    {
+      "content": "Elle s'est assise, je me suis assis\net là, on a commencé une partie du jeu",
+      "end": 5,
+      "start": 3
+    },
+    {
+      "content": "le plus compliqué du monde.",
+      "end": 10,
+      "start": 5
+    },
+    {
+      "content": "Fais chaud, moi, si tu peux.",
+      "end": 11,
+      "start": 10
+    },
+    {
+      "content": "Elle a sorti ses cartes.\nJe raconte ma vie.",
+      "end": 13,
+      "start": 11
+    },
+    {
+      "content": "J'étais super concentré.",
+      "end": 13,
+      "start": 13
+    },
+    {
+      "content": "Elle a dit: J'ai une petite\nnièce, elle s'appelle Chloé.",
+      "end": 16,
+      "start": 13
+    },
+    {
+      "content": "Elle est trop choute.\nElle adore la musique.",
+      "end": 19,
+      "start": 16
+    },
+    {
+      "content": "Chloé, nièce trop choute.\nMusique, OK.",
+      "end": 21,
+      "start": 19
+    },
+    {
+      "content": "Par contre, ma tante, depuis qu'elle est\navec Thierry, elle va pas bien.",
+      "end": 24,
+      "start": 21
+    },
+    {
+      "content": "Tante mariage relou avec Thierry, OK.\nJ'ai essayé de tout bien retenir.",
+      "end": 26,
+      "start": 24
+    },
+    {
+      "content": "Je relance de sept et je recule.",
+      "end": 28,
+      "start": 26
+    },
+    {
+      "content": "J'ai posé deux cartes.\nArgument.",
+      "end": 29,
+      "start": 28
+    },
+    {
+      "content": "J'avais Je suis mes parents.",
+      "end": 30,
+      "start": 29
+    },
+    {
+      "content": "Je joue de la guitare.",
+      "end": 32,
+      "start": 30
+    },
+    {
+      "content": "Un moment, le serveur est arrivé\net il a posé une carte:",
+      "end": 37,
+      "start": 32
+    },
+    {
+      "content": "Je sais faire des cocktails.",
+      "end": 38,
+      "start": 37
+    },
+    {
+      "content": "J'ai sorti ma carte: Mec, t'es\nqu'un serveur, en disant: On pourrait",
+      "end": 41,
+      "start": 38
+    },
+    {
+      "content": "avoir du pain, s'il vous plaît ?",
+      "end": 42,
+      "start": 41
+    },
+    {
+      "content": "Mais bien sûr.",
+      "end": 46,
+      "start": 45
+    },
+    {
+      "content": "Retournez à la case cuisine\net ne touchez pas de pourboire.",
+      "end": 47,
+      "start": 47
+    },
+    {
+      "content": "Il est parti.\nQu'est-ce que tu aimes comme musique ?",
+      "end": 49,
+      "start": 47
+    },
+    {
+      "content": "J'ai lancé les dés.\nCarbone cable-argue ?",
+      "end": 51,
+      "start": 49
+    },
+    {
+      "content": "J'adore.\nC'est vrai ?",
+      "end": 53,
+      "start": 51
+    },
+    {
+      "content": "Ouais.\nEt j'ai rajouté: J'adore la musique.",
+      "end": 55,
+      "start": 53
+    },
+    {
+      "content": "Pas comme ta petite Yes, Chloé.\nJ'étais trop fort.",
+      "end": 57,
+      "start": 55
+    },
+    {
+      "content": "Ensuite, je suis allé aux toilettes.",
+      "end": 58,
+      "start": 57
+    },
+    {
+      "content": "Quand je suis revenu, elle avait repris\nun verre, moins sept points de sobriété.",
+      "end": 60,
+      "start": 58
+    },
+    {
+      "content": "Yes.",
+      "end": 62,
+      "start": 60
+    },
+    {
+      "content": "J'ai joué tous mes billets sur l'addition.",
+      "end": 63,
+      "start": 62
+    },
+    {
+      "content": "J'ai marqué 19 points, j'avais gagné.",
+      "end": 64,
+      "start": 63
+    },
+    {
+      "content": "Je n'avais plus qu'à jouer\nle dernier verre chez moi.",
+      "end": 65,
+      "start": 64
+    },
+    {
+      "content": "Elle m'a dit: Je vais y aller.",
+      "end": 67,
+      "start": 65
+    },
+    {
+      "content": "Hein ?",
+      "end": 68,
+      "start": 67
+    },
+    {
+      "content": "Le serveur est arrivé.",
+      "end": 69,
+      "start": 68
+    },
+    {
+      "content": "En y réfléchissant, j'ai compris\nqu'il jouait depuis le début.",
+      "end": 74,
+      "start": 69
+    },
+    {
+      "content": "Il avait utilisé ses cartes.",
+      "end": 76,
+      "start": 74
+    },
+    {
+      "content": "Regarde en coin, le verre, c'était\nlui pendant que j'étais aux toilettes.",
+      "end": 78,
+      "start": 76
+    },
+    {
+      "content": "Et pire, il lui avait laissé la carte.",
+      "end": 79,
+      "start": 78
+    },
+    {
+      "content": "Je connais Carbon Kevlar,\nil mixe dans une heure.",
+      "end": 82,
+      "start": 79
+    },
+    {
+      "content": "Salut.\nIl avait gagné, j'avais perdu.",
+      "end": 84,
+      "start": 82
+    },
+    {
+      "content": "Salut.\nIls sont partis ensemble.",
+      "end": 87,
+      "start": 84
+    },
+    {
+      "content": "Bref, j'ai dîné avec cette fille.",
+      "end": 89,
+      "start": 88
+    },
+    {
+      "content": "Je choisis le serveur",
+      "end": 99,
+      "start": 89
+    },
+    {
+      "content": "parce qu'il connaît Carbon Kevlar.",
+      "end": 100,
+      "start": 100
+    }
+  ],
   "video": {
     "id": "6dyIHnUE5FY"
   }
