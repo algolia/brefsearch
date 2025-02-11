@@ -3,7 +3,7 @@ import { absolute, glob, readJson, writeJson } from 'firost';
 import { pMap } from 'golgoth';
 import { convertVtt } from '../lib/convertVtt.js';
 
-const episodes = await glob('*.json', {
+const episodes = await glob('01*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
 });
 
