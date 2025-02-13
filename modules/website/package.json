@@ -1,27 +1,29 @@
 {
+  "name": "website",
+  "version": "0.1.0",
   "private": true,
-  "name": "brefsearch-website",
-  "version": "0.0.1",
-  "author": "pixelastic",
-  "description": "breafsearch lib",
-  "repository": "pixelastic/brefsearch",
-  "homepage": "https://github.com/pixelastic/brefsearch",
-  "type": "module",
-  "devDependencies": {
-    "postcss": "8",
-    "tailwindcss": "3.4.1"
-  },
-  "dependencies": {
-    "algoliasearch": "5.20.2",
-    "next": "15.1.7",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "react-instantsearch": "7.15.3"
-  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "dependencies": {
+    "algoliasearch": "5.20.2",
+    "next": "15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-instantsearch": "7.15.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }
