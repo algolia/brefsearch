@@ -2134,15 +2134,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"brefsearch-lib@workspace:modules/lib":
+  version: 0.0.0-use.local
+  resolution: "brefsearch-lib@workspace:modules/lib"
+  dependencies:
+    algolia-indexing: "npm:2.0.0"
+    firost: "npm:4.9.0"
+    golgoth: "npm:3.0.0"
+    imoen: "npm:2.0.0"
+  languageName: unknown
+  linkType: soft
+
 "brefsearch@workspace:.":
   version: 0.0.0-use.local
   resolution: "brefsearch@workspace:."
   dependencies:
     aberlaas: "npm:2.13.0"
-    algolia-indexing: "npm:2.0.0"
-    firost: "npm:4.9.0"
-    golgoth: "npm:3.0.0"
-    imoen: "npm:2.0.0"
   languageName: unknown
   linkType: soft
 

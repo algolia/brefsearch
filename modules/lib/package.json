@@ -1,0 +1,34 @@
+{
+  "private": true,
+  "name": "brefsearch-lib",
+  "version": "0.0.1",
+  "author": "pixelastic",
+  "description": "breafsearch lib",
+  "repository": "pixelastic/brefsearch",
+  "homepage": "https://github.com/pixelastic/brefsearch",
+  "type": "module",
+  "sideEffects": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "algolia-indexing": "2.0.0",
+    "firost": "4.9.0",
+    "golgoth": "3.0.0",
+    "imoen": "2.0.0"
+  },
+  "scripts": {
+    "update-episode-lines": "node ./scripts/update-episode-lines.js",
+    "update-episode-thumbnails": "node ./scripts/update-episode-thumbnails.js",
+    "update-episode-records": "node ./scripts/update-episode-records.js",
+    "deploy-data-algolia": "node ./scripts/deploy-data-algolia.js",
+    "compress": "../scripts/compress",
+    "lint": "../scripts/lint",
+    "lint:fix": "../scripts/lint-fix",
+    "test": "../scripts/test",
+    "test:watch": "../scripts/test-watch",
+    "deploy": "../scripts/deploy"
+  }
+}

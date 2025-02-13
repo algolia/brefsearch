@@ -1,33 +1,27 @@
 {
   "name": "brefsearch",
-  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "modules/*"
+  ],
   "author": "pixelastic",
-  "description": "",
-  "keywords": [],
+  "description": "brefsearch monorepo",
   "repository": "pixelastic/brefsearch",
   "homepage": "https://github.com/pixelastic/brefsearch",
   "type": "module",
-  "sideEffects": false,
   "license": "MIT",
   "engines": {
     "node": ">=18.18.0"
   },
   "packageManager": "yarn@4.6.0",
-  "files": [
-    "lib/*.js"
-  ],
-  "exports": {
-    ".": "./lib/main.js"
-  },
-  "main": "./lib/main.js",
   "devDependencies": {
     "aberlaas": "2.13.0"
   },
   "scripts": {
-    "update-episode-lines": "node ./scripts/update-episode-lines.js",
-    "update-episode-thumbnails": "node ./scripts/update-episode-thumbnails.js",
-    "update-episode-records": "node ./scripts/update-episode-records.js",
-    "deploy-data-algolia": "node ./scripts/deploy-data-algolia.js",
+    "update-episode-lines": "node ./modules/lib/scripts/update-episode-lines.js",
+    "update-episode-thumbnails": "node ./modules/lib/scripts/update-episode-thumbnails.js",
+    "update-episode-records": "node ./modules/lib/scripts/update-episode-records.js",
+    "deploy-data-algolia": "node ./modules/lib/scripts/deploy-data-algolia.js",
     "ci": "./scripts/ci",
     "compress": "./scripts/compress",
     "lint": "./scripts/lint",
@@ -35,11 +29,5 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch",
     "deploy": "./scripts/deploy"
-  },
-  "dependencies": {
-    "algolia-indexing": "2.0.0",
-    "firost": "4.9.0",
-    "golgoth": "3.0.0",
-    "imoen": "2.0.0"
   }
 }
