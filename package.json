@@ -27,15 +27,17 @@
     "update-episode-lines": "node ./scripts/update-episode-lines.js",
     "update-episode-thumbnails": "node ./scripts/update-episode-thumbnails.js",
     "update-episode-records": "node ./scripts/update-episode-records.js",
+    "deploy-data-algolia": "node ./scripts/deploy-data-algolia.js",
     "ci": "./scripts/ci",
     "compress": "./scripts/compress",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch",
-    "release": "./scripts/release"
+    "deploy": "./scripts/deploy"
   },
   "dependencies": {
+    "algolia-indexing": "2.0.0",
     "firost": "4.9.0",
     "golgoth": "3.0.0",
     "imoen": "2.0.0"
