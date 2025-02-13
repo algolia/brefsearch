@@ -9,8 +9,6 @@ const episodes = await glob('*.json', {
 /**
  * Read through all the episode metadata, and their lines. For each line,
  * extract a thumbnail from the video at that exact timestamp
- * TODO: Make thumbnail names based on the second it appears, rather than its
- * index in the list.
  **/
 const progress = spinner(episodes.length);
 const concurrency = 1;
@@ -25,11 +23,11 @@ await pMap(
 
     await pMap(
       lines,
-      async (line, index) => {
+      async (line) => {
         const timestamp = line.start;
-        const paddedIndex = _.padStart(index, 2, '0');
+        const paddedIndex = _.padStart(timestamp, 3, '0');
         const thumbnailPath = absolute(
-          `<gitRoot>/data/thumbnails/${basename}/${paddedIndex}.png`,
+          `<gitRoot>/../brefsearch-images/images/${basename}/${paddedIndex}.png`,
         );
         await mkdirp(path.dirname(thumbnailPath));
         const command = [

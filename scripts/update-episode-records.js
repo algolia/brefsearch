@@ -21,51 +21,55 @@ await pMap(
     const videoId = episode.video.id;
     progress.tick(episode.episode.name);
 
-    await pMap(episode.lines, async (line, lineIndex) => {
-      const paddedIndex = _.padStart(line.start, 3, '0');
-      const thumbnailBasename = `${basename}/${paddedIndex}.png`;
-      const thumbnailPath = absolute(
-        `<gitRoot>/../brefsearch-images/images/${thumbnailBasename}`,
-      );
+    await pMap(
+      episode.lines,
+      async (line, lineIndex) => {
+        const paddedIndex = _.padStart(line.start, 3, '0');
+        const thumbnailBasename = `${basename}/${paddedIndex}.png`;
+        const thumbnailPath = absolute(
+          `<gitRoot>/../brefsearch-images/images/${thumbnailBasename}`,
+        );
 
-      const start = line.start;
-      const paddedStart = _.padStart(start, 3, '0');
-      const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
-      const thumbnailUrl = `https://assets.pixelastic.com/brefsearch/${thumbnailBasename}`;
+        const start = line.start;
+        const paddedStart = _.padStart(start, 3, '0');
+        const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
+        const thumbnailUrl = `https://assets.pixelastic.com/brefsearch/${thumbnailBasename}`;
 
-      const { hash, height, lqip, width } = await imoen(thumbnailPath);
+        const { hash, height, lqip, width } = await imoen(thumbnailPath);
 
-      const record = {
-        episode: {
-          videoId: episode.video.id,
-          name: episode.episode.name,
-          index: episode.episode.index,
-          slug: episode.episode.slug,
-          durationHuman: episode.duration.human,
-          durationInSeconds: episode.duration.inSeconds,
-        },
-        line: {
-          index: lineIndex,
-          start: line.start,
-          end: line.end,
-          content: line.content,
-          url: videoUrl,
-        },
-        thumbnail: {
-          hash,
-          height,
-          lqip,
-          width,
-          url: thumbnailUrl,
-        },
-      };
+        const record = {
+          episode: {
+            videoId: episode.video.id,
+            name: episode.episode.name,
+            index: episode.episode.index,
+            slug: episode.episode.slug,
+            durationHuman: episode.duration.human,
+            durationInSeconds: episode.duration.inSeconds,
+          },
+          line: {
+            index: lineIndex,
+            start: line.start,
+            end: line.end,
+            content: line.content,
+            url: videoUrl,
+          },
+          thumbnail: {
+            hash,
+            height,
+            lqip,
+            width,
+            url: thumbnailUrl,
+          },
+        };
 
-      const recordFilepath = absolute(
-        `<gitRoot>/data/records/${basename}/${paddedStart}.json`,
-      );
+        const recordFilepath = absolute(
+          `<gitRoot>/data/records/${basename}/${paddedStart}.json`,
+        );
 
-      await writeJson(record, recordFilepath);
-    });
+        await writeJson(record, recordFilepath);
+      },
+      { concurrency },
+    );
   },
   { concurrency },
 );
