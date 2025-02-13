@@ -1,7 +1,7 @@
 import path from 'node:path';
 import { absolute, glob, readJson, writeJson } from 'firost';
 import { pMap } from 'golgoth';
-import { convertVtt } from '../lib/convertVtt.js';
+import { convertVtt } from '../convertVtt.js';
 
 const episodes = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
