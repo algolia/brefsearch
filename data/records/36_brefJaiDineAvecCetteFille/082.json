@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Salut. Il avait gagné, j'avais perdu.",
+    "end": 84,
+    "index": 37,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=82s"
+  },
+  "thumbnail": {
+    "hash": "5379a7ae0d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB226TYAAA4N8UCm3ZOFP4OYyW4z8K0hZXpO1Kt+mwWcg2jd2UTo0a3TReGO809c4Yr3TXXhkfwifwBXwhvw9s63IeIk0SIM++vJe/PsyOh+75OHow8s5HzknsBIbqKvw+2so8U241ADL4Wa+r8oxEU6t85/le8mgcXBbjahpWO877w8nQdwOJCUVq1Gnb3CYITW7i6qYk6AJTRPYyRRe70ZvF9Fke//704d+vn59Xy9KT+gKVGFIkcSDpitsKqzAbR55eBkbhw7MUXRVpNe79+bL+++PbdXX8JDa3KMJmqB5LA41tOm0eQXWi8o/Tm2UfTSxl1zVud+HDdPD9xerr/btVAC26aVBkKLJAaBC+LHVFw5PgwrfKfi+CfAurqfTGDQDstvB0Eme6kKn0FNKIpwFPEhSGcy1OpZUBwxzF7kXqF8hYIG2GrKEu5ch6u9hLHQMxlEIQgMSweg0ncRLS7Fk2+Lg8WJ/O382Ty1lydSe5fnWyXpant4I56ljcZrOGAY6s1zGcwOtCq4k02deUzNFjE6Y2tGWu31EOPDMQ6EgVFarRwLD/JNpMlZqSflYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/37.png",
+    "width": 1920
+  }
+}

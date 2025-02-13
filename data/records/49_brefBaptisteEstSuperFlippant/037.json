@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "La dernière fois que tu m'as offert ce T-shirt, ça m'a fait super\nplaisir, alors du coup...",
+    "end": 43,
+    "index": 20,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=37s"
+  },
+  "thumbnail": {
+    "hash": "773369566c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nB3B70sTYRwA8O9zz7Mtu7vdPfc899yPvFvtcJ5KmpUEaaXnoOFy4hKkmkq6YdMyUVkZjYWSBeuFFNWLgvBFr/LN3hhRVAgJ/Rn9Hb0J+nxgXSQv0GSC8iRlsm6cDTs3r+c/3p9/vzT7Ya28NVMs54brpclSLuv4HY6XhmnbGNBk2TDbvVSzNPXj8fLnzcWjZ+uH26v7tcpR8+HBk3svFqbKYyOmcOKyBsz1M0EmHXT4vr8xFn1/VP21tfKzcbdVW9idL65ORNGZ0BMs9B2qaYQkgHErnekej67s3Li2cnXoy4PF1tpcZbAvF54q9He5jMJ/CCElHn/X7YHGLMNNzWSHfj/f+Pvp5Z83jW/16qtS/s7wQKMQPS1my5fPtxECACrGX3s9qJwwz1ncFnwwDJqV6Va9urd8c3tytF4YeTs38fpW/vbF/mMYA4BC8G4gYCfFRm0WU1WMiSRhx9ADV3ic9nj2pczJTosDgAQIACmE1NoZBMcTDmfctoXjmLatUkPVDUWnwnUxjgEggghGEgC0YVzkKiCQ5KSmUKZQpjFT58IwLZ2ZPad7VZ0SkiBSDCOCAROJ8Bj5B1mQWKg08wOoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/20.png",
+    "width": 1920
+  }
+}

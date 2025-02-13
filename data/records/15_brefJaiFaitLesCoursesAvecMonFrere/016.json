@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Et cette fois, je lui avais dit: Il m'a quitté.",
+    "end": 18,
+    "index": 7,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=16s"
+  },
+  "thumbnail": {
+    "hash": "e0e8985047",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABkdKQMEBAQEBAcHBx0dIV1dbW5xh21xhnFzg3h6inN0g2treFxbZUxKUkA/RisqMAAxIiANCw0ZGh8aHCIsIR+Pc2iQjZqAhZuIi5+OkqiFh5h5eYdjYmxVU1pFREsxMDUAMiIgDAcJPywvLSAlHBARi2pdtqirlpaqmZy0n6O7ioydgoKRcG96Xl1lTk1WODg/ACIpOg0GCFs6PUctNBELEkkxKL+lnLq0vZSXrZ2hupWYrZCSpX5+jWVkb09PWTU0OwA/MTIPBglJKy5BKjIcGisWCwmFZVfWysyqqLWOkaSOkaSRk6eCgpVmZnNLSlM1NTwAOi0vDQcOLhwqKxchHBclFAsLe1tN0sC/w7a3kI2aiIqci4ygfH2RZGR0T09dODlEADMpKykZIUovQT1DPzlFQSsfHayVjMe2tbOakZKNl4CClHh4iW5vgVxcbUtLWzs7SwAkJjIiEBo8GigoMSsgKyY4KSaoiXvBsbC2npiKhI55fZBlY3JbWmtQUGFDQ1Q6PU4AKSs7CQoNAAABBAMDAAAAPy4mnHppsJuZq5GKcGduXV5uU1FfR0ZXQkNUOTpLMzZGvseW3PPl7z8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/07.png",
+    "width": 1920
+  }
+}

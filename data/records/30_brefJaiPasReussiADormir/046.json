@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai lu un livre, j'ai lu sept fois la même ligne en boucle, j'ai abandonné.",
+    "end": 48,
+    "index": 19,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=46s"
+  },
+  "thumbnail": {
+    "hash": "7581511f26",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeklEQVR4nCXOW27TQBSA4fGcM3Z9mRnPNb6ME7tOReqQFkIxkIioqC+oL0ggIQErYBVIbIAHHlkCO2FVqLCAX99PEFKkCWOidHsXTtJeISrGNDKdpJW0G1Pf+HA0zSzMVMiRIMRAE2sf++ak6tl1xyStADiAZrFFLBFKxiyLDYJicUlyMXK9a+rZ28n5q0V4lRYtRDmCRvSMuX+gQTQPLAoi9FS6a603fZjHbu7bZ5x3EHGkAqiKWZVnPaJjrKVg8+KCFHIlzZaLVRdeL8PzbrEz5RA/nJgoEpXfjasjjRxCjdAkcfgfTIVctvW82X6uh9uY8ZhJBAPUliIsw96YLY0cjSyCJblYCvUoE70qz9fn98Y/lUVY6Ms89aoc2up6vHx3eP9z//a7X76JSEEy3uVykGbru0Mz3HF1IYquq27OEpmmLktrrqfTl1+fvv0Zn3wkBEnGQyF7qTcuvKj7WxdeKr8Tas1YBnBGaZJk9eHDj/uvv4VZRyT6C0fFKAttp57eAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/19.png",
+    "width": 1920
+  }
+}

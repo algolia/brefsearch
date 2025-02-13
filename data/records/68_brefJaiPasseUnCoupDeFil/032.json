@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "C'était Baptiste qui me disait qu'il arrivait pas à joindre Ben.",
+    "end": 34,
+    "index": 17,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=32s"
+  },
+  "thumbnail": {
+    "hash": "26cf4b7df1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB7Y+ScAAAYLY09QQRUeTtVMSfeIp6ysEZRqJTJ5KGODvPl0i6bt1yxt1q5YdebqvVrbXV1h98zwPZzcpaLbn68UQC2668t3pfZkNXV+aduvlEuTwbec709cxYm22OSJZBFrqyO9djfWd1No/L3aPc9aB1/kh29MbHF+agKbsT43a38ZzpB6s9F7lTgYc+rYzb6eDOsd4NGl5PvVuMfzuzb+ejxTPDbKkvx/2v282NY98MtVVd2D03oKtx6+dy3K9VjYrgqjW3qfxZ2296WhWAVkN5u7Q/bzfOyOgrp4DlcpwATZqVf6+mGTpdoEijCJb144u2Ws1kNZwYlgrvn+qebebzcpaXSUqAERqSBO7/5UITKyxOdIv5Ya3aFksMnf6+Wvw9s/YlUKE4khF5TiKIHIalIVOu/lhOODoVgmNylm/kAGC5RIL5deHsLaN4yAciZDpVTpJCMJyAIwx0ciT0T6SH4ZgvhB6EMSZ5iOE0gsY9qTwXC0EYhyMUSRXjBEBQFoYp6IHvIBjGwkjcH0ACoSgWo9BoMoomRimWwynIH2HIjFZTYIQMBnG/D7kHRYZeL6EhhesAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/17.png",
+    "width": 1920
+  }
+}

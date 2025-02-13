@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "C'est la vidéo où Fanny et Nadia étaient bourrées et où elles ont fait des trucs.",
+    "end": 14,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=9s"
+  },
+  "thumbnail": {
+    "hash": "a98deb7a99",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nAXB23eScAAA4J91TPMyN7FNFyCbwE8EUe6QQ+QmOURXc+TOvBS01jq9dFbrZZ3TQ6fTW/3JfR/IPMqBTC6TLYJceWDaE8uCVJvvya0jSmHbGtNCdqu5pzv5fEkS+ul1AjKP89VSpb5XyxargiBfRVOW4QRBeaGoycxLggGPN0qlSvZJAVLkl293IJctqDjKNBrlyrORri0CH1JQ14zQc98G1tYz1BbeQJBCcefl2Pv5+w/YL++ax0SviRM4sY4Cle9VKkgUvfqcpreRo5JEF0M1Fp7Ua19Xl7/+/gNEDXE6UKJaGs8uJz7HdGx7/CH9dLPeXA3k/mF9yJDzkRYbysPN9fcfD0AmiV4Tww7qBgtXp74uK7Nwnr77mG7TpambdNNkjvrYvg7xi7Po7v4eDDokhR7iB/WTbtuRBVkQJEGIz5dJcrtdXq49Ix6KE70furZluYuLN2Aoi88RBK8hIk12YLvLcjzHWYq4jFebzfv47PX5dBqeRpNw7jq+7XhAN0zdMEVRMSQJNjECRWma7lHHYzeIZosgmDr2eGR5ruOPLMd2/P9lmVxkCtauwgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/03.png",
+    "width": 1920
+  }
+}

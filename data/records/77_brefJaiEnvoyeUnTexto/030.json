@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai cherché autre chose. Coucou, pourri.",
+    "end": 32,
+    "index": 13,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=30s"
+  },
+  "thumbnail": {
+    "hash": "d53d4015c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgElEQVR4nEWQ20oCYRSFt/8/2ktoT1BgLyCdGISwLqV76QGELoIQupOICM9OTI06jQfKIFObPEylEnpRUJRCBRk442HGwl4gdMTW9f6+xV6ARsEYA4DNttFqdVtiT2oroiR3ut/Npmi1rgMAQRCaUQAhRBAEAKysWLq9H1GUlf5v80uS2sr7x1e705eVweLCEgBgTCCEQHVP6XQ8X2BP4g7Hjt9/mMvf1GqPgSB9cODNZHNbW9sAQ/UQUPVG49xnU8wX7tJpPhCgeb6YyeYEoZxMpmLxs2j01GCYHpVg0Gq1ALC8TLbEnsvlc7l8DMPu7u673f7z88tk8kIQSh5P4B9QG2ZmZmVlQNOhY4YtV6pHdDiVuqKo43CIi0RiFEXr9YYxgDHWaDQIoXKl+vTc4LhEUSgxDBsKcTQd9nqDHJew2zfV6+EPk5VI0hxhYywb46+LPh/ldO7lC7fXuaIs90nSrC47BiaMyTRfKt2/vL5Vaw/Dwqd6vfGxalmb6BFCf6SKtLewN5Z6AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/13.png",
+    "width": 1920
+  }
+}

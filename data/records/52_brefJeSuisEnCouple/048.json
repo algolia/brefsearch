@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Et puis, un jour...",
+    "end": 49,
+    "index": 23,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=48s"
+  },
+  "thumbnail": {
+    "hash": "b7ce1306ec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBbXOSAAAAYFpyqHvJA3xDYL7QnKBigoKC0EAElNfFWc5eNmeprd2tvvUzun2v6yfs+tDtrvpUXVd/qucBGLY5ONJs1w2DidLj9/a2M1kUx/Oea58vT8f2sE4frDerD9fXHz99Nm0bYJiaJCpReOzbqiJyCHyPILBqlToOnGdT98QYlNHU6zeXX29vb26+OL4HFKmqwPWfP57R98nU7g5N7WP5DEkUHoXeKpTfRvqEY96/u/rz99+vn7+9IAAYlut2xJP5nKb2HaEZaX0UgVE4FfqeO1RrJZIhsWw6/eTpi2/ff3hhAKiGOTKtxeKMLRdmctuX+OR2EkHRyHf7LRrNYI0WD8Z3gDugboz8MAAkbWh7/nq1dnR1KjKvfFMUe7k8FvlOtYgrun368iKR2L0bi6czWUHsAt2Baljjxdlyc3G1mU8vl+cjw0IQ2NQUk29YisQ22a0YtBWDoHiSOqCAB6Iky7Kr9o4MWxtNzLGXy+VBENSljtGmB7Vah8BjYKKAIo0SUaEooM4LfIvVeFaUH3KCzAs9DIWTECS0667BzUIr5MuHONYo4oclslSp/Ad8U2VKT73KgQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/23.png",
+    "width": 1920
+  }
+}

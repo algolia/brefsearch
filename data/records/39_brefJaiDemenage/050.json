@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Un mec qui dit: Un, deux.",
+    "end": 52,
+    "index": 22,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=50s"
+  },
+  "thumbnail": {
+    "hash": "9de607df2f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG9hXot+e8XCwLixrsS+vMrEw761srCloqaYlZ+QjpeJhY6AfIFybWBNR2RYVFpPTACFdXGjlZLV0dDHv77Uzs3X09LKw8K+tLKuop+nmZahk5CbjYmPf3lkSkByZF9tYl8Al4eBsKKf4d3d1dDP4NzbvLe2e3Jywrm3sqilq6Cep5qYopSQmYmEcllOemlkfnNvAKOQibWmot3Z2N7a2O3r66yjqZyRkruyrrGopqKWkp+RjKCUkaKUkH9lWYJybIZ6dgCmk4q1o57Z0tDa1dO4tLeFdnWbioWhjoZ2ZWFxX1eYhHZ+b2ydj4yIb2ONfXeHenYAoo2FsJuU08nF1s7MXFZYVUk9g2dcZ0xBSjQtWUM8dFxSST04fG5rg2pcmIiAh3p3AJB7c5N8c76vq8m3sGRVUkk9PItvYllANk42L2VMQ2tSSFNEO2VRSV9GO3NfV3VmYwBhRTlwQyqmckzDkGN0YVpUSEOTeWlYPzdcQzqCZlh0WU5HLiwwGRY7IxtFKR5LMCUAcEQmkV00o3BCt4JTYExAPDY3gHJufGxkSjgwa1ZItJ5/jXddQy0iTDcsQCsjQygc2InXoLq8CB4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/22.png",
+    "width": 1920
+  }
+}

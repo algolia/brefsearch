@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Je me suis dit: Je suis large.",
+    "end": 5,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=4s"
+  },
+  "thumbnail": {
+    "hash": "768731f309",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJSIj56SmaebpLKmrruvtsm9xtbK09HGz9fN2NLH0KmNibCRjMSzucC0wbeotqucqQCekpiuoqi8sLfJvsXa0NfFvMKsoqfZztLSw77HtbKFXEuIWkefcmPApJ+5p6SplpcAqJyiuKyyxLm/zsHGv7K1PjEtJRMPdU5Fsph/n4FwbEc4eVJDeEk2i1tJkWxSh2dMAKufpLmus7iqq3tbUmJJN1o3J2A5Kls1J1EzKWdCMXpZPGVELl04KF45KX1TQm9NNACUh4SdkY6NfXZdPzRjRzFONSFPKh1QLyJCLyCAZEOFZkBqTDBKLR5QMCFpQTNZNycAhXdxjH94hXZqXUU0dVFHbk1AQCUeUTUmh2lIclU9iWtLsZBqo4FgXDwqQCEVTjAfAI5+d5SGfpSGfXRmXE83L25FO2U+M2ZGL3ZXOWxMNJh4U62MY7CPZZ9+V2BFLF9EKwCIeHOQgHiXh3+Zin+BcmluVUtqUUdpWEp1XUFyVTRxUzF8XDl9XTqLa0Z3WjtMNSIAf29skYF+no2Km4yFopCHoZGGno6DnoyBg3FkfmJFfl89bk4vZkcqX0ElXEEoSDIhNUTC9u6BwEIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/01.png",
+    "width": 1920
+  }
+}

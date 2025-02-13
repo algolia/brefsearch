@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Et enfin, il a dit: Ouais ?",
+    "end": 73,
+    "index": 31,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=67s"
+  },
+  "thumbnail": {
+    "hash": "650f5b9942",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHllY2RIRZyVmbOsr7awsrWvsrKtsbiytb22uauipT8sKx4SEiYYGB8UFB8VFR4VFQBvVVBjUlCWjpSqoqe3sba3sbavqa6yrLCzrrOtoaSPW1J9TkpEKyojGRkZEhMXEA8AYUlDZVlXmpKWrKetr6mvr6muta+yqqOop6Gml3ZvhFJKk2BZYTs3GA8QNB0dLyMhAHRhXnFiXmVMS19ISJKKj7Outaylqqypraycm4BORY9dV41aU5ZfVIRYTFw1MRcQFgBoU09DMzKCUE1+TkpEMDBzam+Zkpisqa+sk5GiZ16AUE6BTEamd2WcbVpWMykzKzkATTUxEgoLY0BAfVBSXTs4LBsfKCUufHN9iWZgakpHPi01mW9jrXppek0/VDk/RURgAIN5fkM8PjkqLmZARDUhIhANECMjMl5KVVtCPxcXK1FLW6d8bGpDOjclKzw+Wj09VgB5YV51XVpHQEE7Mzk2LTMZFhofHCdXVnRAPlc2N02IdXyKX1IlGiIyNE4/Plo+PVQAVkpPVEJEVUxNQS0uOSMbGRMZEAoPMjA+cWx6iIOMlHp7flRJJiIxQ0ViNTVLLy1ANVqdnS5piUEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/31.png",
+    "width": 1920
+  }
+}

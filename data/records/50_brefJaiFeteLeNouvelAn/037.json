@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "D'après Philippe Soupeau, quel est le pire ennemi de l'amitié ?",
+    "end": 40,
+    "index": 17,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=37s"
+  },
+  "thumbnail": {
+    "hash": "2acf41a415",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nBXE226TYAAAYB7TBzDxSrNE64XTxcy4dtl0ujG2JYCltmwtW1uhFAqUcpTTz085lRVYZ7L6Hsbv4kNeNI4a++jbvZNPh5cY2cdIhuiOD1F6t0k2T+nX+/jzxtmrDxc777+9+9hsfUURaa7omtpuvpxzfQATPwBZXlRV9Xe73T49FfdVnK7yLLdNA8WuMLyNyJqlcAzaeOZZ+jLJk6wo1nWxfijrRxAlO292+0M2W5WeDwmqh1M08tsFtmkITCeNXMfiLVN1bC2GbujObFM+PjrheLF+eIRR0uvfDUYsAsIlczuiaGY6k2bCJE3jVZ7k/4/DILi5IkAAN3+2EC5HI3ahWYgfwO71oNU66HZ+ioISwDzNyuK+rupNXqxxktINq6o3AYDd3rU4myOqZrJTiep04iQVZfXmTtQ113GCKIqTbPX5+DsvSmVZqbqN4RTLTZAhxysL3Q9gmhXTqSirBghjAKIkK6IoOjvYm8tynOS8IH85Pe/RNEIPbgfD8ZjjBUkxbMdxPc8PAYAgDB3Xm4yHkiRLyuIXx/+g2gRJ/ANcPTc/E/omkAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/17.png",
+    "width": 1920
+  }
+}

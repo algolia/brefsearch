@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Le costume que j'avais mis était le même que je mettais toujours\naux entretiens d'embauche, aux enterrements et aux mariages.",
+    "end": 9,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=4s"
+  },
+  "thumbnail": {
+    "hash": "1d80b190db",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADcWBmdJP2Q/MGAzHHdCIYNIIWAvGFY4Klk6KlUmD2c3F5JUJIRHJnFCKn9UPVkwHAA+GAWVhIWAZV1wSDJhPzNnWFxLMChrRzZ6UT1iNhxHMi1NJBOZeW2Kc22jiXxwTD0ARBsHl4WDgGdgXkM0XDcpWTs0QCgiVzAeWDEfTSkYeUw9bD8thGlgfmdgq5mXeFJBAEQaBpaBf4JpYVs9LWpBMXdENVoyIFs4JmVHNVs4K1JHUGJPVJWAfoFuaqyfnXxTPABNKBZwUUdqRjd4U0eRbWGBT0GUcGhhOih5YF6rsdCClcCKmcSwsMyMa2iXeGpyRCsATzQufFhQYUZCe05Brai5sLDJpI+YSScbdXGHsrXWq7LVpqzMpKC4oZivf2JiTSgWAEAxMl5FR2Bid2ZidZZ/lpdyhnlreiYZF2RkdKOcsqOjwp6VqZWLmK6z0IBfXDwkHgAYFRUjHh8RGSVCRUtTOiBMKBk8PDhALCt3Zmuiobmfl62akJmclquWe3BqSC1OPTEABgYFCQgGBQYIPkNGU1IwOTMlNkJZWSkYVDAonJiunZamnZmrkoGObUg7S0AzYU0qPVadxB/aTBMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/02.png",
+    "width": 1920
+  }
+}

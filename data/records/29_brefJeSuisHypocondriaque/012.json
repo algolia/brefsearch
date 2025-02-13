@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Généralement, après les avoir consultés, je suis sûr d'avoir\nune maladie orpheline.",
+    "end": 15,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=12s"
+  },
+  "thumbnail": {
+    "hash": "21720a0ce4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGPwsLYIdnWK8fVMDQ3IiAzxsLaIcrIuCffPiQ7Lj48qTIyO8PYw0jc1NjDT1TLQUtdmiPXzTg0LyooKLU6KDXSxV5WSqI3w3dJUMreuID8xqiw1LsTd1djAzMbKwdjQTEdTj6E0JbG5KK+1tKC3tqI4JDDOzrw+Jqgi1G9OZU5RcnR5Soy/s5O2hl5sQnZheaujvTtDUXJqoJuPo7mph4N9vJN9eYDr7KK0roTwuuSYyqzUyoxED3t7HS2D+Iik9p45ldVdDNoqhuLCimICAtzsXJYqMhE2RlWh3nlezr3lBc0lBdVZqbZm5ob6ppYmVn6+YVl5VQzTJ00J9A/m5eAWFxbVk5cxU5b1MNT2NNJNi4roqiwqTU0w0TMw0jcxMjDR1tABefrgloXbVs12tTYV5OEX4OEV4+MV4eMRExIy0tLNiXJNDHQ11DE00jc21DPS1zFQVlBh6E7zWzeh1NfOhIdTQFhARExIRFhAWFJEQlxQzMdaM9TNTE1ZU09bz0DXUEtdW15anqGtMG9qdamfm4eqjHyym2tjVIirkaGEiISrsUG6r2uom62hjr6ulp6akpqCjLykmDgAdU55QxoUH2UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/05.png",
+    "width": 1920
+  }
+}

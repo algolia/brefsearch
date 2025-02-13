@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "On s'est et je t'aime comme des vrais mecs.",
+    "end": 46,
+    "index": 18,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=43s"
+  },
+  "thumbnail": {
+    "hash": "7ccf423384",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nB3L7VOacAAA4F/yIiIgQYKoCIgT4RRJXB3DLE5DhJgBncutjYu1su7a3Xbr0/753e35/gABRXkYbkCwiCISgigYJiJlHkZ7GNZBMZHlSJrDCRrFyINS5QCUQa0EUxAiMeyxqtqyrJKUWK1JOKFXcBnDu5xAswJBsmiFhmAcAAxUUbwrNN8bxvpsFnveTRD47kwja8cU1ScoQ2jRbAunjso4DcEEABUw7PVt3fgwtuKL8zxL9ndfvmVpPHMnkmy12iNZodkmWeNQnC5B/0OwzoyefnHqJCv/a5oU2+3nOM4/hkkYboJVtPAc2x72NXMw6HXkZp0HdUagMMqxnX3xdLu5LpLNaxrt0+jHp+z115/7h73eamssMzWt8TtVFXgg0PRRtdo8ZDZXN895cT01H5fu32K3ns+ffr59f/ntDM2pIlvGSFP7/CEDjLbAwsBoN+R6/dwcPV+eRZPhW+YvJ+PbMHrMH+buwtNUX+9auq6IHaB2B1qDkyhscTJxzdHl2NitvK1rvyxP75duGoR3u9z3fGd6YikdjqD+AVrUSqJPlLnCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/18.png",
+    "width": 1280
+  }
+}

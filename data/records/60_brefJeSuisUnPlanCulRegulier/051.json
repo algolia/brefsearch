@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Vas-y, je t'emmerde, toi. Non, c'est pas grave.",
+    "end": 54,
+    "index": 21,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=51s"
+  },
+  "thumbnail": {
+    "hash": "38e40058f0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHpuYXBkWH1uX2xeUHdpXI6BdKWWhqGUhZeLfqOWiYmCclFUOGFnRnV5WHN3V3t+XACAdWmLgXWXinunm42mopmknpWgk4ifk4eckISxqJ+WkIZRTjhiYEZ3aVVbXT9UVzgAf3RmkYZ7lIZ6mpGFhHJlhntxsa2ptbCpqqKcrqqni4F7fV9RYlhOPTUwHhoSQ0EvAJWKf46GfW1tYJRPRXMyI2xIO5uWk3aBeXd0cmBdXTEsLScYFxQNEjIxNGBeYXFubABpYFk/QDpiS0G4PzinYlSXSz11OTNMUEllWlJ4a2VqZmEFAgYOCw+3v8jO1d+zuMAAgYeLNzw8TC0pl09DqYRsi0c5lFRLYllSXFROioN9fXp5BwIGMzI2z9rmydPfwMfPANni74SHizUlIno4LJd5UqVVQXJKQUE7NG9lX66noWdxeictM3F4ftTe6snR3cHHywC7u8CMj5I+HBxkMSeek3yhb1tdHRdjWlKdkoiSjotCSlJeZWmTn6bV3urGzdi/w8cAb2xtREE/IBAPJBkdcYOUSkNEilhNmpCFnJKIn5eRbmxreYCEo6yzz9Xgw8rSur2/VhnD7l5FIvMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/21.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Ça, c'est à faire avant le moins de matin.",
+    "end": 34,
+    "index": 14,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=30s"
+  },
+  "thumbnail": {
+    "hash": "bbc74955c3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nB3LW1OiUAAAYF5bbwgKGEqp66TTVmbaBfESY6ml5AJC6DnAOVyi6eJozj7s7D7s7B/f2b73j5jc9KaDrnIrK+PxXJvr31V9puozTRuPihyTiMU77faNPJDE9nmz2aifElPxeDl7sC08Vw1sO76DEIDYCbFpDWvCoMyLJ/VWSxQvrjpi5/L8ilg8TFabX6/Rh7N0QowDFyEAMPQ9O1T74mXtoFL5luf3M9ndWvVI7slE5D2vVz/X0cq1QICQZ0NomfDRwtDVZ1qxXC0IZaFQItMMw+a7UpfYbP9uN79/bP/4KIoCL0SubT0C00AAjAdDIb/P7+5RNEemmSSZrZ+cEk9TKRw1X+7bvjp+e3t/CXwMl9CcI7C87vZyXIFl+USSSpGZJJkplSqEr0j9s6pcLQaT2/Xq/TX0MVgAQ/MguDhr5bgC8z/QnyfLsjyB/SdzAQ/3BLHRMrxNGDyHyHXBwtA0hslxLE/TXDKV+Tw0STGEZS2kO0M4aAhfj+tDeKe7pqqo9yPluh/bScTiKZJi4vH0lxi5EyOpDPsPu8RskNpJkM0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/14.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Je n'ai pas trop le moral en ce moment.",
+    "end": 97,
+    "index": 42,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=95s"
+  },
+  "thumbnail": {
+    "hash": "bf7c4b091f",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBaW+aABgA4FfwrFNuKIeAoKCAWqV44NWqVausTqtirN2yI9u6rF1isg/793seuKsU3rvWpl0L+97zuGtwQhxSdAor01yJpJPoOzlLaRjucGyRIC6QJDxc22GvcbrtfJndvKzmJUEW0/gP33kdNEJbl9KYI8gNUTIpJp/B8XgWtv7Vx3Hn2/3tr9XibbcZlq22JI405U7XWjw/lKWRpvt53ZVyuTSWjWXg0L/+PB3+XM1fd5vz8Xie99eGuja0T3XrVDWe65bHi1gUoxJYFr1IROLwdNP+upi8rIO3Q3jeb/8tB5OaO86rgZ5fG9o5mJ6m0wffX7a8ZbMRNOvQM4ujamXmuotW72nY/zP2O6pukexMVSeauvfqI/tq53e/L+9/P374e3yEMi9Uc4qrFdyCffS9bdXMQExIZKoMY5OkQ2B0JMoAqkSTXVE8DHpQ5i9rstwumq1CKaybLUlAIMYjqZ7ADCSmyzOXSJKCOA0IAzDIiaCSlMnxtqQ4HB8YYoVlUxAnAbHwzN5SmixBQIQGlAIUh4ieiP4HjTNKSOWK+bcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/42.png",
+    "width": 1280
+  }
+}

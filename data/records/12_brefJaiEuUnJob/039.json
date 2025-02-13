@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Jean-louis est à le trombone.",
+    "end": 40,
+    "index": 17,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=39s"
+  },
+  "thumbnail": {
+    "hash": "61edb0ec58",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJaKkHlwb1BKQXNrZU5OWj9BVVtXXWxkYnJpbYuBhYJ4eYR8gJqOmKaapp6TnJ2QlQCdk5KOhYQ2JR9pT0ZLTFo5P1g/PkhXTEl/cHORiZeQhpGUiZSUipeAc3pvYmeXh5IAnJSTamdrMx4bckpCMzNDIyo7MTE6U0dIfXR5j3+Ck4iXjIOUc21vbFtPe3Bvf2NEAJFvfTEwNB0WGUY4OhMTHz05Q3p4fXt2f4BzanJcTHJsb5mVn5WHiUM5NG91fHJoTgCKV2ohICMZFBcrIyEcGR4gHSU5OTdjYGRiaHxMU2thY21yYGSLdXYaFA0NCgcTExUAb15VISAhEQ4UFA4LIBkVKiQjNzU6RUZATV5FUmNiVVZca0oxoXxdgF09RzcldFdAADs3MCYiIiQZGx8RERgKBzgrLU5NT3VvcFBUOEhSLk1MOichICIVEDwtH3JYQoxoTAAQEhcdGhxaLCorCgoWCwp2JyeURTVOQzg3NkVqZW6AcF55X0VsXFpLSEYuKCpKP0QAGBcaBQQHLAcKKwcGJA8LdhERniEgt31PiGtGSkE7fm1konxbhnt8qJ2mUT07j4iPnIOLqFXzQwQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/17.png",
+    "width": 1920
+  }
+}

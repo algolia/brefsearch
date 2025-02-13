@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "On joue souvent à la console.",
+    "end": 39,
+    "index": 14,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=37s"
+  },
+  "thumbnail": {
+    "hash": "6d06328ec5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG1ziHF2iH2EmoOKoYWMoY2VrHJ2gjYoG2RTP39qWYZkVnlcUD0sISYdFWFlaT87NwB3eIl9f5GIjqOKkKeKkKWNlal/hJJGMiFuUj6lkIyigXeScGRJMCI/PDySm6k6KCAAg4ebhomcjpavjZavi5WqjJiteXyIXEIxVUE3iGlaZUs+WEM7YkIxZFtejJKfOikfAH10fnZrbXZoaXFiX25bUm1URl09K4BeToxvZ5BvY4lpYJJ1bHFLOm5mZoaNmDMfFQBhHgNiIAJhGwBhHgBhIAFgHgBgJgl5VUSCYFWLaF1+W0+OaV1uTkN+foR3fIUpFw4AYRkDYhoDYBgDYRUAYRgAXRsEXSYPZj0ncVBBfVxabUtHZ0MzX09Mio2Va2trOycNAF4aBV0XAF8jFGFDQmBHSWdWWnhWQHZRN4dlUpNwa45qX2RFNFE/NWJiYmhnZGxiUgBYFwNZFQBuYHJneJhgbotpa3uLZ0+Pa1KGZU2AXktoSDZTOSZbPipZT1Fob4dXWWUASwwAVS4ra3mdZm6NanOUcHONjWxZkm9YimhQhGFKfFtHbU89c1A8cV9bZ3CPTE1cqe6eIVWhCqkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/14.png",
+    "width": 1920
+  }
+}

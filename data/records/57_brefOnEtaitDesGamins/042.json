@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "On passait nos journées à jouer.",
+    "end": 44,
+    "index": 18,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=42s"
+  },
+  "thumbnail": {
+    "hash": "8ec019adf0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIKHiJSdoIeSllpiZk9TVUdHSltbX6Wsraatr6uwsqmvsHh0blJKQ4uNi5CTlIiJiQBvfIaUnZ+GkJNWXF80NTlENjBcXV2WnJ2fpKafpaWorKhjTD8uFQZpYFeUl5iGh4cAWW6DkJaXhpCTJjA8QzUyXEE2T01Nmp+gpKusjpOTdHR2VD81PSIOUEM6j5KShYeGAH59eXNvaUhUXgEOHx0YGFxNSGBfYJWbnJKPjUU7OjkqJ0M3MjYlHSofJHZ2doWHhQBMTE5XTEdKNjwtJy4qGRxfTEpyY1xrbm59c2x0Y1dhT0NZVFMnHycqHiRramuAc2YADhEXMyEhdDo6OSUrEAsVRkRFgXhwgYSAgoR9d3hvc3hzdHVzMCosIxgfSkBBflU9AAcFCBUWHCQkMAMECwECBx4gITs9PExOTW5qYoBdUHtGOFRAOiUgIxMMERYQFGhZTgAFBQkCBQwABA4JCxEWHycNFRkPFxsRFBctKikkDApJJR09MCkzKSQvJyIpJCJROysABwcMGBUVEhYdEx8oHi01FyEmHiQmSUlGYGBcQENBLy8rLiQdLiAXMSIZLB4WQDAjIE+EnLWMqfEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/18.png",
+    "width": 1920
+  }
+}

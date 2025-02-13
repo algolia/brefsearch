@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "À chaque fois qu'un vendeur fait pitié, je lui achète une rose.",
+    "end": 37,
+    "index": 16,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=33s"
+  },
+  "thumbnail": {
+    "hash": "3e7fa5c974",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABUJBlo+N7WjoLCOg4ZaT4NYTodlX6qlqq2psJGNlGlka0dARjgwNTcwNDs0ODoyNwAhEAqPbWKUcGRjOzBYNzBbQ0B1ZmOjnJ+moKW0rrO6tbywrLOJg4xiXGJEPkNANzwAOiIaa0Q4TCceSCEaXUZFdmpogXZym5OVnpmnlI6ho52osauyqqOrkYGPhnV3OzM4AEgrIVg1K1swJGs0K3pjXn1zcYR7epiQk6aepqKaqJ+ZqJ+Yp5+Xp52Hi8CajJh4bwBHKSB3SzuCRzZ9SjyLcFlxTT6GZWGPgoGlnKCno6yknamspKmmnKWThIa7oJbStacAWTYrgks7dDotkGxWfmJMe0I2iVhOfF5SfVRSk3BunI6TqaCmqqClfGdppIR8t5mLAFs4K3k8LIBTRIpvWHA+LY5VT4RiVXVRSXczK3UvIGJBNYJmYZSBf3lTTIlhVKKDdAAeEA5pOS6NbldvVEF4QTaHW1F9X1F2Qj6FPi9oNCdpS0CCWUdzRi9zPCyzlYeKbWAABQIEUDowdVdAZTUmh1JLgV5QeVZNfTs0fjkqXTksd1VLdFFDZTYjdk4+moV4Wzsw2nqx3+Qm3IUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/16.png",
+    "width": 1920
+  }
+}

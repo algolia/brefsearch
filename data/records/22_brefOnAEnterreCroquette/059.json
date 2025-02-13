@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Toi et tes petites patounettes.",
+    "end": 70,
+    "index": 22,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=59s"
+  },
+  "thumbnail": {
+    "hash": "38b1a883c1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBy2/ScAAA4N40MUE0YMowomRa+oC+oa30YaE/Rlu6tdgW+hiPVaDC1CzoTHbwYMwunnYyevFkvHr06l/m90GuTgbpM2BVTp1O7ouuiYR2e+J0R2MchPU3ub6K+6ee7ABsYnGxI0KhRUYxEU3RLGpsFsLbTBsAjuYJhKg1+TrNHca+/OWjv4nF1aS7mgLIH9HzQPqws97lZuTR+/yYJOubuX19Eb1yO4UHty2DuMx784A/X2ipp0GLGbf0+W1i7JajfAber21RwL99/fzrU7wzm2W4CPT6fq2dZ9rFZrgMFSgZC9tUXSf6OgG7uTXzVJar/f5zdp31tj2EwA9aZGF6gi2Dzv61kcUy5IJ2OOomYz192U89PXIUUar9/Xf1/TLK+BKFwSh2RxVhb4iOj1oDGYWGKh05YnIinU1eLALDHYoUjfz8cXNztQr5R+V7t9Cn9yW2InMVia5q/GNIl3BTo7wB79tC6Kiu2eVYnGNxSSKxxpODh3cJvCgwsMZXGRTmCBhS2ojMN/rPCaAwRyprKJQiNFUJsQHC4FWGKhNEAW8U260ShZTww9J/Wid18fRJBdkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/22.png",
+    "width": 1920
+  }
+}

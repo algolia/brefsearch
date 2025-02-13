@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Sans lui, je serais pas un connard, donc je serais pas tout à fait un mec.",
+    "end": 81,
+    "index": 29,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=78s"
+  },
+  "thumbnail": {
+    "hash": "1c1576dbe8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nB3LS4+TQAAAYCyvGYbh/ZyBAtspFCgFd7utbIOs2q3Z3WQPTXY10aPx4EVNNPGgiRd/gf5go9cv+TgF4cQNdowNZV1G6d168+5yPDQVI2RX5J/2l1+unr1en25n7PPY/ziMnI7NnEQFiQLLD11KHEocwjy6n7GHenkoq/fDcGxbaofjPH/VNZxlOAWNl3FaxWnkUerSzI+Pdfdz2P15+fxN2/Tz4th1kRM003QVx5yl29QNCzptkmyVnEx9GtpB7Pj3VX2Tz79dbD70m7ebs5xE13V1KBf/gmU4gR34lhe5gaGZzCcvWPF91//eD7/G/rosz7OTq3Jx361ulzVnGrZl2JpmShDxQHkkAR3r62n6cbv+Ojw5jSMBoMwLHx63x7a5mDFO1w1dM2WoChBJChJkRUMadbzbunw6ZxMRijIUATrPsrMkqQjlMMaqikVZESESgTKRoYX1bZJs0zRx3IkMJQnyIsAILwiNbIdDqgqgwotAkCAvAQEoggQlgGSgTP6jIMi8ICNFJbYdmOZfWLo4CmKMZkkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/29.png",
+    "width": 1920
+  }
+}

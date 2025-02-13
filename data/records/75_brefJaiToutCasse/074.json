@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je suis reparti, j'ai continué à courir.",
+    "end": 76,
+    "index": 28,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=74s"
+  },
+  "thumbnail": {
+    "hash": "3e12ceaebd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeklEQVR4nBWMyW7TUBRAH41fE+I33PtGD5Ht2nFILQ+lwaIlFYMYVCSEiBDqohJli8SCD2DFEsSCT+BPkaWzPOcQz5hnTIfMCsiV9Fy0qSmUjITAUM4oDybYjLIEYeMVyZCdp/I8hRTkiZKlhiHGWIqtQ76UR4EI6MSMckq545y8PzWHxowr1Ez0ETQeTj2uDT7OzXw+qXSyxWIugoAt54w8LbCPoFRyBXKfYxvhxuGYmReV3TpNqaDH035I3duhKKwhG8NbJxuHpYZHK+xj7BP1rnGfOv+mthjK4FiSI7Yron9fr37d7claTUEfwYmGrYMuUUOqP3b+9sw/L00kMaCS3GMPEvv38/jn7gnJgTVOjivMNWwc7jKzr9yzyt70/jLTiQS+lOFClN78PPS/b0eytfxhLC4yyDSUVr3uouvBX1XqpvdnyRQoLlPEFPH7y/rHh47sEr5LeBvzOhGVg31jL2u8buDQ6lqDFzK8z5cLtrbw5SL/9mr9HzuOMPquLg/bAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/28.png",
+    "width": 1920
+  }
+}

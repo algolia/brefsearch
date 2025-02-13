@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'ai essayé de le frapper, mais à chaque fois, il me tapait deux fois plus.",
+    "end": 125,
+    "index": 44,
+    "start": 120,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=120s"
+  },
+  "thumbnail": {
+    "hash": "faa4b08661",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nB3LzWvTUAAA8Fxtk/eSvPea5OW7SZuPJm2apltil465De06FAazHkSRyrwqG0Iv6mEgozAPUkVlgjtYtCAy/AOF/u4/BlYrEuAwqmhhBbWAlkokEcMODtpE6opqgtQYEO8WxkCBLKyyjMCyFLI64ixV8Fyadr287fRb5n4WbGfNhqtZpuJZvCpyhggwAAzmOJdAGZFAlztNf290f/b40eVxOX9yOB2Pd4LuVty2Jc1G0MGAALgONcFRqT9Am0X/wfRkdfX25vTe5WQziXvjTjK4c5BFYUOWmjWewHWIFJyadhQXWTF8enbyc/Hm5vPs3auJbDXPXjyMerd3B4OeHzgY1CDPEMj5NZSZza04Go32p69ffji/+Pdn+fX73PbC378Wk7vlbhoXfsPGkKJ1cCUxCxrbkTM7fX59dbG8nv9dLVbLj98+nf/48v7Z0d5hUG7UgzoBFAkMAWyd8I5KY9vstsMyT4dFv8zzYZHvlEWxkWZRK2wktqJaGBAIGJ6tUoFTMNFrkinJLlV8XQsNIzR0T9dcSi1ZUSVKMTEEDgHuP95mVR+SdRByAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/44.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Tu m'as embêté, je vais appeler l'ours.",
+    "end": 69,
+    "index": 27,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=67s"
+  },
+  "thumbnail": {
+    "hash": "ee1b71b1af",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nBXC27KSUAAAUJoAEbkcQAEF5KKwNzeRjWgiYgYqWHI6Nfl0pukX+v+XpjULE0hizlP+eAgkyuYHsxGRKGwfG4UzuWbggsAVebfs/0u6LKCOjSnCE6lQpmcMqdKELww7oP7tPh1MsUVujcA1g7fc77b+LfP20MBmI9LmSHmIzzhmrYqFzn+2J+/7oPYm941XI3BBsNuF3S645fAYWligsFP645wZVI5chvDi6r2v/yngPVDaDawiOzYndQoeRXzfBafYwXyZfcE/6AzZONI58vaO+Z4uvkK5C9U2g2XkzMfcOQU/T6gv4ga5GDKkKY1PaaIyhd9F2DjKyRo/IuWB7GsGGwSq1fKtQr/Om76Iz7GFHVxdYwbGCIci3SMAJS6SBm+pntvyMZg3K7tZ2d+28Pklfz2smnSJZabqjnmNIRkS10Qh1KYLnviROWtTXlvK3tOrYH7feM86/14m7dbHjBdW41lhSEk0pfL8KQraPCnhIjH1KTfammoJjGNoPev8tUyuG/APrfdES0hxPJEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/27.png",
+    "width": 1920
+  }
+}

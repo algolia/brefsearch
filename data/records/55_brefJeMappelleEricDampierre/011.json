@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Comme ça, quand quelqu'un nous rappelait en nous disant: Bonjour,\nj'aimerais parler à monsieur Eric Dampierre, s'il vous plaît.",
+    "end": 15,
+    "index": 7,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=11s"
+  },
+  "thumbnail": {
+    "hash": "220f8cbbbe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nB3LfXPZcAAA4N/eu9pUpo3mRWSCiIiXJPJmQglxWRMOpaehZtUerbZstlt3vek5H2DfeHd7/n9A/sgkY9yuHyForjuef7I65Zr9Zz7fLhZP98vFZKaKqscLA/A6I6oX0xug6IZnH3sHBwk6NZr/yhY/J1LSw/T66W65nEyvzyeqoHp9CHxIKsWq0zkFR/VGQshzUkmvNa5W62LrPCuXbofjM7tVK5qz0eXgxM1l1L7pHBu2c+IC+3TsXi2ny8fb39vZz43bHQ+s1t/Hzfru2/r++2b1MOp/GXSHRqFKH5COVAZyta0fn1VaY8t2W2mt4ieMKDds9n5cTLeL1c3o0rHaZrWJkwyDREQIB5mCpfw/tXzd5Au2YsjIRyMrtyvW157ba3ZLuhlnBI8vkMRiMoQCHxI5IBg0kg4yuVA6z5cbHEKVkmLf6dRLNUlQxYyCYWE/SoUhlPcGQIBMhFkpzus4LUBoFKcyLEwm6WyQiMaohJbTWJqLJwVZKoZe7UXffgB7h2GMSgVIdgfC30AYGmJZPxFPiB4vDO+jFBl98XwnzWtaVgs+28Vfvv8HGrFmvOUE3BMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/07.png",
+    "width": 1920
+  }
+}

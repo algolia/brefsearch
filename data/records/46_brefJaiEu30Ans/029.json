@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "One more time des à 11 ans, Jurassic Park à 19 ans et Les Simpson en 23 ans.",
+    "end": 32,
+    "index": 11,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=29s"
+  },
+  "thumbnail": {
+    "hash": "211b9b4ada",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBTW/SYAAA4M5ZqFDet29b+kW7FvpS+kVbKA0InTRjTAzBxMsk0fmRzBlj4k4umbcZzTQevBim/8DEm4oXvbiDyeJBT8b4a3wewsnlPJJsFumBg/d3bz/Yu+9ZtlutZ7305fHx2dmPz58+LpfL09PvhweP+3GbiPL5iCoEnNhx/XbU03XbE7lE1zxFVhG3ODn58+/vl6/ffv76/fzp0XrSIUyhovAVBgqgxJ1bpQSaHmGtV9OHYdg0rVvzmx/eLRbPjt6/ffP61YtROiDyRYZlhVIRnF8lSZKqIRgpYrdqNIxqejF1nHg+ufrk7s7h7p2D/UezrTFxgSooZWng2BxgVlZIi0dxRfJkWRcED9eTqN1wk/n2jZ3r88vZ5kZ6iWBZoVaWskajhXGOpDCLbJ6N19ZMWWmaOPU9UzXWB6Pta7PZlXHa7RMM5ETAiABpksrQQEUsKtA8gFpZdFTV0vTA9kyjNhx2XNdOgpDgSIrP5SENaapUoIoQIAS5iqTVDZMDiIeshY0kMS1slHkhbnUIyzC7UbyZjccbk6yfhX6LKSEI2MBvT7ame/ceTqdD15ElUQoDz3eb/wGjhlffOLlyXAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/11.png",
+    "width": 1920
+  }
+}

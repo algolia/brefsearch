@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Bien sûr, je te file ça tout de suite. Livraison sous deux semaines.",
+    "end": 56,
+    "index": 29,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=53s"
+  },
+  "thumbnail": {
+    "hash": "7453cb957a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQElEQVR4nCWNx5LiQBAFRZdRm6p2SGoJMwgzDAtrDvv//7YxbEQe3iFfZBf04OPRp1PIq5SzlEtIH06a1yXWqw6fMly1XKWsb05d3N7S+MjtldsrtWfIJ2LJMpQ4Bpmk3mJ7xPZI4yNuLyEuXRy+0vQjz8+y/Izj3cnsXa55n+PsrPp0rLvfw/FvXZ5pOGv96CQepawhHazfIgUiKWlZhkvW5np1Mjtd2OXeZa+Tk7Ej7JkcsxAFhJ7J57hM27PY6liYA5IFIISe2DOH/wdL2CMgISNAT1bC4G1CIDAImw0YA+Z7I1D3trlnqzqFfLf1T0grs4DpjSFjiNweKcMGwDAY+i6oDrv5vp+fJZ2sXjlcEAtgRtSxrmP75eINSd8d7lKcWvuq9aZhYnKmM2AUIBpQpnyYX8fdq02fIjtARqR/9+cYsrm64iYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/29.png",
+    "width": 1920
+  }
+}

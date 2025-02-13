@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "que j'ai fait du vélo sans les rouler.",
+    "end": 10,
+    "index": 2,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=9s"
+  },
+  "thumbnail": {
+    "hash": "64f65e761a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADEABEUXGol/d5aMhZqQi6mfmZeOh5p+dKiEcp2OgqWdlZqRiZaMgYmAeHJoYWheWAA8AgdOFRmajoaimZGflZCzqaJrYFySaFq+h3CMcmWmoJihl46glouakYiFe3J4bmcARQQIVQ8WnY+Hpp6VoJWQq6Kbi3VtlGxhmGlblXprp6GXoJaMoZeMn5aNkIR8in92AEoGClgLEpqHgaihl56VkKOclpKCeY5nWohYTZd/cKaflZ2Ui6CWi6GXjZSIf5GEewBIBglWChCVgXylnpWum5K7o5aliHlZQThWOC2lfWjFqJarloidk4iglo2Thn2Qg3oARQYKUQcOjnl1n5KIuJeIyqeUwZmHpIBzmnRlv5F8y6SRqoNwmIp+npWLjoF4jIB3AEIHCkgBB31lYpaHfZ99b8SfjJd1ZmdOSpFuY8OXg76TfZBpV5SFeZuSiId8c4F1bQA1Bwo6AAJoQkSOhH17XVRgSUIqHhsYEBAfFBKDYlWecl95VEWSgnaSh355bmZwZF4AJgUIMgADUSoppoRsl3Bbg1pAOSUeUTgse1ZAgFtFgFdEakk+f25jfXJqY1lTWU9LzDrCGhrgDqkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/02.png",
+    "width": 1920
+  }
+}

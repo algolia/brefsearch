@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "J'ai voulu faire la paix, mais il m'a poussé.",
+    "end": 24,
+    "index": 12,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=22s"
+  },
+  "thumbnail": {
+    "hash": "c8a6d3a31f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBbW+TQAAAYBJdOe6443gpV6DHIdDSUjpo3VJ0tOqGJuJqMuuc0dnELDPpptkSP2iMxu9+0Mz/4X/0eaQn4Y/QzC0khyZd+FFmdHHr1sNk+ufi983Hm8uD5eEonnedgUlXPTJtK1LJX8SmYCqJLXYvGA5N28NgL06vjs5+bX5e7jfH24O3ebKeFZuJdSgUqUftiU1njNY+3Ux5xixBcN0fPMqS8/rZy+xuqJHKt/9dr7835afSlyJEI02duVoTG6eZXXFqIjXt+JySigdHyTh14+uTi79fv3w7P7t6XktCwQ6CIYEBVkqmlq7m6tSh+oB7vQ4bO1413t2cvH/ztPmwWn1ev5MClTAFJLqaGGpuoryNbUI6GhGWzgj2bfZ4d9bc31tW80VevKofSB5SLQAcCFwoCySnOsKyokPo65TIStLlZTpazhdFFEUdZ6cfS7aMDLllAdlHQEA51WAbwtPtnddZ3wBoJETi8cTr+pbpUmPIPYluyWTrtgVad7ASq6DQIYPgQITHRX/Cw7GIskAENmtjzDSacO8/j91DEwCJFwwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/12.png",
+    "width": 1920
+  }
+}

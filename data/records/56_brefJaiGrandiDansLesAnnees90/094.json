@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Pendant toute ma quatrième, j'ai fait toutes les répliques\nde la Cité de la peur. Attends, excuse.",
+    "end": 97,
+    "index": 32,
+    "start": 94,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=94s"
+  },
+  "thumbnail": {
+    "hash": "fdb0aa3282",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nBXC226aYAAAYJJtlbbp9BdwHH4OcpaCcpJjEZzQClq1TYPdxQ416c12tWY3M9ndHmDJXnjZlw9JbK0IzTK165m7zv3NfHpfBnU6edcHpx1UpIkqMApPzxw1HkuOxiJV6twuov0q/7Rb/L+df97Om8xFT045HHdErk7H69yrr+wysnyVRkLbECC0R2rkmvPYqfPpYzM7PFSeOmxT/+s6XxX+rox3i/C28LOJiLiWztK0a2gKQ7E4xhDEWBk2lmJioPLdvSk/2cP2Jrkvo4cquoktJLDNIcvqHOT7gO8DGVISAEsCJCyfyFqMgRacHRzpaV9/qJNN4SBT22QpUmIootsjut0RCz2G2fKwyat2Xm1o/KhTz83y+PJ8aK+3hY24ljEAmM4xDI4Pej0DAwEOron+LMhcJ3pRBn9s7vfd6svCuVvG9dUE0UT+9SsURbtn6IUscJksWJ036flJKYomhv9Vez8U8meRfPRgEo7eByNEZklIkZeaIrFQETiTFxpFimmqueh8I8+PyuB74v2aCB7zVhJgaIn/AFtdUciEVTHEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/32.png",
+    "width": 1920
+  }
+}

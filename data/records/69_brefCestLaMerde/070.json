@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "On s'est bourrés la gueule.",
+    "end": 71,
+    "index": 28,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=70s"
+  },
+  "thumbnail": {
+    "hash": "f5c63ca295",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdklEQVR4nAXB2W7TQBQA0KFeZ78zdnzt8RIXb4XQtM3SRFUShMpS4AGpCCERXhC/wP+Lc4ikzEjlAG4v2z7HRMgcTKlVp7WTYsZZKoQDaxm3QkpKiYiZd+EXoAsDLAi2bdNXdY+4a2uUsgS4rqrKGtSg4phGMUm1TpTu8sIB1Frdz6v1vN33477G3WJ7WK6PY5dxThnU7YYzRdAmdYYIZnJuyNJM6cM0/jzsvm+Wz9vVPHOVlq9zbBKs60WZZsSlmELirH3TzlfjgNoOrnw+nr6ubg9Df/7773q5k2Eoosi/eJFrQxos0c4yrYaiWDSNDENDaWmsEcIwvnm17JuOEOL5vuf5mlKyv7l7WRSoVQHQ5/nDND5cTZvp6mYY7sbhfhxyMFEYeZ6PNimTlHw7HdfTmEphuHAGfpwOv969Pb9//P3xw58vn8+fnupZzmLKYtq5Ck1CFKWpFFZwGbNUKeBcc4FaoZKGxpmGmbFhELCYSsqjIPwPl8Ms6F+GmG8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/28.png",
+    "width": 1920
+  }
+}

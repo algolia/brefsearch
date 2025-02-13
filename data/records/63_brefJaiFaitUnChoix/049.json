@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Et toi, trois fois, c'est le nombre de fois où tu as mangé dans ta vie, non ?",
+    "end": 52,
+    "index": 20,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=49s"
+  },
+  "thumbnail": {
+    "hash": "937eca0a50",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXB227SAAAA0D6YGZdlZo5eUqBcLJQy7BhtADsgyBpYa4EyJoKwRWBcJrhAB4qOCrgCtmKNiUaXvSz6o54DpGLPCMwBbm2jJhA3o+fV1/3uxWjwQRkvSYJiAuwhJ7SOxSRDRny4C0WAeJi1QAhhxSblI5Hy1DJJbaJ8Gk+/ar9I9xM7Rrxt1m/n8nkuUeGjEZ8boN2u9fsP0mHGaJQLoQDv96iD3vV0/uP7bTyW2twwqR/lO20ovxLKqQgXIAEXgqzdW8sG9/RacVrKHxAO/aKqq0tj9ScrFuwWXB12/n7pj+u5k8NIPhoASBSFNh+6YOhK4o3TQtKDt3lWvxoZqxuRP3baCLV/9m/ZU+rSWTr2Is4ALG7DYfjx9iMGhZK7PsZmaSVD2mioLX9mxaKfpIx39d/jpvySS4d8KdoL1OJB2m5NUBSNIlvrGwmv81Lcn8n9uWqMhjO5019dVpV67jmzw2KoQLkBtXok0jv802jGTzlBuBTxzyvC+3ZzoiwWn78tZrpcyedpj4TBJQzlcCtwXSv0JE4I7/M07QShTHB3ICU65WK31e42Gm9OytKe99RhLpoRHgIPENN/uTCAGu7r0G0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/20.png",
+    "width": 1920
+  }
+}

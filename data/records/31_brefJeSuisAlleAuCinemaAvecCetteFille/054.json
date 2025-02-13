@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Du coup, je comprenais plus lequel avait le cancer.",
+    "end": 56,
+    "index": 23,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=54s"
+  },
+  "thumbnail": {
+    "hash": "8644d851b0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVR4nGWMSW7cMBQF2RSHz1n8lEhqtGSjuy2nEy+8SoDAC/sAvv9pgsSbIAFqUXgFPNJQ/jesEYSQby9viBMhp39qQzn5f1LCaOU5U/TEKGX0xP/IZxUk6lZxDQxEIwUV2fdP29PSr17aVgfFwOuQfDJCO/BGGDLGmm0XhYkcIoPH+XLbn+/S6oVd+6XYuA/7NuyowxhyBEuySyXOWfkEHl0dcJ5w7gxGMMUEBLN009zPAdzvX2mJYxB1GwERv1p/2Ybr3G2IRw1rVaH4+a5s6FonTWeSpYIEBihN77YUrrXdvyxHaRdjH509Pyw/b/fv1/GC1osG0FbfCFKkGaQZwYxCT0JVxqd67NfXpTsvEBYTZ7Cj1FXqwbTVZYJcdVz1XOVPGvF8fH/58XEua6E0M9kzyOAnfKjpyOn2C17zG1+gQ2xiAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/23.png",
+    "width": 1920
+  }
+}

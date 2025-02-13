@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Et ça, c'est le premier jour où je l'ai accepté.",
+    "end": 9,
+    "index": 2,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=6s"
+  },
+  "thumbnail": {
+    "hash": "cfe2d16ec6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nAXBW2/SUAAA4P6GZQswGBsNpbfT9pxDr6el99so66iwOpGsoiwhuBcftvhgSPwHBn1V9wf8j34fFYpMKrM5FDKFLx1ialaRl1+fD/vdl5fnw/Hn39+v/34c/xx/vW63TwLLUSYAgQJyBAokurKsQp2h2UH3iu0PrtrnqTYuiBWrKB5jC+KQWJTAipKgqAC6EHKXdLfVuzi/xCy3r8o6ThKZjyUukgVf4rUhjYc0VRXTLAyJQTiG7551emft1knrsUgfsuhtEs9sc26pKZbxaORrmiXw1CJL389vN/c1FPjeaXsTTW5M9duH1b4qX1b1MksWtlY7uiuDiNi+rlPN/ephuVzflvPQYy76pYb3RfRUTQ/Nu3XoIV4kslzo2JFEC8LAMKg8K+4WdbNudpuPVXHjK6CJ7Nq3VpGTq6hMk8BxNEU2oUIQcjCmPDcI/Cjwo2k+u85mj2/KTea5gFWZoSFBopNpnGSB7xiagZDIjCibTCaOF/iRppqz6+r7592uTNMxCjH+tN52OvTpSXvQHyo8IBiBEfMfbwhrSr87EwQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/02.png",
+    "width": 1920
+  }
+}

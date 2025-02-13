@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Entre hippocondriaques, on se reconnaît.",
+    "end": 72,
+    "index": 30,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=66s"
+  },
+  "thumbnail": {
+    "hash": "233391c190",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHprZJKAd6WSh7Wjl7yqn7ennca2q8WzqcOxpsOxpr+tpLaknKqYjqGRiZWGgYJ0cQCUg3mrmI2/q5+7qJx9ZFqQY1OcfXDJt63Lua3KuK3MuazFs6e6qJ2tm5Kci4Sfj4sAoY2Dt6COxa6cj353akQ4yIFmqGhPspyNybivzruvtamotqOcv6qeq5aOnImFrZ2YAGpcV5FzW8OVd4xlX2o/OH9MQJhdSHp4V6GUlsmxoKCEgYRDRKB8dKSQiXRkZaWUjgBAMC9+W1OlbmKtcVyUYkeCVEaccmWjnIPBsanEppO1lomwmJWsmJOdjoqPgX6llY4AdFJIQicjLBIRYzovxIVa1LKY3M7G3s3E3M3C287G3dHM39HL3M3G0cO70sS7wrOrAA8ICA4ICg4ICS0nKcq0tNzMxOHTyOTVyubYzevc0uze1uXX0drMx9XGwMi7trWqpgAFBAUGAwUcFBQeFRRZTU+ZiIyZi4+fkpWmmZutoaKypaavo6OmmpqZjY2NgYF7cHAABQMEBgQEJx4dRDc0IBgXSDk6VUVJSz1CSz1DSj9ETUJGT0RIUUZKTUNGRzw9PzU1ae/jIFfgYqwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/30.png",
+    "width": 1920
+  }
+}

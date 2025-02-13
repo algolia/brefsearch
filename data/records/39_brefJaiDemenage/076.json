@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Il a dit: C'est fini avec Maud.",
+    "end": 77,
+    "index": 33,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=76s"
+  },
+  "thumbnail": {
+    "hash": "77dc25c5f2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABcTFiAlPC43VGdaTIx0a52MiqednbOmnryum8a8sMi/tZGHgHhtZ6uimqyopZCKhQAQERxDQEc4QmFkWU+HbWpeUFR2UEyPf37NxcHSy8PFvLU3KigZDQ1CNTGjnJWckoUAMTA0dnNoQEhgNykrTzQyTj09OygpNC4yxsDByMG7w7u2MSUkIxgZHA8OeGxhq56NAEg1LWBRRT47QyMbKI+Dnm9ibDQqKywhIaSfo8G4scW/tk87Nw4EAh8YFo+CcaiaiABLSU9aVFFBODoxIyiAcIBpYn9QPUM9LjGTj5jRycSmoqJSPEAyJCg+PkeNgnejlIMAT09RZGlrTVBYKSk6UTw+Rzc8PTA4PzxEq6SpvLWya2l0Pj5UVFVpT05Zcmddk4V5AHFyak1QVTUzOB8iNB8bJCIeJxIXLFROUq2lqYd5eUVFV05RZVVXaExITYJ2aox+cgBdXVY6PUMaFh0eGyMYFh0gHSMgGiEyIh9fUFNHP0wzNEY8PE0+PEdoX1uNf3J7bmMALCgpGhkdGxUXHRgaKCIjMCUjNSYhPTAtOTQ9MjRGMC88KCYwS0NBfXFmd2tgaF5UJLWYHQaQGAsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/33.png",
+    "width": 1920
+  }
+}

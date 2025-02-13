@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Il m'a dit qu'il pouvait plus se déplacer. Je peux plus me déplacer.",
+    "end": 18,
+    "index": 8,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=16s"
+  },
+  "thumbnail": {
+    "hash": "d296036791",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKKasKiiuK6nvr220KGXq2heZ1xJTUArJ3NnYnlvaGRcVSAfGx4cGB0cGB4fGiAgGwCel6yrpLrEvNXWz+fQx9pRTE5AOztSSUWOhHuYjoRqYlkiIBwhHhsfHxsnJR8jIx4AmZOnmI+h0svg6eTz8u30hHyDKSwvWltYYVpTg3pybWRaRjkrSj4uPzImSjgqNywhAKOcspKKncCyvMWpppJ4dkM1OBwcHVNRTD4jHEpAPGVdVFxGMV5KODwtISkfFiUdFgCakaSblaqPcGmwd2RpRzwTFhY8PjpRT0stHhsnHx4zMC5WRjdQQTQjHRcgGhMTEQ4Alo2fpp6xlXt4t39tjWdZKS4sTk9KV0lFHx0gKygnIiEkHx8gKCcmRTQmOCofDw4MAJ6VqKylu6KSmaFwX7B9a1xJPWdmXkU8OBgXGRocHx8fIRoaGjgpHkw1JEIyJiEcFwCXkKKhmq+XjJdvV06PZFeEX1IzMSwNEA8LDA0eHyIdHSEqJSJaQzFOOChALyMZFhMAmZKlj4meh3+McmhoXkhCfVdNMiUgBQkKCw0NGhobGRgXERERIh0bOS0lJBwXCwsKYO2O2UVCbLEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/08.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Je me suis mis à courir dans un couloir sans fin en canard.",
+    "end": 31,
+    "index": 7,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=29s"
+  },
+  "thumbnail": {
+    "hash": "54bcff6dda",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABD0lEQVR4nE1Qy0oEQQycw3Qq6by6e3d22VUEXwdXUPAsfoH//z0yswpCEUIqVSQ1lRlUGCTC5t56Gxmj5b6PQ+9Lb7sWwzQYCpIyY6KZqQhKZZhwCAcjqmStTbUBzvBtbqBaZp5Acl1lBK/0tUlGpLX7091xt4TnRplAJ4YxTGtuGuM/S8C6tc/Xy/fX28fLbVoKW7r/CiqvBv8h4kJ+HOPyfL459KWlkCnbBNLtJAetVdnrFRJEuvT9+9NDcxsRAq3Qaf2YdFuNlNhZds2maZJEdh7L4+mmpw93JhWqU5mxZeomsfMcMa5w7VWa1WRoCwuzNdaCTVAAqqmW6qrp2jP3mYvWJpJag8EMKTOXGT8PjxUAdTdJPgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/07.png",
+    "width": 1920
+  }
+}

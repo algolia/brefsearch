@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "T'es vraiment gamin des fois, putain. Ça va, c'est...",
+    "end": 128,
+    "index": 36,
+    "start": 124,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=124s"
+  },
+  "thumbnail": {
+    "hash": "3056edc3c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+APP19dXd3v///6enpiIeHRwaGSIPFBgBCjglKzQxMBIQECwfGSwjHkNCPk1KR1dWUgDs7u6+xMDx9fVAPT1bQjRcSDoYEA8iDRJLQEEPEBIAAQQPDQ4YFBMSEhI3NTBQUEwA5Ojnu8G+0dXVIx0cVj81bVE/LB4WIhMUKR8fAAEFAwQHAQMGBggMCwwOMCwnT05KAODm5r7GxuDe3R0YFkQwKXBPPSkdFBsSDy0iHgoICwYFBwECBQQFBwYHCzg5OioxNgDk6+y+yMrg4N41LykiGRhRNShELiA+KiJNOjApHRsiExMBAgUBAwcMDQ5BPT1bXGEAmXddh2pcw8C6WkxCKBgUVD0yVkA3TTUrZEs4LSAcLBwZJRoZFxISKh4XQz06Y2VoAFskHlMbHFg3LUc4LTcnIm9PQFk/NTcgGlpAL0U7NB0XFi4gHDEiHTsyMElNUVJUWAA4FRgyCg4tEw09KyEwHxs4JiBiSTlUMiFIPj1oa3FNUVY2Li48MjJMTlNNUlhKS08AFwMEHwIENyMbMSEaMxoXHxgaJhoXXUc4YV1fU1VdTVRbRS4sRRMOS0dMS1FWRkdKkzJwhUuSN+gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/36.png",
+    "width": 1920
+  }
+}

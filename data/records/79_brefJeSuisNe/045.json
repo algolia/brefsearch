@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Je suis mal formé, putain, c'est à cause de l'alcool.",
+    "end": 47,
+    "index": 24,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=45s"
+  },
+  "thumbnail": {
+    "hash": "de7f1c9883",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhklEQVR4nAXBWXOaQAAAYP5IqZ1pQhoUFNAsyyEs97nIuYgHYRSPic1MHvrYmf7zfh8l0bTwjRZoGvyYmC+MN2UTYZGIInp+8l5fIo4NZlN3yurPDJhM5Ml3SmZYyMwMXvIWUvb2VquwVmEFZaLInQa3KixlkC4lh1ug2RyxHKVzoiUqkep0YdpH4RCHpyQ6p/EtTz9J8Xd8/+qqZq2lQPEl6AgrypDUQHNJVA4ludbkWpX3uvrdkkdbPkjx7+Py533fx2FluSE0A2BQnuphG+827bk9XLvDbdvdCBmr/FJl9ya/18Wtqc9lWXthoJiubFIRSrCbbXF7avuxO152+4/++Djur201NvnYFKe62mOcmbYDdGulUYERx3ZaRMVu0/b1biDboWlObTNURZ/jQ5Y0UZAgZANoSEAXAWUprqf7EYqwgwsfl2FS+H7uORvbyiwUG2sHwrUkQZ6H/Bzyc0oTFHO1tgGygGHJhg1UWwY2AGgpmaKgCwLkOXk2XbG/lq+MwPz8D8OleB/3AjhjAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/24.png",
+    "width": 1920
+  }
+}

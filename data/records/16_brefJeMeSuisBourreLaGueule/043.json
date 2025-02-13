@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je me souviens plus, je t'ai Je suis pas sûre de bonne soirée.",
+    "end": 46,
+    "index": 23,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=43s"
+  },
+  "thumbnail": {
+    "hash": "e20d990aef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADEIURsGEDsGPkAFRmoKiE4OKzALEWgKSa8KtNUHy9wI03sFbQ8GAhoHJFoEvlMAuwBPDYZEDUZHB09OBFBBBicqDA1OIx1WLR13DorKBNy3Bt1+BJ8vChkzDzF0Cd9rAuEAaBPEVQ6LHgUlNQgqJQYTJg0RViwnZzkobg+PlAPpmwHimAHtUQlSLw4fUgaaWgOxAGoT2DwIcg0DDisHICEKEFsnL204NG07MFsPn3wM4oMJy00JdBkKHBEMDA0HCBcEGABuEOpTCZ0tBSUyDBcUBwk7Fh5mMi5bMCZfB6duKLphZllWXFFgYVxqZ2geGRsOAA8AcQrjVwrMRgxVLwoMIxIONBgVXDAqXDElXCQ5YSZwVCt6MSUtJR8iJR8kEAoGFAE5AFMItiILbjwMQ0keKV02LWg7MVguKGw6M103LWc+OYxCmUQVKgUBAAcAAw4GDyAEggBQFlhHG4ZtI4VrNjlhOzR5Rjp5RTl8RjpaNTJkPjaNTFA7FB4IBAkFAwAsCUJ3C7oALxQQMAxDZiNiZDcvUC4seUQ5fEY6d0U6Yjw5aT81gkhKHQkRBwEHAgMAMQQ+cg91R/xpQlW9VtsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/23.png",
+    "width": 1920
+  }
+}

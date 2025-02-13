@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Je lui ai dit: J'ai pas mon téléphone. Il m'a pas cru.",
+    "end": 33,
+    "index": 15,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=31s"
+  },
+  "thumbnail": {
+    "hash": "a5baa89a51",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACEYEwsFAhIMCRUQDxkXFhsZGRoaG0A8OKydhExaYycnLhcXHB0dIl1bXpmcqIGIlgAqIRsIAgENCAYUEA4YFRQWFRRDMCpuWlCzpoqAW02PVkl6VU4yKy0WFhuUl6jFx90ALyskBgAABwIEDQgHEg4NGhUUgFBGl3lpoJB3bUk6mV5NsGxcg1dLHh0fmJmk39/yABMdFgwJBgYAAggCAg8MCjkqJ4VVS6GCcZ+EbIZTQ39QQnhQRIBLOzQxMcLH0drb6wASHxUTFhALBQUeGBYgHRptU0mGXlF9aViJbFhqPzeaXlGjZFFxQTB3aGfl7PDg4OcACxkQIiMbQzEoX0g8V0U6mnFhelpObV5MeWFOVTAsglNEaEM1TTYtycTI6/L52NnkABgfF19JO5dtW5lxYKF8a8OUfHNbTkM+ODIpJUw1LEMyKjsrJHtTQHVtaqmvv9rc8AB1VkmIYVWedmurgHSqg3bRsZxTRj8AAAQMCAgdFBA6Jx9UNipaQDMeGRkfICZ5eogAn5CVj3p6nYWEq5STtqWq0MnWsK66MzA1BgIDEwwLGxIOHhYTFRMTFBIVFBEVFBMXSt6LCTuPsGIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/15.png",
+    "width": 1920
+  }
+}

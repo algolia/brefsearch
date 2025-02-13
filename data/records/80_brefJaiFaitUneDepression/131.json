@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'ai repris l'ascenseur, c'était celui de ma vie.",
+    "end": 133,
+    "index": 49,
+    "start": 131,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=131s"
+  },
+  "thumbnail": {
+    "hash": "f80ac1d594",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nB3NQWvTUAAA4Fxdk/eSvvfS5KV5yZamSV4Sm9rWtmna4ca2DqZTTyqClx06ERzb8KCHDfEwcBO0TlDwUNkYVex2EUG8iB78WVJ/wMcnwFyuAESMZop8BnFAK3mSKFEVRwm2Ooy1DCOWiHcJY6BDUc6JgiKKFIomkuyi4jo0Du3mZedqxFZq3vqtVZ7WGdM9WzHyEssDAoCAJcklUEfEN/W2467Gtd2l7uGdhcMHa0+3thrz/dQPZlXDRtDBgEBZIEByiGKqmpuRfp0PurX391rn+3fPn6y92ttpr6z3Fvu1OHS1QlmVCYTTgVOUzFphnN64lg5fbJ4Nd0YH26dH2+NPB4PHg6Axv5R1GgEvYahOBygFGspsP+PB3u7Grz+T338vPr5+8/3byY+fJ6ejl/eXs+VK6DHLVWUd/QclVal75V7oPH/28OLLu8l4+HX8dvL5+Gx09OF4/9Htm9fLPZ/RElHoFABxjsiuWYznrCQK0kaSterddqvbbvbSZqd5pRpVuFstG7qFIJGBIIs5qkg6JqZasDTNNWjATM4YZ8w3zRKltq6bBcPAKlMAAtI/2cVce9Go51cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/49.png",
+    "width": 1920
+  }
+}

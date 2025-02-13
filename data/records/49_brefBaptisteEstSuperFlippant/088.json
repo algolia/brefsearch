@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Pourquoi il l'a quitté ?",
+    "end": 90,
+    "index": 40,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=88s"
+  },
+  "thumbnail": {
+    "hash": "6be8769cd7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADw4PEM+QD8uND0YJKyfp7a6v+To6auWoDoNF2NSUWthX2JXVV9TUk9CRU5AQjo2PABXUVgpJigRERAuISMiGRh1bW7u9vqumqVADxtsXFx9cG5MODRAMy9WSkpKPz5IQD8AUkpOMjI2EgoHLx4bOCAcgmlp9v7/q5WfQhEcb2Fhd2dkTjAqUD88UUtOOTg8UVFWAC0kIAwNDDgQCGQsI2lCPYRYU/r//6WOmT0NGGlkZnlpZ1ZAPGdTUFdLShsbHikqMwA0GREkDQVXFQtLGxY1LC9JLy2il5iVd4IrBAtQU1VpV1VVRUNWR0VbSkcnHRoTDQsAIAoGMREMRhcSMBgXGh0iJBocIxsgPzZBRiovWUI/TUFBTkJAVkNBVTw1KB8eEA0MABUHBBkIBScNCCwSECcpMh4fJRgYHxQZIywoLiwfHxcaHjUrK0gyMCciJBoZGxIREgARBwMYCAUgCQUdDAkZHigeGhwtFBEuJio2MzVNQDtjVU5cSkI9LScdGxsNCQYHBAAADQUCEwcDGQgEGggEExMYFxASTTw5ioKFgW9rfGVbblhPXElAXkk/XEg9RDMvKx8gVThqzazNaOoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/40.png",
+    "width": 1920
+  }
+}

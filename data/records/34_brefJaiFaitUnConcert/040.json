@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Excusez-moi.",
+    "end": 41,
+    "index": 15,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=40s"
+  },
+  "thumbnail": {
+    "hash": "009b5541b1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADMgGjsiHW5OK4NbJ49mLZdsMJ9yMpFmLHFBKnZPRWdLRVs4NIVpQoVpOnlhOWhSLwAkGBc8JCGJYzWhdjKxhTvAlEHKnESfcjSRVUWYaV1INDpLLS+YdkyggkqXfUuCaj8ARjcyW0M6pnxAwZI+uZBBlnU3YUwmTzUfh1BDjWdcfGtualRXpoVWr5BRq5BVmX9LAHBLI5pvNZRuMV1IIyceFBMMDhUMDx8VE1I3LEYxLIpvQsWcWbKNUbaXVbSYV6GESwBwSR6CWSYbFA0BAAQvIhNHOB0bFBMoHxpiQTgtIR8jGxikgUW8lVCykU+wj02MbzsAaUQcg1gmHRUNHg8NThoMMxcNDwsLFQ0MHxcVHBYUGRQVkXVBwptQsI5Lp4VGk3Y+AGdCGXZOIR8KBTIaFHQ6LEIYESIHBRcGCBUODA0LChsWFbaZUNeyWbeWTaiGRHVdLQBDKhFBKhMmCQY6Ewo2Ih1WMidQJhU0GhElFhAUDQkdFhWFaj6KbzxSRyE/NhgcGAgACgMDCQMEFAUEIwwHCgUFIA8KIgsIFwwKGxENFQwHKBcQQSYhIxUUFQ8LEQ8LCQ0FKXZ0kA//ohAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/15.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "C'est qui Charles ? Charles a dit merci et a raccroché.",
+    "end": 72,
+    "index": 40,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=69s"
+  },
+  "thumbnail": {
+    "hash": "f5b54892e9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXBW2+aUAAAYLIXjQVB4BxEsBwQEEUJIgJOQbwBjauoW6d1TbumW5d12bK4y0Mflmy/fN+HvUvDodkUScpXzkeGsjaklKBnDPi3yx7jlyRO5b7xtJnvx/0WrHYkFXvcpddjZ6XULnrtu1V8tPRLEiSQ/72af4qDSbOZWNrTVXbaLY5+R2cBlo+CpdlMVOR1vZ/vD7e91gXB3jv2KZv9vVp9W4bbwP2Yr7/kya83GSpXsIc0Gra7Aqe/8vyHNMwa8kaof11OhrLynGe3A6uj9QhCnrn29/UUx15gvobUOprHy5VrDfQG5CSeR67e2mfJj8P2dTTqm93I68/c3tQyvbaBFQs4YGAYTQRRRhzfVVVTQRRT28fju3l4ncx28+npfv/nePnWNZ8/HzFAMbDCskS5xnJuQ9141k3UCQ3UgHDRMRx03uCFwyLej7xAb7pWH6NJmqVotsJQFCQJIIlo4phLW0eQs2XJV5VAU1FNFgUNQK1YqmL4GVEFoAo5/IwicLpYJAeO/eFmW2cBAtAQ+LYolkoMURZJsl4o0P8BOP5SMJJY2cYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/40.png",
+    "width": 1920
+  }
+}

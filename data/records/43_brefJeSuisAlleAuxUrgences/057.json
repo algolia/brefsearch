@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Ok, moi, j'ai un enfant de huit ans qui vient de tomber du biais\nde tesAllez, on fait quoi ?",
+    "end": 61,
+    "index": 30,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=57s"
+  },
+  "thumbnail": {
+    "hash": "c8f7161a33",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBy2/ScAAA4B51AemL9teWdi3Fdn1AW7qOWtoNhtsQRNikEfcoDdJtgSwxaDBGjTrntmxGD2bx4NHFg3+l3wcFy1bD0QNDtlXFlERBUHNBDCsPMRgbbK5/Gu+/3A2nYW+wE87ffRkd7EHFRfyRU+ivlYKS7BuKQCJmtUNaXYHlXu+FN29Obq/P/lydvj0evf94nsQHUL0sP/b0nl8MV7WooRuLqOu4UTxhAR21N368mv69Pvv37fRydnJx9f3oxRDSRa5VtQJD6nrKtpuvKcSKwnd8r1624k4zam99SOKvk/HsMLn59Xu0P4AYQDuaVC/LbVf1FdbOk0UerJnFsFGbRc+jJ61xtzUf7sb9nWR8vNXYgABBSTxfNRVLyks5kgfZAss8MNSqoR897f6czy6mye3557jXSaVR3w0gmqTuc6yQ42hA4zBKIDBDkpVlbUVfanqVSb+37VeH7aYmFlIplAYchGayLMXgCIEjBJxGikLeVlRZE8ySKDJ0O3Cf1VbXbXvhTiqTRimKhwgMYCiJY+BeGq3opcvJYdMLEAzXLT5HZyU25yzJm24F4NTC3QyOM/8B6v5lgaccCOcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/30.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "J'étais dégoûté, mais c'était pas la première fois.",
+    "end": 62,
+    "index": 24,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=61s"
+  },
+  "thumbnail": {
+    "hash": "f744687a88",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXBW2/SUAAA4L5pjAoDtjLoIBHdYATa0TstvfecntOWrS0tgxG3wS7OOOeMDI2ZRhMTH/wJPvvkX/C/+X1ElsSjOJ4dHh5lWbvZevTgocRyvmFgx1VEydQNyzB1VesLkucCYBgEFphRFJ1OJ44oULnci3oNC8xtdjBPk74oewAi4AHTNpTBEAfIcYgxdKLhMPNgY70kVkmuVpZ2Gvcn0+XFQhF5H3mBh5ALgGmNojiAkLh69ToKw852q/i0RK0VqFKtUW0fQRjCeY/xgQORC3zgebY7HqX72Cfe3dyECJc3qPyTQjFP0fQJ3VnsMWc99rrH3er6KXRtzwHAtLMk3Q9C4uL8HLlwvVDJPc5XyE5rZ4aS729//cXZD1Z4z0tvbM1yDMvSzDROQj8gzuaLvqhUy/WNIvm8zm/XoT/59vXPPzz+qajLl+mlJoi6omqqlkSxjzBxd/eJ6wkVcqu4trnX3AWSJ1vXx6vfsvrZhl+uJtMBz0qcIAtSgH3HsokPyxVDc1WSera51W81DQ52uRmI75XBx4G5Ci2s82x3t013urZpKXL/P1Jnb8rYk3roAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/24.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Je me suis dit que ça pouvait marcher.",
+    "end": 47,
+    "index": 15,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=45s"
+  },
+  "thumbnail": {
+    "hash": "bc6afab17c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABj0lEQVR4nAXB23KaQAAAUF6SUFREjNxhWS7LRXYJdwQV0RitSU0mM4mTTvrQaV/61p/of/ccyrWDu7xL8lW7fcfVU5DcJ81L2b0X3Vuxfiu7S7Z8DZJ9EG+8MAfApWwXZ9WuqHfd4dPGvYFKB3dB9pVU+6zb++nJJTvgt7IZC4o75iUKelnbP9fLY3/6ac5XqpMDv/HzY9w84frRTw/WfGN4rQjIVACqqFAAZevDx3L7ev/tlyyZiqimcVUVXVYfveTBIRtSPSaLc5hsTQU0vkNpZrA+fO9PP8rV2bFCYjsNjgs/aO9yzwqhgc4vn3/+/rtcfsdA2yWEuqHHquEV7QmnXd4cIjdwVB0qGpB15oqxRyyGZk3iReRnCFahT8m3+tUNK0pAVU2g6JogGYKERDGCMPZQ6bntHNWhWyAr8+3IAlTtxfxEGTMjZziELMcNBjY9qKazJQn7LFphlJpagezEgZGpB0Clao9AEVxfMyz9ZUoziGbWLL8YcemEJ7Mp5id4OJpzXCDcuvLMlmf/Af2uSUM8WSqxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/15.png",
+    "width": 1920
+  }
+}

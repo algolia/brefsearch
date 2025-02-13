@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "J'ai pensé à ce que je pouvais faire avec 10 € au Mexique.",
+    "end": 24,
+    "index": 11,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=22s"
+  },
+  "thumbnail": {
+    "hash": "ac622f8105",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nBXCW2+TUAAAYH61iSY+7MFL1Cwa45plF8psRmpXM6DFcusYB3q4HQ6l3Dvu7bJI1b9g9uUjXn2ijr7dfKSEkyk8m7nnc5cUMLnAlLS+kjeXvHfB49Nb+zOtvjllXry7IN6e819+6Gc8vhQDUnpOKREpbUZqShslbRS0UYy07VBJTxj0figTt2Aro1pwCgU3Cm4kVImokrxKQpUeP8GsX6W9kfyGWa9HT7yRE5ZfusCUZqIylyROEFhB5BbqYgnkewdYeIVc3XaAFXtRndXltiVwvHvAUQhxYvnhCoUQbwwUGm5o4gDYa2CXftqFD3WQN3FZ5i1hB01V7LOszbfd87wrise2O7Rt33aHpu13uz+7/d/947+uOyTrnNDtzNSgItwpoqoIqjCXdBViJ8BOgCzfs3zXxMjy1+4GAtvQbIJizPEvd7oM5jDjjITVI86IWT1mQcSCaLZKOD1mtPDnMhhxkJzeEy+Pr48G7DGtDRj36i4bw2YM64nVTexuYrVjs7nWy6GcDhjvw3fl9deb/2h9S2QF2UQbAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/11.png",
+    "width": 1920
+  }
+}

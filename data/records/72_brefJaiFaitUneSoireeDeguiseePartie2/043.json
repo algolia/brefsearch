@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "C'était cool, mais j'étais quand même dans une soirée sans mon copain avec\ndes gens que je connaissais pas trop.",
+    "end": 46,
+    "index": 18,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=43s"
+  },
+  "thumbnail": {
+    "hash": "21a2840a46",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nEXLbW/SUBgA0NJ7n96WtpS2lBY2OmBb10Ipb2bViSwSohmbQ5cxLEEGmaLNhLhQnTMmU+MPN0YSz/dDYQSAGJpCqqhNXry/DqIwuL0efTvvDiRBpREB4FiG1WWjlLMMUaUAM4BA4qSNlPn6+ezz7P7T5Mdq+qtqPcjr1lPL29V0nhMUUfT2fMc5oRBiABGFl9LyxpuTMLr8vpr+nJwuillr1Oot2u3As520BgjbhVqjPqQQDYBJHNjNlDnrL2/Gd9H03ve6lXw1Ohp+7fi/e+1jO49orCqFzM7gb0A0EMxqiZRffjLvv5v33+pKbjtXCw+O7x55Xw4btipjmuE4VdvqrQODCR2DUtYc7bef2VWeTSYEfdrqRu3GubMVB4IRQxg+mT1cB8BEjifOKs0Lt95xmkkxHaPospG/rHtHOwagf4EzMrX/wVT0zl5zeREugkXT7bibxYFb+rBfeeUWeVaIxTAgUs0W1gEjwmJSyOxevby6CeYfx7ers/GyVQ8f+8OHvswnpbhwUK6ZZuMPD6hFkM1G16EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/18.png",
+    "width": 1920
+  }
+}

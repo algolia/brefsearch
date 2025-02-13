@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Et j'ai arrêté.",
+    "end": 31,
+    "index": 10,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=30s"
+  },
+  "thumbnail": {
+    "hash": "f95fc8a4dc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXB7VPScAAA4N91eWVeB5rJeVQwhDHGxgZ7gbEJrIV7YZtscycO8wALiWCW03LdcdwV3HlZH0q/9N/2PGA4HAa+P7u6kOvi+WnvexjeLJeLxfLu759gOp7PvoXnH/23R77/efrpy+kkAJPBcDzoe7ZpCtzIVOwq1zvq2M5hgyuf9XtNseE0pYm+1++ezH/8urm9A/7o3eDYM2VdoFkKyYkk3WtbmnFQ5+sXk4m02yjhJRbJwVCmv++OJAWounHmnZg1LbYNxeMpOJHzEIynyzhJUxRDE8XUi+RG9Hn06bNUIl0qVUG9ZXXLvJrB88Uqx+4m0hgf3bQxQrbcptzKwyiSRlGkUGZ4KJmmWQGEi9uvUnNaERyrI1RqBYJxsOKV5f6+/zf+MEVhFMsgDEYUULJOsy1FBZfh3FEdjd/TG1I2U5Akva3uX4ezxfLnZXCdSaPawXutacTj8M4rWHhjAll3YxC+8mQTPFjdfpmla6aoum370Ha915K8traudQNB6YCHkdWN5BZEA4xgHj2O7KQQkmQKBJ0neZwSZcXodI5Nw+I4nqjIiSzLsnyRqkbWY/8B35906/A5fB4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/10.png",
+    "width": 1920
+  }
+}

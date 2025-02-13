@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "J'ai dit: Les toilettes sont cassées.",
+    "end": 84,
+    "index": 32,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=81s"
+  },
+  "thumbnail": {
+    "hash": "444273db90",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nBXLS0/bMAAA4IgktuMkjpu4jpuaOM2z6nNAq7YDSltGuyCNjSCBtB6Rxn2n7bbTpP3rie/+aVPFCEGmcSIctE74WrHEQyEGr7n6WRa/9/WgX3AbMgy7Nio8SzurhO0i29SvFP+xrI6T+DYJ2ljfZ92/L8dj80RDFjmIYdC2QIihdhdzQWxD1y5V8G0YXyk+j1oM6V8m5b9ff64vph44iTxbuJaPAIGm9lmyhQzmEVsn7WakblNxX0Z932km5dvjwzyNfWSGjsUwZBhRC2gVJ4q5nzK5lKwZyqdB9ybmyne3Y7W5GF+Pq9S1pIsJNH0LvAdOsWjhDsUjQc+jYJd2ZmEgHJRz0mFklqs6P92cCo6hDXQMdC2kNneMNFZn1WXiwX7bHYY0952UIgeb85g3w7ROuoPAI9B4D8QyykQ+Hw43528j9aBanJKOZKSIgnEarzK56YlDKrc9GWLoAF2ryvx+sXit98e751Hx/bDa9XvLabGqZx9ettuvH1cD7u2y6HGUZS2bQuM/s7s4GcMCVYAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/32.png",
+    "width": 1920
+  }
+}

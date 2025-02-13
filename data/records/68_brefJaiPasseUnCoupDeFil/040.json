@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Ouais, c'était pour savoir quelle fille... Attends, il y a Julien qui m'appelle.",
+    "end": 42,
+    "index": 23,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=40s"
+  },
+  "thumbnail": {
+    "hash": "c99dda29af",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXBW0/aUAAA4D5sTtEW2kNvtD3n0JbepJTSQrmVUcCVWEEjDOMlLtOpW+IyzfYwl0yWPW2v+8X7PgIzQC4UfCwHZVil8kMWnDTwaVP9dNCfYfQ4H/+5Or6fdpcN0ysJGy9yRBkAnQZdTU4cfZ8vZlD4Pkt+rWYfZ8nKMf5eHPy7WVx2/aOaufTNEEpEUkE3oXGXBBfp4MdyfDtp3k+i9Sr7eZ6tPOfD69bvxeQ0dN+3vYdRMK8ZRKrDpYNDY/c4zda3bx+z4Vngft1PZnHUt53LdLReTJ8Px0/T7pe9aM/WCVuErqxC5LW9VuCYV6NehPHQtihWEaH+sDx8ng++DVt3vcZ5y40rGoFkSy3X41rwbuD7ppGGgchwagmRQBQltCvKWJQ+x8HTpD11LcyKBEXyPIvOmtXrjqMoGLASDUocr5BAYBjBlFGBLK46wfUgrCkQMUXi5Qa9uQlUEWmClGeEHMV2mr1xPNopcHmae2ObfdOOGxEUYF0qHVU1wsSapRoCj2kgb5Hg1TYNUSWo1kmKJSlQ1SyO07e2hVyuKNBsQ5H+A1F7UyIsr0qPAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/23.png",
+    "width": 1920
+  }
+}

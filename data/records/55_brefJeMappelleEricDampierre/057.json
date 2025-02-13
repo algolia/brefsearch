@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "En gros, travailler plus pour gagner pareil.",
+    "end": 58,
+    "index": 29,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=57s"
+  },
+  "thumbnail": {
+    "hash": "856279ec3c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABEaIg4ZIS40PEo9RCMmLC0wNSYtNklOVFhJSkU7PxggJhEXHBMbIigtMzlARj5ESwALFR8UHSchKjUyMzsyMzobIigNFB1FTFZydH1YVVsoMTopMTknLTQiIylVXWViX2YAFhsjCxEZDRYfDBIbQzlDMTQ/HiYvMj1JMi45QTY+Pz5KPkpYOz1HNTA2OT5GUlZfAC8wNQAAAVlibG91f7KDjMqwvGJteTQ9R1JUXTImLy8iLDI7REJFTUFFTRQXIRsUHQBDR09ISVJtdoGak5yqsLq4vMhSWmY7Rk9baHNRVWNCSFQbGBo2OD6qtsCkp6yCg4sAQ0ZOUFlkTVdkcXyIWmNtLTY/UVxoWGZzVmR0SllnS1hjDA0SQ0lO1uTsoqelQUtTACgtNjI9ST9GUlxlckBFT0RLVWl0fz9PXjhMYSk3RyckLgwNFhUWH2ZpcV9pcxQcJgAXHicrN0RHT1s4P0tESFKBiZNmcXxOVV9MVFwnJi8cDhcaERsWDBUFAAYhJC4vN0AACAwUFh4pICcwFBojAgULEhQYLC81Q0lPSlJZIyIqBAMIBAQKBAMHAwIEDQ0TLzc/rG9vcx7LL0YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/29.png",
+    "width": 1920
+  }
+}

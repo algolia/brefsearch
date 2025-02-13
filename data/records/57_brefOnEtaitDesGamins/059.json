@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Allez, Oui.",
+    "end": 60,
+    "index": 23,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=59s"
+  },
+  "thumbnail": {
+    "hash": "43bf9a4035",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nAXB23KTQAAA0E0hLAvLZbnfQwIEEighhiIJZUwn6hidjJjW2j4Yx9EnfdAf8N89B5AxHeBxRpgAj1sHv0uMn30+FNaxmhyq+LCKLv31t9tiO3dextbNzAAapDMFWoj2eKZz8EZj/+7LP3fLU+W9rqLnXf5v6HNLUTjoy9zCkkBuCqFAKwzdOuQYG+9D8r1Ofu3iD0t1Heif62Q7NQ1IhQJMNOwIENxMiMfTKnN1CMixiLp4dp96v/v0cW01E9UUuREAlS58ufb3U23tELDP7FxDCnNVaWhIzUu3+rqenlL9eWM/ls7HzHUk3FrS0ypMNLEJVHCqo0iGEj3yuHGpsm8WwUM1a3TmqfZvffmcuT/6MiFoThBLUaWjgaFJSlspDNFmKYOlMUQJkV656NJMuthSJHKuS9cNsKhwFEUgBJ+26YvA8CU+lJDNMz6R3lZFquKHJm2zCABaVD0tKrEdyRwSIATn3WLlabWv2wK3MJX7prgcuqHdbJOonoU8GMkMDCWCGdTNvd0y+A+xZTp05DGF9AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/23.png",
+    "width": 1920
+  }
+}

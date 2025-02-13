@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je m'appelle... Non, attends.",
+    "end": 164,
+    "index": 59,
+    "start": 164,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=164s"
+  },
+  "thumbnail": {
+    "hash": "60b4bd17f7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nCXC31OacAAAcEIRRFTEOqfnj7mjg7LSVmgi00wE+yqIpIlLgynaabMtXbvzdrvO7ba37WG32/W6/3QP+9wHciHY/6gL9xIBDPVqqrFcPj6uf4zHi4l58366sMzZ0L4b2fPTogi5EAxxYogTdWME6Q86YLTZ6KxWX6ezh0G7/+fLt/XdYjm7n4zmg3ZfECqQA0YcMII4URQlEAQPh2KfPn///fPp4WY+1Du21rIAsNqGbU70mlIHCgRvOB2wC95ACNzLJOIGUH7Z87d8tZwrr29vx03tulbTxFpDurCuRi31EtqktiiCCFMUE41caWDdufx7zH3Y2XsWStha05TlXlWyu/2uPhjZ9yeHRagiFKNBSthjTlhaO82v7PEgwy8S8ZQ3QD9/IXNZgd3R24ZqvakbvWy+BBlKYzsW43e3JS4NcpmPU/tVuRnzhzkfmcQ8R5GIGE1WgbwPSkzpOCeLkCGJSoHPsnQ1e9jgj95dvz6vAB8V9xCbcY9f9JO7wQhzUGx1p3V9WG+Z0NnLjMrnCylWOEgpBa4HJDrJBsgw7ibdKJHGiZBvK0mnK8AonfeEM/Ufxk9lLgedqaQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/59.png",
+    "width": 1920
+  }
+}

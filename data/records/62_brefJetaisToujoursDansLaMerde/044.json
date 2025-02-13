@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Attention, pas tropPutain. Alors qu'on n'était pas encore partis.",
+    "end": 46,
+    "index": 17,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=44s"
+  },
+  "thumbnail": {
+    "hash": "fb1fe027ed",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGpjYWVhYFNRVFpdZUhSWDxFSTk5Qjg0OzkzNy4pLxsbJXp4fp+anoOBhGtrb0pNVQBGQ0w+PkpDR1WMi5M7PEs1M0BIQUk/ODxCOT9AOD0mIit8e4Gqp6qYlZmVkZV7eXwAMzVFNDpMam16mZadQD9OUEtVS0RLMiw2QTY9ODE5IB0meHd9rKqvn5yinZmflJCVADY5SjU7UH5/jaOgqF9YZF5WXVNKT0I5QEE2PS8oMCciKTY3QnN4g3J2f4SFjJqXnAA0OUxBRVqRkJuFhZJNSVdlWl9ZS1JPP0ZEOD45MTYuKTEGCRpZW2d6eoRZXWlrbHUALzRISExijYuXUldsJy1DWk9WWktSTD9GOjA5Ni01KSYwCQ8jEhsvLjRKNTtMKjFAAB0mOj9IYT5HYiUzUCIqQllMU1RJT1FGTEo/Rjw1PB4eLAYNIQYOJAEIHAADFAADEgAoMUY1PVcmMlARIUAvNEZcTFFRQ0lKQ0lJQEc3MjsTFycGDSEMEysNEyYIDx8GCxoAQkhbSVBiKjVMCxUuLTJBRDxCTTtBSz9EPTU7MSsyISQyFBkqCxEjDRQoCxAiCQsaZid7VMeBGBYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/17.png",
+    "width": 1920
+  }
+}

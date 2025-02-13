@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Elle crie ouais. Elle range alors qu'on est encore là.",
+    "end": 47,
+    "index": 20,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=44s"
+  },
+  "thumbnail": {
+    "hash": "04f5476c45",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nBXLW0/TYAAA0E/9emfrellb1m5za9e13ezW3Vs6LmUr4kAngzHEKGEaQg0JJjKNBiMGHjAGEh/kwTd/qfG8HyAzdJFn6xL/5+TzzXH0brB0sfP8zWJIk5RIJw774cXWaj2ddDNSnCQhxEBXVRqyqPL8XXQ6aRk/d4Pb7aXIdxZ0rSrLx8HKx8fuqPJwWtUycRpFcEASVJ5jN3X1aNk/aJtnT/yToHnQLjcUkUAQN6vs1EpjJ79n5VSajpEkIHDqAYK5BX2tVHzrWtejlW8bfrRgO7JAoKgpieu2rfFMJy1VJH4+HgMERqIokeIEL5vZtNVfu70vQe2wXiyJfIKaUxL0YkEVWa6ZEUflbKBJAEVwHCPBPWgI3Ium+aHX2K/qTTk5LucHjp1OCjYf7+jaRs0472rnjgwQiKEQ01PzX18Or8ers34rLKRNgXtVV6+edj3LMlhaTnCvi9LfVup9jgEAQFMWv4/Xfp9Obybh7STcb1leTpz1G5cDb+hY/Bxt8OyZKdhMDEPx/6GTVz49W76c7l1tBT+2e0f+o6GdmfXakVdZLxUgxJIUxZAUuI9CiP0DvOJSNLrjYnQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/20.png",
+    "width": 1920
+  }
+}

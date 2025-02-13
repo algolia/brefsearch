@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "C'était qui ? C'était personne.",
+    "end": 76,
+    "index": 34,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=75s"
+  },
+  "thumbnail": {
+    "hash": "97a0745308",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXBbVOaAAAAYO7K4l0lUTwuAiQFu53TEkUGDUllNDXaLtDWKNGmE9vS29J2bbtud9vt424/uOcBtGLBlMtWrfpKVdovDz1TlbPbspSz5VKnJo+aR+Nja9Q0/bp+YWiepgD1g5L9onZi6G9Mo2dbvY4lS5lxp/UveHtWKQwvLn+tvq0+zxcfwzAIhud9oFnZPzU0t2F4zfq745atK5qUW/acO8dqirzffv17ufz+6eZ+Or0NBuO+BxzVlMah0TYbZ1Zr5vu+4+RZ5qfvLjqWLQl3l+8fF/OHm9kqnM6HweS8D5SV1t5zrVJrq3p30L8Kg0me47tq1ZH3RSoZuO7DbPr1evTlw/Xt4GrS8wCGfZbZLfFssSDJPJNlaB6PJhE0XskJNEltJegsKxRy+TwviFwmu8MB0u4elebTFEeS21sJmoiRZIKultV5OOcYIU7QDC2kUwyGxmEQQSEUEOk0CGEbILK2CeNRMhpLGYr+eP/j75//3VZnh+YzbC5Fpok4CUEoAmMADKHrEXAtAm1ACIzgIse7hqqJfOOgqJWr0Ri1CeMYRiSJ1HoExGD8Ccl6YovQ14aMAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/34.png",
+    "width": 1920
+  }
+}

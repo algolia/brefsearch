@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Je me disais que si je me posais la question, c'était mauvais signe.",
+    "end": 45,
+    "index": 18,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=42s"
+  },
+  "thumbnail": {
+    "hash": "7d8e4d0db2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nC3N61OaAAAAcL6sHJkPHvIoFUaIGk8pl6IZlI8yTUAgKbApes7t0jvb3W77tP3lu932B/zuB3ju1LafW1VtPXaCm+v+mSpyPMcKVeGsLSoFnEzG03EwAb4/iO2De+9iwEv42bbCnnb1FkzH9YtJ42NdEBrVWqepj2ra1QcGPfwH4v9BNN/M/GhtWRNDt7W6p10YFWXQvXOGlt25uy2VCiiWiKfA2N9hfw8EFtE2Clc733+1HlaD+2XHGBu6PbB80302vR4vygSZx8j0YTp5kECSELBcbINwtZiEm7Hl1GrdMjc0rqeP4Xjk+u5j61S44fmmKBdzVOE4W6TzwPJpPvOj3cNw3u/dikJHkqJg8fPb7+3rzrQGIsNZun5/2ayUOJ5lTqgcMGPyG1X6XqY/ldgWnjFl9cfbr7UXvJiu29UbiqxVpHOhzNEUdUwSGArYGPyVJr8wWQdDTAwdofBc1532sN9sXaqSclpkqXyOJEgsgyEwDEGAc4Q9ZfGIJr0j3GdpRyq1FUE7V+Uyd0LlsgROZNAMgsAQDKXSqUTyD3MVXmr2YSDvAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/18.png",
+    "width": 1920
+  }
+}

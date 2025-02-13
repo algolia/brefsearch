@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "J'ai eu un miracle.",
+    "end": 35,
+    "index": 13,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=34s"
+  },
+  "thumbnail": {
+    "hash": "db8fa78ea6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBbVPSAAAA4P0CJRSawpCN1w3YGB2DzTa2AecUWImIOE09XsZqmW28nF2YRecg0wu50+jOO7rrrm/9x54HWHMsOxcXcMSfIp4xyRSVSPNcTtnM7bBJkYztivRxuSSJ4hbLyhkuJ+aB0CqIgE4CgSU6zeAkFSEI2Gdpx/OPp73d4tDQHqxP5c0tVdWNs45ckIFkACF9SBzxvuCFLC1QYZwJYcP24fhto7+/883U/tzfDMyzrnk+sq5rlT0gtuYmYK/f6SgxaSkjUZHEOoZOzdavvv7Y1+8M9ed48Hc20dV6t2sqVQVAlpeiHrfvqZNGg9usQEeSG3x21ms8vGvPDNVq7U0v3v97vP0x+jy+vjmoHQAeu42EPajLlfBClaxYYbiKVDo/LAyPql9eld9spCa95nejcaWfzOe/NVUDXLaFBAzFvR4OC+UThEzTTZEf1bczQU+RREcnxctm+evLvMWSt3qjpb4GgqAz4l5hQgiPR4VIuOOHJmR42qrus/Eqhd6dKh+qeRNDOgh0GcfaPAegqyC0ZEfdK8+jYSrgq2P+AYkOC4Kyjhsye6XVdDrWAZ9ItsUjh/0iGvgPNjZ/W+w8+uEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/13.png",
+    "width": 1920
+  }
+}

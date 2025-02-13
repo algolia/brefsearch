@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Ils ont pas dormi, moi non plus. Et le lendemain...",
+    "end": 89,
+    "index": 37,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=85s"
+  },
+  "thumbnail": {
+    "hash": "7530a0a1ce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZElEQVR4nB3LSVLbQBQAUK1ALWGpR3X/nmVrtGyBPGAKG5yiskhlyQFy/2Okkrd/SYYELiwpHcO+EhtQPchGQ2ftDmAI9bkZfxq3SNFw3qC0TBCiFAdOIye1hiH4Obid9xOIxsI4Hb8Ptz8hLFpvlZooH5I8Y4zESmxU1RkYQ9jH+GLt1lZdv75My+/p+de6ebNuMfZAyDrJEeOsVlWroTcwgexXK42xKZ6A4khZ2/b3pvv08c2Gd0K7JMv4/9AYGJydvJ0xtmlaUTFzdcxXHdhLvXn39dXW9wqWf4GRKGWnYXBuH8Kz93uUQykG406YDs6dY3N38erXX9rdkgwxQqIQrVKDhsm6WesRIUFJbc1Rm5NzZxeuOtxM+LD1V5IhXuJASS1EJ+Wo1LYSLUopSqssrzHdKXgB+6rMRZpXE38kWSaLwpVloHTNWMN5T2lMH8njA0tT81S0lZqlPih9kvpk/MdfXxsxXCM5HzQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/37.png",
+    "width": 1920
+  }
+}

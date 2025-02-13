@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'ai appuyé sur le bouton, ça a pas marché.",
+    "end": 22,
+    "index": 10,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=20s"
+  },
+  "thumbnail": {
+    "hash": "e9044b30ac",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABTElEQVR4nDWPsU5VQRCGV4t7dvf/Z2Z3zt1zuYA3JIpEJEBBqLDB0koLjS9gqXSG2NHY2RNLO/UJfAVq4yNY+grmnAvJn8kk8/0z8wcTmFKQlFmRx3onExRlNakmRbnuw3rGHIm0VkbMiGSSyeMTPe6dFG6h3AERiMq8ar50E+aMjohV0ExdperoDCpZBWQiE3LsTXaXw4N5XVRzI1LnxKDolS7jneDFmtdSVJVEasWGanPTDS/HO9vNdEKhyIIkSMGMRBdn9+LsPsYHWJCrsAr3NtuiWq8ovKUFOZjJo8dPnxydnZ6/NWHsZgfbG/ubw1yw1RedghaVYlQFmcOL1xfvPv348OXm6vu/8+cvT1aLVyeHz/Z29reGwU1N3M3dzETGqDm8//zr4/Xvy69/Lr/9vbj6+eb04Gi1fLjoV63Wou6lNe/7YiYkAfwHtBwqU/wC/QMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/10.png",
+    "width": 1920
+  }
+}

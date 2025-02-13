@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Kheiron m'a envoyé: T'es encore en train de te branler ?",
+    "end": 93,
+    "index": 45,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=92s"
+  },
+  "thumbnail": {
+    "hash": "f7e3a76a79",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nDWKW0siYRzG32/lJ9C72NsoxJu0iSG27r0RN0alkTJ2wR1cxA3XycltI6UihjCkFGMI0QhchOnClRkUSuc9zOG/TLv9eHgO8KDTX2erK6tLSx+Wl1e2trbX1qK5XC6dTgcCAV1/Pj6u7e3tb25+jMW49Rj3KbmDHgdPlR/y0VG1UpElSZJlWRCEwhuapo3HY0EQNjgu/+VzMrlzeXGFCKbwD+89vf9N13XLshzGrtvd0QsBAMOcoULhW6/XK5fLqqqWSqV6va6qarFY7HQ68Xi8P3gEgNsJTT28ArDXBUH5fD4ajfI8HwwGU6kUz/Mcx2UymVAoFA6Hv0oSUOvsaZJ8WADYFqao3x+I4m42mxVFsdlsNhqNRCIRiUQO3vh5ciIflr5f3Jz/8cChC4sg05x5Hti27bouYwwA2u22oigYY8dxXNf13Rezbdswpui+q00mJiHsHep5LgBQSv1Bqc38KyHMMKb3XQ0p1Vrr5vb3cGSa0/ncIoRiTDDGlPpvQuhibpnmbDgctVp3SrX2FzY2SwUG66XtAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/45.png",
+    "width": 1920
+  }
+}

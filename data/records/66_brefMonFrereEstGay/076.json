@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Bref, mon frère est comme tout le monde.",
+    "end": 81,
+    "index": 38,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=76s"
+  },
+  "thumbnail": {
+    "hash": "9260955dd0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nBXL33OScAAAcJ7MmUNw/BDoC05hU1FCybGVygo2Orvb3HY5dw7SHIiCCk3WZWftoZf+667P+weSSMx8Xb7/0B6b+l1L/XysDG8H45EzGj2400XfDozuwLxd1ZqmeNJjqzok4lkV0JeK9HCmRTcX3kd9ct1zZ6HjLl0v+hr9Na1ftVNLUD4VxI6oWZBWLtYpUgVUTxYdve13DVs7nn4Ze/7a9UJv/uh/e+6P42bnGggqzUmQJuTPJPFtSXhD57oV4VIWe3LZ1tvBPFxGGy948uaxHzw5/qbbnx/IBlTCsdYhb9RKdTpXzxFtnnt/kL9pVK+01nBghY/bRbT1lxt/9TOItrazhlgU4UlCZqjGK1ogSZUDCgskhuEIgufYrmEGi+/xjz+r9W8/3DqzGMJgOJ3cwTMISzHkHg5QlMUxFsfyewjIogWaaimKfT8J4+fZcmNPVtBuKpVMJNOplxiMkHAGoOghnlVo/N0+cwRIHvv/q3nu/FQf2tM7y4OQ5ItMIkGkdsBuuohmRAKtU9gRyJ2UK83ifoMh+CxMpNM0AlcKhU7H+AdrzWVYzyMUcwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/38.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Mais dans ma tête, il ressemblait à ça.",
+    "end": 53,
+    "index": 25,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=52s"
+  },
+  "thumbnail": {
+    "hash": "d123249832",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdklEQVR4nD2Pb2+aUBjF+dj7Dmv2YpsxXcwyN3W1yUarJe1qRWm1A0SnCANvufcC9w/3XsDPsIymTc6LJyfn95wc7funE/3bx8lF9/f0p+/cgt09jpwcrLPDCkc22Fq+ffM4Ob/90dG/vh923mqXg7Z1M/SdSXrYFNlBEiBpUnJUcqRYouhTevgTbxd7Z2IZ/cveB21mDALPzJOdpLDkacmzkqe1ILWgVZGVHEuGJIEUhcHqbnbV12xTR5Er/j+GiuFakKogtSBHSWtBXmCiGMLx2rVG2nphZE9bxaBiSDHUlKSS4qrIn6NHSY+SljzNob9ZXmvO7AJHa0mTV6Aq8kakFnktmpvnksIUbFxrrJlX/WA1JXD/wuDnkmZAqhhqfMhQGHrm3Ohpo0H7/nq4d+9w7PH0r6SJIEAxWDVpQYDIo3g7n45O58bZeNDSzjoneq/1S/9im3rgToG/RKEd7R7C/QLHHvCXgWea42639Ubvtc8/v/sHv2ljabFvUQMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/25.png",
+    "width": 1920
+  }
+}

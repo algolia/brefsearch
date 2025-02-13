@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "On m'avait proposé dix soirées. Je n'avais pas laquelle choisir.",
+    "end": 4,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=3s"
+  },
+  "thumbnail": {
+    "hash": "9d4d7efcca",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nCWPy27TQABF55f4AT6DJSvYIaHwEjs2KMkCsQGpEqJCSOUlhBAVVLQkTRPzSGpImuZRe9LWSuo6dmI6iTONxzPjXER61vfo6pD8yvq1W/lLl688yK58N7tFY2+vO9io2K8+1d5+qT9+aWSfFZ6sVZ4+f//h4/rnrwUSTdmd2xlCSD6XAxBNWZpqLFlopaRUSgFwaHerUDJ+mYTz+O69+0vhISDZZML5TIg5kG4VN69evzFhEwCeNzT/NNtdSqTUO8Vv7968dt1+qkIejeZ8LM8DIDSr5Vz2kRAxgH6/T3vOwPWJUppatFn/7fR61LITqROZiFgACJzjTsWIZjMAg0MajsaTaE6EiKntbG6UGuau555olWqldZoCmEbR9naJMQbAtizneBD+jUjgj6PpjM/OpZQXrf9zFwsAQ897sboaBAGAWr3Z6vRO3IBQeuj7o3k811pf7ACky4dyeSeTuem6rta61erUdhvN/QNSb+y32we9o6PTU+/sjHHOhRBJkkgpOedhOGaMDYe+ZVPjR/Vn1fwHfHRuf10BOFQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/02.png",
+    "width": 1920
+  }
+}

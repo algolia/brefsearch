@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Bref, je suis allé à l'as mariage.",
+    "end": 88,
+    "index": 35,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=87s"
+  },
+  "thumbnail": {
+    "hash": "7a59802119",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABc0lEQVR4nBXQyW7TQAAA0ElFWzmbZ/Esns32eLzOJHGaKmGrUkSFgFvVSwUSEhzg//8A5QPe5YF8PTdo1XLSMBIU29l8lHyj8zpDiyvgMXyO/u+78fcpFDC5fgNASdKGoqhYkOyuVIdSBck3RnqKl1ezCqGzsy/b+texH9nKwTloGeo4joqPkk1W7q0cJd8aWTM8n4GOwKemeHT638f4rdc/BncBLUNBsT7PguR7K4MSmwsgyQxMInvd+p/T8OfUPkf7YATwFDYUjjLrOAlKHJ3Zmjwa5ShZzAC5vZk4Ppf8k6OPjkeegYqkjsBeZA0jg+SHygSdB6M8p3QBFcodhnp9q1bX54p93x9ARdYVSRuGPcWdoNHkgxLBaC+9JLbkjabaYrST9EuMX+8fQJ5eWmuKaopbQaPOo5W9LkreeNXWsi+4G6SaCvc+3H/efwAouaHLxJJ1kUHPSdBiV+pGlp0ZT+Pbu/bY6rhMUkFErMZY9v8Bh9Y04dAD9VQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/35.png",
+    "width": 1920
+  }
+}

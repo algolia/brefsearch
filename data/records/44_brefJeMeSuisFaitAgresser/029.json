@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Je lui aurais pris la gorge, je m'aurais intercepté avec sa main, je\nlui aurais broyé la troisième phalange et je lui aurais dit de chanter en italien.",
+    "end": 33,
+    "index": 11,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=29s"
+  },
+  "thumbnail": {
+    "hash": "d89db376dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE5OT0tIQk4+ME5FPWx5f2VeVVpINlNLQ3VnXXhrXWJaUGVeVHFoWXhwYmJZTWJfWQBNV2BPU1RTS0NiZ2RpdnlgWlNiWlBBNC6cfGtDMy8SDxIEBgkyLyuFe2puZFVua2UATk9LNTIsUFBOREpOHCIlUFFOgXVug2JQbVNFCwwQBwkMBAUJBwgLdWxdenBcdHBpAD9CPj05MTQ2Mjk4NVtZVIODfop8cIBiTmVGOQwMDgIEBwEBBBAQEXtxYXNnU3BqXwBZT0lQS0NEPzpWU1C2uLW7vLuklIlLNitMOTE7MS4NDA0AAAFDPzqPh3h6cmV4b2IARCsmQz02QkE7mpqYtbW3rK+wpaWodm1rb2tnd2phQDEoExIUMS4qX1dKa2JTdm9lAEtNShcVEUdIR6uqq5manKamqpmlo36TjVtYWSQiJBMSFQ0MDwQFCQ0MEDArJ1ZMPwAlJSQKCQhubm+UlZl9fYGbm59dkHodNy0bFhsRERQMDRAICQwJCgwICQsDBAhJRD0AAAAAKSopYlRMY1ZTbm5zhYmMPlJMEQ4SFBMWCwwPBwgLBgcKBQYJBgcKAAADLConHJB9NMcK78EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/11.png",
+    "width": 1920
+  }
+}

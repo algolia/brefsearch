@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Bref, maintenant que j'étais seul, je voulais revoir la serveuse\navec qui j'avais couché récemment. J'ai donc dû envoyer un texto.",
+    "end": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=1s"
+  },
+  "thumbnail": {
+    "hash": "53adb4bf5d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdwaIN6cIeAd4uEfZKLhZOMhpGHgpySjXxuaHFYT3BkXZGMh4mCfYV+eX9/fnFtagB4cWuGfnSQiYKUjomZk5CZlJGclpSspaKLc2qwhHR5ZFuVlJKLh4R7cWw9LSo6KCIAeHBre3Rtcm5tgH5+o6GgqKams66weXV3eWFYnnhrU0I8bW5wm5qbPDY7LyIhLiEhAH10cGJdWxMYJDg7RZ2Zmba0tl9fYwUFC0w9OXhbUiMYGQcIDm5ucycmMRgVHBcVHABQS0lTT08uMTkrLTdxbW2GgoUjISYKDRM8GhldIxwaDA8UFRo5Nz0dGyYWExwVERkAMy4sWlRPRUE/AAAEWFVYcmxwNC82CAoQWEBEm0ZBMxYXJyowR0FGLS44GRYePzcuAB8bHFdRTm9rYXFuXXl0blROVUA8QCkmK1BJU3VGTkkdHTAyM0I8QlNORmleQ3ptRQB+eWa1sJDf2a3x6rippIZAO0FBPkNfU1WOaWGNWVRgQEA+Oz45MzpTSjqMe0mBcUQAysWdxL6WvraNqqN9amhVJSoyExYeKyIlhWFaimRbUUFAFxYbGRkiLS4ue25Ij4FV+ZuZnrVEQT4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/00.png",
+    "width": 1920
+  }
+}

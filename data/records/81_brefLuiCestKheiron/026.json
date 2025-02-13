@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "J'étais pas bien.",
+    "end": 27,
+    "index": 8,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=26s"
+  },
+  "thumbnail": {
+    "hash": "2988059ca3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC4lLkpJS09OS0JFSDc4PEZOWlddZRsWFR4XFiAZFiMZGB4WFBwWFRgWFBIPDUZAPgAaFRs6OTpBQDwzNzo2O0A6PUA+QEMnIiE4JiMpHR08KylNMy8wIB0XFBIMCQdbV1QAEBEUMTEzPj47XV5dbGxqcG1rTVJUYE9KnG1gcUpEelBLbkhBWjs0OiQhIhgXVlJQACAhI0ZGSE1MTVtaV2JgXmViXldZVmFTTXFORZRlWoFRSVs4NGxGPUQsKBcTEmBYUwA6ODdGRkRMTEtPUE9RUU9bWFNiXllrYVpfOThkQTxlRD95U01zTERHMSstLCxBPjwALCwuMjI0Nzc4PT4+PDw8OTk4RkNAR0VBNyspVDUxjGZannlneVNGWUE8bmpqWFhaACMkJy8wMzU2OTg5PDs8PzQ1OCwtMCkqLXd3dKCDd5FmVpBpV3JMQFZEQH11cY6KhwAgISQpKi0vMDMyMzc3ODs2NzljY2OUkpC4t7Kljn+IXEuVbFlsRztPQD6Vj4qWlJIAGRodGxwfHR4hICEkJCUoeHh3tLKuuba0rq6qlHxxiVpIjF9MYj4xXE9Nm5mYlZOTZhF9jZsebI4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/08.png",
+    "width": 1920
+  }
+}

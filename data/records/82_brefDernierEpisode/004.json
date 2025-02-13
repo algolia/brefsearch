@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "J'étais déjà passé 117 fois exactement devant ce parc sans jamais y entrer.",
+    "end": 6,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=4s"
+  },
+  "thumbnail": {
+    "hash": "f2fdac9b91",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFJMRVRMR2ljXlBILj43FkU8HUY9HVxTLnBnNXBwMV9dLYGAS21qMYaEVXl5RGVlNQBbU0tdU0x0bmlLPy1KPRxOQyBTTyR6W0F4WDp9fDd1eiteYBxXVyFTTx5YVSBCPxgAc3Rxfnx8g314VUg4QjgcVU4lV1IsWjknX0IuX1sxUk8jYFwvV1QwTEktRUIoTksvAIeGhJOSlJyXk21iVz83Iz40IysdGTguOTUpKS8hGUM7M05HMDw2ID06JUM/KTcwIgCQhneckYaglIhrXldMRkI1LywhEg0yLTktJCgwHxZFQDk1MCwvKCUxLCdPTThFQjEAc2VTemhVhW9bbldGWUw5LSMbHRAONyQeOywqKxsWQTonP0AzPjw1PDkvSEUyQT8tAFxSPId2ZpuFcZ2Ebp+Ia1FAMxkMCSgmNC02UysdGVdOM2dkQVxZOlRSMkpHKEQ/JABEQSuEeGmqm4yqmoq8q5uGdmgoGBUqL0oqN100JiaUgmudjXOJeGB8b1N0Z01wX0oAGRYNb2ZbopWJoZSIqp2RqJyQSjs1IBkeIRwkYE9KqpyPp5iLn4+BmIh5koJ1jHtu5haI3CLeGNcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/02.png",
+    "width": 1920
+  }
+}

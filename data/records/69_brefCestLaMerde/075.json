@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "J'avais ma réponse. La chorégraphie pouvait reprendre.",
+    "end": 77,
+    "index": 30,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=75s"
+  },
+  "thumbnail": {
+    "hash": "0417f8dcd8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nAXBOY+UUAAAYEoTY+LMkuF4HAMPZhjuexmugccD5gEbNRk3W1mZaIwmJlbbaGGhVmthYWEs/Z1+H8WsroqibE41amqMmrYqXdPQALcT+MCx+66dJ9IPA5REsHqisjSVmg6Z5omcB9yiuoh91xBAvtMyTVWYTRyFZOwxQgrgZfrpXmCoAeFlWci5x02VJ+EBKoEqB7IYKfIBcJqiDF3b41aXBMisbYmjCFkIIX3XVnkae7YuCZGutp7bmodC1xyodqeiO5UQsHt+48g8Rci0LDNGdZFGoX0wZNGSwJSl96/f3E3E3+ttkcWuRT9+BJmVpwBqnuebZe67Jk9Cz9B3ElDZjbOVXl1uP737kIf+MfBsuI1tO9xrrkBT4zhMZJzOw4g7Z6dJDK1xjMpulqZ5+Pp9yY/Xqvwctb9+/v77598FVRTuUHMq8yRKXUsXBcizpiQYgEOB/7LDlWUme/1Zhz6+ff/j28Pn+y9UmWfHJL4OfcgzkGVMWfQUGbKMcLXe0mtDBJYi+5pSe9aYZ5ebF/8BHbVZ63UyyeYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/30.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Ça faisait pas effet.",
+    "end": 87,
+    "index": 41,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=86s"
+  },
+  "thumbnail": {
+    "hash": "9aa19f4c3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE1GT2BhaniAhoCDh3h4e05GS0tCRYWEiIF/hEVIUD5MZoB/gIh5W3hxYnV1fWtfXgBqcH+DiZSIkJdKQECDgYOOjZOAgougoaWCho8pKzkxMD6OiIZ0VjF6bFJ+fYNiWFwAfI2bhJWgVGNrPDM0aW91nq29l6e3i5WiLC40NS4mSkdPe3p+WkFEc2VjfHBnYF1iAFhpeW1xeUlPUjNARk1GRIhxVJZ+XD89Px0bF0I1HyAjLjw9RCUkLDcuLW1RNmdiYgCSnaeTkpdWVFlSTVhlUkyBWSiPYSg9NC86Pj85OTUzO0wxND4YFh0SERgxKyxHRk0AdoWSKTpTQjc+Lys4LDE/ZU43ZlM/M0BQOTQ6PTY8MURaKSw1ExMZERAXJyw4OEVaAFRkdB4mMxIVHhwiLRwgK0RDR0dITSQtOR4fIxwdIB0mNTtKYDJDXCw8VDpLY0hbdQBVdpVAVm0RFiMoMkAiKDUpMT4nMT4cKDclLz8fKDckMkZMY4RLZ4lKZYVNYHpEVWwAPmaKNFVzNFl6QWqPOF2COmOLP2+aVFtsOVJyOll7UlFeRV+CQ1+BRV99Rlp2PFBr0aCNNf7qyTkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/41.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "C'est pour ça qu'ils ont mis l'italien dessus.",
+    "end": 57,
+    "index": 29,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=55s"
+  },
+  "thumbnail": {
+    "hash": "a5adef4438",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHx0gIJ3gmVbW5CLnqCcsKmWm7CgnbuywLCLja98cIxzdz42OT80LzYsLREKDhoSFACZkaOglpeAa0mFdmSZkJOqnZ2yopu/tcGxqqyRioFQPDVJLycwIyIlGhwOBQwTChAAoY2du7O1m4JjoZZ9qqSlqpuZrp6SvLK7r7O8eHt6UTUumWtcgV9YOiclGQ0REgcNAKeZobyztqGQeKKZhq6qt6udnK+dkLqvt6ukrYF3eGpIPHpVSn9dU0w0L0QqKD4kJQC+udC4sMC3sLqyrcqekqaqmJaum468sLivqLeNhIRpRjuIX1J9W1B6a3RVPDlTMi4AsanNxcDmsaXCh2NjnIiQqZiSrZaEq5ibbGh6RUFFRCwqWz44RjQxYV1gUkA6OyIfAK+o0qmivmI3LYM8HKiRlqOJgqyNeVI5OAwKFh0PFkcsJkozLTAjKDAsNFFIRCcXFACln8WRgn5jPiN9Tj+toK2WaGh5RzwoGh8NChU/KCtmQDhILi8WEBoaFB4mICg0IyQAVkpupZuaclc+j4OJmpKlnIiDiF5PFwgOGRUlUEBTVD9GHRYhFQ8aGxQeGxYgHhghhg6ytE6ct8EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/29.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Lui, c'est mon frère. Il a toujours été là pour moi.",
+    "end": 6,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=4s"
+  },
+  "thumbnail": {
+    "hash": "d7e1a8f9fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nBXPaW/SYAAA4CYeC0JLaVd7nxR6UEpbamEtvOsY9IAhDBGHO6Juznhkicd0xm8m+skjfvUf7F8an3/wQJHdFksoVUKBZcyiQKdJuoIWC6WWzDwadMb97jofnY9HgSrduHmLQ8tQ1HRlGGNhNPHdjweL30/mfy9O4qZOlMurIXg+zf58ePv58dLhGZXAgSRAWQg0ZJO8g7iK8hCE78bg29H9q2Vq8OxytP00G/58/fKw3+3Kwk5N6rAUtExyAyGoIqKz3JvZ+Nfp6vry7PrT+eU8mYKtdbb75Xid2aZG3Y0kwaMp6GAykzdgbKMA3y6s496Lna0fR9Pvx9N5v7sHorMH82d50mBItlJxOXqgKdDJYtVTrdgLwqaXeM6ibR+Gzukw3I97vuPkADQlgUBgpoL6AjcyqtDVxXtPqttiVSLo1KzvtS1foL+u8ldp4tXMySDxrRaBwDyOB/8bItQzWxKK40WYhFGH4/YdMzXqE8ueNe6lpquyQo2XdVkPVGVbq4kYAbU53ud5pozLONWguI6kuHy1I9ZjtSGRDALD5CbLkLLGsHQFQxHsH2D8Vqx2itV1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/01.png",
+    "width": 1920
+  }
+}

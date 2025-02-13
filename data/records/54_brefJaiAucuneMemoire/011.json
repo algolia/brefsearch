@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "C'est pour qui le paquet dans la chambre ? À ton avis.",
+    "end": 13,
+    "index": 4,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=11s"
+  },
+  "thumbnail": {
+    "hash": "ea3f9db967",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXBWVPTQAAA4IwjtiUdxXC046SAwDikpJt7k825mzTJbpLm6AEVEWZkRN/1wT/gMY4/2u/jcEiG/d3T0ZGvKXfL5cNm/eXT4/dvP0IHvR0dvBGEwfPey15/sDMQeH68L3BNUTtnIjXkr/d3uY8iQ6VR8Pvn3z+//slnp9LJ5Pjw8IDnX/X5vcHuWNjjkjA2xHHrqE8ftk+3N59vNu8XReZaXZYEmkYsA1u6dSWJ+8JrnheHQ87SbU2SkHzpa7PUsXIEN0X+sFk9brc0s7GrxQiWOMS2zff64oseB2QT+zECUxdMAw34quyps0BTSgqvP4bre0xTtyLktmt9y5482+EQDBwrcFXV10Bk6gSaiQMDHTjwJMQX6yWpMlzEhBHcFsUcQk56N9NVO/F8TwUEmqmHWBRUJCpxSLHb5POO5i2jLWM1pau65WQJMFY35cKeXWFoFjjs8qzN0o7m14vFuqq6gnUFaxijSRoil6vKpq1XHvKgAhxVIchJw2AeeLGHIgf6lgEVoEqX04vz8+OJODr6D3ipYQiaJARyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/04.png",
+    "width": 1920
+  }
+}

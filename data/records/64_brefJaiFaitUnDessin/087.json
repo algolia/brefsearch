@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Et on va t'acheter un vélo..",
+    "end": 89,
+    "index": 37,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=87s"
+  },
+  "thumbnail": {
+    "hash": "f8aaaab42d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGdUTmdTTWZPRk02LTonIjomIUYyKk4zKU8qGlAsHEwvI2pSSnFXTmlTS2NORV1IPwBrVlBqVU1oTUJHMSliQzdePzFQMylXOS5KKRszIh4oGhgxIB5mUEhyWlFjTkdgSUEAbVdOcFhRakw/WDktWjgrWzswX0A1VjkuMx8ZKBwbLh8dKBoZMyUiW0Q+STQwVkE4AG9YT3BXT2dHOEgrIIFdUKN7bX1bT1EuIzMhHzIiIDAiHyIXFx0VFFlDP2FKRFpEPACDb2iYh4KUfnZyWlJrRzt3T0SRfXtoYGkzIiE1Ih8xIiAdEhFDLymGbmhVOjc+JyYAloqHu7CtvrOwxrm1mH53fmZgkpalZXGIPjM4WDcvRS0qJyEoW05ThXFtUD07Yk5MAGthX4R5eK+koryysbWpppeWoX+MpnZ+lUNGWEQ5QUZCT1Vbb2dxiG9teEUtLV4yMQCBc3BgVFNqXl5yZ2VqaHGAg5RycX51gJhqdItSXXV3g5xeY3VGRlRTXHE0HyRqIyIAaE9JY1JPd2tqd21sV1logGlmpYJ0dnqMgImfiYqXh4SPfoeafISWZ3GEMis0YygnXG+Sq+AI4xQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/37.png",
+    "width": 1920
+  }
+}

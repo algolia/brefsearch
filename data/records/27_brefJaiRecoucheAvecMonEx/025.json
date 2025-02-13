@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Je l'ai dit à ma cousine, t'es pas du tout d'accord.",
+    "end": 28,
+    "index": 13,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=25s"
+  },
+  "thumbnail": {
+    "hash": "83258b376a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIZ+fAQAAEg+PKCSjJiKgpyDdayZkce9vNTMy9rSz7OjmmhUTmVXVL60sqedmpSIhAB3cHIcFBZNQ0KllY6vopubblx9W1Ccjo3Vy8rTzMm2p6F/XVIqGxl8cnK7sa6poJ0AMykuQzg/QjU7Wk1PvbO4h3BrW0I5Z1NMzMLCz8XF2M7MbWFeEQgGFg0MV0tIi3JnAEU3Nh4VGCAUFlJITZ6RmHJYUk8+NVhORbWnp46CgUU5Nx0SDw8IBhILCRwOClcgCgBfSkJrW1xmW2JmW2JrZWyBdXN7a2Wxopq8rqWvpqA2NT8fGx4cFRUTCwgUDgxEHhMAWEM6fGNbjmxeb01AUz04ioF+jIJ9l4h+n4p7l4N7PTtDDhEXGBUYFQwKEQoJJBINAFA8Mn9IPoUpE5MzHGYoGQ0IBxAFAkc1Ll5GP1grH0gkGxARFh4VEyIXEiMaEUUsHAAuIBstEw5aAgNmBAY8HxpOPzhhRz1nTEBqUUZZOC8/IBgODA0mGxYnHhAxKxRlT0IAFwgDJhgPTBEMYQ8NbFZNl4iBj29sVSEWUCQXVDIoRjUsNicgPSwiMyMWPy8iSTgtueWMzG94KuEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/13.png",
+    "width": 1920
+  }
+}

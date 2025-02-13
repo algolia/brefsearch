@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Et le parano. C'est parce que je suis gay, c'est ça ?",
+    "end": 37,
+    "index": 21,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=35s"
+  },
+  "thumbnail": {
+    "hash": "552ee70967",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABh0lEQVR4nAXB23LSQAAA0LUCk5AEdjd7z2V3ExISSLm0EEFIW+tQZhy1nfGhdab+Qh999slf8Hc9B0SEe44XuAH0xiGiNs2mUfJBp07f3dbTf3//cIjegYufD5++dHsAAJBUogDWJl+XteLRdbPeV7OX6xUKkML0ZrngKBwOhs+n29Nh9x5cgEjEAlHN1Gl7vD+eE6qsTDaZpZgRSNyBh0ZYEhE4vtN3ncEQWJVaplQAl8nk9fN5wjnF/GZ1pZhKKV9rHfqQQ2KE4ogOei5QLNZUHDNbqeT7ovm1WSZEvD2/HFZXW6N/P3SVVBoTOsb+cOwMPMARbaR6u91/bbs2rx/ns66sH+/u95dri8lTu3399rQzdiPZPDV5ZEHCRFcWP5ZNFZVGFlU6E2E+8jEKUMpEbYtzu2uLcqFN16xrXYCxPxI4lGEMg5hgk/CJ4SaPpx+bS83k3GQpU1qlq7JZFU1jS9Dv9TzHFSgMYVxJdarMzpjDVBdK5SFZGMsggR6c62IaZ2GA/gPQzTi2D8Vj6AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/21.png",
+    "width": 1920
+  }
+}

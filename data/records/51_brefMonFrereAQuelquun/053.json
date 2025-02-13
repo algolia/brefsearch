@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Et la semaine d'après, elle refait une soirée.",
+    "end": 56,
+    "index": 24,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=53s"
+  },
+  "thumbnail": {
+    "hash": "cb8994a366",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nBXLXW/SUAAA0EvW0t7etsBGV6HjY3QpXAq2ZYOOwhQYaQCXwjZQYLLOoZItwQw1GiGLkemDJMv0yb+7eN4PcEyjU8xpkbDAcgwNe1ZuNRneTV4v3/Zvz5wPvcbItqbdF3/mH51KCQAPOD8saYkYRXp5xNI0o0el+5Hz79P4+6DlWunrw9xv15n3G4vRSbtSBh4PcCtmXBRoCvoQG1v3y8L6Tb1w260O9O1BZmt2kP3Rrs6OrDqOaXKcRQw4MZR4MAAISgkGrnaVnq4sj6vnxYwu+ttKaFZSf7WsyXMj8UQgCIphGHBmqWZC8iN0qiY+W+k3ebxoFkf7Kt4MFCObMxOvGoVTI0lRkPJCSDOgmdlua/K0nPnZNC8L2E5Gh/mUW1KrO5IuBq7yypeaNq4+TUdDABA0BQEOCYNc8qFTXjbMTjYR9vs2ON6IS41UZGxlL/fTq5eVr3Z2WsMpSSBIEkAIcVi8sLTrZ7s1LK8RkIHcGskYW+LDq/pdt37/rv/3ff+bY93Yekzw/Q8kRXtpyLN8MLDBIo5DPId4BNFgDy+ODsYte37hLtzhxC7tyZFHw3xZFd5VD+wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/24.png",
+    "width": 1920
+  }
+}

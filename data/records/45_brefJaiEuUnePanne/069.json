@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Là, c'était grave.",
+    "end": 70,
+    "index": 29,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=69s"
+  },
+  "thumbnail": {
+    "hash": "f69e3712ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABSElEQVR4nCWO227bMBAFBVTmZZfkLi8iJYoSpDZuYyARHNcJ8v9fFjh5Ow8zg9Np4dTJyB60sFq47+G8bTW/lnRxpjrTUGdUMbq1xL+dFk4LK3sAST8mKp94G/zTUq4tH+zWwZ+9axYym9qBZJSkhQX5yMteo/LeVsKSaG/DS8tHy6+RVm8bmdaBJJCsBMoTiF9K9gjSofKEOdgabcu0BZwYMmNh97vTgox+/PNmtjB4O4Nk2YM6GZAOpDOSnI6kU+Y/83jryLRg2jwcS3kr4RzdFmmPtIMk2YNRIbh1jJfoNquTt60DQag8m5mxEo5sK+OUaGdTI211OJbxvoz3IT4nfqr56FK4WCwGklGR8QEl3ggL27bNnzVfW7mt0/tSP3J8DrR3Jd/Gci/5GvjsYHRQCCdU3kLO4V8rt23+XOpHm/6XdPG0fgGg1CBOHtz2ZAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/29.png",
+    "width": 1920
+  }
+}

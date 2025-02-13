@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Il a rien fait bien.",
+    "end": 93,
+    "index": 40,
+    "start": 91,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=91s"
+  },
+  "thumbnail": {
+    "hash": "a57b54490c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXBSXOaYAAAUMaNnYZEEZDlA/zYN0EBUaI4KXbSaGMm0aTLJZ10pocul/TQc39430PmlhoDKVBkW5JmtmOLismyjWVmBqxNe+t7mQEe6+JhET8tIo/nkLeRUQdw6ZqZNZ65fhmmTRA8XlarIFh53qeq/LFrXt6vv71bfN8WiSQix2ad2WbuuLHtbQ31CxCuINwVpa3BuyJPdeN+Pn29vXrZlr/3y2QkIOs8Ty2LpVkCpXYO/BXBa0Pd6zIccqUBJjrwZbGEAAp85UKPGyJnOMGSFNrDsQ62UJUP8/wwDW5tzeMHl1BzJDEEIpRFYcARONMnGaTVxkjyjHlzPiDIrH9RSHwo8I4gZkOeIyhXGaXQqFxNHAo9jOp2MKTdRtEeSVPsLp3chJ7GctZ537jo75PkOnITHczGyiZ2hgMew+hWC0UoDKdxSmbZxoGuNAKiPlGUQlcfkuDrPK7G4LmMTqnLEDRD0ARKIofCP62nf471YRlPRP5jAI4b/1SF/z43r3ernzfl38PmuU6wLo52iV4H+w98EEajU5u6yQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/40.png",
+    "width": 1920
+  }
+}

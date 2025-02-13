@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai maté un documentaire sur la reproduction humaine\net je me suis couché. Non.",
+    "end": 16,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=13s"
+  },
+  "thumbnail": {
+    "hash": "e1dc742129",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nEXNXU/aUACA4f65ZVmyLCFej5stu1DnDDYMhhAFnTEbTgggW5G2I6gUaTXLdEqlfIwZtdhCW3ra0572oNuS/QpjYrLL9+LNQ4TjmeQ6nS7sF8vfqEpT6qk/z/UL2TyVRjuNc/77FXf4i90TN7YayXU6HM8Q/a5kGdqN51S53VJpe+ljZaPamg2+WJh9E43ON+pVU9N81/mNPaCP+h2JkC9lx3YQdFaXUiS5+Dw4sxBNJSKxz/kCy+Vq3FdloAEAfeRDC8qXMjHWDez5t3hCpTc/vE8vLi+XqSIw7b9//mU38/wepytDaDk3eII93zTGhGWCWzxBLpoKBEIhcjqVEY9PjDHare3PJV7lSgWBP3Lhw2CZ4F6Y+Bj7ePsLVansPH38hCnkPYik5in7I5nmymtbVds0/wvX8sCx4X0jv9eXX0/P5LK5kWbJF0pPFOp8nWVqCELsYxc61/KAaIlnQ3VoA0tVVB2gR1NB8m3i+MoUTrr54DxPMVK/A4yx67hDRW2JZwRLM4fCgdgUY6HQp0gsEo6GSXIlFVuJv3sZeEYXs+1up9futFvSAS+wNHMH3jwtnyGIWXgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/05.png",
+    "width": 1920
+  }
+}

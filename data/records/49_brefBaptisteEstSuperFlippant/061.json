@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Ça te dit qu'on se voit ce soir ? Trop classique.",
+    "end": 63,
+    "index": 28,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=61s"
+  },
+  "thumbnail": {
+    "hash": "210de2f41d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nCXLbVPScAAA8H0DX+WLrIjL5PGSgFNC5GGyP5vyrIwNcIw8hDH+xhh7YNZEYpcOPQROzrPCq170NXvR7/0PETlOgfBLr2do2pWut1kW1moyD1uVY+D3tZhq5+RjJZ1MRyM+h9NheY0o7dZQkceDwcIc35vmURylAWDyZIOI014Xk8lcit36UT6HRvc8zndvNhBdFMyLi3vTXM7nP2czCosVdoMwEZNBuBHautb6l6JwVqEpHACP6731FTJUlMlo9DiZ/FoslrN5AcOYUPAbnRHyKVgs92H3vM0LTInCMbfFsrn2DPmqqneG8T98v5sW4gAeZm95ZgD5v8vfKhSVFqee1sgE8Nqsb188R4aKPDWMH9PZn4fHh5vbSjoD4+FuZKuI48Jps0XRT5Prsa6y6f2AbSOx8wGR2mfnvf5A+qx3NanRadba4h6oO+14JJqKgW69eiPxV5pQwsKe1dVtux05xJLVYLRE5Mq5cvGApLKlT9sB6PdW8rlyKmuo0qjDyyc1jQvncZvPvY4kXZvcygq/9pJ1uLOxA2wnfrxuIXdREEb9nlAS3W+mcZIgGDLAlt0Eav0HsUqdunUZLt4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/28.png",
+    "width": 1920
+  }
+}

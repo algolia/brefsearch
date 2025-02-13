@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "C'était Charles, il appelait d'une cabine. Ouais, c'est Charles.",
+    "end": 56,
+    "index": 31,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=54s"
+  },
+  "thumbnail": {
+    "hash": "41de4c237b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB227SYAAA4D/TqJG59Uz5obT0KBu0ZVTKCmO0HVCgUgIMhLFRXeY2wpiJCc4lGpMli1feeGG88gV8AJ/Bp9r3ATtJHqqpXlk/alaG7u5F3z33zE/+3v1RZ1YpeKYGCQwAIEXRej49corAS9FDNbUatX7ezu+Xx4vDxqikzt3i0nOWXvVDUIuTOACARTZf5zMDuwgsGp/lxD83Z////vr3++77rHftWgvH/DHrr/yDj+0DS92GsZieSDQEdmqboBbHxlvcqVcrme5J0J97jskLjiTO9y2DFybl4ioc3C7CN6Y2MXNDuwp0HKkn6YpaYFNGWjSu2w1sg9iCCUuSNCZ5N+6+7XrfLo6dTHo3+wrFs0CnyEKSUQQtLeWzsl7N7SAEhFQ8TkIcIabO3tSvnzUdTZQJlEZeUKC7b31+H54HrY7M9DTlahBctd2bd9Mvl6fLk7GvZ+qaxjKKyG1D+BLDONAs5MJ2rbmT7QixQEyUWeiJjK8pk7Jx2Wt9DRo2rzx+TkWjMkXJT56iQCFQHt2Mr0eqXKwESQHD6Q1EpkhH4WyFDQ2Vx+GjZzhFSZEIvba2/gAlv2CB1UlYdAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/31.png",
+    "width": 1920
+  }
+}

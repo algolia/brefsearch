@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Vous consommez ou pas ?",
+    "end": 70,
+    "index": 34,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=68s"
+  },
+  "thumbnail": {
+    "hash": "ef4e907ea2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABQQDi8aFGJKLFhIKm5jR1lAL1Q0L5B8akpANwMDAwcHBwMFA3ZzeLCos4eCgT89MwAKCgsUDguCa02UgmSfm4eEbF9iNi6kjHo4MC1cNixTNC4hEg4lJCS5tMGHg3xeW00AEA4OBwkJPDAfhnRXiYFqeGBTbDsyfGRSOSgjjFhKl1tOXjkvEQwKXFdZhn58eHZYAA8NCgcHByYgF3leNJiIZXFNNmAvJm9UQVo6MqxmVodNQG85LFNKSk1ERkM+L2VlQgAODgwCAwI2LyO3nnjFup6NcF1XJh59XUNmSzuJV0l8Rj5NLSJpZWVGPT07NSZsbjgACQsKEw0PXj4swKp+39nLt6OgUiMZakomh21ehV9XYz83RS0ngHZ6MikmODIjW1gzAAQHBikWGWA6K4h3P7CnioVrXEoaEJB6Z8++xLeBe5teVad2dqKSlmVXU0Q4MTEpJgACBAMoFRZUMylxWiuLfVSEblmznabf0+Lh1uXSt77HlJLBq7KvoKiwoaiVhIdZT04ADAoIHRAPQy8lgGcym5B2x8DO1Mrb0MTSzsLRyb/OvrTCs6izqZ2knpKakoSLf3F0xfOdhAQyWhUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/34.png",
+    "width": 1920
+  }
+}

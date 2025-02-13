@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Ça faisait plusieurs semaines qu'on attendait.",
+    "end": 4,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=3s"
+  },
+  "thumbnail": {
+    "hash": "eae03a1bc9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA8CBRcGChwHCyMJDlAjKKVpXNOTd9KMccJxXa1cUoxFRXU4OlgsME8sMDYfISoWGQATAwgkCg8zEBRXJSm9d2fmrJHep47dqZLXo4rJinaqYVyJR0hsNjpVLjI7ISQsFxsAGgYNLQ8VWSUorltT1oNv3J+I4ril26aXzo+AxZB+u35xoFxaekNEXzQ3OyEkMRwfAC0RGFAiJ5NERLhcVcl2Z92kjNillsx1bMNrY6ZcValqYqpkX4dMTWc6PkMlKkomKABMISlwMDaaSkyzYV7Ec2nSkH7DiXy0XlqjU1SLREaxZmCnXlqOTlBlOT5VLDBCHyQASCMsYS43gkJIn1VWtGVhw3Zsunpvn1ZVkUVHpllWwnZunFlXgUpLc0BBSSMpLxcfADogKVErNGo5QH9FSZdUVaVcW65jYKtjXqxgW6ZdWY5OTYFHSHxISU8mLC8VHCgTGQA1Hyk5ISxKKzVZNT1hOD9rO0F+QkV/QEJ1ODpiKy1oNDZwPD5TKC0rEhgmERciERUAKhghMh0mNSAqOSMtPiUuRigvUiwxVCkvTiIoVyouWzEzPBsgLRIXJRAVHw4THQ4ROciPz87mW3oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/02.png",
+    "width": 1920
+  }
+}

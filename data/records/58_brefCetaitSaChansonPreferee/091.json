@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Bon, Steve, je vais chez Fanny, il m'a saoulé, là.",
+    "end": 93,
+    "index": 32,
+    "start": 91,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=91s"
+  },
+  "thumbnail": {
+    "hash": "694d2da062",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcElEQVR4nGXPTU/bQBgEYMfefffL693Yu/6S4zrGwVFCnQZI1BJKlAhKS4UsQSvBCS6c+/9vVTj0Ummuz2jGWVT2rI4lAPGAYyIJS5QcGzW2uk7DyupU+0YKI4UNDnFWTbqZ5kYw4mEfKCAYDWXfVf2i+ljacRLmWr4DbgMRK9/ZzPJdV2SBoC4OCBOETZLhXTd+Wh+f10mdhcUw+AeM5M71srw9qwrtMwQC6DQOt23xuGr7Rf1lkh9lURkpGxxWxcrnlDjf13V/0dQ2YB6WhFrBPh9lr9vFr0/N/0Ay6vSb48evbZsq7iIfaKLUaZVetqMfXT3/kDRZWEba+CIUPFbvp3/v5k+72bKMmIsA4SJLbs/n1yfVfjkf5ZnkxEg/FMwIpjnVnDnPN93D1bSIJEIYIRQb83N/dTmb3G0vYms9D2EMAaMhpxwDw8TZdeVpkwxcDwAwgBD8z9vLZr26/7Y/mbaDgUsI4fTQrQWXjP0Frpor6Vn3va0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/32.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Ma copine est arrivée, on est partis.",
+    "end": 81,
+    "index": 35,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=79s"
+  },
+  "thumbnail": {
+    "hash": "f9bb3b0d06",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXBy0/acAAA4J6w7e8FtGiBWtgE2gpIKaVUCsrDaEVgPOQxIGiUJQtZcJoNkoVlp2XLzA6bh13mzey28/69fR9FGABp+Nwb6KSKPavWSB3MsqWVbS9yifvm4dO8/+uqZT0TFb+0L8mGX6IIAwANNpH35uh83V4u228ureOhos4z6qpkLM8OH6b1gZlsaYmDsJwJhCjCQsIgAtzjwuBtoXc/WX4ZzrO88Cq7N9HVVkL+czP6NnLWJ3ZRknUhTHkg9gDMIW8lojXiuUXt8ntvdpfRHyftv4vBQ7/6bz37Ma2tqpVOzHQiacoDEIcIB3AzIt86L4f60VQ1X6fSt0XzZ7f8e+w8zTsfTisL05ko+aZqUZiBbhYZPs/VnrHOn78z6i8imaoYNnj+QpM/nlpf+5Vr267L+dau1YjnKZoGfoDKfq4ZjX4qdPuKDWmc2RIdSXxfTM/2k11d/Tw9q8Z3sAupwR3K5WJDAOY4T0kSy2Flm/hpGqu+oL4l5EJBLSiMCvrj3birxZgNSCChaBcbYOEuxpqPd7MI0JhlsIC5OL+5jdzHieiyVa4lYwQSBN3MBvsfFqRcOKEjD/kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/35.png",
+    "width": 1920
+  }
+}

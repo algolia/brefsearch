@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Elle m'a pas reconnu. Je lui ai donné mon nom.",
+    "end": 10,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=8s"
+  },
+  "thumbnail": {
+    "hash": "1635fdc315",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEUvJzknIjAkITUoJVRCPGlWTlBFP3BXTNmYfdWbg92Uda5zXEEzMDQvKDUzKT05MgBqUUdZRDxQPTZPPjdRQDliTUVSQzyUaFT0sI7osJXaj2+scFgzJSIvLShKRkEcGxcAUDw2RzYwU0A5Sjk0OSwpRDQvPCwnc04/zYxvzItvpGhPZD4vIBISQC0sVE1OPjk7ACobGTopJEMyLC4iHyceHC8kIS4iHmVKPWxCNHVFOC0ZGEwwJkUlIHhdR5eNbJuLbQAlFRUqGxoeExMYEBIqHx0fFhk+NR+ogVHGhG6VYEt0RTd+UD5YOC54bEqLgz+RiiwAEwkNEQgNCgQMFg8SIhgYGAwPfWlKmINtn2hViVVEg0w6YTosYkI2a1FIln2Cd2BIAAkCCQQBCQsFDR4UFigcGkEgGYBYWGBaYlw5MywPEjMbFzwmH107L15CNK2alKZZaAAEAQcGAwodEhUbEBQlFhVWNChLOkJiXmi2oppLKCEzHRk7JB5EJh1kUUidi4VpQEwABAEHDgYMEgoOAwAJEgUJRjAtOzVDiIGC/f36ppOLPyQcNB4YQi4odGVgkoWAODg/MS93HwsDMlYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/04.png",
+    "width": 1920
+  }
+}

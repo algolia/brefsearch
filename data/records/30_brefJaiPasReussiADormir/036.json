@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Je me suis recouché, je me suis pas endormi, je me suis fait chier.",
+    "end": 37,
+    "index": 15,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=36s"
+  },
+  "thumbnail": {
+    "hash": "dacf22de47",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nDWRy07bQBiF/UBsu6Sb7rqCR0B9F8qiqlRYsUFQVBXYNJjYSQARTCHEc/eMPRfb40viC49RNRbS2Z5z/u8/ztnp+eiPO38IMKIIInd07Y+9qT9xR9cTf+LdjMfuzdXl1a+f50c/Dg/2vzqeN1m+AiGkNlYlikDEGacIE4QpJghAhilBePH8cje7vfx94SxelkJIpTOTFkmcoBCAZRi+LmEIVCKN0jJOVCJlnDBCHx/mDiGRVKk2uUltluZwY4AhYJhAABihzWrdNW27blZVbZR2IiY28VabvK5WpS2K3Ja2qMvKZrnN8q5p+7YbPDbL/zconQ0NWmnOIhHxmAvOIkbo5hJCEI4ogyH4Gzw5i0X4zmCNNmSDy1k0QMdcUEx4FMdCUkKDeeD43nT4ktJZXdVvXd+3Xd92b10/yKYpepyBO/fk+Pjo+zdn2CGYPyFItNSlLaqirMuqLqvSFs26uffHX3Y/7u1sf/qw9Xl76x922VUAyEqUHgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/15.png",
+    "width": 1920
+  }
+}

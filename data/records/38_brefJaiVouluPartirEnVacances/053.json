@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Ce courrier, c'était 197 €.",
+    "end": 56,
+    "index": 24,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=53s"
+  },
+  "thumbnail": {
+    "hash": "95a9e937d4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nD2QXW/SUABA+0M18clkiS4xEpUsMZvD4XRlJRYZjogz2ULEgSxsmRsBNmDAhi2U2/ba24/b3o/S4v6DcSYm5/WchyPslXYbR9VB/wJoim0Z2viqWvnSbp7WyvuylE08WgaaOp0oreZZpXzwMScLZ6eNqXLt2JAE3jzi5z+O698PRlcXNHB3P+STT546CAa+a0Nz2O/mxIygjIee+4tQvIhoq9dNFz5xRoriO0NTizuFlcQz33OAMU2J6eXk8421dQGaM0p9xgK1c5QTE69ePzYMdSu9puugmM+/fJFkgTcaD+89fHB/aenkpCEgZHBGGMX10vbnTOKmXx8MetJGGtmoIOfWV1axi4LAg6YBwUy5uRaQpXNOOcOz0bkDxiHBPKSLeH57G8sZ6c1qCns2IdjDtmtbx/WaADSVUj8MWfx7EcVzHtLwjjjm78XsVmrTxw4hGCEITX1/ryRcdloQ6oRgxgLOyX+i6K+QfSv5vuv7nmmCQb9XO6wKla/ldrs5mfy0LBPfxf494DyQNrfljIwQBEDrXnaq3w4L+Z0/oJJHf1UeB+4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/24.png",
+    "width": 1920
+  }
+}

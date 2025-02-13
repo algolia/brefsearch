@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Au bout de trois mois, elle m'a dit: Je suis contente qu'on habite ensemble.",
+    "end": 21,
+    "index": 6,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=16s"
+  },
+  "thumbnail": {
+    "hash": "37d3f163b1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCklEQVR4nCWQW04EMQwEIyVxxna3M5l9aBcQYgXsDweA+58MTUYq+ctlt52sLF7Mill1r07B9zY+ex+Cc+NdOZqHQLMvWSVr6mIhGAu3RlZYwRvj57pdLbxga9TsXmDFNVvLlrx6b1wbTwteDI8ABCeNk9ErQvDZeXOeNTSbZktaHBUUrI0X43MNyL7HK2wKv7f+1eOOFYJWLEFm98JtclKi7t1ewR0/6z7r5jEWSrFEYbSdPmsI1xao+z1DsAqi8aL8ex2PtddsyQoOh42UPfdMyC4cc8qm8YL+3PqjhxVPVhwCyBQaMR0rbhVjPmM0vjM+etwdFE+a9Uh8ANmdaHHEO4BwLLg5UO0flPAUWN/QQ5QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/06.png",
+    "width": 1920
+  }
+}

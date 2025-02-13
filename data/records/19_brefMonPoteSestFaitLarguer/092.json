@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Figure-toi que je suis amoureux.",
+    "end": 93,
+    "index": 42,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=92s"
+  },
+  "thumbnail": {
+    "hash": "65b2102824",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBW2vTUAAA4Ngk55zk5HJyW3aanqY9SZNutslqb3QRO5216zbdpXWDguyCIogXBMGHPu1RGHsTVBDEN/+l3yes5ub5CGuiZJRKMbU2Q+9+xXrRDyNLejt1H8YO99SiVY+ZZ2KpXdGEzzPtfIiwKOGSmPpaj7sdRhajesNBt4v23Un/ecYSXxvU7ea6Fvua8GZHOetCXRRNIOcU7+VsGJJAufesGfy93v1x8eSwwzvcz5nVY2SD6sJFAV9uARdKuig2PONxHuWMHObV71d7P6+mN6ejjNPNcC2hpGIqVaIIfY6268iCsgOksql2Nzj3rYOs9u/dwZ/rycdJ/rQVtpgTeoaHoYmAUEYgQJDIsgVkG8kp88qOftyLf72e3syLL7Pu7+Vk0eaGKrsawhAIsQYSDLgKqAqoDhNqhZ5RNNnlbvfVOPu6P7g7GvUqFkaAqEgplYSmCVICGzbkNopsJXLUGkEUg8BE46z2YTa4PR2etdcTAh7UvChYExIbpi5suCgioIplpoOQoJAgqkhFEqxOim/z7U+P0uV4a7m/s3p/+R8YGkGyPgm68QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/42.png",
+    "width": 1920
+  }
+}

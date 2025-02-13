@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Il y a quoi d'écrit sur le mot, alors ?",
+    "end": 140,
+    "index": 51,
+    "start": 137,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=137s"
+  },
+  "thumbnail": {
+    "hash": "08a6242e0a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAApklEQVR4nIXRS46EMAxFURwnBCQ3ksExJh8Q+99kS6lJtURVn/n1G3gY/nLO+TcAMHyHiCGEny7G6L3/JwAAZq5dzpmIvt2epomIzExVU0q1VhH5OOK9Z+aUkqqKSM651lpKYeaPwbZt1qnqvu+llOM41nV9HgkhzPP8akTEzHK3LAsiPo/EGFW1tWZmrbX7vq/rOs+TiMZxfM4AABHdG+ycc6+f/AKH+Qz6BoluigAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/51.png",
+    "width": 1920
+  }
+}

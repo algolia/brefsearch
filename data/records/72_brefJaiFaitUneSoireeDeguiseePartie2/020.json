@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Je me suis habillée comme Mia Wallace dans Pulp Fiction.",
+    "end": 22,
+    "index": 8,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=20s"
+  },
+  "thumbnail": {
+    "hash": "d40b9bf163",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nEXLTWsTQRyA8SU785/Xnezs7Es2u2u6m41tha0pqFSLgiQa0rRRKQmRSFCxIkaLWHrRg1QQhN569ig9+gV69SR+KOnJh9/1sZq+x4VaTZPQ04xzJR0lHSmkEFJQxgmlQAj+n9VuhkKqa62sYQxn3FV1t+4mvlltBBxjBVgCMAQUAQHAgK3l3hYltMpbiW8Y47ruhlG8lsT32ylBSGEkMab2JYIBAKwfx/uMQDuOymbEGXeEHN27+3I8GnSr/q0boSO5bTtAGYLLgYB1cbYsQzeQPFCO5IIx8erx6Nv75bv5fDYYJFoLhFjNlpQJLgBj6+/55wfrWRGa1DcApCqyrwfPTj+8/fh8Men3Noo88/31lc5s90lVdjwprT/nn8Yb6RXflEmsHbldNE5eTM+OD48W82m/V+V5pOoPt3tP96abnbUiMNbvX993ui1JWBr4LmdXfefkYH56dPhmOpkNh92yjLTJorjpmUgbrerWxc8vw80VBhBpDXbN43R85+bryf7i0Xjn9tb1PI+11/CMwwVCqGbb/wCC9D4YzOHKBQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/08.png",
+    "width": 1920
+  }
+}

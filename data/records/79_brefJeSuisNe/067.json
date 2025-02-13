@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Un spermatozoïde est arrivé.",
+    "end": 68,
+    "index": 38,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=67s"
+  },
+  "thumbnail": {
+    "hash": "1c66308548",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD8mLVgzPGc4QXpBSoNFTZNNVZ5VXqtgZblzb7d2cbt8dbh3brNuZbRuYbhtX75zYgA7Iy5QMDtlO0d6R1GLUVihYWiwb3a6eHy+gYG7fn60b3GsYmawYWW0XmK6W1y/YFkAOCItSS8/aUNQfk1VjVdeoGRssXR6vYCExYyLvoGDqGFrsGhyt2lysmJss1JcvFhXADYiLUUtO2hETYNTWo1aZZplcqlweb2CiMuSlLt8g6Vkcahodbdpd7pkb7FYYLVSVwA2Ii5AKTRiRU6DYGmRa3Stjo+uhYy6gIjQl5u9fIOnZXKlaHataXixXGmqUVyvUlsANyIvPio2VT9IdE9cgV5pgm10lXV/uIKL0picwXyDqmVyoWBvol9uoVVioE1bq1FdADomND0pNkQuOVQ3RHdNW3pTYn5UZax3gc6UlcN9gq1ibZZVZIxPYotKXJNJWqFNXQA1Ii45JC86Ii4/KDRWOEdzSFdwRlWGVWDFg4PCeHqwXGeSTFt9RVd7QFR9QlWIR1oAMBslMRwlNB4mNx8pOCEsSys4WDE+XDM+nFpeu2ttrlhgoEtTiEBMfz1Lf0JSgUdYr920y3EEBzsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/38.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Il y avait mon père aussi qui squattait chez moi depuis son divorce avec ma mère.",
+    "end": 58,
+    "index": 20,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=55s"
+  },
+  "thumbnail": {
+    "hash": "8a92b4a7ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJ2KhaeTj6+bmLeioL2qqI97eUc4NzMnJ2NUU7agn7qko7KdnauYmKKPj5aEhIp4eAC3op6/qqbAq6fGs7Ksj4RPMCIWCwoVDRAEAARRRUbCray5paW2o6Oyn5+rmJigjY0AxrGsxrGtx7Ovwq6qnnFXck88TjEtLh0gCwgNCgYIno2Nw7GwuKaltaKisZ2eq5maAMu3ssu2stG8ubWgnJBkTH5YR3hOSFM9RxMPFgIAAo1/fsq5uLupqbmlprShoq6fnwDPu7XQu7bSwLvGr6aoeF1/XFB4WFpzXmYsIysXEhW0paLJuLfAra28qqq0o6SqmZ0A0L620L611MO7w6mehVtEZEhEY0tLiWtpSzk8ZVZU0sO+x7e2xbOyuaipqJmdo5OaAMmzqtbBttK/s9nGvnxfUi8bGlg7MY5nWWtTVIBzgcS5vcy9usa1tbOjpqqan6aYngCnkYTbxrfVwbThzsSOfHQxIyF3VUKxlZGkocSAiMKmoLXXx8HHt7e1pKitnaGhkZgAhG5iybWmz7qt07+2y7iwuaeiuay5s7XcqKfKoZ2/kYyuybu8yLi2rZ2gn5CUkYOIA4Tx6D1o75MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Je participe toujours à des cadeaux communs dont je n'ai\naucune idée et parfois, je ne sais même plus pour qui c'est.",
+    "end": 17,
+    "index": 6,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=14s"
+  },
+  "thumbnail": {
+    "hash": "317e8bea62",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBC2/SQAAA4Ovzri3tlZZeS69A7Qu6YksdhNEwM8IWMxdhsk3nTDYzRGNQo5jFaOIPMP5pvw+QVr9B024+Kw9eZMPlYHJ5dvt3fv79bLVdLDaXJ6e7j+t/v358u3vT9du1GgLEjSELhtOr6bMNMWjpKa9vf1ZpPug479Z/Nm+3w168H3oXVZlSkzQUkB++oo73eLyYL3arSXVzEK1uHq7H5SzG6/e/t3dfn6etlIhHfbf7KDNMFxwuPwdxKSGliJ8UDomIZTnF8aA4H/WuLj49fNgti3Dqq3lHbTqhim3Qz59q2Ka6tUe8uoBMiCAAozAZ2O39rLp+eV/FQc+2bR1pmllTCThafbEJpdjKbD/RjQZCqoAI1JuiOUv98V6BcSKKDsdBiLBeb4HJ6X2nHTU1KzSaPjZdTUtcyzcsB5pJQ3Z0W4SUZ1WRlwReEqEG+uPjVt1qKXrmBlHdGXl0HjgYSoiFEidossmzmGVknpMYhgeABWGWUaxTRU/cKMCWIUAd8pDjWcDJHC+LKsvUWAZyLGIAzwDuPyJlPjbGLwZcAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/06.png",
+    "width": 1920
+  }
+}

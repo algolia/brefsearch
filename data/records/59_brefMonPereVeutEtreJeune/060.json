@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "J'ai dit: C'est ça ton truc important ?",
+    "end": 62,
+    "index": 32,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=60s"
+  },
+  "thumbnail": {
+    "hash": "7f347bcbd2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbElEQVR4nAXB2ZaaMBgAYM5RWbLxZyGEhBBBUHBUXDradi6mF20vnNP7Pkmfog893xeNft0YTxHToL1pgYosSSkiO18/pmFyZVvImoOmlKVZjkhEs3weJsmEFXrbnSod4lU8WPvry+v7abqt7dEVWwUhpwphmqCIZuy2ezFCedPst1df+uViedtsno9vl2CuwZysGjXvBFMYO86jgsL/1/HvZc4yuO8vVpbpCp/78THfp9p9H+prqI5WDRIUxl2hon/Py++urjAwxIKuSUrQClll2manZT0P/aENo6/LnGeLhCMSfQ0miYmgoHOhGFjdEiRYSgVYCdW+3YxN09eNoJAsYppkkcqFpGC4rIRySjduEmBxQiR3RrmtD711a2M5JmixxKs4aksFmJUgKiENyFL6JCYlEygFRoRTxa4Jh01Xam9MVwgTCUQAM51zSXJBckC5LczH29vzx8/7fA2lOffdn/fHeTrM22Nn3CfjfyvY2sjd8gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/32.png",
+    "width": 1920
+  }
+}

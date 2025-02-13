@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Du coup, pendant dix minutes, je me suis justifié auprès de tout le monde.",
+    "end": 7,
+    "index": 4,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=5s"
+  },
+  "thumbnail": {
+    "hash": "8b839572ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nAXBS3OaQAAAYKZNBNknK4u7LAsIAVEUQUUHTWJMO02aRyfNTHPITA/Jtcce2h/QH97vM+be2Uv1feWviAkDOGiDtNXpVmdPRXul88uweu8Oz+s2dIWP6JwxQwJvO8xrWWIT5wP/sawWQbpS6V7Fl9miVtlDsWiilEJG+wSZ0LhJD19H7VrNSd+pVHgostf1vBqGT7NdFxQbkX9O6iZMQJ9YfWya0DiPup/1y9pfKupmnni/WP677RouL/TkOpzuRPGQL9+69irUJz30oQeMGAVTPNJQnXE5EfLvl+2fY9sI2Qh9GI0/RePXav3ruL9LE9CDxikwEsg3enK/Oa8D7QLytpn93tUxZcdR9lhMf0j3OYm/lWUXRRtflZwbyob7YtZN5rHDU+be5GkdKGThzo/2o8y1qUDOALOx8G+nxSEJDQWdXESSeIq4mrCc8VMTcUAFYqXUjdQYshMLQ8CA7XzsIYP3kaJDj3gx4xJRCiixicaMQ2ZbSAAcYOYgZttOz8SmBf8DMIU5XNIqzncAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/04.png",
+    "width": 1920
+  }
+}

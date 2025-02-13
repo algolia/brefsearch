@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Grande, petite, chelou, alcoolique ? Non.",
+    "end": 84,
+    "index": 38,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=81s"
+  },
+  "thumbnail": {
+    "hash": "a33a665794",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACgoKDEtLal9dGtNRZ2FfsmonXZXTjEhICwcG2U/OYJTR4FVSmxMRF1MSCEdHRwaGgAsKyxCPj6mb2WOZFfTuK/Ln46XcGFQOjdXNjFzRjqBUUYsGxkeFRYzKCdXUU9TTEwAPjs8UE1OuIh/u4186cq/0aOVsYFvm2tdm2lasHppmmleVDk0YkhDa1dRWU1MXlRUAFBLSlpWVqaEfrmNfNu1psWWia55aqZxY7R/b86bjKl6cJxwYqd9b3plYzAkJjMrKQBPSkhWU1KFdnG3kYHNpZTAkoSkb2CYYVKaal+icmmRY1yZal6fc2dfS0k8LCw0KykASkZFUEpJdFlUq4h3sYp5qHtqg1VHdU1CakM7SSomVDYwkF5QhmBXTUFDPC0rLicmAEdCQEI0NVA9OJp3ZIBeTYxiUGZBNFAuKVoyLlgxLUksJ2RCN21UTUdESUM8PhocIQA1NThVQU1hSEKJaFdlRzhvTD1vRzmCUUNjNDFaLi1TMCpZPTNHOTwtJzQfHy8jHiwANjZGPzdVRCotZUs+OichRzIqVjkwdUw+WjgvVjUtXTwwLyMjJyM0Ix8wFxwyIiM36AWViNW4zlIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/38.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Il s'éloigne. Tu pourras virer tes trucs périmés ?",
+    "end": 43,
+    "index": 19,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=42s"
+  },
+  "thumbnail": {
+    "hash": "154939a5ce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBW2/SUAAA4CbGLLrALAgb9znshZL20JT2lNNjSwv0srbQcRkQdiFzezAxIfNP+L6ZPUj24ptGzcycl2g0PvG3/D6CAwAZpuP7Yeg1ZDEWW08myVx2s9sNjg5nBoIylM9fnV+8uXq7vG7ZLsFxbAPiKOz6tq5KtQQZz2TSpe1irxec7DmeWOXp8uXlxZfbb58+3zi7IVEqM1BUR71IBmwqQbLbecCUMaiGvvfcx2Ot5hr4ann95++/Hz9/+9GAYKqgLinD0ZCnSpuPYjq3gwWmr0OrbeflUYFrPga9rDZfvvuwWq3C/oRATattO+PJeCu5kXy4pjElU+GxxBiWvQ5PMtZpQp0TBXe6eH379a4/OSZUvekE3dleYEHJEOiR1YgsbGtC55nyBI0KzhkpjdeK+uDg5d33X+HwkJAamtlx91vwIPLms+nxft9Q6iYUvHqFQ1HaPI2DQeopXsyn7z/emG6f4CUZmy0HCrqqtP2o4wVQ5OlSDgFhCwRxcfiA8dNltY3UsxcLZO4SLBAVhHGtWhdrsoIousLTDJlIMVRlY0e/XzTuZVEuz7IUVRGR2Gj+B3lqcVVjKvPEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/19.png",
+    "width": 1920
+  }
+}

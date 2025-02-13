@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Ben, dis-moi, tu te bourres la gueule quel soir pour oublier tes problèmes\navec ta meuf cette semaine ?",
+    "end": 66,
+    "index": 24,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=62s"
+  },
+  "thumbnail": {
+    "hash": "fe85a15e16",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJ2kqnBnciEID0AXJzAQHBgMDzs2Nl1XWnliZHZdXndcWnVbVR8ZGiAhJE1LUEhHTACnrrZ9doIjCRFDGCk0Eh8VCQw5NTZPS09aSEtmTlBHNTdqUk49Ly07LC1STlNOTFEArra9ioaSJQsTQhcoMQ4bKh4gYk9PYlBTXk5RbVRTVkFDfGNfa01HW0RDSFBWTE1SALK4wJKPmygOFj0UIzEPHGFQUmxQT1Y8PHFaXHBTU3pbWn9jX25PSGxCQlw7PjAwOwCxusKboKspEhk1Dh1EIi9kTUw1KCgsJCVLNzlHLzJiSEZwVVBdQjxbGBV8IB15Li4Aj25tnImYMxwkKQUSVjdDVkRCKBcVOBMTRzEzXEVJWUJARDAsNxwYVhIScR0cdiEdAHAyLKBhcohbZkchL2hRV1Q9OkITEkkNDDMREUAqLCobGycWEzoTE2MXF2wbGm4eGwByOjCUXmyVbXZ2Vl9oWFdWJyNRERAxCwpECgpJGRo7LzFHKSlVFhdnGRpmGRlpHBkAUCUiZDpFNRocSDU2WklIUBgXMAcHLgkJUBAPVRQUSikrVhkZVhISXBcXXBcWYBkXD4pxxxSoAMoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/24.png",
+    "width": 1920
+  }
+}

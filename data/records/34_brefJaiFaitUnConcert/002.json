@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Bref, ça faisait un an que je jouais de la guitare et j'allais\nfaire mon premier concert.",
+    "end": 6,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=2s"
+  },
+  "thumbnail": {
+    "hash": "77265fa42b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJKHjaWaoL2zup2Qk1hHQrCamNrP1NfM0N3S2NvP1unk5ce+uImAfM3HyczIza6jpgClmp+7r7XTx85FPjwZCACJY1bXycvVys7az9LZzdPk3d2NZ1dNKhrXzMvo5OrCtrgAsqiryb7CsqSjU0M7SCQbelJE0sPE08rN1szP1crN3tTSb0w+bUUx0sS/8uvx1szPAKOQiItzZFxHO2BJO3BZT6qcmMe4uL6srMy7vcq+v9PGwlw9K0szJW1dXN3R1dvQ0gCTfnJTPCxCMCZZRDeFb2WTiIaDaWCcfXeIY2GllJHAsrI7KiI3KypURUHHuLfVysoAim9YRjQpLyIZVUA0a1ZMYkU3emBUd2BYTjInaFJJcV9aIR4eNSsjaVlVrJuYwrCsAGtPOjoqHysgGDUnHVA/NYBnWn5oX5GFg3dpYldGQV5CO0A1Mk9GRGNXW4d0b6CLfQBQOy8uIRgZEAwTDAgqFw9JNCpSQThAOTU7OTc4MzJNODBDOjlJQkxoW1loVFlfP04AOiogKh0WDwkFBgUFTB4MXicOGRkYJiMgPTQrgW9feWZhLBEnPRozUipGSiJAPhU+ZI/BF7UNQB4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/01.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "J'ai eu envie qu'il perde son boulot, qu'il perde sa femme, qu'il obtienne\nla garde de son enfant, ni qu'il le perd dans un accident.",
+    "end": 73,
+    "index": 35,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=70s"
+  },
+  "thumbnail": {
+    "hash": "a21bbe1f80",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABwWFA0KCiUbEVdIMW9mTVxHN1Q0MIVvXpyJfXVtaR0dHQ8PEBkYF4iChIyEhTw6MAAjHRwYFRUJCQtDOSmdlXqDa1dfNC6qkoG+rqM+My8rFxMfFRMHBAJLSU2UkIRhXlMAIx4dFhMRDg0NGRcViYRxmIV3YzQtq4t2iXtvQywkm2BSe0k/OSAaCQkJXlxRfnxjABIRERAPDhAODAgGBWVaRnlaQ1spI597Y2JSRWxEO6FhUYtPQVgzKhQSEFJOQXBwTwANDQ0MDAwODg0IBgWNhG6PblFTIRuIZElyWkaBUkOKUEWJSz1ULiMiGhlKRTBycjoAEREREBAQCwwNPiYjuq2evayjVSYgd1U4eV1EdFpMeklEYDoxLR8aLCUhQDsmc3Q7ABEREwsOEBgQEWg5NbOolruqo0wcFWRDIYp2Y6qSk31RSVMxK4BdXIJ1dFRKQj43LAAODRAGCAgkFhViNTJ2Z0huUzZUKCWpl5Lb0NvbydSyf32maWW2m6OekJeaio97bXAACgoLDg0MKhkYRCggin9nmpCHrZyo2M/hzcDRyb/Pvaq2r5ihopeinZGaloqTinyBrSeLaSa+bUcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/35.png",
+    "width": 1920
+  }
+}

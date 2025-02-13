@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Dans les déménagements, il y a toujours un mec qui porte que les trucs léger.",
+    "end": 50,
+    "index": 21,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=47s"
+  },
+  "thumbnail": {
+    "hash": "7d9da919fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJiMhaqhmLOnn66el7enoLqqosCupbupn7akmrSjmKWPg5V4aJBxYIpvYZeGfZOHggCnl4rDurDGubDAsqylko2cgnnFtq69q6O2o5mzn5WrkYOigW6kgW2gf22wnZKom5QAuKKSyL61xbetu6ymu6mnu6umt6mjvKulsZ2XrpiOwaycxbGkyrWoy7anyLasqJiTALqgjMW8tcS4sLuvrLakpa6UjqSUkLemo6SSkKCPh6qWicq0pc25qdTBssi6s6WVkQCvlH3DurPBtbDGvLuPiY5eTEtkS0FrVEppUUd9bGh9bGXPuanMuKnay8G5rKmllpMAtJZ8wLavvLGttKinU0dJKB8faEs9X0I0RDApPzU0gXJryLOmyrir2MzHn5KRqJmWAKSDaW5jZGBWWlVKTjMnKicgI4hqWWZPRS4eHhkSFIV2ccezqNLBt8e+vYt+faKXlABwXFFURkc+N0BBOEE7NT46MzxdTk87Mzg8MDIyJCdiVlanlI3BtbSlnZ2BdXKOhYQAKyYsQTc8QTpDSEFMTkZTVEpYUktZVExaUUlVTkVPQDY9VkxQpp+jQjs/TUVGd21tVAviPe0pWcoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/21.png",
+    "width": 1920
+  }
+}

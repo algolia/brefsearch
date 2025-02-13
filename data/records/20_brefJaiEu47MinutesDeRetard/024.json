@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Je vais te casser ta gueule !",
+    "end": 25,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=24s"
+  },
+  "thumbnail": {
+    "hash": "81cf1ef2c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXBW2/SYAAA0GI26EYobcd3aVfa0q9XKIVeaIFxKRsi60S2rhPm4sREo9EXTfTBBxN/uudQF1GKpSYhlqVodR4URf7vz6+/v38cdnerYSe/CheBNe62XCL2HO3dTUptVpsWIZBhajTtiHCZRC8vlz+/f/l62N/OvEM2Cm0VNxgMWL0lTaIu9fiQtyxFJTqWVU9pjomiyYrn9mcXw3Wa7LKZ19bbNnEdfTzox75LPe9vkzQK4qjn91RV01XN1bUzAGs1VlbU0O9fz4fLaaxI2DE1r2NR7/f3d2+y7Xq+mEaDMOi0uwgAhmWRIMVdMwvUYmhYMqJPTniuLgiQylaL/dt8NoltS1dkGUBUOa1Wq6f8WcMiSjYwXkct35QAX+d5ThAw9empWK9fzdMpFoVSqXRcKZcrFZqmOY6rMnWEsUnUq9AkMuI4FkFIffv4lG+u03GCGjxTY8vl4xdHRzzHTUYjpSmKCDQARAg1AMAYSRKmPuy2z/c3nx+L3XYTBX4yGBf5Q98xOrZtm0bP6xgGOT8XAAAQQkHA/wEMkEoFwEUtWgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/11.png",
+    "width": 1920
+  }
+}

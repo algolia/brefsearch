@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "L'idée, c'est que...",
+    "end": 17,
+    "index": 5,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=15s"
+  },
+  "thumbnail": {
+    "hash": "4845bbb6cb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBbXOScAAAcL5AD6ur1HmmyxSZ25ymgswHYoPJH0UQEERAUZvm7bqc5jxiNze3K3e3yqt255vedtebfcR+P+jq+vz66+XxoNPR5fFocH//92x++nP1bWaPAi7X+nOXz+P1ujyKwNnOScNSoJvFbHrS3/R73my4Ryb/78/y9spezCa/vzjWQQYPBR4+eLz2aI0s5C6ccUtiIV0tNSQ25H5qkKl5V7ZV9pcGljXqtlkZq6BFpFEkjCJBTqgdT2cikYFAcb/TbfVUrr2fPJXoftcYiozNv/0kUEeFeHYrdATyY63UGjrDxd305gdUKZUFnptczKtkrorFCozS1PQPIoNGQuciXSEyDQo3NV38OP/8fXW2XEFYKlVTlUTRyMZjxeTOepRkrZHc7IbDcF3T2rpY03RC7nM925pcGkMHKgNKbZi7tJ5OJNUSwLgOkhez0jsvvPnEF/DBSJquJg7rZH0AjPdA70GmWjU0JYoxwR08ilLbOOuO5OG9cgZHX2688gSCqQM+L1iE1KYlk5ZMiGUooQK2k7kX/ogf3vUFY89ep2ME37fqmsxJIo/gxTglbe0dolQZo/n/zbCIDneU7VoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/05.png",
+    "width": 1920
+  }
+}

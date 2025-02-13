@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Oui, quelle bonne idée.",
+    "end": 28,
+    "index": 14,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=26s"
+  },
+  "thumbnail": {
+    "hash": "8a5f67f1fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACkVGzcbJWUwNmIrM2owOnwyMoI5R49KWZpHVmQqN18lLXE0QYNLVWs7RWM4P1o0OgAtFyBOJyyZV1CaVVZnMDNJHiCHP0qDPTGEPj2lRFtYJCgxHB2ASVB0QExyREtrQkUALRYhUSkpg0UskFFITCctYjIhfz1BczgwdzwukDdChkA3QiccfUFPg0hTd0FJcUBHAF0sNoxKP5BQPr1ub3Y5Lng/KHo4PYVFO18uHo5AOGw1LSoVEGE1LINARYVARaB2ZgBtNjOYUUCNSUaZSUegOzd/OS1xLiZyMSloKCeDPDNrOCwzGRVXLiB6PTiuWVnEmX0AWywqkEw6gEBBbS4vYBYbfCEoZCAhdioukDo7sFdO3nmEsWBibTMpbjUsn05Il2JUAE0jKXw7MYQ5NZxFRbFVU7hmY65aVLE2PLRFRppJQ9Vxd71dWnQ5LGIvKp9VTI1YRgBYIypvLCyTQjW0XVSeWU6HTD2VRjmXPjSbPTecPDarSz2JODF9PCp7RT2ERDx5PzMAoj1CrENFiTQygTYuikA5jUI6hzs2mkI+eC0mljw3rkRBskVEl0c8XzUidjk2dj091xqLnhbgMU4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/14.png",
+    "width": 1920
+  }
+}

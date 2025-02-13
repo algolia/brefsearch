@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Je vais chez la meuf, je sonne une fois, deux fois, trois fois.",
+    "end": 66,
+    "index": 27,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=63s"
+  },
+  "thumbnail": {
+    "hash": "4011fb94d6",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXB227SYAAA4N+LuRiycC5He6LQQYGWltIyDi1dC2UdHQPWwoQ5FQeDaRZkW5wxS3ZQF43ZxeKF8Ql8CV/N7wNFtizxsrlpIjjNCFqWkzEiQ+VKWb665vR64GyM1TnVDsWFVReOp4vg+NPXD1fflzcP5vK6eX774v7X5MtDf/mZZpiQyxeg8059B6obPll1iKWUVAduuujlFEjQo6UWUjGRSivIa9Wtvfua8pvJ/5HrI6NL2VNSt0OWlW51AEoLhc0yV6skxRwta3TdKleb34j1n0TqLp5eookFkmjvHFGtOXxwSGhbQOqN7ePT4fsztdc7vflx/fff4/ntHRz7GEseRDDZF2m4/G8FhX9zgQxfZlo2gLAsRPDBhIiwuj8ueOP8LMmeRLD9MDqFY6MwUnFDRzg5mF1q86vm6wugWpPtV2fb48vd/bkq1oRUbkFmGp6gFYBPonjbHxJ94bYnYGh9qb+QOjPAKntCY0AVNRQmn4Gnz1Eyh60TK45pGB1C0Y4/XHBB+TRvHC7qg3dydwJwTsdZPV4wUEYBT1YBWIkkWBmjuk5vww0pjrUNSizsTjfMMa+PGMX+D08IakK/JZ8QAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/27.png",
+    "width": 1280
+  }
+}

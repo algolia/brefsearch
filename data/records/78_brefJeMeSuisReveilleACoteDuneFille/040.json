@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Papa ? Maman ?",
+    "end": 42,
+    "index": 12,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=40s"
+  },
+  "thumbnail": {
+    "hash": "40d35c2d69",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nB3QW2/SUAAA4LPQc3oKY6P3U3pnC4xRbiIFChulBQYbMAoMps5FF10yl0VjYmIWo3vRH+CLf9foD/hePoAoOgHxNgUTFNSIlrGz+5l8LluSRVVI8baZPcxXnUKt6NQPclUhxYE4YmREE0hLFLKIahm2IskJJi4ld8Jaa9o7K5cajXq34XbLJVdgebANkQqxijCBtKVopm7KooQhVlnu9WTzeP+j4w0Cfxr2Zq1mSHgRJCmkI0ZDjALpTFo3VF2XSZoVCroZPPM+vLo/G18G3VkYREGwMEgaJCn4D0Cs4fi+YUsc69h762F03ukfF6rXp5vjYmU+XL5Y3Y6HG11WgISYPTquQUxoRpWIJvB+rTkPJs9zhyP36Gq0mrR7Xz/9evr25/PDz8XpJRAgbSImTePUVkzjRdepvl2/65TdZr54MV5G/fn7lw9Pj7/X0Ztodh20T8BujFIgkiDajVGGKE97k9XJYjVaLsL5eTAbH40+3n2/u/liiUpGNYUEA7j/oWyM2oGwki/3vYFjWmHTjwbLdsXzKq2ri1u/7nMAEIQ5Bv8FlXxKAMAC3LMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/12.png",
+    "width": 1920
+  }
+}

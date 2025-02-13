@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Ce soir, je suis fatigué.",
+    "end": 25,
+    "index": 12,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=23s"
+  },
+  "thumbnail": {
+    "hash": "c4fe697c01",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nBXLWW/ScAAA8CaO8m+5ut7Q+6QVKCyMOo5BCLQgh8hCtzJdqs0y3OZiBjPGp7kHj0c/hJ/Hz2T8vf+g7jzw6s3L+OF280EvMOk0JrFsfPPFn562HHsyf23ZZVWQ6X0cRVAAJ6GjWeAdjU4nkd9t9m017LjReL6YnnQO6yxBSFqxUavJgpLLZJNJsLcHQyXnYDGNztc7k6O3L9u/zl99i6977rHBYAWaxSlWFiWKyiNICgFIIgGgPJNfruOf93dvXfsp8B5PBj+ut41SlSexIs/pHF9WdVvRUJACIJWAEYhXzI1bOFMzpqw8rrzvy8Hu7FLkZQbPdCql/va3v4w8S1MwDAD0f7DM8lODXgmUQhEPq/Fu5lt6Rae421ol6vfWf/4O3n8OW/WmyOUQFIYRaGya72R8o9FXKvO17dzUSzOBu1D5O0u8H3VfjFaG5cRTv2doMkkCgECBTLzR6chgNwY7KrAKgQ8Z/FOR+2gJV936xcR3TW1x3PIqz9tFg8xmoaWIhxodqlQokSZbYJj8MxiImVQgUdJ+Lp0lXccZHla9A2dYLRkM9Q8my1Q4qcN+jQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/12.png",
+    "width": 1920
+  }
+}

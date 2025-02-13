@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Elle tenait mon frère par la main, mais je l'ai gommée.",
+    "end": 46,
+    "index": 21,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=45s"
+  },
+  "thumbnail": {
+    "hash": "cbeb8e6a7c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKmci7Cjj7usmMa1gbCfYNjMnNrRu8S4od3UyMO2it7Vpc3BrZmKY7irjbKmlaqdiwCypZTDt6PZzbTWxXzHu6nv57bIv6rAtq/Px8HUy6vq4oX178nGu5+zp3rKv6+yppQAwrek0ca2y76KuqxEsKSYvrKO0Mm25+Lb5+LZ1c/Nuq503tJ2ybtGppY/2M6bw7itAMzBsbiri93WM+PbBYRzLcW7h9/ZwrqyrNLKwNvVy7eshMi8HefeHLOjJ72vaMvCpgDDuK2/tFn38h/u6BuLfC7Eun7y7tnr5+Lx7ejq5NOvolrZ0Crh1TrXyjjNw1K2qoEAwreuxbhi9O4l9e8hkIIu0MeO6+bQxLy3xLy2xLusp5lQ49olzr0t6+FN0cmMr6SVAMG2o72xo8CyWdrMIpSEN8rBk+PeydfQytDKxdTMvKKTRrChHce4JNrQZquglbuxnQC1qJS+saitoXDOwEfCtWDEuIbHva6+tq7PyL7QyMHi2aOajEixpY62q5e8sp6zqJQAqp2LsqWWwreW0ciiu656xbhz6+LTqJ6VyL6y6OHZ1MumrJ5hz8S6v7Sgr6SOpJiE2T8maxnquwsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/21.png",
+    "width": 1920
+  }
+}

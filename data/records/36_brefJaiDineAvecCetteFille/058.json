@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Quand je suis revenu, elle avait repris un verre, moins sept points de sobriété.",
+    "end": 60,
+    "index": 24,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=58s"
+  },
+  "thumbnail": {
+    "hash": "8d3c688151",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXBbW+aQAAA4Atv53GAvHjA8aqASlFq9SZYlWqtaZuttW+Ly5YuWZZmX9Yv+xfLfvWeB/hE6xF9EVPSVh+X028bdl+Vr/vVcVMdqvHvu/W466syymiHpb7fVoGGsYnVOkmCDt1Psud6fGzY+9Pt28fL+2p0+JDngdNWcBm7FydRYraBJEBD1c+6ZUTCMrCuR93P69ktK1+a+VWRssgOidm3jX3mTWKnsE2AJIgkSPUgpdHNrDhulkPqyBx3PkxfNxcscMqA5Ja28PRTas58AlSk8II4cONlkjmCuC3y1aBnQTF3Ow/14svy7NfV7I6Nt7G5jcy+S4CBNa9tBBY5j7wqpO/Pu7/fP/3cTL+uyh+7+b+3w8uKNam3j0wXI9RqASKjdUx1rBhyi/XDeZE2J70qC6dJyPrBNcsP9fTPTb3LuwhCKEmAyBCLEsEY8yIAXIvnfQXasjRx8SLQLJ5zJaEZJttRZquKKAgg0DESRIETqIpkCCeO8jjQTx3lUNi7npFo8tBUKBQokjoy7Bryf2n1O1JfY4lfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/24.png",
+    "width": 1920
+  }
+}

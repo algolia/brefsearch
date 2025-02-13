@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai pensé à ma mère qui m'a dit qu'il fallait\nque je me mette les pieds en l'air. Ça marchait pas.",
+    "end": 27,
+    "index": 9,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=24s"
+  },
+  "thumbnail": {
+    "hash": "bd9498a364",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nAXB2XaaQAAA0GmGRQapRdk3BUGQYSY1FWhSPUkOGrWLxmi0WNP25LHf0Kd+ee8FguRKKul4Mz3amunJzs52VjvZD5ecbVybyU4PN0p33lRoQ7R4pIN3ZqmGX5RgZeMX9/LVI98DuuqlVYBnAf3s4aU13AstX+Al9NbjkApaZqFFG9mdGtHKJXV0dQjIg6rHmpX0aTUoaz//IxmU43hesjjUBqzQYbgmK7S95K6Ll1ZwrbmXZnekOJnmZuH4EN3+tciZFXUW6ZATgezeaB6R9b6XTENaqXZm++NhvknLveGN3HhKFv/0ZMvwiEUybEhA7i2M/o1qZz5+iOg8IrMBXQ3zp7Q8pMV2MJrjyS8L79hGk2m0IC+CTn9nR5Xu0fD9Orla+8MpLp+z6xO9f6W3L0nxiCc/HVpDXoIMggwCSE5Fuddsd+P8OCwOIV2kxXP68Yg/ncjd73i8jvMnhxwZvnUBecgicAEAeAN5yUny42C0Ccky/vCY5Pto9DWdnANS9XBlxN84pEBOgJz4HxWbQqlLAvzNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/09.png",
+    "width": 1920
+  }
+}

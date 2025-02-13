@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "J'ai dit: Non, je pars vraiment.",
+    "end": 35,
+    "index": 16,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=32s"
+  },
+  "thumbnail": {
+    "hash": "06ef8536a6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHRrcH1zeYN7gFhERG5HQJGBgqqlp6ylp6+pqq+pqqylp6OcnpmQk42Ch4B1fHhtcwCFeoCSh42NgolNMzB+TkaVe3qxrbCzra63srG4s7K0ra6upqmnn6GflpiWi5CMgYcAk4iOmpCWm4+VZ0lIYDYxmoGAtrO1uLK0vLe2wb28n5iXbGJhcWZlcGZlb2Rjal5eAJqPlaSZn6+lq2RRUUUoJaCRkbu3uru2t765uMbBwZ6YllRJR1ZMSlZLSVNJRkU7OACdkpi+tLnOw8mzpayklZvAs7q5rbXCu73MxsPQyseooqFfVVRgVlVhV1ZiWVlaT04ApZqhx8DGrpiisY+fuJ+utJ6qtZuosay1l5ylo6etr6moamBgamBgb2VlcWZla2FiAIl4eaeLipiEi5eLlLa0t5ubpJ+WnY97f11YZWp5jLSwr0dAQEtBQUw/PEUxLG9iYQB1Zmd7TkWeiIqhl5+npKiIjZx7bHJsUlJPUV9hb4K0srIzJyc6KylAMzFPPz5wYmAAal9hYUI8i3l6rqOpnpmhio2dgXeBZExMWmd3aXmFrKioYFNRaV1bd2xqfHFvdmtpA9ze0WAYhAEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/16.png",
+    "width": 1920
+  }
+}

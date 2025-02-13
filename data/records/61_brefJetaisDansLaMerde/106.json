@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Et moi, je m'appelle Marla. Ok, d'accord, je vois de qui tu parles.",
+    "end": 110,
+    "index": 46,
+    "start": 106,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=106s"
+  },
+  "thumbnail": {
+    "hash": "85a09589cb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nAXBS2/SAAAA4P4DY0JMcMMIzKAM2tInbSmjhdIHfdEnLZ0tMOhahDqZ4k7qcWfjxYsmi4kXPfkD/T5AlgXDUGmGqddejNn+iCAySyk8zRGHfpwGyzyKl+mlnxoDmWgPcRCwbT0MXQzHkWaDQ9oe3/OF4c63uA5oms5qd8z37z7e7D9n87lA8VgbiCI/iUMIbHFdZMJgha28ndmHmXVtKoHjBFdv0m1xvD3cv08/ROqYAIHj3W2+3aAILPUpCQczdfRlEWSqdK3wl7Y5X++j5GqzWtwf1p/Wjs50gD///v749RNunUs0JhGgTkK5Ie4t0+0RGs8aYRIs1sskvlu5x2gSjWng6/dvD78fdAzU6I5EQBzYMLtwOKDxWmU2Yv2JJsh64M9ey+xGZVcaBygcUzCk/rLGntf7rTMBeuX2kGa5hFafzi/IgmV0BHNNbWePPRZ2+wgwqJSnpUe9Zyf88xPvgkp4NqAxtHpqYmAmDkMUSig8trWtp1hUS4TPAKn0WKiUsfITG4V3/jQ1lCmJkPVTm0DyqbrRpBtLzGzR57sK2mCb1f+ePn/aXlkcMgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/46.png",
+    "width": 1920
+  }
+}

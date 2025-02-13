@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Qu'est-ce que tu fous ? J'arrive.",
+    "end": 66,
+    "index": 29,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=65s"
+  },
+  "thumbnail": {
+    "hash": "f1feb7b9aa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIBxao99daWSiLOglb+roMGvo8Cwpsq5rsOxpsKwpsCupLimnauZkJ6Mg5KDfIFybwCaiYColYu5ppvJtai6qJx5X1SIX1Keh33Mu7HJt6zKuK3Jtqq8qqCyoJabioKOfXgApZOKsp2OxayX0bmqiXdujVtIunRbilZEuKebzbuwxraur6Giu6SZuaWanIiCk4J+AKeVjH5qX41oS5dzYXVTTH5NQ59dTJNiRHd3bcGqpbmjlY1dX4dKSK6XjpWBfG1gYQBYSkgSDA9XQDydbF+gaFOOXT2BU0WRe2exqpnJsqe5mYa1lpCrlJCsnJaThIKMfXsAFQ0QRTEtiWBVZzgwj2RV16KC07qr3M7G387E28zD3dHL3dLM39HL1si/yru0xbauAFs9NHFOQzMfHAQAAF1VVuLV09vOx+LTyOTVy+jZzuvc0+nb1ODSzdPFv8y9t7eqpgAuHRkGAgMIBQYlHRogFxdwX2KYiIyZjJChlJaonJ2wpKSzpqatoKChlZWRhYZ/dHQAAwIDBQMFEQwMQDMxPTEvIhkZVERGUkNHSz1DSz1DSj9ETUJGTUJGTEFFRTs9PTMzt4vfHfvuM3UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/29.png",
+    "width": 1920
+  }
+}

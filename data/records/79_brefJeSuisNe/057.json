@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Ovula. Je suis là maintenant.",
+    "end": 59,
+    "index": 31,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=57s"
+  },
+  "thumbnail": {
+    "hash": "2ba21746ec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABd0lEQVR4nGNgBAMGRgYCgBGG9EUUHGW1IzUsss3dKr2CW+KSujKzOjPTOzMzO9JS21KS6oPDy23dcw1sM7Us09TNGBwldSLUrOutQmb6pG5IrzjRP/3K0hVXly69smTx5RUrT82YfaCjZ0t22RLPuDn2EZMtAhlsxLUDlS1rbUKnBqQvTSzdUt6yv2viof5Jh6dM3dc/eXN26fL4rKmhSdM8o7ssAsr1XBnspY0ClK1LLYKnB2evTK9amVaxLqtya2Htzurmldml0zxjeh0jpvkmTPOKrzb0TNWyZ3CWNw9Qs88yDejwTJ4SnDUtOH1uRNayuNyV8TkLYzKmeMfMCkxamVDQ5hCequ0UrmrF4KloHarhnGYcUO0Q1+WV3uWdMskncYZf4nTv2Nn+8QtCU2cGpjTah2bouUaq2YUoWzPoiqiYSGhayRrYKxi7qJi5qZj6qpkEqZsEqhoFqBp6K+nby2hZSKqZiqsYiykbiCoiBTDBGAAjAFsdfj3f9OMVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/31.png",
+    "width": 1920
+  }
+}

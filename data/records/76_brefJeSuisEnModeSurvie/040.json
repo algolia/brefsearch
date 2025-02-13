@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Alors, on a 30 grammes de farfales, 50 grammes de coquillettes\net 20 grammes de spaghettis.",
+    "end": 46,
+    "index": 17,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=40s"
+  },
+  "thumbnail": {
+    "hash": "805620b087",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJalqpmpspyvvJSksJKirpGhrJSjr254gFJXX2pzfI2bpoiXooiVoXyDiHZ8f3Z7fACYp62er7eZrLloeIp4i55yhZlRWGM0MDM3MDM3MzVTWGFhaHKIlJ9/iI16gIN5foAAm6uwobK6nrG+eY2lhJuzeZCpR0BFYUdCg2piUENBMzQ9ZWNtho+Zg42SfYOGfYKEAJ2ssqO0vJ+xv26CmHWIn26DmnVlaI5jW4ppYWhPRToyNmhiaouUnoWPlICHin+EhwCdrbKktr6esL5vgZZxgpdme5SFcXObcGeSaV+LZ1tMQUJeW2OQmqWHkZaDio2DiIsAnK6yp7rCpLnGZXWLcYCVZXWARzw5fVdQhGBVak1BIyksW2FbmpyYiJOYho6QhYuPAKCyt4uYonyGlmdvgZKMg2hpXB0dHWVKRXdXS1Y+NCgtMHNmVJGCZ2FydoqTloiNkQCfr7iDjaFXWGBsdHqVhWpRRz4eISNDNDBpSD04LikwKypzX0uDblNDU1VxfoKRlp0Ana60ZG92V15jT11haV5MTD44MC0sKy0uPzo4MjI0Xk0+f2pPfWpSOUVFW2hrmJ6nxy/HGMub2bEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/17.png",
+    "width": 1920
+  }
+}

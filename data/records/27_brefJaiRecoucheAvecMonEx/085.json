@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Bref, j'ai recouché avec mon ex.",
+    "end": 89,
+    "index": 35,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=85s"
+  },
+  "thumbnail": {
+    "hash": "c6e36bac8e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJeNibWrqNLJxId9epKCfNTIwsi9t8S4s8C1sbGppa+ioLSrqbuxsLWrq25pZlxRTgCglpDAtbLa0MtmUklTNSyPf3S6rqfKv7nPwrxXRkBLMTKJcXbTy8jPxMSNioc9NjYAsKafyL+718m7dVtCWEI4YlBFtaigxby3o5WSYT82cVhWrZqa2tLP0sfGsKaqg3h6AJmNhsW6trOjkDYmE0Q0KGFQRbyuppKHhCAbIi8kKDQxNqmgmtbMyNPKy5mOmpmLlgBAKCGHeHOvo5Q2JBZTNyxiUUacg3iMdWs/Oz8QEBo0Ky2Ial/Fu7bKwL6RhoSmnLEAPi4miXx2sqOXMyUUPysgWUE3XEtDqp6WTEZLFA8VYUk/nYV6ysC9wLSxeWVao5qgAExDPaOZl29kWzAkFTAiFnQ0F1shB2NDNz87QSgcHGdPQquhmsG3tYyDgp6Uk3FjZQBHNzFyZV44MzIeHyAtGxd6KApwIQRZOS87ODcXFRVcSDuil5JmXlxnYWHAt75jVlYAQTAmUDYrPzAsERgaQSIWZSQMQxUJUj01RD46FxUTY1FFgXZxLCYkZ2Bgp56jUUVBn6W+smHKA9UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/35.png",
+    "width": 1920
+  }
+}

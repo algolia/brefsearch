@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "J'ai dit: Non. Elle m'a mis une gifle.",
+    "end": 53,
+    "index": 23,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=52s"
+  },
+  "thumbnail": {
+    "hash": "1878ceffbc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHNoY3xycpCIiriyucO8yca9yremrZRuXotaR3dRQYNrWJ1/Z6mMeayUhrelobGksACOg36vo6DFtbG8qaSngnyRXlZ8TkGbYVHCeGmxa1lELSOEbVqZeF+RdGCjgmmuj3kAoIp/lHNlfllKcUw8eVNAfFE/jVJEdUg8oWBRi1RDIxcRgmxYoYJqnH1mgWxjgWhZAH1SQHdLOWZCMnRVQYRnUHVROnpANKplUrJtVnRCNEcsJJmAZ5+CbItmU3dRS3hfUABzTDuQZVWOY1Gbb16AWEZULyFqOiyXWUSOUj6PS0B4VE6bgm6ggGZ+WElxOTNxRjkAaEcwbkcybkc1i2JRbUg4OiEVQCQYXTYkajspbkw5gGZYpohxmXZdc0k/dkU7c0A4AIdqV2xJMGZFNX5YSGlFNVIwIl80Jn1FMXI9KWE8KYFbRKGAZZd5YXZJPIROQXxJQACBaFlvTz1nRDZqQTN0RDNwPi5wQzNySDeDVEOZaVereWeXblaGalVrTDuFU0WQWUsAWjQiWjgoYzsqdUEuf0Yzcj8uc0g4ilxLpHJfu4RzypB/tYBtdFI8Y0YvXT0vfEs512SsO/zzYx0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/23.png",
+    "width": 1920
+  }
+}

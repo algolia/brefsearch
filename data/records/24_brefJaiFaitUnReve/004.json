@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Je me suis dit qu'à tous les coups, c'était le steak haché\nque j'avais mangé dans le bar où j'ai bu douze shots de téquila.",
+    "end": 7,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=4s"
+  },
+  "thumbnail": {
+    "hash": "51f9420cb7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaUlEQVR4nC3NzY7TMBAA4BxoPDMee+zYSdy0adKkpUug+yMIcChwYC8Irkgg7YXDam+A2BfYR0eLeIBPXwZgNAmCARDxXVFfFs1cte/3L39uzr6F9Lp/ftcebrrpNjYnzXUGwESCKIDeFbvYzHH1NnXX4+VdmWbxh266Hc9/7y7uq/Yjos9Q0eNAHsk7P8TlKymfletTN92IH31x6Kcf48Wfw/xQb65RxwzyfwAFQcR1IV2xWcU0t0+/smm0LqXYp/7TcPxVrj4Yt81AMaElcgQito31lXXbkOZm+Ky50lwb6azbrnbfi/TGuCEDZRBY66i5Mtz4OBnpXHms1icESxSYl9bvU/fFxaN1Q6ZyrXKNYEEZouDCmXG9r86L8qhyIIqGly5M5fKd9Xvj+mzxROULAMWgGKmwfmS7kfD4qIUiCoZrH6aifMG21Wb9H6gcVY6E3kjLsjFu1JzyBSAway+ydtJqXRPVfwEBrChazTvtKwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/02.png",
+    "width": 1920
+  }
+}

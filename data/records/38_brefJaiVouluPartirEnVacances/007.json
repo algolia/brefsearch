@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Putain, mes fins ! Pardon.",
+    "end": 9,
+    "index": 4,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=7s"
+  },
+  "thumbnail": {
+    "hash": "091ad3a119",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nGMoyMiaPmFCf3PthMbKKa010zrqkkN8Yl0su0tzipM9koItO6tLKxP9k111swLts+OiGSrzC9obarrrKusLs8ozkqMDfbUlhOJNtOZVlrYURiQGmHTVlDdmR5b46jTEu9UX5TO01zWtWrqsoSy/oSS/Iislwdc7wEQn1s6qLi6hKCFCSkxIXVlZR1XBQI7fWl/DwcqaoaOu8fDeQyvnz5ozoT0jLirIyizHxSbL1XFSblZSSBADIxMnCHBz8wry8gjycvMy1JVVnjlxdtGs2Z62dtKi4hqS4hEW+nHWFmlubsZa2uwcHHxgIMDPLywgLCwgxFBbVrV35wF7M0sBLh4RfiFRAUElcTFrNVUXfUNRYRFOLk5eXl4eKODm5ORiKEjPDvDy52XnEBMU5uXk5uHg4uHglhEVV5NXEuQX4OLm4uXhEeAXEBYUlhCXlJSUYXA0NFCRlpEWE+fl5GJnZePl5hPmE9RQVNFUUuHj4RUUErK0dvL0CgoMiPTyDNbXNWXQVVY01FCx1NeWl5biZGMXFxIV5OHTVlJxMdYXEhSUk5YN9ov08AqytnLS0tKXFJcGAFVsanVZvNr0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/04.png",
+    "width": 1920
+  }
+}

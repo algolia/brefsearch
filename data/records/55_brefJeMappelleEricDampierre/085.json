@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Ah bon ? Oui, carrément.",
+    "end": 86,
+    "index": 42,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=85s"
+  },
+  "thumbnail": {
+    "hash": "afb3955267",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcElEQVR4nCXQ25KTMACA4SRASAgBQghJOISD9ETZUjtutY5r3VVnZ/bWO9//QZwd/+vv6gcQvOcBiCHyAEQAAYBESHshXJpVPDEx11EkAowBQv9pAFEAvBAFsU94QCeRuySbCjWX+lzZg1JdmpWUUeT5AIIAotjHIcKRT3lAL9b8Xfdf27rLxJOr/yzbt+3wra0WVShMMICAeTgNogBi5lOO6cWWv8fuR98+1nbM5bVtvrh61fqsy1UVA2OgSbKSJZbxgsbUJzbi18q8fuh+9c6lQsapSXLDc8uliTNNGDg19dGYT1YrGlOPZDhalbq39VNlfw5uKctGFLfd/Lxebofjx3ECszEPWn2uNPcJ8UhOGPHCPGQ7kb90zdtmeByn+2l9Pl/up/W2P4BNIR+kmFL+PgoGiR+aKJaELVK+ju4+9kfX75vu0LiNbQZlQMmijsc7VczW7LXZKvV9cFfXzMYuSo1C2kzaROg4LaIkp+wfnnQmg25NBKQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/42.png",
+    "width": 1920
+  }
+}

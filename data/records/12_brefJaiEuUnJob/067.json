@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Je me suis demandé si j'étais aussi une fourniture de bureau.",
+    "end": 70,
+    "index": 32,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=67s"
+  },
+  "thumbnail": {
+    "hash": "56a8065c13",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG1xdWxwdGFjZTY4OCMnKiQpKCchHEg4Lk8/MDU3NwoPEyIgIS0mJzo3MyQoLj5CRQCPlp1zdnlFPTxSSkctMTIhJiYaDwtMLyVHNy84PT8bHSJSOzUmGhYgGRUrLjYiJSYAqrC4PTw9EAYEZUtEQT07ICkqOjY4SzMtJh8cJSouIyQobkxEOR4YHBIOKS00KCwtALu+xVxeYS0bFmJFPElHSHSNnl51ilFZZUVPVBkcIAkPGDorKVhLTVhodj5IUlxfYgCTnKeQqL1ia3kyLCpVZG+Mq8J3k6dkbIJoe4gZGR0KDRlPVGRufpOgwtigt8xOVl0Ag5mrtc/inLLHOzhAZHuJZYahc5KnhH2Mend+GhkeDBEgX1JkkZ6vm7nMi6e+Q1JgAHGLoZKuwZuvwm1ca1hsfmJncV1MSGlPTVhDQhQTGUY4P3NWYYigtmGCnmmIoWJ1hABjeo6CnbF2ma+Ng5pGOj48OTlJWGFRT2JEMD4aGRtnRj9/XE9cTUteU1drgZdpgZQAXXOEg5+0bImccXqOcllnXW99Sl9yQ09gOC41EA8UDgMMPT9JU1xkUTkyTjs3S0hM+DSSmTpxw1sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/32.png",
+    "width": 1920
+  }
+}

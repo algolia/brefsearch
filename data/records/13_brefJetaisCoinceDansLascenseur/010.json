@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Par contre, je te laisse, j'ai plus beaucoup de batterie.",
+    "end": 11,
+    "index": 6,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=10s"
+  },
+  "thumbnail": {
+    "hash": "c907db8dfd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nBXMy07UUAAA0P6AMMP03va2ty/L7eu20weddjptpOOoIYFKnEdw0ITQhGB0CIIxKBkTQlyQqItJJK5cuCO4c+dPuPdvjOcDDiNDRUGKCCFqQRFwiIWg2dpK/a+n+ztlqiPIrbBcE8IGAMstsMwyBkZEkmSelzgk8wLmkCXL55PBj7N61Avh0h0F8gIr8CuQawDYgIyna7Yq61hUkajwgirgok2fJtY4JLHMu5C1AABLTQyQxGEMRcbAApEETUSrkqJjuU2M2Wa56agPTWkUWeu2MZ4cTJ/NsignokqwxphYIZJsaapvUtdwBp14tOasCaBy1IoqqePNLn8ubv7c/P57cvYlWHWZ2LbbhPiW6ZuUEudBmkw6NKbeunnXFdlu/uT58fXF4vbq26/zz7eD+0OmF7gxtTquk3o0sKxxvzstkihIHdNROT7Lt+uTT8fzxfTg4s3l963hIZOHXuza3cArIn+j399/lPfC1Db9ThhRRY10u57NX7xbVLvvj+bXL19/ZIrQS7z/fZllO4+rvTIu0jKJsvJeGWo6FeTh9NWk/rBR1cPdo9O3V/8AutxfOtklirUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/06.png",
+    "width": 1920
+  }
+}

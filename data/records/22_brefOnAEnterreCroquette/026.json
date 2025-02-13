@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "J'y suis allé. On était deux au fond de son jardin.",
+    "end": 29,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=26s"
+  },
+  "thumbnail": {
+    "hash": "68d8ce09ef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFNNSnJsamBaWG1nZGljXmxnYZqUkJaPim1US4ReUGZLREk+LkxDHW1jT3p0cXVuaQBpXlpzbGpFQz9jX1qgmZSZkYtpYFuJcGWldWPRrp2dgngxKCVQRiJ5b1aJgoCAeXQAUT9BW0Q+c2lmkoqHraSSnpWGdW1ggGNXmGVXvZKBiWpdOi4qUEolg3lalY2Ki4R+AFhPSEQ4NGdgWoF5caabjKeZjodlWXRPRnBLQ49sXZt2ZYVVSVtTKnx1WaCbmJaNiACjnJmWkIycmJOjnJWbk4mUfXFbQjteRUCicmexgW6lfmt/YEtwXzaGd1twX2F2bW0Ao52asqunurOusKiikIx+hnBgb1BIKRkVZz83dlBDflxNSTopUD4pdF89dFQ8d2xqAJiTkaKdmqylobOrppCHdZx+aWZKQRkVDiofGjAgG1I+MTgvIDovH1ZFLn9rRX90ZACLhoWUj42cl5Soo6F7bWKfg3QvKCAeGhAhHRQqHxg2LR4tJxsnIhhCNyVjUTRtXUUAf3p5g399ioWEiYWEeGVbiXRqKSUbPzkvST0rRDgkMCgaJiIWHhoSNSsdUEItTj8q4U+rGDNIYxoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/12.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je me suis battu pour avoir un travail.",
+    "end": 107,
+    "index": 36,
+    "start": 105,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=105s"
+  },
+  "thumbnail": {
+    "hash": "23cc9a5a3d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB226aAAAAUN72BXtb0qXWVdF2koqXWhWLgNznBUWGCIgiAgOqqFVi27Xb09bu8rBLsixp9gf7gP3azgHKZQ5BugxULRWTXD8vMnmsBg+xQqeew4lj0ziYTPbd0bPXRQh+vpfOpAG4kCuinAhTYg7zVOrbtvzpEv+t1Rc0bpOU7bwZWbY69W2KZUuJp2kE4BvDF+eocEL6Fdnlu8ty9Y4Sfgh2SAwirPfn57/HL38/XD9sGtwpDD1JsQA5EGptwTsTFaJv7nbvx9e3TeeGW4eEeYm1r+a/Hu++f3SVWxapn2FZugVgwQlDE6t8q4eL4yj67N98NcMdFazJ2QrhrkbvHkTzXpfv1Wm9WduTTgGaYbIE3mIFrimp4XrlL+eSZ+uBpc49bTZTjKk8NI3lWHLaPb7E8QBPd0oNqiVIfF8RLGcx366D3TRchZttFL31Fxvduwi8pW5YXUlTxRGAo3S2gtB0U5a03kCzTM91LpSJbTmOa/sjw+4qutzXmq96JNfmmQ5QraA1BEPPG8VCJXl4lEwcp0AoDWZSIJQCITCRSR6+jMfTBzEwHgNj+4n/g/mSGwaUgDgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/36.png",
+    "width": 1920
+  }
+}

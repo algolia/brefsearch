@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Il est très gentil.",
+    "end": 34,
+    "index": 16,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=32s"
+  },
+  "thumbnail": {
+    "hash": "e3ce1813d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANDKyN3W1Ovn58CqlnlWPW5IOU00KRINEAsIDE1EP3RlWWZUSCYbGBcQDxcQDyIZGADRxbrg1Mjp4dWTeGZbNSaLW1FxSTokGRQJCA1US0RwYFVaRzwnHRoWEREaFBUgGRgAuauc1ci45trGkm1XcUM1hlNJg09AHhMQBwcMWlBJV0tDNisnJR0bFhESFhEUGhQWAL6xpLWnncvGwKaHdodSP4pRSXxSRycgHyQeHl5TS1dLQy8mJSYeHRYRExENDxQPEQBZSD+Ec2+aj5R8Y1l+UkCGVESVeHKCe4BpWVRUQzhmUkg3IR8bFRYZFBUTDhAPCg0AJx4ienF5opigf21ucEM2dEU3gGxrmo+UfHN7U0RAfWdbSyEeGwcJEQ0PEAoODwkNAEE3Pntxe5uQl5aNk3RSS3RSToJ5fYyBhY+HkC8nLGJTSmE9NTMLDBILDRMOEA8KDAApIShvZ2+PhIuLgomIfoGGen6RiJB5bnKbkpoxKzRKPDh2WEw4FRQhExISDA4SDBAAHxceYFhghXuCfHF3komRiH6EiYCIYFVXmpCXUElSLyUmXkk/QyolNSUgIhsdJh4jUyyMXDbb4BcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/16.png",
+    "width": 1920
+  }
+}

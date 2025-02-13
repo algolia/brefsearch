@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Je suis rentré chez moi, j'ai pris un bain et en plus, j'ai mis de la mousse.",
+    "end": 18,
+    "index": 6,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=15s"
+  },
+  "thumbnail": {
+    "hash": "04e527c0bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nAXByY7TMAAAUIPaBMexHduJ7Tht9trNZJky3Siqqs6MekBCAiEEByROSFy5IX6AH+IHeQ/cj9up29iikZRdNlMuU1uuH/fHzw/9oVi8AODD8/Xv71/hzINz78/P76Cz4107rMs2F/K2256Hh6+H62XafNuPp3IJPVjLpM8XNAiRH7y2DRjsMNlpalxBeSvU093478uP47IqYtFImUZCkSgOCUOEQDx7OQfHvt86N5VNy+VK6jrR79u+ilWRyFqppUgkpopQhTFHmEEEdtaOdV1J3cbaKoO9YD7zK6VdtmizRcrEMop4gN/kJsE0RiHImWAIB15gIva2Km6b6eT6LjWVkiuTGZ4wGFJIdpk+l5mAAWiVVpRBD/ZavnPlk2tdmuVc6IhmIpGEIR8liNRcbFO9jiLgjDl33dnayehLLj725afDfca5QHgpkpxx6iMNw4rQGhNHKBiLwqVmX9WP69XJ0GdbXvu+iHnO2M2WQyJiH8avYAqDFuMck///7TQR8BbAgQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/06.png",
+    "width": 1920
+  }
+}

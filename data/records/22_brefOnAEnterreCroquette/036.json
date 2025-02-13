@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Elle était vraiment triste.",
+    "end": 37,
+    "index": 16,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=36s"
+  },
+  "thumbnail": {
+    "hash": "a24cf42960",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXB4VLSAAAA4P3hNJB5uFMYwmxzIYO1OdgG22QwQJggbHEjQ3Bwke4KMH6AlQfdgXZ1HcbFmV69QHf0kn0foOhILLvJp7zVIiEEPSqDXh4xs3Zpubj5++Pz5Cz/ddQs1SVJ3xByrlAAAlDCsY2t7sehWmEvDNt1PtA5jk/r6fuB+e/hW09LjM7zk7mVPdnmEyBDwgAedntQJ5/aMZSdoHvVYV+x2WzI1joEPoFA0ONabx4SP/909VaIDKyFcBegv46pjehgXm7oeBx1Mn5oF1pTI7gcRA9QROOIc5UcjJVqj5aVTToEAdaU7c+l69+RN6e4SnmKlLsWg3tZ6mNZWLzVRq+UvhEZz3LWdezFCRkhN4Dh92J3Rg1++dsNtBSFn/vslYjboH0jXfxiHuqUd1glOjfYcflpgsNExgdoF35rKnbv2Fb92UsBjmLOxK6jdYDcniZNAS9gjsfe0dU4paS2JM4ncziQrfman1jzkrMM+qIQTNNeDlkp74Pvc6FJRXx4py3vPnTaZ/mMmBaZJE8AyQzBxrAUF65nqKGZqEh7Ego2BGRkSI9Dc7mY3F71M3JGkfMywxdE9j9mdXM7HVMTHwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Je me suis rendu compte que du coup, elle balançait la fin\nà ceux qui faisaient la queue. On a marché.",
+    "end": 70,
+    "index": 30,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=67s"
+  },
+  "thumbnail": {
+    "hash": "063a3d4163",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfElEQVR4nBXKx3LTQAAA0I2jbdom7VrVKpbVbGIhKUrkCSXEGQeGQ2Y4pBCGKxf+/wMY3vkBgaDASGJkKCbnlkNwF2ptU4cSQXCm+EPln7bhlOpiqYQFgcRIIVg4Yhe4DEKH4N9j1fiGIcgQ/F5HT31ylela01QSCi0gMGLni9vcf2gShWAixfvIv2nbJm99zt8usq+FaVw7sJEhUBEEHIKHpfMp0alkDoZtnNdZs6/207vrdRA/7+LHjb+yscRWwIm2MRjC4O+Hm5fLfcrRkrF1kA1tdxivt0VXJ1Uk6M7w3pPCWmSSeAyDeSnepv54/NUXVeuZOsrmsv02jPcX/TrKfXB20OJnl78O5YoTjREYHfp02R2Of+6+vHwsk9tNeiqyqzicikoL1YKznqDPZXRqspXiOSUgofDHsJ3nx2m832hZKJ4YX3Gz2+xLL4isRYhRLOyY25FghmJQcHteJ5FSDvu/G5d7jisZ91wTcpbbaMVIyKhnE4kRsax/2fQtSdUAIb8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/30.png",
+    "width": 1920
+  }
+}

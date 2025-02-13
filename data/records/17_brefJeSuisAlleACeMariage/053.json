@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "J'en ai mangé quatre. Le champagne aussi était bon.",
+    "end": 56,
+    "index": 20,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=53s"
+  },
+  "thumbnail": {
+    "hash": "b3790dd803",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXBW2vTUAAA4LzIxphb7NqtyUmaS3PSXJqck8s56UlOltmmZW29DFrYkL3IWH3xwQcVxIFS8MEbKnRD0R/r9wmRaVI34JgmHi7xYuZ2C7A7cPxlOVnmw8vi5AUrX9HiXZx98PCNBgXue3WSTVjJMY0NOOq2qk5j6DoXx+PL/GTFjt+yas2q74Rv8OCnjYQRRk949bgc1rQgpl1q7ZndfhRG56y+yvjrQfkxK7+R8i7h/3D+2yfCJI5O02xKsykrcieKWo1Ka/my0WtbRHOug/RLyn/FxR+U/w3ZbZ8KU0Ke5vmcnZbRqvCWGWh2RFE/VLtNua/AXPc+oWyT8Luk2IT0KyLCLCXTmHB0FcOzyvIXyB7Zii8DsylZB8BX4LUd3iL6I2GfUXqDE6HuB1wziWRyv65MtbbBIoLLxK5tEEmHiRE/tNBag2vLeR/ilxgLBEj06ACJ90MzHgRjt5OAfc0DKjU6Y1evICS96LlivAHKyumd+45gbW37e6IlPgh0Nw+H3aNs5560u7Wzv71nNtuRqnk6nEvys2ZjrgOmyv8B89Jb9zDV02YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/20.png",
+    "width": 1920
+  }
+}

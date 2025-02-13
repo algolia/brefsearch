@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Oui, parce qu'en fait, à l'époque où je draguais cette fille, Marla m'a\ndemandé: C'est qui cette fille avec qui tu es allée au cinéma, hier ?",
+    "end": 82,
+    "index": 33,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=76s"
+  },
+  "thumbnail": {
+    "hash": "4085410746",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nBXMQW+TUAAAYP6A8bDNODXLtsNobEttwdJJl1EotLwABV7h0dc+eEBpC6U2y9x+whITE6MXD3qYB/+HF0/+KeP3Az5GVa6GQxmAkarK7MVrVbq6bjcIdKI4Bl4Q0FWYFC6mFiImIpbnMwBok4kRBJ5pGlKH17vCPrBL1/A0GZEkqe5oeYuSNYxyd556wYxByMHYp3Qe+q4qcHb/LQEaNUeDN02EcFzdpbt7ur3FeeXT1SyiTJoulsuoKJYhtMBlez0Z7aZ2Bc3c0hYhIpsbnJVk/T7efkBpEUYxs99vqt263K48Ux+LXAbk0h4noyHV+ti1/q/JZp6VkKTOLJriiPn0+eOPn9+/fvsyg5YhcjpfTwx161gKV8NjOU+XMM5RVkCSuYtssd4zhKDHX4+///5J51Bp15RWzZN4u9u8ZE/jQe9h6mSa7gLbCmmQbFFaMmK7AaH9cH8DuFqfPRuLLaxKtshpQj1sscWrZ/jk2Dk75SVFn/iGGzLdTlNosMODp73jI+38RO00fLk3lfih0JievywPn8Dnh8GLI77eqgvvpIH2D2SBh3QH/ZYsAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/33.png",
+    "width": 1920
+  }
+}

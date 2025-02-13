@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Au boulot.",
+    "end": 50,
+    "index": 24,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=49s"
+  },
+  "thumbnail": {
+    "hash": "50b3ed50c7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADczOVNMTnlxeIR9h5yXq6qmuGpkfExKc0JAZ0k7SUlBYVBKeldSf62qybWxx6SfsAA/OTxrZG2ZlqhhW2N7cHi5tsxrZHs7PGwmJ09+VUJsV2pWU4phXI23ttSnorehm7AAQzw8fXmGr7LOMikpbk5DuLLFaGJ4RUJqGRw/bVZac2V/RUJvZGCTtbPQf3iDhn+PAEU+PoaFk5CUqHF4kpCDjba2z2JabCspQRcVIGlpgkREWCIcK2JfkKSjvW1mb3lwfwBDPDxrYWxdIS1uRWKtueC6u9dUTl8ZGSkbGCBhWmAuKjYjHCpXVHybmLNdVmJVTlUAPTY1QCkwagYdXBkvfH+So6OzSURVFBMhFhMZMSswJyAsHBYgTktwcWyCQz5KQDs+ADYwLkg+RmQHHEUYLEhRYmRfZDo3RxISHhYUGiEeKSkhLxwXIDs3VFRPVjAsK0xHTQAtKSg9KzJbBRcpFSFaZ4NrZ28wLjoNDhkWFBseHCUpIzAzLzkwLUN9e36ChHdOT0AAKCQjJiEkSwYUMAsXQkthcGtwJSQtGBQdGRYcGBUfJiMqMS8uMjFHVExRUUc4ST4uNLmRjOYoGZkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/24.png",
+    "width": 1920
+  }
+}

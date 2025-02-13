@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Il y a cette fille qui s'est bien me parler.",
+    "end": 56,
+    "index": 16,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=55s"
+  },
+  "thumbnail": {
+    "hash": "7d5a7cbe5f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIaFfJmamVRKQpZ6ZaeVg52RjJyWe4J8SYiBYaehkJWReYiFa4B7WXJrR1tSLGFbNACPjoI5OS87KiKXgl2urG2rrJeRi1VpWQ1eTxmKgjuUjk6YkkqQiUKalFiHgUB5cjQAmpuNLigadFBCpJFhjosxj4cygnwtamIaXlMUk4xCnpZToZhJiHwukYY/jIRAfXMyALGvoH13VYppTKGAXZl9No1lJINYH3I9E1suDJF9Np6UTZaVPYiBMJ6ZUJCPQX52MAC6uKmfj3RxX0F+XFKiJBmBGQ5yJBp7CglhExeMQjObTCSTVCGPSiGgZDWUXCmDUiEAeHhvOjgvcl9HZVNLnCsmiBYPfi8nfhENYiEokmt0lCMTmRIJmxMMlSUUjhMGhA0KACUlKBccE2RUOYlgVYZJRH1HTGlndHwuMmQUGJBlapo2JZw0MZolG5c3LYslHHoTDQALDA4PDQ58ZFaFXVJ0PzpsNjJ+YGOUR0htEROXb3GbLhyaJhmRGRGKLimEKyd0GhMAHBkUcFtLjGxfhmFYhWFadkpCd1hYkmRmbQkKjkFAjycWiSoMgCkRfCogchkKaRkM6gybfg03QhAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Je suis retour de Ben, c'est mon message, ciao.",
+    "end": 30,
+    "index": 14,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=29s"
+  },
+  "thumbnail": {
+    "hash": "d0d2aa8c82",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXB+1PSAAAA4JntVGCMwWCwDQHZw0my5REb4xXvbTetI0AGBIxYXhynpuu41I6o5IyrH/t/+z7gJe6/yPO2Xvpp6JdKrlOWPhvqsCaOm9rtbHL3sfc40D4peT3J1Jj9mNcLtIT4SBZ+nOt/Rs25kv/S11cX7ct3lWvTWD/Yv66mT11lmE42mIORmNAScWCaeaHz3LyaM4sZs5pdWq31zFj0NXs6+P3NvvnQmxTFZUu165mFKr/hGeC6LK9a9Sfj9J/VHVULFM1WM6J1Vv46Mzf3t49X1vJcfVBzC604r0m1IxqoHDLTbMqUXy2bygl3BBMxOBg5ZLmVNfg7at+dqRJFjdPCTSHdF5PiQQw4IfEKS/VTgsyyaDAa2qe8GElGmfXYmIiCFIkCoDuBk/cNuX7MYbAf4EJ4hoqLNO1BMAeEelEcwcgwzW2swWbSeS+lUiTZrbyed95yeDhJ4AD43BnwoDDsd7h8EBJEsLA7QGBE9PuwbZ+WzJLUK2UbhTLD8D4YEyMksLW1+2zb4XT5XBAKoSGn278H+TwB4pji+DjVKqapCAPu+EHQs7OLwC7ffzk5ZvE5x7sEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/14.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Les dix fois suivantes, on s'est avoué des trucs.",
+    "end": 20,
+    "index": 10,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=19s"
+  },
+  "thumbnail": {
+    "hash": "065d910b58",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nBXL607aYAAA0CYaYXL56P2KLV9babmXFmgpsCltA0o1dBOVjkQZLrhpiNmyOUeWPcKSvfCy8/8gXDapMRmvxpx1DmZ9eRlo65Pyj9h+mZu3fvFT1FqOShevlfNuIerLPZ1GIJGu5XOjJrfwtWWgDWTsILV71VO+R/UuD9hXe8cV5jFqfgiNu6k5G1aQIpNty/iJxa/D2pULyV2ETewYdHrRkS50zpeIqCH+2Zxtl0cfp+ZjPERKHHBUvF/ETxucKQAd3T8Scj06M5Jwk0iPNe731P37+e127j7NOs+rU6QioIaImRI20ChPpbaj2pPfMMhUoFIWnYkt+WFobCbOz8VoM/e+3Y6RqoC1ZLqnsYMyZ+VRT2WuTdjjwBuV8SERKExLQAOd2d6Em3j8EE/+BwtSziFrK3SJy2kCyacTVZBoiUS3QBB7OxAkbSFzH7rPN5Mvq3dImc81JbKt0H2VOrfg+2G9ygIN33cUyoakiqcgSDoSNu0c/lrPvt5dIhoLanm0wQO7QIQmjFy9zmadAj6QSUfETB7YEtEWMa8qblfRy/38HyLXVo9r+d9SAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/10.png",
+    "width": 1920
+  }
+}

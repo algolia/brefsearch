@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Et une nuit, les plans ont sauté.",
+    "end": 53,
+    "index": 19,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=52s"
+  },
+  "thumbnail": {
+    "hash": "b987878e6d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdklEQVR4nAXB23KaQAAAUJ4qIEIW5A57Y5clKMLKHTSm1kmbTtKZZvr/39JzlOrYiPyAUXaq5NCvnx9/Hz9+LuM8jyujXHAheJERFkdJEqOMCuUsh66dmrqTTS+b/n7//e/za5Gyk/3j/uvl8n0cluooKc0x4Rgxpe/mebqe5ST4gSKGIB3b4WWYkjidp+vt9jbPr6e6F0XNeJnCTKnKU1PJy3ydh3Ua1iwTDth7rq+p251hIUhhSmBKECS+F4ZhqsiqWcbL63p7f7z/+fg6153gRRIhG7h7x8eIEcxhSgI/skxLUzWFEfYsjgU7CFZWx2ZpB1k1aQwBsG1gZ5R37aypW10zjO3O3XsKwexQnjJIOaJRmFBE4iA0zScbOE8WCP2IEr75puna1rHdOIJKmmCCOSWcsecojG1gV1UHITEME1iOubM0VddUXde2gZ+EQaLEMU5gBlFOsGjrTrBc1m2Rl2mCPTfwXN8wdpvNxrKAY3uO7f0HZsE9CdES92sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/19.png",
+    "width": 1920
+  }
+}

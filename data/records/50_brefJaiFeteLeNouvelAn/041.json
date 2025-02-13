@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Ennui. Non, c'était l'ambition.",
+    "end": 43,
+    "index": 18,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=41s"
+  },
+  "thumbnail": {
+    "hash": "ea61dc1170",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nCXLbW+aQAAA4BOOO6BQnYol3dzc1lhqxnQ6LQpSEeU88P1stcQ0itk6l64ft+zfL+mS5+sDBu0a6X6NPGvu2ytys6befeRvo/4x9J6nwU/iOsYF4FBR1wdW3ambgHYbc799S9w48h5mw/2C7Bn9Phv8WYV/19Nj4FSKrwGHdK0QOtdeswpmfWsVdLcTf7cgCaMJo9/uxqxvx05rUP206TSaF+/yitK5Ks88Z2g1QDzuHRg5sNFuOUpYeFiFh7vox5z8Ir3dsPc09sPa1dS8TEY3y8CldguUim/surmmveNmnDC6Z/RxM9lRL75u/F6Gj0OnZ7z3jI+dL+bEsyduGwAoAihJcjqwm8/bxVM837PQrZmkYtzbLVKtfC7q5UIOAKio6XNdB0hSkXwKBFlVMg/TIHBamlYQZdUyyrUPJS2Tfqvl8ukMEHAKYsALAIrKf4KonmZecVjm8AkUFQAxwpKezZ7n8gKWOSS+wIDHJylB4pDMIznFI4hliF++pEJBLJ2d6dk84CCPJA5JKQH/A10/Tqh8P6f3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/18.png",
+    "width": 1920
+  }
+}

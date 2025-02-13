@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai pris le temps de me dire que j'étais un putain de bonhomme.",
+    "end": 67,
+    "index": 27,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=65s"
+  },
+  "thumbnail": {
+    "hash": "3a49d2ba95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFtQTm1hX4JzdK+kptTO0MK2uKOVl5WHiI+Bg39wcox8eoV1dHhpZ2xeW2hbWWpfXwBrXlyDdXSTh4aWfXrSx8jJw8YoJiclIiMlIyZFPT+aiomThIKLe3iCcnB/cXCHeXoAdmhkkIGAmo+PkX5+koWEhXZyFhMUFxYWExITQzs8loaDjHx5i3x6kYKBiHl3hHV0AHlsaZOHhqWSjamWmYBxb31qYhcUExoYGBAPDTItLJuOiYl6dYFyb3BkYm5gX39ycQBmVVNlYlp2cGGNf4RsX12XiIMbGBYVFBIPDw0sJiN+bWWQg36ShYAzLCcUERA3MTAAUT83cWJXdWdeLS0tPTg2S0NAHBcWDgwKCQoJKCAcVD41ZFlUdmxnHxsYFRIQKyQgAFxSTWtiXy4lISIhIT0xLDMmIQ4MCw0LCggHByIXEUMqISQcFR8aFBAMCzAmJEc5NwArHxsZEQ4kEgg/LiVfQzNkPigqHRQiGRMPDgwfFRA6HxM3HxIqFw4jFg41KiggGBsAGQ8LIhMMUjIcjV00oW5Eo2c6lFYpgUokakAiUS4ZVzIeXDkmUTAfQSMTLyEbBwUDILeF3flboSYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/27.png",
+    "width": 1920
+  }
+}

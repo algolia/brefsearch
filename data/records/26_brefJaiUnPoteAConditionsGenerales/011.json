@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Et puis un jour, j'ai trouvé une explication à touser enfin.",
+    "end": 13,
+    "index": 7,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=11s"
+  },
+  "thumbnail": {
+    "hash": "b3984105ee",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABsWFSkhIJWQkLKxsK+qqbm0s7q1tLizsbWxrq2npH5mXWRIPkk4NH51cY6EfoB2cAAZExIRCwtrY2PCvry5tbS/vbu+u7m7trW+urmKf3ycbl2/iHSOX1JoWlaZkIqJfngAFhEQDQkISUFAu7W0ura1vby6vLm3ubOyube2mIV/f1NGkmJVZ0A4cFdRn5aPkYZ/ABYQDxIMC0E6Or66ubm1tLy6uLq2tbq1tMC9vKSWkp9sWpVmWX1OQpaAeKaelpOJgAAXEA4SCwpLQ0W/vL22srG5t7W7ubevq6l0cXFMP0iEWE1xQz1OMi52bmqkmpKVi4EAKBgWGg4KZ2BgxMHDsq6vuri5paSkSDxHHRAeLB0wd09GZkE0LhohNjE2jISBh3xzAF43MikWE4V6eMC+vq6qrLy6u357fjkwOiYZJiYgLDwnLV05NRkMGkpDSIB+gVpBNwBKKSM3Kieel5d9dnVFODRZTUlbVllLSU4ZFRkYFRcfGiAjGB0UDxQVEhMxLzJKPDgAOB8ZRTQuclVGSzUpHhENIxYSQDtAQ0FHJiEnIBwfRUJFEQ4SHBMdFRQVJyUnPTc5O4ysA6Q8R1gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/07.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Tu es con.",
+    "end": 54,
+    "index": 18,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=53s"
+  },
+  "thumbnail": {
+    "hash": "49581292f4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABGUlEQVR4nEWPSW7jQBAEqa596SabkkhKsi3D9tGn+f/jBqSAmbpmBjJqKK87QTkhFCqFoDCgESVxFR3VutrZ632cfy73PwMUgLJXERhRca8Gku9YEQA5sMliifG9L78DghwZIQgdbeIk8n0QjGUCUKRK3CzWNv8M8HIoRKhMTlyJEtAQHcGJKoKKdouVeIz2/h84Fpw5Rbvn6vXm9S7aAaycyOudpROP/wBHMAJlafX82S7f2T+9PTRW8StiELdsD+I2vD6G4rsrmsU1+jOmj5g+vD0kFo3N8iZ2zf61Kx0mymTEzjqqXzQ3231umpv4RWP19oj2pnmz3AbhVK2qo9msMWuuGovEVX2RWMTOnmu2N4+tTs9x/voLoZ8REHR4M18AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/18.png",
+    "width": 1920
+  }
+}

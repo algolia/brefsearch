@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Oh, J'ai traîné dans les rayons.",
+    "end": 30,
+    "index": 13,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=27s"
+  },
+  "thumbnail": {
+    "hash": "e5a68c2d9c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgklEQVR4nB3OyY7TMAAA0JyaxFnseIkdO6mbPW0aslQaBboMiA4zQkOpRjAXzhwQEhf+gDt/wkci+IL3jD+/f/769lyygAPz6/X8/em85oFvLro4fN+XNYUZ8oRtxcCSwCKmafz4cDNoqZGTYaiRd9flvSLat+dyed6s5ghWgUOAHQILLRbEMo37sTlW8X2XPvbZrLlyrce1+rKVsWP2zH+uw72EyLaoCyR0MbCMy656u04OuTik/JSJMcLHGF8yUiJnx/3PNf1U0Q1xmeuMktQMGi9TMSk6xvTVih8zcZuLQQTaAysfNMS9S/GlpAl0B0nmJRskNhoe9JKMko6Kzvof8rqIJkVq7OW+c4pxxzzhORseTIqELjAKCl9IshVkVHSQZJ/y21y8KaJDyvcxPiVkCmFH/RR5CfKhbRsZ8UsGNzy40bzlwfi/1wk8SLpTdFb4IWcfG/6uCKclGzUzEuTG0GkF7iK8FbiisBV4HaKSwIahQQTXOnxqxbWNdprOhfwLA0A3gqt2oMQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/13.png",
+    "width": 1920
+  }
+}

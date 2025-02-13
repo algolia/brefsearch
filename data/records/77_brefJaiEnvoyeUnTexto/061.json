@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai ajouté avec des potes pour lui montrer que j'avais une vie.",
+    "end": 62,
+    "index": 32,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=61s"
+  },
+  "thumbnail": {
+    "hash": "9797e7bb3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGoaPnYdSIIfUIciUI8kUpQlVpkmW5omXZclWJYmV5QkVpMjV4siVX8fS3UcQ2waPgB1GkSLIVOWJluZJlqbKFueKV2jK2GjLWKfKV6cJVudJ1ygK2GgJlyUI1aGIE54HEUAji5coS1hoythoy1joCtioCphqDNnqDBloy1jpzxvozJoqS5jkzhumipimyZbiSBRALN0k7RZgsZ9ns+Wsbpojrlji9Wgt9CTrs2RrdCas8uTrsZlimJQipNFech8m7yLpACwZoitSXfKjKi/c5ayVH+wUXy+b5TAdJfAdpjAdJbDfp6+YIh6PXeYOWzFeZnElqwAkidXq0Z2oS1jq0RzozNmtVyGqkNzoS1kpDNmoS5ioS1iniZepjJmpTVnpDVmmDBfALGMn8uhtq5Jd9aqv790lb1skMyPq9eovtSlutWovMqNqag9br5xlcmOqsyjuJM9ZQCGPWGhUHWfM2OyXISrRHOkMWasQ3K3XYa2XIW4YIi6ZYuvTnqmPm2oUnqaTXF8JEwAeThXhzpdlU9wkDBdmDNjqFB5pkZzqEl1pkNwmSVap094nkFslTtkkklsfzNXeTdWxrLH7DckaF0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/32.png",
+    "width": 1920
+  }
+}

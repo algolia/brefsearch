@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Oui, j'arriverai à 8h00 samedi, c'est pas très grave.",
+    "end": 63,
+    "index": 24,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=60s"
+  },
+  "thumbnail": {
+    "hash": "361b955bf2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nB3L2W+acAAAYBI5K3IohxQZNz/uIgIWba1YJ4fM0DVplyxLlizZw9qHbf//w5J97x/EIjCHwU0GljKtkSONhB815ucu3OnTNtGa1GpSs11Z7co6JfoWXEMsCvMEWpqCxaASAWfz8dnh/9bZ0RFrT+wyp07NbmV1mV0vjXtP/h9wGEwxER+FHLlXJjcz/O0h+l66QzzvctDm4JyDvgBdZu/8BTTFEB6HFyRqUPgZSAfP2F3Tf6qb31X4ZSleCmcf6efCvdy6Xe4cYg0qdE5niQ8T1KCwzmBPSZjy9K/S/VEan0POkxhhjB1i/WkbXm69Y2JApcn7c0oZwwI2Sji88ZXWll5CeQj410TwxMkURzJj/rJPhk1QpybUJOrel8GMlK8QER9RGL7W5K1EVtrk/RjZAjMjkEjhXqt02ASPsQp9KsyPseaLrErjizEq01SqKh5LNCb9dW1VtpRIjDEjn7bx813Ur12oz42HYAF4WmPJWOb7JXi/HA+B5dLIt7vg7VRo9JXKUMMmer6P+7X7D7+QRFkgL/ZSAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/24.png",
+    "width": 1920
+  }
+}

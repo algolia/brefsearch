@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Du coup, je tire le tuyau pour faire le plein et c'est\nplus compliqué pour faire 20 € pile.",
+    "end": 56,
+    "index": 21,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=53s"
+  },
+  "thumbnail": {
+    "hash": "fc84effbb7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXB7VPScAAA4B0TzPAu3lybbfzGjzE2xnjZ6EAaIQxTBjKcjPEiOBtqJoh3VnqVd3Ld9UGr867rY9/6Q3sepH/2bXy+GL6dN1t2pd4/+fzrYjjRpVKvqO4Xt9qSovFip7J3MPthjG/aB9eINb0/vn4cjWfGjtUdOFff/3Z7R6+ljdbeaGu7o+mOlFV65nvnw5+O/aVqXCENe9G2b1W1P3E+Hb27O7z82ap1MhhpDi67xqzRPC7ldw6HH6d3/4bn9y17gUBOeVnU39RtvTuX5Oq+c1vPKPSyl6LiMJLm+Q2OL6i1QU2f1nbP1N1TJJlWC4o5cr5O5g8sI+aKmgCEF37cuxp6suL3h8J+DArxnJQqiylVEDaRUsXM5PRCyTy9+Z1MlyOMHAwCEaO4IMkESD5IChjIErShWaZ1otUthGZesYnNdK5hzx8SqTJBsNQ6T64xFAZpDERCYSoAQCgSh1Islo/QWYRLbctKL1+1m9YFoJMgLPh8xKqPxnEYh+EYBIG16LMQu06KFCWSZBJJyE0AZTqagzAZi2aeYzTqci+hbhR1u1xuFPV4PE+XPd5AgCIIDsfZ/2m3ZdYRyGZ2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/21.png",
+    "width": 1920
+  }
+}

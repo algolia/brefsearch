@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Ce n'est pas normal.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=0s"
+  },
+  "thumbnail": {
+    "hash": "b608c017d2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nB3KW2+aUAAA4MM5KIfDwBYQCqIIcrGgKHc77c1WJh2um6m2S5csWbanZfsLe9kPX7Lv+QP1Kn5cF81lrBBew2+a1NoVThUPI0s3z1Sn3+8pXUPqcAhjyNg9HVRv58d6eagWg1OpC5m/vx/+/NzcT/TcMy1dl05l8UQ2uorECQSxoT0EH6/jX6/Vl/dLW5T1Fvl2d/6jCR9y7yIZJ5E39cZX2fIiCExJxhCngQcmjnWdT/PQN0RFIyeJod3NRpvbZBg4fc/a19tm/Vhlxbinci2yiicAIgIAAwCGiFCIYFZIZ5PZMumdu5o7SPOyKu99c+CMdEkQIt8DCBFIEwqyELEAMGJHfNlW8SwOQyvy9ZGlOaYhSF3TNoe6KvAi+F8JojlEc4BidEU71h8Ozf77y+v+ZpPYZ6os8HzHs7zMc9otFlAQQ8TSLQ4iFiLcZvjMDctkGsXz7dW7+vJ2XRabRVGE89Rx2zQDaBojhCHEFGQBxdI0VwZu5luLWfh5//T06fm42319PqxXN46qdDj+H3O0PK6pm49rAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/00.png",
+    "width": 1920
+  }
+}

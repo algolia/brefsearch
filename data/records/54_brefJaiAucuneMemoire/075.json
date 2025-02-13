@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Je mange des pâtes trop molles, je ris trop dur et de la viande brûlée.",
+    "end": 77,
+    "index": 29,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=75s"
+  },
+  "thumbnail": {
+    "hash": "4822042c18",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nAXB7XOScAAAYL60suUaxQ4BMWBuQyRe/PG2n4A4xSEiosN0ojit23l1tVrz6nsfuv7rngeZBvYsgIsALgfOKnK6piSRBORovVKOXZvG3hIoWiVx8nXx5GUBe/EcmfhWaIMsbG4TNw/Nri6QR6hSpqQSnvuda4M/LxXPKaJUPMQKBRbHkWQQZvPVw9fHnz+e9g/fvmwymWWtd2WFInX2dOzInkxHjuEqoi5IoyBGfj/9+vvn3/77fptvsuzj7XK3Wt6rZzyDvsFfHVmSOh7Ek2gYBQNFUKgTCvkwjFY347tpspkO55HvaECsq+9F/fDg+OAZaje9+TzvXPUM45LA6UqZRaBx2YKO32oPOt15HK3TRBOl4jGDkSrPa7ZhuWazLqiCoDBMFQADsQCwgAY1E+pm23ZHPR/IBkoApeHNRqPlZJJP0/6VD2Qg8CLLnCH1KqfWa5aqQA2YDc1s6DR1iuEXizTdrfP1NP20mD3u7j9v7pKw32t5iClWRI6oMaTA0krtQpNkjuashr5d3M7GSTqMb6LhOIz6nW4bOh60/wNLK2LBYQ19VgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/29.png",
+    "width": 1920
+  }
+}

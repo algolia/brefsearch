@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Déjà que le prestat qui outsource nous a sous-taffé.",
+    "end": 70,
+    "index": 35,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=68s"
+  },
+  "thumbnail": {
+    "hash": "1ac86f8976",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACAnLyQpMSctNS4zOhwdJAoLEgoNFBcbIzU3Pjg5PjY2OzMyNi8uMSopLCQiJB8dHgAmLjYrMjszOkMwNDwPEhkIDBIGChAOERktLzdFRk1CQ0hAQEU9PEE4NzowLzMpKCsALzdBNDxGPUVPNjtFExUcDRAXIx8lLSYtOzpAT09TRUZLR0hNRkZLQkFGOjo+MTA0ACYsNUFJVD1HUzc+SRUSGR4ZH0I1PEE4QVxdYnBydVZXXEZGS0xMUUhJTj5ARDo9QwAjIScwOEUxPElLVWJNUV0sJy5DNz5ZTldndYlugZd/kqZkbHhTUlZcXF9FRktARk0AHRgcHSYxZHSGgpKmfI+kS0tWOikuRTxFYnaMbYCWfZCoiJ62TlppU1NVV1ZZPkNKAB0bIFBdbXuMoX6Po4KSqF5pekJBTDpATmJ0inuPpXiLonyPpYOXrk5VYDIvMEBFSwA3PUhYZndVY3VmdYhxgZRZZXcsNEI+S11zhp14jKNjdIluf5J8j6V2iqBLUVo/QUYATVtoQUxaOkRSVWN0aXmMdYaaQ0xcR1Nld4mfY3eNOj9MODY+S1RjV2Z3YHGDUFxpCVmC0cLTZUEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/35.png",
+    "width": 1920
+  }
+}

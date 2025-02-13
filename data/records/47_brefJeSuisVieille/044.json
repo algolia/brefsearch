@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Je Il fait très beau aujourd'hui.",
+    "end": 46,
+    "index": 15,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=44s"
+  },
+  "thumbnail": {
+    "hash": "0593cdd563",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXB3VOaAAAAcB730IcuhGJypCAEAiIC8R0qlAu0ww86RcvTUgbK6m679rBre9zb/ov9nfv9gCpR5bgLkWN0SdAVodt17u8nA/82DPuaqSiSKCtCr9cRBI4XWZongUq1Ykl8z5D7nuF6yuuX5b+/f+J4GE39bqi7oRGMtTDSPvutXiBc+xwgS2y/p94O1E6gqqaaL0bvq9HXdLFZRvnPeLt31qk1fzYmy8tg1vRCFnCuOdGmZIfSHOETQv/6vs6fIopoxv7dW7ZNMjfZ29v91To145U2nImArNc4ieDNZl2Wi0X0xm0rknJUQALH/rGep/kwf7nKX5x0Z682xmwhAziL17UWbWkoxYIgenqGgxB2dAypZucpfbXcQZJ5yc5KMvvhWZ3EIoByXLnOYE0BxogShIEl9KyMnyJVBKO1TsDKbpY8bNL2dKlEc3Ew5oASjsO1GsIwcBmHIKz4EflwUCQpGqkwNd5AqdZoPH1/e/RHDT9s3AQMUEBRsFKBSfIEPT8plY8L8MEhaGo6RksoKZYJvnHp/P62e5x5lneht/H/FqZoOUkChuoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/15.png",
+    "width": 1920
+  }
+}

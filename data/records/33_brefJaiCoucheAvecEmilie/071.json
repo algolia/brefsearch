@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Poteau rentré en 4-0.",
+    "end": 72,
+    "index": 31,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=71s"
+  },
+  "thumbnail": {
+    "hash": "d2f6341862",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEs/OUIxKlI9NJWAdtTGu4mBbm1gV2xAP00KDFwdHpBtX7aYh4x5aox2Yol5bHdsaAAyJB8oGhYwIh1HNjCDcGfMs6OSimtvUkZeIiBpOzOueWLHknqfeGhoWFBeUUp5amMAIBMQJBkUKRwXJRoWLB8YXT80nY1cjZRMdXFJXz80iVNEkFxJakEzZlZTfWNacU5EABwRDRwRDh8UESMZFiMaFjkkH2FQLnyIOYqWS4ljTI5VSIxZSIZVRaGPjHdfWT8jGwAXDQoVCwkXDgwaEA4gFhMzIBlmW01sa2BxbmdzU0psOjF1RjeWfHOxp6NbT0wqHBkAEQgHEwoIEAkGFQwKHhQRQy4khHB0XFNsNy9FRy4sZjkwSy4lY1hifm99X0tKEQ8TABMJCBEJBhIJBxoQDhwSDkAuK0Q2QEM7RzMuNEIyM2dFOXpZUGdbalJKZ3dsfiQiJAAeFBIjGBUSCggTCgktHBVMOz4/OERCOkMnICpVSVKslZiKeX5DPUdcVF5RSVk+OD0AMiMgKh0aGQ8NLx4XSDUvPzRBRz9KUEdRKCIwX1RewLO8c2hzMSk1RT5JOjI+QDo/Wo55ZyCX4WYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/31.png",
+    "width": 1920
+  }
+}

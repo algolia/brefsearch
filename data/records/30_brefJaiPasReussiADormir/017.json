@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai mis huit épisodes de 52 minutes à me rendre compte que je l'aimais\npas trop et je me suis couché.",
+    "end": 23,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=17s"
+  },
+  "thumbnail": {
+    "hash": "c06516f930",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nBXLS3OTQAAAYMJjYYHwzrIbIBDCY3nZAplW26nVJCaZatrSdsZEnXFGrx68e/CvO373j5HGnurUVrBCyQOmx2n1lRSfCX3B2QElHyfxzgnXpnctm7kou0B2GR0v7XhnR7tp+c1vvs+aU1is3VkXVZuo/uBXdzgfJC0QgQzHPoAOM0atPd8b3qW72ATNl6C8C+g7ixRkvgyyN0k/hN1Pxc6AKIkqBrLF8JLBCYoALT+58unG8c5tRAFEnIRt7zwst4ur36Q6CQoSZMQBhdFw53hUR3GQXUfFDYmW5iQfARuqgUUuSHVM3v7B9JEXFQEanKgymn+Lwt6ZliF9T/uH9GyrTxacOAEQaUbkxvfp7V9cvgiSykv6/2BGn3B8g/wyrvdZd4jrlZ9cuFFvotRAhYXrefuDVCcOKBwPOV5moJHJxkwxg7QdaP+U90N1eexXv5Jmn78+6dPGIa+8xVqzY5aTWAEyLMOMRqygkKx7Ts8OefsUV5u8e0zbYVauwmqL050TreGYcKLCCvI/5OU5XIhahPMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/07.png",
+    "width": 1920
+  }
+}

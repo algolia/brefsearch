@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Un con.",
+    "end": 20,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=19s"
+  },
+  "thumbnail": {
+    "hash": "3639bbbb9c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nBXNTW/SYAAA4J42oLUt7VroGC1l0Ja3H6OlZaUfTJqVjeyDQTbc2mUwRgZhshhjjMrFqFGjHownvZl49OJPNHv+wAOFNWXP1E4cOW7IX+9Gfz6/+bVcvI/CQ5kxNshoq/g4T2WRFJZcLWbIjqlAnfpW161euNJNQ/v5ev7vw9Pvceu+Be488Utv521oejmSgFNYMpFaWZE3MtChXT3zlat6eRrYy8nFj7g1U9dmTflVoH7q+gPACQSahlNYKgknVlkSg/quHjnCyALjXXva3X2xX4+L5LVRfOaBkSGcSKxIoAwCF1AETiQehoEHLo3SZMea7DWGLet2W7ivseciPa3yL5vVhasCEgMEquAoicBumYVOzc3LmjwOnUm4PXelocL0y9RIYc5EJgLsE8AKOCLhSAl7VMBRk81AR4DvW1rk60O9cMARKpboiOvfBt6ybSxs6Vzj2uVcF3B6lpApXKYxKBD4A0u5cUCs5vpSdr9IzZrq3+fR7/HRsm3MncrUlo4reXN9TWNIQOOQX9kM1JLH0w2OcvLkqcK+O3Y+9vxbu9KV2Z5aCPiszhAKnZbptESl/wNJalzjTJICkAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/08.png",
+    "width": 1920
+  }
+}

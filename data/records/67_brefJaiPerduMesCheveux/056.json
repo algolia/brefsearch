@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Merci les chauves.",
+    "end": 58,
+    "index": 19,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=56s"
+  },
+  "thumbnail": {
+    "hash": "8aad49fd0a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACsuNjE0PDM4QDU8RD9HU0FJVDY9SFBGS0ZARiwyPjpBTDQ7RiQiKh8dIzAyNjU4OwAvJic0KipBOz9JSVNNVWFRWWVGTVlfR0RZRkY7RFFNVmM7Qk40JSkoGhw5PUFDSEwAREdRSUtSXUZFdF9hVV1pVFxoTlZjUUlOeXFzYmp1SlRgR1FcUkdQTEZMVV1iRUtPAENIU0JGUVxISF5KTFFaZlRcaJGVoIKEjqepsMDBx251f6mtt46SoHuGko6YolFYXABHUF5tdoRnanJranJ5gItnbnmsqrOkpbCjpK+rqbKoq7SysLmlqLOYnqyFjphOVFcAXF9pm6CqgIeUgIOPsrS9iI2ZoZyko6OsoaKslZWdjZCcoZ6olpmnfYKOW2JqT1NWAFNTWIWJlH98hJaapaituZKVn3d7hoKEkGZmcVxga09XYWhufFpbaEhHU05UW0xRVABMVF92eoWAfYR5eoN2dX1kaHJcXWhydYBtcHthaXNHUFtpbntrb31janZHT1cbHiQAO0JMTU9ZWFlkWFdfSklQRkxYW11ocHR/cHWAYGdyR1BaZmp3X2NvWmJsQ0pSFBYdHNms/nBeh2oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/19.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "name": "Je joue de la guitare.",
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M"
+  },
+  "line": {
+    "content": "On va pas avoir un médecin pour ça.",
+    "end": 37,
+    "index": 18,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=36s"
+  },
+  "thumbnail": {
+    "hash": "b969e9af8e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBZRjUtFRKZYlqBZVhGOzZQQDo4KSMrKiUdHx0SDQ5aNTBfRz5GNy4zJyAeFxUoIR8AYE88MBgWdE5JjnRro4BzhVdGQDIrJy8xISMiGBkZLy0oICEdIh4aHRcVEg4QBgUJAF5KPjUgHU9HQ5yCd7KOgXdVSUMsJC0uLBcYGQUFCTAvLCUlIxkbGxEREgsJDQYICwBzW1JtYl5MQz9xV0yScmZ6W1FsTEA1Li0wOz8oMjYnKikpKigfIiEYGxoTFBYPEBQAaVhRZ1lQVlFPnntzm3hqo3xvY0E4PkRDU3B1XHF2V0pGLisnICMjFhgaDxEXCw0TAGxWS5qanq2+yMHFznZlX19LQks2LTE7Oj5XWD9WV0hHRRoYGwwRFw8SGRARGA4PFQCBb2bDztmFmqGOo6yOhYNRQjo+NjA0RUY3TU8oMTMZHyQSFRwTFRsOEBcLDBMJCREAk4uOvMPKiJ2jdIyRgI+VSjkxRUpKeZqjQE1RFBQZGBogFRYcEhMZDxAWDQ0UCAgQAJaQkrK4vHCGi3aMkYKbomB1eYOaoZyosCYqLhIWGw4PFw0PFQ0OFA0OFQ0NEwwKEWCtcr8bAfsQAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/18.png",
+    "width": 1920
+  }
+}

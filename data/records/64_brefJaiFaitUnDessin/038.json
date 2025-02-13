@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "D'ailleurs, aux fenêtres de la maison, il y avait des rideaux en B.",
+    "end": 40,
+    "index": 18,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=38s"
+  },
+  "thumbnail": {
+    "hash": "a1f75ada8c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAUFBQwKCScdGFBCM8O5qNvRw9/VyODYy+DXy9/XytnRxNPKvMi+rruun62fi6aYhQAGBQYSDQw4KiNiU0DX0MPr5t3o4trp5Nzp49vn4trp5Nzn4tjg2c7Ty77Asp6woo8ABwYGGxQSSDoval1J2dTL6uXg7enk8Ovn7+vl6+bh6uXf6OPc6eXd5N7U1My/v7SlAAkIByceGlRENWpdTNzX0O/q5OTe2cm6seDX0e/r5uzn4u3o4uzn4enk3d/YzcrAsQAOCwowJSBTQzNkUkne19Tv6+bc1M/SyLzc08ns5+Hu6eXs5+Lr5uDq5d/j3dPOxrgAGRIQNicfSzwuZ1dX3dfT8Ovl4tTO6czE5tPH6OLY7Ofh7Ofi6uXf6eTc39nNysGzABwUETAhGj4wJ19XWtzW0u3o4erl3uLHwebZ0url3Orl2url3erl3eHa0M/Gt7ivngATDQ0iFxMyJB9SQ0PY0Mjt6N/o49vOyMzh3Nfr5dvn4dbl39Le1sjJv664rZyonY0ACwkHFQ8NIxcTNygkwLan39bG3tXH3NPH3tXI4NfH2tHA0MayxLmkuKyZraGPpZmGn7cc93HkSAEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/18.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "T'inquiètes.",
+    "end": 114,
+    "index": 49,
+    "start": 114,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=114s"
+  },
+  "thumbnail": {
+    "hash": "f979842909",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGpfW3tua4l6d5aHgqCQiWxcWTwwLVxOSol6dYBuaYR1bYh5c4R1cHZoZW1dW0AuLwCEeXaBdG+KfXmkl5yajIwsIB4fFRQgFhRFLyl/WlKIdm+Oe21qTzw4NTw6NT02LjcAhHVvd2tom4+Cuql4intfPSIbh1ZMhl9YWDozdlBJjHhui3RjUj4zMjE7NjQ7Ly01AJ6Vkaien8CwaunXRdK6QZBbSJZcTn1bXzQjJEw2OG9kaIx3akw9NyooMCYhJx4bIACakZS1p4HLtEjk0krgyUmRYz13XTkuL0ZIQFBiXHI5OVR9b289NjpWWGJlaXZHSFQAZ1JKrZE3qYArxJh13sBkiXA6UklQISI2ZmiMd3qeJCY/TUVNNi8yZWRycnmJT1FfAHFgPcawN517GJlkScmbfci+r4yHkykeKHlylG5ieUMwNjs0PkE+RDYzOSAdIxgVGgCAc0fHuFOlj0J/WTq4invs6+vv492ddWlkSENYOzZQMy5DODpJRk1BPUMtKi8WEhYAc25swsC4nZaPkXdoqI99u7Gw3dnZ0M3Kl5iWbm5sU1FOSURGNjM4QkBDTUtQTUxQ9Aas9pOeQqIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/49.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Et le pire dans cette technique, c'est qu'elle marche.",
+    "end": 15,
+    "index": 4,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=13s"
+  },
+  "thumbnail": {
+    "hash": "3441bdcbe9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXBa2+aUAAAUH5Bk3ZpurpUF60g8qiXh8pVRAPWB9QCchEQ6rNOXG1cmlWzNMts9qGJW5b0F+8cDMDk5/wxWzgXqE8sm6D582T6GC+cVlRCrKV5OeVO2pF77RZJyJMdp46ZA4UUPkpcNvPhBMmgKhOJi6PbgTaKXStoyC3KXqwMa9ADGZqigXqLPWxGpiv9eH6EeHKL1LHfhjJ4+7v/8+/w/v7bidpVtFR0H4KrDCPgsI39en2ZP8Xb/SG2O31N7iK/25KjoTv0g+1u0x+H7PUQKN0sQTGNHiE1sQ4awPBbyd3djxfzuxln3LM0TpHpbD6XE/l0CYrGiASwpjTLup9iSliKpknV4VpT6WYGzRlZsVI0x3BsDgChJtMV2PBitqjY/aDYNJOMhM1XS/R1R1TRldTkFR0oPc2wFhN/Nom+P60f1vEo8EROzDECVWnxqomFnuN6nmYgr1V31JqtG+FduFzON4+r/cvz4e3153rK5/NHJ2dnF5kbTcUQsqLQU/R+WQ90d9r1v3Qse+DZDjJNS69r1bJUPk1csgU2TzPZS/w/Dqp3mAW1/AAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/04.png",
+    "width": 1920
+  }
+}

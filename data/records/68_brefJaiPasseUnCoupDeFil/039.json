@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai mis Baptiste en attente. Allô ?",
+    "end": 40,
+    "index": 22,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=39s"
+  },
+  "thumbnail": {
+    "hash": "579e6f5555",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXB7VOacAAAYO62u4wViiBv8oMwQTABEQFBlDfL0LBGu7WJ2+2s1c7tbl3urm7rc/u4f3nPAwF4dyYya6d1O1bfB4YvN8K9yq1r5oP+/hsU3i1TKP50lT5/SFeeGjdZKGbRuchctvm1p62zaKLLeY16eZd+iXwWI03A0xjx7yb//TbJu3LWbkCnfG0m8ecytw2NTRZOjKMQJ1dm989l+mloPwSOzYP71P914i2OxOtBBzrj8Qe/c2cefneV+3yS9DoSTl179t/i4i72ln31TJWWI+tluXg89R5TF7pQ+JXKFepBoUmb83Bqac5BYy4IK1ObGR23IUwM/efi+Hnqbvz+V78HbSJjLrEfNWEb9G6yeGrrhWMuHcs6FAWWY0lG5BpUlYpkcTsyPzsq9C3qjQAVC/SVrfp2NLLDp3kyVJQKAVCcKe1jGMaUEZxBiR+Jk2kyVAzVpAkGoC5Lpq6P5VZ/rMgcybzaQZAquVchMJyOpeZJV58FAcBIaGE0j0WgUPV6XWm3LJZV6BpdRrDXJWQHRqskqKCE1ZJJQijBNbiE/gfsZ1eSaG40sQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/22.png",
+    "width": 1920
+  }
+}

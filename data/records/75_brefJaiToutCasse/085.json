@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'ai voulu l'appeler, mais je me suis dit que ça allait gâcher la surprise.",
+    "end": 87,
+    "index": 33,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=85s"
+  },
+  "thumbnail": {
+    "hash": "3bdd2f659d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nB3L7W+aQACAcVO3ynEVjgNBQeNEOArqsLwE5uvUorVF0bqWtK7ZmnaZ25L2//+2SPJ8fH65VahuBySdWN8vO3GoRU5jYtfjkNwNdL0iqFJJ4lgJHWNp+PEDldv0mncjsp+ar0t7MzADqx73rX1kP44JUUqaLCo8ljFX5lgEz47gfmz8XHx+Wdp/kovbUWvYUdOon156P2bnhiI2JKEm8AqPFR4jOgNP8/bvtft3477v/O3QCq2G7/fjkfOyMFURi8VimWVEhpFYloUwn6dyz1f2Ye3+27pvO+860F1S8/vzm7GffjXqAscDyAGIAM0CWAQZ2M+s1+vuYeW87/zkC2k3qx4hW4esQiIjhqchl4UAhBR9kqdyD9PW87J7WLtv34KkZxi1iiGguaEknl5hGQwhzm4EIChk4HZ4nk7Mp6j968ZZ+pomlz6VcEfGC6s+0KoI0JiGDKCLFF04BUcQB82kp++GxuOsFTlqYNS8ZrmrCBdVYWrWZQ6dUQAWADgFR3BS+A8tXUPG9EbYkgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/33.png",
+    "width": 1920
+  }
+}

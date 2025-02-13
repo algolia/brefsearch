@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "J'ai joué tous mes billets sur l'addition.",
+    "end": 63,
+    "index": 26,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=62s"
+  },
+  "thumbnail": {
+    "hash": "8ab1218d39",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXBu27TUAAAUE91nDp+3zh+XDvX9vXbTpPYbkIcaiWtm1QtkSKatkAVBEIgVSBEhcSIhITEwMLIwAADGwMbX8DEP3EOUfjOKLBcWZr4VuGZngI+n+Z/Xpz9fnb6YZkHjrC3J8QJFzt8DwFHFoihiw4SnCFtOYyqyA5l4csq//v6/r/bzbfNNDS4NObXFb6c4LuuakscwTQpKPGuKh8No0dZeJGiV9P4fZ3/fDB/OU0LWx+7+k2dv1nu1wHsCgxB7ZAUSTIkWUb4+k76tkq+Xs4+nYw+LvZXib1K8brvPJnG27F3L4ZRhyfg7i5imW6LXvScRRZeD/Gv7dH3i9mPq/m7WX9iyGehvgzVQ1cZmcADLGHRzYBvJaJYIK+PvBLJt1Xv+SA6j1AdoBK2qy44DrQDRzV5RqabhN+WPQCttqtJwcBwc10sLe1mnE66msRqAwMdYmWToZPYhFxLpBqEARCUsAncDm/lyH44sCtbq32YGYoq2K4elo6x7sG5p2oMzVMNgm2KgFF1ETGUqAvy41G6zfDTwvdkhaOB1TETaPR1CUusSDVocuc/IIpOJjUe5wYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/26.png",
+    "width": 1920
+  }
+}

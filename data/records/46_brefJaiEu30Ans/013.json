@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai dit: Non, je préfère pas me coucher tard à des potes.",
+    "end": 15,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=13s"
+  },
+  "thumbnail": {
+    "hash": "d10c162d7e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nGOQ4GCT4GCV4ASR4uyskpxsIDYnmyQYCbOz8rIy83GxO1iaqCrIcrGzMIiwsYiB1Ulxsstwc0hysEpxsMpysctxsYuzs9qI81lK8ClJCPlZ60kI8cuLCTEo8nPJ8nIIsbIIsbHoiPEbSAroifEbCPOYSgoq8HEVGcvWOKhLC/NpSArIiwmKCvIxGEkLuWtIRZkqS/NyyvBxWsmLuGpIR5qpN4S7eOioRMvwZhjJK0kIaUoLS4kIcHOxMzioSsSYqVZ5GOQ46jipS7uoSgabKhcGmfZmuGb5GuTZKKTaKGsqSEiKCAkL8HJxsjOEmqq6q0lWuepNibCpcdCu8FfvKbCYWuM6u8lzTrPn5kl++2b4hzprqcnJKspIKkgIMSQ6GBjLirjJCpbbqXcHWywssT88y/vQ3MDF3d59lfabOx12TXT2tVbWVVM20Vax1FNlKA52TvWy8TRUzXbUW14Uvq42aUNz1O5JQRva/Fc2+K9qClzZFBBko2ljoOlqrudnZ8JQnxLSkRMzpSJjZl3+4rbyFd01q3rr1k1oWj+pZfP0rg1TO1b1Ny9qr5rVWDKjsWRKTT4Ai5dpanNczwkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/05.png",
+    "width": 1920
+  }
+}

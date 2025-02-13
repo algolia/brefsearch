@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "Je l'ai recroisé au supermarché. Elle se souvenait plus de mon nom.",
+    "end": 9,
+    "index": 4,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=7s"
+  },
+  "thumbnail": {
+    "hash": "63ea9ca780",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nD3LT0/TYADH8eelaKIvwXggkcSDRmDRhIMxIepIZwzBYCDuIiI3D8aLHlSm0YPD0g3HKtAx2JrpQkBZ2m3tNrr2Wbu2z792m4Y3QICE5Hv5Jb8PGBp5dn188ca916P3340+fB/hlsYmE7djn28+WBqJJiJcIjL54dbE2+HxV5eHZi9eeQzuxt5ws59i8W9TzwUuzk/Np7g4P/0ifefR14mnyScL6ZnF1ehcciz68dK1lxeuzoHv6W1R2tvcruSK6pas5orKlqxKBSUvq3m5misoUkGRisrmToXP/PqSlIDftf718NGAUWRjF4bMG4SoH/gh9YjXYdgJqTsI8f8+HYQIuxBAq408lxFc/l1KrfDrovgzm81m1pTKwYYoipkfAs/rWp0g3+s60GwDq31IkEex73Qsy2gZzUZL11oNHZqGDc2DP3urKQGaBsW+7zrQNIBWU12nQ7EfUBww3AtIP2S9gJ5MihlBXtdmBBHkOR1Lr1dBuSQ3tNqZYQQFBJ39Tjo1IcWnCmo1tVySgZBczm+s7++W9XrVNFo2NLs2PM+GZvuw2dTrlb/7OzkpI6wcA190Qc/BJ29KAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/04.png",
+    "width": 1920
+  }
+}

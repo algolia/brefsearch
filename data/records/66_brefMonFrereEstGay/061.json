@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Il avait 15 Seb et 11 Nico, sans nom de famille dans son répertoire.",
+    "end": 63,
+    "index": 31,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=61s"
+  },
+  "thumbnail": {
+    "hash": "f206ff6a6c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nD3G246aQACAYZ62fYi+R69602zSpo2J3YZ1RQWEEWE4yTjAuJx3QQoioIJdd9uLxjZp8ufPR9ETUZSRjgI3yJO8SctDse/L5mdedXnVZbtjlNWbqNAsn1+Y38dzakhzg28TUTYlFXEi1FbOEq6AbLheYiAiawgaNisoiuHwQL+fSRTUsbkm2A2Q7RmIIMeXVUs1bUxCy/ZMRJDtyaq1dgMSZisnokYwvhmK/lO1whvkBNuy7Z5/H/rX5nRpu5dD/9p2L8fzr+Z0Kes+zCrq/Q3z9s07xc3XmOgWSbKqas9l3e2avqy7/7h+f4q3e8rxUuwmSd7EaRE9FVXb18dLc7rWdpf6+PzX1++ac5zXlONnRXu2NyEP4JSXiP8YPv7w422Q5P/8EKZ+vLU3ESKRrDsUgNj2Ug09jKaCuNR5AO8Yfr6AExawgjyeiYKkiUudZuafB/SHj1+o4R3LAYPhlE8DeipAHmjjGZB1zAN1wktAsW5H3ExQFxDfs8uvt8wfcwpnlyK3PPwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/31.png",
+    "width": 1920
+  }
+}

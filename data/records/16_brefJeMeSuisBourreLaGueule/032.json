@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Mon ex vaut 7 200 points, Laure vaut 4 200 points et elle, elle vaut énormément.",
+    "end": 36,
+    "index": 17,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=32s"
+  },
+  "thumbnail": {
+    "hash": "2b3a2b5f4e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVR4nGNgggFGBgZnK7PEQG89RTlmJpyAgYmJiYWZmYGBQV1GfHptzvzWiuakMFUZKQYGBmZmhEZmGBukgRmsQUdGLMnOaGZRVm9qjLKECAMDAwsLC0QdMxIJs4GRyU5NNsnCaGJO1tzCXC0RfgYGBgV5eStLSz9f3wB/v9jYaB9vLwYGBpAGkD4GhmBTrVhjjdbwwAlJ4bpSogwMDHo62rY21spKyh7ubgH+fvZ2tiANINdLitfGhHYmBFT52WXYGNbH+BYHuyqKCjEwMjIzMzMyMoKCBExCjGYwkpNYU5K1ojZnRnb0hPiAlijP7mivxQUZglyccK8jPM3AyKQmyF3v5zojNbwnxntlZdbkxMCZyaFNUUHsbKyMjIxoQQzyhDI/V6yp0YzU2DlZCdMzEuanxW6pK062N0cLWYgGANmTQgQTK6sOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/17.png",
+    "width": 1920
+  }
+}

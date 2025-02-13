@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Bref, je vis avec cette fille.",
+    "end": 101,
+    "index": 30,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=95s"
+  },
+  "thumbnail": {
+    "hash": "a5cd2cb3bc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHBcSEUpICkBAWNBM35iT2tMPVo5KW5RPntcSHZYRXFTP2hKN2FFM1tBMlE6LkYyJwCDbldXNCkuAABtRTd9YlJ+VEldMB1eQC+CYk17W0dzVD5rTDhoSjdlSTheQzVROi4AlH1kZj8xMwAAbUAyimxXe1RJZjckb0gxgWFJfFxEclI7a0w2aUo3aU05ZEMiVDQbAKCHbG5HNzoAAGw2J41sUHtWR1UqHm9LMoNgRH5cQnhWPG1ON2hKN2tOOGA+Gj8mEgCljHBwRzY9AABtMB+qjGKQcE9WMx93Tht+Vh94VDFxUTpvTzloSjdvUTtIMR1CKhUAo4pvbkMyTAsCqIJbvKJtrpBcl3U/iWUtf1oehF4iZUQtTTAlXEAxb1I/OigcUTcYAJF6YWE1KGUyIcOncJaHYZSBWZF6UH5qQnphM4pmKG5KJ0wxKFk/MmhNQEAkGE8uFQCCbVdYMCV7WjuxllqahVmEdE95ZT5sXDduWzSIYiF4VipcPS9TNSdfRz1GHA5IFgYAaFZFSyshdlU5kXM5iG49b1ozb1s1blozdF4yeE8gZUAtWUAxUjgrYUtDVTwySSwimQyH3qMomN8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/30.png",
+    "width": 1920
+  }
+}

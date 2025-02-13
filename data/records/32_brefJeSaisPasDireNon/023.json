@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Je fais souvent des heures sup pas payées parce que\nmon boss doit partir en week-end.",
+    "end": 25,
+    "index": 12,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=23s"
+  },
+  "thumbnail": {
+    "hash": "f6eaa3f704",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBW0/aUAAA4L6Z2Dm5VVg90EKZvZxKOfTYQm2BHUoHCmVQgUlYMjOWuMQ9uGRj6nRZ4iaJWUwk+jCzZOE3LNnf2/dRtpDIROjNZBRnGE9mIReDKSYXow0QPmpaDYy+fXbOz1f39xhSCQ1eMlSBi6FkBIGwxUdq8rrKhhQ2DNceNdT0/N3IFjJ+jVv8Ll+eie1nqaAlUwNXG+/gThkSnPWJXjOV7RxfRSCw5IvB8+Om0y2jXz+nH9+OhiYcdwh12Hf2G7oCmC1VsHVJ4tkiTJIC0KHkbRmXB70W8eY3t4v72bhpHY586lWrGNSRATk28vgpl6CXllSeIVjJiqXTs+uH2wcNuRJ0Z18/3V0dH+x51MDVCd6QU7FEaJl7El2ll5NRuoyV3Gbl7s/fydEXSbZzmus3e1fTyez0PZUX1pRUNM/HRTYcD62A8IqlpO08QnpjvvjnkEDNVUVodna799cnFx8mlC6sG9kkzgAI4qbI7xS1PikFttn1/B/fb5xtT4OOuFGsV+uvX7itiknpaVBIg5KUdgvKroXatt52cNcxTga9ab8zLJfe1K2hbRa1AsGqIQn/ATiqaXxH9i/kAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/12.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "J'ai dit... Hé oh, calmez-vous.",
+    "end": 57,
+    "index": 22,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=56s"
+  },
+  "thumbnail": {
+    "hash": "90fc4482ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGPw8/IJDw6NCAxWlZXXUpAPs7PUlpUqSEksyisoL6koLalTUlQ3MrSwtrA3MTC3MDJjCPQLiI2ODfX2UZaQaEqJnZgRa6OikBDo21RT21jb2NzYKyujpKmuB9JgbGVtasngYG3j5+7hbWWuJydTHOTdGh9mJCsd7mzXWlvbXN/S3TnVQN9MXFTawc7Nwc7F1tyaQUdNPcDOykJFUUtaMshQZ0JSlKG0ZLSbfXN1dX1NY2fbZEd7dylxWXNTGz+vICtTawZ3e3tzVQUlURFdaUlvXY1sd0cZPr6ycI/OipKK0urOton2du6iQuLS4rJuzl7O9s4M7qaGSS6WUbYmulLicgL84oKCSkJC6e5WzYU5VaVVbc09jvaeUpLyMmJS1uZ25oYmDPYaSrOKk5dVZdipyIlw83Gzc5rKSRSE+mWnZhXmFzc398VFp2pomGhqGtvZugR6BzAYyIiXBLqsaS5oTwh0NTKUFhSIczStSY0tz8rsKi9c0NW8qKksP8hXX11XUlpFTUWTwclIP87JsiUhcG5p8rSChGnFKfNrcmZWps2rTp9VlDC3Mm1yXkK2p4Otrm6Ip3uIlxcA7UB/IgmjdpkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/22.png",
+    "width": 1920
+  }
+}

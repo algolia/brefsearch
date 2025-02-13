@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Je me suis dit que je m'étais promis de ne plus mentir à une fille.",
+    "end": 68,
+    "index": 35,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=67s"
+  },
+  "thumbnail": {
+    "hash": "8d6fa6130d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nE3OzWvaYACA8Vc0QXLU3MV/wI+AepAKHuPRU7NcnQe/imw6Cgo6lkPcJZlFdm63MsdWk5oOx+iS6GBtZ2rLHLWr6dzWyWpBGCyCTHgH7aW/03N8wLPnL7abb2Sl0/9yerB/KMttRWlvNcR6/dXurtLvn5ydnWvasaJ+EERpfWMTbDW2O52P4/Gk2+1VKo+XlkIsy4ZCoWg0Wi6XWbYiis3p9M/5t59d7UjaaYHyQ2Z1tQAhrFar8fhdgiCSyWQikYjFYqVSKZfL5fP5k8Fg/m9x8ev3p+4RaAjN1tt3i8UiEAj4/f5UKpXNZsPhMEmSwWAwk8m43W6fz2fMjL/GbKiPwHh8CSFUFBXHcYqiCoWCy+VyOBxOp9Pj8RSLRZqmbTabqqoQwu8/LsBgMIQQPmIYDMOsViuCIBiGgWsYhqEoiiCIyWRiGAZCePpVB3t7XWM25/gnKIriOE7TNM/zBEF4vV6O42iattvtFouF4/iZMd8/0IC009IOj4f6qFZ7SlF3SJKM3xKJRJaXqbW1mq6Per3PgiCB9Y1NQZTey+3LyTSdWQEAmM3mm6WbSKdXJldTWenUX76+d//BfwZw37G6SsqxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/35.png",
+    "width": 1920
+  }
+}

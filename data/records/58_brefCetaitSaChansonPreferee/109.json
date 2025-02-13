@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Bref, c'était sa chanson préférée.",
+    "end": 114,
+    "index": 36,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=109s"
+  },
+  "thumbnail": {
+    "hash": "07df035135",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXBWVPTQAAA4DxUcCDXJtlNsru5k03TQBNLTadFacMYIjdytEDBqVcdxxOfHDwedfQH6N/1+7iOjfb6WVWkMYGMwtjSGFVDAnxdIqrYTaPtYVH22k/q0cvL01474YYuOGTGg9iNKIoJYkRjRHGg2ETyiqHENj6pN3aGxWx8MJ+OVwOXC+S7h1TqIpVZOiMwwlpoKA6Ueq5RJ06HuWfb5XH18N3s/PnkKKQ6Fy02Zk1UYsQIZASGWAtNxUNy3zM2fHPUXXl69Hiys3kzv57sVQ4C3FmCbwr70b0kwjCmKMIa1WRdFqssLFsuc+juaPBivP/r9uNuOYipzu17ym3fqruJZ2qxpVsQSEu8uMSPWsFFJ4bLvLDMv56e/P39vVq/32EOV5vClwIfrDGfGolt6kAGvAgkUBB00bQCqDUaC6+mp//+/BjkrfV2xG1i/n2OjnM/tEnLIQjIMi8ACeTUfJYFPtQW7ix+mF///PopY+5a4nNbrnqVmpPcZi5pugTJAAiSBtQYm1dZGCFV4MVvn9+8nZ2nnpVG/n+8PEvEHa9LuQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/36.png",
+    "width": 1920
+  }
+}

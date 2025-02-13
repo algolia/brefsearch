@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Salut, pourri. J'ai essayé d'autres trucs.",
+    "end": 34,
+    "index": 14,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=32s"
+  },
+  "thumbnail": {
+    "hash": "4b13b57b01",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nEWRzU8TQRxA949DEqg3PLHCtUKwmG4NHOx2O1s+YjBgvOjNi94UEy9olLJtd9OZzscOkKjhoCQS3M7Hb3fFu2k9mLzryzs8J+vOjnvzZrBgkmXA92BUA+rlrJGzBtA6kHWLqyZZUv2FcTSXHc84qndbJ3ctqQHfzEWrlO1Cdop0igyLtA3ct2zDkDWVuOOo4ujYtSMP0hYwBByZUaeU4c1Z5/d5WMhtKzp5ikAgw31D6ipedPRwFUQzS3a/H7+9+PDiW++Voi8tfVYOn16R3e77vT9nE8GKwLCmGq44Gj8opH/5ef9LP/p6+O4q/nTNj37R1zp+czk4ODrc/y/wQOOao4crIHyDwx/d5z+jJ4aElm3lbLvkWxndoR8f30hkeTAt+NNCvGiIB8LP02YhW+UpKk/DfxQSFWloRRt4YJmviacGrqOiio5dje9bumlZE3iQC5QLBKI9gQeWP7J0Q+E1HbtZVHGyk8kH3b9jkiWDq5asW+oBfQi0YWjdkJrBVZ0sjycf5rOTW38BrbE5qHyKttIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/14.png",
+    "width": 1920
+  }
+}

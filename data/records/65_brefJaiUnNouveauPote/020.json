@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "On a pissé dans la neige.",
+    "end": 22,
+    "index": 8,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=20s"
+  },
+  "thumbnail": {
+    "hash": "ec10f230c4",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAgCAgcAAAcAAAkAAAkAAAYAAA8JDDc6ShgSFQMAAAAAAAUAAQgCBAcCAwQAAQQAAQASDA4IAQIHAAIJAAILAQQIAAAbGShgapZxc45gY3s6OkMOCQoCAAAAAAAEAAEFAAIAGhQZEAkLDQQHEAUHCQEEBwAAa21+e4evZG+dcHqod3yidHeRYWRzMS80CQQEBQABABoUGRgPEgsCAw0FBScWEi0fIbjE28/a7rzI3KKwzHeCrGdwnnF5pGhvlF9jchwZHAAQCxESDBEkFRJXNy9YKx5bUV20xPOxwuzA0PDZ7P7a7Py+zeaKl7pPWow6RHMfGRwAHhMVSjAqf1E/lF9LOhYPeHiKu8Pjp7LYrLvpq7vrs8Psw9Tyzd31zd3yZWyAJxMOAGhDNoBOOZVjT45jVSwZGnV1jZmcs5+jt6Onvqevzqay2p6r2Zakzqe22ERGUSoOBgBpQzSDWkmfemxlRTo3MTmGiKN/gp6FiKKMj6aWmqymrcKao7icpMeBiq4PCg80FQ0AYD4veFZIjmhcOh4YPDpJXl50bG6EcXSMdHeRdHeQb3CKUGhLZH5bTlNXDQAAQB8Wlr6UYoKMmwwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/08.png",
+    "width": 1280
+  }
+}

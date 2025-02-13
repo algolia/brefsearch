@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Elle a dit: Je pique à trois. Un, deux.",
+    "end": 42,
+    "index": 16,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=40s"
+  },
+  "thumbnail": {
+    "hash": "14b025e3dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB8WFRwWFA0MCRwYGF9bYFFNUERAQEdAQT01MysgH1I/Pi8iIBsYGEA9Qj05PTApLgASDQwSDQwPCwkNCwtYVFxcVlZKRkdZSkRDNi1EMi99WVNROTYgFhQ+Oj9CPkMzLTMADwwKDgsKGREQLR4fU09XXllcTERAS0RDTUhIPi8uZEdGbk5MWT05PDg+QT9HPzxEAA4LCg0KCTEdHEIpKFZSWF5bYk1ITVBJSU5IREg4M29MSntWUTspJSsnK0hFTUZDTAAOCQgYERA+JCM/JiVXUVZmYWleW19ZVVdYUlQoISA0ISFqTEk4JyNcWGBTUVo/PEUAEgwLLSAeSC4tNyMhW1RYWkxOYlxsVFVfZmRvKiMlEQsJSjAuSDg5vbzHqqqzVlReACIXFEIuKkUvLDAhH1xVWm5ma3VhbnFibYuCjWtpdjstL0AqKJeTn8fG0M7M1ZuYpQA9LilIMCo0Ix8xKCdnY2xmZ3FmWl52VFabkaCmqLtvY21/dYC6usm6ucO1sr2NiZcANzVES0FHKh8gU09Tr6+3mp2mUlJZRjAveWNptLTBl5Wll5anqKe0vLnCnJilWlZjm2mDjTBnmNEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/16.png",
+    "width": 1920
+  }
+}

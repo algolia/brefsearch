@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle m'a plaqué contre le lit, elle m'a dit: Maintenant, tu t'appelles Sophie.",
+    "end": 52,
+    "index": 22,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=49s"
+  },
+  "thumbnail": {
+    "hash": "28832eef10",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGZdX3NqbV5WVVtRUYB1eHdvcoNwZ4JnW6SVlLqwt5yOimNLJY1+eY+Fh4N1dGhBKwBpY2SYkZ9rY2lUSEpjUFJmVVF9WkWCWkCXcVycio6bjIxpVCyUh4Ohk5mYio2Nf4MAh36BpZ6kkY2XZl9dcmJih1pGlGRMnXRakWZQSi4odGloYEUkXUdIjX+Eo5SYmYuQALCqtLewt7Sst722wqKNjaVtU6p6YJFwWYdUQnhYUYuChGxZVW5XVo19f6SWm52OkgCuqLW1r768tcPBuMWRc258WEqndmF3TTyQa2LAmpSkkpOpnaOqnJ+Wh4milZucj5UAqqWzta+9urPCu7G7u5yQkGpcnmpWd1JGuZmWxpuSmX55npKVrqGomo2SloB5knpyAKeksZ6ZpqeitLKlqMCqla+OfplvYKh9cbuRg8Okk6SKeot9e6SXnI11aY5rVIhlTwBYWF8GBwYmIySPe3K0l3/Hs6S7m5DDopfLuKrMtqjMsp+xl4iGa16IZ1CJZVCHYEkATkdBUUlBkH9xwKyexbGiyrepxrKiy7irzbqszrquwaaVu5h8iWpVak49fFtGf1c/bYbf38TVeMMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/22.png",
+    "width": 1920
+  }
+}

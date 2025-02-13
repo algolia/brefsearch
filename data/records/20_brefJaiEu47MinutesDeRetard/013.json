@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "J'ai raté le bus, je l'ai attendu 14 minutes.",
+    "end": 14,
+    "index": 6,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=13s"
+  },
+  "thumbnail": {
+    "hash": "b6defcdf0f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAE0lEQVR4nGNgIhEwjGogAtBeAwDqBwNhSiuvVAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/06.png",
+    "width": 1920
+  }
+}

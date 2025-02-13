@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "C'est clair, moi, je voulais partir aussi.",
+    "end": 41,
+    "index": 17,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=38s"
+  },
+  "thumbnail": {
+    "hash": "4f8bd75ab0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACsTFFlPUXx4dldGRU1BPEg2Lz0hHCsjIRANDA4MDQsJCgcCBD44N3ZaWmAYGTEFBgAwFRV9dXWwpLR3YmMnFBkvJCJrbGBkRz47JB4XDAwQCgsHAQFQTk6OcnNwFxg7BwgAOyIXp654zse0mo6VHBMYBwQHT0dBgVhLZzkuRyIbKhQPIAoGbl5Wo35+ehMVQQcIAD0lHK64fc7KpJOFiwUABTYvKm1eUGZBNlcxKDodGC8WETUZEk03LWxGPnMcGkMFBwAyFxiAamSGZmNUQEZIPzuaj3h4bl5gSkJlOzE4HBc5GhQsGRQzJSA1Ix1AGxhGFhQAKQsLJAIETjMvdGZckId1jYJtV09ITEhFRSkiLhYSHg4LFw8OLCEeKBoYKg8LRi4jACYQDl1KQo6Fd3xyZHRqW3dtXU9GQVhWV1NHPy8SDC4XExwVEzUoIy4hHSQcFS4rIAAuHBlzaF10al5iWE1gV01gVkxTSD9bWFpcVEw9Iho6Ix8oIR5HOzMuJB8sJh4yMCcAT0A4YlhPYllPTkQ7aF9UY1pQTEE4W1VMY19URDsyNispMSkkS0E4MigkMi4nKSkc6Hpre1zldTAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/17.png",
+    "width": 1920
+  }
+}

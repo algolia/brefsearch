@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Mais quel monsieur ? Il y a pas de monsieur.",
+    "end": 84,
+    "index": 35,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=82s"
+  },
+  "thumbnail": {
+    "hash": "e7baa16921",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGtYUmpWT2hQRko0Ki4fGzQiH0IsJkw1LVEuH0wqG0ImG045MWVORmxVTGVQSF9KQQBtWFJvWVJrT0NELiZWPDRdQDZKMCZROC5GLCQrHBkqHBsuHhwyIyBrVUtiTUVfSUEAb1lRdF5WbU1BSC4lTzAlTi8kVDMoUzoxNCIeJBgXMyIgLyEgIRYWSDQwTDYyTzs0AHVeVnZeVmhIOkkrIWRDOYhkWIVkWFUxJk0tJE8zLTgkIBwTExoSEkw6OGRNR1tFPgB1XlaBamSDaF9WPjZhQjeFW1CVdm54bXBTOzqRaFpuTkQaDw86JiKTdmxpUk5CJyYAgm9prZ+cuq6suaqnh2tkaElCk4uRi5iwVllqVElQQDpFLS46bl9mkHh3XEhFTj09AIFyb6OXlrCjor+1s7msqKSanIeQpIaTrYaSqnOAmWdyimtziGl1jGhyiEtDS0cpLABmWFVlWlmAdXSLf358dnqBjKNwe5NYXXCIlKuKl6+Ekqp8iaM7PEk4NUAtMT5OIiUAgHNxenBuaV5dYVhZXlZciHuAZGNwV1VffYqijZSno5WWkImPamNpcXWGREtbPR0hmtOW3MtQlPAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/35.png",
+    "width": 1920
+  }
+}

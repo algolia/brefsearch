@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle a vu ma beuh, j'ai dit: C'est pas à moi.",
+    "end": 36,
+    "index": 14,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=34s"
+  },
+  "thumbnail": {
+    "hash": "730f436dfd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKytt8fL062usyghG2lgW4eAfX94dbOxuNTW4XZoW2ZaVKijp6qnra+qsHh0cxkUCwCysbTLzNLFx8xoVklzYVaIhIJ9dXGEdmrPzdR/c3BHPDWyr7S0sriooKZ7cW8tKSAAnZyQt7m0dnZ3dGdrg3h5hH56hn9+tbK0xb2+SkE6AAAAbGdnuba8mouRZ1ZUQzszAIB+epaWkh0dHE5HTnpxcmJvV1JfTWxvcJ2WlVJHPwAAAEE9O7GqsLOvtXBqZ0dAPABSTVZEPkIhHBoLCgcwKidSVkMpOiI9OzVgW1hNQT0SCQFTTEippKe2s7leVU5EPDMAUktGJx4YOyofEQ4KHRoXTz86OSsjTkxNMSsoKCAYIxwVRiEQcFxUjnx3WEg+QzszAFRIQT02ODQtLjAuLi8vK2BXTXVoXFJIPyYgGh4dFSEbElMaBVEzKW1RQFxKPjszLQA2KR8KBgElJCKQjpGPiX2KgXSQhn5ZNi44GBIsHRUoGhEyCgZFKyJoQzNHOi4tIxcAJRcNKyMcSkI7V05FYFVOb2RdeG5pWUA3TzYuNy8mKSEZMxIHTzYpYUM4QjkwQTkvhmWXKFDnsScAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/14.png",
+    "width": 1920
+  }
+}

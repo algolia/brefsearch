@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Il a dit: Quelle facture ?",
+    "end": 82,
+    "index": 39,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=81s"
+  },
+  "thumbnail": {
+    "hash": "738d603cc8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHRweYOAi5uWoa2suZeUmnJsZxkWEgkHBQ0LCQ0LCRIQDkI7MklCNTw2KjIsICskGQB2cniPjJV7dHZ5dHh3cnVmX10UEA4JBwgNCwkODAoXExE5MCgtJh8vKSIiGxMeGRMAcGpmvbrIW1VYEgoDSDoyRjs0Eg0LCggJDAoKDg0LFA8NPyskPCkgQTk2RTo5LigjAEA7N2pmalFKSkE6Nl9VVE5DQBcSDwgHBw0KCRcSECESD1ZFQ3BiX2JUU1tQTj42MQAaFBEhHRo4MixoZGiOipNnVlEkGxYUDw0hGBQqHBVRQ0CLfoZyZWlcRDxTRD83MCwAGxUQKiYjNjIxSUVGlJCcVFBUDgsIGBQSJyAdQzEqYVhai4GNa1hYWEE7UD45Ny8sADcxMFNOUVxXXUA+PjEsKxYQDRgUER0ZFhoWFSghIEI5OImAi3BYWU49OE9IRj82MgBnXlywrLluaW8bFhUQDQoSDw0QDgwbFxUaFRMnIB4vJyWCeoaDc3tMQTxLQ0I8NTEAQzkvPjY0DgkGFBAMGBMPFREOGRQREA0LDgwKJh8dHhgWJyIiTkRESDw6Qjo4Ny0pjvljNx5eksYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/39.png",
+    "width": 1920
+  }
+}

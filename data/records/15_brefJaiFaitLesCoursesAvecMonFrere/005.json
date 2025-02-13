@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Ouais, j'ai eu mon permis. J'arrive.",
+    "end": 8,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=5s"
+  },
+  "thumbnail": {
+    "hash": "a7323c3fbe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIZ/dtnXztrY0Nvb1ODh2uDl3uHn4OXq5JmOg4VoWZ+JfqGUjrqtpaaRicCup+Ps7QCAeHDUz8jm5d7s6+Xt7+vr8Oz2+vbIzsxLOC2we16+kHOifG3Nu7V6amGfjobLysYAJyQgUElGk4+CoqSLpqmRp6qPnKCDlZWESDQppXRZuINimX1vraOeblVLfmphhoB6ABYUES8pJkRGMD1HJDtDID1EGi83E0xJLWRJOnxYRYddRoVnWZGAdE9BMmVKQrGwrgAZFxU4Mi8/QC8hKhA2PiMxNxwZGBQYFhVUPjCMY02MY01qTkCcgG9RT0cpJiWWlJMAFhURODQxREI2Fx0JNDofLi8gDQsNQDc0VUAzUjcrXkY/ZUxEqot7ZltXJyIgODMxABYVEjEsKTw7LyIqESgnHR0aGQAAAGNkZ7qppGVLQIV9glpIQ41uX0Y+OkRCQDUxLQAWFBIvKyk/PTEeIBEVExUZFxYJCAZISEzk5u3m4+ienqUICAgbFxUlIB5VT0yMgXoAFxUTKSUkPz0xFxcPEA8RFRMUEA0OLy4v2Nzf9vv/goOGAgEBEhESEw8PTERBopSPX06nEykaHLgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/02.png",
+    "width": 1920
+  }
+}

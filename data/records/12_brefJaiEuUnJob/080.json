@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Le scotch m'a dit: Vous êtes sûr ? J'ai dit: Oui.",
+    "end": 82,
+    "index": 36,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=80s"
+  },
+  "thumbnail": {
+    "hash": "6498419997",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKCSnaWZoqaaoqebo6aZoqWWn6iaoaeZnWpcW0k/PVlJQXVjV310cGpiW5KHg5aIgwCdkJyfk52glJ2fkpuZjZiTiJKZiZKRfYB3WU5PPDQ+NjBpSkF9UE6FUFCPYmPEq6wAcWpwenByknpggmdefW50hXp/dF1lbUY/akg8SzIqDQcAY0xNvaCwsoaTlG56x7a9AGRiZWJdWG9eP3VkSHZkR3dnS3ppTW9iTFs+MXBDM1hGQYFkaZpcY5xgaH85QMOjqgBpZmxdWFN6alaXhXOYhnCbhWqTjIGIkKJXVV1dRD6al6KTnbCfh5GFMS5uGhWdcXEAZGRoXVpWgGUam3cYnngVmnsheXFkgGJfaWRtNSw3bnWEZ3OElqa6goKHTzw6b1lYAGZlampnZX9rNIFqKX1kIYB6XGJWV2NYW0I/SDAUGmFmc0ZMVTM0OEBDSTMzNzg0NwBUVFhgXVxzb2l0cWuDeXJnX2FaPjRnanVFQkomDBBaYXMuMzkFBAAREA4TEhAPEA4AQ0RFTE1PVlZYZ2Nko499c084UDMoSklOQTo+JAwPVFhlJicnCwoEExAMExEMExELHrWnLmUS9tUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/36.png",
+    "width": 1920
+  }
+}

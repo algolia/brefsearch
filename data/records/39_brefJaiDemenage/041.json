@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "J'ai dit: Je m'en fous. Je pars demain.",
+    "end": 42,
+    "index": 19,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=41s"
+  },
+  "thumbnail": {
+    "hash": "9212f5ddaf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdveXdwe0xCRFNIR1hNT0lAQEM8Oks/Pl5KSmVHRW9IRmRBPmVAP0EpJyIWEx0VEQCJfoiPhZFoX2VTRkVMQD8yKidKOz5rVFpFMDE1JCFoRUF4Tk13SktlOz1KLi9NNzYAkYaRnJCckYmXSkBAPTEuJR4bW0tTbk1QXTw8W0BAXz48TjMwbENCYDg4GxEQUzo6AJ2SnaCVn5qRnGdfZS8lISUfHVZFRmhGRX5aXIFZXGA9PDkoKlE0MjYhHxMMC2lLSQCflJ+jmKKflJ6bkqBNR046LS9nUFFlSUduS0trQkJvSEdvR0tPLi4lFRJTPTtwVVMAta60xsDFmI6YkYiTi4STU0BEaEtIWzQ6TysvZ0NBcUZHYTs7RSgmVDQvgF5bVUM/ANTT08C6v11WXl1XYYmCjmNYXmdKRG5ERVkxNWJBPVk7NywdGi8hHVk8On1cWVNBPAC3sreonKWbkZpYUlpVUVxkXWVYSUlWOzdbPztUPz8oIR8dGRY6MjBQPjxsUVBwVVMAm5ienZeepp2mjYaPaGVtjIaRXlhfWVFYiHyHfHR9Qj0/QDg7TEJFQDY2TDs5XkdFJzaUtYiV4LEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/19.png",
+    "width": 1920
+  }
+}

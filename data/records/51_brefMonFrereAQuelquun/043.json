@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Moi, je pars du principe que... Elle fait des cacos d'olive.",
+    "end": 44,
+    "index": 19,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=43s"
+  },
+  "thumbnail": {
+    "hash": "4c94ca1a75",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXB3W7SUAAA4DNWek5Pf4C2DEpbCqUUSoHZ8Vc6NgRkpGTTIEIWBsmWxhiNF6AXyzBOzaKJxph4sYvFl/ANfDW/D6iikOFjlTi/aHf+3v95+Hj77+v98mgIAJBiwvZ8/nnSq8oiR9OQRGECgqaW7BvpQlyYHpiXnvVlXP8xeTJreZ1CfliuBL3ute+OS+lFNcciapeAgMZYF/leXn9Rty49ez1033YPLg7rz9y6zsdEmmqqiWXNXNlZiWYgiQBF4d0weqRpIytzUTNufPf2pBl4TtcyTDHKUTgV4cqpPU9J2HsCjSiAEEYQ05jLivxZSbs79T70nFetymE+KzKYpShN4CsZra3LvplyZAFAkqIg3gmFIxgfG8qmXwuapbmtP7d1heeLspLkWFdNThulGzf7qZoEJAEJAtKIXvW97am39d1JWXck8Y1nbQYtv9EwVVVh8cbRHmrSy3QU7ITCUjT6bnz06/Xq93L8cz5cDxqjohy0zfeP968GHbtQNPjIupjQWRoQEABAOGlp+/T4Llh8m518nw6uR62Zk7lyzfN9/cwp27lcnGEYhEEIkgT8D0JST4qKfoOyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/19.png",
+    "width": 1920
+  }
+}

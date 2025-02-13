@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Le métro, ça attaque tes cinq sens.",
+    "end": 29,
+    "index": 10,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=27s"
+  },
+  "thumbnail": {
+    "hash": "24bfd1f45c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AOzp7uzp7uzp7uzp7uvp7uvo7uvp7uvp7uzp7u3q7+3q7+zq7+3q7+zp7uzq7vXz9gDRzdXSzdfRzdbRzdbTz9rX09/b1uDc1+XY0+DUz9rTz9nSztjSztbQzNTRzdXn4+gAy8XPzMbQz8nUz8nUyMLNnZCWYVZYopWbv7W/0srX1cvY0crVz8nUzMbPy8bP5OHmAMzGz8zH0Jh6fHhXVnVNSFgyLhMNC0IqHk03LVdKT2hSWHxaW4ZaV6ySldXS3OTg5QDNx9DNx9CPc3RmRUMqFRMuKCowJSEvGxEfExEOCA4bEhknGyMvFhuIb3XQzNPm4ucAz8nTvbK5p5KWjnFzZklKhnFyeV9eX0RDWkZJVUZLZFVdVkVPVUBCdGBjr6iu6+jtAMjDzMO8xMjAx29marSor8i9xsO4wci9xsm+xse9xM7FzZKIjpqRltHI0MjCyuTh5QDJxM/JxM7Au8R5cXick5yso66nnaalm6WnnaeqoauxprCIf4WIgYfHwcrLxs7o5uoA1NLe1NHez8vYxsHO0c3bz8zZ0c3b0M3bz8zZz8zY0M3ZzsvXycbR19Tg3Nvl8fD17kohJEtJOI4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/10.png",
+    "width": 1920
+  }
+}

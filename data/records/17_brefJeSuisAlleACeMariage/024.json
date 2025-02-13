@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "On a fini dans une salle des fêtes, le genre de salle où à tout moment,\nun mec bourré rallume les néons. Non !",
+    "end": 30,
+    "index": 13,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=24s"
+  },
+  "thumbnail": {
+    "hash": "110a692cfe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADIqF2xaRVtQMUxAGlJAO39fWIJbUo9qYpV8eXVmVoR6PHRuIWRdNl9UNltFMkUsIwBOOS57VUxiSTM5LBRGMitVPTRlPzRZOjBoT0RzVFOQfjJ1dBJKRSVWTStZQjdUNi4AVTkuiFhNbEo3OzISWEE2Ujctakg/dk9FhWlkj2pgingVi4wYZGcVbWkaYUsrZEA6AFI2JY9aSE03HC8mCWVKPXRQRl4/NG5LQIphWI94X3l0EGlmC2BcEWBWA04+GT4lHgBeVG6ag4yBgoWNkptmYGlVOCVGKSFUMSliPiumoa2yvch0ckBhXCZ9dFJ2cn1PPkEAUE57kJS3ws7st8DkYWuGQi8hVjcrXj0yUzoulJOkpq7rsrjJeHNgUElPQj1QVk9wACYhLnV2iZebtXR2iDk3QTUnIigaDCUWCkk1Ll5VX1JLTnNuf0g+PCwlIR8bHzEsRQAYFxZ8e4dYVFkSDwwREhpHPUY8JxZFLhpbR0srKjkgGhIWEgw1Ly1WTEs2Ly0JBgEALiopKCUlBgUFBQUEDQ8TNjVMQzM0RjEqQT1VFxgeCAgDCgoJBQUDEQ8MHxoXCgkHaER/18vxXg8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/13.png",
+    "width": 1920
+  }
+}

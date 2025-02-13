@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "J'ai pas utilisé la souris pour faire américain et à un moment,\nj'ai juste appuyé sur vernum. J'ai dit: C'est réparé.",
+    "end": 34,
+    "index": 13,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=28s"
+  },
+  "thumbnail": {
+    "hash": "7b7c0a29dc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE9QTi4xN0VMYX16hYZ9hnVtdHFqa56Ulq2jpbCnqbmws8rAxMa6vnhrcUpHUllYZwAVGBoGCAg6QFB1cn2Den1FOTVSPDddT06XjY2pj4p7aGiclZ/Ow8aSippmZ39xcYcAExUXCAkHKC47eXJ3lZqgXVRXd0xHXlBXjpGejmphgGVlk3+EyLq+cWpuREdQRkdKABYXGggJBhYaIXyBjXeLnUFCTF8+PE9TZ0lZdHVVUZd3dZuOmbGosoNoal05Pls5PgAWFxoJCgcPEBFWYnVteI1OVGI1KzUqMUBHW3BSSlFZUFV+mrqQqL+jm7GPbYOPdYwAGBoYDAwICwsLNjtIf4KQVVVgIQgRNT5PaYGaWG2CNDA+U2R+fJizlpGiZztIaDE+ABMPDRAMCwcHBSUpMYqQl4CAhUQsM2x9lVduimmBmjsyQkJMZZiuxI2WpiMpLzQgJQALBgcYEBAUCwQXGB1qYWCblJqlmaNVTlYhJDBUZHs3Jy4+OkNLUVlcY3QKFiITGSEAGhoZIB0cFxIOFhMUTUI8hnx+r6ayhWlpkXVziGtqeltVa09KCwYKLTIuMDYiGhgR4umX1rGlhuUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/13.png",
+    "width": 1920
+  }
+}

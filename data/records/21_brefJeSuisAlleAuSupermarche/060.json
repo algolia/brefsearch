@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai attendu, j'ai redit bonjour. Bonjour.",
+    "end": 62,
+    "index": 26,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=60s"
+  },
+  "thumbnail": {
+    "hash": "c370acf5df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJyMhaWgpbSglKaUgrWxq7isoIl2UKGRb317aqqUi4FoZX5vdNXT36ikwp6SqaSUpAC0qrK3sbW0loajj3PCuazTzcGyo36ytKyWjYLJoIibg315Z2fq7O6/vtqdlKB0W1IAsaCZn5KJjm1hlXJbr6OXgXdxjnhrvqqdl4h9onVkq4Z3xLCl7PLxz9DrqaKmf2xXAKmhmXp0bSklJU9BQWheVpZiS4pwZ6yahKaLfodeU5p6bKyepd7k6c/S8paOmHZlVQDRy8qFhYUbFxxVSlRRSFhzWGRlZnWtp5l0YmlBLDVvUks9LEmtlqPW0eiknaFcTEEA2dbVlpaVNywsgVpGNTVFOUJle2Zkn5R9ODVGJxkyMyI7JyA8bjQ7unR5ppyRbVpLALKNiX88OUAIB18rJFpHQ1VDSnFaWIR8cjEoPSUaNTIiQi0qQVQpM6I0NqqKg4BqVgCQY12KODW6gH9dPTIkIC5FKzZ/U1afZF8jGCgXDygnGTUeHjNNERaIGhtwR0p4Z10Arpyntp6nyamfqJxuR0hAa1RZmk5Li0tJdWlrenV9OTBDExQpQQ0UeBgbelRaY1VNFaHG0l8Q4VUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/26.png",
+    "width": 1920
+  }
+}

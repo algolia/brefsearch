@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "J'ai respiré dans mon T-shirt pour ne pas vomir.",
+    "end": 20,
+    "index": 10,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=19s"
+  },
+  "thumbnail": {
+    "hash": "4e820c1956",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nB3Le1OaAAAAcK69rrquLc2zhzVFUIEhykMIeWiKIIiIIkT5ahk6jMtutW6P291un2SfdLf9/v8BZxg47mrBeHwQ22VRkEUguYioPLNw7d9h8P3xWxQsppeTu/AZh99Dp4eAwmAL17zx/VTiHXySfLGxsfXmVWJ3+8mU/oTOfND7sv4cLaOn9Q8GhXE4A1giGXrWpW0dxt8W00exnc2t1y+Lp6mpXLmTiNDtr4JgHa4foq8MClEIBNgy/cnteh39KLHXYGmJpnksT6ePq7n0FY34euvKGUTL+9XykUazNAoBwwY3d3qTi5mhOX17anVH1/61Z1o1tuKqSotnmxw59WfL2wcKAf8FV230uiPDnOjGSNd9ve22FLujD13b96yBJvFUAex3nNubewoBGQwGmmKtft5T1OG5MhAlQxA0UWxX2HqJqDAkJ3Nsan9HVczZJKQK/0MJLwuCKtc6gtgWBO2Mb7JsnaIEBMGz2Ryay2lVJvi4GvlzMp8p57PAQTKJ4xRR4spklaQEgmDxDyRSwMEMmIjvx2N7vqH8fP5lWx4GHhcyJ38BPQBuNGyH0GQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/10.png",
+    "width": 1920
+  }
+}

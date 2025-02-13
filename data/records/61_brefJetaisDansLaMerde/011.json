@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Je m'amusais à faire parler mon téléphone. Quand je suis content, je vomis.",
+    "end": 14,
+    "index": 5,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=11s"
+  },
+  "thumbnail": {
+    "hash": "961b9f0926",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nB3N6XKTQAAAYIzlXPaABZYzSySHQAI5oCQ29hhpY0yNNo5VZxw7muqfPoIv74zfC3yCDRDH5k2SfJnPfjb1VZL4OuamHWJqadBQAJZVoEIVEEnWT0RNYAD1qXMYj5/Ozz6Vk3qQlGEQExoR6kHi6NhQAQRY0w1FRaIEBB/ikeX8qKu/u81NOvpzuL17tciYGxHLg4RBYqo60omsYVGGkqQLASKZzX6vmsf1qkfpt/ayHvbm3cBUYGxZPjagrGoqggDZ6P/AIMkc9qtZ7F6v7zab2MBD19pMU7Ejz+IupzYRlTp2q5iVLvEREJCkZQ7bl8Wbdnt8eEx597ycfP+419TQIMMkzgsvXPe8vs9cVTZlUWAQmwp4EfJJUe3ef141Z9ft9nh8etcexqMmG0zDqJ7l1bJejfovuRsIPqViR/LcyPV4s7xor2/vvz68bbdVNllPF54ZOpTnaZGmkzQtpvOl8PxZRzyRGQsgon7Qu7jc7D/ch07ErSh24q7D82I1yE8H49NhXvX44B848TtecADWmAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/05.png",
+    "width": 1920
+  }
+}

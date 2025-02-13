@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Ouais, passez une bonne soirée.",
+    "end": 72,
+    "index": 32,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=71s"
+  },
+  "thumbnail": {
+    "hash": "5a87759510",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXB7VOacAAAYO7KifyizWamayoIzSApxFckAUUIE7Uycclwm29Tma3s3E631d289XX/8p4HkrhEMcXpAm+Ip3VZuhROEkSoyLEVPl1PHn8uSSNd7ctiVxQ+FPhWNgWV00mdz16WZFNTOkalrpzyNNlWxH/D9qdC8rpq/Fn+XN0/PDgzpz8cWBak51INMd/Ry1ZFNc8ULcOJVGzWNJ7tZpWKngv59WLxdHe3+jqdD3rjm/dQKZdTpeKFqnYb9VnXNiSRwbF137qvlEyO/mVdPX67/X07WznT+aA/sToQm1LirJQvXMhybeHMzVozFo7clOUaQw0U4emj+X00XE7GP8Zf5v3e1OpAUSKB48eHZIY55LC3ZHg/ugm/xPfDCSJ6ls+OGtUDjEzScTZGMQfvjggSInDav4cFA7hvN+T1+v2+IBYi7bZtNtosFV/archeEN32AQ+KwAiAAfRmx+eCt1wwcCHoq51AIBAZ95znx7+TwYxj0utRV+NOdl8HALINENQNA8jtRjZc8MYLDwJQD4Ie0ZxQOKeZHMdm8EispWkERoEtrxsGmy7Yj3r/A6a4Zhm2amMnAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/32.png",
+    "width": 1920
+  }
+}

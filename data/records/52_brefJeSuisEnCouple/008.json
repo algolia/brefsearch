@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Quand je suis célibataire, il traîne tout le temps avec moi.",
+    "end": 10,
+    "index": 5,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=8s"
+  },
+  "thumbnail": {
+    "hash": "5099fbd59d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAHElEQVR4nGNgGK6Ah4eHm5ubBA1MYEBDF1EVAABFNgBSK9C6HQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/05.png",
+    "width": 1920
+  }
+}

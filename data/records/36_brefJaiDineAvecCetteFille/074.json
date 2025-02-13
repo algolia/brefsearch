@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Il avait utilisé ses cartes.",
+    "end": 76,
+    "index": 33,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=74s"
+  },
+  "thumbnail": {
+    "hash": "68ea00f47d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXB226aYAAAYG7wgPyE8+EHBEH4ERFFQUTqtJmxUGtX3bqLrWZNmrik82LLkl00zQ7J3mFZssu9wV5jb7EX2fdhtsYim0+7+iwwck+/ztwsEC9O3O+3u76Lei6yofJuWxy3Z6uRnzhNzGvR/R4TOaojS9d9+++H7Z/7i/0iOKxnUcc/TZK3m/OHm93x8ul+OSkTHwu7dDzguqqk0vTUkH+9yP99ufn56vTlIuob6u1m/fvb47NpfChODmU+7xhYH/E9JM0hPxK5AmkPi+DzvPe1GC2HHUcUlmlyNcs3A3R/ll1NQosFWNqWs9As29raUu9i+8cu/ZT7+xhZkvB8Gh6LdBOhfT58gozLLMr9NjZ1zdjxZqY6VPiirbwOmh+zzt0IlQPnfZk87lZvFuPU0h2J9zXFgzJmii2FgQnkNApYDLUyRJ+hug1iacFBS3Gh4PGsTlEaQUC8IuI4BuqMRCsdnm1SJE3Ux5rsS6zKgIkNY1PmQIMliUDlTJIwqjVYrWKNGsUBQacojwE8SQmACxU6VOixwXOgUavVAVHXaMDVa3SlQuL4f4+wTXInSWT9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/33.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Ben ? Il n'y avait plus personne au bout du fil.",
+    "end": 87,
+    "index": 49,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=85s"
+  },
+  "thumbnail": {
+    "hash": "a16971d450",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nAXB21fScAAA4D0oroRNkpv7we7sxm0wBm2DEYLcHCEwFXCSEscYYu50rEh7qHPqof+674Oaijgx8yUYPnmD2jl+kCQW7xQ7K7nOheuMtpfdX9Pusl4c5rgyju3tvIYsLe/2KgtVOi8KP0eNz52aN25cl+Tv6+W31fXLpPdydmwX0sMMP5a5HMCgrl58mHR+r+ynQcWtqZuO+Wdlz43i9v7uef1hZpYfmoZTyt6UM64pn8kCpKTyDV3DSVoAYFJIa6Kgq4ql5Lbux6fl1Ju8f+43vHp526vMdbmd5iGZThI4DSNhBDlkYgAJxvyHAI9TX1e33tz+Mrc3J9XzbOrGUHoZ8S1DQ0zsKBjG9tEIiGCtvMxRbCAEEnH6cXG1mQ42zvhTv3VXkoeFDI/FJQCgSBiDkQi0G6hIqb+jllPT9kOAoLj1lX1/cfo4G/z74c3qhojFiXBMJXDoIBjRJUGkGJYRVZYVE0QU0IBILsfWrdU8Nav9tmWqmkGT/TRfFznI5/NfluVls+oPhHZhdAdGfa8OKJpr6zoZF9AgiSKJRBQ3WOqYZ8go+A88emDNttR2sgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/49.png",
+    "width": 1920
+  }
+}

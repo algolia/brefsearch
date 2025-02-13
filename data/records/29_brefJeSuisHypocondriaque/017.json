@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Faut que je puisse m'en sortir. Fief, tout.",
+    "end": 20,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=17s"
+  },
+  "thumbnail": {
+    "hash": "df747d3eec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nBXC6W6UQAAAYN7TxKcw/jJRa6t/NLGmTXS7W+1a91KEXc5hZmCAOYCF5Rh203Loqxi/fMqrJ08nZ+922u7+6tP88uP99WcfYGQD5HgYQGi5lm7o6838Znb1/vL8xWvl5tlzc/otFZmzWqrTmfZ1IaKUBYyHgocJD5M44CGMnK2rLdW7ya3y8+wiWqtSytghzgrYKxz5kvl1jBuCJA0kI02MqwAWIY6dnaX4i1UR0lPbUnyE29bbttgZidcFoIf2SLyBkZ6RPqGPRV7TiCnUcZuqOUnpgwdgDMgegDFAuzP1E7T+ht4fGoyMjHvRVWWb8FSJDLMqSllLgh6Q2//v9MjutlrDyJjSMRdDuR9k/ViVDYu5AtTfmdiXRZWyMuFS0CZhlaB1gHhdNrJqZXU6Nl3bHLM0hwApy+ktdjGNWOjHgmYJz1OeZbygJKoPWV0WhzwrsgOjwnW8H/OF8uHNxffZXFur+uYXMC0CMYEoxEGEYBwggqBnW4ZurhebyfWXty/P/wEneD7BOOp/RgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/07.png",
+    "width": 1920
+  }
+}

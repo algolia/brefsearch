@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "J'avais mis le costume que je mets au mariage, aux enterrements\net aux entretiens d'embauche.",
+    "end": 37,
+    "index": 12,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=34s"
+  },
+  "thumbnail": {
+    "hash": "7372972eab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBQSUB1cHCEiJZvc4Vxd4men66lpbarq7mzsr6wrri1sb2wrrmmpK2XlZ+CgYlvbnIAWFRPcW5ujZOke3R9h3V3pqm6r7DBuLjFwcDLubW+ysbRn5WZjXl3sa22oZ6mkI+YAGJeYHNvbZKVo2ZeY3BeXK+wvri4xb68yMXCzLezu87K1XtydIJwb765w7Grs6KepgBjYGB9eXhzcngoLzYwOkpCREfHw8vQ0NnGyNDBwMiGhYtEQEdmVF1rbXO/vMSio6oAUk9PcG5uPUBEGB4yMDdZDhMTm5KapoKNlG54qpOeVFtgLiAofUhePElLmoGLdFFbAE1ISlNTVkNCPj5NPkZZUTc2L0g4P18TIFwGFHtUXj1DRjQpL49dZkdKTFExOEADDAA4RFZFS1RERUMlKxQiKg05OzdSTlNIJyhPJSlrUVcvLTAkJSc2HyAkHCAXGx0yHyIAFiMuPkFGGBYaBQAHBAADFxgdgYGKbkVPaio3Yy44KycoDgwPSBghJxITEBMVTz9EAB0hJDo8Px0bHSEgHzk3OCAfI0tLTzA0NVVXW1hbYDU1NxAREyQoJzIyMhQUFx8jIzoxpxRh1le8AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/12.png",
+    "width": 1920
+  }
+}

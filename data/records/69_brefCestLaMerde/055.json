@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Et puis mon frère a dit: Pour toi, la gueule ce soir, tu auras\nta réponse dans le matin. Son copain Marc a dit: Oh oui.",
+    "end": 60,
+    "index": 22,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=55s"
+  },
+  "thumbnail": {
+    "hash": "fc957928b7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nBXL8U+iUAAAYLbb7S4ReQqiPEAQeIzCCFkIiIjdpYKoU1tandZS67by8na77dau9bff7vv9w/yTY4mTNEHc317/Xl39uZm9DLtdQ8/jJBLltu1yxQoFGCIDsge5zCccc4xagShaSNtOx5ft1o9xb96wJw27XgZNA910kgbkacCQ2QKRAfhnAmt5QU3SYt97/b5+nIzeN6uX5Gw/7G4X86fdftlLEknkqXI+VwTE/4MBWjCr6Dbpvz8//F0vX++Wb5ej58HX7eZp9+st9YO0wuosX6bYfI7OHpDYh484CaB1VN99W/y8upjZ9fugkZ7WD3UrPTsfef5AllwFiSWByTMkDjBOMiqKiVQjjaJl0tu0w6llXjSszrGpynoviGJFHjmOqeoMSTOgiGk1vwS1qiBfD/pxGM7CZmKZ68hHvERRPIRq6jbvh4Oe552o6EisYrxolMpKiRFWg3gzGS860cN55xTpBVCGpQqESmC76+l4+iVKAj92HYyFCoQyRfO6qM5b/rLV9JBO0wLHVgUecbyGJD0NwzQM4sDvu84/fMtXEnmD61cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/22.png",
+    "width": 1920
+  }
+}

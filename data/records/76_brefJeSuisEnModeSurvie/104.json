@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "J'enlève l'étiquette orange pour pas me faire griller.",
+    "end": 105,
+    "index": 38,
+    "start": 104,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=104s"
+  },
+  "thumbnail": {
+    "hash": "8c7bc01065",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBSWsTUQAA4PkLHjx49qIXQYkQKi2CFBek6EHxpgQRlAg9lIZq65jFSSFJ6SzJS6azT+bN9l4mmcxMOs1iNltTDUgVBH+N30ckk+vJtafJlY10mhR56GHfszE2LFc1TEHTBZ1nahRZKBa5zfc7O5kCkXpL7pKVweh8Ov7W752EqB04Xuh2fKfjoy6CWAZyJb9fyFUyW4UsyRKsFI9Gk8X3n+PBfBiNTsJhL+hbsqHWxKagizWJ5wRQYbIfqb0PpXJJJfYPsWmHy+Wfs9NfX4enyMC27toKNATNUkwMsQux1pC+7FHZT3SDbxPPnm/m8rWzxUUUTVpu1Hb8DgqOg0HPj0MvcptIBgqUdLpYonKcrEXEjeuJu6uPprPlZPJjOj4fDea9YNBthToQVSCIbEPgBF2C9QNmdyuXIw+J2zfvXL50RW+2L37/68czKNsyyzcbsilqqIlatmfKsFqq1g9YOrNdTb8hErfWUvfvsXlqsfwbR2PP6fo49FHXg8gRFIOp6hVaZcARQ5ffvfz85AGxklgtv9h4vf4wPJ734pnfjl3FtMCRxXJWvQ5BTQNA4EC1TG+nXj2+dvU/F6EA3nzox+0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/38.png",
+    "width": 1920
+  }
+}

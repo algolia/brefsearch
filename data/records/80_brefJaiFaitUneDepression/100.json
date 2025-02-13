@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je suis devenu adulte.",
+    "end": 102,
+    "index": 34,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=100s"
+  },
+  "thumbnail": {
+    "hash": "dc638137ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFM1Q04kM1YtNWQ1M2czN2w2OWw3O2lAOFtDNERHNFt6Y116ZGFwU2BRKWdSK0A0HgBXHi1cITFjJDNuKzV1LTt6MD58MT5/Nj5gKDuFYB2JcB5RTj1dVDeWfUGXfUGQdz0AYi8/aDJCcTZJeDpOezpOfjtMgD1PdDhKcUhOtIExpG9BbFdedF9emIBSnYNFjnhDAKSWhquekranlcGzobSYb7ShksO5ubGmobCVh7yFSr6MTntgUYxsW2dZW4JsU6qFKQBibEaXknTYwYjUxJLRuoHQw6bOx7XWzL6zj2fEl1aic1N4UkdyVEJRR0prVkLEjwIANEgle29it6OJsaKOp5iPr56Rsqadu6mawJFYsLtPST1KRC5DclpOSUFKg2csz5cAAEJBM2ZKSnFeYXllZHxnZZJtZIttZnxpaKKEap2LTVU/O29OQ4ZtX4l6c3xjPJ1uDABfSUphSEhpVlRxXFp6Y199Y1x/ZmF6ZWGKX0y7d1KOZk+NWz9rUkuuk2iBZUV/Z1oAUEJBU0VEVkZFWUhHXUxLXk1MYVBOZFJQaFRQaFROWkpLVUdITkJEg21Qm35PlHtUSxqwtknWRQ0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/34.png",
+    "width": 1920
+  }
+}

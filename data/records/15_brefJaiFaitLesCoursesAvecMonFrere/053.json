@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il m'a dit: Non, pour passer pâtes, c'est de la merde.",
+    "end": 55,
+    "index": 28,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=53s"
+  },
+  "thumbnail": {
+    "hash": "19d443272d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADQuIEUyKC4hGxYNCVdJTaGIj5uHiqecqp2PlGM6LpmBorGr3rKqxauivYJyapiLeAAbGBIqJRUvKBwkHhY8OkSPjaJ+f4yco6u4sMqDWlGchH20rNmxqda0rsyKgX+LhYEACggKMy0jQDgqTEI4HhoYDQoPFhUbc4Z5oJ6rtay2ubKnoJODrKPEtbDTrqe8rKavAAcGBxMREV5ZVoyGhEhEOEhFQ3Jvb5ySmJ6Ojbm7xbGmpmtbP5yTk7y12bOt1a2l1AAGBgYDAgQ+OCpdW0kyMCUkIyNkVFKPcmeuqK6mnZ16bk1IPTCfl5atpsetpdaQh80ABgYGAwIFHRgTMSwiJyEXAAAAKiMdqZZ4rJ6HlpWikoudRDsxo5ypj5GdgY2HsKTbAAUFBQMCBQ8NDC0mGjkyJRQSEDo5N5yQcZyOfoyFlaymx4yHh5uRoJObmzpNE5iOqwAEBAQEAwYIBgceGREzLiAfHBdbWlOVkJKqo6t2d2ejnrysoqGYi36EgYxHPix5cX8AAwMDBAMEBgQGEA4JHhwSHxsUNjUtioaEqaS2nZeToY+ZmpSkm5aSiICLgXJQYVRYtH6sC+yIV0AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/28.png",
+    "width": 1920
+  }
+}

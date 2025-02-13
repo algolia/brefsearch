@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Il m'a dit. Salut.",
+    "end": 43,
+    "index": 20,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=42s"
+  },
+  "thumbnail": {
+    "hash": "1dbd4869dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIWBfpiSjqumo7exraylnsC8ubmwrquinnhqZ3lhXZCCfqqfmJ+UjZSJhmVXQlNHNACfnZm2s67Fv7ynoZyyqqezsrCpoqCEeXgkGRkvIyNWSEZzZmObj4mmmZl1Z1BZTjUAtbOwysjFxsC5squjwL68uri2nZaTk4yNWDk1UDQxRDY2LSUoQjg7aV9icF5SVTsyAMLAvtHPzNfV09rX1tTSz8zKyLy3tbu2tHZmZD4oJSkiIy4mKy8kKj02OIp+e3poZgDHxsPV1NHa2tnX19jR0dHOzM3Jw77GvrW+trIzLzAXExUpIyYqIiZDOTyVi4mRg3sAxsfE1dfV2tnW2tfS19LK2tPE4NS46Nq7kId6FA8SGxcZHhkbHRkaIxwfX1NUj3xvAL/Avse+r9LCqtbGr8y8oeLUudvQuW1mXhEOEBEPEBQREgwKCxEPECAaHDUtMYqBhQCfl42ijnizo47EspiznYOKemlCPDcEAgQLCgoNCwsYFBYeGhwWExQdGBohGx1XT1MAQDc2JyEuKiQxSj9CT0E8CwgLAgEDGhkaMSsqBgUFGxcYKSIlIBoeGxcZGRUXMSwslGPAPMpJDrkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/20.png",
+    "width": 1920
+  }
+}

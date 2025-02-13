@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'ai regardé les filles, mais elles ont disparu.",
+    "end": 76,
+    "index": 23,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=74s"
+  },
+  "thumbnail": {
+    "hash": "de1358b22b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nBXLW2/SUAAA4OMDcM5pe1p64bJCW1rajkspZawM6DZgahgTBpvR4DRb2JUYjAsvzpn5AA9LdEZjNPHJv2r83j9QXHUVpZBO5ZKxtKnnCvlGNrthGP7Bk/3Z8fRVq1NXZYZmCcWymNCIAWXHz2h5miKRCEQQ62q2ut7Nms3Ji7Pb68/jRsNXUiwTjRKexoTBBHgln+cEBCmW4cx4Ys/W3h8dl9f650dv7+8eRtudjpXREytraVUVRAQpkLOLFKIxZld48aTuXQX+y2qpWeudvn73sPh5uL0zcuxd15ls1IYlV+J4YKhZCCmJcG0zM2t6l0Ft5BYeN3vnJ/Nvy99vdoddW3/mFrvF4rTV3vc8oMhaOPI/jPL6tFa4rOZOy/Zgq3d19uHH/Z/F3ffAcT1FLqnqoFKZbAYgLsYRpAlF1mXpeUG5qBhjJ7fZOJhd3P76+vdmvrT0PEE4JYq+aQ22hkCIChDSccI9NeQgJdVkqa7JraD/cf7lZr4Q+FgoFIGQwphJxsyy0wVxKRmBWCRs11LaWgKFUSiM85rx6XrZ3xsD8IihWIxoBCmesyQh8w++RFG/DOs6jAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/23.png",
+    "width": 1920
+  }
+}

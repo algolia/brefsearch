@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "Manger, jouer, jouer, manger, jouer, jouer, manger, jouer, jouer, jouer,\njouer, Les connasses qui me bousculent.",
+    "end": 75,
+    "index": 28,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=64s"
+  },
+  "thumbnail": {
+    "hash": "0a1e369a24",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXB31OaAAAAYHbXWuYMJ3kDpoBSSZfWDAtSNDxwIKgI8weZYpjaD3dTm9y43azb7WEPXdva43a3u9313r+47wPqBp2i8Qj+AguBkVd+OLASAL2Qb5mliHKWajWjSgniMlD/LKYbeKkcAdIMFg49h+FlCPIgEBgOBrzeJRJ9WWd2PunKpCv1L0hVRUQR2qeDaSYM+H2LXs8CuuoHnjz1r/jgVWhxyRNC4OuG9G9i2Upa0+NaFaeTgYKI0bsQ0GhuHR/V3kq55OuQmGZyPH1sqkM9a/OJ6yPFbeU+9zV3wus6KgokQSwAt7fc1Yd3o8vzn987USJm9fj7uTKvbLjmgWMb33rpm8bunSO/n+4lEp51EgTMQVHUC3LNFotGikucj6V5b8/Vt/+45u+PdUejZuX4w6/246OtSxBFPAPC+ZPN6mSjMibki/XKqNRq/5ga9+PTh5vZ3y+XX4dv7gaZq4HUcYZSs0KxHLCWN9fEDiGc4IV+kOtKctGqynoqPlUz43bdGXVnKpk/PATZU0IcxuQzIFm0YqJFCh0s10SZKrIjJKOIQKEWv1072MxvYb1sqCywKKthbCm8r/wH8tNwngix+pgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/28.png",
+    "width": 1920
+  }
+}

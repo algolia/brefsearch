@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Il s'était assis sur la tranche du canapé, avait relevé son col\nde chemise et levé son doigt en l'air pour faire comme tous les mecs cool",
+    "end": 62,
+    "index": 21,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=58s"
+  },
+  "thumbnail": {
+    "hash": "ef97728dcc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEYzW2tSoqZwlrFykq5ukbJvjoJgYUs3NXpmZuTT0ODT1MOyuqaJwaKAh8GSbndWSAAUF1sYJatJRMCnb5yxcZWUYWxMMiU4JCIgEhRXRkbIt7vJuL6mhr7Gk3fDk3FKMzEAQj12JCdrIymNfl6Xs3ePf1lFjGFEl2VRckxCLR0gqJOQw7C7bGrBmnyLelVCIhYeAJKpy1dglUY4UNSch6t3fpxsTrh/YaVtW5hhUDkjIYl6j3d1yV1k1HJ04kE4ZR8VGwBFW5ofOXlSO0PFimWffYelfGvGh2i6fmqSYVRTTIxeYcxaX8tGSrBUVLNFOV0gFRcAVFB/eWhytIZyl4Grgn3PXkZLh1ZIhU49XERvSVLUVVrJS067PzuLgGqFXkpWGREWAIJncrWYqZmV53iA819l3Us5ZFw1MFxAWUFGvDc7uT9Br0pGlY97kJZ9kldFWBUQFAB3XoGGiuVvduV4feprdexkXbRIJTNGSrFudvApKpVBOYSjkaGtmqmMdY5dS14WEBQAbGqxc3PHT1XGeHzrc3nnaG/hd1uLamXIaHDpTUichnOApJaqkYKVhG+FXUteFBATTh/CP9M4G6QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/21.png",
+    "width": 1920
+  }
+}

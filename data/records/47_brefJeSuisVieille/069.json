@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Je lui apprends à siffler avec de l'herbe.",
+    "end": 71,
+    "index": 27,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=69s"
+  },
+  "thumbnail": {
+    "hash": "7c2c098e95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNICHdNyAryiTQNSbJNKQlqqCkpigsKcbHytTUJd7XOyQ2Mz3KPjnUI9bf0cTH1djZkyM0PjC90TS516WpOnz+pdUJTdXaoY0aIS1a4Z36UR0N+ZGl5VFKZe0Kha2y2Y1iyDUNUrGlCsWt2tVdtYVRaiIeuhrKQkKCwsLCysrKSgoKblX5xYVBmnV9apVdikUt0th1DQrRVUqlXanWsV4iHmKSshLyKjLKGnIqWvLqulKKmhbN9bnNEToN/Zq1vYklAaFYIQ3qed3Khd0xuuJG1vYq6rqyCioiEjIiEjKSckpyyuqq2UUhSQElTVH5teEJ+gE+sD0N5UcT8hRMLinPUtQ11DM0UVLWExaX5hMQEhMVEJWSExaVNzM2WLpm6Yvn0mdPbujorGSoKEydN73f1CZVRUFHX1tfUN5OUV+EXkeDhFwYhAWFJOeWuzsaNG+ctXDhh3vyJDCHR8dYOXopqegKCIiJi0kqqWgpqOtIKahJyyuIyigIiElx8InGxUevXzJs7s2fShGYGU+dweVU9YTEpPn4hCWl5KTklEUlZcWkFAVFJUSk5XgFhHgERdV2DqLQM37h47+gYAAlJebWseDwkAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/27.png",
+    "width": 1920
+  }
+}

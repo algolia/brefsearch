@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Le matin, je lui avais dit que je ne pouvais pas aller la chercher\nà la gare parce que je rangeais. Vas-y, je range, écoute.",
+    "end": 39,
+    "index": 11,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=35s"
+  },
+  "thumbnail": {
+    "hash": "21aa7f6932",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nAXByU7bQAAAUIuo8TKZzTNjj5dx7PGSOMSBANkgTaQQoAihVJC2HLqoFYdK7RmpUg/9gf5DP7XvGRSCULghJyFDEQWZRxKGtHQHqeynUREHvVQ1ZT7MuwnDIYUGcew88nXo6YAlHPOOrT1yVsbzOi1VEPuir6T2WYCAsNuSQIMCu9eN6m5URl5fiTzgvotnPbWs4mURrYf6aj6a1WkZek2uJEVGLFhT6ZDTzHdLSSXDjm09bGZ/fn5++bR7N6merhdXI32k1bguOEIGAyDy+LTUjzebxbhBHWCZ7ZfvT//+/v71Zffj493X/c1+u5gNqyZTGEDDbrUEdLa1el2F56OySmTr4OB0kN+tJtth9uakv7/dfHt/v5oclVnCCDE4RqnPG2Edes68F4bEMU1Tc9AoNtbR+jC5mJ6dNoMyCQTFFHUMFyPlC0Ewg8CHFnFM6aLn+4vnt+vd6uTyevnh9nzVkwHnWSQZhob5qo0cy6eEY8ihxaANrPagyDaz8fa4OK7iaRXUSvjMlYy6GP0HxyA7HtWiJ7cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/11.png",
+    "width": 1920
+  }
+}

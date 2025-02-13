@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "J'avais envie de sortir une machette et de lui couper la main.",
+    "end": 35,
+    "index": 20,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=33s"
+  },
+  "thumbnail": {
+    "hash": "3571209940",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC4oJGpeW14/MohcS4ZiVGlJOntPOrOCb7iDbbOAabB9Zal3X4NaRTUjGQsHBgUDAwAgHRtdTUdOKRqDWkuZhH6IYEycblmPX014RzKsd2DEj3i9iW+7hGumc1l3UDtYOSkANDAtYEY9XS8ggmxkgGJXhVc/oXRgWDYoYTYikmFMwY13vIdvvYZus3xkonBXkWNMAE1FQG9YTnheVHJhWV83JpRmTmpDM1ApGoZaRJFkTmtCMmI3JahzXbeCb6h3YJhrVQBHQD1bTkZqTEBULyJBHRByRTExFQ1aMCCNXkhiPy4mDwiEWkeaa1ilc12fcFuccF0ACAUDGwkCNxMJOhoRLw8FUi8jQCoiVSwbb0MwFAgFRygdoXFbnHBcWDQmUiwedk08AB4TCCkbEDQkGUk3LFY8MHVfVHBdVDASB2RFNmFKPEsqG3BEMVY2KAoDAgwEAyQQCQAnHRM6LSM+MSdLPDNhUUh2aGFvYlpNOzFYRTpROzEtGRIeDAYNBQQJBQQKBgUQBgQAMiUaPy4jOSgcOykdQi8jSzktSjgsQi8iMiAUIBEJHhAJIBIKIBEJIxIKJxUMJhIJaJ15re9GJdgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai pensé à mon site qui m'a dit: Vous cherchez à combler la vie d'affective.",
+    "end": 31,
+    "index": 17,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=28s"
+  },
+  "thumbnail": {
+    "hash": "283d0c8f5c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJKDhqWVlK2jmMCyqMm9upKIiJ6FfIyAgYiEep6dk5qUlX93en11e5CFhYJ1bm9ZTwCflqCwqre8t8G5tbrHx9CpnJuugGmXfXGmn42soI6DbWuAZWeKem+EcVSCdGB5Y1cAjoyompy4uLjKtrXDzMfLv6yrkmNVnIeLu7vOx8LXycHL0cnRw7mzmoltj4V0lIJ+AKunscrBs+DXxdrMymtZazMqSFtARTUuQW5WbM+3y9C9vsG2u7+4v8zFxsnBvK+dmwCjlpSdjYaloJaZbXQ3J0AfHkIfGjweH0AoGC2canHY0NfItLmpnJuWnavG0OHGxtYAfXN0e3NyhX95ejU9NSAzJiNHIBs/ISFEMBksikJN0cTF1tHUtbO6rKuovLm6qaayAKednK+pp76zsHssNikaJxsdOxcaNxgdPCIRJIQ/S827t7WckMS/xsrHzKuip5yUoACuo6W5srHGvLqSNUAxGSUXGzkXFjYOFTUlESeBLDzJw9C7qqV8a2OemqXGxNW2s8QAopibqqGjs6mph2RvOC08DA4rExMwGx44UkdYloKQr6CvsqauenRxY0tSn5Gcq6i7jKzjMSQXUBIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/17.png",
+    "width": 1920
+  }
+}

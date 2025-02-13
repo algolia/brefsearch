@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Je rentrais à l'appart quand ma copine m'a dit: Tu as pensé\nà prendre mes cigarettes ? Putain, je n'y avais pas pensé.",
+    "end": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=1s"
+  },
+  "thumbnail": {
+    "hash": "0bcf51aaa6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nC3PTW+bMACAYUL4MrYxBvNlIAECAZq0SQil0yZosmqKWmmr1FbZJdPUQ+/bLjvvn0+Z9gMe6X2FF8f62V+d1tHbsPj+ofz1OHwduuvU32bhoV3s1xddlV/EfFXkBBFxJAn3pvGjvzo1kz/H/e+n4e2h32TTx2V6qKJlElVJ0tblXdeU0wSq6Ax2dfrl3eVxd/36MPRN7ZsGUeRTW57a3JDGTAecGAXnsRsARRdFWUi5W4RuPQl8ShiGlWflltGGzNMBkmUXQqqqDCLPZJqij0VZoAaxCM1cts3i1GGXET8sZivOHF2LCcYqIBrgpumZtiqDcxIAkLIg4+H93P/WVTfVPHL80KSfl2lIMFKBg1BsM257/4Eia4SyyOdtXd9uN3ddO09nNwnfZ5yoGtF0ByHOvMD+9zCSBKoBgkkxm29WTVUtPu0+rqtyggEFACpqaODCtmdOQLGlSNoZuFD3MAoZ8yzncDu8Hl/eNxtBEGIIn/Npn0y7iKfMRQBLY0UcSX8BG60zpTn5uv8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/00.png",
+    "width": 1920
+  }
+}

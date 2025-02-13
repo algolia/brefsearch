@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Je détestais ce taf de merde, mais il y avait des bons côtés.",
+    "end": 79,
+    "index": 39,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=77s"
+  },
+  "thumbnail": {
+    "hash": "170e528d16",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBy47SUAAA0C7cuCFRR0EhQ8gIZoAChTLl0gft7euWS3v7oA+RAipMI8PoxugkLIzGiTvjxsSMiTEmLlwb/8A/8Ic8h8rdvFulT44Zvs0pnIxlaypobrq92L1+X6f7gIeCakumB+CEFXQGQCp3cK/Bij1e50ZYGUfjYKWR+Xy7J8mmWq7RLU4eh5o9E3TvZIQ7A0jdyJeZoQYgASqBODaDFfIXySYbKbBSKLOAx/HaX+ych6fISyUUUNdzB6yIRMMXDd9wUydZo/VS2qZtmc0X810s+NnKS8+cWTaerhQrpJqdITM0Rmja5Y0jGgzUSQsRmszqZFoy9ZLr9yLsLR/jJDO9VDQ8youeylaok7loBIVK41axVjg8Lpbrla5QDcMacYqajBcRCp5AHANoU/RA4yARrEglqeamur9U7EeiFaskfYCca83WHQXKEdYnCa+5Pd6gnu0/795cnb/99uLDj+eX31G06cs20H3ejKWJQ0/Epq3V++3DGlM8atwu3adevfu6//jr8sufTz//Xv3+h8JNtQXaQG/zSDWd07Nsfn4Rr19KZtAZqI2e+B9Rl3oo19m4DwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/39.png",
+    "width": 1920
+  }
+}

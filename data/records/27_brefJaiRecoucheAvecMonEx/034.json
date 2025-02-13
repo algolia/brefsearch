@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Cool. L'informatique, c'est sa grande passion.",
+    "end": 36,
+    "index": 17,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=34s"
+  },
+  "thumbnail": {
+    "hash": "16a6b0a987",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKKanbKrsL24vKRhYZ9QUbiEisudpb58gsKgo6OUlEIiF2A/L2xINHpRN4dkS5qPiwCtpKjFv8XEtLiwh4bLubvUubzWwsTbwMG7rKiLa2BxRTZ5UEJjQDRuRjKJXkChkokAuK+x0cnPyr+/tKGco4qDooF3qX5xo4B2b01Ggko3wINssXdhlWBDjl8+oHNPrJ6WAL20t9bP1cO2tXtZTHBHOHBEN5thT141K2A5L5pmVY5cTKt4XbqEWYNUNaR2TbWmngC8s7XNw8TNw8KYcmWma1anb16yeGSQWUuPVkbBh2+ocV+7hmnEkWOPWzicdl24rakAtKmpvq+rrqGcUUE+f08/jVpLomlXeEg8YTYunmVWo2hV2KZ/voZdkVUztZ+StqysAKabmrCclnlpZAYFDF9BN5ddUI5ZTCMXFls2MMF9ap5kTLB2UL6GXsKghMGzqqqfnwCXiomahH1URUUIBg8lGhp/VUZJMzAPDxkmGhtePS+DVUKrgGzNs6PXzcbNxL+soZ8Aj4KAhXBtLyUpCgcNDwsQHRQXIBolLiUwGBQhJh4jr5aIzr2xx7u0v7Ktt62psKajLxzQ1lHSrEEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/17.png",
+    "width": 1920
+  }
+}

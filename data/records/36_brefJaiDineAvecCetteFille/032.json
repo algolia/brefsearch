@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Un moment, le serveur est arrivé et il a posé une carte:\nJe sais faire des cocktails.",
+    "end": 38,
+    "index": 14,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=32s"
+  },
+  "thumbnail": {
+    "hash": "fadff1f274",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBi1PScAAA4N21K7iDwzs7cIVeBimrriWChMHY0BHy+o3X2MZwoALjqZIOB1Icl8eyDFdqopd/a98HLT81EYtIYdXBY8uvZmeNeoNJpzfrdQRq7zLgWzGn7aZ+FOIi6cYxu2NhDsJfWMSVpeybl+55xGw0GmD43fyzIz7zMFAmternvDDYFcc8oIm3JI6urdigwILZZbUYHj+BH8HIjIkPh67kzv3h/jidetjJ3+4IwzzboOkM4QEbWOgjCpn0Oh0MY7ZF0o0GfY4Km7qSqvci+ALQadV3wwanCeqyVFA7nQbY2ttch8wzJv7ThtoddJv9CpuMhVYpn1POR663/aOI61Rg/7Sbd2fftbNJR6BzQRKq5Zj+wbBcu6jUte5evVsUa1wshLvowIdTgf+nTu5Go1alIQJG4dJaOQsJTEMQelLzsiap7aJ0AHw/W5zWO5HLuWzEfyzmlRTNhUmFCf0qgsMIAUWJLSG5LXGlepY5yfjPG+xvRZ6e/70ZyMd8Ih5eT0TX+LQXhN9T+GvHcwRaslo2Pd5ilGrFPWq7dP11OO73jqT9Nl8qgZiYDiRjzgiFBf2o12m3WZH/VwKJ5hkkER4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/14.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Alors j'ai dit: Moi aussi, je suis content.",
+    "end": 33,
+    "index": 11,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=29s"
+  },
+  "thumbnail": {
+    "hash": "7c171b4cb8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFxPRBQUFhUUExQUFhwfIR0eIR0eIB0eHxwdHxocHhscHhobHQkLCzMoH2pURG5dTwBcTEEfISQdHR5GTFPL1uPP2OPM1eLN1uLN1uLL1eHP2eXDy9gWHCEsIhtzXUxvXU4ATjgvFhscBgcIT1FT9vb2+Pj4/v38//79//79//78////9vb3QDYvIBkUUkA2bVpMADkxKT1BRFRXXHp8ge/w8fDx9Nfe6dfj7dfj7tXh7Ojs8f///W91YygIBUIfG19RRAAjGxaTlJbv8vLr6Onw8O/t5ufAlJfX2NzZ3eDU19vi4+T///98iJIiCQo/JSBZTEAAEw0Kl5eW7Ovq4ePm6uvo6+nq9O/v/////////v7+8/P0/f3+ycvNFhYULyYeTz8zAA4KB6GhoPn4/+Hj8/D2/Pr+/97k5pWZnZSYnJidofDx8v///8/R1RsXFiwiG0Y4LQAOCwlmamusrbCbm56eoaWeo6h3fIE5OjstMDUoLTSFipCanqV+gocVExInIBtENi0AJh4bCwwMCgsMCQkKCQkKBggJDA0OGxsbGRkaFhcYBgYHAQIDAgMEEA0MIhcSMyYfQ5jQXPN29x4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/11.png",
+    "width": 1920
+  }
+}

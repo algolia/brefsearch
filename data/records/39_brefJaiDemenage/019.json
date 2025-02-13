@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Tu peux les prendre si tu veux.",
+    "end": 20,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=19s"
+  },
+  "thumbnail": {
+    "hash": "06d4cdaa63",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHx4fIuFipyXmqSfoqKcoHNkZY6Fh6ulqbCrrba0tbGtr6OdoJaNkoyDiIiAhYR+gwCQjJCin6Oxr7C0sLKrp6luRUODam22tLm3tLTMysqWj49eU1JkWVhcUE9FOjlBNjUAn5ugsK6xuri5uLS2qaimgGpihHFnpZ6ZuLS3urzAmpSVZltcc2lqdWxvUkhIPTIwAKOgpLWztb27vLq4uoGAcGhrT1pYQHliWaShqGhwhJKRlEtAQm5iZXpsb3FlaE9FRQCin6O6t7m/vb23tbeFa2JeRjhjTkJ2Zl+wr7SXnqeSjo8hFxhFMjCAV09/WlVYR0cAnpugo6GktrW1tLG0fW1uUkg2ZWdOko+Jura43drXfHZ1FAsLMiUkVTw5aklGQSwsAJKPlGhgY5KOkI+MjiQiIk5NQVRSSSspKWRhZdza2W1paA0GBiYeHiwhIDQkJCocHAB6a2tlXV16dHNsaGsLBQZMNTdDMTQYEBNPTlHS0tF7ZGYNAAATDg0eFhciGhkcExQAbl9dZ2Bcc2lkdm9wUEZEiG1pg2pmcWBdf3h3ta6rnImGd2dldGtodWtnc2lmbmRhaHTEA7gg5q0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/08.png",
+    "width": 1920
+  }
+}

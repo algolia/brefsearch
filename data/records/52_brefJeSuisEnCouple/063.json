@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Des fois, c'est cool. Des fois, je le retrouve sur Internet.",
+    "end": 67,
+    "index": 29,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=63s"
+  },
+  "thumbnail": {
+    "hash": "032fe1dd67",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfUlEQVR4nBWRSU/bQBhAHS/zfTMezxKPPV4y8QZtIkWFUFRTGpZGlCIOcABBpYpTpV4qteof4LejXJ/09A7PG2V9WVYnTaEpl8gk0C4Wt0Y81rpT4rTb27imEdMUUEWYEvBu8uYin10NZaWkoPGQqI6Jn3X+Mjcc6Lpq12W/ylyOLAPMCHhflf1k0vtVc9JWvamfZ8ND4V4X3XUmGpndDHvX/WJt9zVwA9BS6o2Sf6vUy8qdd/W2a+4r99v1/7r6zqorazez99v2eF0epGwqCPSUeRCgQfrFyEaqz1Y/FfEPKy+netT6yRXnzdFZe7rMjwUIHuHAmBcGMPEhCqmNpcJ4mTALkERYIhu1PMwXXXpWimUc7aAD9IIAAh8SiH8dHvz/OB5ZRwMCIUwmxAJOCREoy8QkBFvGCqBe6O8KKePbufuz+PA4L1gICcEoIIKgwjiLueWJIjinVBPcCb4PlutN9e571f/d7y9yxSPEAFgINKJVIgShhuwm0IC8AdzcKl4kI936AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/29.png",
+    "width": 1920
+  }
+}

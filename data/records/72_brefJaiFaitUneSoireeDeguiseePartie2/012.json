@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Il a promis trois fois.",
+    "end": 16,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=12s"
+  },
+  "thumbnail": {
+    "hash": "286a2fb120",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBaU/aYAAA4P4Cvxg/mCXqlgkKgVAcZ+mFHD1W7IFdLdAD5IUWWkaF0qEbh8RtZmYXy75v2f/c80Dr9XJ9N7ufOXOrtR53v2+ChWNqZNYk0ueR55WzKFd4VU4cG9KFa/U6mgp9WCy+fFw+LW7Wjv506/7ZfnIUTsdSS132VbFZReUSSqfjxqUwHY+A0YQe3vs/Pi+2m+BxAn5tZv9+P9oSRcVCQ54GHGUwpFxEamjKvJKD6WQI2tDqxvq28r/Oh5tBc7ua/P350OXISvhoVOcGAttjz2UyJ2AZS2/NZ75rAchTee+SGtUIt1aYKpX7vqxXcuWXhyaGBIr0VmQ1Gn9TRodt7TbwXRtAgCXs1xgVP9bIpMfnJ2JBK6WRw30zn5kqdb2MGwzRYkinrQUTz7G6kC3RgMVFBL4WmbHCvANq/6J4urvTwHO2wFJwtFEpNKpov6V4I6d/bUIdrjSoMy6PG1dynDETsidwPHqwy8ZDMpbFTl/QZxE2HWWxbK9jgrYOVeFIMRZScFjGk0QWeZZiMkwDlFE1nxQzCSx8xMIh9OQgvL+Xi51IHPMfaeCRcynoFnkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/06.png",
+    "width": 1920
+  }
+}

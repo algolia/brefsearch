@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Et comme d'hab, il parlait politique parce que l'apéro avait duré\n2 bouteilles et 34 verres. Tu veux pas dire ça.",
+    "end": 24,
+    "index": 10,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=20s"
+  },
+  "thumbnail": {
+    "hash": "8626cada27",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA/Kx5QNSBIMB5SOiliSjdQPC9iQjSba1V5U0JFMiVxUzyTbE6jd1Oph2mrlIKDZE0AWj8pSzMfUjUdYEUuY0w5OCwmdlBBrXhirXVcWTsscFM8pHlWjWVCyrys+v//tKCOAFA5J1c9J1xBKllCLmxSQFtCOG1MPmZAMnFGNU00J4NhSaZ7WD4tIZmIduvj0rWZfABELyFYPSZYPieCY1G1h3SRXk2LXEmPX0x/UD52UTxLOy9gRzY0KiUzJh9nU0d8WUAANywkU0Q7T0I7gWBTiVhHb0M1aUc6YjswUSwgTjguHRwfGhgYHRkZGBgbIBweMychAAYLEQwQFhwfJWlHOFUzKjsvMT8sI08rIT0jGywoLVZNUzw3OwYJDhMTExsZGAwOEQAYDRBBFxhSQT5ySzlQREc3MjorGxc1IhwcFxk9NztJQEdQR04qJyk6MCwpIR4VFRQAFAcLShweYUU7YUU6SkNKIB8jFRUdFBQeFRUbMiwyOTI5V09VVElLY01CMCQdIBoYAAoJCyUYEmE/L1pAODcyOTgwNiEfKQ8SHRwaITQsMy4oL0lBR0g/Q0IyLT4rIC0fGb8CcaGut+AHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/10.png",
+    "width": 1920
+  }
+}

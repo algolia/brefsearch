@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Il l'a ramenée à la coloc. La première fois, ils ont rien fait.",
+    "end": 11,
+    "index": 4,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=9s"
+  },
+  "thumbnail": {
+    "hash": "b84d877b30",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABEMCF9TTci9u8m+u83CwId7eR4YFomAg4qBhI+Kjs7Jy+Tg48O8vrOsrry1t7OtsAAgGxtjTkexn5bEt7OBdGlMNTM7Kih/d3qWjpOBdGmklYejl5R4aWSVi4zDvb6bjpcANTI2UkVFd2dkta2pdUJHSRQgNR8hX1pdkIeJraWo08vJf25jYlRKkoiIv7m7taqvADsmITcwMGRaWJuOkZQtSlUfKxMPEVZOUpaLjamiqNXQ0paLhWhZUpeMi7+4usbAwQApGhY5LyxiU1A6Lzl0PU9ALjcGEBQ9PTppZV2Mh4rMwsK+tLF8cWx8dHSppajGv8IAGRIRQTc4cF9ZKyMjGSAiISQmHB4jNjExQjgwSkVDQz07TkpIiGZaVCYRRi0io5mYACEeGzMzOVJDPnRjXTo1NxkbH0hGSFxTUmZUS1lORTEwMVYpGHcpC4QvDlYgDGdaUwApIB0pKi86LCcuIh4oIx98bmKqnZW/s6ysnpaWdGtnQz5mMBp7NhlQGQ03FRBROzIAJh0bKCUmMRwPHBAKHxgTRTkyb2FZcGNcW0M/aikjfS0oWCUeUSkXLRULLCAaPyskQcGh7K5jer4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/04.png",
+    "width": 1920
+  }
+}

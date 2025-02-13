@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Jean-michel, c'est la graffeuse. On le trouve jamais.",
+    "end": 63,
+    "index": 28,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=60s"
+  },
+  "thumbnail": {
+    "hash": "7a70121c5a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIV+i4R9i4iCkEw+RCIYFU44MF5COn9ZToJaTY5lV3pURl1BOox/ipeQnZaOmpmSnwCIgZCIgY+TjZxfUVc0JB4+LikpHhxELCdkQjhLNS9SPDFxW1iNhpaQiZeSipiTi5kAhX+PiYKRk42cc2hyQC4pWT81OCUfOycheVRKVjsydlFBg25ti4eXj4iVkImYkoqZAImClYuFlpCKm4iFl0U+QVI4LlU4L2pLRKF3b4ldUINYSXxvdoqHmYyHlo2HmI2FmACSlqeQna6Hlqd4jaI+Q04+KiNHMClJMi5nS0V5Ukd2VUqHgpCKhZeKhpeLhpiKhJcAi6GzgJisepKma4WdNUVXKyAeLR4aKBUVPiUkUTYrWlBPh5annKCtkY6fi4aXi4WYAJCktXOKoW+Gm3GDl3Vze5J5dJR3cE4yMF04M043L2Rwe3SLn5alsp+rt5qfro2ImgB+kaGHm6xvhZmOene4lImkhn+VcWhdRj47MCxmbHJ0iJZwhJaSoa6erbmgsL2iq7cAaX6ThpurcYCOa1BInnxzpoh/iGZcPDI2YnWCf5OgbH6LeY2cl6Svm6izm6q3oq+8KIHB66+P/+0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/28.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Ça ne marchait pas.",
+    "end": 33,
+    "index": 12,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=32s"
+  },
+  "thumbnail": {
+    "hash": "63fffe28d4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nBXMbW+TQAAA4JvHHeUodkAp71A4CrRwMPpqG+fiXNY3bcrqdHOLyRY1akwW/f8fzH7A8wBBciStUL0LPb6ysi9O8eCWj3Z2Zw+u7cEnI7nS6HvVu2i2C160MDHAsTnTom2bbt3yMZz+Ccbfu/nOcCrdLWi58vOVGW+EViA0JPLSw0QDLWvWSQ6yf+6yu3DyOyhv/OSN0o6O25HbmyfTj8H4G1Einhd4ycJEBYioHJaQoDrsns7+BtWDKFMk6FzDwkTvsk00fzKzz6hpYNKBWASyu9D9QjEiJzmnVW3SU8OtgvTM9F8pRu5m+2jxz+zvIS8iInMNCcjByqSLjsNCtqT5WTeZJ8NNUm3T4ZoOD93Jz3D+5LAbriEioQX5JlDpweq90z3WO/kQscv+uI5PlnG19tPX8Wjn5XUw/eVWXyEmHBIhIoDIfVEOmoqXTq6T4S4YvH3uZwfdzdJJrdmpx2690Q+IRMgJz+AFAEdHEBE9zC7TUe2np1GxTsZ7wy9DtlQdZue3DrtHRIGYQCz+B1pMPy9Uk6d6AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/12.png",
+    "width": 1920
+  }
+}

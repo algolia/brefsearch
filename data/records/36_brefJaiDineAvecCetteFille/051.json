@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "J'adore. C'est vrai ?",
+    "end": 53,
+    "index": 20,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=51s"
+  },
+  "thumbnail": {
+    "hash": "8517f7edc6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXB7U8SYQAA8PuicvfcPffcy3Pvb3DcwYksSpwvDO2QXBkQtWAGUU3dvDJJyrlhJpjBaovWJ9eiudZf2u9HAB6SIgwyqe7L3f7ro/3280JxFfsm9kycsnDaxr6Nk4YYVzlTgqpA0DLCphQ9ro2iaHx4dN0fTAdfqg/uca4mpW0pcOTAUVIO9i3B1ThLJkgJFpYXfxyfnO/u9RpPD+u1qLr9onpf8i0liOO0zSZ12pFRQsWeISY0Aqh8eenWz27vz+W3v6PJdPj1e/e4trGCUxbyDDVwSqX1drOZX1tCroqTBsFqQtbAdz17K5dtbZZOn+187LQ31/KcZ2yUw/7e/pvK9vR8OB1chWGBcWSCFlldYOdVUQCkCGILithYyS/ezjjz8cm73r/R5LTV+rDTvLkcT96fJBZ8gkI0A4EpIAVBlWMdEWVMVXdNQ8evwuLvi8/XZxe9xpOr6OBmOH5YDgmAAMVQMzOzsblZmiQRoCAHoYYlWXBF1K1Xfp19Gh1Eb+uVzla5mMsSgIc0x8QAOUeRMYqkGBpinuEhwwCBBncMpbO++mg5n3MMHUEBwf+zOFuM/FvVJAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Le responsable de plateau nous espionnait.",
+    "end": 61,
+    "index": 30,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=58s"
+  },
+  "thumbnail": {
+    "hash": "3060e82383",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABAZIRskK0RMUiElKywvNRkeJkFJUlNOUF1ERiYpMBIYHRIYHx8lLDQ6QEFIUD5ESgAQGSMVHignMDczMDchJSwHDhUvN0JkbHNsZ201PUYtNT4sND0kJSxKUVlxeoFNVFwACA0VEBcgAgwUMjI7RklVJCs1KjZBNTVBOS81PDQ/P0hVQUlVPDc+KS82QU5TPEhTAAAAAUFHUHB6g5WRm9rR3YeKljM+SU9SXEA/SSwYJDQ6RTk9RU9SWyQxOywbJEwTHABDRU1bYGuJkpebpKm2u8dxd4IzP0lWYGpXX2xNVWMuMjoTDRCBjJXDxc6mn6d3bHQASE9ZR1BcY3B7aHN+MDlCQ0xXXGl3VmZ2S1xrS1pmLjQ7BAYMoa+30cnRSkZRNkhSAC02QTI6RlVcaUlQWz5CS2lzfkpVYzpNYCo7TScmMR0aIwoKEzo5QmlyeyczPBkgKQAiLDg8RVI8Q00yOENvdH90gIpRWmRUXGM5PkcdERkcERobERoNBAwQDBU2PkgoLzgAEhkjGyIrGiAoAwcOCQkNHiAlNztBRk1UNDc/CgkQAgMJAgEHAwMGBQIGJCkyP0lRVkZxOxuYnCEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/30.png",
+    "width": 1920
+  }
+}

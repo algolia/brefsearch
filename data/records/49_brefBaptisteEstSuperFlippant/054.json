@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Il met plusieurs heures à laisser un message de 10 secondes.",
+    "end": 56,
+    "index": 25,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=54s"
+  },
+  "thumbnail": {
+    "hash": "e4f6398d93",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABAXIRIXIBgdKBYbJiEoMyozPSIrNR8nMTM8RT5IUTI8SCw2QiUuOh0mMhwlMBkiLQASGiQZHikWGyYgJzA4QEY8RU0gKTQrND5GUVlTX2hNW2Y5RlE0PkssNkMlMDsgKTUAGiItFRsmGiItNT5HT1daQkpOMTk/MTpDR1NaZXCCaXSKT1xrRlJeSlZlMj9KJzI/ACIpNhsmOTRGXlpqiFdpiz9Yf0lcdDtLWE5bZ4CJn5iguHWBnVxtiltogkRTXjNATAAfJzAgKzlWZYVth7RLd7NZhL53lb9phKmKmbfJz+nW2/PJz+yfq9aOmsNqeZU9TFsASk9zWGGFoKTDjaHRZorGmrHXrL7ipLrdtsXo0Nn53eH56+z94uX9ztT2qLXZZXyVAJGe0LrC6Njf9sLc9M3l+fP3//L2/uTv+vf5//T3//r6//v5//j2/u3s/M/X8I+vwwA3PVCBfYtnZ3M6SV2LhY+up7iboLemsc65wNqps9HAx+XT1PDU0+61uNWCjKZCUWEARUVEbGVnMC8uIB0hY0xHjXyAam5/bHWJdoCYbnqUdICfi5CrnJyyanCEUFhmLzdBgEXKABN6ZL0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/25.png",
+    "width": 1920
+  }
+}

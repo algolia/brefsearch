@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Du coup, j'ai repensé à tous les trucs auxquels je ne pense jamais.",
+    "end": 7,
+    "index": 1,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=5s"
+  },
+  "thumbnail": {
+    "hash": "55c8d71622",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXBf3OSYAAA4LdZgfwSEQaCTnQ4NAHfjSGgDBFlikvQveaWtbvOtfOuy+sr9Gcfu+cBxY84AAWrWVv5/bueFvauIksPDX3Vb3tNeeFa+RCisYOiwWbsZMENcBqSxrO3mpJ5xuy6k9jG3DHXPvy3naT6ReqY+5m/vw9e0nA/D3YzHzz16qirOLr8GNw8uDAb2l8mQT4a/M3DrdmCan0Xe6+f45/r5JBNX5YhQP6nZUeE3VoWXGdD+/siQfGEIam1qYWqdPbuw9yFp6flEaVHtDjkU1AiCIOhzaY4d3soCo5o/XzbFQgSttsjw6BwEkr8j3hw2ue/dg9vj/egUMDoM9wRuGX/cpdE2yiEsqhXZYHlRU7kaVYtMeY594rS0/PqbZMADCtWcXLIc0nnIg+9sWVeSbIuK6UiJZBMQxBljqcwKo/8P9/yQz4DBEHWCMous3cdNfVsq6F2ZKV5LpaLtFKutGWFxpnie2JkGb+/5ih2AUlQdZyEDOvorbHVa4lVTazWKwJHMALNSmylTLJYAbe0y8Nmvpn6/wGCkk+/s0UKUQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/01.png",
+    "width": 1920
+  }
+}

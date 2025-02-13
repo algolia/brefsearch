@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Tante mariage relou avec Thierry, OK. J'ai essayé de tout bien retenir.",
+    "end": 26,
+    "index": 9,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=24s"
+  },
+  "thumbnail": {
+    "hash": "f2f186c054",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfklEQVR4nFXLy2/TMBwAYO9nx87DiZ2QR+O82jhJt3ar22wZg1WwSXBgB6ZpPAQSN8QBcQAJCSEO/OuICxLSd/0QBdBC6CicBf62Lc0iP+vKUdcPD9uc0k76LfcKIAkmHEgAGEUOP4ylln4lxdQ3F8tmN8/NvBj7xeM6/jC2QxImjhMTSwCWmKBMFKuirbhfBN5pX5t5nrju1BRmUT2dZz/2RydpKB2XUyYxiQCjJCg7tV7Xm2WxOOvqdTULbXurUlPnx4m41bNB8jLgDrUD5kggyALPpSL28yYdxs5s9ZDKB00UfNkfmVTe96oX/DiTCeeMUE4YIuAQcCj2GOaOJVVYqbScquTTpE+y6Pf1bsyi00w0wjs4wLZFEQaGgRFgBNsYGMVenZVvzlcfd/Xnafn9+mLf5JvYV74LgBmxEAbrH4IpQpYK4/eXm5s2HtL4brN8a/STKq6EN+O29Tdg8n8Arcpfr55/u736+e7l12fT6/PVi0fm5nK1zsRYqj9XgSy5rycpvAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/09.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Moi, franchement, ça me fait un petit style.",
+    "end": 25,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=24s"
+  },
+  "thumbnail": {
+    "hash": "34692ee389",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXB3XOSAAAAcK6uZIw5Az+nIBDoBMaXIiAIKAJ+TBlCl1tqV0en1e166dZd9dAee+x67J/t9wOuB2JkielI2c+MbGm9nRnZavghso+x68ts/bwoUOR+Pni3dOY6P+SaQKj3+CbmyazF0hJJHWz1lSqmtrWZjqeyYGD1drGUhJPfD/dum9AvaWAXLfQOY8ssi+E+J/x5E30dqceps1sGE0XAkUqXICeWl93tbhXG7ZDAZhE6HDOSGIvjHuP595vg88JcmUrqqonbd1V9M50RTbFKDtyuaHdw4LVvpq4S9HmR6x/CgL7AvyytX/vVz/frf9/uYs+z1WEDlyCU0wV56/eAxO3tPalRw0C43Gy0zlGCbbU+xv6ntf/3fun0h/KVXqyyMMrONDG1WODHdpzNuxBcyoEFmhFnflRGa/HYPKzDx2xuKKZ4KeUR5gxhtoH2kHSB47XmGxp0Wnz2/KxUpk3nFoJLCi9kyWKsqRTeqVZeQnkijzK2NliZV4ApyZZqnZwUnjyFcyBSq9E5ECEw6sb3Cvnqi8IFCGPgaT0HVii83ePF//vvW/tr/+M0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/11.png",
+    "width": 1920
+  }
+}

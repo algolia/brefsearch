@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Bref, je suis en mode survie.",
+    "end": 112,
+    "index": 41,
+    "start": 110,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=110s"
+  },
+  "thumbnail": {
+    "hash": "8aed25079f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHN2jnh4iXt6h4WGmYqMnoiKm5GUpX59izkzOykiKUxDSmBYYFpUXV5YYGBcZ3R5kQB4doB8fIqBgZCJhoSHgoCPkaSZnq94cHpVOTQjFxsUDxZUTVRmYGplX2lnZXF9g5wAdm9xdXF4WThBb1c0g3FLkZOnn6Oya1dcd1VPRTU2FQ8WT0hQb2hza2ZwcG16hYukAHt0dGReYlI3OEsvKXJsVpmdrpSSoWlGQn9fWnxaV1M/QmVgaW9pdHFtdnZ0goqQqACHiZ1cVmA9NTkpISo6NEaVmKuLiZZmSUaIbmmTd3JxZWxuaXJva3V0cXx7eYmMk6sAjJCqWFRgLBUaKR0lKCEwi4yelJenXUpLfGFYmYJ5Y1pjb2t1cm55dnJ/fXyMjJOrAIuPqEtHUigKDiobIiQdLWZpg1dcd0s3OXFRSGlTUT48T1ZYa25pdndzf3t7jYqQqACGjKVGOkQpCw8vGyArKDhLT2s9QVw8MTlNODo2N0tAQ1o6PFJNT2dvbX15eYuDiqMAg4qiOy44NA0RRBwgJSErQEBXOj1QMiw5OjpJPT9VPkBWQ0hgR09pX190dHWGe4ObKy2mC3fvm1wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/41.png",
+    "width": 1920
+  }
+}

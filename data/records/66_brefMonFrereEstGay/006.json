@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Mon père a dit: L'important, c'est qu'il soit actif.",
+    "end": 8,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=6s"
+  },
+  "thumbnail": {
+    "hash": "e39e827979",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXB33OScAAAcB67nFO32Wy7at4676a2dI6JG4z4oQKKQ7QvKAIhYqJMTOGEZnmtXnro6q3X/tQ+Hyga2dmN7FRgxJ447txz7BnLUhSBVSswf4s2MJSlGBn02y2xxTTZGgfFo7FnsQSJXPur4CHYeoslz9eRN1kyc2JQ6IBApSph6EO1r8ki6Ahd6Ci2x+Vzg0YrDDabcOt/8liWRt/mQeXKZkhf7t6cZUzNMA1L76k9oEDZvQOvTnnqIPDDTbh1Z/NmsyEQt2tR+G2P/rqT+R2n9lVDGxqKrvRUCHt14hC4ryord7X2Py+mDkVjOFx0ufqfmfWoyx2asq3JxByPNMPUTUjDseE7bNwWHPs+8APQAcmDw1TyOQNfbHX5i94r5c4vClelc5gh6XLxEpryDLgpv2c4ezwN/BC0wctk6jC+XzhNL7qtX/fW949DBsMT8VQ+V9yN7kP9ckmkayN75QU//PU3UKOQzCmZz87vuLXc+Wlb/76Gj6YyFRt1nIg8TUCFJxHq9Zkuae7ygWfYYvr4Mv1CQsvLdiOUBB8IH2q4TFzLBCJVcQRG/gNXZIQOFExuZAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Fais chaud, moi, si tu peux.",
+    "end": 11,
+    "index": 2,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=10s"
+  },
+  "thumbnail": {
+    "hash": "e7fa697a83",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXBb1PScAAA4L2I/fUH+yE4GNBii4HQgEhAR4yh25oEbqBkCAyLmQjEUeR1vuiu67zOXnHnedVH6GP2PIgX9TAEygNcijC9an6l589KaUfT3cbrmW1P7LZd2dPjATlMp+AGBwgkROIat6WwsCjwbqu+94xbWOrde3vZefXNsR2jPlArH0oJ+2lwN0TnA16EJfGfen6Y40uCOOuYyk76s63fOm9uz7ur7uHNqLdoapYYbQpMnYVJCBACxSI0TaFEQUgsjg1H3XHV8v2o82/urq/Oflyc3/R7R+LjpI8SIcAfoQjpQQmM9G/QYRhMhmNxf0hiI9/71v1k+PDx4u7KefiyapeeFxkoswGGIpEtHNvEMB+KpSA9rRS6cs6UUn/ftn5fDq8Hp+vZu/VyMa0VldimzPqzQRrhvUTGT217cVng3Eb99GVheSB/3c1cWwefrP1lv/VrNumkot1E8ERklChEohSWDYAMTb6Ih8cN5dJQJ/bh2DTmTXPa1oz98p/VfJB9csRDhfXlggCBqCdG4TwgRAjMXNoqF4+rcl+tjTS1JYnjSnbWqFrJUC3qkwKAA8R/mNpgdsvgcP0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/02.png",
+    "width": 1920
+  }
+}

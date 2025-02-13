@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "name": "J'ai traîné sur internet.",
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU"
+  },
+  "line": {
+    "content": "Je me suis rebranlé.",
+    "end": 16,
+    "index": 7,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=15s"
+  },
+  "thumbnail": {
+    "hash": "b195e57bf8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAHBwcEBgchFBNRLiVsXFylnrEyMjQ5OTtEQ0ZPS0xSTk1ZVllpZ25tbHWDfIGmmp8ABggJGxYTTi0nbUU4m4qRoZ+yGx0bYV1jgXyJb215YWBtLzE2Qjw2XE9AKSsqjX94ABgTEVE2LWpBOnNMP72uupKTow4RDqCZqK+ksq+muNDI43t5jHphS35hQjUzL4VzaABYOS95TDxhPzVbPC+toat1eIRGQ0axp7ayqr6zoqm5qra5tcuzrrmMip1EQkCAbmYArJuok3NvSDYvLxoMgHuEZmp3lZGhzsTavaqywqutvqirv7PDzsvhn52zISMiUUdCALGourmxx6ifs2NaXoV8g3JjZXBnbZmWqa2iqruZjLyelqeZqLu23Xt6jBAPDUU7MgCbj5SroK/CvNfHw+G5rLyKa2o6KicTFhYfJCZTQzugdGKEbGRAQ0k4OkB7eYSOgYQAg3Jxk4SInZGaq6CvwbvWw7zVmpSnFxcZCw0NFBgZbks9oXhpLiopHCEmzcrjwrfJAGZVT21bVndlYYd3d56SmqCUnby0yJKOoSIhJAoODlI5L5trWFdBN0pMVIeDkXNrbis9vXLM8xHzAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/07.png",
+    "width": 1920
+  }
+}

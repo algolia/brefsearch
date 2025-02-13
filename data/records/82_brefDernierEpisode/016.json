@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "Je l'ai regardé, il m'a regardé, je l'ai regardé, il m'a regardé.",
+    "end": 19,
+    "index": 7,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=16s"
+  },
+  "thumbnail": {
+    "hash": "cdb7ae5f58",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXB3W7SUAAA4F55KYnRbZQxC1RYKFBod07pD7DRrhttR4EBB+gopVQ2ByL/YyrJYowXGqLRB/AJfEe/D0Mm6KM80mm7Kdxbeltlx566WaDZqHypEFUt2S5ny+eJng3tblopHmBON2e3ualXeXxvzZCCMrFbHX7eNJ+21vju4n4oT27Pxw2+rwNUo3Iijpk63ahmrBbXa4AaS87lk6kBXUfyHNHrSfOp/mXT+NopqWFcBUGtRGACG4R0oFVlxo6hpShPoArHhAiiBRE3ShHHguup+n1o9ABZzccz8ReYyPoj+DPtNGHKRUiGrwWGOsTjrwmQDF2bidlIHTj806C4tWRb42RwhBXyTJaJ1o2cxKQDPp/Cps/oRATfY2PkGaTKWtK94X9M6yun5GhQBofY5Nvf+c9/8+2Oib3Bn/vMHH8SJRfoyhCyce5i+HH3sP7wySuNUPEqGyOCONZa/baWv2yrm46SEp26FEA0gBs8hAqSmnN38+dx0l+7Wv00zYb2QkECq3Zqbfet3elCOqOZN4WCSrza97/crzjLdw+71XKxHuhuJWdwx0YqLBD+/3oxeq4aauFZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/07.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "J'ai arrêté de parler. Arrête de penser.",
+    "end": 43,
+    "index": 19,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=41s"
+  },
+  "thumbnail": {
+    "hash": "5c0f0265a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nGMwMBM2d+A3sefSNOKQVeBIcdKfUxC8qCJux8zmptK40BzZvDr/0ER372ArawcZS2slBu8IIxsvFSsvQWNbdg8zxfIg66oQx9mZgT1pId1FcVGpxt4Jml5h+g4u2u6eth4+ugwG5rwOvmLWXhKGTjyhtppz8gP6Ez2XVScvrs+Z05Nj5MDuG2GenOHvFWAYFG2WkufK4OSrYGrPauGs6B9vHhpqNSHdY3VZxMyi2MMzmqZ0JXhEq9lYK5nZKmsaCVl7CqSUmzD4hSnrGfFoGXD5RSvHZLlmB5l3RbuVO5n3J4dmZ7k7hKoa2wl7RZo4+BoKyTIbO7MwqKnwaWnzaVuyunqpu7iahbpZxNnpFLqZlsaExEbHG5urG9vL23hr+MSYGdhK65rzM8jLcaqrCiooiQjycrk4WddWFLub6vvbmTfVNjpYOxpqGRnqGhgaa0kpiupZSqvo8jDISAtKSQiLCglysTFaWxgFeHsbaFoG+8TmZ+apKaioyCupyivpqmkb6xopKosaWIsyCPBxC/BxCvBxCvJw8nKwaikpmRo6+LhHudg5KkrLK0jLgpGMnKSsqoqUT7AuAG0TamvyR/SlAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/19.png",
+    "width": 1920
+  }
+}

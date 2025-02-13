@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Puis elle a dit: Ajoute-moi sur Facebook. Ce que j'ai fait.",
+    "end": 17,
+    "index": 9,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=15s"
+  },
+  "thumbnail": {
+    "hash": "1bf4946864",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEQ2LzQmIjQlIUk4MWVTSVdJQGVVTGleVoxmVO6piOCfgcB9Yn9TQTAjHyYlGh8jFgA/LCU1JB8kGRc0JyNmUEZjT0dXRj9nW1JrT0KJVkSYYExYNi5cPTJBKCNEMSosLyQAYUc9Ujw0QzQuUD84XUtDVkI7TzwzV0pCkmxZv4RtnmZSaj80g1dGXzovXE9KMzMsAHRbUWZRSUo6NEU2MTMnIy4gHT8sJkY7OHdYS7h8ZY5aSpBXRIBPPWJLQlVUTj07NgBGMy03KCQsHx0nHBkWEBAbExIsIB1pZFCAZVF0Qjg1FxktFhNDKCBeSkJOSUZiWVEAIhUTIhYVJBoYGhARDwkNFA8PMRwZh35yoXF7rHltaD80OCMePCgibkY2fWhfj3RzABoPDyAVFRcNEQcCCgsGDRALDUgrLk9AUKmqstHBuUsuJDUkH0MqIlExJYR1a6yDhgAOBQoMBgwGAgkDAgkEAgsbDxBJODlPR1DT0c/58u+IYVJGKCA7IRpQOzSShX2OeHkABAEHAwEIAwIJBQIKDQgOOyQdTDxAZl9i6ebk+Pj3xKmfXj82UD43bmJdmY2Hdm9vaHx5p5B3Q4EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/09.png",
+    "width": 1920
+  }
+}

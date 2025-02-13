@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Je m'étais déguisé en Charlie Chaplin. J'avais perdu mon chapeau.",
+    "end": 8,
+    "index": 5,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=6s"
+  },
+  "thumbnail": {
+    "hash": "e1061ed447",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEVZeFprhFptiEtdgHZ8kI6Yp5KcrJWfr5WerpihsZafsGR1lE1ghVRgeVBfekhcfACusLCQjIKYhHuMhHivsKu8vsK7vL++wMS3u8DIys7Y2dzW19nR0tPHycu8vr+qrK4Atbm5n5OLkmlngGlivLu12tvf1NTW1NXY19jb3d7h3t/i3d7h2dre0tPWx8jLtbe6AL/AwnpzbWJJS6qFf8S4ss7R1L2+wcDDxsLDxsjJzdbX29na3dzd4Nvc387P0qeprAC3uLsLDQ4AAAEpHx6ajInY2tzFxcTKy8zNz9DT1NXT1NXT1NXW19nb3N3KzM5vYF8Atri7Nzs/Mjg8LDA0l5KSzcu7wL6xxcvSyMvPx8vOztDS2dra0NHNxse8w8W8f3x7ALq9v5+kqYuOk6qrrNDPy8zHssC6p8HAuMXDuMLAuczHu9LLvczDsMC6o7i0qKOhoQCtsbOLj5KFhIWamZi7u7u7urjNzcrT0s3U08/T0s/PzsvLycTDvru+vruusK5lYF8AoKSnXmVkbmphcm5sj5GTZV9crLG2ub7EvsDEwcTIxsjLwMPGub3AsrW4rLCzm6CjZUAgEGS7nqoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/05.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il y a personne qui s'occupe de moi ? Qu'est-ce qui se passe ?",
+    "end": 56,
+    "index": 28,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=54s"
+  },
+  "thumbnail": {
+    "hash": "1ab253ebe0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXB207aAAAA0H7ClhinAxyEIvQyQBR6AaEXS4FCy8VCW+YChWbNlMIw06EMGJMRCYnKw2RZsumWxWQPyz7RcwCRFQzDap8OTs9H48llWZJL2eJgOJldLXVVo5NKxZqfWGqnwbS7o4h4DByfTWeL769VLUPT97/+3FwvL+e3P+4eBqOpkhIyOV2yFqp60DeLjcO+PdUH2r2JeTKkaDYEIYfd3vLn36vb34OLawhCOQomY5zV/ZgT9jWhUE1RETIFHLTOjzrviVgchIP1SvnCoL92mBxDrq3b6hnEYXOVlRovKhE0IEVgKhIGZnf/xtMblpMKoqYr6lHO+7kKJ4kgsh1lEthOmOpPF98e/ifirG3VhpN7AJZ+tbKxVdzjsAAOorFmPmaW4lQ6/wLCUbcbDNL8fpPl88+eu52bIT8uAIKsP11xbvqCLo/f4URYLs3zWXSbsrtgr9f3ZA2k83qIb0JMHZNaGF8DssYQjYp2F+KCMKd3x4MSnpeEw4dtQDjop1adW7laTzDnvDHLNj7tFtsAoX4g5HdR7YzSx2S1H69/SbxdFFRrN6mFC92K0pTfDFm5Q5datGQG6Ooj+yqKIq7Ojy8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/28.png",
+    "width": 1920
+  }
+}

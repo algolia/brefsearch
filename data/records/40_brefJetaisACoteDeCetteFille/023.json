@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "J'ai fait un concert, j'ai voulu l'embrasser, mais elle est partie.",
+    "end": 25,
+    "index": 13,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=23s"
+  },
+  "thumbnail": {
+    "hash": "139dea21f1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgklEQVR4nAXByXKbMAAAUA4JO5YwAiQ2yWYTGCxs6g0vDRMnbpNM2mmT6aGH/v9f9D3JUOQcTzxo2ZqcIOP91v+8ij8v9bDxgambwDoewsiXIwqGPSlTJkFdnkM90BU8hXmAvm2rz6ftx6P4MZafu6Kdh+9vD8S2sXMnGjSeesnQ7v2JDlQFQ3OT4XMBXh/7fx9PR5HeljR1J5auAFPX7u7rhFy/7iRNVyxDxZbqQ+2h9i7UXfL4+/ilqDbrMhOcsyghlhpaakmcXlSSaak5hluKhjw4lXEENErA0KV1c6gqwcsuZVkboWUAC3ei64o0gVodTTcz95yR36s2dyAy5S5PSi72fTdjPA7Zjs/Gho1tKgoqsQByiha5t6tnt6a61nlB7D2nQcgWRc6SNAhYlyUDp6Mo3g5riYV2NfeWpX/bN79O++vusq7idZsg5EEIo5DyWVYkfhq7IbadqSURD2TUXZT4+dj9PR/G1WVY5b2I4wDLBsQeodhJMGLECV2AEfgPBMQ6fSEX/rkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/13.png",
+    "width": 1920
+  }
+}

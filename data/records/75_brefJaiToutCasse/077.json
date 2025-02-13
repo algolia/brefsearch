@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Et puis, j'ai eu un point de côté.",
+    "end": 81,
+    "index": 30,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=77s"
+  },
+  "thumbnail": {
+    "hash": "7b619c3740",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nBXLbXPZAAAA4Hxb532EtriQRSREREIiCUkFiUaF0UysVddy6ubUMPRyuzm3drv9gH3eb93t+f4AnXptOhpanXZDFjv1St/QjWqlKZU0nr3vm/tPxlzGRzz2gU40RU4Ti0CtXNIV5UpVNUWZ3A3nk/HsYTx5GFu9XreQ6lLxrZZbKuSQRW+ve4PBDXApCapc1jX1QuTNdnNotg1Nnn2e27utmQzQZ75+PrGoZKYiZj/v7R8/AZlAJAoXaCIdj+TQGJNCMij0tFwejsd6JpE9fYedgjx83iSg8XCws58BEoFZAitSeA5HK8W8yJA5HJlNJ8eX19XmKxwCIb8POwPhgA+KQuv1E5D9H3AKf58n0JpAt2slKU+OrOvj4ft+u4GCYNjnDXm9IZeTzaRWywWgCYxApalknCOxRpl5/bb+dVjftKr2ZmVvN3Ak4ne63E4PG/U/Xl3Mpo+A2VAkhqTQOI0jCkf+Puz+/nn5MjIW93eXHB0OBj1Oj8PhJiN+vZC2ul1AYnI4DKGxaAIK89lktUhrJbohklZL/9jSyxzreHPy9sQVcLuYGKgKhX++OWtP+8SYJwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/30.png",
+    "width": 1920
+  }
+}

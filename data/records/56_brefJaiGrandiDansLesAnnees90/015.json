@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Allô ? Et finalement, c'était pour ma mère.",
+    "end": 17,
+    "index": 5,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=15s"
+  },
+  "thumbnail": {
+    "hash": "24ad033b03",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nAXB/VOaYAAA4FfQV2ViERlkgoAKBIkICAJCKks3lAq/ru2crct23nZr7Xb7ef/6ngfYPE9D2D47Mmunkdz4dTf5MfL+zvzD1P7ysb+5VpdRbxHZ88C46WuhIQEFZt0cYlOEw1BxV72XhXvTfFukf+7il3n0PR0+zYPPUy8dWbHfGfcUcE2WUwwNKkeDBuOfnShIxsVg0uBXV+paYDcCs+Kpr87lPLAmvjmyNTDC4CuFLytlpULo74pdmHUhaiKZAICogIY4vO1IT2Pv5yLef0p3mwQ8EvleASY06YiiVoBhHg0g6pWxm1b91tVjX08MObW0B0d/3S6+bVPwUMo6uYyFFW2+aUF0BsGKwAYic3hcTwdWaFzOnLYr0Lv58N/b834TAyeLeBBxCTxscVGVfK7Ta6fbPCfHpuq1Rb1Rm3r60JB+H3Yvm9m03wa9HGKc4EaNttmqW68mqjxxu64qXLG0ylAaRwunpW6T3W+X6XvPUzggIhkuh7LFfOsYl4lyp5TnSEJkLyT2Qqqdq0yFI3HmuDQw1A+hZcncf7NVT4TBzRBgAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/05.png",
+    "width": 1920
+  }
+}

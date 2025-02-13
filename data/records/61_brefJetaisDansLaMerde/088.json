@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "C'était ça mon meilleur score. Béatrice ?",
+    "end": 90,
+    "index": 37,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=88s"
+  },
+  "thumbnail": {
+    "hash": "a7be799e02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXB226aYAAAYN5gu2h2s/VizWo10gOLx2oVKSKeoMrPQQT8QSxQp2KdSrFW22nc4tpuu9myLNnV3nPfh6Dhoze7e21dG/Uc98pqCCCdyg4sy1A1nQO2oUNFKVEFiqTS8UQoEEQwLLKz89q27fu5//hl83E8LWfwzeCDKfADy/755y+oC7l09j2WyGUIFMUQkmZevnjVHXqr5eLz6n7meVwkzh4EG0R+ALWn2cS0egDINM1kcSoYOkF041JuqKOR501935sV8gX8IMS+3U+eptss7YrMeu5DeGkYjiS1qgyHcJzEMoCrizzf1HUrGUueocckFg2HDvn8+XroLJyW23O7/bFu2NVqHSGIYqVSF0VVUU0ByNFogjk8psJH0ZMIHY95pjaQav50tlxtna4rNyFC5qvMhSg1IIRWp93JZHKVQBB/F0idpuhk3K4VXQV8Wt75t0t3OLGv+ghF0qDGaS3zbvPr67ffD0//bubfr73t6Pa5P93eLJ4fVo8/1hOoQh5I5WIVKRXLNbYuCrLc6kLTZUUnhoNMqaW0x3hB3EfP+EZHaFq1C6FcYs8J+j/LF5S9JXCKWgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/37.png",
+    "width": 1920
+  }
+}

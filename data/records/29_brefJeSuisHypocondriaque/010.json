@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Quand j'ai un doute, je vais sur des forums.",
+    "end": 12,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=10s"
+  },
+  "thumbnail": {
+    "hash": "9fb91ae87d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG1eWnJoYaiNbq6ZfHViWoNzaquclbaropWGfW9aUoN3b7Cjm6aZkaCTi5CDfHxuaABxYV10Y1mReGGZh3VsWlKCcmmvoZmwn5SVYUtsOicpGRWgmJC+saivopiilIqPgXcAe2tngXFuhHZ0iHp2inx3h3dwp5mRr5mOnGVTaD8yMBsVlId/w7eusqWbpZWJmId8AKicmKudmbaopKeZlaOWkJOEfaudlbqkl4ZVSWQ7MU8vJ7ChmcvAt7OlmqORhJuJfADHvbi6r6m6raesnpqglI6Thn6mmJGfkIh4TURNKCA+KiNVTUt8cm+voJakkoScin0AzcO90MbAxLq0sKaippiSqpOJSj5BfGVfsX1oWDkvIxoaEQsPDAcNW1FOpJGFloR5ALqvqca8tcW6tMK6trCXi5BjXyIWIDgqKbB+a3pSQiAWGBkTGhsVGhQPEnFiWpWDeAB7amKQhYGfkYy8sayQgnthRD5bSlVDOz1JOTZFMCsZEhUVDxQWERQRDREmHRpIMyoAIhcUNCooeWxmk4V9PTM3PTo/ramntqukaWJgLystDwwQEw8SDw0OEQ0PIBMQLRsT8pW+LzHU4DcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/04.png",
+    "width": 1920
+  }
+}

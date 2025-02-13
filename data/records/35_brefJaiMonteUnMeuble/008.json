@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Il était quand même compliqué.",
+    "end": 10,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=8s"
+  },
+  "thumbnail": {
+    "hash": "db6c509753",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEU7OH9vbHBhXFZDO2hbVls5LJFZRsqRgKV8Z2BQMYt7coh4cYZ2cIBwaXhqaWhNOwBkVFGIdWd1Y1ZjVEZuWlVSNCd2STqqdGWccV5pVTeMfHOMfXWPfXaNfHWIeXZ1W0gAXk5Ji3VqhnRsjn53gWhiZUAxcUc5kWVXkWpSZVEsintxk4R7lIN7kX94kH54iHRvAId2c5F7cZCBfnJqa1ZPS2xHOHRLPr6GdJh6amVgT4V1bWleW3JoZZOCepOAeo57dwCVgn51bW5dZXU/S1ogJiktHBJIJBtvRzdsdYlsfpp/hJRKSlNYUE+Vg3yTgHqPfHgAkICBYGZ0QFFnWmR1dHF3bmNjj3h2koCBlJanoJ+vsK3Ap6a2g3RtkoF6k4B6jnt3AHdwd1hidUFSaHx9i8Cxur2yvryzv7yzv7uvu7muvMS3xLG1zZGHiIx7dI99eIh2cgBgXmVHWHA+VHB1eIiqnqielqSmnaqon62tpbWon7G8scOWpcOQjZaKeHGHeHZ2Zl8ASkpTSl57RVx7amp1npKbmpCdpZumqqKxsKe3sKe4vbHCgZi9hoqYdWFVZlRIUT4wNPTLcej1dH0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/04.png",
+    "width": 1920
+  }
+}

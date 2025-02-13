@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "le premier moteur à combustion interne.",
+    "end": 19,
+    "index": 5,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=17s"
+  },
+  "thumbnail": {
+    "hash": "5bf26a7a4f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAMDAwAAABEQDzEtKTQwLj46OEdCQEhCP0VAPEI9Ojo2NDEtKiYhHyomIhMSEAAAAAAFBQUAAAAzLiuRiH+jnJSzrKa2r6ilnpipopyjm5Wel4+RiYJ5cGlyaF4yLSkDAgMAGxgXBAIDODQxqKGZsqymrqeii4R/cWpllY6Jhn96j4iCoZqTk4uFenBoLysnAAAAABoXFgEAAD46N6ukna2moa2moXVuaVFKRmxlYGRdWImCfaafmZyVjn91by4oJgAAAAAjHhwAAABAOzmlnZeqo56ooZx+d3JPSENwaWRiW1eKg36dlpGQiYN8cmwrJiQNCwoAHBgWAAAANTEvmJGKoJmVpZ6ZpJ2YkYqFlo+KmZKMm5SPm5SPjoeBbGNdIh0cEA0MAAICAgAAAC4pJ4yEfZmSi5eQi5uUj7KrpqafmaihmpyVj42GgH52b15UTiEcGhIQDwAEAwMAAAAsKCV5cGiFfneJgXx0bmiZkoyMhYCIgHp7dG50bGZiWFJXTUYjHxwXFRMABQQEAAAAKCUhZlxUZ11Yb2ZfeHBpgnt0f3dxeXJrZV1XWU9KUUdBWU5IKCMgEQ8OPIKYgI1Ya9gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/05.png",
+    "width": 1920
+  }
+}

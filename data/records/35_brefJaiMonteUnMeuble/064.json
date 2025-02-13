@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai sauté l'étape 9. Le meuble commençait à avoir de la gueule.",
+    "end": 65,
+    "index": 26,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=64s"
+  },
+  "thumbnail": {
+    "hash": "953e0ef9ef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFZLSWZbW3ptbayho9PMz7+0trSlp5qLjXFlZXlsbJWFhI19fIFycHdpZ3FjYm9jYwBjV1V7bW6Mf4G5r7Dc1tjNxMfKvcKRh4iNgYFmXFuai4qcjIuTg4CKeniHeXmLfn4AbV5ciXx9eWlkoZCIt6+wfGtmp5aVkYiJg21yYVFToJSSmIiGk4SCnY2Mm4yLhHZ1AHBjYI+DhY53dZSAfq6hoXxmXqKRjpeNj6yhom9nZqSZl5aHgod6dn1ycYp+fXdpaQBfT01uZ2BqXFRyX2C2qamomZagjYtrXluroqFrYmCDcmydkIuajYc1LyoaFhM3MC8ARjUuUUU9QDs3OTEwST89VVJUgExBSg0AdF9bYVNQWkQ8b2RggXdxKyYhGBMQLiciAEQ8O0pEQScdGA4ODisiHjwzMGtBMmY6KWJFOVQ/Nl9AM0IzITAoHxgUEzIoJkY4NwAsIR4fFhMVDw40JRu0gFeUclqafmeHZ09jTD89LSRbNB9WMhw9IxQlFw84KykgGBoAGQ8MEAsIIhkUkVsurHNARzkvRjQqgUwpUzUlRSocWDQhWjgmTzAgPiITLyAbBwUEn+ukvNMMcjEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/26.png",
+    "width": 1920
+  }
+}

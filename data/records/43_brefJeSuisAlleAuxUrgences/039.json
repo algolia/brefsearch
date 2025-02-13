@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "J'ai dit: D'accord.",
+    "end": 41,
+    "index": 22,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=39s"
+  },
+  "thumbnail": {
+    "hash": "b6e18c7ec7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIeLlIGGkoeOmmNocVZHRGBMSDcvLBkYFxMUFBMTExISEgsLDQ4NEAoJDBUWFSMlIwCUmqKboaqiqrVeXmGbg3uZfXZuVE0vJyUNDAwICAgXFhcyJSUXFBYUExUiIiAYGhkAmqCor7O5vcPIb21vhW1lk3hycFdUMykoRkRFOTg5KCEhW0dGPS8uPzUzOjMxISUhAHKAjI2Xoa+2vo6FhmlZVVxNTV5LSj81Nj49P1RXWlVLSlBEREI3N0Y6OUE8OTg/OABobG53foVzfohAPkKKdG6WenZ8Y2FjT00WExMAAQMeHiE/PT4pJycQDxAmKSY0OzQAglYij2MxVko8AAYNUEI/fGJcSDU0PTEuDw4QCAgLAwUIFBccMTU4MjQ2NDg0NToxAHxRHoNTHjEqIQUKER4gHFBGP0s3NiUfHQYICQgJDAkKDQUFCBQVGT5AQz1BOzI3LwB0TB11TSEcHR8FBw84RDJVX0UrKCQaHhcVGBUHBwsJCg0JCg0MDREaHB0xNzErMSsAa0Uba0UeGhscDBEWR1Y9Wm1JSFc7RFM3ISkgBwcMCw0QDRAUCQoPFxoaKTArISgkhOFnS/ymWsAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/22.png",
+    "width": 1920
+  }
+}

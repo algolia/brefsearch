@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Je me suis dit qu'il fallait qu'ils se croisent par hasard.",
+    "end": 58,
+    "index": 25,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=56s"
+  },
+  "thumbnail": {
+    "hash": "1a016d8c97",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nBXQSW7TUAAAUCv0f//R307teIyHOvGQkDpDI4zjhLQREQlEpUArEJuKSkyVQIgVrJBYhB2X4AgcEPGO8KT91apOIo7xwLE2efw4i25mRZ0ER5Z1da//47xap4GlqhASWyjz1JO2g6PTuN1UlNfT7LJIN734XT18dpI+Hydv5pP9xeJ61K0DR0YMAFR2A6mM/FVoa5x/vJ8vQzczjXUWvjzp3NbJ94eTr2eTKnCGloERQ5BQzKRFmse6ihEJmqqjCCTjR/1412t/LrO3k3Q7SI4Dr61pzqEuQ0wwk/p+p+P4raYOAFYou54Nb2d3f+6qL2X+NIvKrHPIlcDQqzyBAGFEJZUJwUSddlPTCDWxP1/8udn+/fTi15PqYpR5LVPnSt9z1+OBoBwAJIEDWbojj117HrnLJPh9efptPX3/YBRaFmdC5cJRtSL0N9PC1Y1GA0rwQJYhhgB7mvphdvxqnOW2TTCFiDHCCeEaU3LPWRW9UeA2GkCCAEGAAEBIpsvYbwmNUUEww4hSwinh/z9McxqHu2GiC/Ufbr09XyrPHCIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/25.png",
+    "width": 1920
+  }
+}

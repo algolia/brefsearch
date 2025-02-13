@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Ma mère a dit: L'important, c'est qu'il soit heureux.",
+    "end": 6,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=5s"
+  },
+  "thumbnail": {
+    "hash": "376367c2c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nAXB7VOacAAAYL7sw+7aktL0VFSQF4FI5OUHP8DhC+FSECVNQ0KtL5Wz61prm3e7263v+7jtz93zIMRRNnFad76b9Jyu3daBMRqOj4+lSgmPTp2FbbrQOOs6lgraBtR4Cjl8t792Oy8Xo4fQP+97JvwwDS9kGYo08/fL07+nTz+vE9iQRI6tFEsNtoYAmnwM+1HLGqqNfqsdL1bbzWM8nn6O42/Lq+cwuAuGUNE896MJdEtRkY3vfp2Pb9zW92h22R+IghjN4/tk/We3+/2wfV1eXQ88C+iGAk44XmB5ZOXYuyh8mXi/kvlmPCZxPPCD1WX842b9uozvXef2POw5bseyTztO07AQX5O3o7PnySCygANAu2n33GDW9SaGNm3CGQSmAk8EvSkBUWjwRA0BVHWoK5Gth0BmKqRt9KDcreUZja7j+RK6nyaLjCR1Aa8xJMtjOIKhB+VMRqOrBstg+YrK63WCFQiOxGoCwedyRCaNVbNlGaO4El04yiMVNLX35m16D82mMqn3aLlYpSipXpMKOcqkRZXgBt4imt3i6WIhTx6iuf8OxGeyWyZLZQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/02.png",
+    "width": 1920
+  }
+}

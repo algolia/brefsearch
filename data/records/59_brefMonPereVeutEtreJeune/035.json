@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "C'est trop de la boule, ça.",
+    "end": 37,
+    "index": 17,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=35s"
+  },
+  "thumbnail": {
+    "hash": "9d9dffe606",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nAXByW6bQAAAUKQUzDbsMMAwrMbD2GEJCLATiFU5i9NWSpoTOaSX3tpLf6OX/kW/pD/W9xi6rqrtWJCeJhsSpiggm2w3tsdpel6nNfJjz8UByjwniEOSZTXT0naop6ack6SKk3qidIzdtijn4xLFNQnTAmPfDX2IXET8sGQ6enVzNU39Q9c9zofPy2H/2pdtczvevpPm06m7Pl8mJKP5ZsBp5+Mdszzcv52fxur68ePXH99+Ps+n5fxS0mHXnIvdMcE08tLAjeOoCqIG+oT59/fP71/fQy+764bX+5dp/6XMK99Nw6iGFlZga+IbWbYd0w8gNuyYWZ5OPaUxWh+2dU8u99VQhIltRR7aQjv1otnyewA8x0J1TiIPM6qZ6RoEkmKagarYyHJDiCXJECVdV6zQhBYwgayrQF9HBKOcMZ2M48QPF5wgqCteEXhFEjVRVGVJF3hZFDUFWAIPViwvAahbCSNKJnvBcazAsoKhu4GXypKhAMPQXU1zE5RnQe44EceuJFFVFPgf/oc8n8iINKQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/17.png",
+    "width": 1920
+  }
+}

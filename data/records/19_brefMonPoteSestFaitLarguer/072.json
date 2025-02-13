@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Ben touillait son café depuis 20 minutes en faisant bien à la cuillère.",
+    "end": 75,
+    "index": 35,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=72s"
+  },
+  "thumbnail": {
+    "hash": "c118a77dfa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBW2/SUAAA4E5aek5pS+83StvTrUBpQ20LhcltW9YEBvOCyJjOjIe5iRHmkw8mvpgYExN98gf7fdhEJC9kciiAVADnGrhB1LVNrWx47cAXiI0UumuVQkRVFLjN6g9pDXutgbcWrHNAocmuwTyG7JeQ3vrwvgG3iXZmczpdjC1y7it3iTt1ZWyowLFO2QyJWLCJzNykE7GYO9xVU525XKZAnwdBlV5HlZeHQqrSGP6kwOAHGsSbAhwaTCiz/SPzqSkODvWWyrg0YbLgGOmzI/k54ieOgLFFYpk1s6qYSCCR4NhVfq5OazxsGVxsCoHKti1x7BkzTx4ZsKNCTKTIh/Ps/iTa9WuPx2iVuFeRvQ70riU9Q0rPkRNT6NjKwtd6KhlIACMKeIvH93n679P6x+rs1+ZyZFC+UGrKjK+VPYWplsmGWp7XtLFRCiUSOygQDY6c1LXNafvbm3yZenPEs6DYc9TbrvcqrNx00CJGFy23bzCBTGN4AdcoIneFz5P+n7vl3/373x8XXy8H36fpblh/F1e2o+DDSbyfDm57jV3e/g9D6kd+ez54MwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/35.png",
+    "width": 1920
+  }
+}

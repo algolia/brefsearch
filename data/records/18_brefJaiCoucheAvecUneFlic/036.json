@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle a dit: Dommage. J'ai dit: Pourquoi ?",
+    "end": 37,
+    "index": 15,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=36s"
+  },
+  "thumbnail": {
+    "hash": "4c09444417",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nBXCW0/TUAAA4EMQOLbr2s4ZL4km+uaTb0YIRkiIwJQHDGOsiJtbDUFgm2NjlLmLQ4rh0J6WXtb1so4yjJfxwiPxxxm/fKDCzRQT043NVSw2TzHWFKypimnoYk0oJ2IF/h2WZRmhY/HwoF4TSkUQ1LN6MdlIzTq1dVeVup7v2bbj+UeFj152ITM/KaETp2ObuqHJGIkiuHZa5m7qW/ZNUM8YAt9z3MAPgrMf8n6xufiyvPLatmzPca22ZRmmgVXw1xPRxpJdXvt1lHe+8F0NX/R/DwZXroLjE0/SsSnzOwrO+j3PtwzTVDUwQCWjlOo3Nn4e5nA+oTXLl3+uZEmZmxyfiVAxhnrEhp5PPJPRSddx26oG+q2tzh7v7fMXrU/qdhzlOQUdP3xwF8KhpxTxmIIEDQEA01Mvep6vSxicH+T8xman8qFXzdhlTsot89wiyxB3ouEwS9IMwYThGBy+f+82RpKwswPaexm/vo5zK1p++XT7rVpIcPPjEYaIRkJRlozQN0OhUTg2TFGwVq0WsmnwNTWnf04Kq7PyVtzZXetU3ueSr26x5P8RkqYhSY5AeGN0ZIjjkumlhX8MB64w/iniGwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/15.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il a retiré l'arrête. J'ai dit merci.",
+    "end": 100,
+    "index": 47,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=99s"
+  },
+  "thumbnail": {
+    "hash": "843b056c22",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADdLXl9pc15pcFtgY1tocl9ue3yJlG99iWh1gF5ygUZZbUA8P0tSWHF3gFBVYFhdZwBCWnB+iZFcY2grJyZKQD5WYWdda3NebHVvfoaEkJpuXV04KCQXFhdtdXxUVlxYXmYAU2+HoKOoMzQ2HRUVYEZCZVlZSVNYTVJVcG5viX5/VkE+STYyKiQlcXqAa3B4YWhvAFp2kbGvsUtOUkUyMmFFQ1pPUlZdYT41MVhFQXZjXzgzNTkuKxkUFSIlKmFqcmNrcgBmeIagp7OcqbqVl6RPSU5BR05cYGQ+NTFVRkJqXFcxNzkZGhwNDRMCAgcSFBlTWV8Ag4R8fo+qjZ2zmKW5nKW1gpCdcHR7dV9WdWBYPzczERERCQgPDxAXDQwTCwoPNTg8AHB5inJ+l256kHuFm4GMo2B8oF5leXpeVXdgW0EyLAcGCAkIDQ4NEgsKDwQDByktNABeaIBka4FOV2xBS1wxPVE6UmxbZHNxYWFpU04lICAICQwHBQkNDBIGBQoREBEmKC4AVV52WWF4X2Z8W2N4Rk1aU2JvR1BfJCw6ExUcCg0TBgUJCAcLCwoQAwEEKikqJicqxcCHk2hz5eIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/47.png",
+    "width": 1920
+  }
+}

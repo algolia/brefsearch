@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Il y avait lui aussi.",
+    "end": 10,
+    "index": 4,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=9s"
+  },
+  "thumbnail": {
+    "hash": "86be31cad3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBy2/ScAAA4B5NzDJFugClrEzGWxh2JR1CWx4rFFp+pR2wtuPRDlih24DxUGERk8W4ucRoogcvO3nzn/T7oDTNAlE+PzsdavJk0F6Y3bvVsiWLBZJQa4BlcgJX0RoNXW02gJDPpKHDaDRFEF2lYalg3Gmuhsan+SSfeCMkYgpf4YulEyD1Ou2Lbltk85m3Mchte7X17LnM5m7105mhP9x/uRkNDiI5OmulyEEpz0uC0O/qZvcsHcKSPhR67XQhL20cRd1/XMws8/Pth+loSCfLoP+7WF7zWbaUyxod/VrXlCxeOgxBUa/X79hRquDp778fv/58e3hcTifld0wCHzHUDDAZmiRbWnuiKzpL1mkcCqJo0OnIEsTd48/N1+/r9WYxmRrghKL7kjgHFJWMx7SmYinVGhnm8ACEvNj2wXZ839dWW2NzeN0zplfj1Xx5fnE5MK/wYCC0i4pVUa+yhX0XFfBAGGyP77oLB2GdP77R5BrHLebvV+uN0bOAWPcjTg9sK8djHS9awVxMCIP2duCIB01Hgimvs04fCYKsSmJd4CtskUnTfjcScMAmYr+EtyXMeRze+w/CeH7rBo20wwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/04.png",
+    "width": 1920
+  }
+}

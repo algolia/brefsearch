@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Ouais. Mais c'était pas elle.",
+    "end": 83,
+    "index": 32,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=79s"
+  },
+  "thumbnail": {
+    "hash": "3c396b22dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVR4nGNggAFGGGBgYGBiYmLEARiQAbIGXHoYkFXD2YQ1MKICojQwIDkJlweI9QOaLJU0EHYSshAeDQAlEAFUcMRQTgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/32.png",
+    "width": 1920
+  }
+}

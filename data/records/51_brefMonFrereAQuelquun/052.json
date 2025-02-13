@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Je suis crevée.",
+    "end": 53,
+    "index": 23,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=52s"
+  },
+  "thumbnail": {
+    "hash": "a423d68e83",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXB7VPSYAAA8KeS53n2xsuk8VKDxmDAbcwhsBEiEMFIESednZ5B5JYiXVJcd3l6nLYkz94+dPWtf7bfD9RkKezzIoh0PjJtFOYvd66PB1/Hg8uhdTGwnF79tG/+OpsuTo+SIXbJA0GYDWCECUzqfOR7t/pnZP2dHd46u0cNza7mbg42bu3+fLD9c3aiyxkAAKAIgqUZjmFS99n3FeVTW78+6Ax16Xk2Ojakq63q5W7zsK6289mVTMqPMfDRdD0eHqnCnpacm8XJujZtFbUw205wbwril2fGWafcVBIYYYQIH02D1Xi0l+bdpjoxJHfTOG8Vj9dyqw+5HMc6+eQ3s/RuXXuwHIAegiRohAnQVcVZTZ0Yme1szNHTrwrSqCJvyo9yIf9QE+dPtZO6YmopcAdCiCmKAj1ZWHSKe2oiGfQLywGRCyqxaCvNO2XZfiy7VuWqV7rYUNqqgCBGCAEpFHTKyn4+pSd4iEgPJJc8ZJxlP2+t/R52f9gv/n2wF/std8coiVFw9x6AGJMEyfkDQiTipb0UyTCUFyLyiRRzrZrdaZy/Ht28HX/sm5axAhH+DyqqW2dswOnDAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/23.png",
+    "width": 1920
+  }
+}

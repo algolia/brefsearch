@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "J'avais une banane trois poches avec à l'intérieur ma Game Boy,\nmes jeux, mes images Panini.",
+    "end": 26,
+    "index": 10,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=23s"
+  },
+  "thumbnail": {
+    "hash": "89b5e48b7e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nAXBXW+aUAAAUB5XWyWAQBHhwr0CF0HGBAoFwQiItQRd66pNqnFuD/t42GO3ZsuSJct+984h9pH56z493SRz1zytKmS4mzy7jnPbCdI4A71e+5wcaZrQ5RAcOAYmPibW3+30yzpf+8NP9QxhbzONozCN/GjuORMDyV0WQ8hQ3EDoWQONOJXhn0P99W6+mwa/940BjUOR+m7gmfhzEf2oU4tnAMuyVFfrAxO9IU5N+f24ucvTOgm/HR6u8uV9NI6wjg2z9MfroYKoji1LIiu8atE0yRNQAlAGAi8KFIO8NC6OloR1L4Z4vAgfNFrUeaTLyki8pDo012kTiKUFkoQM7YtdrNk70Y3Dhk3qrbvaVT/j4H1jVpz2uilLVwXk2QVR6mKF5beO2tgggGjF6om51JXoWL5k5cuqeJ6pSQvazuKdr8H22TlRmfJiCJY2nFtwMpAXMrAE5Uorbpf/wuCYBR8wh0nJ0pzSlvsCQxGRwkeqkCBxZoDKhvvr4WOo30yfsvQ59A/j0bZ/IUrq5FIPAceQrdZ/5/tT7FXWEecAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/10.png",
+    "width": 1920
+  }
+}

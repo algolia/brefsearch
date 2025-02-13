@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "C'est pas ce qui est écrit qui est important..",
+    "end": 141,
+    "index": 52,
+    "start": 140,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=140s"
+  },
+  "thumbnail": {
+    "hash": "4610d740c9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nAXBWU/TcAAA8L8YBCVlbD3X0nvr3a5dS+t6bOtgzS5GYUM6FMhEwUwT4xETEx9U4qtP+uBX8MHP6O8HOgrTb9Qnnjb2VJlA2fK2J9A9s37k66OmMnCUxzxlYDs2WbFIRMErIJSYfE89T+zzrjeQmVNTmEfNp13/Ig0WbfcscROJDViiJZAujZtVBPAo/PFs8PPd1afF+G2v+TKx3xzvrybt22G8zMLrLFq68thRijSYBlZmq+D17ODv7+9/vr5v1YXrQVqkSeaYz7O4iOzTlj1vyCcy0+ao3DdHjpJqIri7mf/79e3u1bNIqn25WX5eHJ/4dhG5RWgPSWzCsy/yw5GiRnB5aEldRQAfxtGP2yLQZBLBJJrhqyRHUH2du/TpKYNdxNHqyXw1y3s4ui8yHU0EUY2eBZZf4+6vPVi7tw7AerWCNgQuZImkXMotzWSY0ND7kuhgKA3DQMHhkaPNWs6BrXcste/oAo5TGBGKbCbx0MYWhZIsvovuIKWHEAJtg90StMdRscxnljxx9alnBHXB4NhYFlND4nGcKCNICYY2t6CNRzpN/gf13levaXtKCwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/52.png",
+    "width": 1920
+  }
+}

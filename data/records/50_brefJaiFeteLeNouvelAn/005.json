@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "La soirée déguisée.",
+    "end": 6,
+    "index": 4,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=5s"
+  },
+  "thumbnail": {
+    "hash": "f3a468927c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nC3LTY+TQAAA0ImbSguUr8LAwAyUGaA7BYIDHaCkrqk90N24jZqYeNDejAf/iD/bi+/+AEqzIM3MIOrbZjyODqEcRyIhDCHoOGkYUIQs3bDWhqZpqqoCP819mkOSuBGJMh7QghNyZukrJTvo3S/T75ezqf0Pq9UKhCmr9uzlVJdZGuWFRwvmeTeW/H0Sv6rsz/z07TonrIjjJE5SLwhBy6DYbooYTjm+FmGFsbDsA0JTvTuV+aeu/nr7UgpJs8dHXpEtBYbrG55v+egziX7i4Ibg1YPfcfS8yziOZIxnKZ6Pcu67klc4ZcAOsGJuVHMzuO4HCI+W1ejrMdm+1jW37X2IKS1QRETOwogomgHaru862bZdw/eXojh3ksXbZl+eW4F8CJaqoq2XuqE70HDcEBMg5CCHaZreH9rD3Mv7j/vl4yUjcU2padoPiqpo+lIz3mqGYW8456B61zbtoZPjeDz1wzT0w9D3NEn0lfZmsXxYLBeKqpuODQMfx6KT/wCeQzzmPxro7AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/04.png",
+    "width": 1920
+  }
+}

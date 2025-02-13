@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Je ne touche aucune poignée.",
+    "end": 45,
+    "index": 19,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=44s"
+  },
+  "thumbnail": {
+    "hash": "f832c85217",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE44LVY9MGBENGVINWRGMmdJN2JEM2VGMmlKNW5OOXRVQXhbSXBXRmhQQmRRTFtLSQBmTT9yVUR5Wkd4WENwUDpuTztjRzZeRDRhSDtvWEt0V0N7YE11WkhtU0NvV016WUwAb1RDfGpniXFmfFtEdFVBaks3alFDcllKeWBKjHFsqXllq31qqHtorntkrXFYllxHAF5IOm5fXWlVS4NiTXVVQWBGNGxYTpltW8SUa7JwWZ1aSIhMP49TQ3xJOFsyI0soHABhSz5rW1hyXVOKalZ2WUdbRDZxX1eYbF2hZE2RTDmxblq+gGybXUtgMiJMKhtIKRoAf2dXbF1bYFFPfWpnnImEdmNcdGFab1tQfEw/iUc4gkk5eEIxajooWzEhUiwcSykZAIV0b4FycVBHSllMUq+fnbCjpLKko6OPioxgU4BCMnxENW49LWM4KG1GNl46K0ooGQBBNTtXTFNtYmdwZG7Eu8C9r6+ynJWijYSsk4qed2yTZFaIXU+beGu3m4+ul4yLdGsAKyIqRz1EcGRqdWl0v7W6q5iTl3tvooZ6pYuArpePrZSLsJWKspmPrpuSqJiUm4yMuOarsiAJQX8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/19.png",
+    "width": 1920
+  }
+}

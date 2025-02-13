@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Là, c'est la tente.",
+    "end": 100,
+    "index": 38,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=99s"
+  },
+  "thumbnail": {
+    "hash": "e8d0807081",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXB226aYAAA4N9DJyhYKIpoQEAQqhzkqCtORUYr0rXW1U1NnI1p0l3Nm13XpOvWmOwFtuxm2SHZY+77QMfrv7qaXcfRx+12c/v+0+PTr7//Hh6//Pz95/5+F8az+fpuOn0znb4NgmgymQCtZfun8XoU3ETBfL46jy92u4f9/uvnp/1qtSkV6E7LGQaj4XAUhuPxKAJcXRGOdU/T+4YpKxZTlfyX0fdvP4KzS73lWKLoyg1Nt1Sj3Wr3HW8AilUxg5NIHs/jxXQOw0lGlNTFYm24vcjve46ZRbGwe6IbDs1KNCMAkqBSEAKheA4j09n8MwQrVnjHHeiGa9vW4jxUapyrNARBlHhJZOugUKLBAZyAkFT2MAkhSQilaMG0Xpim0+9120ZrGfpntsKUqa5/ulzfggJbT6aho0KpSFbSMHqQwxiuqWgnbK1ZZXlRYMe+s93M5VpNcbu8rAKYoAiidP28M/W8Q6KMEjTNa1LTrdZUpdl8NxtfxYPRoDfQNE5qJCAUFGg+lcMzmWwGRmGMIisSxRxzgs5U5eXriw93N7JYZ8plW1cFzUhAyH9gq1XXuQTmcgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/38.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Et alors là, il est devenu tomon.",
+    "end": 24,
+    "index": 11,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=20s"
+  },
+  "thumbnail": {
+    "hash": "001859275f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABSElEQVR4nB3Py27bMBBAUW3M58xw+CYlRracNIFrJbaRNoui//9dRQPc7VncyfMx+nPJl17el/Y4jq/R7qgTQfNuDXxyOIsDKGHP87XXj8nzKYUftexze6zL7/Pxby+7Vd5BD7x6NwKvBEUIS9BqeZ88bzm+5bz39hjL17b+OS6/UCc0SSvSitmNFDYwkWzpZZ+i30p+a+Xa6623+2i30/JptSdb8LscX2p+ddQZeyvXiWmk+NzrPtdbKz8DztVvgVeGnvwGOjjsKWzeDYTKNE9KIkLt5bq0e80Xp9gJCjQIKuhoNGtFBJWgoc0IeRIHIwUQtBJfanp10rGAhM0o1pLARGsi2GhNMNoT1MloLwXIg7GaGWe2xemQbE78pCT+n4FqTVQStSK0dVLSKUlSoJZsTUZckJ6CiZf1hiYrAVZ7rUgczLcP/wAaISEJvQJNYQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/11.png",
+    "width": 1920
+  }
+}

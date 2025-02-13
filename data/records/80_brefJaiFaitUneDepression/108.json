@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je me suis battu pour être heureux, pour pas avoir peur de la mort, pour avoir un\ntravail, pour avoir une meuf, pour être heureux, pour pas avoir peur de la mort.",
+    "end": 112,
+    "index": 38,
+    "start": 108,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=108s"
+  },
+  "thumbnail": {
+    "hash": "634aa2d62f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nBXGzW6aAAAAYB5hl2XrsiaLiBQsaKdrC9FV5g+1gopOBAmC/AoI2Fpq1Uat+/WwZjvtsKRLtmX3vcUea9l3+gAOJprISQ0jNAIztZjrgUM3pjMHVH4HbWWeMvSj54lnJJ4o8dATHHqIAHY5c1stCJm8XyjbXuCE587V8sOg1Wmmd5h+ShjiWSJbbCCNURE8Le0WAf0ot6x0VJJd0OKv+7/ftz8/bb5+5nsvjnMPytGRtKm8Ul9WA0xYfZmhf+6SgE5KAWV5BemGFj8u7n+vF1u3+/asXa4wefuSVG9rZ1qFC7PKu02Y+7E+BAyyO6b0sKRdU9xM8r6pva0b3rXFklkDz+uHvWuWtYqvJ2nlfRakUo8JoEFzQlNWhZGvGF7fH/Vdw1heWb460upD2wwWQTC1vYhXfY7lGboJSILKibJhO5OLuT+ZOpfRcr6O5is/mm3mb26mK2s88fyLkeV3JFUQFKBV50/ZdlcQB31DHth93XGsQNMd2XTc4dg2fV4eiKLa45Vqvc3UWgAYQ+IgAsWTMITtwTiKpFEkhSKp/eRBEv1/BMbhBJaI70MgCsb2/gF94I+PolM/6gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/38.png",
+    "width": 1920
+  }
+}

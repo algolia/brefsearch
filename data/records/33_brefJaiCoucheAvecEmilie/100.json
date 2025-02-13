@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Je l'ai raccompagnée à ma porte, elle m'a dit: On se revoit ?",
+    "end": 102,
+    "index": 42,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=100s"
+  },
+  "thumbnail": {
+    "hash": "31327098a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD05MTs2Jj42KTszJUQ9KzcxI0A8KUpNKykqFSgnE0U5KTQlHC4kHjYsKEQ8OF1QQAAoJRg3MSM7MiI3KyI6LyMzKh8gGBEuLBorKRkjIxRZRzB4WU4pIx1COjWTh4N0ZkUALSYjLCYiMSokLCYgKiQgKiQfGRMODw0GIB4SIR8PWlI54dDFa11WLCQdjYB7gHNbAC0oJSYlIy4rJSknIykoJCgmIhQRDSsfGB8YEA8PBF1SQMy1o19PSiofG1BDNmZXSAAkHh0iHx4sKSUuKygvLiopJiIbGRdnSD5ONSgYFw1ZTkC7oo9nUT49MCpJOy5JPDAAMSspMy0qPjk0TEhCRkA5QTw0W01ClYSIfXB5TEE3ODYtuKVrrJhMQDwvRDcrT0E0AHRoYYl8cmthVnBnX4h4a39yZIJsW3d8jlldcDgrHxQSCTIzNUpKTzEqJRwaDikiGABZTklrX1hYT0ZjW1RwZlttY1Z2Zl2qmZN1aW1COTQ6Myg8OT9NTFZFPDJKQzpzbGMAQTg1RDk1ST84WE1GU0lCVExHaFpSpHVcgl1NY1pWWlFIUU5QQEBMdG1lg3hxin949dRyjun6k4UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/42.png",
+    "width": 1920
+  }
+}

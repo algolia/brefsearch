@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "J'ai voulu acheter des haltères, mais j'ai pas réussi à les soulever\npour les sortir du magasin.",
+    "end": 23,
+    "index": 8,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=21s"
+  },
+  "thumbnail": {
+    "hash": "d2e446853a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACEcHyojJS0iIzwzNzowM0E2O2lhZ3ZRTXtTTXttc3Fyf1hHTEsuNDskKSAgNhcbNQAuHB8/JSY/KClGJyg6GRlLRU1UVV9eXmd4ZmuSfH+GX1uDZGJxa3dORk0rHyMZGjEAIhIVLhgZNyMjOycpOCQmd2VpeGxyUlJbWFpjdHN+T0RNbUdFlWVbZ19qMB8gNSgrAB8UEygjJjQtLzYtL1lNUXdsdIhxdIhydImGkHVyfnNxgIKDkZuXoFlJSEc3Nj8wLQAVDhAjGBgoHR5hS0qFX1xzZWl0bnWLfoaJg41zb4J+eoqgn6xybXM0Hho8JiM4JCIADAsSDQsSGxQXellVhmhmcGducnF7cm56jH93i3xxk46XmpeiSDo3GhIWIBsgHxsfAAgHCwYGDS0fImZMSn5dWIJsclBWaV1XZImFk4h+co59YXNsajMqLTctLi4mKSAZGwAGBQcHBgkMCg8JCA0VERdFNTc+OUZaU2KBfIuDgJFYUlpOPTQrICMzKSslICMgGx8ACQcMBQMHCAcMDAsRBggQFw0SUT5FVVBebWd1SURUR0FIJxwXKB0dKCAkIx4jHBcbtTB32I88I8AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/08.png",
+    "width": 1920
+  }
+}

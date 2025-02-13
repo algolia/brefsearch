@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Ça ne m'a pas changé les idées. J'y suis allé.",
+    "end": 36,
+    "index": 13,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=34s"
+  },
+  "thumbnail": {
+    "hash": "ed6ce69c09",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nBXMXW+aUAAAUH7fnrZUs06gVcpkojNdt7Yu7R6aNluT1qwMiRIEARUtHyLDKx8KcimOzpf9paXJeT6I0lX1gWGPHd9aGapd3S+jBQwv4sQeihYwrIjvv35LvavInDrsDbl7DtEHhjsFoR2nfh7M4+b75geyXido+pCqkY0aQVdQ4qzZArpvqTOlqyD2aB7M1huQ7eA/TTKog+ox2aCP6gRG0hhZKREUXiXQI5GVA2ulCWMEPHrRbwj9P9v17svHs8KrNwdFnCoRaAH79vmydXxxuId+Ktd00QjtyJB1xDOC2E3TIE/DZ1Od3V5+Pz+5OGmclkvEXHPz9U7lNfDo5eFf3wwn4gRxp8DTw9U8jl0I/TxeZgnIXjJltrKjjZtug+dk8eQZIdA9mRsg1niu9EbMLSv8kgRW4pm+3Bup/FjsyPxPQWDEET8RHsTrrzd9RpBYEZF7iq6azsT1zXDtws0yg8vtC5AliycIsshJQjt+aF1xN+1uu4uwd51+RxqLU2toL6bLcBZFThI7MHZg5CS+uXY1YA1t7rrd+cHcX939B8RCA3fGGUrTAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/13.png",
+    "width": 1920
+  }
+}

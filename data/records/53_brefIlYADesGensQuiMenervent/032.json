@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Excuse-moi de te reprendre. On dit pas à Châtelet, on dit au Châtelet.",
+    "end": 33,
+    "index": 14,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=32s"
+  },
+  "thumbnail": {
+    "hash": "4b62061b24",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nDWPzW7TQACEfSD+t+Padd0mlaANNE7j7Hq9Ttb27tpO0yYbGxUu0F4KqAIkcqIXuMILwJETJ8R7okRCGo00I40+jRSOYGA7vmZEhwf0pHeTDO9rQmYVyRazbJFm8+mswmkZJxTA7HyMpXGEe47nqsbkKHiFRt9vrr/dv8nZinJBuSi4yOgVyS4xqRFmABAJQPLYP3i2vw+Pj7+8FL8eNj/ev3strou6LedtOX/OqqZgghSXmFQwKaQE0ydBbx0ObzHaLOs/Xz//ffh0t2wIX5d1y3ei5ZrQq2l+Eadcwinv+/2e5b6IwccF+/nh7vfm7e2qnTLByjWv2y2BC1L8H/T7p6a+pyn2kXuYn4UrhKoJHJ6MIpDTsqFlw6pmR1im5AJiKskdS+5YitxVFEfXva4dqJqnqa6huYMBzJkg+fb0lCxQWkUwlzR1z9C9rWuubfpdO7At3zS2jWX6IKYJrhDiMeITkIfnWOo8MlXFURVHkbuG7lmmr2vuLtpyxxw8hREoxmMSjpKzYXw6iP4B3xNQ3xn+QpkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/14.png",
+    "width": 1920
+  }
+}

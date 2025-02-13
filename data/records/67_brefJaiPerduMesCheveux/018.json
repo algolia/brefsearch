@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Que j'étais le premier à savoir quand il pleuvait, qu'il y avait\ndes signes évidents, mais que je refusais de les voir.",
+    "end": 22,
+    "index": 7,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=18s"
+  },
+  "thumbnail": {
+    "hash": "ee891a5ecd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nD2NW0/TUACAmyhsa9fTnvulZ2OXuqatcYPiXLpxGTSATNiWDQUZJIbEoSMo8UWefDXxQRMTf69RE9+/i2EXYSFn55eLxKWcCIaFXyoths+/vZ//vLv78PJUUYkcjBwMLLdYAEZuyTJztpkHnAhPaEZk2oyn3aefT09+fbz9+nbefBRCBzPMIMC26Rq5h8XCMoA2VtxTQpelPsvSnTg477Vvj18MO2kSRH/PHLsUOcRYemBp5G3GiRZaMFUW+mrQ/zTeu58c/rhZfL95N+ptUMQYlgRy7DIDmPBZLUjqIafK4x6nctxPr7J0st78cjm7n70OV3yGOSeKYflHIBbcqDVaVV9QLkXZ43rcTQ5a0XRtdXE0WA0i5DLJFCeKIoEcarCCs1lrrMdtUmnTYCBLraMkPkyenPS6r7I9BIgk4n8eAmII0+ms1KNoy2mMWPNC+Lu77c5ltnW+s30xOtOVNUIrDNJ/NLCgoSENVVmKwK7u43Di1vf726M309n18Ph6NvfjDFQPkHzs2hhY0Mo7vwGsT0XV7dCG+gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/07.png",
+    "width": 1920
+  }
+}

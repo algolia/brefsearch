@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Quand il dit: Tu n'es pas une fille bien ?",
+    "end": 25,
+    "index": 14,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=23s"
+  },
+  "thumbnail": {
+    "hash": "c284a4decb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABQaFhQTECQfGjAsJTQsIkxHPVRNPC8uIzs0Iz01JSwnGhslHlVrXqyrp6ihm3x2bABiU0otIRkfGhdOSUpWQTuJdW5nXV0cEA1TOzRjS0UpIyIdHxoYHRN4bmx0bHdfWmcAnIh9QzYuNS8oamVmeHRygXl5X1dVIxQPeE9CjVZGRDEoZVhTnI6NvLW3m5ujcXB/AJiGfks8OWhTTZKMip+Xlqidm5SFg3RPRGxBNn5LO2A6MZB3eM3IzLq2t7eursnFxgBkUFE4Ki1VPDqFfnp7dHWCd3t4cW80IR1MNCpvPjB6XURpV1dkWV1nYVllXl5wZ2kAOjEzQDc1LigoSUNBWlNVT0tSGxUWCgUHcWM4mnFCl4ZTGxUVKSEhWl9GmZGLZFlbAEAzMmxfWhkUFh4ZGDAsMyciLBYODAYAA25kN8y+aod9UxAJChsUFENANm5iXUo+PgAjHRxAODUuKSYvKSQ5MS4cFBYQCggEAANYUDHMwHZlXEAFAAMSDQw7Mys5LysrIiIASTs3UEI9QDQwNSomPzItLiQgKyEeFw8PJyAWq6FkPDMhCgQGDgkKLCMdRTcwMicm4T5/JdPkBxwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/14.png",
+    "width": 1920
+  }
+}

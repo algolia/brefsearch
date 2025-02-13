@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Mais elle risquait de vouloir aller au cinéma avec moi\net je n'avais pas les moyens. J'ai mis: Une expo.",
+    "end": 58,
+    "index": 29,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=54s"
+  },
+  "thumbnail": {
+    "hash": "c2a5782031",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVR4nD1RiWrDMAzNJ62wNiukTpvTVw47dpykGWkOJ203GIP9P8NpKQghHpKe3pN13G0QsLG7LyJQwqOMT10eNSRoaTgJWMJTTTwRAuLuY2fnvm8sCOw8cNok6LKoZ3AqsBZYCzILogWZCjxw2GVRmwTMdxCwLR4eKuhpgQeGBm5axzVPazFLOjLc52gSuIIeDw9WQ/yewauiWhItyVUlWpCbootKlpLOkho2SZeS9nncEM8MLIqOHP985vc6/Rv4yPH3ObvX6VeTGrBKfzs2redVyH8yzJJccrSUyU0l675kKU1xr9OlNOuv6sHgWzx01EsDQ7N8aniJeeBa4AqtGjCwmf90aeBoKvBqlBlYAw8cdVn8cAkD2zpuNxjYxP0QEVCx+cOFxWcatEmoJVLw1BBPRi5199DZutu3f2FXiEPijG1XAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/29.png",
+    "width": 1920
+  }
+}

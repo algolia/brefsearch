@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Jamais, jamais, jamais, jamais, jamais.",
+    "end": 39,
+    "index": 14,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=37s"
+  },
+  "thumbnail": {
+    "hash": "f9b117b2dc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGdbV5SKi7app7qrqMW1sqmcm1lFQIxmW5eAb5uJfquYkqaHdKuXjpaDhVZASYt+fQB0aGehlpaxpKOvoJ6zpaGUgH1gOy+6fmuVelmSgnKslIiTZj++n4uplZlWQVOejo0AjYKCraWoqZ+fkYSHdGp2bFRYjlxLm2tgjXJThXVjTERJTUJAbV9bgHN2jHt9oZOSAJCHh7uytsi/xlpWbTo5VzQuPVo3KoJdXXRmY1tJQx8eJigoLycnMS4sNDEvNkE7PgCQiI2/t76EgJQzME01NE1ORFRgS006NUhQTWlMRk8cGx8mJSopJy4rKS8bGB1lWlgAeG9wgHZ3VExWPDpPNDNKdG6TrKXOKyxHGhksJCIrNzhCS01bTU1aSklWJCQrU0tMADszMDcvLFFIRklFVSgkNmtmhpiLq3BXXFRIRyAeI1VWZmNpfFNTYjw4RB0cIDo3PAAnIiIsJyQvLDZVQUtkSENkTFN8VUl+VEhVPzwpKjExLzYuLTQpKC8UExcVEhE2MzgAIRwbIRsaKyYpRzk+UkhHYFZUPCwqKR4fIB0iKyszKikwLCowJyUrJCMoUUxLPTk9mI6YaKZCYuUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/14.png",
+    "width": 1920
+  }
+}

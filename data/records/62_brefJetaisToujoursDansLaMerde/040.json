@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Quand je conduisais, mon père arrêtait pas de me répéter.",
+    "end": 43,
+    "index": 15,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=40s"
+  },
+  "thumbnail": {
+    "hash": "806e130ece",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABAMDhkWGCQgIiQeIikgJSATGA0DBAgAARYSFJGPksPCwqGeoKilqJ+dn5uZmpKQkQAYGB44NjjKyMrKx8h/ZmiOcnaJcHRpVloyHyIuJSl+foLJyMvFw8Swra+mpKWbmZoAHxweFRMXp6GdtrCchn54s7G0f3d3cmhox77AfGhsKBMYSURJs7K20M7QtbO0pKKkAB4YGgsIDFhNSp6Re5uQh3VtdHhve21WVZyNhrq9s6CUij4rLSokJ4+OksrIy7e1tQBaVVtBQEMpISK/sqm8tsGSg4qztMqekZx3Y1OWkYSIhnxLR0kpGh4RDRBcWVyCfoAAW1ZdS0lODAgKqKOmmo2TeVZKhXJ0XVRcU0ZHbWNlZF1dPDg8MSouFRAUGRQYJyMoABgVGhMOFDYzOF1ZX0YxLHpaUndkZV5QVlRDSEQ1OzArLw0JDB8cHyslKCkiJB4bHQAiHyUZExglICU7NjpANjhSQD5hR0BsT0lGMjEkGhwKCAoaFBkSEBMICAsZFhgfHB4AHBkhFBIYBgQIMy4xVVFVbWt1TkRKQjIwSzg2DwwQBgUIBgQIFxEVFxIVAAABEA8RKAGQHaHxgDMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/15.png",
+    "width": 1920
+  }
+}

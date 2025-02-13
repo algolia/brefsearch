@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "name": "J'ai dragué cette fille.",
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY"
+  },
+  "line": {
+    "content": "Alors, ça va. Un mec est arrivé.",
+    "end": 24,
+    "index": 10,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=23s"
+  },
+  "thumbnail": {
+    "hash": "c6fe3cd7ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA3LCdpU0Z9ZFOOcl+dfmdjSTshFhI5JBwkGBQfGhdPOCpILyJvYV1wUElEIRsXEhAALyUiclpNjXFdoYJtfWFPHRIQVjUprWZMd0g6FxQTREE8aGZhe3p7eFpRZjMnHhMRAEAzMHRdUJR3Yp5/aUEvJxkQDm5CM4NKOWpBNyofHU1bYIqkroWLjItiUYdGNjUcGAA8MCx8ZFSbfGZ7YE4RCwpILSOMUT59SjlYNSweFBJHVluFpa+DjZCSZlKERjZBIh0ACAoLVUU7k3ReQzAnAAICUzImm1dDdUEzUjEqEwkHTG11eqm3fJOae11SajksXDQqAAQICBsYF1I9NBwSDgoKCDEfGZFTP3E9MiwZFjBMUWmvvW2ntnJqblQnIVQ0Kn5JOAAHCQkQDw8kGRYcEg8QDgshFhJpPTBYMCVFT1FluclkvtFtlaBiKSZCFxQsHRlhOi0ABQgIFBAOFxAOFg8NEQ4LHRMRYTcrWTEnVjs1VVdWdYSEcF5dQBANNSEcFxEPNCIcAB8VEiEUERsRDhMODBQPDB8UEXNBM4VMOm1BM3FBMZNPNX1LPDMcGh0RDhANDBAPDzP7cI5kPtGwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/10.png",
+    "width": 1920
+  }
+}

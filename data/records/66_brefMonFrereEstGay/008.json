@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Mon oncle a dit: S'il a envie de se prendre une bonne crampe.",
+    "end": 10,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=8s"
+  },
+  "thumbnail": {
+    "hash": "f030a2dd6f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAAAAQICAwUFBAYFBjAhHVA7MVA7MlA7MUAuJyIYFiMZFyMYFhcQDxsSERwSEB4SDwACAQQFBAcGBggaDw9QODBcRjxbRTtXQTgeFRQSDQ8NCw0nHh06Kyc4KyU3KSQuIB0ABQQHBwcJDwsNMhsYWz82Y0xCZExCUz42PyokTC8oIRUTGBISQTItQzQvQDEsNSgjAAYFCAgJChkPDzcbGFg9NGhQRWxTSFxFO3dTR3VHOUEhGi4dGV9MQ2tWS2pVS1xIPgAHBgkMCwwcDw80GRZmSz9+ZFSDaVqEa1yZc2GDVUdULCNONCxzYFZ2YlZuW1BdST8ABwcJFg4PJA8PQCQflXpnspeBwKOJs5qCkXJfjVxLSiUdMyIeUUM+cV5VcVxSYExBAA4ICSUTESoSD2xRQ9C1mt/FpsSrkVdJQRoUFFo8MzwdGT4uKh4aHRsYGzIqJ1pHPwAZCQcoEw4uGBKagGrnza24o41CODgdGBsTERM1JiNNLygxKSgWFRgeGh8QDxMmHhwAHQUFIQkHNB4XpYtzspyGWk9NKCQmKiQmHBocNSklOy0qIh8iGhgZFhMXEA0QCwkKfOBdO2/sKJ0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/04.png",
+    "width": 1920
+  }
+}

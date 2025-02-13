@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "En arrivant, mon copain était pas là.",
+    "end": 28,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=26s"
+  },
+  "thumbnail": {
+    "hash": "d9f24337a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZ0lEQVR4nC2PS2+cMBRGaeFe2/jBw9g4NlBggHllqIa2my666KKVmkpNonZVKf//Z0Qj5dNZnrP4Ii7yKXivNWNMSKGUEkIcG784QwE4IQyRAhB4WyQ4nxvvdMEYU0rpotSFXrvQ5pLF7wUAB6DxDUwAESOKeGjDzjuWpkoq7/zYz3+vxy0YliQKgSdIY6QxkJuPkWTUZnIOb0F357fz+nma1rH3leFJLAAkUhYDAhBComtf36m0kiJlqRBqbLttvx+a0dchE1IiKALkXZRxLoW8ffh16ebajK5GJHOof3/9dBqny3I2hWaUfrB2qN1lOr48/zvvpipT0Z+PbSjypQ25FGdXPK7D9/VyP58yqZqi6HTZ6Or5x9PL4/9tf5isjh62QSA2pspT3mXpt97+XJd1OUihBl0OxgRT70LXGhu08WUVPVx7jujKkiYJTeJTrb9M464drHGLq/vK2LzUMquyojE2WPcKDxAl3RCUFQcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/12.png",
+    "width": 1920
+  }
+}

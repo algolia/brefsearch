@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Pourquoi il ne l'avait pas prévenu que j'avais une copine ?",
+    "end": 38,
+    "index": 15,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=37s"
+  },
+  "thumbnail": {
+    "hash": "bef233dd03",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nCXQ626TUAAA4FNgDAYt11PgAIfDpeAYjBWDUFq70fWm1XXLFhOrRpf4y0T95zsYkz2zMSbfE3zgiKL/Yym6f8z1ADBNz1K0RB10kfPCMVxZevr99Pj+qyujgagAhqKoHsXRdJ89OmFZiur5JC1cPCfoQ10c6nEKtT/ff9293GLFUlUHgB4lMExrm0QeKIIAAAhJ+qasXo/wl2n1qSkLZHybbR7rLo/GhhECjmbOVWmfjhIDnrAsAAB76baabkL75/rqx2r+PAg9CIlpB36pDUfgDGpTZLzNkwwNRVGdVe26nlx4+Jqgz235qiojHDia5lm2ZRfCAIGZ7zQYXcUk9uIROW3SZw+Xk7EfrGOyq6fn2WRaXASmSSzbQDnPyyAzYYGGuecnUZEgC2tqm6f3u3dFNr+c7ZvmZr9Y5oHvWVjWQp4TAOqLhsjLErQUNTSNxLGNvngWnS66w6I7rFcfbzc3WUAwIpIWcCz/rxUAACF29SGBOtZ1R1V0UWzr5er6Ydndbbtd7NomRILksszxX9GoPOuW1UImAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/15.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Ma blague passait pas bien.",
+    "end": 41,
+    "index": 19,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=40s"
+  },
+  "thumbnail": {
+    "hash": "b90c67c0e5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdklEQVR4nCWRy27aUABEvTbg+377+sZ2agwGg0iIIlKpqlSpm+5aqUFAsA0YRLPost302ysn0mxndHTGQ7CHYZ8RoASxisehSqxOXZhGJrHaGWEkkwxRFCDQB8D3MOxzCo1kTos0Mlkc5anLEzdMXBZHty6MQxUprgWmuOt4jIBQ0tTqaf6hHGXlKJsX+cNscl8W8yIvR9k4S29j5xTVHBE08BRHVpIiS14v7anaH/cv6x/f27q6HJrd8896s27qarlahRxGigoaeIajSNFhEu3Wz+emPuy2bVVdT8fXc9vW1e9f139//3z7+sVKYiWRDHiSQStwnrrj/uV6Ol4OTb3dnJu6rff1dvP54+rT0+NquXCaGY44CTyKA81REoq7cryYju9nk7uyWExGy/l0Nh4mVkeKhwK/zxPU9xDoMRwojt7Y2I0Rie3MvvntEhthFZEMUjSAwPdA4MOgR9BAUKi7K5jT/MZ06TAElhQxAjAawMAHgf8fkQZDv3P51esAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/19.png",
+    "width": 1920
+  }
+}

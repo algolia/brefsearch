@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il avait un jean trop court et les pompes à scratch.",
+    "end": 69,
+    "index": 34,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=68s"
+  },
+  "thumbnail": {
+    "hash": "26db4f0d0a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nGPwCYsPjEoOi0+PTs1NyCpMyStNL6zIKCjPjo+tTIrOCvaVFBHXM7SMTysIjUkLjkhhCIlLjUnLTckrzSqpyquoK6xuzK9qrKlrWD6xY2ptaU1KvKaSmpqWUW5ZQ3JOeUxqIUNCZl5WcUVRdUNpfUtZQ2t5Q0tlS3djY9OE0qyKhKj04EB9VQ03W6eqpt7Cqrb0ghqGrOKK0rrm6pZOCKpr607KyAkNDi2NCfGwMI/z9Ylwcc5NSG6bOKu8viu3rImhoKqhqqWzvqO3vr2nrr2npXeSr2+gval5a2ZySXhgdUJkqJO9ga5xUGRifXtfaU0rQ0FNc2VbT133xPruifVdE9omzXRx95WUkHUzM/c3NfGxNPGztTLVU2dgYNfVt4iMS2PIKm8saeqo6eqv653YNGlqaXOnsKQiAzOvrYNZgLu1qoyss5WRhbU6N68wAwMXF5cwQ2r5hNz6aaXts2t65zVPW55fP0HbxJFfSMY51DSqyNXSUdvEVlVJS4aHR4yHV4xXQJIhsWRiasX0nPq5xe1LS7tWVvStrpmwNqNyWkJRbFate3i6rUe4qaKGLDuHML+ABA+/BAC1RZ87rWo5yAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/34.png",
+    "width": 1920
+  }
+}

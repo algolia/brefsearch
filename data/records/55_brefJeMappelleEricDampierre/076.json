@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Qui les demande ?",
+    "end": 77,
+    "index": 38,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=76s"
+  },
+  "thumbnail": {
+    "hash": "7cfd6076cf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBW2vTUAAA4CgOlKEIinVbu3b2stnUtkvT1CZNTq7npE1OTq6m6cV2Vdo69yITGe6tPoiiIIiIDz64JxER1B/gs4/+I7+POre2fn1zp8wIVU5udKCgE9WKAQoWT1fBeFmpNnnJaCuWoOOmCJm2Rl24dCWVKTK80ZItQSe6k/TCg270gIyPGoxQvFXmO4bcjUToc6BXb6vU+YuX03n6ruKIMBB0V8MJ8qdOf2Zgspst0Xs0MLEdL0gyN70xMEMqm6evprZF6EsokMwAeRMymqHDGT/EG5nNUmNXP/CihwucLHvhVOlGFCEjtq21ZBuYIc3KhSrfgqRsejUn2dH0NLZznosmnjOYm/5ENkNqvwnC0SPV7neDKSfbN3Lla1vFVGYvnaVzol4ZxDdVreZCPBxr1oDXCLUPMKe6kpUoZKx7E8O7D/2pgodSr6+4oy2grdWYAobIt0UYsR1EHa8+n7z+evL2+/N3P04//Hry8gxYfU512oYvoHuiY962QRUKebqSLlRT2yXq+Gh1+ursxcffb778+fTz3/tvf5vALjdAnYd13nT9cPb4MF4+s+M520F3WPAfg416GSmVZS8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/38.png",
+    "width": 1920
+  }
+}

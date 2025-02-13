@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Excuse-moi. C'était un jour de merde.",
+    "end": 2,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=1s"
+  },
+  "thumbnail": {
+    "hash": "3e7b846359",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABcVFhoXGB8cHSEeHyglJllKPnZfSpV+YVhhYzlJWkhOUFxfYJOLfXFrY4SFiYGChwARDxAWFBUZGBkeHB0iISInJSdJPziYf2JiaWk5S11GTVFfZGalnIqXkIZ2dnVfYF8AEQ8QFBITGRcYGhkaJyAgXEI+STg5WU5EYWdmOU5iQk9XXWJmqZ+MmpKEh4eIcnl+ABAODhAODxQSExUUFT0mIoZUR5xmV2RIPj9IUTlPYkJMVFVYWqSbjImEe5GXm6CqtgAPDQ4PDQ4QDhAdGBhdOzNvRzprRTpwSTs7Qko7UGI/SlBYXF6inJCKjIu1wcy3w9AAFxMTGBISLCAdQzEqbE1Bb0c9j1tLeEs7TU5QNU1iQ1JcSFVgiIB0lJmbqbO7rrrGADopIVQ7L2VHOnpaSWxMQFw3L3hJO2xMPGpoYTZPZTlSa0tWY4SBfJulq6eyvai1wgBgRDp6Wk6BYVSUdGR2WEpJKyE/KyRoVER5dGg4VXJOW2pzbWd+goOUnqacp7KdqbcAalNOcltWgm1oj4B+mpidZWVpSTMqX0c6Pj4/PE1jamNfYl9cb3Z6g4yWjJejkJyr05qW65rsMG4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/00.png",
+    "width": 1920
+  }
+}

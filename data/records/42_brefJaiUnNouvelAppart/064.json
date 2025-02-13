@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Ouais, ça va.",
+    "end": 74,
+    "index": 24,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=64s"
+  },
+  "thumbnail": {
+    "hash": "733eece8b2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGPIjfJszo+KsTPQZGY04+OOsTMLNdcNsdCuivetjPUsDHUsCHEsDHfNDnZK9LIOdTRmqMsMnd6YmeNlrcXA4Kmr3Z+fmWymFqghkexl1ZDiXxruXBbhXB3nVRnnXRjhFu9hztBXnriop7jM316biaE4xD8/xM9HTcJHXSrZw7I5NaAs3Lk8wqku3qs+CWRhnLMhw4zGjBUTy2tDXYw5mCfnpdRGByfbGoboyhYF2jel+JVHOJZHONbGeTQk+pSGO3kbKTHMbsleNbmyLc5Lm4GhzNetNMjLS1E8zlSlIcG7IdGjKsqxMsqhPt6tNs413cvEQFaEYW5r9ooJ5Z1JfhE6sq3xweFWRnbSgtHWmp2Zfs0pnrVxjrVxjk1JrqVhNoHmqjL8PAwzm7I2zqrbubjhwMra5R15btrKNsriaS5yRYFq1THWjYmuTYkubanuhYHmtmpSgpwcDIv6S9bMLJ7fEbe4N2lua0S+n1qOu2Shr2Smp0SGh3hxsHZrsmtbiluii56KKD83KxvDpKb4vAiTwkjD+gyHshiTHD/FDA+pLG+ZXF/ZLC+pfH/Z2jjrLG8TS2UJYS5ODmZWAM4JjY2u86VqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/24.png",
+    "width": 1920
+  }
+}

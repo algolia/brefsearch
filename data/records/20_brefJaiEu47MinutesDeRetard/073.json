@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Il culpabilise, il essaie de se suicider, qu'il se rafle,\nqu'il tue sa mère par erreur.",
+    "end": 75,
+    "index": 36,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=73s"
+  },
+  "thumbnail": {
+    "hash": "c93bab3aaa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADY4PxESF1M7NZ1uXU84NVU7OG1JQRYSEz5CR1xgZVZZXldQUU9QVUZKUEBESjxARgBBRk9HOjufc2SSbWORZFulcGRpS0UZFhcXHiQcHSIvPkkwfqdPX2xTVFtITVVAQ0kATlJbT1BWu4t92KOWz5qOqHVpglhQX0c/im9je15QHhwdAEJtMTpFREJGR09XR0tSAE1TWz1FTohkWrB4bbuMhZtmXJJbT8WPcvnNs+y3lYFcSBQPDzQsKyAfIhchKTpBSAA1PkkVHigwJSKpenGUXl5fPz05JyKmeGHTo4a4jXq0hWxoS0I3Li8rJiciJSsYHiUAISkzCxEXGBUXj21ojWNcOCorGRQTrH5rzJZ41aKFzpd9iVtKLSYnGhkcVUA8kWpeAAgOEgUGCgEEB1ZITYpmYldAPxAOEah2XsGHc7iCc7l+Zk81MCgjJDMrK0g0MYpjWQADAwUDAwMCAwQKExwnKC4ZGh8EBgk4IR+cbWC+i32KZVZAMC0YFxksJCY1JyVlRkAAAgICAwMDBAQGCQ4UBxAXBg8WFhQVRSMnFQgNPjItTDo2KyEgCwsNExASHRcXTDU1zWh71lfuBLEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/36.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "C'est vous, bordel !",
+    "end": 64,
+    "index": 35,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=63s"
+  },
+  "thumbnail": {
+    "hash": "71d977256b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHw5UI8+WKJNY7xtd8qIiMaKi86WldGYls6TkdCQj8l4f7tgca9SZqlLY6BDXZY8VgCGRl2dV22mVGvIhIvWnJvbpaLVpaTPoKPRpKTHlJfDiY/EeIK2Z3a4cH6/gYy9f4oAeDhTkkhjsWN50Jab26io3ayp4rKuu42WzKCj0ZydyZqe3LS01q2u0aWkz6CgzZudAH46WJBFZK9mfMaGkdKaoNmjpdynptGanNOYmt2sreXHwuTHxN+8utKfocaGjMKBiACBPVyWT26rZn63dIbBf4/Ki5fMi5bRkpnZqKrixcHixcDgu7jaqarMjJTAd4O8cH0AczlYiklpnlx5qGZ+snCGvHqNwHyNy5Ca4MHA5MfE4L26262t0pWayX6KwW5+umV2AHE7XH5EZYtNbZZVcqdlfqxrgq5tgsaVnuPGxOG9vduusNCWnMuDjsZygcBmeLpdcABwO151QGR5QmV+RGWMTWyOTWuYWHLHmqHfurjWp6rLjpTFfIfEb3/AaHu8YXS5W20AZjRUazhZbjtcczxedjxdczpZi09pzJud0Z6exYeMu215vGR0vF5wuFlutVVpsE9jvBz5ZJ+zAxMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/35.png",
+    "width": 1920
+  }
+}

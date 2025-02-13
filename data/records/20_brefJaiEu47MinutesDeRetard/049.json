@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Il n'a pas trouvé de portable, il m'a dit au revoir.",
+    "end": 51,
+    "index": 24,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=49s"
+  },
+  "thumbnail": {
+    "hash": "62e36dc18c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACIzOSAyMCE1KUBHOm5LK0cxGlxBM5tmUKhwWq14Y7eDcK54ZIpfTR4VEDY5O3V+igAZIxcQHhEeMSYvQDthSi9hQiQ2KiJZPTGgaFGVYk9pTEFqUEaYa1lGMidlVFKsrMAADhgMDxsOHysiLTQ1XkcraUkpVEAyQzIpjF5KilpFRjYwcldLrX5nb00+n3hxsLLGAA8bDA4dDR8tIzU+QFM7MWxLLI1hSYpZQah0YcGDaLJ8ZsaSe8STeYZbSKGUmr3F2wAPGw0JFwg1QzlUXlxTOy5qSyyGXEeOXEmxe3C8f2zDhm3Hi3KzfmZuTj9dXWLKzuYAFyIWChgINkU7W2JeV0Mpa0wsaU05UTouWkE4il9QtnxlwYdrondhFg8INjg8zM7lABIcEAsYCS48MkteWkk8ImlPNVlLQEEsI1g0LmVBOH5cSqZ6YnlfTzgtKl9haMDD2AANFQkLFAcSIBMySEJwb3KjordiWltONCZoQDmPXE6DXktcSTx1W065mou3ssWkp74ADBMJEhkQTlZdnaC7qanFnZ63Z11eNygdTTswaE5BRDYuOC4ojWxcqIl4sqzBsK7Kvz+WRfknmLwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/24.png",
+    "width": 1920
+  }
+}

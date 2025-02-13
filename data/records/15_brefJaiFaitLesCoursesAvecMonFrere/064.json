@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Elle a dit: Ça va, tu perds pas de temps. J'ai paniqué.",
+    "end": 66,
+    "index": 34,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=64s"
+  },
+  "thumbnail": {
+    "hash": "bc2cd6a4c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB4WFiAZGiAXFx8XFzowLXZyc7+4usiklHRZUSUbHSIYGScfJ5iNlK6YjJGChXFxfAAhGRkgGRkwIB8+KCUqHh09NTODcWeZb2FEMS8bFBgdFBgLBQlpXVm3m46mmqCNjJgAGBEUFhASMR8eZz84UTYvbmJdkXRtiGBWWT85RC4tRi0rEAoOiHt6t52No5Sdr6jCABELDgwGCScZGWQ7M3pbV8S8x6qFe5VnVF9AOXBLRmI+OSojK6eboLOZhJKEf5OLmAALBggUCw1FKyhfNy56YmS2ts+AcnBbOjBGLipCKyhfPzpONzJMR0NlSESZi5WKjHkAHhITWzkzXjw1RywmZFlYRUFJMSowLB8dJBgVMB8dVzw3Qy8oMislGRQbIx8qaVxZADMgHWdAN1k4L1M0LTosLxMOExQOFCAbFSkjFygcGjEkICIcFx4XFREKERcRGR8XHwBBKidZNy9QLiZbODIoGx0QCxARChE6NSs4Mx4lHhUnIhgtJxwfGRcNBw8WEBUSDBIANCEeQychSy4kb2FXFhEVDQgNFA8TVlVKZmJYPDUnMy0eMSsfGxYXDwkREgwSEAoQMzdtFrFDCQsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/34.png",
+    "width": 1920
+  }
+}

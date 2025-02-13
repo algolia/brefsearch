@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Ils se cachaient pour fumer des haches.",
+    "end": 57,
+    "index": 27,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=56s"
+  },
+  "thumbnail": {
+    "hash": "447564374d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nB3PzW6TAAAAYN7Kg09h4sGjF5fMGE0P8+Ay45plw8TWqQFd1007oT+2XWHQUkLLTxXsCg4oFVoG0kJLC0vronsAE783+IDKxxSOQvTpJ1kgWkTh7e6Lvc2n2X0Qzx/l4HSXIzSJ7nIYg3+uoXAxmwJ2NxN4ITNQ2MDRTfV787SIZiAkA5dz2Ry0T2OlcGyNbc2QWaFZwvLvAXBro1E5mftmNHUXgXNWQixdufkd/11Fo/6Pdr029YbxzPPdvtFrsSQKfHiV5KlqHDoL3wnHl5am+O5wcmlqPenm+kpkacfSlosgClzPUs55HDh8vSPQtT/LySr2w4k9Gly4Q302tqfeaBkFAk1YurKKZ9HUmzjGhdQEjt+BXKOsdlmJp+a+baqS7xhWXzY1+foq/MrUHVNbRkE0dX8N1Z5AADtP1sDEw8d372yvP0DSYAVKF7IQQ1bdoTr37b4s/r/ZvqMPZJar54F7t29trd9/ufHoML3HU9Uu32CIL7LI/FRFia13mLOZZ3jWuSZRXB3BUAh4nljLvkmSRRhMPmu3ap0O2RFIVW6127j4jSLJUu7koI0dUeWD8nEKgbf/AS2gPQZ7rydZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/27.png",
+    "width": 1920
+  }
+}

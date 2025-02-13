@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "C'était C'est pas vrai, mais 1 à 0 pour moi.",
+    "end": 61,
+    "index": 25,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=59s"
+  },
+  "thumbnail": {
+    "hash": "a5d329fd2b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFdNTGNYVWxhW0A1MRYRDh0YFTguKDMpIxURETQqH3ZeTU06NjwxL5SKgnFlX19STABlW1l3bGiBdW9JPjoGBAMSEA0vJiIfGhcPDQ0YFhZpTkJxRjpGKSSblZJ/dHFQREAAc2loiH56joN+VUtHPDg1RT89MSknFBEPEQ8PFBISRzg0XzkuaWBkpbnCdmxqWk9OAIF3dJWMiIuEf1dNSoV9fpuVliwlJA0KCRIQDxAQEjQtLDUkJHqTpJy/1mhteVNJSwCHf3yak46IgX5LPDuEe3yqpKKCenRBQDsLCgwaGyMgGhw/O0aKprtvg6BgaXw7NDUAhX96lo+KiIN/bGVhhHt1fm9tjIJ9KSckCggKExEUEw4NVGBxg6C7ZXOQVl1tJB8iAHpzb4aAe4F6dnBkYV9RT1tOTi0lJBQSER4YGB0TEy0rMGR1iG15jlxpgkZKVxsXGABoYV9hV1VRQ0JEODZIQD5XUlFQTEp9fHVyeHhjW1tZTlJ0WFVRNDNRXnQzMzwNCQkATUZENy4rNywqUUhHbmVph32AoJqXnY+HgG5rbl9cYT42UjcyR01eTVdqHRoeBwUFoF6I3ZaV8z8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/25.png",
+    "width": 1920
+  }
+}

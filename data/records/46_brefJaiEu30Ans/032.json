@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "En hiver, je prends des vitamines.",
+    "end": 33,
+    "index": 12,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=32s"
+  },
+  "thumbnail": {
+    "hash": "4c01bc0e3a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBW0/aUAAA4P60bQ+LZstehvHF7N1kZlvIXBYzp4sPuk23aSbCRIbYIJQq0BWKckoPPaw9hZbDpchF2lqEFOeP2PdRoejpeoDdPOK2Ty53EzCQqYb4eoivhwvmr3wzkKn+SMCdWOHLUWYjkIycJKivEW52AzzfxnN7ZH6/OfMhM/ORe+iPPXgTfeSnn6wL8wedFz+riwd/fZ/S+8dn1O/z0qswfkdrK+z1anq0fEzeRhvLsdbroOyPau+T3dX07Ro7WDtt+YOlBFekFKybTdDTv49s7HnudOp6Xm/qde/uJ1bjymqR6Z09HjuOVe90+6qKqapu9sjhAC04xpKlztrYZ1WeDhVfFyxF5hYyK4tu/fGN8bIPn/VMVNMJhTXSbwvXtS27EXQaew75Nmwm3MGF2wheft4tRcOTYez26tCu75hExppOFQoC9ycnyzXDMFXcrOrmePKvP7BFqEoICRdFsaSKJeXsPKcbBEKJYlmWYZKCkBNFoGGl02mPRjem2YZQAqAIQBHJZYTK+TwvSRLP81Q8HqdpmmGYVCpVLpcNwyCEaJpWqVQghKIoKoqCEAIAZLNZhmH+A8RrMo2TizWeAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/12.png",
+    "width": 1920
+  }
+}

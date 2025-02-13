@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Ça m'a fait flipper.",
+    "end": 22,
+    "index": 7,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=21s"
+  },
+  "thumbnail": {
+    "hash": "a36a476464",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXB/VOaYAAAYO7WWoXdGdSaZzrTEBjICwrI5ysgiGaYioRzVzcDTbf0Nm/+2u1u//ieByEvcTaHrV1xG7hzz3tqe35dChVpNRr92+7e1j/3L7/2q902niy7yjcIkOvzLPExm0Ahsc0YQshJY0WZ23Zs6D+i6X75e/P0mkbpou+tfDVUAXKeyWDocQnHNILQKUaogrEGPdCwacZriBM/DiQrvQt2D73Eb3XlJpJFUfTw6MPB+wKWlW+uDZrUKFoofTYopk5Uu6q76PffXtI/8e3Mhm0eIJmjk8N3B8UzVLjC6RxGf8ImTXaq1zs8EzTlvmq+RsO/68WzK4emeS/VkAv0mL3Ey9gZfnqaOUE1srINeo+O1xbqqec8Qj3xnc1kMHfUQARfdQ4ZkmDDVlO60KmUChhGFYoPlj80u76khZp5yyv3EhypSqQKUw3M2g5iVbhxWUiI4oaTlkBp5S+kKmNwUoMEgeL0ZGjUxA4PYgU8++0B9BGZ/GLR4qAsz0q5hCLWNT6qXIk3rMnwQwW2eJXO5+946rtrhdAyao3/XKJj5FUu5nMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/07.png",
+    "width": 1920
+  }
+}

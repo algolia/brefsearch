@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Mais je trouvais que ça faisait: J'ai déjà mangé.",
+    "end": 87,
+    "index": 41,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=84s"
+  },
+  "thumbnail": {
+    "hash": "cd5245928f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaklEQVR4nEWRy46iQABF+f+P0OhM2pgYFkUtFKULBaTT9CQ+Gns6MfZEoxSFziAFFK8qJsiiz+LmLu7qXKnb6U1VzX3/8HEQ3eM0YYxljGXZI5M4je4Ue2Tn/p5Nn7udnmSZdkBunIuyKKuqqngTQgjeUNV1zTkXQhRF6V18y3yRvIvvOG+2bZ9OJ8dx1uu167qmab6+OpvNdj6fb7dbwzC+/nwJUXsXX0ri1DCMfr+/XC4BABBCRVEmk8loNJJleTweI4SGw+F+v6/rOqaJlKZssVhomgYh1HXdsqx29KxpAABd1xFCqqoCAFarFaWxlGeF/WIrijIYDCCECCFZlp9+/lDtX/j693YNCCFhGJ7P5zAM04RJ2CNRRG+3q+/j4/EYBAHG+HA4/IsoF6Kx8EA0nWOPNJaIf63Kxkwrpy1VVRbflIxl3oVYpi11O73ZVNu5n48fKEuzljzP86xgLKM08XHwsftsf/gP64x0chSWZzUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/41.png",
+    "width": 1920
+  }
+}

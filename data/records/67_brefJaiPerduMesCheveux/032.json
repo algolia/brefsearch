@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "J'étais obligé de le reconnaître. Je suis pas à mes cheveux.",
+    "end": 33,
+    "index": 11,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=32s"
+  },
+  "thumbnail": {
+    "hash": "d8b5f4e94f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nBXL7VPScAAA4J0MNjY39vZjG3sHZUFAoC2VAM+U8XIIKZ43DIEjiLha7IYdh3pdWWd39a2/uPP5/kAoHCRR1JSi5Uxi7d+ul3fedPChP7T3itZ2/KpZ/b1yH/zZeaMyG3WbxwdQAIKxEKpy1JuC+Xj/8+/jv0G3fTP1/nzx/LNa3XqxdiffFvNtxcgYcuVVFgpuhHAEYwgipQgr9+v321+T3sViNJ932mP7sGkV7t/3V5ORKuoJHlRepiEERnEE5wiymMuu/TvXvVk43YfPy+W763Hj5GPjyMtnnVRaATGB5ZOq/BRCwbDEMPVy+aRUcYql5e7ej+HUc/qfTu1xyWoB9lwWTp8lWSrKRjgIDqDwBqqxrM5HC4BfpDJjI9HJ7VxX7bP9HUuR64BtC2Bm6iYfwzaZp0AHw0maIsL48Hl+nkpf6VqaBknD1EXZZECNBzZgBnrsQJYDCAmhAUQjSJmm4xTwc4WOKHYU+bWxRdIijlFlbashxqoccynxNVVC0AjEE5t5RZQZupcwh0b8mGMPGbq1u99+66iqmeelliD2NP1SEi80MYKR/wGF51gGaffWKgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/11.png",
+    "width": 1920
+  }
+}

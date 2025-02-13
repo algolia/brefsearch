@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il a dit: Si.",
+    "end": 71,
+    "index": 37,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=69s"
+  },
+  "thumbnail": {
+    "hash": "2d5b8d7757",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AK2r3Id9yXFku4uCycnH6W5lby8hHTUrKUQ7N0g+NEs4LiASEBsPDCcXETIfFisYEgC2k6mTg8heUL50ZcmKhLdaQT2PZ1p4WlYsIyR8dm9mVEkuHBkpFxIpFg8hEAseDwoAlWRcoIuhpqbS19jpu7zOSjQzi2Vcjm5pTzw9Z2BualhSOSYgJhURFQkGEQYFDwUFAI+Kj19ZdUg+Z4F5guHl8HdhXn5YTqqEfnNbUmpjVY6CeUMsJRUGBRAGBRIHBQ8FBQB5cXJfWXltW3isl5Xe5/huYGxXODd1WFR0aWyhmq6fmatsWFkuFBMZCwoTCAYRBwUAdW9vU0tpcGqTm4KWpHV4WEVdPiwrZE5MYU5UKyEjX1dWYVZTRi0oLhcWHA4LFAkGAJiOlF9YdXBqk3ZleigJECYaIVI4Nn9eXTkrNBUQHjApMUY+NlBAMz0nIDEaGCISEACBdG54aIhfVnYmICgLDhswISh3T01oSEoVER4dGCYeGSkqISdcT0llUkw5IBgwGhQAZl1Xo5u1Z1VoGhATCgkUPDJGa1NhNis5DwwZGxYkGRYlIRoeUkdPj4Wff3KFSDQzvX2H/f+vhLcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/37.png",
+    "width": 1920
+  }
+}

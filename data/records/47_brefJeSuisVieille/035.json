@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Par contre, je sais plus si j'ai mis du parfum.",
+    "end": 37,
+    "index": 10,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=35s"
+  },
+  "thumbnail": {
+    "hash": "d0a4502ad7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nCXOa2+aUACAYbIB54A4deq8FRONdfaCN8QDKIwiiDCl1rE662zVttHaLk1tu8x+2O3L/vbS7Qc8eV/MNVTPOvjkmPOj9wNVOnOMk9a71ehQKnNBf0gSVFSRM1vpoM8XoGlIAqxrGBNHm3T0fqN+6pibq+lmeXY/O5bLez7IoIrcqMlsLBagaT+kAQGwjtlfDrvfFpMTU7sde0/Xs593i1/rhauJ+Auwk9tt8mI6HmMgRREUiUOsg9SLI+v3w9VmMf06G31fTR/Ox4+Xn6f9doBhCtm3YllIRqI0SQOSInCA2buFsd78cXf552n9OB/fe+0vPeWmp9x6po6q/H4JFauxUASSNElAkoCYK6COIK/nw9OudSiLx0ptpnJrtzlCBbNWEXlJLtWir4IEDkgCPhcMXrKRfNNTbC6PMllb4Ftc/mCbbeSze7lyXXDEaiObSP3/eQZe2/6oa0sLXdviUJNXo8H5B3ufTSQiyVRyh93iSlxLQlbIH8ZfEv+A4w7Mdj2TtMu5C1tS+OLrQBASFARMOJyKRzNsmi8W9TfhOMABicO/wahaJU28apYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/10.png",
+    "width": 1920
+  }
+}

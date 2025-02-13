@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Je t'ai pas raconté mon week-end.",
+    "end": 52,
+    "index": 25,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=50s"
+  },
+  "thumbnail": {
+    "hash": "193bc0f380",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABESIB0fMBscLh8hMTA1U1JUbG1ma1NOVmNbYXhrdm5haoV/iZOKjn93e354f3ZvegARER4TEiEYGCcgIjMsMU5JTmlKRUsmJixNTVF4ZGZ4VEt8dH+LhY6Xj5eOh46NhJEAExMhGBgoGh0tICM2Jyg8MDVHT0lKPTAtUUpOgG5xb1hXkpqrnZionpWmn5Wmp5ywABgYJxgZKBYaKiQkORkYIh0hLF1UWVQ4N1VKQnp1e05RYXqPpJihspiPopiOoZSKnwAYGCgTFiYbHS8eHS8fHSIwMzozMjsyOUlWUVVpZGk3MD1EVW1xfouTgoCVjZSTiJEAERQjGRwsGxoqGBYoODZAnpWafICIa3SDh217cXGAcGdxdX2OnJaZxrq7pqCrnZWeABYYJxgWJhcVIxoYKTAwP2RgZ4J+gXuBhZKIjp2UnJuWmZuVkrausc3Gy6ykq4+MmgAUEyEXFSQXFSUbGiocHCwNERYMDxIiGRM1JiQiICErJCEiHh0qJymQjJSFf4SIeHUAFxclGBgnFxUiHBorIyMzHB8iDhQWERMWDwoNFRUVMzAzFhYaDQkJWFljbF5Ygl9FUVKJjVRtzv4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/25.png",
+    "width": 1920
+  }
+}

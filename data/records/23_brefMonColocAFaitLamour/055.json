@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "On est allé à la pharmacie. Bonjour.",
+    "end": 59,
+    "index": 27,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=55s"
+  },
+  "thumbnail": {
+    "hash": "8acaeb9753",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AConLWxnaIF/fpKPjYaAfmdjY0U8PYqFiaeorZGUl3JyenJmaca9wtHM04yGiVBOVQAWGBdCQkpxbmxnYF2Nh4NrZ2U3Li2AfYKkqLCKkJyJjJnPytTi3OPa1NvIwslxbXYABQQJLi4yVlBOVjY2hHdyaWNgKyAddHJ2k5ihe4ORhoqZy8TN5N3j4dzizcvRdnJ9AAgHDRQUFk1CR14/Qz0vMko3Ly4ZEGtpboGGk2pxhHh+ksjDzeHc4tvZ4by2u2JbZQARDQ0KBwocEB8wISo4KS8xIR02IxtfVE97d3p4eYRvbXyXfX7Ku73b2uKbjItFNjEAKCAdCwgNJBYhSzY2Oi4zPzIzXE1BbFZFY09Ag3hyhX2Jh2Jey7m429ngeWtoTEI8AB8aFxMTHR4dMTUpMz8xM1tGP39oVWtVQk44JmpTQHxsb5NwatDCwtXU22phYVVMSgAJBwQWGyc0QloYIDB5cGyLdGBzXUttV0NZRDNkTz9sV1abfnrd2t/LytFoYGJTSUYACQgHGB0pKTNFHhsZi31ymop5eWNRZE48YEs7YU9CVkA+mY2RpK22gISMW1ZbUEpIBf6wftIkBcgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/27.png",
+    "width": 1920
+  }
+}

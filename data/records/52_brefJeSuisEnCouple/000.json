@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Viens, on va draguer des filles.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=0s"
+  },
+  "thumbnail": {
+    "hash": "22d98cac02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaklEQVR4nB3Oy26cMABAUdR2ePsBxsbYxvgBDAZKk04m1SSp1G6qLLrtuv//F9VUuuurExUlKUGTZjjL8SlBkgmrjFXaq/5htAPnb8f6/nw4JRfvHsMSFSUBkJaggZDmZWOkvXr/93WdtH10VlD+ZQk/ni/bdjxdvv56vUYQMVzx/7UQczUE3po/L8vv2zFLLSmDuDMu3G5vZtyEXaL7GzGIWQlpXhCp5opa3+vvT7u1/rqdV+N4q0GtQCWbzt1JJWgAaKqKFSVpO09bp5U9wqh7Ncj+Z5iCX4TZMZE5YFGWk6IgdcURomlWoUrCWk3j8nCcWaesti/nsE5hPW+fw27NFGV5jRDLiypOUJzgOK1TIIzf3bzW3Kjez2b2Zr6s67c9rM5HEN8lSYo+ncAphjlocyT5sAm9EDoQZpkYWedEP46DmwYTJSmKExgn8MPHIk5wDtpT1uDWMTF2wtR0aFpL2qGiuqY9acQ/vx4tk38fRGwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/00.png",
+    "width": 1920
+  }
+}

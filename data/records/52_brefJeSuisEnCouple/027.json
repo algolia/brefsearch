@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "On se voit le soir parce que la journée, mon patron essaie de le tuer.",
+    "end": 30,
+    "index": 13,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=27s"
+  },
+  "thumbnail": {
+    "hash": "63b7af5cec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nAXBzW/SUAAA8BfpHq99bd/3R78obaGllMHcwI2hEzZd2GGZifFAFqMXs8R48eBJ467+2f5+4O6knaZ6l+vrIvpSyd8L87xrf25PbzO+6y5+ffx8WLXfLme1ZKgHzyIFJlYvqzQTAjroOqL/zqLnd/PHk8k+YvNsXOfTbaG/r2ebJLrg5LXlIKZ0WQ1KE7lH/Y2hf+fmx6ZdJJENgo1mGYLL2Lwt8v0w/1roJcVgXeUP510mDXH9nLGriD8elzXnaSiexs3WWozQ3Kr3efI0UvtMgSFlXWxTQhVhCodjEtyX9pUSh7r5MztdSQl6cJWlV4Povh7djCrgI6J8WlNZUK5wuGB0Jrj28LkWx0zclZND07TWfJqWH5rxy7gAxCMEi9SXHTMFiztu1jZhCEPH8yBSgX4Txz5yR4xcJknGCxB6DLuceqoK1YCkluQJyUJEoOMShPtHsPcCDiQTgZ8LSX0LqC9Rn3lIGqwamnK/UMGIehY6HnJcF7pOD6qQDLVVgbFU/Qf8iDSM9NN8GgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/13.png",
+    "width": 1920
+  }
+}

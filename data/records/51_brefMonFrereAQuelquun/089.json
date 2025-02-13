@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Salut mon homme, salut.",
+    "end": 95,
+    "index": 40,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=89s"
+  },
+  "thumbnail": {
+    "hash": "3b34b5843c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA0GCRsREjgpJj8vLUsxKm9FOFw6MF5COpRmUls8LwACBA4LDScfHiohHzEpJjw2MwAQBwoVDA5wWVFINzQjExKPXkxSMShGMCuMX0yRY04TDg8nGRguJSQbGRs5NTQjJCgAEwoMDAQHcl5XgmNYZUQ8zpJ4r3hgl2RRx41xr3hfTS8oYzoyNS8uJiQmMS8wFBgfABIJDAUAAUg4NIJdU3lSSsqPeK5xWKNqVr2BaZZnUoJSQ3RTSikpLScjJzc0NygmKwAYDhAaExY6Ly5vTURWODJgPjaEVESWYU2lcFl2UkJSOTI6NTcbGyBEP0FUTlBKQ0UAZVhZfXZ7hX6DXEU+SC0qTCspZz83eFBAhV1LVjsyKyMlFxgdMy80W1VZUk9RSUZHADcpLj8xOEoyMk83MVY8N1UzL4tZSmhFOTwqJVk+NjMqLSAdIUE9QUxITEE+Qj47PwAWDA4RCQwuFxRePzY9LStAKiRWOzEvIB07KSN5U0Y6LjEfHSEkISQoJikpJiovLDAAEAoMEQsNJxUUTzIqRzIsGxITFg4PKxsZXD40cko9QCYrLx8lGxYYHBkdGhcbIh8jxOtl8cpn81wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/40.png",
+    "width": 1920
+  }
+}

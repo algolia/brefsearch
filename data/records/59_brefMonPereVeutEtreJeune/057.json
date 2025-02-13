@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Ça m'a énervé. Je l'ai attendu.",
+    "end": 59,
+    "index": 30,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=57s"
+  },
+  "thumbnail": {
+    "hash": "d87a8e3479",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACs7ajNCczREdTZJckBRfDxPgj5PgDNDdy9AdS4/cy0+ci0/cys9cS4/cS4+cCs7bABqdZNteJdve5pueo92gZ93hKVxfZ9tepxuep54hKd4hKh3g6NveJZsdZJpco1rdZIAyMvKz9LR0tbVvr/A19rZ1djVy8zE0dLJz9DH09PK2drR09PLrqGNrJyGrJqAvrmuALzAxcTKz7vBxlNVWUdKUKunnZaBZKSYf7y0mLmxlcC3mMO+r6SQd5qJcJKFc7CspwDAxMjIztK8wcVJQkZBPUGnopuHc2Cjl4bGwa29t6XKxK7KyL63pYuTmJl6kamztLMAv8PHxMrOx87SsrW4vb3A0NPZyc7Sz9PW0tba1tzf19zfwsvTi56vnKCanJV6srWuALu/w8LGyr/Eynx6fYV/esPEx7m7wbq8wLi6vrm9w7m3uLK1vHSMoKOhipuYga+yrwC1uLy8wca1tbhoTUlxWliopaelp62jpKilp6unqa2lpqmwtLmeqLGfo56HjpKfo6YArbG1tLm9ra2wXD86XEA8pqSnsrjEu8DHvMHHvcLJv8XMtrrAd3l+UVVcS01VfH+DIWYFX7Y4wtQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/30.png",
+    "width": 1920
+  }
+}

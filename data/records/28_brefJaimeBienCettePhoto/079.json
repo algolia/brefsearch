@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Quand elle dit que ce mec intéressant est avec Mistache, Mistache, c'est Marlark.",
+    "end": 82,
+    "index": 30,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=79s"
+  },
+  "thumbnail": {
+    "hash": "4c24e1524e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADQhF2lJMbOEZNunhdyjhsyPdrF8ZJpuW0YwK1tJRpOHj4x/iYp7f4BwdHlrc2dcZQAnGRRgQi3Ajm3aoH6/iW+MYVGecF1/W09JMzBHNDGOfoGNf4WIen+Bc3mBc3l9b3UAFg4OXj8rzJJqzZVykmlYPSYhsIFnpXhlQCwqMyIefGtpkIKFiHp9hHd4gXN3h3d8ACYWE3hRN9SVatCTbL2EZp9rVM6Udeuth695ZWxLQnBdV5mJiJOEhJKCgox+f4l8gQArFhCNXzzMi2LUkWzyr4zHiG+sdV7QlnmYaVxhQkBvWlSbiIWgkI6hjoqki4OId3cAXjomrHdNv4NZzI1kzpBuiV1NrXpop2xdYz48NCIjKh0bemZhm4mEdmdfVUhBSj47AGZCK5ZnQ7qAVcGFW6VvTW1GO59tXrmKd4NfWiwdHhcMDEc2L2VXTDMqIRgTDxoUEgAjEg5ePiOmckivd1Clb0yicVLPmHy9gnKJVE8mGhoZEA82Jx82LSMlHRgbFBEUDw0AHBAOUDIciF42kWI+pG9Lt4Baz5lwx45tpG9VQi4nDggJIBMRIxkUIBgTFA8NDwwLbdiqLDeN4pQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/30.png",
+    "width": 1920
+  }
+}

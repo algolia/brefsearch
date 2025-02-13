@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai raccroché et je ne savais toujours pas quel film on allait voir.",
+    "end": 106,
+    "index": 59,
+    "start": 103,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=103s"
+  },
+  "thumbnail": {
+    "hash": "aea18f25b0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXB23eScAAAYGbrTFDud+GHNzCuikyTDY8KSizRlk6Wbg8u7bTtnO3FOtWp9dYf3vdBt3FzHdnLvvne07bp4FPQCpH8ztN3g85MFu7f+Yks+wWCP4Jjo7oee9DDh9N92vk66350a9s0/D4f3nX1b2n/xzxenTq/1smlWhuTXOU1tvGd+8UAesr6v7fx4yqc9tubZPhnv3jZps/R20MyOizjf4/ZUtcmlGAW6KfEP9wkUDoO7q5m80kS+md+q+O1mjwnjtTaxDLUqjodBZmtT0ihiXF/s+hlfwltpuPFeW/ouH3TtCr1tqoKXEkVJR1UipRI8sAB5SYr6ox44VpR24ZsrREYb+au5ZbLA1N7Ds9W5z0cZxlGQimBFhSZB4AuAUZiiwwB4xCUQ9Ai3RBBVQSRria2LotKQ7MpTkJJgeKBxIOWDK67plGSWYyGcjkYyWNIHidwVqb54zxOcUq33SMooUBwOFNiaXEXWD8v3C+Bc6MpUO7o5PgVDJ8UCYxCCrShVOpKFcVZFOcwkic4uafWHzrarVfNWpXPNek/+5NPBAwDfMUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/59.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "J'aurais jamais cru que c'était le frère, le tueur.",
+    "end": 23,
+    "index": 7,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=21s"
+  },
+  "thumbnail": {
+    "hash": "3ac79b69ed",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nB3Ly1LTUBgA4D/nnpyTkxsnaS6maUpLm5QAEm6CtJZqZ3BgHJjRlbhgw96FL+DSGRe+sKP77wOCMAKIHCWYsCwLLFQE3shEr6Iw0SpQasfzfv3+c393bwOEtgOzdFDFSSxVJKUvBEZoHIeFpx1GOaOcMuPpl+fnm7MTgSxOCJxPRuvDbtckfTGYDZJJlhfKvm3GXRpjC6Xa6YdJk0b7ZRa7tmIEPIH7bplnzcP12/Nm0ZRVocRpmVyOyn5YrJt6c7A3TY1R/7RkFDiGtDhOktnL1291llOA/cn0y2bTlcXHw+bNpDwb55HNXIYVIw4lwDBIuROb8dPj58LEBND7y+XP7z/Wp1fzfLhq99o0DATVnDgUC4JAEMwwcYXquyPjB4rztq4ft7fzuq3z2eZgMY91wIkvmGbUJhg4oQQRhzEpvcD1tW2v+pOnu09H8/64ueqnbaVZpngoWMCpSzGw/8GmPPIjX7omiB7e3Wwvrj8stxevV4tqWmm2a9yB5L4gAqO/lyQumNiaQTcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/07.png",
+    "width": 1920
+  }
+}

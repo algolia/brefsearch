@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "name": "J'ai traîné sur internet.",
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU"
+  },
+  "line": {
+    "content": "J'ai rechecké Facebook. Rien.",
+    "end": 23,
+    "index": 11,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=22s"
+  },
+  "thumbnail": {
+    "hash": "eabb08a494",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAT1JREFUeJw1j9FuGjEQRS212OMZj2fGXjC7YcNmIUR9KAWhVomiVH3I/39TBKjn+Z6re11KhEQQow8hAOScU0pIhIgQIyAuILS22k/bGCMSOYgAMSLibtoO68aciDBzulNMzfRxMxzmSVVExF27ASLi9DhasX7orRSr1UohZs6ZmLPqj8NzMU05uwiAiCKSM5vq6Xj8c7lczqf319enpykARCIt1q/XhHg6/nQL77fj+LLfiwhnvpxPh+f9uNns5rm1Fm431GyeJub0+/zLhdvXxNy3xsx1uRTVxJyYkSjcBmeV3TSJ5FLUEVFKaXzou1pERFUAwHsP/1mEIKovu9kDELPLmbta16tVMcvMXTUivAshhBjjVTD7/PsxtGvGLZfdN+8j0QJg8zBUs1sy3AUA+O69mv17f+u6qrV8AXpiHY8BLtEWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/11.png",
+    "width": 1920
+  }
+}

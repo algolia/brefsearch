@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Ou encore: Tu respires de l'oxygène et tu recraches du dioxyde de carbone.",
+    "end": 67,
+    "index": 26,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=64s"
+  },
+  "thumbnail": {
+    "hash": "9ddf0fb890",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nAXBW2+aUAAAYJJWkIsIK3JAQRDwzrRohXnsQVEraXSt0dG1dtXuYi9rsq2Z2YNJt70te93Lsn+778NOG8bxc33iWCM7hwypm1cGZtpN0oMkGYJkUxVTBJ6PE+md3RzLLIMmdu6aC1h+g+x5q3hsa92c/NCuRjVzCe1zrzI0QE8HmRiu7OyaycT7YQu7hMXILVz5tStUO7SUsJi9a5U+dRs3odctaQ3AI0WAsmARREXgHk99bLua9quFdl5r6pmzAN6OYE/mbnvun8f1UaOm0wTKgpNiVqdIJUF3ihqGyka/aqYIwlHlf5ub76toXDE20/Dvt4df90tHVQ90zdeBwjIJHGfjcUyi4gjwUQ7co/plx3lanT1dX/x4u9jMwp8nvleuA14ITdniWZ6i0jyHvVTFr5a0aRXW7YrBkHPoRAEawxcfAvf3q8G+qvAkmWUZkabEJCvxHPZOFT+a8tTMLFql1wf2RQBnyFuP/O3E387CYb2i7/EF8ZmUoDmK5igGM0lyIqfailQGwpfR4bzjfh73r+F+VdyLfBj1UEng7rxyoEtsDKdi+H+PwlM6gs8kbwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/26.png",
+    "width": 1920
+  }
+}

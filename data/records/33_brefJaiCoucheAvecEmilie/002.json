@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Attends, attends.",
+    "end": 3,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=2s"
+  },
+  "thumbnail": {
+    "hash": "02dca48699",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGxjPod7ZkE3K4F9S4+LXFJYEFViALO4KJWYQ2t0FGJzBnd/En18GUI+CGdYIEtLEgCpopXMxb98dG1dVE9gT0ldSkFRTB6qoVLAuJCflGGdmEmzolSfkz6XjzB+ajJzbSkAo5uZpaWfe3NqHhMNCwkLDgYEjYSA3dbJjIJds6x2sbBiyMdexsJl4tqFrZZoqpNrAOjh4Pjx8JqSiioWDBUNDAoCApiMhO3o4o+FbGlfSHFpTXNyQ4yPUI+RX399V52XcgDi2Na7sbCAenpsYV9aRTuId2bf19L28vDd1cZRRypHPixKQDJHQC1HRi9KTDRFSSsAa0RHVVVUXFpacm9zcGhuqZmJ1s7I3NbU7OLXmo50OjIeQTsqUEgyUUo1REAuQkEuAFEHEE4hJE0xMk0fJmgMHWcdK49zcunl4PDp5N/VxVZNOTYxIT04JEpCLU1HMzYzIwBEBAo/AQUbCBEyBxJkABFqFCGgiYb5+fX59fLm2Mh2Z1JURS5HPis5MSBLQS1COysAIQIHDgcNCg0WOwcSYgUWWAMShW1otayisqifkoJxY1M8RTspST0oRzklKiQXKiYadJ+u0hsdWKcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/01.png",
+    "width": 1920
+  }
+}

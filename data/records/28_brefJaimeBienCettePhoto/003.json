@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Ce soir-là, il y avait Carbone Keblar au Platin.",
+    "end": 4,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=3s"
+  },
+  "thumbnail": {
+    "hash": "c78742fd5d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHpwboZ8eZKIhJuPjKKXkqqemK6gmLGimId1bXtbUIVtZJKHgpmOiJCGgYiAgH50cQCPhIGdko6mm5apnpitopyyp6G1p5+rnpd9YFancmW2kIiOg36mm5WjmZachXF+UyIAoZaTp52YqZ+brKGdsKagtamjvK6mwbGqjG5lelBHoHlxp5SNraWioYpyhlklemZWAJ+VkqOal7CmorCmorSqpbyyq6SXkl5YVV1HQYJXTodmXj44OXFsbaaNdYt8dIt5bQBrX1psYFyEenidko6pnZi5radKREMBAQQXERCCXFWOcW0NCw0aGiN9bF6IXy+EURQAgndzc2VjfW1sb2Rhhnx4jIJ+ISAiZWFseHODloiVfW52EQ0NLSowZ1dPlmo6m4NwAId+fGlfXF5KR2RUUpuQip2NgnBWUYd7h499jZOAkWJXYgcEBZl3b8mvqJ+YmKKZmQCCfHqKgH2ZkY+QiIWpnZOjjoSKYFVxVE9jQ0GDXFyjgYVdTU2FYlmwkomjmpSPhIAAj4iGmJGRo52bo5ybamdrZ15hTTUwPywpFxIRNCAeX0RDgmdmhm5qZ1dXX1pdeG9upPrLrpfMlsYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/01.png",
+    "width": 1920
+  }
+}

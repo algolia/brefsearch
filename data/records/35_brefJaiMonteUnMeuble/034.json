@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Sur la notice, ils indiquaient qu'il fallait être deux pour monter ce meuble.",
+    "end": 38,
+    "index": 16,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=34s"
+  },
+  "thumbnail": {
+    "hash": "2bbc5e79b4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlOTGtfXYBzc6+kptLMz8K3ubeqq6qbnKOUlZuMjI19fJmNjJqPjnNlZHBjYmxhYABpW1mCdHKajI3CuLvd2NrSys3Iv8K9ra+Ibmqllpeik5KwpqWyqqqPgoGEdnWNf38Ad2lll4mKhXRvopKLvbS1gnJso5ORt7S7YmJthoCFuq2trKOjqaGgo5eXoZOSq56eAIBycJ+UlJ2Rjbmsq7+1tYFtZJ+NiqisuHF5hnJtcsu/vqeenaCWlod9fJGFhZ+TkwBtW1lvbGJzdGi/sbXJwL+ompejj45rXl1IR0xVQUFwY16ckY6qn5w4Mi4YFBNAOTgASTgvW0pBW05Fem1rkISET01Ng1BEZCMNEREQIx0bIhwZamFcg3dzIx4aGRQSLycjAFZHP2lYUUtBOUM4NVdFQDszL2I8MHRFNDQwLlY9M2A9LkU4J1JMSB4aFzIoJkk6OQA0KCQtJSE7MSpGPTpjUUmjiHWtiWuRblVLPjZCMCVfNR1XNiCXjolkW1YuIh8gFxoAEAgDFRAOIh4dNyojX0pBX0c5YUYye08ycUkvJiAdMiQcXjomcFZJmI6Jd3BuDQsJuxa1pvZcDfoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/16.png",
+    "width": 1920
+  }
+}

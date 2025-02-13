@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "J'avais tout bien préparé. J'avais fait mon CV.",
+    "end": 29,
+    "index": 9,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=27s"
+  },
+  "thumbnail": {
+    "hash": "4af12c05ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCdl45taTSJfkeyr7G4t7y5trurqK6YeXO5joCVenM8MS2Oh4e7uL2zsLazsLaxrrUAmZSLbGgziH1Js6+ywL7ErKmtfHRzf1pSk3Nstp6afmdimpCSvr3DtbO4tbO6s7G3AJqWint0MpOHS7Gus8PCxrS0uqqipJV5dJl2bciwrLCTjreqq8HCx7q4vba0urWyuABlXE2Lfi+Sh2O2s72GjqJ8d4V4WFN4W1aTb2azlI2kioWUjZCjpKqxr7W6t720srgAZl5ZmY9tn5qctLG3iI6hhmpqXEE8LB4cZEM+a1FLe2RdZV5jX2NrfoKMrKyytbO4AJOMipuUmKKcnKajpqGPi555b1hGQysmJy8kIzIlIllMTEhHTGZob3V+iZWZorazuQChnJ6yq669usGroaSOb2ZWSkcnKCwaGx4XFxl6c4JYV2U7Oz9oa3R3f4qEiJGspqkAo56hs6+zoZmbjG9nb1tXKy0zKCkwJicuIyQpUFJhOTlBUFBWb3R+eICLcneAm5aZAKCbnaikp4FqZIxuZUhDRjI2PiUnLCUnLCYoLiUlKk5PVVNWX2FmcGxyflhaY3JmYGO41L8yUi1qAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/09.png",
+    "width": 1920
+  }
+}

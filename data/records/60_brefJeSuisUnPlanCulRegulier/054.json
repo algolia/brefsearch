@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Mais bon, il y a les autres.",
+    "end": 55,
+    "index": 22,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=54s"
+  },
+  "thumbnail": {
+    "hash": "bc9cfc487e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH5zaI6Fe5mRh7e0rZ+em2hTS6eIepaJfqymnH52bqCYjm1kXFJLRauil5qUjXNvaQCGgXhSUEyDgn6ytrWlnpmEZliNcWSvq6Strqt8dW+hlYppX1dbUkyroZaOioRycm4AcGphVlJNhoSAhISERDw7WkU7hoB9gX95c1tKmX1tvL68l5mbhoaImpWSc29tW1hWAHZwaaehnMjKyklJTQQCBhgRFHJwbXtqYnleSYJlUaSsqsLS11JVUj09NkpJQDw6NACinJWwrKe7vbwqKiwFAgUKCAw2JyemVEuXYk56YlOmq67e8/uMl5hgZF5YWlVISkUAmZOMrKejtbe2IyIlAwADDAwRemRis1VNq0A3nWtik5iWnoKFuaSru7jCtsLRkJadAI+GfqOdl6mppxwbHggFCQoIDDs0NJxsYaI0L55VTXNyaoVmY5FqaZyPkaCprYaJiwCRiYKjnJafnpwUEBIAAAAlJChVKyqTLCeiMy2XRj1uaWOksLS4ytKntcKVnKaHi5EAjoZ+n5iSoaCeMDIyGBodQz5BdC4pkS0npzs2lT01WEhAa2hkbm1ram91a2toc19CRETAf7cATtMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/22.png",
+    "width": 1920
+  }
+}

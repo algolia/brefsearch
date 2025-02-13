@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Super flippant. Il envoie des e-cards.",
+    "end": 52,
+    "index": 23,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=50s"
+  },
+  "thumbnail": {
+    "hash": "6da5aa266b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABokLB4mLR4nLiUvNjA6QDlESTE7QCw4Pj1ITkZSWDlFTi03Qis0PigxOyQtOCEqNQAiKzUhKDIpNDk6REdTXGNUX2Y4RUg7SExQXGJcZ3RUYW89S1QzP0c5Q00wO0cpNUAAKzQ9JC01PUdLXWZsdHqFZGx1VV9jT1xeYWx1eYKTd4CTVWJvRFJbUF1rRVFeNkJMADpJWEVZbWd6mYiWtY+bsH2Kl46YoJafq6KrubK6ybvA0ZWerWl2iWRyjWRyjE1abABTZX5viKmesNu0weu/y+/I0OnJzujLz+vKzurY2vHl5fjT1uirtc+apsqSnsdxf6EAsbbMxsvj4+T27u398/H9/Pn/9vT+8/H88e/79fT8+ff99fT88fL97+//3N31vcLdAMvR4t/i9+3v/+/2//r7//z6//37//v6//j4/v38//v7//v6//n3//Lw/ujl+NfX6wBpc4abn7KYn7GZoavDvsfZ1eXM0uPByt3GzuS5wNWwuM7Fyt/T1e3LzOezt9eJlbgAXFteenV4fF9VhVhJl3BdnoyKkImMiIaQfYaabXaJZG+AfYKTmZutgoeibHWTUV12EKv6pG4VXboAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/23.png",
+    "width": 1920
+  }
+}

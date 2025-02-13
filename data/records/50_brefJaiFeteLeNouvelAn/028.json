@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "En 42ème position des Le plus marrant, le chat qui tousse\navec du chocolat en poudre.",
+    "end": 32,
+    "index": 14,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=28s"
+  },
+  "thumbnail": {
+    "hash": "c3e1351286",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nBXK23KaQAAAUDoxCDJcFkSussgC67IolwbEO2TSsXFM1GnSPOSpD206/YZ+fKfn+TCI5Em+yKrdcrUvsnJerk7H6+v19e36UhQVxmEUTlwPWs7Yj6gCNIZk//di+zWvWwtiO8yb/el4fm+6C4zoJIoDnDiTyHA8H+eirDKYlvX6YdM91+35rr10Zb5t1oeXn81iDzUFxrMwrXw890Ia0GogAobSWdcdD4dz93Cpd8dNmtAY1/vTenOopsm0vCfljpRblDaQ3PV5kXns2r9/fnx8P1Na8oLU6wufbnrS0M5Wl2LepMlnCJE7SRzX1x102xeYX4/V729f2mZhuWggiKqisizHCkrSPJfrp5QUjhvoY4xR6Fj2LcsxCc2D2cpBM05UFQkgF0pgZNse8UOMaRBnIURT349R5CEiA43RvMRJlqMg6wmAB6ZsBZxikDj6uC5NQx8Z1ti0reEQGJ7mYgnojKiaZlioHrnhpRHKIW1MCxJCnzZYkhUZDHXTYVmuP5AE1eJF8A+jckMmszTc3wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/14.png",
+    "width": 1920
+  }
+}

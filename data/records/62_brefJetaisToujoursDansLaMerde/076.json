@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Ici, il y a un chat avec un arc-en-ciel et une musique marrante.",
+    "end": 81,
+    "index": 32,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=76s"
+  },
+  "thumbnail": {
+    "hash": "9a29670fa6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nB3L3W+aQAAAcFI57s47Po4CguBAmB1F8atUECxqrMskujVr2tHpnvqwrMmWJU32tv99yX7vP+64X+0XV+vJ5bjrTvxuD8OMoLXOhppmAeFClCZdtypmRdzfpsm+TLmXr7vH7fzSNiPL2oyHH6/Hj8XsS5H2GbsJoz/1qUpnD7flJpnerRf1bsX9/P03myRak9zny0NeVssPT7vd8f2mx9jNKP1x+jWPp8Wwf7dcPN/vv9cH7un0WmaHwA5j720WXYWDOs+fI9cjEIb+qFrVHdMjEAemuZ0nL8fPnEZo1P+ktjKMdd0Y+u8ekvxVFk3ACypV47YvIYoRRTxQUDP2A85uR65fETaibGrYt0Zr1Lso3zih1XI6ttdzPNfp2m3PMTu6ajBJ5SwrUc9jjBRKLNctbHtA4RmjVJNlVVJEKouEioRSRAhqikThSFOHUMRYNtvXQfSt421MRWwpiiZSlRICEQSCwAMsQASERoPnAC+AM97WA+V8ALFFkGipzJAlChESIAQCBAJo8Pj/BA3+H5onPD9K8jNiAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/32.png",
+    "width": 1920
+  }
+}

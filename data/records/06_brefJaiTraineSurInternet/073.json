@@ -1,0 +1,27 @@
+{
+  "episode": {
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "name": "J'ai traîné sur internet.",
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU"
+  },
+  "line": {
+    "content": "Je lui ai dit: Il est là. Alors, il a répondu.",
+    "end": 77,
+    "index": 33,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=73s"
+  },
+  "thumbnail": {
+    "hash": "66d66b75ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJxjCHRzttCQd9FXKw10nZAasaiiYE1ny9r2xrUtFQUBLvbaqt5WipOLJeI9pEx1NH1dnRmC3BwNlWWc9dUKA92qowLaUqMX15d0ZsSXRIeUhPu6GqiZasmbago6G0ua6Gp4uzgz+Ls66SpKuuip5fm5Rns4pwd49mXGTS7L7y0tnFySY6WjrCAjISIsYKUraaar6eXsxBDo5emkqxZhY9ySHDm1KKsrI741KWJ1e+OOyX0tmUnKchIK0uKiwvymWpImOhogDeFBQZ72Nn7mBsWhPpPz0prjwqrDA9Z2tW6f0J4bHiAjIaogLSHIz6ulJG6iA3ZSRFBQgJenj5N9kqdDY3xwfYRnno/jzJLMlXWZXjbmshKiijKSPDw8UmLCxroaPq4uDJEhIUG+PoHurjEOllnetlXeJpUONv2+Hq1x3qry0gpSEqqy4priPGpSQkba6r5urgxxkZHRgf5Jng5xNkZBpjrZdsrtAZbzc2OCHCyFhYRkpcRVpIQNJbnVpQT1NFR83FwZdLS0mrKSOlMjy0M8s7wc4+yMKiK8JpXmetha8QkIikuIi4mKcnNziQjxa6soeDk5AgChXHjSXWYubAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/33.png",
+    "width": 1920
+  }
+}
+
+  }
+}

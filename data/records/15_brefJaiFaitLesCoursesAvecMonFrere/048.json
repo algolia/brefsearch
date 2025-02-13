@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "J'ai voulu répondre: Je ne t'ignore pas. Finalement, je l'ai ignoré.",
+    "end": 50,
+    "index": 25,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=48s"
+  },
+  "thumbnail": {
+    "hash": "2eea20fc7a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAICAgUEBRwWEzo1QkxKZkdIbEhOf0dQikFMhTxOjjouN4FLOZeFf5aIg4t+dYFzaAAAAAAPDQxRRUAzMTlkc7pke9Nif+BdfN9aeuZZf/UzOmB/ZVuwpqahlpKYi4aOgHcABgUFT0Q/loiDOTQ4ZXjKZn7kXHLUVmvOS1u4O0ShMD10fXRxtZqTqn1rool+lYiCACAaGIp7dryur1JJR0VPhktPnERHkj5Djz9HlTxGmDdLmkw9PYBFN3AsGpZ3bJ6RjAAqIyCVhoHEtrloW1c6QGZeccxWa8dUbMxNZcpJYco/VbcnHy4+Ewt/Y1+pnJqdkI0AKyQgk4R/vKyqf11TLyw+W3DITF62P1KoPkuZO0OFNTx0JCIzblpVuaysqp2cqIp/ADgvK4+CfLyfmJ5uYC0fH0tTg2FlmnhqfUtCUDEsOjMrMx8aHn50dr6ys595b41KOQBiWFSYhX++lYyvfmw2HhdTUGK9qrvNpZSacFwxJysjHyMWERFVTU6nh396OS5iLycAf3Rynn92uY+Hrn1rYT0zn4eFxqWbqIBvjVxGhFpIQzIrDgwMLSQigE5AYi4liXFwAtGsiBq9ACwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/25.png",
+    "width": 1920
+  }
+}

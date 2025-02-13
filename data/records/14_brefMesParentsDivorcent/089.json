@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Pourquoi tu dis ça ? C'est pire.",
+    "end": 92,
+    "index": 42,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=89s"
+  },
+  "thumbnail": {
+    "hash": "95c700af4b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAApklEQVR4nHWR6wqDMAyFBza3Vlu7TbxUK8jY3v8Nh3S4Th3k10k+ck5yIcCtGImRckWIhThXLvk0AUKhoFCoIC86BYTYVdY7f619qY0RXVt397dSmxMAFZTajMMY+jCFqW/7rmm7po0hhm4wrFFBsvDdkLC1AeQq6yrLSGkuD/YDpCTzNC/z8ny8Yoi7G6zAURJkI9qI3t3nL7B52/n5ZDgFtvbxOW/VdQ6Be2wwmAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/42.png",
+    "width": 1920
+  }
+}

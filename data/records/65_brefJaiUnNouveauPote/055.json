@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "C'était pourri, mais on avait des nouvelles phrases.",
+    "end": 57,
+    "index": 24,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=55s"
+  },
+  "thumbnail": {
+    "hash": "fd70051281",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABFElEQVR4nE1RXW/DMAg8MAZ/Jl6cpO3aat36tMf9/z83OdukSQgE3J3QAYAAByjBjohA5nCV8gZUQiIYoEfIAR7lp1fA02DGgaNCFP+tFL9MeCYDfNB62j9MJ6E4512lqi+1bKb1EBI65GDgbHUtfZnOz8fXpfQq6bo/my97arfr59v+vsBVK43Fk0LBQec5b3Pup/7YUm+xL+221cspr+tyvyz3TdISamUdt3iI48QUSj4la0VbzWevc54evbxuZe11m6zPHDMnTwUO5mGBQnW5kS2kN5vElSrTxuGFQ2OrkEI+Q9JwCB4IGPZlP8huYRGEgJDgDC7AxZHFIG48YFjLf6+IDI1wDHNQNxDi4fyYuANG34NoDQw09VXRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/24.png",
+    "width": 1280
+  }
+}

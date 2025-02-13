@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Il était ému.",
+    "end": 38,
+    "index": 17,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=35s"
+  },
+  "thumbnail": {
+    "hash": "e7ce612667",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADMrLWpnbW5pcWdhbFpXYVlQVVk/Pks1M046OU0+PkQ4OiolKCUiJyQiJgsLDRgVGQA0KSpPQUJKPDxMPj4+MjVHPkJ4a3JNQ0lEODtBLi8uIiIxKCkqJioNDA8aGBsiHyIAcmVkf3JyhHh5h3t+Z1tfYltjjoeSaV5oLSYoLCEhKh0bIhcWRj1BKyktJSMmGhYYAFRHR1lLTFpMTFdISVNDRXlwdKqlrIN4gjsxNlE2NlEzMjgjIjEoKTAzNC4zNR0aHgA0JSY/MDBKOjtVRUVMPD6alJfR0NSppa1jWWJOMzNBKixIMzIiHBsWGBokJyosMTIAOCosRDI0VENEUUFBVkpPxMLFzMTFm32BcWNrbmRvVEpTTz9ASTc1Dg8PGRsaKC0rAGBWX1VFTEw9PUk9P4qEjdzc3MG0t4BMUHhJToyAi0g/SD8vMG5PSiYbGh8iICsvKwBmXmhwZnFfTleDcnrOx8vNycy0r7Weio+UeH9COUI1MDNEPD9sV1Y7MC4jJyQaGxoASkJLYlllcmdzdmZyfWZyjnqFn5afqqStj4uWkI+YoJmgjYmUfH6BKzAsIiIhICIgGaqKYr56ABQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/17.png",
+    "width": 1920
+  }
+}

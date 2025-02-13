@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Quand je m'ennuie, je m'amuse à bailler\net compter les gens que je fais bailler.",
+    "end": 68,
+    "index": 21,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=60s"
+  },
+  "thumbnail": {
+    "hash": "8184a679e7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AERyd0l5fkRucjpjZy5YXCNSVSNfZQuJbw9sYhdcZxSAgRiVmSmerUG5xXHN1qvf5QAsZWg0dHgxb3MqZmgpWlwjTlMWb18Hgl4UT1MTXF0Sb24ShoYfmqc3ssBjxdBsy9QACUJGC0xRCU9PCE5KR2RjTWVoBYthC11LDDo9DkpDDUtICV9XE2JhI2pxMX2GGH6KABo4NxZJRhhYUidYU1VhYUmEdAufaBNPQg9NQBhdSSE9PCBZUDxkXihSVChRUx5PUgAZODYrWU9EaGM1UlJHTUdjoIglcVkCQi4GRTUJTzooPDoYRkA4XFdXcXhVcXQhQkEAGTArOlROQ11aNVpgP3lyUZ2IMWRVHWdGDFI2G0Q2GSwsBzEsM1dKUVxbbHV2OEdEACVhUTJUTDJfVz50eC2ikT91dUxnXjZtUAdTNFJaVFlfXUVdWkJnWTNLQklcVCpVSgAwj3MvZlc+WlM3fWkumYgzU1o+XVUcQzcHQS5hZl2EkYSKkYuGoZdAa15RcGROe24AIoVmLGxXNmpaLqt+InBpHk9JGU8/HGNECVo7RlZMX3tqYW9iaZKAZYh8P19RVHJkDdGMehYa+KIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/21.png",
+    "width": 1920
+  }
+}

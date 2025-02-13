@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Pourquoi tu m'as choisi ?",
+    "end": 123,
+    "index": 44,
+    "start": 119,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=119s"
+  },
+  "thumbnail": {
+    "hash": "aea200f416",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAZUlEQVR4nL3OMQoEIRBE0enSFkVNtFEbMfH+h1wwXmYm2X35p+q6/oeIvPcxxpQSM1trQwg5Z+fc94CZe++ttTGGiNRaSymqKiLGmLspAOEA8OrYnHOttfdWVSJ6bgDY4+HJr3wAcJcEsUmUNmUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/44.png",
+    "width": 1920
+  }
+}

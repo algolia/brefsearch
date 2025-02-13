@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Ou alors saisir mon téléphone, poser sur la table de chevet,\nrégler l'alarme pendant 10 minutes, attendre tranquillement qu'il sonne.",
+    "end": 37,
+    "index": 9,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=31s"
+  },
+  "thumbnail": {
+    "hash": "bc2467cb80",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nBXKW2/SUAAA4GZeqaGXc3p62tPSC8yuGzCgUEeh0HZsw1YEOzrJcGYKBoa7GGOMGvVBf7nxe/4ohRcIB0pYdkzz2HF7Dc/acUfT2+F43QnSRjPar3Wt7YqhaDomRBApnGdhjpYZxpaJhgs8IHE0Ws5vkuTtm+mqU+/SDx4JLBBYoCBJlwilIQzo/NbWw3v3c6pYmCVnV7Pl8vRyc775uvh2fXHXrrYQB3kWcXmAOEipEOkI83leR8orL8r6z0fd44/z2++rX58XP1bzu583f3qOLwnkSY5FHKBkHhIATCw7JTvtHnpWZU/dnhwMr7L1p8svi2z9+/rv9CgDDBQ5WCmalIYkQ8SGKO8UjF6ttatb7ap3NkjTzsnYj8fBi3X6rmXVJV5w7d2w2aQK6P8uSoql6vtP7aN28H76Yfl6k3j+Sz+cBINscDIJB0k/CF3XLVcozHEqFHQkFSXF1syDci3uDfxaI3Ia4yCcBFHc9oZOa7hXDY2ShxWKfUzzNI0YRgFQg2JZL/Xrz3ytFIgklrWUGOeKcUGMGdYypJxC8g+Da1I7dYkpywAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/09.png",
+    "width": 1920
+  }
+}

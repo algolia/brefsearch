@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "Juste à temps, je me suis rendu compte qu'il y avait plus de papier toilette,\nplus de sopalin, plus de Kleenex et j'avais pas encore fini ce magazine.",
+    "end": 9,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=4s"
+  },
+  "thumbnail": {
+    "hash": "d1ea6423f0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwVzVtvmmAAgGHuOhulFRUpFJEqtlZOcrBFPvwExB60kqkBmQYtNq6l6bIsWbIsy3az9GK/ejF5L5/kRWK7mw60N2/fi9NOLCHUzr/eml2GSIbW+2bqC9URX43dfjqdh6aKbFyws5XUbaeu+mzL257gnBGvhvjFcX6Ek/dk5vPVscDGLtyNRwtTQTYDsIXysy29DZTPffEJ8LCCO1U60q1fq/nf9ceHFvMg1iJLWcFOZLaRjWuuwd5989Rdj0/dTiBykCrOZfXfS/JnOZ4I+8MneJ0M3dCQkZVtxEbr1Za/3+iPLrjTOiZzohSygGXN5qWvy75Uu7k4jV17N/EDQ0JW/e6Tc7WD0hooWqN9VqbpfJEr4LUSQeSO6kVsJLBOg1zacHs/ml2JSASvf6+jn8vAuuBIjOFO2yzRoEsMjZXLuRyFZofNSq9OLPpg7Q19pYWEVmdugRB6GsvgKEHmyUqJoTDiBEXxw8w5duQ1K122FFjmog/vpQYSgI59WVepvE7jPEGVstnCIZrP5LAPB3TmQCof9zhSp7GpacxA91as/wcVIWD3kkDRjAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/01.png",
+    "width": 1920
+  }
+}

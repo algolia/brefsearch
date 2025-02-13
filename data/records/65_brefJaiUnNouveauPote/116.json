@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Ouais..",
+    "end": 118,
+    "index": 49,
+    "start": 116,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=116s"
+  },
+  "thumbnail": {
+    "hash": "5ba467cb6a",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nBXLa1OiUBgA4BfOARFQbJGLkB06oCJyjwzvhGWpbTbt2uxOM+3X/f+/YGef7w9sR7318LKauLssWKVx6bmPLl0Fk0OeH2fLuqyKIO8xvA5IB7YFLPx9Xb+UaUCcu2CS+eGvybiibnllP5PLM6EfuhF31S7Dq4BVwC1AsIpHxzLJKW3zTQnwvTdYDKLd2K9tejb6c8NUBZEDzDEYAUKAQGk0LUWxOx0RNwHwdr75/bAv/bAO5kuDVsNhZlkIgAHEAmYBAWIEjNuS9A3jZoMXP/eHc7V9KLffD3/Ws2fftNyuFhGqXej/FyAA4BhGEvi2KLSHxPt6+zjN7kvHzbz46/Xn5+nH+9PpMF3cEkeTZB5xwABuSx2nR6aTpAjS22i6KurNzaoYZ/Vit9881WFYXA/yYZ76d75pgdLqXpHEIRF1UuJkWi8yvcqLjzfTlzipyKi2dGqb3ig6OddLrdUFRTFVM5QVR5YNQTSBERF3Ibdsu5/06cwgc1E2AXjc0DjBQKzwDze2OWomVMdJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/49.png",
+    "width": 1280
+  }
+}

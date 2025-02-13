@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "T'es qu'un con. Bref, on a enterré Crockett.",
+    "end": 88,
+    "index": 27,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=85s"
+  },
+  "thumbnail": {
+    "hash": "6a498d2d1f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQ0lEQVR4nCXPy27TUBSFYQ+Jz2WffT372I6duHGB0CptB0RIZQIjxCPw/u+BDNI3WoMl/R3xpDqpmvtAxCEGLPgPWV3acHF/qLbWuv3XzX4+1qWyn+ZtHOZKRrkQIrN4W4ZhHW2WIqqzj9c2PXe3j/daCEMqCUY/rsMqwFRQzRGpojVqVjT0IYOILt3t07sAcAaIKYeoha1wjjGllCM4t4oqhfsPh5TA26n7+vKrEadDH/o+hpBCxAQppr2BdFAvGVKIDHx5vJ3Xp+77tz9P29vSlrGOTdxIK5uLDja6mDFzwdiH5bRdHl+tnrv76++3Lz9ObW5SpTABFgBGqtqEVFAZ9nGazsdpFbHu9vnn9eFeueWYw+GQQoQEQmrcKBMBK9kOjVEh5+66vR/94joR8B4ARVCVzLju90UIqCQgYMyUE/wFNKEmI/URSq4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/27.png",
+    "width": 1920
+  }
+}

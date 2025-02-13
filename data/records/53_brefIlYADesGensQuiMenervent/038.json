@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "à la grande invasion des Vikings en 885.",
+    "end": 40,
+    "index": 16,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=38s"
+  },
+  "thumbnail": {
+    "hash": "d90f530d02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nBXPzY6TQAAAYF5Cs6Vb6C8MDDC/zAAzQBcopT+mMVWbbta6u1n3YHRPJh4aNfGg7+HBs49o/N7gMwBkIZKYZIznTM5FUu0Fvc9oA5zRhR1OfORAFMUBpB6IpmPXCJAkvGCiSNIq0U2h66OgNwJduVPXtK9gJLyIsxQhEQbMcwIDUcVlJbNFqtus6ObFcoejA8dPy/lprr8qXgcIU8VIgiMBATIw03FSp6pVxVqXm65o3wnyqcrOL5c/b/a/P9w+7l5ksaIsgx4JPGRgnou0SXWri1VZbspys8X0IaEfF/n5sPv76/zn29Pdonx/vF5VrTuDBmKay1qqRaqXKu90sa5p3IDZCsHXgv44vfl+2K4Dt4vZ5/vTab83QqxIXP5vpI1UbRIXbDyJ7BEaWGvoHSU9SKpmUzq0tqn88nhreJCHKEVEYaIwzbFPwoGFhiNs2yvov+K49gG2LGJbbDJ+u+mM8SRwXAw8CjwCfO4OZ+5FD/YvgdnHl4NyOg1ME/ZN0Os5z59VFP8D8ctg3PKWn8wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/16.png",
+    "width": 1920
+  }
+}

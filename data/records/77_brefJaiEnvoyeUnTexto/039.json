@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai mis: Bonjour, un demi, s'il vous plaît.",
+    "end": 40,
+    "index": 18,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=39s"
+  },
+  "thumbnail": {
+    "hash": "a98fb17b97",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nC3QvWtUURDG4dur7JmZMzNnzrm7ilkWIkErbRIhxiUgIjaihSwWNkYMRAslnSuoYBpB/IK4xEKRmEDWj3SuhSBGTQzoRquAiCKKndaRG/0Dnh8vbwYARMAemTGIr+QxBiVwA/39p0bH6kNDmzZuCMpEQB4AShkiIJYsSDItJxOPtZ785IljrTsT7ZkjF5pnTo82PLqgrEIF8ASmnMdQTsYE+/cNLi7c+/6l8/7d7LP5xvzj20/bNzaXNY+WTAugTDFIHjWPwYRu3Wyurf1a/TS9/Ob+8tLztwvt2empSgopagwiTJkpJ9NkRaNWrTTPj9ydutKabF6/Nn7u7PHXL1tXJ8YYsBxDDBLEZ+LxnwnCw/Wdly+NdDqT376++Pnj1e8/Hz6vPtmzewetA1MuAEBJPSYrVlW3psbR4e7K3MrHR93u3OLSw5kHF7fVtpgWlwTx3mMGCITOAsf1o8i53lrl4IGBw4f2bu/rqQ/u6uutiqcgngmcK2XOAREKI3uM9r/ECB5BmU1FmYSRyFEB3F9Yoms8rq4zOQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/18.png",
+    "width": 1920
+  }
+}

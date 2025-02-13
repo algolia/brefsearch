@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Quand j'ai plus d'adoucissant, je lave mes fringues au déodorant.",
+    "end": 18,
+    "index": 6,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=15s"
+  },
+  "thumbnail": {
+    "hash": "c166a5020b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACQcISYfJj0vNJVzcJZvaVpTYUlRak1Ta0hRa3RmcJJzc2FYaEJMZ0VMYURJYENIXQAZFBcjGx8rICR2V1eYcGpzYGlNV3FMVW1tYGuFY2GejZWTjJZTUVhESmE/Rl08QlkAPyUjLh0eMCAiaUlIgVxZZFJaP0RYWEtRc1BOY1lmip++k6G1joiDdXmJanKFa3KEAHREQV48OV5CQoNfW1Y7OzksMRcXHikbHEozM2lZY3eKrHeGop6mtbC5xaiwvKOqtwBqQkBuS0dqS0l/XVh7VlRhREZOT1hna3NyeIVrbn5YYXZkan1WWGZvc3+QlqSZnaoAUjUyTDMxWz48bUxHZEFAY1hgfn+KgoKKipCggo2jgYeXjpKfhIeUZGVscnR9dneCAE00MzQhIEcwLlAxLWZZXpacqnx9h1FOVVtXXWtnbnZ1fnx8hYSEjoeIkH1+h3+BjQAxIB4XEBAqISNTS1COkJyYnKmWmqiSlqWPk6GJi5h/gItcWmM7NztDQEVwb3l2doIAEQ0NDw4PGxwgX2BscHB6bm53ZmRtX1tiWlVZTkhIPTc2NTAzMiwwRkNJVVNdXFtlbxijStzzXJYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/06.png",
+    "width": 1920
+  }
+}

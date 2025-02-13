@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Elle avait l'air déçue.",
+    "end": 11,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=10s"
+  },
+  "thumbnail": {
+    "hash": "c9725cb3f8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGo3LWAKDG8pJ4R6d5mUin5za3BqaYN+eKGXh7KwkZmIcZN3VaikhKOigXVtUIJ+bwBFBwpEJB90X1Czpp2yqpy0rqKoo5u0sKmimYqQg2mrkHNuXUyYgka2pmakpH16c1kAKhUOXD0zmmthtJiIsqeQrKafnZeQqqOgrKCYnYtxmHFicEs9d2MusJ1xvrqCnJ51AG1iZWxKSZ12cZCEhomAeG9iYXBpXK+snrCnnY+Ielo7OIBhWHBoboF0ccGum6qNewC4useWjqBQRV9sana+t6GqoZCjnIuinYiDb0w5MTODeIC/sLJ8eH8pHyKjlpGsmZIAsrLB4ePsoJutfGpno5t7qqGKr6qYpaiGm5l6ZWJovcPHuLjAHBccDwgOc3Bjl5WOAKuquMfI09fY4amVkqmekr62trKYlb6vo5CLilhWXLK0uIaAhQoFCgoGC3dvZZONggCTkJ6jm6SdhIWkm6iypZi7mIifiF7DxJ1hW09OTVK3tLxsY20EAQQMBwqBenWcl5AAd3aCc1RViV5XoJiWoIp4pJFUpa5vrquQVT08XllioZ6tXlhjAAAADQgMeXNuh4N9ym/WUPtxHrgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/05.png",
+    "width": 1920
+  }
+}

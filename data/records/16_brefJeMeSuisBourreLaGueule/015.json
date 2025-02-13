@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Au milieu d'un couloir où il n'y avait personne.",
+    "end": 16,
+    "index": 8,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=15s"
+  },
+  "thumbnail": {
+    "hash": "ca8e9236fc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nAXB3W/SQAAA8D4YNyiw3lev7V3vrr1r6QcFhi3bgDDJEqch2yTTLDKdGJYYH4y6ZE+++Zf7+1nXLXzf8h5t9qcttgH/0uh3xnuf8RlHOendHKBbqX++udgVVfzicGw71lcQ/kLxE9J/YbplYjtRz4vyeTlcRe4YOw9tbxObx6y8x7zf6q6gZ/2gZk/0k5v+w/kHFEwFKmA3h715RG4p+94Jr02yj7M7yAa2c+MJ6yrWp4ytufyWDWaCnUu8oJC2D0bg6Dc2e6iutNkJ84mGU0zWvrSGmjWZHCd8WRfnx2WBOksfSscuAdgB8YDVOjKfud4wfuLiNYusfkAmhp/lUW3CeWliihQBiY8d+1AQsEzjyzy9U7omYILwx9BYisJhFJxkqk7lKGbjmGsP91ovQwJmVXI60PMquUhk4nQmmGx4bAns5CF9lYR1X4w0qyIWYqA8VPfVxPAmEa+H6SryE9htsPuWcos6nYjCUvmV8kvpF9I/NuE0j0aapwGpVHCmWeMjCY5q7C4Q/Q/yCkLYcu/O3QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/08.png",
+    "width": 1920
+  }
+}

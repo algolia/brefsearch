@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Juste après, un mec m'a demandé: Excuse-moi, tu peux\nme prêter ton portable ? J'ai entendu Excuse-moi.",
+    "end": 30,
+    "index": 13,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=26s"
+  },
+  "thumbnail": {
+    "hash": "f149ed738a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC4yNSktMCAhJCorLScoKCcmJjg2N1JRVi0sLhMTFhcYG42DfExIRB0dHCcoJjEzMQAhJCcmKi4bHyIkKC4cHiMdHiIvMDNNUlcmKi4SEhRcTU3m1cd2bWYZGxsXGhoVFBYAGBweGhwhGBwjFhwkMzlEIiUsIiYqMTg7FRkcQz89xsOuy7ipYVdPMS8sNTEsLSglAAoOEQcHCwgKDQcIDCEkLBIVGQ0RExQZHREVGD9BQqqwpJuBdGFWTkU+O01GQUM9OgASERYUExcLDA0EBggFBgcRExMmJSZHQT9dVE5WVFFYXmSFdWpgVU5RSkZMSURBPzwAIiMlKSoqNTU1UU1JamJcdGpha2JagHRqe29kZV9XQ0dGgHZpcWVbW1ZPREdCNjo3AEtEP1tTTn1wZ5iHe56OgJeIeXxxZo2Acox/cYV5bHpwZX50Z1dSTDc6Nzc7ODc7NwBSRUFPRUBWTkdeVU5hWVFkXFJcVU9tY1x1aV96bWGFdmpzaV5OSUBIRkE3NzQlJiYAOzMvQjo2RD46SUI9TEZCUUpFUktGU0tHT0hDSkQ/SEM/Q0A9RUA7SUNAUUg/SkA30vByM8zKvCcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/13.png",
+    "width": 1920
+  }
+}

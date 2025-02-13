@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Tu me raccompagnes au bus de nuit ? C'est sur ton chemin.",
+    "end": 78,
+    "index": 35,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=76s"
+  },
+  "thumbnail": {
+    "hash": "5f687a8bab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXBS3OTQAAAYDzU1GDTSsorQHaTBZbHwvII4RUICSmhk7RT28loxxl1PFsP/gqvXrw6/lO/jznkxmMbHuv4Ux/tMm30ZjDhr7592Kc+5F6fWTrbVax0PhBGg/Hw7Olhx6xjejq2p/36y33fldTTBU/jMh8d6+jlJpPZV/e7ri0abXwxvhj+/fXCbFdBU9CH3n/sw66yF5b8ucQmf+4A/ke3qJHkIeQCFYvDGc/++/2ToRTGgZEuYEi1TYkjXUgApwuX1K9yh9wGrgktWxMywC7g1fPzgXGwYlsqMSRsCJsq2Lgo14ZYkZv8PXWqNNhEXu0jlEPWkVkEJIYSEHogMKXAktdLvKWkifJYn6V0vSnbtuwRoBhM9x4XgreycMkQZxr6cBUozXLeJLNDWmTVd+LcQBBUy6qIMoxiDOaHUC5tXrweMUliZgluEr2rSZMbH7d3T6c/ef4VTglGtmvoWI9im9wmVuYiYk4ZWeZU9Xoyeadpoou1lR9BkMmigRUocEAYA6zBnJgF0clMnSvifwvBTXZomkYBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/35.png",
+    "width": 1920
+  }
+}

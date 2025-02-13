@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Oui, voilà. Au revoir.",
+    "end": 67,
+    "index": 26,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=65s"
+  },
+  "thumbnail": {
+    "hash": "80fd93da32",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nB3PyW6bQAAAUGSYjWVmYAYbg1kGLyQ4wQTseImspiJSGkxS9dJDDu2l6qHX/L9UtR/wDk+zIUC6bhmGA3WGDAqNVDhVLCKGY27NGIldi0LDgdCBwAFAO81FHbtt4u0yca/EQckmFRMbCRMGDp5SU1rII2ATsSpk64BqnxbeXvmHXOxzccjlce7vMnnrm4UwXQxcDCgCHBtlQENGfAtr74flLpMPy8nnMurWs8frsK+zX6fi46m6lrYDdN/GNjA4Qdgw4EjXvjdZt46GVr22+dDmQ6Net/nP09Wf89VQTDgYYUOXFmEYMoQogtpZuV82yfMmea7ivk6HbX5p8nLMFDcVwx6GMXXmLhUEMoIYRtqNRC+bpL/LLo16282/3q9uA9fjcrys/WIfyqAQLHdpYBOO/4M2wC8300uTv20X7+fyuAjZSJNJEXc/km2XulxxGtlWYBFBECdQO8bW40r2d+p3V3307T4bmyNttqrTh29lkq48GjNbEuRhOKX/Jn8BWrkxb86VtIoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/26.png",
+    "width": 1920
+  }
+}

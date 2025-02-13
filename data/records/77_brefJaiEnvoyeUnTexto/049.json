@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Pourquoi tu réponds pas ? Je n'ai pas répondu.",
+    "end": 51,
+    "index": 25,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=49s"
+  },
+  "thumbnail": {
+    "hash": "363de7cc55",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJ2Ymqqkp7mztMnCw9XMztvR0uDX2ePX1Obc3ODV19vR0tPLzMnBw7mztKulp52YmgCvqqvJwcPj293r4eLw5+f39fX8/v3Io4jNuLD////69vb37+/s4+Tl3N3Lw8WwqasAxb2/q6Slsqmqy8vOubzErnR7uX2AUzgnd0pAv4CHr4GFurS1yMLDrqeourO1zcbHANTNzbavsJ6YmKSkpZeLkFgACGINFnU8RHEuNVkABVwSGo+Ji6+rrMS+v9zU1dvT1ADh2Nipo6O1r7C1srKhj5FzLjZ2MTl7Nj56Nz9yKzR0Nj2mn5+vq6zs5ub58PHe1dYA4NfYvba2vbe3uLa3nYuNdikygjxEahkieTA4hD5FbiwzubGyu7a23NXV8unq2NDQAMnBwqqjpLewsbOur5ySk598gK6Lj6yGi62Ljq6Lj7KTlvDo6fny8vHo6OHY2cfAwgCxqqzCu73X0NDh2Nnq4+P38/P69vb9+vn7+Pj69/f59fXv5+fm3d/b0tTHwMKwqqwAnZiarKaovLW2y8TF1s7P29LT4NbX4tnZ49na4NbX29LT1c3OysLEu7W2q6WnnZiaJf0r02ys434AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/25.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'ai crié, je suis tombé dans ma bouche.",
+    "end": 94,
+    "index": 30,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=92s"
+  },
+  "thumbnail": {
+    "hash": "b9d98ff964",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQklEQVR4nCXOzW7aQBQFYC+KPTP3/86MjU0wSVAcFAQRUdOWRaU2i77/I1UkuyMdfTqnUcTeeSxaVHabft6M41Cfl/W/j/3v/fpBZKsyMVnEdpUwQVNVBtfedByGoZ+ECyYFkPN9fyx5Zjn1eVb2iHEFKWCzLv60KfNQcx5NK4IiaAy0VD8OeSeyZJ2YaiQHvBuo2a/t+5yPY3bJiEagkCQEXKof3HYmPRF3ODm/n/3H2ZvTaIeq+yyFOEYWzoQWAwtIQeaIqYP2W1oeyt9ruV5ys1WamAZiDIigbj2Tp0/JINBR6ChF/HXJf3769WKNJ9BE6bNQKaaV0AjtFsiJXKUg2HHx61t5P2ljCVKHXQuhQ0hCaCqFyU2raVUpwjkG2W388lJfn/m2AC20q/RlUmQE/QK3V+SQOAZ+3Mrbix7u8T9J6iCbmjWikQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/30.png",
+    "width": 1920
+  }
+}

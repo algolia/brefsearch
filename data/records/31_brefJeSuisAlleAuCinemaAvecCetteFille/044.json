@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Alors, regarde Dis-lui que je t'aime. J'ai trouvé ça mignon.",
+    "end": 46,
+    "index": 18,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=44s"
+  },
+  "thumbnail": {
+    "hash": "8c45954312",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQElEQVR4nCXMyVLbQBAA0NH0Oq0e7bK8SCkTZINRgFQoOCSX/P9XpVy5v3qBQAiFMDEZRrmeX67z5Vu/vF3ep2HPyBQZith5tfQTRAp3DUpoTKakvz/+Ph7W79Pj1/ufLveJEkWiiFBAk6qSLRAoQxI0pXLI7bI7zd3p1B7ncVZgQcYIFEnuTBtO4b9mNBOf2t3Pp7dfTx+HdtrWV0MRYkYSECUj4Jo1MAhFYtTa2+eH7XP7vJ1v5/3DOq9cgKsToNE9xci1WgAABKACKvWX83Ofh7GdLvPamkuExElJXTxhEtAmecCCnK3Rcqy6eTxhwMaH5XDNUtpdsyd3zQqaQGuxwJE5sos1ZZM1Y4BpvMzzV52X4+FH512pKZEqKkU0kpDFslhn3pdVm1yRpmnbDa9jvx33t9rcRAmIQRCwTvkfMqAXz4E+C0cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/18.png",
+    "width": 1920
+  }
+}

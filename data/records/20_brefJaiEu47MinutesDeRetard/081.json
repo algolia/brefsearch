@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Enfin. Bref, je suis arrivé 47 minutes en retard.",
+    "end": 87,
+    "index": 38,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=81s"
+  },
+  "thumbnail": {
+    "hash": "592efe1f47",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB0YGA0NDhEPDlRINYd/aGBEOFw7NJ+MfLamnUhBPgcEAgoKCwAAAE9MUJOOh0lGPgAaFhcODQ0ICQk6NS2opZKBZVlsPjS7oY6cjYJLMSh1Rz5FKSMcEA4FBQVjYFF6d10ADw0ODw8NCQkGHBcTgnVac09AbTwysI92bltObUc8pmVWgU5CPyUdBwgJWFVJc3JSAAsLCw4ODgcHBh8cF6uZdnRIM2QyKZRxVH9iUJ9iUpVURpxXR0gpIBcTElNPNHNyQAAODw4ODxASDAtgSUHUzLiWd29bKh+HZkiAY0yCU0aKTkZ+SDoqFhIlHhlWUjGKi0YAERETCAsLPiAhgVpO3tzMqY2MUiATcE4phW9clHNuZj82QiskVz47XlROTEQyVE80AAwNDQcJCVctLGZBNZSKZW9JNlwtJKyYjOLZ3MyxsolZUoVORb6an66dopeGh2NVVgAJCQkWERBFJSRjQzCkmHWbg3fLtsLy6Pbn2+bl2ePOoqPGmpy7rLiomKCqmqGaio4AGBYVNSQgLBgVUT8ppZ2Ivrm/29Dk08bX1MfYzsLSxrrKt6y7qp6npJmhm4+YiHl/n3WcK0xpzWUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/38.png",
+    "width": 1920
+  }
+}

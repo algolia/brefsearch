@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Netsu kaw !",
+    "end": 41,
+    "index": 16,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=40s"
+  },
+  "thumbnail": {
+    "hash": "c4196f17f9",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nAXByW7aQAAA0LHHK/Z4vG94GTxesQ2xIaQQaEKbiqQkCqrUKpF66a3Kqf9/6nsghKzLspiBGuAMlscMpzCcCXkHcgiKAjcRoSSxEgSixApYVsAUQofldCjYgiwxgiHINdYsKAa8aEuKLCFXQY2m6oIcWMayIMAErMbAHY33NKoM8zrwv6ShwyuRMEmwLslagvCVgRoLpZ7dkggUlt66xiH3qIEGzz2Xs0MU+hNtKiOi6x2lp6tu9Mzvq/mCEt/Qwa/d/LFLeh/HmhqoKMVmYVqryOsCl3j+74fDx8vDz8P2/bj/e/n29vgZXG7aDXHH2I2xFiBsSUqk4D2ZDnGwr7PneXYs89dhed6sX283/95fwJg6y9j5c7epHUtmeXeirqLols4K24xVJbdd4iR9NPtUN9ucnJYUzEOz9vSP092xyjxZGdL4x259HvrG93pCu6zuaF0ldCyKNvAGVwFNTkkYXK4Xb9vhqS3vC/K8aJ7aqk/Trzfbse5nIWmzcl2VVegXmvAfzcs1YWDeKyIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/16.png",
+    "width": 1280
+  }
+}

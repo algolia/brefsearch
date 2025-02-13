@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai acheté une théière et j'ai une marque de thé préférée.",
+    "end": 53,
+    "index": 22,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=52s"
+  },
+  "thumbnail": {
+    "hash": "fccfd916c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABYElEQVR4nB3Ny27TQBQAUIPnPubO23aM7TiJEzdxQtMUCqJVEEKFRdVdV6yQEF8A/79CQTr7kx0qe2zCvna3XVonM5WyK8S8yh+33Y/77cvd+teX/fN1N0Qjr3MHkN334SrJMtpxFjfJvE2y9joADNHf9c2pLX9/Pfx8GDfJSK4SQPY0VedVcVW61ptTE29rv/QSVH6zWH3/+HAeV3+e3/99uhmTNTnUhNm3/Xya+aFwYxUOTTp2qffGgpoWw+OH86ftuCjD513XWbEKWubsXVfWRidNfbBdsH2wlQiRdjbulptZSLkiRC609oCD1llAtIjmP0vomAxzDGU338zqvunGGCph7VgbgEkkQwCNyEiaLoRJmIXYG5dcqGIhYpgkGuuJasQMclC5IoVCrJG8Zqc5ihgiAjTMVnNTlKd5kwitgiwyv/GmDd5rgfyyaUR3SQgUOK2PbXVdx2MdPIBR8A/j5CFIgpzL0wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/22.png",
+    "width": 1920
+  }
+}

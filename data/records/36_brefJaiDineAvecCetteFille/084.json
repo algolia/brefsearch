@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Salut. Ils sont partis ensemble.",
+    "end": 87,
+    "index": 38,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=84s"
+  },
+  "thumbnail": {
+    "hash": "40bcbef76d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXB226TYAAAYFYK/NDR8nOSM+NoQQZtIR2ULqN1dbI1Go1LW7umMe6ic3FeeKnx2ph4Y+ISExPfaM/k9yGhLk3iQBd5lYPXdbU7G71K/VWZvBn6V6Pgsu97sqDwcOhoqS4IFIEEBldFtsbBRwy9qY7eT7N1Gd3U5eb4cDX0Ps9GVe9QaNNHBl8ZkCEwJLbY8WP9QOQVlnkeO8si2J4kH+cn63H06/bdw78/958+9HRxYsIIthiAI6ktRAoUO/TMkVd9+6wrL/Lgth4t8+7v3fbh/uePq8XMkzOp7TMtHuCICimLZz1BqjR2W8QvB08KRz529Tp2p13n++byy4t6bkCrQ2IYxpMEIlDA4gWD07uifB54zyK/r3IUijosgzUaDADLYrAeOKcmhzawJtpEOILYx3CO5k1GSiFznnjbPKgDcx5qk9AtbEVrUz3LvM7DRIJSZx8BaJNAcRIn1Q77dpx+Xc6+vZ7cTbObKts9Tf/eLS7SpPTt08jnWsAVGIQFONHEAEbwLSrQpUBXSt/oHSi5o7gS23eUi9DOVIEmwd5eA5LgP3e8STGga/8VAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/38.png",
+    "width": 1920
+  }
+}

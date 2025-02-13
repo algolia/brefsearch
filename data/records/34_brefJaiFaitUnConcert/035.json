@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Et puis, comme tous les chanteurs, j'ai fait un moment émotion.",
+    "end": 39,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=35s"
+  },
+  "thumbnail": {
+    "hash": "a5b1b0b79e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEQuFykQBD0cCEsdCS4MCTcaEjkYETsaFDYjHCgXEjMTECkgBicoBx0YBxMQBA4KBABBKxAxEwdBIA1ZJglJFRPRubzRtLhHKSUQCwdHLSVOKiEyLA9ITR8tLAojIQkSEAUATDUTKxIOPh0STB4HUiEe+OLv17i9LRwVKRcSbkM1f0s8YVo+YGk3RUcbKSoKFxcEAGFDGy8bFUYjEkgaBlYtJ/Lt78q+ujsjGmg9MIRSQodRQ52ZfnJ8Sjw2EiorBh8eBwBiQyE2IBhQMyI7FANIIBv4+fnd2teGW0+LWUlgPC5iPDObnX9mcz02LwlBQBorKQ4AWj0fLBgTUTYqYkY4noZ/0sXCzcC9qI6JgVRJbUpCTiUipqSKVGIdenJHjYBqLygOAGZJIDsbDFo0H82+s9HEu7imo7impJ+LiYZiWZp8d1csLK2sk2t4MI+GZntoVyocDgBXNRQ3FAOagXHNvLKsmJG3pKC2o5+2op+mkIuTeHI+EA+uq5hiZzOAcVlkUkkYDgwAKRUVUEI9tKWamYV7opGIqJePrZmSqpSNppKNnYeBOxIOnpaIZVk8dGRVSTw0BQUDPGWPFZIX0gsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/14.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Je n'avais plus qu'à jouer le dernier verre chez moi.",
+    "end": 65,
+    "index": 28,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=64s"
+  },
+  "thumbnail": {
+    "hash": "1d1bf49416",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nGOw0lQPtDW31VLxNtfzs9Zyt1WwtZYpcjNv9rRQVhJQURbQk5WQFxbk5uDk4WDn5+RgMFNVNtdUddBRDbI29LRRNjYR9rZV6/JzLHMwVlEU0lETddRSVBQW5OXk5OTg4OfkZFCTkBBhY7dQkQ+01nE3t9ZTsDVWNow2VLdQlJCS47bUlTRTkBLn5RHngyIGRSkZRxVFfyONeFdzczVbUxU/XRkTbSkNRz0dByNFD0MFUzkxUV5uQS4uXnZ2XjZ2BkEeHnM1RW9jrRhbM31lHQM1UyMNU2NFw0o/1z21mU0hTsHGmlYKMhbKcvoK0jJSwgzKosIuRga6slIJoTFVxQ15ydnpEREVWQUTM5KnxfjOTQ+ZlRRS52y3qih2UU50sr8dg4KwYLC9ra2OdqCzXU9RZGVyRHZkdGV+aX+BX2+M4VSfsJWJ8UtSohYkhK4IT5rpGcUgLyyoKysVaGsXaqPXlyA4NVW+OVp/Qo7thCTpGRVBKxNLK43NFvlE99h51Vk4TvWIZpATFrTR1W7Ny23KzrJRUwoxVynxlqr2EWuNlJocb7IzpmiJX2y/e8Cs8KQiZ7cCMycAm2JrWiIoKfAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/28.png",
+    "width": 1920
+  }
+}

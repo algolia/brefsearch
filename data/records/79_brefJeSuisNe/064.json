@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Je suis arrivé devant l'ovule, elle était magnifique.",
+    "end": 66,
+    "index": 36,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=64s"
+  },
+  "thumbnail": {
+    "hash": "9199e2b58f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHMySI08VqBKYbttdsiIicaLitKXlNKVkcmNisqJiMB4frppdbJWaahLYqJEXZY4UwB6Nk+PPlmoU2nFgYfXnpzYo5/Ro6HZq6ffr6nJlpayf4q2bHq0XW+tW2+tYXOtY3QAfDhUkkJfrV9zyY6U1aSj2qmm4rCrxpqcyaKj0ZqZzJic1qeqz6Cjzp+iz6CizZ2fAIA8W5FIZqlheL+Ai8qVmtCgodeqqcGPlL2Jj9mqquTFweTJxOC/vdSjpsWFjcKAiAB/QGKXU3Oua4S3dom/fo3GiZS/ipTNkJbVoaPjxsTjxsHetbPXoaPMipLAdoS7bn4Adj5hiUxwnF18qWiCs3KHvniLt3SEv5Ka2ba25cfF3rWz1p+i0pCYynyJwm6Bu2N5AHhCZYRIbo1RdJZZeKJkfqxthKhsgMyqreDDv963tdOcn8+MlMyBjsVzhb9nfLtecgByPGB4QWZ/R2uFS2+LUHCRUm+laH7WrrDctrPPmJvHgIjGcX/DbX2/Z3u5XnK1V2kAZjVUajhZcDxfdEBkdT9idzxclllx0KCjzZeZvHZ/uGVzu11wulpttlZqslJlrE1gE1D2XIgKta0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/36.png",
+    "width": 1920
+  }
+}

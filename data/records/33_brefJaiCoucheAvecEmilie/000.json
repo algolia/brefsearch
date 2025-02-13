@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Je suis aberré. T'es mort de chien.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=0s"
+  },
+  "thumbnail": {
+    "hash": "c465902e96",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFBELKGXhHpxYkhBMVtbK0dOAKChME1BLVA/N0QzMFJJI2tqFGZZHWpjHz9BC1FPCQBGNi/EurShmJJxaGCgmIt5b1J6cVMHAwYQDAwaExIgFxealUGunkqNeUiOgECAdSwAPC4owLWs0MvGaGFYhX9vq6OVw7qyIRQPDwsMEA0NHRUUenU8h4dNkoZgoJBqkIFcAG9fWPv08LewqkxCNIN6YLmzqerh3XFPQyEQCiscF0IsJFBENERGMVVZPU9UNlhfKQC4pJ3u6OSgl5BSRziupIXOx73f2NR2WExVQTptXFl6bWx1cWhfWkpIRC9GQi8/PzAAzsO96uHewbauVEtE4tvb4djUsailYF1gY2RqZWlzb3SBjY+YkpCUg4B6YlxSSD4vALqqp9PKv4t8cUY0Lrixq5mbmmZmamJkamBgZWFgZmVmbnt7g3d4g32JlIxfb4g3PgBqGiqET09ZUUJhJyhkJzFgTFRfVltdWV5bWl5ZWV1bXGNiY2xoZG9qUmBYGStpDCEAWQMXbAcgZ0JEWCQkXAALcAoabhAgahUkbBkpaR0raiAvbB8vbBUlWwkYIxgnLBIeyn2oPUIzrusAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/00.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Non, ça me dit pas trop. Désolé, les gars.",
+    "end": 71,
+    "index": 31,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=68s"
+  },
+  "thumbnail": {
+    "hash": "7db8395de1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBCW/SYAAA0C+xGz1AN5wMEDPalU+21pZylVI6WloKyCFsGcLKgEBLIhC54mYgU6LJErM/7XtAjce0hFCWMvWrXCOvXOtaS+bZcCjPMaVM2tLVSdkcm8ZAVSwl25FFYKQTJSnd0vJtU++UjfsvtaomFRPsy/jrUOaN3NXvx+12ud7M5nPbsXs9UBKTDUXqmoV+xbwrG+2SrgpcR8k+D25vYtGuIu4X3/er5XY2XTv2N6sL6qqqy7maWWkVi4NWczUaGRmxIHD/7F7zkv51W3meO0+LxXY23Tj2tGeBnFIVRIOPa7JybeiNH7NVtVBmKXJzU5ffB4bF/MtqunGch4mzHA2n1h3wByIwmqJI/hKKLIx9CFJB/xlACI6GQiQCSWo37DDnkIUXzDn9kaTAJxrSFOPznfn95NuTkPf4NOALpQTxYfHYrLUjJNw79yKk3W4vjhI4SoB4OOQ79iIuAkEJF/H6yBugKebnevfn6a/dn7BRYTfufxZTJ14/ihEY5gYE5nG5cOQQe+XC3J4jFPdIYj4tmRdMkueSwWA4K6TenYZR/M3BIYYcYP8B/a5mrAJZTHMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/31.png",
+    "width": 1920
+  }
+}

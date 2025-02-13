@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Quand je suis venu vivre chez lui, c'est devenu invivable.",
+    "end": 22,
+    "index": 9,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=19s"
+  },
+  "thumbnail": {
+    "hash": "102d3b1fb2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nB3LW0/aUAAA4CPQy2kPhdMbLfZeOjpa0kHZcDaooNuAbUYqi8GCgjjRZJcHsmTJssvTkv3rJX7vH3ANy7UcxzCTTlzTddcwL9Kz1eV0s1p8226bfsOrql3XDqqqVlFmlxlI2s8O9zqOYaqCLJUwohlL01az6Ze7da+7BwskRhxmkIp5WCAd0wKx68Z+3TGstvekadkYcQrGWXp6v5y7ul3BolTGCCKWZlmaYSEDTnrJ2+O+bVgfBgcPo35Uld/1kofl/P46C726XBY1qSKUeASLDPUYZunkdp5FYbMbBpvhYBx6L8PG81brJrtYTs+TmqvzIsdyLI0gCRFkQNKJ+/v7urJL5KlhOzqNfKWIAABFxGXp5N96Mao7KuZpkiYKBEVQoGY6iqDQBCQKMKiIV3HDk6RcngQgp8rKj5vFz9kke9X3tV1dEExRBIHni2UJEkw+RwameT04CGoNAHZIgqYo5nw8/LW5+vt18/FslL0+fP8iAlVZ5UuiyCsyr7r201bU1TR7B+QpEgIATt6Mv2+3vz/d/vm8vpuO0qP4P6LYR+MiiQfLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/09.png",
+    "width": 1920
+  }
+}

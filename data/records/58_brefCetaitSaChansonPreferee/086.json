@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "La ficelle a cassé. Elle a dit: C'est ça Angèle ?",
+    "end": 89,
+    "index": 30,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=86s"
+  },
+  "thumbnail": {
+    "hash": "971a6baa13",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZ0lEQVR4nE2Oy07bQAAA/Sf0wKEcmkuVIg6IqKjQ0vQhFZLYTrz2vt+7XnvXjpPAr1egHirNdTSTaVJ7QaORxz68TOPLNJ6GfvC6N/INHhQ1tJGoIlXeFE+ZZajTYh/cYRj3MU1pNIwmp6fO74Mbg0mGd5JYBlldou36VYhWnYY+uE5x7W1Y3t0vb29OqTvGcOj93utkRSuJRBXebTLL8ODN8xD7NmJQC9j8uP86Oz8Lkj2P8dC3U2cGr4KiCgNS5ZmhMFp1jF1rgxa202r5+Xp2/i5I+q8QbHKylVhhQEGRadIExZPTBIDr+Xzxaf77bnE1e69IM/Xt4HVyOihuGRRw97okEbAMO068IMvbm8sPF4vLj48PX/Jf372gnRZeEMuQRBWrS1iuMt5sFQaGQstJUNwLahluJUPF0+bnN8ewJlAiwOoS7zZ1/phRULw5tcLN/xiK6HYD8xVvKgoKtF035Qqs//wFb2Sqy+E509AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/30.png",
+    "width": 1920
+  }
+}

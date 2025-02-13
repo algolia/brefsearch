@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Mais comme mon frère a compris qu'il était gay, moi, j'ai compris que j'étais con.",
+    "end": 45,
+    "index": 23,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=42s"
+  },
+  "thumbnail": {
+    "hash": "f4426e1993",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AElITnp+iJSXoYp6fIiBiImIlJaXo5qcqIaIk6GqtIaQn1lgcScpNiIjLDM1PjM3PwBWU1iEh5KXm6d4cXdoVVl1a3Kdn62IiJRaWmR9gY5kZnMsLTURFR4sLzs0NkM3N0IAdXN3naKut7zJTUdPHBgkVFJdgICINjg9SERMZ2dyPz9GLx8mKBUcQTpEQD5JODlEAG1qcaOns6avvUdFUBYWJkA9RkVARSQjKy4rNj47QzIwN0QgJlUwNWVRWFQ6QDIvOAA4OENVWGY2PU0xNUQaGCZNUF9jY28fHysjIi1EQkkmIChJPEJhYWdIKzJEFxwdExsAUU9XODY+Kis4OTlFLC89Q0dYUVBdIiMvLCkyPTtCIR0lSyoySi00MQ8VKw8VGAwTAF5cZ11caFtaZ2RjcD1ATy0zQzMzPiopMzY0PiooMCQhKCcKECUGDSYMEhkKEAwFCwA6OkZDQ1FJS1lTVWYuM0MbHi0aGiUgHygeHSYbGiMbGiMSExwaHCYaHSYYGSIVFR0ALCs3MjI/NjhFNTZEKik1JSQuFRQeGRkhEA8YFBMbFxYdEhEYJycyNTVBMC86Li03R65z3cltW8cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/23.png",
+    "width": 1920
+  }
+}

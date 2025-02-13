@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Non, le laisser là. Impossible.",
+    "end": 31,
+    "index": 8,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=25s"
+  },
+  "thumbnail": {
+    "hash": "16eb044619",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nAXBW2+aYAAAULLJBzJRkYiKXFTuCMhlFMXL0FpLFU0oa3XtqotZ45otTZqYPu5pP3znQAWA1mFQgwGZywm8bJn9rmqbumvrnqk5umqZumNoTs/4bJsXPcOHygjGAbQJ0DpApZYsdWSKqLBk9dINF/2Z2JIt3fHtQeCNAn/iuyOoCZA2gvIg3wCoyHU6LEfiOEdWsyjZxfcCK2qSMXCHw2A6GV4N+zNIQLA2kudgwJOUJuk8TdfLJblGP1xl78dz5I0NyRwFs0m4iMZxNIqhsFgZFMosktekriYqEsdSRVymmdP96fXwNvXGF1ZwPb9dbw5xvJtFGyjAiahE9rCiQrfaDM/XqUoBq5aI5XSzXT10m2zYdW+X39LkKU2fV8kBYgHKInkOIAxWkDlBYngK/9Sq1vfp8Zj+CDri10X2cjj/fHrL1vt4sYUaMELlYAKGHcW6u9mtviRCrekr5uPq8bo/D61gnz2f//x7Pf3db3/H0Rqq5UD5w8cGQaq87GmurfQUTlZZSWE6nupMvMn3u18vx/d5ECXzbHmZ/QcOCU+Q+fouswAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/08.png",
+    "width": 1920
+  }
+}

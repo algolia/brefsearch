@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Elle m'a dit... Quoi ?",
+    "end": 98,
+    "index": 41,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=97s"
+  },
+  "thumbnail": {
+    "hash": "ef8d1f8043",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nAXBS1ObQAAAYC618ljYXd7LwvJMeIeIgUBi1CgxHTNODzqjdry0l860t17b/97v4yLHTlxqqZrIC7IILrL0pmtv+/4yzy9CtqSEYjVlYRUmGQsz5nM6kAhCOoSyKCFRpIZx6Ntp6Maq/Pv29dfDTes6PnFXebVI0jpOuEBTA11LbLtmbhNQDKRtmR3H4bDu/zw/vW+62iGLKN4sL/tqucoLrqZWG7iVz7okamMvJMauWZz2+2nZ/Pt4eR27XRxuy3ra3h6vpv16w61j77qcb8p8KLJ2HsWetWuaQ7uyJfn7l/vXri0ch8jo+f704+Pn0+GRG2b+vqnGshiKfMjTdOZ3RfE2j20R9My9TqJAUWJBmhvkarw73R25zLErn6UunRGSOaSIWECchWm2mj5i/M3SJxV7AH4+E84/8ZZmcqYCLQhNCC2EXIRSQkNCdWzKQPVk9Nt3RlXleUA0ixqEPxM4RZAUXlQESQOKDkBCqKsTCxk2MjDAj6ZRQCSIUIcaBkg8l/4DiAU/Fxqa6JsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/41.png",
+    "width": 1920
+  }
+}

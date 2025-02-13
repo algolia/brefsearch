@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Tu peux me donner tout ce que tu as ?",
+    "end": 31,
+    "index": 14,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=30s"
+  },
+  "thumbnail": {
+    "hash": "bfe8a82a68",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGPwcXVWkRBVlBQr87OfnBLcHhc8ISF4flpIhb9zXU7MitltmmqqkmIS4sIiAtzcvBxsDHHebun2Zvb6mqtK4yrDPEw1VP0M1TrC3Y1VFDorUmf31UlJSIuLCAvxcgtwc/JycDCkJiZOivQv8HPa3Zp7qKtoQV7MlrKE4x3FU5KD1/eU1lfkCvDyC/PxCPJw83Nx8nKwMyRnZ00vzKoOcV+YF3mkJe9cZ8meipQtdXkr8uJWdZXkZ8SxM7MI8fIIcHPxcbLzcrAyZORnFxfn5Qa5T0wP2VqZvKoovibc19lQJ8bRfGZrYUt1Hh8nJz8XB0Q1DzsLQ2x6SmZhbmmEb7KP46TM8MpQt2Q7iyQra3czvSntxcuntaopKXKxMvFxsPKwMnOzMDH4R0bVFWb2p0VY6WsG2Jvl+jk2R3hF2ZqmR4YsmN42o63Y3tKcl5OdF6SamYuZiWFGa8327rK5BfGelkbqSvK6akrW+pp2+hr9La23r95dNX9+kJOtjqoKOwMDNzMzJxMzw6b5C5c2FkzJiSkJ8XQ3N9RQlNNTVwlztettad21df+ebYci3JzsdDXFhYU4mRg5mVgAHnqBxFK5TLoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/14.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Ça se passait bien.",
+    "end": 5,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=3s"
+  },
+  "thumbnail": {
+    "hash": "db1a184540",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nAXB3W+aQAAAcJItzbSrinBwB8dRnbUch2biB9AVtdL6xYFIbeuSbg9Nlj012cOWmCUu3Vef9kfv9xOKR0RUHAhPxWLBBBKowsPCUaUE/MHdZPQpPLsPvNtuJ7GtoVypHrx8IYgyUTEriVguvqrJYvWwwMwTajRcNrlZ/0yX3+LZl9nkcxhsHSuAQBNcN/X92yZp1qXyMZBqijJi3ZHjnXemd/nvfPWDx9/jxdfp1ePF+KHrxgJPnvLNv8vwvm2olqbUAYhab/0Gjbx0u3lepfv5cpfEuyh836K9Rp0JMd+v1n9Wyb5vdZguU6Qyw7SNRujy7fXzJnvKs/11sht6vG37LdoTePoryf5yvveYR2GZYoPiJiOUqKxW49Zp3nc/rqaP09FDFH4YD2bCOVsMnaX/pt9UNIK6UH0H4aiGupXqxevKuCJFsrJom8Mzww4wDbS60JKOB5DaIsRyC+mZjmMdzyGaKSjFJCVkDbXMQEsPUR+YgyoWTkTigLpRggrwVfVS1+c65rqRaZgr8ErTcg1FEI0d1GuLiJWV/xheVOpgSP36AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/02.png",
+    "width": 1920
+  }
+}

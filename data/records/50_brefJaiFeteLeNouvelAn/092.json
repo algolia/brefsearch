@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Bonne année.",
+    "end": 94,
+    "index": 36,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=92s"
+  },
+  "thumbnail": {
+    "hash": "9c765b8af4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nD3C227SYAAA4F9wFFpKW0rpkRa6lZaudBbQdWUTyqFQKVTKnIzRucRMTZZMWdQYY0w8JL6B8cYX0Jc0u/HLB3r9YTANOx2X5UpIFlv3nF+v45+bix83L8PH0Tw6Pjtbz4Lg+vrq/Yd38XkMnPbRcnk6HHoExaTg7ItJ//fb53+/vPnzbfPqIn5gt8PZfOL7WlWdBpPl0xNg2060iIaeV2B4cBdqKDs3kf/5fPFxOT0NZx138GSxOLAPkhB82D70R2Og1ozuYOR6Y317R2G5rlW/fNRzDH0zH1+uTkyn6/pB02rli0JnMDrqe4AVKlXNqO2aPFeatqxg3/q0Dr8/O/4az1fjQZ6ROFGuG3uCpBRZieYlQFJMkRUZvowV6H2rYevaynWugp5vGvdrOl3aFiuqphkMLxe5Mk4yQDSbkqILoozgBQQnFVGqVcoPzV2/dU/iBQjNU6xo7DVFWSVpHiNpQKh1lBYgBEuksyAFCwwncjyO55EcnsygiUx2C8EQgkIIKkfSKEGBLQi+cxu5nYJzObyhVmWhlEgjyQz6P0jBaZRACeofJBlQ3tSI0N8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/36.png",
+    "width": 1920
+  }
+}

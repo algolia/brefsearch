@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Et ils repartent tous les deux.",
+    "end": 87,
+    "index": 34,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=86s"
+  },
+  "thumbnail": {
+    "hash": "7be69def98",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH92cI2GgZmUj6Gbl4F4c11UU4mQlpekrZurtYOJj1ZIR1dVW0U3NV9PRXtqWmdYTACGfHKWjIOgl4+onpaOgntqYF2LkJeXoauhsbyIe3l0SDVSODA8KyVoWk+JeGVvYFMAiH5zmo+FpZuRq6CXk4d/bmNfgoSKiZShkISHYT84YT81TDs4RTw7emtdlIJud2haAIt/dZuPhaSZj6ielJKGfm5hXX96f3d+hz0tLRwRFDQkIx8ZHi0nLn5vYpqGcntpXQCJfHOajYSflYyjmJCOg3tvY192cHQxMTcBAAUTEBYQDRISDhIMCRJnWlGZhXF5aFwAhXhwj4J7mY6GnpOMin13cmlmYFdYEw0PFBAUEg4TEw4TFhEWDAoRWk5Hj3tpcmFVAF5PSWxdWJOIhJmOiIR3cW1kYlVLSz8yLxwXGQwJDhIOEg4LEAgGDFlNRYVxYWVVSgAnGxgsIB1fUlOHfHl6bWlkW1pFNjU2JyUODA8NCg4OCw8LCQ0KCAxCODVlVUtcTUIAHRUUDgoIKyIial5cal1ZV05QTEFBKyEfBwYKCggMEAsPDwoOFxMXUEU/XE1EUEM7gt2UXkPeg7UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/34.png",
+    "width": 1920
+  }
+}

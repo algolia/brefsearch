@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "name": "Je joue de la guitare.",
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M"
+  },
+  "line": {
+    "content": "Après être allé me faire enlever mon kyste à l'œil, je me suis dit\nque j'allais racheter une corde.",
+    "end": 42,
+    "index": 20,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=38s"
+  },
+  "thumbnail": {
+    "hash": "b53d215dcc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJxjcDXWMpcSX5GXWpMQYm9p6miib6KprKGhKiktJSckmGhjHuNq52Sio6skIysqYqChyuBpZWApK10RFtiQldSWk1jiZ+9srKuhry+roCAnK6OvqyknL60sKykhKizAw8/MwsEQZG9moiQfHODVVZy5f2Z3Z0Kgr6G6gYEuP5+gAL+gkaGukpKiuKQkP58gNwcvOwc3Q3VafHx4sIeNeaKX/ayK7DgXm1Q3aytjQxN7F20jMw0tDQ0tdVkFeXFJSSFhMQEBUYai2NDkyKCUmJhZxdnTS9I6U8KLAlxdPT0iK+qSi0t9bC3AGhRFxCT5BMS4eIQZarKSlq3dsunI+U3rthRFB+QEuoVZGhrb2dhGRLqER9hbWgoKifMKSvALS/ELSvDxiTIsmDpl14lLFf1TpyxdW56Z4u9o4WRmoOfqZuzqrqSlIyajKCwmLSwizccvzs0tzMEpyLB9847V2/bWTppR0NlXXF1vpqHgGRmd3z9dTcdAQkJWXFJeRERKUEiSX0CMl1eYnYOPYfumrfNWrEmpri/pmVg/fX5EXvGMddvKG9skZRSERWV4+cT4+EUhiJdXhJtLAAB9GnBAqtW5PAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/20.png",
+    "width": 1920
+  }
+}

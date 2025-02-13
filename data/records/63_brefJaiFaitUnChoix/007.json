@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Et surtout, elle et elle étaient avec moi dans la même pièce.",
+    "end": 9,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=7s"
+  },
+  "thumbnail": {
+    "hash": "13bcf28177",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nCXLS3OaQAAAYG7trb132kNmnObQOJPSJphEk4kgtsoIwrLIQ2BY3misCrKiJsQ8bKZNrz33l/aQ7/4RnRYj9XhNhqaq+46beiH83tI5Tq41rE7vKk5iLwgc1xlao2RGfqYIocvpcIBMK3Ccn3l+40egfqjTZ9Y3Fh7XVwu8mM5n48k4jBfZplFvErAvOIbpO94mnWJHTofgLx7HPfqHBu0LZp0vN7gosjybzsubHd3sECoAnu2MwvjX9hoj8RrB0jdN9jxVxYiXXsJ6gZdZ/vjwzLY4QpNh4LgDoEx8tHbFeyT+20zj9kWJlN12W7yEfLnKlw/3vzXVJhRRDJF3dtrg28zjWAu7J6UtiV+rLnv852mH8WpdrIoM43Rxd/tk6IgQOW6oGTzDjqTObSgZTVIgK+eVd6UrPM8mkRVF3lXiJokfbNZ3MjCILttWhP68Qfm1gxFoaZdfuOoepPYzyCp7H/SjmqUbgY1c05pNMd+DBE0z6JRClffU2zfqCckdfQLUwfCS7Fc/tl+/0vYrrgJMMFCB7KEIAuM/0Jqeccj8JckAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/03.png",
+    "width": 1920
+  }
+}

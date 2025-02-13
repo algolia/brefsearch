@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Pour modifier votre message, tapez étoile.",
+    "end": 58,
+    "index": 26,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=56s"
+  },
+  "thumbnail": {
+    "hash": "bd38f768a0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdtbXtxcIF3doh+fYyCgpOJiYd9fHNnZl5NS2JXWI2FiIF5e29lZl1QT1BDQj80MwB5b26EeXiNg4KVioqaj4+mm5t/dHNUQD1oQTk/KSeRioyTio18cXJnWVhURkQ/MjEAf3RzjIF/l4yLnpOToJWVqJ2dgXd4aUc+cUE5Xz46mI6QmpCTh3t7cWJfXk1KRTY0AIN4dpGFhZuPj6GWlqCUlJ+Xmph3bndEOV0yMGBDQ3xvcpeOkId6enRkYWJSTkE0MwCEeXmRhoabj5CglJSelJabjI6TYVJxWlaRhYaFe31bUFSRh4iQhIN3Z2RmVlE9MjEAf3NyjoOEmo+OoZWVnJKVnI6Pf1JJWzk3hXh3hnl7WUtQvbOs5N7VmYyHbmBbSDk3AHBfWod8f42Eh4qCiIN4f31wd3wqKVYpKUQ6O1JFSIBkYbGpmay1pI+De21fWDsoKABYSktgV2BnTlRoSVBdVF5gTld3FRNgNTVNRUVJOjtuVVh+dnSMiX57bm9rV0xaTScAOywuSUJJYygodxQSbCQlWzU5WyQnXTs8U0hJVEdIUkpTU0FCd2FbYlRTUUVAYFku82u1HRNuZVoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/26.png",
+    "width": 1920
+  }
+}

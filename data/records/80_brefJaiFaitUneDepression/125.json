@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'ai arrêté de le taper. Il a arrêté de me taper.",
+    "end": 127,
+    "index": 45,
+    "start": 125,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=125s"
+  },
+  "thumbnail": {
+    "hash": "27d6c6b283",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nBXPOW/TUADAce+237P93vN9xbEdH9hxiEnsYJvQhkMlC6pQRdWBDgwIVbQDYoAKqRMCqZQbISRYCEeqqAuIhQnY+UgoH+Cvn/4UpGkJMIpAD00u10hlqXaEoh5KMiz2hK4vNYbY1YAsQAUykGYonmFUyFgIhDLOLH3oO1XqDRN7JQ+qfudUywhVvasjXWBNARIAKMyyHuEURHxTyV13Eqe3zzeHG+NXm5N7166cDU73vY4tqzbi2hgQyFEEsG3Cm5JsF/j6pL47vfh8o5xtV9+3i0db47Ukubx6od9NfVnyRU6E3FIIVZQ5VpyO1s+NHu/d+nq0++X9/fnNS2/vTPf3NuPBeKVp8iBwMRAhTxHIhjKurKCOov3drXdHTxfHH//8+/H74c7fNwc/f31aXx1N+mkZeC0MVcQtA1cU8o5fx+2DBzsn85fHnw9P5q8X314sZs9mH57cuDqZhs3ACR0CVMQvHxzCe4aeOHYWB6NBVpd5XQzrsqjKQXGmlydx5GUtRbMxJBykeIbWeFbBxBAlS5ZdTQkNIzLNyDRCQ/c01ZYVXVI1LJoCQID9D+ADWloxFTHAAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/45.png",
+    "width": 1920
+  }
+}

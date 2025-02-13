@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Et derrière l'avion, il y avait un nuage, un autre nuage.",
+    "end": 24,
+    "index": 10,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=22s"
+  },
+  "thumbnail": {
+    "hash": "28418f7103",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nCXOjW6aQAAAYB56b7BsSdM1cWnadelsJZtzVq1uabHU+VuFainyI6Aed3B3cNwB7hmWZS/w5ZPks/f1i+OWfDa8q1ua4puznbMAzjQwh+FGd58V/fH6SamqrdMf1eNPp0dS86rS71zro5+BOYX+kgCbhl6CggR5nGyg9bBddTfazeJBVjvVdq0iTZSGuxrS0OVkn5G9SGBG9hT6IkGCbululhODxwbytdX0Xu3WpOWkFwUrQYOS00NGDoIWLEqQJ5JQUMSwXzCQsyhPUbxfG7N7ydQe40AXsVsK+qfghyLh2MbBtGAhw6Bg8YHTMiMFiyn01s8DaaV+iJ1aGbXLuMeAmlMzT6MU/S+BgqHiH49FAjGwjXlfGjXfrH+/RcZ5tJbD1waymjx+JTBkyOLYFSniFHCyx8DeGJOx0pC68smo92X99At6S062RQoodHHo5SnkJMiwnyAn9HRL64/vvt3KFal+cdSpfVTbl4vBjaWrO3sB/Zd4Z2Jgh/bYn3935h1t0Oy3PreuTr6ev/sLTuFaJFpBFkgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/10.png",
+    "width": 1920
+  }
+}

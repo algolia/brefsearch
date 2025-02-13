@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'ai trouvé ça méchant et pas marrant.",
+    "end": 26,
+    "index": 10,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=24s"
+  },
+  "thumbnail": {
+    "hash": "fbd5696bd8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABcNDmU4N0goJh0WFTAlI3dWTq98cquMjHB3kFxhdWx0jIlyYJqGdHJ2jWVogmJlfgAuGhh/SkZiOzQvIh9rSUGIW1Kfb2ebe3lLPT1WNypSPzp5X06slYWMipRiaIVjZn8AQCQff05HY0M6VDszonBgcU5GVDw8VEE/WDYknGVURi8pVz00on1tlI+PaHKTZGqFAGM+M1s6MkIvKGpHPKRxZKt/enhWVEw3MmZKPkUxKzArLGBSRm5ZSYh7bFpTV2BieACCZ2dELSNBLyllRTx0TkaAVFCQXlmOfH56bnESDg4yKB9XRzY6NDtBMytELBJOR0oAb22FPjIwLyEbUTw1Xj87TTAuTysokmliZVNSHRYWJB0ePCsbLSc1OS4vRjMfQDIrAFdaeV9ecBcQDz8vKUYtKVU2M3hQR5NkWqCDgx8aGyEbHj8wIzEoLC0lKj4uHjcnGgB6eZSAgqU4OkgYGiUgGRtWS0tlSEKcbmSqiogrIyQfGRhvW1J5Y1xgUVB6cnI2KyMAYmGBeX2lU1dzLDBjTkVcZ2NvRDIvaUZApH54RTk3GRYlLTGCQjhGLSUpPDY3MighXA2GlhgWqEQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/10.png",
+    "width": 1920
+  }
+}

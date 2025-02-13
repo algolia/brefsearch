@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Inerci 3000, la boisson des vrais bonhommes.",
+    "end": 73,
+    "index": 30,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=70s"
+  },
+  "thumbnail": {
+    "hash": "b79a8052e7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACgbIi0fKCIaJBoUF1xDQ15LSkE3N0QyOmlNV1I7QjQxNSgfKFBGRV9TUTgtLj86RAA1IyYZExkHCRMNDRg3JSNTQDpCNDZHKTdRN0Q3LjUtICgnEhtEPTpSR0UsJCU6NTwAXD44QS0rGBcaERMgKB0eRC8nNhggPBQgRTE4TkNDTj0+Sjw9S0I9ST86LygnMy8xAEYvKl0+NWNFOlY+OGlOR3ZTTU05OSYwPR8jLi4sMFNMSE9GQkg+OjkwLC0mJTAsKgALEBkXFRkhGhxDKiRoRkBiPzhnTVYpNUUKEyAICRM2LjA1LSwoISEjHRtbWF6JiZgADhUgAAUNAgcSMiElUDM3GBwrPUVpGyk7JSgzOCMWWEAjXVlXcW9ulJWcvMTcrq7JABEXJAIECgQHDh8VGB0TFhktSC5RlWFkaGNcVlRHPExTRYiKi83MyM3Mya2ss4eElQAMEx8FCRAEBAwFBAhtaWqmo6Kbn6qvrKmloZunpKGvq62xrquxrqyzsLGrpqiclpoABQkRBAoTAQMJCw0TlY6Nv7q4vru6vry6vbq3tK+rq6SgopyamJKSj4mLjIWKjIOHIup/XCrRa3EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/30.png",
+    "width": 1920
+  }
+}

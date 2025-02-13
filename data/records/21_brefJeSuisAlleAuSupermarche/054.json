@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai dit bonjour à la qu'il me dit. Bonjour.",
+    "end": 58,
+    "index": 24,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=54s"
+  },
+  "thumbnail": {
+    "hash": "4b53c1e5b1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJuKmI98fZiIhJd8bqaRjaKYnIVlZ49lYbiuvc/M4cfA08G5y7uwwbGis6KSoFtJUgCnmaqcjY6kl4+qk4W3raaQe32LYWSPYluwpbLZ3fbP0ebOzeLMyN29tcenna5cTVYAtKy+qqOrpZ6ckIR7fHRtRT47XDs6aUtIubzP19z0ztLoz9PqsrG7qKSqrKe3XFBYALu4zcbH3X17fz01KD85LismHyYaGo1nZYVva5aXoNLW78PH24WEgIqHhZ+dqVlQWADDw9u1t8pOSUU9NzA5Ni5GNSs/KCFALiprS0VnXFfAxdvDyN6NjY1QRUFKMSdHLSEAtLTLYFtbOzcwOzk0Li4mRzcrVDgsJCUcKSQhPTcyZGVoq6+5bmpoIgwGPx4MRB8LAHx6iEA7N0dEPz05MmRPSZFmYE82MC4vKCQjIx8iUiIkNG1sZU1APh0JA0IiE0MgDgBnXms0JiYyJyc9JyR2SUd6VFNrV1VMQjw7MzkZG31BS3hNU1QiDAknEg5AIRRDIhIAWktZRzQ9SDU5SzY7VDk8Vj5AX1BQRzY2QzM2My9RQzpKPjY6KB4iKR8iLR8eLRwbRs+yfunOX1UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/24.png",
+    "width": 1920
+  }
+}

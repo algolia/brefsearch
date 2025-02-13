@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "À moi, chéri.",
+    "end": 81,
+    "index": 31,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=79s"
+  },
+  "thumbnail": {
+    "hash": "5045673849",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfUlEQVR4nAXB226bMAAAUNMK8AVsgzHG4Q4jQJqKpFtCLiNtRLRuD9OmRXuY9rT//4mdA7rQ28TyWOlPhc48Wvns3KS3VXlpssi0Bi07JThErQp2uZ77CmziYPqw+PKUKe4XzD3FgfbELmFzE6UQfUzUlEfPAeeWlXP6VifgJZXLkA+JlEz4xEkZJYjd2uzfvltAtImEIkgieMj0XCdTpkCvfU3grUkVly4kLsLc4V+7+u+2aZjbcjfE0IHwtYz/PNdjHICfl7UwH+dKS+o7EDOMPeIspTinYQjtnDpDKrFphg7ZJeqQhUAQ2Ar6vkwEwciGLsIehPbjw0ZHie8Vwr2/FILgrqj2TXUpI/BgGMNCvK+Kbao+NzlFWFPytm7vl/G8bimyn+KgVrIv6teuPuUKVIGnKSl8dsjV921nAKP23LnNx3JhGYBYJsEw8+hlmXdREDIGrsPqWKVTpX6Nq9/X4/02HcpwzMSpVD+m/bfTnkJz6utrX3nEsS37P7/bMfKH1GeuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/31.png",
+    "width": 1920
+  }
+}

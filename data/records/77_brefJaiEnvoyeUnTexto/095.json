@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Je l'ai envoyé. Bref, j'ai envoyé un texto.",
+    "end": 102,
+    "index": 47,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=95s"
+  },
+  "thumbnail": {
+    "hash": "53657bc793",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABSElEQVR4nEWRy27CMBBF8/+fQhFJgwpESUDi0bCA0k1XTUGVELKJHyUe8NhOoEpA7VmMrnQ3o3O97lNvMc/yzy0rBKizvqAx1rQgGtQI6syYzPPdYrHsPvW89WrDClFVdVVVdd3cv1A3VNdrkxFNUYi31bvHmNBa7/d7ISQhhFLKOaeUHlsYY4fDAQCstc45VnDPoFVKdTqdKIpms1m/30/TNAiC56AhSRLf9wkht9vNGKM1es66siyjKArDcDweJ0kyGo0mk0kYhnEcz+fz4XCYpikh5P6Yh2gAYDqdxnEcBEGWZYPBix/2P7bfP1JyzqWUlFIAcM7pC3pFwa11AKCUEkKUpTqdTpwL69y/g+u1qpxzrjjyhyVrm7puhbRyamcf3INpLa1XG6/dYZnnO8YkwBk1GmxGsMZaYxHNGS6Mya9899ru8AuikYFzkmpG1QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/47.png",
+    "width": 1920
+  }
+}

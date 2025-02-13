@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je me croyais à la fin d'une comédie romantique où le mec cour\nretrouvait la fille qu'il aime.",
+    "end": 55,
+    "index": 21,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=49s"
+  },
+  "thumbnail": {
+    "hash": "e787e9a36e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nBXC20/TUBwA4D50Pae/c87anrZb2wMra7f1wkphLWyMTRzzhiAmY2YYAhiRaHhYjImXxBgfNOHB6Iv/sPHLJ4EKSFFVRJCiYgwIQyRqgusVGVOgXOOyDBSIqoAsqxiBxABUrBIAAmAyYjGyuebEHmcYbTTcl+PSoMxk1CCUATEok3QCnBFbozWdugZzDZI3nVhYgrPUszxds6q6x3WrSjj9X1IrMkOKSbCuIh2QhisthwcONwkyAJQKaMB0IDqBKmCKkTTMOuM8ur8VT8tk0osnvaSM/CIUw/XmsBtohIVOrej4acNti1rgWNLHi+Ovr05+vFv8en/158Pl30+vF5Pi2aD7e3k2n5SWpgVe/cvl0efzx2+e9s8f9KTro9FyPv12Pft5e/H95sXd7WI+zp6U8d3b2SAJlrN7h9vr/SR8WKQ3x3tXj7alvWTtIG8dlunJYOP5brbY7+2nzTIUp6N8p+OfjfPTYXeah1nD2Wmv7HaE1K4bqbA2/XrRdPotbxStZit2u25s+U7s2pHDVw3WtI1E2ImwItf8ByKHQKX8uExGAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/21.png",
+    "width": 1920
+  }
+}

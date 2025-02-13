@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Bref, je suis allé au supermarché.",
+    "end": 70,
+    "index": 29,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=65s"
+  },
+  "thumbnail": {
+    "hash": "22d2417278",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIJ0WJ2LiKaapYhzb4d/bZ+HaLSZf6WSgZ+Jc76slrGjnq6dmbSnqqCXk5CMiqSbqgBaT0aTfWSjlJK2rqOkmIiEaliRf3CKiY2JjZfTyrLCtLB0VU+glp6wooZ1Z0GLdIIAW1BOlIFvjX9zk5CQjouGcYOJf350m3tyiV1WuaGNVjY9BAsiWT9Epo2AgGNlbF5oAHlXU4hwYnRSS5qXmoqirG272oCWmHRGPYhTTauXjko6RTAyQ04oK4lbVnEmKWJDRwCIb2dRJyJMMjKAc3R7mallrsk7S0p/eX2FfXLRz7/MxMGzn6UuLTCNaGGIR0N7YWUA0sbDmY6Jc2Zjz8DCt7e+e46UMjk3mJGZloRx0aFWz51mcGlzKC8/hFNQdlhTXVlgAMS6u4uHiWRlZKiio9DFyZOAdmhcUG1jaIR6dMy8spqGb0RFSmlnYYhUTmAMECIcJQCpn6WLf4CuoJqyqKDGu7atnJC3ppRrX1t9eW64xL5+g349QEGpl3yJdWFYQjtMREoAqJ2mr6Srtquywrq/x8DDz8jKz8jGxby1taypjpCcjIWHaWBXmYh8fEhGVCclODI9TnnYBEfFuYQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/29.png",
+    "width": 1920
+  }
+}

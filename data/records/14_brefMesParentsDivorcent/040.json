@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "C'est parce que j'ai mes parents qui divorcent en ce moment et c'est chaud.",
+    "end": 44,
+    "index": 20,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=40s"
+  },
+  "thumbnail": {
+    "hash": "880fee9104",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD05QVFKTH11fYN9h5iUqaunu3FogFNPeDs7ZVM/R01BVVNNe1hTga6ryrezy6iitwBFP0RoYWqbl6pJREh2aXC7utFwZ31IRXEbI1J5U0Z/YWdaVYpiXo+4t9WblaaUjaAASkNEenaDpq3JQS4rgV9VvLzUbmZ4U0xtGBw8U0VQe26FOTVUX1uLtLLQe3OAfXWEAEtERm1pcXZvg36BnpySoL3A3mhfcDg1TA4NGF1bbF1fehkSGlNOc6WkwGpjbW9mcgA8MjFHJStiDBptVnWyu927vdpfWGotKj4MCxZUTExDPUcdFiNGQFuYlbBcVWRNR0wALSckOg4XbQwhRCs8g4eblZajUk1fHh4xDgwSJyMoLCUvGxUfODJDZ2BvMCw1PDY8ACMjIEAUHloFGSomNVdabldSVUVBUxYXKBMSFx4bJSskMSgiMichLl5XWkhFQ1BNUAAaGhk2BxFTDB4pKDV0gaJpZWo6OUkRFCQWFRwbGSEnIy47N0IgHCtwbG6MiXlNSjUAGhcWKBgbWAocJxYkVl5za2VnLS05IB0rKSAlEhEZIyEoKionSDxCTkJHPjk7Qjs1/uuOx1g+tqoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Allez les sommets ! On y va, on tape dans les mains.",
+    "end": 53,
+    "index": 18,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=48s"
+  },
+  "thumbnail": {
+    "hash": "af8f1b7001",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGxLIDQeESkVDWQ0IYRJMZ9fQ6VlSLR2Xa53YV89MpxsL6l5L5dpLIJmWGpVU1ZBOwCDXihjPSNFIxhRLB1WMSOFTTaaWUGDVESLYVKPYEm6hzi8iTWxfzWafG2Ba2prVVEAo3kzdk8pYDIihE0zeUkzjVE5p2pUiFhDpnRir39M0J47xpM6v4w7qYt6h3BwVUA/AGlLIiMWDVUvHa1jRrNoS6tiRdaSd9KPcdCPd8aTStimP8+cPciVP7WXhmZSVC4eHgARCQgUDApHKBmBRzB9RS+CTji7fWfJgWi6fWHbqEbns0bVo0DRnkarjn9NOj5TQEAAFA4KKhkRPyQWbUEsYTQmYDAodkc+m2dUdlA/Y0omq4I63KlC4a5OjXJkPCkrX0xMAA0JB0AnHEsrHEMoG39FM2w1MZ1gV4RbTCgcFiIXGCcbG1pDJLSLRLCPgWpNUVxNUQAHBQNILCJ3RTIvGRAtHRMcFQ1HNiwxIRsRCwkoHRcvIx4eFhgxIxyylXexlXqOdmEABwUDSC8mhlNBYjosIhYQLh4TLSEYGA8MHBMPHxcUKR4bJhsWGhIScVMmmXEseVUizg+NmWaedPYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/18.png",
+    "width": 1920
+  }
+}

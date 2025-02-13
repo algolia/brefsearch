@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai entendu des jeunes parler entre eux. Trop de swag.",
+    "end": 41,
+    "index": 16,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=39s"
+  },
+  "thumbnail": {
+    "hash": "5ed00590dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nBXN226aYAAAYK7XruqqXddOLBqdihyVvyvHX46CSICCHRWsysBWs91tya72DrtZsqdd+gBfPoTFqSIvfWceLALfu4+jVZrmy2QbxNmPX7///P2XZIXphJo+B0DgeYiwOHl4Pm6z9SbbfolXgRfPobbKCtd/8MLs6/FnlOT+fSorJscJoqgizBDf5+V+VzwXh/XjBkM7jUqDm4hhlIbLjR8kjhu73hJOrcmYFwUVGXWHL+XLcX/4fvjmWk7lpPr25B36EbNt33Z8TXUU2ZhCUzfmcDp7HYad/n5XpsnTLtspvHT6plI9q3+4uIaKKQmqIOqiAGVJVzVHkfW7WxHpY71ym8fhQ/a41mR4Xm1UTqtYs02MmBbaY1ieGLEsDWiKE+6UV9BpdfLsyV+Eob+M/LjfI2pn5ww5oenPE6AYs1iU7UGfat/0KILFByTSvGouLEeDpqXbBjS67X69diGIBlRdSbbcIDPsSJAskgSfujh200VaV6gIeB4IYHzLEMz1JVqvvVfgjCIBSXCOl0DN42VrzEkECYYD+j8OOWyYE6/okAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/16.png",
+    "width": 1920
+  }
+}

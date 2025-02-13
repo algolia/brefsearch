@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Vous acceptez la carte deux ?",
+    "end": 107,
+    "index": 47,
+    "start": 101,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=101s"
+  },
+  "thumbnail": {
+    "hash": "601d61fc7b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAgUlEQVR4nJWQywoDIQwAF5rEB9bHoQQ14mH7/99Y6tKy2HaXzilChgwu+CfL/gEAlwG82Gb8JTjnQggxRjPw3qeUrLVfBAAwxpRScs61Vma+DUSEmbXW7ztzEgIS0XVARFPPLCA+t1trvff7ukoVIjoRNkcPlFInv7Rv+4w5Eg54APxLDGZbGSdrAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/47.png",
+    "width": 1920
+  }
+}

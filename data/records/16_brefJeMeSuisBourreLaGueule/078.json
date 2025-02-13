@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "J'ai fait du café.",
+    "end": 80,
+    "index": 35,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=78s"
+  },
+  "thumbnail": {
+    "hash": "0ff42720c6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADERDB8OCEEgFWIzJnRGPIJZUXJSSYx3ZaqVf6qVgaiTgI9/c5OBcJB9aX5rWHhkUgA+HBJPKBtjMSFhMSRiNytuRDl2T0ObhHCtmIKbiHVnXFM4NzlnXlebiHeUgXCSfWsAUykbbDkpUSkbUiwgYjgsXzUqelhJg3RkaFxQXVZSHh0bFBIQKikqd2xhpJB/j3xrAGYzImg3KT0eFS8WD04pH1IxKGpeXDQxLiMjJSYnKTQzNBoZFw0MCiYiHzs2MSMfHABdLyBnNilZLiJhMiZJKSFvYEtGQzwKCAkkJCctLC8vLS8wLi4QDgwGBAICAQEGBAMARSIXUSoeRSEXXTEnaEY1t6R6tad/Uko0KionQkNIJigqLiwtHhoXLDE0LiYgIBUNAB8OBzUXDykMCUsvJ3lWQ4tpVK2NeNC4payRinpdW1VNTiAhISAfHSQmJx0ZFRYRDQAqFxA5IRdUOCl9XElqSjlPMSJAJBpcOzJ7VEtgODKBV04vJyAGBwYLCgcODQsbGhgAXUEzV0AnXkQpWT4hbFU1hnRSmotmiXZUZEswVjknZEExp5VyQTgsIx8fKiopJSMij+Jy5sAztHoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/35.png",
+    "width": 1920
+  }
+}

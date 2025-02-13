@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Bref, c'était un soir avec Marla, je me suis arrêté.",
+    "end": 4,
+    "index": 0,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=2s"
+  },
+  "thumbnail": {
+    "hash": "72d573aeeb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALaHPL2QTLmnpciHHqmGNpqijreQNNitctK1mtKQFcWleMCeccZ7A6qSh7R5O2AzAQChhF+dgFihhmKofz+XgVmKmZ+ilG61kmWylnKykmG1lWuwjl+mgEatiVmUbT1IJBkAdHWUWE1ZW1JfcXWWcnWRcV5jc2NtgoWfb2JtcF9ohIWabm2CVVFjo5yhX2JyPA0dAGtujFVRZUZEVl1feXN0jlhRZl5YaXx8lWJVZHJXX29vh29lblJCQ2JnelxSW1YPFwBgZYB6gpM/RVlaLzdbQ1c/S2xHTmlgNUdALUJMQ1BYPlBXSlAgKDQjLDZIMTJaCxcAWF1o6NfSe3iBRCAoRzI3TTI6TjpBTCYxNRkoIiArLCkyGB8qFx8qGCEpNxwfWQkYAHNfWo9raohfWn5WTX9XTlwRGGEZJFAyOjkjLSoiLA0XJBEUIiMmLxkfJiUIE1cHGQCJbVyBZmOIaGaMcHadhoaTeG+LblpKOjggJDAVIi4WChkeFCEcISoOFBsuBRJUBxgAfF9JhmpTiW1Yi3NljXZqi3Bfj25VMiwwHBgkRw4YVg4aQwgVKBUfERYeNwYTTAcWkFKW+wzcxOIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/00.png",
+    "width": 1920
+  }
+}

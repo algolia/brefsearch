@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Je me suis pincé, ça m'a fait mal.",
+    "end": 92,
+    "index": 29,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=90s"
+  },
+  "thumbnail": {
+    "hash": "a914686c6d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZ0lEQVR4nB3O3WrUQBQA4FxqZubMOWf+k0w2f2tsU7PtLq62VKUtVLwQ7I1goSD0KQo+vOgDfPAVhhRqgSAZJWkRHEWPlYUm0TKn45Kt1gQqRYqeLKuCSWULlZYIglFWkXPkRHLM+HQ73Z13tbFnAT3DfwCFkOJt4vs5eC01lE0yQ+srLm/W+PxjOb7vzvt0ne3Qur73lqAQpRgDPR76N5FRldHxNMR5G37dbL9c9Yer7rDWd0MaapOScUYX24o+T/5p3/9c21NPBvU0hndr+/vr6cPlWHnMnveNqw2yBgJZ7DbmOPjHQ/f9rPm2D2Om3NiTk7TM8fK4udg1Y2Nz5CZQNNpoWYwBjVLe0G2klw/h04VzWjGhQzl2tNvV242dsq0dMkiDUCQtLShHeN/xH1bXWowZogHSKnuYJz+1bhM5sCatEGRB5WtVioCKhPz4qlxJtC0sW+gz9K1pKqrdvwxrCVIoUf4FtrkuojsSKiMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/29.png",
+    "width": 1920
+  }
+}

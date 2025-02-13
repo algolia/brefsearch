@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Ouais, la star, mais tu la payes. Ouais, OK.",
+    "end": 61,
+    "index": 21,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=58s"
+  },
+  "thumbnail": {
+    "hash": "726c953cb8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGFCHXRSI31PK1QqIjYfFHM/Kn1FLJpbPqNlSJtgRqBpVIBVRG1NMXNdWFtJR0c2NAB9ViaZcC+WYTdcMidsPymGTTNaNSVrPy6fYkata06rcF2GWjuacECFbmxkUE49LSwAglwpbk8kPCUYRygbiU80q2hIfUw3az8uhU04iVM/b0tCn3AxtYZMinR0Pi4wJBgYABkQChMLCicXEEsrG4tNM7lvUb14WrFoSa9uVXdNQntYQL+LNL+QV3hjZTgpK0Y2NwARCwkgEw9IKhxKKx2FSzGhWj6qYkapXkHBf2i+gm7LlFDNmDm+kVlUQkM9Li1ZSUwAEQsIMB0VVTEhNB8UckIuYDoob0EwbUEwo2tZhlpJmHM11589x5tieFtfTzs9TUJJAAwIBj4mG2k+KisZECQYEBsWDzsjH1syLVk+MyIaFhwVFWlMJbeNVr+hjaSJeo11agAIBgRQMiZ1RDBFJxoXDwonGhE7KSRsRT0dFxMfGBUlGhccFRgvIRmZbzOkeDaEXSsABwUDPyggdkg4XzkqKBkQJRoTJBoUGRIODgsJHBQSIhcUKBwYEw4QSjYejWUscE4jGVN8v1tIFGwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/21.png",
+    "width": 1920
+  }
+}

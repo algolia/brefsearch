@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Je crois que ça fait son effet.",
+    "end": 37,
+    "index": 13,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=36s"
+  },
+  "thumbnail": {
+    "hash": "5cbb38f75c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD48Q1JUYGhvf3d/k4WQp1BPVDEjHVo9NFlJQlhPSkpCOlROSl5aWUE8PkJCSFJRXQBFRElZW2V0e42OmbSIlrBeS0pgRj9fQTdXQDdkXl9TS0ZoY2F2dXpQTFFLSE1bWWYATEtSX2BqdX2Ra3OIRktVfmRef11VXzwzSDcxQD45OTEqOzMuQTs2Pzg1T0pNY19sAE5NVlxdaUZKVBoaGxAMDFQ/NzYjGkAqJmFgZ3J3hFxbYFFNTlNOTVdUV1FNUWZkbQBMTFRISFAmJiocHB0NDA0VDgwHAQAmJSdnX2OEj66FkrF/h594fZBoaXVTUFZvbXoATEtRNTU6HBseGxobDQsMDQwNAAEDKyAdY0Q3eXyOdoGXd3+RfIKYcXaIU1BWVTo1ADk0MykrMB0bHh0dHg4OECQhJQ0KCjsnHGdfY2dteRcTEDEvMkhESk9PVkA5OTkuKwAkIighISUbGhweGhsmHBgqHBg4IxhNPjtwfJBSV2ARBgEUDQkSBQAaDwktJSNFQksAHh4mFhYYEhIVGhIRUzswRi4kOiQaJB4cJCgrJSUlHBUTGhYUKyklIBkYJxgSblZNSENyuRh1L2kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/13.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Sur le chemin, il y Il y a la fille au bouquet de fleurs\nqui m'a dit: Tu viens danser ? J'ai dit: Non.",
+    "end": 62,
+    "index": 22,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=59s"
+  },
+  "thumbnail": {
+    "hash": "b8f32b9124",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nBXL246TQAAAUKJZFSotMJTrQAtlCqVcyx0GurXttmS3jZtUa9yYffAHfDAx0UR/wU82nvdDaKLsQB37wTop3xXtrro9VOu+xvd1d+q2D3h7rjbv8eZUNNc4ffZ8wplYpRvfZeW+7PbV5lA2fb3p8dOh+oiDzlYgAuA+TL512x8l/hVlRGjNsR/3eXGXt7uiODTnrv6T+o8rt7dgAamXqUB6PHhcPXwv93+T+n/IkHNM81PT9N1Tlf9EMJLpN6V77pydMSBmDCWQN0szuo12V78mXAVmyD4m4am91NlvW08mHCcPpXhipyK95KibFwQ3eOubbjqPqmVJIEFq/eCYd1nwdQ5tyLIiPVZY2RPVRuVThQPk62y2CEwvMNzUCogEWetw1YSfLcXVeVZlBez4nobgEOg0rbMjQ4SWbCDFtNWZwcvEQlNCw8rdD7ZmhoZxadrnpi3MnCFHYEAPXlEqkKZjVQPSeSwZNENMRaCPmGSGfbTAtnONV5dwa08/ceQIkBRD0gojQkFBDPgCeHfI/ANhI0phacbDiQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/22.png",
+    "width": 1920
+  }
+}

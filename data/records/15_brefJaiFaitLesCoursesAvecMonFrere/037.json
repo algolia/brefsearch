@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "C'est mieux pour toi. C'est mieux pour toi.",
+    "end": 38,
+    "index": 19,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=37s"
+  },
+  "thumbnail": {
+    "hash": "a6a75fa72c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGxkjT4xKYVhTH1SOndPPnFcWWtkatXT6cvI4dDO4s/Q4HJolY2EvIqDqls9NEciFgBwaZJKOzJ1VkVjPy1fPi5XQjtbU1esqcKjnr2VkKiSi62Bd662ruCjnMN4WU5bMiQAe3OmemFXm3RZkmZPhWJUf19UiXl6trWxsK6zt7C5wL7Et7XDysXqwbzgiW9nYjosAJGL0KOMkplvUnlPPWBBNntZTaGUncC7x7u2zK6ouaeip6+strqx5I2Cr25bUmhDNACkn+SwqdpwVkhuSDZYOC5jU06sp7bAvNe/ueCCfZ5+bZejjp1/d6giFy5URTpkSTwAvrjeu7TkdmNbRzIlQy8mWElIl5GYxcDfzsnxfXicaVF+lHaEn5uyb2aXjoiXUkA1AFFNU01IVIBfT2dHN00zKFpBOiokLlxXaJuWsnFsoG1akpyGm9HP57mx5sW/21A+OAAVERQXFRpLMip1SzlgOy1CKSANCxAHBAgUEBUlIjhXSHOVf5PKxt/IxN6yrL9RQ0IAIx4hGRodNSMfcEY4d00+Qy4pCwoOExATEQ0SEA4QFBIXVVNgbmh5SkZOKSYnFxYWKE3AnIYNJVkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/19.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Ça fait un peu tard pour qu'on se voit.",
+    "end": 78,
+    "index": 34,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=74s"
+  },
+  "thumbnail": {
+    "hash": "eeba3e65e7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nBXN207aYAAA4D6AmYmJFztkgmjpcAKiDAqxpqOljNL601J/Cm2pFBDpGIeWwzIYxMnIcIl0xCyO7WJvuux7gQ9p12o90xxb1s1weKUUK3nY0PTPveGk04lj+/kMW4OSkCDxQDCAYj6XG+mZ5rTfX0yny/m8wKZzJAlpxm4076wWDB1o55xVLsFUkg37T7yYb9eDjLrdb5PJw2KxdhwdZCQixsfi70VhwDFq4LUtQ9vQdT7z7iSI77uO3M+Qm8FgeXu7Xt7/Wa2qOVGmKJigP0F+VNWty8sSEK6LigH4oGf38OlWxLODfBkOl7PZ2nF+rx6MnKimUlUAJnmuCS9+fb+7Vkp6NluVBNzvC71Cj30H/wfn6/zx/sffn4/dclnjQLtSHyfpPB5lTgmNPx8ZxaYqE16UiYYFmkJa9aZtdvqm1W9YLcM0lVq70fvIpCsJkqOSajo91uEHBcTdz8MoGgscIRehqETQEivmeVkFhbKoQE5W3+BaiiFxIhOL2Yoy6/F13U/GseCeB1GfbGpb28WXLhA54ynwNnwK6CwXOcN2vBsb26jLV+KBmI7qhUOB3TvGXvwDE8yQu+g6JmIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/34.png",
+    "width": 1920
+  }
+}

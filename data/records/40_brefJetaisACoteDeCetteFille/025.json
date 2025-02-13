@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "J'ai dîné avec elle, j'ai voulu l'embrasser, mais elle est partie.",
+    "end": 27,
+    "index": 14,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=25s"
+  },
+  "thumbnail": {
+    "hash": "c6acfe9864",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF5aY2lqeXRwd8G0vaKCfzwnHDccGHBLP1QzLD8hHXBeVVM5MiAAAT44JUhRNjw6JgBSSEaOkpmjm5i6s66/sJhdSDk5HxpnTDtYOixOKBwqJB1OQz8kAAFAOyZIVjRBQSgAva6l4NzY0cG4pZyWqJiGWkQ5TzIjhWJJZz8zVS0gKBYPLyQiMAsMQjgiSVg0R0ktALuro6eTiINsY4J3bpiGe1A4NFdBJpp+UGg3ME0mHCQTDxIICFgsJVgtI0pHLUdOLgCpkYqTa1twV1GqpqbHt61QOTRMMSWafVhrPTQ0GBITCwgQBgVCHxpuPDNLRCw8TCsAiH2IXVBbNzE6gH+InZKGLhoRVj48hXJoZT0uGwwJDQYGIxEPIAQEVS8lWEYvNkgnAIB0doRvbmxbW3RqaM3KxFNHPz0tLW5TSXFFNh4PDBUKCBwPDCALCnBPRGZDMjpFJwChlpNdTExbTUu1rKe7p6BPQDZGMCmuinp5VkchEQsgEAwaDgsTCgt8XFJwRTVuWk4AmpidTEtZRkdRura4dVlQRDMuj2lar4Vua0IyJRIMHg4LFg4MFxQWMCUkOichLiAccPCHozhe1V4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/14.png",
+    "width": 1920
+  }
+}

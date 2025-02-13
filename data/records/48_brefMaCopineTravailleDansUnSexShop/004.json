@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Elle m'a dit qu'elle arrivait dans dix minutes.",
+    "end": 5,
+    "index": 3,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=4s"
+  },
+  "thumbnail": {
+    "hash": "146d989ac0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nAXBS2/TMAAA4NxATUns2I4fiZ04TydZmiotXbKSAh1MZUVDbEAPMCEOXJCGeNz57XyftSayA1zNcOLgFyScfFn5krkkcHDq8ZdB/EpXMc127W5qhuNwsEY/WkHVIfa5K78YcyqbpdLEoxHhkoQf6/zb6tlQrFfJwqh6lXXWOZIjCF8n5U7rkzl72B/6KK6FzBAtRFz5rCQMezznUUGjq2xh/Sqrv233ru3P42KfV9eLzX1Wj0KBJ15MpaGKQZoK/XBx83Nz/Xs4WAuhtkl+2yyP+dkoolPb/5guvz7dTDphiLdC5yzKWPzv0/djc/HeDNYb09yV9RVTexK8JcF9lH9ouj/b7U1REOhnfigQNyI9TZdGZClS1jLUPaLPAR0BmSDZY3+NkQEgQTTnCkH/kQ1CFPRpGWOpkbIMhDWEreflAKYAxq4nHU9DmrOoCdO5g63HDkdCMyVRwBxmJS7WLqY2wDNIZojOCZ8T6VKFeEyCmQ1tG3KPpVRKyIXL/wNGmT7TkrmP8QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Et puis mon Mon père m'a dit qu'il avait une bonne et\nune mauvaise nouvelle à m'annoncer.",
+    "end": 61,
+    "index": 29,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=59s"
+  },
+  "thumbnail": {
+    "hash": "dd765cc75b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nBXLzW6aAAAAYC4ISDt1tgRFVBR/oAgqysA/UBSwgNIqVil1scamNU2z9rIsS9bsDZbsuNPedNl3/4DpWL1yzFvf24U3k77c42i9VVu65vPD9mF3e9zfPd0HQ0VMoFAMgZFIBOhKzcD3Drvwbr0w6+Wfoff7+SCy5fVydjxs95/XK3fSa7Cp+Cn+IRqPwgCBfawUcteXxsI27Db3Ojd/vX0xpJaudu9DX7dGlqaorVoeP0ufImcnCJBNYaU86c/swHM8SXgPV3++f33xl3pfns3NjiobitBmqEwynkChBAoDVCZdLeS2K38fbqw682Oz+Pv+bTGdDDqioncvJH7E58UiTp/HEgiEwhBQzKb5SuFqammdbj1HbDTl6HuNWtO27GqL5fqSVvsfLtJJLAqhUAS4dty+3KEIkqGrFTIzaQlzTcWS56YRDMb+0HWGdVouEfUshkdhBAQBa3zZ5Hsj1aFypTxBtjmeK1VKhepw5Dv24zx4GrTZXoUQKTxzgqAgCPCMQGUZWXZIgmLpssQJbJFWtdXy5s0wdm7wqnziu+V0g0qlUCQWAf8BVsVdnirR47QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/29.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Je me demandais vraiment pourquoi c'était mon pote.",
+    "end": 62,
+    "index": 32,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=60s"
+  },
+  "thumbnail": {
+    "hash": "ca07f69610",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nBXLS4+TQAAA4CkDDDDMQBnKc6BsobRCbTYtfbgN3XbbNNnNxsdGN150E2Jq0sSoBzVejCeNF3+z8bt/AGEPiJ3R+SYr17o9MpyRSgKNhm2v9NJNNLoLBjdetvf6ezfdWHwOJrPtm4fTj59/pvOdjDm1c434mu7KiEIoqyTARtQOp2HxLCqfsmgJBo8mv37/vbt/WCwuTeKolGODUzNkbW7oLmy1kJ60z14a/GB31/8DFMTzcbXf3T5ZXlFstwQRCqIkKibxLRrYVmoPGpYfVbtW9YTQCAgAcj68WD/XqYNkwzQTETHYEggrabCzkldOcYonp07vGhtnqmICDTNqxBp2BGjJioeQKUmagrAVH4zk3i/fDesvj7ff0qpxs4MZzoCGbQiRIDqE9ojuShLB2GIs8fk0Kl7ky9N4+728/JrN3vv5LYtXQFEZhLqEuKx2FdVTFNs0I4N6vL8r6k/Diw9F/Xm4+tirGj+/sbs1UDRHgESUXAlxKHUEQQMAIEVPp2+z+TGtmv7i2KuaePzaz69ZvPoHvF84rakcKM4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/32.png",
+    "width": 1920
+  }
+}

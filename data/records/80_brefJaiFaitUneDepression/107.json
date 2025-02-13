@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je me suis battu pour avoir une meuf.",
+    "end": 108,
+    "index": 37,
+    "start": 107,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=107s"
+  },
+  "thumbnail": {
+    "hash": "87159e92aa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nB3CS2+acAAAcD7AzjNZsh2kFLCKulZqq05t1Vr+iI28WjrwgbzEFwiKpPVx2HZY9ooxO+yyHpbstm+xz7Vkv/yg/EHGYgrjYq55nr4opKrglOaIzTS2dRDDijJUInEWOWkkXpL080gq8ioDXWElmyZ3Xva9fv5FKqq1yrBR9P2547qmv14pNzR19KLcwioKAmfwZBVqva4LRN7Ikps6+523Arr3Q7d///z79O3P7sP+U4sjs7lnBTvZdLIkc5LjIfEYTC+1ec1+BO6aXoQN9Z0dboNfT9vdfqZsQLVWa+b7DikEb/LsWUGAxDQ1vVDD+mANxhvgLq+1Eeit9I9fWeXzoL/vmZU+BU+YY9Ypl25PSxJElQEHBJlv67Jh9yZGx/NMz5LVgdI1jUfPmLXtDuirUnf89k5lWQVibgRGkHRt6DgL3fW8ZRgsHkbe0vaXq3A7Cx4sx59PAksbcpJyK8oQoFoUw9+L7Y7cFxXVsAYj29HMSdewLX3c7ui83JXve3e8cs1wNM1BqWQGjmIHcAw9TOAogWOpo1g6/j+OJTGUwFECReKHSByBY3AU/wfQ7JFZQ4kLmwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/37.png",
+    "width": 1920
+  }
+}

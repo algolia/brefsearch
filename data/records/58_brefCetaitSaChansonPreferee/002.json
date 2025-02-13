@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Bref, à chaque fois que ma copine me faisait un cadeau,\nelle mettait la barre très haut. Tu viens ?",
+    "end": 5,
+    "index": 0,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=2s"
+  },
+  "thumbnail": {
+    "hash": "7896190254",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nB3MCW+aUAAAYNJ15b3H43FYdYp4rdHYI+vltMa1Md2WZYvQbQptERC5BAWt7db+/Gb7Ad9HDb9+GStDY/Tbub/zLfPm+7dmvVaXJQxosP2m3+lu4uUmXibBPHDc6b1Baapi3+q+ZSWel3jewnHWYfhz0N+FO8dSTs5m5Erlqv8pCaPn9SaauZSla/OpvfL9pzh+jObrILhTflye7A+a5dt2qynltwCAhBTLlZlp/109UJ5ppJ73FMfPSfIYxYFldo8Pj/YqJzWpUdiFEDKEcIL4z8jlJIyocGo/hOFLmr6kiateB8pA6Rzs5UhBYN7xDIAQsSxEDMsLiHDn7Y+Ub5mrIPjfz3/1WuppQ7/40KkXShlCEIAYI8zu0AAihogiETOUOzEWnvtnuVzMHP3qqNcqfT7bvz6ochhv0/RbmqYBYFjCEA4TnstkKVMbB7aVhpE7mWiXh+ppqfde7NSEHAtYBLI8QRACxGDCE17kRJEaq4qp6b7lGKPRsNu8aVfPqmKjwNdLRbkoleVqPl9ECCMGY45nOeEVWz1fL0i5MxEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/00.png",
+    "width": 1920
+  }
+}

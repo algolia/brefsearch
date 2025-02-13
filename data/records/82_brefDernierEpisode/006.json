@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "Je me suis demandé pourquoi.",
+    "end": 7,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=6s"
+  },
+  "thumbnail": {
+    "hash": "513ed05f54",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBTU/TYAAA4N78BStbmaWr/d7bD1bWL9t17fqu7dZ13RBGIIQhGyIGKhI0M+KiIRoNxkTBC8YTHvTk1cQf5/Mg+dEAK9zxHSJtl4IWupqqk3F71AeRj8fuUreFT7alx/vy2ipzctx+NF1BonohZnCTRSO76BjFoIlfPEnORx2dQ1NITHaXX83cs7yeP6tubhODjEBkpvhQ49ZqpGdQ0OXTjvzxoP/jdGcMlV57KYmoLNKHMehFlWHKhgGNlFigS2DdtzTTFGt8y8ZfbsKrabYDVceSgqYeOGZg675jeZYkc4tImaI5VXdtHWo8XRViR+4a6tkQbvhuUxH6cWswSJKOmySGpddqIkAWyhhV05Vl+UWP8uq0JdzzLDgczXzNhArdMUF+ED49DMZb2voDI0tXEJG9i0sqDRRboR2N98VKHCR+uO8pXFNmLI748ubk769vP6/m1++O3p5uIfdBGWVEigcKT8p8yQVUz9GnYcMXqQagFBw9P9779+f29/fPt9cfbi7nyAJWLHEiyVdlniYJzOQqoVrdSLoNibUFUsAKuxm8+TT/evH88nX+fnb4H/LhcyxOrybXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/03.png",
+    "width": 1920
+  }
+}

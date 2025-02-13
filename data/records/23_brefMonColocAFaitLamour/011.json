@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "La deuxième fois, ils ont rien fait. Ils ont regardé un film.",
+    "end": 13,
+    "index": 5,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=11s"
+  },
+  "thumbnail": {
+    "hash": "3daad73dfb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABWklEQVR4nC3Ni2rbMBQAUEPtOJbuvZIsS7KsR5ykSUztNPOywqCMwugo7P8/qBT6AYdTCOkBNZLh0G43Dd8icqGVnea3y9OrEIFhZLRDHAR1xu4LIT3jCtAw3vatzyZqaImp/fG+3P4q9MA6aDoCq1Tv3GMh1cBBIzkO2kjrlbfC8RpiXp5/vEsYAAagKNB3OgzDVGidkBxSL7Fz0knoOrK8xrS73tZ3yXtoDHAvKFiTQ3wqjB2NzUIFZDp1IepoyCkmx/F2W/8pikgRIQjufH9MaS6sG01/aHUUWzJkjLCyUWzDx8P6PWBCyoLbEE45L18gKDs0rK+bFtqmRsFaBL0/3tdfH7t4EV8mIrPBn3K+FplBqCpVlrIsnbBKOGwo+dPp/Pvny//5+mdMZ+QGmi6Gc8pLEauqrTZUlvTwoGtm1YCbrWRyml7X+8e8vE2XlzQcFDcxXFKaPwG0NCbEpEpxcQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/05.png",
+    "width": 1920
+  }
+}

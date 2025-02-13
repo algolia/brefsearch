@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Offre garantie deux ans.",
+    "end": 34,
+    "index": 19,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=33s"
+  },
+  "thumbnail": {
+    "hash": "655a7e7ae3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB0UEhcOCxYNChgOCxcOCx0UE2hWSJJ4VJqGYph+YJuHbqKZlGteWl9YVq+tq5yVkAATDAkPCAUQCQYUDQocExAUCghgV1XCvry8uLjCvr/Avr6vl46fbV9dNCmCeXaclZIADwkIDwkGEQoHFA0KGhMQEwoHYFdUycTBw766xsG9w7y4kXBmjV9UWTMobFlTraejAAoFBAsGBQ4JBxAKBxgPDSMPC31zb8nFwsK8usvGw8/Kx7WRhJJmWlszJ5J9d7WvqQAJBAMJBQQMBwUPCAYjDgtFJSCfl5THw8DDvrymoJ+GgoOtj4ZsQDhbQDjSzcyooZkACgUECQQDCwYFFQsIKw8LUDIrqaOgtrCvSUFDGhITGhUXf21mWjUpWD4zqaSho5uYABcLCBkMCRkNCi8cFT0hGTMeGVZOT1NMTwwFCBgSEhIMDVpOSYVkV2NMQyIcGUA5OAAbERAbEA4eEhA5JB1CKiIiFhUnICMjGh0TDg8XEBINBwhaTUuUgHRnVU0TDg0JBAMADAoODAoNDAoMDgwOEg0QFRATGRIWGxUaGRMXHBUZFA0QRjo2fm5kZFNMDwsLDAgIsH97Gt3gO8UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/19.png",
+    "width": 1920
+  }
+}

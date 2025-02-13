@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Et qu'est-ce qui reste ?",
+    "end": 40,
+    "index": 16,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=39s"
+  },
+  "thumbnail": {
+    "hash": "fc5c45adf4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKSnsn2Dj212f4GLkmhxf6yosL26wXh/jXmDi32Hj2xygJ6irp6hr2due3V/hISOlABye4d2gYx8hYx7ho19dHfIpJjbua10aGl5hY6LlZx3gYhye4NweoF1f4SFjpOFkJUATlRdgY2ab3+SW3GHdWRmxJyStJKJjHJthYSIi5aej5ifkJqgj5mejZebiJKXiZOYAG9pX36Lml5jc2FMW2hPUJl5ca6JgLSPhZ+ZmZCepYuUm4uVmouVmoqUmYmTmIuVmgBnam58ipg2JixrISd2R0mdfHOTZmOcdW5hYWVpdH6Wn6aSnKGMlpuMlpuKlJmMl5wAND1MeoiVLCIpUigwOCQuU0VGhmNfd19bRDo6S1BdZm55dn+IkJqfjpidjJabjZidADtET3mDjxQYIBkfLBgcJy4nKEg7OmlXVVpLSpWapVRWXwoMFV1ja5KdooyWnISNlgBSX3B3iJoaHSQREhs7P0tFR01MPzZqWVAmIiCDh5NhZGwHBg0fISd3fYKMlZmBipkAkp6wmoBvPTMyCAoSTlBYgYWQJyQgV047JiQjX2JuVllmDxAXKCo1Y2RvlZ+iYmtxb9a/MLDOqA4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/16.png",
+    "width": 1920
+  }
+}

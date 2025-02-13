@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Il m'a dit: C'est la fin de ma vie.",
+    "end": 28,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=26s"
+  },
+  "thumbnail": {
+    "hash": "c360eca136",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhWTndkW35pX4BsZIZyaolzaoZwaINuZn9rYn5pYHplXVFAOkw8N2xaU2dTTF5OSQB6aWF/bGM5LChaPzmffXGRfHWSe3SOeHCIdGqGcmpxW05RMSg9JyZUOSpoQyxrV1EAhHJqXk9JHhIUXD46o3lugm5pdmJdfGhje2hhh3NsclxNZD81cUxHXT4tZ0EoeGFYAINxa3hoY19CPmhGQI1oYHhlZV9LS2JQT21ZUn9rZXJdUEEpHG5OSYFdSnpWP4FsZQBjWl1eVFl+Z2tUPTxxZnaSg4SGdHGAbmx4Y1mAbGgtJCsqGSFfPT8zJTJRRk6EcGgAXltjSkFFjoqalI2cjoynhX6VhniAnIqGeWlyY1VbDAcUEAsaEQoZCAQTFxAeeGRfAFZTWkI7Pn14ia+suqunsoN5h2FDUmBLUVlJT2xYVwoGEwwIFQ0JFwcEEBcQHm9dWQBFQ0k6NDhaVm+Mi6aroKqefnqch4rDxM2woJOCZFEWEBsQCxYTDhgRDBYfGCJYSUkANTI3NDAzVkxbZFdoUT9CaVBRo6Gn4OToy8bEtaeeZl5eLScqKyMmIBoeJB4iLSQmnxCZ+Rh4g+UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/12.png",
+    "width": 1920
+  }
+}

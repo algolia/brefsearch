@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Tu es venu venir ?",
+    "end": 85,
+    "index": 34,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=81s"
+  },
+  "thumbnail": {
+    "hash": "b8afef388f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB227SYAAA4P9tvPYhvDfemWxgoleaKTOZJjO7MPGwOJM1MxoZgzlYOZSt8K+IUGgpUErPhVJLzy3l4PQp/D6w8wa5v/X8zt17T57tZwvX33NYGW9/yd28P778eFLafZt9uv/t1bvs3sHRhyPk80kasNxoO5EAAKRSu54fybLquv5qtb69/bcII31mqhPdtm0C1pGvp+lzFIx4MZF8DAB4mXrhWLooKdpkOjMMxzHOLy4ePHykqrrrRR2KOcuXi1UIRFnLZM6QY2Q4ZDSJ4jlGFodTaWAoFFZG914fmHMnXm46VL+CN2CzC2RlAuGveh32aIYkadPy5pb727SDaD3uswRamepmvNxQZKfd7dMDHgiiDGH7NF2ANchxgu0Ejhu4XhiGsT4zL4uYqunhYvmz2cZvWiTNgi7dH7L8mJct249Xf4JgEYSxHyzi5YbnpcPDT7wge36EYjUUg0SLAjjRIGlmLEiKOp0Zc8v2HDe0HX+1/osWS9vJJEX3VU2vVPFcvoRiNVDErqo1WG80Wx2KGbAjThBERZI1SZlwY5HuDZjBiOz2riGR+VHI5dH/zYQza0bEh1UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/34.png",
+    "width": 1920
+  }
+}

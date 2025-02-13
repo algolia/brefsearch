@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Il n'avait pas de chaussures parce qu'il les avait oubliées à la maison.",
+    "end": 33,
+    "index": 14,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=31s"
+  },
+  "thumbnail": {
+    "hash": "3f6c6d0d2c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nC2PTWsTQQBAF2qDEQ2VehEP/iT9GV714kXpQUTxUMW2ShHbpFZikBJdmxBjzLZsu2k22XzOfmUyuzO7M7Ozu90qiHcJCO/6eDxpaWn58f27zf17bfn1QDuwR+0Z0KCl22bPNHuTsdbtNJUfn2vVYmVvs/T2mbR8Kbf+6A48e+cBhSODE5MFTsyQoChhXkwR8wECp0NVbsvFg9K6lM/ldjceZtSIiJUwzJknuB9zLBjmFIkQJcznxIag01O/Nb/uSdfylyulN38uWMpJJsIsDjMRphFOuX8uglSQhHsJtQWZ+LbeVb5Iq4Wr1fLO399xJmgmwl8JWwgcXcQ0xpAhkHKcRkHMvACO+2pNurW6Ui2/z2KMLGNR+A9N2NydnECrL0JrsRRC7A70I1m6feN6ZXcrdPpQa8R0lkYk5fhcBBFxfaCT+ThERsJgAEcDrdGSP0g3VwrbL584vRZQ6swbicDmxKL+lGFLYJfM+tjR5+aZoR5WSxvFredS4Ur+xdqD4/q+Uv807Tac4U84PUJAReBkPj12h61J5/D0+8daZbO8/XTn1do/9sZIT0zRp4QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/14.png",
+    "width": 1920
+  }
+}

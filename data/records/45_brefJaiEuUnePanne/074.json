@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Après, on a discuté 25 minutes dans le noir alors que\nje n'avais pas envie de parler.",
+    "end": 76,
+    "index": 32,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=74s"
+  },
+  "thumbnail": {
+    "hash": "979929cac1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLUlEQVR4nD2RyU7EQAxEI0ja7bbd7jWTZZLZEKsAcUBC/P+HoTACqa6vyuVqoGNnkzVCNguN0LqrAo9TfUl6EhqgdeYGupvO3EJjO7ZG0HjC7CBAi9A6NBJ4jDKXePE8kY19PEeZrwBB6xwExoRGrvZoxFOvtBvyYw7nyFPWZayPfbpr0HjbEdnoQK+w7QhBvKvJz0n2Q7ovesh+CTzUeGocKBpCw//2fyFeuVfqsyy9Hqseo1/J5i3BQSAbbMfwm/An/C0WGVPkKelS4yXruYmyTPV1v/uIskSZvasb2TrcnkEInja7DRMsgcdGXAm8T7IGnpSG7A9Zj2SDA0825e2SQ/BrTQ/z8H5cvrYOZPM2AvaBZ+VReWAs4krW01jeduW55qcS7tf587R+/wDa9BnQ/NPuuQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/32.png",
+    "width": 1920
+  }
+}

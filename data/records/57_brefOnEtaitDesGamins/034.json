@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Ce n'est pas chez moi, c'est chez l'ours.",
+    "end": 38,
+    "index": 16,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=34s"
+  },
+  "thumbnail": {
+    "hash": "1aff6d3114",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nBXO7VPSABwH8O/PbSBtMjdAdwQDZRYMKHnamuwGQzQf0o1Q7gyZEcqVGSZ31Ju66643XW/6lzv/gM/dBwkOqQjlVmhbRu/l6s+x923kGSqviRDD4BmKsMSzEBjYW4l3toY4hyxPGZ7KEs4rsT93o+nb188kxtejVYXTJUosU4ShJ4SKKk32K5BZ5AQqy9SI4bym/L0fzy5O9wrrw1rq2lD2s5y5Tk95hABXX5v5xiPYFFCQyIjherf0b/ExOHKCZv6XZ31xsoeboeEL3lU5AJYWvz2uYJVFlkc6QkYC007xx8h/v9u4tJ7/9sxPpjKtxed2sp3iVpZgbYhnjQx4giZAEx5LwavUvNd58FpXzcL3bmlcik7r4pkuSCFyt6QLUx00VHCg9DKqMarL8Iviot9Z9Lv3x82v3e2bujzUGScddvPJcaswtLKDqgIWEJegR9FO4iAXWvTduefMe+7sjT22coOi/MEp3rjliVsMdjKXZhIsiAUyYdhJ6qQx7egPJ/bdgTn325+Pdm4PrUmrdGXnA2tjaCgjc+0/jxpMygr/frsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/16.png",
+    "width": 1920
+  }
+}

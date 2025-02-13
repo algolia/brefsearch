@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Ils m'ont demandé si je voulais une assurance annulation à 10 €.",
+    "end": 22,
+    "index": 10,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=20s"
+  },
+  "thumbnail": {
+    "hash": "f148b4914b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AExISWtlaY2GipOMjpiRlIuHiEU7OW9QSoV0amVbSYd+f3tkUXleR4qBf0k9SkI3QgBQS099d3yDfoB7dHhza25oW15DLSiTYlWafW1lXEeCd3dwW0p7YEqZjYtxZGxqXGQAcm5zioWKn5ugj4eNqKOwiHZ9eFFGg1hQfWRZWU87LiwzJyUoNzEwSEVKWlZaYlxdAHRyeYiDiLGwuMPAzsbD3K+muFM2LnZRS6OWlUc+OxoZIR8hKSAjLB8gKBoaIRMSFgB5eYGIhIqnnJ+4rr+zsMuvrL+He4GdkZ7T0NxMR0oUFBsbGyIaGiAcHSMXFxsbGRwAZWRpZ2NodlVMoXtyjoeZi5Kkmp2rmJCjq5icQTs6JiozS09aSk5ZRUNPLC02Ix4gADArKy8uL1NAPJ96bX95iHt+knNzfa2flX5hViUhJElLV2Nqd1BWYTUzPB8eJhkVFQAZFhcnJyk6MTFpSkJmT1BlS0ySaWSniHxdUEwiIyowMDcsLTQmJy0TExgVExUYFxcAEhARGhgcIx4lNScmLigsMS0uRy8uOiQnKiYrKisyKisyJCUsIiIoGxwhPTw/UExMnCmWivBoX3cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/10.png",
+    "width": 1920
+  }
+}

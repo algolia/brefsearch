@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Je suis désolée, je dois le prendre.",
+    "end": 96,
+    "index": 40,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=90s"
+  },
+  "thumbnail": {
+    "hash": "03cfed7651",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcklEQVR4nBXCy07cMBQAUEt5Ow87148kTmwncZKZIcN0VKXQjhBQVWxYsYLuumDFql/R/644OkgLXONAFbGIPCeJU7Iqi0MHXy2Tqa+KoEo9lnyGyOdpgLTEIvFZ6t0c5odt22vVlPmlK55mUYu0lRlgD1IfEg9ij8Y+micpeaLq/Olyedy+365XIgtfTvp5p75oUvGoFZEScc2jCkJBQuScMIa6UZ537nJap7YSafj7rP+c7fPSNAK3TfZZZV2b11WGhMSNyuZJHid1sI0kiYXs1wDvW/92NIsFbYm11FraNBmHGAGLRZXOk7xZh72WgH3AwVTih0H8mOXOsWlibgRrqOQJKyPEOGYCn9fu7jRsi9FlSmPPkuRaUdUkbZd3bW406fvSjXwcGKIkyotgXerrAW73euRZEaCeRioPGfYWA/0A48gnx8eBW1OioggICaXA2978+/j7ev/zm1G2jAYelol3rOj90l452VswmuqO/Ae2iCyLXZA5cwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/40.png",
+    "width": 1920
+  }
+}

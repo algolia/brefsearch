@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "On m'en a reproposé. J'ai dit oui.",
+    "end": 64,
+    "index": 29,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=63s"
+  },
+  "thumbnail": {
+    "hash": "23cad066ef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABoLBxYMCBAHBDQkHodzaYl4bZRvXYZTQmNCN2ZPRW1SSHRYTXtcUHdYS29QRWZJPwAcDgofEg0UCAVQOjKRfXJzX1WogG+LVUZfOjBnTkVwVUt5XFF/YVV9YVR5XE9rT0YAGxANJxkTHAwIZUtCh3Noim1hoHRkg1RGaDwxaU1Da1JHc1hNeV9UbUc/ZkY8cldNABEKCCYYEiQWEVVBOJSEfaWQiax/b4lTSFUtJm5YUXhkXGlQRm5YTH9FQU0lIXNbUAANBgUbDwspGRKAcG63rK6Yi4udgXlnPjJDKCJiT0yEcm5wX1lIOTBoRT8/IhxnT0QACAUGCQIBIRcUqp+hopOSiXd0m4iEb1FKXEVCblxYi3t3joF+U0A5MioaLSMUSTIpAAQEBQgCAWRSTY18eZSGh5aIh4FwcGNVVVxDTIJscZKHhKGMhn5iVj85HjMrDVJANgACAwMUCwppPzJsSkGWioyDbnBeRkoaGxU0JSqDb3dnWlaZa110UUE0LhUtJAVMOCwABAUFHRANZUM2pXtofGNfOycmQSgmX1FNWlBObltcXDwze1BGXD8xWkcySjIfRC8mDWaFxtw2y34AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/29.png",
+    "width": 1920
+  }
+}

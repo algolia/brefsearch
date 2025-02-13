@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Mais je me suis rendu compte qu'elle pouvait comprendre\nque je l'invitais au resto. Alors j'ai ajouté: J'ai déjà mangé.",
+    "end": 66,
+    "index": 33,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=62s"
+  },
+  "thumbnail": {
+    "hash": "93c1299243",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGoZPXcdSIIgUIYhT44kUpMmVpomXpsnX5cmWZUmVpMmVpMlWYwiVX0fSnMcQmoaPQB2HUaLIFKUIVeXJVmaJVqcJFqiKWGjKWKdJVucJFqdJVufJ16dKV+RJVeFIU52HUYAiR9Spjhpskt5qjtvqT1xrUJ0skJzsUR0r0d4q0J2qjxwskh3qjZpoipimSZeiiFUAJIgVbBKeMmCobhdiLhgirtwlrRlj8FmjsJ0mb1ulL1sksZ5nLtbhaIpYZ8oYZUlWgCSIlOrQ3S/cJW7aY68Z421Y4qoWoe+aZG4Yom8aY22XYS9bZPFgKKuTHmgKV2UJVYAjiJQqD9xt1+KvW+St2KHtlyDumKMvGuTs1V/umWJuGCHtVuGtlqHtV6FnixdjyRTAIMdS6U+bbhiiq9OerVchLBQfLZYg7VUgbVag7JUfqU0Z58lXqAnYJogV5UkV4UhTwB7HUuVI1edJFqdJV2dJF6gJl+lLGKnLmShJ2CfJF+hKmKmMmalMGSZKVyJIVN7HksAbhtDgiFMkCVVjyRWkiVZmSddoS1hoy5jnSpfmidemCZdnShcmiVZhSBPdhxIbxtDYK22hvJh91YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/33.png",
+    "width": 1920
+  }
+}

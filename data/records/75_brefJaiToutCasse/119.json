@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Un mec Il est arrivé, il a dit... C'est qui ?",
+    "end": 121,
+    "index": 48,
+    "start": 119,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=119s"
+  },
+  "thumbnail": {
+    "hash": "a68dca46bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbklEQVR4nAXB7W6bMBQAULQBxtxrGxsM5nMYiBOGEpK2S7usndou+1FpUx+g7/8ePceDiHIaFUpZY27GflfXqVAhQT+Iv/pw2Zsfy7RM81jXAjAMYo9TKoB2uT5+a94O2+s8KS5DwvwgppR3VT2Pbr+ZXV1pzpDGngKaQHRoy4uzj1N/tl2nc0LYFx8I4YiqyMp1sCfbDFrlgnmCUgX0bKuPh8P7ujv37WXqE2SUACUMQDrrrrfr82LnKjMJ91KEjEEj+d9l/OPssTKuLCRiIVAAaFX8Ph3f79eXuduWaZEwT0KsEIxM74b2yfWntgbKIOZFwlKOm7Z9Oeyui70fjNWJkcxjEWAsqjT/d3JLWxmpUqG0KsKQSSHXaXycp1+unquslDwTzMNY0IjFEf7c2P8335+249I2pTZ+ALXOX4/L897dDWWfSZ1wjuhFIVCCJMQgiJtM29xwlKU2hLClq95u54dtP1dZmwrFGAP8BAj8K3L4QN2UAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/48.png",
+    "width": 1920
+  }
+}

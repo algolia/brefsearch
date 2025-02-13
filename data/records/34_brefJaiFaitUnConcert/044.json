@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Et j'ai tapé sur ma guitare pour que les gens tapent dans leurs mains.",
+    "end": 48,
+    "index": 17,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=44s"
+  },
+  "thumbnail": {
+    "hash": "3ef013f744",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGdIHnlYJIVYLUQiG0kpGndBKoVKM6BgQ6VkRKtrUKZtWmxJM5FnJo1iMHBZVVpHRAB7WCaadC+kcjhdMiZ1QytvPypUMCJ0RDCgX0ObY0yaaFiIXjS4hTKkdjuHb2lwWlcAoXYyonk0UTcdTCsekFI1qmZJk1lAnFtCm2BKaEI0e1VHtIQ7xZE2toVDmn95aVNSAHRTJTkoFhAICU0tHJJSNb1wUbttTrltUM6Oc8GDa7iDWs2dPcyYOcKTS6GGgEc0NwAQCAcSCwpEKRxdNiOASTCITjaESzSbYEnMh23LhW7MllDms0TVoj3Lm1KGb20/LS8AFA0JGhEMVzMkSiscbUEtiFA8bDouZD00lWJRkF5LQzEggGAvxpY616dZb1VROSUkABQNChkQDW5CMEwrHkcrHotTPmg+NpZiWINZSTcnHyMZGCEXGjQlGJR0SqaHgmtTVQAMBwUWDwt7TDlwQCwvGhIjFxAcFQ5POzI1JR8QCwkoHRktIRwhFxYtIiGdgmWcfl0ACgYFFQ4MeE0+iVVAUzEkIBQNNiQYHxkSDwsJIBcTKB0aJRoWJRoVHRQVXkMdhF0i69WGhDyAaaMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/17.png",
+    "width": 1920
+  }
+}

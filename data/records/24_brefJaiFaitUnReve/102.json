@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Bref, j'ai fait un rêve.",
+    "end": 103,
+    "index": 34,
+    "start": 102,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=102s"
+  },
+  "thumbnail": {
+    "hash": "15ae278415",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABK0lEQVR4nC2Q22rjUAxF/VJp63J0fHxJnTpx7KQXklIYhn5Cmdf5/78ZjhkQAsFaG0kNy8Q2i5/EL+KbxFXihrjCN7GL+ma+AgNjgD5Dp4b1CHuBVRq+ovYr0lXSqnYyXxkdcSaOJ0rQuQriq9W8xdrPGL6t3CXd1G8pP0Qn3uldcLG56aYfj7vIaPZyWP8Opz95/KVpUTuLPlcULeG/ADs2UX4LRnAX5XM8V9rbD8uvkJHIGC1QgEzsTxQat2afC6RP5e7tu/rZ24/UPSxvLANz7CslYmcMaueGUYjD0iX6L00XTav4rGm2WCxWRkscjI7RAWO9AchMrr5YvFW6Pm2CHWvhwNwTZ5ZBfLP8rr40TInIuW51QI0ZICOjJy7E/S4EdPL2YfmNUP4B22QagkTOTwUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/34.png",
+    "width": 1920
+  }
+}

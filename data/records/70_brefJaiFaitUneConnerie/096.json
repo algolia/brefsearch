@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "J'ai dit... Il faut que je te dise un truc.",
+    "end": 97,
+    "index": 40,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=96s"
+  },
+  "thumbnail": {
+    "hash": "55a128af20",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nAXBy3KaUAAAUFZtAgiX++RpABVQEBERsAWMGGOs1LQxyUzSmS466aKbrjrd9Od7DucwShSgIQAEcRX6dZps0uTvU/dSpgOCJ+4oj2ZpEMbDUR5N6sWccxgtHCtzDKrI5STYV9XDdf3n3J3SaaCy1TRuFnm9KMp49jGJ2zLnAsucX5mZbw9M1iSzu6raTcN/385dHOX2VZPmXXt4/HQ+bm7X2fzQ1Nwy8MvAy8dD1zGqKKxdF0ng5769GfuaDAKmf//6+uvH76fuoS2yz9sNlwzdYuynru17dtS3joY2ksHaMgpNDXqSzYt91Tru7l++PG9X+f1uy3mW7jLqEeIwzaCqAbEjwz1CbzpNZKXHS8KFKF5KVba6qz6cblrOpsSA0MU4sGyL6kwhkoQSiN4sjQmSIkGv70iCjGW0KZZde80ZEDqUWggNdJMCrEGmYm2EyKNGkQgIwBSQHi/x74VlFB42aw73RAMqNiUaxLIgm1hnUB1AclKpDaAiYyAC4UK8fMdPPe+2qf8D5NtC85vO7bUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/40.png",
+    "width": 1920
+  }
+}

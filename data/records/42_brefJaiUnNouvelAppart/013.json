@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Je me suis mis à dormir là-bas une nuit par semaine, sept nuits\npar semaine, quatre semaines par mois.",
+    "end": 16,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=13s"
+  },
+  "thumbnail": {
+    "hash": "de54809472",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJubm6mnp7i1tcLCwZqFfZNSRrsJLd4BQM1MaJuXh6WWi3duZjc0MoF4cHNqYWFXUQCvr62/vr3Ny8vT1NSei4SJSz+uBiLfADnPPl+akoOfkIWFeXBjW1WQhXtcUEs8MS0Av728zcvJ0c7OqJ2Ye1hLeD41awUSwQMyyTxXkY9/l4d+l4qBk4iAe3BoNzAtEA0MAMzLyq2nonRdS2BnamRWVm1GQDspMmlMYaVXZ3tfVn9wZ4yAdoJ4cEY9ORgVEy0mIgDIx8V6aVxXOiRiUkRxWlFpRT88JSpoUlebfXxOLCNAKRtxaGCBeHA+NjETDwweGxgAtLGtY1BAUzsnUDYgZT8xYj01QyYcWDMnpoBzZFRIQTMqWUxEYVZQT0dCQj05REA6AK2ppl9PQ0s0IEcwHk0xJE4xJl07MUgqIHJPRYhyaltQSkQ5ND40MUY+O1FLSFhKRgCLhYFENSs9KBlHMSFMNiNJMCN+U0pWNS5MLypNPDo9NzQ9OTY2MzAwKyktJyUoJiQARzcvQiwfQicUQCYUTzUncU1BRi8pLSAfNyYlNiwqODIuNjIvMzEuMC4tKSgmIyIfPpOZF35xHbkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/05.png",
+    "width": 1920
+  }
+}

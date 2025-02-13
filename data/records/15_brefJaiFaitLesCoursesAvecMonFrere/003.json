@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il a toujours été là pour moi.",
+    "end": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=3s"
+  },
+  "thumbnail": {
+    "hash": "b750b437fc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGRDOH9UQZJkS498bZqViZyYk31+c6+wpa2rpVhOTXJPQFpCNXdoV7afl66akodyZgBdPzSUZEydbFKifWeelImIhX3AvsHi4uWEeHBaQTqxgW6pe2GLeGm4rqyflYyGf3UALx8ZhVdBflZEhl1HuKul29vb2dPV1M/QqJKKhF1QimJUiWFKwrm23t7kn5KPfGyrAEswJZBfSYNcSZRmTpp1W5+aiq2nqISEekVANZZsXZVmVZlyXriloKmTiIt8t2hduwBYOSycaU+kdlyebVKTY06FfINQT08NDw5IODNoSkJ1Sz9JNy1IPDillo6oo7yAcYwAQywkeVE9nWxRmGlPfltMSkc7Dw8PFRIVRTkxRzQvPS8lJCEaBgUIYmBkwLiwoJF6AEsxKVA4LXBRP35XQ4VeTCAeHwgIDhgWGS4pIislGzcyJTUxJhUUGA4OEW1oY7CmnABRNSsiFhMmGhc4KSNHNS0KCQ4DAgcdHB9hXVloYV9WT0ZAOi8REBMODREiISCMhnIAdUw7UjguMCYbFhgICAgKBAMIBQQJEQ8OeHJnqaKipJ2cd3FjIR4eBgUKEhEUgnuDreehHWUKdhAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/01.png",
+    "width": 1920
+  }
+}

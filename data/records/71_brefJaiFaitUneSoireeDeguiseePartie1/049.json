@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 71,
+    "name": "J'ai fait une soirée déguisée (Partie 1).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
+    "videoId": "rOI3TXz-igs"
+  },
+  "line": {
+    "content": "La meuf qui te demande: À ton avis, je suis qui ?",
+    "end": 51,
+    "index": 24,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=49s"
+  },
+  "thumbnail": {
+    "hash": "b04a4b3673",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nB3P2XLSUAAA0BuS3CU3zUoCDSlbQtMQKDYYhIKBAqYLUVxGiyWjY4X2QZ32wTfHD3B86fjFjn7AeTggT2iRijSHJIgViPpubX26fr+4W11sh8HpxO8kreC44fpWaRqN0kkKZIgNIogsUhExBFqRds4e9bbv7i/Pv7w9vvyanH+Ke7PmgVe0hu3uYpwCyiHKIonHOqZ5TFUeDtzO7dXvbHE3D5JV9/F83/kwDA+tUsO0JCQCkoMyJDqmOqYih01MXvXObrI/m+X3m2erb7PB9ah/fzFOg32VUAByAP8HCiKmIGqI1FXzana7WT98fv0jbS+zdnPbDz8OwrHvIQ4zgAWIgYSBkIGeorYUaeBNsvTX9eohjbPEf76JjpaBO6nvjXyvqplVOQ8g4HnAs4ANdSOplZLwzcvpz44TU04sa27sRNFuMXaqkdsoy1oe7/w76Eg4Mo0Ty5rX7Gn7RaPQlVkksIRl0J5U69n1J25wYFU0LGhIAI6shAVj7lSe2ruHhXKrMlZ4ScOqBCWO4XiQYxnYtH1bLcg8VqDwF0/ZQMsYIJbpAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/71_brefJaiFaitUneSoireeDeguiseePartie1/24.png",
+    "width": 1920
+  }
+}

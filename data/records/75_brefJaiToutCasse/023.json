@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "sur la route, qui faisait une forme de cœur et une madame patate avec des bras.",
+    "end": 25,
+    "index": 9,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=23s"
+  },
+  "thumbnail": {
+    "hash": "fe3163fbe5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nD2RW0/aYABA+3um26tG9sQe9qIJlaA4FCzKzfhhNiewaQjLiJfAAGkptVAdpSCW0huXrmVO5LaNzaDby96m/2SZLPsFJ+ccKEkW8eNylhHzZbUkNPl6S1R7ktavan1R7VZqFyVey7MKVZDwYzZJFiGS5mlWkdQvaeqUwDFeqMjvqWqBLudyMsOIIl8qFfcP3rFyi+HUTF6AGE7jG53W119xNONeWUzCJlSnA1OTa3p90DIfMc09dzs2vKD+cSCpnwsVDeJq7fr5t97wN0bmvcgiu/ZCPuVrZzy2bE+j6T2wueFY8Qf8zfaNejnkam1IaHSVi6v+9R1O0ktzs4GtwDbwEXFsy2oPb++GQ29dTrvf52t2f2qdG0HpjgiD3vAWI3LP5mGHdSE4/iA0Nvbm4aPY0yd2GHavLnsB0Do/PowI/x0SKWppwejxOIAZDk9O7DzWmfXTwVD0JQAIgjQ+ff/n8LfSmSI3B3uRpNlkQGwWm81iNcxYjbOe9c3Xr0JG2OB0ucvVS4ZTSVqA7j+wWUaKp06iCSKBZVCcwrN0iszFDon9KBqJpbAjhipWRx/+AKQ29+Jc/sYdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/09.png",
+    "width": 1920
+  }
+}

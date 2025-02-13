@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Batman qui roulait enfin des pelles à Robin, même si Catwoman était vénère.",
+    "end": 33,
+    "index": 14,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=30s"
+  },
+  "thumbnail": {
+    "hash": "8a3070756d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXBW0/TUAAA4MPanmvPOT1dLytdxzrXsuFg2C4wxxhQNpIR1FAY6kyMwREeTIB4SfRFH/0P/lq/D/x4u/jzobw7PLifFt+vFg/ZzmmjDSFFBrR5a5afPL5brU7Pr/fG5bB43d8HF5vJl2nxvv/829n27dFO27J9oTCkmqaHKsrDZ5/Ob76+ullmg3matLwQRFyUWfZ4vPVvlc8665uWDSEmkEIDO1zmUTRMBx+PyqfR8E3SqjIOKhUjMPnP4/h+1kkdta1sE1GkI4KoxfheUBs3u3f7k6fxwSgMGMQA6hBpcOTweRzMByeXjZAamGGiCHWFfBltdL31293Ow6Q4bCVrFQR0zdB13JXyV+pNtwYv/EhhLDGxCA05H8Xtfr1x1Ut/l4uz3i4AGtArsMZkU9kbloqkrHLhmcyj1OXck6ppO7Flfc47f5fLSS/X1iCAGqqbkiFiYsoJk5QpxqqMuUL4Ts2r+pJbWeAWSRr7dZMIEBAaC4sgzBARhHFMBaY2ZTZjrlSe7UsuMSKGDrWKoWvGfy6qOXORG/YrAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/14.png",
+    "width": 1920
+  }
+}

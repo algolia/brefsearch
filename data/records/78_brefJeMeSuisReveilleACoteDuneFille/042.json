@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "J'arrive, je t'expliquerai.",
+    "end": 44,
+    "index": 13,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=42s"
+  },
+  "thumbnail": {
+    "hash": "8dd10fee5b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nBXLO2/TQAAA4KOoSYA0Oft8Pttnn32+8yt1THBeTmiQm1SlQFMqAWKAARYEAwpSxYKIhIpUurCggkAVSCwsSCDxD9gZ+UGIb/+AQZgCUaVS1ZBpEAecAWq9EZp2HrZ3r+xsJKmDzNfHnw6XbzfSYmdUAh1T2NSqlZoCcWMNnl1ZuVCtuQgL3Szz0SRJuU5PTn8cH30Yhhdn+QDo2PofqucUiImqw/N1qukMabjeGCVZz+MB9T5//3305uNAJJP1NsDIaKypq6sVBWJmSweTzI87IvaxkTEeIjV2/K8//7w6fN/zRCEkUBQdIROpxGVRK+5ywwqpm8l1CpUi62+NZ9PL299+/X25PMmZm9sUMGLFXLZcvxNnEY98nXgaSUXCDbvHeWwal9L+o8fLB/efza/dK4spCCyzG8XDdk6xLkzGiWlA6BFja3Z3cfBuOL5erdUpQoX0ilB2fR+MJ/uddBB5wjPtkImWH/u2S2BzWu4vXnx5+vz05q2F4wT9QPY4bzMHDMfzzasP53cOYh761E14JG2uN2HgSkk96QSb5e0be08G3TJggbDoP17NTnPw5bymAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/13.png",
+    "width": 1920
+  }
+}

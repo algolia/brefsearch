@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "T'as un message ? C'est quoi ?",
+    "end": 105,
+    "index": 48,
+    "start": 102,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=102s"
+  },
+  "thumbnail": {
+    "hash": "9f2202cd4f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBTW/SYAAA4P4Lj85MbyYGtgkEiBsw+sW7lrYrtLblo29LoWx0vC1hWYFFNjGbQ2aWIOwwNklmJDFGPWgy425e/Uk+D+a1em7DU6kU5DI7mgwFpgIS10edP7Pp7Zvey41QNhbQRR4HEsUoZUPF7HoL7bpQYDpNhCqVMkj0oXR3dfn38/zfty9Dx1xbemCwm0peooDQaNqYaSFbt8xttuciGZAFckNPxya+e9nxbgaHv8dn1NNHXPTZW6RDDi+bBqaoplUyaqrs1qoamzGELFLyi+HJ/Xz2Y3Ty9bXPBh/vCsnTZqkq4BkmhZEE0Iuwqim+t3/QcFSKqKvqtNv+Nbm4G59fOJALPGxJuG+IicjKOhHF4tEXSk6uFwsdhPb0srpF07EVKvBk2nZvB91zB8Lkain93BIzWQLPr4cxmqB4hi+pOmp4Gi/kAINUmYuv9S3l5rg72W96UpaOR+hUQuMEZzWIiZwo8LliAVqG7dv2Vf9gPjhavBsuzo5nr7qnNUMBW0QyTaVJAHiNFzEjGKyEI7VQWF5eHu3Y3z+8/zQa/rz+OPXb49aeI0mhQIhIUeQmTeP0Niv8BzOzqmdsPQVoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/48.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai dit à quelqu'un: Tu dis ça maintenant, mais tu verras plus tard.",
+    "end": 20,
+    "index": 7,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=18s"
+  },
+  "thumbnail": {
+    "hash": "5c4a054088",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFJHRVRGQ2JQUExFT049PmtYVGhWVGRTUFZERUo1PGlYWHJkYmlbWWRXVl1TS1BIOgBXSkhgUU1wY2lUR1JyXll4ZWF4ZGB0Yl9qUlFTNTlwXV2Hd3R0ZmJwYmBnXVNUTToAdmtoc11ZZU5Lh3V1l4aDkoF+lYaDjnp2hVtRe01AQCkmamBfjX15emtocWVfXVRIAIBtaG9RSXBaV5SFhJ+Rj5yOi5N/fX1TTG5FPVk3MQ4JDCQhI5GEgpCCgHltYmRbTQCEcm+Pf32cj4+dkI6cjIqKdnR1VVB/TkOAU0g9IyAWCg0MCQ2Fe3qflJF7cWNeVUgAlIuMoZiYpZqbp5qaoZKRloWEaE9MTy8pRysnYzw4dVZUdGtrnpKPj4J9aV9QS0QvAIyCgpqOj6abm6+kpLSpqbapqKibmoh5eH9vbYp3dX1ubGxcWVBCPkxBOEtDMkA6LACJgoKUi4qZj4+Wi4uLfn14bGpkV1ZUR0ZENzY0JyctIB8uIiAvJCI8Myk7NSc9NysAU0xLSD8+OTAvLiUkJx0cIRYWHhQUIBYWJRoaKR8fLCEiLiMiKiAeLCUdLikfMSwlv8qegBvGtoQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/07.png",
+    "width": 1920
+  }
+}

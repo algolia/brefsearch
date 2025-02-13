@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "C'est 300 € en moins sur le loyer.",
+    "end": 29,
+    "index": 13,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=28s"
+  },
+  "thumbnail": {
+    "hash": "1d282641a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGlXUXdkXHJfV4BqYot1bIlzaodxaYRvZoBsY39qYnVfWEExLEs8N29bUmdQRl5OSQB/bmVpWVIqHRyHX1afgniRfHSRe3OOeHCIdWuHc2tuVkpaNi8/KSdcPy5nQy1sWFIAhHJqSDw3UjU1mm1mnXlwe2pldGBcd2NfeWVdhnNrcltLZUE4bEtDY0QyaUMreWNbAH1tZ3loYnlWUF5CPXtjX3ZlZF1KSWRSUG1YUYJuaWdTSDwlHXlXUXxZSHxcSYFtZgBVTU9gV1+MdnxyXGB7dYqUhIWOe3mJdXN5ZVx4ZmQfFyIrGiNVNTsjGShNQkqEcGgAU05SVk1Snpqrn5immJWreHGKgnJ5kn9/cmNvXlBVCQUSDwsZDAkWBwQSHRQifGhjAE5KTkE5P4B9k62qtq+rtYJyfm5OWWNUW2pWVWlUUAQBDw0JFg4KGAYDDxwVInViXABAPUE6NDllYX6LiaOllp6beXWroaXX2d65pJOBZVMbFiAUDxgVDxgUEBgoICpYSUgAMjA0NzI3V0tZVklUPC0uaVZZrq+13+Llwry7taulX1hYKCMnMSosKCEkIRsdJh8gIoSbn3K2m6gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/13.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "On s'est mélangé.",
+    "end": 78,
+    "index": 44,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=77s"
+  },
+  "thumbnail": {
+    "hash": "715327a41d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEIeIVgpKm41NG00NYtBPp9KQ6VOR7ZeVciQhdOllciHecZ4bspzaslwaMVuZcF0aQBNJy5oNjt+QEWFQ0emU064WVG/YlbTl4fasqTQlYnLgnjNeHPNdHDIa2jFY2K8amYAVi89dUJMjVBYoFhcuWJdyGlf04Z42bOk0aGU0I2E04R90YB8zHl4xGVowGBmvGdrAGQ9Tn5MWZNYYKZiZMVybNB2btaglNazp86akc2Hg9SGhc+Dg8t3er9jaLNhZ7JiZwBxR1mGU2CVWmOkYWXDcW3Pf3nRp53SqaDNmZPKfXzKfH7KfYDFd3u9bHG0XWKpV14Ae05ghlRjkFllnV9nuW1tyo2GyqKYy5iSy4qIw3JywXR1w3F0vWhstlphqU5YmUpVAHlMXYNSYYZVY5BXYqxsbsOUjMCQiLp8eLtxcrxqarxkZ7BeYqdQVp1HT45ATIdDTAB2Slx8Tl+ATVx8SFWZYGW5ioWud3SkXl6oWFusVlmpUVWfTFGWQ0mJPEJ+OUCAO0MAb0VVdEdXe0dSdz9IjldcqHNxmFlcjEJIjD5Fij5FiT1CiTk+gzY6ejI2ejI2hjk7jgfPRUVAVCEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/44.png",
+    "width": 1920
+  }
+}

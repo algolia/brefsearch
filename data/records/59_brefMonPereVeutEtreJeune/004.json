@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il mettait des slim, des baskets et même des slim avec des baskets.",
+    "end": 7,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=4s"
+  },
+  "thumbnail": {
+    "hash": "dc53040001",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nBXNW2+aUAAA4NOecyy1VBHFCwbFCxXBYlXwUlQsCtQL01BZa9YuyjaX9JasybK3vawv+9fLvj/wAY4ihXR8WMl1CqleMVWOn4rp2KCSNeSiqQj2heg0xGmzOm1VXVXyOjIoMdFZQ/B7MkedWBKnl9NnDNuVmyu9eXvVebD6W2ewu+4HTn9ndfd2G4xrhYdh7f3xhmdiU4X/cq3SkVyRPf887u2XkyfPefVnPz7OXjzrpz95DxYgG6doMswxMZIgMqcnOs/mmaSWTdy05Sd/9rb58Dvw1wMtHaPW/cbf7x44ODgMYYwgIjGuJul6JmlIwkpV5pr8tlm8+IutY5iVPACgK5X+BCuAIDrCOIRw4phIRekydyazmWFN8C4Vu1ZcaOK9M/hm626j4pyXfm3mAEKIEMQIk0Q4SkbMdnc/N/fuYDtp+536J1N7Xlqvy7Hfq0tJataUAEYohNAhhFQ4fGvrz3duYF/uRspXoz69qD664/uR6qqSwESzJFHPpf8PEEIMUZlNOJ3a2jZWo16rxJkNydVbuli4kstDkc9HwgwR4hP0P8ztUYsnFwejAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/02.png",
+    "width": 1920
+  }
+}

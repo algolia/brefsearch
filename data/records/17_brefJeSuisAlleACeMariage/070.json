@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "J'ai compris que c'était les mariés.",
+    "end": 71,
+    "index": 27,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=70s"
+  },
+  "thumbnail": {
+    "hash": "bceb89168e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nD2O7UvbQACH76PDD4Ibg8nEIci0ujAY7WqrSS6XpEkul1xeqklqm6R5vY62riqigsrEMcbY3zzWweD5+Hv4PcBsfvieOc9VMHWVVOeZo9ZUralS2aggsCAwM2Fuq5Wrp6Y0ED8D/ePub3byazr62tcyU5y4KnN6zFGZI5eWtARNfDwP6eyUVBgC0tj6Wfo/JtHUUxKdr6nMnF5NlZrKlY1KSyoseeIZ89BeRPZNGgLa2HpKyLfcZzaMtaPSQv+T/j3kpsQ84zyki4jeZRHIRe72VL0bkRLzQ6UzNoSCoIKg0pJzU8pNOMaQefg8ci8G3n05AomwPyPdRV9Je50Baqfa8XInZRiODTHDMDWWQkgvz/zHOgXw/RumNb/YwkhpB7B1Jh8mupBofNw7TjR+bIiJLjIXz0Pnr8AysLO+onPvKqM7QK0ANodqJ8ViovFDpRtK7Ug6jDW+9q1Z6F7HwQPLwN7L1carVWF30+1ypHWAuJ2jxvan7Y29jfXNtRcHb1/3m/tBm5ufOPd1cRVHfwDr44bb4aPXFAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/27.png",
+    "width": 1920
+  }
+}

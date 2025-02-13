@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "Voilà.",
+    "end": 80,
+    "index": 38,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=80s"
+  },
+  "thumbnail": {
+    "hash": "1814ccce58",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBoaGR9b21uYVKOc2WWgXSGcVGafXODbWOWhnekl5SxoaC/sbDBs7Oun5yZiYWQhIQAgm1kj3VsblxWlYuOnpOTjHtZo5SNnYJ3oIp9a1FCiXZ0xsDUrKa3d21vopaaqJykAH93fZhza35vgIN/kZaNi5F/Z6WSi6WPh6WJfFc8K3ZSQL6tr6yiq1hRUJOFhMG0vgCPgHqaenOVdmiTgmeYhn6ljIytmI2ij4Sge2dcQjFINyaFdmaOfHNPRkGUhoSyoJ4AkImRo46Lnn5vm4+SmYqPr5KFp5udopWcdlpWdl89YGBRl4eplWFlfWxisaettKq0AE46MJd5bqKHhJmGjox3cqGVlpN8d3leeCIqOztDMyUwMj4wYFg9fn1riqqakquWlAB5X1yWgnySipCXhYqXb16fi4aXfGleUTc5PTcoMTYPIR92dXWQhJxeUG2kmI+TfnYAV1NOg3Jjoo2IjHVok21Wr5uUtKSZq5mIhHRpTElFJzMy1M/kx7q7nZ1fraKYv7S7AIl3dJmIippuUJt8Y7Olnrqon7yqob2tp8KyrJqNiB0qKHJwdb+lqLuom6eYkbimoak62rI+RWxBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/38.png",
+    "width": 1920
+  }
+}

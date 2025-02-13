@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "C'est mon caleçon, ça. Je sais, mais les miens sont sales.",
+    "end": 19,
+    "index": 7,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=15s"
+  },
+  "thumbnail": {
+    "hash": "283abda819",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXBTW/SYAAA4DceNToGpQza0q6UAu0olH69bV8+Bg1QPlKMyja12KBOncyph4VEjPE4NSzxrlkiMTHsohe96cEY/Qdm/hmfB5B4SOQpBMW+C1ubqkLFX+5Plp9Ov339/GW5PF18/PPrZ5pmzwFAJwi3Wgfx1YssHt5gU1apYKiysp58PZ0u3p0cvzp6+2I29W8s3p+41QYRjXE06zU7gMAiXIJIM0xREqCJtKww7rpPRv7ezvWBaXiqOuoP7l/bCrxB20JQUgG+comKRkg8KnFpu6S3VG2ILNcwLBVue1ccVC9kNjxkD2uVrmUiG4HQhfOx1RUsHOKSlJSXYCbblSUkCkaafer7B7duahne1Uo9Q1MEodFqAhYL8/FYliKgkGub0MnlnILSgOXbwUETdWsy3NQblbJXL9cqCKqqDHSWsVNMr5DftuCuU9t127O9/TsPnm9N5uucjUWoMEZTyaKmI0nkOSYJxERcY5KdojQ0jaBe8TudYHD57vix29rRZcjTLIlTPFtKrZEMjpFRDLQRypNENZMZqMq46Ty6N5kfvTn79/fD/PhZ7+rvH99nh4d9p/EwGLkmFCnyP3g/cDUhfppXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/07.png",
+    "width": 1920
+  }
+}

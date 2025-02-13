@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Bref, j'ai dîné avec cette fille.",
+    "end": 89,
+    "index": 39,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=88s"
+  },
+  "thumbnail": {
+    "hash": "376ee067e4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nAXByW7TQAAAUEuJm9bbeF9nPPZkEo89XhLHWUil4iwNCbRwq7hAAYFEPwBO3Ljx1bwnHBb1ZkrWJPn+9rDj9Nyy5777vG12S7xZuyU3SKogKIe+5NrXjiEJx5Yfm/z1lP76+P4yY5eu+LEu/h67fh0uOqPkWjbRkliLIxUGCrQ14dJVu3Jy4tNPp7vVGF7ayVNF/vTtsnAyps64xYiBI41gLYU68Qxhy8t5HO3LvEAwUq0qrX+f+n8PfQDcjOqcAZroNAEEmTV2WuwLJAyJ77uG9Wo8KTyeONXL3eZpxpE5qfC0ICaBBg5ADu1dSbtxJABJ0WRlMBQZSjlcpXZhqwE008Rm1GO3SZwZgCPnPEvu6/w058LN6FqRZKSDLaGpk1uyb0oBdXioY19Pb0meGRpDTo3DCvpz5Asj8WowGCZA2eDwaiiPRMA8BHVsysiUPPsmtBQJ24CFTgRUpEiCOBRdVVuk8df7VUNwE8BDGn3I6Lc3jy/vTs/n/WNJf+7bL4flw6I4N/Q//rY/emJ7s0EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/39.png",
+    "width": 1920
+  }
+}

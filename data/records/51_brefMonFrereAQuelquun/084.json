@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Non. Alors, ça peut être que...",
+    "end": 88,
+    "index": 39,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=84s"
+  },
+  "thumbnail": {
+    "hash": "21e8484507",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC8WFhUPDVc3Lz4nIC8aHMiNiMeQisaclNCLh8mTj8eTj8GDf6R6c0o0MiAXFRIODQAfEREhGBV+Vkx6U0hZMjLbvrHRpJfer6PdxLPYvKzUuajDrJrGmY3nmZaAXU5fTj8AUjcxn2hYs3VlnGlXNycnxIyAnTMrrko/vn5wu3lsuXdqmllPnUY/5o+Jj3FreW9qACIYFp9gU7RuXlo3LjIpKa1USaQyK6ZBPJ0iGKIlGbIzJ8JbVdh3cNZ/emhfbF5dawBjREitaWnBdXRlOz86MzHOe3LJXVbQc2/Ta2PXaF3geG/dj4rsko27c3NYVGRbV2QAsIyHtIqIwJWSxZuXoo2G75+X84iB85eR9J+Z9J2W9aCZ76ei+7CnkFtdR0ZRU01ZAJqJfqWVia+dj7GekbCTiNyIgdh9dteAeNeAeNiAd9J8dcp0bfGgmWxFSD09REc/RwB7V1CCXleIZF1yT0dXMS3p29b69/D17uf17ufz6+Pq6OLRlpHSdG9RPEM9OkI+N0EAVw4MXQ8LaRQQbxUQu5qV//778+vo9O7q9O3p8uzo4trVxoB7sWJdNCk0NjA7NTA7bazW6RNJ6UkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/39.png",
+    "width": 1920
+  }
+}

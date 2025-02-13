@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Elle est trop choute. Elle adore la musique.",
+    "end": 19,
+    "index": 6,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=16s"
+  },
+  "thumbnail": {
+    "hash": "645d1f09da",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfUlEQVR4nFXLu2/TQBwA4Ov97uHz8+zYzZ2du4Q4duw8SAlNarVBpUVpQaJIVSV2xECrTgy0Cxs7fzMDYkD61g8BBi3ENOtVKluN8vWkWI306bxqdTb03WkS5oQaQiUmIYYQYyQdUYburN9bGL2t7cnUNjrt2mpeHD52zcVYa99LOY8BJIYYA9KyaJXVnjfNs21ttQwHYbBrJ61Ov3fN59bqwPcYDymLMUmAICWHM3s0M/O5sdvaqigqfG/zohincm+zXZ6MoiARwmUiojzBgDj4odNT0jZmeVy/nOQmEP6H1lyO++/H/beDdCL9pUoZMMF4BBQRLCh2GXgOBJHol7pUSfZtU65VfH929HT9pk3CnUkZoRSISygCzP8i4OADHjnJpq4fumqRxc+Xx78+7c9H+SoLOKMMKAGCANN/GGB2gNimKu9Pm3cmvqqHN83wdmZOtMwDNxYM8H+BEqAIketXi99fPv642/+8u/p6trjplrcXr8+Xg7XKSnX4B5/oLXraQYkKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/06.png",
+    "width": 1920
+  }
+}

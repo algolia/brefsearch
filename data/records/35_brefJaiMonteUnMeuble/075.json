@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Merde. Demande.",
+    "end": 79,
+    "index": 31,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=75s"
+  },
+  "thumbnail": {
+    "hash": "a2d2503b3b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGJYWG1jY25jY3JnZ2RaWTYsKjguLDsxLzctKzQmIi8hHjMmJEc7OkhAQEU+PUQ9PAB3a2qBdXV5b257cHFuY2IzKikXEhMvKCdJNjJXMysmFhMYDgxGODZTSktRSEhPR0cAYF1hd3BzbmNhaFtZdGhoMiknHBcXKyUlTzg0f09HOyMeDAYFLiQjWU9PV05OWE5OACctOlFUXXJmZEg9O25jYzsyMDQrKSsmJkAoJ4RRSE8uKSUUEjwzMltRUV1TU19VVgAqJCxOUl6BdnQ5MjFNQ0E8MjExKSksJiZBLSxvQzxRLyoxHBpBOjxQSk9EPT8wLC4AKCYuRERMcmVnUkRGPi8sOjEwJyAhJh8efnV7p5GVbj82jG9tW1deTUlLVE5QQDs9ABQYITI1PGhbWl1RWE4/Q0w5NWQ9ODQlJ4V+iKKQlqmLiMzAxoyHilVLS2hgYV9XWAA9ODxQSkxiU1FTR0aDgH9qY15iTUlYQ0FGOkCLgYrb09vHwcV0b3BGPT82Ly9EPTwAWk1NYlVVYFJSWU5OfqfEhLTOcaTAWGh4PSwvcmhxvrS9rKWpXFVYJCAgJyAgOzIxW0WFUyGlyMkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/31.png",
+    "width": 1920
+  }
+}

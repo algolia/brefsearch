@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 73,
+    "name": "J'ai fait une soirée déguisée (partie 3).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
+    "videoId": "WRXsFwhVzTs"
+  },
+  "line": {
+    "content": "Tu me reconnais pas ?",
+    "end": 79,
+    "index": 30,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=77s"
+  },
+  "thumbnail": {
+    "hash": "00a13a216b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nBXLS3OaQAAA4GUR2V1YXgKJWJ8g1ZA0yKgBmVFjJEYnkjh1mhlNYj2EQzM92ObSmV5y6j/o7+30u3+gYtoQIpGoBaprVDNVUxQUKsgCpihPOJarH7WCsv1BViuqYVIV+HZIEJWpTpAkC6qhGIqkiYLC8wKfJwwDq9b5tjsoyYohKhSJYNZfRq5fkAyeFwmWTFrQqSYikeQJx2EWAtMKt6NNv3h853oKlsB6fB+fhQKWCZYQT8eN9k3Tm9luTdEYmOcgkI3ufva675y9XyUd3QLT04uu2xEwFf4HMXFODqNpFkYFTFkWQwDKrf3X9P37hf9zOE6dNki8oFP/pFINI4EgGlXcnef3imWYQzxHchA6p9nl/O8mvH5ot/ZBHyTn0eP8YRIMIOQolnuleuq2vWKFYXIsy7WqTsNOi8Gfob+dV61JrQHenr79fjk8LT6bsi5hOv94cuf3bsOJoR5JmK7iy9XirdHcBM4gqjX9Ywv8yg4vq222fk7jSdkoLYJod718vn9cxkkaT3fT2+zL6279Y321GAVxOpz9A8cnQ7E71do2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/73_brefJaiFaitUneSoireeDeguiseePartie3/30.png",
+    "width": 1920
+  }
+}

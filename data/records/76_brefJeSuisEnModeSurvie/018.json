@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Je cherche de l'argent dans le canapé, dans toutes mes poches.",
+    "end": 21,
+    "index": 7,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=18s"
+  },
+  "thumbnail": {
+    "hash": "ecc56dabae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFVOT2VeXHd2fICDjHdvdG9cXZSOj4yKjBcTG4BcU3VpaW5rb2JcX1ZQU09LUSEfJABYUVNmX2CMj5eYo6+MdXikcWmRgYB8e4ARDRROPD18d3x6eX9raG9WUVQ1MjYODA8AWlRZfXt/SEtVHyY2alhclWZhjHt8oamwNzI5LSMpj4+VhYiQd3d/Y19jNTE1FxQWAEZARF1bYD9CUCInOkQ8Qm1OTUc3N0U+QT0wODMuNZOYoouPmGNibTw4PyQhJB4YGQAyKy00LS9GQUdYT1dURklqVVhIOj07MDQuISxSUVijqbOGiZNgX2o3NkAVExwYDxEALSosRT4+UEpOU0lNSTw/PTM3OjAzQzc8IhojPTtCmp6qdnV9WVZeRUBFQjkrVUYnAB0bHTYwM1NJTWhXWTgwM1VFRjowM0AyND4nLyMfJ3BnVmlcSEtDNmJWNHloN3NiMwAVEhMlICJNOzt/YV5rUlJmZnw+NTo0KStGMTsmHiQ2LSdGOTo0Ki0jHB8xKiUtJx0AGhQSKSEjPjA0Z1NMW2B0IylALiMjMSgsHxwmFhIXFxUcLSUsNCouNywyKSIqDQwSB+B+x33tvnwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/07.png",
+    "width": 1920
+  }
+}

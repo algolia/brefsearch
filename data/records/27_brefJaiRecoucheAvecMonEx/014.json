@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "En fait, c'était le numéro de ma mère.",
+    "end": 16,
+    "index": 5,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=14s"
+  },
+  "thumbnail": {
+    "hash": "4ca43fe6a6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AK6pqbm1tcK6uczFw8a9uH6ChIeBbqSAZLeUd41sVX5VRWlOQ3lyboZ8eFZNSVVQTgCSdWecgXWnnJnUzcrTy8eIfnSIe2OhfmG2knOjeWHCgm6KXk1aT0lraGRYUU9cVlQAgE42glM9joSDysLA08zJhm9cj2JBmnNXs4tvmmxbqHNjsH1qfWBVcGddeHBuZF5bAIpXQJBiTJOKicO8u9rSzWdgXF9HPpxwVZpvXl84LodWSJhuWqCNg56UkJmOi2lkYgCNW0KTYkyOgoCzrau7rKRkT0k0MjSNaFWje2qVgH9rVVKcc17aua/OxsuXjYpqZWMAdTwrgFM8b0o2e1FEcUAxXzgnY0I0oYJ0w7a9zMLRy77L2sjR6d7q+/L+0szPY2BeAIliTI5vVIRfT0YjHmJNO3lcQoZnWcOYh8Oxta6ssre3vtLK3NzT4fHp9OLa4nRwcQCfgWWshmenjHNmTT9sUkRkRzWgdmiWcmZza2++v8uytbzJwcrQy9TPxtff2OaXkpUAhWZPkHBVqYdlkXRYTTckVz8vTj47ICozQkJLoqKqrq64vbC2tK61n4+cr5WTgHd2SdjgKHTx5OkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/05.png",
+    "width": 1920
+  }
+}

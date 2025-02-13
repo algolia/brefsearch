@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Je crois que c'était le Chinois le méchant.",
+    "end": 15,
+    "index": 7,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=13s"
+  },
+  "thumbnail": {
+    "hash": "3d03abe656",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUklEQVR4nBXL23LaMBAAUL+AtVppdddaxkY1IQQbQ5KHdJp2Sqed9v9/qcPMeT1NTBMZ1iYjOgkELW43G61Dz/v97sv58ms6vCOykNxunRS2yXy0bifRO4qVq0WrgazhXalDXy+vf4+nDykZIIMsSqamH5YYK4A16IY0RkoPriRLO95f3/6dzt9QZhABthaFbcZ6y3zQKmowgbJVMVAmHTylaMrzy+d5+akkS8kSC0Jq6vSWuyOHPVvuQu91DipGyoSRMAzDuqx3rYoUUbZeivAIzE/Bj8ly8T3b4lQw0hF6h7Er83y5a90D9gAMrWvqdPPpXanauWS095QdBgTjiL3irp+X9e6oCODH2dqmH1/Jf1d0NWpwplNoFQbE6G0p+akM6+X25zBdjUqtyCBSE7qv2n8CHtp21PhMehJt8eGQwhhj5X6Z198v8486ngij2Lj/OIwlPQ/U1YkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/07.png",
+    "width": 1920
+  }
+}

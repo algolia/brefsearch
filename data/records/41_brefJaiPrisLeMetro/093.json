@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Cool, des rats.",
+    "end": 94,
+    "index": 29,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=93s"
+  },
+  "thumbnail": {
+    "hash": "dc882a8afd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABI0lEQVR4nE2QSY7cMBAEdTQkimvtRYrN7rENuD3//56hmYvPiUAEcjuPvebE2LAVZezKrvTo9ufXx3TtSlhLNxUCVxaCLcdAULuJUDPBbtyN1rDfrzXdhgq3OlxN+HH14bqlM2DLrszYuvHqurq+pv9c83X56mYI6xomOId1kxuAml2BsbnSNH64PIe9Zn8Oe7gY1DXMGIaLCd1AK1G5MlYVdMWuOJ3X8Ol6KXErl9/BrqyMWwyhpEhQsWXBpgTG0IUuVxc0AihJGQmqEBDU7Tz2L0mqObaSoGQoGVtxIWy5lZT/W9O5b2H/EcNe0pljKOmsOX5vxthKKulM51FzzDHEsH88n1sMRzoPqBlq/vbeVUKz+3C93/u6dc3r8/3+fP/9B+MNJb7IDrSxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/29.png",
+    "width": 1920
+  }
+}

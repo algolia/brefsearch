@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je suis arrivé dans la salle du boss final.",
+    "end": 119,
+    "index": 42,
+    "start": 117,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=117s"
+  },
+  "thumbnail": {
+    "hash": "5b0fec1371",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nBXCzW6TAAAAYJ5iMWbaX2oHa1fsD1QKpR0gFFhhHaUdLZSuCOWnrBtdmyxZNTEmxnjYYYke1IsnowdjTDz4Bh58JeOXDyjUqYdFfvc+XK+Sh02xAx7wOeTwcaFRQPZScL1AcKgk46SCKS2MZRAJaBJ4q0FVik9oVmY1L6xNJqXeFB+u6KADYwz93HD/Xh1hlxzZ6b8RmBfADm6WaKuUr9RoTd3cfX/f/vmB+v2J/PEW/fIS4VuvtMlX6yScKWOU3vDUNVDpzWpigGNHKMEK9vouJj9eNz6/Jn+9o/58Y7rtOJzZ260fBBtWVjjCB5JDrsw5kuQkM8UcoZqco7On5Xu8dyzcrvlIjW5vtpt1dB7E0sAQmy7QlHt93fH9OJnKJtLZkbUajpZTfaqfWIpoLsZWbPqnuq0PjLbQFZ8qgDmwjNGZ8czrKX20jAqqury4uoniS3ceuo7nr3w7lodjvW+WWbrKMEBXUmVZExVtajqhfzGy546zCObLuXvuuZHnLKwzWzzuC5zcaDFVggIy6TyYgXJZ+H9wH9o7gCEEhpF9GIEhJP+oCGahdCqXSoDpBJh4kPkHBtOI+r4VWr8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/42.png",
+    "width": 1920
+  }
+}

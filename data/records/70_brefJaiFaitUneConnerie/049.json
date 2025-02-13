@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Elle n'a rien senti.",
+    "end": 51,
+    "index": 27,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=49s"
+  },
+  "thumbnail": {
+    "hash": "b3f754ac2a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nB3Qb2/SQBzA8VNCr3e/u+v13x3tQYF2tCtslAkIU5lGMh4sm4vM8UC2RZ1ZFkzMTHz/Me4FfPNJvkjZcP3pfLu53l59Pq4qRUBxx8KUYEptcLmTRvGkyNOoc5gVvThCoU0ff3z7+/R7OqwCIfNGI1PaIaxeJx53EqV7zfabwWRWLiblURq1UGCR3f333cNPq2YFzOkEpuXHTT/MlLo6nv66OLuczy6mJ6vq5P1oVZoecl9afx4fbrdbhJCWqoh7mWr3jVlk3fXrVx/29y6PqtVg/7TYu19u3uYfkUS13d3N5sv6BaqnpnuQdAut+iocm3icGCNlQ8iOF/TDYJmP1rMnFNTwcjRcLd5lOq4SU0ZhroOWdH0QNqaWRbEFFDMBInT0/OAUDbjIgYXCK7TqerIpZcR4zJhPAZ5fEQwUg42h6fm38yEae15HehhTSZkCpigYzhPBU0fE/D9iP2e2Be1AfR2X6FDwtusSwikGSWhIqQLQAC3ONBeUMGoDwaA9Fbo6U/ofIQA1q4GXFBAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/27.png",
+    "width": 1920
+  }
+}

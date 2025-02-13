@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Trois jours après, je suis allé chercher mes résultats.",
+    "end": 84,
+    "index": 30,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=78s"
+  },
+  "thumbnail": {
+    "hash": "44341a46f4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhVSlpHQltEOpF6YK6jk4eCfl5STmpeXIOCgpKMjHdsamZdXWRbV2ZbVWpgX0xCMQCCbF6CallhVVOZhG3BtaOEfn1sT1KTd3aIfX2Ng4VfVVUrICE0KydsYVluY2BEOSgAemdceWZfVExVdGlenpyUlY2NeGJ2pZOffnJ3ZV5ldWptcV5ndWFce21id21lV01HACMmNSkvQSUySEc7P2o9NHJCPW9dcpN9g2hCRIOCiYN8f39sbpuJe2BWUWBXU2RZUwAUGCcfJjdHKS5eEgVeDQNXCwJcNDxyNjR6EQCANiskHiUzLzJrZ2YfGyMZFhxDNzMAGxojRDU4UCcnOxcaWRYOXBYPTBUVbRgPeRsPgRkIJA4PDA0WGRUfGhceExIWIyAjACsjJzspKSQWGDQ2Pz4cGkETEDAZIE0bHGcZEYEjE0YmHg0OFhcVGRkaGhQVEhkXEAAlISU9JyM5FQZGJBQxIBwnGxsqEhU4FBdEFx2AX2dkUEcRDxMSEg8VGBAPDw4zLhgAFA8QQi4sPSYgNh0RNiIbMiQjJhYWNA0MLgoLWEFCQC8qDQgHDg0IExQNDgwJFhANmkBxL5BAvIIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/30.png",
+    "width": 1920
+  }
+}

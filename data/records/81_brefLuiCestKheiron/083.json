@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Sophie. Bon, bah, à bientôt.",
+    "end": 84,
+    "index": 31,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=83s"
+  },
+  "thumbnail": {
+    "hash": "6604299586",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nBXLW3eScAAAcD5BzmNbaptu4gVMFAQ2B17+4t8L4FDBC+DwkjmUE9pZrWzGdtpD56yHHuq579rp9/5DGCyaj58kgy+paDh+GCAiIZhB4QU1HHbWA+mzpfx5mtpmqUhiG/u6wFAILOQJNHLs96WPQ/HDABkNzSGjl5nH9eSv5/62+7YKFakkMOlmtUiTOaRCZ+gUGvL7Yq+OIgE/G3ttQJZLo9+Xxr3Z3khFq1VulJkKjSutBpPLIgqfL+CJoO9F2H9AngSt4htTFbvaYD/VPKN9q9anWg+cZ+BlVruSSDyFtOuQTGGJo4OLWNjkiP23h9n+12T16W2dbxPoSJ8Mna9irVRj0+2GkMNTSMd+4EH3iyZsusI72x19fAbGtmNtnYXtLFai4V6tnwZzB1BJSSj+D8rSE3rrmQybVX6x+9Gc3Fb0jTBYeY/P997Pmu6K8506cwGNgXMqiyUQcXbXMrd5Tj49O+st78DoPdA3YOSK8gBAhVdX0Pwgj9c0HoMcI1wySE13uM4NW7/W+sPezY7vO3Rz3DC31ZqMEyzbGhckS+gvCSxZYbItwP0DP4Z4JCiNCz8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/31.png",
+    "width": 1920
+  }
+}

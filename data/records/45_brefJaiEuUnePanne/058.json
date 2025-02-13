@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Vu qu'en temps normal, quand je faisais quelque chose de pas grave, elle\nse sentait pas obligée de me le dire.",
+    "end": 60,
+    "index": 23,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=58s"
+  },
+  "thumbnail": {
+    "hash": "b2b0c006c4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABS0lEQVR4nD2Ny5LTMBBFvZjo0Wqp1Xq4Zcd2EifBTE1qmBCgoOD/v4sKC7a3zjm3Ax2sCmDYqoBQPfRWedARoXJYmI5MB3yOIUA1O+isCmaHVqEzDJpAB3JS+Vx5JRzIT5EWDxJxbGUb6mv3jwugCW22ynmbcphKPF2WP4fxG/up5k9jfytxLfFU4rEDTf8dqxwYIicRpPh5kQ/hy9w+ZvnSx7XwNYTj88HpiCY5E0EHbwtoIqjsWg1Lci3jmP3Mtq98HeR75zT1cT20h+RN4ln4Sq7ZHVrtrUJQnkxikOSaxHPPl85pTrivcZW8Hccfp+nXMjzYz/rFOkNoU/JTz5fk5+BaTdfOmaxeLGhKYSl0kryVuKYwPxNpG8rbXu4t32r6PPTv6/K7k/5e0hbc4ExGm9EWNIlwPO5/TvK15dsk96k9Wr0RTlJe/wLNeiETUFFGfAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/23.png",
+    "width": 1920
+  }
+}

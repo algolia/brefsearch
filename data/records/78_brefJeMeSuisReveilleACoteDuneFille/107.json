@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Et après, il y avait une girafe. Chut.",
+    "end": 113,
+    "index": 40,
+    "start": 107,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=107s"
+  },
+  "thumbnail": {
+    "hash": "c77e3fbc3d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nB3LW0/aUAAA4DoO1N5mT+/3m6U329OWNrIGHQhViGTLOh8khJC4LIrxzUTfl2z/e9m+9w8LzqZRPo/L66RchqhN8kVer1G1jtG17VW66rgu0q1UUU4F0eI5FQvTWVK0fjwx3EKWnd16c7vaD+NL3cp0yWzCIQqRamaKOhRFi/sfpqaDON4gaF5jxZ/f9k11BXlDEnVTsecpqnzfMz1fNRTR+Bcsr2ChwkJNU/3F55t5MjqhBVG0Ql0LDbsOkjo4Q354mWaSoAmchnGiBaFCfZSG2unz3fZPt8udrKxXie1pkJcVY9V2SVDMylqAEsPKmEBDiuYgeRIzfCsZb83scblJ88WkbCLLjSzzqdv+ev19uH8oDDtmOMw+pmiconGGJNgjQEKKi+2oHbfT4tMFGv3oNg/d9mX/8v70emimByfAbJzUBuQHQIAB0x/QPUBgRwRNwsh2z1M0H0+uzicX5fj7zZfd8muHakzvH8sAx3t4DxAAkAAQ/T7dA6Sj6FUUjaK4DKIyTOo4G6NqlJV/AdQcQwxEHkvgAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/40.png",
+    "width": 1920
+  }
+}

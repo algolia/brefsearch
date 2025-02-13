@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "J'ai répondu: Grégoire et Julie. Quoi ?",
+    "end": 61,
+    "index": 24,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=59s"
+  },
+  "thumbnail": {
+    "hash": "1241aeeed6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYRj1UQzlmUEKAXkV5YUxpVURqVkV/aVJyYUuAZVCJYlFqSTyCbGd6aFaObVWJaFgASDkyTD02WklBW0pAg3dyr6WnqZ6cmpOLnZCLvIpx5qyPh2hZcWxtwLGtraWltKipACgdGjYpJEg5MUw6MWFOQ66lp6uZkY93XZJ+c4tZQ6BxXIRfT6eOiMjByauxxcu5uQAeFxUiGBUxIx0uIRw7KiKUeWOPdF18Zk96XkuYaliZa1irfWqhf2abkom5qqq1mZAAHhgXIxsZLyEcKBwYMCIclH9zpZeOrZqQq5WHgVtLm2hWlHJfpJ2VtayxvbfAvLfBABoWFR4ZGSofHSccGDoqI62QfKiWfqGSfrOlgVk/MVY5LmtZVZCKfeHXy9vQ0dXAvwAKCgwWExMkHBkhFxVDMiq0noyRdqE5Nko7QDE4NDxPRk1QUWg+Q0aQiGVoWWC0hoQAAwMHFRERIxoYGxQTQDMpnIyTdFapIR89BhMaPkVeUFh1UFdwFB4pBhEQMitZk3W7AAQDBhEODxoUEhIMDEs5KX5pcFY9hR0dNRAdIVFXbl1ifFRachEbJAIOETkvWnhVrSwUoKTcnmJ7AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/24.png",
+    "width": 1920
+  }
+}

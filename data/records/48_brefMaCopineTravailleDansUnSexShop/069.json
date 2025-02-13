@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Je me suis dit: Si je lui dis oui, il va croire que je suis impuissant.",
+    "end": 71,
+    "index": 31,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=69s"
+  },
+  "thumbnail": {
+    "hash": "65ebdfdbc9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJ0lEQVR4nFWQzW7cMBCDjVrD+dFIsiTL9m6y2W5SIC0Q9NJD3//NCre9BOCBB34AyYnhghy+hDAjzACpx9WsEykFocD/FGachuIEiiATdoZRYPf1cny83H4LF5DgxP4zFATkU5gDiFPaGRHQlPZa75fj51JuFPAZYCBNOHMW42paQZry7mkr+Xi5/lLJn4sJkCe2zrqIVrMGYvdR68197Ov3pTxBK+AU/g4IYjYmnEATrSqFAqvklA5P49h+9PqANI1DtUbv7qOUpwnWIEV0Ecl0vsTRFrN6PT5Ge1XrtT/6+Nbao9Z7zteJ/QKk6LtqY60EF46ett6+tv7at/e+v9f2yPnqaRdZJtgGeCrPYivbUO1mPZXnXO91favrW1luFgdzpqBh5j8KzhU38dahcQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/31.png",
+    "width": 1920
+  }
+}

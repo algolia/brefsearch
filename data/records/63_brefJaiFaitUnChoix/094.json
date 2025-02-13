@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Marla, c'est un bon coup.",
+    "end": 95,
+    "index": 38,
+    "start": 94,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=94s"
+  },
+  "thumbnail": {
+    "hash": "ccea6034aa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXB+W+aUAAA4De5Hw9EQbCIoiA+yy1CsVKDdl7RrVdMuqU7TNZlq1uyLdkv++/3fWAT9q6xkXebW6+3C+w5Ni/bqgkZFbIiy5KVCgBAEdDF0E4H3amPwUOOb0LzZT56KePfy4tfq2yD212OFWmmjsT70n4zO7fa3fk4mpz3Z5ELvm2z+7BzzJznifu9CL8U3m1kWwjyJCUj8e/n93+OH5JwtL6aLtOojF1w2ud3iXXdVU5X4dcimFnNu9jBEuIIUhEkp58OnFhvaKMh3k3Gi8QDD67xLnNcWVjZzRVuuWr1kPbDhoRIugaRQBKIfMVUCEhSheus0wCsZeHJ1Xd+5ylzbgMza0mH1Dk4ulflqyysQb7OQ0TTNEHZzebrxAdLWcjP6lvfPC2iH/No0VPeRr2f+GwlQ00QFYQkluEpigKEjFDhY7BvIENCsVr9lA/+7S93w1ZmNo597VFFEsfJPBQZmiUIvV7LsDX1BmCjCYgkM119TOznMrzxO+OOtuzrH42awXEi5ESGghSZDqwywBm2/gNIqkGBqrG3BQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/38.png",
+    "width": 1920
+  }
+}

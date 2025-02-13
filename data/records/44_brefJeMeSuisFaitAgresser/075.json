@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "C'était lui. Bonjour.",
+    "end": 77,
+    "index": 26,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=75s"
+  },
+  "thumbnail": {
+    "hash": "6440fb2a38",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEdGP1JQSFVVTVZVTnN1bmVpYyAYEzwmHmA/MXVNP2tGN1Y4LEQ2JkZKQ1pbWFFSUAB0dnJ+gH2KjIeSlY+hpZ9oZV5HLiJlRDlnRjuMYVCAV0htRzlpQzIxKCNIRUI6NTMAa2xod3hzgYF7h4eAkpSOY1tUaUc3iWNRfFdGnm9bi2NQdlNCeVZDVlNNYWBcTk1LAEhJRE9QSldWUFpWTlpYUkpCOV1BM5pqWJdoVoVbS6FzXqZ5YnpYRUY/OEZANz84LAAXFRATEQ4bFA4oGxAZEg4oGg5NOCyDWUp1Tz9gPjCJX0ydbVhNOywQDQgdFAwiFw0AHx4ZGxoWJyEaOikdNB8VIjIgJy8kaUg5b0c4bT80e1ZBeFE+KEMwJygVHxMMIRkTAD42KEQtGFY4IVhNL0JbOwpPNiItIT8sJHNSQX1ZRnRQPTo9LgRpSW5/XY6BfHh5dQAqHA8/JRAqTC0RZkQHY0UHZEVBRjEzIxswIBpDLiUiLyMFYUcAdFUYel98kouTj5QAS0VBK1NDA2BCCmFDDFo9B2tJSVE8aEc2ND0qDjMjAFdBAnBUA2RLB2dIGGxNXXhwUlN7HV/lzK8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/26.png",
+    "width": 1920
+  }
+}

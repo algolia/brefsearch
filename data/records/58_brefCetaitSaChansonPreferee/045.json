@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "L'interrupteur allait déclencher une lumière qui allait projeter\nla constellation de la petite cuillère que j'avais inventée quand",
+    "end": 48,
+    "index": 15,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=45s"
+  },
+  "thumbnail": {
+    "hash": "ba83165e8e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nDVQXU/bMBTtD+FlExMPwCQQmyamIjFAk1AFbFFLW+LEsR3bcXwdO3bSlLZ045dPKUw6D/dI9+h8DAxFtchazTceXjv/2vltU3Ug2jLfgQdFbY509iTiCZ3+Htg8DYqtXPnS1Kvg1qGuOFmCWFm1Q7EA5gti81SlU/40HjiOW823jW0rMFIEgNH1j7ur4TaYFw+buny2YgG5l+TNpHdYGvmndZ2z+HGcjB+i25/HH/caxf42duP1upbLSgRJgca9oGJJXyCYxoDmuWb4183F6cGHRrFtMJtar6xaAPeSANkJgCJf0M5IkcwuvpwMz06+HX06/3xgKFo7vTSyA9EoZvO0xPO+gyZxladOZE7g0eX3r4f7w9Ojm/MzHI1axdqyT+84BhIXyZTNooHCc0NRxRLHcShoLTLHsePYUFSgic7m9v/3+6wSPSo8BxIbioDEb4eh7zSb3LNZVCT9oGwW4fH9P0W0qHMgDgMVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/15.png",
+    "width": 1920
+  }
+}

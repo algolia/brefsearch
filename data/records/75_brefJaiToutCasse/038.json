@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "C'est bon. Et c'est moi qui lui avait dit.",
+    "end": 41,
+    "index": 17,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=38s"
+  },
+  "thumbnail": {
+    "hash": "ef4cc32ce4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB63OSAAAAcL6tu+rssZXZbPgABEEUGeADBGNOQUqZjhRtMRUTbc20GaXnnV7X1t2urcfdvtWf2u8HYDCCIFGzaQ2dyUG9VSpVB4OpYRzHaP5pkIjEmFqt9c557/RHR6+7HasL7NJcnKQHo9kn99ydX3AcHwhGG41eGMI2bntgCJLFaubFl9lstZyv7E4PYJlUik2fnM5H48X446r/pqsJ2eHbUzyRfrQdJhNUUe3syFeUbEuSpGp1gCR3aYoR9zSM4dNi7t/N33PX5Xk+L8imfhhAUTjx3Md9fkgcgUEUxRnA6wVjRDxK5ZB4vlgxf11er5cXSSrNgrCE4CEYhROFLWqyRTlcSoqgJIAgMQhCn4VxiGATjPD7x5+ry5uM+HLzlid5dzMIwozQ3gg07mFW31l0LQdovLLoJKuU9I49cWfr9eLr928/S2XzyZ0HhteHBCLTkzMwxHj87IfpajxeAo1mr90eHBh23Rxa9hkvaQpJK4pBxLO5KFUo1Mz2cBvEd0LEsTUymx2gUmkp5cOMqDLZ/b2iLu9XHt/3CaJKZKvxpBAi8xlR84OYH8QVRS+r+n+NAXnQAFHnZwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/17.png",
+    "width": 1920
+  }
+}

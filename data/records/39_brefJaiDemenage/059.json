@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "C'est aussi celui qui porte les trucs légers.",
+    "end": 60,
+    "index": 26,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=59s"
+  },
+  "thumbnail": {
+    "hash": "185127f58c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG1eW4d7eMC7ubWsqsG6ucfBwL20srqvra6jn6GUkJmLho+Bfn9wbV5MRWFVUVdMSgCDcm6fkY7Py8rDu7rQysnX0tLPyMeelZOglpSvpKCkmZWdkIyOfnliSkBvYV1qX10AlIR+rZ6b3NjX0s3M19PS39vaqqWnEQcGdWpou7GvqJ6co5iUmIqFclhNdmdiem5sAJ+Oh7GintnU09fU0uzq6MTI0FhfdlVLT7Wqp7KppaqemaWcmqKVkX1kWH9vaoF1cwCikIixoZvUzcvZ09Ht7e13fpEsMEJLTVuMfHmTd2uTg3d/cG+ajoqGbmGKenWCdnMAn4yCrZuUzcXC3NXSw7/AR0xeOThDWVFXSD5Cb1FIa1VMRTs0dWdjfmVYk4R8g3ZyAIx4b5SAeLyuq8a0rH9wbDxCU0E8Ql9KP19QTG1ZUmVPREg7M19KRFxEOm1aUnBiXwBdQTVxRCykc0y6i16fhHNQR0YoKC5UTExjW1toWFRELigqGhgnFRI5IxpBJx1ILiMAa0Eki1oynm5Br35Pl3FSfXFsOzs9Li0vFBMUOCsnXEAya1NBOigfOikgOicgNiEZcZjPD6IEaqcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/26.png",
+    "width": 1920
+  }
+}

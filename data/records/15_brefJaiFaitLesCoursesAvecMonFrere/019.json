@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Ça va pas, je me casse. Mon frère est comme un supermarché.",
+    "end": 21,
+    "index": 9,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=19s"
+  },
+  "thumbnail": {
+    "hash": "b123797cb8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG5ob3Nuc313fIR/g4yHimFbW2pfXJ+eoqGgp4CBiaChqKKhp5WUmYyJjYN+gnZxdABzbXVXQ0tYRkuRjJGSjpBcQzlaOi+lpaukpa4/QkxtaWtvY2Ghn6aenaWVk5+Ig4oAY11fSjw8aVtclpKanZafeFxTeGlnq623qq67Y2t3UzgsGwIAbGNjqquzh32FjYaQAFRPTYmGi5eUmaqsvKKiul1QWoiFjLG0v7G1w7e8yo2AgTcbD1M+N6Ggqo+Ij4J5egA/OzRJREFxa22emKCCdX5VSE6DfYK5vsu1u8m5vsyzuMVdR0FhOCyUkZytrb19dXYANzAsLSYcYVpYlIN+ak9Jcmp4dG5xi4yRo6evYFtdZGBgMCkrRyYbkIiOra+7fHV2ADItKGNcWlA1JXxYRmVQTHFmb19WV1pVUGtkWSIbFyseF0AyMSkUEHxub6isuHhxcwAtKSUuKSNCKBZiRDRUQkI4LzU/NTM3KiImGxQtJiQ0JiI8MDAvHBktJSdtaGxZT04ADgsIFhINMR4SUTktTDk5DggOLCYdOy8mEwwNFREQHhcUNSkoLCElDg0SHBUSKyEfD0+ozkIUzNkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/09.png",
+    "width": 1920
+  }
+}

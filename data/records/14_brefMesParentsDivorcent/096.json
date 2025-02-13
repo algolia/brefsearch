@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Non, pourquoi ?",
+    "end": 96,
+    "index": 45,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=96s"
+  },
+  "thumbnail": {
+    "hash": "7e3c36907a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEE6NFJLRGpjXHRtZ313c42Ih5yWmpyWnJ2Zn56YnZiRloh/gjImIxEODHVuc2pfXgBRSkNaUktIQDlzbmiJhIGWkZGlo6atqa6Id3aRjpO0s72rpq6idG9RMilpYmh+c3MAVlBIVkM7bUpEcGJbj4uImZaVq6uwr6mtakc+enJ2vLzIt7bBknR0dF9tcWpyb2NiAFpVTmtXTpRqYXtxbJSRj5OQj5eTll1WYDMoJjk2SX+AlL3B0HdzhHp8q2VjeVxQUABtZmSpl55mU0xoYFuNh4RwZ2NqYmRTTVRWRUlURVRlVmOYhIh8eJSIjcJTT1tRR0QAYkpFnHt5npiegnFxhHl5c2lpX1lgbmpwpoF+jmxnf2hmc11WtJiebmR2Ni0pPTMtAF0kE4s6JnNHO6R5cYF0dm5gVpmJe3pqY4ZqZIxrYYpva5FycYFiXj8yKkY9OSoeGgBvOzCIPS9jSUqIa2eEc3FUQzeTeWaEbVhbRzxTRz89MSsYEQ87MzBSRkJKPjcxJiAAZVpZdWlpenBviXp5kIGAfXJxhXl3gXZygnh2bmJeHhYSCQsPJys6OTdCS0hXODA3S4GyQs6MhMkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/45.png",
+    "width": 1920
+  }
+}

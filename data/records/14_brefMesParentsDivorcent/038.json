@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "20 minutes de retard ? Oui.",
+    "end": 40,
+    "index": 19,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=38s"
+  },
+  "thumbnail": {
+    "hash": "a528e3f0ee",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALm111BMVVxWWpCMnZGOn6alvbOxyHFoelJOdSQqV2BBN21VZFFNgFZRfqqmx52YrQDIxuRiXmZUTlOjoritscu2uta6vdhxaHdNSGAYGzVqTUtsWW5OSnlgXI63tdeCfIsA0M3rZl5mNx4UlYGDtLrWur3bvcDeZV5sIiEzGBQbQjtEJyIrMClCYV+Wr63McWl1AMzH5X96jUg4NndSU7Ozz7vB38HD4kVEVBYWJEAwNTUwP0M8SCslOFlYkaSiwGNbaADGxeOFdYxCHi1gFCabkqelqr2nqbxIRlIQER0ZFBsqJzg/OUcuKD5RU45+eI9HQU0AxsXjZFBhVgAEdzROW1xrTEhMYmFnSEJLEhQhEhAZKiUpIRogMi5QQUR7V1BXMCwrAL+51HZ9mkhGYz42QTk3OlNQV2RgZTo3PwsOGhcVHS8qKzMqNTk1SC8xWHFvcoqKgACqo7l7gp43SmIqKStdVl1oY2tpZGUxLzYMDRgZFxwODRIfHCQ1MzQwM1RXUFdaUkcAm5CkRUNMAQAACQgLLy0xVE5TVE1MLSwyCAsXDQ0RDAsQFxUZKCYlKy1CSUBGNTtUum2ePX1eQD4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/19.png",
+    "width": 1920
+  }
+}

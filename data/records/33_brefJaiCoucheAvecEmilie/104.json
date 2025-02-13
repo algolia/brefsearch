@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Elle est partie.",
+    "end": 105,
+    "index": 44,
+    "start": 104,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=104s"
+  },
+  "thumbnail": {
+    "hash": "f739fb88a0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACchJnFURVcjA10nCGstCXM6EGcpCEkdBcOjiYJvXx4VDkxCOVw8NSQXEyEYFR8VFAAiGyBqSztmKwhjKghTKBBSNiZqNRpJGwLFp41vYVQeFRBxYlV8UUdDJiAlGxYiFxUADw0QUzYpZSwLWSYKRSkfTDQvZ0EzRhwEzbCWe29jGxUQa2BSbUg8XjUsOCcgKhwYAA0LDTQeFlkiCVQeBnBAL5dgUoZaSkAZBNS2nId8bxcRDH1tYGdHOndLPVg7MD8pIAAUDxEmGBRdJw1oLAxhKw53SzqUaVlVNivUuaKOgXUYEQuAcWNTQDRzSzuAVkRSOjMAFhEUIBcWWyoUbzMVaj8sTS4lXj00Nikonod9mYR0JRcMbWJWNzMrRzAocFVbS0FPABcRExkUFksmFnU4G2U+Mk0vJ0IqIxwRD2FLRIVyYykaD29iVUtBOl1VYmtmgGFacQAVDhAUERQ2HRVzOB1HKh8YDg0lGhgrHBpZRT5/cGcZEw1QPjOAcn51b4pcVnlTTGsAEQwNEA0PJBYTVicSOiAUDAkJHhUUOiooUkA6fnJqIRoadGt0enWQS0VmUE11PDVRwOlsh24kPrYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/44.png",
+    "width": 1920
+  }
+}

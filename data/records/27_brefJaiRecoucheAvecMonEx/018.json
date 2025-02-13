@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Je me suis dit: Si elle demande pourquoi je l'appelle, c'est\nqu'elle veut qu'on se revoit. Pourquoi tu m'appelles ?",
+    "end": 21,
+    "index": 8,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=18s"
+  },
+  "thumbnail": {
+    "hash": "a1c88cea55",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKmiobKqqby1s8vEwJSOjXF1cZJ7YK+KbZ1/ZWdENVA0Kl9ZVZOKhl5VUVNNSl9ZVgCCW0mHcGepoaDc1NKflI1/b1qMc1muh2qie2K8e2eTZVRZRT9tZV5bVlRdV1R7dXQAf0wzgGVboJyc3dXRmo6GelY9jV5AqYNopX1jmmVWsXlkkGxgcmZcjYN/bWdkf3l2AIlVPIpvZJ6bndjU0pySiUBBRm1RQaeAYqN+ZIRWSI1cSaWDca2gmqKYlHRtaYaAfgCJUzqJZ1iIfXiwnJZ+W09LNTFJOC2XeWXHtrebjJSAZF3TrZ/r2+HY0NR5c3GGgH8AcUMyck83ajgpWi4jZzokZ0k4TkU/oZid2c/dz8nP29Lg5dvr6N7s/vb/wb3Ah4GBAJt4W6OFbW5QR1xIQqKAZGNOPUdLTKeYnbu0vbm7wcLDyt/X5OTe6Onh7e7n8aCdoQCXdluohGWcfmGSb1uPblVBMiU2NjZ6VEiYiIy5vcrDx8zUzdLW0NXGvcvTxMucg38AgWNMkXBWooJkSTYlSTIgRjkvRjIvbUY7fm90mZulr6myx7i/yMLImZSZTjk0dUo7DdvelnANBf8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/08.png",
+    "width": 1920
+  }
+}

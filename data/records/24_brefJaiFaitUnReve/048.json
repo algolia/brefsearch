@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Et là, je sais pas pourquoi, je me suis dit qu'il fallait que j'achète des pâtes.",
+    "end": 51,
+    "index": 13,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=48s"
+  },
+  "thumbnail": {
+    "hash": "03041163e3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH15gIiDio2JjIyLjJV+daGEZ66hib6+uba0tah3c5Z2Y6KOemRcZJCWpqistJycowBfUDFyZUx/c2SBe2uXi3mynni8rZLQz8hiUUpoRja7k2zbv6VXQzxzc3nR1di8urwAmIpbk3dGoJFupKOCsKOQsZxzxraZn6GdVkJAaT8whlhCpoZ0d1tRmI6R3ePkp6etAKWVX5+JXa2hgKyqiKygkLOddcm6nH97eUQqJopYQ5VuXa+MdKuGcaeBg8jN24JwigCspp6+urKysLGXk5SdkIG2oHjFt5mMhoA5HBVKLCN7TkSjfWaAXU6JS1akpcJuYHMAvb7DnI2Qbz02jl9PqIx4s6F3xq2NhISCGhcbKyIYTi0kSC8rfGhYZ2dHRURIXFhSAGFMP0kaDHsgArF0U6qCdLaSbZ94YComKggHCCAbDSgcET8uJV5VOU5MJhMQFTUxMQBzWyhhPiNrNiali3ifgHubVEJDJSEAAAIWExA5NiIpJhM4NRxNSyY/PSILChAMCxAAfGY0ZkotgHJpkpCRhnd0nYNnKBQSAAAEISEaX2FTZmRSTEgrTksmMzEbCQgNCwoNtqa33aK7EjAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/13.png",
+    "width": 1920
+  }
+}

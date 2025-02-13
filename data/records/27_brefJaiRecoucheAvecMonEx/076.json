@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Un jour, un mec est venu installer une nouvelle connexion Internet.",
+    "end": 78,
+    "index": 31,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=76s"
+  },
+  "thumbnail": {
+    "hash": "9c9d07054d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AL2zqM7CtdTKvtrMvKyLanFSOy0hGxMOEAgFCQ4KDlVLRGFTSC4kHxgREBgRDyYbGgCTg3TOv63i18a2nodYNSJuRzlhPjEoHBcGBQoSDhJaT0ZYSD0oHhsTDg0SCw0XEBAAx76xwrep4dvPlHlqYDovg1dKdUo+NSEZBgYKExATUkdANywoJh4cFA8QEw4QFxETALKmnq2elJOFe5J0ZH1NP3xLQn9NPzAdGB4ZHUI3MU5COi0lIyMbGxUQEREMDhQPEQArHx1LPDiAc3J4VkNyRTJ9SUB4SztkVlI7NTtJOjNZSD43KSYcFxcXEhQNCQwNCQ0AKSIpVE1WmI6UZVJLXDoscUU2e2BZiH6BhHuBLygvWEhERSEdEgcKFBASDwsNDQkMAD80OmBXXo6EioV8gF5FP2JAOn5zdnBmaI+GjSokLDQqKlYuJyQFCQoHCw0IDAsHCwAeFx1RSVGIf4R+dXp0aGl+cnN7cnZpXmCPho0qJS1AMzFvTEIsCw0PCAsKBgsKBwsAFhAXSkNKg3l/a2FlgHl/fXR7eG5zYFZZkoiNOTQ8MCUlWj84LhYVGhAQDAcKCQYJqbh5jVCOZDYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/31.png",
+    "width": 1920
+  }
+}

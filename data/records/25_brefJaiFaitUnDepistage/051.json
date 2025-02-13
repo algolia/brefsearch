@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "L'attente, c'est un mec tout le temps à côté de toi qui fait...",
+    "end": 52,
+    "index": 20,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=51s"
+  },
+  "thumbnail": {
+    "hash": "1f55bda724",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIhVBINlPmNme290koV8e5OIiXhpZZ+Zlru1sZZmIZRdDpNeEI1XApaDcJiZqaegngCFUQCAYjtxbn54dYOBdW6Qd3c2Hx9KRki0r62ZaB6XXgeXYAqTWQCWgnGOjJuRgnsAf04AfGI4cWRTbGBIc3BrcFpbQiciX1NSnZiVkmAXlVsCll4HlloAkH1vgX2Mgm1hAHlJAG1ULVlMN2BQKF5fT1pfaUY6SVdWbm5pbnFHDopSA5RaBpVZAYh2anNwf3JdUABBNCpAPT9VVFNXV1NYX1djbpFJV5JWX4ddYYA+NzpGPDxSR0hRRkVraXdrZW5fTkMAJSg6LC8+SUdSaWp2b3R/WGulVGWhVVp7Sk9vTFBpXWSAOkBeNTpZXV92YVpgUEE4ACQkMCwrNU9HTVRXXF5gaVFko1dmmUNGX0RJaFdccG1zijU3SjU2SlhYa1VOVEY1MAAfHysrKzVYVl9dXGVnaHBMYqhJVYRBRV88QF9JT2JgYnksLT0wMUJPUGBMREpBMCsAGxsmJSQsQUBKREJKU1ZoTGKsOEBrQkZkPkFcKy0+ODpNJCY1Ly9BR0hWST9DPyomwo6XO69/NGsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/20.png",
+    "width": 1920
+  }
+}

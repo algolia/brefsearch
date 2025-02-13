@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "J'ai vu qu'il m'avait vue, mais il n'est pas venu me voir.",
+    "end": 50,
+    "index": 20,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=48s"
+  },
+  "thumbnail": {
+    "hash": "20bc018e65",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBa2+aUAAAUIK835fLS0BAu4mKDia2RZFh8bV21qza2tU2S2zsks59a5YmW5P99Z2D4CWCIhiJ5pZR9/di8TPP5u+9acOfBeG39NMuH340lPwkOVwUN3FQ2CqCYyRaIlqG9TQav63Wr7PJKvCDanvTS+97Jw9Rp3jnjqMoM7QlYApLQzCM5EjmshMeJuf/rjd/psWqcTRtdA/paJ/0F+32fhBf1iozW78BXGJaCFoiNE7cHifP4/nbev2aJ7dHlcIPH+PTbTvYxNEubEVAig1tBOW+aSIllIAM33er3wfZ36uvP47DpqykXjOv1LqWG1t2TdFVEVA4VZfliWMjeImsQ61n2g/J8DEfOdAALCjzwJHUjls3JdUvWx3TlEhi0Uu3pzmCopgjynO/eT9IQ8eTGckUVYEWcJwKvWar7MmMEOhw1mq93D2/zJeIzPJ1RU/dWub7FoAKB3QBSoxI4XRVtV1YhozgK+Du7PzX9dNucoVUoT6s1mPL+VBxDAHwFAdZiSNZAqN4imdJVqZ5nqQvsi/7z7erZPIfa/BHGAa5PtYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/20.png",
+    "width": 1920
+  }
+}

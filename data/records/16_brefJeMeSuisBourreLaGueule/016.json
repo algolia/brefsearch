@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je me suis souri dans la glace de la salle de bain et je me suis\ndit: Tu es le meilleur.",
+    "end": 19,
+    "index": 9,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=16s"
+  },
+  "thumbnail": {
+    "hash": "d0a6f1fc6f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nAXBO2/TQAAAYC/xI76zfWffne3YPp/r1I/EbRNFVgsUSiQkUEQqkT6jqkigtqIINa2KqAckxAAMTIzMDPwLxB9gAf4ME98n7UJXqG0PKKUDSweuODBHeoThhkNunOIdXHqheY94vBMnE4tyRZOeE7GGjD41Mgyw0loy9Y6umbp622UNyRuSn5rRNhcHSXdOw0wD0nmnGFN74Jq3OqjA+n1OxoIlGN7z3Dc0v2b5CebbPNkR6VNfrOimdMkHE88rCdzwUA+Dihg9YkUW2GLsNSsWTnSK48dROhPpcZAMDSSd5aOK2AFUV4kRQQ3JLaTIrgWmoWj8/iKbntNyGoq9tDwK05GJpQfDXh3TEKiR0Q6ASlQFKXKIzM3V7Fk2aG5+XDz8tJdu7S8XhzyrLUdaL+I1zioPY6UlYDsFbV/TBLXrKt0U4eLi26vv/558/HV253g/SdcdTyoj5ltgGLuRBYgqu4psq0rM7Lrs9l3zaP7h7fvfL7/8Pfn8c5aMapdLCcOeBQjUypAGthUQ3A18gmDO/W5Ip8Xdpphdja/mX/9M+pPK6fwH/FdJifI8HFQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/09.png",
+    "width": 1920
+  }
+}

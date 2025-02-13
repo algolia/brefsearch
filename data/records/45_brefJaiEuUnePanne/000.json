@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Bref, c'était nuit comme les autres.",
+    "end": 3,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=0s"
+  },
+  "thumbnail": {
+    "hash": "7d980bd92e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVR4nDWQ64obMQxGB2JbsmTLli9z3UxDshuaZin0/V+uZNLC+SP4joS+wVm2xpuTO0BGVTkTFo8FQaxBe0LzH2toOHLwwiC6qHHb+vc6Ptk38hVcIMjwbyk6y4M5gTXwnglzkT3x3NJl0i/CwlSFZg/pFTBojH8L/uC4IB9drzXtW3uq7B5zpFF4IlSwIVIfwIk19HY8SOKl5UtNP4rsXe8IiVAlzMJzkfM6fg+E1Vk6HvJoA6MmnhOvLV8jLwjqMee4db1t0+/z8mcI1L2L6BI4NicAF1JYStqneg++p7i1cpvaz7n/WsfnSxBeCFR4Yd/ABmu80FjipnFt6TLW+9QfU3/M7dHztetteFWBVWgirAgZIeWw1rQXOdd86fWrlc9ePrteVT4ijX8BGlIYwu84PfQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/00.png",
+    "width": 1920
+  }
+}

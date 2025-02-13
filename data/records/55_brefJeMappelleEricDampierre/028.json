@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "On avait réponse à tout grâce au script d'appel.",
+    "end": 29,
+    "index": 16,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=28s"
+  },
+  "thumbnail": {
+    "hash": "10fcbf3d75",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFxALVs7JmZHMz8wLDYlIVI+OEEzMk47NWlUTEc2NCUVFRkMDyEPDzo0PYSWrJCmvgBHLiE4IhlFLSQ9KyZXQjtsTUVKNzs3MDxkTklUQ0QrHB1AMTVwcYCKl6yPn7SElq0ALxwVLiAhPzAzPC4zVT06Z0I8VTU0RzY+PjQ8Szs8QC8wcG1+qrrUrL7WpbnSm7XQADonHzUnJzssMDEiKEQyMmZCO2M/PWdFRjkzQDstMDsqKnRwgJ+pwaW0zKi91py0zgA9KiI5KCg6KCtwV1aCaWVSOzVQOjpfREV5ZWxkVFwzJSZlWl90bHV5doKBhpdXXW4APCkjOSgnQS8ymXhzknFvcFdWOSklbFJRgmpveGl1LictGxIVKSEnGBEWFQ8UFxMbADQgGy8hIUEyN4xsaIlnZYxsa2xTUXRXVI9xcoJxfTIoMA0GCiorODU0QS8wOx4hLAAoEQkzHx4zJip2XFqCY2GCY2GEY2J+XVuDZGN/aG9ANDwTCQsdFx4nKDQiJC8aHisAKhQRKxwfLBobUjw8b1NRcVFPcVFPcE5MZUhHRzY8HxUdIhceEA0VAQADAAABAQECh+l9BFpfTnUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/16.png",
+    "width": 1920
+  }
+}

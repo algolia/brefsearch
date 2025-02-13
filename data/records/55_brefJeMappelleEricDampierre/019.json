@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Bonjour madame Dubreuil.",
+    "end": 20,
+    "index": 11,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=19s"
+  },
+  "thumbnail": {
+    "hash": "0af1e77bce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nB3CQW+aYAAAUA5dZu0cttJWtI6UolMKgqDMioKigh9QRSGKoAiKNtqk29LstMOyf75kLw9iSOqe5Ala+JTJ9Q1nuXuTgSOPZuHp18Lfs4/cAMzc6BXM/GYPsK0BxFVrVEOmBRnFyeF4efjx2/IOnKgq5rzbGQp0nSR5QdLc8NjT7Ue+DcmqBabriRs761Pw8u7HP531yQ2/jyYBXaSkhkgQNC9q3uFdn29l4EDtwVQxXM0KNCswna1mBQpYgrk3tA26QmYRrPRAMC0RzlXyBIPTT5CkztTxSrcj3Y7Gi70+DYHnM1uP3TjfBvUCgZlL6fg3kh397CKD5IoQVuaL1RbJdylB4dpAkE1uYFC2S/je15XL7lel7ZraLOI/UddRb3EWOk+jH5KZczibusYKlQb1pN491O5qTXK3IeOQjKPixs/PHWz2bB/Naq8PJS5zyXQ2mb69RPEsTudL3Oeb++syg47N+n7Ved2h1uQGjGBFwbV2dyJBZynkYzqbvCpcZP5HviTgHIyVEKmTEZtXYhOus6lyMcFxjPEM+so/FUVldzfpcPMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/11.png",
+    "width": 1920
+  }
+}

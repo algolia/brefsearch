@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Je me suis dit que je rangerais mes affaires dedans demain\nparce que j'étais trop crevé.",
+    "end": 87,
+    "index": 35,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=84s"
+  },
+  "thumbnail": {
+    "hash": "67b6059cef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIdmTX5iUaCOhZyLgo9/drOgl6qWjKeSh5qGeSUhHSMeGi0nI2lTRH1WN4BqXV9KRwCWbVJoUUSomZObiX6PgHqdjYVnTURtTkN2Y1kTERAfGxczLClsUT6BVjORd2ddR0cAmW9UYEg7jIKAw7Wwo5iVz8jKooN8m3tuindrEhAOHxsYNS0pemJRlHJZk3prhmxiAHRcU29TQ6qdmMC4uJuMiM63r9DLzJ2JgpF/dxAODRwZFzQsJ4FtYZiCdJN6apN4awA7OkJAMS2ompa/u76ShYKkfG3Ou7e+p6GNfHEMCgYZFhQ0KyZ8ZFKLcFuOcmGQdGYAJSw4HhwiZlxcf3l/Z15gXlFQeGhloop0inFbDQsJEQ8OLCQfdFQ8h2lPeldJZUtDACgsNhcZIx0ZGTEpKisjJCckJCctMm9fUKOMdBEQDgoJCCojHaaHb5N4aEMsIEApHgAgIioOEBUaGBMuJx4mHx4qJSQzNDU3LiyGcl8ZGBQMBwc1KiOFa1pLPTc7KyQoGA8AGRwkFQ4VIg0aJRQbIRkaIyEhKiwsGRYYPzEnDgwKCgkIOCciTi0jRSojWEU/HBEOxP2N1XZglo4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/35.png",
+    "width": 1920
+  }
+}

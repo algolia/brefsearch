@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "J'ai participé à des cadeaux communs de mecs que je connaissais pas.",
+    "end": 54,
+    "index": 24,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=52s"
+  },
+  "thumbnail": {
+    "hash": "e29f1810a2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nBXLW2vTUAAA4GDPObmfk0tzOUmaNk16kjRtE9ustNu60TE3Nyu7VZ0bqCiCIProgyiKL4Lg9NG/4Z/QvyV+7x8nA2Ag4CtCaijLiF6W8UnJ6vE4i+jVrvdo2z0chqsqjRxz4An7TOJUCC0BdVQhNeS5b5z328+m+UaRsQ59uOMdjYKb69Xf7+9+vHyw1cOnpcLpPPRElBAxM9WxQ+7G7otpupe4k8Q+rumsSz+eLn9/fvvz1eUg0DYj6X9wBdTTpMxUS5vsR86TcXKv8GdMqwJyUrFP64OvT8++Pb+oA99GgFNAw+JRF4s9TRo21d2wuS7a98twmuqJrhxk7Q/nh39u3v96fV3aZoIFTgYNE8FQ5rtYHDbVLV8/iqz1YnPSZ4S/VXn2m72dL1fHCxZGCp/rEqdAoCFABRgT6baF5xTfaTcXWeJblgABc4xVPXi8nOWtsAhbuW1yKgQEAgvBjipsuGTu4u3AjG3dUCRNllwNV3FUxlHo0Gl/VPUyDiOggIYBARVR7eCFT0Y2CUyDGnrRjSf5oGK5LEpJEPY7cey1/gHpxUCjiP//ewAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/24.png",
+    "width": 1920
+  }
+}

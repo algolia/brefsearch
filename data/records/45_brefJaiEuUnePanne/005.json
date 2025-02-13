@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Elle a dit: Arrêtez si tu veux. J'avais une panne.",
+    "end": 8,
+    "index": 3,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=5s"
+  },
+  "thumbnail": {
+    "hash": "64f69db34d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVR4nD2QW0vFMBCEC02y2WRzT9P04jnWHu8e9UEE//8fk7YizMMszMcs0/AWEbxgWjDFWslaAG4QAme4Sx6GtVJwbWlqeCs523KslQjOUpXgSfUSHHCNwnF+kMiZNnpqWCtYC5xJ4BTNvM4/Y3lF8EYVhdGoHsEdVYIrb5dmT283Sh/MVOLD3H8Y7JQMCgNhZ3UlVRC81fV2+m7Y9tIGSLDeTFbXQPNcrl4PCuOeG5wZHY0lrDf959GwMSDI05DcOZh5TC/BTIQJBCE4Z6YurFN5Pw9f/w0boDF5Gj0NXVizvyAEBcHSkOOlT09juY7dW4PCib8RUHBNKhOmzt8FMxPmaE85Xrp0X/Njzc/JLY2WEbiRYNk+9rasriWuyd0Ge0phPZT9kt1idf0FF9sYXHP60wcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/03.png",
+    "width": 1920
+  }
+}

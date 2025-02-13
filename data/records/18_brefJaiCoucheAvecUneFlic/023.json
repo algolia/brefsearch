@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "En y réfléchissant bien, j'ai repensé à tous les trucs illégaux\nque j'avais chez moi.",
+    "end": 26,
+    "index": 10,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=23s"
+  },
+  "thumbnail": {
+    "hash": "0e7a14d066",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AL+unMm3noxsU0cgDk8lE1EjDlUmEFMjDGIwE3A7GFQkDzYRAo1yXsS4pB0VEBsUDwDPwbHXybKsjXKGXUVyRCtXKBJYKhRhLBBnNBV3Qh9bKhI5EgKWe2nPyLkpHRcmHRgA1s2/2c23sJF1totyxqCIoHdhd0s0ZS4PajcXeUQgYi0SORICl35s1dHCMSIbKh8ZAN7Yy93OuamBaZBmVoNfT62KdcaljHxILGczFH9LJ2ItEzYPAJqCccnGuCgbFSEXEwDEu65hUUtnSDtdPi6EXEuzjnrKqJGRZEtiLxGCTyxkLxU1DwCgiXewrKEZDwsjGxcARDk5CwMKIhUTakY5jl5QrYZ3uJOEqX1mhFg8e0QfWSYPMw4AmYJw09LFJRwYHxgVABcOExIKECUXFGlFOW9HPHpUSo5hV8acibKPenFDKVcmETUNAJZ9adrazSMbGCEaFQAVDxIZDhA3IxpFLSNLLSVjPjaNXFKyiH2/nIxINDYwIiktGBehkIbHxbojGxccFRIADgoMGg4LQi0kSDMoKxgTRCgiTCskZz83kW1lMCYsDAULFhAWSkVLPjU6JBoYFxIOOZCOZhHX8aIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/10.png",
+    "width": 1920
+  }
+}

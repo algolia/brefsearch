@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Bonjour, Bruno Dussalier.",
+    "end": 95,
+    "index": 45,
+    "start": 94,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=94s"
+  },
+  "thumbnail": {
+    "hash": "f50516454f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAoklEQVR4nIXQ3aqDMBAEYPdPkwhxMEkjikLf/yUPmJvTkrbf9S47s8Pwipn1HyIauohIRIjIzKZpijfvvZkRETO/bxJRjDGltK4rgG3bSikA0i3GyMz9I957AI8bAOeciPRTNaqac973/TiOlJKqfhxtKVuNeZ5DCGbW0verj+OYc661Xtf1vJ3nWWstpZhZ/4iIqGoIAcCyLM659txvHX76AxkzCUAJg2jCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/45.png",
+    "width": 1920
+  }
+}

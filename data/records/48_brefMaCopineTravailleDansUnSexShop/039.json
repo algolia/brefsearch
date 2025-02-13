@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "C'est pas la taille qui compte.",
+    "end": 40,
+    "index": 19,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=39s"
+  },
+  "thumbnail": {
+    "hash": "f407f0be18",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nAXB227SYAAA4CZemCg90Jb+Pf703FJoRaBHYC3r2o0tRcCNySRxic5DzIxoMmOM3Hi5iyXGGJ/AF/AF/T5kHqcLf/RE6g4JcYxLJQHWvLx13Jlup4pxYFprwz1XXQ6lAUovhkfIeVoWnp+rncIy3yfR3O6s+sWX/eLbJL89PdtOIpdiT9Q2JIBIsG1eQa6r002ynxvm9yr787wq3HCTrXZF9jMf381nvxd5oSlL0+kzEl1rUARAXh/OLjqPrn33bj3d5bEnKJ7ofBpFP5LgapC+9N3bZfGqF+g4x2BAZ0Xk5HFceenfD5cfJ75FgkiSYx5CrL7J8stplYrNPafVIDm8RjMEyDUTsVm5DN9clJ+35Yug2dMB02KF42j46+bm3+5dxIoYStcw+t7DOopSLg+RnuIn/bdR52oZf83bTx9gJKizh10/7fnrKAgVS2IElGjcRykWpz1BQjItaNsrGWa2chSq0yZJCxgeQnVPa00N98D2fKiFimGzEGBkInJIDJq6UvBswICBLYwl0CWp1rPB6MzrBtAIZNPh4ABqFiM0MEqhmP8qplawyDiXCwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/19.png",
+    "width": 1920
+  }
+}

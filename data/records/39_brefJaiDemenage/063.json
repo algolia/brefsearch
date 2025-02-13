@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Quand mon frère a répondu au téléphone, il a dit: Ouais ?",
+    "end": 66,
+    "index": 29,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=63s"
+  },
+  "thumbnail": {
+    "hash": "ecc6802381",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABkZJiIhLR0XGyYvSzpFYoBxYbCdlpqAd7SqpJ6JgKyZj8a9ssS7sbGqoqKblZSLhQAzKzMeJT8cHCVVVV1GUWuJdGOii4mTe3l1VVJ1V1GxmpPEuK+akIe4r6S2raSnnZYATjIqJSY7XVlSdXVwOTxUW0A5m4uXopqgTDU1QCopkoSHjnBrGgsIhXxzycC1tKukAEgrJEouJ2JNP1xVUDArOyQYH0I0O6yemlRJQhMOEYh/hmZfdEhCVJyYl8rDu7exqQAhLEdAQEdmYWBOQ0E2KS8rHiSHgZ+XjZw0LS4bFxpvY29LUnZcYXutp6G7saSpn5EAREhSaGhgZGZpVlleODlLSzIwRztGRkFTJChAODlSTVJzMzpZe3d3r6SXmot4nY9+AFlcYYKDelNWWC4tNSIkNi8lLSghKBkbKjE0UTI6VkNIZGlnbp+WjZKGeZWJeZ2ShgBIRklPTksvMjYdFx0jISsgHiYZGCAbHTIgJT5BQ1M/QEx4cW+DeW6Kf3KXjYKNg3gATEFAIx4gFhIVHxgZIx8iKiMjLCMiMysvHBokNzM5IBogMCksdGthhn1xhHpwdWtig9edA8hVac4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/29.png",
+    "width": 1920
+  }
+}

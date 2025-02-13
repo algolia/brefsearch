@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Avant d'appuyer sur le bouton Ajouter, j'ai repensé à ce qu'elle m'avait dit\nquand j'avais 15 ans.",
+    "end": 21,
+    "index": 10,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=17s"
+  },
+  "thumbnail": {
+    "hash": "0def2f8b5a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEwrKTc6FFhXI4mBZrill8SxoKGSd3NtQm9oPWhlKV1YLJNdTUkuJykdGiEXFxcREQBJBxR6bm6Rj4V2YUeIc2h7YlRRNTB3Zz7GwWd+eTRpZDmKWEeQZVFlQzRsSzpWPTEATwsUz8bE3NnPSjgtGwkHZT4xbEM5VksmkaBMiZZNdXpKVjkqnG1Vm3Naln5tkX5zAFdCRLOysdzY1GRUTFYvIqFtWalxXoFaSD1AMktTRTI9JkU9LWtZT21rZmdqbWlscAB+goLl5OT18u+Nf3ZUMSKhalGmb2B2XUo5Pi5SVEacpJWSlY9SVVdUV1pZW15cXWEAn5+g4t/e5OHf1s3BiWFIoWxMjGxSSUI2SzMsWh4j1K2yrqapS1BUTVdaT1daT1RaAJaRkc/OzdXSz9vVzqiDbqVyUqeJcpiYkWZCQDsAAFAFCnwlMWclM1UvOlI+R0pDSwDBwMHNwLmyoZiLhHuym4+oeGGxh3Tb09FnMDNNAAVMBgtAAQNTAQleARFZBRRRCBUAkoyLdk06gmleUElCopOJrIFssIl3mYJ/RQEFUwUNVQUOTgUMOQUGQgQLSwQQSAQQ8BSsCFHECJAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/10.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'avais fini mon meuble quand Baptiste a dit: Passera pas la porte ton meuble.",
+    "end": 75,
+    "index": 30,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=72s"
+  },
+  "thumbnail": {
+    "hash": "97c85e77ed",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFpPTWxgXoFycrClqNfR1ca7vaeYmYV4eGleX1hPT3praop6eXxubHRmZWteXWxgYABqXFqBc3KUh4axo6S6qKbHubpMQ0MVFRYKCgsREBBtYV+cjIqMfHqGd3SCdHOIenoAcWNgkYKCg3NsqJaPi3RzemReMCknEhITExITFRMScGNhmoqIjX58k4SCkIB+gXJwAHRlY5GDgpiHgqeNh6SYnIVwaz82MRoXFBgVExAPDmlfW5SFgHlrZmpfW3FkYnNkZABiUU9jX1hxb2SxnqBiXWB/cW9FPTsLCwkWFRELCgdSSEOYiYSKfHYwKSQVERAyLCoAUT83allPZ1tScWZkIyQlOTU1MiwsBQYGDQ0MDAwKMicibF9ZdGljIBsXFhIPKiIfAF1TTlRKRikfGhoTEDMsKzAnIyEYFQQFBAoJCAoJByseFzMlHBkVEg8LCiwjIkU3NgArHxseFBAgDwlwRyhTQTJNMyJJLx4CBgcFBwcFBgYrGBA3IBMkEwwdEQonHx0hGRsAGQ8LIRILUC8bqnFAr3ZEomQ0mVwxZz0gPyYXIhUNNR8UTDAiQigbMBkOJRkVCAYEl5p/Xnoj4eMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/30.png",
+    "width": 1920
+  }
+}

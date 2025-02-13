@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Bref, je déteste les soirées déguisées.",
+    "end": 3,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=1s"
+  },
+  "thumbnail": {
+    "hash": "1064e56c34",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nBXLW2/SUAAA4CbOXs/paelpT2lLlRbojSEwBw5cNYSmZRvJFoOUOUbY4jUbXjZjsmSJb2ri9mD0/5p97x8VV0laN7fKWqukRrqcRWbeedh3iYulkIjTJ97V8d7qZTZPevmg06+ZVBIYaVRaN3DXMZuW1nOMQa04XnfH7cDDYLEd/ng3uT45eLP3bDnafh7YVFY3+q4e6krXMTdssmGTKpZOuuEwLFcUsIzD32fTn2ez1Yvhh/1B0nCoLDLaJTUgctNSI10hIoIcaFlFIqKAyMdP/Zvz/Pbz4mKafpqkO+0qFVf0uqH4mvzIxGUFcQwALGRoXuTFpqkd9b2b89mfr6eXh9mXPBs/9qiWhX1S8DS5XlSKCLK0ILAQclBggEfU2Vbt9uOrv99eXx6O7sKmT1UwqmBUVaWAFBQAOQYwjCCwAPGii9Vxw/4+T/5dvb3IR6tJurvpUxaCDpbumiqLPORowNACxwgiBw1UGAbW9VHyazV/fzBc7sRx+ICyELAkYEvQkiBLcwzNr93n761xLM2LHIgM5TTtLJLufq+Rtr1AR/8BjsBN549+hjwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/00.png",
+    "width": 1920
+  }
+}

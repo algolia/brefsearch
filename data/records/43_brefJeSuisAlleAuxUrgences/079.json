@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Après, il m'a mis de l'anesthésiant dans la bouche.",
+    "end": 80,
+    "index": 39,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=79s"
+  },
+  "thumbnail": {
+    "hash": "7c9c29ff8d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXB23LSQBgA4LyDr+BFb9UZL3qjdTqOtoiHUQZiKVQIhJJAkg3ZJuHPaZMNm0NzgCAw03G88Tn9Pm6oy7eaNNTkMVbmrjEDfRnZ6gYkgu/wglfFriJ8EXovv/NvLi75V8+4gTqfmNqSWCvmrAvi7hNzuzESR6GWxtZK9DA2ll1Z+DDonLU6789fcCLoCgVcUOdYOqfKKGOJBbiInCpCIYg6mhhqH923J/x5p/X8XYtDMaybfP3UoH2pFszdMnrKocnMKEAeIAa/9GV3MboadS967ddfP3JmTrxDblSp26TpU5n/rYOc2WHo7xjsItnHd0i6teQbfH814t92P3Gyh+0iTP5U1b/f7FjSOgsSFm5TZ0fVyF6AqWeOtLHGntZbzS77PzhEwWsYOWQ48ck+Y6cyOmRWGliPAWQhlNSsiZbCjOA+ltrigJNdbCTuzEJzWJFD5tax/UiCfUKPOaQRbKlZ+EpsC6D9VKefhT43xurUQrL/oBJbdgzMXLeOoaZ4462oozGQ/JVgLm8U8dt0eD3s/Qch2MiobCDk7gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/39.png",
+    "width": 1920
+  }
+}

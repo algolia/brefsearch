@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Et ça, c'est son cœur.",
+    "end": 5,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=4s"
+  },
+  "thumbnail": {
+    "hash": "788e595262",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nBXPy2+iQACAcQ6L5SFvmEFGZmRQsFBFkJdKRax106xrk8ZmmzRN2+Nm///7xvv3O3zM3AObyH1cjk+rOJvgXTq9dDmCtue6aRyus7uuSrs6dwAUeUkSJKYK0a86eHtIisBNCD7n87eupNjFDpqF4/siOTalj8m17ivcjcDMiHVeTT+fioy6393mq61TMsSOAywQeqMmT7Z5YmqmKusC1++xPEMsJaXwkNLTMv772F6KRRP6AwAtA9qmFU38ZDoxVFOTdVmUez2B8W0tpbAcwzYefnWr1zJ73VfAMAzNAJruDByMkGtdB1RJ43mZmTh6HQxO69l5W/477Z/zpKvr95dzEkU+QgShEUINpQon8nz/pideQUScP7+f8vrwstsd82Jdt88/j8SlXZFhGyqKcsmTBbRZlmdZgSFA11QLI7cu18OgGt1utpvWBo4kGfPpbbNcmKpyqdKD75myyv7gmIGh6qoJDAhNSOidF6TAtHUdqopFEF6EY0XgV4H3cV+0cdjnxP/qLz8n4DaBuwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/02.png",
+    "width": 1920
+  }
+}

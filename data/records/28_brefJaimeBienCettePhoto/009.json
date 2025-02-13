@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Dans la main gauche, j'avais un vert.",
+    "end": 10,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=9s"
+  },
+  "thumbnail": {
+    "hash": "dcd1397a3c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIlydZiCgpRxs7KNnpp/dnZRR6ZyXaqCasi3qd7VzMi2prCZkKSLgpR6bYprlJF8kAChiIyul5ikgsbBoLN2XFezgWrrtZy/n5qmhXukiH+ahYOOeXSDbmqAaVqafpSqlqkAr5WatZ6eqozFs4iajmNQz5h62rKmz7u+u6ChnoeGc15cW0Q7YE1CZkxVnHi4v6SmALOZnrukoqB7w6ZseMqPcKV9bYBpbrafpJeBhamVlXFgZYB4kJ6XsIJqdaF5g5p/cwC/paq/pKKpgIOyhoXOl33PqqTFop2Ygoh3Z2+4qKVfUVaUho/IuLmghnmAXkeHbGYAkHd2sZSdjGt5f2JjuIlzxZyYtIqIwKavopGVqJ+eYlNWiXRvyrOjlHhoY0I1h2deAE8tOWJWoy4nV3dQNY1kUpt7fnRcbI96gF1LSJ2SlVpMWHNeXrSdkmdORWRAMo5rXQBCLVInJVUXGjqffnRmQDJRPklwX2pKQEtIOUChk5lTSVszIihNOTVCLCx+VUykgnoADwocDAwfDxQ6dXuVn5OaOy44OzhIHx04MS5PYlluODA8EQMMIg0PRjIwVjkxkG5oYeHOrM+xTjoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/03.png",
+    "width": 1920
+  }
+}

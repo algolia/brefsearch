@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "name": "Je suis comme tout le monde.",
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM"
+  },
+  "line": {
+    "content": "J'ai déjà soufflé sur un truc tombé par terre pour le manger.",
+    "end": 23,
+    "index": 9,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=21s"
+  },
+  "thumbnail": {
+    "hash": "a3a4f94fc0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBwXD15ZUaBbU+JdFWOeVqRfV6VgF+dh2F1aV0TGzkzJiZTMSJDJBs6HhdBKh4gEg4AhHBNjnlVloJckHxek4BgmYVhmINhfG5fFR1AFRouaFdBTCgeOBcTNhsVUEAvJRYRAJuGW5qHXp6KYJ+LYJyIYJyHYJuIZC8ySRUZMHJlUIVrTE4jHUoeGVI3K0g5LSsYEgCTgFWZhVihjF2eil+kj2KmkWZCQk41NUGFc1WHdFiBb1V2WDxVOS5ZSkJIOjM1Ix0AnZKDmYx0lIRmmIZgoo1haVpDQzw6kH1dlYJfiXldl4Femn5RcFxFa1tPaltMXU5AAImFipuWmKihn6ihmqiekYyAcHZmU3hpVoBwV4JzV4FqTGc3LWQ1MWE9NVxANVg/NgA2NUNHRFJdWmV6dn6SjZGjn6Chmpedk4qTiX+ShXiYhFuEYDlPJRtjHxxgHhpaHhoAHiM2JCg5MzRCPDxNSUdWWVZhZ2Nsg3x+gHl5jYaFmI6EmYpvk4FjknddiWpTbVA0ABIaLxgiOB4nPiYuRSw0SiowQzM0Qzs7ST47R0ZBSlVNUlRMUVxUVmlfXGthW01DPbfFnPtzUH57AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/09.png",
+    "width": 1920
+  }
+}

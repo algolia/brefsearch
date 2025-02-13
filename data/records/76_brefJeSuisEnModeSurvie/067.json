@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Et en guise de pain, les croûtes de pizza.",
+    "end": 71,
+    "index": 22,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=67s"
+  },
+  "thumbnail": {
+    "hash": "6c3eafcd0a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlgdk5SZ1pgd2Vsh2JqhFdddUpSaFNdek9deDU+ST5ETT1BUGRqhFtieklVbioxPgB6hqRXXXRER1dCRVNMUGFQVmxtbX20m561nJ5RUlssN0BUW29fZoBTWm87RVkoLjgAmajNobTheYeqYWeCVllvQ0ZXfmxwuI6IvZeTm3x6emVotZ+iZ2V1P0hdJSs4ICQqAIeVto+gxpWmy6Cv0ZelxIOPrFZUXWVYWnNhYo9aWbx/fc+sp4V6hUVTZ1VcZ1dgZwBaZHhHU20/SWA0PE0rLzolJi82PUwdJDBASFSPWlyLXViLbmtkV1okKjNNU12fnKUAQ0paMjtTPkZZTU9VSEFAOTQ0iYqFZ15Yb2VfgWBQdWlTNzg2ISMtKi4zERMYaGZtAEVQaDUqN6JaWMGMgK6Od4twYoB4aJB4ZaOUga6ik42PglhTTC4uMyEmKxkZHCEgJAA1OkgVFyFgR0TAlYG2nYesk4F3Z1xOQzpMQDdTSD9kV06fjn9yZ2ATExokIiUPDBAAJCcsEhQdRkRDwLSkuqeWuqiUvauXt6WTrZuJrp2LtaWUva2elYuDGxsiHx8kFhUbD6mn8krFfKUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/22.png",
+    "width": 1920
+  }
+}

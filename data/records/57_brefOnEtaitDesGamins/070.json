@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Et puis un jour, on a trop fait les adultes.",
+    "end": 74,
+    "index": 29,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=70s"
+  },
+  "thumbnail": {
+    "hash": "6331279301",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABV0lEQVR4nD3MW0vDMBiA4eTLOWnaNO1KD2m3btOdrKgTi2Kn7EJQ8P//HZmC8N4+L5p7QxCWAAKwAiwBC4wExpaSaVudD2HalM+rfOz90zK/71LUOg0ISQD5D36LKLxuq/NNe9qUY58tEj7UyQXUicYIC4Df8V9Y4gs47Zr3fZi2YbxuNIGY0yEkaJ5FhhEnaCpppphXLGbkD0z75rQL77erRWY5xoChMBwdO3fs0scuvW2S3qt5qjunMsUiCm+H8NDnhRGaYAoEY+BA0MfQnvf1Q+tnRhrGEsFiwSJGDYXnTbOrEieIpEQScIwIAPR97MdV4aVwgnslUnkBmpJU8sdFMfZFZVjQ9FzrdcQMATRt61hww1lpVa6FlzzmzEleGPl5178sq2DEzuuXNrVKi9ij0urcqNLqztkmNjOjOm/3TTa02edd/zWEY2WX83a2OszaxdV6/QM7jiBtAD5nLwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/29.png",
+    "width": 1920
+  }
+}

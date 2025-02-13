@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Plus. Je bois plus.",
+    "end": 20,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=19s"
+  },
+  "thumbnail": {
+    "hash": "0c402959d2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBX2vTQAAA8HNJLskld7lLrkmTJm1sdSZd2mbK1m2phXbduhQ0imNrt5YJQ/wDc+hQ9ioMfB2ID7744EfwW/gBRPHZr+C7vx/Y8eiGy7Gqq6KCBMQ1cxy15tHq2zi+bN7OyyUiyS4hFZ3d1EkNqeBB1bzrOlglAIhHnWC2lQzHo3fp5t/TjR/7ndwumdjlukuhXtfI0MKgCEshY6bOAJDON+98PhjvZJNtnnzfTb9ljfuUanYeNRcptVqEPfE4WPdKloY5IhqUQr282HpxNr16VHx6PvjwsdvLHcv2siK/WDSW50H1tMZBaJgOYY5OPYUn3bO9979ef/33+M3PV4OLy5Mvz7JZHqfH94b7QeMkcNcMBMx2y2aeQxoYDFZe/plc/97rXx13Do6iydPeddGZD4Lg/FbYN61VA0MBAqPdMhGnagKXevXa9HD9cBqPZ2EW0+ag0k1pxVPUETeQKIMbUoA0gEUNQWaplaQcP6wtF/5aZK44mo9lakhKVSUhMrCkCEtQFpVtbgMd6hyZieP3vfrIjn3kCCKTIVWhocmUyMxXDSwqUJBkQW4T8h8Ejkd9xDZf7gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/08.png",
+    "width": 1920
+  }
+}

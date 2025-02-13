@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Et là, je me suis réveillé.",
+    "end": 102,
+    "index": 33,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=99s"
+  },
+  "thumbnail": {
+    "hash": "ba15faeb96",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAE0lEQVR4nGNgIREwjGogAtBeAwDSZAbBj/k3twAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/33.png",
+    "width": 1920
+  }
+}

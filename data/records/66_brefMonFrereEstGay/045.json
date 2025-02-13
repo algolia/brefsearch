@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "J'avais envie de lui en parler et de pas lui en parler en même temps.",
+    "end": 46,
+    "index": 24,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=45s"
+  },
+  "thumbnail": {
+    "hash": "b155cca49c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACAHDyoJEjEMFUkTH00eLUogLmYqO1UuNl1DQkg1NnlzedXU28TDy728xbW0u6qpsAAnCxQwDhg6EhtTGSdRIDBSJjRqMkOEX1+MZmJNMzEwLjLX1t3Y1+DQz9jKydC5uL8ALQ0XMREbPhUfVBsoTB0rTyUyaDFCa0tNYkZGPy0tPCwuyMHI3d3m2Nbf1NPbxMPLADEQGy8RG0EWIVkdLEYbKEsiLmUqOn1WWWFDQ1U4N11KS9XR2N7d5t3c5dva48/N1wArEhsmERk5FSBNGyo4FyE9GyZMGideOj5aPT01ISBrZGjGxMu/vcXHxs7LydG1tLsADw0RERAUFxMXGRUZFxMXJSAkKCQpPjU4SDM0JhscOCwuPTk9NzQ5MS4yKSYrHBoeAAkIDA0MERAPFA0NECclKVFOUz49QUlHTExGS0M5PD44PkRBSElGTEA+QxkYHQUECQAGBQgKCQ0LChATEhdHREpIRUw7OD5GQktKR1NKSFNNSlNNSlJGQ0w/PUMtKzEGBQkAAgEEBgUIAwIGJCInSkdOQD1EQD1JKiY7Kyc7Kyc8OzdGPjxCMjA2JCMoGhkeCQgLjOWARVWC47MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/24.png",
+    "width": 1920
+  }
+}

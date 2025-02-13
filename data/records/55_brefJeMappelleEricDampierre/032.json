@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "On avait dix coups d'avance préparés par des mecs en costard dans des bureaux.",
+    "end": 35,
+    "index": 19,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=32s"
+  },
+  "thumbnail": {
+    "hash": "1e6d5224c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nBXR6VLaQAAA4LxyO611tCMiisJIISGGK8dCEtgku4vkQkMgxyaVVpAY7Pt0fIHvz8d8+V49Ob35WetUfom3/OSyJbYl1AdzYbJ4MJacarcBuRtMq6x81hBOrlnm/Javd0FHwQMrkOexRCLov8DHRLTCB80bGIG+3ErziJ+6jeGs0h4xTdHkZz5wMyPcW1FhrA8ofkdxIaF1T/N1N5/To7k5aP5L33y+l0ymxgHg0lnwSpJSWVBWdWWb4tUOOpnuZNjfkrQk9Ig2h4mXCzOPuWIV4HzyOCllm/bNFVztUFSgpz8micjmjWQfmB5xWgI3ZzWbaQzhAIVG+IbiwooOKCpwUqK0tNZ7aASEfuD13rKpYdPhdNnsjplKR2LVxdjN4GqH4xIGf5XHBKclid8tJyP5P2uRQpuqXt7XnJZoMt9qnStO4VR7hMOJ91tfbsduDpwcuLmueUbwqtmpiEJ+5jdHsNIWma+XrR833EVrWO9p9zLq6k7ffBbgsmc8XdwJdRZUatz5ab3aFs+anw//AZ1CHYGeHL9YAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/19.png",
+    "width": 1920
+  }
+}

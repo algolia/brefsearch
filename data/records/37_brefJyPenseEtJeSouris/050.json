@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "En hiver, les nuits sont plus longues.",
+    "end": 51,
+    "index": 17,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=50s"
+  },
+  "thumbnail": {
+    "hash": "3dc6125ebd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJ0lEQVR4nE1RuU7DQBCdndnL3nttryMjGREhERGUKg3iCxB9GqCgBuVn+ADo+UlkOxyvmuPNvDlAKC2VxF8QMcYAGBIhl8j+MlIoWxkoXd82hYhmMgFA37cX69F4U4VW6BqRLVlOKDhBm0vOLc0AgLNxeDwet/t9Ctb5WjnPpUI2CU2SRJBS8WmFPwUPL89vH1/d7lY5p40TtZfGLuIMkThBX1ZN2090zgHg7vD0+v45bPe8ssI4YYO0ftlBCEquhi53wWciPvUAqHK5uT+0642qauudillofRoJcWgMBB9CSP+Xtk2fxyteGW09V5rN7AXZSVBSCSHniSacDsI5F2JxZ1MscUSE3eb6cjzXSqcUY/QhuBhjCCGGEGOaTO9KV4wx0ysk/wZHGxZB57z11AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/17.png",
+    "width": 1920
+  }
+}

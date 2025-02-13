@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Franchement, ça se fait pas ce qu'elle a dit.",
+    "end": 66,
+    "index": 24,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=60s"
+  },
+  "thumbnail": {
+    "hash": "ea9ac67bab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGZiX2tmY3FvbHZ0dXp2eHl3dlowOVAYI1EuMbu6vb7BxNje4JCBiDwQHSwRGUQ7OABlYF1wa2d7d3WFfW+HemmGfW5fMjxrLjZ1WE+wq6vU2d7r8fSkkplIER80HCBHPDYAGhIRJh4dXVNQeGRCWEEhh3FGYDI8azRBZUtHqKSn3+Tn+f//qpKaTSAjQDEpOyoiABcODh0SEoF6dkxGP0Q1HGdUPV1HYlFGc0M6VSwlP4WEj8DHyKKQmFs+N1hFOEs3LQAYDg0cEhJqY2NVODNhLBl0VkhbVX1OTXpXaIMmIj5KQ1F5bmqBW1pnSEBfTD5QPzMAHhMRGg4LRDczb1tXa0U5fGpja1ZfVVB7TFl0HBIpcmhpyc3QiExGaUAyVUY5Ri0kABQLCiQXFEc5NmtVSnJeVYWBf1w+P1pTgEtPcRUMIFxPUMrS1ZaBi10wLFcvI1IZEQARBwU3LCxMOjZbOy0/Ly1COTlbR0c+N2M1MFUWDyI1Jyw9Nzc4Jy9MGBthGxNeHhYAGg8OKx4eRC4nPSgiFxASHxMVbFBQV1FpJiE0IhwoMSAjFQ0OEAkLRBUSXhoTZB4VcYiJXKiTrEsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/24.png",
+    "width": 1920
+  }
+}

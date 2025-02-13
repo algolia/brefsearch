@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Par contre, il fallait que je règle ce problème de poids.",
+    "end": 65,
+    "index": 21,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=61s"
+  },
+  "thumbnail": {
+    "hash": "ff37e283a8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBbXOSAAAAYD50N0eCgi+rVl/qZHdqbt7MLQzlReRFYQiYKBNNHCC4Tbdu1VxnunLd7br62t36rz0PkH2JlQ4qOC6ItQZflRhWK7OdMtcnCvgWjCbgeCyMPkOTsXAUfAQmozEgj2Uogsvvvp00xZ/eoMFKtDioiHaXE17FkxEQgUMROASjjxFoA3qOJoFiZq9GN4hCyRWqt/ZxW9JpcUCKtsqKuSdPIyAaBZHwBhzZRKAQtLP9Ajh4na+SdZaqOzwz7+h60yR5ixJthZOpndR2NJEIo/EwioAIsgnRb4rAfnrX0tq+0aIzmFOvXfuBqo8Irt+U3iulQ3E/26EPLb7SJIoSXjB1DcilsjOr9+tiEjTllTv6u7h5WH9XVVuWOidG21OYxai9dM2rvu5pwvFRA8hhmV5Dup9O7oLx74vpn89X/5Zzp3eiyu31x+ly3F+41pdhd2IowyPe5Ckgh6Vlkv46dq8dexGMl+enK99ZnQbrc+9+5v44G9241qzXcnWpL3EGRwK5VJrB3/m2PR37l8Hkk+d88+27M/s2+DAfmZdWKzCUoSJ0BUarluUy/h9wJXwcsrioTAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/21.png",
+    "width": 1920
+  }
+}

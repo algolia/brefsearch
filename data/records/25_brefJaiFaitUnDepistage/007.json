@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "La capote avait craqué, Marla avait craqué.",
+    "end": 9,
+    "index": 2,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=7s"
+  },
+  "thumbnail": {
+    "hash": "5ae5e59c14",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nAXByWrbQBgAYBHPqvln3zSSLXvkOLFs15A6LTkkdKH0UGgIFHpMoYe8QN8f+n2NsXdSjApGoyYJK6UnY45OVE4MWnC0oBgrXz6H5XcTn4S5a6yZg52jOziz9bomd5Pt0UOlRBMsCVaLK+Lyx3H/2tUX339rojv1+ZLj2apq5SjbLEXRMALvgHdB71piff94c/9vPf8p06+mzx/6fB/9LEWhWDJqnNwEuXVQPdQgq2yHYftjnH9P57fN4W9T0iX5k5YjoxrjlhEJNEiaBHGKRMW6lC+5O4OIoDdlem6C3StRgEeKBMMgiFFq49Te2qNxB+ePRk1WrSUUhAUXpQGegIWWWEo0ECeJd3525SEsv4Thk9fXUV9HeytE4jwIkRqC2pZ5hkDpGuO7wFeKJZdu/XAxZmfFEPXk5IpRILilBBp0hRnSCsZu/XW5+xlh9O1K6+qH9z6fJA+aR+CeYI4RxYj9B6qFJPr7ZLFIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/02.png",
+    "width": 1920
+  }
+}

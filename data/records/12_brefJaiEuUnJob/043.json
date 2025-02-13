@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Oui. Francis, c'est le scotch, il te lâche pas.",
+    "end": 46,
+    "index": 21,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=43s"
+  },
+  "thumbnail": {
+    "hash": "f3b3d1e3f1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AOvp7+zr8Orn7Pb1+qOenUI2L2tRSVE3LFhNRm1gWxECAA0JBgoJBAgDAwgBAwgCAwDq6u7q6e7w7/PZ1dg1LilWQjmAXlJ2T0JpTUR3amchDg0SCgYODAcIBAIJAwMJAgMA8vH27+/z8vH2k3l3SzUtYklASzQrX0A2elZKpZWRNB8fEQQBEA0ICwgEBwUCBwEDAMzI0tjV3t3Z4npiX2lPRmhJP042LU81K0AnH7CmoZ6RjywbFyQaFRoTDhILBw0EAQBbWlpdW11PTVdQQ0FQPTJiRDpkRTpePzRUPDSVlJSgnp9GNjA5KiIvIRomHBgkHx0AgICDPDxEHR8rKyYmRzctUDcuQComNyEbbllQi46Od3h5Sjw1PTArOzo+OEFKPUtYADQ0QhwdKBQWHhEQFTQnIks0Kk8wLkQtKXJvbpOTl4+OkGJeYUhPWEFOWjtJVj1LWAAxMUAvLjwXGSEJCA4gGSE3KyhALitUTk50eHeTlJePkZRlb3lKV2M9S1Y9S1dAT1wAHiApHB0oGBkhDAsQEQsUSUJRNjdBOTxDmZicpaSqj5CXXGdyR1RfPUtXOUVSMj5KcsuJ3e3yqiAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/21.png",
+    "width": 1920
+  }
+}

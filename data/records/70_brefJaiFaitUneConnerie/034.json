@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Et puis, je suis rentrée.",
+    "end": 35,
+    "index": 18,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=34s"
+  },
+  "thumbnail": {
+    "hash": "8269b03f30",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nAXBW2+aUAAAYF724FpF5KDOo4LVY5GLrZda8DKMICIIxQpiq3YoptrNJtvetizLfvq+D7sVG9PJTBvb2000XRy88Ofh/OdL9G4q2vph+W0bqbKim49+EO6j4+ntjF3X2pOJrWq27QROcPT3v3an36bpHefu9/A1GK/mg7Xn7JbLyF087/ZHLEcLUt8c6Z5hPc/m4Wp13gY/ZEkPZ86rt3bVp6/W33f336N70K1AMzwMQPbmzpA/L3pDX1YWY/XFnbyxFXkq9QPdrpREVOj1WLtTn952TL4xwnK0KDRHrftpSzLbkiX1Hjod8yovyFXBaA9QBgGCpshSoSg07i2xqWHUp3IWXhOgmAQFMs0wlUaF7RRp/sTdbcRuNsWkCAjSJcjU+aZeExUMJ3MEKMbxTBynkiSENA9pPkEVNq2hz3AfYngOopumWq7JQl2p8n0sdkFcJtNJkAdphsyUCKqAkzAOoKX5OicBkEeowQr9rqwrXROyQ+zikojFUwkig5P5RArGiWwilfuIpzmac1qDKmoi1CpX2xPDR20PXPX/A5agXUsQPc+AAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/18.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Sur le toit, il y avait des tuiles, mais c'était trop relou à faire.",
+    "end": 8,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=6s"
+  },
+  "thumbnail": {
+    "hash": "428b9c637d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nAXBW5OSUAAAYH51b8300MvmzDb5omXjrrqUmXJRgQUhkNs5wuF6FOSqqLTTNv2Hvo946n+YPXaFxdCUfkbgOY/MEqulR9cRXwS8b84idcItet9HHXr4/qn3jqDHXYX57JtUubdvVfTSZC8NbkujLS1VYUThBzQYB65V+ZvOPVCjDqEsRxFYXwr051a8ttXf36fXNv939YqDAXfaEfLeTjSglGA5BvSG6hE7lalTlITwnONzjk8Zvl2y8mhluePv3RQbh4PtJ25TOTUWoUwSviVeq7gp9jEyA2icjnGeJbUntrdQ07f8XRdtRT93rrV7yXSkzwlk8OfcPwQAI/sYI6hKaZ4kuu4mqcPxwZu3K5bmwaatnQrLQCYJ43kKFHorzLcC7WxFjZsj1w4cL0xxm4VMf2TCTZxaWWJiuFTYAUGO++Tky5QcSiIbIEuT2DgEx6Y4nbCX7+/NeAqgADXXXmrrB2p8T0z6d7PHT6vZV3VDubYEgYICO4ycMLJVW/hlyYa+mrIktxgw44/TQec/QX1IpCyHdokAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/03.png",
+    "width": 1920
+  }
+}

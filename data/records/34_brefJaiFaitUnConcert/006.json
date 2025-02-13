@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "J'avais fait une affiche avec mon pseudonyme: Amère de toi,\navec ma photo en dessous, mais elle était pas bien passée à l'impression.",
+    "end": 12,
+    "index": 2,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=6s"
+  },
+  "thumbnail": {
+    "hash": "e895365523",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nAXBS3OTQAAAYGZISAOEQgivsuyyEGCXRwixKc3L2MSUNJMx7bQzxl60PtqxJ3XGixdvHvXqjAcv/lC/j4GKJNUbbbF5fUZWOfYN2ZKbiY9CF16eT359m/z53n9TWQRIAs9jvcXoiixyHDbVu3X5LMWlZ42glnhO+SSnrnN/A35/LT/vFomty3wz8xymIwqHHEexkwfIUg/XFLwuoCWLMQ20ljTPaj/vZ38f9ncjqok87ihMoEoCy5qqsohQ5dsvUniVOIYkNliWr7E9t/5xM3x8Orgdhs9DuCwCZmAKhtp5ux792C83sbtJwBy1lQNObHBCnUVGe1nkH2b57XGX6PKQQGY239+8/PLv0+XjqkgdDettjKimWdJBrR/RMusHABYYLGI3ts1Wk2fI+H10+m4+3V6cnoQ4NtAQZTsUTKkLx0U5IL3ECwOAuzayNdOzbebIn+Js5w5eOenOphXONjDeOqRKo17RjUZpknhdgnzihj7AHkCMDo9BcIaSC0ArmywRXYG4AuQcHAXbsvewHp/4KEbuJCaObumK+h9fFUfeu0WIvQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/02.png",
+    "width": 1920
+  }
+}

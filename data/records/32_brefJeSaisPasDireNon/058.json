@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Ça t'embête ou pas ? Ça m'embêtait.",
+    "end": 60,
+    "index": 26,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=58s"
+  },
+  "thumbnail": {
+    "hash": "111ab68bcb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNgZWXlYGUT5heoKC7bs3f70qVzJvR2zZk7bdeeTbOmTDx+4mBFcQEDAwMPN7ervYW7vQUDOys7FzunjIhoc33jpN6uKAfT9rraufOXtLW3thVlTe9pS05I4OXgFODjCwvwDPFxZWBiZBLi4fKxt40PDdGUk/XVUHK3dXZ28DE1MA/Q1zBVUdfT1E8I9PSyM48J8gn3c2MQFhLzcPb0t7ewN9JTlpA0U5KXl5CWl5I3MrTXUdVVU9bX19DxszXxtzP18bAN9HZkyM0sDg9LsLBx19az0FbXcbe2sjXU11A31NOzs3GN0tKy1FPX97Qw0FOWM3PQD4v1ZAjxCZQWERIVk5FU0FJSNwzwDw/x9jDRM/ZwdAt19gm2dbA0MLbXN7LR0jXS0bRxMmawNdBzNjG0M9TTU1OVEpewtnNXkFfVMTI1tLSTEBSWFZfQMTK1s3FIi4pICg7QUVNk0JKTNlNTcjTQ9jQ3UpIS1zW0U5LTCHT3trVxlJeU5ecV5BMSNdLXC3KwdDXWM1YBa7AxMYoOC60qL+1obavtbO6b2nlg3tSDy+ZvXbi0KLfYSM/EXFvDQl3JUEVBX1EOAEZvbxBNj5A8AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/26.png",
+    "width": 1920
+  }
+}

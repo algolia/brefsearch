@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Non !",
+    "end": 27,
+    "index": 15,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=26s"
+  },
+  "thumbnail": {
+    "hash": "cea967fc81",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXB226TYAAAYJ5kpFLOVOgPlNMo5zOFQbtiOTTtWuk615iYGKMxMa6rt16pd3sQb3w1vw8yYdhHsZSmM5bNOa7g+YUg5mMQUiMHJwOSDinGxkgDwRQYlq6uIHuA+ARVjIVOve40vZW1O8PqDLtS9Lko307kYgwiinFx6nowlGEY0gk65MRGM5ogepvOTuv2/erNzo83QbLxotYNNqZVAj4kGRMl1QECeSOxVK0yy+Zxsshvjp8/dvd9t6h2cXYIZ32a9W7QaUYJBI+gtVcotHaTPi33y9WXul3lN+3j6XI+v1yevjbr79vdh3K5M53t1KgmckizJkZBjZccqvrTfn959/B8Ov1+fvr38uvvn58/jvfHJD/48Z1pN4paAMHFGRujocRPDTvSrch0onk0+7btz/3j5fDQx9l66uxtv1a0hSDFDGsOiSmCQUAyedkRVf+1YI0lw1Gtpe7WqlEreiVrc17KWBDRjI3iJko4OAGhJMAZCacnGC2OWEkCUsTLt6JSgEnG8emIi0kmwHALGXo46WLEf6tqdoYt6vylAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/15.png",
+    "width": 1920
+  }
+}

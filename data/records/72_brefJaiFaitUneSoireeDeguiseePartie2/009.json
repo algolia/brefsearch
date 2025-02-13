@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Et j'ai demandé à Maud de s'assurer qu'il vienne.",
+    "end": 10,
+    "index": 4,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=9s"
+  },
+  "thumbnail": {
+    "hash": "dd07abd9fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXBW2/SUAAA4D6YWWh76Dmn95ay0rVQkGtbSssY4C4kUGA4ypwsOkdMTFSCuBejJOqLD/q0R3+t30dsXr9rPMEOxS3j0f7h/XoWrUbHJ82aa2irZPmw/fJpcnb2rCDximPa93drYv9x5x8IFUY69b1k+HwSefeLyw/jQWDmFtPp98/bZdCwJYmmIQZwMoqJP99+RCmlnOabhnnZDUZV681svIsHm4vwVbJ6e7Wcu9VO0fI1zZPE5HpFPP76HZJKhZUDuxKfHIcFK+71t8Pe5iIaDxezoHMb+QPHvm3V5p3w6/4n8e/vY5Qx2qVm8vLuSLdoEqhQuG5Vd9PTqed5ht0tWnlZDMulkt/pn8fEYHjluv2KXUM0ZikW0tjN6euudxO1itlDXTUQ5AEnA9VEupN12wQnmTJWIAUFhmMZXJay4VHeEBUJKRgrAMspwDGcCmQdaZZYqhKqmIOAF7CCGEyS9E2+Oed0NpVRRF3QLTZrZeTDNCenkUhhOc1JhIpEw2lbtR4NsIO1Va7xguXrAEEkCoW6XI9IGpIMIqkMSYKDp9R/QidQYB0qp1MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/04.png",
+    "width": 1920
+  }
+}

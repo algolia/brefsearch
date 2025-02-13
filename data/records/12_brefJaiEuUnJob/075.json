@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "J'ai tout jeté, j'ai dit: Je pars.",
+    "end": 78,
+    "index": 35,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=75s"
+  },
+  "thumbnail": {
+    "hash": "f1b1d9e7ee",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABYVJRsdMCMkODU4Vj5GbGZicVVPWTs6QXFmbYBzhYB2iYt5fJeJjZGKko6FjX53hgAXGSkbHjEgHzI0Nk49RGRKSVcxKiszMDRpYGd2bX6Pg5V0UEqaiJGimqemm6qmm60AExYnHR8xIB4yMS86ICEpR0lVeGFdWD00W1JdbG+EmqGuX1xppqi9p5u0qJy2qZy3ABobLRsYKR0ZLCckLxcZHzk7Rkw+SEQ+QkE9QWp7kYd/lXt7k5KpvpqRn5eLmZOHmAAZFicZFSYZFSo3NEFXU1NzbnlDTVlzc4VeVmRqaHJ5WW+hprq1wc6qpK6onqWhl6AAGRYmGxcoHh0xNjNCenV6tKmvk6Cpn5SfrZyqsKq0pJui0cnI5d3gubK6npilnZemABkXKBgUJSEeMiAfMhUYIycnLDQwMEI8O1VMS1tUVVpWU0hDQXBrb4uEiIqDjHhucQAaFigaFiggHjElIzcdHiQNERMGBwoAAAAHCAktLC02MTIAAAEuLjFrZmeUc1tiRjMAGhgpHBkrIB4xIyE0IiEoHR4gGRseCgQHGxkbOTo/IyMqEQ4RGhgeLCgqTTgsVj4vWfuP3uMyokQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/35.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Moi, c'est cool. Je vois des filles, je papillonne.",
+    "end": 66,
+    "index": 27,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=64s"
+  },
+  "thumbnail": {
+    "hash": "af59c839fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACodGSseGjYmIUg2L492ase0n4duYF4aG2gwLaF9brudi6WRg4h5b3hpX3xxaVxRSgAkFxMoGxYsHxo0JB9IMiqOalefkGB3bEKAYk+7g2fNnoK8kXp5c3JsZWWbeGpdTUcAIhURIBUQJhsWKhsXNicgVDYteXM4jZtIf11Fm2FOq3NZgVRBMiopSzw5dkxAOScjAB4SDhgOCxoQDR8TECweGV1DN3htUIGAVZ9qUZhgToBTQn9OPjYgHVdOTH5gVzwvLQAeEAwUCwkUCgcfExAmGRVYQTiHd3xeUVh8SjyIUUOcZE15U0x2aXRjX2YVERUaFhgAGQwIEgkHEwkHHRIQIBQQRC8qT0RQLicvXzkxXzQrTzIpU0dWUUhdjIOSMC02AQEBAB0RDykcGSMWExMKCSQVDlZAQDkvPSMdJjIiH08zKldDQ2RbZUpATGldcFxWZAoJCAA3JSFLNzI0JCAjFRNcSkhWSVQxKC8ZFBhKPUGeiIlfU1sxKTE5MDlcUmFvZnU9NzUANSMfTTk1Pi4rXUxKgnaCU0hgQzpCKCAoTEVIuKyxWExXMio0MCgwTENTXlVrFhMU0t52I3VkhUgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/27.png",
+    "width": 1920
+  }
+}

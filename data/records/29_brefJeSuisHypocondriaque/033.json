@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Dès qu'un pote a besoin d'un médicament, il passe chez moi\navant de passer à la pharmacie. Tu veux du 500 milligrammes ou du 1 000 ?",
+    "end": 36,
+    "index": 15,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=33s"
+  },
+  "thumbnail": {
+    "hash": "542919e53d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIR4e5WLiJWRiFQ5LlU3KWNENYVjVGJIPkszLHJWTXZhWH1pWW1bVnJfWjsvLGtgYACNgoSsn6WzpaNdPzNbPC1iQzN4V0lUNy1DIBuCU0WnUEawRUCCXVZ4aGI9MCyBdnUAl4mKsaKksJ6eXT8xXT4wYkEzdVZJe1pMaEQ5RiAbmxEUowAFiUlEcGRdOisokIODAJ6NiLCikKOOkFw/MV9CNGRFN25QRG1QRHFbT3Y4M1kFCHAKC5lcWFlMRjkqJpOHhwB6b3isnKKYgoJaPjFgRDViRThkRjmhgnZ6WExfHRdNAAQ9Dw6IcGdSQDs7LSmUh4cAhHZ+no2UjHV0VjsuXUI1VTw0UDgwhXBno4R+dTMtci8qUSYggWpkSjg0PzAtjoKDAH5ubZaDiH5oZVtBNVo/NGNLQ3VdV2NORn1iW2MwLDoYFDQaGHhjX0U0L0M1MYV6ewBsX0eEc3hyXFhhRzthSDyBal2Rem6GbWF5XFJMFRQxAAAyEhNYRUA/LihXSUZ1amsAWEtHbF1iZFBKTDYsQC0nbVRDdFpGYUc1TjQnTiMrPRAXIQ0NTTw7Pi8yWkxLXVJTb6aTkoQPSsMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/15.png",
+    "width": 1920
+  }
+}

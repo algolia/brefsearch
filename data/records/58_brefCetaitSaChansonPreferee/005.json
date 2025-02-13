@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Tu descends ?",
+    "end": 7,
+    "index": 1,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=5s"
+  },
+  "thumbnail": {
+    "hash": "64cd6a5fe0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nBXOiU7aYAAA4CYaev89KIUipR7gMTJks1nCFglsGiSSFZwWCnL8tRct9KC66bK9+7LvCT5k0LsZDwfzkW7NZtbjoz2dBBCuTaj3b7VuN3RX6TrcOF5gOS58WozHiHE3NKcTH8LE9SLbjh37LYp942GfBzsI0lQvkiB8TdI/zz+3wcZdQgROjMA0U897jaKt74e2s/WD+86Xz4eFVkUWGMCL+ff18++3/Zcofl6HiLOYJ677FsWxtXTurjZGf9j62JAFrVG9encAACABQwAGp0Hl+ATOFsjKhOlq9Td9sXRt1KpNe5fN2oHEksdSVqBxlCRplqM5juGzJMuJUhHx4DLxvN/Jdj7oza/V+2670zj7IBcUkWWJDEbgBEWjGIYTJOCzgOf/l0LX+RXHRr87VqtPrbp2vv/1SLoo5bIkmsGwTAbd2d1FMZykAc1xyGI8cpdm5AU/br71amX7Up0266oiKDlGKe0VS+V8fk8QChQJcJKiGQ7RB9pMN6w51K47w09HrZNC+0xun5bFnJATJalYlpVKWamyvEABhqCofwRTZ7qvPRBvAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/01.png",
+    "width": 1920
+  }
+}

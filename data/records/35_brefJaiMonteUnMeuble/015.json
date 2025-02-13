@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai dit: Il est où le tournevis ? 23 fois.",
+    "end": 17,
+    "index": 8,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=15s"
+  },
+  "thumbnail": {
+    "hash": "ba8121f32e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF9RTnBjYoV2dLOnqNXO0cW6u7Skpa+dnqqXmKGOjZaDgY9+e4Z1c35ta3dnZXVmZgBvYF2HeHeZiYnAtbbd2NrZ0tSkjo6giIa9rrCrmJmkkZCei4mZhYOSgH2Pf3yThIQAeGhkmIiIiHZvopKIvLKylIeDZ2l1f3h7qJGXp5OVuaqop5aUopGPp5WSrJyasaOkAH1taZaIhp6Oir+vrr2wr5B+eFRaZmplaNbMzMe5uL6wr7mqqqqbmYyAfpaJiLGlpQBsWVZrZ110c2fJuLzMw8Gyo6FqX2NANjfCuLixmJKUfXe+srG5q6g+NjIbFxVEPDsATDkwWkk/YFNKf3FwmYyKXFNSUU1QNBEFkGJWln1yZ0xBk4mInJCOLygjHRYUMCgkAFhHQHBdVDcrJVRCNlM8MzQnJDU1Nj8fFGc4Jm5JO2VAMFJALTkvJhgSEDYrKUo7OQBCMSpYQTVqUUBUNyhVLxiZYTtKQDlLMSKBSyx2RStqPSRfOSM/JBUmFw84LSkhGBsAMiEaQCofQicaSikWsXhHv35Jbkkzaj8mg1I5dUkyZj4pZ0MyVjYmQCMULyEbCAYEPJi42VWXIgkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/08.png",
+    "width": 1920
+  }
+}

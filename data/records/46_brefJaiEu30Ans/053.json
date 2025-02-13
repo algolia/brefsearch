@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Je suis pas assez jeune pour la carte 12,25 et pas\nassez vieux pour la carte senior. J'ai acheté des boîtes pour ranger.",
+    "end": 57,
+    "index": 23,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=53s"
+  },
+  "thumbnail": {
+    "hash": "01ea452274",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIWGiI2OkX1+gX+Ag5ydoKyusYiHihcTFg8OERwXGjczNpqcoJudoJ+hoZmampaYmACIiIqEhYhoaWpsbG2Tk5a5vL94cnRFLysmICFAMTFyUEyAc3CjoaGqrK6nqqqbnZ0Ai4uNgYKDaWhnamlofn1+o6OnjIeIYUU9Y0pDXklEdVpUmXhse2RaV1FQh4aEoqSkAIqKioOAgGVgXmNdW2RgXmllZXRydF9TUk84NWtPSFRBPFRDPUU3MzcvLEg/O2tmZACRkI+LiYlpYmBbT0phT0hrU0Z5XE19aVpxW05KOi8vJSMfGhkwKig5MS9KQD5NQkAAW05KXUtFZEo/akg5gVhFo29XxIhnY2NXVXl2TVhRKyIhLCcmMywqNC0sRTs6TkNAACIPCTMaEVU3K21JOINbSKZ4ZLiHb2BORVlYT1BAOxcUFRsZGSwlJCslJDo0MUQ7OQAdEA0qGRNAKCBnQTKCVUOZblyrfmmHXEpcPTVnTkoWExUODRAnISEmICA4Ly5HPToAHxQQIRUSNSEYTCYeVS4nd0xCdlpPZkpBOCUfRzMwNSgnDw4QHhkaJR0bUD04Zk9J9fWSbquOszsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/23.png",
+    "width": 1920
+  }
+}

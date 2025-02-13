@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "S'en est suivi le dialogue le plus triste de toute ma vie.",
+    "end": 92,
+    "index": 39,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=90s"
+  },
+  "thumbnail": {
+    "hash": "7f767d31e8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXBy3LSUAAA0PyALuow06qdEcdpG6AlPEqgOAlNGnrJA0Ie9+aS3DwJeQC1pTpuXLpyXLjVLnS68jNcuPKrPIcSRU6SRooCLgW+dtIY9fpck/amchgEsgFhsHLiQse+hoiGiGpYlKKMZzMZIUNVJsMWc8127xfG1lJUboBIGG0/BsUORZnlL/VFaECHQshYLOwoItjWxyyjcyy+FkINXHWaDsJ+eR9vPkTrnbu6scMVJgGVJF6aBkWZIkOd9JlCn7zHxo01LeeAYIfktzjOvdXWL3d2lNkuoe5263e35XqT64oE2GYIuEwZE2FExAs8k+ckcaLMTUrDi2bYM72A+vrty+Pvxx8/v2NzCtgzsVXzJT5TgXB27AJ+k6SWv4RxbpGl6ad+cUdBqD/8evjz728AZwJzIjI1c9hROvULuurzvc/aJLkc6RKQIYFhaYc5xbYaUw18ymJAv+GOqqDPuFfD+YAB7ClqHmcHe/jlvvnqsD3gRdUAc0j12qfn9SNx7yl7UBlXD4VWzeRZ+21X6NbN1y/WlSfW/jP0vNKlG3S7P+DE/wpohplz/2q2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/39.png",
+    "width": 1920
+  }
+}

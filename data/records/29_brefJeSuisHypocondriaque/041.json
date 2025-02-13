@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Quand je vais aux toilettes, je me lave les mains avant et après.",
+    "end": 44,
+    "index": 18,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=41s"
+  },
+  "thumbnail": {
+    "hash": "5583bc7936",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBW1eacAAAcDKPpC27uRQFhT8YIqJyB61xyYDM4Q2zLBvrNH1Ye2hne6hzPKvOfPBtn2JnH3O/H6Rwea3OTa/FkYXIICMA7DXwXoenYYP71ALPN8zPMf09oL76xL2X99U0pPO0VK3IPNkzGB5PmTX234/Z38e7Zd/+YtGLKf0SlhfT0tOk+DgEWnEfEsq0Ui1bmjpwbZEuMFj2ud9a3XRnx/WBRLzdlZcz7vc9+/aZ+RXSFw0CqgG0ShbEEgBISsJzl4qwGHlXTXFuaROVeZpQq1lpNS+t5nT3CBNAGoLX17Y3osnY+mY0kksmrpvqy/jsz21vOe4EAsMDxNfJQEddMQfD8cTGJlQnMucSWUF3RTJnypp3ZI0a/DevMVbq5XSqlM/plWr7uOW7vmueUgUcwvbeUQfJSgG9OOsOnc7A8ZVDoFDYBxrPbMUFhr3qDGxZtTW167ieYUJbcCwRgVq6EQa3H40T325zBK4f5sksotX4oN1/CB8MQeRAgcjsoe/3oZ04vA1HbLVpSvqJrHVMh6VIFs/yRcqWG0Ovd244pqQiuzuxyBoci/4Hij1fnWN44eoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/18.png",
+    "width": 1920
+  }
+}

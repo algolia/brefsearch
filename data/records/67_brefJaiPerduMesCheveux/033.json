@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Le truc énervant, c'est que tous ceux qui te disent:\nC'est pas grave ont des cheveux. C'est pas grave.",
+    "end": 37,
+    "index": 12,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=33s"
+  },
+  "thumbnail": {
+    "hash": "2f429beabf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXBW2/SUAAA4JNBu0Jb2vVyDhRaRil1CJUUCVRwooTb2Cg1sEwHrDjYCIsbTAwjmT5sJmY+yIsvPvhj/T5AeHGRpkw1ZJdLv3/9/TK7WV1NZqNxq/SmkHx2elR/Wt+sZ+5hpXjpdvdzaeABXsZHxhH3oVn5s/n3cP846h1O+xeb5WruNJxi7tt8Mu1/hAxffKGXzCTAtvCAn+ZIf80qPD1s1rd34xPn9vz6und80azY1svv4/5ZpyMwMKvHihkd4J5t2k/JAjdwuverx8vx9Gu383N+txy45we1cXV/lk5WYyrigxEY0iISwDw+H0aYeqJdbVhGZpAvLDO5H5Or5enws90YWdmmwLl67FVMZWhBYEXg2SIo3J+KSBwdKEvy4nna3VXtrDWs1VpZw0KoBcXjMDzbU3cYSJIsILyEQlEKyzIEvTDznzTtRJETHIpHE5IQNDmxJvI2EkaaIvMI36ZBACOMoEj5yJIUXaSMFoKOophRjWTQDs3Vd+N1CNtIHEalfCTswSiQgLwhB2MBdrqX6kXCb3muzPP263eNg/chFM1DqR0MjeJaX5HqcsiLkf8BZTlZRJ4QXsIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/12.png",
+    "width": 1920
+  }
+}

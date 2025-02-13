@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Elle m'a dit: Je vais y aller.",
+    "end": 67,
+    "index": 29,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=65s"
+  },
+  "thumbnail": {
+    "hash": "f09a6d9246",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXByW7TQAAAUB+IPTNeJ97j8djxktixFWebEMfFlHQJSRNUqVJKEUiIExQk7r1w5YzEhRvfwA/yHpdYxmG93LHqeja6WZZv1qNXy/67tvq6qYpCS4Zq3tddVZGAAHhBFASuot6xXuyWk928uGuqq5Zcn9Gfh/bX8WyWW0mCB75Ou6ohiYAHQofnWOj7GDuyvGej42pR5eV2yp7O5/s0cCw1TfCqdDPHxAgqEMoAcKnnjfyg6VnbalzSOrKeVyQ/D2yKrZjYaYxflCTqahqCGkK6KHJAAKHjftgwFs8cNSX6MO9NWZi5OB0HWT0kJzaYeoajKoYkKQBwMhKpoT+0i7HPbDUOzMTFWWgW1Mgju78akE9NcT8bpia2ZEmDkJMRqqlbkRBLpIfjz+36++ZCFwnqYFW0iKneTZKa2p4s6SKSAOREnm/zMLENxItjQphn/zi8vpq/zKIsdYNt2Z843QTLEVYwQp1nHa4py8fTzfv9RUN729B/2q3/fTz9ud3/fXz7+8vDt8tVZmhEQgaCKoQIov+2WkBGvGnQiwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/29.png",
+    "width": 1920
+  }
+}

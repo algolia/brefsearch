@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Quand je suis bourré, il me dit: Bois. Je bois.",
+    "end": 19,
+    "index": 7,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=13s"
+  },
+  "thumbnail": {
+    "hash": "59e51b1566",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABVklEQVR4nCWRyapUQRBEq+rWnFWVmTXcoW+/VnBoEeGBoLgQ3Kko6OItBHeCaxeK+Bd+s3QLsTyHIAghVZBTMg5TbpCamrKPFFIznifNCQbkbj2rKakpSRWF1CB08pEJ5+DJ8frm/Yt9O3jXPj4/vX6032wnwkXp7DxPJokE1XpiXtZ5T4GPj588ePZ09P33z88/vrz69unlmFdti/McIgNUUXLHMrCM03pz6Ieah7MoA329e/v3z92v7+8AB0DDMghnLF34QDFWgLb0Q+fFOpImC+HPx+OH2zOVWdpiHVZaKq1YhvCBQ6zGU4SWL/tI6qQcbvN++/DMNAsZIPdR10oLxCoAOEGbbJEmK4vKoNSoLFLb5/X+st3LtERoEdh5CpGFj9xoXvoWY7vQpkh9dQxqS9pdZDGBVCBVcp6E1DkExtzVteSaIk0ROptQlSkXWv8/4aL9A3SUHR424Ju+AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/07.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Il a reçu un texto. C'est Cathy.",
+    "end": 96,
+    "index": 43,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=93s"
+  },
+  "thumbnail": {
+    "hash": "7e80b01e6a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACgRC35hZ2dYWS8nHz04MUonD00qDjIcDYhdXnpRVI1yZGZKOzoZFi4gFx4UDBsQCQAoEQtMKyFRMB48IhUSBQIkJB4/Rjk2NSK3SFeZRUV3VkZsTUQ4IBYqIRckGRAaEAkALhcRi2VSh1dAXzgmGwoGMz80PoNrJ0IwTSkcY0E6TDopTTEjRyogMiEXJx4VHRMMACgSDIVcTGtEMkEmGjofFUIxKzt0Yic5KyYVDTsyJT42KjssJGA9LlUnGzgmGRsSCgAvJzBfSkZhPCtUNCZXNCMqGRQbGBskHyYkGhggGBEbGhIoIBdtRDBlMiBkRjQ0Jx4AJig9QzIvc0s6RyccQykcIRQPEwsQGhITHhcaKBMLSTkvQjcwhWxgmYF5nY6IjoN/ACgpLBYREDMhGzQdFCUXEBUMCxUPEQ4HCkdBRo6CgKecmaOZlqeenZ6WlHdsZXNoYQAiIR8RDAwSDQ4WDgwOBwgSDQ0NBwhMRkzCvsC3srGln5yjnJmYjouGe3Z1amJlWE8AHRkaEQsOEQwRDAcGEAoLFhEVNC8wq6aorKenlo+MkoyJjISAgndzdGljZlxTXlJIBGNq7aVOAsQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/43.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Ma cousine qui s'était penchée pour me faire la bise quand j'avais 15 ans.",
+    "end": 14,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=12s"
+  },
+  "thumbnail": {
+    "hash": "66a9350c47",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOElEQVR4nB2PyW4bMRBE56IheyObO6mIowWW4QiObRhGkP//smB0qVPVQ73F+3PQa81vo39GPYP1wlXdKfgp3KxxZiW04eP2ed9+Sn4sXk45vpT8e/Tv4DdrmKk8B1uOt6gbYRQss71dTn97+1iMkRSuvb6P/tXKA63fG1SFStSt5ruX4aWP+rjMf6O+L+sBEDSH27H9+TW+nHQwAkaskeBnzfeoZ8ctx2tNL9HPZT2gWRGtL+Ha0mvwE0FVOoIK1RQuUafjpu6objDlxaxsVrJGHNfoT4k7WY1uCpXdB5Pjtqf0oBMxLIxFqBEksI4wOSqCGa2i9QgBIRBGBGXKUc+MebGrI6yOj4zFGkEMKkOomB2fCSNYb40jiJ6bStulzYEQElFjLIxZKKsMBLVP9ednJlCyniD8ByPWHRO+j7BhAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/06.png",
+    "width": 1920
+  }
+}

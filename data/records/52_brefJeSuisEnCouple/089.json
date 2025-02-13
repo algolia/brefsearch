@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Transformation. Mais regarde.",
+    "end": 91,
+    "index": 39,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=89s"
+  },
+  "thumbnail": {
+    "hash": "1946c86730",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBW2+aUAAAYKiCguJ09YLlJgqcI8I5clCkrmiprSi6Opa2a9dtmuyStMlelmx7WrL9830flU3AFTanQPd7Ou5oqAd8w9gMUWwCJCknea7DV7Tj+tnAujtFb4M+lQX2isALBGPknNr9CIAU40/x/E10RiRFogtpHy6cvlx7+fky+Bhh6jaeP6Qr3zRh19z01B96baap97D7zdWNeqvNckRWLi3jOnD2i/Hh3KMib0iABSQ5RxdmmvwnIktJfFQbX13jBV+JPTKxgNJo3kbjCMOhJlO1klBii3yxRB+xUGw/73aH9SIj9iFJB5J85biP0yAhIJuPCAQMw1G5HMuwvNgQjRPJEiob185CD9eq90FwMxqrQjmB+kNI0hApokjnOYqiGS5f3Hr4ZoQHrdZAUteunQwxUdpfLl69Rn2lWkPtZldsCeVqgS1R9YrgaErq2XdTFAFdOm7OoLnxHLejpQP1/QRgWfy5nhJNKjK8UCxTT0v/+3X0+93i334de85OEZ+QHGF561vPq3C/DP9+SH5l8ZbAI5phGO4/2OVL0iKLYcUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/39.png",
+    "width": 1920
+  }
+}

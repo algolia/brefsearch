@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Chante la comima, buvon.",
+    "end": 36,
+    "index": 12,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=33s"
+  },
+  "thumbnail": {
+    "hash": "0328950144",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBTW/SYAAA4P4Nz3IxMzFTLovgZmBaV+l8YRS6rvTjbfv2i7droS2sZU5ZEKcwdRi1xi2ZM1FQw04eOMyD/V8+D0Hml6m1bL1KI5nb79hxSzncM05eRU99WC0VGaqABeBjBZuKsFMzkUwAmmQZwNVB21H6cXPPFQ8CePa+rzaACDYGtowe5TaL+a7vWEh0MSIEkceObSAxdDXPbkgcDflyMu5BuvDjqDt9HbeerOWWrpu6FHp66BkEQlDXoWlpKuRtuOUoWweh+eFldOyJiS+NUTWq3CezNzys+hhGgUWIAmfo0LY1pElR6Hy/OPtz+et80H5hbzepux61Qi9nIEsP93HHkXq+QUCJtw3VQOJ4NEzT9Orq73x+OXnmHwqPezVyNXONpR96thjuKkeDCGt1YptlhAY7HPTT9N9isZjNZrPf85PjMZO9SS5l6NydTtAOmo0GWKXXV9bvZQkASoLAfb34Np3+/Jwkb0aj89PTT8mX6gaZv31LZJldbD3vmrEraTs0W35AUBTpeu237z6GrWCzkK8Xc5PAmsQeJ3MVFpT5igoljHjX4HW5xtdK/wGMYbT7SMpERQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/12.png",
+    "width": 1920
+  }
+}

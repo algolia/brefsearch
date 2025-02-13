@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Elle a perdu mon emploi la semaine dernière.",
+    "end": 105,
+    "index": 39,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=100s"
+  },
+  "thumbnail": {
+    "hash": "3767946782",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBS2+TAAAAYJxV2lKKMKBCKW9KebSlFArMrXQw1q4trXQz0ak1UWcy6+OkyWKcWYwxJosHo3GZV7ODv9LvA7a2k3GaTWbZm6Ojd+9PVi9f/7369+PX758Xlxd/LpfLZ/sPn98/fDKdZqPRrL8VAR3HC6PheG+ymsaP9g8O7h0eH786P//+5eu304+nlh0wZC0K43CwG8ejsB8Bkt5WTduy3Lt+b8P19abDCY2zs88nHz5Z3Tt6w/Bl2THbZqtrWl6ruwFUBJXkFBDGCLwCllB4nSIofjKep9mDdsueJdvrOMmxXBKGjKRXWQWgCLqM4GsFGEKIQhm/XoCLKNnQbbc3UDVjPowHbkeThI6h8ZwkMiIgyxqE4MCNYq6I5IrIGgjlYUw33bblBb7nOc4i3EwDx5ZZusrupQvA6m2WCDoHQhhBQQh+DYTKOK1qjqo5glSXJMWU2dVyke32eUkJdsZACcVBrNIUpac7ka3qN2ECpySxbtd1l6T5fuDOk2CRDkPbdozmbVEFyhiJVvlcHkbhW/kShpJChVFrgsmJLb1hvH3xeDZKOIZRaozv2Dgv/wf61VcpFHJqSAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/39.png",
+    "width": 1920
+  }
+}

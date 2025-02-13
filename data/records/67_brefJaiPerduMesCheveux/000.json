@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Bref, ça, c'est moi.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=0s"
+  },
+  "thumbnail": {
+    "hash": "ea82f73049",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfElEQVR4nBXC226bMAAAUD5k2kO1l0rbQ7WlD13TNdnY1iTcEhywwYBtbO4XYwJp1Px71aOjfb39dv/93tqa0PWcnb1erkIfZ2mxWDx8+vzlv77JiCAhoUREmB4B0n7cLZYPS+PF8ACKQrI39zmvLvP16Um/ubllJBuH174Zu0a19cBZrsEjJDhhMWVJGqHYtYG5s42N9etx9XelB0ckiCjTPEsLznKacC0JE064oEIwkbGcxSmNU0aED4KDDQQRqh2GVik5q+Fclb2GEaYRFVRwwlnMCaYhjAIPWzvH3DoYxlJOSp1P42WQc57VWkp4lVVt2XZV1xQfy7zN0gLDyAcoCkhd9X13kv3UNiOjmeYDiFGEURwFSeCFECAfBB5A1tZxjEMIo74dlTyP6lUNc1k0WhwmhShlI+dhfpsu1/P1Mr9NclKtkrXs6l71p6E/NZXMRIVDoh0c96PtOube3FrGxtpurN/rf8ufz+tnXf/zAlyEYIJg7Hv44HjvRyOfAXLWjOgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/00.png",
+    "width": 1920
+  }
+}

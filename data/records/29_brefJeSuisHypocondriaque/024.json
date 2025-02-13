@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Je me sens fatigué.",
+    "end": 26,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=24s"
+  },
+  "thumbnail": {
+    "hash": "972e47b16d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nBXETW+TYAAAYC7GtZTPFyifBfoCL3Qr0lJAPuyoXTvr1rVJ65awrBoT62l+xGRZYryoF+NF423H+Qu8ePEf+KuMz+HBSlub++3KV6cG3bGoCPEhMheh9W1z8ufrp78336/PFoYomLLEU2RuN7CJ21oG8GlkL2zhcOBu5tP7g+EIae9Pytur178+vFkVkW+1T1NtFVPriMBKKB464to3V7vqcdKbJn0ev/Mk7l7ND86H8c93L17OHl7k+b6nBkrdl3As0bhxmzuymzOkgnqNre+YbON6Ob29fH6zPf/98e2P7bPT/IFAAxWv6SSOZYYwNMDEZAKBpHbuyjSpMo3MUDdZsh3FXy6OXy3nRS8ZDdIUOQgQ2AQpj115qFF9mYYikFiaa9Rme+hzdbbOe9V+tCgyz4BpNzgqxilC2NiSql5r3VUSHTiKKNIUg9c0jgmhljrG5eJRACGU5NDdLcNsHKVYhydKna58ZQhFS5ElhhYoksHrAoEXnhW7SAFAZmhPN+POvTJMMbdJO4Doi2SosL7ZajUFhQf/57i2rIgsKzEMIHC92fQM2HP2/gF7w1IrcNFSpwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/11.png",
+    "width": 1920
+  }
+}

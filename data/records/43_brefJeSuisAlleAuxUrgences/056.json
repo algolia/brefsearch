@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "J'ai une arête coincée dans la gorge.",
+    "end": 57,
+    "index": 29,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=56s"
+  },
+  "thumbnail": {
+    "hash": "6f1cdc21f8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGeNr1aGsjpvpjhto0V+thc0WihWjDxupjJooj1qnzI/WSc3VzxNcFNgfXFxenZpVQBcj7lQkcY+erM/f7lGicQgN1pNVGg/PEZAPk5ORlAaIzwXJEAPFzAwNUh/fYZ6ZkMAVZbJTpfQRIfCS5bUNniyMTdJblZMYkxHdFdVcltZKDpcITpgGS9TNUNcjIuRfWlSAFeb0k2Ty0ODvkaKyCtflEhEUGpVUE9BQUM1OC8mKBolOUNbfExmh1tuiZSUmYF4dgBNjcVKi8VDf7pFhMEkTn4uLDZOPDpOSD8yNy85QDQGBwpBR1OVoa6WorCDho1STVEAH0FpGDRYI019NGSXFzhjHSU7NigoWFE/ZWY8Tlc5DxEZExYgcHiDkpymb3B3NTI4ABM0WQ4gOA0fORAvVxYtThsdKC4mK11FMZFgPGROMRASGBARGUJHVWFodFRTWRoZHwAWNVsPKkwQITgPIjwTKUgTGSYpIipXSjN6YDpGNCELDRQKCxImKDM7P0szMjYXEhYADSdJDCRDDSRBDyE6ESRAER81HxsiU0g8ZEs0RTUpDAoSBQUMIiQsSU5ZIyUtDwwR4uWC6QO0xB0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/29.png",
+    "width": 1920
+  }
+}

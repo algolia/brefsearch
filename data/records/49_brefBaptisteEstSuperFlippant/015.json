@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Il est tombé amoureux et il est devenu...",
+    "end": 16,
+    "index": 8,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=15s"
+  },
+  "thumbnail": {
+    "hash": "8d513df1fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nAXBW2+aUAAAYB5UFGyxQMELKHe5HA4HPMhF0emss14au4U22bK+mWxZ0y1dumQPy5Ltaf9630dQ9WaTPj+nm3mEijF+eX4+lYc99kaec4UDaGin8u2vx9P9YbssZj+/nohqtc6etWRBPG42eRz/+fvv6fOncpGtkJP7HtDUNADfH7/c7o+JD6KhSVSrjR5zEVvWdrVGrvPw4eHmpvz28fh+Fu5wYHY7Q0X7/ePl7l2JEUYuJGiS9rq9JXQT5DuaAmwnw3g1m+Wu/bRb5bYpC+11MZ/nBQwnlm4T/UsxGKiHV9NFFkPT2K2vb7eHzAeawF0jT+Y4TRRnSQKj3FStgawSDYphWSGESOsrI2c4TSdDRZ/axlUSzqGDDcWSJNiVDEkVO7KiWESNbNYbDNPi9b4yBm4aJzovFFJvoqn7JExcQzhjPJKKO7IxBNAfEdUaxV4IyAOv0/EUAce2Q6E9r5Ab/nLd63osO6hTdoVEfMf1EHAgwbZ4W7eyaLRIk2WC8ygcCyKukG/a7S3HxrW62aD1Si3gxMCPPNv/DxqOTaX79vNNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/08.png",
+    "width": 1920
+  }
+}

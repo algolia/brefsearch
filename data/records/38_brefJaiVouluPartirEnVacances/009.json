@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Le lendemain, je lui ai dit: Je pars en vacances.",
+    "end": 11,
+    "index": 6,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=9s"
+  },
+  "thumbnail": {
+    "hash": "cb3b3541b1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH5bQn9sYCEcGh4WEiEYFhwUEB0VEVlQUIyAgMO8tczHwsG5s7uyqYl/dxEMDAoHCACNZ0qTfXAmIB06IhpoPzUoGhQfFRBaUFGNgoHGvrjW0czNxcDQx72QgHMXDw4PCgoAmW5PoIl6JB4aQSIZi1FEKxoSHBMOWk9QjoKDtaqcrZ2Iv7WuppmTkn9zSTk0FQsLAJ5yUqKLfT43M1FEPn5hWFFGPSQaFIR8ga6nrcnAu4KAdVBXT5aLhqeekndgVjsaFwCbb1CnkIJVUFRgWlxhW11hWFguJCFjTUmsmJvOzMzEw76yr6y4sqZ0b1tpWVFTLSYAkWZJrZmNWVddRj9DWFFUWVFVNy8sXkxIgnBvurSv2dbS2dXSkIR8jHtuiHt3RSokAIhjSKGAcGFSUz04PVFJTlJLUD04OWZeXnxxc7mzr9bT0M7Ixb+4srmvpq2gfWRTQwBuUT6BZVxqTUg+Oz9XT1NZUlY0KylSRkR9cXO5tLDSz8vMx8PHwLu3r6akmouJfHEAUDorUExRSkJBMi0xVE9UbWhqRTw4SD06dmpquLOv09LPxcG+uLGspJuUj4Z9fnRqsYK6j+KuX7UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/06.png",
+    "width": 1920
+  }
+}

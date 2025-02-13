@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Mes trois enfants sont morts.",
+    "end": 51,
+    "index": 18,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=49s"
+  },
+  "thumbnail": {
+    "hash": "ab929bdb24",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANnR2JiSlsnByKOepMnBypOIik1CPXdsbMe/xNrS19vT2drS19nQ1NjS1tnS1tjR0wDc1NuEf4OalJmUjpV+dHcgGhUgGBF1UD55bXZ3eJRbWWRjY3Vub4pra4Vra4VxcIkA3NTbhH+Cxr7FqaKpfnR1HRQNQC0lkGhVfmRua2ymOztQSkxyWl6cbG2fYmSdZWafANvT2oeAhMK7w5WOlbavtTEoI2VEN2lJOXlaVXV2pkJDV1VXeGtuoWpsm2ptnWhsnQDd1t2Ig4eRhIhyaWyJe3hfUE1uUUVlUUmjlZbk2+VxbXGknqTi2uLXz9bY0Nfb09kA1cjOfGZkeV1bZF5jeWBLUkAzOTM5U1dqz8vZ5Nvjb2tvo52i3dXd0MnQ18/W18/WAMS2ulhEQDRGa0VPZldJQFpDLhYcJjk9Scm+xeHZ4Wtnaqqlq7errnNmZtvT29PL0QCBeXxESlsVOGpCSFY7Mi1fRjA0KicqKzSklI3k3ehtaGyalZxvXFlTOC6wq7Hb1NwAe3R1ZHmaCCFGP0NMLSssXkYvPS8kIiYzZUxFjm1uT0FASkFAGxYUFxIPUEZFnIOEwTvXq1Lr6EUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/18.png",
+    "width": 1920
+  }
+}

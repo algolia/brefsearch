@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Je t'aime plus que ma mère. Super flippant.",
+    "end": 54,
+    "index": 24,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=52s"
+  },
+  "thumbnail": {
+    "hash": "71aa245ed9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nBXLzU/TUAAA8DcOypjduk+lpVvX8tq+11dev7u2o+CWMbZowSgyZYoJONREYsBx8LB4WfRkOHAx4aAnE0Piv2j43X9AWOalugglud8bvv9wHrYSJscUirWt7lYv3feHe3bvqeevWzpZI2Y7jEGlVMoz+exitphnPTughn3nbg7JeDY+nu6+PBs+T9wOt2pQTKhuEBUBKCuVUrlarrCFQj7H5BaXwELmWZT+Of1+eTT9dzTfIR1ZRQ6hREUU62B8cIhUVaw3BH7lfrVWLZXvsex5enz99uxi8ur352+OGTebsoGws2Z6pg0G/e3N5KGmIEmU+GVe4HgV2/PB/l+Mboa7PyczToAaVB3TcqlFMQGB40VBpClIbkKMqEXtwyfjy9GbG4H71d0+GbwucqJFqEttl94eoEJFrDdUqFCdBl40O/20109HSf8qPbg6+fh4cye2vcB0fNuNvaDttwCUIfeAx5pGNH3yYvTjYprNMguZjCTKj4JkVcRdom/4QRLG662oHbRAY6Uh1kXToLHnX8+/fpm8kyWlxhYz4BaCqOMHnuWEjrcRtZOw9R/cklwGpXINxwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/24.png",
+    "width": 1920
+  }
+}

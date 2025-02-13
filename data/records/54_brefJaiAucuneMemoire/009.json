@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "J'oublie les anniversaires de ma famille, de mes amis.",
+    "end": 11,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=9s"
+  },
+  "thumbnail": {
+    "hash": "02bfaa3dca",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXB226aYAAAYK5qDyr88Fv0r6BYxFNVrBWIgAdAPGBratUetN2klGUz3dolTZYmu9jNerMs28XSx9hul+0F9lb7PqyvyWOr5Z1N73zvreeu3OVqfuifdFaLWZfJHRVql8cnK//2568/X5++yYDBHE0+d+w3L+afHt4vT6eqWLJF1BQCHy5NhxMne9JErnQU7ffff89fnuuAwbpKdaCp7vjYv3IXs8Wdt9zP8qYQeLzqOMnyWal+PT3H18nlzf2Pp+86YDEpndTLpUlDHVvdI6s36XYH+cxFgno9MEe8OOIr4+EkAliE+I+rBwvuYodqUS0IF0Pbn43cUc+pV1/N5/eed+t6s3SlF8/qcnNjHWazlc/vHg3AYSJLwyBu1rVGw2obQ0np66o9aBtO22ixmWqEKWX3Q5swGuOmrX6TYDGlkJFq+kFNQbE4HU3xXHEHQDpEIIKkcUpAcSGRp8JQS+dbfC4VhljLMg3bbtgWBaMMjOxGUQSntglI4yCGkzSAycSeLGReKrVrqUjjW9hmYI2hqINyCe4kme0YIshgmORyIsApaiuEbwRZLp9CbJ5BiXgSkPR/J5BhFyqUG50AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/03.png",
+    "width": 1920
+  }
+}

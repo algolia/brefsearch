@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "En dessous du ciel, il y avait un avion avec une aile en bas et une aile en haut.",
+    "end": 22,
+    "index": 9,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=20s"
+  },
+  "thumbnail": {
+    "hash": "c6b7f39d73",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABMMCiogFzctJEE5Okg+NU5ALks0J0caEkQMB1IYD10tH1k1KEwyJzMhGB8OCSIMCABVTUVyaVuFfnKPjYmVjX2WinaKem6IZV6TXlqhZV+oeW2ig3WWfnGAbmBnWE9eTEUAsrOox8vC1tzU3+PX4uXV3+PW3uXe3+bg3OTc3eTd4ufh3OXi2uPg0NzXvcnCoqyjAL+7otXWzODj4ePm4+Ll3t/k3d/k4d/i39ff29fg39ji4tji4d/j4N3h3dLWz7y8sQDIwq/e2b/p6ODq5+Lr6eTr6OPp5+Lm5uLk5eHi5eHj5uLh5eLd5ePe5OHW2tTCw7oAy8Cw4NnO6OPZ6eLU6OTc6eXf7ejh7uni7ujh7+nj7+rk7Ojj6+jk6ufh4NvRx8G1ALyuktHHt+HazeLg1uHh2ePk3+fn4+3p5Ovn4+bm4uLk4Onl3+rl4OTf1tbOwcG3qACvopK/tKPQx7jX1Mnh3tTj4dnf4dro5N3j4tzh4tze4dzg39bh2c3Ryr7Bt6qwpZYApZmIrqOTuq6dxLyszMe508/D3dfM4dnK3dfI1tTH1dDG0cq+wbuts6ydrKGRppiHirU0BYdbOzgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/09.png",
+    "width": 1920
+  }
+}

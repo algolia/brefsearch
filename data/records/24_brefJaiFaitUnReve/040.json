@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Il y avait cette fille dont je suis amoureux qui photocopiait un chinois.",
+    "end": 43,
+    "index": 10,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=40s"
+  },
+  "thumbnail": {
+    "hash": "8d0c931658",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nD3Nu2pUQQCA4VOcuZ7L3GfOzJnZ5JA1S4LZwjWigoKBNYoxoI2EIKgRsbERrCwsQiBYqoVILGwsBLUSRMFCsJE8gBBs8wA+gSwLC3/78WdOmeQDRhQjWtBKMFnQOphmvLq6Nhr1Y0QACFZLziWTgqvMW5dCOwVVydomSq5f3L+1v7O9EOd7zpeESi6M0lYbJUwWfUhtmoHQRG+ardMnL/bn+1ovWYsRcdpYbZxxRtkstXEudRgVGFGCi6rkdcmGwW0OB+vLgyuDxbooOeONdc44rVzWi72uO4Hg5IARRZBQXKwEf6HfDaO/PDr1cPf1+fF1VlDvwgSkNs2lBQgIgmRmMKStEI2QZ24+ef7t6Mef40vr13hZW+Oz0ASjHcgxBBjBCZtGMGnS8sbjgw+//x4e/3v39VfXDSRXmdWWMwlyCMHETAM5pIVYXDq39/77p8Ojl59/Pj34snbjTkWrTEtVlQzkaBaCJM8hp2pj896jVx8f7L3d2X0zvvvs7NXbgqv/uKc/sJesIy8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/10.png",
+    "width": 1920
+  }
+}

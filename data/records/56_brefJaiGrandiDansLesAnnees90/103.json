@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "J'allais chez le libraire et j'apprenais les codes de jeux vidéo par cœur.",
+    "end": 105,
+    "index": 35,
+    "start": 103,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=103s"
+  },
+  "thumbnail": {
+    "hash": "a3f5a1f220",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBW2+aUAAA4FNMhaktAkcExEsRUbkIKHeOKEKp0thu7RJ1y7I9ds2elqzZHve2ZNlT//C+D2AVAq/iJElJg/5UGVuq5tkWCnx7OhVYrif20vxm//axKG/7ktKskwBgdZxoUBTNCR1lNLE13bPMJAwcQ2fpFgdZz5zdRt7OsyJVGbIcAGfE6Rr9/HR/yNDanRua7tpWEoWuaXQhPeEZ6uKSbVLoSkjlrj/gQekYr98+/ns6vn49/nqfH9MQuQ6KolUcL30vjQKx06VhW5NlyECxeQn+PJ9+f3738li8PBQfls7B13ezMQqD1XK5STfbonAXi5E8QoE/H0mdiwb4+3z68VB8v9s8bZelO0snUqwqKA4TFGXrtMiz8ua63JWHfXlnKJ46Bl/yMDenqaHuHSM3xpkq68NRSxhCXlZVczZboDgpt7t9URSOtY4CIAmiSMI2wJhaTer0OlDg6+Q5AcEbrlJjz/BWg+n7fphtstUqiUMfgCqP4TykOL6nDFRPGGgtRjxv8JV6GyMghpOgSovdK9/znPnCNo3/wrVOd4548sUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/35.png",
+    "width": 1920
+  }
+}

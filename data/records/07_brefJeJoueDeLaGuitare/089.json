@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "name": "Je joue de la guitare.",
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M"
+  },
+  "line": {
+    "content": "Bref, je joue de la guitare.",
+    "end": 92,
+    "index": 31,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=89s"
+  },
+  "thumbnail": {
+    "hash": "010ae39d92",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC5razBtrbMwsSemJmDenfIvcDTzNDUzNHX0NXVzdHk3+WThoOGf3zd09Hd09C0oJYAvLK0yL7CzMXKSD45QisfsJWP2NTb1c/W19La2dPb3dnfc09BfmZX49va3NXUz8G8AMW8wdDIzbOrrWBIQGlFOaWNiNvX39TP1tjU29nT29XQ0mdJOoFnWdTP0eDa29bMygCuoZ2Ngn1hV09jWVFgT0fGu77Aur7OxMrDuL7U0Nexp6VLMyRNRkORjJHi2tvSyMcAg3ZsRz4zSUE5cWVeh4B/npmchnJssJ+hgWhota+ygHx+JCMgOjxAd3Bv08nJzMHBAH1wZTEtJj84MG5kXWhcWGVPQpSKh3VlYE45MmNaV1tcXyQsLkRDQHFwdauYk8S2swBpV0YtKSIyLiZGQTl7bGNyUT1ITEyOjI9jY2NhV1hfSkNLTE5RWV5naGyCeHKXiIIAVUc7JSIcFhUTGhkVTEdAbF5WJiopMj9CLDtAMzY4S0ZDMDY+TUVaal9lZklhYDZfAEM5LyIfGgMGCQQICh4cGE5HQEdKSRspKlFOR5mNf3lmbTEMNjoWNU0gSkYdQ0AVQZfHz0aoJ+HEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/31.png",
+    "width": 1920
+  }
+}

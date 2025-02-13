@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "T'étais pas bien, je t'ai fait une patate avec des bras, mais je galérais.",
+    "end": 17,
+    "index": 7,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=13s"
+  },
+  "thumbnail": {
+    "hash": "20b33cea96",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGNoywkNN9HW4OTxFBfzExHui3N98+jo//+/Tu1eqCUjJikoKMzHx8HBycvNw8fFqS4jybB7VnWhk5keJ4+bmIibslymq+nGWTUfbmyY1ZyhKCToqq0uLSzEzckFRpyivNwMp5e31nrbajGzeakoxTpY6EqJCXNz9KW4zKqMT3GxCTfTlxYSZGFj4+bk4uHikhLiZ7i4prPF19ZYSLQuLKjKx95KSVKAmzvZUX9yeVJ1uE+Bp2O4hQEPO6euuIiysIAQDzfD/pnlnbF+lTnFNanJmTb6gfoKepIibkaa8Z4OE1JiJiSHBxpp6UiIJpmqq4jyy4mLMDSnBddkp+ek5SSHhHnpqFvKiSmIChmrK7ub6gcb69UEe1ipKJgpSBa76pooiKnKSDK0uJlV5BYkRsaG+wZYGxrxcHCoyEhZamsYqanYaWtEWBpLCQooiwobyIgJ8XIL8vIwtDhrp8QlRwaGJoRF2lnacHFw6iormqirqclISwkLq0pJcnNwifDxs7FxsrFzCPLxMST6eni6ejla2Xg5u4kICfNycWsqKppoaDro6KjJyPDz8XNxcnJzcfPy8AjxC4gKCgIAKklgxQZ7XiYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/07.png",
+    "width": 1920
+  }
+}

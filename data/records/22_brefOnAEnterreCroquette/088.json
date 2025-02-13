@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Crockett, tu vas nous manquer.",
+    "end": 94,
+    "index": 28,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=88s"
+  },
+  "thumbnail": {
+    "hash": "484680e582",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nBXL607aUAAA4D7BECj0wuW0PT144NSWlt64tKIMcBKQJdKV4tQhaCSWBZxk2bJMzbK9wh532ff/owr5pAjoCqZdG/SPSLcDz4a41RRcl+t3RFPnCWE0Pa/XcqJEF0GK4rg9UciohNdI7vRIeduW5xPnVzxznPz0pAWkFMJMvQXVah4IWQmyFMMmcnyyqjJlnLZ13rSyfqPwchN6PkIigiW+ahd1EyDMpdgkzSb+BxGkGw5Xwmn9gHdd3mtKr4vIsqEsiHKJUS1g2cgwBJrdS2USFJ15Iwnpts/rRoZgxrbZ4xZ6WdxqKpIFIMrZWl1stHHTr5lWlS+ylHMABZAuE9o/zlXKrLKfbTfIajyqqjDLZDxTiybD4cB5fvr8vI3XlwEVHJqzQX3QUcN3TjSuj8byl13w9892MpaJUghD7eePj+tHI7731sv+/MKjLk7cVdALO/a0ay0/GVcrMbjBm8fz+Dt62JFvv83dq7H6is8vcfeUtDuEmr5XgkkpmsnzBYzXyvVi/8M1fNjYd09ouYV3G/VqVRlF+d4Z1xsWvUPwD1IpYMjVvjF0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/28.png",
+    "width": 1920
+  }
+}

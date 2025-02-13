@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Des coquillettes avec beaucoup de gruyère et des macarons de la boutique\nqui étaient toujours fermés quand on y allait.",
+    "end": 65,
+    "index": 21,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=62s"
+  },
+  "thumbnail": {
+    "hash": "a24f77a810",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABf0lEQVR4nAXB25KTMBgA4HQDgfwJhCQcA7SWxZYed7YM26mldsfD9GD1wtHVi73QJ/D97/w+VGl/HYlGMiG0FKEQ8b2WiecTVzTDYZ0Zy4Ltotusts2ina06tJb0kLF9KeMwS8IsjIsHpWshXaZfP+xv3YMJkn/P5z+fbrv+1G6PKOIsD4QJAqnSUJlAmYUIGiEJ6HlRXlbTcWoep5P328Pn88vueEUMBGVqpJOToociHr+pGiEr8GymTFFVUUJssIKUazNZvnvqL0h40mdyaYoXgf/OzW6z9ghPfJUXYy8qKA8f58v5/cRmKs7rSb1GAL7veF1uvmj+3fBpmaEBnQ1H526T5uWvb7fXr9e2fit0BlzBwEaUcseGpyL/qMUhgGGSUhr0bfv70v+4HPeL2YgzhAFbjGBKsIMcQi3sGB2NmTcCnqdlHBY/T8/XfhNHpsyGs1hjTNGAUBuoA8jCBN/ZQNyE+ykXoQwZCHA8C7suyNhUUudCxoQAviO25fwHVjku7nsy4/MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/21.png",
+    "width": 1920
+  }
+}

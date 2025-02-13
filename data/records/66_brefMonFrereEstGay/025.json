@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Julien a dit. C'est pas de sa faute.",
+    "end": 25,
+    "index": 15,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=25s"
+  },
+  "thumbnail": {
+    "hash": "d20ebdfb07",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXB3W6TUAAAYFjZADtst0abjVEGHb89lB/xcOBQKKUtrVZbt6ib9afbvFnUW7dU48USL40xmr2BD+ClxltfYE/k9xE0ucKQJY5m15kyVqTL+cHnV88+PNkff/yJr67jL//Q+S+18+JmieQoiiVJokxR66v0dqXqCPzUa51m0cXB9Hw26by5Qj+u0eXfcPlHbuU1mtpkGK5UImosW1mjd6qVI+ScFfFxFp3l0WI0Uo++ioffhWLpvf2th4e36ZVN9sYGzRBCtWzsbDkmGLrgpIc+PZ1cTHrvXp7ax9+0YukO3+twDgHsa7LAcZVVlkgCb1oUGIaPEzTveM8T/yQJR3Gap2nXN93ua9XdVwRlDtvZnshRa8SDe/dnD6ehD0NgLbLgEWynpsHXeRzgxGrw5rDuLGSpNTGkXObFWo3wgNVPe+P+UJHU0NBn0K1v3GpsCcgPsziWZash+5a4OzAVKGzbqkq4Zsu33S5OQhiBPe2OqhmKmSLcQVGCU6irSJF1qYn9ILTdJAgITZJMRWubAAeR2tSauxqG0aDbG+eDQZJltpcCoIkyUPUMobuO8x9lzVt7miLVkAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/15.png",
+    "width": 1920
+  }
+}

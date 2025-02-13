@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Ouais, j'ai un bouton chelou sur la... J'arrive.",
+    "end": 11,
+    "index": 3,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=8s"
+  },
+  "thumbnail": {
+    "hash": "74aab69aa8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AI6GiYR6e4B1c4V3c5CBe5eMiId9e4d8eJSKiqWgprS0vbOyu7Oxuqilrj45PSgdHwCknKGmnqOooKKvpqeroqKSiIiflpSdlJWspaq5tr68u8S7usO/vcaWkJctICBjQTsApp6koZmekomEl5CMmI2FfWxfoZeZu7fAvbrDvrvFv77HwL/IyMfQrqivdVJKdExBAKmhqpiTl4eAd4F6b5OJgHRoXXpxc5WQlsC/yL27xMLAycPCy56bpK2YlXhWSkYtJwCrqLGsqbKcl5ugmJ6XlZeBfXJwWVuHeX/BwcvAv8jJydJ9eYAgGCFpTlBsRUAZERIAiHB4bT5GaS43aztBSkREb2ZTajw8f19okYyOqKKnvbzELygwLignQTowNywjJB8ZAGQ2PUkAAFEFDGMpLkxFSDwzM2RTUHViX1tMSYiBg5yPjVZFRGZja0xITSYjJDo2NgBMKS06AQVFGhxbUFI/MzNdRTqHal16YlR5ZFSVhHeRd2qMe3qEg46PjJhST1klICYALxwdIAYJIA8TJyUqFBETLiUkUT44jnlwoo1+oZWQmISAjYCDjYyXq6i1Z2JtJyEk2BbGr1+B//kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "N'importe qui pouvait répondre. Oui, c'est moi.",
+    "end": 16,
+    "index": 8,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=15s"
+  },
+  "thumbnail": {
+    "hash": "60038f8796",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFk+LF5BLWdELlE8NDMiIEk0LVZEP1ZBOWNNQ1dGQyoZGR0REx0MCyUXGWp1h5WsxABXPCtLMSJKLyFLNS1ALihmTUdaQUFIOUBXRD9mU1EsHR4xICBSSVJ4gJKHlaqHma4APSceLRwZPS0vQS8xUkA/akxEYT02Uj5GOzE4UkRFPCkpW1Jdlp+3r8Pbnq/FoLvUAD4pITspJUAwNDgqMDMlKU4vKWA7OGNAP085QDkwNzomJF1VYpabs6e3z6K0yqO81gA/LCQ/LCc2JShLNzlmUlFNODJDIx9ROztqT1JiU1wwIB9fUleDfIaBgI2Jjp9zfZEAOykiQi4pOCYpim1pm3t3a1RROCYiRDEwc1ZWdmhzQTc+HhQXLSInIhoeHRUZHhoiADUiHTYlIjcqMIhpZoxqZ4xsa2hPTW1RTotoZoFudz83QAkAASEfKikoNCYlLxUVHQAlDwcyHBczJSl0WliDYl+EZWOIaGeAX12EYmCEa3BPQkwRBggbExgtKzguMT4cHyoAJg8KLR0fLBwdVT89cFRTcVJQbk5Ma0pHZ0lHVkJGJB0lHhMaEw0UAgEFAQABAAECe8N6HMOzVYUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/08.png",
+    "width": 1920
+  }
+}

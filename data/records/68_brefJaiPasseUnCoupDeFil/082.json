@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Pendant ce temps, Ben essayait de me reprendre, mais il entendait rien.",
+    "end": 84,
+    "index": 47,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=82s"
+  },
+  "thumbnail": {
+    "hash": "af48aac949",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nAXBYXOSYAAAYNqc7/QFTwWEoVNBUREQFYUYXOrYZOBw0kjn7Jyz7lpledft6vLquuquvvSjex5k3OaHEitQxJ0pP44Gf+ZXX/zTbobud5Q3N+NP6+mt02vyZf/UDB1zeKIgC89YnDRWhjjVG/On6uPInmkti84+U5XlePhj+/pbeH4lcDe29WE5WVz2kYfrwbuRubs0fs/cX6G7e+6uLU1PU2d6Zx14f98uNwPtpSatLnrb+/Dj3QThWVZiC5sz9fOovzLUn9fe98BWsbTZbr0K/cAyvW5HF+qlfLWQl6SaggCIk0nClcpzTZnJkt8Q66WSQDKTGj/RNZxki/k6dVRlsnWCLKEYg2ApKo3TUu7Y4MtuQ1YrVanelJvdf9Ogz1YBRmVIjuNUmq5AlE6l80gMpgGGZwm6w3LicZErll9Y5u3wfOcMZIYFEM8yAkHV0AQDIIkmGCQSRZ9EYDyeZMmjFlfauPaFpn0N3FAUQBzHkkw2J7dlg8qwcZg5jBHI3gG6H4EAJPaiiRZXeHB6731n69kclYtCAsTwdkW8t3swlto/QEEU/gd3xVUGAVDDBwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/47.png",
+    "width": 1920
+  }
+}

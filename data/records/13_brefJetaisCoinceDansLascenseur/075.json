@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'ai dit: Connard.",
+    "end": 76,
+    "index": 34,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=75s"
+  },
+  "thumbnail": {
+    "hash": "3e1725bcf9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nBXLS2+acAAAcJL5xII8rDihioJgEa0PBOTVyh8VmBTXRpturVmWdEtX98oeh912bZql2U7NdtgH2GXJPuDS3/0HlQokRRLlbQJH4Vajdn4crpcRX2UYMm/LQqT3RZoSKiXPUaKZGQANwjEEQ7cwNEcR+Y7InR0FC98tF/LzXvP3l4//bm9siauVtrVucxE69wFB4FwugyHwRBKcbms5B6vDmbUnPtsfvl8E11cXn1fzfoWe9uUosEMwgjKZVDablunSc0vTWo3IM5/EARgNQKd5bCjnB6O/119/vnn9No4nQLsPqVQCRbI8ib4CzlPP8vfVx4EbAuuR0r57d3W3ufj2cn2zeeHqPeAos7EGJdMJIr9Vw9G1qZ9NHc/oTR099sdDkQWSsIn9D8vD2LL6HdGzu56jQsl0kn1YkGjK4Ou+1nPUtmsOAtesV3bqRXIg1HoCe3Iw3VM/jW0DWBKEIfBQYCfdZrtaHu5yhiLZaofj+EQGYSlS2KE1kT0dLyjpF9O+HagrqEoR4bB9GboCTe3WGbnZQPHigywBI7jEFHWRP9JlQ71E+R9k4zsl//kPzZZanOrYUMMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/34.png",
+    "width": 1920
+  }
+}

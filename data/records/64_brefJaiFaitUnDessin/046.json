@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Comme ça, je pouvais récupérer son vélo.",
+    "end": 48,
+    "index": 22,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=46s"
+  },
+  "thumbnail": {
+    "hash": "c2b19890b7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nB3LW2+TUAAAYH6l/8JXn3zXxcRNjYlt3NJuI2g2Kr2Mlq5IL1w6KFI4pVBu58Chh8Ix8y8Y/d4/hmuf8d1ziW9pU26riwdnnvlPMDTz0E7BY2CLrj4yf/Ji77JzdXF3+Y7p336aP7CuIaY79ZhuEVjnoU1JjpPxL/UMWH1XewX9pWvKoyErcp8ZZcQCc4Zjp8ZhjcMyATjeUlKhsL1ZvnSfRHvxgqBNnu4043E+vGbMxQAGVlMmlMCGwFMeHSO3OaLnGkbe2Fr19s6AoJiUkQtMay4wznKEU0CrnBLUENjgpE79P7Q6eLJrSYGzivcyQREpU8+3HXXAWEI3j+zmmP6uECWwxoc6D//lOjsBL2enBfCeaVEW8dYzTYVnlO6HnTY+wh39f6o8OhUhJVmF0+zrD3ozS4Rp5tso9TRNUoZdpt85V7gvri6iyCZwX6GgLoIaBwnYWN/uI2OlPvQcdeKsJ0Phun/zkbl9//q+/UbiW/rsu7eexN4i83W4NzJf810lBktD5tcyLwkd9uqCa739C3fBVcriCk6pAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/22.png",
+    "width": 1920
+  }
+}

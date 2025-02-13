@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Il m'a dit: Vous aurez rien ? J'ai dit: C'est pas un problème.",
+    "end": 84,
+    "index": 37,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=82s"
+  },
+  "thumbnail": {
+    "hash": "7113259a9d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nBXLTW/SYAAA4P4Nh+twJOCgoWUbmQFqP0bp27d9+/n2Qwq0kDEd0UyZGhdlGzGRDPGyxAPMA8sOXpxkB2fiwYOJ+13G5/4Qa+QStUpmyMRG4o6/TkNOZMvcg2JJ4rY7QZ2riJ7dVCQkVzVFQkixiP/h3vJ9MrGZShrlilZTBF5URfHy+PX16F0f65Ko6aoDqgjKJlIcIkcuFdOrLJXhNwqaBHXFEPiqLXLf3h/ejI/e+ipb4l0zgEBXgYUAJrbSSatI7QjFQCxbULd0B0gglKs9VHtuAJ8tujL0cMNCrm34rvGIQEzmwKxN37z8PBx1W3vY8lSo90Nv8jgehvgoQJET+Lhpai42/Tp2iUG38/18/vfm9nJ27Tm7CNq2YSkCJzMUYtawUInDbuhHrt0IcDMOQmJxcfXj6s9kNFdAi6IEtgyjdi9+OijkaDqV1MxGb/8kCnewEYR+HNcjYvLhS9R6lae3U6mtXI6naamzPz6e/qqARmGdfXZyPjhbjGeLg8PTdutJO+wQD1l9mcyvrDDpdCmb5bJZjimA+MUnGbY37+b7o4uP859nX39PF7fD09luvPcPkCWPkXuAOJAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/37.png",
+    "width": 1920
+  }
+}

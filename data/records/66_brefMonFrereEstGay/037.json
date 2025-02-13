@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Non, votre voiture est vraiment sur mon pied, monsieur.",
+    "end": 40,
+    "index": 22,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=37s"
+  },
+  "thumbnail": {
+    "hash": "80ac0b8aa1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nCXNW2+aUAAAYDITRQ5wQO4HRREUrFw6iyJSpTVARWdb27g0qbHd0j50ds1emixZsuynL9nev+TDZJzQaIaDYr83Dkf56vrL7uVPvrp33ZFpOgi1abJGAkaSW6hulj5UMEQxPM1LYstz4tl0XSx3YZR3DAfJLYDTdaRfhZPrSdzQuoLUrOIUhhgekpwi6T0rmIwv5smlppqSpBuGyzBSZDu/d7vXzYaHPMAhDWoYAyDAIUuLWsM69uLz5KrVsCRRMw332B+tTs8e88V2OmuIdVFQhZqCERWKIlhICorctruD8TB1jiJZ6QTDZHGx3K+L2PWDvt+zfSQ3IeCwfxHHUIIkaobe79tDv+dE0WzxaXvqndx8dLJ5eru5+/76rjc7oMpiFMFSBEsDjq8hVdHrqpXFwfPDXbG8dYyj7Kz4dnh/e/v1cviZ5jdhlGOAYKsVEuCQY2RV0s22FwziLC32++f94+Hr04/t56c025wMplbXFzgVq5SpcqlaLlUhySFZN3THcyfTZJ2cX4bhvN20ZQFxLE/g5H/2F7cPR4s57sf6AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/22.png",
+    "width": 1920
+  }
+}

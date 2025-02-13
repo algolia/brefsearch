@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Mais elle risquait de me demander quelle expo et je n'en connaissais aucune.",
+    "end": 60,
+    "index": 30,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=58s"
+  },
+  "thumbnail": {
+    "hash": "f2932384b5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG0ZP3cdRYEgTIshUZIkVZYlWJklWZolWpolWZklWZYkV5EjVYshUYEfTHYcRW0aPwB5HkeHHEySHlKcJlueJlygKF6gKl+gKV6gKl+gKl+hKV6iJlubJluUI1aJIlB4GkUAhhpKoj5rrUh2oClepztroS5iniZdoSxhnyleoChdmi1jkDdtoiddnyxglh5UjS5ZAJIjVceEor1ukc2SrceFo7NXgcR9ncuOqcmNqdSWr5dOfmBNh8Fdg8yYsb1wk7uJogCkQ2/Ad5inPGzGg6G9b5KvTHnMj6u8a5DAdJfFeZqZPG94O3S5VH3QnrbFhKK6fZoAlitbpDZnqUBwtFiCoi5jrUl3oCxhrEV0ojBjt2CIq0JxpTFkojFkqUBvoS1hkRxRALGHnMSSqtOmu9envNaovtitwa5Kd9mvwr5ylb9ylMqNqdWmu9Wmu9Cetrx8m5E0XgCHP2CRN2CiRG+xWoGwUHq2W4SmNWi4YYirRHOkMWSqQnC1WoOxWICqWX6dU3aHPmAAcidJfCtQl1d2nlF1oEdxpkt1sF6EoTdnoThnq1N7o0Rvn0RulDhjgB5KhD5edjFRTNDIfUyfRN0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/30.png",
+    "width": 1920
+  }
+}

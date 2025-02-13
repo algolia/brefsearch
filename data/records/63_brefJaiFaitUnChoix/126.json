@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Parce que t'as un petit truc en plus.",
+    "end": 126,
+    "index": 45,
+    "start": 126,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=126s"
+  },
+  "thumbnail": {
+    "hash": "ed9ca6ac24",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBW2+aUAAAYJYoiA5ET+GARDjcFUpBxCG2QqVamLNeqk0btzRp0nZxyeyyPS7b4373vg/TGVqmaoDAa6USS5IBbJigDmtVgwOPm+UuS/pIlABz5XcnXtc/aWIqVWtVK1QZr+NEABt7p51KnCOwsYFcHswcbXsRrpPo6yZ/Wk0XWhvT6hRHVt6XCUCSNqBzBcZCM7NQ1lFuHWVto23PXHl6KsP5mb7syFi7VqVxvPyuVMZKp4BZG2KB+D5sLi3pOAkOif857Gx841ziQpaORYCBCgGrpAeBytA9HsxkPmIbGeIfA/OY9X8Vw0Pi33v6oquMJRjyTayBEztb/ZsPX+Ozla0+D51CF3O1dWejp8j5MR28XX14HXtf+tbcbPuwiak09T3p/9td/1mkh5H38zK87aBUhoUurjpo62r7sHtIg+dz794zploLG0riS+T+/pTsQ+dl5H0b+XPUWhqSwVCxwIYCG4lcbilbz7yxlUwTsX12UdjG1jUfAudtFh8ngxsLjZGYO8bDwP3o6JeaNJT4WBaiNuwJJ/8Bs3RM5sjzNqMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/45.png",
+    "width": 1920
+  }
+}

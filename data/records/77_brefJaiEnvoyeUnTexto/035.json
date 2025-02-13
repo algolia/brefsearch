@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Bref, je trouvais rien.",
+    "end": 36,
+    "index": 16,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=35s"
+  },
+  "thumbnail": {
+    "hash": "728e5d5ac2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nDWRW0/bMABG8zgRGtex48SXOI7TJl3TKgVEQSsDtAvSWFayrahrNcgarRNXlcLgZfvxUzUhncfveznHgMBEsEZwnRLkM6IEDSWLpIgk1z4LuMs97Do2ti0IzLq1ZiBYc9BqHQrakCIOZRIGLa0SHcShbCpf+0xSQsn/z7qBbRBw0m4GiZadJMpeNnc20p1ep5+lG2nSbuokCmIllPCYixCsGdAyi0+D++X418/h1cXnqszn1cn15deby9F8Nvxx/rEYHpwWrwcHeyrbJ/UXhofB+fejp8fp74fJcjGeVydFfjg7y88mHwbbvb9/ytvrUZG/evt+oPvH1LEMQdHN1Zenx+n93XixGM/KfFS8mZwePdxNl4tvVZlXZf7ucGt/rxf1jz3qGNi2sk6UtXWaqM1u3EtXdFuN3a1uf7OdJrrb0i0t4pBRRjECBgQmtEyCgHCxpCQUNPJ5Q4pQUMU9xT3pEU5sggCG6yutwFqzn1MwFwkPB4wovkJSwl1MHegggJ47/AMS8EqQFXLl3QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/16.png",
+    "width": 1920
+  }
+}

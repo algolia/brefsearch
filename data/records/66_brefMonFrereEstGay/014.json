@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Ma copine a dit.",
+    "end": 15,
+    "index": 8,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=14s"
+  },
+  "thumbnail": {
+    "hash": "a5cba9e72a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nB3L7U/aQACA8Qr2ete7Xo8rSHkbKC9aRYIpSqGilgAlVCyrmE4EmTPp2MwWs2zJPu5PX/T3+XmE+FZMEgEjJMXUDGf1Yq5zWO4elo1Myqrmqzqv6LycVPNU1hCgYFuQREBkrFE1zRPpBCtndhyz7lrN47zuGCW7VrAquX2dcxkpEMkACFCCCiacMk1VCxo/r+2GfTscX/Xq+1Zt7/L4oFHMB6dHvmlgCSIABQQRJoQShRL6gfOV3foznz4Hk+f59Wbx8cf6btRtRW7v+7CTUQiS3gaMMXmnZBkbVUpPF+2VN/hyO/ka3mzufc9u/ZqN1j2zu5ulEApQkrFM8BuSZczSk9fGXji6WPnDp2AchdP50P47sf9Nuw9mJa9gAYhQRvJ7T5KUnqS4U8xMTht3g/OF1/80vgwn/ddg/OqeuQeFWloT4vFtEYgIQRljTpSjBLNzO/5ZY2Y1vHZz6Xu/XzZRePvTHzxctd0TQxC3YiAWB6IoASmB5CpVeqXcwunObfPGan77vI6Wy8fAf5kNI89Z9Dv/ARboRyhDhrZOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/08.png",
+    "width": 1920
+  }
+}

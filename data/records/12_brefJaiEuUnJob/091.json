@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Au revoir. Bref, j'ai eu un job.",
+    "end": 94,
+    "index": 42,
+    "start": 91,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=91s"
+  },
+  "thumbnail": {
+    "hash": "aca3b6bd42",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nCXNT2vTUAAA8HwLGf4pli17TZqXl7y8JNa5djZ/m2TZ0mRp0mSPrgtjThlKvXgp86CV6U0FhweZDsSLHjwoqAc9Cd48iODdryHMD/Djx3x+dfL+xfGt3YmkeTx2OdkByGahxUILILvOW+hSQOkojdONOEmimPnz6+/3r7/vTp/qy9EpcBeRA0QbIIcVLZaVDV1L18IiL/M0yzYy5snjt3vX79nuiOiBSDyAnHrTrDW6LHTO1CQVXDwcRw+qtBhktKS0pAxWfQGZmPiqHmJtFUjuedCdm29fACbHYofw+2vWlMZ0WNCSFnnBQNlUNE/VQ1UPFS1oyr0aZ8wttGsNi+dam2brdr833cqqcZUNhv31hBGQgbAtYUeUbQm7MvE55Jxd6Jyb79QbS5CtRyqs+mG1tZ2nwzhKGcAv8bAjIEOULUUL9NY6Jj4v9drBTnLtQFAud7v25P7zm3dmw6wMeiGzyLUazbaADAm7RFslWqAo3pXlpL852T04cqIqH+w9evfj8PW3h8cfRtX+/2FFQAaUTCiZPLwqwBVZsgjxDW9sWnmW3ZidfJm9/HT08efs2Zt/U36CRfSAXTYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/42.png",
+    "width": 1920
+  }
+}

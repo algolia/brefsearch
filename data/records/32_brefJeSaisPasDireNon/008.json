@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Elle m'a dit: Vous voulez en acheter ? J'ai dit: Non.",
+    "end": 10,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=8s"
+  },
+  "thumbnail": {
+    "hash": "129f9796e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIuKjqipqbm3tbW8lbWZhqh2c6qahLq4faCaXpybY3h2UFE3Ll45K2ldS4CBZXtvXQClop7FwbO9u7G5tpmCUEGGTj1zRjuqrKe4vru4urY1Ky8hEhMvGRo3KimRi4GIhHgAgXFih3hVk3dajYdLmotarntnjmpgqK2xvcTJvsDCWkE8IhQUEQkOPjIlwLKTi3ZRAK2ilqeik7yxqbO1h726jJ1sYKuXjMjJx8jIybu7tphxZVQyLwsABFBGO8GqipiDaQCkn5Sxta+8vsHZ0dyOhpozITGckZLQyLjCvaPLyauJdWKXclibdlymhnGzr5+oq5wAhnRngXZvlouL4tzampWgLyQzqaGryMOwuLOE0MyqwbmXlYl3kIF3ZU0/NCMeKSQmAH9yaXhteIR4f7aektbP0MzL0MfAxrCkm6qrkLSvlVxMRSIaIhQKDwwHDBALDhIKDQCSkJCWlKCYmaewj365mJDCsa66o6KpkoOUjFc0LicVDBEcExUgFhgbExQSCw4PCA0AkouCmpeUhoCLlnp0kGdbl4GArqOmlnRrfHRjGREXFg4REg0PCgcKDggLDAgJCAQISuLLP9HztZQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/04.png",
+    "width": 1920
+  }
+}

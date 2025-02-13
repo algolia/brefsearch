@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "J'ai remonté mon pantalon. Non, pas avec toi, avec Anna.",
+    "end": 7,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=4s"
+  },
+  "thumbnail": {
+    "hash": "6852a8432a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAwDBSIQC3NlX56UkpaMipeNi6idm6ugn6KWk6OTjo19eLKjoOfi5c3FxJyRi5qQjAAJAgMoGxRwWlVyS0tZT011aGaakI2top/Gvr6nkY1kPDOBZV23sK99c2tgVk16cGwAGAsHV0k/h3RwYD47Oi4vW0hHhXt3wrnAy8HLwLS6d1dRk4R/h36BOzM1LCMZSUA7ADEgFXpsZXluakkxJzUYFT0jI6OSmq6krqWYn7Knr4p/fJWKhHVpbHtye4J4d2deXABMPjaPg4BjVVApEQAxHApSSUivpK+mmp+Pg4GVhIN4Zl5QSURDPj5gWFlkW1peVlUAdGVdppyYoJaSemtmV0U6in9/qp+qmo+RkIV/hm5ldlJCbmBZRD5DOzhBODQ8OTM4AG9cVKOYk6mfm7uysbiys6OXmqycpJ2TlW9nYW1jWWtJPHpRP5JoX4loZXhnbFxTXgBhS0KYjIickY+jmZeWj5BkY2ZibXZIUFEsLiwlJCBrVkqqkIS+nZC8m4+qfXeYaWMAbFVMk4eCnZOQn5WTk4mHZmlrOUVJQEA8aWJaeWxesqGP0sa5xrinxLampYd4nnNkI2LCKGAN8yIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/02.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Le lendemain, c'était un ami.",
+    "end": 43,
+    "index": 17,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=41s"
+  },
+  "thumbnail": {
+    "hash": "716f9340cf",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nAXB23KTQAAA0IXlFmBZLgE2uxAIdwgt5AKYdDS0nal1ptVYH5zRJ53xxS/w8z0H+JC3OB5zEHOCxQsqECxetHnBhoIMF7K4kHhZAIrESQqUHIQAhRBz0OCEBRA1Qc4N5AnyEkorUUEKUhcoRCjRVEPRs4A8TLfAARxRtTEOUssqTHMOSaDqS6gmGjJ1jDSzMvHBMdKl2SbrY50AT5I65j2WtHbwh4jdr1nnur6sZwZmtjNVxXkTXjZk7uvY95htgdddesn91jeYrhMVbz335347MhJaTrMin2/yt/Pw9Tz8vX78/frwfHcAz13aErMhZoCRDpUDXV1vyncR3UXsFNGGsKdt+zYdPw37P1+e/v36BjpmRxYaEzoXm5a4L205MboLaYz1GBllVHRBelc1p6qYq/h67kC6RCHWKuL8OPXfx35Y0y5YFY4VGDijUZ83dVJu43Qss1sPzxUDsYtjW3cU8X0ev3SNr0i1a01NfT+eL/uhjvIsSPq8OBZZYqLO0/4Dc4ozwSVITZUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/17.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Et comme dans les films américains, on n'attendait personne.",
+    "end": 6,
+    "index": 1,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=5s"
+  },
+  "thumbnail": {
+    "hash": "c34f82d793",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nBXLW2+aUAAAYLa1yh0EjhY8R2EgF4FDEcRjkUF6s7r04uKsWdKnJduSbbF9WbZ/v/T9+6gPw+F9ON6nuLFtg5cAJ6GujlQAOFFhOJEVOUFhWbHV5lttvgtOqKXnPuWTbyW5dpyBrMgM9/GMnOe5SvMay8vca2gxYpsWaEboAZ26C8dfZ/nLZdNYltCiYaezq85qjJGiyTTHvzqxK0ltWmjR4qCPqA2Of5bkV72og5EDoafrY4gKx4rRgH17PO5p85GRQ9UB8lDgYh1Q22h8uGjWk2SZhX9/fE9d7+jNMUawiE7NnlMhUIyQwbFQYNSjd77IUL4KqnRaJKf3ZfHv8PxeNwxFreMwi6Z9c+6b8SybBW7oomHQNQJNpURGyvKSxMnj6ubzwxdT7oQIbtabhtSWXzh4YQaFFUxz0pTNKptWlCpr1eKiSvB2fRv7GbaDWUqWu8PN/uXh6Q853/ZtbEck8hJ74NpuQqlKd0bqyPVJjOfppCnI9WpXfvp9+fhcXu2hg0+QB6DrWQG2QyDD/2pyRROposRxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/01.png",
+    "width": 1920
+  }
+}

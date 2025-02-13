@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'avais envie de retrouver Marla.",
+    "end": 14,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=13s"
+  },
+  "thumbnail": {
+    "hash": "955d612f57",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nCXOW2/SUAAA4D4Mejk9PW1PL6ellDLpoC0WtGwwwsJA5CaLZBt2qMCWkSzObMzNmXh58EkTMy8x/mBjfP8ePqq1QZp5wydS0cAVWz2IMuMHdm2dODIq6sLLHf/DYu/isDvr1uPW1rZrUo8K5kNb94my5ZiBgYdhtuWa8WZQdzOBBpft8OurZx+Pn57t7R4PGk0vTe24RmipYUqtZs3I1rdz6aqtX7WjwNQCHS1b9+8upl/Oj1YHnfNx+3HoUDVHD4jsE7lsqT7BMoAGkjYzKQxg0ZBOmsH3y+ndanZz1F9NuoNyjipbik9kT5dLKdVEApMEPMNzNFCgGJrKvOH9uHz+6+3J7bR/HfdH0Qbl6/90XpMCgjGAbBLwLC9wAs/AUkqbN7yfb2a/353eToc38WBUyVP3MMph5Cqiq0oCCzgG0kkAWShygke0SZT9PO/9eX92HQ9Wk96TSoGyRLiOUU4Rs1jkaMAz8P8KcYIlycOi9elF59vV4vV+53TU3PUdyhT4FOLTItQhTydYlgZra2wiwTFJIHKwZKnLXm3RrY7rpV5U8An6Cx5mTcKz5+yKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/05.png",
+    "width": 1920
+  }
+}

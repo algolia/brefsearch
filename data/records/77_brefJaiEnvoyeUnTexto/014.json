@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai remis: Ce soir, mais je me suis dit qu'il fallait faire genre j'étais occupé.",
+    "end": 16,
+    "index": 5,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=14s"
+  },
+  "thumbnail": {
+    "hash": "4fe6cf18dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nE2Lz0tTcQDAvyDhwWPH8ODFS4dof0DqwYuTIB+4ghDm3FIXi/IiWZRNy/eeezr3402YP9pky5IuHgVRihA69TTEKIvltt5m/sD3/fned9+IIoLP4cMHPkCWVX9fIBS6k07Pt7a2vXq5Mj72VOqSfL2+obtDfn+gYh6Gw2Nz6fluz3VNi4LRx0/0ZErXZ1VlMh6LG8ZOJBpTtKlsLr+88vqZrPw8PH4w8lBVI7lMNqppYNv4KIRwbE4JE0JUDsrpW/cm2q+pnR7N4y3sfRZCTE/HUonEh+LptxMKlAklmdQzz7NCiP2dvdvNLgnUDzReDDZd6q5r8F1o/rK9u/HmXdDb4w4vrH7FwHXZJXVJA/2DP6pHGXmyDYD8yHispz/hDa5quhucSw3fP8U0FVGiW8WcYYKlbG5xMfMivzwzE9/f/RQPhB61uG/WnfeAhtErHfLVG8b62+8lc3NtbauI3hdOAOe1Wk0Qwsol03G47fBquWoWSpWDcrVUIYQ6DieYMWYzQhlhwDpD0MIIEkYdBAmyMGPctmu2zZnNMaTIwhhRaGEIKYIUYET/gCD565D8PiHB/8p//AIiyjFTUOfpdQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/05.png",
+    "width": 1920
+  }
+}

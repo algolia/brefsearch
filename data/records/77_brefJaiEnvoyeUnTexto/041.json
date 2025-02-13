@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai ajouté un smiley, clin d'œil, ça marchait pas.",
+    "end": 42,
+    "index": 20,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=41s"
+  },
+  "thumbnail": {
+    "hash": "bb9e5129aa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcklEQVR4nCWRy26bQABFWRPMDPNiXjDmYRtjY0yVpF8QKYvumkSR3+AaO1Rx20X/v8KV7vbo6txreeAOQYdiIHwcCBZpEQcyNToxOtbCKF9zyqlHkOuBO+jaFoIOI1BxaqSfhmochVlisthMYjOOwtToSItQMOnjG+NYDAPNcRLI+SQtslE5HS3z7GExv1/Mq/m0zCezcZIabSSVDGFvYAnmBRzno/jaXX5+fBwO9er1++V4PNWH1dvLfv1eb9ePVRlwHArsE2CpGzBNh39/X9tTu94dPs9t29S71fv52HTtj3q3SUIZChJwzAmwBIUBR1liTs3+z2f3q7u0dX3tunq7OR+bZr/Zrt6+PT/NJrGksG8gyJUMRYot8nFV5A/L4uuX8n5ZPFZlVeTLWa9RZEmkGSegd/CgQ2+M8nHI6VDx/8vGWkRaGMkCTgQBPgHEG/SzQtf2XBt7A0ag7K+gRrKh6mMkUz4WFFEMEHSga0PX/gdHVkUjR1yndQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/20.png",
+    "width": 1920
+  }
+}

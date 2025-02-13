@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Chocolat, chocolat.",
+    "end": 90,
+    "index": 42,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=87s"
+  },
+  "thumbnail": {
+    "hash": "1cd5942724",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXB7VPScAAA4H3z6tKO7vZF0zvqDi7hMoG4rrOMhSWpjNGCcIFuvGx6Y2M6YoMGyhj+htE2x4bitTvrrr+z54Faco8oEPBD3725+SeLy9FgEH6wQON4MZ1Zgn1yJyuwEY56z9FlPLeTxdYgRb04Of3um3/0zP9UrlFftlIZJNmr89kPO6kX8Kga6pYCDWKltR/Y/VwqYNvQyLApklyYu/82GrGU5t348qckzgAYd9r9Bun2G6YqjDTh8kxQumpTFKFf1lVLkv2Ly/HVVW4/5/baKl/XBOEWDO3p7ezu34339+b3H3fmmbY9ADp0AXTP8+gak3wZ5QmcLxJiiZTJylCWptOpM7Fdx3Edx5lcGYahaRo0GIKJc62c9TfW1r8iCTK9N+Q5XTwB/XPTtAzDsCzLNE3DMICu/1C6EElzvCgdl6lsKIhvbqZjcQJJ9vY+DipUG0zk83FdGhyLPaYhV9hmscZB3w5qNMMW8BwfWJI/JaooymQwF4mpidesDPjOiChz+UMWJdhUntnCDiGSOiKr3MEuWn4MN0P+1qv1bixsPvfroZX8Nlo6Ern6aRVDiqn4m4134XDkP15jqnTJkjXsAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/42.png",
+    "width": 1920
+  }
+}

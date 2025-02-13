@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "J'ai déjà nettoyé le lavabo d'un pote sans le lui dire.",
+    "end": 65,
+    "index": 28,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=64s"
+  },
+  "thumbnail": {
+    "hash": "19595ea39d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHxtZZF/dqWTiLKglL6rn8i2qsq6r8m4rMOxpsOxpsCupLimnaqYj5+OhZSFf4J0cACWhXyolou7p5vItKe/raCMc2iTcmazoJbNu7DKuK3LuK3Hs6i7qJ6zoZeci4SZioUApJKIuKKTw66e0r6xkH1zmGJOqGZPh1xNw7OpzLqvw7Oru66ov66itKGXmIR/pZWQAKKQh52Eb6+IZ6WDdYBdVpNcTrFrVo1hRoqFgsq1q7Wln4dTWJJcV7umnINxb4+AfgBoWlY0KSiXb2Gca1uPYk92TDx5RTyDblOim5HCppmzjnulgn+fhICmlpGCc3GOf3wAJxobcFJJl2RXgEo9r3JOx5FsyLSr1se83s7C1sa81se+287I3M/IybuzwbOswbKqAGZFO1s9NSIREBMJCZyIh+fSyeDSx+PUyOLTyObXzOjb0uXW0dvNyNTFv8/Bu7appQAZDw0DAAIMCQsYERBCOTqnl5qxo6S6ra3BtLPIu7jOwb7KvrzAs7GwpKKglJOMgYAABAMEBgQFCgYHNSknKR8dQTM1YlFVVkhOVUhOVkpQWE1SWk9TWU5SVEpOS0FDQjg5JUrnS6okxDkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/28.png",
+    "width": 1920
+  }
+}

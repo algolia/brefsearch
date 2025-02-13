@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Il reprendra jamais sa forme initiale.",
+    "end": 42,
+    "index": 19,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=41s"
+  },
+  "thumbnail": {
+    "hash": "50770eb463",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA4OGhAQHRQUIhgXJyUmOzY8XWVicF5XXkpGTG1kbX5tdnFkbI+KkYyBhX53f312fQAQEB0SEiAWFSQcHS4kJzszOVpNTV0xLTIqKy9kYGd0VVJzVFB9eYaSipOUjJaQh5EAFRUkFxYlGhsrGh0vJSc6ISQ1QEJMW01JQjIwbWZuh25ub2pzmKC0oZisnpSmoZerABYWJRsbKxUXJxwfMSMhMhMTGzc6RFpHTEEvKmRZVIl6fmxygJCjuJeKlZGHmpKInAALCRYUFiUYGywdHC4aFycwLzVFRU4xMj5SV2ZgVlwrLzthSEWKfX2AVzuakJSWjZUAEREgFxkqGRkpGBQjGxksamZwsKatcoCLhX+NfWx+YWBralpamYiGyr/Aw7zDn5iiABYXJhUUIxYTIhkVJh0bLDMzQFpWWmZpbHZwc41/g5WOkomFhJSOh6ymq7+3upmSmwAUFCIYGCcZGCgXFCMgHi8VGCMDCQsGBgcLBgYMBwYnJSMzLy4LCAgmISOKhpB8cnQAEQ8cGBgoFxYlGBUkHx0vICEsFRkaERYYDAgLDQkKQ0NFODc9CwoMEAoOWlVbbVJBC0R+iPVPTSYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/19.png",
+    "width": 1920
+  }
+}

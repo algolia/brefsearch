@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Ou on va à la carte acheter des Transformers.",
+    "end": 3,
+    "index": 1,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=1s"
+  },
+  "thumbnail": {
+    "hash": "8d18e2e555",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbUlEQVR4nBXLyW6cMAAAUKSGGTA2XsDGG2CzQ4YwYZgmaqUqUlRVPbTqsf/Q/79Xkd71BecIJzADCYsBBYAyWghRtnU11qW3VnL5dl3uU+eM6Z1XQgZRTFDKUcohyhHiezu8dO73bfSmurqqUvbnl/vb/Xbs+98f37auCUDCMCkIlR+YMap57oZ/359e1+mp9hhlnJfbdlz3l3a4lK4PEpijVKSkgClPsarcAlK79u7P+9VV7TqPW98zXqfMMum5rIMYZAkUEHFKBEgypftceFfaX+9b6/zcNccyunbVdsBMA5gHUcwAyCmVBPMECW36nHtr66/7UhsrCv15mm/L5bis23zhuf4IKRYYi1OEwzNBxCBibD1N86PUtav86/w4tNOxLM/jOHkfEFqAJItiejrj8IQBMRGSqppVNWeqpbxSps1VI3VjtJNCBzGg4Qk9hOjTAwrPBBITwyKTDddtLjxMJeOeiRrnFhIVJ9l/FeAt/bJjjCEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/01.png",
+    "width": 1920
+  }
+}

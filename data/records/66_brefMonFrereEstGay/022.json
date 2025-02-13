@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Ça, c'est un beau combat. Ben a dit.",
+    "end": 24,
+    "index": 13,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=22s"
+  },
+  "thumbnail": {
+    "hash": "6af8df507e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXB7VOacAAA4N9ciAgiYUAiiMEQzBdAJBWZRMqLUJKWWe1s2tbah+267rrb3T7u+sP3PCADPqDZLL1PEDko0ZvrkfUz9h/8s6Yk4nCGxBC6iJVQmESyOLyHZDIAANBtKKk7qhLYrW3+Cty3ZPJ3tRi2j8k8xJWKR4cHh0WUzMP7eRiDMgDH0Hhk72wzVsW7Ye/9bvltPHjfbhLHxiDA4ChVQA4KuRKG0AUUh/fAy9u/l8ensCn7TTXsNL774yen/zsOPhs6BYMy+pEnkAqeEwjM5Mt0Pgvm56tFGPclbtQ1h7I472nP/ul2Fk6jq1m0bAusROaqOKQyxJnIGRQOLL2bzm8j/6J1rJtSrSewGsdY1tj20nT9nK5+hPGNXGF1gZ216gMaB0anezq57PW9T/VOW+BClXNN04s37nQRnH+J0of145/oYtNgqaBVN0gM2E6gGY6qdKqCrAv8ldU66Xvj6fUkWrn+dbzcrb++pvevMlseHPFKEQU1sc3xSoWVGKqiMfSJwCoNs2M4mulZ9myS3Ifp1kt2NYaVS4RIFP4DciNP0sucMDQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/13.png",
+    "width": 1920
+  }
+}

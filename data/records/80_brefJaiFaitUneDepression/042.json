@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Au sous-sol, il y a tous les trucs que tu as enfouis\net que tu n'as pas envie d'affronter.",
+    "end": 47,
+    "index": 16,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=42s"
+  },
+  "thumbnail": {
+    "hash": "00a32422b1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA5ElEQVR4nFWQ3WpDMQyDA7Ul2UnOz9rDWK/2/k853IyxilwZKZ/sdvuTGdzhLnD2sY/ZM70mcHczW672z28ERdJxnefXdfXsdBDvAXdfbjMLKig6P+/37+czI/EbgJm52c1uTYCbuQMOgUGlYuuzKlXAR/RQuvn6ulWHF9Td9SLUi1DEIhxjS0XtxlIjRHC1XNNQBZb2MR9z23ME2SN7zgYgFQGg2hZKVGb23kmOiEeOqKoMQcpaOqQhdVVqcSIiMwEcc7u2PSgRKQFo7sU6Rx+qYm5OSkoxSX3sx/04VaeDaln8AJNlDRRU1n7YAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/16.png",
+    "width": 1920
+  }
+}

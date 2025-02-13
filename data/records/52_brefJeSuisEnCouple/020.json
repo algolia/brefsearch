@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Bois où tu veux.",
+    "end": 22,
+    "index": 9,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=20s"
+  },
+  "thumbnail": {
+    "hash": "88f27a9c29",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXB/07aQBwA8ILtXe++5UqvvZZCKT9aSwsFJlaJsjlC1SZshk3EjKjEaJYsS5YsWbI32J++zl5hz7B/9iz7fKRFnQecYwRIRlTVqrQ688OiO1558bcwunQcolALdEuFkKCUylLhmZ4hVERLZTmyvQOvfR5Eb/143Yi+t3sL2yUYuMo47gj9U948k+aeJZhpEFDKpcT2b15Nl3Ga8Hpe83duK+NdCo19Q5yJy27xdzF7kdqcGxib1OCaO3DE+jD7kBwUndFuPPvZT1etURa8OXW8jX+87T/e1F2JAxNUd2vzXnCxHD693t9cRMPH8fHTYPI1GX0OR3dH04ckfu/410KzkCJZYDhg2iCqmM0am220fs4OtyeL+8H8Lnle+ifTuvgSeT2qWRgMTCVOWEBZXzNTqNzX6O9305f86jbNh9Yk71wfiVggPNSgImMk01NuSYAAEHMRie1sNfn1Y7w797ImNEFhTFGbhPmUEVktlRWBK1d2TaIKZdho1Yvw4U/n479Am6oKIMxBdwBElZgNolMZ4z2Eysgn8B8UWTzrPaEk3wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/09.png",
+    "width": 1920
+  }
+}

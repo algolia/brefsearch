@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "Bref, ce jour-là, j'avais rendez-vous avec les autres au cinéma.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=0s"
+  },
+  "thumbnail": {
+    "hash": "83e93dd491",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABIPCRcSCigkEDYyHEhFJkxJKUA8Jk1GMaGYj62lnnZoX3tqWHRmRlVNJFVLI1RIIgATDgkXEAkZEwsgGgxDPiZJQTE0KiRCOSWMgneWjIWNfW6CdGFyZEhfUTRENxtBNBkAFxMMIh4SLSQWV09Cb2hkcGZhgnp2gXx2iISAZ11ZlYl8jIBxdWhPSD8pRzwjQzYcACslGUE7KktGN5GVmIJ7fIB3dJmbnpSMinVqaH9/goKBgVFOQ2lcUF5MMDYsFDovGwAkHxRGQClSUUBQT1NQQD5LRkV2enxCOjw+LStlX19rZ2hFREVRR0dUQy4xKRInHQ8AIBsPLyoRQ0Edc21nXVVWPjo/RD08KSAiLicwSUJEYF9kUlBScGxreXJqPzcfFg4GABcTCiokEDw3IoJ+eW1paVxYWUtFRzEtMyUjLEE9Pz47P0xISWVfW21lXj43LiQgGgAcFw0kHhA8MySAeHKfl4+noJunop13cG9KRESYko6Phn9xZFthU0dVSDs2LCMpJSEAHhYMLyQZYE4/f2xbk4Nzm4x/q5qNkYBzdmddrZqJoIx5kHpmh3JefWlWZVNESTwvo1SHAQF4P5AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/00.png",
+    "width": 1920
+  }
+}

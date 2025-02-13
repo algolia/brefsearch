@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Je m'étais jamais Je lui ai demandé si elle avait d'autres amis.",
+    "end": 31,
+    "index": 13,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=29s"
+  },
+  "thumbnail": {
+    "hash": "d834a82c18",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nBXN2VLaUAAA0PxBgZLlAuFmXwlcSMKlhARqBEHqA6ISqBPRSlpKK3ZaHXWGLpbpk0+d6UP/ttPzA4coFDI8R5Z0CjuwH6LOS2E6toc9y63nBruKadKqSldtrmpDXqAgRxEApHmORFaupINuoPkBF4/cx9Wp5/F7HmaFrF7O1T1RNUC+SEKeJmiQYvOZKmJUPVuvFWxMtQPx62WEWyIHRUkDCENUhXqpmKLTGfLZ/0EWycDPK2rWRQW3AdotZbu8QLYk84KgkQjzDU+zKiwJ0mkyRTBMmuOee36u6lCGxiCb6rfNu3hhlSUBFnmJqbeUdhcNhr0w7BimQnRsVVOAUQbdPu/W2IpBD3bx9eSwVuEAw/QDvErOo0nz6fHmz/bh29WcmIY4OdoZ9ZzXe3587E9i+f579Pf33emZ8iIQz5do82P08cGKEyeKGodjl4hfNZdRGB8047GzWtXm7+WDGUxWvU8/1ZttafOEb3/Z7+61kzfacFza6ZpEdGROZ/LsjL/8IK2/WIsrY3Ftfd403t5q87V0sa5ME2NwzHb2QbgPvTb8B2zIZBNnYCTgAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/13.png",
+    "width": 1920
+  }
+}

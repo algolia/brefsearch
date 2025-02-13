@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Il tapotait encore.",
+    "end": 33,
+    "index": 19,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=32s"
+  },
+  "thumbnail": {
+    "hash": "e630e37094",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAYEBQkFBA0GBQwFBCAUDC8eECccCDIjCS4gECsfFz8qHkoyI1g4GnNIGGhDGiwmJgAIBAQJBAQNBwYUDAgYEQwhGhMnGg85JBJQLRl9SzSla1BcQDJQNBaJWB12TyEmISIACQQECgYEDAUEKBYRKhgRMB4WMB4UOyccRisbcUYwn2dLaEc0VDYackgaY0EeIBYUAAYDBAwHBRgJB04pIC0bFRYJBxYICBYJCEgrHHVMOn5SPZ9kS2M4IxsIACcPCFAsMAASDAoSCQU1GxRXLyUzHRcJAAEiFRE4KB5KLiCDU0GMW0CJYEyikox+cG9HLSlJIykAFxEQIBQRWTEkSikdKBQNMiMcVEQ1VEY2Qi4kVDQmUTkoimZVxLu8rqmtvbfFb1plABYPERwUGjcgHTQdFWNRSXFkWEM5LU5CNS4lHTMiGFg3JoxvYYd+eIB6eLi0wqymvgAaFBUbFRYcFhQiGxpEPDppYl9oYl2no58+OzkWDgsqHRdNSER1bWVuaGSemKKxqcgAEw0REgsMHRcTJSEbHBkTHxsgSEJIpJ+hPjo4FhIREhERPjg0XlRMT0dAiYCFr6fGe2thYakz13sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/19.png",
+    "width": 1920
+  }
+}

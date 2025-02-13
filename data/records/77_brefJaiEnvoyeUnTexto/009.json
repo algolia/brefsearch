@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai écrit: Ce soir, mais ça faisait trop mort de fin.",
+    "end": 11,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=9s"
+  },
+  "thumbnail": {
+    "hash": "023a5e5826",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nC2HW4/SQABG57fpk/rmgy+utwcx+2Q0+ntco0BWAtLLtiXQDlNK6VBoZ9qZTsu2bNDKKlffvWCWeHJO8n3g8ZNT3Rw6Ph1TEfJLkuREFPQoEQVJ8oBf+lQ4PjUst9bUQOXF6zDOIpFHIufZPJldsbT4bzZnaREfN+WzIEodLwSV07fFfLFarbfbfVl+W3z5ulptNtv9brdfrzdHdjd///P6+odIc/Ds+RtC4larqet6WZaKokyDKUJ9CC1Jki5UVZYlx3EajQZjLC8W4OHTV1HMNU2rVqvuaOS6brfbtSB8d3Z2oSrv623G0zQVjLHlcpllV+DByUvGEttGcRwH0ykhIcaeEInZ6yWczRfff/05HA5/b/p9GCRNcO9+xbJxxNKQJhHLSCRiPgtpwkVOIkEox36IfTLCgYfJJ60Obt151LFGasc2kSfrEA7GqoGgPVaMfg+6agdZNlYNhJxJU+5qugNu3z358PH8s6RZVr9nIkVWPW9Sq9X9CXEGQ4wD07Rgf9huyy3JaMvaPxXwTd9kLS2jAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/03.png",
+    "width": 1920
+  }
+}

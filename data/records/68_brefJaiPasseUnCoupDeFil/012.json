@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai rappuyé, j'ai dit: Il avait raccroché.",
+    "end": 14,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=12s"
+  },
+  "thumbnail": {
+    "hash": "089b1520d9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBa2/SUAAA0C4aBVoet6yX0ttiR4Gu67q20IF0tbTAsBQEojBJpgIbW9wDZozoFueMmjhnYvYD9sH4Tz0H6zuFcdvUyZgbJp7l2JGlDB1jR5d3q8ZBz971yt5jTWCQmsu96fujgY9VFfFt1+mwsMcsT8vy7fjFke++Kqpnz53zsf9hZ/ui43Y1KRqI1Mqb57MJ1i5rs0Hj+37neq977BiLlnM1bI2fGDenw7sfJ79HrYVbOKsZA1U8rFtXn04xU9VeNut7A++gaY/Mzdel/HZBz6Qzv759/vvv7ud8+tHRLtvmia2/79Vvvi6wjZVstViCNKookp/XNtgUSqYA/eh4f3J5OOpXnZmlT0z16Vpm3ravL95hKkIKx5EUo4kSk+TiIBEj6QQn/JlPvzS2NIZtrK/aolCRpYZh5CUF4wCFqCSNeDwKERKKBRMyPAnZSbN25FWsVXFdlL1SqVYwEpDHCQojAhEcB0QUBog4w6bdrQqL+ChJB3C4xqfllSxJZTiUTVApPLQcJiB2bylAAhjEwdJ9PBynBT4LYjAM6BBBWQwjUFwEcCCGQkEyFAQPH0T+A2YwXJT3EdIKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/06.png",
+    "width": 1920
+  }
+}

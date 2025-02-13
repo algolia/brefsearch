@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "Je lui ai dit: Mais qu'est-ce que tu fais là ?",
+    "end": 27,
+    "index": 10,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=26s"
+  },
+  "thumbnail": {
+    "hash": "d8398af927",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3VkBrTTlBNTJBMzBLOjQ5Li5oT0SJY02PiIyon5+3q6leWFsaFx8lISkaGCEWFB4AjXlwUUA6Tjs1qH5o16aHjGdUUDgtv6WZv7S5t7G8x7/FjH17Py4vKCEoGRciFxYgALautTQrLWhMQ8eQd7R+ZJ5sVEQxLYZ8eoeHkGdjboJ8gXxzc2hLRE80MCEcIxcVHwCllY0wKi1iRT2jdmVrTUWQa1pUOzNPPjBseH9QSk15c3WMhYVyVEt1TEM/LSwgHCQAiW5aOCwrhFtKvIZspXdjuYZtYUE1RjcujJOWd3J1opeauKyrgWBVhFlOWDs0PC8yAHhwcV1SUlQ5MZxsWXtWTH5XUD4pJkAxK7KkpLq1wa6psaeemnRbVIBZT29MRGlQTADa0tXOyM16ZF2GW0uTaFmWaFpFMCtMNSp9aFVpWD9vZTN8bjpnTDpnTkiGZFqIZl4AfnFuso55qHhjjmJScU5ELyEiDgsVOigjY0cxiF0spY8+qpVOiWZKSzs6a1BJlG1hAFRLS8ORd7eDbZRnWG1LQx0WGxMPGDkpJUkvJJJxYcC0qs/AstbJxXBkYkUzL49qXCwRp/aKUajuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/10.png",
+    "width": 1920
+  }
+}

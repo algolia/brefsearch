@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "C'est exactement ce que le caravan qui est là.",
+    "end": 71,
+    "index": 30,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=70s"
+  },
+  "thumbnail": {
+    "hash": "febfd56c1c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJGBZ4iMU5CgR52uUX+Gb4txaWlGOHRQRa10Ya5wW65wWrByWaJoUoxZRz0sJlQxLgCnkXSPh1iSn1atv11YYDd+V0uKWkZELilwRjygZFWNV0h1Sz5wSz+NYE9fOjByQTkAwrGbrZuApaCHs7emjJGhl3RurGxTlmBOi1VDl15MWDUrQComXT4zi19MiF1QaE9JAMvGzqaRkY16enNuiE5ObYZjXLJvWqZoVqFjTq9xXZJZR5tkUbZ7Yq93XHZcXYuNoQCekZWZk51fTUZJQk1AQ1xnTEiJVkSBT0Koa1e/f2qNUkGYW0qwcFqfcV9JRF9hYYIAaVVQg3+KNzVAIB4oMDJGPTAxdU8+XDkyYzw1akE4VTQrVDIneEs5blZSOTlaPTpeAGlWV0Q8RTk5UCotPEtLWh4bIVo+M4dUSGozMmMyL2pCOFc5LFA3LVpTXjc1SjAuRgBLP00kHig3NlJOTVpJSFgTEhoqHRdzTUFzRzx5Sz9zTD48KyQ/OEFoZndraXYrKTYAOS86JiEtISEzMjE+Li1DIR8uKRwYPCkiTjUtTTUsOSghTT9BOTdKRkRSWVdkOTdEKtaZOWNItqYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/30.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je le sais parce que je n'arrêtais pas de répéter.",
+    "end": 12,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=10s"
+  },
+  "thumbnail": {
+    "hash": "51e3004f95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBS2/ScAAA8H9oC2V9Im1X+4Cu5THHo9BCKRLGY5NCy6AEWIr44rKQDOI0MUtcjCacjEc9mZh4WPTszfhdTDx48lP4+4FSOuk3K4tiYWO0by9efVLK13HuPSX+jCZ+4amPqPCuP9xV6y2UdEi2LSbBcfneathdVcov7N6Pl7upls2yESfBvGaS33H1K3GwPizcZPJOjJtyCf+oCJx66XLuLk39sv5g1fVkAjdo9FSixX2mJUlbQXykpK5TuW6MmwnqRK+Apdt5vhgHVWNZbTMESUfCCo7maEwgiDxPaxzektmninJMYW1RHHWegGcjZxuMfbM8t06yYjIKhzAEwRBEIPZkHI1CSDwKWSlzaC+K29v75x/AtNPYBmO3YvvWWdCeHFIRMoyEIZiKIGkKg0MhAID78Nvs7d/G7o/pfQbLQWdz7rmW7dXczWx9mpREFIIgGIFgldpL0LjMxM6GV86Xf82b3/XmGzBp1S783sAoekbjavQ4KOTdAyZBYgAAnb/Tyqn2kWpobNdZD5xdLWMDp6bPO7WTfNbVrU1/qt/lTQbvq7wWozQ+XtLErLyfllhdkXqlejWd+Q8EClqaAlv7EwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/05.png",
+    "width": 1920
+  }
+}

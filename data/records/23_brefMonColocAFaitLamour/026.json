@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Tiens, Baptiste, c'est toi qui télécharge. Attends, attends.",
+    "end": 28,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=26s"
+  },
+  "thumbnail": {
+    "hash": "12eaa43c50",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AMzJzNPR0mBgXnFubdLOz+Xj48vFxrSrq7WrqXhuaGphW6qgnqqgnquhn6qgnq2inACzrLPCu7+NiYWCfXve2dvv6ujPycrAt7eVioYpGxI1JByQg4C7sa+zqaeyqKazqKMA2NXX5+XlzsvK1dDU497g8ernz8jJyL/BgnZwUTAodU5Lno+Ov7a0ua+tt62ruK2oANvW2O7r6sbDxMnEyOXg4PDp5tLLzbOko3pfWWI+N3JQTZV2dbuopruysLmvrbquqgDa1tjv7OvDv8DMxcjn4eHv6ObRyMqAYVphPDZaODJlPz12Skijgn/At7W3rau4rKcA19TW5+bmvrm7z8jK5d7e9vLwv6+rZ0c9aEdBWjYxa0A+dVFNgF9XuaWjt6+tsqWfANjT1+De3rezs9PMzPDo5uXX031fVYt4cnpdVk4uKWZCO5JybZFqZ45oX7Sop6uemQBvZ2XCv8CyrKzb0tK3sK1hRj5UPjm3sK6TenFELCNaPTRVQjpvX1uRbmivoqSklpEAGhoVnJmZrqem0MPCopqXuKynsqKevbKwjYB7TDkxSz89enh8XlhWb1hSmIuIn5CKanQGNgIvqloAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/12.png",
+    "width": 1920
+  }
+}

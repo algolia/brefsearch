@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'ai décidé de reprendre le contrôle de ma vie et nettoyer mon sous-sol.",
+    "end": 86,
+    "index": 27,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=82s"
+  },
+  "thumbnail": {
+    "hash": "c53e844308",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABRklEQVR4nCWP226rMBQFkYrZ9vYdG4wvBEghkEZp6f//XMU50jyuGWlVTvHi7aMMX1OSyCmBIsVvcGf07zn/LOU9pectHmPcS5j7tvKKZ2e2HN5L9lJKoFmK1ep38K9bOnI48rDn/pH7vQxL8JcQWz31bktdNFoCvDq7GX0Ofgt+i/1XGfbUr8Hfg7sPrvKSj137nNJjjFseFOJk5G71w9nP4F9jPO/le87fc1qHbgmucvL6cG7zuc3HLRkhgDSjkpM1nVJb7F/jsEb/LOFz8JdgOSZnftZpTgGBacqSUqPRBkVTMw7cCFmcOUpYgr91baUQvZZayLoGUgMQKikXwBlBbJA1CIQJytfYTV1bvK0kYwj046NpCL2oqaIoKKf/1v8BwmJrR2ejNRVnDMjVvvINhRoUQ8GQAQrGEZASBjXVKKLRwag/fVAhJh6NhGYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/27.png",
+    "width": 1920
+  }
+}

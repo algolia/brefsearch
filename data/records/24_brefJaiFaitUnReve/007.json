@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Je suis tombé direct\nsur mon lit et j'ai dormi.",
+    "end": 17,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=7s"
+  },
+  "thumbnail": {
+    "hash": "ba36346109",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXB7U8SYQAA8PsUZQIKIoQ4wlTgdsIQlglDbGfalrgFbDBTQsDdO3cPPPfyoAfH6+lBudaa80tr/Qf9h/1+GBF641149mpxIeB4GVyyh1zOdbutfHJkABVeC6DOalwHCYitsoXj00w8gWV24rh/ddPt3Pa4wh5X0PHi47u3IwD1FtT4bocCiGlpFIeYNuI1qSli9UotFVzbXV1Oel242763GZqqg5k+hbTcPGfYy4YhqWOAdFrSGhT1IYaROHEU2dpfWcr5PBnfCmLUH9Mnq2eVTg4/HZK3nHIPDVNEE6Gr1wpM2oGRUaKQzubCof0Nv3TR/PP079f8LxL755+LMgWsTn8qKKbUe0DtUZ2AZ37sAI+Ssdj7HTyfzRjt7qw3e7j7rUJrNn6cK8MxD+/BjcnT3yE5lwjh2ImliEgS38qlkgM4MNH4hgWyMOyhb5ZmDjlgAjQFt6ic/CknjGq4treMRYOB8Lqvki+O1MlQ6evyHXUFQYOftLQB15mIqk4zyuWBycXLEdsZ4cQ21rzp3RR9QXFfKfG6LQlW6bTEV5vdBq9cMWqdAV8qUjUvFF9nA88Tbtt/freUbj+kQZIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/03.png",
+    "width": 1920
+  }
+}

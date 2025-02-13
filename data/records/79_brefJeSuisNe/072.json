@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "J'ai dit: Bien sûr.",
+    "end": 73,
+    "index": 41,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=72s"
+  },
+  "thumbnail": {
+    "hash": "f180f7bb12",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD8mLlUyO2Q2P3A6RHg9RpFKUZ5UW7Fpar59d7x9eL6BeLp7cbd1ardxZLpuYL91ZABAJzBUMTxlOUN5RU6DSlKbWFyqZ227e33Bhoa+g4O1dHSuZWiyY2a1YGO8XVu/YloAOiQuVTRBc0VOhVFXjVZcnWBlsnN5woWKx46QvYCFp2Fss2pzuWt0tGFrt1Javl5cADcjMEowPHpMU5FdY5FbY5dhaqludsSIjMuRkbZ3gKVmdaxqdrxtebtocrRYYrlYXgA1IjBEKzdtSlOMZGqPZmykg4Gwh4nFiY3OlJe3dn+mZ3emaHiwaHe1X2ywVmKyVF0ANyIwQSo2XUNNflNegVple2Rsl3d/xo6U0JWZvXiCqGd2omJ0pWFwpFdlplBeq1FbADwkMDwmMkkyPWA+S4JTYoFXZIZZaLuEi8+UlMF5gKlibpZXaI5QY5BNYJtMXaVNWwA4ISs6Iy47JTJBKjldO0p2SlZ3SViZY2zIhoXAdXqsWmeOTF1+RVh+RFmESFuNSVoAMh0kNh8oNSArNB8qNyAsTi06VTA+YzhEq2VmuWpsr1hjnExXiENQgUFSf0RVf0NTh5i3hkTS648AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/41.png",
+    "width": 1920
+  }
+}

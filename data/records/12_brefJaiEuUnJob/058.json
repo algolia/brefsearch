@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "C'est incroyable.",
+    "end": 60,
+    "index": 27,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=58s"
+  },
+  "thumbnail": {
+    "hash": "96de977057",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFBJUzAiJCcZGSUaHTovMnJpcGtmbF1aXWZhZWBcX1dOTWhRSlxMSlNOTU5JTUpETAAwJyg0HhcvGxYpHBsqHBw7MTBtaG5hXmJpZGhgXWBoTkemcWJ+VktOQ0FbVFVIQkgANSgoKxgTIxUSHxIRJBcYKR8faGRoaGVpbGZraWBicU9FglpQXEA6UERCYltbUElOAC8lKQ4DARsQDhgPEBgMD1g/Pm9qbmhkZ29obWthYnpTSnpSSm5LRGtaV2ZeX1pSVgBEOkMDAAAQCg0SCw40HRp6U099fIR/h5GAiZZzfYtVPjxMLCZZSUN+dXFmXl9cVFgAQDdDMx8cUjUsYkM8WTctblpalqWzkaW4gJWrhp2zU1hhMS42a252fXRvaF9hYFddAKeftcq+yr+kpYliV15GRYSJlJequYicsImcroiesVNCVFpfdICWrIGIkXBpbmVbZAC+ttLSzeTV0ui3q7qHgY2Vo7CUp7eBl62TpbWMorVZRVpyeoyXrr6Tqbx6hZRuZG4AvrbSzMTbzMbc1tPowsHTm6q3jqGyfZGmlam4eoaYTyc3hImWaHR/Oj5KQ0pYc255xQeqMYszVuQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Marla, c'était mon plan cul régulier.",
+    "end": 20,
+    "index": 6,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=19s"
+  },
+  "thumbnail": {
+    "hash": "bd73fce6f3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nAXB2XaaQAAAUH5BBGRkEIZ12IQBWQTFBa3BEKMmpugxJ23TNA9tX3p6+tyv6Pf2XmoAGE0d6KY8CnRJ5KZpWMS+pgjt7SpyLdjvaUjEGrJNo8dzdJemFnN/Og/Gs2BdJ8e7pKmT83H++/3x35/vpyr/9nz/6/38UFeuhYEAJEWissRMYs20BuFI/3ggy9K5WZOqCLdpENtGvcrbfdXuNmU6cl3seDo1dACSOFVhLdyfT/TV0k0izHP8uiA8x6lIvlmPdvXiy8vxrikigijPETDmXJuXRBobfLXwkQyhCK+XE8OwLMNst7PHtt4dJlmmW5ZIRSHyiWyZSIId3wX7HaFpRoVs4mmdDtPnwXSRZpOgLEwbQ8VEFACspvQtYyAA2rOFhEjEwuOizPMC9gDX7Q6J6nnaODAdBA0kUEtf3xB9E+pN5tyG+EMSNM1xtnn68fltuX/GJMYSF6iDyJCJLmMIqHNmX3Pn08R7Lf3XHH+9XOPTTwbIfJddvf09tC+NAy+p9RAb96G2HSr/AdpBVSWZglDIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/06.png",
+    "width": 1920
+  }
+}

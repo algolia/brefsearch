@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Bref, ce jour-là, j'avais rendez-vous à midi avec cette fille\nque je draguais depuis un moment. Mes yeux se sont ouverts à 10h00.",
+    "end": 4,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=0s"
+  },
+  "thumbnail": {
+    "hash": "ccdc66fcbc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nB3L246TQAAA0CltoVBaGIYODMNthgJyWW6lbFl7cY1mV0008cF4eXGNiRs/YT/BrzbZ836AJEqz2Ux4Np0Kk8lElBZrwwJA0HRoESqp2lRcKLKyWiqqIgOEkCwrgiA8t2ns2seuasoiIFbKvISHlBCMMUYG0lZwpQJzYzOeIsOYi6Isia+a9LyrHx8eHn/93TXXjJI48CLf84jtbkwXaiDO+2F8DQ2jqIYXPHhThTnzv3z+9vT07+v3P79//ijShOINxZgRHFsm6PeHfdebcL1Ni8u+/dCwS1++PfcpD+Pttm3rZBsFDuGeGzqWZ0JwuhlP48Fz7DJhlzq5P3TvTsPdedhf5TEPdU23LZxGvK+rlDMb6uA4jvVV3ebZdZlWnO6zqM/iPPQjl1BsEKT7Nk5Dv4wj7lGCIHg5DJaJ2jz7eBnf33S3u2LIokOZMM6xoROkh4HnOFQSRU1dWlADn26PXcJn83nou0OVj02Z8TBhAQv89VJZLMTAdXb9YDtUW6twtfwPbsI5AB4Y2WgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/00.png",
+    "width": 1920
+  }
+}

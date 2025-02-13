@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Charles a dit: Tu peux dire à Baptiste que je vais être en retard ?",
+    "end": 67,
+    "index": 38,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=65s"
+  },
+  "thumbnail": {
+    "hash": "34b80f9862",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nAXBW2+aUAAAYB6aOQeKAhY5CHI5KgeVm4jAuAxLRTs1XS9rK2ozk27Zkm3ZD1j6up+978PuMl/n2FG7FULJ4LlPH7zn0Mw55tvcP7n6MXReyufvn7dWDwKmFfpT7Msq3dtwM4bb2D+s0qcieT1uTrHzZxH/fVj9+phuiuuf5f16ZlqSqACAXbl23lNibbjOr15f9lNj8nARXTvGQut/LeaPySwynF2xTEea2GToCoGVqSfzAyiZxyy4SyLUVRe2IbE8QzJQ7nNtURJ1siYQFSKZ2KmpY15PngVJXzOtLhjKigH7HSBV66ylIcRzkTHeZNl721hFwe4yXkcuhuPkCCGlI9oQWqpEcYrSVTwEb4PJThd3NtqH09/lzb8fh72rH5YJRtcaTaKuAuGUB2XsWmhYmHBtyUEXPI7kmD8fUNTTcn4TBb6GkKpjLaJGk1SD4gHNhQM9cyxTFS9NdarK2/EgkgVb6HgypGiRAwgnAFarVKtVEn/XfPO20WZ4gRcFAAKVTVGvsIxsiHJNkZrnFZylmtLZWf0/sspQq+Ju9nEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/38.png",
+    "width": 1920
+  }
+}

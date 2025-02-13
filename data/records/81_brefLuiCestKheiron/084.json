@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Je t'appelle demain.",
+    "end": 89,
+    "index": 32,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=84s"
+  },
+  "thumbnail": {
+    "hash": "ec56601e2c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBW2/SYAAA0D4RYzo2oCsMBgxHZ9tRKht0pTdYaWm/0kLZymUM0sDcyADFgGA2bTJfpiZqTIz64oM/1XMgz1t7D/d3qxn3gjwm0m9mVzevr//++9Mb18ajxksbRJFtNIjsbIfj0dizvRS0Wtx+9JaWIhxEQpcys+iZq675az399sr13HolR27CMLoV2IDhzQ1/KBCEmnWwnI0co2Kx1H3fehi1fjZKn0Dx0eB+d1RXF4ndsIAlydiOz/fED/uhkih8/v71y7vZ3BTWbfBhYC8V5octnknMY1Oenytq7rmWwXQKj6NoMhqFZIZxbyd388k1KF+pbKeqNRudt+5FFEE7QL1xtHw6gcciPL5vMPSZVIAURel2HWc4ZUTdYQnskCNL7db0PZHNn0riRRPIHEPhGJFMlDKYUTyGmibo91pcfZii+L7K87Kd0wa8MwGjZVESq3ql1bb1xvlJtaVybIEtQaauOrYpWQPs6PSoWOEsl5bbYVyiNDecxp8iEV8ACe2RVWc4ni4Shxwkl8UaUApCNU6c7NN8mpZSeD6YpFOMZdTMsshls5n4AS0Bhy9rWzH8PyeacRJyjHpSAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/32.png",
+    "width": 1920
+  }
+}

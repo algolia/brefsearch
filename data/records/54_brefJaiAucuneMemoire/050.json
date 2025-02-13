@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Dès qu'une dispute dure plus de dix minutes, j'oublie pourquoi je me dispute.",
+    "end": 52,
+    "index": 19,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=50s"
+  },
+  "thumbnail": {
+    "hash": "fa1dca028e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXB207aAAAA0AZhwFp6l5ZSoUVbSovUglIu4loKUmAUBSVGCbLJJiPqw2KW7Dt8WjYjWTBui2ZsybK3PfgD+yXPAZqb+r5tvRscXZy8Gh8fnw32x736pN+rhsVu1ph9/XHz5fbX739HlpOACMcoAa0XhcOW/f509GFyauaLjZxUVtDLfsWOKj3dnD/8/X43f3z8/8bZa6SkYWcHsLLpRrH4urvXcQ7OT0bbxcIm6/l4WK5xq+21/Lfbh5/3f66uphlJ0wWhWjKArMhVNzIHFbNbs9vm1m4hN1pPTVr1Jp+0E+np9ez+bq5vmH4vgSN0iOKBfDySk8V+uznYddplo+d0Ls/Ox8Phy6hsLCevP01vPs8iSzKBMiGCQVEWiGIoF47p67kVSUtqlhBTVTGRWhETQSZG0pqiZpQ0RURpMkwTIRINAfV6o9bakVUVfo7wTITFSNwHUgGUxgjUD20tx9+W8mucQGI0CuEyywEsy2qrSVnVcIyOM0sIiIY5kSIoGsZ8C96KIl1YaoYXICQIBQgWDwLPXC6exIUYTxNB0O1zuzyLDA8jJOYHaRhbBAMkjDEM7/GAIIS7F7xPp8lifgKJlLsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/19.png",
+    "width": 1920
+  }
+}

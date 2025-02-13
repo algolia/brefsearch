@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Je m'appelle pas Aline. Je m'appelle pas Béatrice.",
+    "end": 94,
+    "index": 40,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=92s"
+  },
+  "thumbnail": {
+    "hash": "2bbe4f0f71",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nBXO71PSYAAA4H2IswF7N7a9DAaMn82xAQ4SBpuNVGQOFXKX2Y8j0AnKzEyw7vpAgN3R5SFXfe6P7Xr+ggdJcWElXxgMb4eT6Wh6N5reff3x8+hd2wcIz2MPxIl8NrOuaeqm3j5rv3xtIdEgk0klOrY9WSzH94vx/WK2/F3W9CfhUNfcMpV8kCCykljdqbWOLPNgFwlBmoPk1rON2cPy+68/s4fleD6XRKlakOf9N5PTV3E/FKORmmGuKxUhLSGMzxcggBgNn9jdj19Gl8NPzvVVMhbLJeKO1ZicHucibBKSu/W6UtGyORmBAPNj3gRD75mGfeF0ev3OWY+Pxzmacg7qfz/3+QDMx9hauVhUVEHMIRDHIPDGGbph1Jyb0cX1TdfuPRUFzyNXq5gfWgZYQWOkT0knhUSMCzKIHweU183R5M5m9dy5HHTe6jmRxUEIB/3G82ZJplG3EIC6lJTDVJbB/pcIFGUJoK5JJy/MD5ahijxHkRyOfXtvXR02Ijjg/eRhOdMo8KuUG6EB5nG5aK+nlE71mtvNirwhr2kllfWit8fNQcsQAjCCY+f7ur2vs9jKP1MWYwHfMct7AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/40.png",
+    "width": 1920
+  }
+}

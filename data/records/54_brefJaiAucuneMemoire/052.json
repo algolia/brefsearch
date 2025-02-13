@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Si quelqu'un me laisse pas parler pendant plus de 30 secondes.",
+    "end": 54,
+    "index": 20,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=52s"
+  },
+  "thumbnail": {
+    "hash": "225cc34c58",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nBXLT2/SYBwA4N9KoaMUKPBuvP0HXSttpeXtKOuwFEah0MEEYRM0MzEajQd18eDX8OJh32AnbkYTv4MXjcYPZHzuDwjFMgVw8+r9n7+/Hy8XV/P53d2OVI+astzvkJOm6TvW4LQzDrvn0WAxi0EqIQrgzbPXP37+erq+JBjdfr4dGJ4tisPTduDaAbEn/WCZjOJBz202oY4wBfDiyctvX78/nyUj29ztvoQaacnyme+Gxw4uI1yuxL3uan7uOQ5oWKIAthebj6N4mec2B5VP7z707rm2IHTJ/cR36whRQBFVvpgkq8UadCwxkOogcVsorpT6utW+GU38mqXx5UUcbMbe2NHVUsGoVmbRWc/zQBf/hwZXminS9BAPNPPt9rqrOTjDeqbWwBViGQ1cFfPswyjwTA10QdgHWmL5oa5OuYLD8Vdh31MMnmIc02hbliTWARiWyfkuaTV0UKuV7F4a0eyJJMY57hKhR5pKBNVEaBg+uJ5Fkd1IpxiaziL+QC4jqHFsNpUppthjVQ/yhWmxlJiWcSjYgmgqtbamuDXMZhhqL7OfzjE0+w/JOk0JAZnTsQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "J'ai dit: Merde, qui ? Elle a dit: Croquette, mon chat.",
+    "end": 12,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=10s"
+  },
+  "thumbnail": {
+    "hash": "eae4918cc1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AExGQnBqaF9aV1lVUW1nY15aVIiBfYqDf3FRRaF6arykmHlnXj42GF5UNndwa3RtaQBXTEp4bWtVUU5UUU2alI6qo5tzaWFpYFluUUWXa12ylIaQdGZWRydkXDiFfnh+d3MATkFBSTIuaVpTfnh3pZuNo5qIe3JkgGpfaEY9i2Zbmnxws5CAbVk5Yl03k4qCioJ+AGJdVU9GQVtVUHZwapuQhKadkKqXjoZoXXBJP45nXsegj6iHcGVbLWReO5GNh42IgwCmoJ2poZ2lnpmtpqGimY9+eHKTeG19aV8pHBdmPjiLZFVwV0JnVDR+bUpyV09ZR0wAoZuYrqektq+qtK2nn5iNaWFPgmhZf2ddFQ0IPiojW0I4YEs6Tj8qYU4zclY1d2NTAJeSkKKdmqukoLOsqKCYjFNGMa2Qf1VEOh4ZETwpIkkzKTsyIj40I0E0I1tLMnhlRgCKhYSTjYyalZKrpqR4cmhnUkOfiHsjHRI3Lh9FNyc/MiI0LR4sJhorJRpGOSZjUTYAfnl4gn58h4KAlI+PY1pShWpddWZcSUM0SEM4T0ApSjwmLicbIx4VHRkSNy0eUkMu36arlGP6xHwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/04.png",
+    "width": 1920
+  }
+}

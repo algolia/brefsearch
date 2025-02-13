@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Gregor et Julie. J'ai écrit une chanson super émouvante.",
+    "end": 78,
+    "index": 29,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=77s"
+  },
+  "thumbnail": {
+    "hash": "eb10512683",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGZTS04/OXRgTamWfp2Yk5KMhWZbWlI6N2FMSHx1eHdtbWRZWFVLSF9TTWxiX1ZLQgB7YlFaSUCGdWWxnoOzsrCbmZZnTlCcf4yskpSCcnKDfn9HOjgcEhMrIh9wZV9TSD8AY1JLSkRPWVFRfG1gqayslIyJalRhl42vrJ6wh3+Gj4uLZFNWbl9jZlRKdWddY1hSACAlNSUuQy84Rl1ZWZaJhohrZoNshZaHo5qNo4iAhoWFh3FfYpOAfZJ/b11STllPSgAeIjIlMEM4OENlMixnFw5eIiFvXneUh6WfgYyHMSVVLywYFB2AdGBuaFcUEBkZFBgAGyAvJy5AVhwWZBAJYRMRZCElW05rbWGCaCctchUTiyIUJBARJCYrLSovExEWExEUABQdLzsjKl4RCGEVEmkYFWcWFXEmLWgiKmoYGmUcI4MjH1sbEwcMFRUVFhcYGBQVEQAXGSdHFRBWCgBQEAxlFQ5ZFRdMFhpLGR9gHiNYGxpiGBt/KR4dGRcXHRcXGxEYGRQALCElZkZMXzU3MhQSTQ4JUxcXJhsrLhonUh4dOh4ZV0RclH2SQTc0DBEKFBUOFBETuRx/LWgLJE0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/29.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Consommer ou pas ? Je lui ai dit que je...",
+    "end": 68,
+    "index": 33,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=67s"
+  },
+  "thumbnail": {
+    "hash": "55ef299f5e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABYNDjUVGS0XGDEqKEQvKU8tI2pAMYJPPFM3LGVXSnReTFpORCojHggICAMDAwICAgAZEBA4FBguExUYExMxHBdIKyNmPjBbOS9SNyxbTkWgkZR6bGExJyEdGRgMCwsBAgIAGhEROhMXMhIUNCEfNyQeKRoZVzQpUjQsaUQ0aFZXh4KAg3d1RDQtOzEpKCMfDw0NAB0TEjkRFS8OEUkwK108L0opIWE5LpBXQ4RUP2FHSVxKd6SWn1xAN1A8MVhHPTMqJgAgFhQ5ERYsDQ9BJyVXOS8yGxcyHx5cNiyEYlOljY+BYHqcg4haNjJeSD+DcGRYS0EAIhgXNhAVHgECQygrUT04JhYUPSIiTi8pZE1Awquhzbu3qZqdgGVjmIqCm42Eh3t1ACIYFi0NE1xCRZJ9eGpTRxoRESkcGjUlImhDNIJSPamSkdPGyM3DxLitra6kpZ2UlQAwJyZoVll+amJiSTxdQjQkFxQdFRRKMyt5Tz2FYFO1oqfMv8fFu8K8s7qpoKV3a24AYFVSZFJNUT02WUU+W0dBTjs4Qi0oVjova0o/lYCBvrW9ubK6tKy1oZifal5gT0FIQNeC1WHQNi4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/33.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Quand je passais une journée avec lui, j'avais l'impression\nqu'elle durait cinq secondes.",
+    "end": 63,
+    "index": 26,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=59s"
+  },
+  "thumbnail": {
+    "hash": "96f37d4471",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nBXEW2/SUBwA8H9LL+ec9vTQG22htWvLCtkQWgpz5aKQwBgkKjGGxDkvCxJmTBSffPLF7+D3Nf4efjCKnJGnDk1ukZDvo/pD4Uwc9S5v/X189WPevY7o3TP1MKLHibcvw9dZCB8LPQuc2DZu+/GpbBzLeBO5+0Fnv85XWZIH3qeyeZqZ9z2lcGQHYThMG6qsjEP766J/vNLf98Mv4+6HrPVwfbHueOWZ92uV/146He88bcziWg/uF+PYMrs1+maQPg6MQ8s6pOYuqW2b3qRtXrjGphXvLi+fJvnmxdt5sYTbYY8gSiXU8PybJ+a3hJ188Z0rW0yHimpZdabZlkaX7WLVWz9P2+ATVeElIiqMOXXdXSfBZxdnCgKRSkglzBFQlZPQrr/9OfuzTadABMwwJYgaWlXTrCQI57FXowx4XJFUXlBEiUIFzaLkVFxt4wA4ThJFLAhYU5lCmMHMceTpWAWQOR5xPOZ5DCCfV7WXZ/bQVgBA4DiRAxGJCEkKkum06ZuEAkgcIAAM/5cdghOGfCL+A82pOianEcKDAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/26.png",
+    "width": 1280
+  }
+}

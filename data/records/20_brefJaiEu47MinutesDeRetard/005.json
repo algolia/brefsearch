@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "J'ai fermé les yeux, je les ai rouverts, il était 11h42.",
+    "end": 7,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=5s"
+  },
+  "thumbnail": {
+    "hash": "26004f796b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIZzcI14c5SCgpCDi5iSmayjqZqVoYiOtYmNsoWPromTrIqDl4t+jIN4hHhud2xjawCAZFSVf3efkJFzVVxvSFGGZG50WWxZSW5cTG9VS2xVWn06ebQ5YptBV4xUWG5XUFQAj3JjlomTdGt0Tx8hPgYGOwUGSAgHTgsGTgoGVQQASh0ebJazZIqzQWSbU1Jhc1pZAKqQiamdrmljdUYfJCYAAC0EBD4EBTgFBT8GBTYAA0cZB5uEU5eLjoh7grKMh7aGfQCefW2qjIK3mY9qQjlHHBNLIxtNIRhNHxRRHxVUJBtZLSGFZFS7k4nhsaPUp5u3iX4Ak21Xpn1irYRopHNVmmZGm2ZIoGpMsH5iyJ+F1LKWw5h+y5uL3K+j2q+iy52QtIN4AGNCLm1KNHpVPYVfRZRuVLiUfdO1nuLJr+LHp9W1kc2mhMGQeMqYis+gk76Ogqh3bABBLyhuVUmZdFuwi2zKq5LhyrTiy7LYu5rKpX/Bm3a+lXGtfmOrd2q1hHepem6XaF4AjnRpk3BaoHldrYltvJ+IwKSKvZ1/soxuqINkpoFjo3xelWlWkWNXlmdckWNZhlpQOyfHaLkw2xkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/02.png",
+    "width": 1920
+  }
+}

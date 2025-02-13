@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'ai pris mon portable, il était déchargé. J'ai plus beaucoup de batterie.",
+    "end": 25,
+    "index": 12,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=23s"
+  },
+  "thumbnail": {
+    "hash": "f28a7e9272",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABc0lEQVR4nFWQ3W4SURSFTzhz9t7nf/6YodBOWwaRFmItptbSgoYWsTZG0ASjJEaiF/ayz+Cddya+iG9oxhv1u14rWetjwf8IIWqc80AAiD8AEimtiChPEkJk/0YBBA/E4+5+2Yg5rykiBEBCqZQkqqep0upvARG8UbWAL58cfVksY2esBCMxCAKvdTPLdottqTULOBcAgGi0TC11D4cvX328+/Zrffu9bqs9hFg282YSht4RISNtyFhU0lvTa6Vno6sXy6/r2x+bu5/9nSwNrTHaG5lbmTulJLIoa0T1jJTSWh539w52Wwdl53S8nD+7HPXbkwf3itZWox7nsd9JXO4Us2EUxbEkCUIUeXLSayfeMcaeX5y/vb4+Pzq8OR087HXK7a0sck4Rk6qCoNIYe/P0uL9fFPfL9s3l9NNqNZ9M1tOTN+Nhv9xrJGH1QQhRea8sofd2NOhePBq+ns3Wi8Xm3erzh/eL2XQzPxsPOpF3APAbFXItoIOw/iYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/12.png",
+    "width": 1920
+  }
+}

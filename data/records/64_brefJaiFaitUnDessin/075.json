@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Ça, c'est un avion, ça, c'est le dragon et ça, c'est\ntoi qui tient la main du monsieur. Je vais le montrer à papa en rentrant.",
+    "end": 81,
+    "index": 34,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=75s"
+  },
+  "thumbnail": {
+    "hash": "14d9c41fdf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBe1PSAAAA8H2KUjEeOYjN0QSUpWCrJroXY3PgRjyMxrnNQe5AEBIVkbBgedmdlUy9susP6q7HN+z3A1QxscXTwiMUctwJee7hsG9lDuLnYRx0BJ2TOASaGcGUeSPNlvjVAokDepozUjQV8kchkA4H6CDEhGEuggac0zMTd0MeF70Y7mh5TaAK5LP86jJQTnO7meQa6sVhb4nAUgswhdxf8oPw1CTsmJhzOyHHlLg0L0QxJhLMrESBVxJvSuwa4mbQBxsLs5UE0S/JODSz7POshxEuCAVd0wWSUDiqSBNiLAK8qZYvjvdlPIL7XJ3c+m1d+3R0xFBi5unjbzWl/TKbSyQvD2r9qkEGYBqLAPaZNb62r8+sSlaOP4QUlj0dXLXefqdJyUyndl9bPbNxvv2iU9H4WNSQJaCubg0O2uMre2yP6uZetXN5evHbGv1rdO1K68Ph8La2N9R2TkRxk0VQBZkFtvNZIR7Xc7lms9ce/MirbaXSffflb+/jr+HnP93zn5yoUhiOxRjCC7f8IKCLCfFJTOKEotrUirqRSh6Xte7g5sT6etgfDd/b/epO4/nGpr6/6EPKXvd/ryuUMCb+PXcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/34.png",
+    "width": 1920
+  }
+}

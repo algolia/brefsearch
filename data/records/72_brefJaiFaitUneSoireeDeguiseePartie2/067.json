@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "J'ai bousculé ce mec, il m'a dit: Et après...",
+    "end": 71,
+    "index": 28,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=67s"
+  },
+  "thumbnail": {
+    "hash": "c99ae9da4f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nBXBDXOSYAAA4Pfi84WJMJS5HCACIk54B1o42RKckExdXZx3LVvd5ZrY6rKu8g/0w7ueB9yn8/tkVqTZ0Gj1ZXlm27FhTpE/R0FonHqq6avGsGFdKK33l/GnaASK6atiunh8mQVKQ2bLueOuHJRY3bTt5Kg37biRYcfN9uDE+Jw8XwQu+DbPd/N85j9jKQbDaZ7hYr2dddBD+GI3vno8H6w97+HMH8j6CtlLswl2i+X36zdq5RgAjCIhjpGKJA9azjvk/YjG655feP7vMJzZaGJ2EkkCv26WHy7GDHVAkZAkaJqEElfR6lrSdvKum+n6QjeW7tnEcg3xuC9Uwc/s9dh2wX9PcJyiCSgw5QO6lPnBbRg3D6uRZiS211PMCsvXuQr4Ornua6Z/2k+9cxGyfEmociKBw8s2mnoBhpFWTR5ZqFYSRZbnIQfuwmh98/bPZv93s/84mqvSiVASCIIxjhRFrBE4Hehd96nGUGyZKYusAFajdHu3/bIqtreb/aoYWggADMdhoyrXhSNIsa7aOmR5mmRokoEE/AcXCEwcasUDcwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/28.png",
+    "width": 1920
+  }
+}

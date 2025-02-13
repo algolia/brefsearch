@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Occupez-vous de lui.",
+    "end": 64,
+    "index": 31,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=63s"
+  },
+  "thumbnail": {
+    "hash": "bc0d99f8fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBW2/SUAAA4L4MS2l7gHNaW2y7XgYUsAG6VjYuFgdlccglOrbp1l00wyVTE3ZjRtmmS2Z4mGbRJcNgTIwvPvkX932YqcemJJEPBZ2c3dnco7WSKsle3b14u31z+n50ejzYeZWurKUfrW6+3t87+IDZiXhSVcIAIADc+WemVdMVteOWe2tL57vd4budjVbz7POXq+vx8PLHYf8Ea87qhZQo3UUchKve1uXwW6uY73bai+5c0ykdrT/veS/GP3/9/ff/evT78HiALT+MlpNMQkBmXG3UKpm05WQzL9tPrvr7X3tvvh/1RoP+/Jy7tb17M/7z8eQcy+u8qYQTAjJk3k5G/T4CgVA1N33grXRb9VZh1qvXmBD0TRCO4559usBUDk6yYe0eqwkRTRKpAC1HInZKd6zMUtXZqLllM3tnwh8CCEJ+cWUdgxTFBgGPoMRzLGL8PjIaFyslU+a53P1kq1o0DI3AaYoACEaMzAwWwAMkTnAIyqJEBwCJg7QVrzaylh2TJ5FdiBZdA0EOkOEgYBQthZE4GROkUjYrCgqgIaBgTJ9aWM5XGma1Mf346Uyt/YDjWJpiAGAYVrgF84Ni3RZqa+YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/31.png",
+    "width": 1920
+  }
+}

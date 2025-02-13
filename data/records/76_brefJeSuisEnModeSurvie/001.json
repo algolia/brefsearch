@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Comme souvent, j'avais 20 € en poche alors que c'était le 5 du mois.",
+    "end": 3,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=1s"
+  },
+  "thumbnail": {
+    "hash": "c8071c5133",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nBXC7VPScAAA4H0uqaPY5Z2enl4ixHkpQYMbG0OgCbSfytgrIIyCTGaxsZyMNcbcQcaFHmR09aG7/tKu5x6ILzJcka5wXDqBLN3z+B7BnvsPtp9u18vShzPlQhuYxtg0Rsq5mo4GkcAKVGZ5kWGrPIsje7DXu/wYfrjkCQVCzWq93er0e2PH/uY6E0O3G8IxB3JQla+ILCeyPJVNJyM7efzZMR6SSuhQB5+1knleWRiWflqz+pp6JsmtBnTC5msc+UbI1uh4iwldnkYsGe+1kmpzX6SxdzSpiZXqEbH4Li/mMkPhULu805Ge995H++2orWC2gjudeJNJxbbW8GgsvBsL+IM/5/LfP7bruDWuDnXfhu0OOtL3J2bu1gH/26SlEgH/xsb61uZmEOQTps5gKO73R0CBh0w57mrYdS85tTKzq9czF0zt3N2IsrqvKDJcF04agrACL+/txjJZKkVQ0OAjetXFRhfEVyN1MyBnLvXjC313Tf++4X9Ny6Z6ib3EfN4ncSQBqNLBQRH61HzRbyNDJTHWUxMzMx0WZu7hfEzfukcSjwqgtAr71lbXC7lDgiDTGfAPkGSUKo7dYrYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/00.png",
+    "width": 1920
+  }
+}

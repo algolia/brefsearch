@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Je me suis senti excité. J'ai raté 10 minutes du film.",
+    "end": 54,
+    "index": 22,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=52s"
+  },
+  "thumbnail": {
+    "hash": "16f1348cd4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABU0lEQVR4nBXPS3LiMBAAUA+WuqVW62/5gx0bsIsQCB4WWaQqs5z7n2lq3g1ehTVCjYPvCqeA3NtCwEoSClzS0HOGX0IegICU1FrqypPPNkcKnYkBLQiVXT71c+DYuGZypQAFoKiDV1EJqqKJ53aZ8rHnZJCN4uf542f/s68PQhORM5gg9VvoGpOCcpXT7tTMx9gn8gZM8WWb3vfttY5XT8EjNYoz0NFmr4OVVEUO27COafCaLZqlW75uX8/L57797uJg0Uy+TZQ6P3a2DcpXDZpOu6MJPQcNZojH17a/j7fH6R44o9BFMQN7HgflQw2VrcHXkA4QQYNAVvY6rs/za25nlMopO3PKyKxzkeRqWdlaRqkLZY+MwnhySxnmMrG29UH2vrl1b412JP/XbQ2VE+rSP+7r3+v0fWnva798nrc+ZHGQoobE6X76GJuZJDuBfJD/AOp/Hf/1WHnRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/22.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "À toi aussi.",
+    "end": 60,
+    "index": 28,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=59s"
+  },
+  "thumbnail": {
+    "hash": "3f12fbebea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADtBMmtQL0w4HwsFBB4aGGVHOphcRaVrVK12Ya96Y7aCaaWVhDZRYjNSallqblpcXABHRjWHYzlVPiIWFxdOPTSmaFGVX0dzUEFbPS+YZUx1TTmShXBHZnguVHBWam9IVloAT08/k2w/b1UzVzsyYkQ2qGlQsXFVmm1XjWFOwYJrsIRxu66USmx/Llt7Y3qCT19kADM6LoFkNWtOKoBMP2lIOY1cRqtpTr19YceGbJxjUbiFcNK7nUpvgTRjhmh/iFtucwA8PjiEUzlWPCBgOyteQjNtTjydZk+yc1uze2J9VEaRZFDKt5ZPcYI1ZYhqg4pab3cAPj9FjFBefFk4dEYuWj8wTTwxflhGn29YlGVQdD86i2JVxr2ZVHKBOWeJgpefTGl8ADg7QDcmNltELJJcOnlKNDInIEU1KmRMO49mT4JXRZiCas7GoFdyfURxlIKaq0RjegAkJSQUFBMPDQ5CLx6IVTZhPSsrHxgiGxY5LidYRzmonYTGvplacnxNeZ53kKVAXHIAFxUWFhQVFBITCgkKOSsbYT8qVTkqTDUoQzgvTElBp56FraaGVGNmOll1ZHuPXGl0AbGdJWwFc4oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/28.png",
+    "width": 1920
+  }
+}

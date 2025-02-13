@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Elle a enlevé sa main.",
+    "end": 60,
+    "index": 25,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=58s"
+  },
+  "thumbnail": {
+    "hash": "297a51db14",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaUlEQVR4nAXBh3KbMAAAUIyQWFogkFjCNBYWIw4Gjxxxr2161///pb7ngIMXw4gHJHBR6ELfhR/mfrPPfdr396/n9GqFPsqOBtQHPjxAxzvAGIYNkymKmesVRDzGfT0/7vY5Hj/mbjnmnSlNjgVBOHKhE4KAAJQFsUARB8iW5s/2dzO3rb//Xr9tM9ZJbWRXUolhFLjIEZFIvIC5XgIQB2hsh9Wso75M7eV1ec3tbEvTciV9TGDoHaCT07JissCcAT9xUZOWq9nu/WM5Le9vl3Nt+/KkRZXCgAIUwdDJeaNlb5tJAKQi1gidUWWqQcuu4CWLmKKZbWwWcQL8H7J2FFXKJzUuaqJVMmk1JVjQOAtRLEhR8K6K844kdYBzFL4VtSNZK5NB5TdOJ4KHU3Pdhs9ez+d2bJVR+TNPryI+Kp8q5OuscGh8xFHHqc3ljRCT0NNyfv1c/+3Lr0bNWfYQ4srZILOloFXB0//T9ymU+BwASAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/25.png",
+    "width": 1920
+  }
+}

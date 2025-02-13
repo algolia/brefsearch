@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Et comme dans les films américains, c'est le plus courageux qui est allé voir.",
+    "end": 10,
+    "index": 3,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=8s"
+  },
+  "thumbnail": {
+    "hash": "bbefab1cd9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBXW/SUAAA0LuNQbBAR28pX11paR0gBcb6AawtBWq7Ai3ruoJblCypJkvGwow6NcZFTXwzMdEHX3xWf4B/cOcATZaalQpMpUiCICGOIQgSjRaxtGeOwrNFeLawB/3DFr9yh36nobIU6HfkOsvWStSHi/Pv1+HKtepkPrqxiaeS86m9fhHOLKMvCxdW3xN5sZgHqihUSpSvdv5/+/z30+u7pyda9SGOIACAPITPPPd0cjTodQK957brbBoCS1NgClX56u+3V6+88UKR3K5oNmrbm1sEigosrbV4XZbmquwd8JkHKHBM4xHH4cnk3TK48d2fN5e3gXMsNJHIdhHCcgZn4A5P01arqXMcGksAeziYGiOmUPAV6c/Hlz+uwlmjvp8jqDRawnZoiJVxuE8zbZpjYTYRRYChKq5l+mNbabfC8ejLMlibI7vKvXvieALfLGYPKFJiuFq+lE1i8Ugc6L3u0UA/mYzn7nQ61C+D42vHWM8e//v6PjQO2wVCpHZFitkjSCKRjm3FQE8U9F7X7GsTY+Q7znPPUdjdN+fer9vVctBt5DIVPMdnyTKWw+JoZCNyD5LwW+3i4XanAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/03.png",
+    "width": 1920
+  }
+}

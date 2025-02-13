@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Il faut qu'on parle.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=0s"
+  },
+  "thumbnail": {
+    "hash": "db698da893",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAE0lEQVR4nGNgJhEwjGogAtBeAwBePQURfeSlBgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/00.png",
+    "width": 1920
+  }
+}

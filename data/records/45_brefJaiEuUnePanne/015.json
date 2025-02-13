@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Mademoiselle Chiff dans le Petit Spirou.",
+    "end": 16,
+    "index": 8,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=15s"
+  },
+  "thumbnail": {
+    "hash": "60bfaddafd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAcZHAoeHRUvPyBNLydoKxwxNCwkKil1PlBtSjQdJjxZMmqbUSlXZytJXlpmPIuQQQAYNwkSMhYdREM4YEs7UTROKyGRSTUlKh2EWz6STDo4JRpugHheiXKaoTamsDimq0EAJUgQJ18aO3sbSYIrBQ8SWisii0s6FScebT0rn081HgwQN3ZTsdZmurM5op5LoYxMABQ8GBhIMyVdNSNYJSAaFX4zKm42KDMkHTxMNI5nTYtOQXZ+UMbDeZGedYWef4SPVgAeahElehcucSFBSThSLCelTDuXSzR2MiZfSzeibFaVX1q3h1vd47Xn28jF1Jd4wUoAxsN9qaZry6tkjV5CWi0loG1XrHpghkw6n3Bbnl1HjFJBtHJU7dvE1L2x3de/kKx/ANjHrtXEwMOZeaR4R3o9LmtBNZtkTHg8LXZMPpliTXY8LZJRPsued8e0lMazm93IlQDFuX68rZ69po2jeFt/QimDQCybUTeJRS6AQyyQRzagc0vCnmabalfMs32wm33GuWcAv7VqsKGPpItyxrytlm9ck1A4kE43eDwpgUkwgzsro3JH1sdxuKF9uZ10q5qJrJ142q6v9y2iOO0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/08.png",
+    "width": 1920
+  }
+}

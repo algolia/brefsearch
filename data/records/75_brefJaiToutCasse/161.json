@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je m'appelle Marla.",
+    "end": 162,
+    "index": 57,
+    "start": 161,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=161s"
+  },
+  "thumbnail": {
+    "hash": "71b6eb320b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGOICg/18fJMS83snTjT0cGVgYGJg42bh0co0CdIR02blZWLk5OXl0eQh0dIUlLJ1MSKoaSoMDU5MSIsMiw8XkhAVENRSU9ZmYmJ1drU2lzPUEVKTkFcmp2di5ODm49HUFhUjiE/N6swP7egoDgwKNrDxqY8IT4vIkJPWVlf1yQtMsbDxDTM2k5OXJqHk5efX1RBTIahpDCvtKigoKCkqLi6ODEmPzwyzdc3zsszIjQqKz7J2cQ0wMo22MnNydTS084hU1uXoSArpbioMD4pvaq03Nva2M3E2MvCrCozpaWyNiQwzMrAUFtJzd/OKdLTJ9rAyI+XjyEqNiE9LikjIqosJ9vNVM9OVyfQwaaxpGDalPn9UxZbm1priYoZqmmFmlqY8/CJ8YszOLr5ebgHOpnY5qek+JgbBFiZ2euq15dVTJ+xbP7CDeU1PcZKOu4iYu7CIkLsPAJiygyOvkn6Vu6qJk4FRdUhdmZOepoBbh61VS3lpbUtTb25BQ2CsnoGgqJGfEJsrFxcXIIMWsZOxjZemqaOOYV1afFpseGx1TWdGRkl4SFReTllHu4hHDwSEtyCMlz87DyiahpmABRFcyt5nW/uAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/57.png",
+    "width": 1920
+  }
+}

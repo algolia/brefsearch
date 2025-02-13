@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Maintenant, ils dorment mal dans le métro.",
+    "end": 27,
+    "index": 9,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=26s"
+  },
+  "thumbnail": {
+    "hash": "75b79c349d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nE3OyUsbUQAG8PkvVPQimMbloo24VJQWexBcitXqxGldQ6mtDSKCRCQaLZRSEUEPbhBEjeK9l1IPmZjZ3nvzZsZ5My4YaRLRLEYpei+jHoQf3+H7Lh+VSmbSyUw6YUlZeZ1OPvFYZpKXV6nE1e2/O0qFREOGCu8hQ0PmgXxowVZqyLyfiCyqGGjn0QsK7GMQxopEFJFgUVclU5VMDZiKaMi89gByKs8CgQXRszgFwjLilfkxzwTTNfPRNdrtHP1Aj/Uy472Mr+e9j3F6aXqq/W3g5xwGejQSoyCHDyBxMwxdXNBRXlJrz63Iz6rMz35VlFdflPuuwt738nlXWeF397ACSewsTsmiFvy1tzg53V5d1VJa+MKWU2fPq7HlNDiK+980udpaBxprW8ptX5004nD87zklsID9HcIcHhr49NrhGOxsc7U2T3z5vOvf5Pd4iYXubqah9FlgeQXx2LokhmQhhNg/3Mjg8OzUj521bf/CWmB1K7C6ubG0vuvf+ebx+jxePiiJ+/AynqB0NaKrERkchoNIQcdQMKBAAE+gSGTJQBYihBVdOz05it3c3P4H5/ob4P4vZj0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/09.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai voulu surfer sur mon caddie, mais il partait sur la droite.",
+    "end": 20,
+    "index": 11,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=18s"
+  },
+  "thumbnail": {
+    "hash": "c680dd12cf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AElJR0VBPHZwbod7b6SYkL63uN/i6uXr8c2tqK+QfYiEiGhwh3BlcGA2M3NeaGtnfAAqJBdYUFSQiZCfkomkjoO/tavf4ebo7vbKyMexpJSjnKV/c32RbW+WgpCIgpR2b30AT0dFb1xGg3Vff3hxkIqDq56U0s/N5ejwzMTCt5eDuIl7l3+AlHNwYEZFenR/h3+LAE5BKGBZUIR2bHVlV6KVh6idkbyyrMzDx8CxtKKLiJuLjZh7fqF8fJ2Ro5ybrId/iACHclJhW15ya3h/am6bjH6dk467sbG2ra6GfoN/fYKOipCHg41uaWVbWF2GgYiLg40AV0knZVk/Zml0aW6Cl5KNtKyr1MzI3tTSrqWgeX15goGDn5SXn5OUjo2tl5Kmh36GAHRpQoR5ZI6PnZCPmsK5sNbMwNrPyN/V1NXLw6qopX2CjZuUnol5dFJTZI6JlnhveQBHPkFeWGiVj5a3rqXJv6/Nw7XVy8Paz8vVy8TWy76urrhmerF8gKR2eJZ4dINnYG4ATEVTcWp8m4qDqpqQs6WZu7Glxbu0y8C8x7u1wLWtvK+lkpOwNkRyV0Zde2+AV1NlPxXxEPiXRFgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/11.png",
+    "width": 1920
+  }
+}

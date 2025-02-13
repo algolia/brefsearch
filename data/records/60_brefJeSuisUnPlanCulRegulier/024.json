@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "T'es qu'un con, va aille.",
+    "end": 26,
+    "index": 9,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=24s"
+  },
+  "thumbnail": {
+    "hash": "1f1861f5e0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFNZZ15gbGVoe1RPVktDR1RQWGpmbG9qb317inJwfVZQOWpmXn9/kXZtcFg1DE4qBACBiqV3eop5fIpgX2pVUFNnZG1nYmVgWlyHhJNtZW09MRxSR0ZtbYGIhpR+cGx4YVMAjJe3l6HAkZevgYKWg4KRhISUeXZ9dXJwZVhTVjcuTTQ1bmN2cnCAi42hi5CripCvAI2avI+Zt4eLpX5+j2NeY25obnp3g3p5hWFXVEIrHY2MpLbE8I2OoYeImoyOpY2QqQCIlLGIkKyBh55qaHRROyt4XEdzV1FrXFt7cnBgVEqLg5WqsdiXnLaIiZqMj6ePk60Adn2Oe4KVeH+OUD4+ZUkzblBCXDsybVRDlIR7a1NFdlJGlJGnrrjfkparjpKqjZCnAE9NUEtHTUc7QUktJmRHOmtLR1k6LWhUQo2BantnV2RQRmJgaIKHnoeFj4+OnYiJmgAsJyAwIyEZABk5GylZNjB5Zl2ShnCMf2l4alhdTEBiR0BHOjRcWleAdnWEeXiAgIkADg0LGREXJAcrKgwrRSQlaFRInZB8pqCQoZ2XfnWAgXV+e29ye2dhhIGEgIKKcnJ2zuG4fuE6R8AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/09.png",
+    "width": 1920
+  }
+}

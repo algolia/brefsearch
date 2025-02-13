@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Et les mecs qui ont la réponse. C'est de la capillarité.",
+    "end": 98,
+    "index": 41,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=96s"
+  },
+  "thumbnail": {
+    "hash": "919cf7b1d6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nAXBW2/SUAAA4EKB9rTn0p7T9kBPS6EF260QxyWkXAbINleVEVFM1Dg1xhhZjFv2sBefTPbig3/AX+C7f9Dvk7LzT/u7P7Np3gkCYbvC9g6jQTZdp+NNGLQHabdGGSeGA5GHcYtSaXj+9fXHn4vVbtr010m0TNL3+avVbB2nk1l/OO12Xcvhhkl1ZOmoirDUP9v/uP+7e3c74PTu0fBmmd1cbLerFwdeK4uTSDRrlHNCGTQIwEiFUufx99tf/54+38fc3XQefFuO799eXl3sYj+NgpHLPApNC1KqEaQiWNGl3tHpYvEybPYaTn33ML5ejH5/vro8ecLtthCDwD1oWo4JCFYwqiBN1iSPBabuEGAyzBMRPGuH1yd5PppbRFjE9930OGr0a8xQESxDpQgkRnwMGAEmUo22CD8czzfDiee0LKNhQu5YyfwwXQZcIKQWgVJUpSqrgxICMhTMezPOvpzlgdOAim1oHCkGBs5RlPRqjqFARdYrBVWCgJULQJFxKuqLMNhOVlXDU8oMlLBWQkpBt4nrUVtTsVrW5ULlPyWUP9PxGTGCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/41.png",
+    "width": 1920
+  }
+}

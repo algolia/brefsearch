@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Pardon ?",
+    "end": 23,
+    "index": 11,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=22s"
+  },
+  "thumbnail": {
+    "hash": "fb07bbd16c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXB2U/TcAAA4L4hUrKj3Zqt7Wq39dzBfr22lnZbaZvKsLCWsBPGyAghMWhiPHA8aOQIMcZoAi8aYzDqm68m/nd+H6TTWAGBK2RSK6RdIStQaJlEqyisU+h+G/Qd49OV/ep0KQxSrp0YjFJQjUiu4AmQjZk0YnNZIRMr4UkRXQol7nK6XURSkx3m15329rTQaeUGkQD1PTD0pcAUbKkQuqqt8o0yaVXxfUe5HAeHba3bqn39+PzZtBsp3F7oQMe9Zt8HIpHWa4yl8OUiYVRytkTUy8WOJp1Pu1ue9+f33e3VfPeh8XgSQbuP6pELAIOTqXgxh8ELCzKTWZNZlq+/fHF+e/2hKnmmFX6/ubieHx0ONqAdV3ZUlicRLH6fyqLLi/dobNltlABY+/Lz33DylBOalao3jnrvXx+dnUyhaj4lkkiNSjOZeDoG4wnYKNEtCZh27+bHX6B6QLbFSnMyHH/7/ObsyQEE8hmtQMo0IeCYxlKd+krP0bd0bTaazecXkuQIrMHyq5u+N9v2g3YDkvMEoAmde+BK4oYOAlMJTHnsWu8mo5PN9T3XOl5v+8qqpWqOUlK5/H9bEWn/Ijz76wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/11.png",
+    "width": 1920
+  }
+}

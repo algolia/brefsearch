@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "Et là, j'étais à côté de cette fille.",
+    "end": 14,
+    "index": 7,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=13s"
+  },
+  "thumbnail": {
+    "hash": "3d4d66fd72",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaUlEQVR4nC2Qy2oUQRiFq/q/1qWruzrpzrQzdi6SMMSMI4yiMASy0MxCF2pW2QmiKIIPICFuRMwruMnala8oM3rW3+F8HIMASCzO+ehDiqlOeSunnJutpuuarm3atsm59sGrKjMbQAQiEmHvJAbyThy/fPzgcLIjXkOKvowaAonQJoZFWHXNxQhCPufjo+nVq/PF0b4h5Bg4eHKKxCyCRGZdFUEVY81oOPj88/eXmz+PTmbD/j1DAMysirymY5mA2SAREFlrThan769v33799e7qdr54tn33wGKBzCQCRBsRhywGAWwBlaPV2erh2evpk/OLD99OZ8sUgzgKntVxQSii/5UAAJFSGe/39WQyXHz8/ubTj+ezZZ98neNOjnXyKOsJJkJEQ0SqGoLOh366tztfvni6umybvir9+E43jLb7NpdVdF6JCACMbP7yyl1dtrky1looTGFjVe7tjifj0TBq2ib54P4V/gL9sCQkRHo27QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/07.png",
+    "width": 1920
+  }
+}

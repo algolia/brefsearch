@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "À la fin, elle dit toujours: C'est la dernière fois que je fais une soirée.",
+    "end": 52,
+    "index": 22,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=49s"
+  },
+  "thumbnail": {
+    "hash": "0b31ae2994",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBW2/SUAAA4KORUkoLhcM5paXtKK1taRnU6mCZytI5tgiuEceAdcyANxzTbVnUvWyZSkKyGC+ERH3RB83+574PEGHy+VrldHP5rLUy3q5Pev6454+D+qRXnx3sfh8Fn/v+8RPvQ/fhv4vzn6dHAIBr/fW7v/ea3wYbs1ftX/u702F3OmzPRp2/Jy+n+8HXUftNrfI4L1yeH/6/OAMAgO3VpUN/+aTp/dnrfAkas+HWx9bqp3btx+utwb3SC88tZ/l3K7d2FsyDRzUAwPXuWrVxe76qyYGr+6bcdY3WvNKw5E7FPq46nq3BGHNULW26dj8nAqdQnAyf3ddvLlqmjBFDURLL5BAMkxGVw66qWFml6eQdEftK5r0hAy7GPi3o/bLdcO0Ml1ZTUJckmmEjZDRK0TdC4QVJ2MnnNMgOssJbTQSRULiMUxtFbVGTZY5zs6IoiCqHdCGtcEhKwQd5xUmyFoYej9Z5CAiCMGDCFTmNQxKCDbewZBlFAZaktIohjseLIjZQErNxkiRRjAJEKKSlEiaPdIE3xTk7k74zlylwSRUlMU1jJqrCuIkTQjwG6SikqStwblqOCjqLcwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/22.png",
+    "width": 1920
+  }
+}

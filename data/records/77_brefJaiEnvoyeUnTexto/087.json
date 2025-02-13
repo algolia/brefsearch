@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Donc, un peu pervers. Alors, j'ai mis un point.",
+    "end": 89,
+    "index": 42,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=87s"
+  },
+  "thumbnail": {
+    "hash": "fab133f142",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEkuMXtMUu2LmeyIlvWRn/WWo/2Yp9J+ipRbY9iFkVI2OohVXPKQnch0fnRFSrplawBWNjmOWGD/prT1prL3l6bzmKb/obGcYmw7KSzikqBTOT2JWWH7mafagIqLT1TfeIAAYz1BkVpj/7rH9NPZ9Km1/56vqGt1GxUWIRobZERJUjk9iVpi+p6t2YeTklpg/IqUAGdCR5BaY/+/zPTX3PXP1v+3xGA/RQAEAg4ODgoLC0w0OYtcZP2jsdqNmZJeZf+XowBpQkaMWGL2lKn3pLH2orH+pbVbPUIDBwcUEhMWExRMNTmJWWLoiZ3KeImRXmX9kqEAakNIiVdh7Ief7JOk8Zmp/6u8kWNrBAgHBQYGIhocUzs+hVhh13aPxXSGjVpj7H+TAF44PIpTXPmNoNFshN15j/+cro5YYgQKCWVpaEg1OFM0OoVSW+iBlM51hYtTW+R4hwBMKi9/RU7veo3meIvoeIz2f5S0YG4RDg9MSkpXPkJTLTSBR1Dse4zJaXh7QUrDXmoAQiYpbT1E0W5+025/3XSE53iJ1W18NCEkWTA2NCMmUzA1ekJK2HB/sl5pZzY8pExTgebPITnL19cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/42.png",
+    "width": 1920
+  }
+}

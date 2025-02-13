@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 3,
+    "name": "Je me suis préparé pour un rendez-vous.",
+    "slug": "brefJeMeSuisPreparePourUnRendezVous",
+    "videoId": "1x3P61ck0QI"
+  },
+  "line": {
+    "content": "Je me réveille en retard, je cours, je transpire, je reprends pas\nde douche, je remets pas de parfum, j'accorde pas ma guitare, je range pas",
+    "end": 85,
+    "index": 26,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=81s"
+  },
+  "thumbnail": {
+    "hash": "8bdaf805df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCOenF3aF+FaU6YelywpZ+zqqeelJC6tLTGwMHHwsLGwL/LxMeqnoWroI6xnYulf1MAhXRrhXVshGJJu59+0szKubKuqaWlqKOjfXZ1fXVypp6ZwLm8m49yr6SUp410oXxSAIFkV3FYTXtjUq6WfMrJy9HQ0cvKzcTBw6umpqGamquhmL62t5SIcZuUjrOei7SchgC0l3R4WT9fWFWKemy9ubfBwMLJyMvFxMjPz9LLyMrIv7u9sq+upKKqoaC4sK+2q6kAqpN5ZF9lHyxAY15czMfBtbK0vry+t7O0lY+Ohn55komEgnJmpJSEtqGGrZuOsaKZACQxSR8uRhwpPSssNS8lJUA4OF5cYW1pZoqAcV1hXUteciIrRUdAQ557T62PZqGGagAXJTsdKTsaJTccHicUCwwZEBI2MzktMjuAi4+zvL3KxsGxrKiRioutl4Gzm36PdFkAFR4vGiQ1FiAxFhgiKiYpLCgrLCgtIh4hpZSA2ciz08m+2dDG18zDu7CsoJONZlRMAB4iLRMdLg4UIhcXICsnLSsoL1BCP0sxKGtTSI9zZph/bpl+a3pfVFI8M0QwJ0s8NXAC0pVtAs6FAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/26.png",
+    "width": 1920
+  }
+}

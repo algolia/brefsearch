@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Sympa ta barrette, j'avais la même en CM2.",
+    "end": 42,
+    "index": 16,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=40s"
+  },
+  "thumbnail": {
+    "hash": "bd2a48715d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFZQTUxCPU9APWI2LnpEOHNUVksaJk8QHmtLVLzBxLO1urzCxmJGUEYkKnJobGdgZQBkXltUTEhpYmGWlZaam5uKfIFSGiVlNDZzXF/P09jKzdHN1dl7WGRhLTJzaGpnX2QAUllnQT5ETkZIVVFTVVJUTENGPyMvTzc6QDI1WFNWWFFUUU9SVC84cy4vZ11haWBlAC4rOCEaHhwSFEUmLz8jJzIfKz05Y05Tdi4oRBAHDRoSExMPEjcbHHM4Nm1mbWphZQAWFBcfHiIgHSFxQkl2QjN4U1FaWWdFQk9oaHJ/gIdEP0EjLTRQMTNPISBgWV1hVVkAHRgbIh0hHxwjUkA9cVlIdWdlb2lmSUA7c1FPkn19XlxiKycuPC0uKxkYOy0qSjQwAB0WGBkRFEI2Moh5bXNraldRUWZVUod2bn5cVZZ/doN8fF1RUVVJR1JCOkc2MEAqJgAMCAoOCApFNi1FNSxGNCg9LiZhVU9OQDhSRj1gVU1KPDQ+MCkyIx01JR49KiVALCgAPjc5Qz09QTcyU0ZBa15bYmBna2pyPjpATUhMXVZZTEZIT0pMLycmJBkUPS8qRzMvy0qA187ciYoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/16.png",
+    "width": 1920
+  }
+}

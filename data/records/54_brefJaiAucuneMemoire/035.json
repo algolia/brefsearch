@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "J'oublie que j'ai regardé un film, je le re-regarde et je me souviens\nde la fin dix minutes avant la fin.",
+    "end": 39,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=35s"
+  },
+  "thumbnail": {
+    "hash": "cd22bebeab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nAXBO27UQBgAYJP12+PxvPyPf894/WC99iwrZ5dVkBKQUiAoIBUKUVJRQEmLuAN0VIiea3ARLsER+D6vIeSgxe3T7f3JPRznS8kwiCFIbJg2UYJhxM4CcRZimMAqMFHqge9/+/jm358f3+9e3M/2GiQGSR1nJkwOqno1jHWS5Y8CDDMTEwwTr6Pk56e3f399/f353d2T/pIXNkzrKKuD+Fm9fj0tey7FyleryMakiTOvZfyA+PD84svtzYfrq6MqOypMWmCQHLV5ObijNku7n8FqP7ZR6o2gZzQ7tBOYHa5n07qm75jCOG4y0lLeMrnB/mBbJ2Tth96mhBFwrqxDO6HdVnZbNZ1QlhY7s3a17RnTUWiT6IR6x4U3SGh52fGyZWoE0wnoy6qXMCrl0OyNXazpad5m6bmiV13jLVAiFQ1XphCDwjUvDVeGiVlrB3JiuWPEFWRDsxPQc+DeohjkvMq5zrkmvMqFznmZ0QHMpHGW/ATFSZLHlLzfjxem+g9EpDNC5KYm4wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/14.png",
+    "width": 1920
+  }
+}

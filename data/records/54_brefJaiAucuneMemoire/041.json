@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "C'est quoi ton nom déjà ? Fred.",
+    "end": 43,
+    "index": 16,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=41s"
+  },
+  "thumbnail": {
+    "hash": "a19aaafdec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXBWW/ScAAA8D+0jJZeg9GLo/SAUqDHxiisXCMMdnRMZnDACrQOnQ8aEzWIEX3w1cT4anwyfgK/or8f0HmhUbAssUzCkStdWzjmpCY/bVQmo6X/7NG7WXTySoMlBTyGhKAYBIFqrtgxmu2yTYThMyUbOGW/U1h1tdkT/2XwaT1/M7admcENZI6AYRKBQKNgXrZuh/VLM0G6mjBU03c1sV9kP+5+bb/+XS8366txUMtNDdHiaCwMgVbFaVUvVMHoCvzDSWlpq75d9Jz8ZvP9/ec/L4Ivq7E/P1QfbM2rayZHAF3UcXhvD4R4DL8/KgQ19UbLuRo7u3/7bvvb97b+/INrHU1N8bqUaufiQGREAAABoxbLXRSzQ4lxFd5mifPh9NuPf4+vfz5f7a57d22BHyjcSToOkiRDIzErwfWU7K0hO6nkqUTLcSpLsTWj6S12S283Gb3qHXb6Et+XeJAhkyJ5kD/gGAStppOnSlraJ4hIlCWpBEaK+/HmcX808N2We15Ru3IGMHicRgkaI6goGgvDeBhCQzAJR9MYziBYKoJkcKqud4/zRVPIljj2P9a2UlJP7jWSAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/16.png",
+    "width": 1920
+  }
+}

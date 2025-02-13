@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai un plan, on va draguer des meufs aux alcooliques anonymes.",
+    "end": 27,
+    "index": 10,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=26s"
+  },
+  "thumbnail": {
+    "hash": "b25600a7f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AMG4tMjCwNTQ0d3b3+Hh5ePj5+Ti5+fo7ujq7+Ph5uPj6OLh5tza3tTR0snDwcG4tADPysnm5Obp6e7o6e7s7fLt8/fz///KsK7Vycj0///u9Pjs7PLv8fbn5+zd297NyMcAxMLFqKiszs/Tzs7Tt7q/uJujyYaQbj05fEpIxYOOvJ6mwcbKrauw1tjd6uvw3dveAMTDyJSTl52coamnrK+2unxGSGAAAHYsNXMkLF0AAHlERqavtq+6xeHg5Ojq7+Tk6QC9vcGlpamnqKyfnaKpr7KFUVmAMDmTT1ePSFJ9KTJ/SlGfp63Z4Ont7fHn6O3l5usAysrPr6+0sbG2n52ioKaqh1FYhyw2gSkzgi03hS04k1xlxczP4d/k6Onv6Onu5OTpAMPBxbKytru8wKuqrs3Q1cu5wLiVnLqZoLudo7qboc++xPDz+Ofo7ejp7ufo7d7c3wDOysni4OLp6u/t7vTq6/Dt8fbw9/zw9/zv9vrw9vvs8PXm5uvn6O3l5uvd3N/NyMcAwbizyMG/09DR29rd4eHl4+Po4+Po5OPp5OPp4+Po4+Po4uLm3tzf1dHTycPBwbi0X/RDcAcfEmQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/10.png",
+    "width": 1920
+  }
+}

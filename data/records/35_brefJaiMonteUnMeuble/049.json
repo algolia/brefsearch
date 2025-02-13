@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Tu veux le petit Wynnie ?",
+    "end": 52,
+    "index": 21,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=49s"
+  },
+  "thumbnail": {
+    "hash": "4af54c1a26",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHFjYnttbIZ4d0o/PC4lIjkwLUQ4MygcGBgRDh0TETorJ1hNS1tRUFpQTllPTVhOTQB8bWxxZGKWhoRUSUUYExIjHx1CMy8+JB05IhwVDAoZEQ5ZTEplW1llW1lmXFpjWVgAgnRyXExGmomFW09LKyMgOjIvMyglhVNHc0Y8Mx0YIBMQUkZEbWJgbWNhc2hmdGlnAJKDgkQ7N2xhXmRYVDkwLUU6OCYiIlo+OINOQ2I7MzokIVdMSmFZWGRbWWBYV1dQTwCXiIdlWFRLPDdTR0MqIyI+NDMuJSSOgYOQZmRRLSdVMitkTkpOTlJZVFUwLCw7NjUAj4B/aVtfWERDSz05OTEtIx4dZFxf3M7W1cbLj2lknnFnq6CgZV9heW5sc21tcWhmAH1ta2VYWntqb2BRTj82MkYwKauIg5GEi4B7gt3Iyt/Oz7eysZ2SmGJXWlxVU3BlYwBtXVxRQT15a2pkWFU8MzCRqa2xubaKgoBkR0SXh43JwMOtpaSYjZM0Ly5EPTpoXlwAZFVUX1BQTj8/VUpGW0pIjY6rg563n4B7ompZbkU5d2dkh4CBOzQ0JSAdWU9NXFJQcuGY4xZFBlIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/21.png",
+    "width": 1920
+  }
+}

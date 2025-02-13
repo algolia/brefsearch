@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Je lis aussi les contre-indications en cas de grossesse\net d'allaitement, on sait jamais.",
+    "end": 33,
+    "index": 14,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=30s"
+  },
+  "thumbnail": {
+    "hash": "23a88338e4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFtOUYh6fKygncC5sol3bUwuH2VGN4xrWoJiU4NbTWdSTIFqZ25TS3RjXkU4Nm9kZABvYGWcjY+9sK7BvbeIdmpVMyNqSTmDYlJ8W018SztGJR1ILCFgTUZ+a2ROQT6FeXoAfGxylomGsqiry73Ei3RrVDQjY0Q0cVFDg2RWYk5GezQttCQjjUlEc2ZfTz88k4eHAH5udJyMjrSlnr6wq4FoYVY4KWNEN3FSRXxfU3hmX4QfIZMAAHk6OGlcVEc4NZqNjgB/b3SSgYehlJG1pKN2XFVaPC5kRjhtT0KafHGPZFdnDxBiBgaAUk1YSkRFNjKYjI0AdmZqiHd8koWPp5SabVRLWDwvWkA1Vj81cVZNeEpBWCIdWCwhf2JZU0M+Rjg0k4eIAFROSnttapmHiZmGiWhQR1tAM11FPWlSTGhVTmM5NjsJCDIVEW5XUks7Nkk7OIh9fwBJQ0FsXlCIeGiLeXxmTUJcQzZ4YFOPdWmBal5nPjdAAAEpBAVPOzhDMixaTEl2a2wASTxAYFJPc2Rje2psY0s/RjIqZU4+dl1HW0IvRigkQxokJAwNQTEvQTQ3W05MX1RWMsuexm+A3rAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/14.png",
+    "width": 1920
+  }
+}

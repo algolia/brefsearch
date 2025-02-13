@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "La fille dont je suis amoureux m'a proposé un verre sur Facebook.",
+    "end": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=3s"
+  },
+  "thumbnail": {
+    "hash": "af3a212c6d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBy2vTYAAA8M+amCb58n15NI/l1S+PJqmd3ZqlSZvapUM74mPzgajbGIIb7iAIQ0S8qAdvOvDgUTyKIgw3PIiyo/+Xvx9o0gqGoowQhqIuyr6udmzb0i1V0iPH7TkWhljBLQmpEtY1hQCGFvkmC1nW0gzftolhBJbTNizbIFUvXovdgFwM3MTWiKX7lhaA5gVRk3EL86aqaJIoCbgfRfnSIA6S8Urec8itR6+3916RBd8zA7LgAYaWRAgRx6kikgVeQbhMB7frepgVo7WNbrQ033z89OVRPhjGbS902oChxJYgKrLZ9fzFgKRxdKdYvr7SrbOs9DojzcgujfZ2n1zuL/qmHrouoM4hz7Tq1XLr5vzti2e7mzfK1SuHB8/vziZVxypD8nA+O9y5t1VfXa9my0kC6PMY8rypydM83d+5/2Dj2vb+wdnff2e/jr98evP544fTbz9Ovp/+/vnn+OvJ0bv3gKYQByFiaaHJCCzEUOp3wsRvh4RMsuF0VEzyYr2qpkVejceTNAUUJWCIWjwLWQ5ykKZoGSEFIwAA5nmaogAADEU1Gg2WYRJC/gOobksY6P5quAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/01.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "À mes pieds, il y avait Baptiste, mon coloc.",
+    "end": 65,
+    "index": 23,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=63s"
+  },
+  "thumbnail": {
+    "hash": "7dca3fca2d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGU/N2xHXINembV2mbRzlbFrj7J/j4d1cZqGh/Li397Qz72mxJx+r7iQd5pyWiIXGQBYQUQlH1EbJqpgT7qtcZivcI9uR0Q1HxojFBZwX2HQv8G9qMWvhZrVoXNrTUYXEBYAcGV6Ukx6Ki1zLzKMm26bom1zfVg7mGdSd05ENCEiuKObnpPEfHCykWxdLB4hHxYcAE9ei3uYw0xfmFM/TtWZhZlrY76HYbN4Y59oVEg0OYJ6rmJlyGRs5FBMmR8VGygbIQA5Kk1HRX4uQXaBWkqzh4KKdY+pdVqtcFyLXFhSUq9cYtVITblJSJ5hUXclGh8eFhsAf2F0dmB8oIOFsZi4foDpW1alWDY0eko/RDmDQUjOSEu7SEWZhG6IeWFyHBUcGRMYAJdxbJJtdJCHzXyD83J57GJn2lEySkI0al5n5S4voUQ+j56NoaCKm3Fbch4XHRkTGABmQDqEcqp8geVdY9d7f+5veO9pW6RsW6JocvJIRJWLeImtnq+RfZJ5ZHskGiIWERUAQjY+cGyycnTSSlLJa3DheoDwX2LMXVi1bHTzVk6ERTU0OS05YE5dgWuELiIrEQ4Qt1u5w/pJd70AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/23.png",
+    "width": 1920
+  }
+}

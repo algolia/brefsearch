@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 10,
+    "name": "J'ai un plan cul régulier.",
+    "slug": "brefJaiUnPlanCulRegulier",
+    "videoId": "9zk0TrOU_cI"
+  },
+  "line": {
+    "content": "Elle mange des trucs au supermarché sans les acheter.",
+    "end": 48,
+    "index": 21,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=46s"
+  },
+  "thumbnail": {
+    "hash": "5135930043",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCwrLPAvbijn5qzrajKycu/vL9MR0QAAAADAQEfHR16dXJvaGRRS0Y2MyxCOzNaU0wAsquotK+lqaSbPS0dXEo/v7m5XFZTCAMCGBMSPDIve3Vya2VgIyQhDA8PQDs0Z2BaAJiPiZSMh5aOikAtInZWRZSKhXlvaVRHP15ORXVXSnJkWmdeVhseGxcXFkhAOm5nYQBrX1aJfXZqYVpFLCB1UT93bmpxYlpGNSlURj5RPTVANSxgUEVAPDU+QTRRT0JaVk0AOSkfVEQ6OzEoQikcZkItb1tQZUo6cEw3UUU+LConGBURQzYtPzIjSUUyOzwrOzcrADMgFj4kGDMiGUw8NEMwJ18+M0UxKTAhGjAsKy8wL0pAOj47NzkyLVBIQVxQRldLQQAwIBtVPjFILiZPLiVmRz1ILCdgQzYxLStNVFUsNDUQFRQJDQ0OFRY2PTtuYVdfUUUATEM7YU5CW0U7PiQZVjknCgAAVDQkOTAqO0A8Mzc3NjM1ODY4MDM0R0pIW09GTD81ADkuJEg9M0g+NTgoH3JdUWljX3VoYW9qa3d1dYB6eKCZl46Kj4yGiKynpbm1tJeRjforg7uur2JNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/10_brefJaiUnPlanCulRegulier/21.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Mais mon bras était coincé sous-sel, ce qui me laissait\ntrois possibilités: le retirer d'un coup.",
+    "end": 25,
+    "index": 7,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=20s"
+  },
+  "thumbnail": {
+    "hash": "0fc58c57cc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nBXKf1OaYAAAYJqJvIAQIG8IE/wRpJBKGZiSlqWhuCsUrJW7Oa/rKpfzbtvtmrd16wvsdrfr++72/P0gul5VNVPTTMOomub+nt1uNvpHh35lp8HSLIcDiWFSHCcnEgrPKzyP2NVOuVw39Iq9e+jUu62Wf9weud0r173IyjlIkhkIc4KQFYQ0hBxJIm13bFnHpaK97/S6vXd+MPPDh+B8MQg/GnlTXKM3RFEVxQyEwhoN0BgSDO/26l5RrzQafa//YTC4HQazYTgfT35YVhuSeIrj1mmKIwkaABzFkE/Tr02nt6GoJdU4PRnNbn4+3D3fTB/Ho/tey9+UswoUkyxPAQKPYQDFkMnZ1Gt6qiDWCuXrq/nT8uVp+fL45ffi/vn2/efp5bxptfSMxpIUjmI0TiJuteMdnOaltFXYuR4vfn3/G3TPj+quXXYqJWdrczvJwTgG4gDHohiFEUhO1mrbDS2lFdL58M1k+e2P3w7TIC5FUPZVlAEYS/yvkUg0uhrj4xQirysZKZdMSIog7xZrfufi7OStGCNeowSM4RxB0BhAI+jKyioFCIlh/gG9eFHLACOMIwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/07.png",
+    "width": 1920
+  }
+}

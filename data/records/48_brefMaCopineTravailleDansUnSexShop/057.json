@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Ou encore: Pourquoi ma mère m'avait engueulé ?",
+    "end": 58,
+    "index": 26,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=57s"
+  },
+  "thumbnail": {
+    "hash": "112303bd25",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXBW2+aUAAAYF5GULRBOCDgwYqoRygFrRNFBGUKYqyjVWebTu1u9qFLlmiW3dddsiVL9rR/sYf9yH0f9moizevil6vyLoQ5Ms1SNIEnnwzR39/xvz+zH3u/rQmtAngxVLZBJTLy2Lt5cVmHP1doN4aOXPg49h5ARiWSd77wvg9SeCqZOCCIFE2mmkVhbBawr4/Ryir8WqEPcWld1z+HrYUMQj7zti9d6DkdQjbDpNMUTpByVgh0Gft2mt96pbvl8U082vj91/1GJFC2xG2s4ratvmybFQASyTSOJzpmfWab2A7e24dovxw+Ck7jrndrGw5LNVH13LZveiffJ91ru5HnIUuzhgQ9VcEQYE3ITx13PhhFTevNwLp2rIe9YOJ4807rWeCf+YFdb9cqqMSBLEliNBAZAG+n0brvTjveZjB4OluNw4Xvjl172Gq4941mQzOOlLIi8ApHYzTFQkH6tBitvU4XVS+77vnsuWUNHTvS1RNDrZlV81CUBMBlaUZgGAxkmDzHnR2XyjRdEA/nk0uvF2tHtqY1FbmqV2sVGYksn+NzuazIHFD/AV1FWFAxsG/5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/26.png",
+    "width": 1920
+  }
+}

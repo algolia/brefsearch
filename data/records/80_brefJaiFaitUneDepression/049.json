@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'ai joué à la console un jour, deux semaines, trois mois.",
+    "end": 52,
+    "index": 18,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=49s"
+  },
+  "thumbnail": {
+    "hash": "6037c7e6f1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nAXB32+aQAAAYB5m4/oyFL0b3C84Dg44QEGRqe2MusYlrY91aWKGi442c11ssmRpX/qwh/3b+z6tVG4Z++NicLvZVFU1mVy0Wl1KRZqO8nwifdVuGc1mU3+nY0QIYVoZ8XEqLz8U2+32drPJsowShizL7BgIQo6xoeuNs7M3jUa7pZumqY0iXibedDTYVV8fH3+eTr+en18+LRYMAgyhZMSn+PztOQEAQQAB0IYBLyJPhdHd3ZeHh/v7uj49PS2XS4FMxZ1hKFPBKQTKpgjCdrut5Z6dS0cG8eVsftjv9vtvP47H9fV1HvhlJD/mac8XHkE+wV2jYxiGlnASO1gGKkqHs9lst6sOh+/z+UIQnEkx7Scxd2zLDG3qEOQwoklihQwJIVU6IIRfXa3qui7LMbOs1HUih1HzPTVhz3MlQUUSaa4FhAVsxmWQuK5v2+JmvS6KkQqj6XgquLAgkDbt+yIV/GKYaaRrMNjBiDpu4AlJGceYrVaff/953R9fXv/+6ynlM9oP5WTQL3rxf6NOTx2tePOhAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/18.png",
+    "width": 1920
+  }
+}

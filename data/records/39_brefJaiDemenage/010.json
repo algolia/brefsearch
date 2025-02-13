@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Ça n'a plus. C'était le mien.",
+    "end": 12,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=10s"
+  },
+  "thumbnail": {
+    "hash": "8b23ef67ce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH95fHRra4N6e5qRkpqOjZGDf4R1cYd5dGdaVmNQTYBuaYR0cWdYSkk8KWZZVltNRwBwZmJ1bm6PhoiAenmCeHZ+dHFaTUtaSkopHhxhOjWDY12GeHVpWktVRi50Z2VlUkkAmI6Pp5+jnpebqKOoi4OChHp6c2loX0dHWzk3jlpRrYp/em5wXE4+WUw0f3JycFhJALKssrq1uqihpq6oraujpZ6VkW5nb1ZCRW9DPX1TTpF9dn5xcFNFOUQzKWZaXXpnXgC0rrO6s7mmn6WyrLKemJ5mYG5IRFcxJy0yGxhrW2aLi6B+cnNlVlJYRENiU1F+b20Ata+1v7rAqKOqsq+2d3J/TUhbV1VsPz5KMS4yX191jI2njIeSZ1dRb2BbXElAaVdQAKynrri1vKikqrKvuGJfcklFWWFfdZSSnaOfo3d0h4GCoI6KmFhHQVxMSEw2KEczJwCinaS0srifm595dn9lYntCPk9cW2+roai5n5+AdYFaXnl0bXpuWEljUERKNytEMCQAW1hfcGxzUU1RIx8mW1ltU09eVUhRbE1LnXp1mISGdm18hYGOi3VlVT5BTz84QjEoU4+9bDgWlAkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/05.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Bref, ce soir-là, j'ai été aller chercher ma copine à son travail.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=0s"
+  },
+  "thumbnail": {
+    "hash": "569c9a1bf6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nBXLS2/TMAAAYEuIjbZpkjqO7TiJYzuPrnksbVrShTZbkHaY0LbTxEBQ8VDVgcSjF/gNu/ALOHEDiR+J+O4foAdD59DINfzMDl56UUdERkXsyId9S1mOgoQbOB450sAVlTkW4CkN/T4sh/RDnD7nyZqogir1PyDf8hzIMsguXVWNyBT5uR2AT+lSaPaJyTbjRNcxMWjOQmwHIZVdNImpyKF75YYrzHPLyxAHl3yidFIOiTtANXVqFlxnsyYI3yyqL93JQsXScOoRK6CbIr7AEkQa5AOk960HPfiYuDn2ts3ZXXfeJmOf0piplApdd3STlUSuiAQtorQPwaF5MLC4yV5N5j/f7v7uv2XBRGA5FUcRVfrIMy0/tXmJPLAT4TZQOxVfuXxN/Lum/fN5f3+7YRZ7nVVfs/L6ePrIdKHlz8LU1Qn4OI7vi/xXPX+XZgnmF2m5rdtN1SCD3CTFj+X695Oz22ruOaLwI60HwYvFdHfa7Ntmu1oec5kzcYRYwWSMvNMg+t6dvw/zGxnNgjDzlNYb/QMp/EUiGmHsHAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/00.png",
+    "width": 1920
+  }
+}

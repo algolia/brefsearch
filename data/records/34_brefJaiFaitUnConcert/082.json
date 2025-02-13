@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "J'ai dit: J'ai voulu la rattraper.",
+    "end": 84,
+    "index": 34,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=82s"
+  },
+  "thumbnail": {
+    "hash": "0d7eb414f7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFo/QlxMR5Ojj25fTUMnGlo3KDkjGTgWDnNaLO7Uk3ZINmlMQap6Y2YwKlk5MSweGgBhTUxfUUmeqotiQi5nPy6SWkJZOCcxHRNoTyrauXxOMyZdV0efdVygalmqfGtMNSwAkHx3jXdxsZ6EYTsndks7iFpFTTEkNSQbVEEsgl5AWDsydWpghmVTqHpjyZV9eFNDAIqAd2JISIdjTmg/K6NmUIZQQFs2KCsbET8eFD8fGVQ5MGdIOHdaRINcR8+Xe3ZURgCVholQMCxwSTBhPCmYXkh6RTZBJRorGxE9HBA/HhZBKyNZSj9URDVSOCyMZFMvIiEAsKywdFBFakAoSSkZWDAhXzcnHxALLxwQXUY5dF1SZVFFV0hAOS4qJBkWLCAeFxEQAFdNS0UxJkopGlo2IkcmFjAWDSgUDSoYDUs0JXZZSYNlVLicinlhVCocGhoTEhMPDgBFJxomFw87IBNVMx9WMiBKJxktGRAsGxAxGg1QLht7WUKOcmE/MCoaFBIVEA4OCwoARiodKBkSLBkRQyMTVC8dWjcnKhsTMRwQOSATQiQVSS0fKh8aFA4NFA4NDQoJCwkHth10tgy8nhEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/34.png",
+    "width": 1920
+  }
+}

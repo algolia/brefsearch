@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Je choisis le serveur\nparce qu'il connaît Carbon Kevlar.",
+    "end": 100,
+    "index": 40,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=89s"
+  },
+  "thumbnail": {
+    "hash": "1e8e08ee3c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nBXEyW7aQAAAUEsJxmDGHrzU64z3BewBm8UGAlUSm2Agm9pEaiqlkar2lFMvvfcDeuqxn1Cp31j1HR51OSHbKUk15cuhavLkME0q4tyWyVvi/bhbPZ1FtgMwYjWVlaWOwHeoQ5kfi/ECo28Px/fL7Gae3hbDZoW2qfH3ufl5vwwC4Fgc1jlTA5oEqGaWHQuydvHX/eUmCXZZuJ8FRYY+luTXcdlEpoV4F/EW4v7/hqdyf7gI3ZXnrEkCW62Fh6tRHetljsJDYMaSJIk93+Ed3I9NKcMyZWu6r+syDwfIurC0u+mi9LeunEayMZAELOrrGGGdd1W4iuyzyKIE0OuzgKEZGfZfLkY3xb2nTISeFipDBSiebDUD11fEKjXrUVCPE4rrsj2mKwOw8ZzzgfW62/35/oqgZkuRwmEs4oljuSrMPSMx1RxpFEO3T09bAtO+ih2jyz4m/u9P1+e+R5+IHCO2T3jIQgWygSJggVc6bYpu0bDLpqbxXM1rEtl83wKgRuq7+fKlrp6qzX48/DALP1ezivhXxPsHWllEA/HkVpcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/40.png",
+    "width": 1920
+  }
+}

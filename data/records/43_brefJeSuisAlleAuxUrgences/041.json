@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il m'a proposé du chocolat.",
+    "end": 43,
+    "index": 23,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=41s"
+  },
+  "thumbnail": {
+    "hash": "dabdf5f845",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AI2QmIyQmIyQm5WapoqHjGdSTmhOSUY2MhsaGREREA0NDRESExkUFhANEA0MDw4ODwCRl5+ip62tsbewt72lmpeafXSGZl1bRkEQEBIcHBwbGRgQDxBENTQ3KSgcGRkpIiIAcoKOjpqjqrK3vMLGopOQi25mb1ZQPzQwCwoMODY4anFzSD8+U0NCSzw7QTQzQzg2AF9ueW6Bj36Rn4aWonNra2VRTkU7O09CPzEoKCMbHRofI0ZER0xEQzQtLSYhISYiIwBqUTOFakeLeWNMUlNFPT91W1lvWlhWR0QsJSQRDxEAAQMGBwswMzc3OjwUFRcfIiQAh1Ydj1kbkFkdLikiFhccRzU0UD47LygmIx4dDg8QCAoNCAkMBQcLKi4zTVBWQUVGAHZOH4VVIHxSJBkcHwgKEDg2LjExJxwZGDAwJhcbFwYGCwoLDggICwsLDystMTg6OQBsRxx9UR5vSyIWGh4NEBZHVz5VaEg8RDE7RS0jKB8GBwsLCw4KDBAMDhETFRcoKygAXT0ZdEocRTQgDBMdICMdbnZCZ3NFVGZFRlU4FxsaCQkNDhAVDhEXCAkODQ8TIyomHedpj/EphncAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/23.png",
+    "width": 1920
+  }
+}

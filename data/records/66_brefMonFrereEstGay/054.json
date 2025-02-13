@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Du coup, je l'ai observé pour savoir quoi en penser et j'ai remarqué qu'il toussait\nquand il mangeait du tiramisou à cause du chocolat en poudre, qui m'avait envoyé un",
+    "end": 59,
+    "index": 29,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=54s"
+  },
+  "thumbnail": {
+    "hash": "d80ac1ab94",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBTW+TYAAAYA5L5uhCO6DACwXa0pZKaaWOrxZWGEiFbm1Wsm5sTVZatyw23YzRRA/GePaHeNKbiQcvJiYmHozZTnrWoz/C54H8nrurbY+iwcTuxtXSc8dcDQ88qpZW1Jlo9KvK1y/fbm9/f/r4OWyazQwJxaOD/SBYnM2WlytdrC/T+dPF0sdLc9E4b7kzy3m1uvrz99+P7z/3Goa+xULJZOrZznF8tEjPT3rW9fT0OBrbGH9YVhLJTK3ek/mjm5tf7999iGrbVr4MFVmhyJYErty+pyX9h55u1kWZQEmGZFxr17e8QX8Y+CGOURLJd8gyhGIgrstJ875h+Z4XdUy32VLzedCW5PQ0ta1RbyfqaF1A0GguX2MFCEWpsHLXF+ptRRu4gaGomqwAwEuCOAmHsRsGetdTjQpXRbIEgQMIRcEdeGt9A+GpgsDwZcBygIU3cRghUBQUcMCRLI4xSI5GECKzgUAZOFcg6QIFaALQJGABI+NUCSdZhmMATxFMgeZpusixlSyCra2tQ0arETqurRqe6T7oOtfJ+EVDSg398dH42fTw5cX87es3VxeXe36wv2Nn4c3/cCBiyCXWDD4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/29.png",
+    "width": 1920
+  }
+}

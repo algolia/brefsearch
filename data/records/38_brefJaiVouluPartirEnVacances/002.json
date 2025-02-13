@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Ça faisait deux mois que je passais la même journée.",
+    "end": 4,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=2s"
+  },
+  "thumbnail": {
+    "hash": "301830c4f8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADUtLkI5OkI2N0xBQW1gXJaLimZUSId0aZaJgX1SKJR0Waabm6CTjp6TkZeNjYuDggBgVldpYF9nXFt2aWZ9cGhfWFhfOziEZWCTioOfiXiqnJayp6O3rqu4rq2wp6eel5YAdGpuiH1/loyMppqaenBsDAkLHBARKiIjmI+Nq6SktKupurCtuqyqvrSzt66tqZ+fAIB3fZGIjJqQkaCXlpmBe0MvKwAAA3JZT62TfpaEdKGNf62fl6qJh4VzdI+Eh6OXlgCFfYCdjoSpk4KjinVzZFs7LjBcPTtjRkKOg3PJt5qwmXukk4hlU089KiZkVlKFeXkAXlVXbmBbm5GVq5+iPDtBPz4/Z01CQTg1U1hc7efW3c23l4uNMyEZPikeGg0JQzEsAC4oMEM9RYN8hJ+WnTc4Q1xSTZR3YJ2Ldz09QN3SubCagjkwL19UVTwwLhIGBC4ZEQAtJzEgGyRgWmCLgogxMTtAOTmGaVaShHU2MzLDpY9+WEtQMCpzV1Q7KCcsHBQuJR0AIBsiCAYJDAkNHxofFRMaPzEwYz83WjsxKB4dhVtMn2RVll5UhFJIdEtAUDIsOigdeU6upn6apXUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/01.png",
+    "width": 1920
+  }
+}

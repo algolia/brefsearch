@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Ils ont fermé la porte.",
+    "end": 132,
+    "index": 53,
+    "start": 131,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=131s"
+  },
+  "thumbnail": {
+    "hash": "096691d097",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXB7VOacAAAYCYkSp/mFAFBQS0ykMrcjPAiHZKC8ir4A/ElyrnG3Xa72+62r/vL9zwQQYpsnV9M3cCNPivDJtMuolgBLV7QRKIKi/6Fd3+7t42xLD/0upr8ESKoK67RWbox8IDQ5CiCwYqnaL7A13DzqqFf1g9a/zB7MB/VqTo2xypE0r0WJ65X6WrhtMgKidNYAcOKp/Xye4WrZtPhH2dkXJ8v7cB3gDefQRTVaXP8Jkpjb/lJ6rVYvoAWK6WK1Kh5N+3jWJ6JZ5rQjAwFWI/AdyCSYNosm4Th190msH2pI6EneRhB1Q7317z7PR/9Cyd7XQHzITCHmxhAVZxsNurrpZs9J/souhG7CILkkHyPpQ6KlI3ufmq3R3+WZd8OL+l+t4Eq5QrL1CLX+v66PWyTfldAYDgHn4h09cu9+DwQttrgR7Q4ptv9dr0GK6hcKtEUGVjm2y5Ok+j6kkdy8DsY4Wv4mz7YaAPLnABvvlt5cRQGngt9KJVIHLdn+i70Is8Rz1swDEM5WGCIX4ERPI3kp4lh6CBwA992LPM/11RgK0q4xj0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/53.png",
+    "width": 1920
+  }
+}

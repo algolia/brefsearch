@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Tu as pas dit que t'étais un pote ? Il fallait que je parte.",
+    "end": 24,
+    "index": 10,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=22s"
+  },
+  "thumbnail": {
+    "hash": "e2b635c6a3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBbXOSAAAAYD70oevW2dwU1g5FEcYxFEVP2SDXLZ22kYASqOcdzFPR1DjxLVea0dZ2bt1Vd3bXtV1/tecBvO5t8YhzBu3LibX+5vz7dffw4+bnwv5ilpfN8oWhdOUcS2DwtueUjZ3EI4APgkzljTNoadxB55hfTbp/V4vbUdMxK45ZuTCUfjGX38ddjx7HcbSa4QAyGBga2vWom4/SfBCZm7X1cnDd151W9aPxdlQVe3I+S2CEewsFoZfRfYAh9my9Nqw3sF1/ljt8WC1WdvPqnf65UZnWilbptS1nZZ4lQYhCEAoNAQeR8LkoMThJwP5i5vj+9uv3ac8xa/O6Nq5KbeGVEqd04ZSnY4c0TYdCwAmb1EUpHMQ9T12UH7mbT9bL6fxcnemKrRVaQiYXiwj8i3SUoUM4tgsDRwmmoapJMrK14QqA4OX4/W9nNqvJ46pkKWeWWpBTDAbuhFGcRNAA+Bzgo3RPNzg6AXtAyLX5oV3/c/VpUikMy2K/dNZXCyqfzNHhNJMIwX6fFwLiJNnRjRQV2/Mhm082Wlrp/mY51ARLETpSviXmlTTbLRUyKRb27oDP3P8BvLx/cif+LOkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/10.png",
+    "width": 1920
+  }
+}

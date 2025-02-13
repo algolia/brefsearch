@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "C'est très joli.",
+    "end": 123,
+    "index": 39,
+    "start": 122,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=122s"
+  },
+  "thumbnail": {
+    "hash": "be5ec89f49",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nCXPW0/TUAAA4NJz6+nl9LQ7Xdutl026lqVdNyDZjGvmsNsQEnRAuEUyjJHAgzG+GMHwG/zNxvgDvodPsjQqVBJyveuw0NbnRTTtt6oyW19/vLg7P92L5qG1l7RHobPtC2Ea0m7H67caRSBCYQZM2yzHX9bT8/nwz6/N8019dTB4XE/fdP3XaZjHrsdUqfRNZnCu627DnhXph0n2aTX6dvHu5+b998Ph13rwMMvXWfO+KneTYJQE0sCCHlMhgAjiXtsr42bq2T1hjLOoCuzKY5cddhyZy46YFOm0TCXP1BlVEEIYIoJIzHCdiqrvL4p4OcxW4/y2yj9Pkrdpa7vZSNqu5LsuBBBjLMuQq9rJpHza1E93q9+3q5fr+vnh7MfV4uWoV+80e4IblEqOxYGMgIyoQh3GA876vj3bCU/G2fF+5yBvH+0ni0HcdTnTVAUTSXALyFjeQhiR8lWsEWVLkhnBBEKdEAKghgACMlMpRuQfaHCOIIEAAxl5zOCahgD2TcPRaeTYKlFcptoa1anyP/kX/Hc4+3HqNPIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/39.png",
+    "width": 1920
+  }
+}

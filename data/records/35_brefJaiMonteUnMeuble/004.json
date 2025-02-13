@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Après avoir monté le meuble moi-même, il fallait que je le monte moi-même.",
+    "end": 6,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=4s"
+  },
+  "thumbnail": {
+    "hash": "a6ffc6c861",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACgMAWJOQfDi3tHKzhoVFgYEAxEQExcZIB4eHygmKzgzNDExOltMRGtZUFlOSmxiXAAwFgtAMix7bl1XXUwLDxEFAAQJCQ0JDA8mJSciISgzLSwuKjFsWk9yYVdlWFOUhoEAKCAkJR4gV0osglsEeVAkGS4XGRgKGBAJMzQ7GBccBAIDJRoZh29Za15WcWRcuKukABkdKRwWGF1MOWxJM7xoJ6adKod6KENAHCosOxkXHSQYGR4SE1dHPmtdWH9yatrQyQAdJDUOEBldSzwrIBoJCwdJRyVrbEVDRj8pKzoNDRAUDg5cRzp3YlRhVVGViIHq494AICk+EhopU01NNSYXAAAIEg4nFhATQT5DKyw5BAMDCwsKlHxih3FhWlBNrqOc7ujkABwmOhEXI0JMXlJDNhIQFD83UxkTJCwtOCgqNQYEBSwoJIVvWGVVS2JYU8S7turi3gAUHCwSFh8vO1BfUkdHOTJAOT0fGSo4OkseISkKBwk3LieRd15COTRqX1rRyMTWzMkADhIeEBIYNjEzZUw6HxQNAAAADw4ONTlHFhcfBgUIJBsUgGhRIyAdZl1XvrSvvLKvULpxCZ6eELgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/02.png",
+    "width": 1920
+  }
+}

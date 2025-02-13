@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je n'ai jamais osé lui dire, mais j'aime Marla.",
+    "end": 114,
+    "index": 45,
+    "start": 111,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=111s"
+  },
+  "thumbnail": {
+    "hash": "ffcf8960a0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaUlEQVR4nC3RS0/bQBSG4TMXe2bOmRnfsRPbwbGJYkggRLRJsdRKVSVKLxJsqy666v//CyiA9C3f1fMBZ5oz8zrkDANJmU9MaAWn2MeSI4CJ0O+Xs7u+6nIPUhgpUEqSASnl2rL8vr/YLSrBqcxSFRCA8eg/rduPq/qqTkEGpLUNldXGGeOOffNvWv/edqRdXWTWeABjtZvG9rBqhjKBmFweRdtutm5Kh+6wrP8cLm5mBWmbRolRDgB1aKexfbjtz/MYfhzHb/vV8bI7LwuPPkLfpkkYkDVOKc8YMk5S0N3QfL3uFnkC/5+mx8O4KIt5mpGOAAiAOCchSHB6k+AMu7Pisq3GpoC/Dx+eP2+HupqnuadYSC+l4+w9ZSdDZAwTG3dlsZrnMF33v+6vpu0QU2TRh6Hj/NVXkNE+j3OAk7jR/nY527Rn8PN+82U37PraKGuUC8TpAQaoAosmzqIMwDBAj36zKIcqewFmZCFZPCo08wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/45.png",
+    "width": 1920
+  }
+}

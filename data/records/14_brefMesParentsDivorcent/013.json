@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "À partir de là, je suis devenu leur pigeon voyageur.",
+    "end": 15,
+    "index": 8,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=13s"
+  },
+  "thumbnail": {
+    "hash": "1d8a111853",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAYGBgcHBwkJCUtHSW5oa1RPUD43N0U/P3BrbHx3eXdxc396fYeCiTczNA0LCQ0LCQAeHBwjISAKCQlOSkxfWlwpJCQYFBIHBQM2MjJ/enx9eHmQjJF4dXsVEhATEQ8QDQwAIB0eIh8gDw4PTUpLVlFSHxsaGxcWExEPExAOamRmgHp8nJuiaGduDwwLGRYUEhAOAAsKCwkJCgcGB0hFRmJbX0Y5Oz4uKTEiHUI3NHdzeI2Lk5+eqGtnbBcRDxkWFRUREAAKCgwODQ8QDg9GQkZaUmJvWFtUOzNLMixSSEd0bnF/fpCOkJ9qZGY8KCghFBMTEA8ADw0YFRMcUExcUExeUUxmPiYfPysoRDY6MS0vUkxPjoiQlI2VY1hXWkA/PSAgGBIQAAcGBh4fKWJigkA6P0dDU0YxMUktLT05SSolHz45PpKQnpmTmm9hY1tDQU0wLzEkIwAAAAAwMkNdXoU7NDAxKyc6MzhCNz80MDQtJiE3MzaOj5+sr71+eIFKOzpeR0ZNOjkABAMAPT5ZVleCNzAwMispLCkpQkJNNjE0KyUhLScncWpwoaCnk5WgT0lNRzQxTTk3nvluoCZ47ZsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/08.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'espère que quelqu'un va pas C'est un plan de soie, mais poisson clown.",
+    "end": 77,
+    "index": 28,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=71s"
+  },
+  "thumbnail": {
+    "hash": "64be2b5439",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AK2rstbV3cjHzsrK0Ojo7sfDyDwwMxULD0lDSZiVmJGQkZiXl5aTlZKSmJyco5iYnwCnpKrT09e+vcTQz9Xv8O9uaWsgFxopGxxKREiWl5yVk5eQj5OIf4BeUU2LjZOen6cApKCq3+Do0M/Wx8TLzcvPKiImLBsdVz04Tjk4hGhkhHh3NTI+QjY6c1M+Ojk9ZWdwAI6Fjbu4xaumsXRoa3p4jVhITVAzLVo6NVs4NXQSCoArHWJWWSgjMEc3NiokJEtNVQBxY2R9cXOVi5R3coJkZHxdWGlHMS9QEw9EDApUCQdyEQxnSEgiIi8QDhcWFhdRTk0AUEJAU0VEXVFYWlZnSEhaVVZtNSkvRR4cOg0LOgoJXSolOCUpDw8YGRcZKyshRUE7AGtiZTcvMj85RkA7SVpHTklCTywjK0MyNk83O0owMUUuLTYtMRYWGlBKPjo6KycnIwCDfYZiXWVEQE82Mj9hPjhdQD1QPD5GMjIlJzA/R1ESFSEeIi9GSUxVT0InIx0gFg8AQzg3S0FDSkZWLy07PCcoSDAuJxsdGRMZEhEYJy03FBUcDw8UKC43NSshJxgMMh4RekiSqGvUg2IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/28.png",
+    "width": 1920
+  }
+}

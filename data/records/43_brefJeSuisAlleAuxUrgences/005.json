@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "J'avais dû me la respirer.",
+    "end": 6,
+    "index": 4,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=5s"
+  },
+  "thumbnail": {
+    "hash": "16398d954b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nB3O21KbUBhA4Z+9NwIbiJzC+RhIhExSSCUNiY5Uxji06Khxql7Y9r6X7WP0IfqqHX2Ab80CUz5++bJ7vPrUVicj4D/YxmGbDevJ5TJaRG7iWKnnurpiyRIHHGUF0Kn84659Hc6Hs1LBtA6sf39fn7pi4ti2ZmgjLbDsQFUNQRIRL3MijKn852f/6/nq/mJlELEy9d/fyufrdZWXhjI2NK2ap+v51JZUCfGKOIKxYu6qYlvOl9nElNRkpG9mfr/vDl+/X5R1aBp5Hjd17h9rFDhL0QFhkWF4AJ5hBEwoAB+n0XJT9pc3Xd14gWencTaLQ3vMMpwuq4AwxYQiLDBIQJgCHIW+f3pa7ZtmnU+9yHGyJEwj3zUJoRgLb4BBAiYiwpS8AS5x3Ydu/9I/3Z519clU1ZQojjLfI5gSQoF5b2MiElYkWECI02R12O7aj9tqVqwW1aJYFUnmajrAEQAHLOFZzGPMvy8JwPCiMNoU6fkivWl3d8NwuH/sP7dN3YROoFLxPyo5M6G0ZtYeAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/04.png",
+    "width": 1920
+  }
+}

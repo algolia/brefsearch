@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Il avait même pas mis de sucre. Pourquoi ?",
+    "end": 77,
+    "index": 36,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=75s"
+  },
+  "thumbnail": {
+    "hash": "37f50b6f37",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHZjaaOPmU9EQD85MjEbEE4wICoWCmpaUIx0eox7cnJfS0AaGFc/MzYqHyMZEB0SCwBsMzCpVFJiVEs/Rz57VESaY01DKheQOUKnQ0t/TDqBXFdEGRZKMScwJRskGhIeEwwATjMtblFNZ1FIalBEkWtZf1I/WTMjWzEndEI4XUc6TzUnQxcUSysgTiofJxkQHxUOAFhBRJiNgFlIRZhsW4xkUWI9LkIoHSsaD0ExJE5BMkMxJyUUEEswI14tHjsiFx8YEABNPURvZ28vLDeCX02caVJ8UUBDKSAeFRchGBIfIRgpJR0bEw9KMiV1RDBcOCQkFAoAIBwpGhcbLCgpYUY2akg3PCAYIBQSFxEUKBoaLhkOKiAYFAoHLh0ShV1Fj2ZSaFFFAB4aGh4YGBwXHh4TDy8fFx4SDhEMEBMMESQaHTUdDisVByQZFGNaVaSbl5uRjol/egAZFBcUEBASDQ4SDgwMBQYXFRYdGR4ZFBgVDxUtJCF6cW2lnZylnpyLgn53bWdzaWMAFBAREgwQEw4QEQwLEQsNIiAjJCElHBgdTklSm5SXs66vopybj4aEgnd1e3FtcGVgfoNpyjmY3isAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/36.png",
+    "width": 1920
+  }
+}

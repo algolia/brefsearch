@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Ouais, il y a moi, mais je crois que c'est mort.",
+    "end": 90,
+    "index": 48,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=87s"
+  },
+  "thumbnail": {
+    "hash": "4bfcb98b5a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBW2/SYAAA0D5OXQaFAl9b2kLvpZS2wqAUkLUWGZYO6Lo5QnFbCEYXMo1Zpk6XGOKDWzJ8MBqTGWM2k8Vo/I2eA8G3Y6mVRDqSpKOAg4EGiCpO9kThoKScdWrX496pXfV41iQyfByLLcUgEEFJGOMQQklSNYLtS/lQVY/uGQu3+SPsXu37b63qQOTLKM7AALmFQDhM0AilYmydEnuS8qRceWU1zj37Z+j9nQ2vJv6pYz5ScgZGCHEcj2IQidAyxtfofFcqjLTSsb02f+h8Djq/nw7/PX/8beSdOGaoKw0qqxIcjbJQJsFqlGwJeqAWpxXjpGXP1+0vO90/s/HNs/B80D6ya0OtUKcYGWUIOAPRSU4n5SajbKvFWaPxxrE+eq2vo43r6c7lrv++Yx+YxkYuV89yYiqLR0mIAbxGSa56d7OgTwzjXds+G6xf7gff9zYX/oMLv/XatYNisUKyXDIDImkoCzgJ5Q5da/Fi92XHmrebH3rOr8O9m1n4yVu7CO4f953+akkhWIHkY3dSEImwPOB0QrBF2RWFgSSOdWWyqk7L2lZeMNNpPprElhEQSSVWwPJS/D+PjmfraZu3AQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/48.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Le poulet croustillant du chef de chez des L'Elle Chouanne\nqui n'existent pas en portée, les que j'avais réussi à récupérer.",
+    "end": 62,
+    "index": 20,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=58s"
+  },
+  "thumbnail": {
+    "hash": "796b28a164",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJF9cYV2c4J1eYh7gIp6fnBfW1JDPnlmYWJVUlRIRlJLT35yc2JWVW1gXnRoaHNpaQBlU0+FdnR7cHp/cn2DdX1xYmdqWV94ZGJeUE9USEZmXmSBdnpeU1RtX11xZmZxZmcAYk1MfXBug3V8jH2DjXZ3YEdFdGFidWJhZVlYZlpZbl5mcFFXY09SbmFebmNjb2RkAF9RT2pcWVhKRlNFQVJCPU0+OU4/O2hXU1ZDQFBDP0Y4N0AyMUM1M2dbWW1iYm5jYwBHPDleUVAcEg4SCAQdEg4gFRAeEw5WR0MuHRsjGRguIR0qIBsuIx9nWldsYWFsYWEAQjg1XVJQIhcTHhIOIxcTIxgUGRIPTD8+TDAfXDwkMCclMiYhOS4qaVtYal5eaV5eAEQ4MltQTjEhHDgmHyocFyQWFEAIA1M6OZNSJ79xKkk0JzUtLUY8OmZaWWddXWdbWwBZQzJYT1AxIRlRNSpvU0tnUkqYc264rbWwfl21ZCCgh32GbGl0WE5rVU1rW1hkWVkAXkErV0VAZU9EfVRByZiKn4J2saqn2dbfupB4r209zsG/qId+pnpsg2lWdl9QdU87qxeSdcyl3vUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/20.png",
+    "width": 1920
+  }
+}

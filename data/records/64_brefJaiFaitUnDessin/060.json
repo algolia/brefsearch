@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Si ma mère m'avait demandé de monter faire un dessin pendant que mon père était loin\net surtout, si mon frère était dans le jardin, qui est-ce qui tenait",
+    "end": 65,
+    "index": 30,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=60s"
+  },
+  "thumbnail": {
+    "hash": "a2e91c4e70",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nBXMz1LaQACA8bxkH6Wn3jrtoTM6nTpTPKBlLFTFESoELFCkRsRgIgkJgZDN7iab/ZMsCzxDh5nf4Tt9Wu3oXaP8YdAsTQY1d9IJnEe4eoWhTSInXb8B72k+ab0MLnu35WbluFr6pLXO3hvdimfqOLQS5NMsYhQeZEBkUUFBBoNgNp48NAd3lcbFN+2fXgnsvzxZSYY5w5LjnKeSI3HoRHIs6YohCy5Nb9oftquaZbTTyN1wrATZF2ybk63A2zzb5VRxpARWHG8YKCjAoWWOfmvO8z1FCyWIEmRX0H2RKYF3kpLQiz1bMrTNsw1PJEMkns+e7zXL0G2jCwN7L5kS5PAueJ6Fi5mxDl2avCmBCgolxylwrMe2Nur8eu1cArMvGdjw5EAkeRannkvgEkW24qigceSbltEd6lVNvyr1r8+tYStdTzn2KfQJ8mmylGlEY5cANwUuWJjT3k39/KT+41irn325vfjaa5SnDzfeSzt0hnBhwGCcLMc4eALzkTtpjf/87FyfXJ1+rn3/+B8yh1yamtQhJwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/30.png",
+    "width": 1920
+  }
+}

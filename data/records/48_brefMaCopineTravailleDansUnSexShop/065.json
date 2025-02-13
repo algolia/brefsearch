@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "J'ai eu une panne une fois avec elle.",
+    "end": 68,
+    "index": 30,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=65s"
+  },
+  "thumbnail": {
+    "hash": "0ecbda50d5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB226aYAAAYC67lG5aMCoHAUEwAv5AwQJFjcUp4gAP07W1rVtPaW2rZZ3ZlmaHbBczS5btbnd7gl3sEfd9UKjZTcmQGSGqd6575zfPXv9c/FkG80vn8LP/5t6azkC03PZbxRK8Bm882oAMkiumM165+JQvnDSij0fLT+M4bk0D3g4469Z8caUHX1s9hSQROJmEn0Bimuob8t+HV/8Wh7+PXn45i9/1zy52wj3VvTH7sdlX08S1oVZZhkggqcdJSMboYUX6duC996r3tjmSageS28tbQ85p4EqDkFxWmAAwVqVIyG9l0tDCtT6M3V8TbzXY/RF6k4Ltk3oHU5tZUMUEcRO3cOpYU08tdWaDDkVAOscufWc1cr9H9VjXIkZ1ibKDCJfNcDWdjCqmhNKhoJ2ayoVZblEE1DXUedseKPx8p3wlK1pWLKEkBafufH/sNLIoqWNsOw/2FDkSuaFcgN7uhw/PayEQ9CwtZ2QadQSsTiewEz84j4Yiw5fQ3C4NqjlWxzMDIEAVoz3rWseGuMU0E0gNRXQCDyWqWxOBVzE1lkfXN8UU47KiRuZMCv8PAqVnMljM5J0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/30.png",
+    "width": 1920
+  }
+}

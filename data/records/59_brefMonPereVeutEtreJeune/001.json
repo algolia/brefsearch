@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "À partir du jour où mon père a quitté ma mère, il a tout fait pour être jeune.",
+    "end": 4,
+    "index": 1,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=1s"
+  },
+  "thumbnail": {
+    "hash": "4ceecc090f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXB226TYAAAYBJbDq2ztNtgtLRA4e/hB5G/PzAop7Zjq+tx68Eu9RDNdEbjxcwuTDR6Y+KVxtfQu72F8SV8Fr+P6EH53IWft+m3q7MXR+j0gdbVKk2uSN7JqHzpoamk7bIHqqleC1ryxLOIZ7F5M8K3P9//+3v78enIk3i/Lvg1LlRFlS9OkTrShcdBe42lGCpnISZsmf+0CH59ffnn94+ZCyHPhorwKkJverajlOcYpA2uD7iexg1RexXbRClHO/LBVYo3sRWpZb/Gv+vj74/S6x4egOqxqc0dOHON8y5aRngVYYLOZliGNiShvFus77FHmrjpNC49+DY0vRoHq3zvPhg7xiJAyxivEpvY3cnnKZLKZhiKylOkWLibgtoJqEQyV6RJiSu5TXmA4MS3FrG9TFxiv7DD5hiGzGYzZCFHD13rwoHjVjWS9nSRR4p42FD6Vvv00JyHeJW4BMvQLEPeY+hOXRoYzQ/PNzfT5MJSB/L+OnKGFvSBHBggtY1pF409izgo5ExJCPVG0tICTb6cDb9sJ69D40kHXK8n2+MEiYIh8qheSTEMdPAfIMdVwsYkifcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/01.png",
+    "width": 1920
+  }
+}

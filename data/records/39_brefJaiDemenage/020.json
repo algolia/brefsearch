@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "En plus, depuis son divorce, mon père habitait en France.",
+    "end": 22,
+    "index": 9,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=20s"
+  },
+  "thumbnail": {
+    "hash": "6c9fa95b1f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHx4fYmFiZqXmaeipYqBgndsbqOcoaigpbCrrbeztbKusKSeoJaOk4uDiId/g4N9gQCQjZGhnqKwrq+3triPd3ZhODWhmZ6zsLS4s7XKyMmclpdhVVVkWVhcUVBGOzo+MzIAnpufsK2wuri4ura5pJybgmBXhHtuoJGOubS3ubu/n5qbaF1ecWdpdGtvVUtLOi8tAKKfo7aztb28vLq3uX1+bGZrT1FQN3dfWa2qsGZugJOTmE5ERW1hZXptcHZrbk9FRACin6O5trm/vb63s7V0aWBeX0VkZ097a2a0sbaTnKaal5kmGxtALy19VU1/WlVYSEgAoJ2hpaKltrW1raesfGVgY2RIa3BTmZaRuLW329nWh4KBFg0NMCMjUzs3akpGRC4tAJWSl25maYeDhZ+Xmk46NU1MPlNTSiwqKVlWWtjW1XVxcA4HBiUdHSsgIDUlJCodHAB5Z2ZsZGZybGqCd3k2ICFEMTJFMzYbExZCQEPNzc6DbW4OAAASDQwcFBUhGBcbExIAb15ZamNibWNcfnR1XElJgmZjgGZjblxZdXBusKmnnImGc2Ngb2ZicGZjb2Via2Bd67nEw/tFhV4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/09.png",
+    "width": 1920
+  }
+}

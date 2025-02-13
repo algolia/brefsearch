@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Je la regardais, elle me regardait, je la regardais,\nje lui souriais, elle me souriait.",
+    "end": 67,
+    "index": 24,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=64s"
+  },
+  "thumbnail": {
+    "hash": "8ca602f24a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGOob+2REpHi5+Ln5+bTV5YvjfELsdZ20ZRx0ZD0MzI61TK/xM7KTZDb3VDb0drUylCXwcLETEpEWEJAkJ+LP8bTvizEPshcPcdRb0K4raOCYH1MQoOTg68wrxI3p7Agj5ggL4OLiZGEsKgAJ7uyrHRTWmCmu2G6k365l0VdgI2JFH+an2epjaWvKJ8CBwsPFys/FytDc2xgrK2RCC+Pk4l2b2ZAmrNunb/l/BT/Wi8LYwk+c1VZO11NDXFBeUEeWWE+aUEehpZQl0QrbTE+7lAHw+YYZx892Rpfs5mxXnE6cupCXOaqMhZaKvJigvKiAnLCvBLcLAwZ7rapdtq6smJhTiaF3sZG0nxZTgZdka413qbNIVY+ujIGKvLKEsJSvKyygnwm+nYMYZaG+b62k1N9M531Cr2NrRWEY8xUfTRlMn1sNtfG+utIg4wX5jMzdo9I6EovX8ngoCKX7m2/ty2tyk07y0XXTUPSR0M8UEvSUFZ4RkFIuq2KioJmUGRdbOa88OSp/jFdDJa6egVBrivKospdtFMcddx0ZAP15MINFbVEuerjfdqLG2Oz5kamz7ayjbN2SLZ2SgMANk1oTrbqbm4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/24.png",
+    "width": 1920
+  }
+}

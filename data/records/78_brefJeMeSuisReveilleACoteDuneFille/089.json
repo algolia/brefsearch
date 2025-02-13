@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Elle a dit: Tu peux partir quand tu veux.",
+    "end": 92,
+    "index": 35,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=89s"
+  },
+  "thumbnail": {
+    "hash": "884a2c9dba",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nB3Nb1PSABwA4J8IwyagKP8kNmGmwGQWzLEkOHKDtU0ZbBNvjq0ci0uTVRelRd11Zaf20q73dX3S7nq+wAOK5paruwCgaENvcvNqcm0dT/iWvk0xK7EUjq1ViA0ycbe4ei9LFHhOBbU/anBdAOjp7sXnXx8+/RydfmG2qkNZZTbLSOBOGcOYDE7l8uv5+7JsgGF5kvLs/+B8vfrdURxBNFVJ05uCuiuK241ajni0mmMpukjSmjaEI+vswBwDgNQZfLv+s7dn1+q9Xve5Wuedfd2SeyRRiM8vpOPpUokxjFM4Hl3Y7jkAtIT+5Y+/76e3HeVki2w0KzvNSlXhJZqiAXwAUCTpgfUa3JeXh5YHAE2u+256e/b25kA2ySwZicQKoQW9VKaSmM8fDAaCKBrhWzrY7kdONACArbWeSNZ+1xHaZvWhiCAom8LtxEo+FJ3xzwUDczMwm8lsgCDouun5ZxFyk3FfTG3nvM6KbXGQjGP9/litcGtoGHzIPLq4FMOT6TwwD5jDp5NQOIrh6+M3Vyfe99qO/Lh9VCwwNNVgiXJmMRWOpuMJYmkZX45l/wFRxGO0h501PQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/35.png",
+    "width": 1920
+  }
+}

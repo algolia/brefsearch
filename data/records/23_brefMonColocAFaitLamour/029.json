@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Je lui ai demandé comment c'était avec Anna.",
+    "end": 30,
+    "index": 14,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=29s"
+  },
+  "thumbnail": {
+    "hash": "17c6f14cb7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AMS5uMu9u9fLy93S0ujc3N/V1JOEf3JlXcS3tPPm5OPTz9rIwtjEvuvf2+Xd2sGzswDGurnSxcPbz8/d0tLr4N9tZl8NBwAMBwBYSUDy4+Dn2NXhzsfizcfv5N/l3NnDtbUAx7u61MXD1srJ1svJ2c3MMC0pBwgAKB0TUD0z38zI59jU4c7H5tHK8ebh4tnXxri3AMe6udHCv83Avsi6ub2tqzowKCUZEGQ7NIFeVOPRzuHRzd/LxOXRyfDl4dzU0ca4twDCtbXHuLXBs7CroKGEc3ODWkp2T0M9IheLc2rm19XaycXcyMLhzcbz6OPf1dLBs7MAsaWltKShsaOipZyikIyXjHd4cldNg3Zxv7Gu3M3K1sS/2MS93srC8ufg2c/LuaurAJuPjp+Qi5ySlZaPmKujrI+Kk25nadHCws+/vM+/vNG+udO/t97JwLqnlYp/d7KlpACDd3SDdnKDfIOCfIeOiJO7sbqTi4+djIjHt7THt7TIta/MuK/UwbiwjnmYemqnnJ0AcWZibGJhcm11dHB5bGpzkoyUwLa9e15XnIB3sZ+bt6Kcu6aexbGpw5qDmnJfmY6Q/84ZdpWuBdQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/14.png",
+    "width": 1920
+  }
+}

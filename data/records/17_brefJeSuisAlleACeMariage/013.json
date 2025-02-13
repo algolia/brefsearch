@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "À un intervalle régulier, mon oncle criait.",
+    "end": 15,
+    "index": 6,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=13s"
+  },
+  "thumbnail": {
+    "hash": "87dfb6b7a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEQmFEwwIWxWTVk1IFY1IyscFGlMQJNpWIBQPWc/LyIVDzwjFmU5H2U6IXM/IHZJKgBOLhtFJRJJJxRSLRlTMiEpGxN2U0Z3UUOHXE6AVUlJMCQvGxFmOyNsQCWASSiFVjQAVTYkSyoXTywYUC0YWDQfSC4geFJFakM2gVZHd0g5c0s6NCIeWDQicEEng00sjF49AFIvHU4nEkcgC04qFVQwG2dAMYpeT35RQYBTRI1aR35SQTwrNko3QnFCJoJNLY1iQwBJJBBZOyp0Y1lYNSFOKRRXNCRVOSxZNSpiPThuSj1MNC0YESREMDRxQieDTi2OZEcARSAMfXFms7+9d2VVSSINTCcTOSETX0I5dU9GY0EyRiweHBARPSQackMpgk4ujmZKAEonE1tALHltXF1ALksiDEghDFNKTzstKEgvIUtLXGBmf0wuH108L184In1KK49mSQBEJBJIJBBDGgRJIAlaRkKCf4yBn88/TG0+PVZTfshyisChkZ6ZgohsTT9wOxqKYEEALhcHNxsIWkU9jIiWsr7gwcrrgpK6W2qSd4GoT2+ucn6sqaW/n6C/np+4jX+JfF1NshuDZ0Bg688AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/06.png",
+    "width": 1920
+  }
+}

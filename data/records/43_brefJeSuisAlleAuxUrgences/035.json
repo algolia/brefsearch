@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Un mec bizarre s'est approché et m'a dit: J'ai un bébé mort dans le ventre.",
+    "end": 39,
+    "index": 21,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=35s"
+  },
+  "thumbnail": {
+    "hash": "a75602b4e7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXBaU/aYAAA4H7dEXEJjARkhsUCmkymcVM3HEuHzjhZx3Qc5SiWQyx9kXYtDVisVEEwrm+hR4KZmyFm2f7lngdhADvrcjtsT6Ye2p5O21fn/ajL/e5lMODx5rLb4vdltrTFAzqdwePxlSpgEQDqHqfz0YOpwHMfncnk8djyHIpjkfCiX9ibUyg/n/W28wuxBJlP7vKCgHzaidof2xzTDhzDJnCgX/SuRLHLNyRAGfLRD7l6qVSvz6pyZ3AqnUiyghTLlVmnC3V7NtfWmiXqnzm6veoPGvzvX3fjyd/x3Z/x7b31c2Ld3MCR0eleIoZlfcA2vU7X4R4uHGQu6kCmQatc0YeaZZmWaZqmYRi6bhgqhOfdLqLCUf6guOQLEBGM3NkWi1SvzipCQ4WqBtWhpg01TdMghGq/P5DapwhdYwuJRGrpRfkL/u1tKBl+3yRSLVFq97Rm5/q41WUEmeFbNNcsAz5N0QhZYnJbH5n5GZaI14g0EQ5zqKtG5Llz/YhTCAokC+xXso5nj3dTdCSaRnIFsL+6fvjMLmHrHBY6WfTBBTf7emU/SwP+rFYuVGIbZHQjFMKCwVef36D/AY3TpInGPqqWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/21.png",
+    "width": 1920
+  }
+}

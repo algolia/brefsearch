@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Il faut aménager les routes.",
+    "end": 54,
+    "index": 19,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=53s"
+  },
+  "thumbnail": {
+    "hash": "72ad29c256",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAMDAgEBAg8ODhgVFB0XFhcSEBcREBUPDwcEBgEAAQ8KCBcUExIQEgcHCAwLChQNCwAgHR8HBgg9SDp7hXZmcGk4Sj5weGvBwLZiX0RqYDaKf2JwXjleSBodFggAAAEDAwMAJiMnDw0PGiAcREw+V15FfH1ZlIxbu693v65qsptXvadswa503cl7UEgnAAAABQUDACMgJAkIC1ZQMKKTX5SFVLqndaWLWKqdXbGgXLWhYKyWVYl2QmVVKhkVCAAAAQUEAwAiHyIKCQxlW0PMuZWok2atk2aPb0qWdEqMekRsZzxYVThQUTYlKxUICgQDAQIOCAcAJSIkCQoNbVdEj39jgXhWTTgqOx0bMSsbZ2xXNjksAAICMzsvMzspBwgFDQcIDAgHAConLAsLDSYaFTQwJ2VxcE9MRyMcGU1DPFpAPSkfGSwoGyslFhoaDgYHAwcGCRgWFwAMCwwDAwMXGBIhIR4yNDIbGxcKBwguGxoVDAsFBAQaDQovFhIUDgwBAgIEBQcLCgwADA0NBgYGBAUCCAkCAwQABQQCBQMCCQUDFBIRFxQVEA4NBgkGBQkBBAUCAgEBAQEA1kRV9/qEHTcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/19.png",
+    "width": 1920
+  }
+}

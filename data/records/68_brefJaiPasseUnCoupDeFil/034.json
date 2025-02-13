@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Je n'arrive pas à joindre Ben.",
+    "end": 35,
+    "index": 18,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=34s"
+  },
+  "thumbnail": {
+    "hash": "bb7a00ba7f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nBXLWW/SAAAA4D6YTUbLZg9YYdDSlh7Q0ouWSg8Kg8K6wmSyC+zCZMYEHM6ZqHHEGU2MGuNvNn7vHzDyjEngyBRBwojFEDpN9kXmfuCux/2H0/CioR5Y8jQwF2OvoYj4Dgy8etZdnEWhLh6yBZvK9xR+7qmfh/6vePQ7Hs38etx3l+P29+vhXWhfGiywOInex8/nTX1pcu9a2rJtvmnVIrlyE7iXTv1lYH+MB/fz6MtFd+Wpb30FGLjO1b7T4+mzKj3QJF/WVi1rfdT5cR79iY9ngRe41t+vdz9fn667xrejBhDa7ouWLVJCh+MUploslEOpfG0bM6v2cNwXqFIqXbi9XX26mnxo6zcdHRg69qJXF5iqLJg8Z9YF0WHILs9ONaVZEZAsiRfoA7956NpTU7SKeWDiGcu2sosRuSyX3ysz+ZLF0B7PNnhuG84kIHQXL7h6DcWIGlsOVQloyspTjgMhPLGVBiE8l+NROEOmc1AKTUJoMoUhmT2xVMlmBZaSOIIB1IrE0wJNlLSKTJN8OlN8tJnaTDwBQeT/2cYeg/BWEkMREkPIjY2df+xHXb17kOArAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/18.png",
+    "width": 1920
+  }
+}

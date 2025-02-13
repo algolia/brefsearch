@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "J'ai attendu. Puis, j'ai vu un mec chelou.",
+    "end": 42,
+    "index": 22,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=40s"
+  },
+  "thumbnail": {
+    "hash": "952306f320",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nBXN/W6aQAAAcB5hpMlW/AbkwEM4+T7uBA6hiENR26ZVt2qtzTqXNCbdW+yvPfKy3wv8OJX/BK+uVJ6HPG9ffymg8i0iuzHdEFwNYanDTAU5AKksk26PiH3O+Ny0ha4ldP1GJ5OllaFtA+vRRQ8m3DnozjIXpjFVB3lfZbIayxrnNBUqGalqT3X71jS/e6Mjdg6+fSLBWxKd4vGBkm0QVjpikhaJGkcllMOgQrS28IPtPbnOk2vvPe8nSy6z8rKY/16v/pzPm4CmMkzkAcdUtzTIHIVL09u4+IjJSxg+B+GPKHlj6UvETvFkT+J6aE36OpMhxzSvNMliRO9deqDJr/zm8rX6qOq/7+8fq/UuCLcBXhmo6GtxD0Qi4CY6niE6Gwb1/yHck+gYxa8xO+fFMUoePX+JRoUC4o5I2j3albl8GJaj8Q30ZtCqDXtpWreWfY+stYHWJlroeipJpN3GjabfaPpCi0s0JzdwBt1MQ3MHZ2BQKOoUgKmiFIoyEUXSamBBwMJ12G7hTucfs5JgemsMmzMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/22.png",
+    "width": 1920
+  }
+}

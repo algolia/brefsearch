@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Ça allait aussi allumer le mixeur, relier à des ficelles, elle-même relier\nà des poulies qui allaient révéler ses plats préférés.",
+    "end": 58,
+    "index": 19,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=54s"
+  },
+  "thumbnail": {
+    "hash": "e1d0df4030",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABFklEQVR4nDVPyVLDUAxLvdtva9KmadMCDXDkxP9/HPMCeHzwyJItDfBfCIzAAIyoRM6cSbJoMR895lTWdvo8r98DAiIQAhEIoe3URBwIih1RlizSzOdUH+PyNRDK3w6UdzZLJgo48I4roRMX4mqxlPFj2J0oAjOZcLCUbob6h93JHQ6sNuVyZ2lRH78CQeD+nUKkiFZPc9S1jJvnK6LDgVO5WZyZ65+AwLsATbTm8a2eP8u0RV01LhozcSbOddxEjsOemBEde2LzNKfpmY6vvevd0mJp8XxTP+e25fbaQzMZs7OEWlM/WblGWaOsXjrP05LaI+pjF18HlWxWzJrHpDH9ntQ0W7r0wU8pX3J7SflWx2c7vf8Ax/MRT6M+RjEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/19.png",
+    "width": 1920
+  }
+}

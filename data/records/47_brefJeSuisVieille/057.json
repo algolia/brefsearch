@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Mamie, tu me regardes !",
+    "end": 59,
+    "index": 22,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=57s"
+  },
+  "thumbnail": {
+    "hash": "cda56dbc24",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBaW/SYAAA4P4ITZZlumVTowHnuNpyrrbY0hZK6X2+jL6lwCqWyBY3WEgtDg+WbNE4EzXZB2P8mz4Pkk8/azUwvoUX0VSdOpA7RauZ8QJFAbx5xDsB6/iUqL6im1VWKtBCFrH8pqZUBLqgkhnDwI9nfByD1bcPV7d30+UbeNaAp83IcwJVUj1K8Q4RuceIbM51q05AOVYlWqpv52KSnPhuYHrOaCENY+lq7q/H3e6EM8cUQqs1kcddt96FjKNXhzNtEHFnM33eVVzX7p2ODKj5tnokcJqpuMM2crGYvJsFF9Pel/PJ5eXJn3+/bq7P41XCtVROBroDsvk8hRZ5oo4WywA4yPrrevE5Xt2svt/9SK4//fz7O/m4bOv9EtUukUIOJx6lUuXt3c5B7nn2RRgGCGEYVdM6BKDk2nUPsv6A0bwaoxRftvYLxON0PoPh6fub6NZOpVZhBAHBOx1MlEjb5iEUgqA7DGUdts0BWm1sbD/Z3H2KofhIlXo8Q5IE2WARAAEti/2wP46GFoTT4zH0wlyZvrfxcGsv9WBnj8D2I0N4H72ee/YtlP8DjA6SUm7kqIsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/22.png",
+    "width": 1920
+  }
+}

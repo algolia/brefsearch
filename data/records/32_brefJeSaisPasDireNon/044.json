@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "J'en ai parlé à mon psy, il m'a dit: Je propose qu'on se voit\ndeux fois par semaine. J'avais pas les moyens.",
+    "end": 47,
+    "index": 19,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=44s"
+  },
+  "thumbnail": {
+    "hash": "5c32985301",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIKEfpaVjcTDwM/Nyq2il720rIqJflBTO6KLgI9xaH9gUJhvULewpJiSjHFmXWdcVAB2dG+joprT0c2diW+CYj+2oYCWkoRjYFKIYFd/TkV0Wk+ed1utn4xxalxgVT97b2UAdV5WpKagnpSIZ1Etak4vfWFCXVFFST05dk9IgVRLhWFVmHJZkHlgRj8rSD0oXVRNAGNNRpOHf62ooWlXQD0tGzkwL3l0dndta0UmIV5AN5mOibWgloBfQ1dGMU88LTYsKQBgYF1oVEvc09GQj44jGRespana0NjFr7d6YF+UhobLvsXVztW8qqCLbFV+X0deSz8AYmJfY15ddGBcemhii2tfrZONloWQo4KTr5invq24sZmkpZ6knISDmW9fonxgalZHAElGR05JTywaFmxPRYNjWy0fHHhweqWhrJmYm4WEi5KRmFNOTDonJIhmW4xvYmNNPwAfGCogGCVENTI3LSs7MTEZFhh2cHm1sbqKjJdiZXVkZ3JKR0l7WlVHNjIlHRo2LioADAUUEwkVLCIiHhseJSMlMCosaWNrubW8r664ZmZ0IiIqJiYuYkVFNSUkEA0LFxUWuWmzd3oKfr4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/19.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Il y a mon téléphone fixe qui sonne, c'est chelou.",
+    "end": 51,
+    "index": 29,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=50s"
+  },
+  "thumbnail": {
+    "hash": "b96b2355de",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nAXB226aYAAA4P9qbdNWRFD4OQiooBwUrUAVbRCloq1ngxG2bg01i1uX7nCxzLSd17tddrcX2O32hPs+QJ0mDIZo5LI1jon8i4dw5BF4SKBvLDVqG10El09S60HHKct1pTRxLXCZp9+2tFnbXLmN3/v7vz+fdoH3PHV2487HoXOFQyNFfVgOty3dV8R47gGbY1oFcej0nzcv//zY/fu1n15ehG4zqOuWqlbIbDNNr23zxtKWjVo894HElcRc1TetyOtEA/8xDgS+wNJ8Gs2cYhCDXB6D43PD0XWRLUAogWSSQVC+VynHPdszrX5VSuEQwaiipJ2gpJAVmmKeZ4s0rTJMGcNzAGY4IsNLgtKUVf/c7FRViuYhI+iqnkDJVbP8xa+jKJPlqjQlHx8TYO27j9v4PgquSnxoqE+34bdwsX939/395uvd68+vgs1sQMMCpLREkn1xhINJ29wur+ctayYxU5HpCuxY4hamdtu1P60mD9Hi5rpPw2KW1Ugif3CIA4VMy0RaQBCXhw5LFDGsgOEKJHqy4JX40Zk6ss3Do5RbO6vwOQAO/gP8S1qYIJVowAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/29.png",
+    "width": 1920
+  }
+}

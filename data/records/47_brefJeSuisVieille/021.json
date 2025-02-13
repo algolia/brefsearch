@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Alors, je remets et vu que je cocotte trop, je reprends\nun bain et je suis prête.",
+    "end": 27,
+    "index": 5,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=21s"
+  },
+  "thumbnail": {
+    "hash": "c830557a80",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEY7PEo7Ol1TV0Q1Mko5M04+NmdWTWJPRUo4LlpJQD0wKzAjHDYqIzotJDYtK01DQQBMPTtya291aWxXQjxfSkBfTUFpVU9dQz5VQDZmVEpFNjA2Jx04KiBGQEFMTFJVSUQAVElLwNPivsXJY1NSZU5DgmpYgF9RWUpVSUVTYk1BaFNIZFFHYE9HY1tbY1taYFNOAKnB2K6qq8+tiaeqrG1cV4NoVF5MTy47Xh4qS0k8OVxPSV1QTm9gWnZmXm9hXGhbWADI6P2uqay7q5fEys54Z190WElgUFobK1AZJkpKPThLQ0AyMTw/PUJuX1hjT0NVQjUAtc/sqrLFfIqbucrke2ZbSS8hMiIlHi1SFyVJW0tIemJSYlJKX1FLc19TSTIiNRwKAG1zhmBWXUM4O2xcX19GOUYvICIUEBwvVxkkR15QUYl1a4hzZoZvXzotKB4WFC4jHQA5MTMoHSI+JBtCHgs+Ly1dSklaMigqLUUWHTdaPTVrUkluXVZzYVhFNzBBLSdSMiwAJRweMiQmMSIgJRwYPDEvYVlfZFVcKhshFAoNWj0zUTMqRychRjYvPS8ub1VYcEI9HcKJwojhCaAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/05.png",
+    "width": 1920
+  }
+}

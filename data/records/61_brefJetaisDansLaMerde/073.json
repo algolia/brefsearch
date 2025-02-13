@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Quatre mensonges. Béatrice ?",
+    "end": 75,
+    "index": 31,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=73s"
+  },
+  "thumbnail": {
+    "hash": "bbce993e6b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBW2/SUAAA4D4R2EZHT+mBQ6/AgekKXYFeV6AFWigUWDtgbgk6s3lj0WiCiSZuD0ZffDP+Yr+PEGka50GnImBUzKQy9XI19INdsnhIIlVuRpNwvVwM+73I98Jz1VFlggeUwpckGhyk0geptIJxv93+frP692Xn6nq8jM2O5jnnrm0FnndWxYRAA0RmqXSmjoobS1065tzQvl0nP7YvfNu+WFyMXG/iB0PXW06nXUMjMEOXKbICcond+rmNx3qrzvL7y+k+ieLAv7+9nYfR2B2G/nQVzWeeR2A6JzKQh6iUL5xh3DptPm/ovabcb8rDaLN9vXMtZ2A6lqKtZ3NN7RAI5BGHWb7GseXsEcC1hjtZJetXyWhw//LNx6+//VEkV3ADn3R1oyErRAFyLFcVxLoonYhCDSHJcqNw8y6+unvaP/799Wd18xaCYglABBgEGAJCHhYEChRhQZCkZwKPu6M4uLz7/OHT4/5pYPU0o1+tnB6ls+RhjjykCPIYUgCRxzDPcByPBR63zcH7q+uHycBqG+USO7b0mec6pq3JcqAq/wHtZlkPzFhn2AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/31.png",
+    "width": 1920
+  }
+}

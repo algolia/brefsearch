@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Je suis parti. Six.",
+    "end": 48,
+    "index": 20,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=46s"
+  },
+  "thumbnail": {
+    "hash": "bc28a84e19",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nBXO23KaQAAAUARWWO5QjBBYUFZjBCEQiAq1IlGjkUZ7SWPa6TUPnfYr+usdP+DMHKIJmnZLfTfPntdF/Trr2c4kTo+L6HEWroNwG10dirTOo8Oy8No6SZIEAIAH4FOV/fv79Puh/F5c/7wvXw53j9Pkz8Pq5e3yOB977dabm3iMbUiDE9B59sdd/mVbltej1ajfQ/amyDbhRRkH3/L4V+p7ujrHrY1v2YpMUBQtc+z25koUFMiJHrJZKEBONDSNANBvqcc8+VhkqWtGtlElIUFSTYpmzLO2IEiqrHKchMxzTdEUUWYYPurYyQVOg6DC3V3XqVx0Ag0SkCSQJO1rmY+H/iIdDyx75g89C016jsxBR5T2lrl4pU0VmWiQgGjQFM2cGahtILczUHSL5WQoyIKkLcNhNZlWuDuV5VgSI0kkCBLQNNMgAc9yhqojhLE36Dsu7mBsd56r2w/vn1ajKIDwUhAGPE9QVJOHHHWK0cmlP5tt9rv6sKvXt/ef99t6sXS9YXZuYpZFkO0Lwn+oFDztPmmEzgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Je lui ai fait une blague, il a pas rigolé.",
+    "end": 55,
+    "index": 22,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=52s"
+  },
+  "thumbnail": {
+    "hash": "632a31e086",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXB7VOacAAA4F+eaQgoEgXZJiQvAiIuA8VslicnWtO03EUmLbXN9HSczV23WW13rbu1290+tI/7Y/c8oFcozY470+b5Y9dta1kMCmAwikJIOUl/bb76WJEmJjspseNdenawbWsZUItxc7v3zRn/Gc8NIRWCUAQKQkswAqGjsvKznZk3U59r0rXFukXmQt8E1gZ33778Pby5ezehgjhPkOIqJVFr/kVYpcmntvZgpx/P9PmROimLw7wE8rz01Hefp98HDWcFCXZ0vWsYR6rK4ITPt3Tb2Pzbzd03FbciXFn8VX4DYBAy2D/+9+VXq1gLeH2DnfwHXbeTciQYAsDr5Pgfh+LQZEeV+GWBSa+EgWfBI6/Tz58erGwRALDHcaeybDJR/6IfAK+6vnx3mBhZQicb2Y6EDRQBFEngEDy1+3b1LQAgjeNmXMiskREEXfD4KAy+eSPNyrHXHFHEl4cECpSUSK0SSpS77U3TfFIIhgrRF/UtbT+3i8KYIcluNeVopBhlTIatowGwpSc5ng7DSKdUv7bf78WlEyXRP2g59dOW1bionfWrjZ2XZCImKzExG0D+A6wfX1We3TYHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/22.png",
+    "width": 1920
+  }
+}

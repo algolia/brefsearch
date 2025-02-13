@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "La fille qui m'attend là-haut, c'est ça mon truc important.",
+    "end": 100,
+    "index": 45,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=97s"
+  },
+  "thumbnail": {
+    "hash": "062cc3e910",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXBS3PSQAAA4C0ku5ts3iWBBUISQkooDwmFFKKUlpJaCgjIo4PtwbGjnTp2fIx66MXRswd/st8H8gYtUNcyK61g6Do1nGAEhIq5XK/WuO4ff5yNv12vr9qBVwrCkzlkJWCms4ZGqeG0gnPPbaJEkmehZ5pRI5iHrbt4uIyi2/jsrNk+qrYRtw9yOs2nzeeNzsXpkuomz0IJc55pDsPeJgof51f30/Hn9eJhuYq6McIqoPuZku3vLldPX/9Y+RKBSBOEcsGKey/ejQaPs/HTbvN9u7qd76rBEGMZZDTjwPHXLzd/f/0LnkVwb08l/KFtD8Jo0mm97UdfXr+6m1weHRxmqaenXSBgUqDO4uTi96cfp/0JA4DKk1qx2PCrhqwsu+3pcaduWYacSom6qlCQM8xmOfiw2Px8czMIByjBGKJYdWw7WwAAyLzQ9ct1y1IFRSEqZDhQyPujaPSwvXk/m1YsFyVZXRTtdEZAIkwiJsFmZE3ERBVUhZclLIJOubKL4/v1NqoHCi/yEKcEYqdkwhLEIII4mGR4yGlElbEkc9J/zxpFPs+qLRgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/45.png",
+    "width": 1920
+  }
+}

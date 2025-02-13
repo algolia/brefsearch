@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Et j'aime bien.",
+    "end": 112,
+    "index": 47,
+    "start": 111,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=111s"
+  },
+  "thumbnail": {
+    "hash": "5fc50c261f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABj0lEQVR4nAXB22+TUBwA4B/tgXOAHjgcOIdLYdBCWaGwzbFmnb24aOmmu6jJYmJMvLzoi9EHE1/85/0+GMAQAdJAxaBSZNx2Z9/63cfNcu77VRjtTxbdJH3VFI9dvUllQVVAgLCCiUI4MjLmfnq5/fnQ39f5he+VDu/S7KosqjBIGW8kmzMCGmgaEK6anSv6ev7r/d2Pw+7rs/Lv+mw/iVfT9DxLYzIaY7PidmkTYMORILRxvXUQPq2W3+9u+qr4tzn5vWz3k/hFkUVMNDLYxdE2C1cRg0BjpS2v4niZxE/rVT3ObGy/mU3fHU+vi7SUgYFo6oalDHNmHWYBSJUe6V5Bg748/nOzfd20PpWuyWNbRrbwqLCIxXXm6HYtnA+XFTBFF4gGmFdW8uWi+7x5XsjEIcynghvcNbiFLaqOLExL4W3zBDAgU8Ec0UB1z73JYdG2SR7Zok2y2BGmOiJDkwyIa1i+5S7CCBAMEAw1UE1FDxG/PJq97U5vq/z+tF6EkTkgicUwaFMh52E0H8f/ASU0M5fzJrlzAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/47.png",
+    "width": 1920
+  }
+}

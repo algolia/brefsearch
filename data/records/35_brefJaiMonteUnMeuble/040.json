@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "L'étape sept a été difficile.",
+    "end": 41,
+    "index": 18,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=40s"
+  },
+  "thumbnail": {
+    "hash": "8aa4a49f1c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlOTGpfXn5xca6jpdPNz8G2uLKjprGjpaeWl5uLjJGCgYp7eoFycXdpaHFkY3FlZQBpXFqBc3KShYW8sbTd2NnQyMvDtrmPfX2pmpyrm5yfj46ZiIeTg4GKfHqJe3qOgIEAcmVhk4SEgXBqnY2FvLOzgnJro5KQmIGBYWRxmIuPuKqpoZKRnY2Mn4+PpJWUq56fAHhraJGEg5WGg7anpbuxsIBrYp6Nise9xFZgcXh0eMm9vbSnpqWXloV5eJqOjrGmpwBqWVdnZFtwb2TAsLXJwb+qm5iciomTgIBYUVhBQESUgn2pnZqsnps6Mi0cGBY+NzYASTgvW0pAWk5Fe29tkoWFUU9PgFBEcRoAPzU2emdgcldOcWdjhXp1LCchGRQRLSUhAFdHP2lYUUtAOUU6N1hFQDkxLlcwI3Q7JyklIXNVSnhSRT8xHy4mHRoVEzAnJUU3NQA0KCQtJCA9My05LitELiKMY0iMXkCLZEs4Mi0zIxpsPydbNh5BJhUlFg0tIyAhGRsAEAgDFA8NIyAeLCAZRzMsTDUnVDonbEQrY0EtIB0cNycfXTwsTjAiNh4RJxsWCAYE9d2uXkbUL/gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/18.png",
+    "width": 1920
+  }
+}

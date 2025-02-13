@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Beaucoup.",
+    "end": 44,
+    "index": 20,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=43s"
+  },
+  "thumbnail": {
+    "hash": "850711d5c4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXB227SYAAA4OoGoy09/KUH2m50K/ZEu66wrtAyC40MKoONxilOEy/UC/VGvTQxPoK7MbiYGaMmJho8hC1LFg9g9mL7PkhfteuNqLe7O+hf9yo2gmQoihAELgyqcac13L8Vx9eePX/6ZvR2dPiu1W5DhqF7635Qq3Zbm6HvEjhKs7myqXbWLY6m7g+3bgy2Xx8cTE5Ox99/dns9SFZK8uKyU+D6zSD0NwCJCSxlKfKdRjWuGMNufZhsvT86nM7Oz85+7yQJpJprrm3frdsPBp0w8AgClRdZT5MVSVopSARTCHz388ejv/+ms9n/ZG8P8pvRRsVNPKOxZtXKjsBQ8lJ+hc8voBROCxhgASe9evli/O3Lr8nxzf3bkBdGelEpSyKSQnnAiHSOZ0GgFB1VQ0gWxekURgf2leOvH/5Mz7v9HWi1VMoROTSNUjiQ8iIGZ0kCv9d026YFZzCUYGAyb8rC+NPox+RksxlBmmkDwMxdSokMb+s6nIYvz6VjDTyMGBpkMziLEuySKGy3m48eP6nWr0KG4wKaIzJITVeNgphF0Pn5dHGZ7DU0TRTgLMULomKohmVWXNdxvQtnRWCZRIBQ7wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/20.png",
+    "width": 1920
+  }
+}

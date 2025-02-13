@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Mais où sont nos copains ? C'est pas une copine.",
+    "end": 60,
+    "index": 20,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=59s"
+  },
+  "thumbnail": {
+    "hash": "b2f0b0aa76",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXBW0/aYAAA0M9pRDASVupWS7VYLJf2a6H3+71SoBRIRRiCYRiZyRL3sNftRfe8h/3jnQPEriFxGlo5JwkqHeS+M3DMOE2XczfaW9rci2wj5li5ftk01NBSLGCpPlHFAQDoafkuWyS3s8gfTafrn/lsrfGPYmeZ3XOcztCQa0syrwCGhsXDQuHDMVOnF/nmNsriYDwdL57ylSX6Ic0kXtLjDa7TIy9IDL0C6OlZ6aj4uVweiczXLxvPGXh2P0vvbSVw9Mw1Zzxnd3kdXlMkgrQbbRCIzZODo0TpPHvs99XcsYcCr4ldTeVN/oZlGnCdjpa+3sKwT8UShdXAS25elE4WDv/sw5dp33NHlh4qgkki51tXfl/2/24H/x6jra+aEPbaEPzahQaBTPjrrcu+Ttw4SDTZ850BjtU3vvJ+5xhocUjXXvvG791mpUPwtg/HkOjT2Ns2+hbAhyxnOpEimThO3yDIg8r8mWir1kcZrw0FdS1QIBRaP2aSfVndJz2HulrIti/ETbpbqeDwrLBrH691KWUpjaiqjVbcwP8D3qpdmdgxE+wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/20.png",
+    "width": 1920
+  }
+}

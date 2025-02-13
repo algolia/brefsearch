@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "J'ai dit: Pas de quoi.",
+    "end": 85,
+    "index": 26,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=82s"
+  },
+  "thumbnail": {
+    "hash": "712cfaf728",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABSUlEQVR4nB2IO2/bQBAG2UmkeHe7++099sQT9TRlCTEQF0mAGAaM9ClSpkn+/68IFGBmiumILcatQgGoPgqAKLCg2Mm2i9Wnks/ZlmLPpVy7uS2ndplis2SlmFlNKQGo23lqR6vHmmelGHVn092mT93bl1+3w3MmiCPL5dAuU9kn0Vyq1bbLc/TQgODC6Fiw7T6+/zlNB3Gj+MCj18CJI7uwXq+YUFDFP87Q94FQ6777ePtboX7oh3U/9gNtRhrd0A+r1WqzGf/zkIiP55e2W7r3b78v7Vy1gEQZiZFFlSQiJ0Ql9qPzzk1tnvf3mFr39fPP++n1PC0WLQqUoYLIEpHAoiwaWFlbO5o1Eelerj+e5tfD9ppgw3rtR8+BwQpSdiQBEqAci1YheO+72+X9MN1q3isnciSEyCmjJBRQBEVyRJ6UI3sJnv8B26UnMfhzhaEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/26.png",
+    "width": 1920
+  }
+}

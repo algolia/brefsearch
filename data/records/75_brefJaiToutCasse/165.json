@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Comme ça, tu es encore un inconnu que j'ai sauvé.",
+    "end": 167,
+    "index": 61,
+    "start": 165,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=165s"
+  },
+  "thumbnail": {
+    "hash": "f193770732",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXB7VPScAAA4IU3GNt+bG6wGYdQhrANpE1UYIOxTRREIJYMeRkkZB4Tscs7jrKuuj50XVeXZ5ffuutb/6bPA/W6PdO0fIBEvQDxoHxc0I2DdsvWcwUCUD6wjGMEjlMUHRKfZnazCtRtW+tRbsnlhmHEDXu8HiCK2UF/bFXrO1xST0kogiEIjnmBn300TO1As6mTTssuF0ziPoDiSw/gcHh94lzNTl7W8oWT0v5mTCBxEvGCJ/TDBZ+EXk8dWdYiDFtX5KOipkmiedC4nM2HVndfVg5zebvaqKt6RSlccvx15DHkTM4aZqdl6C92DVvXWkXl2/sP794sms9728lUIho3tVL/sDGSNlsEseGjodPj9mT0qm6omiRVt9Nqkp+fje9+//11939oDRJ0QIwJx1uZDAYYKkQEBUiR8uPms66c7q4GK/FoMZW4sDs/v/+5vf338dNNLszVAkyZ8i8jgGTW/GwUCgnZ0l7FTm9csP5xJMSv0NNBf3F1/fXLj3bHQVkuRzESQbthFAcBHxmE+C1dUY2qmi1ThJ2SjmrNUW94fnr+dv5ZlstufCWMU6sYiQA2JmQD7No9ilRgY5GQ/jsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/61.png",
+    "width": 1920
+  }
+}

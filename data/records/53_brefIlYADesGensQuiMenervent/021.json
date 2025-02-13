@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "C'est bien une réponse de mec, ça.",
+    "end": 22,
+    "index": 9,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=21s"
+  },
+  "thumbnail": {
+    "hash": "6128b08d6c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nBXNbVfSUAAA4J0TB7a7l7t7717uNmAMRg7WZNgacXQMdIlpdBLSErUI09BDnV4/lPYhO/2G/m6n5w88TLZSyepln9KqZmSt9mHSe7UzvHg2ul1ejNJeUKsf7Wx/mR334lbcutvvrDLdEvUIsRGWOFgkdP5k98OLg2+n0+dbg816JXWKVaP0+fXJj8XZyf4wDj2GClBmJYVHSCCqrG93Hv48m72bjJ+2g1+j5GMaVrD6cm/36+nR8ng8ftxnRFYUOSgAjERVltT7jeB2cT7uD77vpX+nw33fLRL9Znl5PZ3Mk3DyKGFAQQIcEgCGogIA7gbtP++veuHap2z9ejPecMoIajeX57+v5m86zSz2GTYvAlbmAeIAWlFp2rjXrHgKpF3HGdQqgFcUSYn8aHF4sBhEnZbL5O6AQl7gWMgX5My2+w3fodWSapvIiCxLR4aGTATNtWb7bRJGnvN/yOf4XI4nnJTa9obnm9hyjVqZFNcd28KWawcCIBQZswfN1arBKEhTsC7zsq9poWnUaVnisIVMCqnIIZFFWNBBASKeuETDovgPazZK0M05OycAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/09.png",
+    "width": 1920
+  }
+}

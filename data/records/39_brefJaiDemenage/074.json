@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Ça faisait trop de ouais pour une bonne nouvelle.",
+    "end": 76,
+    "index": 32,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=74s"
+  },
+  "thumbnail": {
+    "hash": "b0c44403bb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhJQ3pkZLOssLWusLu0tby1uLq0uL64u8C6vqicoFo5NTwmJTEfHyMYGBcPDj41MwBnTEdxY2Wpoae5sre/ub2yrLCzrbG5s7a5tbysmpmhaFyhbGVNMC8bFBUWDQ1HOzYAWEI9bGFjg3d8iH6DrKWtubO3s62xqqWrraSnl29kjF1WjmBZeUxFQCclTSsrXlBIAHFiX2dVU39QTGxFQnxzeLWutbCprbCus6qQi29COJxqY6FoX6t2ZppmVzohICwpNwBaSkdNPDuJWlh+UlBQPT2GgYepoqixrrO1k4ujbGF5TEuaaFyzg3GFV0hPMzA7O1YAOCMfCwgKZ0RGeE1NUDQxGxQaTkpSlIeLoHtwZEpIXEhKtYp6lGVXXzs0UUVbREVjAFZMTyIeISYbH0gtLh8VFhEPFTk1RntbWFtFQxseOH1tdpdrWz4lIzYwREVIakNBWgCTjJJ3bG8vKi0wKTEsJi0VExlIRl9vZXstK0AtMFGUeXxwSkAmIjVER2lCQl48OlEAdm50dGpuSUBAPConLR4cFBAVKSk7Q0doUlFke3V/nHlzcUxCLC1CRUhnMzJLMC5DRUGkat64wMsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/32.png",
+    "width": 1920
+  }
+}

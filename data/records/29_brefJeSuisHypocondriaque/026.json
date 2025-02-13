@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Quand je vais bien, je m'inquiète. Ça cache quelque chose.",
+    "end": 28,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=26s"
+  },
+  "thumbnail": {
+    "hash": "333b8406a3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXBzU/TUAAA8CZCAnvd2r716/Wt7evr1vVj3+1mAQWpY3YLmLlBGOLGiCR+EhEPqAcPRj3gxcTEePCuCRfv3v27+P2YmOC+qw897aGv7NiCb3A1F1QNIXLU83Tl6uLl/x/ffp49DcwCxSrkINP1yLhRmsX+k7h84OabtLCz5k935+vN6HjV/zrfv/pw8WU2rth0o2J3A57pe8bA0/fD0mHbfVRBKzZOOw2i6YGBzwZ3nm1tfJ5Pfr0+ed7rTdfatxyOGTXs20QelNVtr3DYpHqOhQAsLS7UNPj95ODv+1f/Pr398+7F5dERkZGwlGEmLTs2xIRKPSqmjgYWbohgGWZBUcmnbunj3vbv88eXx7uTpNvy6lHJYUa+mhTRpi1vmnyIOMyzliLJORZx7Disv7l/b5rEp8M0abU7fn292WG2KOy5hVHNuEtghLmKqVpIFbOsADJFVaybWj+qng4HPqEBoW2vykSYXzXFcYBmIblpQM/QKUKKwIm5LAQZV80/iMPIcTSYt1QUWEXG4pepABoy27WEmEiBRcq6ocuSqShYFE1ZoQgjCBWek3JZgvA1FBZTviLqwaUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/12.png",
+    "width": 1920
+  }
+}

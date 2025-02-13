@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Mais si, je suis déguisé en DDo, le prince des ténèbres.",
+    "end": 40,
+    "index": 16,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=36s"
+  },
+  "thumbnail": {
+    "hash": "1a81714d4f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXBbW+TQAAAYBbgOKBAueOgUF7uKNBXaLFbQ8tWu7V2dnUONS7xk5ou8YMx+sEvGv0j/lqfh0uxTREueuOkE7wfTf/sXv48Pn57+/vL+q6pXkyTMmfF/qIprA5RdCa3OSxrGlR0ID+PezWlP1brv7f7j6vmJhpc9y/WrGgDaWL7DBOimyMr4WJFcyT4enp+2h4eZ+VTWd7SMKPLOh4eV5+PD/8m0SJDmGGH6IalO9ybiN4Ph18Ph1/Hu1ORN4wtA9YN1kVcp9k2O/8+D59ZiuLppqsbigi50/Ly02X9tLn6UE43Xb+hyU2UhGFlOTOoeUizuy0DinBg4WUcIw1xr8ajh3zyriz2g3RO4z7pOIomiLIktWyDEEUTBJBauOy6vuVig3BXlO2y7L7Id8P+LAx4HogCEHlwdiZgVWWmuQjtTRIVrkeRCQHk5n6wCMMqiioaLVikikDgRdJSgSAJAuwTkjttpMieblKEVCBzY8edOJ066VWMVnG0HachJgaEM88NEdKA1IaywAOiar5hKAD+B7VAPG2mR59pAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/16.png",
+    "width": 1920
+  }
+}

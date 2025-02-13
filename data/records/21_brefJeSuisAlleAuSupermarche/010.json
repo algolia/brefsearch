@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Je n'en voulais qu'un, mais ils n'en vendaient que par 10.",
+    "end": 11,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=10s"
+  },
+  "thumbnail": {
+    "hash": "11e2aa6097",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKSkuZWTn5+VlaypsNDO0cnJxbuzr7eusJ6Nh1lAPCgfImRdXq2ppLaxo6Wckq6kmwC1s8OPkrKUnb/Exs3Y2tvT1dLJyMm0mJSidVyPZlYeGR0AAAd+eXTLx7qnnI60qqYAubbKqK/Gt7O5xcC819fYzMXBt7Gsqox9qX9qg19QLCElHxQXaWRo2dDQwqmTvrZ3ALq7xsfFx9DJycbEwtfY2NPOy7Cpp6OIgnpWUJtyX2FGPXpKQZKIhdDPzrCdg720hwC6tbTay7XIu7O9u7i9wMSwsrLR1M+yl4+idGSnfWh5VEaIX1SyrKTV1cmurZy+tLYApJydu7S0xMK/vry3t7OsuriyycrCqJiUilxRjmZVUDYwhWJTcmBckI2Kt7Kjq6OiAIR9fY+JhY+Hf5OLg5yUiKOfkI9zcGlTXUo4PDwrKEAuKH5ZSykcKycfMpePjoJ7ewCil46sn5q1j23ArpbGwrnGu7JLLToKCSYPDSoQDSMyJDAkGiwICCIUCx5EOkNtVlcAjIF1m4l8spF0uqWOu7GHood3JhMuHiA5HRMyFxAvDgopEQwrEg4mCgwkIRYnQRQXWJfgadqRuSQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/05.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "J'ai pas de cheveux.",
+    "end": 21,
+    "index": 8,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=20s"
+  },
+  "thumbnail": {
+    "hash": "bac9bd2877",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nAXBW2+aYAAAUBJXrUVu8glMQMDPwrgVBLEqdRYaqBC1Ba2262JM3LLtYc0eljR7WLLsZX975yCLsfUQDXbxMHH0lX9RTLwCKjOGswFz1VF8SVuGY5Fm0GoDrWHVSh0ppv19Ormb+kvP+rfJXqKgNHpRmw9EKTX1Yuhv42tVkEiUJFCqXmsg22hwyMP1LFgH3usiPYbBXO3eC0KowNE5/JRffylXlgxbBKAwgJ0RSHnl7rPJIbn8mUevy/Rw6T71jTVUZqr22LePi/z7h50tdbkmRxOtJg6QyTl/zMfbePw5jf8W+UfXLP2LTXLzZ7/5Ohs+Ru9fnne6KLEUBygWUCwSmup9lg3DuaeZT6PBrQphW3QM53eRbF1jIMvfHgqVFwHRAhRLEQDpBxHUA9mY+j098xxXgZygb6KbX7ejO1vTAPM8T94JHbLRJDG6foojHT1keK0t2wIpTXuO2XXaZrxOVz+SUW72IGAcy9cEGath6Cl+8gZFuK5HMvCM4FhSpSs8y5mSk3qmX7qa97ZFN5rtjgVwBq9h9ROsWkH/A68zT92ZBTBWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/08.png",
+    "width": 1920
+  }
+}

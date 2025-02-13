@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "J'ai une liste de trucs à ne pas oublier, mais je vous dis de regarder la liste.",
+    "end": 21,
+    "index": 8,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=18s"
+  },
+  "thumbnail": {
+    "hash": "39619863b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nB3CW2/SUAAA4NMbbc9pyzm9F9rSYlsKm2PdIDCSNSY4toURrWNRWDHqwryRmRjj3qZLND747Ls/1cQvH0CK5YR77Z08GxWd/nlvMD1d3s/Kb8Xi9uxkdTmdfvlw/fvrTTF+5JhaI7BBhWYs2x8dvRpN1tnDw0mizsvb5+//LK9+vFl/L4syqRnDxDvqbjtECgIbRNu5pdv98evHF3fz08vz3cZsebe4+bta/7p+e//xosxDo+PCfCuIo11F0cDByRUSkB1kg+EzT64GGozi7GDy7sn882bzc7N4edxu7PtS6pE42kFQAXGccRzEstEx665MsAh1xLtYi5vZ6sWn2XjaS7o1oquKGAQpISboHRaSKKuQhNhsabYuikQS9uuOicik22yFe4K0RTOYYSq+l1qWB/r5U62qaZA0sB4S28fqA1cPDBtysimLiuSxrMrSkON4viKLPAJpd+iJKFKtdq0VYXPg+8ctV0ESyyKGroiCxlASTQk0xVGApgANmmlSR8iv6r6dhMQxBInwLIZihRVUCUNBZSjI0TwADPX/P+f/Qecp8X7aAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/08.png",
+    "width": 1920
+  }
+}

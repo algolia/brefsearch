@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Je me suis dit qu'il devait faire la même chose, alors je l'ai rappelé.",
+    "end": 27,
+    "index": 12,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=25s"
+  },
+  "thumbnail": {
+    "hash": "cb33465669",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB+1PScAAA8F2HOPdk3/GYwrUbB27DDWvgeCgbAQ4CJ0IBXrxBiAg4kUvlrtIusq7D+qHrrj+3zwdqvFCGhVgnvT9OhxaF5M3ZcT2uuIC9mlEvz9NaKOi0OXiWa5bzvXOzaCSgSTXzoZ2fmrFKSJwZidZRdGxoKVG4rB1/HZyNUurgMOizO57tSTeTTrd2Ci0vSp9HlYeWcV9K/upWvtVLP5rFWU5fva+s2rnV6eHPV4l6VC5Ew6vbyXzQgG775ddZvZ8+GCWUxcvUn4vaNKtJXt/f36v1vLfMhL+XtTsztu6UH79cL6d9iGNZBAO8x12V+X5MHWe1yK6fcniu5vPrYeeTEfloxrtx+WHW+7e+v7t6B2HABSMAx+icxJdU5UjgRc63/dTXLJn6QbihBpO8NykFTF1/23qzGLYhEjAIbocxILNcShQSYoBxeih6u1084VhRFQL5sCLxMqDcOO60024IQahNhLJskSgG9lkv5/HCKA1oJvY84uUURVJl/x5OMDjhwnCnddMGbcDkxhb5xIJaYQLFaUAxOOFAbU7azrl3hB3GTxAMhjlQhLZaSYsF/w/Cu2Nm7FpjVgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/12.png",
+    "width": 1920
+  }
+}

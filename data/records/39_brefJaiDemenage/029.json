@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Du coup, je pouvais récupérer son appart. J'ai dit à Baptiste.",
+    "end": 31,
+    "index": 14,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=29s"
+  },
+  "thumbnail": {
+    "hash": "5928848a2a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhUTXlmXXVhWH1nX4x1bIp0a4hyaoVwaIFsY39qYXtlXU05NEk3M2tYUGhQRV5NSQB9aWF3ZV4rHh53Ukqlg3iRfHWSfHSOeXCLdmyJdGxxXVFPLyd3UUplRzdjPSRsV1AAiXRrVUlDRy0tk2dionlwf21pdWBcd2NfdmNdhHBpeWRVUjMlglxUdFRBYjsheGBXAH9tZntqZXlZUmBBPXheWXppaF9MSmFQTm9aU35qZHBdU0ApG2lIQ31aTHhYRIJtZQBgWV5TSk6HdX1yWlt2cYaShImQfXuMeXh6Zl1/bGgpICoiFB9TNDkoGyk7Mz+CbmgAX1xlSkFEk4+eopyqk5CnfXiSd2h1mIOAb2BsalthEAsXDQoYDAgXCgYTEQsZb11bAFVSWkE6Pm5pfKqnta6ptIp/i21MWHBeZWBRUnhgWgoGFAoHFA4KGAgFEBMOG2hWVABFQUg6NDhbVm6HhaKil6Gce3egkZPV2eHDtKmTdF4kHSYVEBkWDxgVEBghGyRRQ0QAMzE2NjI2UUZSV0pWPi8zV0JFop6k2t3izMjIurCsc21sKiUnLygqKyQnIhwfIx0fFU2cMGFQv/IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/14.png",
+    "width": 1920
+  }
+}

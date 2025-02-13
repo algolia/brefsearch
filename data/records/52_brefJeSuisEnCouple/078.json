@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Bref, je suis en couple. Ouais, ma chérie.",
+    "end": 82,
+    "index": 36,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=78s"
+  },
+  "thumbnail": {
+    "hash": "58c9403fe5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBWW/SAAAA4CbGiNBCj7UwNmhpSwftCq0cpRyjBy0MqnaOGFxLCAqbcnQCCWboYuKbL8bER/2xfh9wIRc7SrVbV/vNhqvrripKdPpSVa47piufj9Ta3O5MW41xU/UaylApA2al7LRart4edgzv1UtHq7fEXE9V5o79c/LmvW18WW+/bve7T8Hqw93MmwC9WvXaaI9sc9S1Rn3bqsiGKPgd/fdiurSaVp7dTGc/dvuHRbCZ3X28GQOGUhuYlmuaE9dd+WOjWpFYZvl68C+Yu1K+Kxceg93j/e5heb+d3S49H5BKmlzSmxdXg+7w2+bgWj2Jpt4a2k27LiSIted//7w7LNaHxWo/vw38McBxLzKkwHNVJp2lTyjxrHCEJclkup5jcYzI0lxZKNQKUokXSvx58SwHJE/Z4wSVTdFkPJHnpASRgkBYa2hXXQeGcRQ7oVIMAhORMBh+HgLDESCJx5N4PEUk8gyfyQgYFveG/p9ffzfrg8wXGSrHkCyBH8MxFAShKBQDkBgcCoWRGEqTfBQ5JVOs47wzjUHfdkRehiAsHInhKA5HkSdPnx1F0f+uAGSAbR11FAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/36.png",
+    "width": 1920
+  }
+}

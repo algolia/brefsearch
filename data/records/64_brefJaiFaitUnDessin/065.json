@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "la main de ma mère dans ma maison ? Ces chaussures, elles sont pas à mon père.",
+    "end": 69,
+    "index": 31,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=65s"
+  },
+  "thumbnail": {
+    "hash": "c74889ebf4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXBbW/SQAAA4P5nv/gHNDExhBhM3HQGRIY6GLiyAO2k0K70jbK+HX276/V6V2iLW/wJPg83uHgz6raWo8+aeOMbYuIq+GBm4CEDGxSoyH9U1flavJHuunfXnV9X77np97bEd53HWaAuSGg2DOPoq7W5BHY/dlovFYEZSEILWKKy/Dn78Ylb8T3fWJDQIJHNoNOwYxq8NuX2Xu2A3auXqsQUsiIp0r1viqtZnzPX0zyyKpYcUVCm7t+qqKl7eBIsZQDB9lzmmGZHltUsyUJTl8acoy0pcqsS1jg85/FzTfzdfexqwH5AsfZ8yrMClzRrSkiS/U7mOUvm89iuWVzloKFJU+KmycvVthhLpzz9d6aIZEeKahpDoBnSlNvMh8CWGPJLDE4kOteYBi75OD5P5FiQTiTKCGRFTKHjGeIfvsf9HnTk+dDRBAR0Bp2Khgdd3vOzg6lY6wWDbgK9FGievpDu+5P+B+764u34W0ucfNFXI0+bJ84m9RQUajgywE5CwdbYCoo4Em6vbnvt4eW7/+6IVvhxIbTKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/31.png",
+    "width": 1920
+  }
+}

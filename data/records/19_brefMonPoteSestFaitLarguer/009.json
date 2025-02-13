@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Du coup, je m'en battais les couilles. C'est pas vrai.",
+    "end": 13,
+    "index": 7,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=9s"
+  },
+  "thumbnail": {
+    "hash": "05c0b3784c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nBXN3W7SUAAA4F7NDE7Pb097+l96YGsdDMpWVlg7DEhIh2OSoIzEZAmRBTMlGuMD7EZvTXwB45WPafxe4FPK6FniqU2Pp9JKpSNNfuyCy4vafjt9+rotWnJwJB5GztPSP4vDmhcoiVvlBHk6cTmpW7o0uc3IsGP/+Jjv552H/OTXffk4TT9M3fPjIG7EisMAQ4BjIBgWDHs6MxmJfWdbnq777pdp7/du8X09vmqaFiVRGCqCqAwDDas6xQajFmeO4BbFkaCX0vh2k//cLP7sFpNmA2Lu6oZi4P8Dw5BTJBgxGJWm7mDIDg4yqX96efH3893+ZsSIoTHTFIGiwQpBAKmAEaRrRMcw9+2GMGRYiwJ7ef78/bi7Wa3S4bVt1TRmKkStcqwKCilShUa7vj2LZNJpnXQ6raN6Eft3Wbyav5rf7yav32WDKwVUDgkEnCCKVJuzYRxOuu2ivG1ng+5Zsiy6Wbvey18U0/l4/vZ2/ajA6iECFQSqFKoMqjqGgWXmkzIdTWQct+LAdUQ2niX94WmvP3uz+Qc3mUe1F6fPBwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/07.png",
+    "width": 1920
+  }
+}

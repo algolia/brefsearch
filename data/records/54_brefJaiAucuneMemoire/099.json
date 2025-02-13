@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Putain, tu es Fred Blanchard.",
+    "end": 101,
+    "index": 38,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=99s"
+  },
+  "thumbnail": {
+    "hash": "67a589903b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nAXBe3KTQBwA4JVJDEJhgV12ef3CO+HZJdBJIKVJOo4aUzv6X/USXsLLeCLP4/eh+8TyzFWX+lMRcU1PGRmzoAOWUlw5xFYUZfGeqlrM7D6HsY7RWLtA5f02eqyzhBj72Ms5aXz2EHsPkXtMiPAJlRXfxFObXIYNGuDuHtR9EVWhVxD9V79ZIalk1qmMDmkwgPG68z82KcfaLJLPU4ly88OttacqPJbJZU1vG/CwLoAfs2BM+AC0A8xCAeLT1K5f5hIF6uqQmjWwpzA6AwyRHzukidavQ/rydH77/TcqTojURvtj19Xf5hRVXKtirWT4kfsnJ+r9wMG6b9lTDtfL959//oXiJlmJHJ82dX09BOha8BLUylUmh802COp4pkHu9JDSPnZFvrU5SCxfeDtI4ufORm8inDMGZDEC7jFrTbsBP7Xpbs1EyIbYMkxLMkKJZMzj/VpFXzPnS+64eCkCucZGY9DSoOfQfS5g65AWuLRUFpr9TjZ1XU305X/TtTnmIagh5wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/38.png",
+    "width": 1920
+  }
+}

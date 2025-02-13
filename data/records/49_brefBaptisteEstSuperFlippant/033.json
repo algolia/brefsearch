@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Super flippant.",
+    "end": 35,
+    "index": 18,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=33s"
+  },
+  "thumbnail": {
+    "hash": "63ae7a0750",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBaW/SYAAA4FcoPehF74sxtBSU0kauwbCVQd00o8MdAhMYzcJ0miWLCDhdFrPEeMwPJjMeMVmifvdH+jwgEoF5ioiz1JPHw++XVx/OP70IOpP93aDtd1eqw3VvsN7YqpcOO95opz7wawCCYBzDFlhiMh7//f3v25dfJ4fBq/H+Sb83ableLq1w3ALLrC1lnu/6A7cCIhBCRgmZxp/2elc//nw+/zg7GH19c/rz5dHF3sb9vEmTsa2y9aztNCvFVsECUBhGYdRMKK+Pji/fX7ydzo5H3fmgO9v0D5rVvXq5Uy123dJOLd923O1KAYRDcAiEHNs+m542l6vLlllM69Ph8F1/c95unD1ae2hnc6mUm7dtw5BiDIAghEWQ1u3soqbBAHCMJMjJBzVn1lqd+3eDemkproqCpMmKLCmyqAIcQTMM3S6aYQgicVq/Webl6/qi0XfuNKzM6i3DEgSK4UiC5ljONnRgCLyXTtZzaQCuiYquJXMcr6rxlCcJ2wl5Q2ASOI7iVBQjCIJMSjxwMjf8gmkoYjiMaYksRYvRKM1xkksTgcrcYymLpFCMQFAcj5IcHfsPz0NYbxxPJgUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/18.png",
+    "width": 1920
+  }
+}

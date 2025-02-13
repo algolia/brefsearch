@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Oublie.",
+    "end": 53,
+    "index": 28,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=52s"
+  },
+  "thumbnail": {
+    "hash": "498408f249",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXB207TYAAA4CbEAO3s1nZt18Pf42SMrWPdoSdXu3ZgGWstW8YGzEUJONAZPKCRa+Otb+GNvoDhgsQXkJigNz4Clz6B3wf5rhcYjd7DcNT2orx8Zjde9wcBv/ZYrh4VnU1Fu7r88fvm7+X3q4HVKcEk1I+SR2E4Ge9/eHfRs6zpcHR+8qpDqRO59sbuHvnB7HB2e/vv18+boRnU0xw0Hh4ErXbcjV6czOdx9/neeD/etbNiDMrTqrvnOGfHp9fXf75++ZZojp2VIAmoIpBUQdZKej/Y3LCc4mqFJugcybQs17X9uNvfDqMswRQowaRkCCOYpFCearphtwN/2zTcstZgWKEo548nTzsPdrz7W1bT5hmQQQkVKBCG0Z680lFWtbLea280K/VmqQp4RQH5qOWHuuGv1y1NvycWUJTK4jSE4+wSjN1ZTLEkqzCAJ1nAgGUER+6SywiBwBmaYDNpOoXmUigFL6EQjKQFlpM4HjAcYDiZBxWSWSFzIi/KQBE4URZVUchLYgHHqIWFRahZKm55vlMzfNPzTfd0lLxf157U9NnuzvlkcPHs8PPHT2/nL0PPTzyPTGf+A2umYmmXwVWXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/28.png",
+    "width": 1920
+  }
+}

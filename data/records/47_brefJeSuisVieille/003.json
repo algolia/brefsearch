@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "J'attendais sur un banc quand j'ai aperçu cette vieille dame.",
+    "end": 6,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=3s"
+  },
+  "thumbnail": {
+    "hash": "1107b3b513",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXBW2vTUAAA4PwNEUFB59hGm+QkOSf3nFybpkna5jKStF2zZs3Wdd2luyhFkXpBkIGIOPawBwV988k/6PcRItjBiFYFBtLkouivD9L71fzn+3MVsXWZvbk6nk0ygSMhvUVubyKmQRgSE9iyJrIyYl+X6deT/M968fvdXKK262F0PtubVbnMUzzY4UFTghQR2lK3JWsSa6l83lJPfXkZ2a+KTuVKN1W6ujyaTwdYBgoPDBkKPCBclWtp0FShJoDCEueefOQpH+t0VWUnVX5WD6pRbGPOVJDvYKwJRMcU25biunbUDS7y8PtpeTvpfR57wzTaHR/X+6Ok76mIdDXkW4qlCoRjCNhLBkX568PF39vVw/r67mz0abobhz6Fe1a37JeXbrvjaqil8TKkCF7RGcW5HidfZnEZGLnO/1hO/n1bD7PiBc1JTtdMpsXhIvA9hBiaoQlS0J9uQU+X3pYBhNzjJ89u8vD+qjrIUsXPNH/MWIUR7jlBquoidg1io8m+BEKDZhzYfL7ZeLQBHB4uU6/fy3AngThgjAiIrtmOD8u42u/9B2hQhSst64SLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/01.png",
+    "width": 1920
+  }
+}

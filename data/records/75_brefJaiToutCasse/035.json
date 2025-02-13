@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Merci.",
+    "end": 36,
+    "index": 15,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=35s"
+  },
+  "thumbnail": {
+    "hash": "536c40b178",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXBgVKaYAAAYB5gu93ateZSM9RFAg0PEVR+WWohqBTHovy5mIqamAlmmc45XXOX03a32+3a6+77EDJCkGS0WrF7/Ymmm1CvOO7k3LRpLhfAaDIGWvb1TX/cbruW1W7W20iSA3Em0Rt8n4wezHzJOjm7+7zsOpMdbO/F2kYYw6ezn78e/02nD9Ppwr64RAAvCODD8MuyZjppf0hmku7tvXs9o+LptwGMYcFweG93eqKkZA7kIxUiUYpNcbyiwRCZWn8dTKJ4TiwmhCzD8Ci6GyIoKs5tY9gb/xb6jiSpFLLpC8foeCxV2PTtrm0Ec2jk/Q6BU2zj5GOtKO5ncnSM4fl0LpsHIIMTDBLBaTxC+cOEN0A8e7UV9YW3veihfLz4Op/1B273FmSLogIPS7DVHtUtBzGMRoLlVdWQCmWPJ/jSi1cbg9Xy6e+Pxz/j+WL++9v86Wa0uhuvRuOl05shZaN1XrnSyi0d2mxKfO6jJO2i3hrqKuzUus3LsWn1T81u2exUq1cGbCKq+qlQgvx+kQMSET/wYRzF5Y+O4V5U8ARoIaPIyikHxKQgSbKmlPT/5zCC7U8/r8YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/15.png",
+    "width": 1920
+  }
+}

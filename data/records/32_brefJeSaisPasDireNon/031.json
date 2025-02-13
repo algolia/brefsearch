@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Pour compenser, je donne aussi à des ONG opposées.",
+    "end": 33,
+    "index": 15,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=31s"
+  },
+  "thumbnail": {
+    "hash": "8f07cf5ef4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADcrKEAyIU0+K2xfUXVkZ5yRhVRNSFZSSLCkl5aWkoF8YFVFQDQkGFhVSV1eXFFQSgBBNjRENyNnXU9zcmmIhYF+fXORkY2Rj4qnnI6Agos+My8jEQ1fVEt7eHNqaWh6d3EAYltZmZSOkpCLhIR+oqCcnpyWtbayq5uaopWNmZmYVUhDEgAATT8+paCev7m2n5uZAG5vZZGNi6yopK6rprCtqLm2sp2alaedmbGnoYiAeVpQTJN2cmxfY1VPVKSdmKihnQA0MSc5LytEPztNRkFTTUdUTkdSSkVMRkJlW1agl5nAu8TFwMzHwc3Dvch2b283LioAVlxKa19gYllYZVxZamBcbmRgdGtna2Fed21rt7G3pJ2oiIKLhH6HmJGchHyBW1JPAImMd7Skm5mNhXlva4R6dYqAe3pxbJGLf6Sek5KGiYZ+h4Z/iY6Ikn93fmRST31ybQBiXUiunI2ql4aOeGSGenKEeXSPhnyjn46ZkX1kRTudk5qpo66fmaWCeX9nVk5rYFoARDw3Wk5IcWRcg3Rqinx2kYZ/koZ/j4F6loiBaVxYnZaanJagmZOef3h+eG5pZVtWhCPIpXje7dEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/15.png",
+    "width": 1920
+  }
+}

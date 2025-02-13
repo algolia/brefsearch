@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 71,
+    "name": "J'ai fait une soirée déguisée (Partie 1).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
+    "videoId": "rOI3TXz-igs"
+  },
+  "line": {
+    "content": "J'allais sortir du taf, mon boss m'a dit: Tu peux me classer les devis, là,\nil y en a pour cinq petites minutes. J'ai dit: En fait, je dois y aller.",
+    "end": 15,
+    "index": 7,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=10s"
+  },
+  "thumbnail": {
+    "hash": "35f51750e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA2UlEQVR4nH2RQWvFIBCE8///UzwkPYj0Un1CLGRFbakHUQ+6iZ5K0/daSOB951lmZmcghMzzzBjjnCultNbW2s8D55zWsCyKv90YY9M0jYQMlFLO+bqu3vuccykFEbcHpZScsv/yACCEoJQOUkprbYwREVtrvff2oB+01irWGKO1Vko5AEAIodZ6Ep1AxBACAAzGmJTStm1/B1d1733f95SSMebu8JvnCbXWu8O1wzUVIv53oJQKIZ59KWfvPYAW/PbzpXEcTzs45z4Ojh20Wt6PHV7n+YUQ8g12FIjzpcJWEgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/71_brefJaiFaitUneSoireeDeguiseePartie1/07.png",
+    "width": 1920
+  }
+}

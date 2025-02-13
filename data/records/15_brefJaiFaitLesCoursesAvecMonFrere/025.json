@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Mon frère s'aime beaucoup.",
+    "end": 26,
+    "index": 12,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=25s"
+  },
+  "thumbnail": {
+    "hash": "335789995c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXBW2+aUAAAYLKsXIQDR67nCAMONwUUnUprIbJ5jZu4mE7b2mxxWbYse9mT73vqD9gP6H/d91E6hFhW+5Y2ll+tM/Ly73lb5b6phsQ4PJzOT6cqCyehlzutVBOmFqC4q9ccTQcYXevM3U3ntF1GKhxHdkDQu/fVfrPMnFZgaBYUZY7NkUAJHMCKKfHA4NlD2X9aV9vIvq/G3Y47GKR3q2oRk8BQsChAlp5gnvKtXtvNbdXgado29MjCH0LzWAx/fH0s8u55V16WeeGZCDQgQ89siWoprovTvtvONJa5ojmmgXl2EfujNB2mnS+76fPj7FLfThw9VoQNkSjPDCwt9JFf4YavQlmS3mhoW87bjicDfnWbfZ9nL38+/z3OzmWyiRFlqthUiQ6NGyyEuiyLotdydrNPwzjjWYYgbZ2Ry2H6ezuuR2TaQRQUgA5NGSgDBIiuyEBM3HZdfexHqco3Isv4uS++rXqHwl908TVRKIkXmkATOdFuAtyEisD3/HS/2I+St5lv/qrzYxnWQ3ueoJHdTAzwH1KsRGkWDhOXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/12.png",
+    "width": 1920
+  }
+}

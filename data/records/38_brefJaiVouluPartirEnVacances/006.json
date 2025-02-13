@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Mec, t'as du courrier.",
+    "end": 7,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=6s"
+  },
+  "thumbnail": {
+    "hash": "ab4fc0a6d0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nGNorW+e1N0zoaVxWmfL7L622X1tWbHhyQGeLcWZqWGmNXnxE5pramKdctzVK9Ji85ISGNobGlpraya1NlTlZjSXFkYH+WuICobrqU8qzsuLtavKjpzUWteYGVIZatpfkdVaUcqwZP6Sid1dzVVl1XnZldkZcT6enroamc72fXkFxQmOJjpyqkqqusrSxkoijhbmbg6ODNs27ty2YduyOdOndrXmpSZFO9ikO1onODrUxcbH+VhKivCzsrFz8/Dy8AnycQvw8wowbN+8d/e2vSsXLArx9pYRlzSSl0m0M8t0diwJCXaxsBIVFuHh4REQEBAUEBQRFBUVEmXYtnnvwb3Ho4PDeNm5RPiFJASFNaUlbTQ0dBSURAWF+Xj5eHh4+Pn5wICfh5ubYdf2w1MnzpYSFhXiFeDj4ubj5Obn4hXlFxTk5uXl4uYFAwF+AWFhYTExcUlJGYY5Mxb5untJCgmLCQhxsXMK8gqJCwqLCgiryitpqKpycnJqael7+YT5+kX4+0UaGFgyWBjoGWmqWRnoWBnqSYmISQlLSAqLCnLxJUZHWlmY8fDwONq4BAfH29m5GRhYSErKAgCOEnSnKCcQsgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/03.png",
+    "width": 1920
+  }
+}

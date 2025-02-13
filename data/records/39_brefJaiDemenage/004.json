@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Un jour, j'ai voulu prendre du dentifrice. Baptiste a dit.",
+    "end": 6,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=4s"
+  },
+  "thumbnail": {
+    "hash": "a9c060dadd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXB31PScAAA8O/ZHB0B0RhCLOYYhNsAgf3eGEw5OQbIwG0yNGQmpBhqltFdXHeef0B3vtVdd7361KMP9df1+QDfKlyVlB/3938eHn79/P338d/FbA6Dldl4svzw5dvN18/nVyOzt99sno0nh5YLYAja1vSb88vl9WIxv/5+e2d3zJA/cOwM91ru0Dm9ejvx9vqebS8uPk0OPQBDqxsEwTN5jeX5HNer1dXcZlvTtkRR2hTlUmXYNeeT966xczlyZsczkMUwCl/3P/XHkSiGvpTLklYSdU4WWKnG8oYi9RsNpSxgUYxjipbCg0IKL5KpaDhcymRqrOjZB9OBNfeO7pa3J87ANdptvU4TZBKN5lOElIwDKhGrMJRMU1oh16xUz8YnH9+dTveHg91upyLXBaFEMxgaLcQiKpVhGQZk0GA2FiEjoXjABwMAPVl55vPhKFqmKZWh+zy7S6e5BEIE/eRahEARUEo853FETieE1+nejtHX9QYrNGXVsy2T5zpIsLcWaqHBwotAHAmHIQgUE0Ehk9ySVNd0h/bUMd/Y9dZBq3XUbY86hqVIBpXdJter1IacZ2j81X+gl2XAvx5x0gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/02.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Elle est arrivée.",
+    "end": 82,
+    "index": 28,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=79s"
+  },
+  "thumbnail": {
+    "hash": "9482d09acf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUklEQVR4nFXNS0/CQBQF4GF6p3futDN9ELCKERUL0kJ9tFgeIsSIhIUx0Z0xrtzo//8BBqsmnpzl+XKYsAA4eCR3jBsqahkVafIVNbWquxQ6UjCWZ9miLA0KEjb7Bpah7WiwV38e9Z6KOPKcVqj3Q7Pru1pY+SCdFYVGUAAVAEMydGkWtz435cssLY+ib2PaDb/hYJ70p3keKAxI/gBXYivUi377dZ69r/LHoieF7aAMtKvRPu/3RsNhoCjy9R/YPiyT9ss0/Vjlm6sEbYnCRht5rZZ148s0CRQ1vQpY4CA6iLt17zk/ebvJ7iaXaKNCSSgtzrNet0gTn2TDaCYAqqIQiHjW2V+Pz8YXQxuEQ0pJ4qw2iOPRIPVI1o1m8BshBLcg9MzDarFeTjnjFbBqPD48HMaxBAhc5z/gVjMM7ueTze01cFCSKtA5ODjtHDPGUIgvmOQkqNUMaMcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/28.png",
+    "width": 1920
+  }
+}

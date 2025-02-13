@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "J'étais chez moi.",
+    "end": 38,
+    "index": 13,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=37s"
+  },
+  "thumbnail": {
+    "hash": "6cfa97c2c6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEQ4NXVlYqqcm4t7eI95a1U1OUIjK5aCg+fa4jsZJD4kK2lXVHlrbHZoaGxhYUI4NwBNPzx7amq7ra+EdXNvUzheNzdaNz+PcWG7pZ48FiNAJSttXVx4aWpzZmZ8b3BOQkEATj03fWtqrJiWdmRig1lNVC00bEs7vqhvoIJPQBwfOiMpV0hFaVhVXUpHZFJPXE9NAD0yMUtER3drblVGRaOSklAzPW9LPaSYaZp6U0AeITYhJkM3NEI0Mz83OWZZWGRUUQArLTMmICRJMzc+Li9AMjM3Jy1vVES0m2GIaEorDRg9KClIOTU9MTE8NjtVTE1ZSkkAGhogHhYcm1hXdjw9QTg+LSoxUD41l39Sb1FAGgUQRC0tQS8qSzg1Y1FOa15dVUpIAEs0L0o6NjUlJyQXHCsnLBYQEj40N2xjZ15LTxMFDisdHz4xMUEzMU5BQGJWVVRHRgBGNS8zKSg7KyZFMyteRTxwW1WBbGRuUkReQzg1IB4fFhcxJicpISNDODdJPz4/MC4ACgoQHBQVXkI2aEs/aUtBSTM0TTw8WkY8QSwmSDAoLR0ZGBAQHhMSOygiNCMeJRgVuOx801ET1LoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/13.png",
+    "width": 1920
+  }
+}

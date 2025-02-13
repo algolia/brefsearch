@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Je me sens pas chez moi, ici, il y a rien qui est à moi.",
+    "end": 77,
+    "index": 25,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=74s"
+  },
+  "thumbnail": {
+    "hash": "6cbf7dde0c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEQsH25UQHteR4pqUTARCmJAMHlZQ3NTPXhYQ3ZWQW9QO2dINmBDMltBMTcfFhMAAABTNyeGaFCMa1KlgmQ/HBNnQTKHY01iRDNfPy91VEBwTzppSjdoSThmSTk7HxcXAAAAYUEvnXxflnRYtI9uSCEXbkY2jGhRaEU4az0rbko1bk45ako3ako3Z0k2PB8WGwMAAG9MOLCNbZ16Xb+ZdlQoHGs9LJZuUYVZR2k9LXlSO29OOm1NN1s6IFg3HD8fFh8FAgB/W0S9nHqjgGLFoHxaKR16Ry/Np3KVbkxhOB6AVTBrSTNrTDlFLxthQCJAIBchBQIAeVVCsZBzmHZcs41sZjQlvphpx6hyrolXkms/iF0veFEuYUY3RCYWakIlQCEZIQUDAHNSP7CQdJBwWJ55XnNLNb+eZpyBVY1ySnthPnxcNYxfMmVJOVsyImIuHj8eGCAFAgBlRjadfWZ0Wkl+YE9wQzaZa0qhh1l1XDlrUzF8WzR7TSt7W0qMbl99XlA3GBMcBAIANh8YaFBFZU5EbVZKXjoyfU86oJRqj3hRdFo3dlczWjEeh2VVq4t5gWNXLA8LGQQChZ2Ncdm4/uoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/25.png",
+    "width": 1920
+  }
+}

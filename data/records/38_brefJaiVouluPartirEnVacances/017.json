@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "J'ai trouvé un billet à 300 € pour le Mexique,\nmais le décollage était dans 8 h.",
+    "end": 20,
+    "index": 9,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=17s"
+  },
+  "thumbnail": {
+    "hash": "67691d9678",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFpVVWReYI6IjJSLjZ2SlZWNj1VHRHVVTYt8dm5kVoF5eYFwZ35oV4mBf1ZJVUI2QABPS0x3cHSOh4qPh4qEfH52a2xVOTKaZ1mehHhgVj+PhISAalZ8XD+ekY1jVWFOP0wAa2drhX+DkI2RfXZ6iYSMg3F1f1VKjmFWh3JpW1E6VlJVUUI4YEgzeXFzg3p8hnx+AHp3fYaAhaqmrLeyvMfD2a6luFo9NppyZraknklBOBUVHBsdJSEjKyQlLCopLygmKgB5eH+DfoSqp6+7tL28tMq3tM9yX16KaWHVythxb3YQERchISkfHyYfICYXFhsZFxkAeHeBfXmAcV1biWRXrouFi4CIgmVbeml2kIOURkBFFhkgKCkxKCoxLCwzHR4kJiEjAEZDREhERUIyMG5NQ35YSYBfVWRUVYqCh6eVhRwYG0lOWmx0gmFpdkpFUSgoMCAbGgAfHBwmJCVLRUaGc3BwTUZ9Yl1tXF2TeXBsWlIkJCs8PUY8P0crLDMYFxwREBIREBAAFBISHBodNzU6WlFQU0BEXUxOWkdGQTM2JiElKSsxKSoxKCkvJCUqFRUaKScpNzMzlT2aGNcICxgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/09.png",
+    "width": 1920
+  }
+}

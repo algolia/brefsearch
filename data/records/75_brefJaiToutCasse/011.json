@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'avais personne à retrouver. Si, il y avait Marla.",
+    "end": 13,
+    "index": 4,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=11s"
+  },
+  "thumbnail": {
+    "hash": "70aaadee29",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nCWQXW/SUABAm4il7W17e3v7yS0t42N8rKmTDgqOhW2UwbLJSJ1TMgU1LJMsVOZcFrMXX3yY0WiMxvhvDfHlvJ3zcKjdorFTMjyCXVOuWvjYd4brad/WHFncsKRpt/ppGsVP917uPYpaDxs5g+qvWfWM7hG1vpJyU0qvYm9ltVHg1rKWT2D8uPFt8eL21dH5YPs0DDYLJtUtE48oDyytvkL8tF61jaqJ33c2VnXFJ9LloPnr+vXn2cm74+7ZwVa7RKh23ijrsmvidUstaTLkeAsh304hTqil5cWg8fvmzZf49Op572K406nYVM1WixpaM7CXUnRRYGnAJXkuCRQBNRw1Pgz+fJx+XYw/jPrzqBO6DuWaclFFZV2u6FjieDYJAMMLrCByYpUo84Pg7+35j6vJ9Wh//iRcCjkMcxgWVZRXEGAAYIQkzfGMgHm4qinjVul7/OznzdnlSe8iCkM3Q6WRmMWwoMIMRgy9zP8nAtCS0KhZuJtFd/F4drQ76beWWwnkCQQOElSep++zDM3dS7CJBMsxQGJAu+y8PdycdINh09t2s3nM/wMdU07EujipywAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/04.png",
+    "width": 1920
+  }
+}

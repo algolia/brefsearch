@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je dis pas qu'ils sont tous comme ça, mais le pire, c'est les noirs.",
+    "end": 52,
+    "index": 26,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=49s"
+  },
+  "thumbnail": {
+    "hash": "cff02e9752",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADkKZxUFCD8HVj4JXHIQvX4PgG0RQHMIWJ8JmNIHyuII1n4GewgGABsFJ1MHu1ABuwBQD5VBDUg3Bzs1AktZC2M7DxUyFxAmFQBIDjDBB8nABeR2Bo8qDw02DjhrCt9lBNsAZBXDTw6NFQMcNgdCRw4lKQgSHAkMQhwTYiwuhgjGnQDrigLWRAw8MQ0kVQanZQTPAGUU10EJiw8CFC8JIi8KFSIND0AdG1YtH2YxT2wNxX4HzksGdBgJHQ8LCRAGDh8DMQBpDelaC7o1BlQ3CSIjCQstFRReLSxyPSduIHlVG5o/Qzs4PjRhYVxpZmcZExcJAgQAbAbiWQzMRApUOA0SMRIPJA0MRSEdWCskSBonWyZXMh07Ih0fJyElJyIkEAkOFwgOAFIGuCoMeT4LNjoSDUIbFkMhGjsZFzsYGEQmHnRFP2cnQCEIDQMAAggBBAgEBRYOAwBLF1RMHH1xK29NJh1NJyFoOi1TKiNPKSRKKid2SkCASUAbBwwIBAkKBQUWBhdZB3IAKBMPMQ45aS9HQCQfUS0ndkM1dUI1cEA1UjIub0Q2dkBMCgANCgMIAgMALQQ9gAqVKxZfV/Qe6rkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/26.png",
+    "width": 1920
+  }
+}

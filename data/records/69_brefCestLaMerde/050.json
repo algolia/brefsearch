@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Je tenais à elle, comme je tenais à ma vieille paire de pommes que je ne m'étais\nplus, mes DVD que je ne regardais jamais et ma Nintendo qui prenait la poussière.",
+    "end": 55,
+    "index": 21,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=50s"
+  },
+  "thumbnail": {
+    "hash": "83f3c01ec2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGPgYOHg4+IT4BHUlpBOdHGNDQ6P9PbLiknQVFQT5ObTVlKrKqlvqm0vyi7ISkqLC49kYGPmYGVi5+cScNfRKQkIKEzPjfL2djQ08jIxrIoODbA0DQkIn9g7vbGyoTy/JCMxlUFSQMhCTdXHwrw4Ijzb37+htK4gIz/E0y/c1irO0TbG2TEnLnnOjEUL5y6dNmFaRWEZg66ckqepWaKXR05oeIKnZ1dTz/z562fNWBbn5JjiZJ/n79NeVLp6xcatm3atWrauvbGdQUJAUkZISl5EVkVS0UJDL8Q7PCU+OyY80dfUNMLMJNPfNzEyMS+3YvrkubNnLmipb2KQEpSQFZaWE5GWFZaWEpSSEpRWk9OwNrVXkVWyVFYKsjJztbAxMLBzdfILDUtKiEtmEOMTFecTFecXkxQQlxSUkBaWkhCQ0FTSk5fTsNDWS3SyCXdydPOMtLf1dHEONDN3ZhDgFBTiFhLhFRHlExXjFxPlFxPmFZUWklFX0HOw9cgIj0gKCrVz8Dc3d1VVNdTStmDgYuflYefj5xQQ4BYCkZwCQrwiovzicuLKFiYOoT7B3g7u1saWGtqWGjrWyqpGAED+b5PnK7gLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/21.png",
+    "width": 1920
+  }
+}

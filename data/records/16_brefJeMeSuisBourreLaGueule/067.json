@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Puis, Kheiron m'a subtilement signifié qu'une d'entre elles était\nplus ouverte que les autres. J'y suis allé.",
+    "end": 71,
+    "index": 32,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=67s"
+  },
+  "thumbnail": {
+    "hash": "9108304ac0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACQRMAwHAEgWX5EmwpgerXEXeZscqa8gwK4XtL0ZwqQ9zI1P0HVHqxwODRUJCTkoOwApFzcgDw5sKZ2gIsyeJ5cyKApKC0DDCsjIAsSJCXxXKF6YVtWRXM1RKzgkDQZFP0AAIBcaHRITZyyamybTuQ+tbi01JQ4JcyBvlUeTUTA7OBsPj0/NnWTnglqeLx0nEw0NABELCxYQCDwaQXsnr7Ehwoc+ZVA+MmQxS68lq3gpUlMrKnxckHtbmmJEX0wwMVQuKgAMBwgYEA4hDhVpGZKCQnxqSjliRkB3JkioJYBMKx1UMS9vQlZTNEMuGhQvGhpEIhwACQUHEgsLGQ4QQBNcdDmCPSUXXjIcXiBLgzlmUTQdOCIgHQwXSSUpKBkYCQcIDQgJAAoHCAoGBhILCj0ZQmEmgTYpMzIfD04XYXUylkkoEA0FCAQDA0s5ST80NwoGBgcEBAAKBwgMCAoAAQAxCltUJYQ9MzcxKCkyGEhuIc4RBxAEAwAMBw9BMlomHCAPCggLBwYACQcHEAwLCwUFOR9COis8JRwiKyEkKxkxaxeXGAgbBwUACgYTOCtWEg8MBQMEAwMDgU5lFsQWH/8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/32.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Tout l'argent que j'avais gagné pendant trois mois de télémarketing\nétait passé là-dedans. J'ai attendu.",
+    "end": 75,
+    "index": 25,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=71s"
+  },
+  "thumbnail": {
+    "hash": "a59d6dd8a4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nBXCW2+TUAAA4EOBQ8bhcrhfChxO23ErKwPptpQa19V0dNvL1NiYumZN1D2o2bO/wL9t/PIBU5E4AJoiv0gjoksiy09stQoMYirElOskzkLXRqiZkGoSv8kT4GAFMoPuvFxVtBhixMLU1a6oQy01tpUmIVnguLLUJrQak5KGwJQQA8C2ax+X6SJzBIbTFbmdppYqhYYypT415BArXXnaZqM6oeA0HA5te/+wOdzO1lXAM5wkiudFhmXkqigjXqieTCx9M59uLsr1vAS/vn/7cXj6+fz1eF+vznyB5SEPE0pMDXtYLiIvQCdF4H66nu+33Zd+CW6WXddUu7ub5/u2S+0BYIltNunYwNjC8mwSRTq+TOi+X7zuty+fe8ACIAFQp/k8JbGBGIa1sepgNTR1TUS+aWgIFXG069cvu4fj4y3QZcVXpHZa5JEvcizH8xBClhNGmhoikRvA5TR4WwZnxLtMyTgIgYU16rn98uq6zmcjH0Io/C94WFnMklX//vX44c/h7vfH7u/T/F0R/QOdejwxcMpeHAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/25.png",
+    "width": 1920
+  }
+}

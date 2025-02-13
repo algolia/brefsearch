@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 10,
+    "name": "J'ai un plan cul régulier.",
+    "slug": "brefJaiUnPlanCulRegulier",
+    "videoId": "9zk0TrOU_cI"
+  },
+  "line": {
+    "content": "Des fois, pas du tout.",
+    "end": 68,
+    "index": 28,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=66s"
+  },
+  "thumbnail": {
+    "hash": "4fb7b1c588",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBkaXBiZGlSTUlnZ2iIi5KCg4trXEqCgn2Yl5OFazqgnJedpLlkXHGVnrabqsmOnb0AipSli5SjgYWQj5SfiY6TemRdnnxzamNii46ToaCdp668q7PKrLfQrLnXqLbVnq3OAJemwKSzzq2716izyjM0MWNJP76dlWZWUT9BQ6Osu6ewv6y2zKy406y41au516Wz0gChsdCktNKrvdtvd4YHBgI7LCaPcWg+ODMqKimDgHePinqkqLinqr+pts+nss+irsoAZm6EdnqCjYF/ODIvDQwIHhoYOzU1IB8gJCEdiYJslY5wmJGPdmpygYeSnqrBm6W8ABMSEklFQFxFOCAYExMRDiopK1ZXZCwrMB4bFqiqqL/Bt1tWSzkvKWNSTY19h4SJmQApKicpKSY3LikcGBULCgcnJyhVWGgpKCwoJiOJjZR9hZI6O0IuJSEwKilpZXd8g5YAIB4YIiAbEQ0HZE1Fc2JedWZmjnx/IyAcLCsoT09QZGZvWFpfMC0rEhINFRQQTlFVAGhxhYOPqX2Fmot/g7KquLyzvnBxciEjHT0/SJWbrFxcWz09OWp2fIqXrkZJTT9CQZkpuTuN5mpNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/10_brefJaiUnPlanCulRegulier/28.png",
+    "width": 1920
+  }
+}

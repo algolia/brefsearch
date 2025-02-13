@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'ai avancé vers moi. On avait gagné.",
+    "end": 131,
+    "index": 48,
+    "start": 130,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=130s"
+  },
+  "thumbnail": {
+    "hash": "9aa72181fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nB3LzWvTUAAA8NyTvJeP9/Lx8tkkTfvSdOnH0jRZu7B2yGQ7KGNMZEz8wMMO2/AgMj3oxcuKh6KCuxSKzLnpFE/u6kUE/yiZ8Lv+GMiyKuA0icts2CW4cEjm6Gmk1hOsdqQkVJctJTGgKkMdcpDlGJHjCORsCVANtRyzF3qrUVg03LJbH3ZrccWixFwwZVPibQkgABjE8wGGFlZohXS9YG2h83hlebK9cnJ39HRrfYl22n7oqrorQx8BDAQGA95Hoqmpfq7cSOLdtHVycOvLwdr5TnZ8b7TebN4cj7OkGZmkpggYQgbzfF2X44odJ/lGWbx5ufdxcvhp8my2XcxeP3q+f6fRH5XFUiusBwgoUGAw5Bu6PKjUhhF98eTh778/5h+mF6ezP0cPfl3Nf17NN1cH43aUhZ6HBCL/D74i9qq1Mg5eHe19v3j/9Wx6ef728mz67fO709nx/dvjDVr2vMjD4DogwPlYqNpm7DmtmOZpMsgXh3n/Wj/tp+3FZiOqtj3dcBHAEDACyxIR6AhbiupoWtUg1LIi245si1pWYBBX102VGAjbIpAB/w/xBVpsN4ErNgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/48.png",
+    "width": 1920
+  }
+}

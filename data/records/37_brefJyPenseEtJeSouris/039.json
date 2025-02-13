@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "De plus en plus de gens ont accès à la voiture.",
+    "end": 41,
+    "index": 13,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=39s"
+  },
+  "thumbnail": {
+    "hash": "990ddb2cce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA0LClhQSXhvZUY+NyYgHTUvLDMsKSkjIWlhW2heWWlgW1VLRUY8NjcvKgwKChQSEgAJCAZXTkY+NzEYExI3MS5QSUU+NzMvJyR5cWuGfHZ/dW9zaWNgVlBDOTQGBAQCAgIACgkIIR0aFhMRNC4sRkA8WVJOWFBNQTg2fnVxiYB6louGkIeBdmxmS0I8BgYFAQEBAAUFBQsJCBcUEi4pKC4oJSYgHTIsKi0nJlVOTEtFQVJMSEpEQDs1MSskIgcFBQUFBAABAQEPDg44NDI6NDJaU1B8dXJAOTgvKymppKCrpqKloJygmpWel5J2cGsiHRtAOTMAAwMCBAMEGBUUdnFtu7aybGZjDgkHOTQywry3ta+qj4mEkouEm5SMfHVuJB4bRT02AAICAgUEBGNeWtXQyqSfmzItKwcDATQvLa+ppKKblV1WUFtTT3pxa1pSTCAcGUE5MwAAAABYUkuooZWKgXl5cGoyLCoFAQAwKymclpCYkYuGgHl0bWdhWFI+NjAiHBpBOTQADQwLd3BmY1pRRzw3HRgVAwIBBAIAJyIghn95cGljZl5ZWE9KSUA6QTgzJCAdPjcw+553sOUdN5wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/13.png",
+    "width": 1920
+  }
+}

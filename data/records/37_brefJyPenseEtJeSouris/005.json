@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Elle s'appelle l'Obéissante, déjà un fantasme masculin.",
+    "end": 7,
+    "index": 1,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=5s"
+  },
+  "thumbnail": {
+    "hash": "f458a57594",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAUFBRgVFAMDAw0MDB0ZGkA7NyslJDUvLTs0MUA6NjArKSQfHSAbGSojICIbGSYgHgAFBQURDw8TERAIBQYQDAwnISAqJCIvKCYrJSInIiAlIB0rJiQmISAeGhgYFRMSEA8AHxkXLiglU0pFQzw4GRQTEAsKKSQjMCooMCspGBQSEw8OoZyXoJqSdm9nXVRMX1ZOAE1DPVtSS3RtZpuVjlhRTgcCASEdGygjIiIdHBALCRkUE6yno6Sel1BJRD84M1RLQwBdVE1oYFitpp/VzsloYl9kXltaVFJqZGFmYFxYUk41Ly2VjoublI5TTEc9NzJLQTsANC8rCAUFZV9ahH14NS8tioR/jYaBenNueXJsbGVgNS8slY6KkouFdWxmVkxGRjw3AEM9OAAAABcUFC0oJSIdG1BJRWhhW2FaVkY/OiQfHBkUE6Cak4yFfWVbVU9FPkxCPAAMCQoHBgYEAwQUERAaFRQxKykyKyksJiQjHx0fGxoZFBNFPzw3MzAoJCElIB0mIB4ABgQFLSooLionUkxHVE9KmZSPxL+6ubWwtbCrvrmzYFtXAwAAEg4OFBAPGxcVKiQhrFZqeBqOJusAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/01.png",
+    "width": 1920
+  }
+}

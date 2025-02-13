@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'ai avancé vers lui. Il a avancé vers moi.",
+    "end": 130,
+    "index": 47,
+    "start": 128,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=128s"
+  },
+  "thumbnail": {
+    "hash": "d2de549211",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nB3Ny2vUQACA8dyTzGSTmTwmmUm6m9ck2e7TbPdVXXe3LVgEXWhBehJKD3rooVhkvfQg9NZSbKUgeqhWtj7agwevih79n2QL3/XHJ0BRNIBkqWKLKQ0bdzzScs081dM60mtqJTSWqV6xgalCC0pQlISCJBEoMQ1wE1VdpxUWhzxsp96oGXXqUbrAEuJUHM1RZaZCBICAZDnAiqXhiJl54K+U68/H94427x4/fTB9tDoIFxtR5BpkQVNKCGCoCBjIJVyghhV08Vot3lkdfNx7fLG1dLU7Pt8aPIzj4WitsVgOTSPUFQzh/MCJVi16WbmzPugev9r+cPhidrp3ebZ/+WS0P+kn3fGw37vDuY+APj9AmZuo5/Iujw9e7nyfvb84P/3778evPze/X+/+PJlurN8f1dLU9XysEO0W+LrajMLltHQwfXY9e/P189HN1dn1l7ffZief3h1uT1YmWS+jvo/hLQBSESsBdcpFt5rxTl7tt5v9pda8dt7O680sTYKabzueBrEChYIk2gXZQpjqhmeagU04pQljCaMxdQJCPMtyTGIjzFSgAfk/VgJaxQ5mhbAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/47.png",
+    "width": 1920
+  }
+}

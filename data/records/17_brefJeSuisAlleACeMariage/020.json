@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Elle m'a regardé, elle était pas mal. Elle était pas terrible.",
+    "end": 24,
+    "index": 11,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=20s"
+  },
+  "thumbnail": {
+    "hash": "d7f667ce73",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBW0vbUAAA4PwFNck5ubSxaWJz8fSc3E7ul6YmVouslCJrGFSzKYiCjM0n2Z42NmQw9rCXvQ72O/d9TEosjIa2LSbUWDTR7qoLI22KRweAm5jD0D80bZDEYRig1ab7/P0v0xSuZULiQRPxY00kWMmSAXEAJizCvOdB7HCzTK0Ka3levb3pGR+rlgV9ynkxF4cS9WHgwyyFTQXwFBIEqhSuF2CWCq4jOQQw+khmwcF0yvrJXpgKRSE4dH/bBd0GpQFENnAJ19ZylIiRKyc+ZCZjRRtJts1r1p52xEaugIP97Vm2PqPIYMmxgBHwsGgYfORKsScyf748//v18vJ0/bhbdet6Xgp1NkionNNhFAhpIM/DsaqzhsVSzM7CAXO5PPl42z++6x/6bnVetJn9ukWRLxehssj1u4vsU7ecJ+NlSd6/uayoysSe0JbqRWu2tVpmcNNY3awwJ1JF7QSh20V+f5p/u7n++fThud+tKsykHlfG/DyDJwv+1WZYF8ohHBwpGplYEi9VxKiO9bvt7vfXH1enTY70/xHrXmA9R6DVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/11.png",
+    "width": 1920
+  }
+}

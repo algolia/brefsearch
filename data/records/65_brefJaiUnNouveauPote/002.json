@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Donne mal à de mal à de mal. Bref, lui, c'est Charles.",
+    "end": 3,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=2s"
+  },
+  "thumbnail": {
+    "hash": "fd4d05c031",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nB3L207acBwA4F/PlGKlQKHlT0ErUChKqdL1gBkstBQnIpCKURR2IrtbsmTvsYtd6Ctsixd7qF0te4NlXbLv/oOHL59//vp9O77IAAiA2+rBdhHqJbmKlCjw17PLzfnIrJQW4Wi7jN5GEfx4+h7H8YflSgFSBMYoyJeu5anqsFHz2p1GEXlNbR6Or8/G79fr7WoFT9++xnH86e61CtQ+K3RV7eZFf+tZ0bFZK1YACJZOLiYz3+pej8M3V1fw+PD452/88WbT5iV/cH4WzKfWs0mj6rbMpXeq7giI4ULt0Dct33WngwHso71uxzH0k4tgOhtNDeM00BuTY7PnDDdH5q0kvRLzix3+ZUZ0i0pVRsBxgtY8cbxwMxzc9eyWoppltOzZ77ruMlfos8m5IEQ50aYTOsVwBAMH1Va1ZsiorkjlNirJKV5KZ+ZN/V5GzxNJl2Ydmu2zqTLB4BhNYjSkd8W9ipbPl9N8PpXg0wneyxYCPmOTzBFG1oGoYbiCETRQOFAYUEDQKZbdzWVljhPsQinI5h2S6mB4HbASAAKQADjAsf8BAP8HUp9TIjqAopIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/01.png",
+    "width": 1280
+  }
+}

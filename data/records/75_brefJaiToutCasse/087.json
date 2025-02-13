@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Marla, yeah, I'm coming to you doing OK, je vous attends.",
+    "end": 92,
+    "index": 34,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=87s"
+  },
+  "thumbnail": {
+    "hash": "08a8c5136f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeUlEQVR4nB3L2XKqMAAAUGaskS0CsmNCCAghIqveKi5YHe0yvfpw//9jOr3n/QjHZVCl5LVMPvbl0OWh4yS+z1FwrWiX4QPHFXE2DN+GNufMs2fCeYXajO5b9nmqaxZ7+qxLyD6LeoY3LLxW0QpZfUE/ex7bumfZwlAEHYurjDQ8KsKgJcGBRfciPjK8zvC1IiUyhzJ+vtWuYUwlKFxKVC1IjD2eoMgyhww/OvZVJl8N3TByKUkX2u/r9DGsLKhBSRPOxbxaEIo8x7R8Y8Z9e0fxjgbHHJ9bdqujbeL+3bHHaZkHTuI6wiGfR74PZQO8QGQ6dYRj152pBpT0bZndG9qn7qNn/96KbY436VygjilNoDzRFFGXgJYG88QLJmMoAhh6/q2irwv3uefPA++XaMuRoIrKZKzKv2cqixp4UccjRQJTVdItzTxxvI6d7x27/8maBWpTJMhAASNZHCv/D5QABCNVAlARNUM1TktcYvPa0HObtAzXKfoBMIE5A3iW9SQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/34.png",
+    "width": 1920
+  }
+}

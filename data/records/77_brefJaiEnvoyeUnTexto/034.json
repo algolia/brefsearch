@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Salut à suivre. Hi, bitch.",
+    "end": 35,
+    "index": 15,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=34s"
+  },
+  "thumbnail": {
+    "hash": "beb67cc8a6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nGPg4uLasW3bq9v3Vyxf7u3t3VCZra2lycDAwMLCwsDAEBgYePbs2V+//zyd23yvOvx+SyKDiYkJNw+Prb09Ly+vnq7Ot6eHoyNDGRgYHR0dmZmZGRgYDA0Mvv76/WrXyjvFvncrQhgkJSUZGBgYGRlZWFiYmJj4+ATnzp23c+fOGzduREVF6enpLV++/P///39+/Xp7eMvLdTMZiouLnZycGBgYmJmZmZiYAgMDLl++PGvatI7m5m9fvxkbG3d1dc2YMWPatGl//////ucvw////9esWQN3dH19/aWLF8X5+cT4+S5fvNTY2AhxmI6Ozv///6dOncrQ0dEBN56BgcHGxubr168T+3qXL11y9coVd3d3iFkiIiKJiYkGBgYMGzZsEBERMTM38/fxLy0plZeX9/Lyunbt2urVqxubGqWkpFKTU9jZ2NjZ2ZmYmBgZGRlOnz6tqqp68cLFR+/v33pwY+WylRoa6pqamuLi4hoaGpERkf/+/6+orTp86JCnpycDAwMDvwD/ulXrzj46abtAK3V72N37d6SlpBkYGOzs7D5++vTmzZsPJx7+f/T1z78/JsYmDAwMAELYsMkhDPmIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/15.png",
+    "width": 1920
+  }
+}

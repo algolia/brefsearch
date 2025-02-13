@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Ils ont mis de la musique jusqu'à 5h00 du matin.",
+    "end": 85,
+    "index": 36,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=84s"
+  },
+  "thumbnail": {
+    "hash": "b1dbd833ee",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZUlEQVR4nBXNW3KbMBQAUL4SwDUICUlc6eplngaHGAfHmdqpO5l+dPrZDXT/u+h4AWdOlCaCZFjkyIiVvAboQTYKOsQJYHDh3Ox/oVmkaHjZJHEeJQmjxJXUc7pTMFg7W3uwdlK8QRin9e/p9s+5RampggMth2iTlqzwgtcgOw17516CPyKOKLq+vkzLn/H19675MGbReCrI7gFKFirRKhgQJpB9tlWEYLYFRjxlbdvfm/6H9R/or5R2D8BZkKLRajB4sDgXBOOYUz6X8JZuO8BLqL/bcDXhLmCJ0rRk1EvZKdgb8+L80do52UAuBrQroYMxZ9/cjb/a3ZeytyhNWFF4ztuqGpSa0LwqNaYJp0VAvWo8G3M2/qrcTbtPDF+PIc8dLQLnnZR7qEYh2iSmSSzSTSD0UMFR4XulL1K/a/8zSlOZZYbkjtKasbYsO0p9/Fw8P7E41t+yTlSzVKdKrVKt2n7+B5TOMZblDuijAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/36.png",
+    "width": 1920
+  }
+}

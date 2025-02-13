@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Allez, accélère. Et ma mère, le contraire.",
+    "end": 44,
+    "index": 16,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=43s"
+  },
+  "thumbnail": {
+    "hash": "9afcac2af5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXB207TYAAA4HKhThjB6mbi5iJjY2Nslp4Pf9u13XrYuh5Yy1ZRlIwME5ECBhIXzCJeeAFRAVHDEphh8cpH4IJn4/ug9931tderLf/lfu/g9OQXBfQSIhAoTyIUh9FEEYs9Snre8s/j097H/Ter65BV81XVc73O1d9/F4Phc7zKsDWZVyRaUHlFYYSZVCbc/DAajn4cHR9+PYQEwebE5tZ2/+b6Zm+3j+NVwOmqWCERukwLAkZnn+Xebeyenw8vBsM/ZwOIYkyKb34++D66+l9vrLQaLUu3XcNSgVwmWKyAzM8WO91wZ68fbve+HZ1AKFUHkv/77DLc6hcQ3THbgeP7NdeWtApbVhgRLWBaPdgMPwUrG8GrtxBCmnpjLdz5opudp7NyWTCXGq5n2Con8zgvkiCfwyIP8/EUlUyTseQ8hDI2Ib5AuXYOs6bnJAloLdN1DctRzSqnAAI8SRbvTeXvRmfGIomxO48hVl4CynKRcmLTAKUNGWiBYdcrpmu4TcPBFrj7cG4yXpqKlybgTCSaggjgLAZdrtKGE/jcgiQATWflRaVWBQqHsdk8mUij43AmCmcnHqTHJ1O39C55hCI5GvMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Mes potes me parlent de crédit d'impôt et de retraite.",
+    "end": 27,
+    "index": 9,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=26s"
+  },
+  "thumbnail": {
+    "hash": "566a6909d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nAXB3W+TQAAA8EvdWji+4Q7uCsdBASnlozgKm00butalOrdl2bpoTKzRB/XBFx/0RRP/dX8/YMhy4uCvl9233ZIihyDiIvuprfbFc1tRh6fis8EQjqSAMe6zjI1BjK02ZD/3y+/bl8TCEcYXIXvX5L+uLj52VcvcBFmGKLkOpWM3JjZ4v8iPq7O/d5tDW3M3Lpl3W037yH+o0k3M55TkNrZEKJ3KTNZ3MQcfuuKxmf2+Xv173C9n8/MJ75Pg2JaHFzNPx9JINVUkC8qGkC/cbakNOt+9mkaf181TWzuWV/h+ZJrLgGWEKAodY76omnMefvLHt8QuCQa+piXI3E4nFY+GInFsts6Smzq/PpsLECPTs02nsazXyLq0cZ8EIHNsF2GqqtigqsEFaD209Z/7Vz/ebJFBIUQng1EqKZ2mt5p2U2egmoR9u6jzUhCxbobDkZ4R57Aoj6tmGmSaGasySiUll+QUSrsiATHzizh+26/r2RxKVBRNAAbCiYA0bFgR87IsKXOHpBByEdbc/Q8F5D1JXfBQKAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/09.png",
+    "width": 1920
+  }
+}

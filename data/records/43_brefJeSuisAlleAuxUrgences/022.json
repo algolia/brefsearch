@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "On est en train de perdre.",
+    "end": 24,
+    "index": 14,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=22s"
+  },
+  "thumbnail": {
+    "hash": "2787cd4fd9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXB226aYAAAYF5g0ynOVlB+XcFiiiCIVASsyEkQUI4uihXtetF13Uy6eLEsJkv2ArvZM+wt930QN5RZWafZAQnAVJ0G2T7M9tE2/3ifx2m6jBMnCDV7PtZN8U7tixIkT1TmVr5ufaAaCENcLdKNv95FWe7aJoYgjRrCDQQ3jDTbkVRVGIqQGW70Rar0GBo0BJJwFkGyzgzTgt+VELgCvy0W3hQ0yzQdRzOmujaFWlLU6ko9Au9hqO96lu/nvpH5M7RcZlvgCkXRMizwwvPLt9fvp/3hESoCFsFZpk3IXJ82tscf58i2cn8eRInQ6ZBoDVxctuogjlfpaj1RDajQ5AFrqJYXrg/0bPvy89f59LoL3N9//+VfzjLdxSrvL0oVVdWtmauMp1C1SVcZsy4lTTn2Tn/MzVMXgcWxpUfPX4+n9f2D0B+WirBwO5LHGj8YQQTWIG/6MKVhg3nHOzaoO6SKXo8Szw4+7R+W0cqZLzl+pOkzUVRIkoJAHQM4jeA9muEZWqxR80tcAu2hLM92h8/6RNcNW1HGHNvnWY7A2/8BRPNptP+ixGcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/14.png",
+    "width": 1920
+  }
+}

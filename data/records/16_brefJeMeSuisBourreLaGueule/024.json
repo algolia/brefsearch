@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je ne savais pas qui était cette fille. Si.",
+    "end": 27,
+    "index": 13,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=24s"
+  },
+  "thumbnail": {
+    "hash": "de79156abb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nBXNS1MSAQAA4L2ws+8Hy77YFwoCK4sYKm5NsChvFgSSJRAoNBQhsslXdemSRR5qPHTQTto03f2Hjj/gmw+oPbN6+fJBdSsdCcsEImDQkkjs5jc+dF/188VU0B/j6Tebye+d7U/18vtKCehsFiaNlmOlRQIVSdSLQ6ZCDcvZaatdTaysqrzBU8f14vWo/2vQ+tZzgJ2N7GGtkTIMCgYDDJnW+Nqid1wvDezK86Bmah4rErwcj27fdv+M2r+HHWCQL063m+lYzI3ACYnLzEvtZelzp9q3q5WnZn1VzywbP99N/k3bd+Pm7dgBupnseiikehiZoUUCjavuXlw7bhQKpmmoXl1idUWajfbuT53/E/vuoAxENZVCYImmHgGJHr6wr87PZqcfzaguEPA8R/lY5mLX+bufK4Sk5BwHkAhKwqhIkRyO+kXu6svFzdfLs52XVnjOkPmwIvoFNqkHlmQ+QOOlBQnAYZiAIcXjZnHEx7M/Ts5PtoqvrbVUUInKnOqhF3hGpAkGwxQMSYg0AIEuGASFxwFp5nKzo6O9rDWs2aknxnpkUaIwy8fHZYHFUcgF4qDrARNSXvTnR/d4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/13.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Exe, hicboops. Exe, job.",
+    "end": 25,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=24s"
+  },
+  "thumbnail": {
+    "hash": "5ba1e04e56",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nB3O626TUAAAYF7auF9bpltctLVubnbTJt0W53qzq5QWOJTLuXCAUy7lUKAMsERfxLgH+JJPaLU+XfYeO1/ujk7bJ+8vPpxfd656J+3um/bN2/bN6cdvh2eXr49bB8etV4dnB0fvhKv+sNsfPkzmKwvriJrEhZQRNyAOI45r2RQSakAiA11cKD9nktDtDzrdu8enpc+zKC34rs6q35LFl8BbQm8kQ53GskEJC7HrayYWvt6PP/d+jEQQpUWcl2m53xa1ouqYxZvdPkwrlhRkHdv+hrBwZdlC7/v0+nY0XRhxXiZFnVVNVjZBEPP8Oa+brPrvw+3OjRK6jkxEhdHcmKn2ioQvnyot92nVpNWf5+bv7gWkRe3znAbcZqEBbWEimTOVAuR7URIk+SYr47xELAaUA8oVEsko0PAaewG0PVWHwsNUGYr6HGDs+tTfeBFfx1sn5MRPiM+RF1lOYNnMxI5mYknRhNvBr/vxYiwCSTaXAKkropkOdBhyGKIeJK4BbWAgSdHHT/JgIv4Dw/hA+LHZYSgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/11.png",
+    "width": 1920
+  }
+}

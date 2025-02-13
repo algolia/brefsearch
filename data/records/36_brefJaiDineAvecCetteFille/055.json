@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Pas comme ta petite Yes, Chloé. J'étais trop fort.",
+    "end": 57,
+    "index": 22,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=55s"
+  },
+  "thumbnail": {
+    "hash": "d79689ca2c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nB3NS3PSQAAAYA46JCAQdkNeyybZbEJCHhBSHokNAobaKUXBtralnc5Ux0d1dOrFnnrowZMH/4eXjhcvznjw7PifHPwB33y5UK+nLtFFOHfQt9Xwz6eTv1fHt2cPh7ZsW3DgoGdx4/S+lxBJLhdhgc2lTbod2YEE9wLtOotun+/+evv0OutOHXUROg8o2uuQ1cB63FJdEXAskxt7dBF7uxa+mgQfR+FNtvFlJ3kZ+088mmrS0BDHprBsqweR3sO19XCxtblM3EXLvNnq/H63/PFi9vPN8vv5zn5A0zo/0sWRIY4tJdYFi6+swX43mHVbvkqP2uTrfPB6w7mM/c/b/Z4ip0icUnEe4MzGBHDCvcIaKFUdQUPm1C4W3qf+h5ZzETYyW8c89bDzyDVWfXMREspX+SK7BqRmI2CYkmMAkBrocrPzauBrUCJi01O9sW0dRGTmYgNUYIEB/weNCDYso74qTy2cEDSxsFThMU8CrZlQMjHlCPFKqVhlmTKTzwkVhIDO5Mv1Kjxsm+c9OyW4yHAyUHyt0Sd6W6mpXAkWmBKTZ+/e+QdaSE5s39syZAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/22.png",
+    "width": 1920
+  }
+}

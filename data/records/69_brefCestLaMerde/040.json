@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Ils m'ont répondu: Carrément. Carrément ?",
+    "end": 42,
+    "index": 17,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=40s"
+  },
+  "thumbnail": {
+    "hash": "20fa21b1dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXBy3LSUAAA0GyUaYE09+Y+Em7whhAooVIIacIkMC2QR6m1BVpop86YPqwvdHTlVK0u3Dr9BMfRjV+gS//GtTv3niMgUaQAlBWqE/3k4vrm5uu7Zx+CRufBIDyLojTsd+v2053LdJiOnZ06LQtSNkclWGUFi9W+fP7+98+/X99+91v+kyR5ezz/mD6MbO90MOtUHQoVWZQFmMvrGFcKRbaCrwYHPz/9eDNZxG4vbrYeJ3EaR5HtnYdHo41NAjGWkKBJUmAaDW6IGdEz1ma9+37dPQqTqeucx/HpaDTvb5+Fx1u1tnj71komIzRVdR4EdV5aymRLvMI1riks8fyJY18mycvptNP0Nje2bHON5LJKPi+MXXcS+ATgsr6KIS1gylVm3SkFRnnabs+ikXPXqeimWaoymZDlZWHs+7ZhMoVzpiOAqEx0VnSths150mpdnDzquj0KEKOaphQ1RIROdVWBmKkcQ6KSgopVq2ztJ/uh290b7r5+8X7YC7EkE5kggAmkAhKRgplKGAJYlhAQ4Xpt/XD3cHJvvnh+/WpxNegOKUSyBHNLeSCC/xZaVfDNHdMLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/17.png",
+    "width": 1920
+  }
+}

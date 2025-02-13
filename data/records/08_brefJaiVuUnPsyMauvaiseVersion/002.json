@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:09",
+    "durationInSeconds": 69,
+    "index": 8,
+    "name": "J'ai vu un psy. (mauvaise version)",
+    "slug": "brefJaiVuUnPsyMauvaiseVersion",
+    "videoId": "xHTx3mYfGUQ"
+  },
+  "line": {
+    "content": "Les 19 séances suivantes, il a dit: Pourquoi ?",
+    "end": 9,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=2s"
+  },
+  "thumbnail": {
+    "hash": "475d3d3eaf",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCinZKzsai/vra6t6yqppmmnYu8urPX29/S1M+6ubR6YlGDZFF8Xk5ZQS9sRieGdWcArqyiu7mxx8W7qaWVioRwdG5Wpqmf2Nzbzc7FgHRqjmdRqIt4rIdxalJHTjglkHppAKuciLKpmriworWypGBhSVVVPKKnm9bY1MLCtmZXTIFfS6WCbad9ZWxTR1JBLo11ZQCbfl29q4i+tJnHwbRdZk80PyKztKjOz8m4sKNOPDNNNCppSTtrSzxNOjJ0W0WJcV8Ac2ZKkn9dr5dwva+ZXV9QLDUhpKCV0tHHqZ+Re15Og19PXj8zWT4zak5Bl3tkf2VQAFFPSGNbRIRtSaSKaV5VS1hNRXhsYaGZj6GYjJWAcZN3Z39XRW1LPVNJRIt6bXpiUAAfIj5IRDZbUjFrWUFLRD47Ojo5ODsyND2CdWtnTkJmTkR7W00pIh8nLDQyNDw6OkEADBMwNzEnPDcnKCoqLjI7JCs3Jy05Hyk3KSwzQDMuKCIgLSkmIyw0MTU/ICcwGiMrAAsQKSYkJBgcGxwjKyUsOCIqNR8nNRskMAkTHQgRFwoUGBEbITk+SR8nMBsjKxIbIX3Lqoe9TTWPAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/08_brefJaiVuUnPsyMauvaiseVersion/01.png",
+    "width": 1280
+  }
+}

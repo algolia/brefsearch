@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 73,
+    "name": "J'ai fait une soirée déguisée (partie 3).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
+    "videoId": "WRXsFwhVzTs"
+  },
+  "line": {
+    "content": "Bref, moi, je suis le mec que personne ne connaît dans les soirées.",
+    "end": 5,
+    "index": 0,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=3s"
+  },
+  "thumbnail": {
+    "hash": "91bd8ff71a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nBXKS2/aMAAAYB82DXVqC2JjAuJgsBPHcQgNIYQEEh47TFPbSdFgqKXh2ULIQnlIve20+y7bH54qfccPTBzlvlb5o8JfGk6nzgINPtTLW09NfB61aeyx2GObjvLo0qUrT20CQocuDfy3Vl4QxHL5SZ3MTPzc5cee9txVTwN+HPB9j8ceizwWaCKYOXTTIP8MiaQzOhTnFg2NcuKxQ5fvPHbq89Pg1b6n7rrqLRPA0qWRJf3WZXR5eZ46G2piaKDYpUmHxi7d++qhx459duizxFeWNgYLR15b0kuVqtksvEgHXJzUSusWiRxp05J+tmniKTtf2fl025ZWNgGzJgkN/HLFxmXofsgGDI6r4srCm5b01MSRI0WOvHXlrSs9tfCsgcCdiUY6inX2gEtu7mOgwBEXFmbl0cIrC69tsrbx2sbLZmVqorsrEQS6+F0rdaDw7m2KZjI3cjFghdBAcxNN62jeqMzNSmi81mEV3rICuObFayagdBqAN4X3559R/gv5NNTgWIcjDf7QxaEmBLz4jRW+yvlBOfcfNz9hBbWEqccAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/73_brefJaiFaitUneSoireeDeguiseePartie3/00.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Ayant perdu mon emploi la semaine dernière.",
+    "end": 48,
+    "index": 16,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=46s"
+  },
+  "thumbnail": {
+    "hash": "0ec4592522",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANvT2sW+xJWPldLK1IqDh1dLR0xBPZeNkdHK0dPL0NbN0tnR19fP09fP09nQ1NnR0wDc1NvIwMd3cnarpKxhXF4cFQ5qSTqCZFqYlJ50cotsbIVOTVdmZoBnaIRlZoJoaIQAyb/EyMHHiIKG3NPbYltdHxYOdVJEmG1eppuuZGahY2OVMzNDVViPYmSdZGadYGOdANDDycbAxoeChs/J01tVV0EoH15BNHJNPJWCinh8q2ttlTo7SWhqlmxvnW1vnW1vngDXzNLHwsmHgIOai41kW1tUQz1XPzRMPjq/tLnj2uLOxs1dWl3Ryc/d1NrZ0dfa0tgA4NritqOlcmBgdGdtbV9YW0c4OzY6LDFBpqe44djgyMHIXFlczcbM08vT0crR1s7VAM7I0J+Miis0TSNFd2NYVV1ELiIlLRAaLI+EheDY4Ma/xVlVWNnR2X9ycZiMj97X3wCGfoNgX2obOmsdNFlXTUtdRjE5LCIYKENiU0rVy9DDu8NjX2KclpxVOTBmU0/RzNQAXFNTUl10DSpSHC1JTEVEW0QwRTMjISg+PDI1gmBfeFtaRjw7Ny8uGBMPGBURemhp1O7YZtXbhaAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/16.png",
+    "width": 1920
+  }
+}

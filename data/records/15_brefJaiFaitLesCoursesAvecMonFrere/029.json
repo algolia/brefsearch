@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il faut te reprendre en main.",
+    "end": 30,
+    "index": 15,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=29s"
+  },
+  "thumbnail": {
+    "hash": "2036c5f3fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACQiIyQhIiAhIRghHiUoKCkuLCQxLCgoJ1RAO0FEPURORmJfX1JbVERRR0xWSl1ZVgAzMTMzMTMqKywhKSYsLy4sMjIiKipELy60fW17YFVKUUxoZWVob2djbGJgZl5RTEwAQj9DQT5CNjM2LSwxJCIvJCA0dl1dkmhcgldLoouGrKuwYlteWFFTXVZYWVJVQTtAAEpHS01LT0pFSR8bMRISNSofOZ95boNeVndRSo2GipmWnFlTWUI+QEE7PSYkKBcWHQBRTlNWUVVHQUcWFDEWFTcWFTZIPFEmGBoyKzN3cXV4b3J1bXJuZWdmXFpAPUInJC4APjc4OzArMCgrGhg7Gxk9IR9JJR4yDwsVSj5Gem5xbWl0fHJ0dmtofnBmU0tSMzJMACYcGSEYEx8aIxkXOxwaQBkXOzUmKjksN3hZV0Y+RlJUY1dMTWFXUoh4aV5XZW5mgwAhGhgRDxEREB8ZFz0ZFzoLCyEVER0QDRwpHiQ7OUFfWlxzZGB0Zl55aFu3pqO+qqoAGBYXGRgZEA8ZERAtDAsiCQofDQ8iDw8ZExIeNzI2REBDZl9gd2pmUUdAjn59q5+df+xznGzqL/wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/15.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Bref, j'étais au cinéma avec des potes, on a bien rigolé.",
+    "end": 4,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=2s"
+  },
+  "thumbnail": {
+    "hash": "f03f724efb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABTElEQVR4nBXCSZKjMBAAQMJIKlWVFkBgZLE0SzcGQ2+HOcz/PzYxGZnleS6EFAKU1Fpb4rpq9yZdxkbiisijthoIFCqpldRZLkR+y0UuNRChQ/RMpTW15YrRMzpGS8CoEBRKqTMrZGV8CrELsSY7tv0x7UMV17Ss/TKFdqzufVHP3TSVoSPOCgmxivP43OarL+PcH5/P37md+rh87T/n8urT3j22r/PP2z01gBlKQCBHfn6ssRmKYr03e80++XCtz+/tGtr3sTuOn791t9RUZIVSFeBEZiYzs5ttsZiit+Wbq44inEW4fPmy/mVd8iGyy0o0AaBDGslM7CZjJ7aJ3YPsZtxu7Gn9afzJLiEHpTNQwEIFBXfQUWNC6pBqTbU27+w+2G7GfrBZybQavVTZLb/JXJhcOQmlhAqgAbQKHXCP/w/Ig6YEGJRmIf8BYskefb8EB+sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/01.png",
+    "width": 1920
+  }
+}

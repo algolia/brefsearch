@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Je suis allé sur Internet et des mots sont apparus dans mon vocabulaire: Shampoing,\nralentissant la chute, shampoing, anti-chute, shampoing, après-chute,",
+    "end": 50,
+    "index": 16,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=45s"
+  },
+  "thumbnail": {
+    "hash": "bcbb10efa8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nAXBW0+bUAAAYF58cBdtNq1bdokZcXUWuRU4wOFwuB5oT7kUKJRWqbZxmzZbMrNkvu9xf3rfx7z/As5GXoRNGjgxhMsqK6sE2SadxJvr5t+fx7+7u6ebxY8mXSZj4iLmwhiPoB+HIfHduq2W11VIsOPZaU7bavq7ax7K5C6LNtSrMFgRi0E2FnlO0xRNVS1k0CkJQs8LHBMC4js/F8Vm7N/PJr/a/OsYN7rAAE1QZUFVJRtDw1ABkCVZ1HVF0WQa+09d+41Guxn9npH7glZZzECFQ0DCtk4C5LhQHgkASGGITahhbFSRW2NIgRTLXBla3TxjQqzdtvnjbtMt0m69uN2uq3nWrZer1byo8ofttg0wUQTIfy4DC0gqc3VV182srrMsGyfTKE2jIHQmE+L7lq6Z86RIkDGLvdzRA+QeH71lTAhGqiArnKKJHHcuy/wlfyEIQ5Zle4d9ZDg3BS19y4XO0es3z/YPGEEY8uJwcM5++PhuMDgTpctP7CnLnvb7J73DY12WupTYAB28fLW3t//iee8/GdltzX7Aqy0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/16.png",
+    "width": 1920
+  }
+}

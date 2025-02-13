@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 71,
+    "name": "J'ai fait une soirée déguisée (Partie 1).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
+    "videoId": "rOI3TXz-igs"
+  },
+  "line": {
+    "content": "Putain. Elle est venue, elle m'a fait une blague.",
+    "end": 67,
+    "index": 32,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=65s"
+  },
+  "thumbnail": {
+    "hash": "79ecbd41ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXBaU/aYAAA4Ebp8Z69oVCgx6DQFkGknVB10GpbVERkhzOZxMWQmCzZPuzDkmU/fs/DIBbUsHQZhk8XZ/urD0XPLXrWwjXzo2A19CcNzcQoDTqb2I90vOg6jMghzCJb1r5n6e/Najv0F11nHkw+JfOXcpUP+kPXiRr1QqeZQXPPYXAFSAKBh6AcHf/7st1Px+8tdz0+e5svPsbJw3iQhV7htp41dK3htN9lhANeARRz5Ljt/Nncvoy8Zc/7Np2/nc9fk9mvy/PU90rLOJVp5HgXHZ/BHKoSRRTIsG3/fVjues1py8rc8MbrL/3waxTZmt6mYkeU4qadtF1GAlSFosTjdRS9XqU2VWpIOTHap1bHr9tNosoCNBBKzPqd56+DIwaxELNQE8g2jgLT1oFcJyo4FHSix86gSXWF48vJ7Ed5f21bxTuX4Q5YkYd1Ip5YLQPLNSg3iEo5aBBt1OqZRKsCurt5/Pm43xV391HMwAovCVCHxFU1BVBZIBoQYQWgCqhiVeSwzMFylj+vnj7nm212+x9JG0Hl+IkCBwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/71_brefJaiFaitUneSoireeDeguiseePartie1/32.png",
+    "width": 1920
+  }
+}

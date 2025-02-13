@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Mon truc important, c'est de retrouver ça.",
+    "end": 104,
+    "index": 46,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=100s"
+  },
+  "thumbnail": {
+    "hash": "b3f1dee1d8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nCXCe3OSAAAAcL5DV2OBgqUDhmKOh4Co0ymomyOZDxwiTwVFveHyrF3X1fXYea2r6xP3R7/7AVPT+fL569R0SCzHMzzHipmTHHL08oJhmhwn5GlZ6TbrcqNaU2oNpaEAtuV+//bo2D5N0c26clFvEySNQ4kihgkEqZSksWF3zqsVjsnn6W6jCfh+8Pjj4LlzgS525Fa7dU2QbBZBafiYR+GuyKeSaRSET1+fJBBMkurAIlw9/fzle0GZL6md7mVLzZ+VcPRVFUv3eL4rsPwbBk5TLxIYlDrVeiNgs7778/vvzAvLgqReaZp2uzD7hQSYT0BXDCVhiFMj72aT50gWTOJj3QSi5eZweHItT2SKA03fbO5Do587enaeRYfljJiG5ELmYRuxxSpOFLS3A2A6dR8+fJx5gVQsjQbjbbyztGs2CToqN++xFRxRGGoVLiaGo49Mz50Dlum83+3D+bKnDvThJI7f3chylSI++RVfZWgUEtJI4PnrVTwxbOPWAqJltI5Wnu3/v43vh5dtLgWKGCyQGS553BHO9rv9zAsmht2/0f8BFBV7nbV+G/oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/46.png",
+    "width": 1920
+  }
+}

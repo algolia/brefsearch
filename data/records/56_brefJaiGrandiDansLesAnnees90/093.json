@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Maman, je vais chez Seb, t'éteins pas la console.",
+    "end": 94,
+    "index": 31,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=93s"
+  },
+  "thumbnail": {
+    "hash": "b8c5ec3057",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXBSXOaYAAAUE5pahI3RMVPWWQHAQHxk02MhC1YNDbEJJ1OO9OpnbaH9NZLmk6nx/7pvod4phR7RhnBXezcJu4+Xoy6nVgV7wI7gXI8F6O5vLLEwBAcjbUkEkkCS5NYTWT9mZoE9r4INYZY8dTXIjykcLOclqFRBEbuG1cLNTAFpIw9gA9YipTGNAsGSqcVd5vx3Kxk9gOPv3OVm8i+ieB2Pd+EVurqyO11yFCkLnLisK+hzXntdIaia0VP+t1HrH6gwZv1YhfBKvOr1C1XFlIVlwxJsiMwxLpCG6uIXs7QZZS9V7h/k/4LnHze5rmnPh0fno73VWIj+yygCYInBjY1MtvtO7wFSdpZpp5u/eXRX0LvOVtVvvbxPv/0WLxNIJL4Ft7Dz2sNCcUuG2ebi5Nxf6hP4UTUfzOt72Tz58o5mDy0QBJyqashC41naIoGwDx7vW3XsvorgIGpNDUN5xuF/pHwlzjIpaGu9VQZQI1DZLLvW0p55UeKvKufLNuN84uOPeadKdz0ms8z4ceXoyORKgcYAp9w5H8rLVb8Sb833QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/31.png",
+    "width": 1920
+  }
+}

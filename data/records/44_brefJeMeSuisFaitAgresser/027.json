@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "J'aurais dû lui dire: Je m'appelle pas Eh.",
+    "end": 29,
+    "index": 10,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=27s"
+  },
+  "thumbnail": {
+    "hash": "a074205b61",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABITFDw0MldCMUUwH1I8Jl9DJls8HlA0HUo6LD8xKFRJPnFiUTtESw4mQSYsNyMqNQAhGhkvJiRiSjtJMB1YPidbPyRVOB1BMCQqJigaGBwZFhpLQTlDS1MRKkYrMDghJjAAZEM3VD40aU89Si8aWkApWkAmTjgkaEhAdFNMQDc3ERAWJR4dPkhQDypIJCo0Iik1AHJKO3dYSndaRlU3HlhAJlg9JUMqIG5JPYJVR2VHPSAcIB0YFzhDTAwsTCgxPCMxQABwTkNtT0JrTz1VOB9WPSJSMSJYLzNvTT1hQDVzT0A0JyYfGhpASE8SNFMqOkwUL0oAeFlJaks9QCgZSy4VWDsfUzUgWTYrZ0I2hltNglxKOSciTUU7S1BRDjJXJD9aNEBMAIl5cZCHhWthXFdIPTkuKRsWFiYbFkosJVA1KnJSQ1Q+NF5TRVBTUgwwVTlIV05GPgCPlZ2fpq6ttLqss7ior7SJjZIhHiEzJCFzXlOYemhAMy8hHB5NTEstQldOS0hGQ0EAfIKJhYqSjZKamJ6koaestLm+dXZ8OikolHlrZU9EGBMWFRIXGRUaPDk7UlFQRENCsNh20YBOmJEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/10.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "En retapant mon texto, je me suis rendu compte que j'avais utilisé\nune phrase interro négative au conditionnel avec tu voudrais pas.",
+    "end": 76,
+    "index": 37,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=72s"
+  },
+  "thumbnail": {
+    "hash": "eba03f872d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVR4nE1R246DIBTkj/pQk25KsgLackmqAu1y026guvu8//+yoVprMi8MZxhmDtgdyb6kh7qBQpXNF5aOqED0UOmBqICkKxsDhT6cLvuS7Y4EFEhAplDn6tv9bCK1ibnHFtTG+nZHnYNcFVgAyCRRgdrI3YP7cYYIkwjTemRZlirVQyYBas3ZxsyGHzZPhImHifmRbvTcj9SmsrUAS09t4n7E8Y/2v8yPW/Cn1SxgLmEZng4mO2RqHlpfnfFiqE2otdsMy8X6hy2ojUQFyBUosIB8aYna+CpnyZrjmljfvt8tzXv4qC9Q6M/GoM5Vuq+uQ3UdiO7xew9N3gMk//ODiQsK99owAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/37.png",
+    "width": 1920
+  }
+}

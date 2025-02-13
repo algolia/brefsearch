@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Jusqu'au jour où il s'est fait larguer, du coup, il allait pas bien.",
+    "end": 12,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=10s"
+  },
+  "thumbnail": {
+    "hash": "78ebdb830f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEs9OUc2LlREQGZNSFY0L39UTZ6Df2I3P0AQGFMjLMy5vNfHyNXJy97V2JqJjiwPFgBSRUBGODNsWlZpYF0eFBCFb2u7paRqOEFFEBplMzdvV1G8r7D/8/b37/GPfIAnCQ8ATkNCJx0bTD07XUZHSywiXkU+b2FgRiYqLQ0SXDUzWDgugXBwraCjmpGTf2puIQQJACYgIAcICEUtMk8tMjcfHxwREhQLDBcWGB4bHTEkJzIlJC4iKQ4KDwcHB0YxNSUSFQAKCwsVEBJWNTpQMDUnFRk8HR1RJiYpKC0tKjAkIig4Nj1mUFNjSUQICQoXEhMwIyMACwsMFxMUHxgaSzMzQiEhWyMhYC8uDQoNCwsQFRMWGBohUjcycU1AIiEkKiouGBYZAAgJCgUGBgsMDQ8PDFg0LFMjHzMODxUKCwQFCQkJDQsLEAAAAAQEBxUWGQ4QEwcJCgAFBwcXExFaSkNSSU5gTU5cR0NdTUNvMStgJyJgUEdUQz1KOjNRQTxKPTpFODMbFRMABQUGWUM0gGxlgneBin2KhHqEgm9sgE1IbT02f2JWc1dNaE5HYUxFhXBmZlFIYEg8w7dsOr77AqMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/05.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Salut. En fait, c'était son collègue.",
+    "end": 37,
+    "index": 17,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=35s"
+  },
+  "thumbnail": {
+    "hash": "4e5375f608",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXBS2/ScAAA8L9UxpuWSh9Y+mBlfdEHtAXWFkoYYx0CAl2Qig50kJjsMD2o8WBiduTg0cMOJiYeTfwMfjR/P2AVn4p5rFogsgnkRdM5zCcjpmJi9JXlTPXm3OnugtH2LFh2BxO7bVAsCDmRy+I8QhRS6Od++9+n1UPYf2O1N63OxnIO+9v7m/3NMJjYzkgzBZwGe9XwSBpNP1FL5R/R5a/t+EvHnJzIfUF76Y7/fvt+WO1eeYOZ1Vq2nKjtgq0sTOnqURy22OM/7xa/r0fvTe2Mldd135eHP2+/3j9bR7YTnXpD0/ZlHayl2jWv5nPFMkbe9ayPp9qM5S1aWRm9Td1/ePshtP2FJr9u2VGjeVmVwbLE2RgVT8HJFGzguIvAZB73qkogajPFuvMnFIpLBLlQ9auqGFAM6JJlEE/HHqdj8QycyHmZ7BGUGNa00LTHur5zz6OmM+SZ55IyrtXcCg/gDAxiCQhKxqDUIyiJJLIsgnVOxK4g9kT5QtGjRitUxAtRGlSOGzgFBIzgUIzIIUyhKBRJCSPrpbJWZgyaNShGwimX5ed6faqoXZaTUOI/hrVWMNENRV4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/17.png",
+    "width": 1920
+  }
+}

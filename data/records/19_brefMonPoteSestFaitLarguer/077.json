@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "T'es malade. T'es malade, lui, ça touche pas à moi.",
+    "end": 79,
+    "index": 37,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=77s"
+  },
+  "thumbnail": {
+    "hash": "18f8d05cab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nGPgYmHmZmXhY2MFkZzsUkLc+rL8VhoiQVYyntoSiVYaOS7GbnrSpd6SrsYq0tLyDOzMLGzMLNwsLPwcbIK83PLCvOoi3GoSQiZKEmFG8lVeplNjXTyNVONtJay1pER4eBnYWFjZWVi4WFkEuTgkhPmUxIXM5cQsVGT1laSDjJRy3czqguybAm2NxPl1RPl9tfRBGjhYWLhZWXk42LQkhHXlJaVF+FUUZWwM1CNM1bqiPGYne3eGO1vIiugKcPuqGTCwMbOyMbNwsbHwcbA5KMrYaiooyknYmen52hm4aSsn2hrlehg1JQQsnjGtNq8gwsqJgZ+LQ5CHk5edVUGIz0lZxstIzd/ZPDHYJczb1sdIPdnBMNJaY1lNzsaVaxfOmrd60SYGEUEBaQlRMQE+UwVJDw2ZADujuGD3EG/7qEBXZVlxIyWJAH35+sK87ub60rycxXNXMQjz8osKConxC6hIyOlLi4e42VWXFbU3169evlRNRUFaXERKTCQxLraltqIgM33GhLkMEsJ8wnxc4gL84kKi0qJi6gpylmZm0WEhC+cu1FBVkpYUExES8HV3jAnxjgrwnjN5HgBUSVmcOQ6lcwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/37.png",
+    "width": 1920
+  }
+}

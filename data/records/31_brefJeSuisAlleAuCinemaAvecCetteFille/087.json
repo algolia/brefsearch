@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Il y a mon bus, il y en a un toutes les dessous de 45 minutes.",
+    "end": 90,
+    "index": 39,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=87s"
+  },
+  "thumbnail": {
+    "hash": "b4bc65b610",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBTW/SYAAA4BopQqENdG0p9GMvfVv6QWkptLUtFKFSXJFkG25D4xY0JjNZ/DgsMcTERb15cImamHjw5M3ExD+iV/+JV30eJHbgyOMnffhmtXx/f3/f7xJYqVTIS3iexdDkZtmEWzonMJXCvdvj398+IjtD51bcfbI7+37+/NPJcm6pDFECWzhfLZMYSl678uJ0s3n6tsEwn189+vXzC5JGyjRunS4mz7JsPexv5nEoNY57isXTRCHH4Gg2GMX9AYMXL1+f/fv7B+lorOtKWaCfz6cXR7sfjheHDjyLTEug+WrO4HCJKsu1Ck+g673kx9d3iKvWre72zFEv5unlyeplNly0xbWnpLrAVktqHdeYokHldSoXGmCZRIgNKK8HLUC4Qu3I9w/cji/SqcI9jvQWyzYFWRENE8hdviLQWKtJIhKDOwZr64ql3Ri1HZEkhCqWatsPfQ0yvG0Es/Hd8eCwpwfNeqVO4QiJoYDj20Y2DFcS8Ap5vE5gOxq3Z8oSp8jAXkzvZJMDDQamArkajhTRqw3WhiAcX087agTEHk/L6yB8MEqVpt+CoWcnfSuRgWdAzTel/8AHVzRIlcqnAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/39.png",
+    "width": 1920
+  }
+}

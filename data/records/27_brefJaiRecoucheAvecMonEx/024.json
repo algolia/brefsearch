@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "On a beaucoup parlé pour rien dire.",
+    "end": 25,
+    "index": 12,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=24s"
+  },
+  "thumbnail": {
+    "hash": "acd70f1432",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJeRkKKZln9yZY+De8O5t8e+uX1uY2o9LnhfZbmyrsS4s72zr7etqa6in6GWlJWMigChlI+voZ++tabKwbXQxcPQxsG4rKaplpGpmI7LwbvNxL7PxcHIv7vAvbi1r62kmJcAsJJ/tZeHvKqmz8fFzsTAysC8x7y4yby1v7evu6ecuZ2TvrCowXF1wlFamT5Ck0NIAKqJdbWOesmplrynn8rCv8e/vcS8t8W4rrGejZ10YpRWR3tTRY0xNbACCW4fIHVbWwCXd2OcdWHOr5zJq5q7pJa5oY+2opu3p56qj3uigHpwSkJqPzWfdW2iW1evpqJxbG0AaEc4aUY3uZSC0rSgqqCsrZ+rsH1ttJGLyLrDx7zFx7vDwK2uwaibzL+1tqmlbGBhAI90X2JDModfT7WYkpGawpqewdK9v6yFf551bLKTkquFgLGNg7mglcSxp6KVkWtgXgCzp5auoZWPf32blKSYnruWlKzNxMnFur6uk42tiXulfG6ylIjEtarDs6uWkI5GOUAAqKSiuLOxx8K+x8K/y8O+0MjD0snDz8bA0MfDz8fCysG9xLm3k4N8a0A/cUpNQgsUGHoEasyf/oEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/12.png",
+    "width": 1920
+  }
+}

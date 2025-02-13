@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Quant à moi, j'aurais qu'à attendre avec le costume que je venais d'acheter.",
+    "end": 71,
+    "index": 24,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=68s"
+  },
+  "thumbnail": {
+    "hash": "395cd6c6f0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOElEQVR4nDXPW07DMBAFUGfetuO800JCSksR9AMkSlElBIIVsABg//tAKTDfc+7Mde/Hw+vTw/vx8Ly/75q6qatF1/Zd21RlVRRlyr1pkfLtNN6up+00OsIMMQPIyLnNaprGEQCapmm7rqyqGOOi7wHAuQwAEdAFk+hVhZPp1Wo6X/RmlvLch6iqIrLoO2YmIhM1UeeVvbIQRRVv6ucd7Zt22bYiwsxzLgARCYuy/AMmwcybmmk03V9dPm4v+7LIsqxIqS4LRPwDJn/ACGkeLqL/uLn+3O2GugSkoWvWwxIAhFiInTKbkBB5RiRKMcQ8vJ2df49T8lqmPKioKCIy0Qy8sp06BKFgGkzZ5GUYvlabOg86PzxXOYHThWjyWzowp2DR6/3N9uVut19fbIZlkYfoNZj8AmX5AQmaFpCVQOJgAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/24.png",
+    "width": 1920
+  }
+}

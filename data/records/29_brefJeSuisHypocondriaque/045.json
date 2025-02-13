@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Quand j'ai mal à la tête, j'ai une tumeur. Quand j'ai mal au ventre, j'ai une tumeur.",
+    "end": 48,
+    "index": 20,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=45s"
+  },
+  "thumbnail": {
+    "hash": "9d70996c26",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdweYB2fZ+bo5uVl6CYnru907q807W2yqmlr6miqbSmp7OAXLiBT7CXgpiXqoiEjwCRiZSWjJSyr7atqKmnnqPDx97BxNy7vdGvq7W4srfBsK6reVVtRiKkkIO0tMihn6sAoJimoZeeuLW7s7CyppygxsvixMnivsDWtrS/e3V2ZVhVa0k6KxMMhnh7xcTXr628AKaeq6OYnrayt7OvsaCUlcPH2r3A077A0n97gg8IBB4XFlc/OFcuGqKNh8TD1raywwCnnqqhlpqxrLCyrrKUh4W9vtO7vtS4uspAPEAMBwQcFRMaExIHAACIf4DHwtS1scIAopihoZWZq6Wps7C1lIWCu7zNvsPYsLHAPi8qHRIPCwkIIRUOSCwVgXp+wrzKr6u7AJmPmJyRlJ6WmLSxtpOCfLi3xsbM4JWWojwnHVQ1KT0nInxOMrNzP5iJi7SuuqagrQCKgImIfH2PhYaxr7iJd3Cwq7TCwc54cnUKBgUQDAo/KCCGTzaIUiaYiIijnKWSi5YAaF9ha19edGZkjnt1cEwvfVg8flpAXUMwKCIhGRYWKyAYq3k+pnMwjHtzhHuBd292LNfjE2EoodAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/20.png",
+    "width": 1920
+  }
+}

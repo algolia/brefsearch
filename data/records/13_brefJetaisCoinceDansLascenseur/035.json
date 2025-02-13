@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Je me suis assis, allongé, assis, allongé, assis, allongé.",
+    "end": 38,
+    "index": 19,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=35s"
+  },
+  "thumbnail": {
+    "hash": "c7fc4e3a1e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABa0lEQVR4nFXQy07CUBAG4Joy50zbc06vlEK5lNIGEBBR8YJStGqMLCAmBhbGKD6Aa9euXfsKvoZ7H0qDGI3/er5/MiNl/kdRFNswBGeEUmltjSIKwcl3TMEzGVn6HQUAIKAxlnOzbta2DHG+3Y6KnkwAEW3TqjdatpP7A5QSoaHOFM41RdPqeetutDlohEjAErwaBJfj6eEw/QEAoKnomSIsuFnTICA3ysHD40t9M6GytNvp7Pd3olqYdewlgAws65naDvyNWjksFXUVDo6v3z4+N/ojkCXTMJtRNS7mmaqsNgAiFVzdioNuHMRB2dDo5Pbp+fW9W/UYY4JzR2cVRy8YbAlWT0AVQz+3XQ99z1WR7Oym06v7vVY86sTtWjUqFTxb1zVcASCEAJCcbQy7zV5rveL7rqWPj5OLJLlJ+1dHvVatkndMBenf0YjoWGbSWz8d7I/Tk/lkspjPF7PZ9CxdXBwM25GlC0LIFyb1LrhJjvIuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/19.png",
+    "width": 1920
+  }
+}

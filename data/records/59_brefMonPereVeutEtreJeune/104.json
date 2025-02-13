@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "J'ai rien dit, je l'ai regardé, il m'a regardé.",
+    "end": 105,
+    "index": 47,
+    "start": 104,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=104s"
+  },
+  "thumbnail": {
+    "hash": "7530a46bc9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nB3LWXOaQAAAYOTYhV3Y5VIOg0I8iChItHhPosmIMbFJqrl02rTTjp3O9KX//6nTznyvH0OocxbPy3YlDduH9d375tNh/Thqp5ZZ9iwnCVv1iq9jQjHViElkjaGqO7588d3KLImP2+eHi3y/uh/HfdcOHKMY+qd1rzoMO3XXVyTlf9DcNLtdZpP3fPn7df9zu/+x2Q2jc99rmkQ9Kdm18sk6G62yGRGRgihDVSc+z6fp4Li5+fP526/d4W2x7jU7TT/UZUoRCSz7LhvsLpaRX9MVjVFIKU4WvVbydjn9fv943O5fFquaU7HNsiJhEUgaxlfd9MvH7YdO31QtBstGEHSj4Oxrnj9MprfDST9sE0xLakkSABQAUxCiarXXaOnU1lSXkbGKRYUg9WYwep1fz1ptkYeQl1QkIwFiljtOw6dBpMuGoboatRgEEAJYBLJXdK+S7rjRKBJd4KDIC4DlDQHMPcMhFEFZhBgKEgN5CXBQAkiWSFr1Z43mqWkJHAAcD1he5GChAFkW8Nw/Ag//AuxYOn/1clGGAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/47.png",
+    "width": 1920
+  }
+}

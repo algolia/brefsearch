@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Au revoir. Oui, à bientôt.",
+    "end": 95,
+    "index": 35,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=92s"
+  },
+  "thumbnail": {
+    "hash": "995f93829f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nC2R62vaYByFf3lTk/jmYjQaG6O2icZ4S2yzqnF00Sa2ndc12m7FYm+wjUHZGGVjDPZ1MBiU/scjXZ8Ph8P5eB5ACJEoAgCAIBAiSIQIRADA00wCEa0ACIin1IwRh8UEJ+w2ekW1/LJp3QTtebfR0fNVJeuWza1MSuLoXDIuJ/CmSMGOcynyksDyvuu3TDvsOZ9H3fuT0afjYO403rSrj9d+X5NaZr1Rto2iDsWCy9JUnGa7RuWgVrk9ePFzcfjrfLEeeOv99rRVerj1w3rS0O1CzsjJRahoHQFz1Aajc4y/LX9bDv9czP6ull+OgpXbWTr2iVM9c7BnKelUPq/oUFPlBGYpkmZidKWg3i+Gq17z++Fg7bT6pdJd0J859fFu0rO3ZElNiynY25YyPOYZhqUozzJ+X00vh+7d23dfz1cfJrMfIy/sWOOm5puKtpkuSAJkhbiAaREzPEOHrvXxtTveqwWvjibHp+/nYbhj9i1rqKn7WaykuIyAo+uj8wlEkmQstoGiHkn4z7OkyMQz/wBsgj7W7oXFrwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/35.png",
+    "width": 1920
+  }
+}

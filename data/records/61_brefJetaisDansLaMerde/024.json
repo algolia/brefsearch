@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "J'ai pensé: Stop.",
+    "end": 26,
+    "index": 10,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=24s"
+  },
+  "thumbnail": {
+    "hash": "44156882f0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nBXN627SUAAA4P7bhtHpTAiCu5gxMtzYGswCFnoBTu+lhR7aU+jp5ZwWURggITjjI/jUxu8FPkbiRQXIhqY7ljN2IAmT0aCnCLwtAuSiqT/zIYIjGM4ILyiFV28ZIA2GxtB1oOeiPE5WIaambLceE12hOCUxJRHB0yjPVkC2TwqnjCprYxv6EOFZsiFhNgR/aIgB7wJht96mEZ3TbzShz8u9afnvzkqMqZk+9PEUZ3T+e0m2nvqSBEGfRwPhsF7HmGRpnqXZz82LZaGj49eMpQ9ty+m0uxpQdzTYTcDfRZRIXfcru1/QNMqyJMtJvln/8hE9On7DmLqlAr1ULJfPr5bRJFXbCeC8zhN/e7mfpyn98X8g+fr5EAR5sXTOKEAGfblxxxp3jcPMGXfZ1qeK0qj6YnPKt+OeHPl4hsLVcj8e4w/lK6YniLzQd2u17cci6TQHzXrn5iKWvoy4B7F6MamUUs30IMrId9OYnL0vMxzXkTg+rpSkwolzWenWr8XP1wtDFO5vlHrVu63Bh8eR6fgeNgzIsq1/P2B9obM2NCEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/10.png",
+    "width": 1920
+  }
+}

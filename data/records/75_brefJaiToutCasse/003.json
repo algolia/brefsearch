@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'avais plus envie de me déguiser, alors j'ai tout cassé.",
+    "end": 4,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=3s"
+  },
+  "thumbnail": {
+    "hash": "c6d5aa6c63",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nBXLW2/SUAAA4CYLvZ3T08tpOb1CGYWtLXccW4SlzDCqU9jagW6MMI1jD7qEMTVRH9SHqQ+L/mbj9/5R+x6JyrpPpKqJK4YyDKzTdr7nmTU7u6mA51X77tXh+uzoYrB3cfj4oFKg+mW945JQx7sFs2rhXskeBk5a9yad0BH5tJn/8Wb87W16PYquRv244VGRpzdsLTTwjms0bW3HNQNDm7fL+6WcicCklbtfJr/fn99OhzfpYNzxqe4mqRjYJ3Ld0gKCMRQ4BmyRbFZAjiwmDefXdfKwmn+aHd1O40mvRrUcNTSUbSLXTNVVRI4GkIUMDURecDEe1+yfy5M/68XnxWj9Mj6LmlRAFJ8oZU0OdWwixNKAZyHiBcjCvIJfVO375cnfu9dfLo9X0+H5QZtyZVTEYhFL21lZhZBlIMdAwALECbakRCXj43HnYTX/epm8SwazJx1KR7CgoKIqFlUJ8ZCjAf//AMhBBYh1S/2QdL9fnd5M4kXcffbIpywEHVGwJWiJkKM5luYzGX5jg6MzPGCALaJ0z5/1W6PdytPWVjOn/QPbvkrIeYnl9wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/01.png",
+    "width": 1920
+  }
+}

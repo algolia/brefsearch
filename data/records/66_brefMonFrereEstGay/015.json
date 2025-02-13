@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "En tout cas, j'ai plein d'échantillons pour lui.",
+    "end": 17,
+    "index": 9,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=15s"
+  },
+  "thumbnail": {
+    "hash": "73f0cd0a31",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nBXOf3OSYAAAYK4NB7y8L7+GsDFBCWmKOEFdqKn4gxh1xKaVTq02zzlX3fZf193qr7q2j93tAzx3D7a19SyF44AgciLvl8x6XrU02dUVbZeRWSgiWhOYQ5nLCVBBZJrEMXwbJwiCpijPyC6H7cixKupeWZXfuIXCgYQAzUOo7XKqwMoM5CkS20mRFAUYGpbk9Lhamgza43Dg5vV/n+JZq8IBACla4riOU2zYpv08g1EEDQDNQmTybKBnZkF3kURBvbI+6X70yqYkQAogQHdcK3h5dFw0MIp8AhBCnWP9rDLqepM4fNd0H6cn93ErsbP7DOIR8uwX0atao3yIkU8jACHKsUxbU+JWbRT2Y7/5a/z6duCeOfmMwO1s48cFo1e1XDOLiRQQaVqEyGCZRkbuHRWTob9azL9PT++S/uatH9XsYadzc/k5bNUtVcY0APIIFQTO2Us3cwehV7+6+LJZLr/NPjxczx82i8fb1Z/f93c316MoKGoKJqdwlSRMBKuS2DP10LEnSXL+fnx5PvmxGP1dz3+uL75eraZnp1G/Y+xL/wH3Sk2L6zjWngAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/09.png",
+    "width": 1920
+  }
+}

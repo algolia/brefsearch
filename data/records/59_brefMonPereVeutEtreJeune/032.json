@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "T'étais en discothèque ?",
+    "end": 33,
+    "index": 15,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=32s"
+  },
+  "thumbnail": {
+    "hash": "3340cbf2a7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABVUlEQVR4nE3QS0/bQBiFYbeZme9iz8Rz8S12GsdJgRgaCkWAoJsKCUSF1C4q1HUXLSuk7ljw41EwVJXO9jmLN3ozGnVNefP54HQ1X1ShtGaRpX++Hn47WTZ23GZumjklIeEYJEoB0duR6Oryx5fjo62ZMzpLzW7lH27Pf13ut8F2pW9zjwoTjlHRBgipmiK7PNrrm6IJtnLjvnKPP8/uvx8vMtcE67Qh4AEoiREiEnPfNutZuSiz97mb+/Hd1fr31X4X7DhJpCR8BvAKCBBNYg7m9cXH/lNdTEyyV/vdys+CQ2CpEBTF9A8AEzIostqsijDPfaq1RpqmZuqdUiQVCon8PwDghGICbvJie1LM8jCx6TK3XmspcRg/n26AkqgkEjIqqvNy3b676LvtKkvjOEaWEoUAIYCQ1ZD1BQBHkTj7sPP39vrmcLUMVjMNHQeAsLmXAp4At6Ait6QFb8oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/15.png",
+    "width": 1920
+  }
+}

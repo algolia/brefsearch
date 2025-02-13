@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Depuis le temps que je vous dis qu'il faut qu'on le fasse.",
+    "end": 79,
+    "index": 30,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=77s"
+  },
+  "thumbnail": {
+    "hash": "fee85df9d5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nAXBaW+bMAAAULYmGB8YzGEMGDDlCISkZCSrUrImWbdFaSNVqrpph7RP037B/r+097SWsz727q7DsYgr7koTDan43KlP81waoPOdkrtwohceGxJxqJW2ir1dEV5usnkcMETvpasct+H03IQKoV5421S0jsWAHhA0qki7VbwJ2JD6pQhMaHKMGaavfX3plNTBIDxJsQvAu8gfs3BMuDaknEFwvA5zLigyiYFsiH/cFF+KWALQMBpTjAHYpuHvvhqlr/25rOlk8qB46nICCYU4sO3zqrtslp4OYgw3KqAQMATXMd+rUBMUSRM9NUlkm8YUMEz+Ph3/vZ6e3y+IDpRr/botJcMqkuuq+ljGGpxOEwu/rMpF5O+qrI/9x1LkFM2442HkETiP3JnwZ4nazuoPeah1kR8QWPrOUjjft0sKdPD2jWXAlQxsA4CrKwKNgln3RVILn1NL2y/bY1vcJd7Lpv75MH49HfZttsu8QyHOm+7b6WgTY53L86ISFjV08B8CsTObXJ1algAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/30.png",
+    "width": 1920
+  }
+}

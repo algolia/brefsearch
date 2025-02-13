@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Je suis allé sur un forum, un mec disait à un autre qu'un mec qu'il connaissait\nétait mort à cause d'une arête.",
+    "end": 18,
+    "index": 10,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=13s"
+  },
+  "thumbnail": {
+    "hash": "9219b72f45",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nFXCbW+aQAAA4OPuLHcHyKEU0YIvICi+oDKGQLClgVWbNm3q0nbJXrKm+7Skf6A/YL97H/ZpTx6gEelYJ3dlXMczjpmjaQ9Z8Gn7gTGuq23bMCa21dPbtt6UEDmBIuBE+n53/vWmeKw+dmjTkeX310OZX4CTFhZVTW1bZtfS9a6iKJgSSAAXpZeHi1+fq2/XucnUPpP/vO3vr4/x+uAM5sOe6dq90HMco6NiRjEFMhR/3KS/n6vHKrEkdSzzyjWuimK3e3q6/XmZF+PA2UbT0B02EWWIgo5mLJxBupwmi6nN9TOuh/6oqLZeHIV5Pd5m3fXcCqebjXfWajUEETRIE2IJCBQihrAkIAYb0jyLojpZFothurKz2EnX/sp3Rz2MCRAgRYghxARI/wUCGfiTXbk5VvHhkAVlNNrMRjPH9WxVUQBE7P8UYqoxniaT/e35fZ3FyUQzDX6q2/2+pRtAgKIACUQUNyQIKUYEQNFU+DoYX12WX/bP+TJaBitv6FunXU1W/wIcqTb6gFnbvAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/10.png",
+    "width": 1920
+  }
+}

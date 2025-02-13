@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Je vérifie sept fois pendant l'acte si la capote n'a pas pété.",
+    "end": 59,
+    "index": 25,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=57s"
+  },
+  "thumbnail": {
+    "hash": "914b2da5d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABQPEg0MEBMMDScTEScVETwfGT8kHlMsJI1uZN7b1dDEv6qXhvz89KaVk0U9RVFNTgBdQDZeQjldQTZZPjRlRDhmQzdTOC9lQDSXdmiVdmlrRTdcMymYh4GklIxyYVtHPDsAeVZJg1xOiWFTgVxOdlNHbUs/XT4ySS4lSSgbSygdQycgOyIbJw8LSTIsX09JPzIwAGFCOmRGPF9COUw0LTonITIgHCkaFko7N3FjX1xPS1xRTjYsKSQWFEMvK0k7Nz0yMABDKyU7JyIrHRkeFBEfFBIoGxkmFhR+b2vWzsPQyL3Z0MOjlYk1KigxJSNANTMlHBsAKRwaEgwLDwoJEwwLGRAOIxYUIRYURTg0fm5kfGxic2BUQzUvJR0bOzMyQzs5HhcWABkRER4XFioiIB8XFhgRECUdHC0kIkY6N1pNSFNFQFpNSGthXGxhXmxkZGNcXSgiIwAjGhkyKCcsIiEkHBsuJSQ6MS9BNzRRRUJgUk5rXFd5bGZ8cmxvZWJ5cXFxa2tEP0AAHBUUIxsbKiAfLCIhKyAgKR8dLiQhPTEvbF1Xmod7mYJ2b11XdGtqiIKAe3RyZ2Ff4JZ3ypJJ1B8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/25.png",
+    "width": 1920
+  }
+}

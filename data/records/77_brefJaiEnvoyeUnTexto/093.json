@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai pas répondu. Mon texto était parfait.",
+    "end": 95,
+    "index": 46,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=93s"
+  },
+  "thumbnail": {
+    "hash": "3ee69fe7d5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKinqsTCxtva3u7y9Pb7/f///6GQiWFFOJmDdPr49e3m6eLP093Q1Nra3sPCxamoqwDLys3r6+329PbjxsnZr7XVn6W6g2AfJSN6OSuyTlScPkuMJTKoa3P////t6+7JyMsA7Ovu////9fDwiy86fhYjgBYkhSw3Zj5DczZAfB8sbhUgbREdeztEoqOjxsbHs7O1AMPCxMLCwrq4uYM9RmsTH3AdJ5BQWZtWYJ1eZYpGT3opNHwoM3QrNLWztMbGxtTU1gCysrPExMS2t7aTUVp6JzGOSFGPTFWVWGCVV1+VVl6LRk95JjFwHymrp6jCxMOampsA0tHSvr6+vsHAj1ZecxsmgzdBlFJbkk9XllRcmVZdjkNLlUpSiz1Gtqqs7e/u2NfYAMHBxIuKi62ysqp6gI85QqJbY6ZiaYw0PngaJZtRWZpVXZRPV3kmMbCcn7i7vHh2eQCVlJfc2t2nra2OZmt+KTOMSlOISlKLTlega3KTaG6if4S7naHFsbXe293W1di4t7oAa2pttbS3wsLEs6+x2M/T3tnb4N7f1djXy87M3+3xze/8////8vb539/ix8bJrayvj2z9jYRPeAcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/46.png",
+    "width": 1920
+  }
+}

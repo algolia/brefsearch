@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Barrez-vous, barrez-vous. Je me suis barré.",
+    "end": 58,
+    "index": 24,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=55s"
+  },
+  "thumbnail": {
+    "hash": "2d639f4972",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nBXLW0/aUAAA4EOpp+fSnhZ6PaUUC70w2gbLZci0qQJOomJiNrMJRn0wWfawkGxZzP7CfvWy7/0DKlE0TLM2dy2TyurpICzjYNbzsyRhOs/fDe7uv3pB6HWTxcl8fmgDjTCDsog7Dacd2M5FFv9ZFseurjat1fLquRyvx2nHsrhCj/tBFbeARlVTVg8dPiimwyj8ELi/zoaPmb9KulUcfUn9x8369ux8O+xejvPL6fB/MCgz3NDuT4pBOnGtlyJ8K/ubqBVq7GUc76rJajaNHDt0+fVqARhWdFmVrKSVnz5trkYd/ySJZi0jspoIU1/Xy8j7mHYxkpEoHWU5ULCC67Cdl2/7/cMoTDpdu90zNZ3JjGBZhJhgajImIzKwmue9FqBIroH6zfbb35/fX5fTm0nBTUeWVUIUhCiESBAhlmgV8PvUu40dAEVIlcbz64/93eL35/VumiGJEKoiREWI6iICAjSYOvft68hZBiaoAcHyek8Pu231/tOo7+lNAVJCFPEACXWpJkjwAPNG44jrc08vfeMfLfs8UlgFJV0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/24.png",
+    "width": 1920
+  }
+}

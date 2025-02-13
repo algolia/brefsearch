@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "J'ai lu une statistique qui dit que la cuvette de nos toilettes\nest trois fois plus propre que notre clavier d'ordinateur.",
+    "end": 54,
+    "index": 23,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=51s"
+  },
+  "thumbnail": {
+    "hash": "79d5327b7b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG1nhn95m4J9n46LtIl+oC4fHk0sImtANXhNQX9QRVMxJWZddoZ/qFhRaUI7TjgxQQBDOEdJP1FFO0lRSFtbR1c5HxhEKiFmPTJ1SD1yST1XOC5DKi0lHiMqIiUnHyMeFxkARD1LQztGNi42OjE1S0BKSC4oPyceSCoiXjcuRy4oWz00LiEiHBYYIRkbHBUXGxQWAGlfeJaQrKSfw4V6olhOX0YyL2Y8L2I6MXRIPnlNQFc5MBgTFCAZGyEaHSIbHiQcIAAnHR8xKS42LjFQR11COEQuIh1MLCFEJRxcNy5sQzZKOz43MDwqICVRRlpYS2RANEMAIhkYGhMUGxQXJCAjP0RVU1RnTj5AV0FJWD9DSjQvfmZnjZG0XmN7WFdxSklaKCIoACcgJVtjhJKn1J2x4IGIsXZxi4R2j4yBpY55kol0haaHgYaPsldij4eZ0GdymEJFZQBXXoFndZ+To9Ofi5OVcW2IXVd6VFlqTVN1TEWFXFaifnqMcHRxdaFeaZguK0M/QWEAMzNHKixDSDpGZEE3aUU+eVFMYj89PSo0VjgxeVNNfFVRhllPa11vLzFMLSs+Ih8ro6uHm0x86oMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/23.png",
+    "width": 1920
+  }
+}

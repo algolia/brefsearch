@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Et moi, j'ai essayé d'être là pour lui.",
+    "end": 13,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=12s"
+  },
+  "thumbnail": {
+    "hash": "6decfd7d8e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nB3B+1OacAAAcH5YCALJVzBABEVEcz6AoA1FnJbiM2UWcdnjcm1Wa87lreu6vW7rdrvb7Y/eXZ8PVFIkHEH5KAAE3rV0PynsUnSXT2zLYq2kBM0Xk5rm71jdiu7vWKNqAYLXQlgYI3GCJIgUy5wo6THHiQDAMLJBrDcLmdVBY9qpNwx1zzEdNQ/haBh+tgbDiCkmXpvlK708YuPrOIaG0EFZ+R70H07H7zw3cOuDqvFyU4LaWzlHLzEATIvK35PJpVY8jIubFMjHyLmjfd13PdsIdu2LUWtc1c00D116nV+Lqx831/OmfTdqVTMpk2ELNCVTEUNgvxwNb4fOm7324sh7pRXMtAjN+vXV6eHv2w//7u8eF9ftisVR0QTDxEA0ghFqNvPZby+C8YXX61eMvqlCnvV83y6fd+z72fHjcvFntTweDpIsKycERUzRJCUw3LYsbUlJO5+1cgrUN7OeVTyw1TPX+TT1H97Ofi4/5mWFJqMSL5SUHBdjaUAhISSMoDgahlwt2zPzPT03qRlTtzGfjL/dvB+2XCoC4hssQ8cElqcAhWM48uQ/5a9Y1Kg8424AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/06.png",
+    "width": 1920
+  }
+}

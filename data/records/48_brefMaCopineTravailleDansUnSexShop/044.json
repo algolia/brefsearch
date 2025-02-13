@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Très mal à l'aise.",
+    "end": 45,
+    "index": 21,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=44s"
+  },
+  "thumbnail": {
+    "hash": "072f5ef72a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBX1OaAAAAcF62FBRcoWkkuRANQUMs+SehBFSAaDunrJOF/7bMtnmz7G53u9Xdrttuty/Q2x732NO+3n4/IAXHtVxFJorNXdHJl3xeHdddh+GHYsMrs2fC0WDPCDj1rWoekkWJIAAkBKEgIqSyHilMGW3OHr1n1KVsPRyrf6btmS7YKepD3X1nuHaWuTJNAIvGUAjmMWLEqN+U1rhitJjasFT5dVr/O/eXJ3WHLE0kZ6g6Tar8tdcBMrG1NLKWAMNXjfOnwe2nfbZTdYJdcczT97rys2F0KfqLd3MXXJsvC31RBogXKI6sbsfgj2r33+DiVlNu9N5CUGZS6dFvPp60rqvaQvMWeu8NJXmyBSSjCBtPdChisWd8r/kPB/2zHYlf3+gzpTvr4DNbHpWloMgvas6F4k5fT4Dwc9DCsUuuMOPU34f+hNNTMJqEYJvIz6XqiKLtTM4md370BmPttK0cA3EwYmXwV+R2QMtGhgZXwFAogsOx9ubGJS/f15RlmXOzeRrD6URaTBPAfnLdIrZoNJFHsZVnYTAUAcMRBIyeJ1e7W3i/wE7por6JQyEoBiFmNvcfBI1lsTg1ZakAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/21.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "faire parce que la vie, c'était de la merde,\nparce que dans la vie, au début, on naît, à la fin, on meurt et entre les deux,",
+    "end": 26,
+    "index": 9,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=23s"
+  },
+  "thumbnail": {
+    "hash": "85cd8f87a3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeUlEQVR4nB3My27TQBhA4ZGY+ec+novHl8Rm7MS50hqCElJAgFSkSki0q0pljbJhidiw6Cv0AbrmEXhBVKSz/Q6a53pZZMsyGyduVZihMBJg8Op6bL6cTd/N4iGFXeO3VTYUpvcK9UFvSvuq8bs2rArbOkWekVbz29f96eP2Tcr3z8Mx5cmKqeETI9AQs9rK5PWmsimYjFMr2N3F+eOv09+H+7vjcNGFfQqdE5ViQVCUvOYUMMaW01I9PaKgN/vtn9/fH39+uz20qyhe1HaIZmJELinqQmY4ZRhHyeZevqzs2zZ83hSny+HH5fnXsdk1Zpzo3kvLqZcMOcE0A8ugVnwV1LG1V5viahs/zN2nRXw/c4fWLaPOGNUADAApShynnkHgsMjlONXrUp3Vel3I3vMh8HXUtRacAH2KIEmwoeAZlJJWmndOLXLTe9k5Pguic6KzUjFKCQAhBBMk/gPHiGMgCDEUOqfmQXVWpky0hk+NUIxijBkhgMk/sjcqvO25pzUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/09.png",
+    "width": 1920
+  }
+}

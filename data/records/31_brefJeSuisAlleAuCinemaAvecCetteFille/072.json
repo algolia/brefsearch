@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Et puis, elle m'a dit qu'il y avait plus de métro.",
+    "end": 73,
+    "index": 32,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=72s"
+  },
+  "thumbnail": {
+    "hash": "4a662f2bc3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB0RChcMBy0YDiQTCSQSBlo9KHhPPHxFMlEtHwYDAS8iF9TCmMKgimlKOoNbSWxLPABDIRQVCQRGJRUxGQooEwNiQip7Tjx4Qi1QKxoYCwZbNSbYw6bUup67nniEbE9/X0kAOB0UJhAIPSATTykYLBMCSS0ZVzkpRycbYTYiSykYbDovfnN+7OLO9/DW0rqO3cCbAFQqGzMXDCQSClUtG0MeBEMlDGg/LFk0JW4/J1gyHk4tIFRAQLuvpPf26/741fz72gBLIhMsFAsPBwRMJhVBIhEpHyVRMzBWLx9WMh40HhBLKhorGxgkHSJGPT+qpJfo4sgAQyETGw0HDgYCLh4fJSIzICIyExMeKBgQLBsPMR0RXzUlKRwbJh8iLSEkHBQbeGJZAEAjFRkMBhEJBiAdMCMeLzowNSQeJhMTGSobHW8/MF81KR8YHR4YHjgtMCIbJSwgJQBDIhgUCwYSCg0xJzUkIC0rIy0fGCkhHCgNCxU3ICIsGh0XEx8gGSgqIiwcFSIXEhoARSIZEQgEKBYTRyckJh0kKyMsGRQkGRMiDwwUCwoUCwkUIRomIxwqKyMqIhoiEw0TbENhLf3HdD0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/32.png",
+    "width": 1920
+  }
+}

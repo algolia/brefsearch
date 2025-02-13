@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "De quoi ?",
+    "end": 74,
+    "index": 28,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=73s"
+  },
+  "thumbnail": {
+    "hash": "6c4af8e183",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nAXBzW+TUAAAcBIt8ODxeMDj4wHF0kILjBf6NdtBq22nnfuIaURddvAwl0WTLe5gvHnbQRMvxl30pib+EyZe/Ef8V/z9uIjoLkaNWw3A8ylWb16uf397/+P69emyWOS99YgVAdUkkFFSdlov9udcx8AYiPztBhSFDOMvZ4/+/Pz47++vr+9ONtVwb5CNQw9LILH1zTY7PVpyOTUJlCSeR0DMNHTz6vnbx9WHq/PLkycPWG+/n+xGXo5RhJXjna3Les0djFmP2kQGSBRCXV1F7iwJ46YbGvqqF+eWOzM1pioDjBYhPbxbcHc0NXIsX8eQ50NN6epI5AUswVE7zKIBs4MYyqkCF4Y6dYkFZc4AYsskLdOgGOWuXU/6m1F2UI2PymmVF9smaQIxgXCmq5VjEChxvopiaseuk/jeva3k88Xx9zfPrs/rw3Jyn6UF0T1RiGR5qMhzn7I047q2OU26HWolvjuJ2lf1w08X9dleuWLRThx4AHgSoAAMEMw11DQJlwb+MI5Cy4yp0w+83en86bIctp1+x2eUGA3eBkAXhLYkhRIYh/Q/e7xG4BvjA24AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/28.png",
+    "width": 1920
+  }
+}

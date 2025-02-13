@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Coac, chimie, yono.",
+    "end": 22,
+    "index": 13,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=21s"
+  },
+  "thumbnail": {
+    "hash": "a2dd1a0dfc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBS3KaYAAAYA5gTCZYYjCgIAr8PH4BEUh4i1pjCQ5CNK2ZqY1Rm6RNs2g3nTSbrrrJTM+RRS/UzvQGnfYC/T4EdBx4FMCjQORAW5Senn78+vl7frkZpPngZHzoh1bQNd1QMW25bXIiRCTdNLwQQFVnG0rt4Pvj45+//ybz80Ec0zRTLGyjKAa1jmF7kgxZjkM4qycHiWnZrsgrFHG9ePXt60NyOuV5Ybew1VPEUnG7XK6omtYE0l6VR/BOhltTVXc1ijBkqV6tSjVieDzkgABJIoRAb9SFWi3NZ5ubu8XqCinxYbmd+P0TF3Ks5lGC7rTEl29W3SSjSdIG7KgtK3Xq9vr95/uHi8sNskUqmBrzfu6NMiGaUYIeefbxbCkHuR90HSjaPEvvYelkevvpvh9PkH1aLkkRqsYV+6wmmc9QrCFZDPQdy3nu2Wk+850Ax/ajYXL18cv4bIkYAFQYdadxiLd6hSKGVppUE2qCFLn+OB5tbj6cX6z93uj1+t3i7V3/RYbgeBUj2RLRPCBodLe8g7MMVSdIhgZ6liTr5So9nQtG1FIN07Q7mv4fJNdm5StXfwMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/13.png",
+    "width": 1920
+  }
+}

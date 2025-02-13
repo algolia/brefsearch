@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Quand je dis Attends, tu vas voir, elle est trop marrante cette vidéo et que\nje la trouve pas pendant une heure.",
+    "end": 76,
+    "index": 31,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=73s"
+  },
+  "thumbnail": {
+    "hash": "05c831f117",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nBXE2XKaUAAAUB6SCcjOZRNBFhFUUJAlgiKCkaoxNWh0mtg27aTT7U8605/u9DwcqMiX/jhVjZ7GilvLXllW1bU2ZnciSTYAHZISYURAUBZGOATlMRx6Pj5FcWaYjkABFkEvd8Wfn2/ztlbcLtbFdlPeF2mZjJO+0TckjYEbUBTNgnDWkk2GBADF6mTy9/f3XRDNsm19+Pr88ut8/lbvP06nldPzFU6Egigbeoko6SzFknAj0PUf75ahafvevMwfquVjdbdfr2pvNOnbI9d2oafH0+vLqyQbFM5wNHd8f3i7fCkXlWUHebZ52J5W5a6Yb7qmq8iGpmjQpT5+Pn9gQJMgGBaI+93hfr2P40W7PQiDPEurJF6M3FiRTbmlNXkJKn1XFYSra4SmWAKjVZbvcELf6On60DA8TXM1daAoJse20qTIpyXkigyDooACGEpeX93QFMBwGtC80XF4QXWGt1E8F4Q2L2ruaHI6fYLGAzf0QscaAJrFGjiGkjcwDiP/b6B0s6V749Tq+QQjERTPieo/21VIgDskVNsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/31.png",
+    "width": 1920
+  }
+}

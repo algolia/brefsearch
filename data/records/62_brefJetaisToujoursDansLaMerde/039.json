@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Et quand il faisait chaud à l'extérieur, il faisait\nencore plus chaud à l'intérieur.",
+    "end": 40,
+    "index": 14,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=39s"
+  },
+  "thumbnail": {
+    "hash": "5cbb1a7e69",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA8NDgoIChMRFRwaHxcUGSYkKiMdIBIFCAIAACgnKbCusLaztZ+cn6ShpZ2anZeUlwB+gIsAAANQTFeUjKCVkKeopMOkk5qcenx0WVw5KS08NjyWlprJx8q2s7WnpKadm5wARD9DDw0PJR8kfGdtiYKPlYOIfmtuztHT4eHhta2obVpaHxIVZmRpwcDDwb/Bp6WnAAYDBhwXGAoICVxKUJeNm8vBvJJyb3RoYZ2bj5iXh6mpmKKVkSQXGj06Paimqr+9vwAKCA1tam8eHiIsIiZ0Z3C7rqmmj4dzWVBxZld9dmugnJB+f3xANzsdDhEdGx5uam0AIx8kYV5kISAlGBASXUVGqJGPiXlqaFdHYklJalVWcWhsNi8wQj1BHRYbAQABDAsNABcUGRIPExwZHhsZHhgUGTYnJYd5bYBrZDwsMEgzNiggJBoVGBUSFh4bHx8aHBwXGQAdGyElIiclICYjHiUNDRIiIiiuq7Z9bW8wISQiHiIgGBsTDxMgGx8QDhIPDRAuJyoAHRohHxwjISAoHBkjGBYcGxkfZ19lRjg3JRwdJCAkIx0iHhkdNSsvFhATAwIECggKMf2Fbef0OpgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/14.png",
+    "width": 1920
+  }
+}

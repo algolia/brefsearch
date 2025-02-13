@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Jamais sortir avec toi.",
+    "end": 26,
+    "index": 12,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=24s"
+  },
+  "thumbnail": {
+    "hash": "9a65b62193",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD46Mzs3Jj83Kjs0JUM9KzkyI0A9KUlLKSooFCkmE0U5KDUlHC0kHjUtKEQ9OF5QPwAqJBg5MiQ7MiI4KyM6LyMyKR8gGRItLBsqKBgjIxJXRy95WkwpIx1DOzWTh4NzZUQALSckLCYjMiskLCYhKiQgKiUfGBMPDg4IHx4SIiAOWVE53s2/bl9WLSQdjIF6gHNbAC0oJyYlIy8rJSknIyknJCknIRIOCyodFyQaEQ8OBF1QPcu0n2FQSioeGk9DNWVWSAAkHx8jHx4sKSQuKycwLSkrJyAXFRNrTEFVOy4aGA1WSzy5oYtpVD4/MSdKOy1KPDAAMSooMywqPjkzTUdCRj82QTszWUtAjH2Bg3V+T0M3MzEotaRqrJlHQTwuRDcrT0E1AHNoX4l6cGpgVXBmX4d4an9yZoBrW2tyhlxgcTstHxQRCTIyNUxLTzMrJBwZDykiGABaUEpsYFlZUUljXFVyZltuYlV8a1+xm5J1am1FOjQ6Mic7OT5OTVZGPTNKQzt0bGUAQDc1RDg0SD84V01GVEpCUkpGcV9Vn3Nag2BRZFtXWlFKUU1QQUBMdm1mg3dviX533R5ygCBHpn8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/12.png",
+    "width": 1920
+  }
+}

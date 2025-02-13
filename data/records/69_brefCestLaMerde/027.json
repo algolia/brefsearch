@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "J'ai ronflé ? Ou autant que moi.",
+    "end": 28,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=27s"
+  },
+  "thumbnail": {
+    "hash": "74dc70b3fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBf27SUAAA4P7jQn+815byCvS10ECBFtICW9GNMdigbBhECcFkwIZlZIwMlhpdFpd4AmKykxidqNMsegBjMuNV5gH8PqIzfuu0R/Z6OW9vFDcrjvN4e7ve6Tz//OP79c3ydDrxhi+Ou93B/uFw4A56LtHzFs3ezC5sGGo0oeBKxmhl9IOdrZuft8vbb5fe2ZV39rrbdso708l8PDohphdX3fGbdCLpNpxHeiqBw61M6tlq9v2njx++LF8ejfqVipPL1oslb/5qOpkRrbKz13YtTRs6NUuNaFjSZbxlmX/+3t3/uz8f9lt2oVlYnQwOL84vT0/mBMcF/DxSg+J+aTOnyIhlRQifFteXX69/3f3u1ms6xmYstltruAdHs+MZARhe4QQRwpwayUcVBAH9YEWVlcW7RaP5RJGikZAUCiCKAoAN5K01gme4UjwtsdDWYlXL5GkS+EgpJKUNEwA/xwcZKDDQL4dxmA/EsEJwQDCxmhLFvYxVz2T9NMX4SCSIASEoyfGksRaKGIqiZZM6ogFHAwJCwQjiatzoP3SqqaxAU5CkeQ4xFEAIR9W0njBVJLI+CpA0uUL+B4FUZVLeVeMBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/11.png",
+    "width": 1920
+  }
+}

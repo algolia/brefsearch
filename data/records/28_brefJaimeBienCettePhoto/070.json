@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Il l'avait déjà repéré. Attends.",
+    "end": 72,
+    "index": 28,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=70s"
+  },
+  "thumbnail": {
+    "hash": "d3b4b020db",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXB/VPSYAAA4P0R/YB35VELCQmiIU7QDTTJz4bAlZ7R+XGAUHaceWpe0kGgwexQUPa+27uNbe82mfpH9jzEZa0t8F2xA5SebALFEaUHWd/huHHXSNj9gnKT7icjlfy+dAVa1Wb9+IyQWicGcjDUTRFjqD3qTvf4aCM09iU+laJp1v9mzDUa9PjRNZSv4U3rioBf54a6g5GJRWyK2EK4kJz7ucIcrS1m6AmOCk2+9JKu0U7j0gADtScRzZjbvv1jq4+mqNsIO6qVT8bLicj3hdlthq5ybJT0BEi/0pO0vjK4QUQ15oUHS0MFYyAPVQzr9X0mVElO52aihUR0L05TT58tsfM2wlpf0foK0Sn6LnI+nT+1RNkWIeL54jyTZ8KZcDATDm7FqHee559X087gThdUXVAJrbHTODtpH2bvoWD0uveqhuq1rcj4ip9cDXh3ZyJc4FWKTQxVy0YGhhoh/r1onncOyuv2v1MbShYQLCCV0twi9XYt5K28ny6wk2nq9UeuYEBsCDJR3tyo/j4vrWdvS7MOki0AHtSBpdxll3PbtO/XB/ZwIVpcTk1MffuU/cHX2v8B9um8lLHfKgwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/28.png",
+    "width": 1920
+  }
+}

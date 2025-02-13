@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "La télé Pushkar, le sud de l'Inde, le Kerala, etc.",
+    "end": 4,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=0s"
+  },
+  "thumbnail": {
+    "hash": "ebca85a5f8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFFBO0w6L1ZGQHRYUWRAOIBUSqiLhWw9REYSG1kkLcu2t9bHyNXHyd7U1p2Ljy8QGABYSERMPDZrWFODdXEiGBVxW1TBqqZ4QEhJEBxuNzpvVE24qqv/8vP47e6SfoMpCREAVEdFKx4cTTs6a09PUS8mXEA4bl5cSigsLw4TYTk1Xzwxe2pqpZmak4qLgGlvIQQLACsiIwoJCksvNVQvNTogHyATFBYKCxoYGiAdIC8jJjQlJDEkKwwIDgYGBUMvMygUFwALCwwWEhNWNT1VMjkqFhpBHh5WJygmJSsxLTMlIig3NDtYRUl1VE0VExMUERIwIyMADA0OFxITHhcaSTEySCQkXyQgZjAuDAkMCQsQFBATGRwiPispflBAKCcoKiouFxYYAAkJDAUFBg0ODhAQDFk1K1gnIjcQERkLDAYHCQgJDBERFQAAAAQFBxYXGhAQEwcHCAAGBgcZFBJhT0haT1VkUlNiTUpmVEl2NS5nKiNnVElcSUNTQDtTQDlOQD1KOzggGRYABQUGW0U2gWxkhHiBj4GMhHqDgm1rgk9IcUE4gWNXd1pQbVJLYktEh3FoaVNKZEs+MgxvDmaRgOcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/00.png",
+    "width": 1920
+  }
+}

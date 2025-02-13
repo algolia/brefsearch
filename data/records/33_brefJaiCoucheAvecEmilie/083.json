@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Retourné acrobatique, 5-0.",
+    "end": 85,
+    "index": 36,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=83s"
+  },
+  "thumbnail": {
+    "hash": "aea5115866",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJuUkKymobewqMzGvdDLwci+tLGkl7mxp8fAusi/uZt9bZ+KgL+3sritp5qQjI6EgQCknplhVE1KPTV+c2nJwri4rqKkmIqzqaHDu621opSQWkaAW0uxp6CsoZyKfnWAdnEAXlFJLBsSLB0UIRAHVkY8mJeNrqWco5eOmY+Ga1RKcEMzlYB3ycC5lIqCgHNoc2ReADgmHkIxKEY0KzspIUAsH6Sah6CXj4Z7dkxJV2ZNSaKDd1ROWYR8f8a8uYNybG5cVwAyHRQoGhM9LCQzIRlmV0/Vzca9s6l7dXlLP0V9Wk2/tLhjXmk3MD1+c3SckYprX1YAKhYOHA8MKBoVLxkPjoF4ysS8tq2iZmFoV0VIX1BTurjAhn6GOjE2d21vo5mSZFRLACETDz4mHFo8LIJvZMO7tMO8s7SroXJpZjgyPExIV83IzpaPlUpARWtjZ8G3squhnQAkGRZAKiCCZ1nd2dTZ1tDIw72spZt6bmRIQERVUV/QzNOzrbNGOT5/dHW0qqWZj4wAJhsXKB8dJxwaaF1azMnEzsvFq6OahHlwRj5FXFhmycfQrZudelZMoJaSmpKPiH57pdbLbdrkGMIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/36.png",
+    "width": 1920
+  }
+}

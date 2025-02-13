@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "C'est quoi ?",
+    "end": 67,
+    "index": 23,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=66s"
+  },
+  "thumbnail": {
+    "hash": "30ce29d4b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMElEQVR4nEWO3QriMBBGe2WT5mdiJqYJSanGQJEq0huJChYV3/+VFi27e67nfHMqY8x6vQYASikhhHMeQpjn+fV6vd/v8/mMiFpr8wMRK0RUSgkhENE5J4RwzpVSFqGUYq11znnvtdZKqYpzDgB1XccYx3G01o7jeL1eSyn3+32apn/bS8hXkFLWdd227TRNu91unufL5dL3fc55v98bY5RSAICI1tqvIIRomgYRU0p9399ut8/n83g8ns9nSmkJBgD1o5JSNn/ZbDZd1x2Px9PpNAzD4XCIMbZt671HRM65MabSWjdNU9c1pZQxBgAhhGEYttvtMhFCMMZIKQGg67r/AiGEUrq88t6HECilxpgY43KjlEopfZM456vVahEYY5xzxhghRPzIOS+ycy7n/AezHymAt+hIwAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/23.png",
+    "width": 1920
+  }
+}

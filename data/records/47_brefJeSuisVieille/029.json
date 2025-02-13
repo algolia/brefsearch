@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Je Je le vois tous les jours depuis que Paul est parti.",
+    "end": 31,
+    "index": 7,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=29s"
+  },
+  "thumbnail": {
+    "hash": "1793a84a91",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACMbGCMbGCUaF3xsZJuYl5CRlKeqrnJwci8lI0I7PHx+hHt+g3J0elZQTz81MXdkVQAMCgoWEBAmGxpuXFWjnp2Xmp6ipalXR0F7UjxiQjNyb3SPkphhWVg/KiAuHRhzXk8ACQcIFRIUOC4ya15cjYiIkZGWnaCleWVed0o1dlNCiYmOaV9eSC8lRC0iMickd2NTAAwJChgREzssLHJiWn13douKjpeZnoZ6eHRINX5eUG9eWVAzJUo0KzsvKTYrJnllVQAhHB4wHxxYRkB4aF10b26EgoZxbXBUQ0BNMCZXPDRfSURUQztBNjBDNy9ANCx8Z1YAHxwgbV1YgXFmdGFWaVZWQDc2MSMeLx8bPyklPCcjOSwqQjYzRDkzSz01QjYvd2NTAAkKDzAvN2xkaH1uZVJFQiQbGDAkIDYiHkAeGjUeHDQlIS0hHTctKU5BOUI2L3FeUAAFBgsCBAodHypUU2BVVF4lHh0lHRk1JR9CERA5FxUyJiEgGRcsJCFJPTU/NS1nWEoABAUKBgcLBgcMCgsSKCk2ODY/GRMQJh0aOhEPORYTJR8bGBIRJBwZQTcuOzIpYVFF6Zt0L6WzTrQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/07.png",
+    "width": 1920
+  }
+}

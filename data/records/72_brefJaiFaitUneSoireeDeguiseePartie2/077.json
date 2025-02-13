@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Mais si, Dédot, Dédot, le prince des ténèbres.",
+    "end": 81,
+    "index": 31,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=77s"
+  },
+  "thumbnail": {
+    "hash": "11df61d303",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAZUlEQVR4nL3OMQoEIRBE0enSFkVNtFEbMfH+h1wwXmYm2X35p+q6/oeIvPcxxpQSM1trQwg5Z+fc94CZe++ttTGGiNRaSymqKiLGmLspAOEA8OrYnHOttfdWVSJ6bgDY4+HJr3wAcJcEsUmUNmUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/31.png",
+    "width": 1920
+  }
+}

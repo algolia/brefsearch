@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Mon frère m'a dit: Ça va passer.",
+    "end": 83,
+    "index": 40,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=81s"
+  },
+  "thumbnail": {
+    "hash": "8be3cfd07b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADkvLg0HBh4XGFM+OaqDdcCbi7ignJZqXpNiVKeVmrm80drf6dfd59XY5dPY7I6EhwA8LihAKCUyIiFhSEGWcmWOa1+rlpKRj4iVjoNnYWtDOlTT1t65t763t8G7v9KIgH8AZVdNd05HaEY/i2pfnXtziGhisqKkiIh8e3VsY1xmfnB7wMPXWUxUaFxxvb/UmI2OAJCFgmVGQV9AOYJdUbOLfaZ8ca2Wkoh8eHZxbFlUXa6mtbGswC8oMRYPFqCgso2EfgBrWl1mQzxGLipoS0SUbmJqSkdxZmmCeniXj4dybHajnrKZlagLBgkEAAByb3qTj4oAVDgtelJJQisoLBwaTTgyQzMvQjk9c2lkh4Byfmp3qJ+2h3yICgIDFxMVOS4uPDU4ADkwJFtEOl5EPS8hHUA8Jj46JxkRGC8pKXVuYJ+UoMTB4ZV7fR0ODBsXHBgRFw8JDgA5MyM0LyA4MCQ9NyhTTzNMSC4XERYSDRRYUEyvpajBu8qBam8uGBUSDxQVDhMTDREAOTQkPjgnPjgmR0ArT0ovT0swGxYYEAoSNS0wpZqewLbAdWtxFgwPDwkODwkODwkORACidAxWEckAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/40.png",
+    "width": 1920
+  }
+}

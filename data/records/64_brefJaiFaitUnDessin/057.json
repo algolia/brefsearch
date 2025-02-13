@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "C'était vachement dangereux et il m'avait dit de pas le répéter.",
+    "end": 59,
+    "index": 28,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=57s"
+  },
+  "thumbnail": {
+    "hash": "9c9ac88465",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXBW2+aUAAAYP74Hva0pQ9bu7l1q6E1rVU7o20nlYICgiA3OcjhcBG5ykWwZsmS/YB9H9b7+XHU+UwOr0Sqb0qED7jIURJPixw19dexqyGdVdhn6rEzumvd//iAPfcuF9O+Jb8Gm6UpvhpLMg02Zeody8gBsirQVeqlgQk1hicHj92vGDftI52tUg+tRSCxyoKUGCJAWrKFoQuF2TRA4O2Q5DFCOs1OOpi6+B17xqnOHKC41nofuchUbIVlxj2JnuwckG7tP03e5F7iCho/wVbMUx5ujmV0rFIfqFuWjFeMwdOWxAFNBHBtups4hM0eZYG+kSlMpEeRq9VFUBdh7sOKoyN+VqbBv7+nU1PANFw7hmkIh8QKbHE1H2LUCIfqrIjhPkJl7GQrti7i02F/LKIq2y1lNfDAW+FmO2DJJDVqY8PrTxzRtVUq8/XEN+xf16UtN/m2zr06D/FLWpoLZSRDbb4guuPbC+zm4t0QP3t5aHETfErck3ff+eGNZ3GJJ0Ph5cv7Vvv8m8oOqDE+vj0ftM/+A3aWUSjy8E1oAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/28.png",
+    "width": 1920
+  }
+}

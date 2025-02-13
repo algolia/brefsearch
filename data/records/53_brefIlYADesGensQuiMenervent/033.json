@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Parce qu'avant d'être une station de métro, le Châtelet, c'était\nune petite forteresse qui a permis aux Parisiens de résister face",
+    "end": 38,
+    "index": 15,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=33s"
+  },
+  "thumbnail": {
+    "hash": "457687cb5b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nCXLW2+TUAAAYLy0wOEyYGXUOm2x29rCDi2cUzicC6V0jHYzy3zYMrM4jZuaLCb+AH+AL8bH+ehfNcbv/ZOCII4TNnzhuyqYeC7a9V5P/Jt8xjOBSZWSEmVFgvkMsWhGghBLMErxvNh76e9oBnzWbQ4G39+sH759XpVNxpqc1xk7SkmF00U8F3CaSXFCU7IM/P2B7cDnu/d18evT+583Vx/PL0hxIhYnVKwJP05phbNyiqiEMKe8jsaw6PfPI3hX8Yevt79vr+9Oz1Kx4cWGFZtcNITVmCxniEkJYlw04QHsGc7pYfDlSPx4d/nn/sP15gyzhoqGinXOm4zWmJT/Aw9C7Do9TbF6TrcMwwuWvxU8GcH9MSLsOOcNofW/kFVTxKVud6DIW62WoSq2LNsAdCzTA5oLVAeotuf5c7KakxVKlwkuo5hJ7ZauAcfQXVWxNdUxtI5pepbp6VoHqNvtlvlqCGO0iKYURmQSYunpEyC3TaDaQHUU2dLAtqG7utZRZEtubz1+pLo7/RCS0QSNxvFw7/Av7xxOwGXyWZoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/15.png",
+    "width": 1920
+  }
+}

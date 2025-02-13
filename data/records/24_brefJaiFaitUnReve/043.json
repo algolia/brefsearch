@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'essayais de parler à cette fille, mais elle soufflait sa s'il y aurait sur moi.",
+    "end": 45,
+    "index": 11,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=43s"
+  },
+  "thumbnail": {
+    "hash": "130ed32bd7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADtMaF98ll5kb4NpYW5VTz4lIDsjHzshHjUcGjIbFywWEyIRDxYLCgkFBgYEBQcFBgA4R3Y4SHF0UkqRZlZsSD9IKSNDJB89HxsxGBYsFxQoFhMtGBQvFxQcDgwJBgcHBQYARluYUUpjnHZmbEg/QSIcOh8aOx4ZMBYTKRMRHQ8PIRMQLRcUNBkWLhUSEgoKCgcJAFJnnmpNS3xfVmNDOzgfHioVFDMaFjIZFSoUEBsKBy0YFjsfHDocGDIXFBcMCwsJCwBWUG1mOS9RKyRgMy5RJyZOJSNFIR48HBdKJyRPLitkOjlWLCpIIx9LJCAgEBAIBwkANh0eilpTtIaGsX2CpGFzq216pnN7to6T0amuxJCStoGFbDk3dEA/lVdXQiYmCgcLAA0JDGNKSNy0te/Lyd6sv7qJnenCzea9wui+xYNVWZlmbMKUoN2vudGboUwvMxQNEwBNNS1iTUWJYlmIWFC6iYbPoKLqwsTpw8jnvsXCk57GnanFnaSzg4NdPDsbERchFiEAWlBQdGppcWtrXFFTc15fknh5noaKoYuRg2JnakVHclRaVDk9MiAhHhcaJBwgIxof6yKFYwMseSEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/11.png",
+    "width": 1920
+  }
+}

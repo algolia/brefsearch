@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Ils s'appellent Euphorie, ils sont norvégiens.",
+    "end": 83,
+    "index": 36,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=79s"
+  },
+  "thumbnail": {
+    "hash": "ff9c654e7a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGNodV9ib1BRW3B2hGhodGZgZ0g2MWVdWqyuqcjMxMjNxcPHv7zAuK+zrKKloGxrawBrcHxzd4VjZW2JkZ2JjptDP0QXDwwuGhZXRkXBxL/O1MrKzsfJzMTBxL22urR+fn4AT09ZR0dPQkJIWFplUVFaGxQUJBUTVTUtdFdVvb26zdHJyc3GyMvExsnCxMfAi4qIAE5IS01HSEtFRF5aXVlSUygcG00vKVYxK2pRT8bIwszRycrOxsnNxcnNxMzPyZaVkwBTNTtWNz5gPkZmSFB+am1iXWJPMitNIx2OdnLU2tLJzMXJzcTHy8PU186Pj4w1MzsAf298eWZ2hnWDfoOOdpOkXICcTEJIUD5BkaGuw83JxsrDw8bDxMfB1NjRX15eAAAAAGpRXWlPW3+Wo4iywYWqtWaOp0hWbVhpg2SSsYKktIeNl5ORiYKDiIF/ijYzOAUEBwA/AwpLIyuBoqtxlat6nbGCqbc9O0xXYHlxlaxulat1h5R7ZUhqYGJZVmYfHCEFBAYAKA8TSEtTcZOgX32UZoiigaa2RzxQW1pwb5araI2laHR/VSofWEtRUE5aEhATBAQEzzPKscoQJwgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/36.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il draguait à l'ancienne.",
+    "end": 40,
+    "index": 18,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=38s"
+  },
+  "thumbnail": {
+    "hash": "3ba50784a3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nAXB626TUAAAYBJXCvQc4BzucOBAuUOhLXQUayHrtthtdZvpzOIPTXSJf3wQX8IH8fX8PqZMN8vqQxiuF0Hok4jScpE1w/C86U6UZrbjExI6JCaWV+S9oVOmrd537XVR7mnQFElzX+eVo437x83u7LpZHcbUcl0SmbobJDuEXaar+rE/9v2n3f7lbnj4sb88NOtueL28/lm3D+eu3UY0L/og2Qb5IGPC/Dp/vh9vN+ur719/v72+vdw8nQ6PSTGu+nOc7uZO7lkhpbkfbb2olxBh/v39cxrG2F98uTocP37rmpvEz22nDIKVhHwlOMp6LUsmMTyHJFCymLFtMz9Ow9W4WLZl19eda1KLVJZdGPbanN/JeiVKdkKTZVJq2GSQOpdFBQKsanMJoNiLVGQCqAsz5CiWjU0s6WCGiellcePYEQNE/eLdZMoKAlCnUwigygsyhJowQzwvQlEHAHMc5DiIjFQzQmZywbETnmV5XpCpm2mqB4CCkY0wscwopWVAKwgVdsJJyJaR8x+MaD6FMkqc4QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/18.png",
+    "width": 1920
+  }
+}

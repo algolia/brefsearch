@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Paul, je l'oublie jamais.",
+    "end": 32,
+    "index": 8,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=31s"
+  },
+  "thumbnail": {
+    "hash": "bfba13280b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACIaFzstKDAhHU5AO4iEhI6Qk52foqCkp5qeopGWmoaHjH+AhWlnakEyLSobFmdZUQAeFhQiFRI6KCVuX1aHg4KTlJqfoKSnqa2kpqubnaGUl5x4dnlNOjM8JRlNQj5cVVUAHBIQIhUSQCsoemhegHp4jY2RlpabnJ2im5yhm52kgnx+VD0zRy4jSzs3VExMGxUSABsSEiATElZFP3pqX3VvboqIjISChoiIjZeYnYB2dFxAMlQ4K0M1LlNKRy0lJBkTEgAeFhZMPDd8bWJ4ZltwYmGDgYaAfYGEhIl1aWRZOytTOCpDNS5GPTZNQj4oIB0eGBYAMC02g3d2gHFmd2NYaVZVfXx/g4CDZ1hUSy8iSzQoQzcvQzkyTkI6OC4rGhUUFxISAA0PFjY3Q15aZHRnZG1lZHdzdVlJQkQqHUEtJEE2LkU6Mkw/Nk5BOSQdHBkVFBEODgAEBQkGBwsUFiBHRlNoYWRMPDc5IBU6KSI+My1FOTFLPTVNQDdMPzcgGhkQDQ4IBwgAAgMIBAUKAgMHExQdRUNLNyYgMCAaOC0pPzUsRTkwSDw0SDwzRToxHhgYCQgKBgYGuAJ/V6OFSNMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/08.png",
+    "width": 1920
+  }
+}

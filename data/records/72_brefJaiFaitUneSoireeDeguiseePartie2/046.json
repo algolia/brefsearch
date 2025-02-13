@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Mon copain est arrivé, il m'a vu.",
+    "end": 48,
+    "index": 19,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=46s"
+  },
+  "thumbnail": {
+    "hash": "29adc4ec48",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nAXBW2+TUAAA4NMWDqcHKBxuUk6BcausdKysXS9jtiNYV92KptU0ZvOybFGXmCVLfPXZxPjuL/B/+n1gV7zxNMrWGQkH91e///35e2RH6yR5LM/fH+eBQRee8+vm/u5FdbVcP35+ALl/QCUdMTBU3bf513fjXap5t+OTL9OzbXo8tCNXJute+uNy+7C73RQVqPx4YHk2L/c1+mGyKmnY1ZxN0v84Go06wfW8vOhFIcLX2XQ7nOXxAPRNp6OYeksTsTSg3rM2vVkUF469frpf5a82ZTXtWJGqf/Kc56Z1aFigozwxJc1R2wYxIMMlqn43PxmbnVl3WJ2tZYEIvDRy9l7veWmUeUQHGi9JTVETiCIobotcBmEVB0Nqz+KjgPq1GisLZNXbP09P8+W3g2wFCC8LSJSxhCFf+PH36XhutT2ia6LShE0A6qdu9+dyNUzKXv9lGC0AhhgyiGNQE2JbpXNKPV4UOZ5pQJaBoMZMLCdoKbqZZt1J7CZAQLyMeJHDiEEGhzNVCxUVQ9Sos2wD1ussQcKh2V76QREkBmn/Bx9DQcMo9jyfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/19.png",
+    "width": 1920
+  }
+}

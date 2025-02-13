@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "J'avais tout calculé.",
+    "end": 35,
+    "index": 10,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=34s"
+  },
+  "thumbnail": {
+    "hash": "1eed19a79b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nCXLuW7UQBgA4H9mfOwcnvG5nti7jtcXazlekjW7isUVCS1FiogoKKJKE4mWLh0FokWi4gF4AURHQ5sn4AVokCipqFHE138wLDMlWFfO7zeZpFYgeahEqHihg/nUZxbhtkENYhNsEmRgAmOXB67TN/n2oFJ8EioReWq1SF9s202zLy2iLCJMwgx8dzCBoU48yfsqW7eFyyexy7MkPnuyPd/UD+ZBYBJFkCSYYTTB6C7cvL7Ipuqw2NutK8XMJHDaanG2Ozkf6uN6tieoZxKBEUX/A4Zvn9892zbdLHj5uHeZNVVcUKvenz3tq6NlFftuxJlAwDE2ARGE4fbLh+uLE89EjXZ9bktqAUDfLHbjsL63AABq07HvulCmDuW2Bb9+fH3/5rIMeJ9PXWZRy8AAqzof2mo3HgVSACZFmm5SPcx1GSv4+/v2480rbUORBKFkYmKfrpfPV2Wmo9Px8PL4oNAhRmiu3ML3K9+BPz+/f3p7JRFoX0UO1S7v0/BhV+Q6erSq21glkjPDnAmn9PyIsn+M3jXXagtKDAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/10.png",
+    "width": 1920
+  }
+}

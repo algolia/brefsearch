@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Le seul truc bon, c'était les mousses au chocolat.",
+    "end": 53,
+    "index": 19,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=51s"
+  },
+  "thumbnail": {
+    "hash": "999708fd03",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABkUEQsLCVdFRXNcYIx2hJR9jpR/kZSAkY9/j45+joV2gXNkaGxfX2dZV1ZKRjs1LAAgGxgREA1xV1uKa3KUcX2Zd4aYeYqUeoqOe4mKeYiJeYiEd4F/cHV5a2xlWVZLQTwAKCAeExAOflldmW12nG58onWGnXeLlXiMinaMjX2SiniJf2ZrgHB2fm5wbF5cTkM+ACgfHhEOC4RWWqZwfKVxgqVxh6SAmJd5kH9ne4d5kYt3h3BcWXpudX1sb2hYVj4yLAA0HBQoFBN4SE6NW2CLWWGbboZ1VFyQeI12ZHNuWmN8aXVnSk9yVlNzXFhLPz4dGBAAgl9Wg11chV9hk2Balmtum3uJd19gjm5+nX+UnIaWk3yJf0hOf1tUgGZbcF9bXEtEAKaLmqx8jKFsUKleVbWKk72rwMSpwZ9lcZ+RrsKq0LumwaeFlHpwdJmVlKiQlpt8fwCCZmKNaWV7ZF5uVFlZQ0VtUVZ0XWd6Xmt4bINyYnNfU1tZS01cS0l6Z1+Sen+Of4AAaVZRNCklFgoIKw0LPBMMSxsQPREHQBkURyAaOxUMKwYAKQgFKBQQKhsWcFdceGJffjeshHG/aCkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/19.png",
+    "width": 1920
+  }
+}

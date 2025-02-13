@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "J'ai marqué 19 points, j'avais gagné.",
+    "end": 64,
+    "index": 27,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=63s"
+  },
+  "thumbnail": {
+    "hash": "d369d34cd1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBTW/SYAAA4F62DEsZhdYOaKC0Qwp9KZDW0q5QWFtIWwdhTKnYrU27QSRbFl1MNFGzeNB40Bkvfl4W9eCiR8/613weiM0Qdw3NEmq2CEZybaSVt5X8fV16v9uV6tcpBqnQaTKVIBAkDcOrK6uQWMxbN5sdUB62+Emb15SsrtAXe4OnugRKOF1MCuyGQGWJBILBcCJ2DRIK+VwSJZG4I7JOS6nRcrMoDtiiRG5gBExSsC0xXAYnEBiPw5l1BMrieJPe7DMFr9vQQJvLDep5WaE5ixdeu9ZIKnkqK5AYmYwTSBxdi0HwWqyAYwZfDrYVFXCg1JCBqjDi0uz9XkxfTUx/i3MqlF5h2jcoKodBNJY2Gnw1Q/QAF44M11O96dZpE7x17Ytg+Hm+9yW6/Vzv/Do7uDz2orEGUSl00tU6XLWMp0LHCl3d93tBaJzcMV/e2vnoTH5Gwfej2WU4vXKjT/Y9qJBCq7nsblvt12smzx+744OZ5s+NJ/3e39nDP+7JY0n5Mdx/o9nnsv7B8iASXVdB9cVy+Wx+pGzSoW0f+lawMBdS/byl/vMffdvx3g3GX6fRmd5/IBn/AY43Z/4D28fFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/27.png",
+    "width": 1920
+  }
+}

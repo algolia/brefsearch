@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Quand j'oubliais mon portable, il twitte à ma place et on a pissé\nd'un balcon, mais on était bourré. Pardon madame.",
+    "end": 27,
+    "index": 9,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=22s"
+  },
+  "thumbnail": {
+    "hash": "e1b651908a",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFiGp2WTtXGhw3akw16Cm5G/2aTU7q7b8bzn98Hs+dD2/2Z8hUtZZHuMl0lPWE9SZACHnamZrLavyNGMoasAAAd7iZP6///0/Pz+/v7////w+fswMDIREhZscXdaWVtbWmAATFhpWWd8aHuRbmd0PRMWYUdLiZGZjpWamp+loaaugoCFKSQrJSMrPD5CSUpNOjo+AEJPaiE4WR0cMmEoLGwpJmUoKRsSJgAADQAAChomMxMQGRAJDxcSGiEjLhARFxYVGgBlboRPWmo/LTRoKCVjKCZdIyItIzE1QVEzPUxPVF8nFhsoEBUfCw8rHyUnLDQNDxQAdHqJg4qaOjQ9VB4bYCgmUBwaHRYhkJuwnKW4QD5GFAYLGgsQFAUKIBYbUFdjX2V3AElVbVNjfDg2RFQfG1skIlYfHCEQGFZohXSEoDczPxcECB8MERgECSQaH2pzhH+FmABFUWdPXnZbYHBLIB5QHRtGFRQ9Lzhyf5WDjqNRTVkRAAIdCg8QAABOS1SHjp91eYoAYGJqcnN6YmdwDhAbEQ0XBAMPPURRiI6YhIqXQ0RPCAACFwUKDQAFVFVhdXqKbG59uKGSeibmm6gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/09.png",
+    "width": 1280
+  }
+}

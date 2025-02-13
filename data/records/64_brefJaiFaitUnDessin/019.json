@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "et un rectangle bleu pour faire le ciel.",
+    "end": 20,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=19s"
+  },
+  "thumbnail": {
+    "hash": "9e7993c43e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBSY/SUAAA4N79I578E0YnTjx4MTHGxDgePajRizFqohdMHJcYl8RMhiDgUGcYQSgMiy1dGKcbtHShC23fg/JoH3Yy/8DvI4rbG9Xdp0cH34ROaSxUbZ2fkVtR8z6YypE+mMotnSnx+btU7jz5drPw+TlBFR8LVGly3IAGs4RewrxA1GUP+FNXs9yx6Shdia0wdGH/67sPV169vECUD773uK46GQ5sn/lbHP2+OJJutMUca1qiO3V8bWSPNUu1DVkatluFh8Ru9ScnCw4MpyYNmpuLgEbgJNPunZmPsrmyXvinS/sUuRgaocGK9CGh8dWFp+BQyZpX1w6ZxgEGRgo1rD9Za1sYcimKceymsQdcReVrxLBPehNhVb++krcRDFCgJJGazK10GWT+p8y88y+qYgTShQscRWZrRLexN8rfjDoPYmCjmbgKx0mkp3MTxx5GcB1R2eQWDg/jwLWUPtsqE/vPLnVeb8jcL29EQYte+iIK1FWkJcBIoIGAu5ox0G6bEs0fVZp7X4jC7XOV99eoco5r7Kj0D1uifK0f6L3QHAQG76i9yXHn5E+9X8/XSh/JnTf/AdckSHw7bl4bAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/08.png",
+    "width": 1920
+  }
+}

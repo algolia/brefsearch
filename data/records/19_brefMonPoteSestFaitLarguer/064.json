@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Je vais prendre une tarte aux pommes. Quetsch ?",
+    "end": 66,
+    "index": 32,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=64s"
+  },
+  "thumbnail": {
+    "hash": "3158ac8ab7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfUlEQVR4nAXBy27TQBQAUIPnzp3Xdcaeqd9J3SS1IUmNwCopCbSUVEUssihIdAfZtEhskFiy4Rv4Y84JYuQzDjsnPh6JPsJcc0tqPi6aKq0yd1Xob609dPZHS19KeWMx8IK/Mvh9RoeOLibxr8vFflmnCaUJVZm7WxX/Pp+/mSR3jfr5jL7WMsg133l87MzD0g6ZOfTVvk2N5KRAivB27v9cdx+m/nFh/w7xw6kOjmP5zuGZxdOR7J3az92Qk2FhKsEL9n6S/N6c3C+y6zra5mrwMpgS9jHWWkzcaDOOVxYvaltElHAeAZRabKto4ZWViCELn7LgbaZualMa/fI4307cp1k6VO7+ar1uG8OeIMDUqssTnxphMTyf1UFreJcoxfnU0QtPtwkNmd2dTcfOEoQaWJeOnmdWAVMs7Md50GgoIxmTLkktndmQeF3Y9awkwQ2HCCFG8IRWgARIJQuOFPMky5gKI3LkKy2bka6sMYjEQXMwHBRyBOCM5Yr/B7aPLGlSTkMpAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/32.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Pardon. C'est pas contre vous.",
+    "end": 30,
+    "index": 10,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=27s"
+  },
+  "thumbnail": {
+    "hash": "cbf4cd29cc",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nB3Qy27TQBQA0GvPnbE943n47cSxE5zYedSQNKFNFYQiSLsA0aoSG4S6Q2KBYIFgAYgN/AT/hBDiG1jwHQj2Z3UAgFiANlALqESchlIjBaAAmPhynercYRQsBEL/SRsE45EnBPG0l6RCnA7zNlAG0RBMpTwt81USxMzhNtbCyxiDxHP7SiVCp57IuLcps2UWFIIX3KuM3pbZvTKbGDVScm5k43P48Oblg/Xi7dXy/YvnDzfdybBYl/2AsVL66zw+1IPzyWAeBbXWd2IzMwq+vLo5m46utpPfP79/unk2jsxu1lZapZwPTXDejg7jog1MX/CpUUeRgVka9ij59vXjn18/Hh21dZbevz3rKaVd4RJ3kWe7Kq98kTCn8sU8NHDo6n1z6/N+9e7pdVfk23nTVQOJTDGPAOkps0ij8P9BiHSifKg1H0f6eBC/vtztV83FppPIfHSYhTYQBIw5TzxXWnbPoSVFMBaEtnVcJU/uNo/PlifNiAH4yBBsBGID4YgJxRxJjiQF+AtOzS8r5haHngAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/10.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "J'ai dit: potatoes ?",
+    "end": 84,
+    "index": 30,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=82s"
+  },
+  "thumbnail": {
+    "hash": "824b62481b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADIvMgMBBQcGCQkHCgcGCgkICygbGUwwKFoyKF9IQKWgnJ1TRnQcDnhIP4SIimlgXgA7NjcFAgcKBwsGBQkUDQ89JR5RMyo6JyM+IRpgTUWspJ6sVkOCHw+IVk2TnZ5waWUAVlJRDQoNDAcKGhERQSYcXjcoSSwjRCsjYzkthmFWgnFoUjQqfCoYlmRZpbu8hIB8AGhUUigaGT4hG0kqH0EkGlAtIFk1KGA4K1cxKWZBN35YQioeGDQcFJB0aaerp4B3bwBBHyIzIR1AHxVEJRxGJxxKKh9NLSNbNStNLCZbQj21iWtsQyoUCgiCX0newq+iin4AHgcJRTU0UjQqORoRNh8YRCceUC4kVzcsOiAcY0tHy6OGrH1XeVA2nIV7i4uNIx8jABwGBysaHGZcXlRCPjEhHSYXEzIfGT0nHzQeGmtVS6V9ZYdoVVdENyclJwgHCxYUGQAdCQsYAwU9LzNram5gXWBPSk03MDEbDA1GNTJrYV9fUU4TDxQCBAsGBQkDAgY5NzwAIBYWHAgKGwYJPjQ4UlFWTktRJR0gFgIEQS0tY1taPDg5BQUJDQsQCgkNBgUIR0VK1rNn60nUId8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/30.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Perdu pour perdu, j'ai aussi pris des pannes.",
+    "end": 25,
+    "index": 14,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=23s"
+  },
+  "thumbnail": {
+    "hash": "1eff8bb8ed",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFpWXG1mdJOEhId5bYB4c3dwgYmBfoR5WZKPk6GdoJuYgKeijo9+R5OJg4J2c1ZNSQBWT0ddTTmhh2+UgGuVg26UiX6NhXpDMixHPzq3so7FvJW4o1Srn1+eknyVioaFfHkAnI+InpB+rqWhn5yWn4l+iHdxh35vdFpKdFRLsqejv7SlvK6arKKLo5d+n5WKenJqAHh9VlhcdpyYmpKUlaGMgpyJf6KZhY2FdSQiNVk7SJhTUpKCc4qCcKOYg5+XeZeMgQCHiTeLlK6xr7CelHqqjXOtk2+1nmGFd2IXHDUrJC9qEheuiXONiGV2cGqpqpKjnoEAlJCXh32ZoJl7q6N2rZyPkntnp5R8dGZbDRUnCxcnNQACnmprysnFqZ6SqqiNp66KAFpYfodxlLKpqpybq6GXkpKAcKybj2FaXxEVIj8qMk0WGqiWk8zGxL62spiQiZOLhQCCf6eShpeKgY+SjJyZmpOffWKiiH1fT09RPDlQODhfXGHKxsO8tba4sLWUioZyaWkAhXBuglg2h3eCjn1/iYKFlY6HnZWQSk9TLDU8QkdPn5qcta2vqqKnp5+on5Sac2lkt/TWsCMXmwMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/14.png",
+    "width": 1920
+  }
+}

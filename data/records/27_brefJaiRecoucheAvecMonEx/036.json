@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Elle a redit: J'ai dit.",
+    "end": 38,
+    "index": 18,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=36s"
+  },
+  "thumbnail": {
+    "hash": "e3eaef68b4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJCGhqWcnbOtr8C5vMnBxsnBxcO4t83IysqtsLNiZaaNiKWSiK+ioFZCOjsnIT8rJACglpa2rLDFvMHQyM3WztPSyc7Ivb/Sy82/pKGkd2+PXk6TZEOzoptbRD1GLydKNCsAsKaoyb7D187U3NXa2tHX2c/WzMPIycLEe2dhYzkvkmBMyqWLrp6aVjwzUTgvVDswAKKXmZ2RlaCTmI+BhpSFiKmZmrOblKqKf0QyMBwWIoBpYu7d0b2uqkctJVk+M1k+MwCEd3k/MDVOPkCFdW5kU01GNjFvVEumi4WDZmAlGiVPPzrKrZbbybmLeXNSNitYPDIAjH9/LyMlSzo5gG5kRDUvOiklaFNQqYV8nmlTNyUkEAwPsJB7w6GG3Mm5h3BmSjAnAJ6NjJB6eWxXVXNcUEEtJ0ssJGxJPoNgV4VlXGdRSwwIDH5oWr2Zf76egq6bj0QuJwCQfHegioSAbmd7Z1hhST14YVqgkIexoZSgiIONc24jGhlQPzeAZVZpUkZlU0w2JB4Ad2hngHBjlYd8opaMopKHrZGCspyJoYh0h25ne2NgNyonPSoiYkk+Sjw5SDUvIRMPmybJOxvdat4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/18.png",
+    "width": 1920
+  }
+}

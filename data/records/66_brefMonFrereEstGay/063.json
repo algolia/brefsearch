@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Nico, c'était pour savoir tu es qui, Nico.",
+    "end": 65,
+    "index": 32,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=63s"
+  },
+  "thumbnail": {
+    "hash": "39aefc22af",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG1jXIp/dpKGfJSEeZuLgVFGQR4WFhkTFEA4No2AfIV8eX9pYGpIOmI+MGE+MUoxKwB4a2SYiHyhkYOunI6IeG0fGBhoTEpiQj4oGxqCdW+UiIWIcWiFWUODWEF3TzttRzYAh3dtp5SDuqyh3dXPoJeSMSMkZUlGZEA6QysobFhTkIB7inx5hXVvgXFremljcF9ZAJODeLWiktDEuuXc1tzQyXphXGRCPWhEP0AqKDkfH3tiXot9eYZ8eYF4dnVraWheXQCTgXa5ppTm2tHu5+Ll29V+bmlEKSdUMi57ZFtlTUlrUVFqVFJ2ZmJ0Z2NmWFVdT0wAj3htqZKCcmpnTUpMRjw8YkdDNSAfJBYXLCUlPjQyOC0tOykrW0FCaVBNW0hFV0lGAIZtZEA2NAUDCQoIDCIeIVk/PDMlJQ0MEAYDCAQCBwYECAkHCyUaHWFHSEQxMighIwBJHx0LCA0VERUUERUfHCAtKSsmIiUTEBQNCg4NCg4MCQ0LCAwHBgsUDhIJBgsZCQsAGwcJBQUICgcKDQoOEg8TIR4hFhMXCgYKCgcLCAYKHAoNNhESOBITOxIRPxIRRhMQxWiDP9ovFeEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/32.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Arrivé à l'étape 14, j'ai compris à quoi servait l'étape 9.",
+    "end": 70,
+    "index": 28,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=67s"
+  },
+  "thumbnail": {
+    "hash": "99f63d0a3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFxRT25iYYN0dbKnqdjT1r+ytKCQkpeIi5CChYBzc45+fId4dXxtam9hX2pcW2xgXwBsX1yEdnSWiIeQeXbCs7Kvnp0nJCUmIyQlIyZFPT+djYuXh4WOfnuFdnOCc3KJensAdWdkkIGAmY2Mkn9/eGVig3JuGxgZFhUWExITQzw8mYmFj398jn97l4aEjHt5hnZ1AHxubJWIh6aTj6WSlZWIh4VxahgVExkXFxAODTIuLJ2Qi4t8d4N1cXNnZHBjYH9ycgBoV1VoZV1zbl54aW59c3KmlpEbGBYUEhIPDw0sJiJ/bmaShX+Vh4IzLCkUERA4MTAAUD42c2RYd2hfJSIiJyQiS0NCGxcXDQwKCQoIKiIdWEI4Z1xXe3BrIBwYFhIQKyQgAF1TTmpiXi8mIiQdGjYqJzAlHxIODQ0LCgcHBiQYElEzJjInHCAbFhANCzEmJUc5NwAsHxwXDwwjEQg/LCBSPS9VNyUoGhEWEQ0QDw0gFRBCIxQ8IhQqFw4jFg42KiggGBsAGQ8LIhMMWDYdkWE3l2U8iFQueEQieEQgbEEjUi4ZVjMeXDkmUjEgQSQULyEcBwUEGzyFd/MewRoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/28.png",
+    "width": 1920
+  }
+}

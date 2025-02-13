@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Vous le payiez juste le joint, ça m'a pris dix minutes.",
+    "end": 106,
+    "index": 32,
+    "start": 104,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=104s"
+  },
+  "thumbnail": {
+    "hash": "3fa14fb10c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBW2/SYAAA0MaYeCOZKxljFy6DUm6FXj5aaCmUfoXS1lIorMyWAcucK0sw0agvmJmZYIyJ+iZLWPRBH0ymP9JzEJUnzTqYj+zbH9c33z6tvyzXnz8qoZ2Zbvz7/evq8v1bxyvcfaDRxW5TGPUtxIaco5QXvvf356rN0689ZXU5gei2JwgffJeLo91coRLYPIa10756MrSRbo0aQvDuYvrn5vsrr9cC0aVf0rbCVZyQ2vrg0IkdEGzg8UDkXEuZOiay8A+HcvHN2ejlzD91HUOVL2y5FQyCeE56et59cbXBwMTG5hMmbyvlsQWRmS2K5IGt1sfDvtPRZB70xDIM76OhhPts3raP7yXpaDhiVhhD5my5hHgWrAtclUq7ZvP8ZGpAEVIZJrSdKHCL5VdW0gIY2IukLJ7sqVWFJxGGBXmmOBHpM6PxfDrRYE0o4iQeZwl8vbqO5cDDnThIJk2B6jTYGp1B6DxGYLG5zI5rJbrMRfFUAoslIuH7d5B0CsuQYD8akZLRsVoZyEAXGeSoVT5qlDoSJ1DZR0F0a28X3Q1RJKGZnaamtQydJ3CHyepUCpayApn+D8X9cNUxqHwzAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/32.png",
+    "width": 1920
+  }
+}

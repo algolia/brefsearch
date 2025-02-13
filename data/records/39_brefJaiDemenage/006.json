@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "J'ai voulu prendre des céréales. Baptiste a dit.",
+    "end": 9,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=6s"
+  },
+  "thumbnail": {
+    "hash": "7aae7683f1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGFXXnFnbX1yeYR5gIh8g3xvdXVjXZlsU5tvWlRDPDMrMFMvLEMpKCEaGhYREQkJCgBjYHVycId+e5WFgJuHgp12c4tzWV6hXUePUEU6Ki5MQkdqQDp8R0RPNzU+LCwWExcAaWN3dW+FfHeOgXyUgHuVbmuBbFNVeD8tVS8nPTA0bl9nbEQ+g01Hf1NKeVFKWkBAAGdgcnFpfXZvhHx1i4+ElI59g3hVTlUqIDwjH0w+RmtdaFc8OYZcU6l/dJxyaYleWgBiW2pqY3JsZniPe3++mYiwiXt9VUouFBAwHyB/Z2mwl5WskYy4mpK2l5CqiICVbmgAXlZkZl5ra2NxnHZrq3hllXJnelBIMx0aYklEuZeNup6Wt5qSsZCIqoiAn3lzjmdhAFhSXGBaZXNkaqh4aXNEOl08NZRkW5pzZaWBdKZ9cqN7cKZ/daV+dqF4cZBnYn5WUQBMQ0tRTVZ6WFR6RjtAJSFRMi2WZl2fdGmYbGKecWedcWiYbGWTZl+MYVx8VFBnREAASz9BVUhIZUxIXUZBW0ZCYUpFeVVQmm5nkmVcjF9YgFVQgFVQe1JOc0xJY0E/SzAvw6arXP/AelEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Désolé, j'ai perdu ma chaussure.",
+    "end": 13,
+    "index": 3,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=10s"
+  },
+  "thumbnail": {
+    "hash": "e2ac128976",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXB3VOaAAAAcO52e66t29WuF0gvP9KpyBmYJoYoYDFFUEj8/gYxya7YXTPsdDdtnZvUbXtqbbe3/ZH7/QAfBh4k3ATtP2LcaS4QCIGZxP6szYc9ThBa83peu5xrfmQLJ6CD+DZJwwCC2vcjbqmYVAfF1cOtUKNLbHzelup0zLGz4fW/ipBvsPhWphBp9Li7hQkw6ZCYJ5RurtF6b1m3y8fPmQSmUuHyMYkEPTD8Nk46Uul3KRZWhqUfP1dAMGALo7scF6YZ37lePBtP+OqgJvDlUuO4abByNYr7BDHBCrFqOzObGgBk23E6bOObwfOvpWUt0FxPUq7vrafm0AxlO/jpebnTubkeXlxpY/NyMZ8AewjsjUXL3dbI6K8ev6LZbpwtUQyHMnL0dOg65E7K2uRSN7X2J9P4oHSApAvMk4ffl9PFzPhyP3fG+KysilIdSxUQtunDOZgU9eForDSnqlzMsUAytIdB270c/e/3w98/T3aUItLihTGrKVfoSQ1jxF2EaHQHmj5S65VWuwXALtC+ubH+8oXMUda3OwgmcIrv6x+LlR5GCcGkAAWOpEozXyjwgnCm9f8Dlb+PNcKYtsoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/03.png",
+    "width": 1920
+  }
+}

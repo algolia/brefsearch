@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Attendez, vous comptez un, deux et à trois, vous piquez ou vous comptez\nun, deux, trois et vous piquez ? Elle m'a piqué.",
+    "end": 48,
+    "index": 17,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=42s"
+  },
+  "thumbnail": {
+    "hash": "ed30b473ca",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEtKU1FQWlVTX1VUX0xFSlhCQVE/P1ZTXGJgbWFdaWhkcV1KSjgkIA4HBw4LCQ0LCQBRT1pWVF9dW2hJSFGBWE6+iYCibmNRPjxfX2xoZHBta3lrVlhHLiggFBIWEQ8TDw4AVVNeWlhkZGJvRUJJdE9HpnNpiV1VOConXFpmaGVxbWp3b2NrVjw3LiAdGhMSFhAQAFhWYltYY1paZlhMU1U7N2hHQ1E2MzAjIVtXYmBfal9eamRiblNDRjwqJhsVExYQEABaWGRVUlxHQkdVTld7VU+IXFdpRUBVQUFbW2hVVWFXV2RTUl1RSE8+MTIdFhZSSlIAWFZjXFplW1dgV1ZhUkJCTDAvNiIhNS4vVFVgUVFcVVVhUlFbTUhQOTI5eXN/wLjHAFVSXlxaZmZleGpsijMtNDYkICcaGCUjK11hfFxdcFNTYkxMV05KVI6KmdLM2dLK1QBSUV9zdJJwc5RRVnM0NlUnIC0UEyVKS2FaXHZrbo2pp7uDgI+Wk6Lc1eHTytXIwMsAW111dniYbnGPOz5YMz9uKjZhISxfcHOTm5ipvbjK3NHb0srWy8TQx8HLwLvFvbbBJDacFU+Q19IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/17.png",
+    "width": 1920
+  }
+}

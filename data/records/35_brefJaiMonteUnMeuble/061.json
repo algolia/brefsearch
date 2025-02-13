@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Putain de sa mère de qui j'ai touché, c'était tellement bon.",
+    "end": 62,
+    "index": 24,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=61s"
+  },
+  "thumbnail": {
+    "hash": "711c45f51f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFZLSWdbW3tub6yio9LMz7+0t7Slp5mLjG9kZHdra5GDgox+fYR1dHpsa3BjYm9jYwBkWFV8bm2Mf4C5r7Hc19nNxcfKvcGRhoeLf39kWVibjo2hkZCUhISKfHqIenmLfn8AbV9cinx9fGxmoZCHta2ufGtmp5aVkomKgWxxaVpbhnh2bl1bloaFnI2NmoyLhHZ1AHRmY4l9fZOGg7utrritrXtlXaKSj5mQkbClp7OhpWVJRWdPSox+en1xb4l9fXdpaQBmVVJnYlpycGbCsrfHvr6ml5ShjoxyZWOdk5V5XVpkUUqckIuajYc1LikaFhQ3MC8ARjYxSz84T0U9gXNykYWETUtMgE1BVBcFOi8tMSkmRzAqc2ZhgHZxKiUgFRAOKiMgAEM8O0lCQR8XESUdG11MSDw0MGlAMmY6KmNFODQtKCwgGko2IykiGRcTESgeHTksKgArIBwgGRUXEhE1KCCrelSUdFqigGaGZU1nTT8xKSU4JhtcOyZBLSAiFg4sIh8cFBUAGRAMEAsIIRkVjl00vYNOTkA1SzYqgEsoUjQkJh8aRyweWjsrUDUmOyETJhsWBQUENWmk7H5xaXMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/24.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "name": "Je joue de la guitare.",
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M"
+  },
+  "line": {
+    "content": "Tout ça à cause d'un putain de qui se ta l'œil.",
+    "end": 98,
+    "index": 32,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=92s"
+  },
+  "thumbnail": {
+    "hash": "afbdaffafe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAK5JREFUeJyFkeuKhDAMhTNNrAliC5s21gji+z/lggUdl92d8yuBfDm5wOupEAIRIWIPQgg/CuCRAAzDEGNMKeWcmZmI/gO6wzRNemqeZ2b+4ICIy7Ks62pmx3Go6u8AAMQYc84ppVJKPVVKSSkREcDd9wZERFVrra21WquZubuZicj76jeKiFd7VXX3fd+3bRvH8c8dmFlEvk611ty9uzHzNdUDuM7fX4GIPX4f6RvCfQuqSpYyRgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/32.png",
+    "width": 1920
+  }
+}

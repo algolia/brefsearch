@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Ce mec, c'est un garçon que je vois.",
+    "end": 8,
+    "index": 1,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=6s"
+  },
+  "thumbnail": {
+    "hash": "96568e8ba3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABU0lEQVR4nBXMSW7bMBQAUAGWOP7/OYqkRA2W3BhOUhsxgqzarNJmk2Xvf5ciB3ivScvvtPwafvwt+8f6/K8u7yndDYwB5wCTwzHmn8vj13r5nB7+5ONbQ/2zSVeMT2G4r+ePodxLuoHKVo+aB1DR2TmVi/Or1j1SavJ4rfU21VvJD5YS6ZL8Odotms3CAJCQRjQTY8SFU8o1NZ+yn40OihstPMjocDIwAg/OH30+h3gkGjmjrgPOsDHKgXSovm+U2eKEqgceNbe+P/XDI5qCmIX07UGyTjfBnSwMMewWqxaR1CC5VdwRJqJk3CylBYhC2I4B61SzLS/Jb6SyFl4xy1tkB8U7jRAQAmBSygEmzpAxaA+yWetlX24prEN6Kv0FVC8YKGkRegQPEAF6wCI4CU5tK5scl5r34/yyb+9Tfa3lamEE6YgSYtA6fEsqQlopbdfK/43SIZU/+qd9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/01.png",
+    "width": 1920
+  }
+}

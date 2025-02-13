@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "J'ai dit: Oui.",
+    "end": 6,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=5s"
+  },
+  "thumbnail": {
+    "hash": "e54baf0861",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKChorq8urq6t667hKOCdYlCP4ddSamjeKime6yug42ObzMjIUQmIkExKHNzXXdvaACQiH2nnoelmoiurJiYfGuXbVaFVUeOgYS3v8PHy890bHAaDA0nGBkfDhB1b2iTjnkAhndjhnZUlndajZA4p6Rju4t0onhptLe5wMXJyMzMnYp/TConEgoPFw8Pn4twh29IAK2onrS4tczLzcLEtsC/rohlX6CLg8zKw8PBu8HCuKSViYRVSUQoJD8sJ7OiiqibhQCjnZCmqKCso6HPx82cmqwSAxp1a3XTzMG/u5fTz6utqIaNcljAnoKqg2mWhHd3dnIAc2FUcWFjgXZ50MvIzMjLZV1onJWfv7uur62Ex8OmwbideHBoVEtMNCoqFgsMEAcKAIeCf4uElI2MkKKRhM64r+Di583Gyreln8C7qqmkhE9BOxwSGRgNEBcOERQOEBIMDwCal5eamJ6OkKqeh4+3kX2qjIeyl5KngnuomXJXTTMLBAwZEhIWDxEWDxESDA4MBgkAkId9l5SMjoiPno6NkmxenYeGtK2ymn17h39vQTw4EgkNGRMUDgkNBwQHCQYGCAUG9MbKk7MBbLUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/02.png",
+    "width": 1920
+  }
+}

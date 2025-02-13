@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Je déteste parler du film juste après le film.",
+    "end": 63,
+    "index": 27,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=61s"
+  },
+  "thumbnail": {
+    "hash": "c0f1301374",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbUlEQVR4nAXBB7KaQAAAUOqugLvAVopU6Ygg+i0ZYxx/MpPJ/Q+U9xSoQ1MDwiHUwkgHWAeeTS7N6XP5fp3er+VXl457WXLELGMDdaBguAWqQTdI2q6vgxjxMtz3Sf+c37+//lzbtRRlJcsQcwQcqJqKxBybtqeZxIBYNUqePsb72t6+2ttUzAnNcpbUIpO2h0x7owElIrFEQkKb6NDXzNAhj+H29/7vefh5Hx5rvVYyr0UqgOPrEGhAoSiI+b5NxxhzV9V2mC/VvBRzHTSX5tzsGoZYHVUhFo5qUMdTuBfHSKRIZIgHThCxLuHpuVqHuCtkIZCkG1yzMPcDYsCUSiWgeYTiiPTMPRB3CdgSs4QhwV2JLVfSKWGLtERoWoFu7ghXqJtRb+Jk6cof9+kzVY9jfRvL41CMfX5k9Mz4jbiHkM6hzSLXV7ZOhrZ1nRze5+/X6fM8vlI5FLu1L6+CdB5uw/ApxNX3RoL3ApP/VS8ttswUymYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Elle a fini avec le beau black, d'ailleurs.",
+    "end": 55,
+    "index": 19,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=54s"
+  },
+  "thumbnail": {
+    "hash": "d44bf32663",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJ2KhaeTj6+bmLeioL2pqIp3dEEyMS4iI19QULSfnbmko7KdnauYmKKPj5aDg4l4dwC3op6/qqbAq6fHs7KrjYFOLyEXDAsWDxEDAANQQ0XCrqu5paW2o6Oxnp6rl5egjI0AxrGsxrGtyLOvwaypnW9Vck88UDIuLh0gCggNCgYJno2Nw7Gwt6WltaKisJ2dq5iaAMy3s8u2stC8ubOfm5FkTH5YRnhPSVM9SBMOFgMAA4+BgMm5uLupqbmlpbShoq6enwDPurXQu7bRv7rGraSnd1x+W094WVt0XmYsIysaFBi3qKXIuLbArq28qqqzoqSpmZwA0L210L211MO7w6idhFpDY0dDZEtLimtoSzk8aVlX0sS/xre1xbKyuKepp5ecopKZAMm0qtbBttK/tNnGvnpeUCwZGFk7MI5nWG1VVoB1hMO4vc29usa1tbOjpaqanqWXnQCpkYXbxrfVwbPgzcOOfHU2KCZ7WEayl5Wlo8iBicKnoLXXx8HGtre0pKesnKGgkpgAhW9jyLSmz7ut0r+1y7iwuaaiua28srTdqKbJo52/kIyvybq8yLi2rZ2gn4+UkYOHfaTxp86PPMUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/19.png",
+    "width": 1920
+  }
+}

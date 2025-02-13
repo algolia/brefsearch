@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "C'était sale, mais bien joué. Elle l'a pas cru, elle est partie.",
+    "end": 80,
+    "index": 39,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=77s"
+  },
+  "thumbnail": {
+    "hash": "06937f0cd6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKOcy7Kv2L6929vf8L2vul0+N0E1Mk1CQEhBO1tWTGtWSFc9MjMhHCsYEicVDhkLCABzZsBEMKpgT7mwqOKNh61LNzKHYVZmTElLQTaalX2CbWJ0XFRDLi0WCAYXCwgOBAQAr5u7p6ThtLDgxsPsbmqFPSUfmXBnnHhxV0dKioOVhHV0dmReYkRCMhoZFAgHEwgGAGxfem1pjqajq/H2/amorVAzL4dgVpl0bWdVUHJtaVRHN0UzJ00yKl06OTMeHhQJCABdV3VWRmGLgYnl8fylprdbQkNmQjx5V1SilJqtqLVoYVpbUlBQODFTMy9GKyojEhAAVE9veWFxtJ6fw56nel6DUUdVQiolX0dJXFJjfXWEh3+OiICVZVBQRSkiNh4bMRwZAF1WcnBpi4RkensrPEYrOkEyNkwzMGhQUhkRGCUgJEVBOE9KOks2L0swLDwjIDoiHQBiVW1ya4ZmXnUcGScSDxdNMTF6U1NTOj8SEB0fGSkjHShAOjVdRjZMMis8JCA9JR8AlIembmF3RDhFCgcQGhYiYkVLc09RKR8rEA0bHRglGRUkHhgkempvXUZDOCAaQSgi7ByTVc7zsvsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/39.png",
+    "width": 1920
+  }
+}

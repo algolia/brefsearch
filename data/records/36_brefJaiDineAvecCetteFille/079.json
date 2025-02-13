@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Je connais Carbon Kevlar, il mixe dans une heure.",
+    "end": 82,
+    "index": 36,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=79s"
+  },
+  "thumbnail": {
+    "hash": "cb11aa2e9f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACEWEyobFzclHkEtJTslHlIoHHo8LGkyJU4xJ0UwJkgwJTkkHTEeGCscFigaFgsICAAqGhc4JR4+Jx1AKyF2V1RuRDtcLR5WKyJJMylJMShKMig6JR41IRg1IRgyHxsPCgsAMB4ZOiUdY0tFlXp6tJWZel1dOyIcVz87b1RPRzAlSjImPCcfNSAXOCIXNyMdFA4NADUgGYBnZ8GkqMOkqLSTlG9XWHpjZYRnaK+KjJFwcF1EOjgkHDslHUIqHzslHg8KCgBCLCenhofDoqK6mZi9mZjEnp7IqKq5lJSuiYm5k5aHaGRCKyE0IBopGRMyIRstIR4APiYdooB+v52ewJ+fv52cvJiYvp+huZWVsoyMso6PjW5tNCIbGw8LDwUDLxkVTjIsACMSDZF2dcalpsKhosKgn72ZmcKlp76cnLuZmrWSkpBwcRoODiETEi0VEDcaF2A1NgAEAABsVlbDpKXCpaXBoKC9m5rIrLDAoaHAoqOsioudeXtONzhLNDQtGhkOBgYoFBQACAMDSjk4nYWGqY2OspKSuZiYxaquv6Cgu5ucp4SFnXp6VDs7OSQlNCMkEwkKGQwK5qaV3CENcSUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/36.png",
+    "width": 1920
+  }
+}

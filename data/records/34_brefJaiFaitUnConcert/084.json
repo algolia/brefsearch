@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Le serveur m'a dit: La star, elle paye son verre.",
+    "end": 86,
+    "index": 35,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=84s"
+  },
+  "thumbnail": {
+    "hash": "d628c03aa5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADYeETQiGSoZEDQbDkUWEXEtKGM0FTEgBD0jFGg7KohWQHFHLZJcHJZhHY5cGJFuIQAfEg4mFxEhEw4qGBBDIxh5MitYMhkZFARcMyanZUvPknG3hmiQYzvJkjuHXhdRMhgAJRYRJxcQKhgQPCIXWjspcDksXTMcLCIQTSoghFI/snhgpnlhkGVf0JpIlXErZUAsACwcFDwlGkAoHVE0JnRPPHZGNmI5IU8zHGs+MXdIOLqAaMGPddCaVOizN493VZqDXAA5IxpCKh5NMydRNSdxTTl+TDpSLCBFKxx0QjBtOy20fWjeooCweC28hCRfUUlpY2oAOyUbRy4iUjcqUjUnelM9jFNARxsXFggHPyMZZDctpWdbj2NQNyAbPxcLRkBFZ2l8AC8dFEowJFI2KEktIX9VP4dUPzMXFAMDAiIUDkYrIoRbTGZIOyggHSgYEjoxMVBVYwApGRE/JxtPMyVAJxpuRTFySTUbEw4HCAcqGRNMLiJjQTMxIRsnHxseGBUcFBEjGhcAIxMNMx4USS0gOiIWVjIfakMuIhcRCAgHLCEcgVVFPiUdCwkJGRMRGRMSEw0MGRIQC1JrH9fIXVUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/35.png",
+    "width": 1920
+  }
+}

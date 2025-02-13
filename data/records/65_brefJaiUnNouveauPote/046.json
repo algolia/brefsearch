@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Bâtard, va ! Salent de cuir.",
+    "end": 47,
+    "index": 19,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=46s"
+  },
+  "thumbnail": {
+    "hash": "9a97d0b65b",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABh0lEQVR4nBXCS3OaQAAA4AVWFhBwQVgosMvLgCDyCMRo1c5oZ7SWpEmaQ089dabTY///qdNvPvDnxH48sOc2GQL7Pi96Ghw9e8zSsa5WiuoD4HP88Y6ey/ghYedlAP6+f7p2+ctmfe2rXVkOHnmq6K9vt5/XL1s87+aGL/DPzeJ9U56r7G1Iwe/Xp1vbnPLkkKf7JNx6ZEfnbx834zDcm9YhDCOETllwqeKO+d97BgJVUTneQWJmmYVDasvwEbKQHBrzhsWZE2SO52m6AngegAQjoCMZcdCQ5N73lhh3nrvAhjmRVizZr5qIsDZKaxZpUBQBJwIe6JgoSDUULdBnTDdYkEfR0lSxb5i7NHqkbB+HlesY0lTgIOQgAFDneEWAUx6qE6RNMUW6J8oYCrIEJREqsqgKvMiBCfhfABUl25T0od1Ruwusjrl14FQeKVyyMHV/Nk0sI8WqLUuaKGI0AYc70lPzUri3NbvV0dhEYxtd2uLSFF9L+jm2Hx39+AGvPTvGWjyT/wElmzNisg3XHgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/19.png",
+    "width": 1280
+  }
+}

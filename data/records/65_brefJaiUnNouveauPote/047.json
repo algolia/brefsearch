@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "On s'est recommandé des capotes.",
+    "end": 48,
+    "index": 20,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=47s"
+  },
+  "thumbnail": {
+    "hash": "de2e60e9cb",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nCXCyU7bQAAA0PEyix0vY8ce7473GLwUuw4hogmCILZIKbQS5Vj1UlXqDan3/nkPfXrgzzH/fZu8rdPjkI0hm+pmYPObyD1U+cPJshKgD0AMhV0ZXOZ+Hzrg78/P768392f1t+24H5pNXU+O+WXMfhwfv64v1rrem0aK4fGseOqzTRGD9++vv16e79rT+7bclNlVkQwW3aXsebO6XtY9NT66LCXoehnuyqD1GXjbrRyCNZ7LqVYxe1vlra64CJtYSufW0g8LJ8gsZhMZAQABB3QIKZnNRBxTWhtma7PzKDilOkVkyKvzqkmt4MMiKRyXcDwCHFBl1bB8RdKopFiSFqg0jOvYT6isLebWtkgHx5sCrzBNWcQCJwCeRzyiApyJUBGRioku0wjNbIhVkcdYICJPkEB4IIL/bUVe595V5V6kbLWwp9geY6cP7MazKttMqeKqUmzokSpRBGURgpcp2ZXOKpo/NN5jFx666NBFT91i31X7prgrvU8BHU35kqknthEp5B/aszRur7gzgQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/20.png",
+    "width": 1280
+  }
+}

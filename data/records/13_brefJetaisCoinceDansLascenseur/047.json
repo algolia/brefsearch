@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'ai dit: Allô, je suis bloqué ? Il m'entendait pas.",
+    "end": 49,
+    "index": 23,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=47s"
+  },
+  "thumbnail": {
+    "hash": "9a739a8bed",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nBXLyZLSQBgA4JRCp7e/16Q700AyCUnIgkCGApRymRkdyzl5UG8ePFu+iS9t+d2/qA6JBpZq2d/mp7H7eLm7Px8fTndfrpfn99fvTw+fXh93TVVkaUh0IiFiFCvgAujSJ9Nm/XY/bKvFvsi+XqbzUJ+H+tBWzSqERBsJjOAoN9wIJoAZDUVwzdI9fv7R1uOwCL/+/O2qKvc2OKsF54xIGkdeQe1V4ZQz0mrhU/vh6ee+3QFjb55/99uzApIaHaxcJUJxGiVKaMGc5pmRmVU3qek341Stx1V+ffdtOt5biL1RXoOVHDiLCgtNpleJ9AYSCcBZmnpnk0NRHMoyuFQIbqTwSiwtAMXRi5ezOUIYx5xhxjAmGCGECQEGnDJCCKXUW60Fj3E8n6MIIUQJ1Up55/LF0hiD4vj/iRHBeDabBeervAw+M1oTQiMpVOZuyny93eym8biph/K2bdZ9Vw9dM7ZV96rbHbenvh6LZZml2T/X2SzQq+0IIwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/23.png",
+    "width": 1920
+  }
+}

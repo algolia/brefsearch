@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "J'ai compris que l'avis de ma mère avait changé en regardant sa liste\nde choses à faire sur le frigo.",
+    "end": 54,
+    "index": 25,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=50s"
+  },
+  "thumbnail": {
+    "hash": "0173f94b8f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEI+R05HSH12foJ8hpeSpa6rv29pgEdGcEI/Zkg5QkY+W1JMfVNPfqqnxrSwx6iitgBIQkZkXmaem69QSU1sXF++u9JuZ34yNWQvLE96UT1iT2BZVo5cWIq2tNSemauTjZ8ATUZHc256srfTQj5EcE5DubTIbmh9Qj9jGxw4aFVbbWF6OzhcXlqOsrHPfniEeXF+AE9HSXp4ho2Km3NzkJmVqrq72Ghhcy4sQBISHF9eckREWB4XIVVRf6akwW1lb29ncwBJQkFeUltgHixnHjWgp8vCxuNdVmgeHS4WFB1TS00vKjQhGyZJRGmbmbZdVmNRSlEAQTk4QDE3WwcbZhAqZ2h5nJ2sTEhZFBQjFBEZJyMqJyArGhUcQDxebGd7My83PzlAADcvLUZDSl0OIEgMH0ROY2NfaDs4RBARHxcWHR0bJSkiLx4aIy8sRl1ZXkNAPU1JTAAuKSg1LzNWCRo4DBhSYX50c385NT4MDhokHyQeGiIlICw2MjgsKUB0cXeOjH5PTDcAKyYlJSUnPwkVQwcXNz9Pa2duMzA3BwsWOignJBsiISApLComLi5DS0NLQz06RDwyghKOwCMEmk8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/25.png",
+    "width": 1920
+  }
+}

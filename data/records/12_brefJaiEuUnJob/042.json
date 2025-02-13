@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Vous avez entendu ce que j'ai dit, Jean-Louis ?",
+    "end": 43,
+    "index": 20,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=42s"
+  },
+  "thumbnail": {
+    "hash": "6bfed48e6f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGlmaGZjZ1RSWWRiaWZiZDcxNiEXDx4UDx8VDTQnImRXVW1hX2VZV3BkYkxBPmRXVABdXWpZWGlST1tubXldWVwoHBctGxUjFxIaEg0mHBhVTUtvaGdhWlhhWlhLREJRSkcAKzBZHyNJKitLOT5mLDJaZktOil1NRi4kMB8YNSEbGBcUNTQxMC8sKCYkHBsYGRcUACYuXh0iTSkrUDc/cC01aVpIWXBJPWxJPmZDOVg3Lh4cGDQyKjUzLS4rJyspJCcjHwBHRlZGRVVKR1VTUV5TUVlYUE9lQzlzTEFzTD+EeoB3hJFZWVlQTks7NS9AOjVDPjoAh4SXaWmBVVVvc3J2V1ZdWlFPYkhIVzkuYlZWjqe/lavBj6S5hpuyYml3SkFBdGRlAK6proOBjWtpeHRzeUpIUoB0d5SOnF1OUmFdbaG7zaKzv5WouYaasHyNoFBSV2xcXACinqNycXtmZndmZnA7OUNzbGmPnq9wW2ppXWqnvMuis8CAlKhwgpVuf45eaXN2Z2gAY2JxaGl9R0xwJy5WMS44cG9vjJ6wWSY0d2x6qL/NmKq6an2TXW+Da3yMZnOAUE5QKRCY2Bd50EMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/20.png",
+    "width": 1920
+  }
+}

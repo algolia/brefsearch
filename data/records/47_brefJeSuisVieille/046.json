@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Avec les gens au supermarché, je parle du temps.",
+    "end": 48,
+    "index": 16,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=46s"
+  },
+  "thumbnail": {
+    "hash": "3e5795ddaf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nAXBXXeSYAAAYO47O2sJNJXpROBFxpfgy5eAgAFOcKTO05xbF8vZFhOWfVy0Lup0uumcLvrHPQ8CANVh6Z4sWlB2LN0w9fx2/bnILUfvG5ppqEka6ZoqqSInAcCTCNuh+4qYOPokspPUTTL/79fy39NjvBgOJubpFM7e9CeZns1hmimDkENsW04iPU6gn2q60wvG8Y8Pq3I1ubod5rtXu28X6+3wcmOe32hnKyWc84jlCXbIK31gxAarwEOc/vMzLzbXlq6WD9Mv2919Mbt7tNe5u3pnjC8E5ESlRa0je4Y0ihpAeL5f810HKpBlxF/f8+389G5zVn7y74vB242ZLSWE5OnjrkT3LX4YoNVGBSVeHpIoeoRihBMk+UPhRbPppfe+tJY3vWwpIk2+U+c40tTbCsRqzSpBVVCigh8d4A2MAG78mlMDM/Cv18biqpuecwjNgxrDNBSl1mYBz9WJ9kGlvrePmabRZPgGUAlKhm6YLrph1nFHFFJtkVirhTMM1mqPR95xk3q2h+E48fvpIyXAGq28qNNAkEdZ14mAHdD/ASvTZb5v7Lt2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/16.png",
+    "width": 1920
+  }
+}

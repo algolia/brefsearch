@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Dis-lui que j'essaie de le joindre.",
+    "end": 39,
+    "index": 21,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=37s"
+  },
+  "thumbnail": {
+    "hash": "b6246aa955",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nAXB7XOScAAAYL7ULN0QEXn1hwgi8g6OQFRwAroNlZXl5pp767rtrFZ3u86su24f9qE/u+eBSi9e+hSyNLn7vroOjYkrGxgaIcULp3k3tBahfWbKmaedxk7yRuNoBhJ285mAjQT62hFvfXWdhSmFnwN8k/aelyeZ71y55nXibc4m7x2tXChCbgVeKmDcqF3Zjc99+yL2t4vk3226SXvb2Wj74XAd+U+rya9J/8ewPdVFKKDRr/v8Y0/54grP7wanQ+/h4zQbejOjdXfQDSy9b1lPj9//zgZ/jrxPXQO6D4ylzFzq7AlP/Z7HWeh2JDFQVZkBodSsEKDM1Ffp8U2n/W3QjiQeuvHUA5aYS8xK5h+mwaFvZrbycxpTFUYGdbhEEiSIBb5dZY/UpssBKJU4o1wa8eSlq76NosT3xpqk1bg9lGZBA8FoBCXOw47FC1WKS0wdGrU4Gy0mDVYRTVn2Db1LVej8Lqop9iKb4wTIw9h43xSqPIyweJmBLBKzMcSrAcC0RN6qc9rOaySXRypUzVINHGdyr+CQptE9slDAczvF/2CGWHCnLljLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/21.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Par contre, j'oublie à chaque fois de quel côté mettre l'essence\nquand j'arrive à une station.",
+    "end": 53,
+    "index": 20,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=51s"
+  },
+  "thumbnail": {
+    "hash": "32ebca3d2d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nGNQVdWzt3MvKW3o6p+6aNnarTv3HjhyfPf+I6vXb5syfUFGRomfX4yMtDIbAwM3Cxs7KyeDhrqBna1bWVlzd++M+YvXrNu0e9mqjdNmLpwyfVFb+5T4+NygoARdHQt2BiYeZjYeNi4GdTUDSwun/Pza2prOCRPm1Df0xMak6Wgbe3qEJSQU+PjEuLqGWll7cjKz8zKz8bFyMqgqaxvoW0ZH5yQlFRQWNgQFxEiJy4gIShgY2Lq6hpibuRobO1tZefNzC/IysfCzcjAoK2qpqOg6OQX5+cVFR+dYW7uzsrDxcPNbmLs6OQXp6dkqKxtqaVuLCUtzMTLxsbAzyMuqSUoqqqgYaWiYWZi7qyhps7Kwy0ir6uraKKsYSkgqCQnJyMpqiYrIcjAw8bCwMwgLSUqIyysr68vKqCkraPLyCMjLacnL6woKSfPyivLyCHPzCguJyImIKnAwsXAzszKws3Hx8ghIS8rLyyhzcfAIC0upqhiKiysKCEgI8IsL8IlycvBycgrwC0qxs7BzMrEwMDIwwhETIzMLIyszAzMrIysrMwixMLGyMLGwMLKyMLGxMrFyMrMCACdLVIrRjiHtAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/20.png",
+    "width": 1920
+  }
+}

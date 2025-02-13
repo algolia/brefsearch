@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 3,
+    "name": "Je me suis préparé pour un rendez-vous.",
+    "slug": "brefJeMeSuisPreparePourUnRendezVous",
+    "videoId": "1x3P61ck0QI"
+  },
+  "line": {
+    "content": "une douche et je remets du parfum.",
+    "end": 73,
+    "index": 22,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=71s"
+  },
+  "thumbnail": {
+    "hash": "6115228970",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCWgnmMfHR+a1iVc1GdjH2/t7W2raenm5awp6TOy8rNx8bKw8K9ta2dj2+1qqKtknIAjHBgmY6Hg25ar49ny72rycXFqKCbn3xxbVhSjYaBp6Ccu7SztKyilYhkt6qflHNMAIJZR5eHgHVbTqiKZszDttze3762tZV0a4hoXGdjbpmRjLWspqifk4p+YK6knauJXgCnh2aCY0toVEWFdGKwp5usp6yHbmoiJTk+N0JBR2p3fpnGv7myqaSelI2rop65sKsAxKZ4noVoTUlNODo+x76ynpylf3t8KTJJKzhcJzBTQ0pgopKEmIl9rZ+QrZ6Nrp+UAE5JS0FDUCIwRh0nNGZfXGhjYXR0fy44UTM/ZSgyTzc2RJyGY66SY6qNXqaHWaSMbQALFSsQGzEYIzIYITAXExYHAwAhITQsN1g1QmZRR06oj4LQxbXItpi4n3mzmXGjhl8AGhohERsrFR8uExooIx4iKSMlMDE/GiU7RDxDc1NLvrWs6+HW4NTL18m8wLKlno2AACgdHgwUJBEXJAwRHB4cIi8sMS0uMxccJBcZHhwdIoR3b6mYi56MgoZ3cG9iXVxNR6uXwohFsIuKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/22.png",
+    "width": 1920
+  }
+}

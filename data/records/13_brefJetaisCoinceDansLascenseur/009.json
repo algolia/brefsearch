@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Tu voulais y aller ? Cool.",
+    "end": 10,
+    "index": 5,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=9s"
+  },
+  "thumbnail": {
+    "hash": "f99a8174b2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXBW0/TUAAA4P4EjL2e03a9rD3t2enltGxdt3aWZdWZbAsDxkZgA6YDY4xi0BD1TWMgkRdDfPMFX0xMfPKZX+CrP8jvY3RB0IECOA7yoiJICi8CVhg0w19f3n84nugCL7G8dF8Q7nH8GsuvsQwxNEeTdQg0ACsiMGU1Qtan+ePfl+cfj8aWwJlAVkRF5gHkJMhKjKPKtgI0IOlA0SRoyirS9Und2as7BxkdUuzLqgkrNR3ZlaoJNcYE0ISwqqqe7RALUUymG/k4Qtt18rSIX5atk62dwWAvRF7NsAJEGM+oYt30bDtAno9I6tOzUa+PjV2KSkveCtHV89Obn3+//bjbHB34JmYSz40xotiJaphY1sOie9J/gDU9NdRYETcjZ78/vPp+d/vn38XnW2J7TCsk68RNApLHtBn689nkzbDoNBISxG3sLtJgNF6uLm4OX1yuzq8n4xmTUa/h4TT0OjHNGvXlqNzfaKftbujTsOo866W9vBum20evrncW706fnDFZ5Cd+rRmQohGXnXz1qFWmuU9bRZaHtru77s6LpNObLl9/Hc3eHk4X/wEgWmJsF3uGpgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/05.png",
+    "width": 1920
+  }
+}

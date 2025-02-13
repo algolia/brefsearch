@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Parce que tu n'es pas chez toi, mon pote.",
+    "end": 9,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=7s"
+  },
+  "thumbnail": {
+    "hash": "afb5c20560",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nBXOy3KaUAAAUBYaHveivIkSUZAEDXgppOINtZTigxA0OjrVjpPWJJN2kWhn+iX9g+676yd2er7gEJFjIVP3rFZwYa7Hw2+3kwPCv1ZPf4qvmKxWIRDIE5Y80QRBYtn1u/fEtO+GXSvsWNg53xXp6yI/Ivz7y8+/nw96mRYg4ChaglCXJIUTFFYgisjHzkXYbWPX2t+NXxf5SxA9R5MHFF5CyANGAkyd5zReqDBQgDyxSfHoCg1RB7vtp8XkuCw2bteokDVQUgEp0JQEgcyyLAVYkvTrKrH8EN7nyX422k3jH9vZcTWfnut5i78zFJEmQbnM07TAMICkJYpBMk8Mkb27ifdF+n2RHdfZY4onZu2myb34+tbVvMZpUxal/zegVGWsyUTs2Vno5gM0v/Y2cYA18ZKjmxVqaZ8eRsFs4M6uPWToIgSaVIs0lYh6VhH5q2Rwn8Xb5O3AbDgyj+1gPYxTZCY962PPGgVuS1U4yHqKSLyxzsZ9dz4MPiWDh7SfeXZknIV6I3Y6vqFeteu9pupbmqnVyqVSRxb/AfwtS69RLedKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "J'allais fermer mon sac et je me suis dit que je prenais\nbeaucoup de trucs on sait jamais pour un mec qui prend pas d'assurance",
+    "end": 37,
+    "index": 16,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=34s"
+  },
+  "thumbnail": {
+    "hash": "ce0470555d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJmIdbKlkryvm56ShKOWjaWXi6SVi2peWQgEBR0YGXdob0tDSgUBAjItL3RsbG5mZwDCua3SybrZzrjh2cjk5ezMzte9u8VdWFwAAAAVFRacmahQS1QFAwMgGh09LilhVVYAwLOe1Mq008qy0sq50dLYt7e/n5qfR0FCGA8QKSMjcG10WVNYEAwMHxgbPCkjaF5hALqqj8y/oszAodLLuMvN1KSkqm9rbCghIXVUTlA8ORIPERoUFhQQEhcSEz0oIFVCOgDCsZKjkHV1Z1lxamdgXmQmJCYNCg0OCgscFR4SDhUOCwwIBQYGAQEXERAzLSgyJB4Af2tXXExBJBwkHxgtKCE5JyI1JB4rEQ4RJiE2NzBNGRciGBwnKTRMExMfLCgeRzwuACYaGBgTFR8ZICQeKy8pPjIsRDAqQiEdKSYiLicjNxcUHzM9VFFrnyQsREwuJm5LQAAUEBATDxMYEhoUERYYFBcQDRUXFBwbGCEgHCkcGSAgHy8vOVE1RWw2Q2hITGpLSWgADgsMEg4UDgoPDQsMEQ4THxkqIhwrMStDOTRQJyMvPTlVJSg7ISU6JCtEICpGIy9RXqR8rj2R3SMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/16.png",
+    "width": 1920
+  }
+}

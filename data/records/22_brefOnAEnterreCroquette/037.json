@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "J'ai dit: Anne perdue.",
+    "end": 38,
+    "index": 17,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=37s"
+  },
+  "thumbnail": {
+    "hash": "cce465e9c7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXB31PSAAAA4NV5ysHAkAlugw22tV9MmMw2xjY2tiGDNVNiWipSeF4PgVYehd3VXZh39dRD3fXQnflWDz315J/n9wFWh5bqqWozLkgRvhSjseS0q1+f7V5N+v+/f5y9f7Y5pLxQdjqiqrE1gwLMNu1sMbILi/adRhV56VVn+/blQfv3qHc9ORoPXXObDIems1F0W4r/UANoATQ7EcNfMbcLjs182nN/ve5+Pdj4+eLRj3H/ZFRXTLQXWi1f0ltLJ+c9oD82ag5IsQl/r3Q4ah0/0f5Odv6chf8uRjff3r4595U6KtVQUcdRYq65mwZUK/dASfCVhUaQDAfG/pb25bB5ueNO2/XPR12zzYpWytpkBqc+XYEx7i6AwvNFbokUIsVyZn1NOO4/7unCpKO8843Q8+R1WVLYikFwCqJ3WFpMAFgOpAgIx5DFWFRcZWYXHwLbNsvF6emrhuEWKZ4nealcpu4TGL2c52MAnIHSyxCUSsaj8wyJN01d5GR5zRs8fV7mVgsoTmJ5Ci+UmBJLEaKaAhJgZDEeu5cAk/EouDCXS0NqRTPUIPACMpcvZHEMQXEkm83A2ZWM6dC3ixxlYyrRoJUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Ça va les sous ? Maman va donner 100 €.",
+    "end": 27,
+    "index": 13,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=25s"
+  },
+  "thumbnail": {
+    "hash": "f727dbcac5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nBXL33OScAAAcF6mQms/spuZYyeJB07BoRD4AxnokC8MxclcoHieW12zbUWLTS921eq6ddd112tP/QE99Cd2fd4/UHQpgkThaGSJwLaOuoZtto+6+qCj2aa6r0onk3GNY9Kpje0sms+i2OYjCInGlhEEjkXwrVTjKSNQOZYi2GKOJjMFEj9Ud1ulfDoRxx8nsmiSJjIQEoNXEOThyvLOdrbGUNU8WabIEk2SOMbQBVeV3/aBQKYljgViTeTK/0Ny7X4mEa+X6L6mmrIkCaxc5cpUThWrzt6uxRflIgGUZg9oQBahVQTB4mvkZgLIkt212orcELh9tcXQ+ZGpn9p2s0gc8IWx1fGsnm20oeSDVXQdqewU/YvAfz2fTp7bVq+jgyrPzlznxBlZIn9zdnH64qVnHzyzTOhJaoPCMd//HIZ3V8Htu8vw7JXvDb29lnw+HLi68evrz2+X4QS0evWSBVQoEV+vcJWrxY/F++/X87s3/ofZLBgNJ4bWvnbtL0H45/ffheNMm4LV4BWxDsEx+B4Mp9GUIjUNzZh67vHYPewP1KZyezz66M8/BTfnQ2dQLw90zdLBPyFQbrBcOauMAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/13.png",
+    "width": 1920
+  }
+}

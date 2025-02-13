@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Oui. En fait, je n'en ai pas vraiment besoin.",
+    "end": 26,
+    "index": 14,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=23s"
+  },
+  "thumbnail": {
+    "hash": "830f4854b2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nBXNS2+aAAAAYA5rk1p1CgqoUNEiKCpBawVKBR9oLaBSRRRfpD5qp7F16bqky5LtuJ+99PbdPqDSNm8luaOqk+FIlpR08ZbKl1m+etefN7S+2jQ61uz15+/Fauuud6vdEbiq6rVa01TV+WhsGr2Ru73v2pxY7zrr42b/7+OvrGg9Z/m0P778+FjtvwMkJ1UammmYI3tqjxezzeH+YaJZrma575vdn7dfpcLNXc+ZPr1uDu/L/RtwDmJCy2pZK915Npxn3dnqznbweOwPFi+L9WH5bWAMHyra0HoUVZOvd4AAkuAquqxPFGOiGFPFmMrdWbNt1yhu3O659rzICo0YraWvEZiAMBoAYyk0kQvj6RBGw3GGzIvZcp3MCVyK45hCnimUMKoaIaUYhSGXMJEFPMHoVzTpDeFeCAtGSCJzncwJIEaLpWqSYgmckqIpPkyU0EvQjyJxBvhyFjz1w77PjgpfMCE8A8aoQJTMcJLQ6F6xYhnCRThB+dFMPMXeaMDJWRA49Z344HPowgPhHgj3hj6B4DSd4yk4XgxE8340EUCzfCtS7vwH6ZFirKeUSssAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/14.png",
+    "width": 1920
+  }
+}

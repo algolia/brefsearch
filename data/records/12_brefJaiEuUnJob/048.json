@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Elle, c'est la colle. Elle sent bon, mais elle est saoulante.",
+    "end": 50,
+    "index": 24,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=48s"
+  },
+  "thumbnail": {
+    "hash": "0ab9bd4a0a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADo6R4GEhWhveHF1dHl2a4B1cDIsKzstJmdJPodcTFk/MxYTEBkXFWRZVYR1cWtfXABWQzx+gINnb4NmanKAfHGfk49HRkeZfHGvemiUZlV/WUkzJyAwIhxqYFyGfntuZmQAUTMoS0llJTVzMTpdhYJzTE1MJCkrZldPh1tMaEg9imJSZ0k9ZUM4PTc1LDEyJiYoAD8mG0Q7Th8xfy03Y4WAcRcbHQwTFiYlI45mV4thUZBjU3ZURWNIPhIUFBcaGxMVFwBFMCVTRkRUWm5WW2GUkIJGR0JFR0FOTkZ+YFV4U0d2UkRyUUB4aGVXXmI6PDU2NjAALh8bUUU9VlFOQTg0kI2Cdm5wVlJWQUFJXFBRjmZZg1tIdlNCkpuwlq7OfY6keIGRABARHjk3PGlkbldSZDs9Rzc2RiMmNhwgLx4jNFFCRKd3YpFybFJVZlpnfn6QrIuhwwAZHC0qLkEjJzgaHzEVGywVGysWGyoVGikXHSwQGChHPkY7OksRFCIUFSEeIzFFUGUAICM0HiI0FhssGB0tFxwrFRopExgnExcmFhsrGh8vDxUkFBglFBgmExclFRkmFRklktx8vIOtK1wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/24.png",
+    "width": 1920
+  }
+}

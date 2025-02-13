@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Je me suis demandé si je devais l'embrasser.",
+    "end": 87,
+    "index": 38,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=85s"
+  },
+  "thumbnail": {
+    "hash": "d01631c6ee",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD0yJyQcFAwKByggFVpTT0E9N2BCNqRuYnlPRRgTEwwJByQfGh8aEQ8LB52Bba2OfgAuJB0hGBERCwQUDgIfGxE6LyKuem+4e21ySj4YEQ8RCwclHhskHRogFxLFqojSuKAAZ0M3Lh8YGhIJGhMJCwcALiASjGJZfVJHcUc2Mx8YRiccMiAYJRkOIxQKraOJ/+7PAIZWRlQxIR0TCi0gEiIVByMWCGZEOnBORJZiT2A6K249LTkkGyUUBikVBnNjVZaGdwBiPjJkOiomFAotHxM1IA4nFwV0RzuVYViLWEhZNiNjOShEKiAqGQ04Hgo3LCJQQTgAc0E0dj8uJRAJGBALNyUSKBcCLiMmUjg0VzouOyQZTy4hbD4sJRwcJR4hIRscKSMUAGA0K1QrGxgMCAkFAy0gFjo1Qzs9YTwxPhsSDh4WClQ0JGQ8KiYfJD43RUM7UjszRQBSNic6HhIOBgQKBAAlIjU1NFpPSV8nJTsUEyBALiFqQitUNykmJC81Lz1ZUF0tKDsAUzgrLRgPEAoGEQsHJiQ9MjBJPDRGMCxDKik+KyAwfVBKRDI6JyU6KyY4OjREIx8wJcVa6uWYOrYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/38.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Ils n'ont pas le temps.",
+    "end": 53,
+    "index": 19,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=52s"
+  },
+  "thumbnail": {
+    "hash": "d167270561",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF1UVYp/epOBa4h6bY1/f5qXoKGamndwd5KQm6qXkJWQk5eRkXdpW3BnX3FxdG9qcQBUUmNxeJN4eoujkYesmJutpq+wpKJSRUh6Y2CbiYiclZWuqamHeXCAgIhubHJEPEQAYGiGUIPOXY7XiIeEopVziX54ZVJTQjEvRiQfHxgjYGJztLC2pYNzkoWBiH18eV9WAHZ9kmmLuHSOt5ybhJOMXzAySxQWKSUTFjYTFSMYH3N3iY6YtY+Gh4h7eIN4enBaUgBwZmWMg4F0a2hna2xFRVUOEzESFSEgDg82EhMbERdlT0diXGaAgop1cHFIPj9INjgASj04W0tEd3B0enh4Xk9SNB4lEQ4RHg0PKA8QDw4TWU9Pdm1wdHSCVlVXNB4dOyEjACsfGjAhGWxdXJOFiZV0a31CMkAoJBIGCSkYGWtpdY6Jkl1aZTQyQzAwNywWFTQjJAAeFRJdRDySfXmJcWmEV0O3kmONcVswKzRSRUdLQUZMR01tZm43NkczMT0qEhEuIiQARCMYdWBbe2hicF9bYEtIkndAq5F7mIyJe29wLicqKicrWlVbIiIrJyUvHAgJJhsdchqdbtetLgEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/19.png",
+    "width": 1920
+  }
+}

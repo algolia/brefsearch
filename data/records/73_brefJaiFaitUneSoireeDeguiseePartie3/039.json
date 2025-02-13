@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 73,
+    "name": "J'ai fait une soirée déguisée (partie 3).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
+    "videoId": "WRXsFwhVzTs"
+  },
+  "line": {
+    "content": "T'es qui ?",
+    "end": 40,
+    "index": 16,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=39s"
+  },
+  "thumbnail": {
+    "hash": "ec88499861",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nB3PW2+aUAAAYF5EOFwOGQL1NplY6SzaUHS46rSFI1pFrbfSQlama2udcVvSJotL48O2pz3tJy/bD/gePmxlu1+7F9urj98nV99Gs+tGzzXRndPzzkLP+vx8udlN72rZHA9IDtCQpLCN629HwQ//9vfN/Hk6u2yMJtX20jkPWot+bfNpuL3WTYUFKQ5CAP6B1TC8b81+eotfXrC0O47RtQ7rH96huXPbKc99tGsfvsnQhEAzHKAgoLGHQbi22n8W66fuZGC0jGy1HE9bSmmk96wDu2/eo5IjkBEOUBQBKAJgp3rzEXXWdj+stcYV9+2ryklCrsvaoIjCU//Lxco37ALHklGCJgEgSCyd0huqXk3nh0f18TGy9itlMaGKcimprQfLXfBwEuNRXCQiURyPAhJgAi9LDKvwMUs1hscIlZopTlT3ijyUlHihEM8WIePl5W4uQ+IEieOYxLICzQgM1FL7r5MHzYIpwNjLRIVjREhLPJNIAqDz8KmquapSzmkY/b8CAc0CCo9ElD1Fgi8IgmEpHtKSwGWQ8T7Picua+TgN+mfjv4TrVX8Pg3FOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/73_brefJaiFaitUneSoireeDeguiseePartie3/16.png",
+    "width": 1920
+  }
+}

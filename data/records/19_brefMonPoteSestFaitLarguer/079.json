@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Je pense qu'elle est à l'autre côté.",
+    "end": 81,
+    "index": 38,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=79s"
+  },
+  "thumbnail": {
+    "hash": "f03d725ab4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nDXQ30/aUBwF8Eu538ullLYWyqCXtkJqq/2B0AIRqywQzGaNEmrUJRsvi9GZxWyJv/a4LFuy+ebD9rr9qcsIez+f5JyDAAPFsJIDJhJDhmaJMBEkyFIuk0GoUZHXGwaHOAKAMQaMEY+hnCd1iWgSWWNK5Bjp3ii0G7paamrPHu8/BLaNEKLkH8AYkCESXYaaREyt1FlfHfaC8VY7dNgk7l8cJ7+/f66VigRnKVnkMUYTR3VVuuOqh6NoN3Lj9lpvw4jb1vPIu37ZP9xuV2RaVQoFCtnsArzestOW/ia2z5PtccfqOezFoDWfJdNh93ISjfu+Y1QspsgCXYLTjjnvNt8OnLuDwavYXVX5Db08DL1kp/fj4e7L7U3omKxcVKTCstK+U0m92jw0P46Dd0PPr4lFwik89pr1P0+/Pl29r0p0ReQFni5B4mpHvna2yc4H1vWuO/VYVcgphVzLMn9+/ZZORhLNCHnC/1+NZh1zuqkf+WwW6KctI/Xr3bqs8BBY5tXZSdBgAuHyBHKLWwHDX5UfPbkr77T+AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/38.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Et celui qui dit: Ça passera pas. Celui qui mesure tout.",
+    "end": 57,
+    "index": 24,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=54s"
+  },
+  "thumbnail": {
+    "hash": "879dec42a3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG5fWop9ecbDwLmysMa/vsnEwsC4trOppqqem6CTkJuMiZGDf4d5dHtsaGxgW11STgCDdG6jlZDW0tHIwb/a1dOljofOxsS3oZufjoqgiYOKdG+kmJSZi4aRg36Fd3JxZmEAlYV9saKd4d/e2tXT0c/Ra11hg31/cWRfSj89Qzc6LSQqhnp3opOOlIaAi312gXVvAKGPhrWmoN3a2OPf3c3Q1FRMVkc9QEw8MUMqHyEcJhwWH2pUTZKDe45/dox9dYN1cAClkom1pJ3Y09De2tfj5edDQUhdVFRNQUA2JSQ5KzEgGyRzYFiNfnWPgHiRgnqEdW4AoY6DsqCX08vH3tjU39/fZGlshIKCVVBaSERLST4+GxohdWVdjnx1jHt0kYB4j4B5AJF/d5mFfr+wrNTIw9nU0KOkoLOyr4qJjnRxdltRTigjJ2hXUIJtZoFtZ39tZYN1bwBjSDx0Ry6pdk/IlWK7lm+MeWaSfWxrWFFkUElcRj0wJSVNMCNiPStdPCxZNyZeQTIAcUUlkl80pnRFuYdRr4pioJWRq6CdqJuRvK+ftaaXopSGhnRpemVZblxSW0EzTS8g+VLWlqDd7wUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/24.png",
+    "width": 1920
+  }
+}

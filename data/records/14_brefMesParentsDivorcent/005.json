@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Zappa.",
+    "end": 6,
+    "index": 3,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=5s"
+  },
+  "thumbnail": {
+    "hash": "9e0f644dbe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABb0lEQVR4nAXByW7TQAAAUEvEM57dns2ZxbFnnDixa5omKhRFgCohDogfaE+oSJyR+P8D7xWU1EYlJXvn1i7MrQ5Gp+CXQ7qOcdJyO+WLMwGCEpQAAlBolYI7hjal3cO6fB+GD3n/5TR/u5x/rLu4b7eP69d5XDklHCO4eVd08dK5aStEJ9vz3c+nj78+P709396eP70uXc42zfm25MXLpkHg75+XwtZ+p5xrWiOkVTbr/r1J93Y8qsGoe62uSl1nO51qkUz97/dLQSDSTERlphDz1ve1dxUbaS2xrVAvm0PvT4tPD0M874/XrivgpgIlaDm/i31QXiK5o80krcYCAg6A4iRInY/jOrvhIEzBIZEVc5T1xlvedszMMmTRDsLtRGSQQsgwj1r4zHSLRMEA5gBLhC2XTshBNlEoAuuypKzyDZEEsQo1moqhURigAmxKuCkxgDXGyTSjlQcrNaUIIFIRUmGKGMcsSPE4xts8/gc7disTD7SiCgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/03.png",
+    "width": 1920
+  }
+}

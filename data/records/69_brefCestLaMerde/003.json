@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Quand t'es amoureux, tous les matins, il y a une chorégraphie qui se met en place.",
+    "end": 6,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=3s"
+  },
+  "thumbnail": {
+    "hash": "b5d5a77343",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nBXCWXOaQAAA4G0jLgu7hni0JhEJgkca5JDEFUHFRQ6JRCcejXWmfepz3/r7O/3mA3wJ4jLCHM994h4Vdb9avTN2StJduPAsS71rEUQgx6OyIEABQQT6ygMdmiGdTC3H7WgZpcVsdkpiuzfACFNda15XUVkUyhiWEM8J4LxO567LJt7fXz//7La23M4878CYoelVXNmMLEtRKqii1huG3Br3dXCK46eODgDYTCbfs3WDSEXgH+N4HzG72zNb956uBoPB1p++9Lr67S2wtO4pYo+K4htGRqmpapd8fYjYOc+LIIgpTenkkG8vhx9yUy59hoAg4mid2B0x2wkt68jY7/3+1Q82i0VoGrnvf+yOyWLVuVe/XtclQQLlK2hrWhFMU8/bhst9tDqy6G02Z5Qu7KE/6LtDp0aq6IqviTcNUgPNat14UNd0/DaffWTpZVMsHScbvyTT6dJ1zLbMc0iEIuaxCP8HX25qFUQaWFqNnHMSv7Nl9PwcOs43VX9qy3dSFUNCEBGgKPIY8+QfsqNJkM9vFUEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/01.png",
+    "width": 1920
+  }
+}

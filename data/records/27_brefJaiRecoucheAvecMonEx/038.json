@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Voilà. Elle a dit: Voilà, voilà.",
+    "end": 43,
+    "index": 19,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=38s"
+  },
+  "thumbnail": {
+    "hash": "ba17f177d7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEUmHFcxIWs8MYpaTq2elcK8tcG5ssO9t62moqFzY8KJdJ9kT2NQSbCrpaafmJyVkABSLSJQKRd8STmeZ1mZfnNUUE11cG20satfVlKGV0mveGWNW0pBLSdEQT9FQDxDPjwAYTYrVi0dcT8uhVFGg2RaKh8bTUM/Vk5KY0tFl2FSmmJRiVpKXTw1HRgXEA0MDQwKAG9BNntGOHM/LnhJPIZsZD8wKUM5NTIsLHddVKNvYINPQ5BdTTgnJCYhIRwXFRYTEQB8TEKGUUR5RzeDUkSGbmU3KiMvJycjHCBQODSoemiKYlYxHRcgFxoqICMiGhsVEhAAXjMqc0M1cEAwfk0/g2xkNCgmLCImKR8iIxgaRiwiq4JwRDIvIhkcIxodJRsfGxYWAGJLSXtWT2M6LYBgVot/eTUqLDQoLSYdHxMPE002L6WBdFNKTRkREx8YGiIZHBcSEwByZ2yEdnqHdHeXiIqdk5Z5bnM+MjkZERVLNjKheWl+amk9OD0PCQsfFxkgFxslICAAa2BneW11iX2FlIiPn5Obm4+YcGRsLSIof19Xg2NZZFtdamNoEAkNHhcZHxcZKyUmh/qG1jGaOq8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/19.png",
+    "width": 1920
+  }
+}

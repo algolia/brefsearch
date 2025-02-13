@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Ça m'a touché. Il a dit: Qui va payer le loyer ?",
+    "end": 41,
+    "index": 18,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=38s"
+  },
+  "thumbnail": {
+    "hash": "2f93df6802",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHZueHpzfVBHSVNHR1pQUk1ERUhAPkU7OF1LS2tMS3BJSGNBPV49O0QrKh8UER0UEQCJf4qRhpNpYGdTRkVQREM1LSpDNDZkUFZTPT8zIyFiQT54T053TE1rQEJJKy1KMzIAkYaRnJGck4uZT0VGQDQyJh8bUUNLc1ZbXzw7TjY2Xj88Wjs3a0RCaz4+KBgXQy8uAJqPm6GWoZySnWxjaTIoJSQeGks+QGpKSXFNTINeYmtEQzgnKEoxL0ouLBAKCF9DQQCflJ6il6GdkZyck6FTTlUwJCVlT1JqTktzU1F1SkxrREJtSEpUMjMkFBFDLy52WVcAraWswrvBoJahk4qVjoiXUkFHZEpHbkpLWjM4YT89cklIbEJDTSwrSisme1hWYEpIANHP0MzHy2dfZ19ZY46GkmtgZ19FP3hST142OWNBPmFBPTkkIi0dG1Y5N3lYVl5JRQC8ubypnqeVi5RWUVhVUVpnYWpVSElSODRZPThUPj0xJyUaFxQ0LSxOPDtnTk1yWFUAnZmfn5ifqJ+njYWNYV1lhX+JaGJqVk5VfHB5e3N8RkBDPDU4S0JGQTc3Sjk4W0VCXOaV6Emr8NUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/18.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "On était tous Oui.",
+    "end": 61,
+    "index": 23,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=59s"
+  },
+  "thumbnail": {
+    "hash": "075e56eb49",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBTU/aYAAA4P6FXXY0JmBcQW0LwVJQCm3HoB98VUpbWngLtE2pztYNpmmZzs2FgJp42ESzLC4uHlh2XeK/2/NA2FaEZpAis6XXM1qv0dB5GXCdIQdstt4Uaq1Cs5urtXbYUoopoEwxCb0h4IaMm375ONTD2enXy8VB0LMC1vQaZ5Y5ADVjxAGvrDtF1SzIIA/xfFJqZ+0T3j0qfxoNfbEKrD3nXNqfSHdjZ+Kr1qloBYIxFlRPaDolSKpmNeO1GyjvT/rfpmchkPWhrrgdsVVv86xUqWh9zZvozrEmD9WWLUOhb15dT6bXM1pQugOXrzVTZInYLWAoxuEZJk/h6czi7ub5+e9y+bC4v4FG50E4/9IeuLEEuZnKx5MknMi9QohIdK2yGt1FMYou3P/4/vTn96+nn4+PCwirVUm1naaFdSS7CifWESK6icMoThAZ4sVLBk8X2XLVMDnD9IPx7e0UomWZ6wIsQ6Gp3HaO29imYCy7shYzmuKF2bWlBlcR3tmWqmrgrXs5/wwNBnrbMKJIltyh+groKCAST8XiG6ZIfbR7D/PZcl/5d3F4pbEfOntHnvMf4E6XIn2T0UgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/23.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Une une autre chaise et un beau black écrasé par un bouchon de champagne géant.",
+    "end": 32,
+    "index": 12,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=29s"
+  },
+  "thumbnail": {
+    "hash": "01fa26bcde",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB2W/ScAAA4IYh0F8P+mvpQWG0Cy091pZFrMLSAs3GOHqIG9sy1jReESY+OOOLJPNRkxlNXOKbz/6dfh/ClnYmTXhh1Rym2MLzlwF85lR4nOIIyqjzHkO+Iak1IKMCKqAE+gggqy62fspEmtirg3ETndqsXhNUgZNZ8WO2chuV2FJjvXlU4+giiuYx5GtY3vh8sMeO1dLzA6lr2q7a8k3t0LCzyWliUEtLzsLZWUeRQBHNA+R+wdxF9Duv/L5f8Uxr4DgdRdvf003J8k3lZX936eqH/iiwlTaNsxiF/Lio/Em5f6vqJoA3fWpuk9dP4KnDJG0hduBdKNg1wtaUdPDYgEQDMsj9OfuQVv++Fj+dML9T8faYjgyQGOjcBl4TWw8oFst1laoj84VczqzyyJcJ/L7gHlLhZkj/vBK/nXOxhY81rCeDoULEbWgLpcQADNhpSfK+VEc+j6jtFP664t76cNmlZw7hq/ixTjhC6UgjJyYZmXjmkt5u4fZFMHIPkFc94sOgvJ3R25DeDKmsRy46xNTGPQWEFjnW8cTErtv40sHmWrHfAP8B5E5RT935GuEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/12.png",
+    "width": 1920
+  }
+}

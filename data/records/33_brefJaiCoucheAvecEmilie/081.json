@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Toi aussi, tu aimes bien ? Quoi ?",
+    "end": 83,
+    "index": 35,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=81s"
+  },
+  "thumbnail": {
+    "hash": "075bc7b31f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBzU/TUAAA8N41IWqcdu3e62tLv97Wri1DCSz7amu79cHa0g2YEacIiUp2gDgUEwmJA9G4IBeJJibGGEiMBzl49s4f5e9HladNDOAsmPSEfANIDie5nOJxqgfUJjION6Kfh73T3eR4i+yvN7aWZymeyXqiGiLc4jQfai5QKlmxkhHqNCpfz1ZvoU+D+GLcPxv1Tl9FB089KnN1wgd4AeGQ1zyoBpzmA7ku4po5M1hZfRETwsOjwfzfk7WzUe/LbkLpt5lEtGPBjpEd80ZAKy6tzEm45Tivd/ZePlnt2Ng18PnbB3/G/R/7S1Qtpy6iUhtYbWQRpjDsPEx9f0nXN0tmXDI9QZljBfMKHEb+v2+bv9/3qSZnpMJUKthd0UpA8fObD6Phzvda+TIMjohbpaWAlT1WCnnr18Hji/Ea1czlE2B2ObMLi4ugmAK9I08fP9+4/HrycXvbZ+UWVENerdyQntXd83f3KYeR26yeQDOG+jxbaANzIYsf3XXWGyRChRBgAvMEagSqM9eUvT6h7twUqxl8j8YBkw9ZgwA9FQopUBJmMuGUBOEIqi1GCnPy1ATX1K3/FqZzqtmyajMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/35.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Énergie 3000, la boisson des frais de bonhomme.",
+    "end": 36,
+    "index": 14,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=34s"
+  },
+  "thumbnail": {
+    "hash": "ff34281a9f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaklEQVR4nD2OTUsbYRSF73u/3vnKKIlNkdpaiImdmGACSSTTqJWa4sJC3bgRE9B2KvQjxI2LLsxG3NgWxN/Q/oEuu/Z3ySSDcLhwOee554JrQyIhEgRZeFZabsZLG8MX3c/N6s5q/DV6M6o3+5WVCpNHKIQCDruMwqQIFJTL3b3+8WC8Nvl3cXh8cvt/+Pv+bfyuGlUBHCabAooqqSyDylyhvVb71Ot+H43uzs7+3lz9/JJsvWoVCyVCy5gBVlCVrDF2wQtHm52tUnT94f2f8bfb4dHkYH/Qeb3b3rHkZYCgKKoli0YKXjjejvvlKIl7v05PJ0lymXwctDoX5z/ywRNBh1AhQM6h5kgDI3l1i9Z76ucri6XGy6hXb8W11vri83YjDuy8J6GSBd+wh+xiOh1DCshGDboCrAACxgIygIvkTmMQoPgosyXDSD32Q3ZC0hzZtJz0MZACAcqsZCY1LNMnc1Nr6mYXHeQHdE8xH8yNyPEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/14.png",
+    "width": 1920
+  }
+}

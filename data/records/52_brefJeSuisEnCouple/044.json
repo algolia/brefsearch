@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Au fait, on Je vais pas chez mes parents ce week-end.",
+    "end": 46,
+    "index": 21,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=44s"
+  },
+  "thumbnail": {
+    "hash": "34939eeffd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBS2/ScAAA8M6tY+uDln9flNquhUK7FiqFlq7YFhDGeGywSlS2D2DkZPZBXGLmaXF60csSH2FRb25qFg9edYlOv4u/H6QXS37UHI5G451+rWIhyAoABM9zw82m71b6w95g0D04ePz06Nnp6Zturwfpul5z/LBeH3SCcMMhCZTjaCUr73UCU+QbfnXv3vjJ4eH7+dnXb5eD7W0omzdyklKV05NOFPouSeIiRymK9KAdTCNnstWajNovXxx/Pv/y6+fVOL4LFUzLLln7deth3I8CjyTQNZ4y1bV6zVVEieZEtVA4OTk+v7i4vv472o0hv9GqlCuxZ0al9appCgyQBGZjXeV4CUulSTqzjNH3p/ufPsx///k3imPIa9zR1IKjiOgKBtCUzLJpljQy6ZqaIxgeJ9klBOQk4ePb15fff3R7fahoGDRg0GWEwElZEDmSXkWTO54xjUKAgQROoQQLAPXq+dG7+VnQaEFa8RbD8EsLMAfYsqETCLYArzocOmtmVB5ZRKhkisMJarMdPZrNvNshZNhuWpASN2A7q7haNoXjMJxgaWS3I7vaTRwHScDk8mpe1yzbLrvef3iSYUAsLXVdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/21.png",
+    "width": 1920
+  }
+}

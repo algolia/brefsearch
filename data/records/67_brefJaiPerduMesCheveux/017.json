@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Rien.",
+    "end": 18,
+    "index": 6,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=17s"
+  },
+  "thumbnail": {
+    "hash": "44ff5bf556",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nBXQXW/SUACA4V5YKNDTnu9zekpnM0qpFQdB/MBhR8sgm2wYl7nKR7KFZC7qxQzqLow36p1XXnHnfzX8gDdP8mqWiQHARsEEZciJkMyhWCSt5u/VcvPl27/vP87TkQ0QtgkEyCxZmqGbpSIoF4FlIiVdJVxXupNeZzno//14s1mvP+fvCGQMcwKJVUFa8Z5pFKyKAQWWVcfjVHUb4eWon0XB3dnJIk1Pey98x+NEUMSxzTRDB0UdNHfC51FLcsWIfBpHdxevvp6mP5f5Zn37a3XVCWOCOMMS23wrCJu9DB82vJpkSjKn7u9+enM477WvBsmfD+/z4VAyR1CHYUEg1wq66UGe1BqB8pRQjHntoDZPnx234pvxaDEecyIZEYIqhuU2KOmmD3AW7QX1Jzw4wMHRXhDP+p2Tbns+zLoPHoEylMxl2KFIIItqsAx9i+yHzWp0ROKcNWdBYz8fDi4Pk+vpNEsmkNY4cQikyKLbS1UsdrkbOjtYPUbhlMQXqp7N366uz85vZ4vXkyW6f4D8AYSuVYGVkv0f52FGDlPlBEcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/06.png",
+    "width": 1920
+  }
+}

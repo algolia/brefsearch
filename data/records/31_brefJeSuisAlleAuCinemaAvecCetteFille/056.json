@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Elle a posé sa main sur mon coude. J'ai ri à un truc pas marrant.",
+    "end": 58,
+    "index": 24,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=56s"
+  },
+  "thumbnail": {
+    "hash": "9d678049e9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLUlEQVR4nE2P24rbQAxAHY0kz0hztcdOajtZdnEM2033YSn9mf7/fxQ7LRQO6EXnIDUK9CQY7liK3mL83g8/c/nI4fr4+H1ffr2ef3zz50FqYds4QDGkhjxQQTv4JfhN/X0cvm512q7v67Rd46UzGI5uYwHdIaihYKizOeiqeq/9+1Kv6/S2za+LhoLsDauhpjXYAjogtwvctTGFNeWHD2/e1RqHOV9miRlZDYuhhgEZdqcFVMBRuhJWZ28hbiKLt5rIjuSiYQdkARs8EcGT/ZmepPgXH+6pPGLapr5OoVQSObq8C0B4+osFqqydziFtuf8UOV9ynjR22DIgAhmgxhxj50TtiSpL4iyyOHtuWccYZ9GMTP/W/hOOqzqymRNzcZwjS2plbF009MwboD80eBUUx42hcgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/24.png",
+    "width": 1920
+  }
+}

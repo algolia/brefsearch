@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Je crois que j'ai un cancer.",
+    "end": 15,
+    "index": 3,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=13s"
+  },
+  "thumbnail": {
+    "hash": "ca8b407120",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGMIcXOK8naLD/BMDvZOC/XNigwMdLb1MtPP9XNO9nNNCvKM93czNzDQ0tDTVNNRV9FiSA72zYoKKUyKLk+Nr8lKqsxI1FOST3Q0X16eOb0wOT8mOC3Ux0RPX1fLUEdTX0NNhyEpOKQkNaY2O6m9NLe9LK+9KDvV0aY22r84wLMxNrAqIz4vNlRfS1dX21BDRVNZXoXBxSasND2rKrcw3N3T2dQm0MEhw8V6Wm5Sd3xYZUxQbUFGZnSopqqmno5RcGSGi2sQg5G6nrd7fGhAqRi7uBCbpCiHsIO6fJqHQ5qjTX54UHtFQVygj5KckpG+SW3L7JLaKQzFORnZRR3mtgli7KLywirS/HKyfAKKQgJ6MnJWWmYdFQVBHi5yMgq6GjqhAXFxKaUMV67cfPPuc1tFjbKgvKyQiqKIugiXODcLNycTn5yAUl5crLejnZyMgpqyuoKcIsgPBw8cvXzl1rap3dVh3opi6moS2soSWuJ8svxsQtK8MhHO7lZGhnIyiiqKqopyStISMgxbt+zcv/9IV35qlKWBgoiKooiqtKCCjKCSjqJKjJ1Ze3ygjqqqjLS8opyivIyCtIQMANbRegRwWgMQAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/03.png",
+    "width": 1920
+  }
+}

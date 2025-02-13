@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Mes chaussettes en train de sécher ont dit si, ma brosse à dents et mon fil dentaire\nont dit si, et mon ordinateur vidé de ses 240 films pornos a",
+    "end": 27,
+    "index": 9,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=23s"
+  },
+  "thumbnail": {
+    "hash": "974b652b2d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXBWW+aAAAAYB66yiybqIzUa1GswIooyA1yCh6IWnStdVZJOzcjcW3j0qbZ05Y+LNmv3vcBeA6toZkOWdjY7K5nbrvO1jMNsooXivHV53+Pu9d9/Hu/j2cX07ZMlQoAnUdIFL7TG69f/NjvffX6K8uaCMwunP49PP3Zbl62j7/in4f57DDWI4sFMATOpU66FHbvaWvTWFr2oCUEgri2rF04fbi+2cxuo/E8HjoPQ/XWZgEEOnkPJlLJJF3IhTzLVAm3yUWmMWBaDl0fK+5ENO6M5v1QjzzbrRNA+m0ycXScBkHiAyKfVX1e8HlVIc7lKtkmSbPOfRuNnub9yJEvzI5IEACUSELHoFJEHKJYP83w5bxaK/NYWcNrEsUZLfUlWjwvgoUuuoLm0DgAHr1BIZA6hal8FkPgfuMs7qmhyMzk1tLuXFnG8zL8MbHmuuZx/KXSBJQiapbylSyceQehqdRSl7/3B4GohZK46ZjXkrS22yuTG0tCwOAjkQMmGH5Tza2Ij26lUkpnLZq51Lsu13YZ0edU+5x3GlzAMwPm01ThJYr9D+Y8Y3vZ6yvOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/09.png",
+    "width": 1920
+  }
+}

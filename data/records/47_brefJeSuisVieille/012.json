@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Ensuite, je prends un bain pendant 10 minutes et puis\nje sors du bain pendant deux heures.",
+    "end": 17,
+    "index": 3,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=12s"
+  },
+  "thumbnail": {
+    "hash": "f6f437a4a3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbUlEQVR4nBXHy27UMBQA0CxIbF/b1884DzuPmUmaqZqqalMxGlrYFakgHguEQOqiK/j/P0Cc3ckos5RZxkuQjW83W13rsHLsGA9CJeVmqQcuGwqeUp3nPCsIEqr/H3yz+1DGzTc3zh6AGUI15wFVkroDWedvIM8hKwpJiCKF4CL0x+cybm3cSn+BoqTMUGYkRjS9UDHPeVFgVuQCmAYqjZ+Gq6+2WlO69+4ghBPcMWZQJTSDVIkQQ6jLKEEODqgOcRvX7769G8d3TXUlhQewjFmJLZpeYiIQClZmwByKGkXbXzzNdy/d/FzVtyluKCpgWqpBuyPavVAdgUCgylC2zuy8nZbt5fLtnyo9pvlzt3wJ8RTSuUznZv9R2aPUe8IC4U1m/VK6JabTcv863fzerT/n7bWbnqruIXSPZTyF/j2aWegdgaqAOmuGc1nfDsun3fpjvPx2/fB33X5Zc+BQSRGtndFMAkeQHWEhp/4fzTUpsIIASekAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/03.png",
+    "width": 1920
+  }
+}

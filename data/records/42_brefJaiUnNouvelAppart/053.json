@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Sans culture, recette.",
+    "end": 57,
+    "index": 19,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=53s"
+  },
+  "thumbnail": {
+    "hash": "f699d58c2b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nCXC227SYAAA4EYFqz2XFlpKC5Rz/1IGK1vLClNkjMEmRIuL4oowsEGSwZJtIWSHG3VDo0aTvYOP6YVfPuh5IXe4W5u9f7Mc9RfHzuSt3S6bQ/v118XyfvXj1+e7b4uLmdM3ook0yQCSgQxN6x3sX7iTk+H43J1cz0/3Suao2/1+dfX7y+3NfLYa2JVMQg5HQVKJCRFIAzlN0ayNsizKelrdK22tx2OWCp7lCyCSbOiFgbUeJgmWDvAsRyEoZBaNcEjkKAJ97MFhb4xl1VBQIki7ql6OrdW8eWIXew2lUYojHq8fQ6FISBI4Xgr4KQRBYZjGCJkXNzLRPze92/P233vn5/XLs+Otu2kJSIwfwyAMxVja56doBicw+CmF4kJAWFOAltEYOlgpgvaO7jTVaSunxwUWQSEGJ2iMYAiKQjD4kVcKhkReIHEfQzJ5RculsiAGmuZav6pvJyIHnA8SKUqi6RTPmUpiU0ma2UwxJRtqupLXDusvTp2jsw9Hy4/Dy1HXbRj1cBBCvJ4nDx6Ws8mpXXc71f8/2btuZ2fQ2h53aqP9yrBVflczX1n51mb2H12xX2OZAxABAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/19.png",
+    "width": 1920
+  }
+}

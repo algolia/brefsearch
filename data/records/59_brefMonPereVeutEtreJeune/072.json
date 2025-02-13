@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "J'ai dit: Tu sais que maman t'aime toujours ?",
+    "end": 76,
+    "index": 36,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=72s"
+  },
+  "thumbnail": {
+    "hash": "687451ee0e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdklEQVR4nBXN247SQAAA0KGF0tK5dC6d6VzaTm9UESjbBV1iZLNK1jUx8dFX/8LfN54fOKAvfcGEE7JggmPaW9fZ+tSNQ1m31r+v22nY5VQKQr3SXilgc62ozInQLKeYCYRvly9/vt0PtR/KZnT+x/V2aVscx14VjdKAbDDaYEXYQ9vXUuENeZqeXo9TJeSpaQ9N9+ty+ft6fenrSuo842AZRgAEGuH7fv9yvWvZcEglIihBvbZT23yfT7/PU58rw2WjChAGy2UQ5Sn83PrH6TlnlsOsIDiN4WjLfV1vjWnKQ6HGgjAnJFiAMFgsDEzPvt4NM0NcIGozkkSJYflWG5u7yn/0uumKAsYExKt49MPb+fIwTpWfOeIcZo6SdL1RGTeUO711enTCDqaECQMwgcfd49vXn5/mW1XuORYMEpeRVRgNxs7Du8p9kPT/46VehWuwDKIwiJKYSOGsHRmWOEEo3qzCaO7658PRyDZLqaSFoSJdJ/8A8WYt1KLWq5kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/36.png",
+    "width": 1920
+  }
+}

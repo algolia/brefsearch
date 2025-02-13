@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Croquette était dans un sac plastique.",
+    "end": 36,
+    "index": 15,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=34s"
+  },
+  "thumbnail": {
+    "hash": "de780c544c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nAXBSXPSUAAA4MxoU/PyXtaXkH1fCAHKEqADAQKUQKCttoLQavXmOB4cTx49OOPJP+33ES9P9Q9H+3DUqr16ek7vH72XL+2f3+bn53S38ZdLZzLR+315PJPzubraucTtxqsqc7bAvQx9fGr++/vpcIj/fL7/cVqsCms0UJKY63XFr997745hsdaJ6546zPBwJLQ77LIwf/96OLy/ejvtn+7yTRlPc6dc+8XCKtfB/tYajzXC1mEj5lpNzrLpOGDGQ9MwlWxw00gHSo2f5X65jUYDY1sFq9LZ7FJClUHgo6s+54cobbNhIl+SUFMjjHUAkKLA0BFdg0lSeTJ3212N0DXgeihpsV7EhHXGdHhAsRwrMEiAkKlhFJpYlRCkSdMQwkAiNJU2DahoACtvDAfphkhRDMcKCHIAINvErYbiu7zvYs+UJA4RjTqfdXC3gRNfiCxe5jmKQgiykGZevb68HrYWs64gkVINaCqoiRQxLaSbrbKrrIe9fz7bYSySFzSkGYqCJEnlw6iap1mzlsVqJ5DatvQf7XVEUgNyHEYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/15.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "et MP3 en cours sur mon PC.",
+    "end": 33,
+    "index": 12,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=32s"
+  },
+  "thumbnail": {
+    "hash": "e18f8d9c09",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJWIiLGmpcO5uIN+fFJQTF9dWmBfXGhnY2djYV9aV1lVU1lUU1lUUWhjYZqQkHdvbwCjlpe+tbXGv748OjgAAAAAAABWUU20pqKbkIy2rKdGQ0AAAAAAAAAiIR+to6OvpKQAqZuewbm6uLK0IiAdOTg2YWFinZWW18/P19TW29fYhYB9TUhEPTcvIR4XZ15abGJiAKSXm7y0t6CamwgHAnl3c+ji3NfTztbWzsbKs8zLyGdhX2NbWXlqXyEcE2RcWnhvcwCilJrDu76Cfn8EBACdnpnb2NLMx8fS0c3Fyb/Kx8QtKSUlIBxEQT4pKCVVUE1WTk8ARD4+bWZkPzw5CwsGurmx2tbXwrzMzsjU2dPju7e4T0tGQj05R0E8KyonVU9ILygsAAAAABQSEQ0MCSYmIUtJR1hWU2ZlYXBxbXx8eVxbWhsbGR8eGxUVERYSDispKF9VVgATERAlIR4NDAkQEA0YFxUREQ4ODgwNDQsMDAoSExAdHhwfIB8WFxREPjmjmJSuo58AWFFMHBoWDw8LCwsHDxANFBQSGxsZGxsaGxsaGBcWFxYVDw4MBwcEWUxEm4+KiHpz3+Wep5Y/txIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/12.png",
+    "width": 1920
+  }
+}

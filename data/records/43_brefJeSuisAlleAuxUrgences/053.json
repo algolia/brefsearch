@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Ça faisait 45 minutes, je me suis bien paniqué.",
+    "end": 54,
+    "index": 27,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=53s"
+  },
+  "thumbnail": {
+    "hash": "1f48d7ea44",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE1DTGVlcG92fnh8gYOGi1dQVVNMUX5/hoCFj4qJk7S7y2VjaYBvSnBkRW9uemFVWQByeYiJkZxdV1lLQUKio6aRkZiKjpmcmJ2RhorCw9C4wdWSlqFwWUl5Z1R7fohpaXYAbnmGaHV+QEBDMyssbHN6mZ+qkZild32HSzg7gnuJbnGFdHaCTT5EX09SemZWZmBfAFxtfGtwdjk9PyYrMWFYVoRmQpdxREs/NSoxP4qXrmlyiXFzgCclLR4aHmFELmVYUwCKn6+DiJFDRVBRT1tjWVptTSiGXi09MCNVZHiXq8Zldo9tdYcoJCsPDRMeHCQ6OD4AOEldFB0xU0RGODA5JCs7Y087aFM/Mjc9Z3iNkKK6WmyFYGyBJiYwEA8WIyczN0VaAExYZxEVICcpMiInMR4iLURGSkhJTiQrNmBpeXeDmWFvh19rgT9RaylDYzZNakVcewBQbIkuQFQdIy4iKzogKDUmLjskLDolMD9pdYpcY3dpdo5baoFOZYVGZYpJYH1AVG8AO119Olh1PFt6P2CBN1V1O12AOmGJWmuFdn2RTF95X2d6SVVqR1ZtQVJsQE9nOEdfvZKftlOC18MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/27.png",
+    "width": 1920
+  }
+}

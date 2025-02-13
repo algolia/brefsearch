@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Pendant ce temps, Ben avait fini avec Julien.",
+    "end": 73,
+    "index": 41,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=72s"
+  },
+  "thumbnail": {
+    "hash": "fe509fb284",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXB627SUAAA4BOjODEtZe3plV5YT0sPXVegq5SWMkthwEwjA3EXNm/bwEUXNxOjMYvGxPhDH8BfJhqfwffz+8ANcJNdudMS6QMXPYvd04fJ4SDO2t7lLDxwUf9usUMWl2Htot9Cq7TBQ6Dcznck2NWkzFB+f3z57+eX67O95WT7x6vR2SbOimxC0cugdt6LJo75uGGCAZJ3kTh31t50730+X/z9fv3n29X7F9NfHyZLH++Q8JGuj+sbzyN/WrMqHAf6CkxLTCoL23bVUKsObr49ffL14vDTUZzpaoegF83NDrYqslxmeQ6KILStcGPd4niaYEq8QnNI1Zw0Cq6Op0cPhqM4nm21T/pRYKESw1s6Arbt+M0WwwgsBTVexPoauSrSnLzYzRbD5Okg3d8ZvhunrxN/VsfzqA6oPAlJiqOYUWN9Hnt7od1zDUOSDJ7bqqDIRBonHLf9y/v+rFHdT5qAIii6UKQK0FG1HjYnUbPbwCbPyjR0NS0w9Jqm1svaSeRhXogtHVBEIb9C5m4RuVwBktAzLFVWxomvMLAM2Yog2JIY2LZn4UARq5L0H9LuVsM42+KzAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/41.png",
+    "width": 1920
+  }
+}

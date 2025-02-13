@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Elle m'avait menti. Elle avait énormément d'échantillons.",
+    "end": 16,
+    "index": 8,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=14s"
+  },
+  "thumbnail": {
+    "hash": "e62088a25e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBW2/SYAAA0G8otF1vdG1pKS1tKZTaDgoDLRQG2yAUUo0uOGIUpzNblBAcLiabZosmI4CabJnzNi/x3V/pOeAaCFxfCPAkGSVIV+InjULX1CSGGz8bzd+cn46nJ4OD5/7tvq5W+EiMIECjUq65NTvGCzg+Kmf+ba3NWpVsTOn5m19nv+aHF6f7x3udzpFrP9TkQoQFV2efxi+GOh0WSbKuikfV7OOcuSKnnvS2L6eXZ8fn7UqjLHFf/OrQSnnxGPh+9fdO2ycCCybHfGgWf99dfbdW8nTDq3uf599ORoc8HTFYetoqDZb1B0YCzC7+5A0TCgR0hvrplz5W808N3ZFkU1Innr9bX89K8YYqP7LTr25Zb1dt0KytiwQWRhACgg/czI+289q5GWWFPIYPGOb+Db2VUPyUUYor2/n0pFkEepTDQ0F6EcEguGcl9h3rXjqlYGSXpLpivGJYOUG2l1gBJXMCN3YzQKQoCoEjGIZD0JapDlfSm7rWt7J7mtbRklGKVRi+SHMijC6hqKsqAA+FSBgKIzASDBo0tbOc3Mkkd53syw3n/UahX3IkRrApRlnEMJTgaOE/bmZchQsLxyQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/08.png",
+    "width": 1920
+  }
+}

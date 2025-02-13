@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "On se voit ce soir ?",
+    "end": 68,
+    "index": 34,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=67s"
+  },
+  "thumbnail": {
+    "hash": "7381b1464d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHxxaYuAd46BdpaIfHxwaCggHxsVFh4YGHJmY46Cf4R3cXNRQ2xHNmhCMls7Mk0zKwCHem+YiXyikoSnlYg5Mi8rHyBvTko8JSNGPDqbjYiKfHiIYk+IXESBV0F3Tz1wTDwAloV3rJqLy8K70snCQzs6RjMyaEdCWDcyRjMxgm5pjoF8hnl0g3VwfnFtd2plbWBbAKSSg7+wo93Szene16ORi2NEQGVDPlo7NikYF1Q2NYVzcIZ7eIR6eH1ycW9kY2hdWwCjkIDQwLL17ejw5+K5radDLyxCIyFpTUZyXVVlS0pmTk5tV1V2Z2JsXltjVVJdT0wAoop6mouAbmlpUEtMY0xIQSooLBoZJRwdOC8vOzExOCsrRC8xZUtKZU1KV0dFV0pIAHBcVRYTFgYCBw4NEkw4N00yMBUSFQgGCwQCBwQCBwcFCgwIDEAuMFlCQiAZG0A2NgAcDxILCg8VEhYXFBgtKSssJykaGBwNCg4NCg4MCg0NCQ0KCAwLCQ0OCQ0QBgk/GRgABwQIBwQIDAkNDQoOGhgbHxwgDQoOCQYKCQYKDgcLLxARQhUWRRcXTBgWThcUThURyh2A/gfujecAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/34.png",
+    "width": 1920
+  }
+}

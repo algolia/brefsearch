@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Un jour, mon frère m'a dit: Tu devrais venir avec moi à la salle de muscu.",
+    "end": 25,
+    "index": 9,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=23s"
+  },
+  "thumbnail": {
+    "hash": "804844ceb8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFBIVEM9QkNBRFlYXmpqd3FzgF5ic11hckVCSjY1PGdrfWlzdXF3fmJtbW5yelxkYwBVPSthYV53gWR/iWmQlqxzc4VZW2xiXmtJODYnGhtbWmR9h5V7gY56g5J9go9veIUAdHtSgox/cmlgaVJFm5+0c3WIcmNtiDsvdkU6cFhSUEJCKik1bG17eXiFXl5rT05YAEsrKJdJQJlRTplYWpGPm5Kcr3pfY3sZCWodEh0YHBIQFgoLFHRve5mKjmJYYA0KDQBjTE1/TVR5YWt7cXxnZ3FmaXdKKi13FwhNIB8NEBkNCxIMCxJjYnGRkKFYVWAAAAMAUVJXTkxWUVBYSkRJMSUpMy4vKx8jQR4fKSUuKScvHx0kHhwkW1hlb217WFdjHx4kACwhHyMZFyUcHDwxMSsiHyMbGS0oLisZHzsjJigoMicjKzAtNmVicENASDg2Oz08QwA5KyRBMSpNOzJMOjAvJCERDRMUExk0Dg1AIyYnKTMlICkuLDVeWmc8N0A3NDwyMDYAQjEqUD00RDMqOSkjJR0bLisxIh4kMhUWNhwdIyMsHx4lNSgvQikwPj1Hd3mFQkBIaxt8UWo0CuYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/09.png",
+    "width": 1920
+  }
+}

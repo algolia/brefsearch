@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Et pire, il lui avait laissé la carte.",
+    "end": 79,
+    "index": 35,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=78s"
+  },
+  "thumbnail": {
+    "hash": "210de3fcaf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACYZFCwdFzonH005MlZAOVpCOi4fGxoPDRYMCg4HBjknIWFHPUo0LSIYFQ8MDQ0KDAAxIBg8KB9IMilbQzxgSEBbQzsnFhMbDApSKB42GBIoFxJQOC1KMiklGhYODAsNCgsAOyceRi4lTjYsXUU8Y0pCVD43ORsUXS0fhkMxbzQmRCcdOSQaRCwjIxkVCgkHFhEPAEMsIkkwJ1A4L15GPlpCOltDPFs0K2oxIYlDMmo0JzchGTwmHD8nICQZFgkIBhcREABFLiNMMylLMyhTOjFnT0iVe3qrg4FiOjBhLyJePDg5JR08JBk/Jx8kGRYQDQwcFBMARi8kSjEnW0I7mYGBw6iqzayus5eYVUFAOiYjmHZ3mHZ1TDQqPiceIRcUBAQDCgkHAEMsIjklHZZ7fNSztsOfnsain7KRkKGDhLaVlraNjrOMjWFEQTYfGC8gGyEZFxgNDAAzIRhXQD2VcXKqhIO9mZbGpaLKp6TQrq3Jp6i9lJSqhIVtUE0bDgsaDQtAKiIyFBIAJxwba1JSdVZWiWhotJORwqGexKOgwaGfwaGhvJaWmHNzXENCGAwLHwwLRiccRCQfZOR5qcGL06IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/35.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Il a raccroché. Du coup, j'ai voulu le reprendre.",
+    "end": 85,
+    "index": 48,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=84s"
+  },
+  "thumbnail": {
+    "hash": "5cade0c1a8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXBi1OacAAAYHa3ml4FDkMDfzzziRYQw4gwqdQbmbUJGSp6FjXSU3Kred3sXHe73V7/9L4Pqsq8U5aKoVAlGrGEzHmS8gzZ2s5167XZ2AuuLruNY//s6K6qmoWUziaghiYN66VrhbffZZ+blcAsT62Kq4hDx/qz+DqfeEHPco/1gbZTS7MGCyBzX5k45otvP57tj4zi2Dz4ObxwNXnUaf17mT2Pr+979sJznk4Pb1Thky5Ccl460lSSZnkA2vKWmsvqu0pDFoK+82v+5cnvBa61uG0PdaUvb3ulHUjgUiTJhhEMhqObcQJB8dX1BA3YB6/3YxY8XDlB9+Ps1h2V1TtVel9IQ9wGjmD4SiRGxolDQdjAKQRLAMB99tzFvR+4zVHr9O98+v2m80HkmTgBYTEijMSg16sHhcLv1old2gujOMNmgkHn23AwcRruSdVrO855U2ZZgQQQHMH0fHYvz6c2s0YuoySTccABOuU7zWm/pUm7FLWFohwD0qaYt6UstLS8pnLMY91gcPLVMrwUQt6svKWZtFuvaVJxDabWoxyKMggCOIIWGfo/RT5n17pEgsAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/48.png",
+    "width": 1920
+  }
+}

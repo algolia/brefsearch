@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Dehors, il y avait un chemin avec de l'herbe en M. Il y avait aussi un dragon.",
+    "end": 50,
+    "index": 23,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=48s"
+  },
+  "thumbnail": {
+    "hash": "f63be3b14c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nBXO627SUAAA4L6zJv70j4uRZFMXzYIy4gQ2NtkGtN3a0ystnNPS+9oeCvWUS8ulDiO+gfF7go9qnh11vp1wndoIXPuQTTwpi1GGDRIjEo0STw0gPWTOhHbl89sXx0cvqbvvpzLd9BGXYXOdhYupF7vD9WKyy2fLNChImBMX2z0TnN9ffvj0/jWlsJeBAZapv83TsiBFliCVx54ZjEegf7vOcDgJHanrmj0JNM/rp5StPyxn/vN2ud+uymL+d7/5if3YhcmTEzrG4VfxFOO5LZRYDF1w1a5THuRzEv/erv6UxeF5s16kSAFkEuQED6VHQ+Zjkq4iV71hgG11bxvUWO3Pp+6uIPtdviKJoQpI5ixdtnRJYu40job2uPA9wIiKayD2glKYFnaUTRYeygV24CwwLYW1VBCgga0BS+4jKMbpdGwpQ607oGvUfeMj07sSVOF/2bMY7lEZaboBJzNsQlUU2MCDUWRr2gPXu/j6pUK1qm/a9WP6R20AOjbiQ0eLvBHGToJt19bFAS+oXJe+abTq1epJ5d2rf1mlTBn544DoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/23.png",
+    "width": 1920
+  }
+}

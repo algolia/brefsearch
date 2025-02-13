@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Tu es qui ?",
+    "end": 18,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=17s"
+  },
+  "thumbnail": {
+    "hash": "c82b8081b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXBW2/SYBgA4Pfr1yOfLR3SQs+0lBZwhZUNBoIzsLEC2wg6E8c8LDAnZHqxGL1Qo8EbL4zx1j/gD/V5wPIbsuIWwodxe9I5vBpe/uyN1t3kZvZqM7v4MO4/fTk9+fju5tvt8vHernp/C0pRjzCs60eD6fvDJ58u7/6dNx94tnex+jNfbBbLL7OjU1eV24G9H3gZwkErWdRaY8v0Ds7upovfJ88357E56PWerf4ub3+t3n6/Hk12cqRipmLPNIwS7CfLg8kbGqFidDwer4uyEuZVW0lXtx91e7P19efXyajrZCMz5aiybQew3Th2rBAA/NqwWe3WVKOQVfMisbKKr3tnyYt2vRUXioooyveEnObC8OpHtDcEgCDsRHalrJqGvJUhgpFRYr88iPycUuYEByGCMafrPvTnX6NGHwBce6dZatZ1qxN6RlaUOF4SiJYmAq9jSsSUQGOW5yXYPZqXwihHM2WrUtGqseGcRkVN4jmW0FjAmGUZmUICAg4BA0BBUI893zVY3sm7tlLQSJqwTCbFE15gMCulJBqLFOIpYBBgBPg/xNVGgBCSZl8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/07.png",
+    "width": 1920
+  }
+}

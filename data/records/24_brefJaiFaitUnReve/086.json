@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Je me suis réveillé dans ma chambre, il y avait l'homme en porte-jarretelles\nqui dansait avec mon père. Je n'étais pas réveillé.",
+    "end": 90,
+    "index": 28,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=86s"
+  },
+  "thumbnail": {
+    "hash": "feaeaf630d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFJjh1dqkV1wmmd9qmd+q2J6pWV6o01TaVBggVhvmlVslk9lkExhij9TejtNczZGaQBxhKl5jbR/lbxhbINsd46Bn81/fJBPLSIzMzx7lL11jLRqgqppgKhdcphdb5FcaYcAZXOOb4CfXWV4GhQQOikjlqTAh4mcbUQ4YEdPWmZ8g5SvhZa0f5CtfI2neIaga3iRAERPZ1lkgDg/Th0QCnVJQX58lExbdCAZHD83TA4NECgsNFlmhE9fgF1qhlpkfWdsggBSW3JXYHeMkqyWfH+noqy+yN9bX2kKCxYaGy4NDRASEhVVW26KkquutMasssN8fIoAYWd8WWB0y9LtwMLrs7rXwcjgZWh1AgIFExMaFhUZCgkMam141NrrytDft7vJbGx4AFBTZWRqf8HI56Ce05WZtqqwx0FFTgAAABobISgnLwAAAE1PVdDW5cTK1ra7x66yvgA6QVZlYXCaip6dm817e5SFipwoKC0PCg43IyclICMZGR2WmqTM0t67wMyxtsKkprQAjpCfb2NodlhekpC6dXKIg4COc2ZrIh8hXjo6HBQUCgsNqKu2tbrGpqm2nZ6skZGfOzK/VbaGcE4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/28.png",
+    "width": 1920
+  }
+}

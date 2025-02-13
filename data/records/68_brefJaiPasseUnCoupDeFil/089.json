@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Rappelle-moi, Je n'arrive pas à te joindre.",
+    "end": 91,
+    "index": 51,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=89s"
+  },
+  "thumbnail": {
+    "hash": "62579a57f2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXB7XPZYAAA8OdOq0R4JHmSEO+hI4iXxts2i0WCjCSUqnKtKdeeW9V1t862L077YX/CPvZv3e8HbjrVVV8e1NJbTfppKi9Xxn3zfTYSvlJLPbmyng1uh7r+QVpd6POBZikVsJ22v087C6U4/1jYmepak+dydVKTnmft7qfK/cQ6XFtdgf+xGP9ez5bDFtjfDf9OzU2jMpEyv4zmtqsdLo1vhnIzMvR6bWW2/1jNRUnYfb04PC2flyPweK69jHvLenXTKO+HnX93s8O4l4rx+ZSgN+qbQVcTc/VkUuDfZQWplC8BpZDZj3ohkqnGoiMxvVHrnbMcItgqiT4LwmlUoJk4y8YZJkEh3uMJgnIy8fZw2yoWKYhMMdM/ywt8Avmir8PBWm3hMEBQkWAw6/cnoTdA03Ewb9ReL/s8FzpxEWIkJqfSAS5C+6Nvu6epqtsdiGPjoZDIMAkc9xFEGDzqiizmgM155IC0l40Fog4cQUg/lAvFMG93khHfKRcUKcRjLsbt5oAl5QmIwBFmO8YxF4m7EeZBBMl+CXKYi7I5vG7IQRhwYvSJgzq2E/8B1zBbUHiaQoYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/51.png",
+    "width": 1920
+  }
+}

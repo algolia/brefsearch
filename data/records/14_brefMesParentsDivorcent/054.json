@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Avant, c'était oignon, sovalin, gel douche, canard.",
+    "end": 56,
+    "index": 26,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=54s"
+  },
+  "thumbnail": {
+    "hash": "b4b43d09cd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nBXN207aYAAA4L7FoJscevx7Giy6xTAOYRqvvFh2wIqWUi0rdSvGLG4JKkpboAjEloNoCnFbWN2UG7MsizdL9mYLD/DlgwCKcIB4wtLzES4WZV8tMpnUQia5wKefZZdi68txYSX5JjG/nHr+IhFLLD6FkDkYCz4ikQBDEnECNsTXzeYXyxg2jPO2NWzW+k7nYpfnI5HN7Np65uUqRIQDAA1RWIgFZJzwm3LuwJxqH8fqnlvRx+3OyLZdNbPx4KEsZHNi9i1EYWEKCzNYeDbgPrOQM1p3nw+/mtbk2LjaLw91c/hJktJL+5KQL4gbEIWGKBxhCYSjQAL3mbJ42vtzVPUarWu9Pikfj8y6a2iKqdcVWVIkcQboGUA5CiRxf00W7Yv7in59UPV6g6nd85zuN10rnlTMD6ry/l1hBliAPwY4R1Mpwt9QpM75fa15q1s3VvvG7npOd2KUdg7LtT2tpBUViAjNsSQepckoy6QBbBW3zy7/6ta0ak1bZ7dO/0d/4Bm7O/lNVVNVZSsPBWEfFgwwBMrRVBrAp6rsTv6541/u1e/L0Z0z+Nnrf6+WitsCv5UTBH7tPz8on5KDUKVuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/26.png",
+    "width": 1920
+  }
+}

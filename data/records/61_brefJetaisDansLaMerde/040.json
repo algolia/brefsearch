@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Pourquoi il m'avait pas appelé directement ?",
+    "end": 41,
+    "index": 17,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=40s"
+  },
+  "thumbnail": {
+    "hash": "ac6cd5130a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nB3KyZLSQAAA0E4v6XTI1mTvJNAJGUAmhGUQzAJkREtLy6LGqfLgyZMX//9u6e0dHiAQqRBqCNmUmCpREcYIAwUEnjDZiFNiUxUDILgbeYlGdfB/Q4YQw1jDWMUEQUSIOi+qTRIPefJpMX1wLVdn1sgxRxxARVEhoghDBZJ/IBAqCJHz/tJN06+r8sd+dS0zb6RPROnyGChQQRABADmlm2CsIQQAMKzxedvcV8Wv7u3P4+Y8m/iGkSYL20kAAApFmKvqkASnNGTM3Ffbz925f1w/59nvy/HPrW1mMuF87OVMd0Fs6FUcHCLvgxQ7KfNE9vX69Xp6jIMhC18PdV8/bRdLGcXclVQzQV9OP76ZtVPRyLSS+TJNZOAPu/WtvVVF3T8N9e7LabNfFYVuhFTVwDLLdmlURe4sjAR35kn0IIRw7PbQH9+9dN33tnl53wzbeUmZRwkDvmn7OrMo5XYoHC59d+J5kWWFzvjaf7ue75f+PjS3eSo0zSGY/gXyUC7jYtK3FgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/17.png",
+    "width": 1920
+  }
+}

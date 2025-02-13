@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Je relance de sept et je recule.",
+    "end": 28,
+    "index": 10,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=26s"
+  },
+  "thumbnail": {
+    "hash": "958ef50f62",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBTW/SYAAA4B40mdmBfvLSlpaWlK4vH/2glCKUAqXFIrDBSorbkJglakdQNmMixpOLJw8ePJjM6MWDF+PBePfozf/k8yBlgdY5cN3Xvi+DH6vgemBKWVSR0SFHnEpgalZKPA9B2j2QQ6102NARVWR0hriZ2X+30b8X848T287zBs+2aGyYo87q+tvVw7jbVQClceygAhG/KAYSnTTg52PnS+TuXN0v8G2BkXEU4mggZDcDdxfPtocjR5YEAkeOjMKmqbzq6e/D+rYBk5py1dSrGaxC4iqFtwQ2qmmxpfuKtPHaF7020lBgpIo/l92bWfvb3P39ePpnu3ygFiCOltNEK58Ly7DGMWUK82E+6ToIjeU1FiS2POQzl/Xih3Hn10WcOFUDTamA7EOpyoISIA0mbWaowUEBEYHMY7gnMU8NuZej3Wz66+k4sq2RpU6LBU9gW2I2NkrnlrEOO4+O+0hqn1SZtMUBkwMCjkkk8Sm+t/YcpcI/m/df++4b393d954vwvVqdLmYIPt7aCaFd0SmyQMmhd2+defcqb6bBwMXHo3Nk7E7a9WenIRXi/HLyXDVvPsfwCJi6DNUvy4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/10.png",
+    "width": 1920
+  }
+}

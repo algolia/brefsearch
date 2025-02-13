@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Je me sentais comme chez moi sur scène.",
+    "end": 56,
+    "index": 19,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=54s"
+  },
+  "thumbnail": {
+    "hash": "dead6667a5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF09GnJNIWxJICkYD1EsHVYxI4FMOKVlSqBmUaZxYF9BNnJOIn1fTFpHRU88NUQzLQByTiOQZCtxSiVIKBxrPShfOy6ASjaZW0VtRTd+V0tXPTGNYSmVc153YmBoUktWQz0AiF4rpHYzhlYxYzconFk9n11Do19Fq29ag1ZGkWVXbUw4q3cxoX1oh3J0dl9bXkpGAJRpL7GAOIFVL2s7KKphRKBcQo5UPsCAac+JbrR+a45eR7+FN6aEbY96fYJraWBNSgCrezbCjj5yUCZsPSl7RzBmNyloOTCPWErKhm2mc2SwfEHGjTisiXOLd3teS0o6KygAZkghUjscLRsRUzIhg043g0Q1j0xFg1BFlmRUnW5OyJM9xY05tJF6a1lfLB4eLyMiAAcDBAsGCDsjGSUWD1IyI4BNOptkVpVkV3hUQbyKPs6ZP8iRPayKc0o7QUg4OUY4OwAQCgcXDwtTMSMyHRUUDAgtHRRDLiU/LygzJRqufzfVoELKlUGTdF4zJShLPD1DNzsADAcGEQsIYTkpZTwsNCEYJBgSJRsWJhwYEw0NQC4fonc1v408lnZhVjo6QjQ2PjM3xgiOhoPhLy8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/19.png",
+    "width": 1920
+  }
+}

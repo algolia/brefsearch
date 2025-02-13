@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "J'ai donc décidé d'agir comme un homme et de partir avant qu'elle se réveille.",
+    "end": 20,
+    "index": 6,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=17s"
+  },
+  "thumbnail": {
+    "hash": "edf605265e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nBXOa2+aUAAAUCqFllWFW1BZFRULiMqVwgTxBYL4qI+KGofr0nWxaaPLsqWxX7akWZbs2/70svMLDpJAsSSGU0eRTJKDsFGW9bKsKbJekqqyBGFZhyXtCpqaammqpVQM5AI7fYufMhE0z3JFESbO6RQF7KpxY4/EfLEiqzWtYRlOs95rGG5NayEcTnA4kUQxLsHy2QJNAiYa92vt2+uwIiiFvFR/126Ybqc1dO2JqXeQDE5wGMGeEEJO5LN8kgIcAEOje7h/HndGcqHUtnqeM+vaM9eZNS0fqZ6RmWOcY9iiqPBcjj2n0xQV9pY/96+T9siAZs8NZjfbYLmbTD65zhwxo8CJ09VE5pKXcxfpFAAk8abfGtwtH6p5QeXFsResg+16tV9vngejj/9L8IwUcCIVpTIMy5KAicU9q/e42evZvFdr7+5fvu1+be8Oi9ln3w8R+hiLHUVScWDXukH/vcKXLtl0OL5deIEhX8391cvXPz8Of788vX5YPbl1DyEjaAzFpJzYt6djL1CLWpkvS2kBCkod1ueD8Pv+97Q79ZuD6XBz7S3+Ac9JU6w3rQ1hAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/06.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Grâce à ses yeux embués d'amour, il peut traduire les textos les plus banals.",
+    "end": 21,
+    "index": 10,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=18s"
+  },
+  "thumbnail": {
+    "hash": "0f31aaa9be",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAoMFAgKEQgKEREVHCopLCcmKAkLEAkMEhEVGyMrMyozPBggKQgKEQgJEAgMFAkNFAAJCxIICA4LDRQoLDJqUEpaQDYbGhoKDRIUGiAnLzY5REsnMDkJDBIIChEKDhcLDxYACQsTAwQKDxkeQ0tOdV9XelpJMiwqGh4hFRoeJy8zVF1hO0VKDhMZCw4VCAgPCAwTAA4UH1EyNWE/QHE6Om41L35aSjU6OC04NysxMyYuL05UVlJXWRccHwoOFAkLEgoNFAAjGyakS0l8LCxqGRt9JyhwRkZqQ0BjS0c8SEhWXF9ucnR9f4E2OjwQEhcKCxEOExsAKjBBXEJPPjI7Ozc+RkBEXGJrjoSMz7CxrKWnu73Itba+nZ2icnR1WV1jKjE4ERokACIpLi43NxIZGxofIyEkJkdISJmfpsrGzte9wN7W4Ma2u7eusre4wqKhrD1BRgwSGAAyLywiHRgLBwQVEQ4VEQ8uLSpmZ2p1dX2ZlZ+QiZGhgIK3k5Gsqa1+foIqLC4MDxMARkM/EhANEhANGRYSFBIPIyQjLy8xMDE3RExTMDQ4KCQmSDQwdV1YSEhGGhodDhAVeUZqeFbRTg4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/10.png",
+    "width": 1920
+  }
+}

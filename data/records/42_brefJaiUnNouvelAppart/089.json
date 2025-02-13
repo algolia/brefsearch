@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Bah, moi aussi. Le charme du quartier.",
+    "end": 94,
+    "index": 29,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=89s"
+  },
+  "thumbnail": {
+    "hash": "755d5114aa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBT0/acBgA4DfGw846MzExYjOqIKBgS9tfO1aKFAu0gGO0dCAFSlcKKEKikIkDSdwfsmxGtuy260562Bfc84Dgc2MARdI7qqav9GS/wNePCOuYvtQSg0KsLSMzSdREUo+FskxADOGQJ7y7AAYT+OQUZw3FTLFOAjUi2x2FG2rxjky3UpSdRs0UWzmicmgf6nw4ANCM+OZn2qyRGaniKJ94z3h6WXRZfN3ORFopypGRfeyv8biKMDhPsySAFdyeO7lbQ5ycJnsJxox4xrowVKNdmbIlqi0zlrAp+VcqzCoMZA4tgbmz/s1O/R69+fOxpNN7Bu260XxXb+l+nnXS1FmOKyKM965ZwiZcSDS/DC1s5e+X06eH6uN9+XuX+2zg05JrWsIMwa9H9y8KvBB0K4cvHNENthBOLMM14f73y/g5Ld6PCw9D6bbFThoHX5u4I+3mqGA3HxP2tk5Ilxl3Q5kNIIBFPfq40Bbj7GygfLBe9aqo9y5813h5re6ckL6aFFWw1fzGM8XzHOQQfrAEdxr3Y8DMz9l+mehX6E7psKsFJ+pWP40XKJ+ZiatMIIOvi9jafzwdgRHK+YqhAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/29.png",
+    "width": 1920
+  }
+}

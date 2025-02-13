@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "C'était le mec qui était sur toutes les photos Facebook de ma copine.",
+    "end": 34,
+    "index": 15,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=32s"
+  },
+  "thumbnail": {
+    "hash": "42c54b925d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXBW2+aUAAAYLJsi1RAoBVBVDjAgcOxFLnVuzRoq1hb6my1Ll6apuvDXvqwhyVLtqQPy7LX/YVl/3PfRwwlBTJFxIl6QXjyg0e/2ZVAIFRnTjg9DmdR52F4sRmcf2jHqRfVxSrxGft6oWRyki9VLtRajS7EwP4U9ZdutHZPf+6ev2/223iUes0Rco0jmdhjZ6xogBEU5kiiea9YGqswBlYkg2Vr+vfL64/ZahENUsdbRO2Ff0qsdbDVMGSl51649PATgisTdipwedKdOOM/u5evyXx+EtyF7aQRtjREXKn6WDbUw/JLOvi3m92b1lA1XUkfG95Hp/v75iHBQYrgrevunOBSQ0SZ4qk8S1FcnuKvdKNX06AI+kZ9artTq7H3z4BQdqTKte3MAewLMlHKc9QBS+dZmuF5kg3LSs9EiYUT0x4hvGkOVkHrHChTaE0Q8isKwZEFkmTek/Qbkn5HMoGkDnTYAvq2e/Zr/TjBjQy7GbJTVI+r6vGhSBRyVC5Hv81RByRTovmOqNyZxut19m2+zry2VZQjWc2cxqWJm3INcsJ//j9SAsYiUFoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/15.png",
+    "width": 1920
+  }
+}

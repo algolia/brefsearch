@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Pendant que je parle avec lui, Ben m'a rappelé.",
+    "end": 36,
+    "index": 19,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=35s"
+  },
+  "thumbnail": {
+    "hash": "7021225cd7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nAXB2W+acAAAYLIHE5wnCnL8kEsOy+EPBIpgUeaJtja1VmrazrXbmm3JFvuwtUkftpft7973IRcDfzeJHJGHLJ3orb4mzbDKlMYzR77y2h/HvVEN3w6dTeIsAmO/8JDHi9n361XP0NQGKZP01FSuBGZ1JPzbnf5ap9+W8Yphs8Tbp4NF11QAQB7O06fr1adxkFmSTDQSXfv7eX1Io8Mket2kL9n8DDQPpyd/LidPYz+SOOT8pJ8FzlIV7m1Zq+E6J/zczr++C289uB+G0DT6nPT7fvM8671M/R8jF1kP4svA4RkZUjRLcC1ePfM7M2jZLHskSPk6oJutL+9vn5fD1+nxTWAiu2H4kHRF3pJFqCrecdscOR2aBBRGEjhTxEiaFTau3Sbpx7ATSjzyYeDufAOrAoZSKFLReKVOMCWM5jiFZIRCtVHDmbvI3cZh3IEBD5DQhFpTLpbB2wJZKDIcp5cwslKjFqO5a/tv0IoIwE3XSqMYq4ssAZDQhrCtW5red7qGalKUmMtX82W8JWmapCG5ki/zNkagKIGi9Vyu/B+rqVS2So45FwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/19.png",
+    "width": 1920
+  }
+}

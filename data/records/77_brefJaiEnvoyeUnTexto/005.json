@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Au début, j'ai écrit: Tu voudrais pas qu'on se voit ?",
+    "end": 7,
+    "index": 1,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=5s"
+  },
+  "thumbnail": {
+    "hash": "f9de55b5da",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGOwVJayVJa2VpWx11Jw0lF20lZ0N1DzMdNxMVALsjGIdbNO9XPIC/coTw6tSAkpSwxkcASpU3LQVnTUUXLQUvAwVA+w0ve3NgyJSPbwCg50ts4KdCiO9q7NiKzNjKzLjGBwN1T1MFTxNFQNsNTLD/VqSosp8HPNCgk4eObu5v0XSxIjC8KcS2J9m3JjG3PjmvLiGQJtTYMcrLxsLON8verjI5KcbIx5OTNiUo5feTF7ztL+woy+8qzCaJ+WgsTO0pTGvAQGH2cPAw09NXlVLVlFL01VDzVFeykxHzff6vY5pQUVc1trJtYUVqWEN+YldpdntJekMBhpGSlKyovxCkvwi3rpagQZaERZGDiqKGhLiNvp6cX4BxWnpdTnxDfmJbUWpXZXZDJoKGlrKmkpS0hryciG2hrlBTvkRXjlh3mFWptpK6pYm1jFhsdXZic3FaQ0FqS0laQzKMioKMmq2xroZwU5FkW4lMd4FkX7VqdHhnk4G2routm7RIfGlGalNBeld1TmNhamMUiJK6jKayrKqNkZGRaGu5XHelUkBtakR8UHeHs4uIQHhEeHxxdlZjQUpLaVZjYUpAAAJq6Iw+nGxB8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/01.png",
+    "width": 1920
+  }
+}

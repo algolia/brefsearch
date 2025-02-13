@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Une pompe anti-venin parce qu'on sait jamais.",
+    "end": 32,
+    "index": 14,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=31s"
+  },
+  "thumbnail": {
+    "hash": "161d404973",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG1jY393do+Fg5uRj6WcmaqgnquinrOrqZR9dm1FO0g0NHdlZYmEhKqko5eSkoZ/gQB1a2l7aVyGcVyGcl6Pfm+UgW+TfmmqnZOhjodwRzt2UEh/X1k4MTN4cnOlnp2MhIMAloJumoNpnIdue2NMgmlPjHRYbFdCcmBTX1VPKxoXTjItc15fJiAjHRcaiYCBlYuLAM+9pt/Tv+DUvczCs8fCv2tkYSMgJUQ+QCUfHgIBAWBbYY2EkxYRExoVF1tPUIN4dwDa0sLg2cjZzrjk2sbDxMcYFhoYERMqIyUKBwkPDA1jYWeIgoglICAUEBQ4LC1wZWUAwLCX1cu0zMCk1Mqzurm8YF5iTkdIEQ0NDAoLDAsMTUxMPTY4JBweFBATMyYlZ1lVALCfhMS2msKzkLqulpGSlV1bYURBRhYUFT0sKXNUTTwuKwgFBxALDRMPEC4hHjgmHACci3Ofj3RjV0s9NTorJjEOCxMAAAUmGhx7VlBJNzgdHCEaGR8TERUPCgwqKSMyKyYAUEE0RDs1Dw0UGhYhLCU9NS9IKSU3KSAoJRwmFBUmEhMcICUzNUVkFRknKRwTQzEls96Y9zCfM6MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/14.png",
+    "width": 1920
+  }
+}

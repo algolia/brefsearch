@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Cette journée a l'air normale, mais en vérité, c'est le dernier jour\nde ma vie où j'avais tous mes cheveux.",
+    "end": 6,
+    "index": 1,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=1s"
+  },
+  "thumbnail": {
+    "hash": "0e6cffad74",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAHElEQVR4nGNgGK6Ah4eHm5ubBA1MYEBDF1EVAABFNgBSK9C6HQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/01.png",
+    "width": 1920
+  }
+}

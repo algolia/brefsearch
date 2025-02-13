@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "J'ai dit: Putain, j'ai eu peur. Elle a dit: T'es qu'un con.",
+    "end": 15,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=12s"
+  },
+  "thumbnail": {
+    "hash": "a95fcc6a0c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEBDLDk9Jjg+JS00Hyw0GyozHWxtSXNtUCkvHBUhDxskEhslEREXDAoRCAgOBw4TCwA3PB84PSE0PB8sNRweJxFZV0Kpi3a5l4aOd2UTIA0eKRMrNhwkKxYXIRAPEwoVFQsAOD8hOUIgNj8fMz4eKTMckHZamGpUp4FzlHFfLy8bHy0UKDIaIisVGCQRFxgNJh8TADQ8HyczFDdCHiQyEk5SNpp2W5ppULKCb4phTjY0HRUmECYvGCMrFBMhDggQCAsNBgAyOh8sOBkhLxMhMBV7dmCieFuNXUGEVUGDWU1PRjEKGgcbIxESHQwMGQs8PTNEQDgANz8kKjcYKywUYVlMnYx/upV8iV9DNyEReFFEbmFIHSgRHSUTGiMREx4OVVJKbWRfABQcDRAeC29eQ1xPQpNqWbiSd4leVFwxKY5oU5NiSy0vFyIpFiMpFhskE1dTTWxiYAANFQpAPi2NSztGNCiSYkmVYkmdcHCic3CIVT6VaFs6OCYnLxcfJBIjJxZRSUNTTz8AKC8XNzIpXSwgRDAcfkc9roKWroyZtJiqlGhohF9NR0UvND8cIicSIyIWMiokNTYennhqAmXYp44AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/05.png",
+    "width": 1920
+  }
+}

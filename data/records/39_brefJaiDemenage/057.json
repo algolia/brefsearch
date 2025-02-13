@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Tu peux m'aider là ? Je peux pas, je mesure.",
+    "end": 59,
+    "index": 25,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=57s"
+  },
+  "thumbnail": {
+    "hash": "9f9256d0fd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGxdW4V6eL+7ubOsq8C6ucfBwLy0srKopqmfnKCTkJiKh5CCf39xbl5MRmFWUldNSwCBcW6dkY7Py8rBu7rPy8nX09LMxsW+trSzqaeroZ6lmZWdkI2Pf3pjSkBwYl5rYF0AkoJ+q56b29nX0s3M2NTT1dHPz8jHw7y6uLCtrqSjqZ+do5mVmYqFcllNd2hje29tAJ2Mhq+hndnU09jU0ujn5eXl5NfT08nDwrevrrmtqK+inaWbmaKVkX5lWYBwa4J3dAChj4eunprTzMvX0tHv7/Dq5eDOwLeplY6Pf3xhV1FvY1uIeXefk5CHb2OMfHaDd3QAnIh/qpeQzcTB2tXTyb66mYF2p4l5p5CFycLGQTI0LR4bTEI8fXBtgWhblIV+hHd0AIh1a4ZyaLqsp8S0r4dsYox1a7qlmd7Y2ry2u2xUTGJKPlNFPWRQSFtDOW9bU3FiXwBdQzdsQCekcku4iV2bgnKgiXqikop8dnyRhYeBa2JhSD0/KigsGBQ5IhpDKR5JLyQAa0IkjFoyn25BsH9QjWdLdmhiW1BNKiUpQDs+SkE+dlxHY0s5NCQbOikhPioiOyQbR+Tk+Zhx11cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/25.png",
+    "width": 1920
+  }
+}

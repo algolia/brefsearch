@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Non, c'est encore fermé.",
+    "end": 66,
+    "index": 22,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=65s"
+  },
+  "thumbnail": {
+    "hash": "19ac03d7a7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nAXBW2+TUAAAYF40xiymq9pS7hxu53A5QAG5lkJxlNHByrLQdpvGB333bc++eYmJmfH/+n0ENjROZAMP2VhGCADAyipQZE5kKUXXeSBCA0FF2G3Xm21VlCuiblbQtf0kAGAGVVGUBBbwCAoYglVdqUgPV5GFoYUkUabbtiKuuhK/C7JNGpjS0tBJnp/O59iGqW9ddVvPNZubznJtVVPyPLi57Yh+uHA8axwbE+MZA1jm7eT8TJbo0EY0L2JdN0xtzrEBVnZVcHw4ENf7uq6jT+OaYgWS5iONNqhzVyIXk7MXLyfD9XA8HF/TdJyFp4/D5y/3xKYpncDxfGs6p3hBiEyARdpVGIEiSwZg3fGzcrqgvSzPt5d3H07Efh17jqtazhtGXMgQYJuDqmhZrxacpCCkzohnz1mBa/pdf3oYTyPxo0y+l8m3InnMoq9ZdJdETRItvSUpabSsxbGmIJUVuKzKi6bq9jviVx7+LqI/Rfy0Sf5W6b/36VOV/qyyx3VyH/qHtj6MQ9+3bXdZbS/SPPsPBrBZKaaPrUgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/22.png",
+    "width": 1920
+  }
+}

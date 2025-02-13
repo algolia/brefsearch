@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Je me suis dit que ça faisait longtemps que je ne m'étais pas fait\nun vrai hamburger.",
+    "end": 10,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=8s"
+  },
+  "thumbnail": {
+    "hash": "6830de80e0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJCOn5yYqZqWoXpygXttd4yBh4yChoF2bH90a7CsrrW0ubi2vL+9wpaNknlyh5yPnACenKybmKOUj4eVj42Ab3ptVVJPQVpYSkhnUlN6bGODemmbkn+sppqysLSfl6GfkJAAp6aynJqbpJ2QqpyKqZyVe2h0dFdWgWVtb1pMWkQyclE3a0k2inJgsaOaraqXm5aXALCwuqelrK6nmKiZhaWXj4+Gnpl+cHNcamdaUIZtUXFWXoBkY6mHbqePfb69sautrQC5usSfm6ujjYSzo5qaeXpxWHKYkaCZiomLb2qggW+JckaMd2etlYO2rKPS0NSdlY0AwMDLn5ytqJCYpIWFm3Yhe18ijoJ8lH6UkHJzbVtxiXxgpZeJyMjNz8/Zr7PMkJ26AL69zLi5xdDQ1bGuw4aAeoV7UpSSPJOQLKqlZq2vyLe30bq6yqafqJOFgKKWi6SksQC3tcWSj5CmpKK8v8uwqsu4uTiaqgCxwQCts0GBeYGHfmdzZVVoSUR9Wz2cekSbjHYArKq5h4KJi4WHk42VmpSclJJVlJcngYIcPzsMSDUdd21JdFlOcExTZUMqdV9AiYWG+fLprDWgjLYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/04.png",
+    "width": 1920
+  }
+}

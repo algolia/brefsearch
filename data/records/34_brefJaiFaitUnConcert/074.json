@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Elle me regardait, je Regardez, elle m'a dit: Tu joues super bien.",
+    "end": 77,
+    "index": 29,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=74s"
+  },
+  "thumbnail": {
+    "hash": "22ddb0eed6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG5UUo11cHlISZZ4b3hsWiwXDywcFSYeFWg2MU4aE4RvPerTk41jTUkXFiwaFhwUEQCTjIKUhn1yVVBtTD9jQjCYYUhoPiwtIBZbLCdKIBp7aDvozIuYbVVuMi1HJB4sHxkAqKGZuqmgjGlidE47ZEAvkF9IZj8uLR4VPBoRakJAbV9HpH1XdEw+fUU5gVBEVTwyAKWamNLHxohqZ2lDLYNUQJplTmQ/Ly8cEzIaEEohHjwiG1MyKWRFOpZoU8iReoFaSwDKxMLOx8yCYl9pQSx8TjqXXUlcNSYxHRQyGxEzDAktCgU7HRVELiZtTDu5hW2gcFwAjYGBcl5ibEU7akMtRiYZgU45QSUaHA8KPSQYTS4mUTsza1FFV0Y7SDQplGZQsn1mABsCADASDUUpHFc0IU0rGUYjFS4XDigUDC8dEmZKOnFZS39lVoRpWZmEdntYSGFDOABPLyhfPy8rGRBDJRZZNiJLKBlDIxYuGhAwHBA2HRBXNSJ1WEKGalasjnxQPTUWEA8AYkI1UzEhIRUPMhoPSygYYDYkUDAiLBsSOSETNx8RSyoYYDwmcVlCUT41GRERDgsJgfl+OH3vrXAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/29.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Vas-y. Si tu m'aimais vraiment, on regarderait.",
+    "end": 42,
+    "index": 16,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=40s"
+  },
+  "thumbnail": {
+    "hash": "ac4a08ecb9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOElEQVR4nFWLy27bMBREaZL3QYq81BUpSrFkxXbiZpFNs8z//1jgoihQYDCLc2aMs/BfHBpj3j+++vJqjPEO/yl78vbkDQF7+6T2DwoYNal35Kx/7k7P9n8/3js0JZSIA3uKEOAEs8yP/deiLxnjnFuiQaJo0swpQkw4mDZMPVelVDwqxkvbb+vbeVzY4l63NbdL2xdda5Q+6EjZjJR0aBOLcjn67Vw3HSaNbaTUQxYIi8yz9DHkiUuGaILFQimDNH2/9GugHEhF7lWuE0lLL72siVPEOMWRLZgCrBBaXHbdG2eBFPlMfDCdt/b5tv6+tmMaBC1mLoNDo8ATcAWunqrn5vnYPm8f31s9OsQZhxlDA64YG0uNzWSH4kk8FUfF02jhuj7uj++Lrmp9cSQWlHIvr7XcRrn/ALojFnEdRf0sAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Et ça, ça veut dire et elle aime bien les fruits.",
+    "end": 75,
+    "index": 27,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=73s"
+  },
+  "thumbnail": {
+    "hash": "4caada3f79",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBW0/TUAAA4Lredno5p9f1tKdnHXXd2q2s0I3dsmWDZAMKCBLEBU14EKIhZDGGZA88aOKD+gdM9Ff4E/0+huW4KWz+8m5+kofv1dWbsDmjywEZX26f/C6e/o5X39LZyPYbqjb1aN8LGJEVHBk8ksu1+/lDdfE6dffJpAhXoW5t2pN/4fjUoFRFGEiFX/UlmVF5cbFFN/nTPf2zIP0iwufR8tPO25atHdruneUbYhmwvCmCeQXXVcRQCN9nzbu97m17/Xx0eN9Lv0wHF60tJJR7GB83ol3L0UVQ1+0ijDuWwyQYX4+Gi3Z8lcx/nJ58HOabg+m77jaG0EdGTCqBYcic2CO1V0mn61FGFsFZv//1ZrWeHT/PR7d5+jjM15N82YocqKWB7ulIEkBOaz0/qCKDKb0oWYoySVoPR1fXO9lZEhWNaL8e5tRDQKpjtaKqSlnq0CC0HVUEDM/xAsfzJc7XyKD2MnPdjPhNy4sNU+T5vaZJDM2BekYDopsIyAzLshzLiTwvcJwGZEuBtgJ91erYDgLlONAdDZky3MUuhhoE8n/w0UMbjUqjhAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/27.png",
+    "width": 1920
+  }
+}

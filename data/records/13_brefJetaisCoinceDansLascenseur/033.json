@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Je pensais que quelqu'un allait arriver, personne n'est arrivé,\nmais je n'avais plus envie.",
+    "end": 35,
+    "index": 18,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=33s"
+  },
+  "thumbnail": {
+    "hash": "6f30fdc3f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABd0lEQVR4nB3NS5LSQBgA4Ax5dNPvx9+dEExIgGEghocEyBQ46izwCFZZzkaXVrm1yq0n8BSe05IDfPUFIy3YEI9BL4rRsbm/bJu+Xfbr5rJrr4/dx8f9Zl4V3uagQQqKk0DQISdYMlJl7s39ZL+o22nR1MXrabmelefV7MOyKp1RnOI4ZIQEhmFKMCEYlChTOx25SQbVyJUZlN485L4r4OXb7y/f/zRN10zKYCxIbVmqqBZUCmoV91qkRjrFneJWidSlz9evP379fb6+gDUBRolm2AviJfWSeclAMq843MB2VvWr5antP33+OSnnlg+D2rAp8LGm2X9AQJBbxQgZUoIz0KtydKjH27rSCjBCQRzFKIklQSCZ4oQSjDFKkiSKozAMB1EYDAbJ3Z2jLEEojKIbQEhybpWSQnDOhZBGGTDgrU8hzVyWQ5obr6URjAeMUmehyotlvdg8tIf1od/1l+787vj2/fHpqTufd6dTu9/MV7NXVe7Sf1tNLLnoD0BEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/18.png",
+    "width": 1920
+  }
+}

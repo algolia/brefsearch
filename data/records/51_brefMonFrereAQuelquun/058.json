@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Mon frère était là et dans 15 minutes, Mode allait arriver par hasard.",
+    "end": 61,
+    "index": 26,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=58s"
+  },
+  "thumbnail": {
+    "hash": "cf55759d00",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGBOSmJPRko5MWlUT3ZXUXNLRKB/eJN2eEYZIjYJE3lUW9vNzdPGyNnP0s/Fx87GyABvXVlkU01PPDeJeHRTSUdBKyS6p6KohopLFSJRISdqRUCajYz87u/37fDi19nJv8EAdGptPjEvMiQiZk9QZUVAVzYrZllWXElLLQ4VQiQkbUU7X0lGpJiZjoOEm5GT2c3PADcuMRAODyweImpASD4fICoZGQ0FBxQPEh8fIikhJS8hIDAiJR4ZIwAAACclJaqbnQAMCgoNDAxNMTZyRk4xGh4tFhlgKCcrHSEoKTAkIigbGyE0MTl2WVlDNC8EBQYjGxsADA0PEQ8PJRweQiotVDMzOhAQeTk2IA4QBgoOCAcJGxkeFxgfckc7WkE5ISQpJCYpAAYHCgIDBQgJCwQHB0UuJmIvKz0PDyILDQAFCAEBBAgKDwECBAEAAgcIDAkLDgkKDAAEBQYXEg9GODJCOT1PPThoS0BMPDNXIR1QJR9MPjRJOjQ/My07LSY0KidEOzkoIiEACAcGVD8zdmdmeGp2cWZ0bmJpjnFlcTMvYjIse15QZkxEa1VQX0lCbldMa1hSgW9qEmRzt58TbjoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/26.png",
+    "width": 1920
+  }
+}

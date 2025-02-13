@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Non. Ce soir, je peux pas.",
+    "end": 102,
+    "index": 39,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=100s"
+  },
+  "thumbnail": {
+    "hash": "cfc0836258",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nBXNX2/SUBiA8SbAOe/7ntNz2tK/tBQtsBY2GNAMYQu6bEZmphnZFolBoxfLdqlXuhvv/AbzwsQva5r8bp88xsW0+HA8ur+Yfyz7KbAWQoqQILQRXAAf0UO0OIoG5zXOatx4P352Nc22y/zLYu/TLBs2VU9ioWhfC9FgJuM+gsWBGsDrFePxvPh9c/Rnd/TtNP+5np4E+rbvv47UOtYTGyPiFgOTATHO67wK7l8c/Ls7f7o9/H7S+/v17GHW2WTuqW+uAnkWynep1dNkce4gSgbQAOPH5erp82o3DB7Xh7tJ+1Wklq4sFJauOavI41CnklqCWlI4RMbluLfJw6tBPA+tsSMHimLkMUFhib6iTNHQlgPbbEtqIrhEhqrV3472fm3fbMs81zJE7gFrEZSeWgR65Mi+EoUtC9uMBDkARtntbhbz6/nkZZYsE3/i26mkkGDcVKOmmQhIBD5XoqNEXE3QyKNoGEW57w18t3CdjpIuQqZlV5uJoLasRIQeQigoEPQfIB00muexXhsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/39.png",
+    "width": 1920
+  }
+}

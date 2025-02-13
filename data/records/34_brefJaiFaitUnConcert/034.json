@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Tu me l'es fait, c'est café ou quoi ?",
+    "end": 35,
+    "index": 13,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=34s"
+  },
+  "thumbnail": {
+    "hash": "ce332dbec5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGOwUeRwUuV2V2MPMuCJtRJIsBFKthdOcZZIdpKYme69syk1xFIv1ly/2ctVgo9XkIeLwV2T01+fN1ifM9qcN91JKNNZONtNvMBbOttdck6ax7G+3CJf22lxgUtiQy0V5UAaAgx4wk34oo04E6348tyEct1E011ki/2kOmMMTvVkHu7M7Ix0n5kcsjQ1JsnOQpqfhyHMhCfajC/WhCvNlq/QS7jEV6QyUKIyWKo5Qmtlpv/emrjOKK8Ya6NJ8aFTUqPcdFUZIk24Yy1448y4M+z5Sv1EKgLFqkMkGiJly4IlpsZbry6MyvWw9jLQbAj2WJ6X0BjpwxBhyh1nwRtvxpXpwFfuL1IZJFYbKl4XLlsfKdsUppnkYGyrqeyur5nrbrO6MCHM2pQh2IgrypQnzowrw4G33F+kPlQk2UNRUVYqyl6kJlQm3V0m1l7SSFG81M+xPcpbTkSUwVuXI9iQK8KIM92Ou9hHyNdMUlVBTkGSL8FNriJYpiZMpjxAVkNSWF9eWkNGSlZEhMFejd1Vg8NXh8NXn0dLQUxJSjDKlr80QDjNQz7VVaLQRyLOVkxLWlxVUpybk0ucnx8AHpNvrq1/CWgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/13.png",
+    "width": 1920
+  }
+}

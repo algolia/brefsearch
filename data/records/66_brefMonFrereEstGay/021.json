@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Charles a dit. Tu vois ça ?",
+    "end": 22,
+    "index": 12,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=21s"
+  },
+  "thumbnail": {
+    "hash": "7b7aee91bb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXB+2vTQAAA4PzRgoLIQMSBWDXi1G4OO7CMPkS7ZrW0zTZpTZrFNI1Nmmcvd3ncJb1cslnRXxT8Pq5ef7935+7Bq3fHR416rWbaMQhJCLFlBaYVGD8c5dqYztS+IPaFcacrcOfD8depAmMqSeqzpzyIWZZX+bbK8jLLyxRThIgwmh0eNufq+vJK5iTFklUbJuVKXzV4foMojGiKqeNC14OOG0ZxJgzExknX9snScDhF+q5dL2n5R1e1Y/45SipMGGM/Wblj5W5Lb0lWjCZyszVBceF6iOu1Pw57g5tf/+T54kXtIEpZnLIkpX4Q+UHk+ShJC3Fy0Tptg4g5HuLO2p2xMCh3f83FovX2pQ8piosUU9cLXQ/aDoAQizO5+UmAqPCCiGt3zkfjbxn7rcjqh/prgApMqhTTtR3YzmZtbwBIFMMbTnUQkpXpc2+OTrtnlyGiVxczfv8Jzm9ocZtvK0wKkrEUU9sBhDCMqWn5kqRxj+/f23+wpxmbL/0B/+ghgASiLIrzONlGcQ7CVFtY+tKW5/pEnH3uDf8DmqlcSh8rEhIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/12.png",
+    "width": 1920
+  }
+}

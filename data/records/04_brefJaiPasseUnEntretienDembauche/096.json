@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "Viens.",
+    "end": 98,
+    "index": 32,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=96s"
+  },
+  "thumbnail": {
+    "hash": "770d626557",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwFwdtvk1AcAOBTzjk/yu0UOKwW6AUEW8ZlhRY219WWrpk6E10MseoSEy8xmQ9eEhMzE9OXPelf7fehfKQ+HLM6Ny8L/iQwTKAZoReaPGxhV4Ib/+B9ap/P+NNN9/LiXr00UeGrp7G+npqPp+bG122RloRupbYvkL4I3x3+Lu3Vc95cuc3L/nZtoTJky8x8lBrbgq8D/QigImQOEGLqAnyxjF3U3VTWrul//Hy/aVxUjTuLRD9LjPOCr0adJYWEUBtjRxBCCq/1zovQqmf8+u3o66/4002AikA7nrBFYtS5WfVZSWBCiI4FW8AxoZVhLD2+So3dq8HtXf7zzxHKPLUM2UncOcv0pKcOBfKAEAdjj5AZpR4zIts8DtnzZ73bu3z/t0TpQMl9bXbIyoj5liy3iE/xBGgEdC5SW5ItncWusjo1v/1O9v9KdOgomadNx2oaKI7epoh0MU4kmskwV8ADkAGGXEpD+c2H4Y99ikJbmgzkKJDHXvtAFQERqYWHgGOFFhqEgMUW4YrocnqyYFfX9n+EazpyZUFj0QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/32.png",
+    "width": 1920
+  }
+}

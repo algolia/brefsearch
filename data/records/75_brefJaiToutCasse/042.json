@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je suis aussi passé devant le trottoir sur lequel on s'était la nuit.",
+    "end": 48,
+    "index": 19,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=42s"
+  },
+  "thumbnail": {
+    "hash": "217ae7a03d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXBWW/SAAAA4ProlQhzho1Glk4otKXtoCfHoGFQYIyRdByjbOvourSlyjHLWTI3g8PE+LKYaDTTxIf55I/wl/l9ABKAYRhrtVSrY1frx6WSZBh2ra7g1LYXCgfDdLtt9N68PddM5eSsrZwBDMWRZNSwxpPZcmC/94JQeV82zREEwY+eunzQq9n0avnh83x2NXeuz1UNYBmO52LdnjMYLSaTRZalmlJD74wRnHF5NjCCuuhPVU0XMmIqnd3dqwJhbIuhuLhQyEvy99tv16Y6sLoRPhmN8tJuOYDiQYIEN6GVtXUfFAxhNOBZ2yCJiB+LS5L8++7Pl69/ndFlKIQn0UiNYQmEwMkthmZTqUwsloSDBADDOAyjL0C/9dr++eP+1/2/jze3CEqtusBt1yroDbCJ7E6xlilUDWOonlrAYaNNR1lRrLxzFv3O8Ei5sPsOzaQ9j926z+d++Oz4tDdxPg3HN5PpstubA4dNrXWkS7JxIEqb7nXgwZOiIKonZjqWY9EEz+UO6lpV7jRkXVFMuakClUqrWKrHU0UmIfr9xMrzlztp8dJZCGU1zIkIvy8UGjQnsPFcPl/ZK0n/Abw2gf6qdreWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/19.png",
+    "width": 1920
+  }
+}

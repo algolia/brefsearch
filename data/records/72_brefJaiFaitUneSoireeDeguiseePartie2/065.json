@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "J'ai eu envie de pleurer. Je suis partie.",
+    "end": 67,
+    "index": 27,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=65s"
+  },
+  "thumbnail": {
+    "hash": "4a74101dad",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXBu2/TQBwAYCslxPbvcnf2nR/nVxJbdWwS0sR52PRFq6oNEWJIaYYWiiom1DAwIMRSHhIDEhKoPASCAZAYgAkJFgYkJv4uvk8ycY0RZ3d1crQzOx5PW0GUx51Lw7WLcdqvx0UjfXfy4tOTN4+vz2+vb84cTVpanBmsyRGtaWZi+wkXW2n34MLKtJsVYZIY3vtHL3++/np66/6dze0dIksdzkauN9+f92qxgzCT0VIQHoxGk/Tc9Hxn5Na/P//85+OvL/eeXsk3lNIZKdXYRhgfbu1ebg0GttPUWGS5N4rlm0VxmPWHtvvh4em/b39/nDybZXlqWFLbdDk2zFI551bXsDyEYy4mzXSv1Vqvh4vcfnB0/PvV27tXr21zeyyE5BuuoRJSgZ7l5V7dwMyiZmyKzPHalshq0aARTZdX8kbfN9Kh7krtKg0odxDVsRlYPkcaUbByVoWKKrDWD5sMqFKGLkFjxiKRSKuAekSLdO5TkyHKgXCgRKkulMogQ9aIdSAcEVBQUYU1jUqhrPYUVQCmQIlc1VSsAyEKKi9UoKImTkBVzAEjGfkKDAD9B61tSsxHMM8nAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Je me suis allongé avec ma boule et je me suis rendu compte\nqu'elle clignotait dans le noir.",
+    "end": 74,
+    "index": 35,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=69s"
+  },
+  "thumbnail": {
+    "hash": "6e565d2ce8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABWElEQVR4nBXL2VKjQBQAUEIv6dv77YUtCZAACRGNDzplTVlazv//1JTn/RScKS0Do4oQQYgsCZRUOXs8tq/Zj5IbYBaYtDj5tBk/F8CUt4ccJ+Cq/A2SUCUh12kJ7mR1hfkhzWLw6uJm8FbA3iqu6zQriLtSEKooVYSqPbcV9uvlc52/h/En5gemZ+OnIobJqozSV76mRO4IlAQYRw0RdT0c367Tz335d7t8TcPHoXstnBtz9dLmscVECICIgntKteYGuA7udDq8ncevafx76f+c+/eCMQ9QgaykQLRdm+ah3bLvsz8q4YxMAc8xXNpq7eqnrrkXjBlaCrLj2XZT92jS7dS8zP1HW28RJ86MNYc9t5wZsfdSYCEhKNUAJKebOi45Lm26tnmt85rSXclayQpEIkRSAlrGQtveutHZI7o++DGGJYZrSPeQnkLeQn7GvGH8nUZl9MN/EpIhLvnumBoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/35.png",
+    "width": 1920
+  }
+}

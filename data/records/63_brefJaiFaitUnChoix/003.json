@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Le problème, c'est qu'elle ne savait pas que j'avais été\navec elle et elle ne savait pas que maintenant, j'étais avec elle.",
+    "end": 7,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=3s"
+  },
+  "thumbnail": {
+    "hash": "25dda63a70",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nAXBW2+aUAAAYP7BZvayp2VNsy6pSdt1TRoNWltbL6CCcpEJHG6ec6AoQrkpDNg0cVnS7X3/dt9H9Dt3PMMsBFGXVWiYibPSmYlMU3yjzd+SrgldZGNzaSrARi41ZInR06MsShbQ7SWqXtZ/41zukmLrBgnsqP4lRM42SkLPX2PnxY/5mUzM6KGhANtCiR/s1zpkh68B2i2YFBnz69sQ2mVeZHEabfxsWyqyRYiTETRMFzk/8uwYIY/vHWzteUaHCu9NxXi1qbLvebJLw6gq9gh6xJydYHMJdRPMpV8hdMetfzGugBBwg9fjId9lZZaXuyxL0qo4bLyU4MdjqBvqQu13H38HBqYaAdczu6TUqP/Zl8m2yJJsG6XRJijyn+5zSDD9gfJNXs6liKMrLDhjkro4JU/ex4v+0VIxp2JrhXXbNmAcbh3bJ4YPD/MpF3Wa+uUnY9By2Hv64nT69Qz1m9S7Gri8WiqKpQJL1VxnrWuYuG/fqZ22+/ljq1abnp+BXpO5OZfIq9l1nXv7ZnHyAYmcxkvSTACKpgH4H8rjnQxhdECIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/02.png",
+    "width": 1920
+  }
+}

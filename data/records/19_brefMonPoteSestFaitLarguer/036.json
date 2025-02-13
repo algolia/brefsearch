@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "J'ai eu l'impression d'être dans un film français.",
+    "end": 39,
+    "index": 22,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=36s"
+  },
+  "thumbnail": {
+    "hash": "2689867939",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nGNgY2FlZ2HhYmHhYWOTFWAzluHVlhc21FYy0FI1UpOMdlBN89MPtJALMRHLc5WItpFkYGNh5QRpYBbn4dQQ45fmY1eSFddSkVWTEHDQUYq00nXUkXTWkUhxkKkNkE5xkmVgY2bhYGbmZWM1khBxVJWWFeBQVpLVURD305ZsDbCanuBura1opiwcZCjooS3goC7KICLAw8/JriDI46Um76KpwMfKKsDDpSIj4qwmGWep2Rxs0+BnUxkfGu1pJ8nOosjFySAlKi4hJGgsJx1trGGpLCnIzm6kIuNoqOynr1Tpa9scaD0lyWf76lUbV2+c3T/D1ciIQUZEUEZEVFVawVxNXltB3lRd3sNcw0Zf2VZFOtfRKNNVvyUxoLk0r7Op6eC+02uW7GAQ5eWVEBKXEBJSUZDWN9A2NNA11NGx0lMx15A3kpcwUBD3sTaK9HHOz0ydO2PB9vUnGYR4RYR5xUR4hWQkJBXlpFWVlVU0TYMCYvq72yXERETABgW523k727bXN65ZsptBgJdPRIBHWlJMSlxCQkRKQlhGRkrVyMClqqxKXVmBl4tTTkLEUk/VQFWutrh4zZIDAOz8WHnWQFILAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/22.png",
+    "width": 1920
+  }
+}

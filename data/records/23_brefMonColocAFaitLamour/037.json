@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Elle est revenue, mais ils n'ont rien fait.",
+    "end": 42,
+    "index": 19,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=37s"
+  },
+  "thumbnail": {
+    "hash": "78d2a0edf5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AMO5ucm/vc3DwdXLyeHX1c/Fw8G3tePa2OTa2Obc2ufd2+Xc2t3V0sO5tq6joaqfnADEurnLwL/OxMLf1dOrop8tJiIeFxOVgXzm29nk2tjp393p393i2NfHvbqxpqOqn5sAxLq5xru6x7y60MPAQjw6CQQBPSkmXT44yrez39bU4tjW5dvZ4dfWyL26sqeiqp6aAMS4t7uuq7aopb2xrz45NSUWEnpNSXtUTLOdmdTNzNrQzt7U0trRz8O5ta+koKibmADAs7KunZyklJKefHh3V059VExePDdRNC2ql5bKwMHRx8XWzMnRx8W8sa6pnpqjlZIAtqammIiHjl1WhBUMjjcxkGNbVUA8V0pGqZuav7Ozyb6+zMLBx728sqekn5SQmo2KAJ6Oj3tbWHoaEYQTDoIQCXYyLY17e5+OjaiambyxsMS6ucO4uLyysaWamJSIhJCCfwCCc3JdKydgCAhsDQ90Dwx3HRR9ZmWSg4KjlJOZgoCqmpi6sbGtoqGWi4mHe3eFeHUAalpYShYWUgYKWQsNVQoMYA0IbUlGem1uYEZETSkkhXJwqaChmpCPh317e3BtfHButQP1Z/YCs0sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/19.png",
+    "width": 1920
+  }
+}

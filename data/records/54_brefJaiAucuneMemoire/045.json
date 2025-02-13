@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Le problème, c'est que c'est Fred Blanchard qui m'a appris cette technique.",
+    "end": 49,
+    "index": 18,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=45s"
+  },
+  "thumbnail": {
+    "hash": "3cf0979aa5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nB3L/XOSYBwA8C8PD8ypU3ORLysQ3dgSxBdeLEB0epgyh+hM8mjJlstedufd7mp1/fPd+vz+gRiQNEEiIJhEMrD16dumXMhVGUbIZrIUxecydwvzxn8TulrgtOadGtBAUoAx4D0CX3XUu0s7MtWtoX41ZYNjyoX0Lurfh91tYN1M26thExCQGDANOE6imdn4/cndWGrUqvqv2Q/aq7F09OfbaLe2I6+xmWnRRAfif9gnsHiYCvva49r96w8eBsqtWv7cKW095fH7O0vI8Un6XCpGF9pTQEAW6Nhc5CJH+xW5O8+e8i8XYnHR5h42w+1SP05QlYO93inzcdh4CnGSUl48C+qlH57xcz2+XzrjCtfMJianueueNDEkNkG3cgdONR86dcBAFpPxhVJatcvvOw2ZZ1fDUWh3R0LlQjzxDc2qSQhwhqZ1/jDoiXCcTpocs9T5rpCPIczlj77Mg2vXDwajS8ueWqYqCAAIAKVo2pF5eL6f0dm83yoV0ikA0M5qt97VrOdMzF5fUbv1msyxAAgBCYCkIvMPbMZOelJOSEMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/18.png",
+    "width": 1920
+  }
+}

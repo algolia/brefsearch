@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Et après, je me suis rendu compte que si je mettais quatre pattes et deux yeux\nà un nuage, ça faisait un mouton. J'ai fait un mouton.",
+    "end": 27,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=24s"
+  },
+  "thumbnail": {
+    "hash": "c3a2fef04b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nB2RW2/TMACF8+v3AkKgoU3iJtYWttFNtI1otrKWdtkCzT3OzXHsOM7FTpw/gbL38x19R0eZnZ/8+PJmPT/TtamrL9zjXeIfImCAwPA9PXAPkbmx9quH1fR2cnr58bXyc/Luj3phP6uW++SGxzjzbAgICW2UUIZQmUcYpqnrmbunzVy9/qBsl1+9v2s3siGOqgp1vGgbIhrccNZ3lRAVbcqqLmAex+6jfn+jHHdzEDwXNOmbTHLat1QKJrtKjEAtZTvIpu/qiBY4dVxdUxx9VSAPMjp09dAx2SLJq14wwVn3AnBRc16mBSbI9wxNMfdLnDpZiSVnY7coe8EGwXrBOGddS0VLe05DnJHUMvdLZadOYushycK8xIN4UWqJbIsxOo4hbUNiglLoReZm92umLKanj9qV9++36ZsA+jmJUYlwiUKcJUUOSBbnCUydxN4etMvFt/fK7Pzk5uLt3e1n/f7KMdbA00FkB5EDYyuLTQiMwNyOP6iz5fez60+v/gNEcV6S5BKO8gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/11.png",
+    "width": 1920
+  }
+}

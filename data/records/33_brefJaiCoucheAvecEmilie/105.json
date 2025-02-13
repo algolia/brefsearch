@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Quand j'ai fermé la porte, je me suis checké moi quand j'avais 15 ans.",
+    "end": 107,
+    "index": 45,
+    "start": 105,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=105s"
+  },
+  "thumbnail": {
+    "hash": "d5df0b102c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEc8OkE1MxMODzUjHIVsWSMbF0RAO8u8sWNQSFRCO2hKQ2NOR3ptZp+TjLOqpaKblwBUR0QyJyUFAwM1JiKbgWwgFxM+OjXDpJWCXE06KCI0IiAwIB1PQj6gk4zAtq+3rqoAU0Q/LiQtFxIcKR4cnoZ0JRwXT0M7rZ6TfVxNcEI0IhURIxQQJxYRfXBqv7OszMK+AD4wLSQdKRoUHRgREJN+by4lIEg+NpODeVdEO4xcR1s9OEM5SU9AUod5dMS3rs3DvwBFNjQjGycaFR4KBQZ8bGA5KyNDNzCQf3ZYRDtoVlZqYHxfV3VKQ2F2ZGOynY6jlpQAQDIxJR0pHRchBAABXVBJNismOCslkH52XUtEYFZtYlt7UEdhRj5XYE1LrJN+pZSOADInKyYfLh0XIQoFBkA2MTYtKj81L417cl9PTFRLX05GXklAWkQ9UkQzNrKdi7ispQA0Ki4dFiQYEhoOCQsrIR4sIyFNQTuNenBfT01ORlU4MUJEPE89NUg5KzGikISUiYUAMykqFA8aFxEYDwsMHhUSJRoXOjArh3VrYFJUSkNSMyw8MCg0ODBBNCkwi310b2ViU0mDid0KB+kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/45.png",
+    "width": 1920
+  }
+}

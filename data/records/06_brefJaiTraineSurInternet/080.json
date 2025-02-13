@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "name": "J'ai traîné sur internet.",
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU"
+  },
+  "line": {
+    "content": "Bref, j'ai traîné sur Internet..",
+    "end": 82,
+    "index": 35,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=80s"
+  },
+  "thumbnail": {
+    "hash": "e6494adf92",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwVy+9PEmEAAOD7T/rY6hNNIamcFGq5NkOZYauGHhM2JmTiwRASDpYwTxxCRIhwd8Ldcb/e9+71CIgzI2zT1R/VfL4/GJ0JCaeMIvU5WkxHQsd56rlzzmm3JbcJqJrnaAykgaaah2kSd1hfWe5hzUxIaLQ0+JOuMblkolIov5x/4bTbElsRqF58N64RvERgSO1GfbNTa9PW2yAyApR7mU+pbGLvaP/Aveh6NjURD29B9UKDI76NjvOFL7kDfHHO89iCNciQyoNGuUIEVlKxWC6VXXG5nz6cIIJBBH8RRBxfXy8dFr+VKySxM3P/Dnaa3lR52GEl5mutUWXYesuztDxrn/zo9wPZhGCkgd/1ajX2wUdlC6sL81iTDGsiQuhKlQc8K3daCoGvLjtsQa8XyMNe7x/S/5BEtLRPHeWKRHATo7Zxui4YaCwLRpsWhTNlZ2PN5bD6370Fstnt3ujaSBH7IofEs/xJqYLFw+G93c8/+jeSYHCsIvF6JLCx8OiB740HqpdIv0L6GCqmyJ1zjHRSqmHJKOl7Hxj0riXBaDUljpG9rz1PLHe97iUNjLrdv7o2VuVhp414FpSp4n+reeoRII0LTAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/35.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Elle a vu une photo de moi avec Carbon Kevlar.",
+    "end": 44,
+    "index": 18,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=43s"
+  },
+  "thumbnail": {
+    "hash": "0d378a86d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABSUlEQVR4nG1PS0/CQBjsD/auRo+aGD0oJhqjiImJD0QFDBqFYLW0QTEGgU1fsLLdbbu7hWIBjQc9GCipB51M5jCZyXyfsDA3FVucXl+a2YrNry3PHu5vOqRtW62uZzOHuDbuctvBENSrxULxLHUqlCRZU3Wj2X5FDnY6uZJ5kld3M42ddCOenmj8vJYTgaap0r0kANCwbWKYqFpv6aaVV7TUTe1CNLOikR1rRjQyt4b8DG2bAAAECCGl1PM8xthwOEzEVvY2Vr+/PgdB533gh/wY+G+9DqUUQigghBhj3hi+798V8k/lctfvUcYY578cAyE0WogKnPOg3w+CgHMeOhE455MFAAAhJEpQSv+mQx8TPPpBliRVVaPOv2nGmIWxrmlKSRaODo6vLq8V5eGlBnSjiTEJz2WMUUpd17UsyzTNx0olmUzGtxM/3z5rjE7WWpwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/18.png",
+    "width": 1920
+  }
+}

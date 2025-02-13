@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "et se condense dans le ciel en nuage.",
+    "end": 26,
+    "index": 8,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=25s"
+  },
+  "thumbnail": {
+    "hash": "982c380c78",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nAXBTU9TQRQA0DtzZ+7MnZn35vUhoaCW+kELBEGpbSlqtVBtQU1txEgUdaFGkRgWGjFAwsLGRBfEndGFv9VzoFQsVs5OBuYk4ZhHHwsuLYRCnhbyLB/L8jzGIKTIPE+moTIxDo6ZtFaI0jjUOg2ukGXMbAxlWYwxemcRpUIkREcGjFQKgMhs7592nx9cq9ebjfql8vT83Oz7/a+b/d5af+CTDAEMohYSApIBaTVtdBrDd2/3fv/bPT55/fnTz1+n3/78fXV0dDj64UMiAaxERgQnFQvFRK3VmXLz3MKDRu3u0uztq9dbpRvP2u29Nx8Ov1t2AFDM0qX5OQiYBO0s6ScPVzc2a41+t3mvU62MLd8svzw47u2O2jtfmH3u3czU+EptGbwKRpDR1LuzuHW/+XS4vjW4tf1oZfi40xp8XN8ZdV+cBOYLE9n0mXDl8nlQChUiorSG2JLRaEkZ0t4aax2ZSOQVKjbkrYlJAGORndZagRAgBKGWQoKQQggUQggAgCSE6sXSQmWqtlj9D1qBNxGWasDpAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/08.png",
+    "width": 1920
+  }
+}

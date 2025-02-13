@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Les vidéos de Nina Roberts, de Lee Golden, Katsuni.",
+    "end": 19,
+    "index": 9,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=16s"
+  },
+  "thumbnail": {
+    "hash": "06d048b735",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABRUlEQVR4nB2P2W7bMBAA9VLx2l2ey6VMybJlJ3Ga1HDgBEXz/x9WOO8zGMwQw4Hzc6tvk1yX3X2Z7mgLgeS45ngM1NUIWrnX9aNPH8y/hxQ2Lq/thz4s//b9i5x4EAIhbCVtnnZqhBKPfbrX+j7kuJV8kXrtu891+T7uv8EWtMUaj8DCT5yP6DjRPPfPJrchp1MtF5E/j8h025YvtCX5OVInaLU813LyOJW4LfPfJtchhZXTaSfvwi8Rphr22S/kGB1bEwlqjqvHFv1c8zn6eQgo2S+tPEk+R8dBx+BYK7Q6OpvBJsIGjgkfV87mwYNEmks8tHyWcmZo2bEz2WnvnXiawBVjwo9QjaZBKXAm0UPrKazBFgHet4tWBDaDY6NJKyQUj00rHNSIWgWjPFgG7KhTp/q23giaVqRGN/6yWiG6QsAE/B9XKSKmPOD/7wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/09.png",
+    "width": 1920
+  }
+}

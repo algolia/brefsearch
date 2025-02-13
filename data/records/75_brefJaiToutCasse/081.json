@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Alors, j'ai juste marché un peu vite.",
+    "end": 82,
+    "index": 31,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=81s"
+  },
+  "thumbnail": {
+    "hash": "c1f3e84d73",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXB/VOaYAAAYH5bqSmolRImCBRfvoAgvIIaJF+KtqVdVtvQtdOt0Dm93W1//p4HIcuFci5TymTOMRQv5K7KBbyINS5wjqg+B/2uwNjMZZMkJKrG1Qn2ooJQZdSiUJfGOmQJ1rE5IL7a4rQjPkBpZisVDDs9yd9I9EC99k25LTAIg2OfzVrq1GdKNelxfyfmbmQsHHnhAJnEc0fH2aPsQGYfHf3LxA2gitAVdASIrUuuuuQulP+M1d8RePeaK1ccAir74RjNniSushj13pbzcd9AqEqhQxU3LvVvxG9cdu9zh1DY+eL7QFw5fK2EnebzM4NZetrh+1PQg4jO4oF0uQ2bh1jdx61NpG6GWhq309h49TVbaKg0MbXBgyW+Di3PVJC5zfuAWt6C/Z35awK3E5iO4VsM0xh+8/U+YPUr8qMlv9zq9x1RowlkbnFek3y0+FXQ+hnpPyJ9HRnr0FiH7cSVhwrrCOSNQMYtNgBU4wxD4hYNmWokUzOTe+pKiSsnjvzclaZQ/GSKd21+pF17gOnxdZMl2PPifwuHXN00ODU5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/31.png",
+    "width": 1920
+  }
+}

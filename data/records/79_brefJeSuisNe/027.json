@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Allez-y, les mecs, continuez sans moi.",
+    "end": 30,
+    "index": 16,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=27s"
+  },
+  "thumbnail": {
+    "hash": "8bd7e9480a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nAXBaXOaQAAAUH6FCREWFiTqAq4cewHLKWi8g7lsTTKddJq208/t3+97Ch6o/pWOhyCE0B0M8LUaa4ACkwEzUDWsgkgfcWMqICLGOFCBMlfh/MaOdIcZjoCjwhkvpl7n4TscdD6WlJTeXFqTzEaJ7XKIFGIgbs8WM76n2Totj0X5sdn8e78ck3zlBzuePYniFPIlipnlUgspDPpyTLdx1fPqlDUvVffz29e/f76/Nm3rBoeIP6fluWw3cc6wyFyiSFekpNmSuqd1H+fHON+l1UPVfu4fHsvdk+weWXZi+V2YSpdTJ1SSCW3ZYhXm+yi7J3kvmnO+vJTd7+fXX19+fBwv53q7p1WFCDW9CEyUAqUS8drj6zDpeXHImv1yfUrKz8P9W7ft5Wonl+08TS0/Gjrza0PJ/bSYSelxgUXlxrUXLJhopng9C9Y4zJ1pMkLUuI00O7yBsytNYTYWTihuI4EogSjWDKoZDFhEh0QzIw2EGoh0kxgWA5ANwX+IB11Bv/j1wQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Tu vois ?",
+    "end": 8,
+    "index": 4,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=7s"
+  },
+  "thumbnail": {
+    "hash": "6b82d3f513",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJGOjHJpZF5WS4SAfK6ppoqGgnRwbJWOh5+ZkpSMhW5kXnZtaIV6cGxiWUI5NzsxMQAtJSMfEw8iFhQeFhSKg4C2sKyspaClnpmflo5jTj8yHxRgRzV3aFxuZlhYTjdMRjoAEQ4MHhkXKyEfIxkWT0M+rKajoZyYp6KedmdcXjcldk87jWlKdFpIgnhkjYRZi4FlABkXFSQeGyYfHU01L2JKQaOem6CcmaahnV1OR2Q+MpdkU3tONmpNN5WJfpGHgYl+eAAJBwQZEQ46KSWWXlOVcmaem5mblpShnJdoWlJZNCmiZ1SKVT5vTjVxVkaCbGCLgHgAYlxcgHh4gmRanWJQiWhbmJaUlpOQlY2IZk9CNBsRXTcseFA4f1g+UB0MUCQTclhNAMPAxtrZ39jQ0rmim6CUkI2MiY6Kh25TR1YvHFs/KysXDlk7K39dRXA+L1sgEUYiFQCvrLLAvcPU0tji4+rn5+zT0tR/dXBcJA9qNSBiQCtFKBlSNiZtTjtvWUtWKRxEGAwAp6Sqsa60v7zCy8nO1tTa6+3zj3pyZCIKakk3TjMjWjwsWUExYEI2WUQ5SCoeQxcLC3CudCCticYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/04.png",
+    "width": 1920
+  }
+}

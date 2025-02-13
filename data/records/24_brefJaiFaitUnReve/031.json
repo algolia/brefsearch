@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "À un moment, j'ai eu l'impression qu'on me filmait, mais quand j'ai voulu arrêter\nla caméra, il y a eu un générique.",
+    "end": 34,
+    "index": 8,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=31s"
+  },
+  "thumbnail": {
+    "hash": "6b44a031ef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nB3Oy27TQBQAUKPa9zF3Hp7xO3biOA61mzYtUSAFARukgipVVRcsWFSV+gv8/wLRLzgnis/OkjghhNy7YO37VTc01aereT90t7txuyimRbGp8+CsZmKAKKSpt04Il3V5OB9eHu8evp9upvHjPD4//rzo26nJhyrPnLGMCjAyoos03bT1um2+HS7/vv7Zz9vkXXwcl4exHcowFL7LU29EEBkwYsDMmr4IU9/9vv/x+nR3O68ua3fsq6u+ntqiNKpKrRNliAQhIkQnqnRmNyw/7+ddG25aexrCl032dSyvu7zQUqbGKjZIAhgpxKCltfp80TQ+1QB9pte5XnmxhF0wuyrPrNFMTjEjRR6xFNUavc1CbrRlzoQay6VhjdgZc1o1XosABsL/ggd0RLXIh9SvnW1EnKLKslfomTolpQi/ZWwCHEMkCTrAQeTo/a+qunCWELwipygwZcwaEJIEE8AYIE7+AU6uJDmgxZCdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/08.png",
+    "width": 1920
+  }
+}

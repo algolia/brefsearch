@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai voulu mettre trois, six points après manger.",
+    "end": 84,
+    "index": 40,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=82s"
+  },
+  "thumbnail": {
+    "hash": "79bf40eb76",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nCXJbU/aQADA8fvcom7ZR5hjsEHcCuyFhJKU69NROM8eFjCsFQE1mcO1RiJ9ouUoRlzZov6S/6s/eP/uw5d8QZHRuTW6c2a+F8YRW7EkWa3jaOl74Z1zf25dqIqWz33dzeyDg4/ZY0wc+z7wQ9/1GVsxxuI4DsIgSRLGVlEUL2N282tK9VPuexkUi4eFQrHb7Zmmqaqo3catVgtCyHEcxliW5Wq1ekJOjo6qCGln/QFQFcTzPISQUlqr1TRNk2WZECJJEl+vC4JgGF1d1wVB6Pf67twHWrNNKVVVFWNMCKGUak2NHJPTTkeEDYSQrusIIUJIpVLBbQyaqAWhKIpiLpc3DENRFJ6vl0ulhox6lzeB585mM9u2Xdd1HGcyvgSKjEYX4+nvqWEY168mk0mHdsZX18tNmv59kb56XD9Z5hCUSz+G1igMo+32X/q2tm/S5+fNZvPSOnmcP3hn/cG3Qw5kdvayn3KwIf0cWLdTe/7ghUEULeJosVwsYnfu/7l1LHMoicrnbH43s/8fDhxYXgMAhG4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/40.png",
+    "width": 1920
+  }
+}

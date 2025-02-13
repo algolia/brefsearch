@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Le petit chat.",
+    "end": 34,
+    "index": 15,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=32s"
+  },
+  "thumbnail": {
+    "hash": "02d7724e2f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgElEQVR4nAXB2XKaUAAA0Cs7QXYvd4MLsqNEWdQaDaTt2CyTvHQmfexjp1/Rf+85IF3nVdns2u64a/N1NvbHj9vt8+3leZoSHqWcRAxDCCkNGYsURQZlUbfbru9OcVK4kEXpZp5u0/yjqDuEKQsZDWPfh4RGhMaSLIO6bPr9YRgvTXc99qfHOrlevl7m1y3nZOWxpA7jAtM4SkpEuSjLYGjv5y/n+Xw9HK99ux/XLM+q/fB4qpv7LE+bISvbOKt52ngBW4gi+P3x/d+fz5fziBEVJEmUdbAQcFRvx1u1m3i2Q4hREmKEddMXJRn8fRt/3R6aLDVM1zIMa2ktBMmG8ebwvB2ekqQ0bS9iUZNEtmUJkgR4nKOwsL1AUnTq+diHpuWuMSlYmKV5gkmOg4yRmCcwIIqqAjOI/bDS7EBQdM2Gdw5UdfPnt+79odAMK/Ahcl3XdgwPOz5RVA0YPnZIqi5dSTdXfIMwX63Q01ANBRKUOwihaVmiLCu6qS0dSVH/A/Q7NLq+kZ5hAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/15.png",
+    "width": 1920
+  }
+}

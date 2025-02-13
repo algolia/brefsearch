@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "D'accord.",
+    "end": 101,
+    "index": 43,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=100s"
+  },
+  "thumbnail": {
+    "hash": "455fc929f1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nBXLXVfSYAAA4DccDAQD3KDxIZOvwYgN1nzZBIEx9g4HQyzQgWlNlklhZKXddLqozqluPafb6q92eu4f4GjSn8/26w5zocPlQevbxeT7av7VOboeI7GQuTpEMhW6bDy6u3q+Qkh2bwCjRNtyflhKvDTq12PtkzO7OZvdarBXTDf40q+3cyEZzUTJv3c/3xsDDuDAqORWvZpZLSIZOuZgl2GHIjfimcQmYYjcO1MxWHovE/94fuK01RzwgNl+uy5UIVfuSrXl5CQXpbIkGQuGaCqRjVHUOv4C7f1eWvVtKuDxBnEckMGgwPExMqLt7J4ic4uIhNf9ROB+yOsLefGA223U5B8WKlOk24X53B6wGSaKDKtpI/vZYj7o5ykSc7nSSbqvIL3R4hl2rHYXerOUSvtxn8eFAblc2IlTNqwrSn+koTf7KpvJd5uapRtPdONARQqUJL4qc5UHYcKzhoEvl9ZNWzz3Y087NbMJhyJfTmePkC5s05Ew2YHS1OgJRZaOJ4OBjf/h1UhdDFrH1dyt1ftwdmw/nqhQavIPT0eTFoSFrWSjwi+mUyaVAgBg91z/AIDgXSpFruizAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/43.png",
+    "width": 1920
+  }
+}

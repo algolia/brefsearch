@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Allô ? Yes.",
+    "end": 97,
+    "index": 55,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=96s"
+  },
+  "thumbnail": {
+    "hash": "65d4d602f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXB61PSAAAA8FVotPHag4e4BzCVxI2HvLYxQUTkYAiLBq4kJsgqyB5eV4DGIM5Tu6477/rkJz/0j/b7AafiFuf31iNrI0n8oZSNxsELPqYWku8OU71qRisLnTJ/XEgf8+FsAAeXIOBbu6TybDfDqNz2vCn180KnIJy93L/ot68/tG6G8tWwMWsVPudiusCkSByYK6WBmPyyz38qZSf1g+5uZqrVvrerF/rZn/HHh7vZv/vfP09b59noZYV7L0aAG1VSucQgx4+l/K1aWxxVlWJWl4s9WR6eaNPLyWKxGL89MUrpwW5ciYeAmVKOkuRecK3BhLp8Qtx8DqGrOEkPe53b6eiXMTnva5XcTjPJZmhfPkgD8yNZWF9nCfwwwu4xWzDmdeIBZIXSKsW/xte7a2Okaxv+oJ/YqG8zxUQceCWkLVaUIagUTeMeAnFTiJtAXPhrHzWLhoym9KZWCfjCAYoVwrFVDwXAVgQwgQ4rQjq9kA2DbJgddlscLg716J6VPkkGqU0E9ZN4CEWIp2YYeLQEPX7yzGSCzCAMWlDQhkEOF2h37jgQBYEjLtJsccN2LwaTFtC5vGz/D5tSZwLjQF0DAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/55.png",
+    "width": 1920
+  }
+}

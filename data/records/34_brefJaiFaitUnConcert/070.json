@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Les potes sont partis. On avance.",
+    "end": 72,
+    "index": 27,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=70s"
+  },
+  "thumbnail": {
+    "hash": "41e0bcc309",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABsSFhQLDhIICk1CP1hMSlFCPVg/MVMyI1Y0JTohF2s7Nk8VD0stJl5USlBEPDEmIAAhGBcbEBAdEhFZTkxRRUN5XUxjQzGNWkSeYkhKJxdKKR9VFxE1GBUtJSAwJSAuJB4ANiUfDgcFHBANUj87WEhAgWBJcUg2kl5KhVM9RyUYQCIWUxQOIgICDQcBEAYBDwYAAHhQQUwtIhgMCR0PDWhQQX1YQIlZQqpuWX9JNk0jEzMaDlAhGCULCBkOCRkNCBkNCACLWERjOSgWCgcbEQx9XUdwSTR+Tje2fml/RzZxQTBJKRt+SzlPLSAaDgkfDwoeDgkAXTgpZTwpJxMNKyEcfFhBVTIfYToojlpDp3NZpXNdTCoZlV5JZjwoGAwHHA4JGw0IAEs/RW5LPDslHFtIQmxKNlg1IFMvH5lmTcSUc2U+KlMwIKJuVjwgFBUJBhgLBxYKBgBdVmJZRkeFX0qUXD9nPyhaNSFTLRtzRCyodVg+HxBjPClfPCwOBgUYCgYaDAgYCwcAX0tJUEROjWVRm2FDekowYD8qRygZZDkkmWpPPR4PZj8rYDknPSMYLB8ZFg0KFw8NeVZhwe8kfCEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/27.png",
+    "width": 1920
+  }
+}

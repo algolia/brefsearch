@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "J'y suis allé. J'avais 13 minutes de retard.",
+    "end": 13,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=12s"
+  },
+  "thumbnail": {
+    "hash": "b47129bee3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJaMj52Slaieoa6kpbGnpbOno21dNJSLd7iurretq7itqrmrp7SoqKyip6acop2RlQCTi42jmJq5rrHFu7zNxMG5pJ9mPyqlm4LKv73OyMnDm3SxayG+hErEt7q4rrWllpkAZF1ddW5tiIGCnJSQua6pqqqbk4h5z765wLey0MfGvJ1/opGDuZFm2cfEysLKrJqfAF1QUEU3NY6Ff6ycjZ5zaX16WZmKcNO8vcG4sc3Fxb+SZapqJMyLRuDT1tbN1LajqQBoYWCCenuflY6UiH5tW1NrXFW7q7Cxq6x/gYXGvr3Ou63RqobduJvh193ZztTHusEAua2ovre7vbWyQkE5DBARCg0MNjU1nJWRi4iJwrm20MfJ19Pa39ni39Ta1srQxLjAAMesgcCxoYqFiCgpKVBOSR4eG3ZybbetqbWtqcG6t83CwNPJyNrQ0tXL0cq+xListACzlGenjWwqKipNTEhWUUs5OzqHgH6ckIOunoqqnpDBuLbBt7O5rKa8sLC5rbKqnqUArI9mmINiLCkkR0A5KyUZIRkVWkY6o5WGjXVTdmJJlod4knxflHteqJuZppygmIuP88H6ZF+uiAQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/05.png",
+    "width": 1920
+  }
+}

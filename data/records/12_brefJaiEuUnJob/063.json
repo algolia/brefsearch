@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Et Fabien, c'est le post-it.",
+    "end": 64,
+    "index": 29,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=63s"
+  },
+  "thumbnail": {
+    "hash": "239308e6d6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGFicIyGj4B8hHVzfWFibF9neXJ+jbrAy+Tk6dzb3aquuX6Fkba2t83L0bGus4uKmABZV2qOhpCNiJNva3RWPS9PMyJhPyejfGHd2t7d3+XO0Ni4vMnGxs3d3OLFwcR/g58AS0ZglYqVmJGdXFdbajQEVS8MJRkTZzoSy8HAyc7Yx8vXxsnWxcbPkJCTg4KDa2+WADc1VpmPnJ+ZpVRTWWU1Bj0hCQADEDQiEbyxqsLBxK6xvbW9zsHDx4WGhmdoal1igwA2LlGZkJ6SiI9JPTx/WUGicExhTkJUSUKRh4KmmI/atJfAqp6hoKPV1dWXlZdVVnYAQS5NjIKQinJokGFEkGVKpnNSeVtJVUlDW0tEU0M5cVA1gWVMd3RtfH18U1FTUEtrACAYSEZDV1NLRkUtHUAmEjgkFDEbCSwXBT8tHE8/MUQ5LkxNSm5wbUhIQkVFR1BMbAAFCkBFRV1UU1AzMCslIBwhISIqKCE6OjVNT0xDRkVRU1FWVlNsa2ZjY1xNS09NR2gABg1DR0ptWFZUHRoXHRsYFRYXFhEVKSQoIB0hICEdNzYvTk5NaGdkcnFtV1VdRUBeUJu0C7uhZIYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/29.png",
+    "width": 1920
+  }
+}

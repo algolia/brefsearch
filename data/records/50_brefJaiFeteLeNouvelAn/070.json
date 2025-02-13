@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Pourquoi vous mettez des baches ? Ou tu n'es pas d'accord avec le thème.",
+    "end": 72,
+    "index": 28,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=70s"
+  },
+  "thumbnail": {
+    "hash": "5016455bc3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGOw1tcJ93NPT4wqyU4oy0msKMhsb2+bPmvWyg2bZ8+anpOd5uLsbGNuamVhZmNhamdhzKChqp0QEZibFltZkFpfktlQUdg/dfrseQta6puWrVoZ4OdjqqvlaGVub2/vYGPhZG3KoKdtlJ8aXZ6XUlWYVl+aVVtW0Dttjk9obEFFfX11jYygIB83n6aamoOzq5uDpaeDGYONmW1neeqsjpLO6pzaovTKwqyG9h4b9wBDO3cbEzNnJQVhfiEVVTUHJxdvFxsfJ3MGVQU1HRX5IFfL6S35ZVlx2RkpOcXlBbWtGgYWfDyialIyokJiSkpKTk6OPu523o6mDDKCQlwcnDwcnHkJQaW5qSkZWYUV1Q19UzzD4hlZeTl5hfgERHn5BHV1df08HNxtjRgM5BTE+fjYmdkt9TQignx9fXx83F39A4KUNXQYmNk4eQW5eAU5ufhExSTcHSydrQwZBPmFFcWEWZnZBXn5NJXkVWSk5SXE5CXE2di4mdl42Lj4WDl5Wdi4+PgEbc0NbU21GdjZuSQEBVhYQELyMtKKcnJSEhISYuLMLNyMLJzM7NzMrFxMLBycXDwGOhqm+uoAIjBpc3JfdXQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/28.png",
+    "width": 1920
+  }
+}

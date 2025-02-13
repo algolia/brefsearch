@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Deux, on ne dirait pas.",
+    "end": 45,
+    "index": 18,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=44s"
+  },
+  "thumbnail": {
+    "hash": "cc7cdab8d6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXB7VPScAAA4H2rjFfBD5WpMGMMGIsfbCPmYGO8bEw2BPcCksAGepsZkXmnXl2cnmV3eaV3ntplX7w+9F/2PBCFLONhOLqwRKKoxPOGovA5uluvtti8Uy8d6MKgxu7bo0aeefZ4BvZ7IT5DUmiCCEcyC0slkO6rqt1pH44nZqV42m9ejc2jjbWbb1MURlyPvH6XD5IIlCVy1ItoPDDHzS+ONK3HcyOOPDDku0n/0tm82Ond/zjJJFPuGZ/PPQuts4BPAoAkqllKTIOhrm+1ja5Ye79WubW1u/HwfLj+7+dUFoSHDzwBbxAy6orKMWIcl4rlnq6+1vTd0fZtXfgOlneqrz42K9YK9uuT88UehINP/d4gJBYYgWEkkuBxIKWAqRlnLH35xHMcfb5fIq08vicQ55PutWV0YNjlCkAFgm5IjabcTGOAi7+84JnfyLw16+mGQp+Z9FuBOtHLZ7uda1M/wmPZBAY16w29pestLRaKZGPYX6X6J4nUPG5qpbJaU61S7rRdtUT6q1i4oYGtyVA6GqMxbKPI7alyA6S0aGQLXnxD4tPtzUPHMRXlnVIcSOUP8uoxhph87j9TqXrut8+KVAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/18.png",
+    "width": 1920
+  }
+}

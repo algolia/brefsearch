@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Dans le métro, il y a des bancs spécialement conçus\npar des mecs dans des bureaux pour qu'on puisse pas s'allonger dessus.",
+    "end": 24,
+    "index": 7,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=19s"
+  },
+  "thumbnail": {
+    "hash": "417d0c10d3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nBXLS2/ScAAA8N6Mo9DalpVS2eq6PhhtaSltaTv62GpB/sGBDFITcCzZw80HCrItMTEhXubBxXjy5sGDxu9hPBiTRb+Q8Xf/QXtM7ovC/Pj67frn71mye/5o+PfXn4uXF1eXV6NB0t0O1gs0gSI4vITBqdnhPjQnMwsS/nxy9GE2/TSfXh4Mv79/dzoaL16dxXX3yXjU9u0smkHTS8m94O35FDoi4De59HEUHYDWfgucdZofnx6Ogvri+QTE0aAN+qFhbTAiQx/3QWPLh/Zu3ZzTeJkVdJYBCmeLQkOTk81a/25k6trgPmg7qsnfVtiV2DU824BO8dSMxqqcaKwVdjQBwyiSWC7eYXzbUiVxuNvteRWvtLpVZlu+ZekadJKFX1PIgGNwnMJRMk8WhDXerVYNRZGLfL/dHMdGrLLA4LuRYxs69JhIT/BUgGMolkNhhCQoAl2uSlqtYkiiENdrk46T+OWeW+qEVlh3oBiFnxGp7f+BymfpPLmSxShFlL1aqEpSYKpAX2/qXM8tdmIvDj2IR5CHmRsvGqCiuRRBP3Bcu6RIgtza9I2ybJY4h6cCaRXobBw4nmP+AwagZwOTM8aTAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/07.png",
+    "width": 1920
+  }
+}

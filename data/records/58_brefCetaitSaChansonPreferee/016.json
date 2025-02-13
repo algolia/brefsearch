@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Alors que moi, je galérais un peu plus. Tiens, c'est...",
+    "end": 20,
+    "index": 5,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=16s"
+  },
+  "thumbnail": {
+    "hash": "b24769b026",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nBXK7VOaYAAAcJI6zZYlKzNNBHyB5+FBH15EQPARhiLOsUq3WZzHvLbbrdvlh/q6/3233+cfdZDL5+hC7rCQy5++Y651CertjigiT1ViQ+YvmdOTUumMURFYIfjy+xf1f9PHR0cnreo1e9MMTNOQoCz3d0n0nHxQuZoqdpQWr/ONRbPxun+haPqYoovsORP3gArA3CcCx8tQuQsn65GutjjSl9OPUx8Is/PS635PHRwW84WSUa8vtd7UHkzH4zJTaTT4ZRhk4cgT+agPv99GX4m1ZMp/396oQvGMrVy5bcHHSmRpxLIU1LMtZ5tmz6tPhGOVenU+QJvYv3WGf552VKdW9bEcYCQ3WWJgTcFDfbBNsx/Zz93mMSNDAlp9tob5Ory5sHqAIpqSjHS1I0hcU1NQD0HTMLLt08OX9HGzTZfzzyYYS5zZZi0FuI5LRbN45rns5RVXfo+6IgQSgmBkOXfJ/Xr1sL7/FnvOwtYnQ9OxPUICCmPDcX3PDYjpOhizlYu2IHQF3oDdMFzE8yTwI9OwzYHtuRPX8f4BjmJVvc8pC/gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/05.png",
+    "width": 1920
+  }
+}

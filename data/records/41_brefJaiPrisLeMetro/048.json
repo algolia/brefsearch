@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Et comme tous les mendiants, il avait la même mélodie.",
+    "end": 49,
+    "index": 17,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=48s"
+  },
+  "thumbnail": {
+    "hash": "4d8075238d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANvT2sW9xJqUmtXN1qagqKOYm15TUHpwcMa+xd3U29zT2N/X3tzU2dzT2dzU2dzV2ADc1dzIwMd6dXmnoql+dXklHxsxIxl6U0GJen2Cgph3dYpeXGVycYdycopwcIhycokAw7m+ysPJhH6B1s7Wa2NlIBYQQjAnlmpXhWhtYGOaXl6QMDA/UlWMXmGYYGKZX2GaAMe5vcjCyImEh8nCyoyGi0s/PFw8L21OPXJST21tnGhrlzo6SGJkk2hrm2hrm2ZpmwDQxMnMx856c3aShYh2bW9qXFhdRz9ZQzidkJDa0dvIwstcWVzMxc3Wz9fUzNTVztYA4NnguquucVZRZlpja2FebVE8QDc3NDVDnKC049nhysPKXVpdzsbN19DX1c7U18/WANLM1KKPjTo2QyhGeVxVVWdOODYrJg8ZKo+IjODY4Ma+xVlWWNnR2Yh7fJ6Ult7X3wCNhoxxam4oQWggOmJJQkJZRTRLNiYgJTNiVU7a0dbGwMdjX2OmoKdXPDNrWFXVz9cAVE1PgIGMJ0RxGSlDQD1BTjwtVD0oJScxQDY4jWxqgWdoSkFAPjY2HBQRGxYUgXBxF8Tal0dOMgkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/17.png",
+    "width": 1920
+  }
+}

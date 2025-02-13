@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Le carré de l'hypoténuse est égal à la somme des carrés\ndes deux côtés opposés, où toutes les répliques de la cité de la peur.",
+    "end": 67,
+    "index": 25,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=64s"
+  },
+  "thumbnail": {
+    "hash": "04c70ccd50",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nC3PaW6bQABAYWIYhsUwMDADw07YCl5qbOOldSolcR2rdqQ4SdMorZT0X+9/gqpRD/Ck93F/Xl/fnn89n36cDnf7q5uL5ZfpcFZldRrlIYuoxXTVUCVdlXVZUqEocfeHw7ft/uH24ffPt+uL7eduM6xGZV4nYcZoYJsOtRgxHQWqUJQFXuRuLq9mo9lxd3y6e3p5fDnujk05XM3XXbtwbA8j0o6nAQuBAIEgAQFyk2Y0/jBeTtfdx8WyXc1G8ywpIz8Nvdg2qalZJrIkUREE8b2BXJUWWZzPJ4tuupoM2iYfVFmdhOeMBgQ7GNkK7ENREYHE94DAAy724jRM99v94+n718tdkVaflpt52xXn5Wa9Idhxba8pmzKvoCifcTzn2C6jXl00dTFIoywOEt8NGPVd4vtOaGq2ZdDQi5BuCjzkewKHkYX6BiMsDhLPDX03sgyCkY2R3ZeRAjUAZAD+cf8vEUxNHWNkYWQRTB2bYUQMzTQ0rKlIkfsSlCUovxvE3hn/F/+3NGgsJ3NaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/25.png",
+    "width": 1920
+  }
+}

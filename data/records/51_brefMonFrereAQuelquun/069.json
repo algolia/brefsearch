@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "J'ai dit: T'as rencontré quelqu'un ? Il m'a dit: Oui.",
+    "end": 71,
+    "index": 31,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=69s"
+  },
+  "thumbnail": {
+    "hash": "80299590f3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA4HChgPECwgHkQ0MVM5M3VLPXFIO2tLQJRoVntSQQgHCQkICiMdHTYrKSUeHCwlIgAQCQwQCAtRPjtWREAVCgx5TkBgOS05JCF6UkSodFwpHBodEhM7LywzKykYFRY0MC8AEwsNDAQHVEE/i25jTjQvuIRuv4RqiFlJwIhtyo5vZEI3ZToxSjo1NS8uIB4gLy0uABEJDAoCBSYYGYRiWHBMRcSNeMiHa6NoU7+BaLB5YIRXR4VWSUdAPjMwMiAfIS8tMAAWDA4hFhYxKCpqTUVpRj9zT0WZZVOdZFChalWMYE5aPTJTRUE4ODsdHCA9ODtKREYAVUhLe3BvnJicfWxoUzYxOSAgYDw1j2FPkWRPZ0c7OiwpMjM2Hh0iOTY6WlRWTklLADsvNEI0Okk4PlI5NlE4NE4tLGo/N3FKPFI6MVI5MUY2NCUiJiQhJEdDRUpGSEE/QQASCQsXDRAWCQtSMytJNzM8JyNhPzRMNSwnGxltSj5gR0MmIyomIyUxLTAuKy8vLDAAFAwPDwoMGQ4QRSojSjQuIRgYHhQUHxUURC0oeVFCXTo2OCUtIhkcFhQVGhgaIB0h5Vhogwf3QQ8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/31.png",
+    "width": 1920
+  }
+}

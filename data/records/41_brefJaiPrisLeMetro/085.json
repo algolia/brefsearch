@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Non, moi, j'attends pas ici.",
+    "end": 89,
+    "index": 27,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=85s"
+  },
+  "thumbnail": {
+    "hash": "287d3da46f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABg0lEQVR4nBXNW2/TMBiA4VzAloPt+PMhdmLn1CbpAhvNUtpuZaODsqPEhlQhNCZNoxLSpCHE/79CvX8fvc7ybL0/LEaGnx/NH+7Wt8tlP8xao6pYlJoXEdRGJoxkAooIrKDO5vFf346amH2/uv7z9Pz36ffJ+E0Tc8tIKuhA85GNDKNbICGV1Pl0cnPY7rWpvFgsziazl4dfn993dSKKWCdSxIwOY245zSTkEoygThmr8cDu5/FqNv+2ut6s71fTXoYoiaTVioehpsQKmnJaKrY9SOT2ddE3ZTewk6Y8auu9NAEUUBSYSCgGgAJFcSYhE9Qy4ugQLQ6743ftx0m3mk/7KpchJr4HKNCcac44wYD8hBFFAgPYkSFUaTpuys3Px5fN8+RtSzyPooD4ngIaAWUYcRxoIAnFzHedSObERzLEt+eXP77enU5ngJGgBLYdBhRgz5UhNlLkkagjcJrmFPu+t/OqyuyH7uDL8fygqXMtFA2x53q7r42SVWqQu2uF6LL4P9XMNvjuxLX3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/27.png",
+    "width": 1920
+  }
+}

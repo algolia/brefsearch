@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Bref, je voulais arrêter la coloc.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=0s"
+  },
+  "thumbnail": {
+    "hash": "90d1097939",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGOYOqFvwZy5GfEpi+bOvXHtwtlTx+fNnNtcXnVg3z4LC0tWBiYeDk5BPv5wn6AgDz9vZw+G1vq6yX39pdkFE7u69+3etnHDumldnbPK8zK9XOWkpDhZOTjZ2KVExRNCo6MDwkK9AxkKM3NrS8rKsgoL03Pqysr729sbk2IbQ/0SrM1khUWFeAU4WdmU5RVTIxOCPXztjEwZ9FU19VS1zXRMLfXMDTUMtRU1KkMDSn3dg4z11GUUNRVVvW2sfO3tg1w9NWTkdBQUGfTU9FRklLQUNUzVDYzU9HTVdNJ8PDMd7Tz0dNTkVcUFRB2NjKLcXfztbHUU5GVEhBisDSwczRxMtYwNNQ3SEjLiI+J9rCzdNFWttHXtLezM9EwUJGR8rCz87awDHGx1lJUYxAVFpYXFJQXFIoMiY8NiXGydYgJDgyytnc3sbEysnK0dtJU1HI0MvKzMfa2tQRq42Tk5WTgMtHQDPf00FVX11XXM9U3M9ExNdU0sDEz11LT11LSdTUy8rCw9LS3kJcUZWFlZWJiZ1ZVUTXQMlWUUDDT0nKzsbU2trI0tLA3N9NR1NBTVLHUNnIwM7QwN5MTFAI11btwwWcTyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/00.png",
+    "width": 1920
+  }
+}

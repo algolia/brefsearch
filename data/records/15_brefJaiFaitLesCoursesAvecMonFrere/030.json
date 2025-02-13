@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Je peux deviner ce que va dire mon frère à la tête qu'il fait juste avant.",
+    "end": 32,
+    "index": 16,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=30s"
+  },
+  "thumbnail": {
+    "hash": "cfd11b3b36",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACIaGlk+NZBkT5ptVZx9aYmCdoOAeNXT28K+vGlhWoJhVZ90YYJhTXxwY66fmpKHgAATDg8vIR2GXEeEXUuIZVHCuLXUz9TX0tjOx8qMc2uAWk+bcF2UcFq7tLbCvcKYjoQACgcJPioijmJLfFlJiWJNqpOAt7SsxLy9m5ePfmdYlWtdil9Nmnpq0cbGva+xjX+kAAsHCWNDNqFxWJ92X51wV5doUJOHf2poYSgrJFhFO4ZdU4hdSn5kV5F+dqGOhZuTsgBMMipHMSiMX0mgcVigcll1VEVHQzgUExMgGxtaRz9TODNVPTEcGhUyLiy2sbKzrakAfVRCVj0zaUw+iGNOimJMeFNFJSMiDQ0TIR4cNSwlMykiOTQpLCghDQ4RVktFr5uRAHlRQj8rJEQyKk88MmlMPmZJPQgIDgcHDDo3N0hBPDk0KUI8LC8tJBYPFpM/LLhnOwCQYlJbQDUgFhQXDxAmHRonHx4GBQwFBQs3NTGWkY6ZkZWCe3ZCQDVEKi6QKSChOg0AYUE3gVlHY0k9OjYcFRkLAQEJBQUJBwYMNjEqjoh8j4qCmZOIdXBiiWtgbygdZRcJmkWaF1I27ekAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/16.png",
+    "width": 1920
+  }
+}

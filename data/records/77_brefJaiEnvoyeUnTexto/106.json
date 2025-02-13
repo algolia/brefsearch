@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "C'est le mec de l'autre soir, il veut te revoir.",
+    "end": 109,
+    "index": 49,
+    "start": 106,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=106s"
+  },
+  "thumbnail": {
+    "hash": "9bc2f152fc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEE8P21manNlZmhLRGFFPmNQSnJiX4FlWbuems2vq8SmoWxQR0cyJ2ZZVEpRXEpQWgAyOEJqbHd0amxjUEplUkxeTUlpU0h4WU2oioWoiYK8n5qlg3o9IhheSDxmX15KS08ALTA5ZGFpcGFdZ1dSW0pEZFRQXkE0ZUY6pYmDqo6HqImDvZOJWTcrXUQ3jnNiYE9FACUmLV5TVHJjYXlubl9RTGVVUWFNRXFSRaqMiL+gm8GalKR9c1EzI3ZdTIpvXWBORAAdHSFUSEdwYFyBdndlWVdiUk1pWFNjUEZzUkitioazk4qXdGdbOCZ0VkJ1XU45MzIAFxcaR0RHcGVmem5taFlVYlRSXFBPSDYsPCMWjnFpooJ5mnlwe1tOY0k7W0xEVUpJAEZBRFJPUlVOTnJpa2ZcXkg7OmxdX4BoY11KRH9kV6SHgpZ3cIBkXU5DQEE8PVhQUgBUT1JXUFNZVFhvZ2xhVFiRenSskIq8oaCrlJSkiIOjhH+ObWhfTk9DP0NJRUpMSk4AZjMzZyYkZisqZSUkXBsan3x5rpOOwKanh3Z7gGhnm3lzclpYOzQ6RUJHRUJHRUFFSzKlCQda7nAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/49.png",
+    "width": 1920
+  }
+}

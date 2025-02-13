@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Les mariés s'embrassent\net là, je crie: À poil ! C'était un bon mariage.",
+    "end": 97,
+    "index": 36,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=88s"
+  },
+  "thumbnail": {
+    "hash": "22a5f35c2a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABM0lEQVR4nFXO127CQBQE0N17rwFjtuG6uFFNMabYJOIp//9Z0RIiJdI8ztEMk2Mk4kh8FZmhzrvSngu7jeeSQBIqQoUwAz7lzAWAxT6JMQQjqEM1LItTnnblYpuEkkB5qD0Mx6NcyoWU6SxQhOwUBRs9uYezZaT6Om/z7FLlu9QB7QCEk1GhVW3mpdLGQ/bIxNOqIVG7NLr/giaNJYJ6GUUgkStgGvickF0i/2HlswiPNvlZ6NxCLBAFukvvjMh45EApvWM4/Vplt2XVFfYFil2WSPoPPDQeOqDGsNZ+v6xu60Nb789lfX4BgSDQlcwfoz1kJpg2tuqbS988bpuPbt1eV9u9tTMHQBNoelcVoURk08kkNdmpatv6ct0M913/aNrP5pArHQATyAVyia4aAPrAvwFfwh+uLBZZjQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/36.png",
+    "width": 1920
+  }
+}

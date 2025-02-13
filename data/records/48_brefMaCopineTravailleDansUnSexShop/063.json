@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Il a dit: C'était pour toi le Bamboo 3000 ?",
+    "end": 65,
+    "index": 29,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=63s"
+  },
+  "thumbnail": {
+    "hash": "54c00475d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBW2/SYAAA0MYY6OXr13sBGWuhHS10QhntOto5XFfXoZQ5bnZsLODcFhJDNJsxUYNLXPTB+KAx0fjowx79jZ6DpAAt4KQIGD0tHbp+z212zfpZOIidcGqvz9zqgxVl5Hcm9sNndS80akgKwBWWy0KaQvGqIB1r7mx1+7X1eNF88qsf/Hs53NWVFIr31Pqrg6N900FyFFPmBZ0TcxRT4rJXVuvNRntcDZ6bztyr/j6JYmt1S833DXvs7Dy97yAKy2m8UBJEheGWKO5z+/xnqx8WzQ/t7mLH+jPpfI/3rjatqNy4uVhElXUkA+kczUo0X2RYXy7cvrj829s79bYuGtvX/tqP4aMvXX9cqY+N5s3x24GxgeBJADEST4JGSpxVtI9e56s/uXaHI93qaFJc0z/1g/dRsJlR46J9Zu0iJAoYnKQx0FrOjYr5S6f1zh3YaZUjaJnmmsryt5NoFnoYSizxmam/j8gUrbOsKYhHZS2U5Hk9KAn37txNoBisMexclw/KKoaSAIOQgCLJIodG4XytdFrRwrxUoEWNy+IJAuIwkQQapKZpPkNAFAUkTlI4hSWI/1G8V06Gaa2TAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/29.png",
+    "width": 1920
+  }
+}

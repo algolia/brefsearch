@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Comment tu t'appelles déjà ?",
+    "end": 11,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=9s"
+  },
+  "thumbnail": {
+    "hash": "eb53c62a55",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nAXBSXOaUAAAYK6ttey8B6JI2GMSZUkNwaAQyVPcwhAUa7WjnWmSsebQ6amnTo/91f0+LIh38fhVv3xQrLBphrzU4estFE6343KDlgM7aIoaDTUaKCQj45SI3Q0PaPGz201RmCb9TLf80E8Ps93x8+l1/VZEcwk0aKgyvE4DlaQlLJocB/F6GKAiLb9m+6fRKosf8zB9yZ9P5XHRGxE4xwkGKxg01ChWxq6vx1dqq+f0h/4QBWgezWcBmvlJ3LntahcszjBQAYLB8TorGBRQMEhSMqyZTaOjt13T1muyRLKBZduy4VnurXfP1wyOVxmoEZxCsDIGKU6gQZ2BEg0aNGuKkn/ecdTW03j76/Tv5fA7ioreYGl76EzzOEHDyPcVgJNnLLBlJXZu8vvpbrLaoOzt+5/T899tcZxO9unjj9HkcNfPbDfG6hyriaIl1j39PLiw+5ftB8eN2k6BVrvFt818P03KJM5dZ/DpBrVMG2sATuahDCCo4sS7CvOhKpA0UfkY2r0vaL1GZZ4sV2gp8xJVJUSK/A+wPFhT85cewQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/03.png",
+    "width": 1920
+  }
+}

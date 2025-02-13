@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "La soirée avec mon père et sa télé.",
+    "end": 28,
+    "index": 13,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=26s"
+  },
+  "thumbnail": {
+    "hash": "872f655ee5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nCXGSXOTUAAA4HeozVZ4gQfh8TaWJE0zULKQEBYhaEozjUNNojbTgyd1euhoxx/g0RnHX+3B7/QBP5gGk0UWXz8/zsNZmGb52A8wdxWd1MeH33/+Hj9+enn5UebF/t32/a4CLajZ/f7dxicEv06KalPd7w+Pp7re7dI4ZcKZL5ZPT1/yOKqrcp1GAJxfCBsquiJphAlrNPLfFMtocRWt8rx4m4Tzr3VVhFOT0mqdxYsZgAiPr0wueorOECbDoYhnAhNumJQwcSqTX5+Ph3XSbMtlssrjJcAm40IUseONXSYG63RgWYJQyyDccQfFtVcE/rf7230WVeFkMOwDTJhuMMb5KhS3hbucOj3MubCEsJFhluHse33z88Pd82GbBr6kqOBC1SRVk5ABNXw5xJrRU3sYGaZJuEkFJXQ78U5l8rDJt3l63oGgKXdbUJU1XUZ6S0aSqsuq1umq7S5iwiXCsQm1CMkCz7scNSECDQm2odrpqsggVNiYCs1gBuH/LykaeNU4a7QYNtsQnXXgPyZ9RVjDQrzlAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/13.png",
+    "width": 1920
+  }
+}

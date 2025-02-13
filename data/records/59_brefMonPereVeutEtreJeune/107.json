@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Les deux Allemands ont dit: Was ist denn los ?",
+    "end": 108,
+    "index": 49,
+    "start": 107,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=107s"
+  },
+  "thumbnail": {
+    "hash": "5ec6bdcb70",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABf0lEQVR4nCXKa0/aUACA4RN67peenvZQe0MouhY6UDQURhGGKBODuhmNJtu37Qfs/39btiXvpycvsP5RGrQV5ZJrLY3kmmHGmY6SIg7TspefHvewgzgmBCKCCIht9NgspuXQl77LPclchohgbpyUkU3yJOsnHUWYwJQjwggFR0H84/bm5+Pz/tN6Xo1jL7DSNcpk2aCbdAPlFVl3czbtmMD/50DJYF/X77v7w3L7enP/pV7OipHibpZ+OMn6ggjN5X62fNncjU8GVV4CTt3DvP6+O7zvHl63+4fFuhdmFMvQdtpemxGOHHze7f/6+tZM5lGQAIz5rCiem83T1fbp6vr6/NITmiJhdWiVYQgjRD/mvbvpNDSx50aAYTFM0m/zxXpSr84uV6MLIw2GTDKlmQDA+dzxft9eRJ71lNXKAkmVL/Ukz5uyqPunzXBslEGQUSIRJKgFjxnTECNIMaIIEiCZEkSkJtiNR5uqWg0qozzHIQhS1MK4hWGLQOfv+r8/qL4vS3o03qEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/49.png",
+    "width": 1920
+  }
+}

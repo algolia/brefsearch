@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "En nt, tu as l'impression que tout le monde le sait.",
+    "end": 13,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=12s"
+  },
+  "thumbnail": {
+    "hash": "1c1e04b49d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nBXLW2vTUAAA4EPOOcm5pVnuJk3TNE2T2Ymb07FZ1kjrurKpdR0MXe0EYdUHWxmIFoUx6MApSH1wbIKCf1X83j+w190e9Pd73Z3D/sG9JM2iJEuXWo38STMXTEgShBKklLu269o2ZxRczn+efvw0HU9eD4Z34zguhmEYnQwGF2+OPdOWIMIIEUI1VQMAQEkCf65/X/24/D47n44n7ZXVkl/0/GjU23vRbgeOSyljjDLGDU2HEiQYg2+z86+zi79Xv94Nj9bL5cfNxnI1zcL4ZhhyJmSFKjKhlJsFTRNEUAVcz+cfJu/fjsarSb3mBCdPd4f5BqEmZwue4aa2IUkyRsRQNSLj/+HL6dnxy1He7DTX8jv1zbi0FAX1kn/LMqKSH1dvBJwwopAFUUBQUokCzqafn/Wfb2486DzspbX7murZVhz4dceqek5FIXoaRmXfF4TKEGqcg1eHRzudR92t3cZ6y3MzwU3Xrha9RdusFFQXI1aLskoYEYQVjATnYLvVaTZaK7fXFmvLhh4yprt24tqJqYeqsGQsfCdwTEuBGCOEEPwH7NpHE06d4ZIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/06.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle a ditJe termine mon service à 18h00. J'ai ditT'es serveuse ?",
+    "end": 9,
+    "index": 2,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=6s"
+  },
+  "thumbnail": {
+    "hash": "aae7c2de3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKyom1hXNz89IGtcSLSbkaKIcmtqNnF2OXd7Q1VeJ2RLO2JHO3RpWLavqLajkKePdwC+vbKEgm4xKx9sVEm+nYmugWx0XTxVVi1lXTddXTNuV0ZlST1+cmLHv7a/qJKym4QAkpCGmJWIXEo9fl9NhmZUgFlHdlpHgH1uhnRsgXBed19SY0c6fnFfyMC1ybWhuqSOAJGQhn16bnpoW6F+a66Kd6B5anNZSYWIhpmXkamnooRrZF1BNm9jW8C6tsm1oK6ReAB5cmmBgHmChYOIcGN3VUFhOChrV0qmpaDDwL2+v7t+ZWBrTTWum0HTwmm/po2WcVQAZ2BYmqCnj5qwg2tfQysbQCcZdHB0sbO5s7GuqKWeemJmjmke0q0OyaIRtZhnoYBqAJ2mupehuFthdnxoYXBOOS8jHlFUX3J1hJWVmaajnIx6foxqKbuYCryYBraUKbaafQCPlKl5gZ1WXXdtbnorKDAlJTFiY2xvcXx6eHqnoZiCcHR+Wxt7YixfTz9tVB+liVMAdHeBd32SbnWRR0tbHSAtMTI+Zmt+bXGFX1tah35zfWxyh2cZiHpLQj98Wj5aqD1OQWPFfvmO2qQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/02.png",
+    "width": 1920
+  }
+}

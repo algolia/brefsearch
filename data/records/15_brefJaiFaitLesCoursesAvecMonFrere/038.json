@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "La fille de hier soir était vraiment très...",
+    "end": 41,
+    "index": 20,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=38s"
+  },
+  "thumbnail": {
+    "hash": "36284b0643",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG5npHx0t3JqjDEnHH9ZSIVWP3JLO1hFQY+KltnW8cnG4d3e7KGdt2FVhZyUzWxkiAB3Z5aEfLdza4UxJRl8WUdrRTJySzloU094cXy8uNihnLignLaCeqmBd6+7tOWBeJ4AbkJCeXKvf3SfW0M0iGRPakY1cU4/X0hBjISEsLC1paCrsKu2q6i5t7LUxL/qrKXCAIVjbWpelqme1YtrXJpwVY1dRYdiVotsZbOrsr25wLu1yKihpa6tqL+61riv45yVrwCLbHWOdZK9vP2bjaGCX0VsRDNcOzKDbmu1sMXHwuOemLhlWG+cjaeror5OQX8mGxoAlGZPqIqHx8P6q6C/Tz0vWTosSC4ldm9uw7/Rv7rimZGvZFRvjWWGlIWRYVyAVU1hAJZvW3RgW2BecF1QVHRVRDgmHEQwKVZJSo2JncnD5qOcx1dJcYZukLSturav4KGYzQCGa1tDNjUPCw8fGx5gQTVfPS5ePTEvISITER0/O0VZU3lHP3yHZ4ytorXPzOzBvNoALiYkHRgZIRwiGhgeLR0bZD8xYj0xIRcXDw0SDQoODgoPJB4tWlVlhYCQk42ieXOAIUjJIXdcClMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/20.png",
+    "width": 1920
+  }
+}

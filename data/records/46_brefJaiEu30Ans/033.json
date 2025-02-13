@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai déjà marché près de la mer avec un pull autour du cou et j'ai aimé ça.",
+    "end": 35,
+    "index": 13,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=33s"
+  },
+  "thumbnail": {
+    "hash": "8dd5b7f75a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD4/RDc4Pjo7QTExNjkzOWBQV09NU0A8QD46PVZTWktGSzUyNzQyNjo4PlEzPD4jJwA0Mjc6O0E4OD8wMDdDPUNmU1tgXGNpZW47Oj9TTVRLQUhDPEQ3LjMsKjBWN0E1FhwANzU6RUZNQkJJMDA2RD1Df2ZveX2DeYiOTVFXV0tRSz1FOEdJKDQ0HSQkW0VQMCErADk3PDs8QkhFTTQuNDs3PKKOlbyvs7Gytnt7gVpTWltTW0hLVTQ4QCcoL19FSz0lJQA2NTlEQ0lDQkg5OTxQTlO6qqjZwLrcxsTAsrllZm1YV10yQUQlLTAaIiNhSFFHGxsAYWJqZmhwbG11cHB5gn+Iv62qxbCpwrOuwLCxcHR6gH6GSlVWOUBBNzs9X0ZRQRQXAHp7hICCjYyLl5qYpKahr8Gvr7ynoKign6yipI2KkJ+ao5COl3p5gWtqcmtWYEguNAB6eoOBgIyLiJSal6Ovqba5rLLOrqfHqKPFtLq2rLSinaaamKKCgoxxcnxzb3hlXmcAeniBfHuEgYCKjYuUo52onJGbn4+UmoyPnZWco5uilZCYjImSeHiAbW11bmhxZF5m2eyukagZ2U8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/13.png",
+    "width": 1920
+  }
+}

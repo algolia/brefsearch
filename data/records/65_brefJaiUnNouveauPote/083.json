@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Mais au bout d'un moment, je me suis rendu compte d'un truc.",
+    "end": 85,
+    "index": 37,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=83s"
+  },
+  "thumbnail": {
+    "hash": "24bf7b2d50",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXB23LSQAAA0N3NZTck2dyvkCyp5AYUCKRAKC3UVmrVijNSdRzHF/vUmeqMPtUXv8Mv8Dc9ByCecIJEWhoAGBM98pmlu2HUc+Oy/Wwc5TUbLLuDJesv43LB+g0QWw6PDWoGlDqKbHGIUKJO+nVaXZTz62z63PCOVCs+Gp3n9S6dXgIomgKxNDu2w67hJxwvXRTDV+tdcrxJ+qdR3giIDFkyXeyy+evi5AZAiCFPdb/8Vq1+b29+3X2+quZFNmP5Wcgm1y/e709mH9dn9epdVt/m9RsAgMBz8iGr/gxn31n6UFae06Ve6rKqGDT77eU8zaMgibPG7oyscAAA4BeGe7CCT074GPceg3jSGR5f3RtOohrMspMkKpBAs+rl16d/dz/+AgjFACtbxfjitO8D9tDuNtTl1JAXNVmxZerLik8kU3d7q/3P88MTwJgSyVy19DVR32r2B8M7VSxZ9QCSIJQEbGBicqIGgKgHaWe0AXaYOVY0FuUxEjdYvVXMJaEUSQDJCEoQtSBSeEHjeYol2/B6/wHsmTg1GCS9KAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/37.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Pendant ce temps, en Pennsylvania, Edwin Drake, d'armée moustache,\nfort imput de pétrole et provoque la naissance de l'industrie pétrolière.",
+    "end": 12,
+    "index": 2,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=7s"
+  },
+  "thumbnail": {
+    "hash": "b2f5bb3661",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGMw0tW0szJRU5JnZmLm4eKSEBGRk5JUV1LQUVNWV1LUUlOREBURFxE2NdQxN9I1M9JlMNHTsjU3VpSVZmVhVZaTtTM3cbQy93N3jgkNTImNqMjLcLQyszE3bizPzUoIjwzwZDDQ0lCWl2FmYuZgZTXR0/b3cIkI9MnPSM7PSKkqyu1sqnGxtXJ3smuqLHSyMlWUlmSwMzO0MzNUlJGWl5K0NTcJ8/NqrCzpaKzJSIyxNjGMCQ2MDQ/ydHbobqr2crSRkRBjEBMWVlOSN9LVNtbVMtHTCfH17GyuXb5wzoxJvRlJcZ5OdsE+Hl6uju0NlfFh/p4OVgxMTExcnJyKcrL6muq66qqRgb5lhTnbNqyJjwg11NWyMDZwsbXydHaoK813tbXwd7VjYGZmZmBgkBATVZaV1lFTaaws2b1l/azJfcZ62lzs7BoqSpIiwo5W5sUZSZ72Vv5u9gyMjIzsbGySYqJc7OyaKkrxEcF97Y0tteURQX78vNySYiLiQoLGuloJof6eDpbBnk4gJzExMbGxsrIws3Cyc/Bz8wjy8ogK8KsrKQjycvNxc3Oyc/Bxc0tLiIkKC0qKiQAA6tlgL2mN9RkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/02.png",
+    "width": 1920
+  }
+}

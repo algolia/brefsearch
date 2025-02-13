@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 2,
+    "name": "Je remets tout à demain.",
+    "slug": "brefJeRemetsToutADemain",
+    "videoId": "JmghDKkeiik"
+  },
+  "line": {
+    "content": "J'ai acheté un disque dur pour sauvegarder mes données au cas où.",
+    "end": 49,
+    "index": 16,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=47s"
+  },
+  "thumbnail": {
+    "hash": "a9b6b368e5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA6JB1PMCZILSQxHxsaEhMbExQaExQWERQRDA9ILSVxSDl7UUCIW0mOYlKKXEuBVUQASC0kXTovbUc6ck1BY0M4bUo9ZUI2MSIfLCotTTEndUw7h1lGi11LkGRUj19OgVVEAEIqIz0pIl1ANoBYSYtgUJVpWnJMPVtQT6mut083L3hOO4VZRo5fTJNlVX1VSHpSRABZPDI3KiczJB9oRzh5VEVXQTk1JyGdoKrBx9s5MDBQNiyCWUiBVkZaPzZBMCxjRTsAYj0wUTQrWTwybUs+TTUtMCYkNigihX6GnaG6VEpOHxQQTDIqe1NHTTYuV0E8i2NXAIx4dJB8d4lxaYhsY39rZn9qZHNiXXBaUZGEgmFUVFM9NFY/N5FqXo1lWIJZSo1hUQCWi4qRe3R2XVVYRkBzXVaRd2uNcmV2XVFyVUdtUUVsWE+QeW+xnZS8rKW8q6Sjh38ApZqYq5uXqZyYm5COl4iEkoB6l4J7mIV9k4N8iXZvgG9qiW9klnxviHVvq5uTvbOwAM3Jyc/Nz9HR09XW2dPV2dHT19HS1dLS1NTV1tHS1dDQ1MbFyLu2uLCnp7Kmor20snxLsfnw5mj3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/16.png",
+    "width": 1920
+  }
+}

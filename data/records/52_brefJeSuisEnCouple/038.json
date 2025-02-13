@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Au début, on est bien tous les trois.",
+    "end": 39,
+    "index": 17,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=38s"
+  },
+  "thumbnail": {
+    "hash": "d8742f0add",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXB3W7SUAAA4N7oxXRgBEop0JZT2u6sp7RQhrQFWtvxY/9WOyIbGzObMcbERLNn8MYrvDAao2MuMT7BHIkXOgOT1/L7MCiJWqf9yPfiHVevy8nEnSyeKuZzceQfnxyND/ddt3t6+ubDx0+z84tuv4fxfLmhPtiNwsizLH0rcz9JF3KQZ4dR8HTkPT/o7Ube9P308mp++fPK9VwsT5VqUn0/jl1HH1hGNn2PLubhBj98HL4a6q/3WuNhbzb7vLz5t1gsgp0QA5wgV5TJ0UFg6xxDkdk0R+URS4/8fh3BsG+/mPjfzr+sVqub5TIIfazWaHZM8+R4sgkKeHJdQ3wLcc8c/WWwXSlRPCiNh/H03dvr37/m87kfuJjcaDrdnsSBtdu3BBLv1wTEFMKGMn6o77XrhqzohmUZxo/vF3+u/wahh0n1BqBpFRAVhgR4ylaFwKg+cYxDuyVzJUWqOta2XFEtp/f17Mz1BhgnosTd9UGN69YgYplIQ5rAaJvcyNQ3GBoAQWu2IZRIkmqbpmV1sDJEawmcJYkOKmsQiDSBZ1IsTSiQtWWIeF6tbmXSRJECObIoIvE/pmdxvL/wiY8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/17.png",
+    "width": 1920
+  }
+}

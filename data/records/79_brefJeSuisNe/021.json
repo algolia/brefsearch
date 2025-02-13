@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "On se serait vu dans un film américain sur le débarquement.",
+    "end": 23,
+    "index": 13,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=21s"
+  },
+  "thumbnail": {
+    "hash": "f7672e70b0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXByW7TQAAA0HEab/Hu8ZLxeLfjtXbaNKvruDQRbRKUiKoVakCgigviwBmJH+CD+EHeAyYgHEBEvV7Zp5uB8iAZU4prWf5Rkg8QfkTohIY7Td1KfDeglzQJNEAY4MIhyJKWbkVjo+JXL/vqxB90/GT7L254soMHDXWCvGSZCdUHTp+JKSFl5Ilodpp9dNO35PpzkB+d8DlMn4LoS5weTHwnwSkrViQNbErKWLhQ8MHOXuKr71XzWs7P5exbNfu17P60m7esejTRSlQmnJJTA6CREDEwk3GLknu32If1p2L6Y7H5udr+vd//O51/z7qVjheqecXLI3oAMI890UqgV6PRzE6nVji3o3dh/n5U7qLknFwew/xGt2vFijno0Two1LDSosYub/167pcrN137SePFaz9eWM7ExGMdF7KZikbIGy4LQa0Ga5Tvgut9dNP5desVWy+tdFRpRg2NMTQrOLyEaKwMEcUZJAMyxWvMpLPSdpg05qiEri/qkSjFAhcLYsALFs1ilkM0rfR7PAH+A312POpJ2tyZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/13.png",
+    "width": 1920
+  }
+}

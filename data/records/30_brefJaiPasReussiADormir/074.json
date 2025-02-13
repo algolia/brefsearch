@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Et tout d'un coup, je me suis endormi.",
+    "end": 78,
+    "index": 31,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=74s"
+  },
+  "thumbnail": {
+    "hash": "81b982d7e5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABEeFA4ZFBEiQCQ+VDdBSjprmzBqoDJun0VskUh4o1mJqU9KUTE1NmJ4WlRqU1ZlTgAYKwsfNhYiRjoTJRpWKSBZZXAxia81c5VxSESCfYhKf6FbODM3IR5ZaUGDj110eEoAFycOIT8iIUs6LTsyTCcjQzIyNV+HQlVtWjk1aGd8XXSGOiQhMBkWQ0FBcod5OWhyABQyCxxGHyBWNk9JOEYnJToiHTAZPj0oVk04WzEiXi8fKF82KS8YFUI1NlCDjxNukACvspbEy7KGe2VmPS00Ih4+Ky0qHS8+I1Y+KmkiF0AwHhleOTEPCRBUPDKbtKx2oqMA5dzKw7Ckkmtf072hMSYdNCAhJhYkNyVUQClkLCJERTcwXDkyNyYkcVhN7N3L2s67ANbPvc3EtZh/ctbEqV4+MWo/L2FQVSodTDwiWFJCZnFbUGs5KZRrWJp6a9bLu8O6qgDGwLLj4dXJwLR5XlZXMCt+aV2LgIYjFD09KVw5KFAzHxtSLiJvRDaTcWPMwK60qJQAr6eawr2xy8e8Wj84NhkWcmZia2R7GxE2LCBKMiREQSkkJRYVSykjh3FluKyYmop25O+XL3v4YLYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/31.png",
+    "width": 1920
+  }
+}

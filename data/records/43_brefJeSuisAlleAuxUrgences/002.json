@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il était 2h00 du matin, je regardais un truc marrant en mangeant du poisson.",
+    "end": 4,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=2s"
+  },
+  "thumbnail": {
+    "hash": "00e1b38f3e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjElEQVR4nB2OXW+aUBiAX87h86BFiiLfXwcQgTJlqChtp661tlm6NumaZevFbne/ZH9h/2F/dnHJc/k8yQOJabwe18/7ZjkJe8AvfeNpRe/r4Lpwp54ZGOPAMpyhMiQyD/yA9IEa47fHq7dP3XaWycDd1/Tvn2/Prf+ybffz2td1XdU8VVUFWWKEkaJCNBr++nH8+frx9n1+BsIusX9/bz538ePu5mb1Ife8aejPU6qJfYkRbW0EpjbeLatuXhSBrxMlGZzvK7pZl4fN9q7dNymNQrcu6FhSBOCpZQHmegAigMgggvCJpimiMsmyi7qY2Z6r2nYYe6GlI+Ad3QCEJIwJQhKDJEASwuR6tZrkWVgmfuKMqGtS34y8OPEMbXhymP8qZmWECcsSQEIZT9dV2VRZW6btLI88t6+qWZov0ljiCSB8Cjiuh1mZYwkAGwXFbnN8N7mYT6vby0PXdL4dOkZYhtQYqMCxIsuKGEvo9CMBCKqiTwKauPZmsXi4e/j68uVwdVnPWke39LPBP5GXNdXEE7uVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/01.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Bref, j'ai grandi dans les 90.",
+    "end": 121,
+    "index": 41,
+    "start": 118,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=118s"
+  },
+  "thumbnail": {
+    "hash": "5f4978224f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbklEQVR4nAXB2XKbMAAAQNlCEuISQheWwEDB5gqOj0waH2nTaSd5af//d7oLvLWHIELQSzEu4rDhyc6owUhBKfUI9ghGVHJF/WAF1nCNAEWYQI9AJKjvIlolQW9MbSzBoRXGcFXZ5v36O/QDtIIIYuB7mJIgCSIVs02muty0WncmPzTNfZpuw/jjaXnthwiTEPshTcC5Kq59e1/Gr5fjv8ft79tltvrkzMnpZSOfcrmYbFJpTCjzqeA5eKnsW1ve9vXn0n4e2q9DV4t0J/nB6tHIychlo6ZcUkQyGijpwMnl35vi3m3f+/rn2PyZu4KndcrOhZlzOWgx56LXgkAcISwyC2Yjz2X+Wttrt33st7+GynG2ZfGz1ZORoxGTyVqRYoiIh7PMgk6kk5GXMn/sqltbfvRVyVnJoqPVyyYbNd9L7lgM156PiNQVSAhJ/ODyrTmW7tnpW1e4NHFxOOlsUKwVrEyZiiK48ggiSSL/A2JOKhpHO9dNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/41.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "C'est fini.",
+    "end": 9,
+    "index": 6,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=8s"
+  },
+  "thumbnail": {
+    "hash": "445cf059f7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACIMBnxobYp5fDMoJGRLQJ1tWF02JC0YCmleVoVyeIV3b1dUMD8hFzIfGCwdEikXDwAgDQiCPjqcWVVHNC2DaFeicl5sQC09JhaYPD6IODSEUUBtV0hALyIrHhYhFg4dEQsAIw4HZk9MdV9ab01El3Feckw6VjIlMCQYXy4nZjEoRS4fRUArPDIkMyUdKRwUHhILAC4SDm1fWYt8c2dMTJpwXItdSlw1KTkvHyYaDz4qHUMxI0cxJ04uJTsqIDEkGyYZEQA4HxpkVVRbVGUoHidrSzlcNyw5HhgoJh4bEA4kGRIkIxsrIRpkMCVnPCw3KB8oGhIAMyo9Kyc2MjI5IBkZSTImPykfKRgSGhIVHhMaIxUUJxYOJR4YZDgqj1Y/a0YvTCwaACckLSYjJy0pLhQNERcMCCQVDx8TEhsUFhkSFiMaGioUByUPA2xMO7GEb6yNgJN1aQAfGR0hHR4jHyIZFBQPCAcSCAcdFxcfGhoYEB0iGyJmXF1bS0Oek5WpoaORi4yOiIkAHBkhGhUXIBskFRASDwgHEwsMIBogHBYYRkFMkoyTvLa6rKaoo5yeiH9+aV1Xdm1qWL5mSl0sHCoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/06.png",
+    "width": 1920
+  }
+}

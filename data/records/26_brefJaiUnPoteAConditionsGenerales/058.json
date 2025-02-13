@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Photo non contractuelle.",
+    "end": 60,
+    "index": 31,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=58s"
+  },
+  "thumbnail": {
+    "hash": "c5151b24f3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfElEQVR4nBXLXavTMBgA4DRJk/ZN0ibpx9I1W9vVbnOb0x2x6oSdgQeOeiFHREREEETQC71S/Puym+fuQZGsRNpIOyTlTru9do+U7WXqi2ZsHrzLZk9Tty8XZzfclIuTmV6h+BI6aQdhLmp3UNlKSOfXt1V/ZjTCmEA6Lxenev3a+vESpGmFnkuRK1GAbqVplfa22hRuW2gPkBFMCYVk8tD4EQmRS+VEbHVSSciCgIZhzLjK613Vv0yUT0BznlLoRXkt7B4pOYnBMZjT0MSRASgwlRgFthzK5SfTfYB0xdXGdu+T6Q0XDWIMGNeUOcIqHlUABeeGMyjmL3T3WXcfJ9vv3eOfy+NvN7xSxRZFoCmVlFVh3FLmAgwUhyDMtHmudJ/Pjrvzv+3pzzD+mK7fmnpEPLaEKMp9yGeUlZRIHBDGIDN1mffD1dft9d/V8de9J9/85s76Z4jHOcaSsgmNahLmhIgAYZA2qw62Hv39u+7wpVq+Kdpz0Z6sH/8Dx7Yqc/+fNMYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/31.png",
+    "width": 1920
+  }
+}

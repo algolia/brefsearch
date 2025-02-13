@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Au bout d'un mois, j'ai compris pourquoi un bureau s'appelait un bureau.",
+    "end": 39,
+    "index": 16,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=37s"
+  },
+  "thumbnail": {
+    "hash": "2bb7678914",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANrU2ZKGh6GVmt7b59HN2MvH0oiDiEY+P0M7RzcxNBYUFhgZGiAgHqacmZeMiIR6dwDf2uCWioqbkJTf3Oje2+WXk5wQCgkXDQhEJhopFxAsJyo9OzpST0ybko+Ng3+CeHQA3tnfmpCRpZug3Nnl3dvniX+FLhsYLyIeTjMqNyAYNi0vT0hJb2dnkoqGhXx3fXNwAN7a4JqRlZ6UmdvX49nX5J+Rl1kzLkw0K0wvJTAeGVZKTzs1OBgXF4uCf4J4dHtxbgDi3uOWjJCFe37n5e/c2+Whn6hdQTlSOC1MLCNBLCiOfYptYWofISCHfXt+c294bmkA2dbdjYOHcmds09Dbi5SlZXePQ0JKKhsVLBoWSD9Fh3uOZFlmIB8eg3p2enBrdWtoAMCrtJKJlJmRnZCYqlJfdkpYbTpKXSMkLVdSXUZCS3NpgWFZah8fHYB4dHZtaXJqZwCij6aspbCVnathcYdVYnVNV2U3QE4ZFhxPT2AkISlYUWJnXnEpJyV+dnJya2dvaGUAYGGUsa68gY+dVGN0UFxuR1FfOkJNFA4NJipDJypDNDE2WVNlKCYleXJvb2llbGZjYSm52GtuLygAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/16.png",
+    "width": 1920
+  }
+}

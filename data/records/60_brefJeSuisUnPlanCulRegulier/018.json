@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "En fait, il y a que chez lui que j'arrive à dormir.",
+    "end": 20,
+    "index": 6,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=18s"
+  },
+  "thumbnail": {
+    "hash": "f481069e46",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF5cXmVkZVRLSVI/OnVxe4OCkZGSqI2QoF9eVn6CiYiLkXt8gIWIj2FeXk5LST47OgBqaWx2dXhfTUhJKh58eIKKipuWmLCOkqN6e3uJjZdva214dXhdXmBQSkNKRT9HQEIAdHJ4a2x2PTpGMiYqe3qJjY6fl5qzkZWlXFpSVVhbaWlsfoKGiY2TUE1JNSciQTo8AG1ufiQ0ZiMmRxsiPikzVIaIn5uguZWbr211fW52f2dpY1pcX25yhWNgYT45Nzs1MABTWHUkJ0o2JiUaIkAXIkZ5fpmgpsCPl6uOlqSJj51cVVR4eH1mZmtkZWlQTkxLSEUAV05VLx4aERg1EyVTIyZBfHeHnqPAkZith5CdiZOiiJGhipCOio+MipGfcHJ1YVdUAFxWXDk1PBUnWyUrSUw9Nm1bUXRvcX2CjY6Un4mKjo2OkJGSlZaanYmHglpENkEnFgBVVF08OkUZKFFdWmGbk4ebnp+ZnJ2WmJp3XU12Ujl5WEF/YEqFcV9pTjlXNSJsTj4AYWRuZGdug4aLoKKlnqKloaWqn5qWkn1qhmFEjGdNimZMhWFGbEcudVREWkI6TjQnPyyxAEwXQfYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/06.png",
+    "width": 1920
+  }
+}

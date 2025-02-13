@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Le mec, il m'a regardé.",
+    "end": 80,
+    "index": 34,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=79s"
+  },
+  "thumbnail": {
+    "hash": "bb1e55b6c3",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBa2/SYBgA0KcFCoW+vQJtpRfoaFk7KqVra8eEMhgNUxjZnIsmG8PhZZlzyRKMWaLGxMRv+ps9B3jdklq+2tlXu4neOzL9YZUVd3pT/3rjvd/4N4/R6mt499O//+V9/uHffgfGibjugA9HbLcvBEPV8lCBcZxAiVOxf2qOTq/Ol2XFwCsN1gxKWhuKjMZWbaW5J+s+JbXxPIfyaBH2G1rbm3waTZZ/3n0cdyJGdlvRK8ObAVOxJD2ww7nmJLOng+vx4iKdTzpxpeae3/19e/ntxW48f36g7QyC6W3/+B4KdZtrx0w3OQsP//l7v7149WyYUZq4uv2w3szGJ/t+fBD0WttB3U23/CmYg/lW+jqJklWtsa4Zj4a9ljXn7Mpe3jhNV5AsUba4qsnwDYISi8kIKCTTnNZh5CMkfHhSf6hbX2T9pTdWzAhwkqREmlU4QadoGcsyQXoBeJYGIDJYLinxKSVclmtrUXPzCLA8linhWSpX4DMEh+MUAJkjWEC0THNKVdBDAsW50gIJbzhpl+QInASMBCBVyRDLOuAIwxBA8T/nMEjksF638QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/34.png",
+    "width": 1280
+  }
+}

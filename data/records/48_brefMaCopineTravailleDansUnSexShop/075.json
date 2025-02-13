@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "En fait, c'était comme mon père.",
+    "end": 79,
+    "index": 34,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=75s"
+  },
+  "thumbnail": {
+    "hash": "360d124b0c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nBXLTU/aYAAA4F5Ya9++b1touxYNJLRQSx1Ca8uHtQVKplIGViPgRxBRFLbM7MO5A9sysywx2XZZ4tHtsiyLx/3CZc/9wRgA0RwQKLaeXGrK+Y5idtXydnpluGyMDe21U7hcr7wLa2ZyIcuKQ7eKMRRiAIyS1I7lD+p741r4LOgeF6vtlLqjyhNTH9m5rwfBSdVqLWaGvo9xiOEQw0P6aX3/Y/jm7fb00/Tqfbj7yq58aKz9mux+7nh/Z+Mve+vd/NJ+zccEmo1CWuP5ke1OisHPF9/ub35cPG5e2cWZV7k7av0+7fy56F2HjbZm2JKMIQARgI4Y62flvhMcFjdOnCdNNd9Na44kji39Zsv9Ptg8Mku9dPnYDzGCAFGAPDE6eLT4stEb5WobiZwIuDUpWY9L05Xsczd/5hn9kqnQYnW5hOE44Chk8UyYSs3s9qXVMqV05AFVEBZW4/NhLuMpiVGjdDvZSrEIxwGG4yRHIZ1jK9K8l9RFyCOSmSNpJSaqMf4hhfysfH2wGRoah1hE0f+DAGE5Ec9wsUiEwAmKBjROQBGyqwIfKIlzt9DRZQYgQEICJ/8BovZZ5bU7u9kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/34.png",
+    "width": 1920
+  }
+}

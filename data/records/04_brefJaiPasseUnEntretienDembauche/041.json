@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "Je me suis dit que ça cachait quelque chose.",
+    "end": 42,
+    "index": 15,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=41s"
+  },
+  "thumbnail": {
+    "hash": "75084c7ad0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCUWynn6mmn6ylnquhnqublZqcj42in6bGwsiyl5SZdW6IZVteQjkiGhcODAoTEA0ARVVxrqaxr6e2oJiji3d3bl1ZdWxsrqqyv73EYlZWMSQgSzcxSjYvIxwYEQ4MIBcTAEVWc7GptrKsuq6QjLmGdYtlVyUiH5KSmMC0uGxXU1lDPVE8NkgxKjsqJD0pJEgqJwBEVnOzq7myq7iifnWXcGWKaF1TQDuYj5KVeXeGYFaOaF5iRDpdPzZbQDdgQTlZNzIAQlV0sqq4sau5knZzmXJmn3pvjmphuauwoZidkW9okGpfb05EYEM6VDoyXUA3WkE5AD9TcrCpt7u0w5mBf5RqXaJ6b3pfWJmVm6ymrZFvaYhjWHZTSVY7MkozK0w1LVZCOgA8UHCtprS8tsSShoxkRz5YRT42NDYoLS92cXeScGdoRjlXPDJFMSlGMClSOTBTOzEAOE1up6Cvr6m2tK28c291IyUpGh4hFRgaKCstgHV5f3B0U0I/OicgTzUsVz42Y1BPADFIaaCbrKqktK+qumRnfSEjKyEjJRwfIgcMDkJFS7izxYp+hks0LH5paoJ5iGJfbaGRsJ5mT1+rAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/15.png",
+    "width": 1920
+  }
+}

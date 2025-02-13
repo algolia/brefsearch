@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Je me sentais pas bien. Je suis allé aux toilettes.",
+    "end": 59,
+    "index": 21,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=56s"
+  },
+  "thumbnail": {
+    "hash": "732be8f04d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nBXN32+aQAAAYF6stXWtxsQatLZiKYiIh/LjgLvjEA8OrkrVbtZm65ot2duS/f9PS5Pv/ZMe+h3X0GLH8sdfFnJtflMDvbOlXPeGDahcBWqbTLrYuPHHLUe7m45kydZGxLGzKMzt20S9CIfnXr/m9c/gsBEoTaK1U7ObW50MDKhjB+ajhIDJQlhgLKCZmdf08ZIodaLU43EjUS/EvP2KB290IEKL+R4BhhS7gIWQEyxIUHm3zGyttMZaO+fGZWVffyfy3736UWg7RjkK6MKSYgew0C8IEjTekxm3OqvJ1dpobkHrhHp/xPjf6+T9GR23T1WKGXQlspyl0OUoLCnZ0JBZveihya3OMRp8MOVXqf4+eO/H6u2w+SrSzSqSgvkk8T4TjkNBEXMNOu1Wwf2PTP/JjT3VX8r4dNie9uK4YbscSQtdQfY0hcscwTKOSorW/jyHusDTIjDyYLFjyUux/vaUHcqkTDxJH8lLXYmAmUInx4GgiOMIgRkGKiceD+EnDEsKc+IQ1/gPmpVcO3KgJWwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/21.png",
+    "width": 1920
+  }
+}

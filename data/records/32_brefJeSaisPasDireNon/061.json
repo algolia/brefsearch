@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "J'ai déjà mangé un truc dégueulasse en souriant.",
+    "end": 63,
+    "index": 28,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=61s"
+  },
+  "thumbnail": {
+    "hash": "a72c7da443",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAYFBgcDBCghIo+MjrKwqXtwZo2JhqappLGxq5qRjcnIw1BLSQAAABcVFE5HQEhAOgAIBggOCQk/Nzh+en1aTktTLCJ+dnyAgoxeVlNvTkRjXFtGQEEuJiMqJyNbVE5QRkAAAAABKiAdWklDSD49IBMUSy4qMy01KCQuMikwOyMgHhslOC8wZlVLVUU8WlFJUUdAAEA+RlBOVkM+QSolJy4hITEjIRoTFCUiKzEzRCkrOSMjMDQrLEo3Lj0yKUhNPlBNQABtaHE4NjocIi4nLz4wMTpSSEpLQT8qJzE7OklMTWIzKzYyKS9INi8mHBk6QjJSWEQARDo8LCAcGxYUEBIUJCgwSUtUPTQzMjA1TkVIQSsvSzg2PDg7QDI4Tz9CQjs3JikfADwuK1A/O049OTovKxoVFjU4RRAQFyw2OhchJwYGCA0QEyIpLE1KSmtdV1pJQywiHgAgFBIqHBlBMi5NPTg6NDVASlNNQ0iGaW1sW11TR0omJCoZGB03KidDMCs4KSU0JiIAQDc1XFlbdnd5oaGho6OkiJSKp6ubw7ScxbmvtqisbmprSkhHV0pGNCUhMCEdKx4af/9wiuqi1DwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/28.png",
+    "width": 1920
+  }
+}

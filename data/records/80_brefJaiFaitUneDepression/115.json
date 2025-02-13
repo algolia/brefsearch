@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je l'ai buté.",
+    "end": 117,
+    "index": 41,
+    "start": 115,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=115s"
+  },
+  "thumbnail": {
+    "hash": "de90f804e0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBWW+aAAAAYP7A1uyhy450myJQFONRpUpFREBBw6FYAQVRMB7DYXVtdeu06Y6kWbL7+gd72pX0ac/7B3vuj+n3ATdvxzeDFMq2WDjKBqIVOCaiOB2LUHmclUS+SjM8R5VwARdzKWULygF0jpUkI1Mf9RKlSUZzs8ayMGmnihzj2ceXi458qu2o3ReN+tcyaYWiBYDJUqUCc2dHeTnP/Ppm/vzCXrxNXbxLiMWnTetH31jNzTGnrGuV9xI3iO5KAJGV97heWJlXBfKNX/3+bO/Px/z/3+J5rzXots6fe68Wa9XtqvxhvTxLkyqQJ1WiMkr3X29c29wn6zrjuEz13yf87xr74OtnJ9PPJ6f6yDPkRY2fErQG7KumYQ519+DGxnUsTunmzGp23bbZN92O6TrW8ElvJrbbWqMjC1o+yQJyw7Ctvj+eUkI1vZuxTft4sVouz44OV4+mR4Y79ByfVlVCEmW8yAbiACfINUVvNe2m5QyGvvdw7o0PJt7cnzweezPNdho1neMlgi0LSJIPJQEwuA2BKAxhcAhDoCiKxiLhRCScCKPxbRiDQBQMImAACT6A797auncfuQKA+Ik+KRv3cQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/41.png",
+    "width": 1920
+  }
+}

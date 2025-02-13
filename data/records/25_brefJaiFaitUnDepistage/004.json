@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Elle m'a dit: Je lui ai dit que c'était trop agréable pour pas être un problème.",
+    "end": 7,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=4s"
+  },
+  "thumbnail": {
+    "hash": "df65800d53",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nCXOW2/TMABA4TyM5mIncWzHl7i5NE7TJlnbpW06dUViL4yB0BCoAokJjancygNMMDZ+Ppp4P590DNNObJjbMO8d+L0D1zIJcjV2NaEtz15K/UYWWzF4HcYvAv4EoLnhBpOAr0FQQ0sQqH2YCdp6jqJsEVeXg8mn/Gg/mH5JqqtIb6l6ZhD5mKfniHU+6FNXB34RhXOOKiHWSXOl2+9l92vU3Q4XN9nksyreGqp/qtSG4oqhIYKxB+MwaHwQh2KdNh//g2p1Vx3fF4ufaX1tSNbKcMpILXDtAtl7BFyHI6+Q+lVSf9Dtfri8Ga/+VMf3ZXc7mH01+nKlxDLENfVLaHPb4Q6IMJtLfRFX7/N2Xz7Uf8eru7L7nc++GRFfiHBG0MgDCpPDKL8IxEmoTnl2HleX+XSXVtt8ths/LP1Im2uDoBHycg8mwOaYNCTaQHyI5QlPz1R6JuWSBJkDGE+fZpNdv3xnOBZ3QWRb1Or52C8Qa21fI74Ko41iR4I2BOWWiUzTQ7RlyfN/dBw/MQDLHEQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/01.png",
+    "width": 1920
+  }
+}

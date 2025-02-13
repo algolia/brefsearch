@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Il a dit: Dis-lui que je vais récupérer mes chemines.",
+    "end": 77,
+    "index": 37,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=75s"
+  },
+  "thumbnail": {
+    "hash": "38e5a8e650",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nC3OyXKaYAAAYC5lVVEDIiMaiSIoi4YfEAEFG1wiYqi4YJN0mrbO5NDpdNIeestMbn3rXvo9wQeFvrdd3/oTu0oVE1N5fdi9HD7sk/j+kB638dy3k+XN4W4Vju0GQxEIDOmKvFstF1NXqTMRUF4fs7fz+WOabKKFF7hDTYxn/mm7AbJYQGESQyHXND5np3U4manC3gV/svRHdkxWC893hjYwey2nLwXDQbteLRMoXcChYGR9Pz+vV6HTvYz60t/z15dP954zlMyBqolGm9VbLBCbdbpE5XG6QEDvR9bT6cGzQJer+L3OcxwFrjeydU4VNUMz+IrRZrXLKlvMXeSwMoFCuqLLotwT5AFf9/tyAK6FljoP045p2WPbvKpc8wxPk0wBL+EoiSGQ70WyBPiGKDX5AFi9K4FlamNvl+x/z6ONKdQEpkjlUCqHFjEkj8CQY88M/YYuX8gtsd+Rea7peul0mk2Cp1nyqPJMo/Q/Q6IIDiOQLJn6YMKxTdAzLFVXu8aXb2/x3c9N8mu5OIq1MkfiTB4r4QgBI/A7+B8N91Of+UcWIwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/37.png",
+    "width": 1920
+  }
+}

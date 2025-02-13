@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Tu me lèves ? Il m'a dit: Non.",
+    "end": 65,
+    "index": 26,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=64s"
+  },
+  "thumbnail": {
+    "hash": "0b5fb01964",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nAXBaU/aYAAA4HfQ6+1FD6QubS2XlEKBViqFqSAwmKUoFbWIOgG3ibCYmexesg+L37Y/vecB73r+48nFygtmzY5nFMuC2N2SHTXZLzr1XMXJmK+yhXoqbyupNJ/gIQvWXvDRP0snZBqnJJpLxYSqohZeKhe7B/O9tmfudHSzkdYNSXG1TFFWwZdR2C45ALyoKVvXZmmT5kRWsBT17X7nc3+wcGoPbj20rH7BeqObvbwBHo9GsiBFItisWv3b6+aEDQQhNE68ana/BZNhLj93ag8HLc+0+9uGqybB2N1HIihEybFpfm3UBYKmIaNw4rjRfL5bj2zH141T2z3Uy7asKawIhtW6JEgcZGrxjRQfp3CKwikSJY5s98/t8vft/eK172YMW8vKXFykeLAaBD+ul/OWFxYrGSEBUQgxiEWxvXzpaTT9Plm0K66TNpLiJk+yIsWBu+H5r+nyefLh383qZqdBoQSOQhKDbtZY++H7wXlFy5XVTAyyDMEwBANmJ5fr4+mTf/kzvP90fMXSMSSKYVHM1rYXvaBl7lqarokShhAkTuEo/A94y1CTr0VmsAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/26.png",
+    "width": 1920
+  }
+}

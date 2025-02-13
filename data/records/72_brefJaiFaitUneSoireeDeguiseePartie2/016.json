@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "J'ai voulu m'habiller en Lara Croft, mais il me manquait un accessoire.",
+    "end": 20,
+    "index": 7,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=16s"
+  },
+  "thumbnail": {
+    "hash": "4fb988a720",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXBW2/SUAAA4EN36IUW2gMtvSBtoS30AqUbhVI7CGwDoR0kI25j0S3iC2YmOhMffFATjZr45k/2+0AYf290fzAll2Y0V+se7n+Oe2dTRR4ZbdcNO62wgmTPjuZRmiXXy2gNTpPPsvNVRtpAqiw7w5ebL2pZDhU17C5kUedZgYF5q+7cpe+354fVaAtO+h+Gw9+XZuO4WuuZE8ecFHJAKhQN0bElVa0IeSyPGH63+nSTfltGO1B/Fr+a7e+j/iJ+Ex4/4BjkcVLBKREnLnTdkyQCpxFBboPJ9vLv+fABrMtFsywO7ODp9jGbP0FIURCXiUKxwN747j70OQYppfLG0Gfxu7PkESwd10YCx0q76WLWHSnFEgFJlhZykLoKeh+nSQ6DfKk8FFDoXWXZP+B7vmPZAlfNuv5uvOm3RkcYUaBYAPJGVXrebAIAOYYzaNLWT18s/oAT27HNdqumeqI4Tg7p+lcOYGKFTRP19dLar9rToIaYUoWkVb45CG5BW2tYqq5UlTyOJNFZzd/SRFGV+XmkxZ16YIp9i0cMcwRpiZUtffwf/95HKqfRB+sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/07.png",
+    "width": 1920
+  }
+}

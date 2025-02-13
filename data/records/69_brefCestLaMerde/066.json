@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Ce soir ?",
+    "end": 68,
+    "index": 25,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=66s"
+  },
+  "thumbnail": {
+    "hash": "66de5917ef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJ+lq3p1gCcNFjwVJDgTIRgKDTkzNXFiZHZdXntgYYNnYj8yMSMeHjs1NUlJTkpITQCpsLeIhJAqDxc/FSY8FSQTBgk0MDFXS05lTU9WQUJZRUNuV1NPMzFDODhMS1BOTVMAsbe/lpWhLBMbPRUjORIhKRocWUlKVUhMWUVIalJSalNThmtkZUdDQ0VKTFFYUU9VALS6wp+fqy4VHTgRHzkTImVQUmlLSlg/QHBYWm1QT3pcWn1jXWM+O2lBRVlFSS42QQC2vsalrLcyHCQwDBlIIjFkTEsxJCQrIiVKNTdEKCtdQT9jTUdVNS9vHRqBKihzNjkAknRvoZakOiYuJwUQTSo4Z1JRNiYlLBAROyIiUDk7UDk4OScjRyYhYhYUch0ceSMhAG40KJpdbIhbZkAZJ1Y4RHNcWUwhHT0LCjEKCjojJCYaGTYjIUwgH2gXFm8eHWgbGgBrNSiSWWWfdX53UVxpVVluTEhQExIxCgk+CwpRGxtGNzlNNThYGhpoGRhjGRlfFxcAUygfbUBMSCsvRSstYVRUXDEuNwYGMAoJRw4OWBEQRSIkVB4fVhAQXhgXVxUVUxQTPxh0Skosm+AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/25.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Aux olives. Aux olives..",
+    "end": 114,
+    "index": 46,
+    "start": 112,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=112s"
+  },
+  "thumbnail": {
+    "hash": "459d385743",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFREP15OTTYuLh8ZGyceHzsxMVRCPoFtaHFaWEcbIj8XHk8dJ5N2fb+4vLCmqaCTkwBaSUJoWFZtXVx0YWB+a2p9ZWGNY1azj4Kli4ZNGSBOGiNWHiilhIrVy8/DuLvBt7gAYE9HblxYeGRhe2ZigWxpd1lQeU9Ch11NtpaJYSsyURkiWx8pu5ui7+js29LV6uXlAGVSSGxYTW1WTGpSRnNZTWtMPn9RQ4ZVQraUgoVWWE4OF2EiLL+hqPXw9OXc3u7q6gBtV01vWExqUUVfRztmUElcQDJRMSdySTSlfWWsjYVsPEJnJS/MrLL//f/p4OPs6egATT85SDo1OS8rHRoZSj49ZkUxNSIYRi0ekmlSaFlUKykrPCksfW1x49/k6N7i3tTSAAcHCA8SFSMfICggHmdQS3lTRlQ1KnxYSn9iV0o8Oh8cHRsbGwYCAXFqbfDl6dvPzABeLhwpFw4iFhRQNS9XQDw+KyoyIyFpRT56WlVLNzEwJSV8WVuFVVCadmyjnaHMw8QAYyklWh8LQxIEKhYSPDY4KCMjGhcXPDExKSAfHxgXUysrfk1PnnJ3gVJKIiAhOTg8itOjdXYpRBAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/46.png",
+    "width": 1920
+  }
+}

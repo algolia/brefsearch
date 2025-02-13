@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Touche pas à ça. Il m'a dit: J'ai dit...",
+    "end": 61,
+    "index": 27,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=58s"
+  },
+  "thumbnail": {
+    "hash": "eda20c7c0c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXBWXOaQAAAYN5qFW0yKguLgCseBJMggkZ063jUCwU8MhrvK6E2HpNOptOXti+d/u9+H7EZNYdYaab5wYM8NOR9r7hr5Swt4d7Tlyy7vqEnEqvSITF0ZSVBFYWJr1NrXtdH+eSzaXTuRCcnn/p4WVHPeeE3RmdN6MaYpggf6GAHhQ0uRJzX/Z1prCrK6bG6N7Fr4aODX3vGRkOnDLuUIy2BmaR5W2SaCBg8IL5vBq5V3NYy77P2n+PTz519crBrFn61b/+WhWmKG4hweR+dKmiZSw4UkXhb2wcbr2vquKJv7Or7qvdq42926djIvOWjI5E1BWYsCxM1vipIYy1BXOam2y1sG1o5HSvFIwf782VYfmnnsSSqLDPiw18iwIiAWTaBY6zEUMThsb5tZMe52CKHnFSolYKdrKRxIE1TCge7iCrBUB3Bbpxl/X7vBx+xc8qLmtpXo7OCONc4/pO/gsAPnZuK1B0VVCEockCHNAxcez1kwEsSi4Y2NuL9W2quw2YKBL2+vcb/q8VdmX6KhcuQuvJdk54A6fGTHh/50fsfXFJevfY8FJ4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/27.png",
+    "width": 1920
+  }
+}

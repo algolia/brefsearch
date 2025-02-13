@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Ça faisait trois mensonges en quatre secondes.",
+    "end": 64,
+    "index": 26,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=62s"
+  },
+  "thumbnail": {
+    "hash": "28df3dced9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXB7VOacAAA4N8Bbuo2NT4s8SUsmUCEKSAoL6LGUJQsXBi+IOFOu7K2aututw/ry7a79mH7l/c8oPIWP0CxCk7TDEcVdi/s3rz7fqTKj557f+b0RKHFc8VcNoelNUXfL5FA5VXmQEht71RIxtHkB9+bGK1xW/8ReOuBOVTl8PSYxvPFQmHkjFmaAZl8MZnYisde45l8aHa+L2e/b9Y/N5f/7q//3N0+390+ba7KNH1YrnpjX6jyIJlAU0k09jL65lXCEvkrx/p1ufz7+fopnD9Ozp836wd/JlCkwvPTSVCv1UE8Gk8l0WjkBQJHMBQ9UWrf5u7Xcyc40t2GcOMMFoOespe1DqmFt5BqdRCBkVg0HoFgBIIxDJeod2G/s+p3PmqNpSYH3bZV544E1jOUYLJQZQ0gEAxDEALBbFlqGmdlVpTI3ZVtfnGHn5z+h5YiSU3TcsaOMxtPRUEEMAQDALZSqKbb9mjZ7vssI+zn0hJFSCRBZDKFktAwXGMYnox8slgCAAAIgrJYvso1u/b82F117IuOrDcoQmUojthLb+9o5rRp+Wp3JrZO/wPJcWG3a5ijTwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/26.png",
+    "width": 1920
+  }
+}

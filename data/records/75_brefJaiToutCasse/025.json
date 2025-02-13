@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'ai retrouvé son adresse, j'y suis allé. J'ai couru.",
+    "end": 27,
+    "index": 10,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=25s"
+  },
+  "thumbnail": {
+    "hash": "a9a58fdf05",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nB3QyWrUYAAA4Hjw4BvoweUwKh56kVpbFMZDQeoG47ghRSwVLS6oJ0VP1ik9zWESCeTPnvxJs/7Z18mkkzZU40hFRU/isxT7BB982IBSSM5gFU/QIlHx/KgMkiqKqiyskqRyw5HtZhxvA8khOXNAKRiQkGQkbvaZYWx7BXztJc1q3DCbblr7RDHpJTtrkftUEjhPcYaUiDBo5SiuR19+84xldvv5opwtkJqA8A28vwrGt+Fmh49vAg2mftFAM8fMoIpGk63dv7IUGrNv4+t9+zlByzRHr2tqP31Nl/ep+BaBzDKrf5hBhaG4Tse729//KUKApt/kU+/1lbX1dy8/Pl6mPjxKnvTG80R4ZeDY1XDnF4q2MSvcivcFRfA3zjxMW0vqgxfEs86n5QXxVSds3/WP3LBaXaTlWf3zvwCt3InrovmjMnpx8Ghz4IQ+16buTLP3zolLl8pT579hJ4tDM5rg+eUEmtn+kp44wwbgvH78YnF4Tj09S16eYbsX+GvtuDVfHLsKzy6KSqigIRARhgOV5AwGekBCjOgIvC2JjgxdqLqyhETeZmkDCIhVA5IzcKDuAV9aAjyatCSVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/10.png",
+    "width": 1920
+  }
+}

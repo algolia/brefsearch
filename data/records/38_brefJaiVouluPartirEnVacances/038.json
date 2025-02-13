@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Baptiste l'a frappé, j'ai dit. Il l'a frappé, j'ai dit.",
+    "end": 41,
+    "index": 18,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=38s"
+  },
+  "thumbnail": {
+    "hash": "aab072f8e0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG5kZHtxcIF3dpeOjKCXlKifnKyjoLGopXJkX0c4NXJpaJaGhqqjop2WlZSOj4iDhQCMgXuMg4KCdW+MeWiPfGqOfW+cjoOVgnNhQTcnGhlIMzIvJSZZT1FqXl6JhISblZUAxrWdwLKfmIRpk39jgGlOfGNIkXhcjnRWelRETC4pUTYzIxwfIRkeW05QhHx8k4uLAOHVwMCvmJB2a7WThtbBsaGOgGFUSVFEO00+ODcmJBwWGCUfIicgJTMqK1NHQoF2dgB8cmUsJytJMTV/UkuOcm9cSkoNCQwFAQUKBgoXExUfGRsVEBIQDA4ZExYdFBMsIBsAGRYZHxkjHRcZIhcYEAwVDgkWRkJJZGJlMi0tDgwMNS0tHRUXCggJEg4QFA0PGQwIACQfKR8ZJRcUGRcWGhEPFA4KEjUzOH9+gUNAQAcFBQ4MDDQpKxcSFBYSFBwWGiscFwAXFBwWExkTEBMfGicbFyQQDRULCQ0QCQgTCgkHBgYEBAQsJCUmHiAUEBIfGR0vJSEAEg8WDwwNGRQeIx4vJCAyFBIcEQ8TGhUYGxkjFxomEBIbDg4TFBUcEBEYEw8TJh0b7HVwCcDpu1oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/18.png",
+    "width": 1920
+  }
+}

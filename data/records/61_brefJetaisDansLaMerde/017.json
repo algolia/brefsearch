@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Désolé. Chéri ?",
+    "end": 18,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=17s"
+  },
+  "thumbnail": {
+    "hash": "8f0c9208d6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nBXLW2+aUAAAYF6a1gtw4HjgwIHDVRAsdSrqrHipBS+rlqjt0qZr3JYsS1ybLkv2suxhD0v2D/Z7l33vH9PywlDCnqJpAkxbzXxw3nY9R0SxX/cRNqBEWOAiWeMAYUEFqYzDCY4A2SIX2c7LzebP85fDdmvxgsMBV6xQUTI4wQaiU5FshP+HUCGoUAZFrh8EeTI8bG/uspkNpbpKHSjZMglVeqrSqohqEtZUyrhYLx2dmBBt+v3P1/nHxfLD1bomq75MdJZDhbIJ5RrCEQAJEnpBlcGCKrKweHQ8qEf303TdOX+XzTwkN2zfRRizgALYtewpkR8d6boTMmIZ8SV0cgyorFx2Ou8Xi/5ZS+IVCxETCLBQ0lm+wfEXRHmbJJP2KwaTkVndKcYcwboouFQNDTPTrTU1MktLFNHwK2iAcVc35pP5ajxiZG1sejvD3cbp0+T2x+vlt/jyazx9jhr7KHo8DXY9pznSySYZvRkOD7uckbULRRtT+8pv3qf7n3e//i5vvy+zT+32Pm4+RLV8cDabBkHa7T2sVr9fnv4BZX9J/jOkOhsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/07.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Dans un sex shop.",
+    "end": 4,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=3s"
+  },
+  "thumbnail": {
+    "hash": "463e91f881",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nAXB227TMAAAUCPRS652EjuO49yvTpY065Km1Vq6dltHEVQTAsEDIMbL3vgM/ptzwLfx+cvqc0PLh3xfEzF69d/tn8HvqIJSaG+jbBXEu6h8Fssdjw9xC76vP1wWd6NXL7hoabUgRYDwfR11zC0N50fXHapmDLKd5+/zq2s/BU/FcF+sT/mwT/v3+buP2WGX+f/O/cZjjmq2tjtG5W1Sfe02azcdWAp+Nu3ravxULi/V3UmsA4NvY/56U6qSliHCNXzNgo6Fj0nz6IuDJ8Dvrn1Zdg9FW5Lkikc2NAdKljZ5M1VzZAUQM4NxRE9ZeUyKc1aDcymwDDXNmEqaj5lrkC1nBaGSpDeYCpOkFu0d9qu/uYjiJbQB1Y3ZTLF0rCqIW05g0RSz2OamgoTlLGjoQwoV1EfxJozpXAFIgZqsy3P91mcNtZlBU9uLsAsVhFQzwZ4kw4mkTeZaRZkgFITQ8KFRIuvIncomumK4yHYgmUsQI/OYh2Aiv50p07mmS2qo6/8Btis56lDpZsQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/02.png",
+    "width": 1920
+  }
+}

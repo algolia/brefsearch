@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Elles ont continué la spot pour moi.",
+    "end": 68,
+    "index": 25,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=66s"
+  },
+  "thumbnail": {
+    "hash": "3a53260946",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADEoKDUvMDMuMEA7PVJNTzYvMVA8MlVFPlZMSVY9N1ZLSXJsa1RCPh4MCiIWE0M6OAAxJCMzJigtHR1CMzRaU1NaU1NuampYRkdsUUprUERnVk1/dnIkHCAWDBAYDxFAPDwANigoRjEyNh0fOxgbYE9PYUxJb1ZMZUhFmG1ZuoNql3VlioB5FRIZEA4VEA4TOTQ1AEIoJFM1M0MvLUsqJ2FMS2pdXFg9OmtWTL2EZ+KYdbOCaY2DexMTGRQQFhEOFDYxMwBeOjB7QDh3U06Ab2RrXFZuZWOIio+AY1uqbVHfjm2ygmaein41HiEYFRwQDRQtKSsAckM1pmtWpnNpo2thlWxigoGGm2VjjS0gekg2dEQzbE08s5B+bjAtFxMaDQoPLScpAI1UQLGEc8ujk+KPgMCUjL+EerIvHoweFHMvJVU0KGtOQa6UgpNGP0AhH0E8Pl5XVgCZZE2xiHazkIHLpJfXiXbqXD+gLR97GxOHIxt/Sj1kRTaMd2qRSUZiNi51cnCFg4QAZ0EypW5dtYV4z4Nt3GdIwEc0ijIrZRgTgBgPgUVBZk9Gc2Nff1NWaTYpZFpRc29u+i2PuNDMQ7sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/25.png",
+    "width": 1920
+  }
+}

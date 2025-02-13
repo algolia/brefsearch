@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "Ouais, t'inquiète, j'arrive au cinéma. À tout de suite.",
+    "end": 113,
+    "index": 36,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=109s"
+  },
+  "thumbnail": {
+    "hash": "d96165d721",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB207TYAAA4L6DiVEvpmxIGW3X9fT3tL/HtZsd60bbbW1XtiKEGWfAgBEcCmGKkhijd8MZndElQvAGn9DvQ/Z3n5wc7Z+/G70/O3ZsVuXzj9tlhriHL97uRw6ezVjmQtwl15orraAQdwDy4+fs7/Xl5dWv2Ww6//118vbF/GQnsIBALVgqpgo531+MI0xXslC+K4p3kE+T79/mVxfTi5fPBzf/rv98OT0LK8fDpOcLbZ/v9YzVOpHL3hKEjKY9KMEMstaNy5J0uLc7nXz+MB6lTTeQWBtQ42fhRtLRnMB0I0mvKLZt1muwbCCGZUGq8Gpv53z8utfQmskhUGKI51YVliZwUA7kWsIoVbpkc1AnGB5pd1KZxE6PDroN26RRz3G7XseglhQSFQuoZLhKo0+rNVqpkIKKsyJi1kLIg63IU4qoq7JxBQ5C3wQ4jy0BYhmIGqy2BM3h1EeUbGKshCw/xLyqmbYbErniGcCx6lb4xuBwnsgLRWK4Fa2nKYBVStAZQSeYEiKT+cHGej9q2SXeM4BkJJz/UeM5Br2vi+xoGI0PNp9ux4pukhzEivx/l7qEBklhIq8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/36.png",
+    "width": 1920
+  }
+}

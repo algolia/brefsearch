@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Bref, c'était un soir où je me sentais fièvreux.",
+    "end": 3,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=1s"
+  },
+  "thumbnail": {
+    "hash": "eae51eb588",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbUlEQVR4nB3N227TMBgAYEPrs38fkjix43TNud0oqzgUBCpMCAmt44JFSNxwg8R78OxIe4HvQ5RIzoTJZ7/5HLpvaXpsdsv25s/05p/N9t3hryuPlIFQlYDEuEOcAmdg/YvYX9K0pGmpx++b3e8inimmxvUm3yt9JaQXKggZESNScG3L29Dep3Gpxx+h/Rrae0Y1xoQxDW6EbFbQKEhceESJFAyK+K6Zf6XpZ+gv5eaTb+4UNKtnyPnX1h+VGyDf62wA2yJOHaMyj2/rcQndQ5HOWTwV6Q70Fj9HJrs2/qV6SsDNYHtEiCCYufK2Hh5D95DH9648FvGjkGG9WnHhdbZTblJuAjeA6RBeU7wmtriu2ktRn60/muwmq05S1owoSqSyA7gJ7Ai2U6ZFBHOCOdjWb77k8YPOD+BmVxyUrKwOnBmw/ZPdKr0VqkF4zQjmQlUunEz5CtwO3GDsleRayYxzB2Yr9UZCkioKEf4DhSEoywD/gRsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/00.png",
+    "width": 1920
+  }
+}

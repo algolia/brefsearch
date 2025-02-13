@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Papa, maman, ils ne s'aiment plus. Non.",
+    "end": 47,
+    "index": 22,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=45s"
+  },
+  "thumbnail": {
+    "hash": "573be2b3a7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGRgdDgyMH12fn95gZGMnaypvoB5jUpHb0U/Ykw6QU9GZ1ZOfFFMe5mWubOvxqeitgBoY29LREefm65ZU1lhUlS9udCCe48yNGEzLUmFW0dqWHRdWI1aVYinpsmppLmPiJsAbGZuVlBWtbnUTkxUZkM4t7DDgn2RQTxcHR04d2FrYVhzRT9kXFiMqafKjYeVbGRuAG1mbV5bY5aRpHR0kpSRpru82Hp1hyUjMhoYInBwijQzQyYgLVdTh6OixXJrdmxkbwBcU1VQSE1mJTRgHTKXoMTGyuhvansYFiMeGyNdVVcpJTAmHipKR3OYmLpmXm1TTFYAS0REOy4xVQscZQ0jZWN2nqGxXVloEhAcFhMZLCctJR8qHBYeQkBqb2yIOzY/QTtEAEQ8PD0+QkEUIVoBFkpOZmJjbURASBIRGxUTGiEcJykiLx0YIDEwT1dUYkI9OkM/QgBDPD0uLC4pEhtWAA9bWnlxeIpCPEEQERwVFBsdGyMlHywzLzYuLkhkYW2UkohTUT4APjc4JSAiFBAWSwEPVS5FY2hxOjU5IBskHBgfFhQdJCIrKiklLi9ISEJNR0A7RDswQMSRWGTbqCYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/22.png",
+    "width": 1920
+  }
+}

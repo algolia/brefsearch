@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Quand je lui ai dit: Moi aussi, je t'aime.",
+    "end": 60,
+    "index": 31,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=58s"
+  },
+  "thumbnail": {
+    "hash": "105a114e6b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfklEQVR4nBXNC2+aQAAAYBKQe8E94OA4HuIJIohldrVdmiw2a9ZqbXW1nXsk+/+/Y+kP+PJZuRTLLOvGVSZTyeJZXudRXhf1ql21k3kRF4wIAn0PsYDJb5s7K+Gs08lgmq5s0zAt4sKkZln36+XVolpMtOFeSIlQQqUq3z3sLA+iEON5WgzVxVQbHehSjZtylkgdiTiLM+HLRCQJT+ZV+3o8WcAB0AUce4ty3pveaKNEMjOzSWE4Dwn2YqHyeBx4cn15/ef81wI2BA4EIzcPY6OnN93wvtk006ZrB2Pm3KOPq1WtJ5Kp/fbp/Ha2gAPhCCIAGcJpqJqi+vf9IY0SSoXvc8mC7eVnRcOri0+/f/46HU6WawM4AgQiikguVRYVfTm9HwYEECP0btGXcR7x4P729u31/fjyw3Jsd2RD6H4kwqNKZgjzgAofU0ZYQAWAvpZqc/PleDg97w8fwLGB6wDkAh9hQUPOI0I4RhQhH2NGMEvC6Ov6er972T4+/wftQDFRchmrJwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/31.png",
+    "width": 1920
+  }
+}

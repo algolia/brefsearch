@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Elle le remplace. Du coup, elle le remplace.",
+    "end": 62,
+    "index": 27,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=60s"
+  },
+  "thumbnail": {
+    "hash": "e847378775",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMklEQVR4nC2RyYocMRAFU3tKmZKytFTX1j1tjw02GP//55kaDEHc3uERwCGiRaPR2RSxeE/aJOez88W629qQ1qhVUOAUWMCQQixIi4+LxUpylPk9lX3pL0+rjeOLpn3RjrQKkEj64+K6ljp7Gdfr9/bxJ1Bfz18hr8ZSwmpCtaEqxw4rsMz+ePooUsdz7jUKGNK+2Nh86hSXXgamhbiBIeUYRt8od+NLirIvc6uDSJTLYJm5z74PWSP1c+58byIkFrBcS/txbNeYP7fH39dJJA7lfb3HuGq7kIcsG+d+DzAWj7XV9t63b8fxeR6f5zXaKrLOsY957tszcbNYDN6/ISIjlptYiZaSWy5dZIpMzj2XztwwVheK8awNAoAFcAAewGsVjL6bGI32y0oFpfx/7g7uH4jcFUai2cxdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/27.png",
+    "width": 1920
+  }
+}

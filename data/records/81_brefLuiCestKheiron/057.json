@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Aline, ma sœur. Ça vient de lui.",
+    "end": 59,
+    "index": 19,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=57s"
+  },
+  "thumbnail": {
+    "hash": "f77f69bce4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXBTW+aYAAAYP7ALtt5WRaTqmQ4M9utLVZsgYqiICDy8YoCL8iXQEWLpq5N02wmzczabMva04677E/ueRBTGziGbkxM1zRCS7dNI5yaEVRzj1lC3AZ8mMwipZqCY9+Q3bGChOZwasqmp85d8to/XsLD3D74lu7/XHx4Xlb0TvlkHD0mlV2EO8lFYAPEnprbcP/er30PaqlUeZqif5PqzkC3GrbksAeAzUbsMyzfZIDMHxlngfgBfNDKv7TKb712262k1LsffOmPWPQJdE6W/mnFLf9+x6Nwc2Pkd3owR5zzj6IgumJ7fbqXNYst8ozRnRAvJCT21CvctwoqhX/CsEF0meWrlT9GoCZ5i7Wbf9aDGX3xxYoX0uVXKriaZfMY6mAypvrDVy9eHlWrq8gJLYDokmArYgqNLAnjNLmK7U0CN1mwTr1VMr1bxRLXffv6DbpXckeKrUoI1SQ6NNVnWaXPTWTB0oZwpHkTPbRGDhgaMs80GwyB4we19hmhch2kcXR4WsfpJsHSJNc+F9m2zHdVgQOyCAaiJgpSj5W67V6LJk/qdKP+HyDGlejXDm+JAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/19.png",
+    "width": 1920
+  }
+}

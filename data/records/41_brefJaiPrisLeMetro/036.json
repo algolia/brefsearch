@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Dans le métro, il y a des pubs avec des mecs super contents de parler\nanglais, des enfants super heureux de faire leurs devoirs et des familles",
+    "end": 41,
+    "index": 13,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=36s"
+  },
+  "thumbnail": {
+    "hash": "65f392228b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGRQUEE0NYR6fufh6KylrXxxdiUfHUo2MZtwZLSJeoJeTk46MyIaGA4LClI4Msu3tgBLPDsxKCg0LCy1rLOwqbBeVVkdEQ9bQDp+WVB2U0p1VkwvHBYMCAgRDAxZPDayj4kAMCcmKiIkHxgZm5KZr6iuf3V5OiwreVJKkmVal2pdnm9fellTCQsMPiQfdU1DlnJrABYREBkTEykcG6KWm7Gpr3hudFZRVHxgWphiWLKDdI9lV9fKzFlVWCkaF2JAOY10bAARDQwTDAxqQju5p6q3sbdYT1QmJCg/NDV4V01/VkiSdG3Mx89dWV8KDA0eGx1rWlMADQoKGw0Le0c9vqqrn5qhWE9TKSQpTktUX0dDbVBJj4ePPjlBQDxDLSstGhscIBsZAAMBATIdGHpIPb6rrmFcYktDRhwaGktJUlRKUUQ8QmhndCMeIi0nLTYwNi8qLkU+QQAdGR9ZREN6W1bAtblTTlNHP0MXFBRnZHBUTll9eodfW2YeGh0qJyskICQqIyY4MDEAPDRFPDREOjNBjYSOUElNRD5BHRgabmp3OzU8gX2LTUhQGxYaJSImGhgcJSAjKSQlNFaIb/hQCi8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/13.png",
+    "width": 1920
+  }
+}

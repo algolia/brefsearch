@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Cool. Je ne connaissais pas.",
+    "end": 43,
+    "index": 17,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=41s"
+  },
+  "thumbnail": {
+    "hash": "2c22e6b51b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nB3Q60+bUADGYeQczoECLZVSEAoqa2lFrdgKazcx9QJObaWdBhvTxnXOW7pmzOxm5rcl7t9e2Pf3Sd78CAgQOQcErnARjO8vHu+Gv6aXP7t+l2fFDM3RmOUzvJTNG3LZ0jeP17cIQFIs5iRB7W0Pvn38M4u/Tt9PrUXbNpyo7m0sLLAMl2WY1crb143zej0iAKBEbl4VF+PwQzL4dLvldr2wotv3wdnj7s51c62pKZAEslQzqkPR7BMUxAyFNWl5FF6NXe+mc2K/ci19YxbGz0H7b88PyiVAUhyvFZZOJbNPQIAwpIu5YsOoXO0PrnsTgS+WlNpocy9x7c+tFT3LA4BoOivqoWRGKUAUDUhqTS5NWn7f9VlGyDD5cbuTbDvdsooA+r9hcmqHLXopSF8hdt+sPRydj95dyuIynCNb2tLEWe1VNZ7hIMQY4nXd9kwnrYQoOgPxkXf48uXl9ySJj29PG6275srsTWMa+LJQIAiCoXOGXLUUMwUUxBSJpLyy57Qf+qMfN89PZ/HTgff9MEiiqKYaZUUf7oaV6g7KW/8AYQRJSH9B5G4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Ouais, et toi, trois fois, c'est le nombre de fois où tu as pris 20 kilos ?",
+    "end": 56,
+    "index": 21,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=52s"
+  },
+  "thumbnail": {
+    "hash": "45dc77bc95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXB7VPScAAA4H3NusrxMqXh5CcGczAR+W2MeHOwjbHYwXiLF4fIBJ0kHN7lkWb0cpdXdx45rj5kH/ral/7FngcpvlSrainloyMkhTtXtoj16PNNhiKnk8nH2bcMr3iBP5UQ4tFUKAg1KYM0q/WD1n6ZS8ZIksCw29Pul3aR3SAuR8O7+b0sFTG7K/kik4jt7WyzermASBlBlZVerR4k1vjtLevMGBXEsNtlNioL67feHjx+uBwJx8SsEuf22qUCogp8Lp2SmN0AvgoB8evs8Ht/P/Js5U331Q/r/uT4nMA3vB6/mtf4pFiWRaRWyNdlEYL1AO4CNnQk8xM5Szpt87G+uLUOO6f+zeDTJ44ojMu5YiWfQ7idsLRLawwt0KTP6fTZULfd4bWjH7qldrlqt7k8bpCGMESFElw6y0LE7cCUMPn3evi5pQQwB0DR5aVHIgWujebVdNastI9ywmL62hrq8zD5FgYR3OHkSXDT1f59GptykgEe+9KDgcC+M3tX09nXm7tx5ygGY++bdcuLX/rWkCjlhx53j2d/jg/+XPQvWjWArWoMdW7oZv/YNAZm/8TodPVGq8Fx9RD9H5tteFWk6pZ8AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/21.png",
+    "width": 1920
+  }
+}

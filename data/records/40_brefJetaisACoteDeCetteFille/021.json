@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "Du coup, je l'ai invitée au cinéma, j'ai voulu l'embrasser, mais elle est partie.",
+    "end": 23,
+    "index": 12,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=21s"
+  },
+  "thumbnail": {
+    "hash": "92a55f7f55",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVR4nFWPSW7cMBAAOVyaanEVd44ijujxAtsIkEOA+P8vM2DnkAB1rDoUYVT8i2BACHNbe//1QQgVfGHsP4EwKuiFM8oZFZwKSsUiMPpS+iCEcQbfAf2rCcKZUHKVfAEuyYWbRb/s5/N+GqnMogSXnIJgcgVUcl0EkqL9CDmtNkplKT99fDvu9z6GjT9c7C4lqasLPeaZajGBVLNdfRpbTaCqztnU6tMealMhKrP7uCt7y+2+H5t21QTiGKTVVxOL3a2fuFYAI+Xm3Gy21QWL3qLxt9w06qYsUReuBQZdfHg09kjpwceZ8yzl0Zt+de2pvo7cNm0Yg7BqEsUSALMu3bZ72l/LGHnO8fu4/vQ6n/3t+fgz65mMhq91EgATYAFsgEVgYrKI9eofRp4dXQPV0RXQGTADBsBPWiIZRYenktAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/12.png",
+    "width": 1920
+  }
+}

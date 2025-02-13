@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Un mec qui voulait me voler mon portable m'avait mis\nune claque et comme un grelash, je lui avais répondu: Bonne journée.",
+    "end": 5,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=2s"
+  },
+  "thumbnail": {
+    "hash": "b05a36100e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGPIig5RN7cUM9GTMlN1s9BtifGdkB4+NTtmQUXG9KLkydnRqZ72CuIiIqJSri5ehVkZDEbGWrLqEqKqwiqmqlZ6GoHmei3R3m0xvlk+jkmeDhWRvt1pYcaqilY6utHBIWWFhQxc0jwCCkKCykKqeiqe5oamyjJZnjYdcX4e+qqBVsZ1sX7TCuPDHMxbov3DPN2y09MZ+OX4BRUFBZQFVQ3U8oLdSv1t2xODFhQn9aWFdqWGLW/Mm1GcWBrsnunlpK+tm5eVw8Anxy+sJMSrwGtib1KdENIY7jojP2lBSdrcooSlVRmLy1O7U0Ma4gJCHa1NDIxKCooZRJSE5TVl+BT4zBzNyhLCM9wt0zwdayJ8p2dHzylMmFMY35IUVBbkkmxjEOtqX1ddD3KSqJKIgKKgvrV+mI+Lk66Kk5ZKlK1Zjp9LT3r4xJzo/BD36mDXPAejRB/3kqJyBj5JXn5pPg5xdik9Oe8Ar0ArgxgL40xH20xPu7IIr/xQ9zgPu778pOb87Bg/bw0lNQY+CV4RORErR5vcvKK2+nZPC2NvE+00T7vyMM8IZ0tXU/0kX5dJpenT+ydMmTonIjQaAI2mgKpmaVEsAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/01.png",
+    "width": 1920
+  }
+}

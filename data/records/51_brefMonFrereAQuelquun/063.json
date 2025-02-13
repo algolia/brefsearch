@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "On pourrait parler de ta dernière soirée.",
+    "end": 65,
+    "index": 28,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=63s"
+  },
+  "thumbnail": {
+    "hash": "09dd19226b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGdXVW9fXndmZYBtbYt3d5WChJ6MkKWSlXlkYWFFQ1AiKmAjL1UkLTQNFYhzeePa3wBvXlt4ZmV9a2mHdHKVgYKeg3SqiG+lhXR1VE1rS0RXMTRxKDdeJzE3DhaQeH7w5+wAeGVjfWppMy4vRDg4cF9jlm9KkGQ2dFE4n3FhaEdFZkFAeDVAYiYyOQ4WmICG/PP4AH1raYt3dWtbW11PTXxqa4lpUTksHks5K5ZsVlU2NF9FQXk9RmQlMzsPGZ6Fi//4/QB0YmNqXWFuYWWKd3emkJB2YlcvJS0qISkiGBgVDhFWQT5SPENPJDA/EBqehYv/9vsAX0lLUElPV1NbeG5zgXBwfGNhPCo2PjQ8Ojg9GRYePi82Kyk0PyIrPBAZl4CF+OzxAFxNTGhYVXJfXV5GQ1NCQFlHTj8wPFhQVVpVWjMqMishLSUkMj4jKzYOFohyd+LU2gBXSUdhUk9wXVlNOTBNPDs4LDM7LjVMRUkkIiYjGiEtJCsoIy84GyU4Dxd7aGzTx8wATUA/WEhGYFFOOy8sQzQzOy00HRkhNzA2RD9EKSUtFhEXLxwlSx8pNg8Xc2NnxLi9oLCVZHJfTpgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/28.png",
+    "width": 1920
+  }
+}

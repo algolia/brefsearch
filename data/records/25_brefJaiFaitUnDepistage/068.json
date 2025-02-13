@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'ai avoué à mon frère que j'avais pété sa Game Boy.",
+    "end": 70,
+    "index": 26,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=68s"
+  },
+  "thumbnail": {
+    "hash": "53438aa32b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIBjSYJvYZSGfpeKgXBfV5JyZqCQiZOGgo2AfId6dX9zbXhtZlVQUU1KTWFYV2ddWwCBYkmNemyYjoZ7cGhdRD+lfHGmlIxgUUpHPzuIfHiPgHtpW0ctMDcdJzYiJzAuLzMAcl9SlYJ0hHx2g3dzg2diimNdjHNshGRWiXJdgnVum4yHXVE5ICYvIio5Fx4pERYdAId6cZmJfGlkZDk4QVNEQ1Q+NlFJSnRgVK+Ydl9YVnNpZ1NLPhogLBUcKA4TGwwQFABIRkiDfns0N0kREiUjITEyLjUeHzAkJCxKQDgdHyUaHSEiIyYmMEBMW3U7Rl4sMkQAJC08TElQISdTGx1AIyM1Hh8zIyM2Hh8wDBEYFRscFR0bExohLjZJVmeHQVFtLC9DAGNuf3V0fUVGWz0yRxocLR8fMRwdLh4dKiQiJhAXFygsJy0xPBkiMQ4VHwoRGAcOFQBxeomzv8/N2uuOlKIVFiIgIzE1MkF6Xl6AX149MS8kKCsrMkEjLT0cJDEPFR0FCQ0ALjE5eYOUusjbrLXGmZ6tq7LCfoaSPENGNjc8OzlBKCoxHyY0ICc0HyUwIys3LDZGwCqD/sMj5aIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/26.png",
+    "width": 1920
+  }
+}

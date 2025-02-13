@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Ce soir, je me couche tôt. Ce soir, je me couche tôt.",
+    "end": 6,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=4s"
+  },
+  "thumbnail": {
+    "hash": "060169db41",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhgZm1iZWBORnpmYYxvWqaHabCTdamJYqOFXpx/XpJzVY11YqORiLWno6WboI+EigByaW57cXVaRjtrTz2Ha1iEZlCfflihhWCYe1iAZUt6Wj1+YUyMb1mhhGumlpGqn6QAem1ufWZkfV1Xh2JdoXdxoXlzn3ltmHhgim9Rfl9CeFpCXkIucFhGpYZnoo+EWFFVAG9STnVUTn5cVqF4dMGRj9mlo9mkpMCNjJpxaYBlVXxgSmpRO5R1WqB4ZmdDQhsQEwBmSURyU058XFeheHXHm5jfr67quLjKl5mbbG11UEx1VkWWd1uTalphMzRGJCQlGhoAWj44ZkhDfV1Zkm1puo2K1qen3auuqHp9eFJUZDw3aD81bUhBXzo3VDIuNiQhIxkZAFU/O2JLR3FTTpBsZ7CEgc2fnciYmZltcG1LSl04MmA5MFIzLkcuKkcuKksxLUsvKwBeTkpnWFdjR0CQbWewhoK9kpCed3qFX2JoREJdOTJBKCI/KCRSNTBiPzppRT9VNzEATjsyTTgzWkA8f2BcoXx4qoOCimlraUtOVDY2SCsmLxwZPyklVzg0ZkI9Y0I9PiknFUOvw07vxnQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/01.png",
+    "width": 1920
+  }
+}

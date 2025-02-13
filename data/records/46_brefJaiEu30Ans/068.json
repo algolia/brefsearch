@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Bref, j'ai eu 30 ans.",
+    "end": 73,
+    "index": 28,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=68s"
+  },
+  "thumbnail": {
+    "hash": "8bc6d78610",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABa0lEQVR4nCXOXWsTQRSA4VV2Ps45Mzsfu7OzySTZfJuYtonFJgYTqiAU9EaLSIXe9U7B4v+/kcQf8PI+mWCc5+wi2JtudRjW1ylsB/XTu/mPzWjizdgX27a+jr6UnPJcsTwTOXvxMt+n8tur9HEY9snvOvbpZvZ11b5t3LbrbsfNurJWcMWZ5izjOWM5W9buftG/f53+7Oe/d7Pn4+phPX687D1e9j8v+61RWnAvpeUsKwmDomTUh1Hnbtr5tZs/v1/+vb36+Wb6fZkertrtsLEgHUKtVImYRYVRU9RUESSjjqP4aZq+zHrHXrio3SLYioAEdwiVIouQVQqixlpTVNQodACrYA/dclPZiS+0FFoKEtyC9IQWZOYJq5MKPcE6unlZBIUDV5SEDsGABCGVEOasOgVGCofgCQ1Aa/XdpLM6M0rCRpMBkELQOTAgCyky9X+HcCpBbqI79MPCm0GhPUjOOHKuJS/ONi3FP3//J+Qx6Y6qAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/28.png",
+    "width": 1920
+  }
+}

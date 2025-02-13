@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Si tu vomis, vomis là-dedans.",
+    "end": 39,
+    "index": 14,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=36s"
+  },
+  "thumbnail": {
+    "hash": "2523443fdb",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nAXB31ObMAAA4BBC+dmQBJJCAIG2QAsWcO3EumrVTaedZ+982O2hd95e9rC/YX/8vg/4KhwDhSqqDxGHiEDNVzUfIgw1HRoaNFSgIzBCyggBhBQEJlAlCiKK6qkaRToEugUNoRlU1a2RbWiOBk0ETUd3XMsOKAGBqroKqgXfxIFnjrFmLwiLzTFHlmNgx3QvOM0wxtY4ZDQRPqAQSd24mQa9ZKsJ/5qd7aIwtFyK7LFJsInXHrlPeRaIgFLJGLitkrtSDqlfT2jl0drnU8pC2w0sbI5wMpHPq+rXtvvz9nh62b/fb8HP62aTivWZaCM/oy7RrNAmfRRe5UnE+KYsX9f9oW9PT/t/v98/DndgV8lG0jYWL23ZSSEMM3fZa1O9dVXq+UWcdnm5jKffZ+L0pTneXoJVRBrJCk7/Pu6/ldPINoZ5fvzcPy9nFcHLUO4WxRDzK2E9dcVhewG6WdRENGPOj775uN70gb9No2NfP1T5ZTm/6T4N9XmbJOdxtC6LYTH/D1kqMXQj2XBPAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/14.png",
+    "width": 1280
+  }
+}

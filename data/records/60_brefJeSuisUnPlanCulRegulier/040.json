@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Quand c'est facile pour gagner, j'appuie sur tous les boutons.",
+    "end": 43,
+    "index": 16,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=40s"
+  },
+  "thumbnail": {
+    "hash": "46bc3354c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKShrMPFyK6uqJ2Xkri1s8bIz3x1eQ0JCQcCAwsHCWdiYXZvbV1WU0E7Nj01L05EPwCppKewrqa2uLBdTUZbPCq5srKMh4oWEBAfFxcfFhVmY2N6c3E/OTYNDg4uKSZYUUwAlYyLkYiEn5iZZlFLbEU2loeFgXVzUkQ/aE9GbE1CdGVec2ZgMy8tCwwPOTMuXVVRAFZGP3ZmYHZraldDO2I8Klc/NmxMPjwvLDcmITckH0E1L2BOQ01CPTM0LUxIPVdSSgA8LSNALiRTRkJgT01uRDN0WEZ0VEMmHRwZGhpAPj0UEhE6LyhDMidJQzJLTDo2NikANSQdJRQQNx8VTi0kRh0fXy82PBojGRIPRTYxW0lFRzg0UEM/QzcuUUA2YlVNUEM6AC8fHkg0OEUuKz4bEmMxL3xBRXM/QTAeHlZSUjc5PB0dIBcZGxkcHzI3OWphW2hXTwBGOjRxY19nWFQ3IB1FJRZOMCBdOytQOjYuMjA6P0InJSkuKjApKi82OTpWTEZLOzIANCYgRDYuV0hASDs0X0g8bWBab2RgbWNjamdrdG5um5aXkImSg36ImZWXrKipj4iIxXGCndC+7pAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/16.png",
+    "width": 1920
+  }
+}

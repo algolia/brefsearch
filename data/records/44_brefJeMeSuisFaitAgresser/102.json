@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Merde. Bref, je me suis fait agresser.",
+    "end": 108,
+    "index": 35,
+    "start": 102,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=102s"
+  },
+  "thumbnail": {
+    "hash": "a99477fd77",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIlcUnIeEXk6LIZ2a5SEe3lua4BrY2dDNFc6MDwqJ11ANFg+MjYmIl83LmgXCGpCOACNWEx8Hw2IRTecmJLGwrylop96XVRSNCpfPjNLMyt5WEdwUUFPNy5pPjNuFQZwRDYAm1pKhB4Mk0k4v7242NjVsbOxkmVZj2ZXhFtOgFdHhV1Naks8TTcsXz4ydR8PZDMmAJFRPo4jD446KcjBuNrY06esq4xaT3lKO1Q5MWRCN25MPl5DN0MuJ15BMYVoW5F/dgAxIRlnLhqaUUC+ubKpqaWhpqWLU0pmLB5GLShPLyhROC07KiQ2JSBsSjeBc2tAQUIAHxURPyIUl19Mm5KLXFlXjImFiE5EZBoPVDImTzQoNCQfGBISQCwie2JUMS8yAAAAAHZWPVs0JI1YSaOclmVcWoeBe4xWTFwPBWo7MUk5MzIoJTIhGlQ+MisnKAUFCQ0LDgBaQzUZDw1lT0mysK2RkY6ip6Sec2pUCQCMaGCAa2VyZWFrWVQsJycDBAkNDBEMCxAAJxoWFg8NQDIun52bqo6Im395lHBpUAoCf1tWYk5KSEBAZGFjDAsODQsQCgkODAsQlBmMuDN1Vv0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/35.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Des gouttes se forment, elles tombent, il pleut.",
+    "end": 28,
+    "index": 9,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=26s"
+  },
+  "thumbnail": {
+    "hash": "e1158edbb1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nCWNW0sbQRhAv5lvZ+e2M3t3lwhtTayRYmoSW5tdEqNWJCKFaBu72g0UH/pgKdJSA9KnFkHory6hcDhvhwPtvLG9uR1YG0deHNksCdI48LUJrW1kUSNLVvMVRDRSJMZbz1KQzBGcIzLGnND3VtI49K1WSivp+0EYBp5WiJQhMko5YyCIy8BG0bOLqh6ODweDonj9Zjwc7vZ3qk/X9eXVeG9fKo0AYtkgcOQu2CTI57Pjk3l1+fvh292Pxf3Ph7+P949/5ovFzd0vqdT/QFAKQgpjPN/XRdl6WqxuTXe6o+Zm70l5+PygLsefzz5c33IhASA1utNuAyIFQnyjr6ajo0l3eDYpJvsve3k5Wa9uv/enNxt751xIq9RaFg/6PaBIENxQ+++Ou7PTQXV+NJuO6ln5/uPBq5Mvu6dfe29rLXgzi9dS02k1lgeHOgwdrcQSybR0leBWS2sDE+TaJEjRZagF940HXDhCOo6DAIQSypBRQgkhAICwNABwlydx0my2Oi+2/gFztjYORK1E9wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/09.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Je fais de la guitare, tête plongeante, 3-0.",
+    "end": 70,
+    "index": 29,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=67s"
+  },
+  "thumbnail": {
+    "hash": "c3c858b074",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHBTRYNrTaCkXZ2xSZ6tZ+Po7Orm5I9kUnlSQ0w1MYdYS6xvXpxkUpBfTYlZR2tFNgCNbFqjhWWVmVektFOnuVJkblKWjIqqdFubZlB7T0CRW0mSXEpQMSpIMi5iQzl5UUIApIJsxayOl5RklKFcsL9wVl5GU0JBrXFYtXZfo2ZQsXVfoWlVaEE0ZkQ5g1hGc05AAK+PedzGrLijipGMgqanq46Rq4p7gp9lTKhsWahrWMOFcaprVapvWbV7YrR6X3dOPwCVcFzPtqjDqZuVeG50a3hTTmZpV1WDV0NhPzVsRjuCVEicX06nZlGyc1uUYkt5V08Af11Lr5GDtaqsZFNNSkFFSUdcRzk+g1lHbz42Xy4rUC4nc0s/kFlHjlpGZ0pCQT1WAG1PP4VkV4p9f0dDSxoaJjc4SyMgKGtKPI9YS3M2NG04M1o6LWxIOGZGOUxHUykrRwBfQTNqVVFFPEFGQ1kyNUhSVGQgHic9KiN5UUR0Sj2EVkZjQjVHMScyJyxJR1g4NkUAVjwyU0NIKCQtLi9LPkBSQ0NUFxQgKxwWQS4oSjMsRC8nKR4bNyknOjVDV1ZkWlhl57ulwTi4KEAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/29.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Vu que j'avais le droit à 500 € de découverte, j'ai béni\nle monde moderne qui permet à un homme qui a 0 € de voyager.",
+    "end": 17,
+    "index": 8,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=13s"
+  },
+  "thumbnail": {
+    "hash": "843a3bc020",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGBaW19ZWo2Gi5aMj5mPkZ+VlYB4eF9UU3psanNpXH51c4J2cn5oWYZ9e2VZYTwuOABSTk5uZ2qRio2RiIuFe36MgoU6NTZCJyGVaVtqXEKGfXyGcWJ2VTSYi4ZtYWo9Lj4AaGNnf3l9ko+Sf3h9ioSLh3uAX0E9bkpCkmVYcF9CYV1eYlJIZ0kthnt6ioCChXl6AHt4f4F8gaikqri0vsTA1cC6zW9QSW5DOIJgWVRJPBsaHx0eJSUkKioqMTQyOTo3PAB6eYB9eX+opay+tsG/u9K+utKIe4JmT07Dtr1rZmkUFBsgISgfICcfHyYaGR8SEBQAe3yEfHqCfmxrl21fpI6XkpWllpijqaO2urLGaGRpDhAWIiMqJCUsJiYuGhkfHRocAE9LTk5LTkg4Nn9SQJ2CgYWLpGhufomDipWCfCojJTo/SWNqd1tibk9KVjU2QSIdHQAhHh0pKCg8NDJwTUCBYll2ZGhpVleXfXOQemwfHiNBQUtKTlk4PEUeHSMPDREODA0AFBITHh0fMi8zUj86STUzSzc3SDQuQSwnMSEhKSsyKCkwJSYsJSUqFhcbIB8gMC0sqnqcEkeJiZ0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/08.png",
+    "width": 1920
+  }
+}

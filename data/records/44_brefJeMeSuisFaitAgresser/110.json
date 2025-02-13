@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "'Est pas grave.",
+    "end": 111,
+    "index": 36,
+    "start": 110,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=110s"
+  },
+  "thumbnail": {
+    "hash": "7402cd8959",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXB62+aQAAAcP6BpsVqfWwWNWbG9MOWLFmTLaaOPjQ+arE8hBM5jhMO5BSuiEbT1D2adF+2f3m/H2eOh64hS3ftSrnUrFdr5yX5+svWkQ8xfmHe687/tQkOm2AbeZY2RKbKYe2BzafT+7tyPteoCZ+q5dnHD8Go/ZaSnwkxH7sBVJEh/X3dvay9kCAutJRdYOFxt8jzxcJZq1zSysWlLP5h8LBC42E39BGLF//e9nvmQVPnIqj8WEKiDopZPp/hxbNsRyjGoJcSqPdv1mm03Sds6cU+jBYuQZBLkPp7BelUKmQzuQx/UamKzfphaWnKpFm/iBlNnxbJAq8pWRKMgMKloX3YxSvX5I+O8rnTSr3+9epqndDr723hncDC+fOaJtSNfASBqkr3nEtcGtGY0Zpwnjk+LpTef26JAbHFm8Fl62GzIvHCiQPsOzOgjke9DqcDgF3MEjYc9k9PThqNRvv2djU3bEOjfkBdGDizuaXPbeDYU0Mdc4+aroMpwljTlL74LQ2s0AGuqcqDzkQaEBsYsqSMegBMIMIWRP8BuqKOV4lXrUkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/36.png",
+    "width": 1920
+  }
+}

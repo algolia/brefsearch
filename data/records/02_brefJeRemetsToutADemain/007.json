@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 2,
+    "name": "Je remets tout à demain.",
+    "slug": "brefJeRemetsToutADemain",
+    "videoId": "JmghDKkeiik"
+  },
+  "line": {
+    "content": "Tous les trucs que j'ai à faire, je les remets à demain.",
+    "end": 9,
+    "index": 1,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=7s"
+  },
+  "thumbnail": {
+    "hash": "583927f324",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCai4Svopx4Z19KIQ9xPydpPCRjT0RfX1c4RT1qjYl1fXkpIRsXEA4TDQkRDAgRCwgAgHNss6WfdmZeSiENcjocbkYud1lMTUE3QElBcYuId3t4MScfHhcSDwsICQcFCwgGAGhdVrWooX5vaUAaCWAsEnhDJo1nVk0/NFtgWm55dWZnYFQ7LykeGBUSDgwKBwkGBACYiYG0p6CHe3YzFQdOJhNPMiNiST1BMy1ERUJQWlNXS0B+VUVFKyAZFRAQDAkIBgQAjn94tKegkISAOBkLMx8WHBwcGhYTGRQRGxgXQzgvTDcqVTkrfFdFPi0jFQ8KEgwIAIZ4cbCinZiNiTQbECAUDxwYFhMQDREPDBgTETgxKj43LDQZC25PPoReSEwzJTYjFwB3amKsnpidko42IBYeEw4WExEQDQoRDgwTEA4nKCI7MigzFAZBIRKJYktROSokGBIAU0dCpZeRoJaRMxsYGw0MERAODgsJDwwKEAwKJCIcLCQcNxsPLhcMHxkVDQwMBgYHADYtKZWHgp+UkDcdHR8MCxAQDQ0KBwsJBg8KBzUwKVZQSDgmHBcUEgsMDQoJCwgGBhldZUrsIEYaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/01.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "C'est plus cher un traîneau que connard.",
+    "end": 90,
+    "index": 39,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=87s"
+  },
+  "thumbnail": {
+    "hash": "e575b32bf4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB3W7SUAAA4L6CMVli2BbDWJXa9rSn59DW/v9SCmWjtCusYIBkUMQf5sYNUxOXLSFZTNyFV+oreKN3xgufwFfwzjfw2u8jaJpiGAohyAD25fMXv3/97HVbkizqmixLCEEAAE3TVGW/gjjm9TwnIA8whoahygreXL759/fP05Pccc26bzmWpimiKAmiyDMspUnC9asJIdWQpki+b7j1oDM6//b1+8XpvNH0mg3HtXVDk1QRY8mjoenqyu1FQWiKbJtKGAZmo7h7v3Z42F+OctPRNUX0HN3UHns1uLtdvnPvUaudfr5aEpah2oY8HJ18+vJj9exd0jueRJ6jIFkAYeDYllplGCgAgNVsML5dzwjIc0gAqmVebW4+vr+5vlzKWHVlzFMkL0ARcZjj9quU0kydIJymIYEAizkWAgbyfNKNPmzebu/ukZUHpdJOuUw+JKuI51iISMllIBY4hlgVs9V8elrM1udn67PlopincYxFdau059vOKM+zoyxNjtxGx7R93/UJz2349SioRwftuN8b9rLBYDjpJsetKBkPx4vpYvxk0o2zzkHajuIs7f8HhFt9BrP//fUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/39.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "que Baptiste avait ouvert la bouche, qu'elle avait fermé son impair et qu'il\navait donné ma nouvelle adresse.",
+    "end": 34,
+    "index": 12,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=31s"
+  },
+  "thumbnail": {
+    "hash": "fa87abb2c8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBCW/SYAAA0C82JND7gpUK1CKDMmo3XQqMQrfCIiiwQgsdUIbIQBGYQ5SBWYIx8Ug0MfEf7z2Qk9l0jJEiIcfp1vScIZCvk5xzLGQDvkFF+7aeBylyj2ZonIB9MAIjQOJJPUmXnkcsy65qafNQXPatlV08473TRunf9zuR8wvBYIBmURjBMRwc8wE55n+pSbbVqubTdk65ddv/N7PzMLJol3frBYOiHMNybIClGYogwJEQxjA6ISnNpt008kZSqKjK16E9yMjzUvbHakoSxOF+jMQJH4zQFA3klEJQfi/KnmiGpefz4uNsXBhVT//c36V4PhMVn/JcuZC7blyo8f168QxIySOC9INH3rikZNWMaZy6Zb1XNv7+/B0ORQCA4kHeNhu79WYxur667AExKpEUCwDEh6LPZCXzQh333HqxtHw/SyUOsif6zc2X1eftaDLruMN2pw8wlCApPwAQRjBS4qCgZsa2PXGczfTDx9nt/e7X8tN28m4+eDNutToXZhNAEITiFAR5PB74iRA91wpX9Vq/Xp+67nazm86Wne6w23vbdtxqzay8qj0Any9hFoD3YecAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/12.png",
+    "width": 1920
+  }
+}

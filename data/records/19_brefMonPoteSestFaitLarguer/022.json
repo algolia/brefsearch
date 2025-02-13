@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Pendant tout ce temps, il arrêtait pas de tapoter sur la table.",
+    "end": 24,
+    "index": 13,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=22s"
+  },
+  "thumbnail": {
+    "hash": "06b3a65a72",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEoyKntUSYpaS4ZWRGtQP3hkVHBQP56SiaOakIZ0ZVQ7KjESAh4GABYPDDQoIiQcFwBuY1duX1B3WkiLcmKHcl6AZE+ZgHK2rqSWhXODbldzXUdrUkF1ZVtZTEJRQjdLPTMAaFxOYE05blM9nHdZyYFMtFsirHNQm4h4fmdPalQ5alQ6hXBXmot5e2pXY1RGdGlfAEY3KEk2ImE3G7xsNsRiIqw/B6hBEJNsUnVfSXxoUnxoTXBZOnNeQmZTOmpYQX9yYAA+MCBEMBhtRCeuUxuoPQqYKQmYMg+kiHGJemigk4adjXhwWTpdRihWQiZVQSRUQicAV0k5YU46b00ziDoUkCkKjB8Hjjsbl4FsqJ6So5aHkH5lbVg5d2dRh3xsX082RDAVAFxPQWBSRlE5JlYsFHlKMX5EJ21AInJVO453X490Wn9pTWRNLoN1Y351ak0+KTopEwBEOC1MPzRINSRNMhpcQypvVz5pUDdjSi1oTy91XT9qVDdXQSFQPidENiQ1JRAhFQsARDgwPTEnNCUYLR0QLyATOCgaOikaNSQTMSESOysaOigULhwKHA8HFgwHHRIMEAkHggqJOa2vMFsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/13.png",
+    "width": 1920
+  }
+}

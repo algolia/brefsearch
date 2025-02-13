@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "La folle. Salut les copines.",
+    "end": 35,
+    "index": 20,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=34s"
+  },
+  "thumbnail": {
+    "hash": "06c41d0ec7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nB3QzW7TMAAA4KhTlSaxE9txEv+ksR3bWZo0o2k11g02pKHBJBBsEhcOHLhwAE68BHcuPAHvieABvssX3F8dJ+tQnOIkFbgwZS1yrku2VwqB7GD1u4s9WcU4iuPFyWqxCF49vz7uDpwyBFCeUcka124uXPdxPgNh8nBz9ef3L5KkMIxfXz594l3Q2d7bU1mJXtm5H5VUg99Iym6H0Yr16LrPj+8ZpvFy9fPH1w/3d4E1zmtfl9xJte+3nRmMaLrGHLpNr+zQmFMuEEAEYgLSLAKBU9YI5ZhkGS1R8eZwfjNMVqrZ96PxW9XeDUNNqwpREMEwTAJRrimme6W3cj1J+eU4T8qUmE6t3/n+mbU6Lzit/hmIojAJMCQMIgLQrfeXxlxbXeO8xMVoXCuaifMzxvIkY5gKmK2WUfCC8+9r9knJua4bTH0lTF4UWf7/Dcdxpgo2crHr+qYSJ4tl8DKFb0HyrSLnGFOIZUZqlAtMQZKSlOhK7JRmlLXa6VqncfoXBu41UAW9yZsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/20.png",
+    "width": 1920
+  }
+}

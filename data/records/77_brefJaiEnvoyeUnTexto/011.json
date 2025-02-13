@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai mis Demain soir, mais je voulais l'avoir ce soir\nparce que j'étais mort de fin.",
+    "end": 14,
+    "index": 4,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=11s"
+  },
+  "thumbnail": {
+    "hash": "ba9797be86",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nFXOP0/CQAAF8Pt4RBM0Ad0gMNBEt0bKCQEiUz8ACQwstAvKhEHqwACKialOhIoJGCIByiCnvbv2+BPaM8Lkb3sveckDR8eBg4NDCJMwcRkIBGzbFgQhl8uFQqFgMBgOh+Nx6eIifnJy2n8fth+fwe3t3cvLq2EY99p9r9fzPO/s7LxcLo/HY13XW62WYRiapo1GI4zpZDIH6/VmuWSu63HON5uNZVkIIcYY57zT6Zim6bou57zRaAiCcHNdBbVaLRaLKYriuq4sy6lUqtlsQgjz+XypVMpkMqIomqbZbrcTiYQoimB/NJlMMsbS6XQ0GvX5fIqiSJIUiUT8fr+qqpxzSunVVW4ymYJ6vS5JkqZp2+22UqlACFVVzWazhUKhWq3Kstztdjnns9msWCxalgVs28EYM7ZkjDmOQwjxPI9Sulqt1juMMZtS2/mz+EJgMBgh9EMIsXf2G8dx9pFSuiv/JosFGn58goeO/tYfTKdzhL4xxoQQ+h/GGKHv6Wze7w8fnvRfa9FGMSZELkEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/04.png",
+    "width": 1920
+  }
+}

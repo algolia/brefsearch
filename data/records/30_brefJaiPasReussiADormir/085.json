@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Et là, le zèbre, il court. Mais pas...",
+    "end": 89,
+    "index": 34,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=85s"
+  },
+  "thumbnail": {
+    "hash": "c3749fb7cc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAApElEQVR4nIWRUQuEMAyD7bpNZep07TpXEP//vzyYIBzo3feUhwQS0nXfAAAimsYlut9Ya51z8zwvy+K9R8Q/AUSMMZYGEY3j+MsNANZaZhYRIjqOg4heWznnqMHMt8g5hxCeA8MwbNvGzLXWnLOIqGqtNcb4vMQYs66riDBzSklVz/NUVe/964ZpmkIIqVFKUdV935m57/vX0dcP1wOXQEQAuE0fPFsLGhcBnwwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/34.png",
+    "width": 1920
+  }
+}

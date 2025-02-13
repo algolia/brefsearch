@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "J'ai rajouté: Avec la Morvonnais.",
+    "end": 12,
+    "index": 6,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=11s"
+  },
+  "thumbnail": {
+    "hash": "39532c385f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADIrJ0kxJmteOpN/cLGbjquVg1xPPFhXPmtjP2JVLiQjGQ0JDRgTFBoVFyIaGh4WFwBSTEhNGyeAXFx3Zlt0YVdlSkFnUi+OmTiytlB6eyw0LCIYDRAQDQ8RDhIUEBMUERIAWlVNRiUmQyUjEwwMNx8ZPSEdMCMVc34+b346Znc4X04+SiMgEAsNEA0QDgwQEQ8RAFBNR0xEREUxLj8jG3dMPoFSQlg2LEA1LTtANjtBOEc0KGo3LzYeHBgPDycaGiohIgCIhYJpaGhvZmJWNiuLV0SEUEV1VENEQTM1NytLUUNSRzxYLyZmQDVGOjlYU1NaWFwAkY6NZ2hsvLWwm35vb0ArhlpJSUU6MTInPDwvPD8xODYoOCMcUUdEUFJVUlRZZGNoAHVtcG9oZ83GwKGEdnZGMZBjUMm9taSkoFRVSTo/MHZ5bry8uaiqqoWHiJOUla+urgCllY2Fdm9zamGTfHOOXk6RYE67o53f4+WMcm6nj4z89PX47O3l2NjTyMjFtredi48AZEU4VkhEOTMwcWFXlW1gjF1MoY+NuKyyhkBJaBwlgTM/kDZGq0ddpEValDtOdCM04fyW7iyrZBMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/06.png",
+    "width": 1920
+  }
+}

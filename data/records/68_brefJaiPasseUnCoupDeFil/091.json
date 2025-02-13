@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Putain, j'ai compris qu'on était repiégé.",
+    "end": 92,
+    "index": 52,
+    "start": 91,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=91s"
+  },
+  "thumbnail": {
+    "hash": "8457870e7f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXB61OaAAAAcKr5AnkIIiBm8RARiDQUmizMI/OBmsYyWRpXc2x3m7ebt26vD1v7sm/7trvtv93vB9z1rL7OPa+pvnG4tBtOWZw+NcKBM2sfeU59dT3a3M/CScdS5ZZV87s28CHovOvWPw1PP0+6j8H4y9j9Ouu/DwYfF/1hywwnvR+b6Oedf6mJtlyK5h7wEI6+TU/etqxf84s/q/nKtd/4vYfleDH1vFM7HJ1/f3WztI2oeXDbNjcvr4CyIJwp/H1dX7tO5NraPoeRBeNAN1XlxGpEV+Ow/Wxo1psVReakqmYAOwmUxLKDQ+W8qpslUd4TYJyh2X2HyHmqPG0e88WyItVYVmGYCo7zQArGQZgoMQWD44Z1QxBkjN6jd/nH4PrvC7/DiSCapymR52o0JUFpCkiksBiIohjpqlpDqiAEg2YYkir8Xr/+t/CPC1wMIgt5OUeVUxC1k8AAMI1vxaAklJF2hQzOgDABoTmczK+PtECRIZhEMJZldVmoZoliPEkA8STyJInGEwiYJtJwFsFpMEPBKHlRZHmS2U7hYJoyZH111soi2a1t6D+T81Q07c/hSgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/52.png",
+    "width": 1920
+  }
+}

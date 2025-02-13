@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Ouais. Et j'ai rajouté: J'adore la musique.",
+    "end": 55,
+    "index": 21,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=53s"
+  },
+  "thumbnail": {
+    "hash": "1da56f5ba3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfElEQVR4nE3Qy27TQBhA4cn8Mx6P45nxJb7Fl8S3BAfjOFVCKFVFaRGEFgSSBRIIBK/AinVFJZB4adR2g3S23+Ygyfh0zJe+m9hWm0XreXRUxn2RnLTLylF94NSW8oH6hJqYCAxIGU5mT9IxT5TYFOmT5WxbJQ/joK/y0zK+ebU9mYeSc4dQhUFhQK4ZFeGyDqvMCdo0fFwnuWfPlNln0Wke/TpfP595sZIW4+rOIJ1Iy/Azryyjpknq/SIvAj+RYhV5pS2GetpN5NwSOtUF47eAAAfM6YgbmhWorElXq7y0TTF0sxdlcBzI1hF9aD8IXMBEUYYI6AQ4AU6BM2IwkJEb+bb7+7B+26TDYnpVTs8y991qjhA2qHYPdMAMsEaAwYhJXTztuuvL3dejKhbm2pPfNsWHfoHQSKcUAdb+jwDTMHvWtZ+PH/286Hfl7avrw/bjprIZsTlDgClgche9T9fGP4aLP9/f/P30+ub92Zd9c9i3w8vtbhH24eQfAr4uX+dr6Y4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/21.png",
+    "width": 1920
+  }
+}

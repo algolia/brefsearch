@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai voulu lui dire qu'il ne pouvait pas l'appeler vu que c'est lui qui avait\nson portable, mais il avait raccroché.",
+    "end": 82,
+    "index": 46,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=79s"
+  },
+  "thumbnail": {
+    "hash": "badc97a792",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nB3N3W7SUAAA4HMzjZEyUKGUFvrDKbRde/onYGkLCBUIbUmXUoQVnTFjLkrGoi7Z1GQXEi8WX8ArX9XE7wU+EHefrzxLoSsS/qwDq/2jhgkZmSRufOfnKviVRudDax2NNsl0gASWIMB5NPpwPOnx1bcat2iKE03y5Xqki7ez3v1p/Ofjejtx3if+981q2zdGNQrsVtGX+fg1gl+76HPgDg1lY6Pb0E4t/eKlfT0dzg1lu4xuEn9pSgFqgGTQ2wX9N5aeqjBst4PBaIT4fdzfL/z7NLqLpz9Cz3fssN10kSZUa2DmdE89uyOIMyRDVhN402CqF6525jQ//R9UmqVJvkzAMikWinXwznNPXEOH8sK2HaPjt8yFJtmQ2Titpaa0OW5pd6gS9yiDk2WRIo/A1dgcSPUmW7/2WmtHP+uiy1fOPj2+nAwEipYo6vd6XixUMAwnCOkxRoGxrog0n8+RT7M4liUEGn6L/b+7zYltgQdY4UnhKhzn8yXskOIYhOoqUBoyU4EMBVmSy2ZLRbyWvDDvktBTVXCQyWTys5aROywePMyFTdPi4T9kCWIIzS2NfwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/46.png",
+    "width": 1920
+  }
+}

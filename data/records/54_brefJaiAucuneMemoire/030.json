@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Je ne sens pas très bien.",
+    "end": 35,
+    "index": 13,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=30s"
+  },
+  "thumbnail": {
+    "hash": "d998e136b2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nBXQzW7TMAAAYG9N4r/Eie06de38uM2yJFsmtmYry8Y2VCp2GEgIIag0ceCwA4dJXLly4hF4B14S8T3CB/78fPr7+8el03LiFxg7hFSAEh8qH1qEDUQ5xgbhHOElpY4QsD3tfj0/fXt3z8G+DVCOUBbSk5mEez7bD6QHVzPJfVgSWlGaYQKeb4fHt9vdm83Di+M6YRqiIqR1HE2AF+75GaaPq/ZumTtMOsakD8H3m5P3Q//57mp3fXEkIhkEhuBlRLOQVpJbQndn7ZdV5zBeUsI8CD6dLsaFedVUY64HLRvBesWPJHMhSRBVlNVSNkopRG3EbMzA2tmzTA8zft+Ug00v87SIQoPQFCIe4Jcm3VTFdeXKRNZKdToFY3OwtupDl52baS+S0aZpEBxz1okkRbifirXVm0N3UxUfV+2Vs6CR8fZg/tDlJcGpF3APJojpkC94KiOtaFxLWSb8Itdfx35zWIJzI15X80b8H+AebEV8WzujzGTChCgTXhUya/U8gaSdTdfO/gPxkTIUrkDDzwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/13.png",
+    "width": 1920
+  }
+}

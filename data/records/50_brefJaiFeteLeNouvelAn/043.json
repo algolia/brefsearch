@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Je le savais, moi. Ils ont rigolé.",
+    "end": 46,
+    "index": 19,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=43s"
+  },
+  "thumbnail": {
+    "hash": "433196af2e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nB3LW2+aUAAA4GMjReygIPeLIOClrj2obKGKV4SDMgHdxXRp2umsa1y2pyV72cN++9K9fx8I+m489FYzfxONP8XTz+/CLZpaIqcwVE1gbVXSRV7jK3qFjNPl/tcPgPxeNvM+ouF9Mv2ymn/N0XGNImhDQ3Fso6mphiRwNPUKx3rw9envH7CaeB9e9GyXRYccfXu/fEiCZa/l1g1TFjWerUkCT1MMeUGXCfe6AfKgv12MH1bz/f9wXC8OaTSBra4uawxV5Su2xNcElqNIkiCgIYPtYny/mj2m4S4ND1n0lKNTFj2OXN9U2hLrVCWoiU2Zk2iqjOOuqYBeu7EOBrssfN6gQx4eN+gJjU6BdzdwfFvxbXVQr/ZM1eArdJmYXGkAFIqlMmmocvDW2aPh907zt1r56dh3Axi3DXRjhdDqt/QrVdQYKrBlcFbEz85LBQwH58QtTT1zZMJedpnLN5bh1fXEseNOo2sqN7pkCUxHpEEBewlFnABYScRLRx82ajrAykk0T0e3S2iF16aj8aZAS9SFLXP/AKGJTV1n2frfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/19.png",
+    "width": 1920
+  }
+}

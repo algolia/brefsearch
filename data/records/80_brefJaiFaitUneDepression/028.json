@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'étais en dépression. La vie, c'est comme un ascenseur.",
+    "end": 31,
+    "index": 11,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=28s"
+  },
+  "thumbnail": {
+    "hash": "0bbd51ebd1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcElEQVR4nDXNy2pTQRgA4ANmrv/Mf2bmzMy533uakiYxLVFBghuLJYJYiivBN3DRohs3PorPKi58gI8vmTxe5naJZldn69xOwUhKxwzPu+Fu076Z8ts+7JvsMjeTx86pZMxwnZt962+6sERbG6UZWzyet9O30/am9YfWH/vYGChQFghJZXVEuK79Velal6aCZwAfD5tfXx/+/H7+/und/W44DrFCGZWwgiUBgRGiOdOMRS1zhABwupqeHj78/HL+8fj+83F924c5mBLBSZ54EMAoUJIBrxByVFWKnVGvx/LVXO0be+zdoTW907VREWUiGVWMppwVWo5OvWzi26W7CKYyaATPNd9WeF1igTLljFOSKEaNYCmnjrM5w7vNcL+b9nXoLDZGjU7PXi1BWckpIYKQRJIVcpprCCAqhEMbTks9Z2mheW/VYNXscXCKE8IplZQm4j/IJDP83xa1rBB6oy58WqLsrBaUvlityIqQFfkLnzcpAma15X4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/11.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle a répondu Oui. Elle était marrante.",
+    "end": 20,
+    "index": 7,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=19s"
+  },
+  "thumbnail": {
+    "hash": "3d212e1d4b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUUlEQVR4nGWRS0/CQBSF52caYOfSpYlGundhiCGRIopBI1ERaVFoCa9OS2cGOtM2ajRg8MGjQLX4I0wB68Lk29zFufeec0BsL546PM1dFqWqDclQ64x06gS0jLHaHjb0N7nZLZTtbB6D+D6fObmQywrUe9iaIeYgNvmPTh1IBnKzC1TVQvgBqqai97A5RdTxYasLC70TbNE6I1BXn5vai4IGxPKIPSf2HFtzEmB/I+bp9Aux6VIDiOnVqRUrbPAClyhyvMgdSVyytM2L0QNhJyFE09WtDNzVf38DiM5g5/Gssp4S1pI3oeR1KCNFzmuRk7tw+jZ0XAxnG+GcsgnbfWz6DoHaHmL2iZmHmYtNl5gupi6irj8u0I0FdIzYpGWMgdToQvKBmOM7DmIx//LB5gqtM6ppfZDNY1G+ryg9Bb8HJQRRLquAZFBvvZZqT1ei8QMn2EfB1X5nAQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/07.png",
+    "width": 1920
+  }
+}

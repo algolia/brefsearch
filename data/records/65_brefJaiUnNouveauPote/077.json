@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Il y en a là, sur qui il fonde. Il me fonde le mec.",
+    "end": 79,
+    "index": 33,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=77s"
+  },
+  "thumbnail": {
+    "hash": "64909ba274",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nCXCa2+aYBgA0IcXMQKiOG4KIhdRVECFim5pqdeWUtBZaje71HXZskuyZJ/2acl+xP7xku3kQHcxGsVLJ1q23NAYDJotTRbZnlwTKLpYZGiaoyoS/UKuqXatYWGIhNHsInv3I//5Z/Xp98Xz9376LEyv5OXWSN9a+yfz9cncv9ezR+U6pxSbJMoQWt63w8ez3RdxmtT8NR+s5TBWwhvemZc1X3QWrH4mdc+JisHzhm8YkL2cf03zD0+/nOnBHiZ6b22Ot97lqR3cKd35LPms9Je6n9WNII42m6ELC8+f2O756th0N5p/y+kTqR9pQSp0Ilb1h6tT01m3w12nPztmu46igVAVVUZoT9atVa5e3avJGzV5aO4e67cHId43tsdqFHP6mKpqLKeVSA4ASh4jjXm9wrXFek8xA8ubu6/S0WU+XNxPbk6dWYKXOIxgMcQgnAEA0qSEdrECUESIAigC4P8SOCkhnEWIwQkWEINh5UKhAgC0gFGOoBuDSFZdTrSEhi0pfZqRCyUeUBmAxhADQP//F7z9QbsXbg4yAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/33.png",
+    "width": 1280
+  }
+}

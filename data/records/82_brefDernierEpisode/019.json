@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "Je me suis assis sur un bon pour l'attendre.",
+    "end": 20,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=19s"
+  },
+  "thumbnail": {
+    "hash": "3b05fca126",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXBbXOSAAAAYL7X3c420m02Jr6BgHMSirwJQ6HpUAwsF8qLYY4parvMXZteK6ur60vXH+in9jyAJpx2lII9oDcfOtMOb1JpvZDw5ec1FPKM083n9seVcnd/vlypM7vWlwhAoYgmgw5es78fxgMOC0QslIiftmpSqEzGt9v2fFG9Dsu+S99e8gMBAaR8VmPyTlf8NGqdpQ//hNbW1n65TY/HikdPVqH61hdG77jZVPl61XAlAuBzqXMS04X89E1FhKPffePfjf3QVVw2i+9HrJcnL1R4OKyE87NN0LDZLEAjcJNFLL0wDWiTx1UM/uFdzJUyC0dzMVBmspZV9Ib5xVK+G9GTJgP4LdZ15LEv3K+HtyO3+Cx2o3OTWoGFovGdHTRx3GnKnlO9Drl1UF9dmcCXekmtG3a/1+9ZusAmwd1Aqy7bPJeGDiIRoUxVaUqqlMKxNnHklpgDXpk9ve9PZgsSRyk0k3oKXoiMXMQz+7E4uCsxNJZMEOljrys2uIxEQoD5/ttg/dfo2Qh0SKJIEtyrs2WVpchsCk1A9Am+9/iRUMIcgxFJqIIf/AdrzHgkKyPz9QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/08.png",
+    "width": 1920
+  }
+}

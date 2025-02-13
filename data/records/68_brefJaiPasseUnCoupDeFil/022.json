@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai compris qu'on était piégé. J'ai décidé d'attendre qu'il me rappelle.",
+    "end": 25,
+    "index": 11,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=22s"
+  },
+  "thumbnail": {
+    "hash": "677fdef340",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBYVPSYAAA4NVVHwxTzwrDDZQhA9/RYDAcsLUNmDAYg+0EHKLAWkOSjCk5AesqO4+7juquu35J/b+eB6oxBIsH8ph3UuW/dzRLTJ3V9wcq7+j8rFMct8Q3CmNKvCFQnpU1v2cTslSumYk241g/m75SxEGZnw/1Wbc6Ma355fvFpf7Lbk1ldsiRNSIoh/yQ3RCnSv5in7muZOetWkPIsHtUr5K7OOpMXpvzz1e/F3dOmfso0UMh3s8QUCkBRnK2iO+eskm7yIeDYZfbh3jRdk0Zdk9sszc2jjuvaCdPaSRQCAyKbMFOTSS9SD4UDCG+pdWNdbd31bMlitLd9ehnv31M4oHnL7QYiMIwh+1AuH/7RCk0ZamtKrrICSCEbcIARVUheWOU7GLKSlNpNFDcw//9MG01BdERYBxqnz6c394434zGeY4+oomDNPnVlP4uel+qqVMq4VRycmz3rMHVGQAVWNpq16fv+qPDAyUZH7CJHAiVaPLWkv+MNTNLveWYAgGQDfj+0tPlJ+sQE8N1tTyzulo08tK3XUnGY16E3kFNmSnRBOyGU2Fw76HLtfJsec394NHj/7p/d94f5f0uAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/11.png",
+    "width": 1920
+  }
+}

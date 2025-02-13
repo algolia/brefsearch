@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai rappelé: Je suis tombé sur sa messagerie.",
+    "end": 17,
+    "index": 7,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=14s"
+  },
+  "thumbnail": {
+    "hash": "d01c5349bf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBW0/aYAAA0C+GIfdrywq9QChYbKXC2ipQSsFyKQjSQrFOBkjHMkaI2dzQzOCcezDL9rBn/+3OAZcCVUnj1TS2aRceDPXvVP9UF/s5SpP5qd7+ao3W7zSzVWESCYlnuxUOrM2GLnMjbm8q5h+G7dt+y5ILa10ZNUVTrT1dz78vJ/dGQyVxOZe90hWwXWgfW+KizE7ENzeqfNdXHy96P+Z6T5G0qrhdze4Wb791KzM+sxn3bj8Y4NnSN6cny8rRb1P9OWi8LMf/LKOYy2Zpxhp07lezz5PhQCoJaSrPsJ1aGaw65V/m6WWBX5Q4jc5c10RLkdwBhCcSy6a0HWvVY5lMHRE47fPhXh8Gzovs06jDEWh9P31VEG7UKrNHRbDkonT8XMyfJUk4SpOkgONsKBQPBDCg5qk/M+OE3i+SyUaWKdOMOxCBYfRx2K5l6F13BEVIFGX8fuKVI+RwR4BZyn3p1oN+KPk6RqHxUDDq9ELhMPI+xwR8sN0NxaIZgjjAYqldJ+xwQeBMODwg4gDYd2welyfs9cGeIAJByGEkanOGHC4ohpDzpsKn0mDHY7d5/wOiQGFZ6GX5iwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/07.png",
+    "width": 1920
+  }
+}

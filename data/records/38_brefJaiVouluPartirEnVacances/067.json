@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Du coup, je suis pas parti, j'ai perdu 300 €, j'ai annulé\nmon billet, ils m'ont rien remboursé, je suis à découvert, j'ai une valise",
+    "end": 72,
+    "index": 30,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=67s"
+  },
+  "thumbnail": {
+    "hash": "623c267a6b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFVMVGpiaJGIjHN5kjxVhUhhjlNql1hvm3Vvf3V5kW+HrXmMsHuOr3iLqneHo4eOngBCSmdYV2qglZeQkqpgdKBdc51geKVccJWrcVCkhHtyjLWDmL2Em8GMocKUpL+Zo7UASlt+Z3GPgYeigH+DeHZzd4yucIqwbH2beks3m4OCjabIoa/ErbvPuMHQvLzCvsLIAFZgbWR5nm+CpG5vemptcoSUrJ6AelE6Q1U2LJtqe5eEp7e9x73Fz83T2cXN17nC0ABeV091bnaGVlGYWFKHe4KOfnlgMT1WM1pxSGV9U4BzQ3aun7LK09O7u7/Gxse9wcYAm3pdup+As5V7spF5sZN5dVFAflpZWilHbD5taEBxVjJbdVlqopyKnp2Qnp2OqaiWALGRdrymibGAcb+Id5+MdIFiT7yfhE4vSHFGaZ5qcXBCRI5hUb+ljcOtl7+tmMC0oAC4oYTFrI7FoYXKoYS+pYjKro6tkn1CKUE/IS9GJiJ0VkfLqorStJbAn4K5m4Cni3UApZB3tp+Ey7aW1cCe2b6d4sago4Z2PCE4Ox8xTSNMjm563MKgxKmOu6GGqZB6lX1pmOjkSv4leUcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/30.png",
+    "width": 1920
+  }
+}

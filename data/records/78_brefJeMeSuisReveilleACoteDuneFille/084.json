@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "C'était un placard. J'ai ouvert l'autre porte.",
+    "end": 89,
+    "index": 34,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=84s"
+  },
+  "thumbnail": {
+    "hash": "f2d14357b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABa0lEQVR4nD3Ra1OCQBQGYNhdLoIKchEocZc0WE1HRZ0pLZnUNLpMUpOXvjR9sf7/L2iAph/wnPOe9zBiQZGLeqlsVjTHrOKa6zcaHbfWHPSmt9FjsvmMomfI8oDlIECARYwkK6WyoaiWbtQs28PkIjgfYByMR9H6LjnsjuvVO4QiBDwEQg4qZaVa0RzDdG3njJAODUJC6HgUrZavh/33Q7znUAECAQIRAo6Ri5qiWlmeuu2cYdKmfkgwHYWz1SLZbb/j9ZZDEgQCyvYwclFXVEvTTwwzBYS0aTD0MA0H13eLZL/7mU7u8zwZEHJQ/QcYt1vB0CO035ss55vD7qffnzEMQlBEUPjbkFeUg3qdtujQw61e93I53+y3x6urNcvy+fj0hoKkFktpS5p+atlezfVpEHqk3bkYL+cvb8lXHH/wnJyl4tOWxIIiyVqpbCqqbZh156TRbHZd1/fPezfT+OnhsJi/cUjK/pCCXxiVNQz04KbAAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/34.png",
+    "width": 1920
+  }
+}

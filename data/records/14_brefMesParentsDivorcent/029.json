@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Tiens, 200. Mon papa m'a filé 200 €.",
+    "end": 32,
+    "index": 15,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=29s"
+  },
+  "thumbnail": {
+    "hash": "d01221410a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBW2/SUAAA4JNpFYsENrKIQFegUHtaWko9K6ftaHEr5Y7Y0jGDCEGiMRo1i5e4RF4MJmZLjFHjzCTRt7355oOX+Nf8PhAkQ6KAnw5HFsxVNKPXaFpYxQrqXd9v1O+KbEZgGUXgIJOC8UsWzwCCIEKh8PPbkw4qGIritroWRqZeG44OK2VXyKULkEWScIWmVIauFiAIBAJnzq70d6q7ZSOXjNmmVdFKtepkODrawnWeoZHI89l0MU21FGHieYAkSVyqPprNH7h9LAosTYlstuHcG+y+NtRaPpeSIKtybEOGY9c/Wf4EoWDk8cOTxfz0YDz1HBsVJCYZLxUNU+8V85tilnaQ0kXyXvvG+08/vn77C8hAMJnk2tvd++2maxpOWb8qStqmrUDeLsq+gT0dyRlqeufJ8fL38fIXCJy/AMBKKp6YtZxZr/N2/sbEpqZ2mhWvxMGBrl2TeBGyLw+OPi//fPn+DxDEuXB4dT1GqaWG397zu1PXX9wcHrbtW3WkmRyb26BSdGo8mi0WH999OAUXQ5GMZEM8yG/vRxNmZC2dhXWk9nV5i9tg6AQdja5fjsWjq2sG1l48e/Ufa5Zqm0cUncgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/15.png",
+    "width": 1920
+  }
+}

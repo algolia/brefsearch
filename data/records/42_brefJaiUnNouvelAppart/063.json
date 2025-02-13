@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Tu as l'air bizarre. J'ai dit.",
+    "end": 64,
+    "index": 23,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=63s"
+  },
+  "thumbnail": {
+    "hash": "4b003c2401",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nB3LWW+aAAAAYF6WpV2rYxW8YHYbtR5YxYOgQDkEuUURbRGoul5ae6yzbZqs2bpkybKHPu7/Ltn3/gGZGLgdA8sIXEm961Z3rhxxZoi+Jvpa2xUZurjbIWs6VTeosqdyQ5kBdhKxYhIaV7EaCgsV/C5wFq5xcTA4H/alSk4vInuZdHe/NeAaJ31laklALgnxWPorjws5hMp+ujkwrw7th9PPs57FYakljzcxZKRII4E8c5S5qwF4GgqYvZVMuPUsu7t9MdCWI+vpcjHWZDwenZLZWjreE/mx3Ap17tiWgDGNP3vyrdE6Vwi9/PHY6lx7vaflXKoUoLVXZHKLTkEoDMm10swSA5UFfvjK7yPzjC8tTVIj8qEi3gbu4/y0+SGNRNYrYFRFU/DGZg5FTmzZV/eBn9POr4myaDe+2/VhMz8SmPuZdz0JCCQOr79mohETSSZBEIXhUBc8hQP+3FB/H9lvE/bBoR0y32ep/8H3Om2yUJAz7xUkAUfBrcjbgUg7QgtYhcTzgnpZ0S930kSt9pjGl3DYa/N2o3TvmpddxSfzWCK+sfZGrJcNlvwHsihtnPKsK/MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/23.png",
+    "width": 1920
+  }
+}

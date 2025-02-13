@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Quand ça va bien, il monte.",
+    "end": 32,
+    "index": 12,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=31s"
+  },
+  "thumbnail": {
+    "hash": "852ee08511",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nAXBaW/SYAAA4KabdJMPc5ytpdD2belbetB7vQ86KHSM4YaCGW6OJQ6XmBg1amL84i/3eZAXh4coilK1V2MZ5AOGxxtVDDNo8jGzH0f2h9i0QC+AYHmmjlVYaCJygB7Uq9Wpwi8MqJA4aNb7ePM+Mn8ts59vRk/TMFPg1JA/l8ku9zORQ15WKrnI7UJzoYvdRi3s01tP/T5P/m3nP66LfZnOLHViqM9l+pD6K89EBLyxPRt+iuxdaI8H3NIQN7byVAR/1uVdHnycxO8zP9fVTeL+vb36tiqRTAR3nnbvaW91KeHpEWQdmipNeV+mm8Sdu+ZN7GaaMrO03+uLr9cFkojsypKWmpD16QBQMd8T2s0bT9+X6e0oWHjm1NIcgcs16cvV+fNljigUkUAmhXQGaZ+jHJZ+iJ13gV6YysIzC1OJJMERQCTDTeaPdAlpnZwMSMJiKA90NYrwWHrtDi8tJZRhpIhWH9g88CA/ZGmNY48xDKkeHRO1U6bVZFqNPknMzidSt2NwjNDt9PB2+7QGSAJSndf1xlEFQ1H0P7PwVqGmEZz1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/12.png",
+    "width": 1920
+  }
+}

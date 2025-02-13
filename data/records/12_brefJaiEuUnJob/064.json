@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Il est voyant, collant et il s'affiche partout.",
+    "end": 66,
+    "index": 30,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=64s"
+  },
+  "thumbnail": {
+    "hash": "4106faade2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nC2PXW/SUACGz7Ve7AcYb/w3y6Iz05ks2a3xCoYO0ckCDAcBdLRlK+wDU0rXj9Oeno+entIP2jn9Y8tgyXv5PnnfB/yZGsbchTZGkGGPU18IktqGLynj3wPF1L1uR7bmiMDQ0tFcc4A+s20TIcgIEoEfc5Jk4q86ui5VamfKWBqqsnT9tdqwZh6B4a3uAmMOoY2xFwZ+LEga0SzhBbLZx0/lX9JEOr8anV82W716vW1oNnY5MA3Pcyjxo4AkEc0WQR4HeRH/l6VJpVpXLzVZvSlXaju7+5tbb8vlKjANBzmM+gtB05gt4yBPeJHyIqLZz/ag9u1YUaenveHr7Q8vXr569nwDmLqFIKMoEiRdtxNexEG+FPcY8qMfzUarfzHRjurNd+/3SqVDYOqu6xCCohAnC7ZcA2l4l4Z3+eKfoNnwbNzpKfLo6uCg2mycAkOHroWxG/KV9NOlFZDwYhndhzjp90fdvtLpDtrtDphplnWLkMOY9zjy6L0yWSeiWRzk2tRqnQw+f/n+ZnvnAdSuDEdQa0kbAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/30.png",
+    "width": 1920
+  }
+}

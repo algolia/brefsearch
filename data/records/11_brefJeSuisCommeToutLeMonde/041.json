@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "name": "Je suis comme tout le monde.",
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM"
+  },
+  "line": {
+    "content": "Je mets moins de pâtes, j'ai plus assez de pâtes.",
+    "end": 42,
+    "index": 19,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=41s"
+  },
+  "thumbnail": {
+    "hash": "658e1c9588",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBbOS9kPjRtQzhlPzRPLyQ/IhhJLiNQPDE/JB85FxJIJR2diH2WiIF2Z2JnVU13Z18APB4WTisiXTUrRCMbQSohVUI6c2BWalhLhXVyTywnVTMokH92oJSQh3hza1ZJno2EAF5MQ3ZgVWVNQldFOXFiWWBTTHtpYJeFe5mDd4lxabuvrbqvrbClpaGUkoV0a2hPPwB/al5yXFBwXFFmVEhuW09vX1VyYFaAb2ZkUERzZFqeko2llIvKwMOsoqKPfnd9YU4AdF9TXUc6YE5FZVhTSDkyOzAsJBwYEQwLGxUTLiIcMCQeQDMtcmZjnpGPiHNnhmhNAD4sIkUpFU82JCEVDjsqISEZFgMCAwsICB0VEzYqJTwwKjktJyMYEm9hWoRtYHdaQwBwYl1cTUVGMCA7IxI4JBhDNzEhGBUrIRw8Lyg9MChEOC9ENy49LydvX1SIdWmEbFkAq6GiubCyqqGgin13dGZfg3RsJR8cFxIQQzUsTT0zSDkwEQ0MOCsiemRXf2hecV1SAHxxcZCGh6ieoLCnqZWIhHhlWi4nIwwJCU08M2JQRVVDOCMaFks6MG1bT0w6Mz4zLCK5jQ7ZCpkIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/19.png",
+    "width": 1920
+  }
+}

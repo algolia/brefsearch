@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "En fait, c'est Kheiron qui avait récupéré le paquet de clopes\net qui en offrait une bien gratuitement à une meuf sur le canapé.",
+    "end": 44,
+    "index": 15,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=40s"
+  },
+  "thumbnail": {
+    "hash": "3eff0dd9e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG01TYhHaa1girWJn7OjpridjL+qnJ6OjMW7xL2zuLiloa2lr6SZnZqNjnlqbVdLUAB7R16DVGqaYXvEmqqym56xg3mgh4aompWjkY6lkIOrf1uTe3mzpaijkY2Lc25bSlEAPSUtiGZ2bF6AYVOAgW18nHRsZl5qbVxUmX56v5yImXVla2iQiYKai2pbjnh2nJWqAGJLN5NyUV1VhzI6gkBHYKmvxjBEcH55hK+Qf8y2s5KHjldYiJWAjbSOfYdybqKYqQBRNitpRitHLiIKFDQLI1Gyx+tuhKe1udTPvsDLwtaZlaYtMESUPUitREavm5qFdogAKBwZLB4XJhoTAQojDB9Ht8Tqh5CniIqntcPttsHpeW97DAwMiCIloiM0SEBMNT1oAAMDBBcUFBIODQEGG2JUXbGmvKKvzJZ0kq98qsCEtYJfXSAXG2RCQWAxJwQCCw0MEwAHAwQUDQwWDAkIBQonIi6cr+aYsduRRFydD0alHVeUVkpVORw0IR80IxYNCQ4PERQAAgICAQECBQIDBAIBAwMRbX2wQU1wXDE4exk+eBhEglM1elIjOCEJNCAOFhAOBwgPkVysfhmMivIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/15.png",
+    "width": 1920
+  }
+}

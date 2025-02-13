@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai eu un double appel de Xavier. Christophe, c'est Xavier.",
+    "end": 62,
+    "index": 36,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=60s"
+  },
+  "thumbnail": {
+    "hash": "2502579224",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXBXW+aUAAAUB6WdcusKFUEBS4CVZnIx1UQFQFBoWprB2ppnVsbEzWzi3FPTZp1yd73o3cOIoOSmMuaHGVy9MHVdq76w9f+zIO3OPAkcapV5+3GuKUuu0qNKZOpDBI1hOVnMDHU71Nvtwj/HZPDsPXsW8+BvfV74zaMHePvPnl9vIlN1SkziEYxkAKW7u7jWV+T95F/8Fov14Pf0dXBt+wyiBzr9XGxnQ66dLGJF5CoDX0NrhzjwW57soKi+Q7PJFAeiGKoNBIdSvXArNdtSeSxHJsnETJHyYBNzMatqU80+O5jpkYW3WqlSlK/piNXbV6kyfP3n7BzTOIEgJcQ6VKs8TWOFRVRrQI+g5coguKLAE1ji45OE0w2lSFTaCFP+8MJns0jx6/zl80qbgizGrMJvZ+Bc7wNT9/uR1bn6dpZh8bMs05Pd+uRFZrNeWghUd+4MuCwTCyrdI8ixgIzvGQmciVo6qfNevdw88Xvv21Xuz6878F9MkZYNJ0/+wCLuAcIhcBZ7EIo4HaF02gQmYYn1T2zNeu2WwLPkoAu8f8BLQlc0bJd2E4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/36.png",
+    "width": 1920
+  }
+}

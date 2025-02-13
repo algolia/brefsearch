@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Et c'est là qu'a commencé le festival du J'aurais dû.",
+    "end": 27,
+    "index": 9,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=24s"
+  },
+  "thumbnail": {
+    "hash": "959e47e86d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nCWOO2/TQACArZzts893vvOdX3HOObd2Y6wYEG1InEeFUGhANKpo04cKDIi2PKQyRGJkYUAMDEwMTPxVFJC+8fukTwMt4z86MHVgGgAGBCXC5RgxZIcE54LmgmYhLdt0vBNoG3VjQx1YOoAE2onnRowQy1KcTbPosi/f723vJqLJgkUda6Bl6sACwIK6RUw7872uzwRxQoK3ODvpd1/dy74f7t1OyptpNe/H2r8TqLdMHyHFadUWCacRxUqweU+uZ9XqfvHr8tHxXSW5Oy78TQB1iA2rQ3Av4qlHIkYkpxmnz4rO51n583Ty++X+QPp16p2PlWYAk1m2pCRldJAGwzQIHSQc1Kh4Pa2/HY3/vD34cTS8qNOreXFz0NOQAWOCExdv++xJEZ7Xcj+LEhfvyvB61v9yOPq6HH0Y5ovCv31erV/UmrDttks8x1GCTlSwKOJRGuaCNmm4vCPfDPJPTX6yw8+G6bun1cdlrYUO8onDXcqQsyVY28XMtiMXl4H3sONPpZh3vYXyVg/kqslePy7/AjuzOGB3JxRuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/09.png",
+    "width": 1920
+  }
+}

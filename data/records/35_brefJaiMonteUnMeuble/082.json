@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai tout démonté, j'ai tout remonté dans ma chambre.",
+    "end": 83,
+    "index": 33,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=82s"
+  },
+  "thumbnail": {
+    "hash": "d0e5330f43",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFtQTWxgXoFycbGmptfS1cW6vKeYmYV4eGpfX1lPUHlsaot6eH1ua3NlYmtdW2xfXgBqXFqBc3KUh4aypaW6qafIu7tNREIVFRQKCgoREBBsYWCdjIuMfHmGdnOCdHKHenkAcWNgkYKBhHNsqJaOjnZ1emReMSkoEBETExISExMTbmRim4qHjn56lIOAkH99gHFvAHRmYpCDgZiHgqqPiaibn4Vwaz83MRkXFRcWFA8QD2lfXZSFgHpqZmxfXHFkYXNkYgBjUU5jYFdwcGO1oaNlX2J6bGtEPTwLCwgWFBILCgdSSEOYiYSJe3YxKSUVEhAzKyoAUj82alpOaFtRdWhmJCUoNTIyMiwrBgYGDQwMDAwJMycibF9Zc2hjIBsXFhIQKiIfAF5UTlRKRiofGhsTEDUuLS4lIiEYFQQFBQoIBwoJCCseFzIlGxoWEg8LCi0jIkU3NgAsHxseFBEgEAlvRihdSDdIMCFGLR0DBggFBwcFBgYrGA84HxIkFAweEQooHx0iGRsAGQ8LIhMLUDAZqnFAsHhFoWQymFwvaD0gPyYWIhUNNR8UTTAhQigbLxkPJRkUCAUDrHp/erKqvhoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/33.png",
+    "width": 1920
+  }
+}

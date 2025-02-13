@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il voulait dire bonne. Il m'a dit: On est capote.",
+    "end": 44,
+    "index": 22,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=42s"
+  },
+  "thumbnail": {
+    "hash": "31964c691e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBTU/TYAAA4J5ktH3f9u3b764d67puHav9WDe6ji2ORBs2dROWjoIuggrqAidiYmK4+B+8cFNOxuiJePGgxITEX+XzEKcvTr5cXn2+vLr+fv3v5vb299+bX39+fvvx6d3ZYrjRdur70/nh/Hk+ybKHT3bSESFBFFTrfT9KN7cWj2dvsvnF6+OvH99/mAxmHUeGdGhbZ3n2NttdzrNlnhMlQdY40S6WdA7zNOQoMOklF7PRrN14FNpNTUpss9tcb5QrJ/ni/NWSGA2nHS+Ova5f82KvGzitg/H0eCt+mvj7PXe7WRl7DY2X4QpZUdVxHBKbQdw0nSIWNV6qr9mNtVpYreex/3IQZB0ndS2/Ymq8pAsSouioahIqQiIEKodFyMLCqoSwqRnpunPfMRNLT6qGihBLApnlMGB0zBMMSYsMkhiWBzC62+q3e57jBpZliVwZM33bKAkCRdKGUiwKMiIBwQIWUQCsrNplK733IHJbkRtykKUKtKlqliJjyCqCoomqLqs8ZAmBV8g7BUjStbJlKBqkAGY4XcbD3mBxdL737HSj1VWxKCKeoWhEw/+y1FWTvaOkAAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/22.png",
+    "width": 1920
+  }
+}

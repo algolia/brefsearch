@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Alors j'ai dit: Je ne peux pas vous parler directement.",
+    "end": 86,
+    "index": 40,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=82s"
+  },
+  "thumbnail": {
+    "hash": "670f8101fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEQ+OzcvKmNgZ6Sou6OnukM+Qh8aGBoZGBcVFBkXFR8bGFdXW42NloSDi4B+hnd0fABDPDtBOjZqZWyhoreorsWPhpEwJyUZGBoWFBUTEREWExBWVFaEhIuEgomFgop+e4IATEVESkNAZmBllJOnpqvDs6SyVEVEHhkYGBYVEhAPDw0KR0VGfn2Cf3yDhYKJg4CIAE5IR0tEQmhiaZeXrKerwq+apoxvcmNGRh0ZFxYVExMQDkpISXp3fHt4foF+g4F+hgBNSEhJQkBtaHGfn7aprsWZiZV/YGF4VlcvJiYREA0SEA1OS050cHV2c3h8eX99eX8ATUhKR0A+bGdwn6C2q6/HmJiubFtgjWpqXEVAOzQ4MzI4TEpLb2xxcm9zeXR6enR7AEtGSEdAP2ZhaZubsaerwaGmvVlZbI5udYFnbWtskkA7PldSUWlnam5rb3RvdHRucwBFQEJDPDxdV12Mip6cnredoLZpaH1/YGqdl8JVV3NANzBLRUJhXl9rZmprZWpoYmcAODM1NzExT0lMcmx5k5Ork5aqWVBbi3yYhY2/S0VIU0xNQDo6UUtKX1tdXFdZV1JVXhqmXcvMG9sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/40.png",
+    "width": 1920
+  }
+}

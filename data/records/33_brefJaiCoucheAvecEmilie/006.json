@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Je lui ai dit: Elle m'a pas reconnu. J'ai dit: C'est moi ?",
+    "end": 8,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=6s"
+  },
+  "thumbnail": {
+    "hash": "634e0dd7c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKScmndual5XU8nBvaOclXV0Z1VGM4RTQXxnQJyWcryuoIJ0WWVfPWtlSHVhOlZLKgCamJeXg3nMtqrXz8rAurXTzsh+WVheHiWtfXKml3uGbF9zWUCZnDy5u1S8s1duaSYAQDUzNSEblWNMz7GixsG6oJaKaUE+RSAjyratbEo7KxcSHg8OaGEwh5M+j5hHg4lDAIpybWs+MY9bRqJ9cIaBelxURmJLRE5ERdLJwqJ4aJxiSkwsIEs0KkpGOEE/L09QQgClg3htPzCATDmniH6VjHGon4zIw7+MiYPt7OfIrJ2eZEV5VD5iTTtPSjlJRTZFQzQApIB5bUIwZUQ+uaGWuq+GvbWUxsG8iYiI5ePe0bytkls+tI55urSsV1JDVVA+TEg4AIuBg5RpWKqSjG1bZ4RVXqGbmZGGhItyZ5mMf5aHe6x7ZaqEcube3HRrXTQzI1BLPAB+dnmrmZvGs7Z1bnVyUVb///3i3tuPYUpdS0FeVkqdc12ukYS9s69qV0Y4Nyk4NCcAXWBVeItuiZ19eHVyaSs15NHMy8a/i1tGW0Y8WFBHe2RZqqGdppaPWUMxNjMoNjImIN3JYEQkwB8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/03.png",
+    "width": 1920
+  }
+}

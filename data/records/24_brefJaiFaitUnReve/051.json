@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'ai pris le paquet.",
+    "end": 53,
+    "index": 14,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=51s"
+  },
+  "thumbnail": {
+    "hash": "c987a41178",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AISDepycmaSjqH+EiWVaT7CYe5Z/dI93XYJ2U5GDcpqSf42MfIF9ZnFmSVxNMU9CJQB6em5BQThDQz1IQz6VkGaspmGZmHWIhExjUw2KgkeOhkKWkFSNiECQi02RjVN5dDcAfXttGhgMERMHTDcqq59bpKRdjIk4e3goYFYTj4dCl41JqqVilow4iHsykYZDhXs7AJ+djGlhO1pVOWhXPpRvSp5zPo1cJ4NSHmY0DINqKJySTaKeVI6KMYyEN52aU4aCOQCtp5qbiWSnkHWMa1dhJiKKDQZ5GQ92JBxtBwh/Oy2aSCmdYS2NWiCVXy6gdUCKYioAs7GlzcvDdG9rZEA/djs4pS8nl0xMhDk3aAwMgF5tmkA5lBYHnBIJmBcQkCMQiBIIAIiGeTk8OzcxMZRrZYxZVohHRHJLU1xLV2kWGHtWYJ1JPpgwJZsqJpQjG44wJYEbEgAWFBUJDA9cRUOVZ2NnPTphLSxXJSZ0TlFzHR5+WF+fTkOWIhOWJBuLIRyGNjJ6JyQACAgMFxITclJLelNRdkxLe01NZDU3dVVYciMkeTQ0lz41hxwHhScKeiccdCAWahYJiY6cd6Ye9cUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/14.png",
+    "width": 1920
+  }
+}

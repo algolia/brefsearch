@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Le serveur est arrivé.",
+    "end": 69,
+    "index": 31,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=68s"
+  },
+  "thumbnail": {
+    "hash": "85b98412a2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nBXLO2/TQAAAYC9J7PPj/D77nHOSs2PHSfyIkyZt6lKqNm3TQFpoGiQEqtoCUoGiCsQfQDAiNjYWNhYWJAYWFkb4A/waxLd/TMPUw6qZe05IrBdF9PNy9uvV8vP9rdsrjaQPV2Lt7pBOOySt6g4UZLbCxC4u2vXthGYuerff+/363t8353+uD58U7dHI2sqNWeKMG2YLyUgAIltm1kJ6M6GziFwV3WcbyfNx99vF7P18fTPAnaY6SfFxv7YbOXVFskQeciyDoDQKyaLnv50Ofjw9+vJw78O8uBPTnoNcQ56kZJ440wg3dRlLgsoDxhS43cwbh/Txauv7o+mn5fbX0/2Pi00VcHVb20vcoaunWAtNhciSxgPGR+4wSFs2PYjIy414Qd2rteik1wasNm7VTkZ+7hhUlTwVEij+Dwi6thpkpBkh5UE/uF7tTgKiS8hS6EF/cHYjzrDWUCQCBUvkFcAxCGKsegnx12uIakqMdSRKSHHDaudWnh/nXmjIDhQMASgcK1bKjAmxBHQsa4vUvyyy5aBLDBvyWkTCnU47r+q2CAyeg2wFlEtsqfQPMw1K6WDOjysAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/31.png",
+    "width": 1920
+  }
+}

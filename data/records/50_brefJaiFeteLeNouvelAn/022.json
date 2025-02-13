@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Moi, je n'hésite pas.",
+    "end": 23,
+    "index": 11,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=22s"
+  },
+  "thumbnail": {
+    "hash": "75c2099cac",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nBXB23KaQAAA0K0EkJtgEV0WWWG5qKAsjqLBS01lxiYmITWTtDNtUnubqQ928gd97W93eg5IfbQcuneL6Hoe38yTIg3LfLiKvbqsgFdnvtvZ5ZSSdmjDZl0VqjyYdtFu1n1cJ8s+3gy9/XL0dXv+cvMGaiqonPUD8vHt5DqLqIvEKs/zPDjtZ8dyerdIbil5ng+e3+VlTvdpuHRRpcJ17PahyG4TkuKWJPwH/v7allMvC9orYrqvtfO+Q0xdYqtQVVhOkGQlcvG03cpwUxEFrGvgz5ftReL1YH3uQJkXdaWmyhLD8JKkcFW5pqimYUCtTq1GbDVIQwNz394kwcyFw7YxsWAAW9iEHoIYGiwvMpwYWq2Z38kIzj2kSwKgUMeqdBnY69hfWK2JXnsah99W4/tRv6S9hiQVAX5Ivffj7sAyZJ4DRYRnDtw0tdOC/qbeMbZf8t6RklPWO10uCse8GuDDxeAq8ZBaq7IsQJqyJua9Yzx10Y8s/L5MPmXR5xD9HODDKPjgo53d2BIzMg2R5RiG/QdejkKIm+s2igAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/11.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "J'ai ronflé ? Non.",
+    "end": 11,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=10s"
+  },
+  "thumbnail": {
+    "hash": "f24a92ab31",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABX0lEQVR4nGNgY+VgY+VgZ+Pk5OBmY+Xg5OBmZGKVlpXftHvHmk3rs1KSMsIj4sKjk5PSoyPiEhLSGSAa4IiDnYuJkUVaRn77gT3rtmxoLyqYWpQb4mAfFhaTnZ6bnpaL0MDJzgWxiomBRUpKdu2WzSvWrk4N8A+zt7XT1YkICivMK8nOKmBgZWFnZWFH0cDIKi4mce7iuWdPHyf5eHsaGvhZWxZm5RcVlOYga+Bg44RpYBEVEdu2a/v5SxdcTE105WQt9fVCAsPTkzNyMvOhGlhZ2CEa2Fg5GBmYJSWkJk2bFBgSJi8tJyshKSkixssrJCAkbmPlCNXAwsIOcRIbKwcLM5sAv5Cmhg4PjxAPrxAPrwA3r6C4iLiogLCGojKSDTAN4LDi5uMVkpZTU1DWFRRTkJNT0VVWE+PhE+TlZ2BhZoPrQdbMxcUjLqkop6ClIKcmJSgkzM3Ly8HFwcYBAP+gR0KdHWUXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/04.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Putain, ce soir, je me couche tout.",
+    "end": 82,
+    "index": 32,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=80s"
+  },
+  "thumbnail": {
+    "hash": "78c42ef039",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nAXB23KaQAAA0E24s6ggqIDiIhCui5sgA7YxNolpqnY6hKbjaNqkrQ+9zDTNJ/Shj53JN/ccwDesZvdYta97/vs+/mSRvUX2/fSLEW36yU4PN12vUtFrSRvzksVBHchGqTlLzVmj7LtTPjnZw4jUVrQ0nSmKLhF+q/tLvoU4ToJNxIpd0LYu9HinDM/Ryd4tHh1SI28qd3zTLQybeMdrt/zBNQcCD3lJZ6EKGFFjeIVrWvbkp1s+WeGqa8TGMIdtp6UOUbyIr/6q9jklKCw0aFYCLTPXzEDpHaHsm1s8qv1M0wMvuULhhTkqENng5T8z2TBCgxFlmm8AZbTsjcrOgFjjz17+0Y7nyHvpp6sov0ln9/7pL7x6NqKK4URGkClOAm231p1Zb0js8Q2ePYR55cRnUV6PX33FZ3dBuUvXz2by4ZDmaAZStAikzkRSj1Qziad3+MU2nFQeeeOfvMOn90FR2/E8Wvwx8faQ5ilaoFgIKHAAwIHUdv2sivI6mty6ZOXi67jc2uliEMy96W8jvKUFmeYgxcL/Ij5D2QlpHQQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/32.png",
+    "width": 1920
+  }
+}

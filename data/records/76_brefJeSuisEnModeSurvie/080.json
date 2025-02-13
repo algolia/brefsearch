@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Moins il y a de thé, plus je mets de sucre.",
+    "end": 81,
+    "index": 26,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=80s"
+  },
+  "thumbnail": {
+    "hash": "131f388fa5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABIHCgoFCRwbIk5HSUxDREc/RBsYHggHDTg7TVFSY1pUXIqOmjcyOCgkKlleaXZ1fQAVFR4WFR4tMUZcX3FvZ2loXFxQRkgaGB0yLjhmY3BsaXONkpwqJi0qKC9BRFNbSk8AKCo5Kyw7QkRWKyYzTDo/TDg6RTE0NScsXUFAi3Fulo6VdnuFEhAYMjA4Z2x4YFleABgXIhgYIXhmaV1ISz4pLkArLz4oLVc9PkQtME05PKWFg29iZhwcIzkxNWttdTQtMgAMDBMVERhONDVPNjk3Iyk2IycxHSJPNzdIPDxdQ0R4VVRJP0UQDhcvKCxkX2JuZGQACwoRFA8XJxcbKBccKBkeKBsgJx4nSERNWU1JVjw1XUpMVU9UW1RWhH5/paGgpqOiAB8bISomLSkiKiMdJTc2PiwsNigoNjk8SVtXXUhER1VTVmxpbI6LjZmVlZqYmJqTkAAwKzIrJS0xKjNNO0ZKOEI6LTg0LTVIQ0lXVFpfXWSFgYdza3VSTVpFRlBXVl1nYWMALioyKioyMCUueWZxhoONhn6EioKCfH6JeHmBYFtjoKWttrzGi3SEPjtGOz1FNTdBOgx8VbclOdMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/26.png",
+    "width": 1920
+  }
+}

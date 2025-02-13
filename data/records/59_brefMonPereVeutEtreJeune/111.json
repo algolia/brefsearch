@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Bref, mon père veut être jeune..",
+    "end": 112,
+    "index": 51,
+    "start": 111,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=111s"
+  },
+  "thumbnail": {
+    "hash": "2d96ac1104",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaklEQVR4nBXN227TMACAYV+M1onPduJTDnacNKFp1pIyrUWbtAFC3DBxhcY97/8OqNJ/++kHm7st3MBsAxHEbT06abwyUxujq4yyUfslxMb46OqqsFoUwIoSZ5hk2Opgy4C3mZfFMQ1GlH0V319efqzrIcQ19cH6JQbw+eHnrgpOqdBMlJS91tdh/NSlkpvG3/97+30a9t/ul9fDPlp/SgmM66/z+ftlPnb1cPk4/3368ud6PcZYyrpUaYyzU2EJ3doPrXZaaBCn52H+mrqTIOpxnN4eL/u61VwpXkphtKprWe3bfg5J88IrDar0oHTKIGGIM8Qk5iQjOCMIYrhBDAlFinO3OzStFcXOOVA1R46FIFLdEhJhRbikEkGEIKGI3gwuJJaGF5N3oG4WibgiUiDOcmoodVz1ztMc4/z2caZxNrVlbZigOQXGDhwxjhjLGUfcMSYwOYWw8x5n+MPdtrJtDFOrPc8x3Ir/9h4sUwXrvkgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/51.png",
+    "width": 1920
+  }
+}

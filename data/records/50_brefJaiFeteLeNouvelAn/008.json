@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Tout le monde croyait que j'étais en Hitler.",
+    "end": 10,
+    "index": 6,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=8s"
+  },
+  "thumbnail": {
+    "hash": "a9e9f9c153",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBTW/SYAAA4BdIB6Ut/eTtFxSqLaVDCI0bE5xIaxkw2NymEmc2QDdQMloaSDSZOg7qyaOLelh2WPyhPg8wCyUvWM6Xn6YX/sybB3PPn158mPq23faC1a+//25u7z6vfvYOhg3bPR2MgbFePDufVp88u6cXbHf3ueN8OTk6Px1crX5c/771Z4vJ2fvLr9+CxcfXxyePqnWQ1YzB4J2qmTGS2a67/W5vtNN4kDO8+fL6z83xfm/06qU/8/M5o2G7G5tVIGfuj8cTs2jVanWzUIa8VNZzazhtbdmLYDGbvP1+dek0nPBaXMlqiqoDKCnD4YiTFZziKJYnOaHV3ktwEs0rO83W483Km34f8ikQQtKqjhI0YKB09KJPQgnBSDopYDRsdvYJlo/EE7WnrqYZ5WJJTmdFVRdTKoISACXodmc3t14KR3EEI5F4Qs5oCEGBGG5VtvdaHWerkhZFq1xieSmEoCASw1y3mdHyDAM38iaUM+3uIYjGQyieVHRd1WRFY8V0UlIwisOpJIhE0bL1EGf5JCeYSpZkBafZBQgajuEwraXkrKTmSSjjjEAzEMXI/xxNWa356mJWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/06.png",
+    "width": 1920
+  }
+}

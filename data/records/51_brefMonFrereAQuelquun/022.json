@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Maud, c'est le genre de meuf qui organise des soirées pour pouvoir dire: C'est\nma soirée, c'est pas ma soirée.",
+    "end": 25,
+    "index": 9,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=22s"
+  },
+  "thumbnail": {
+    "hash": "202a4504e5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBTW/SYAAA4DcuWVjS8m3p15aWtlAKhX7wli3pSkcr5dMCBoZMlC1zWTGKBzd0yhIvuoMu20HPxnjRq6f9Cv+SzwNiCIpH0aOKzOOYxNC9AtdTC0UyFUPQviIGprLDEL4mrWbjQUXdpTAQCW3wMXQs88Ym3jRKvizYvODkM/tQvHS0X6ejoG6ODHkEZY1KPcynQVVTnliGnRN0Gn9Qkt4P3Mc72qJRPXe1+Xbmc7923vfi4YhKEdHQhrxFgYnnvhr5xy03z7JBY+/TpLvsN34uZt+f9QJbncLsmQMVjkGQMI+nTI4AF/vdeln5szyxlIIrS1qa1bn0srN3PRvcTpvvvPLHNpwZQiaVLFKky2PgrLV783z47+biZdteDyHtkng18r4eDr8M7W/T2u3YuvLhi23uQ0s/MDIykQQKif1eTO5WJ69trVvInJpKB6qriX89NN84xUc5ys+ST1Xm0iusmqUDKIBjSwsc+PftocXROBpOIihFkPNObaoyFTLORNBsItrPkfWtuC8SdZEGYyg1FfHHfKizNABr99bWVZI6MmEujspYVCeTZSoh3Y9shpEqi4mJyH8uuWV45bC00QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/09.png",
+    "width": 1920
+  }
+}

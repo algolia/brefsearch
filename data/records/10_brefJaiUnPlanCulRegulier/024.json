@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 10,
+    "name": "J'ai un plan cul régulier.",
+    "slug": "brefJaiUnPlanCulRegulier",
+    "videoId": "9zk0TrOU_cI"
+  },
+  "line": {
+    "content": "T'es qu'un con, va pas à l'œuf.",
+    "end": 26,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=24s"
+  },
+  "thumbnail": {
+    "hash": "3f7d08bbc1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBfYGtgXWJnZnJaUlZMQUFaU1drYmN0amyDfIR3bW9bUThqYlWBfIp6cHNeNxBTLAYAhouhf36MgoCJZWFpXlVWbWVrbGNkaGBglY6SYU1DOysYU0M/bGd3iYSQgnV1e2dcAI6Urpidt5OUqIaDkoB6hIF7hXx2fG9hU19LQVIzKVY+PXZsfHVveY6KmI+NoY2OpQCPlrGPlK2JiZt7d4JURDxvWk98bnB1bXFPPzVJMyiUkaa1vOGOiZWLh5WQjZ+RkKMAi4+miIyhgYKSZFtgYkYxfl9IaUo+c11Tg3VvbmBWk4iWqqvKmJesjYmWkY+ikpGnAHBveXl5hnt8hFI9OWNEMWhIPl0/NnNcSJiFdHBURHlWR5aSo62w0JaUopSSpZCOoABQSUdJQEFDMThMLihkRD1pTEhYOy5wW0eMe2R7ZVRkUUhjX2V7eYiIfoCSiZKMiJQAKSIcMiUhGwAaNxcoWjcxdWBWmIhzk4NugnBdYU1AZEg/SjoybGFdh3t5iXt5hX+EAAwKBxgOEigIKSkJKj4eI2tURZuKc6aZhqedkYZ7goR1e4N1d4BqYoZ8fYSBhndxdBxHtborxOlkAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/10_brefJaiUnPlanCulRegulier/11.png",
+    "width": 1920
+  }
+}

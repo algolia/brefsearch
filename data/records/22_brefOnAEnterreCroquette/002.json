@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Bref, ce jour-là, Marla m'a appelé. C'est rare qu'elle m'appelle.",
+    "end": 4,
+    "index": 0,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=2s"
+  },
+  "thumbnail": {
+    "hash": "028c326454",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nC3LTWsTQRgA4D2kszuz877vzG4a0yRbN9HGNDFpm+1im6UhCm2DFVEPsaekYovS+oGUgIrVnAQvRdBawQ+oglFUiuBNvLSCevE3idTn/hgEUqEEKbnFB2KMQNaLufbJsFkdzcTdhVrUCAKwbcaYaZoawCAAR6GjkBBMk8cGzAk/fXVmYqpwtHtzvdNavLVyeW2pnfM8zrm07YNAca1cjbYQzBKHtMqCWGl3fu7t7zx/ttxeXrrYap1ulvJ5zyGDkBylEq52FVmWtTBWCA8np05M7/bfvd3c2H356NXWkxdb2+ea8xlXz+Q9QyFpUoOOdhXGtQozyWOD8d6djf725utL5/u91e9f3//e22/UaoUEnSrl/gdXawkw6adDb2j0+Ejv7trj21c+Prj2+enDP79+3Ot25yoji9NjVT9lEODBUUTABXCe8hJhVKqNl+/f6Hz78unDzpvVs7PrZxqzxeyknzJQ2gr/HYVoCxsATNNiMeYSVo7k5qKoPl65Ph9dCIqBn6wODxnSFiiBAAmQW1xLqRCklEIIAmkxVs1mOvWgnh8upxNlL/UXy65UeBrPm0EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/00.png",
+    "width": 1920
+  }
+}

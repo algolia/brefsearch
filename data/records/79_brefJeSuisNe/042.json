@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Je lui ai dit: Mec, tu es chelou, ça va ? Non, ça va pas.",
+    "end": 44,
+    "index": 23,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=42s"
+  },
+  "thumbnail": {
+    "hash": "e0d5e40704",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nBXNaVKbUAAAYM6gtjYLhAckCDx4LD72JTwCWSCboYyjJppJnVqbascLONPf/dMT9Kqdfhf4KOnsFLXbRFX1D+fKyanxqeV1mRiwucAXAjfq88WFONfUq0tzCGin06LkkzP1vOP0eL/HBz2Qi/Icao3t3GBcq8oKaSsdVZI4FjjCsl6nQ2kf20YLxJw0keBMVmsL38fpsVr8nFevZfn7+O3P20tj6pV8kbLA7zKUQw8CDpbQ3CDz2vZ24fCpmH6fVU+j/CvJfkxnx/F4a+M1hCkAAcNSHqsMB8bacq+xexckb/Xn19XmuZg+JukhybZ+fIftvevVSCecELMc5QLF5+RSsxrs3rrRc7l43x/+/np/KeeHYb6Ps53t3liXS6gRIPg0Q3kARn00Rc7GiRrbf8yKbZg+pPkXMn6IyX2Y7IJwoaoZxycsHzA9KhoYmYJziCea04TkNiaNE25MuzbxlW4tNVQpMBP6MQAJ4P8PsWgmop5Kxkgx116ytP2xjGYQTUS5GEiEEyKa9rvdgGFcmrFa7X8bHWJ4c99DDAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/23.png",
+    "width": 1920
+  }
+}

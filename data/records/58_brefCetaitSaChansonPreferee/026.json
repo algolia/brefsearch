@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Sauf que là, elle était partie trois jours dans sa famille et elle rentrait\npile pour la Saint-Valentin.",
+    "end": 30,
+    "index": 8,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=26s"
+  },
+  "thumbnail": {
+    "hash": "8b6cc14dc9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nCXCTU/aYAAA4E7eUtpa+k1LvyilUNsKtFTddAICSqtAolA/Mh2OiNmI2bJIssuWLPHg79thpyU7+iOWLesOe/JA3348Xe4Paiuon5fXDL0g8I4unR21R/1e2GkNo4OLycmryYSl6RQAAIah7z+fpt2ohTOuIm9Y5n082DAL3cA+Gx6Mj8Lpefzu5s3l+Fjm2DxFEigK/U6SZXzRJ3hbEjctcx7tddYrlsj0txunw2gxe31/d7tc3O41PK+gagwFJUny5WoWEUKgK0aOnXV2jrc8HkeeO+YgCuP4dPF++fDweNJt20reUWXo19/k6/W8h3GHgWsK9LahGDlOo/C+U/Tr3s5ubzy+upnfHbZbKs9KggD9SZLHtx96pDiNXnbtgi+xIolXuezU4ELbbLjVpu/XKlY+J5JZCsNWoY+fPkfhwK8Fo2Ywqha3DEmhCYdAQ5FoqYJVLJU0PZulYTiDpNEMgkEIuopTDMHlGhWjY8quwjNpsL+mdyzNY6i67UqCDAMEACQF0gAgkKGpLzzbLZeDcqnOkQUSUwksbga7JTWiuU1FS2dwkEo/W4H//wdKqVmlqqkUHQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/08.png",
+    "width": 1920
+  }
+}

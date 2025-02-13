@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Je suis dégoûté quand Windows me demande si je veux redémarrer\nsix fois pendant un film.",
+    "end": 73,
+    "index": 30,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=71s"
+  },
+  "thumbnail": {
+    "hash": "f7d04ebcd0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nAXBS2+aAAAAYC5LtgUVoSoqOBFBEQTk/X6LQ7F1UGzna1maZjZbdlx3WrLLfve+DxCH42kflylGIqkizp5u77/f3b4eLzs3STXvtD5d8mNmr/L4c+qeBXIBEAjcqjX6TQSHmxbLP+/ufx/3VZgQrR4CQuJUPm1ORVJmfulIscaZgDwajNs3OIzMcIzqoA9h+Ou8TyTjGoVLlrmB2g9ZdS6evn75G6iROdeBlcLrNCl+wOguitYbuaX9eT78rPbXIH5UlQlGpGa+9cu7+FNiRq7kAGSn5U7GpcwJWA9+954dDJbm8mVXXsMwZbmtnbhcptDhRyddWZEnW8Cap7+F+o/E2fBMBwT7EIRAoypY/rsUheNyY0OZeAvKiLQgMwNf1IGDIVQqb1PUVpyNELhbrw3avW6L3FnO2ggQZM4Qks6qqe5tDNvjFeBlHT2aUsbRe5XHG1C3Xh+2Ubg5qtWHDYiEoLFEL3xRy21vqagOJwCv1fZgykdDWHN07c3bDgiSKBrKmslKc4KHoSGFTSRqliiqL4jalPkPJN1aKMoNtwAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/30.png",
+    "width": 1920
+  }
+}

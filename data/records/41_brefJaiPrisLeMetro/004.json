@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Bref, dans la vie, j'étais obligé de manger.",
+    "end": 6,
+    "index": 0,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=4s"
+  },
+  "thumbnail": {
+    "hash": "f746ca3960",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAYElEQVR4nL3PsQ3AIAwEQPYfDgUYwCMYiQr7MZFMqiQNRXKVm9f7w9wUfgmYmThVxYM6ETGzKwCAmWutRBRjLKUcLqWUcyai1hozA7i/BGBV9d7XISJjjJcN5j4bvRU4Ab5OqJwNy3IHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/00.png",
+    "width": 1920
+  }
+}

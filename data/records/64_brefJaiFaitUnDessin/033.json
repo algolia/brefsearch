@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Il y avait aussi trois bras parce qu'à l'époque, il avait demandé sa mutation.",
+    "end": 35,
+    "index": 15,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=33s"
+  },
+  "thumbnail": {
+    "hash": "2ccb3dd731",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nBXMbW/SQAAA4P5x/agxurioidtkGDSQOQY6x0hZwZWFeaUI48r1jV7v2nK9ttc79hcMyfP50S7O3rTOj68vG/NJF1r6Fk6JZ6Xhgvp27IJw/eBY+t/xD713evX1bfPohXbT/jS87tiPehLYnKJyF1YsEgxXLDrIQk4R9SxoDc1Bq9t4p40HrX+2iaNNzUldpDVPZJFKnkie1JyKnIg8Fgyz2NnYhtFvasDsB+4yZ2RfZCJCe5E/y/JZFvtqp2Ikqa+KQ1GxmHi2ZVxqy9kw2joFT1UWldNbAf6o2FUYSXeuwJ1ygOJUVazm6S52FuYv7f6q6Tp2nmGxXdXUl2gpsSvhXGGk0lDSQBC3ZnHNSRKuwOSndtN4b+m9NHKq7VpgJLPoAKOa+jX1RATLYFUmLoshWozvB9+1Lx9ejjqfIRglvs3xukq8KgvKHJdZUCaopE5OnqgHoDWYDr/9bn/U2qev+61jo39ujbsb+y6EDxjNiPtI0AxvzOBpAsEtMC5GvZNe66hz9uo/G9ld1Kt3xAcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/15.png",
+    "width": 1920
+  }
+}

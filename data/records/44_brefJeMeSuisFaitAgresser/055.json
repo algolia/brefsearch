@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Il t'a dit quoi ?",
+    "end": 56,
+    "index": 21,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=55s"
+  },
+  "thumbnail": {
+    "hash": "80b1f0fb81",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABI0lEQVR4nC2Q3W6lQAyDuWLiJJNJhr8BDlBatRfVat//8VYc7bX92bI72AW/Ub8kDvFd6iX1IG2JSk9BOrJV2Mr1k+zoee64PAD7y6Ll4Xg0HnJuqjMjEhVwkMxJpqRTwtjBT9imvuS6S7x6hNkWcRVbRWqfjOCQETZDh4To4LvEnmOTOLishJrzZrarLvRuIDjnUWORPCUeOi47yolykl1cdtap+IfbS2QEguDEDmvqjfJMMnTiM/vGcaF8ohxqyzD9WN4Elbk+AALW2GbSkaR2KI38lPG25Vvbbx5vH26z7R1fntEysi0kAzgA72AL2UvqFcsdxx9Z/7I21UaIPllKJjZzngie6OE7tuld11gnKauWU/OWHrc/Fz2jI9F/d5/sH/R+Gg64y7DCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/21.png",
+    "width": 1920
+  }
+}

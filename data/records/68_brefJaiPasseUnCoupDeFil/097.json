@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "C'est pour te dire, il y a Baptiste qui essaite de te joindre.",
+    "end": 99,
+    "index": 56,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=97s"
+  },
+  "thumbnail": {
+    "hash": "04f8549ab4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXB+1PScAAA8K+XEsHYxmAwBvJSYEIIMvewIWMP3lvIyUCsDvARlzwO8oAKDf3Frh+0+o/7fMCHw0iKxD/y8YUmPra1eS2v8+lzie4oTK8mnIi0LrJcOtmqKjfd5sWZDkaGZLB7vXfJyxy/NqrdY65byg4b+WlbuXqfH1QkOU6hkL0iCqtxfznqgx91dSDQ08LRrCwu9cJNMXffP/naUp/G7ZdB40HLDiVajoYNLvNtePFrNQXrZqXD0vNS7r6u/u0174zqVaM0MQovv9d/vk9mufRPTZir7Ejhb6/Pnx8X4FZXEySpJ/e0WPTzMcfFYqjbT0WpyWV/8elsWeDvasLpQfyLwqyuO/+eVmCmlSNuggsHO0xGepuAMQ/mDZLB6ENLl8MhKRJuHSayu6GOwJQ5riDKoJjaR2BHJhhidnZ9ZAAjAhjhJ8jArF4cVyWeovxEoMEeHKVoB7aNwD7w2gSBLciDuYMurxXBbTCO2AnYTmAYacjZZHTf6dyhQpQD80KQC0W9YOOVBWyYN02Q2YK+sWIW2GlFXWYYx21OzhdA7Nso4rFBuNXisFocpi3kP/2CY5/7WUnUAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/56.png",
+    "width": 1920
+  }
+}

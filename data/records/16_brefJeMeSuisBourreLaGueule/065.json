@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Arrivé à la soirée, c'était mort.",
+    "end": 66,
+    "index": 30,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=65s"
+  },
+  "thumbnail": {
+    "hash": "ea41c8d2d7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXBS1PTQAAA4AXS3ewjm02ym0dJk+ZFQwqtsbQNEwrDy46oUx2gzsgNAWdkvHly9OTRi/5jvw/M8rKUXsroRRzdTfcfFie/T96dUTFH6NDgQw0OOjDBmCNkIUY0DOow7XOeGEYj3JIbkrEfx5evKF9ycX/womF0uKkVBNtYF4gIZIKxF1eOVIQpxLqI+jp+Pti7cd3WkNdFcpwnE8YHGAUM58JydAvYOgmJERDThmzIxNqPnsf9yyh2iaqDbKefLOKkxjAVpFauRySgHVhSszSlQnRkWndRuuh1x972zA4+VG2bFodJtvDso7g39GOJLBDoNGJGl/J5EE4dNZNqIN3Glo2QtWlNfFkFahRurwfpMs9MyMG02M0MLHS9iQpJua5B17R2e5mmQdiBsQyafHRb7z/OX55mFd0iIOI4pPpROfp8tXa4DQAILbUXpgITvLX5qX397/7n0/nycbm6aa7wBgKRdHyMvr+9/vPl22QnjZS8qLI2ifqWE3LysTn9+/Tr4c3q6/vb1ewcbnT+A3fPOWNGlRAdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/30.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Un jour, j'ai eu son âge.",
+    "end": 75,
+    "index": 29,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=73s"
+  },
+  "thumbnail": {
+    "hash": "f4503b02e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXBW0/aUAAA4BMfpkuYAlu0IgrUFgqH3lsOvVFK6VWwUgpVoSHIlGVxc8mSXbL5vOxpj0v2a/d9QNcUSWS3N6Ovm2SdhG/Tyw+34e/P2TpLVtl8tVyEUarZY4rXKE5tyz2AkGibyruZexdZc1fbTKzsQv22Hv15fvr76/vD5k7UPSiZLcGgeJ1kEBBFWpbp1EFTU4hNcWYx1zY76jRxvKYiNI4SKJkE3W2wKsXrdVYBjADxBnFhdbfRYOmo26j/EBnVkxLYfdXi0CjOBN1riiaNhnRnQPEaMJyuEWiK133Mpj9X6f1VSBHEzsv9MtEKxteDYMZrLqO6jOpDqV9rScCO0GXmDFPzx6fNv+cvM38Idl7kikdYhQyjW9kI2vKA131GcSheL5NtEC+s5WIRTq/mk/Am8OuQLxyf7R28qZBt04s5xWEVl1WcOquekmzxBAd+pDvRVLG9/cJRETvDalSlwWDVumb5phtD2WoKPSj1ywR9cHiax6rg4/v10+M9Jwi7ufxeLn9Yxkt4k0O9SZJ1dPccogarncNOAavkXh+XcPgfh5NlOgglOYQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/29.png",
+    "width": 1920
+  }
+}

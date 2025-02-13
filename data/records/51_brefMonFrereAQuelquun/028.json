@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Toi, tu es là. Elle crie: Ouais.",
+    "end": 30,
+    "index": 12,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=28s"
+  },
+  "thumbnail": {
+    "hash": "35593103de",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nBXQW2/SUAAA4FPanpVeKKUt9JTRFgq0ZUIpKxYhYbJNhzBghW1RGZotRM2MIRkmM854fdCY+GDCw7JnE5/2H43fT/jAYnZ4OZ++edxffVr+Xf3oVq2jxsar0VbY3tRRag1SOA5FIdEoO92mh+MQLJ6M3k6Hy5PB9ZeLi+eTqm2Nthq+ZWA4mZESNEVDkqrntPdn4+16GYtQ4N3p0YfTg+W0t7p63WvWcqoauBUNKRrPndSKNpIBIPqBe/N14TlWBKfAWb/z0LOX4+2fLw+vnu41HdPW9XDD7OXQoJT1MojAid2mf3v9vRPUMQwCQ4wzcC10ix/DzrO2O/SdfUu7rBgzJ1tKSXSU4hnGc/I3vz4/2ukAEAFMlGZp2hT5eVA69p29cm6SVWbr0szSdwvZfIxr5bTz8MGf39+sfAEDBCAhrCli11RfBPZBJd8y13eQeKyKYz3VzqieIJzfK8/r9rDly6L8f8lUxPsGupuW/bQ8qNlVTXET8VFaCvXkJpL3ba2lK8kYx7Icy7KQpECK59oGKkgCQVJZlJT5mBClSwl+UlRDO30HSVGaZRg2zsdjHAch9Q/0S0/tm65v/AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/12.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Si tu as un frère.",
+    "end": 103,
+    "index": 44,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=100s"
+  },
+  "thumbnail": {
+    "hash": "65cd312680",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB3VOaAAAAcJ56KMUPRMkwZWIiyJcfCChYNM1i6fyaBGRqlLa8tJu62yqv2+52bbenPe5pf0N/4X4/wLl/aPXOVEUURDGVZmuH2sAZD27nw5vbdkXtHeTrMl8gE1QcAzddEOgFJqvn89Fls1ErKqqUy39QRauhO/PlZH4/7dbeK/lKjj7kSRxFURgmItvA9PHH3XL19LSQ1X0hwxlqoaOVRtPZZPnl+7RfyxAZHKuLdALd8YE+DAkC8+dfhn3xuP7c1fW3SLAucRU62S/KN1fjab/TkegjnjDLPIdFfKAf9niAT99+G6YlCaxBJIeurXaOaafw1sbGVSn30axbCtsqsuf7fCkZCwdCiB8CZusXazAsZtInPl8LgnoC38syTThgpPfGx9KqqVwelZoSe0BiURgOef3A9WLdtW2ZSuib7uNo5JSjdZ6rxnYtBv8zM19/Ll5GTVsTtfQbYgdB4SDQsJ0URQksKSDbisvdDoY6iWTZ6+lrhX9fnbvT8pmSbQhMAd9louF4OAzoxkWaYclUnCJw1Q2+g6CTGKaB7iq19/dhbJazNZ6s8ik5GUsggSAI/gesh2qkb4WVIwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/44.png",
+    "width": 1920
+  }
+}

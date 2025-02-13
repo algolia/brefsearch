@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "J'ai pensé: Tu es un couillon. Tu n'as rien.",
+    "end": 37,
+    "index": 15,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=35s"
+  },
+  "thumbnail": {
+    "hash": "a3797f4625",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADE1NA4QER8kLl9idHNtcmtjakQ8Ok1FQ4R5eZ+Vl6qfoJ6PkLqws7SorHh1illacQATFhoICQkVGR5UVmZ8cXJVT1IMBABAKiWIcnSVjI2cgHqGa2laVFmrn6NrbH9OUmMAFxseCwwMDRAUS0xXl5KTaXuLMCQiXDQrc2NuhZGodlVOgGBeeWRpppSUTkFDPzY4ABYZHA0NDQcIBz1BTYWVqFdrgklTYEAqKTY0QkVZdmZHRXhWT5SQoZqhtH9teGQ+SgAXGRsODw4HBgMnKzVldIxeY3NCR1IoIComMT9ZbIJHS1Y6MTRmf55ti6umscmJa4AAFhcUEhIOBwYEFhgeZWhyg4iSMS40IxMcU2Z/YXaSWXCKLyg1OkVccYynlpqqWjtCAA4JCA0GCRMMBwsLDVZaYomLkywpLVxNVF1uiCQwQ1x2kywlMjk7SoubrZCYpx8nLAAPDxAXFhkZEQsLCAhHPDyYc1xnSDOVcGl0WVg8MjRbWmZVPjwhGRc+ODlgYHUFECIAHhkSPzElIxsUGBUSIh4dSz40U0AxRy8qc1JMi19KeVREg2diQzQ4CgoQYWNHUlAZEMKE/OB6lVoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/15.png",
+    "width": 1920
+  }
+}

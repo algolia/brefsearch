@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "C'est bien vrai, je ne te le fais pas dire.",
+    "end": 65,
+    "index": 22,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=63s"
+  },
+  "thumbnail": {
+    "hash": "f26345eb00",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXBW2+aUAAA4LOZVmrqgnNQxRZkVFDo4SJFkcvhNqAgXmo1xTRttsYsNWuWZcme9tC9bC/L/vO+D+jKRJWM+lGdwIksWfoocyZRUZRrN3iy9a0fuHYMJaN71jMNH5kIICtiWgwA4Lh6nMfzPF2FXrZY3H1f3zwnqJT59XQF4Vjk4YWgqpIG+PdStVKtvD58g9UTP83SVejny1n5cVkiPQzOpRSlQ8UU6G7nHdUmGdDvnDSw2sGrA5ogp3ER+rlrfZjlG0v3nXGBrKWiIJET6EZDpChdNcGvz9mYbdUPMZWhyuXG93JNHqvQMOAEsoMBO3jI0yHXbWCY1j7pkDT48zyby4zcbmYyez8rXDuzzWikO2yTnOvw3+Pi7zbYudASL649ZzFSwMsuDjgyl84eXHG/iDw3udRsz80MUf5dhjsHGqftUuO+rW9+3F7vLR68fAoSvhWwxM8SfZ1ertJNvx+aI5djxRj2vsTm45AeEbVzvBkNhCuuBa703n6qmW383pc8vrc1E09NRGFIkN3uUSWi8SfPnJzidK3KvCWGFPEfpmxarxvbANIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/22.png",
+    "width": 1920
+  }
+}

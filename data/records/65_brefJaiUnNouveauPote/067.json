@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Elle me fait: C'est qui ? Je fais: C'est Charles.",
+    "end": 69,
+    "index": 28,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=67s"
+  },
+  "thumbnail": {
+    "hash": "ed3480949d",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABYPDBwVEx0XFCIaFyIaF2NTSnZnYB0WFXJ8f/D///X//4mXmy4nJkQ4NCMaFx0VEgAfFxYjGRcdFRQZExIVERBBNjJjWFQSFxg3MjPy8vL///9yXFkvKCc3LCkbEhAaExEAHRoaJB8fJB0dKB4dJBsaPz08YVZVbTAvWDw5lqGkpZ2cWz86LScnKiIgGBEQFQ8PABwZGR4bHBwZGigiIhYVGS4uLmMyM48lJn8+PQ0YHAYIDhsdIiYmKiYiIhwdIxMSFQBFPzxOSEddVlRnX159eHeGcnNZGh1tHB9pKCofJSkJEBYOExhoYWBaVVRRT04+PD0AiH14lIiEopaTt6unyr2618vKh1ZXXBEUXh8iLy0wAwwSJCMll4Z/l4yFbGFbbmdkAJ2SjrKlosa3tdvLyOfW1PXp55lrbD0BBGAmKYNvbREQEzw4OaiemJiOiY+FgYuBfAB+cW2Nf3uThoSekY+hk5CrnpxXSksUAwYvHiCEeXYUERQ+NzeSh4J9cWxuZWBvZmEAOzg7Pjo+QT9CSEZJSUZKTUlNKywwAAYJAgkNNzY5ERATMy8xT0pMQz5APDc4Pjk42cmE5/9gPVwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/28.png",
+    "width": 1280
+  }
+}

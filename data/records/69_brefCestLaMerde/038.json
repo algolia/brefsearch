@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Du coup, j'ai demandé à mes potes si j'étais encore amoureux d'elle.",
+    "end": 40,
+    "index": 16,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=38s"
+  },
+  "thumbnail": {
+    "hash": "8662915fe0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHx8gHd1d5SSlY2Ki09FPVBGPlJIRUxAPldMSl5UUXFsb3Z2fG1uc2xtcWRlaF5fYgCJio2DgYOjoKOal5lYTERNQjtPPTlwU0xjUUxaUU91bnB3dntnaW5dX2VoaGtjZGcAlZKRi4mNq6mroJ2gWE1FTkA6WENAcFNQb1tZX1VTbWVlbGdoWE9KS0pMZlxKZlApAJaTkZCPkq2rraOgo1dMRVZGP29UUG5RTn5nZGZZV2VbWVtTUmhPOnxcMllCJG9WLACNh4iUk5atq66koqVeUkpURj9SOzhiQ0B2ZWFjWllkWVdUS0dZRzxwWkpyVTRsWDgAlYOBkZOXrquvp6aoQjs3KCEhRzg3U0A9S0A/PDY4Y1hWVk1IUEQ+W1BOT0hHSD86AJh8do2Qla2qrUdGSgAAAwMDBysjJjgtLxQRFQUFCiQhJlJIRkY/Pj48QDw4Njk0NwCJfn6RkZVzcHMDAggQEBYWFh0MDxcJChEMDBMPDhQJCA43MTVDNzVAMzFkRCBSOiYAhWtogoWJMzAyAAACIyYvLjI+JCs6JSk0LC85KCs0CgkNHRsgRDUvNiciPC0kPy8pHKePqmdFp1kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/16.png",
+    "width": 1920
+  }
+}

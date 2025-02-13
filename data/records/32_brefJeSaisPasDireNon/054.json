@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Un jour, j'en ai parlé à Baptiste, il m'a dit: En fait,\nje peux pas payer le loyer ce mois-ci.",
+    "end": 58,
+    "index": 25,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=54s"
+  },
+  "thumbnail": {
+    "hash": "f80f1bd652",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBW2/SUAAA4FN6TlvYWCmFAhYKFEbpwBXKUCiXUXZhVtIwEKRRtMUbxMxdNHPiJWrijMk0JibGF1+2P7rvAyREPkRGKM8wq9mFzml0y/FLC67zJ/jop9ecRdIFllbZ7J5Q0vm8zokAh3AJh/kV9mm5uy9rNZ8oLEOLz11yry6jh9OE2gzSdnFnkuv2wqvToAA8OBGBLkNUh+We10VpSckpZp+kehfKt4vG+bvG54X5+N/R4Qu1Y9KBe0wAsIgIQ1eJS5hrBgT4yUPr6nR21n75tvH3U+v7j7v/f88+nNv2qFCSIaV5vCCEiFU3lfW4B+l+lpbbqdRiT/+6PzlS52/Kg7PGwZex49zaaIfD3XhqJxkHIYRiCCk025K0UWHYF0sjMdZPyKOUcrBpHFem83pzIIk6H69HxZt+FtwgCIEi1xluuL5xsjv+5cytSm2cr1rF7fd3Jse1LadWfdasb4v5SkhQaQbEKLLEMgGE7iv5jw+ssa5X0+lWMvO8bLxumbsZJcmF4n62LazZmdsjLgN4isx5l2mEojQjRWKkC4cYRuDIjRMBcmmFoDCAQQw3RNngM00ffw2jtVfvKduKzgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/25.png",
+    "width": 1920
+  }
+}

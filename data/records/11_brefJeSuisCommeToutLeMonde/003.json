@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "name": "Je suis comme tout le monde.",
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM"
+  },
+  "line": {
+    "content": "Un jour, elle m'a dit: T'es vraiment pas comme tout le monde.",
+    "end": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=3s"
+  },
+  "thumbnail": {
+    "hash": "3ee11569a4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVy09v0lAAAPCedAodW7f+bx99r49CW1tey1Y6YHQbbBWZDOYgRRybGpRwYFGMUS8ePPsRjBc/gJ/Am6dF734Dr8abJovxd/9R375f/vz1++vnjx/eTt/0m8/i8kUcLIbdae/OaH/7dsnuhqV+PTgM7NBQfChQPy6//L368+n9y/tBYbZNFjv+64PNYaU4iIJdG9WQODbBA4JjggMsOSpPvZg9evdqHrvoxIFdUxu68MzXEX1jQ8hEkGvm5QgLPVcLAVtGIsly1HXgKYISGfIOlgemvKgZEx+Ewgphl48dON0qdCylbQOQWkKrtC0x1LpVWctaRJNjC4y97PMqnm6AI8wnBHVM5WlgzCv5g5ygpJZwJrUFBYrOFq9xuqKiuw48L8F5WWupKwGTvqiaPQs0IXdKwC2WjrB0TND/AJDFiBqUlW5RP/O186LUAsy+wnQwPwsLI0d11tOEW0582PfRXk6ikr3yqFmJLP3QgQNXTWzRY2mcuenzmQbkG7pQy7KtvNT34OOq/bBqU0ehM24Gbd+o62LblE9sqa6uOmvpRk7qktw930g285PIfbLrTeruadn8B+GHYJQ1MMUIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/01.png",
+    "width": 1920
+  }
+}

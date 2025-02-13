@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Bref, quand j'ai eu ma première voiture, elle était tellement vieille\nqu'elle avait son propre climat.",
+    "end": 37,
+    "index": 12,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=33s"
+  },
+  "thumbnail": {
+    "hash": "a58ecf1e6d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXBXW/SUAAA0D4aEwQKiNRBG+JwoxQYpdDe9ra93H4KWzZKxyxsGSPp5lqqi2y6KL6ZEN999l39Gf4wzyH849HZxDvz/cVsFky8aoVOPXmqiqIjS932gSQIqqzoqqYCRer1FVEi9BrtYS04nYbnc6XBlp+lawwTYGVzNR9CCISeOTCsgYFVXZUUpEDiBErBoTv1JmOkMTkSVl60d4pqi90m19+iEAHRMY2h7TrYNDRkIUyskg834fWR49Yq1UI6T5NkOU8xpfrMdi/8ZbczRqr9xrJdw7IQdg2TuF/fv49jHSiFHJVN59OpQqPuN7kFy17wfMR370Qxto2Rgw1THzjYJN7dhHEUAUHMZ0qZVPY5+Wpv9xSidbz9HSQ/AXzg+w+y7GMN6opmIkyczyfLywW336SKlXy2wLxsv2YcoEXf//xbfvkF4KNr3x1ZEyAIQJQGaEB8ftys4qRK75YphsyUOnvsoTpsNOfJj7/I3sjaZjYO347MA64ldHhVgcTH9afb21WlXKUpupijYKuJe7jOTU+utgCuIf6KZM8BfW6/ztVZsdf/D7Nyb7H7x9mnAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/12.png",
+    "width": 1920
+  }
+}

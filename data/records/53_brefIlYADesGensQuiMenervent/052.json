@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Du coup, leur fille à quelqu'un. Tiens, c'est un super passe-papier.",
+    "end": 54,
+    "index": 22,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=52s"
+  },
+  "thumbnail": {
+    "hash": "56963df705",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nAXB32/SQAAA4CYIabnj7np3/XlXWmgnlLYoLAaUOQYOClJE64xxmGa+zAczTJY9GB/9y/0+5Xp9d1h/l5CnzHhvm7mJl5F/1XEXkTeyzQjht+Gg7KUvER6jpt8CSlE+7Hc/AsR2gn+UTi7Ny4570XUngTORVmo4WCWw3ooa6oKhmGHl8PXpdPqbj16vHXZ8d3FfHY/bVbXf3H/aPH7JqyzzgO4CfE7wzmWvbKoU5WmeTYemCLF+2e8/fK6ebn/9OVT/Dsfb6XzZDna+NWBsiHDhGnNpKrM3ZQhpF+km0CdC3k1mPzfffuc3j8sis7rPuXtuW2fU6BE6pXTMdSXxzgLiSkCsph4S40rIbZJ+GA73cZLY3b7hxcwecGts8TGlUm0pEpIOEVzFrKnHzFp4zk0mi56TGqaLLIlMAWkbs8QwtrZeOkgRQPeQE+r+gImMEp/QkbBXkZVwzjUCG4iqmKvEgSRmcCqaCqoBphKkYlCHsAHqzyABVGDyguBV2w0wJXWg1bSaogYtbSa0/yN5QCrKlqaVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/22.png",
+    "width": 1920
+  }
+}

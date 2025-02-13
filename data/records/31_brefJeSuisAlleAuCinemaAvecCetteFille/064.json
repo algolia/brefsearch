@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Depuis le début, il a jamais eu le cancer. C'est fou.",
+    "end": 67,
+    "index": 29,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=64s"
+  },
+  "thumbnail": {
+    "hash": "26e80af6ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABTUlEQVR4nE2Q2UrkQBhGY+pfqpJUUkm6K529sphG2g0E9UIR0enbYS4Gff8nkdAKPsDhnO/zCBB8iCUrwjI1bpvvEu1MaEOZBTIPpJGkmQIQDIAAnkQEAbGSEVOb6jpLu1T/u2yvd3mmpA1VKilmDEFIEAToKUQUoCU3Rh/3TZsmdRz9v3avc52r1ZCuBgwBfgNCM92W+cfNOG02WkX37fZx7Cqz2YYqYYzXJJDg0ykJha8Jn4bqrrFWG2tsrpMmL/b1ONgqZtKEwZr0C4iZjkP9NndGyoti+zL39aacyn4u+1TJEIT63gDe6SXN9Gfp/95eTbbc5+HxMM/V4Gx7XjmrEyn8HwC9iDkgjki8L8vr88f9vDy22cG588bVWTWVXWky9s8CECQECvQYkQCV8B+m/cvT52U3LEV24YaDG8dd74qmiA37Z2oFAAV8Ac0xHqSzMqR8AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/29.png",
+    "width": 1920
+  }
+}

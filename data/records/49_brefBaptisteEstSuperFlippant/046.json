@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Grâce à son cœur qui bat 100 fois plus vite, il peut accélérer\nune vie de couple et présenter ses parents au bout de huit jours.",
+    "end": 50,
+    "index": 22,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=46s"
+  },
+  "thumbnail": {
+    "hash": "cccd506f9e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBy08TQRwA4Cm73e52Zn8zs6/u7KO7pdTK8lgtUtADQoNAACOmja3EGG1iImo0kRBsJPhsggl44SCaGA/GGEm8ePPk1RjO/j18H7piQWoYZpCIci0qjzLuiELguWFOJYyZJjBXVduG+rYIOyPx3lwdMZ0lSVoanj6TzrZXl7uLl+O4kg4nKxcv2I4rCiLPrPMUf47JfgSvqj4iYFXK1Ymp+aTW+LH76ObslBfG359vPG0uEOCeKzwv8AC+lMjxWWO/RJFpuoHwx2uXNjqdvwebvfXVn7sP+revMm6KgmuZZhiGLoUDX/016hyVKbIdj3N7Mk1Pjl6cHD77d9j7/eZh/87a627r2vQ5SlkURQbAfSp/KtEPQxxx7mCdb7WX/3/c+bP35Nv23XfdtV5rfm6sYgPRVC0MAqB0CcvbRu5lSBFQyw/ifrf5dfPW+3vXt24srDfqK5MjjbSKcwrGJPB9HWAwl21x5XHAkONFlhv6ftCcmViqj40PFQeFkxSFzUDKSATrjiN0DJmMVAOlIwjSuUOYialFKVez2YEBWVHyJE90ArKUxRiAWppGEJJMWZ5h2inn10/XQPLEkQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/22.png",
+    "width": 1920
+  }
+}

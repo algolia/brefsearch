@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il y avait un mec bourré qui s'était pété l'arcade.",
+    "end": 31,
+    "index": 17,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=30s"
+  },
+  "thumbnail": {
+    "hash": "d3176a6e36",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXBbXPZAAAA4PyC7bi92It2OzHvI4RKpCppNCSLVhiN0nmbXHHZmqgq0SgXtl5c3e10d5xPu31af8H25/Y8AEula/Uv8rUm9dQrZcQmWJqIa9P5tTKiKHaXqauDwewy3xVLHal3VioALWms3a27yuQAw+5XG13/caMt1r/+DOQuHqW9xKdbbdzJQf02N1Qm5eMTYDhfqXerVKEcQ5ALdbp5+Lt5+HcmjSIo5HY7irVOr6/y+5QsNIZyq1oRAF6QW+1z5vAQjdMfU6wuZZZXuYAXIlFrwL1ldUViOA1avTs+n5gJt4QmsFj/XiyWeS5/xOQaaWZSsOklEPW5cJII7wQRnINDe6ZnZqPBBLk8iYMPQG92DwbZ3QAKv0ed3mg9FW5wewE8FYJCKBz2EXm7E3piNBkeP7U5YYTggOPm0O7HHxnNL7Ycr964yHiSYtIWD7b99t1r8/ZL0I8min6cd0c4NFlO8l+B7OWSPO0YnltAD2ZxhOxQ1BaImR2IFSLMDgQM0nR9mhR0uvGNrShkTgRin2dw5jyYu9hvzpHTMVb9HhN/Zk/aSLYb4ftHXBWv3RIVjazckMU+lhb/A0xtjdPoYH+kAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/17.png",
+    "width": 1920
+  }
+}

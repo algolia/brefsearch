@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Tôt le soir, il fait déjà nuit noire. Il y a des voitures partout.",
+    "end": 53,
+    "index": 18,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=51s"
+  },
+  "thumbnail": {
+    "hash": "e3a2637ece",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJUlEQVR4nF2ROU8DQQyFx2OPZ8Zz7JETkqAtgkIUKUkXoAYaOhqUkoYSif/foNnlkHhyYT3L8tNnJRK01thLD0IErQEA+l4PXnGUiKjRqP0ZIZFBbUApInQixkZQCgAQ0bADgLIwm0wBgJ23Inm2CJO5y2m+20w22/F6xyLTbhnbmkODxgIo1VQJyfi61taPl1fn93N33JtUkU+c65unx7vXZ64a9mJ9OVJiEdtQJ23t4nr98fk2upggM7koEg73tw8vJ2krJ1GGhRSzRm1DRBvy5Wp7OkoVXXDoYqrrRbfq9gfOjQ2JrdVaq7YZASgiNj4b5w1blmgkkQ/StC4EdJlcSTFgVDHmwmHg1guJyWW0lpi/QQOUKnBREdHvH/7Ugy/139Zfn2cTG7nmz5sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/18.png",
+    "width": 1920
+  }
+}

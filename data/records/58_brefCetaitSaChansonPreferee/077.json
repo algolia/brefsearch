@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Très longtemps.",
+    "end": 78,
+    "index": 27,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=77s"
+  },
+  "thumbnail": {
+    "hash": "fa42aaec5f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nCXCWXPSQAAA4A3J5trd5iAJS5LdJkIOkhTCVYVMbbEFLD5odWo9yuCM8uB4vPsH/N0++M0HXIJFACaDfJ4ybiNdhH1qsjYJbRx7Zp1EOet6SB/3+LB3OskT4BknUGgt6+pyGA18A0mwT60qaNfc5R4ZpzwLO5TgaRINn/AyZsDBSADgZTN902SL1FMFySLkouyn1A5sUkZ+1MbMJMuiN8niOolBwoLAdT+9Wu+3w+tRIAkS0vQkjiyMfANlnDJD6zn2zbS4mRUvZhX48e3rcf/4/fD5sKtXlQ9FqEA5CgJqW6FNck5DpBV+5+5y9nGzeNg0YNUsl+PR/e3VYTddJB5sybqqMkoNTFyDDPuM2+Y8iR7Wz35+2B7fbYAIAAKgzvJ5yiMbSSJEmn6iI6yoWFED17F0NODs/WZ1vN8dXq+BTUiX4ElR5KyrSS0JQlVRZEU5c6wQ6aIgN2V4UYUVp+cpj/0AOKYZ0c62efp8lJWnVJHl/33LWJylq+317y93f/a3v942fx/Pm8z/B0kiOmxby++BAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/27.png",
+    "width": 1920
+  }
+}

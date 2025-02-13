@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "C'était pas si compliqué.",
+    "end": 42,
+    "index": 22,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=41s"
+  },
+  "thumbnail": {
+    "hash": "7bde262020",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXBW2/SUAAA4CaamEI59kahFErhtJTeS3tO29MbFHYJGwOZU5zObPpkzEz0ReMP8H/7fVTqW2WSoDDKYoT8cOF4kWn+vH/3fPfmU1Oeec5U6o7kURKg0A5CO6Cw52wIIjipspzEOI/Qx8uLp93VkaTvi3QmD2C/b2t6lRRplCA/piZyb5miplpu6lWVkgqnP+6Of748/Ppwe6oLrOvENLDlNmVTZ1WOCCWBjgXhihQX602d5XVaPO33/75/+/v5/iZB28ArTHOV1dvN9aY6W5IlNRKFcVeMrfm6yEucGprhGbPfjw9fz9clnCZwagyU0UDDi/RyvT1vtpQuS4bSx858RXJVVnkg9HhpV2bPtzdXoW8NFYZmXr54JfLSYXfa706Uqw3diZoFHomicbcvcT22w6u9fmbPoSwLgBUAx7TZNg18B709PlLImmHbLHz3gJyFOmy3OIYGwms+gtBWx/5Y67Jiu8V2WixDAwO6VGyZ2HWIYx5CPRwqHBBZhmVaoFSUI5wEUo+mGahCkZN4IAoM+A9SXE5GE3rrYgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/22.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Une bougie est restée allumée. J'hésitais à l'assouffler.",
+    "end": 64,
+    "index": 26,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=62s"
+  },
+  "thumbnail": {
+    "hash": "745af77e4c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALW2tq2urb+/v8rJyY+Mi11PTXdnYre0sb29vczMzMnJx7y8uoeEgR4ZGBALDRsVFQCQjoy+v73W1ta4uLclHBxFKSVjPjWPenHIysrb29vf4N6sqagrIiANBwkSDQ4XEA8ANC4uwsG+5+jnt7KyLR0dSjMwUzYyfGReyMnI4OHh39/dXlZUFAsLFg8OGBEQFxAQAEI2M8fIxurr6tbQzVc7N1g7NlQ0MHRWTszLyeHj49HQz0k+PBgPDxUODhcQERILDQBJPz+cmZvb3Ny5trRNPjxKMSxPLyxiRkGtq6zZ2tvf4N9lW1kQBwYVDg4VDg0TDA0AJCIsUT8/c19ZXEE8PycmMiIhOSUiRzU0MiUsZ19jpKKlU0dKFwwKEwwMFQ0MFw4OACopMTQrL1g5MF9AN0ErKS0eHTIkICAXGTsxODElLEM5QC8lKS0eGhIKCQwGBw0HCAAwLDMkHSNDMS1UOzIZEBUVEBQRDQ0kHSEpHSQsISg5LzUiHCEoGhknGRcRCgkQCQkALy00JiAlKBsdMyQgHhUbGxUZBgUGJB8jOC41JRwiJRshMSguHBMVHhYVEQwLDwkHFE2KWU9TiRgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/26.png",
+    "width": 1920
+  }
+}

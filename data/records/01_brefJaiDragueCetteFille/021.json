@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "name": "J'ai dragué cette fille.",
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY"
+  },
+  "line": {
+    "content": "Mais elle avait pas compris. J'avais pas compris.",
+    "end": 23,
+    "index": 9,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=21s"
+  },
+  "thumbnail": {
+    "hash": "bb6426c6cf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCFbF2UemdVPzQfFBIbFBMkHBoWEhE1KSVjSz9GNC1JODNdPzUvGxcnGRYXEA8TDgwAPC8pTDcvJRQQKxwYg088cE9IHBkZIxkWLyMgJh4bRzg0fFZIWjAnXTEpEw4MEA0MAB4VEjsjHTYhGzEfGnxJN2hIQW9vcXaDh2J6glhvd2l8hZB3bYBKNohIOykWFBIODQAuHhkuHRklFxQ5IhxlPTBxRjWIiYmavciMsb6NrbmNp7WcgnaWVz+DSzxAIx44Ix0AMR8bEQsKEw0LSCohh1A+dEAyb3l9ib/Of7G/fqu6gaSykJSYdk5AXTUqc0Q1eEc3ACMWEhYPDAwKCSAUEWY7L284LHCLk4XW5nbD1HWzw3qmtYegrGFMSiwYE3hIOIhQPgAeEw8nGBQOCwkQDApDKSFkPTNec3d0n6dzl51ytMRyrb2EbnBpHxshExFFLCRMMyoAHRIPJxgUGREOFA4MLhsYOyciQy4nRicfcj4ugICBday6eEdGVRMQOyQfHhoaGhkcABYNChwRDx8VEg0LCkcpIYBKOGI/NV87MGU7Lmg+MnaAhWI1Nj8PDDMfHBwbHSEfIjI+duxNNErdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/09.png",
+    "width": 1920
+  }
+}

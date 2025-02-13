@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "Elle m'obsédait, je rêvais d'elle.",
+    "end": 17,
+    "index": 9,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=16s"
+  },
+  "thumbnail": {
+    "hash": "0ccdb2bf4c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfklEQVR4nD3LS4+TQAAAYIShw3uGN/MoMFAKpZR22aXbbqWJbqPZ9ajGGBOjiTcv6smL/92oid/9k4ACgPKH/J8iA/mJj13X84E6m6kqhBBAiDRt7lgS0qBj6PLf8+/NFGCoIAkC14tlBYTY0XQDQOjqMNBmEkF2gBGyTKiqQJb3RTzV2ZYFGxJUJGYeXiRhiBG2LWYb3IRSyvhufdWmzEPO3EOPLfvwdPvt/ZvL7vq2Kscy7VPWcrIkUeXatWNIVbE8jZOtz3LGp1qcM/Tx2P76/vPrlx+fXr99ft01NG5oXMVBF+IhsKVj1/Yi80yt48mdiC8N+TwtpzrriuJ8GA79quVJy+I68bexN0ZIuuxHip2hSJ816X0rHnbVu9PqxYrv65KGAfXxak5uFnmfkibEDTKldSG2gp+b/FSSY8kPBR0JvqVoQ7wcW7lnbzJ6aMpBcOEjZmpSGoW7In01tC/75f1a3FXsJouOIrnKaWRC6uiLyM19zByDYZNZ+m/GBTGWijrpEQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/09.png",
+    "width": 1920
+  }
+}

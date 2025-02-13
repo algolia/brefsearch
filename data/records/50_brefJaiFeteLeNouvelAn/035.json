@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "La soirée jeu de société.",
+    "end": 37,
+    "index": 16,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=35s"
+  },
+  "thumbnail": {
+    "hash": "9c217cb21c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nBXKWY+aQAAAYJJdxCpyeHCMHOMON4wcriIIWlTqWtLWTXct3SZ9aJOmabLv/flNv+ePsPAyWBRxdii2xyzd5GV9eWyvTy/f22/JInU9xzQNSdVFBaomplmecJP/O6s+JtlR0uyJam/2j5+ef1TnNohSxw9MP1SQK+sIOklvwBFelGe7Znd6Wh2vh/pSYWud7T68vC6XpcBzyE8MvIL2XDPnCGfdPkt4XrCvLw/N8775uinfHSKsq3r2tinLhwDZ7qoO83Owru376m6ed7o00ZxOf//8/NV+dr3ohqS6NE/cktwYOOnFw4UVVhD50AoV3RChS1J94nezfm2balMIsq4BRRIVqtenmDFcXcP0HLtY000RYhNZsgxuSYqI43sr3gIjokcAyKoCZvQQKFPdgI7hJYa7QNC0Z8i2PGj6A25ETO5Cbb5Vg5zipA4zGYiQZATs+1+OkSSJQNH1qaqK0niKhBlmhwLBChpwUgFFNz1ONBOIC3YEHDd4X3oMy3NDYSIqHar7hh0xgtZj+H8r9EbHeYcdvgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/16.png",
+    "width": 1920
+  }
+}

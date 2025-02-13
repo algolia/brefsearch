@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "J'ai pris un autre paquet de pâtes.",
+    "end": 58,
+    "index": 30,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=57s"
+  },
+  "thumbnail": {
+    "hash": "cf8b5d3184",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGJte15hYXR0cJybm6+sqM/Mx97Z07u3taCKkIJ/gl1hX6Ohmrq2r3h3bk9MRiAeHwBpd41ibYRobnifn6GXlpesq6fV1NG8ubOTkYx8eHh9goeqqaOvqqGAf3ZUUkgoIBsAWWh4XGFhZ21xo6anfoOGiYmKrbK3trOuhICAgn18VVROhIJ3s6+olpKQZ2NaTkEwAD9ncVBbZ1dNVJ+hoHiFlpCPkZqkq6KlrYR/gmtqbkxQT42Ph62qoaOenF9cWRYSDQBEeYdHfIJxeo6kl6RthKV8jaeboKOcpbCPi5B2b3FdY2iTlpKxrqWnpJ+IiIxhYH8APXSVHHBtQYCKk3qclpSboaKntbCtvbayopybh358bWRNjIh5ramhgHhtcGpjWVNjAEdjakpoalhsgaKbmr60q72zqsG3ssW8tsG6tYqRlYiMi5yai7SvpJqTiWpbQlE5FQCVh369rafEua/HwLTBua/Du7LKwbjLwrrPycOjqKKEiYSwsrC6tKWsppuYi251XTYAraSgta2mvLOpwbmuxr6xzcO40si908rA1M7C1NDIpqKWmJKGyMO3w761m490iXlWWrPvbp60zj0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/30.png",
+    "width": 1920
+  }
+}

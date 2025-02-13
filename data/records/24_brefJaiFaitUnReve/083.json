@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Et il y avait moi, à 15 ans, qui me disais que j'étais nul, nul, nul.",
+    "end": 86,
+    "index": 27,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=83s"
+  },
+  "thumbnail": {
+    "hash": "2b67264c7e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXB61PSAAAA8P1FferOK+vKD5XXlR6mx6UJeginjEcoj8HYyKWMwdwLZBt7uQeMbSfgwJi9rOuuT9WH/iJ/PyC2n0/nahjeaXLqh8Y50dZZyWWUkTQMFCcgxUkRN/fKwlbuPJxh1uJ1YC+FVDCKk2xe8xqsRgkOK7p1ts8pY8me0/IYbekFTMwiQgpVD2AJiCaqp6TYMy5Nb0ZwOs4ZlDyBsC54iPGDG86YtsQRSlrFj0r5VC2dqEAoDFaOWUawWNHqKLZsXXE9m6TlSgmTBrOe81Wwv/D9gFX9RtvF6QHwajXyNpJLpGvZ4glUo+tNOZsswWX8IFGgO7o6vO5qY9G81tzPQn/O9EZAeAt6tw2vhcDFB69ju0cUrba7g/v3HsLVM9OZy+ZI6U8u7JlsXPGy2yR4oAhxmcxZi3I23iQRpB3c/pnf/s3nMYJUvemvZLJw8/Pfpf9Dt3xJ8XqSAzxeeAKC5ez7+sZ6roZJuu0TOA0fQTvh6DHagqs0yWiG7X/7/d/1v1teALx8vvJs6UU8novt5NdXIrHN6G5odfnR06WFxcNUEUW4NFjd3ty/sKem+6krD+8AePfoEPWX/pgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/27.png",
+    "width": 1920
+  }
+}

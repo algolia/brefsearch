@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Bref, ça, c'est la photo de la soirée d'il y a un mois.",
+    "end": 3,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=1s"
+  },
+  "thumbnail": {
+    "hash": "45adcd87e8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHtxb4d8eZOIhJuQjKOYkqqemK+gmbGimYl3b3xbUYVtZZGHgpmOiZGGgYiAgH91cQCQhYKek4+mm5epnpmuo52zp6K1p5+sn5h/YVincmW4kImOgn2nnJajmpechnF/UyMAoZeUp5yYqp+braKdsaehtamkvK2mwLKqjW9meVBHoXpyqJONraWioYp0hlklfGZVAJ+Vk6Sal7CmorGmorWrpr2yrKWZk19aV19IQoNXT4lnXz85OnFsb6aOd4t8c4t6bgBsYFttYF2Ee3iek4+qnpm6rqhMRUUBAQQXEBCCW1WQcW4NDA0aGiR+bF+JXjCEUBQAgndzc2VjfW1sb2Rihnx5jYN+ISAkZF9sd3KCloeWgG94EQ4NLSovZldPlmo4nINvAId/fWlgXF5KSGRUUpuQip6Ng3BVUYh7h5B+jpKBkWNYYwYEBJl1bsqvqaCYmKKZmQCDfHuJgH2ZkY6Qh4WpnJSkj4WKYVZzVVBlQ0KFXF2kgoZdTUyFYVmykoqkmpWQhIIAj4iGmJGRpJ2cpZ6da2huaGBjTjYxQC0qGBISNCAfYUZEg2hnh25saVlZYFtfeW9uVlXMhGznwRoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/00.png",
+    "width": 1920
+  }
+}

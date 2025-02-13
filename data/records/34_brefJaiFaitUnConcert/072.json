@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Après le concert, la fille est venue me parler.",
+    "end": 74,
+    "index": 28,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=72s"
+  },
+  "thumbnail": {
+    "hash": "f4d0509fa2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABkQCEYzHlpAJndSJ4JhSZhwUeq4UfbDTLaBW8aaZuvGaKFwNLOCO3ZTLmNXU3lqYABkXFhXRkNMNCeBWCiJZkiviFrbuVR3YzNiPzqyjVv/23useji1ij95WzdlVk9uX1EAa15YT0A8RjAje1Mmp3U22KRJX0EjNhMTHg8Ql3xD+tJxlmwylnY0fFkyfmxhiXViAEc6NE1BPTooHGM/HXRMIo9hKkUjEzgcFCkYE2dPOIRpQVdFHVdOHVM9I3lpW4dzXwAXCwsbDQ1EKxkuGhAfDQsnEAszGhIdFRMdFRMgGRchHhQjJw8YHwsYEQxgU0hqWUgAEQIDGgsKTjQaJhYOGgoJJhAKPBwTJxYRHhMRDggJGxkNKSsUGRoQGAcHJgkLNR4XAD8rFkIvGU82GioaDxgJCCMPCi0UDiAQDSAVExkODQkFBQ4NCgYGBwwAAxgAARsIBQBDLhZCLhZMNBgkFQwSBwccDgskFREkFhIhFRMhFxUvIho5Jho/Kxs6JBk2IR85JiUANiQUOCUWMyAROCQZQiseVDckYD0kUC8dPyUZUjUkdFEzYkEnYEAnXEErVkc+WE1ICWVmbmxsPjUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/28.png",
+    "width": 1920
+  }
+}

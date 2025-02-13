@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "On a discuté, elle m'a fait une blague, c'était pas marrant, j'ai rigolé.",
+    "end": 30,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=27s"
+  },
+  "thumbnail": {
+    "hash": "30559f837f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBNPTVfTkNrUkCKaExuWUZlUURsWUBwX0B1YkmKalVkRDaOZluBb2aGZkuPalOQalYASDkyWkpAWkg/bFtQlYqFopSPmI2Hlo+Jn4R2z5Z7uYhxZ1tYqpyap5yWqJ2brZ6eADAlID8wKUc4MFRANaGXmcK8xZ2JeJaHdZJ0aZVmU5lvXYhvaNjHyLGzw7y5xdG7tAAdFhMnHRgtIRwoGxWCbF2ih3B/ZU14X0mUbVujc2C2g26lfmmnkHqmoaS8qKW6k4UAHBgXJh0ZKh4aGxMQd2NVoI6Cn42Dp5KFf2NWc0k+iGFQlot+pp6ds6msubK5uKyzABQUFCQbGCcdGhsTEIhyY7uijp+Uf7+ylYdxWlY3LGNPS4J8dNvPwdzX3eHT1buzvAAMDA0ZFBMfGBYkGBOUe2W7n6VVSWw5Pi87Oj5FP0hUVms3Pkl/eFldWV+/jpFzYFcADAoMGRQTGxUUKBwYkIN2jnWxQTJuAQ4SMTtNVl56WmJ8Iy05AQ4PJiJIi2mzn5KTAAoICxcSEBcSESUbFpJ4al9HhjEoVAoWGUVMXWBmgGFngCErNwMQEiwoSG1NpJV6jedhqWgnZdlcAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/11.png",
+    "width": 1920
+  }
+}

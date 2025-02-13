@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Bref, en 1873, pendant la période Bouc et Moustache, Amé Débolé commercialise\nen France la première automobile.",
+    "end": 5,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=0s"
+  },
+  "thumbnail": {
+    "hash": "be90c475d4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nAXB7XOScAAAYD7Xhy7vknwBAlQ8fMEhs4lupuKGOH43GAKTAMXJ1LA13bqbmVamax/qb+55oGDkUASOx2PhUEiTpYlnV0tFoVYVmx9q/BGBoZUSyzHZCAyjsahtXEApDFE6pxyTSaAIjsRHjrX/seqCjnulLx/m89lEEhqWoepKB4tFKBKHZjf9bIrMpRIck3XM7tfbQJOlRTDebVay2DqrnzwuvrhXOhCbzWOeQBAIicClg3zlkBXrtbFnmyqgEwQ4E563m+XDfP9zPegZLE3xxcLJe45AYhCQWkkcA2JreX8X+AOpWVOk9n69WgTj5+1mt/4WjDzX1LgcXS4WXr18AVE4mkCR0gFjKEADku9avmvd9C31XNx+Xz79WvsDxzG1BIZEw2G5LUD5TBqPRfI01aiWpVbduJCnQ7fCFcBp8+/T739/dtd9WxTqFIHH4bAKREgSjjMpMgqH+UP2sz8Y9PTL8/bj/Hbme9Nh/2NXDXzPUGQ8Ho28hd+EXkNlNnf3aUiROJ0kmTRV54/uZ9OJ59j6JV8suKZ2bfeS75ACnZbFBonG/wOQp3gboIqPqQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/00.png",
+    "width": 1920
+  }
+}

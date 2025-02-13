@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Parfois, ça me rend triste.",
+    "end": 78,
+    "index": 30,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=75s"
+  },
+  "thumbnail": {
+    "hash": "1ed3fa149e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nBXQ227SYAAA4CbeGGdE2djATdZBOQzoEdr+bTn8tKUtpQcG0gOUdsicyDZjQmZ0iYk3Rm+MPodPafwe4UPaIuhIADQJvS99u4vf+vYmen27sH8/XDuWSjBU6HsjZwo1l+BgCecRUeAkkQU8/WZm7hL33Wy48Ywbf/Bl7fz8/P7X94e7my3Ux1x3WKWlMgEQlqM4nmRaeGB2fIX1FBDp/LUrJFpzZsq7TRyFAQnkQq1VqLPFBodwAoVTtVdFdKRKK0MI+82lBr6urMSCj5++KFZwazynBa1ECCVCqFASoprdri5KQ7Gt8IMeWDvGzh8vLW0/k91LZ6E2NtwF09bPW7DeglVaQhQXmAG044E8aVcI6hTF5CZzuJ959CR1VqPt6ZLvmXW2T4BBg+1jOEAuLrV45YWRF155pqGfoKWDXP5Z+ih1eHxaakBjQgK1wco4K5dJMV+hEDuQo/nFfeJ/XAd///zYJotsHksdvExljnsDR1LcBidX6U6ZlE4wPJ1Dkdvt5acPV/fRbNrh5yMtnjhYjczmiwyAo3FIC+rZ+f+fQr2VzqF7z4/+AUxAa+FBm27yAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/30.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai trouvé qu'un jeu vidéo allait trop vite.",
+    "end": 52,
+    "index": 21,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=49s"
+  },
+  "thumbnail": {
+    "hash": "7faee7c239",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABS0lEQVR4nD3Q227aQBSFYUv17NPsOdQeGwQziU2AYJHGBIKq5iqqlJfI+z9IRFRV+i7+i3W1Kq8qCI5YAMlAcroK2gc35pUiPU8PebcrOTexZWLzo6764HPrxz5Ey6UL52F5vksrx8eH8nZ5er2ehs2QvG2Dt8xkoHoe1h8v+8+/p9w2r/v739v1JTfn0rxP5X0a5k3+c7jrvFUCFeEaqn0u8+7xbRqndX+f4q/S71LYpGCBxMBPViUJIo6AkRW5YmTHNqldeLuKfuHVAuXolSgQ5iCK2Dt7ncbt08xAFRkSIItiwSqIAAqSEjFQIF469kSl9fNxmk6XEJvKs1jkb8KGCJCRwIAiN1bIIBsMVh/nl8P5WsZtlZztvPZBu6CtswT4nwCRgVvXsFyuh8MxtW3V317/ZxGdZzG1QQMItykagNogoCPuukX08QtOLR8rbCbPqwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/21.png",
+    "width": 1920
+  }
+}

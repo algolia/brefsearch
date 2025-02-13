@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Et de moi-même. Du coup,Merci.",
+    "end": 14,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=13s"
+  },
+  "thumbnail": {
+    "hash": "046f5da68f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nBXOa2+aUAAAUJJtoSK6CWhFpm2VKfGBorUCLUjxUbi3FaWi9Oq1m9FuXWfWNU2a7eOS/e+l5xccIn1Q6OknY6f/c7eDEAAARiPPMM7SPC9JpanvI4SWGGuaRkfjNP2e4DJZSztG46vnx0cAHNd1IHQ1tZMRhKMM7zflz6a26up2ucRQUTZKE5KwH49QxXxh93APLwGEYDz2jDNdyGYPOQ5VxCez/ctoneeED+9IhowQjiymYnGapDAKMV7NZnOEFj37/GMul+dY3Cz/cbsvg9M2v8+QkcRehOjXRF066kn5zdy/WaBZEGCMbdtik0mRY5FS+e2YT1anlEgk9yiWpAjYqniqHKiNdeDNwlcQgqZSt0yjnE7hVu2vf3GnKwc0nY5EX0v9qtiTi8NGeWmrC+9ys96AC/e4Xnv+8U0WMutO/d9k6Io59s3bTCzOkBQhC6limlMOBV9X8GR0u1htb7/svj7YZpen6YFcflmFqxGsi4W2XGXoGNGS5XZDUSsSsMypH4TTeXgdLEN0f/e9Kn6yTpoD43TiDMPJeLveelfef/xxYaYOiWtVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/05.png",
+    "width": 1920
+  }
+}

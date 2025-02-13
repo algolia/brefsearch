@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Ça allait être incroyable.",
+    "end": 72,
+    "index": 26,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=68s"
+  },
+  "thumbnail": {
+    "hash": "20a97699b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nGNgYGRiYGBkZGBgYgQhZiZGZiYmRiaQIANIghEizsQIVsTAwGApL+RiqKGgYMDMa8DKr8PGp8PMbyzEJ+aoJpPhahFmY84s7ssmF80qG86hnMSnk8eQZKFSGOgc6R/DLR3ALBHMJhXCIhOvKKESZ6HTEOJaHewhadLEajyL13ymuOsG1cgjDNnO+gV+9t2F2TamjkwCdlwK8YKGbZbaVh6asrFWho2Rvtru0/ntVkp5bJYxb1b1XsSQ42KU52kxpaqkNidPTTdCQDWNX69Zyzgj1Egt1kKvPsRD3WOpfMBxRZ9dUiIqugYRDCkO+pmuZp25aTNbm/0CywWUkwTUc2U1gh00lewUpRKdreU1A9XMi+S0ovk5eEQE5RmiLTXSXUwa0uJn1pUlxZaIyXly8ymJCwomBQW46mk3ZaaYa6sJcrJKCAoIcvOyM7MwWKtIuukpBTvZxft52ZtZ8nHxcrAwcbJxOFtZWasph9tbG2nrcLJxCvDy83BwsrKwMzCCQ52RERzOjAxgHjMTKB5AgAksxQQHzMwAJ0xOI1Vn2bEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/26.png",
+    "width": 1920
+  }
+}

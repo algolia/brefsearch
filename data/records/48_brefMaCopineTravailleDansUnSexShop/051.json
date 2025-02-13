@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "En fait, la fille met l'œuf et avec la télécommande,\nle mec peut l'activer à distance. J'ai compris certains trucs.",
+    "end": 55,
+    "index": 24,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=51s"
+  },
+  "thumbnail": {
+    "hash": "e4bf56760b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXBW2+aYAAAULJk6TZRqh8IIlAFL1wFFNBKRRGLtlVZ6+oFsabtLmbr2m7J0mVb0mzJkiVr9rCX/d2dA/l299b3ol44M/vLajfU9oKKcO1Zr2z9fV1dCvohax1wpsto3o7WoGioV2J/zXrfxs79Yfel6YZq+8d48GfWf5j2/k76H3TLz2gtTJARhn4CTqsStPG8ny+cT456Y2teqRjwxmuze9tpXLf1m5o8YcoOJqx29z8Ho6Gizqsy5JrjL371naUGmiFyWksc3U3PHxb+iVK6MtU2VWBh/ONwdNkfiExRxrJQhhsJefPMsBa7kV274vm52bi4X4d3rvZGFFz2gETkt8Oj5f4gm6Z5QEEpykaI2nfLf043OX4jlldM7liRot+ni39RZPAX+ey6V1+H/mBPqqRhAD3ezgFU/iraNVQg6QnHTHP0MUmcVAqzprLO02dCYVOgVgpVLOAElgBQDJRjcdZISURcgpMajnUw0MJRB021QcrbyQQsNWeII4EsCxkyjxLQVoLaepqFY2Icph89w2FEQhAVJOs4aKZBk8A6JOYlE3oOZTmQZrax/5XcW9qk98t2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/24.png",
+    "width": 1920
+  }
+}

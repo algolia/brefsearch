@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Viens, on va regarder la télé.",
+    "end": 97,
+    "index": 38,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=95s"
+  },
+  "thumbnail": {
+    "hash": "88ab876486",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nB3N3VKiYAAAUO6ziUJdWrQ0R3HNXAdETQQ/AT/kX1AUBalMtLStHcvsYi/20XdmzwscJIDsFLIiVZzL7IPKr21p40jbEXx15YXWsbhaANnIBM+uJjUokblB7hRuYYDmdW5pdt8mykdg7H197+ufvhFKzUGtMBPrb2N5FzoGYNU2jTzq/Mbp5Ql8ZQn7wDiE1iEwv+bm+1Q/DIWdTAcis5upf9ZTry86wi0SafzLEBLxsxGof4bm+/9hbQChWhjQxd51BlLkygR/t/PQUjyZQxZqe2NLOHrSKpMfvv57qu48pUf9yJ9jTSLRSCfsVsXnfq4scTk2fRUgodx6UHk0FitlUi8ufB3L26HEFC6vzjEGQ7XqzVJk7pulZwdGEyvQAOIJTCCzp8fH39CTew38cuXI6pJEMptE2xWKv4VCqaBRxa/VbDEyfK2LDLiqCxj06CgVx2aQjSwx7HNX+BmZwhsUl81Ucukslb98muh3tu71O4jSKDud2mksdpHE7E7NFeoDjs4kUPIincuW8WQmjn0vE7jdon1LGUHuH1IucEQscCf1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/38.png",
+    "width": 1920
+  }
+}

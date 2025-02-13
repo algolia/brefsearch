@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 71,
+    "name": "J'ai fait une soirée déguisée (Partie 1).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
+    "videoId": "rOI3TXz-igs"
+  },
+  "line": {
+    "content": "C'était vraiment la pire soirée de ma vie.",
+    "end": 89,
+    "index": 41,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=86s"
+  },
+  "thumbnail": {
+    "hash": "d6063b04a2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nBXL7U/aQBwA4BqUvtz97s5ee0fpK4cUEOo2iNAIqLGosCkkaoyOxWjUjcUPi9+X7F9fTJ6vj5Z41fLGJjOgGzT2kk7Hb3RE8K3XezibrxfXf38//fvz/P549Xo5TYXEm7r2Se0kzPXxNiqbtolda1sxZzUcPs1uHqc338f57WTwfr98mZ4ElOMtQ8uj2rwWzerepJUdZ/tSt2Zpuhod/yqWr8PxdX/vtN1dHxU/8tw2sFUytRolmWPPYr5sN36ODq7q3nkrHaft82a2GozuhodF5/O6uHw7uejLio+QJjAEzI4oTQju2mwg+b7kk6ByGle/Kn/RUGdZ7/Zw/ny0uOuNi0RpEmOf0JixkEAIsMPdlitb3M6E80XyPPL6SoVcpI5/kOzuylDjpiUsK8A4IRATUIyl3GnLSlPImJAapYM4qjuuR1hAuGJSs00kMPYw9jEKACKAGCAikBASEQgJNF2huMNMTA2wddCYbtoGchGuIFRFH8f/QKoAIaEC0XJJ3yrpzKKobJkl8z+I9Tv3iePCSAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/71_brefJaiFaitUneSoireeDeguiseePartie1/41.png",
+    "width": 1920
+  }
+}

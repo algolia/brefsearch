@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Après, on rentre à la maison, on joue ensemble et son père vient le chercher.",
+    "end": 84,
+    "index": 32,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=80s"
+  },
+  "thumbnail": {
+    "hash": "e43ef7cd37",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXBW2+aYAAAUF6W7aHLtmQxzTbatN5iQNRaqCC1LEDRDvADrVw/BPGC1GqtrvNSH5atS5rsdct+7s5BfFv3XHsWlD31wPBGDWA3ueqqZ276cD2AfbtjmNZw+nUSAagmriQGeRiWH+P8vIfdxgowejRZadXIm4627XvfB3A3GdwF9fo57sppIOCuSiBBO9nvZHieEBWB4yT0AwrowsrRnuLweezNfSuE8hympkHR0SlVpJHA1qOuM3TBInYhuKwWc0IxE32p+QL3NOoqn9n75XIXlxa942twojY4JOpe+5b+a3XzezvZjN3IlFsiK1VKeo0yWGrkd//9/WNDX76s8kxeqVeQQpkiWV4URUcV1zFchGYf8CNdMEVaA/p2vTUsiJG8oDiS0vGMC6RAsaeskMzT5BkTtqWpI9/Zmicy4PxkfL+af3tUNDOVZwiKL1Ub0pWM5IpnaBr/mMTe7h8VcMyQ6B+z8dKz8eODZsfZ/Xy2YXiYLacJBitfZAka2T/MfEphCTT1au/di5d7FJ69NVp+U3395r3ctmYPG6cXJdBsEqOOcqc5gvwPf6GBfTt3rUIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/32.png",
+    "width": 1920
+  }
+}

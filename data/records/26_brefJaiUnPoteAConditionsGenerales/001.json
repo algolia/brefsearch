@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Bref, j'étais avec Julien.",
+    "end": 3,
+    "index": 1,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=1s"
+  },
+  "thumbnail": {
+    "hash": "dac6b7f09f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHJsagYCAiEaGXtuZIh7cZmMg6Wak6qhnLWvrcG5tZCDfIBwZkc9OnNubZiTkIeAfQCTjo4kGRc6LCd7bGKDdGtoXlpqX1qTiIK1r667trOPhH6LcGI4GxUfGRufmZeUjYoAc2ZiX0U8WT43d2NZVExIGxgbKRYTWUZCnZWTwry5ycTCjIODNiEhMiYphX9+mpORADIoJkY3Kj0uIz8wJyUjKCgpJ0hAOWtYUmpaUnlqYJmCeX9saDQtM0c9PzwvLUI0MAAVDg0xHRM1IxQ2LipAS1kuMDArJSJZSEBIOjMgIigqHx8wJSIwJyg0LjE8HRU8CwAAQzg/QjE1VD9ATkFDIyQtEA0TMyYgQCggPiwlHx0iCQYJCwYGDQkLBwcKJg4KORILAD01QDUvOCIbIQoDCSogE1tBKGNDQok/QIVJLHtzWyQbHTATCxEMDRYJCTENBzUPCQANCAoKBgYTDg9mX1+spZnNv6W9raeCSUqse2rk3spiWlUiAwAbDAobDgstEwsjDQgADQgKDwoLhIB9wbqzn5WOrKKavLitlop7vrKktqyjSzo0KgoHIg0MFAsMJxUQIxIL3OyB0D8DDVAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/01.png",
+    "width": 1920
+  }
+}

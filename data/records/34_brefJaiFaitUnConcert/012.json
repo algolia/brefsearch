@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "J'ai dû la refaire.",
+    "end": 13,
+    "index": 3,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=12s"
+  },
+  "thumbnail": {
+    "hash": "1cb6fbaa81",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA4MDQAAASgmK5JzfqF/crGSgaSRjzQxNQQDARUTEB0aGh4cHB4cHBwaGBsZGBkYGAAEAgUQEhKJc353RGV8UGaMY2yog3u8o5plXmAODg0JBwYaFxYgHRshHx4gHh8fHR4AAAABa19lnnOGc0FhfVBpi2NwjmRukWltvZ6VjX2DKSgpAgIBFRIRHhoYJB8eJiEhAEE8P8GopKqIhp54gIRWbqJ+fntLaJx4fJFpcYhXcauSlVJNUwkJCRIPDRoWFCEbGQCpmJi/ppy8o5a8opOsioqbdYCGWnS1l5GLYHeFWnCFVGuui5CGen4eGx4TDw4XExIAtaGauqWcrZaNsJeNzLamw6yjxq+nqYeUhld6kWWBnnp/tJGAvaq0GRkdAQACDgwOAKuZk7unoK2ZkL+qn8m0q9K+tdXHvb2qpLCZl5dxisGmoNnHw0NCRgAAAAYFCAMCBQCjk46tnJeYh4LArqbWxbzGt66YcWScXEOTTjl4RTvRureJhYoAAAAIBgoDAgYEBAQAiXt4inx5rJ6bxri0yb23iGJWuHJO1YtfyHBHrltJm4ySIiEgGxcXBAQHCgYHDAYEgOCmfnZuDv0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Merci. J'ai bavé sur ses pompes à scratch.",
+    "end": 104,
+    "index": 48,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=100s"
+  },
+  "thumbnail": {
+    "hash": "3a33da48ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABw+X0NTYmJsc1tkaF5nbmRxfWh3gnmGkGV0gHJ+hlBldipNbF1oc2xyemFmbkpOWQAnTG5RZ3qBjJR5hYtqcnVfanBZZ293g4tjcHleZmpWb4MxWn1lc391eX9pbnRNT1gAKliAaH+TqbC2bHF1MC4tMTAvS1JTSlVbYVlaGxQRGygzQm+UbX2JdnyCbXN4V1tiACtgjXiOo6WkpCMhIhkUFRkSEUtQV2BjZ1xJRlM/PB0XGBgkMD1GT2p0en6IjmhxfAA2Y4qAj52cnaI8MTJWPTxHNTVcZnFqaGtKOjlKPDk2LS0FBQkEBAokJyyDio5sdn8AgX1qnqOqrrjIe3uJQjAwW1NUX2htXW99YGdsMC4sEBAVEBIaEBIZExQbZ2tvb3R5AHN4gYCMopCZqnmHnUFMWWl3fmRyfGJueVBYX09LTA0MEAsMEhARGQkJDi4uMT4/RABfaIBudoqAh5t+gZNNXnBGVF9vXVltWlRhWFhfTEgFAwYJCA4QDxUIBw0VEhInIiEASlJnYWl8aG+EbXGFVVllST09XEpFQEJLUEpPKyEhAwQIBgYKDg0SCQgNBAIEMC0tV9aOxgREFMkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/48.png",
+    "width": 1920
+  }
+}

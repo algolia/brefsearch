@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Au revoir. Au revoir..",
+    "end": 113,
+    "index": 36,
+    "start": 113,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=113s"
+  },
+  "thumbnail": {
+    "hash": "442881a7aa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhcVJqOiJeKg5SJhHljXzEDB5WAguTg4tbHzEQmJCQTElhGPWpfV2xiW1RKQlRNSAB5amGfk42Rg3aLeWBVRDhBGBObhIbp5ejVxcpxUkYlHhVpVUh0ZVyGfXd7bmVlWlUAhHVso5mVbl9SYEwrbFQ/RR4Zo4uO7+zvxrS7a0A4YlNMPj49dmphg3hyem9ocmhiAHtsZZqLhIV2am5kX01EPDYSEaGKi+vn6buwuG1eYWJ3gg4zQ1hPR4p8cmhYTlpKPQB/cGWFdWhHNyl1a2g0NC03FRWlj5Dq5ONqeYSCjppib3oFIzIvMS97bWJdTEJQQTQANzY0XFRSSj0ycFhLMikeSyspp4uHh4qNAxooaHB7Zmt0ABQfGis0Pzs1KysnPzgwAFQ3MEU0LDUnIVtMRVZHPkU1KlxIPo+Kh3FnbE5UXWpxegQTGyYvNT02MDUwKjQqIQCIRzt9PzQ1HhlDRkYxNjULCwcMBwI4MitdTkwqMDhPV2ALEhhGOTFmUURXRTlURjwAOislNCAbJR4bLjIxChcWNTk3NTg4Li0pNikjIRweLzo9PzUxQi4mTzguPC8lQDUtdzGSzonI3uwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/36.png",
+    "width": 1920
+  }
+}

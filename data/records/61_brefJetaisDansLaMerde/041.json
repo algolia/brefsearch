@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Il m'a dit: Elle était à poil. Bon, c'est pas grave.",
+    "end": 44,
+    "index": 18,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=41s"
+  },
+  "thumbnail": {
+    "hash": "5faf1a74b3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfElEQVR4nAXBa2/SUAAA0Evv+9l7+6AtLbR0FIUKZZWxSQwJmRJmXMaWaLIsftTo//8DngMY8CwiI2Me183Pbft6vH85XzIbaSbbZhFyagkyBPkESegx6AEygAwiy9iPfvn3sPt1OD6dnlbzlZZuXowzyWLJA0YMQWQw4BCCofUFRlNnL937L/Pq5WZ3OX47H05lMtvM1hMjAk4VRhIhjZGAECjGY99Ow+j1ZvXnc/fvdPz9/La/vhWYNVExcc4S7BOsMDIYUc8DmtAqGYUmWIbubbs8N/XD/r4uG01ZGWRlmKSCSgQZhBRC6EEwUTrWfh5ETujK+ed39ad2I7kyXOcm2KRVm01XSaAgHADPG3ggVaqyLtfOMIE9aBjjmGiEC6HHUi+ToqlvH7rrPrWZkpZgoBH6OM5nQZxxaQjVmMZMjIRKuRoFUTetq/quuerXidtOsr5IgGL0+6b9+qF93O3vFt2QspILjYkmbKT9fhjntqjzZRWFpfMXafQfCMYrZArkHwoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/18.png",
+    "width": 1920
+  }
+}

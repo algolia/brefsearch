@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Ils sont où les Chocapic ? Je sais pas.",
+    "end": 10,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=7s"
+  },
+  "thumbnail": {
+    "hash": "c5de03e8a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVR4nG3Q20vCYBgGcPM77NvBeZjNQ6YNT5nmnDGmW7M+JWELjTGztLrqRhEp6L6Lrvqzw1JRCN7L5wfP8wYgwBBghAiCDIIMRiR4AKWodO84VFVvtUb/rEJLxUwsLrIih7nAKv0b3T0GkTAJ8ZhPhGP9em3SufRbRjYuI0gC2wTeA6wsSgIjHEvyc5e+OO7c81SlgBG3BnhTaetjfIRAtqHkF8Phq+t8LeZu29SVwhrsHgSYJ3wqesgirpFVfKO19L3vj/e36eTJ7vwDQBBFBHFotk8S6ZKcHFw0H3t0/jD+nM2surbZgAlGGwCwyIcmPXpnWflkSi+XrzRt1Osup9NMIr36EgSYMNx2xh8YXdvjLm1Xq4WjjFU79yn1bDvMCmuwVwngECcMTMM19JumZlUqerFIVdU8LddzuR8dZjAdEvivFAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/03.png",
+    "width": 1920
+  }
+}

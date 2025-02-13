@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "J'arrive souvent dans une pièce en oubliant pourquoi j'y suis allé.",
+    "end": 9,
+    "index": 2,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=7s"
+  },
+  "thumbnail": {
+    "hash": "b969c2e4e2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfklEQVR4nBXIP27VMBwAYEMTJ3b8J7Z/dmzHaZLmJRGviAfto6UPhEAdYECdqqrMzAwsiDMgbsAJ2DkNO/dAfOOHAhOzUtdLf3u2vXv2aF9Lm5UmLwMmLSaQ4food3kJWeEwcbhC4gh/ut7//f39x8c3t0t8oRVkZVPQiMnBd+fWswe5/j+VwxQwRaoov90c/vz8+uvL3f22PxfC4bLBJGH6dlhfdiepIPxhbnISS2ZzipKsF7Afnu4+37y7v3r+WJleKF9UqWSXYbiK/db3u35tKXcZiYVAJ2A3LixNO0GzuHaJ3Rq7xKQtaKikpzxK2ECz801LmM8ZGsGMxk3Wzy7MLozWjy60Ug/anh6PS4iBC8B4reU+dR3m6CK5wNVxDUnq0YWkIGnbKZgMDAZW52dj24ptJL9IflKADtF4rlppoqiTMrGGRigv9RzajYW5FqdKTJztPbxKjakEOrPSMa6pMFRqwnQlNBWa8lBDlPpJaC69HVj1ukvvlxGY+gf+6S7o3pYergAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/02.png",
+    "width": 1920
+  }
+}

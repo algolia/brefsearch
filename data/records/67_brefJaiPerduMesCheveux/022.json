@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Quand je me coiffais, je faisais ça, mais je voyais ça.",
+    "end": 26,
+    "index": 8,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=22s"
+  },
+  "thumbnail": {
+    "hash": "f15ad4adf0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXBS2+aAAAAYG67rLdl9YGWWR8V0BVfk6qIoCCCPHQwERVBqnQyxdXFpdYmJp1ZsmSX/YCett+57wOIettx19ZAHQr0qMvMtG6vRZZR+FbX/r28TIzZ+yuYxCss1cxn8nAcBsgG57hr15xYPc7uC44qJMHo61dn0Hnox+P+bmq385hA0zzD5dAckkCABslajnc7HJhi0+p1TIVLBMFKKllNw6f9w8lfzsUOTdT5FochWPoyDdQJypg4U7U/FmlTYg6L0YP5UcNzM5H9/Xw8bNZbd+7atsJLSAJJQEmgitdUzRgpkiE0Vrr897T/6dkaQ2yc8a/j4Wnrf13Mdt5nvtlOQkkoHAPKhQ+S1P/U7egc4evin513dM2lrqytgW/r39zpdm7eL6xqEX8XjkUCF0Ahi7Esr7SZbiUn3+S/T/p2hxpx1GIgu7rsaOJy3POmw0I2Hw1cBN+EgGsYJWoNgSLJzCVxFZvzlFzGpGpp45i+Y/FkbWUZY1WNR+PgWzASAAE0kSoVSjReZOBgC4lyGCoWs2r9Zu/7z49P98vlbvXFHOiZFAqFoMh5+D/y2H/0sAQWTwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/08.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Elle a dit: Tu es plus avec ta copine ?",
+    "end": 69,
+    "index": 36,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=68s"
+  },
+  "thumbnail": {
+    "hash": "e8ecf88ece",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABMOEBMOEDUtM4V8fIuGebK1v7K9s7WpnKidqZOLmYR9goZ/hba0uamblJyOj3R0fAAPCwwlFxVMQUCXmIOTlnqiobS0qqu0op63sr2ikYpyWEtNOTB3aWSumpCpl5ianKUAFQ0NUDAuXE5EoaeKmJh9pp+fnY2ImX93oIuEk3Voh2BWUzQqMyEbpZGGqJqZo52tACYWFVw6OGBGQKGMeqilmbq4uby6vLSusLissJFya4FbU2dCOUkvKKOOgaGUj4N+hAA6JSRTMzBZRUKjnYmno5Gmprq0tbrAvLaztK6OcWh3S0ZlQDlrUkmYdGSWdn2NnpcAUjk0UDQvUDowo5p9n5mJYV9lSURKVlBTY2FjZVhVXj02UDIqg3BsmXNul4OEn56lAF1AOj0jIFpRS5eOhpaGgqChoZ6coYiHj1NQXltXZGFLSFE0Lkk9RYKDk6epr6yquQBlQz1GOSpkc0GdmYmRkXm4uLbDwshLSFEKBhNTUGKKc3V5ZGwtKjcNCBY5Okd+lYkAUzs2dHRjiIyBin52m5qQtbaznJyeGBUdEQ4YNzRApIuOfXB5CgkQDgsRFBEbYl1ZBJi90UZDiOUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/36.png",
+    "width": 1920
+  }
+}

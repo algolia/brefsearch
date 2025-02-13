@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Il y a un autre truc que j'oublie à chaque cette fois,\nmais j'ai oublié ce que c'est.",
+    "end": 62,
+    "index": 23,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=59s"
+  },
+  "thumbnail": {
+    "hash": "98f4bf083c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nDWNW2/SYBiA3+/r1349QumBNhQrpbSc1kmxww0YbgzYoS7bMGOZ7oSJJjNb4jL1QrOY+Ce88dIbf4D/z2Bi8lw8N08eiPuno/35+cef3f5k8/Dmxesv2+3odLCWDtNa9CwIW1XX1+WMQqnMUZHloLNxuXp49+rzrziZTI8uer10ltTuj9KHt3etZlIPn1RLtZwoZ3ghywsK5WF1ct0e3758/yPu7p/tPp9PRgdJdD5Yu0pPGn70SNc9280KisTy4j+gf/It3rmff//T275q+cHxcOt2d/3deHgze1M3Dd8wyoWySHgMDAaCgUAyfWiMPsw+/e6sHytibqlUmq00z7qD6cZey849dcxq3pBYCoAXASKQHHyNmr1m1FezeUr4Fd+LClYnqBu5YkYxHVUrq4qnaf8PDLRH11b+MQJgEANA4rA+Xl6yNJsQhXJZUdQD2+p4xYpdwMAgYCBs73GcjIEQRBEQTXNrlWVJVBlGIIyAsairhTBvNBynqJkYU7BMBy12HAIWAWFZSVJMjChGPEbcQrAcuF5c8V3L5TjlL7o9PzIkcq7LAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/23.png",
+    "width": 1920
+  }
+}

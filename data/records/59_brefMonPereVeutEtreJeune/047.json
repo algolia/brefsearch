@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Oui, je comprends que tu aies envie de parler.",
+    "end": 48,
+    "index": 23,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=47s"
+  },
+  "thumbnail": {
+    "hash": "d866339faa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXB2XLSUAAA0PRmublZIJCYhUJqwhIKIUFujSFQEqBRoFBDh1YZl2mxM1V0xnfH8cXpgx/giw/+hD/oOcShkpc51jWUVdjeJHibhm9ng5tlvLuYLEI/xe154F2O8HnfS3Er6TYIrSC2jiph07pK8NhvbEZ4t4zvXk72V/M389EYu9vnw20aZae9WdA56x0TtqFMccdU5bFf75nGOvRvFqO7i+n++vw+S2tqcTnEt8skO8WLZ17sNQhJ4HVJhDSt5MUiz1uqvJlE33av3y+SL69Wvm32XWd7NsiG2FJlRNGEyqGyyLEQijxPU/SJU/v5+fbf398PX+/32cw7KtfLpch1wuOqoxZcQybMQk4TOIqieIQECC1d/f7pw59fDz8+7qJmTc2JiiTZhvoi8NZBK27bBEPTPMseAMCQpIwQPACayK+ik+mTVlEQOAZKgljV5IlTmfr1oFYhAAAUSeYR6ph6s/QI0ZCh6PqhVtVlkYWKwOURW5ELA7sUWMbQeUyQJAkA6Nrld2lfEjgAAEmSNKBYhhEg1HNCEbESzzlmaR521/HT/3JaRjyNqlqsAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/23.png",
+    "width": 1920
+  }
+}

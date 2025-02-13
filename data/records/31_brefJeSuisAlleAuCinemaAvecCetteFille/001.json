@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Bref, après beaucoup d'efforts, j'avais enfin rendez-vous au cinéma\navec cette fille dont j'étais amoureux.",
+    "end": 4,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=1s"
+  },
+  "thumbnail": {
+    "hash": "f94567a03c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFNFQFhJRF1OR2FSSmRUTWhXUFpLRTosJ2ZIPWlPRWBQR2JSSUk9OCkmLCkmLSckKgBhUkxqWlNwYVp3ZV55ZmCAbmdFNzM7JiCbbl+kdmh6YVZtW1FLPjkpJiwsKC4oJSsAaFhUcWBcfWphgnFpiHZuiXhvcU9KeFNIeFZOeVNJemJYe2lgSz88KCYsKyguIx8jAFNIV2BUYYBwcG9fX1ZISlxNTmFDO4dfUppuZIBZT3ppYX1uZUU8PCIfJUJET1NZaQBDOUVCOEBdW4IsITgSBRYXCRk6IhxZPTNrRz9aPjx/cGp7bGM4MDAeGyBVVWR9hp8AaF9fV1JVUF6IIRguHhAgHBEiIhIYIBEOMB8dIREfZlZZfW5iKiMiIyElOTA4VFVmAMXDx+jo7cbHzx4SIh4RIyUZLBgOHQ4GDgoDDhQGGEMzP3RmXyUgIyMgJSAeIR0aHgC6uL3Z2t7Fw8cbEBwcDyEsHjEnGy4ZECEPBxcPBRM5JTFeTEoiHiEhHiMhHiIeGh8ArKuvx8bLpqOnGA0aHRAgKBssHBMjJxomTzc3TDMvfFVIZEpBGRgcIB0hHhsfGxgcA7V7WMp1faYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/00.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Elle passe sa soirée à prendre des photos pour les mettre sur Facebook\npour montrer qu'elle a fait une soirée.",
+    "end": 39,
+    "index": 17,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=35s"
+  },
+  "thumbnail": {
+    "hash": "3b45bf2a3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXB2U/acAAA4F9G6Y+elCvVVq6WjtIDaCl3axGcVaQRyhSvEKaZY9mm2cyyI2bLfDB72MNel8w96r+57wOeLnaktVHPHdvlvlFsS9lDS5FX2WO3ceLWh4aypZdm3dqLQXPSrvh1FagpxmTjttXCyShLEkM5+3jm/5jP5pu2J6Zn+dVOKuk3yu9G61aGMzkWmAx1bJb8tnHwlL/zrF+7rd/PBw/f3x84VkPKLR3t2rPe7Dofg75dWONpCsyzK5loFACkxrPfdtrTUvZm6N5fXUxaxuu++XOvvmgU5k7lw9gNmlqzkAZWIvYkhEYpGiOolXgCg4Sjq38vz4+61UuncrtZ2RLYqSF+DdavfXtSFkAigqMQo0mKxAmKoEIh2NH1h08v/+1v3GzbCy27LbBve8rVM2Mkc8NCEjAQC4cjGEZEIEYTJAoxV5PO7OqruuoVBYuNnerpu73m0laUOCknaMBAPByGWARHEAgAIrGp+1lvVMqZybif56aasDQzf44GgZbjSZyBECQxIoSgKApjOGFwqUDJn1SLt35rYQifu/JFLXduCl82qjsiP1bzp6b4H2r8VXu08p59AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/17.png",
+    "width": 1920
+  }
+}

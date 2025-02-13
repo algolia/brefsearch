@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Parce qu'elle est moisie et qu'elle trouvera personne d'autre.",
+    "end": 31,
+    "index": 17,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=29s"
+  },
+  "thumbnail": {
+    "hash": "b3f603382a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAcEBQgEBQsFBAoGBSISBzkiEC4fDyYcBzYkFlAzI1dBL2pZQlk9JVc1FHNJGFA2FwAHBAUJBAQLBQQTDAkfEgshFw4bFxE5IhNzQyyrakxxSjhBMRZSOB1mQBl/URtXPB0ABgMFCQQECgUEJRIONx8VJxULLx4WNSEVZUAtd048kWBJXTsoQiwYaUIacEYaTjQbAA4KCAoFBBIJBz0eGEUpIBgKCBYICCIRC3NINqBpU6JpT4pbSU47KzwhDBoFADIYEwAbFxUUDQsvGhROKyA9JRsQAwQfERA6KR5UMiWNXkp1UDmUdWe2rrCViotPPTwvEw4AGxQUHBQZMR8fRSkfLh0XNSUeUUAxTD4wQS4iTzcpZEMurIl5oZycsKuxycTWXlBXABkSEB0XGh4ZFigkIC0pJ0E3MUtBOGddUTkwKDUjGVM1JXtsZHdwaYuHhri0w5iRpwATDhcSCxIYEA8kHxonJR8lJyw3Nj+0sbRnZWMPCgYcGhlNSEJxaWBnYl6dl6GmnrkAEg4QFhISGBUYGRUZFg8QHRoeFxcld3SDbGhnEA0LFBEQPTYvVk1FSkE6kIeNrKTCPC9he159KPQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/17.png",
+    "width": 1920
+  }
+}

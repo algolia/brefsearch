@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "On arrose le tout du ketchup du McDo qu'on a gardé il y a huit semaines.",
+    "end": 67,
+    "index": 21,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=63s"
+  },
+  "thumbnail": {
+    "hash": "d0983dd919",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBbVPSAAAA4P2g+tAXu8ur49JUJMQcCadjW9vcC7g32NgLe2FzY7JNCGec40gSiKz0ujiv8/ra9S/6MT0PUGv6pQMUQgiMlmjeojgDZ1SsqqKUxPC62LRxWiBItsocozBS2S8Dcnj7rpE6vZkdXfWH35xoHCWLcdi7SD4a3ns3SoQKBG7nJdXmWB4DQYBzPzP2nZ8+sEqXl926eYbiYg18wwpmPLzuT36KCIJuPGs0NVWzRHAXYPQrXJ6E44fVF5uZ55ndArT2srBfLG/mypodNZQ2R5OecIjCJVm3rcoBUFUHaK0j6aeZ1zAGFph8VjSGyz//yJoNIVRxrzC9ue+ZXG4np5h+yIqAYp1ilCDUW4Y/NNy+SHN6ZxqnXyWu5Xc/HCHwIOjtba+tb22oWttxzgBWsrBsXgJfqbZ/zBuK4vjJkmulBOtxclAX3a5/zotmo2nuZFazK08B7SRmGYEqrnMkavEkAeGS3DkfjOI4gSvYESF8v/t9++tv+ukGh8qlJ4+BdtjnaZTceqS8XenppO1FQdAdXV7MZteXo7EXxD+W9/Mvi+liPpkvOvbJf998xu7vJpX5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/21.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Si je rackettais cette petite vieille au téléphone, c'est parce qu'au-dessus\nde tous les Eric dans Pierre, il y avait l'écran d'objectif.",
+    "end": 51,
+    "index": 26,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=48s"
+  },
+  "thumbnail": {
+    "hash": "09b3f4c8cf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB7VPScAAA4F8WFsdLvPVjYxsMxobDweAmxGAhczB3c0x5lRdBRwQkJtwppGZdfeiuPvUv9zxAEA+d73AXJNTm8Lg1ItnMtHfxd7P9vXn4dnu3ml7vJzPghZ1mM+3+5ZFWB3xesvtQd5Awh9OK2XfD8MPnm39Pz3+2jz9Wm1F7gOEUsLkk1dBbA0nRgKI3pZpZq3em66fu4r5wqFmd/vfl7Xa+nA+thmYGETLLHVi9ydi6PrcWQO9cDT6tP66f5/c/B21rrDUeZ4tZ90ItV0+PzaveuFpWz45O0hhdYYSucgre15of6iPVGJ4JlVowWiHZX6u7r7MvN6PJarIYn4+rss6wQsRPZH24CKMgmZez5ZOiqEq5ilFrShhjFOWWWl8OrdngUqsaKBbfdQZoSOb8Ec4TAh6UgmEWodKQ4pkDmcOYcqbQUHRT0eWSvM9mQgQdpriEF0+5kYQTgsiewPAlNM6/RSgkliKQWKlYTe6lU8lsPlsIoWSuqIi8GN/10o5A9LUXBIiEJ0S9ckCbCwbQeCIY4/jCG4fP74VBiO/s2DleTGI0/tKJ2Vykzf0fzFNkf4u0T+MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/26.png",
+    "width": 1920
+  }
+}

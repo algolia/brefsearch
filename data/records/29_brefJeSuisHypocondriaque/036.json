@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Si quelqu'un tousse, je m'éloigne.",
+    "end": 37,
+    "index": 16,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=36s"
+  },
+  "thumbnail": {
+    "hash": "f1f3886703",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nGPg4eI01lCN9XIOcrYJtzNtToiY0twxvyN928yYnSs3r+7uLPC1N9ZQjfR08bQys9LVYhDg4bY11M2JDIz1cS2MDZve0jC3q2P5pMaV0xo2TZ04Iz0szslKWkjQy9YqLcjPw8KUQZCHx8XCpCotPisqODsqqCghojIlpiM3uTg2vCrIrT3GJ9nO1ERWys3aojguKtzNiUGIl9fVyrwxP6siIykpyMff2S7Fx3lGkmeytb6DrrqhknSinbG7sU5uTEROZGiCvxeDEB+vi5V5a2lhY1FuWnhgkIt9oJOdo45KlpNRgpeLh5levKOtjaZRlLdvXmxEvJ83gxAft5OlWUdlWXtlWUZUsL+jdbCbo4O+iZOWroWKlrW2rrK4mpywsqasWnJoUKyfF4MgD7edqXFbRWlXTWV2bHiwq72HtY2hsqGalLKauIKKuLKimJKCqLwIt7CrlVWsnzcolMz0desL81sqSgvD/dvjg3J9Xf1NTKJsTSOtLGRF5OSEZWSFZfk4eA00NEI83Bj4uDh1VFWy4mNLM9Oj3R39TLRj3W3DrAxy3CxddHSEeERAGoRkuFi51BUUXK0sAOHXeWc5yjdiAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Oui, mais... C'est vrai, mec.",
+    "end": 40,
+    "index": 21,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=38s"
+  },
+  "thumbnail": {
+    "hash": "5bbbb69efb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFw/LFw8J2VFMkAwLTUjHldBOVJAPE07N2hTTEY1MyUWFhoODyEPDTo0PYear5GowABNNCQ/JhpMMiY/LSdJNC1yVEtZPDk8NkBnVVJTQ0IqGxs9LjBtbXqJlamQoLWElawALx0VLSAfQTEyOisvUDs6a0lCXjk1RzM4SEBJSDg3Pi4vcGx+q7rVrL/XpbrTm7XQADomHjgpKDosL0U1OG5XVGRCO2tHRWZFRFlHT1VFSjsrLHRvf6Crw6e2zqm91521zwA8KiI4KCc5Jyp5XVmXeHRhSEVHNzZiSEl7YGJ7Z24+MjVnXGF4cnt8e4iEiZtaYHEAOykiOikoPisugWFdi2lmgmVjRDMwX0dFfWVpeGVuNjA5HBMWKiEmGBIWFxEWGBUbADUiHTAiIzwuMn1fXYdmZIZmZHxfXW5RTopqaopyeUc8RQwFCSoqNzIxPSwuOBwgKAApEQgyHh0xIydtVFJ+YWB8XVp/Xlx7WFZ4WFZ2XWA/MjoTCgwdGB4qKjYkJTEaHioAKRMPLB0gKxobQzAwblFPbU5LcFBOcFBNYURDOykvFw8VIRYbDwwTAQADAAABAQECGDR+ZFBCBs0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/21.png",
+    "width": 1920
+  }
+}

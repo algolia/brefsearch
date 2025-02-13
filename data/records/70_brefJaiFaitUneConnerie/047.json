@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Ensuite, elle m'a embrassé.",
+    "end": 49,
+    "index": 26,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=47s"
+  },
+  "thumbnail": {
+    "hash": "ed27341b4d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nBXO3W6TUAAAYG50LXBOoTBoGQVKBQaUwz+UAwVaaHFz2eJM1i2Z0RiNmd554wPogxu/J/iIKkJ5GKRhnAZR6HqJ56de8NDvP18fv1z1jWsjdcHSQFdWCYp9GxFlhOosLbOiyjdFlORh3Oabl4f75+P+VGNLksLVUheE0LRxUqQoJnxD31fbrm67uq3SHMfZsG3+/Pz+9+XrB5zfJNHbKIg0bZeVDW7LFBPealn43lXX7+t2m+MqKZC1/v3p44+7d7VlHn2vcWxbUZui7ZvjruqJbO2kjrXH+LDrUhTKoswA9jT0v+5vB9spzDfOYjEeUTQFy83u7uaRyD0X+94BF0N30GSNA1NuwhuK9jz0hwAZ0pyHE5qEZ6/Hayd6On0jMtcOLaMvy+t62zsrmZvTJKRIuBBEbTbjICPzIqAYagwByRR5R2yQaylyaiyfEvMxWEosD8jJaETr4ry5vKxM84I7p2mWhTwgGQZw/0uOpjqS8D7Qc12R+QuRFSdwOgPMrSTWwvnZq5Eiq4qkMoDj4PQf0elMVceuYtMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/26.png",
+    "width": 1920
+  }
+}

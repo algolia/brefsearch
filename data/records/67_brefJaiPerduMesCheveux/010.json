@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Quand j'ai commencé à perdre mes cheveux, je me suis pas rendu compte\nque je perdais mes cheveux.",
+    "end": 13,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=10s"
+  },
+  "thumbnail": {
+    "hash": "cf45504906",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXBbVOaAAAAYFaiqGnL5u1DH1Y7FW3ZWSgTFBUJLF5ETwUVEIshIjTNbnZazdbuvNvd/kF3+617HgA+jOcQ4gxlKsRFGavkiyxKyhlCumLbVB7fh8JBXzjgC4Fbfs87CAKDwJdYCstXM2elEUcvZRFHCgVmgJB9QeyZcpdJJd7794LQLgSGwK2AdzsAnMJpolhDUUohS2u9q3L1AqNlq0pd7Fm6cXkMxz58DHp3/WDY69nxeXaATDKN43SeEEQMe+iIUl1CKfUrpfK8tPg+J1PJQuzzwV70IBKNhiLRcAQ4iR+LbGNumlzuXEDPXW0gNAyk0ue49svqJ5E+YZF0k8iqNUKqYjyOAPFPCUdR3tarx2t9bdz8vZ/927zKkkkzzdfHdQXJsdnTW5mb9UWnww15CkgcJTtMbeOMN+5kM7H/3M3e1sv5jVWu1p8XS7vbdiXhXmvddhuGWJMuSgB8lCRRbDZQn+zxwjCeXWc1MuaGaSra7+n4lz1cfVOnattscb1LqkkWAfgwQaDYaHjtmtbMdu7syQ9r9GTpL5b2MJSn/abV4nWBlumKWMbZAvofml55KHQiVWoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/04.png",
+    "width": 1920
+  }
+}

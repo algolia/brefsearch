@@ -25,6 +25,8 @@
   },
   "scripts": {
     "update-episode-lines": "node ./scripts/update-episode-lines.js",
+    "update-episode-thumbnails": "node ./scripts/update-episode-thumbnails.js",
+    "update-episode-records": "node ./scripts/update-episode-records.js",
     "ci": "./scripts/ci",
     "compress": "./scripts/compress",
     "lint": "./scripts/lint",
@@ -35,6 +37,7 @@
   },
   "dependencies": {
     "firost": "4.9.0",
-    "golgoth": "3.0.0"
+    "golgoth": "3.0.0",
+    "imoen": "2.0.0"
   }
 }

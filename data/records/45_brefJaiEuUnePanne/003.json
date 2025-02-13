@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Enfin, presque. Elle m'a demandé.",
+    "end": 4,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=3s"
+  },
+  "thumbnail": {
+    "hash": "c16715d050",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVR4nD2QyWocQRiDGzxd9W+1b129ZDrO2JmMF+zgQwJ5/+cy7UNAhw+EBNJwugOC0Mq1t9dt/sh+J+0tN2u6k26kaiWg5Nt0Xfp7ybdhPKFWHO3a68v9+V+vT4LRUCaMTCm4VbgQuBwf1uWjlucjANp427M/7/PvH+e/wW4MAbQ1XFPYnelCee1v5+3P1N4GNdLhSQ12SXbZ6rXG++A2y9WZfoBpwqWmhyn/zPEyiHSRmakEvztpSaaeHr2ZDWXD5ajnIpQtN/MFA2ImrghBZArxksP+fXn3ZkawTEE4EQah5N0inBD9oEcG7UBb0MzcUv619peWH0l7wkMIVjhHvwkXBHuMHk+oRtKKtRKROZZbLjcrHcGBFtBCGI+v0IM2gxplPJEa/wtF5lCuIV6EGypD4KwUoaSVaEWfZVEc8dffLqMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/01.png",
+    "width": 1920
+  }
+}

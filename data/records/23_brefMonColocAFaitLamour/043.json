@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Je lui ai dit: Prends la mienne. Il a baissé la tête.",
+    "end": 45,
+    "index": 21,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=43s"
+  },
+  "thumbnail": {
+    "hash": "ab7665f5c3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEEuImpdUoB6doyEf2lfWldNS25jaKeena2loXFsaTkrKFlFP3BmY3htaW5jX2VbWABQQDdxZFiGgHyjm5d1aWVjVliJe4ipoqKcl5VgUlEXDg0uIh9dUlBmXVtgVlRnXVsAXk5Jd2pgjYiEmJKQWUZBWkBAiHyMp6OkhISCblpYSC0oTzs1U0lNWVBPYFVOWVBMAFdLToN2bZGNiXRtbDwoKkAsL2hXY7eyuKekp4Z+fKiKgrSVinpydGhdW15TUHFoagA0MTRvZ2WSjopwamk/KSc7JidaSkytqa/BvcXTy9Pb1Nze2N7p4eXOxsV1bWlya3EAERESQkBFjIeCfXl5P0RRP0RTPDIyr6my2NHb1M3V1s7V2dHZ4tri+fLx1c3Mb2duAAcGCyYkJG5pZnl2d1xnc1hneDkxMq6ntNHL1svFztLK0tDK0djS2eTe5NzV2XJqcAAHBwsXFBRSTktqam5ERk40MzpAMjC1qbG1rrq5srzCusLGvsbGwMjMxs3QytBpXFoACAYHEg4NOTc3SUpOICk5KCQtKR0ef15XinR4npals6uyurO5vbnAoJCRmYF7T0I7WHvIqFZbijIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/21.png",
+    "width": 1920
+  }
+}

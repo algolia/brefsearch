@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'ai vécu ces 72 heures comme si c'était les dernières.",
+    "end": 59,
+    "index": 22,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=57s"
+  },
+  "thumbnail": {
+    "hash": "e02b003e4b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABb0lEQVR4nAXByY6bMAAAUEgwCcQ2NsYrZgtmCaRZJp0i0jbqYSpVlXqa//+XvueBuNnjU5TeIF+wfiX2I63+0vIPkivWT6SWhIsA7LbBDkQG7LW3x2eYrdj8ptW/rP3M3CeUa7BjWwA324jqqXnMhxT6/jZK+n1y8oh5ieOHcE9if0CxhnGOsAlB5G+A74eEq2oeWSFgdsLyJ2R3T7W/RDPxpoFpvgkw5f34vuhjDwD1N7sY4cyqCMGY9lQ9sFg8Xt2ysi7n77p/PxCVCKldrpxTzR2EcRBEYRhvfBCCmFJJRe/x6ovpL/Xlpfs33a6iuMpyLs7f8uESHyjjjgkn1YCw4nbI7NljthPVWMyraKZUjrp8lP3TdG+QCJyYvLgLPer8lJrBXBY1fvWIrpl1urthYRHSprgKMxBZYl5grEiSJ9SmspbuqqYrbycP8YqaI6u6MEIYm5SVMSREuXxYeX1Lsiplx0wMzHasbrEs/gMPqSvgxYsqjgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/22.png",
+    "width": 1920
+  }
+}

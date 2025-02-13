@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Du coup, je nettoie mes toilettes une fois par semaine et mon clavier,\ntrois fois par semaine.",
+    "end": 57,
+    "index": 24,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=54s"
+  },
+  "thumbnail": {
+    "hash": "b79a0d53cb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHViUop8dZ+Vkaugm7SppLmuqruwrZiJgpqEermqo5yPiVVNTG9lYoJ2cYR4c3pvawCKb1WciHq2rKi8sarAtbHLwL2dk5BcOjKufn7NuriFfHgcGh8jISQkISEzLy9JQ0IAmnxfrp2RvLKtmIp/rKCZzcO/qJOOgFdTroidzrnAa2NfGhccIyAhExESBAMEAAAAAI+BfLSts9jT3I+Bep+Sisa+zKaYpn9ZVaB2i8awulBLTA4NDxcVFhkXFzIwMyMhJgBHREh0bG/h2eKjmJSvpbK5uNeqqMlwX21zWmymkKAtKi8FBQgVEhJEOTV3dn9iYm0ANjExUkxO2M/VuKqqt7LMmp3CkZW4eX6jbmyLbVVgDQsOJiYqXVlbYFVPXVlgW1xpADgxLWtkZtTN1ZBoWZR4d42EmWNmfFJMZIRtelxJRwAAAFdTVNTT35OSnEM+QkhGTwAPCwhfWFm9s7Z+XVCDYFSAYlxxU0dgQjlhPjg2JiIAAABRTU3HxdKNi5U7NjcnJCYADgwLGBUUJCAfJR8eLygqHhkcMTAvPz48Qjw9QDk6BwUFWVNSs7G8fnyGMi4vJyUmBcmyte7ycfAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/24.png",
+    "width": 1920
+  }
+}

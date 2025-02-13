@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Première bafrika.",
+    "end": 59,
+    "index": 20,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=57s"
+  },
+  "thumbnail": {
+    "hash": "57d9e12271",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBXVfSYAAA4F10lAbbu3cfLxv7JHArOZDgDobCVBJTx8YJECQ+RGxEnRO2KGkHu6pOZRdZF53TTZf9gH5hz4M51pbXfOyfdmfD3qvBk+OHmx37aHZ+/sH3r4PgSxB8ehfUs3njFp4KgzthEmvtl/1B5+q59/7FOJh4te1i33U/Xs7//Px18/n662w677ULqUxWS2aluA45zMrnve6oUW207fqb8cS2LHfbuhgOX3vjlu3cTHoNM43YqJ40YryoQhZTJTUha3SE4AFIy1JGkVKSeE8Q7quxvZzxtr67riIlysEIgDguAIApoiQjlo5E8KVlAcKUoigU9PvWv9+Dvz863xf2tF9YjDYMiWHwsMLQGGI5keNYkiRCOBHCRRRb05MXZ06luHE1db4FtVHTDHo5p5AgQrc1xGKAAAxJIQqGl5ZZQMmCqEpxidcQE+NZfjWRrJXunpXTDxJqhgariMWiAERJiqcgDEfioqzFREQzCNI7Zr51WHV39hqVRy+blU4xW+eZfUPHWBxf4ZGzlauVTLdouptrx+VC92D3pFLyByfz0/biaedy2HhWLR2m9YP8+n/zQmExyMnvAwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/20.png",
+    "width": 1920
+  }
+}

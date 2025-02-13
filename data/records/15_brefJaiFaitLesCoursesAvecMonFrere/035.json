@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Dégueulasse. Prends ceux-là.",
+    "end": 37,
+    "index": 18,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=35s"
+  },
+  "thumbnail": {
+    "hash": "e635f07539",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nAXBW0/TUAAA4Erb9XJOe3p6Oe3We0vXstlNxy4gQ1k2lg5hZIuA29ApGIOJ0ajR8GTCiy8++zv0lX/n91GSIJkyKssKEmUNKhfPetfFk9ej3sf54WC7VnUs19DKRCmbOHKNd7MhxZYAz0GBl6CIeBb068nd1fx2dfLlvOgkgQkggSiwNM9RvQoe79QohgUMC1gWciVJZMFeFv1cT79dFJ/PisNm9XLbP655mwRlgdZNzWHLoRhGYGiRZgAowbahz7r1u7enPxaT74ti2ktftYIP+1vdwEhc5SAnv276FL3BMbS4QQPCis/98qxdvR63v74Yrce7j2Jnx9ZHif3QMeseWY+j+7+/KYEV6QeCIkgNjDtEm+T+cjdthi6CWAIKAWgSVw6y2DXdQTO4//eH6pa13NL7HhnGlQwrq0Z80906inwDKBrSLNV4mnid0NMxCSv27XJAzZBwllrTurNvk5nvXmWb6zR+X0+OfBfyso50LGsIqqFpnbTSl3uPqTnkzjF/7OunnrMMvUXkXybhKgnfZHGm6jwnY0mFotrw7E+DfJQn/wGxsUYLnJBXlgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/18.png",
+    "width": 1920
+  }
+}

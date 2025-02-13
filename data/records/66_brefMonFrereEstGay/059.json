@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "second mail avec qui est à l'intérieur. Avec la pièce jointe, c'est Mews.",
+    "end": 61,
+    "index": 30,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=59s"
+  },
+  "thumbnail": {
+    "hash": "81c3071abe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABXklEQVR4nEXOa0/bMBiGYf//vzJNrJs4VIWBSqBayUQObew2dWLHdnyME6eh7OPUITHp/vq+zwW+/rj9Nl/dPuXRevuS7JNtDQ8CM4sbU1KNqjZH9CUpl6v0ahF9mc3B/VOyWL4+rjdxutugKisOhBuu+ppb4yfjJ+XGRvo9URkkd8vfYLmGs+sIYaa70fZvuju64eSGk+3f3HDqwsn4iXBTM1NzF2clwNzBsomT7XZHcohhSWFJ0aGBJaXCUmGF7j/ulRsrZgGVPVd+g6oc4mJPdphRYZvWUWG58lx5acM/23m8Fg7UrZduwFRWwqvu3YU/fnzvwrlP20fKjZhZ8JqXaVYIG1ozCh1aM0gbdHdU7qi7/0kbau4yRMF8EV19vzkwR/jZIPTZ8PnY+En7SZiAmc0QjX5twOzm4f45eY6LFJJdLStmadtR6RvpaesxMwi3aUFWcbF4WF9c/vwLej56l4rwbEcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/30.png",
+    "width": 1920
+  }
+}

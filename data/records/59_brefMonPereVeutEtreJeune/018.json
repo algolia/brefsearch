@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "T'as vu, il y a un chronomètre dessus.",
+    "end": 19,
+    "index": 8,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=18s"
+  },
+  "thumbnail": {
+    "hash": "eedce6989b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEU/PT85OBENEQgHCxMND11AODsjHgUDBwAAAicmKZCan5edonFeV2pUTntlXldDPAAjHiAlHyENCQ0HBgkNCAxTKyNZNC4KBwsFBAcAAABrcXWtvcV8dnRcRT5+amJ3YlkAJyIlHxsfDAkOCQYJCwkNUT4+YFNYDg4TBQQHAAAAQUVJrLrCmqWsZFpYbVtVkH90ACAbHhcUFxMQFiEcIh8cISUnMSAgKQQDBwcGCQAAAR4gI6GvuKq7xZytuYuQk4iAZwASDxMJBgsTEhcpJCw/KitCKCgnGx8PCw0CAgYIBwoGBQeOm6Kuwc2cqKySkHh+dVUAJBwdGBIVOCwvMyktTTMzTjMzJBgcMCAgNSUjBgMGHR8ilKGqnaallpN2g3pYdGtPAEAyLikgHUo5OkQxLxEREygpMDotL0cuKUswKhQLDFVYXJmgoJiUc46HY3VtT2tiRwBbVFMqLSQWEhUdFxoGAQVSV2ZvcX4dFxkAAAIPDhFKRUZ/fGuhnnmFfl5zak1hWD0ANDM4Hh0ZEw4QBwYKBAIGSExaY2Z0EREUAAAAGhgbRj9Ad3NelpJxeXJWa2NJYVc+/J1r4ZTP/9AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/08.png",
+    "width": 1920
+  }
+}

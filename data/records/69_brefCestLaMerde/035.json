@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "C'était plus comme avant. C'était la merde.",
+    "end": 36,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=35s"
+  },
+  "thumbnail": {
+    "hash": "edd018c83f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHt8fnl4fIaDhZ2cn2xlYUE1LVA/OlZJRl1TUV5TUGNbWXd2em1tcmtscWZnaV1fYgCIh4mHhoqSj5CurK9pZWM8LCl0VlByWVNdU1JhV1RmXVx4dXlycXZcXmRdX2NkZGUAgXZuk5OXmJWXs7K1dWxsTjk3ak9NcllXZFhWYFdVZVtZbWlqbmdoTkdAWFVTaFYvAIJ1bZaWmpqXmrKytn1zcmVLRW9QTH1iXmldW19UU2NYVmNbWWRcXIBdNGVMLmRIHQByYlyWlpqbmJu9vMGFf35GNjFMNDNmUU1lW1lhV1ZgVlRgWFVcVFRsVUduV0V0VisAe2FYmZWZnZyei4qOODU3Tz49UUA/VUdFOjY4WlFQYFZUX1ZUXVZXV0tGW1NUPzk3AG5LP6KbnUdHSwUEBgAAAh4YHEM2NyQeIQgIDRcVGktDRGJYVVlSUkE9QkdERTUwKwB1ZWB+fH8HBgsJCQ8VFRwOEBgICxQLCxETEhgJCQ4kICZgVlRNQz9EOjtSPS5sSR8AdlNFT0dKAAABExMZLzM+KC46JSs5KCs0NDdBICAnDw0TS0JBTUA6QjIsQDUxRTcv3IiPWuJl17QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/14.png",
+    "width": 1920
+  }
+}

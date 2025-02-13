@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Je lui ai dit que je is avec toi.",
+    "end": 62,
+    "index": 25,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=61s"
+  },
+  "thumbnail": {
+    "hash": "2bdf6d69f3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nB3L+1OacAAA8O/usjHk8sGudGotE1BbyjYCHDqJhyBIoLwCLXtZ3aSXm61f9sP2w7a77toP+4d37ffPB9Qyr+sFAsfrBFbWOPbCtjSG/mT2vh2EXrslMzRVJrJomqYYjm0m4zDYqtGZfBFdzuts48KxbkLH5vm70LkP7V6DPrKs3Ra3nnula6YsdF4mlkAqtZxAluJISnpPzUfewyx6uI3+zKLH2fWvq+nj3WdbUco4Yfd9TTUKuRxA0ysIHIegOFZYO9bl75Px3y/XP8+P54H/43T8+3La/cCyVcK3A0O3sGIJJJMoDMHPY4sQBHNb1fnI/Tr0Jqq0xzGnXfEm9MRaRcILBwPH0C18AwMv/uvFhVgazdarpMs3bvf6kSpdyuJEkzypLVCkK3InQbhrDN5UN0FsIfYMAJyod4xRY8cmiUoo8/dD76rfO9FlmqR4xTFN93A4ViWltL4BAAAIkhAU1/LODOec5Z1KscSUMbaCk8W1bGb1LWfsGEdWMG1yAppMP4X8KtYSBx1jZPpnhh8JaiAz2x9rmxq7jedz7xhJMift7n5T3Wf4wT997WgDiD6x/QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/25.png",
+    "width": 1920
+  }
+}

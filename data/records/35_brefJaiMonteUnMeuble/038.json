@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Je me suis dit que je me débrouillerai tout seul.",
+    "end": 40,
+    "index": 17,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=38s"
+  },
+  "thumbnail": {
+    "hash": "499ac92c6e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlOS2pfXX5wca6ipNPMzsG2uLKjpaycnpyMjZWFhJOEgop7eoFzcndpaHJkY3JmZgBoW1mAcnGRhIS7sbPd2NnPx8rDt7rFub2Vf3xxWVaklZSYiIeTg4GKfHqJe3qQgoIAcmRgkoSEgHBqnI2FvLOzgnFrn46Ny8HFhYSPUlJcd3N5qZmXm42Mn5CPpJaVq5+fAHdqZ5KFhJaHhLeopruxsIBsY5qJhtPKz4uKk2RjbWdka7uuraSXloV6eJqPj7WrqwBpWFZnZFpxcWXCs7jJwL+pmpebiYeQgYF/cnFJPT1yZ2nCtrSsn5w7My8eGhlCPDsASDcvWUk/Wk5FfXBvkoaFUU5Pf09DdxwASiwkFR0gTURCk4aEiH15LigjHBcVKiIeAFZHP2dXUElAOEY7OVhFQTkyLlYwI3s8JVU1KSIgHzstJk48KSslHCAbGTInJTsuLQA0KSQtJCA9My05LitDLSGOY0mOX0KOZkt5WkYqIh5CLiJoPiNGKBU6JhYtIh0bFBYAEAgDFA8NIx8eLCAYRzMsTDUoVDoobkUqh1g7HxwcLiQdZkQyVzUkQCMUIxgUBgUE+p+s0C4a4TEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/17.png",
+    "width": 1920
+  }
+}

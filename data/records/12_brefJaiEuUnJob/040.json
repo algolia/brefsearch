@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Tout le monde le pliait dans tous les sens.",
+    "end": 41,
+    "index": 18,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=40s"
+  },
+  "thumbnail": {
+    "hash": "66e24df317",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGBdYVpZXV9cX05MUVtaXjMtLxoRDBkRDSwjHVNIRiskI1hLSVhOTFFIR2BVUjEqJwBgX2ZdXGNZWGBQT1ZbWFo+KSRiQjUfFA8fFBAgGBU9NjVgWFZqY2FgWVZmXlw/ODYAKC1LLDFQICRDKixEPkBbbExGh15QZEY9bEhAIBQQGRoYJSUjNDMvLi4qKykmGhgWAB8mSx4mUBUaPx4hQyszYGZKS4leUYpjWI1iVkErJAkKCRYUEi0rJi8vKiUiHyAgHABDQ1JAQVA9PUxEQk1ISlpYSEdzTkR9WU2BX1OKi5JaYmhWVlVLSkg6Ni8zMCo0MSwAS0teaWh3Xl9yS0tfaGdpTEtRYUtFUTozf4aNmLDElKa1kKOzhpmrYWZwMiwtOzQ0AGhoeZCNlX58hV5da21tcEZES21palhKVXmElZyuu5mlsYiZqoGUpm9/kEVFSj42NwBlZHKJho1ranJdXmtbXGE0MTeIkJZWQE5ubXigsb2ToK1yhJZtfo5tfYxdY2w6NDUALi04WVlmaWt3RUpnLDJPLS41h5WjTyUye3mFnK26h5akW26BYnSGbn6OXmhyICAhIv+OQawPL9wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/18.png",
+    "width": 1920
+  }
+}

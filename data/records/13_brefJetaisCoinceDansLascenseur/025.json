@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'ai regardé s'il y avait une trappe au plafond comme\ndans les films, il y en avait pas.",
+    "end": 28,
+    "index": 13,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=25s"
+  },
+  "thumbnail": {
+    "hash": "2aeedc32e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUUlEQVR4nC3QzU4UQRSG4YlTder81emqrqaZntZxMsFAZEgAxYVBo4aFATYujGxYGLduSdi45Sa8BW/H+zHVuK18T96cmjnnvPchAFEQQQxzIhi7MnQ5N9pEicoiGAJ4D865WQgBEYlQBAnd5uDk5OX27YvV0XqMSlFJlSYQvPcVTGsiZu/nZx+/3v/+++Hi235vXTYRFK5Z5rpREQD4X6gPzJc3dz9+/Xn15rPAXIW0ApwizMxRtQIAeDSqcvHl59X3h3evPxk8MRUVVMGULGdLKabGKnDOAdSLNcr2+Pz6+vbq/PJw2eeoppSUS5rWKTZxKjjnMKAqNSYpNetFOd08f3+wt10ts8lQ8tC1bTYzJaIKMAQkVKGuUVEFYhUcd8vY159d7rTP+rJbspkwE0CYMZH3wIStiVkkwtToatFvng7rcbHcKUPJi9ZUhIhCgH+aNiC3UNWs9AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/13.png",
+    "width": 1920
+  }
+}

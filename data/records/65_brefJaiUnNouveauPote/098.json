@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Non, je n'ai pas le temps, mon pote. Ah bon ?",
+    "end": 101,
+    "index": 44,
+    "start": 98,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=98s"
+  },
+  "thumbnail": {
+    "hash": "ec271be50f",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nCXLy27TQBhA4X88Hc/Y9SW+zMT3OrUTrNTBpI5D0kDSplC1IKoCi6gCWlXQRREXIcQGiSXPwpKnYM2G5+AZEK109O0OmKoReRtFXt7a7Eci5rotJBwq7NV273nZnYaCM0UFMAF0gHUAcAwni/N6cHdYNnnSS3gQEFK09K8Pm4/3R/udKFCVFsaOJJkIGQDg227R6c5H9ybVeCsrci+MKL3tWlezwcuqO3CdRNcixgTGLsaWhMBS1ZP55O+fX98uzzqCpy5fdKJ38+bDbPvL3ng3jeug7THFl2WPrHEsgUGV1f7i988f39+/zYIktPnFdPhiVPVt52mRDbkd6zpGVMXMIZRjDLGfPtg7fn3+6c3F5+XsiJvidFof9LLE0Ee+yE1DIxSAIsQkxFqyAuOqmc+ODpbPHh2e1v1ao9pqUi/zDUvRqrYjmEIQBZClaxlR4UmzdXwnnVTTptrx7bbQrVVdeusagCxLdA0IAvkmAPp/G6fp43LzZGdxWA/jllWF/m6WAJDrgWiygoAiuJEhYP8Aw5o3O31N4CoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/44.png",
+    "width": 1280
+  }
+}

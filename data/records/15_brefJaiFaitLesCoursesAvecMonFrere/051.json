@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "C'était le mieux à faire. J'allais prendre des pâtes Mac et pasta.",
+    "end": 53,
+    "index": 27,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=51s"
+  },
+  "thumbnail": {
+    "hash": "638eaa64ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJWSnF5bWmZhZJCJpZCIo1dOUS4mHjwzLjYwMBgTFBMODxQPDx0WFR0VFBIODXRxfwCUio16eGSUk4CflZ5rZGVENS5VOjJPPjshHCEWERMUERMQDhARDRAQDg8FAwFlYH0AnJSjmparqKG5sKO/a2JsKhwWd05Fa0tCJh8fEg4PExARFBIUEg8SEhASCgkGZmJ4AKmgsamcsLCjxMu+4puPmTomIlY6NGFBOU47NkUvLCQZGg4MDREPEA4MDA0LCIF8gACkoKmikYqxnaCvnqm2qqp5ZVtkQThiPjdYQDlsS0ZYOTcaExIQDQ0OCwoTEA6nopsAoJqpqJyqr6OsopmobWRsU0dGRzIsPSQhPy0oVD45ZkZBUDo2JRsZLiIfOSgji39fAJuXnaWgs4h/my0oMxMSHiogJVQ5NDslIBkREScdG0YxK25RSV1EPFhAN2FEOlY+NACSj4yqpK96coIVERkXFR0sICNgPjpSOUEVEhwGBQYeFRNbQTlYPzgsIB8SDA4HBQcAo56giIJ7eHR9FBEZDw0TJR0nRjVANi1DEQ8ZBgUICQgMIhoaEg0RAwIHBAUFBgYGebh6QQKjCQ0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/27.png",
+    "width": 1920
+  }
+}

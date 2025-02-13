@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "On se vend un resto ? J'ai pas faim.",
+    "end": 87,
+    "index": 30,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=85s"
+  },
+  "thumbnail": {
+    "hash": "4bc0ccb86d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAoICQ0LDBEPEBUTFBALDUtKT6Gkq5GRmZaYoE9MUEozMV9EQ1lAP09JTIuNlYOEiwALCgsODA0RDxAWFBYSDBFbWF6xs7mbnKOUl55BODlmRkR8WlmHYmFENziJjZOQkZcADAoLDgwNEQ8QFhQXFBAUfXyCv8DGnp+mm5yjUEBBSzMya0tKZ0tLVUNDlZSZmJmeAAwKCw8NDhIQERUSFh4bIKmqsMXGyp+hp6GiqW9ZWFQ2NW1KSmxMSntfX6KgppucoQAODA0SDxEUEhMWExYrHyS7t7vIyc2lpqyxtLyBc3RQMC9pREV9V1SckpOvsream6AAEA0NFA8PFxITIRYZQCIlwbq92Nnbjo+UcXF4W1JVQicnYDs7V0A9VFJWkJGWp6itAA8MCxMODRsVFDYbG2ZFSOHh4pOTlRsaHz07RExBRTIiIT8uLEw6ORENECAgJHh5fgAVDw4ZEhIxJCREHx2CZGaHg4YLCg0REBRMS1ZYUlxLOjpVQEBURkoYFxsKCQsPDREAGBIRKB8eSTc2Uzg4gnJ1LCMmCAcKFhUaT05aWFdkWVZiXFdhR0ZRDw4SDQwPDg0QBj6Fcp3GAuQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/30.png",
+    "width": 1920
+  }
+}

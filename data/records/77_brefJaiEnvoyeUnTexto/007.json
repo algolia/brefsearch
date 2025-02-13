@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'allais appuyer sur Envoyer, mais je me suis rendu compte\nque j'avais pas précisé quand.",
+    "end": 9,
+    "index": 2,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=7s"
+  },
+  "thumbnail": {
+    "hash": "1caab560b4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nE3I32+aQADA8fv/E7eXMZ0byX412zST1mLw1KMgVkArtiCgFI47OI2VKBiHXbKHLdvTku/DJ1/QluSRPntYrFaPNMIM03X8X5iso5gFIXXcQDfn110Z6OYsCCISp1FEMKYRphhTQhnGSUxSQijGJIzIKohs2x+bFkiT1PM83/fLsiyK4ng8FkXOGMvzfPe0pZtDcTyV5Y/T6ZRl+zAkwHEc27ZrtRpCiOf5er3OcVylUuG41y9fVC4E5eev38/P5/P57C4WWZaB3dNuvz+kSbpZb5IkIYTEccwYI4SSmKRsk+fFdrs95Hm1WvU8HzRaUvMKCiJqtfuCiITrwaWILkX01/9mU+g2BMle+N9bV4Z5B0Q4HE/uHTfowOHqEcvaRNOte2cpdodBSJBqGHf2MsCKemtOZkgeAqSMv3xtSJKkG3P+3VttZE6nVq/Xt+ZuD0LdtGAPyQO5Iw20kfHpogn4D98+fm5AiDrdG1030c3tg+3ZjqdqE89daqMp7Cv9gdJqQ1Udv3rz/g//X1mEXDZcegAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/02.png",
+    "width": 1920
+  }
+}

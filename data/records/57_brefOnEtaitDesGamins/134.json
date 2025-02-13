@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Elle me patroler.",
+    "end": 134,
+    "index": 39,
+    "start": 134,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=134s"
+  },
+  "thumbnail": {
+    "hash": "162955ed02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVR4nGNgGK6Ah4eHm5ubBA1MYEAz9zAzM3NwcLCzszMzMxOlgZGREeIkRkZGTGkAWQoAo0vndccAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/39.png",
+    "width": 1920
+  }
+}

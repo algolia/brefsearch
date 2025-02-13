@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "name": "J'ai dragué cette fille.",
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY"
+  },
+  "line": {
+    "content": "Ah le con.",
+    "end": 101,
+    "index": 41,
+    "start": 101,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=101s"
+  },
+  "thumbnail": {
+    "hash": "cde0900f25",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBQRj5eUkloW1BwY1h5b2WBeXR5W1WCXVh/XVZ2W1s0ZqAXa8MWasEbZ7tTdKR6fo8AU0g/YFNHaFtOcGNWeG1ifnZvd19bi2Jfg19XSkpdFGTECmjLImy9O1yOCU+qGFepAFJHPl5RRmRXSmlcT29iVXBkWGRXTmdIRE45NVBAQSFarBdkwIFucpRkUSdNjwJKsgBOQzhOQjdVSDxhVEhqXlJwZFloXFJSRkAtJiVeRz8sRHU7T3iYbV2NZ1w+P1YCPZYALiUgLSYiQzszU0lBZl1Ucmtnd3BtfHRwd29sfHJsRE5hLSw6d1ZMgV5TQzc7CRgvAA8ODhAODko6N1E/PE1BPkM/Pk1KS1dUVV1ZWWJdXFtPSlhEP3NXUIBeVVI9OgwTIgAMDAwfGBZrTUubcnGRbm9hSEZHNzVWREFlUE10W1aDZWGMa2iCY2B+XltUPjsODxUADg4OFhQUSzk3g2RlmX+DnX6AkHFvimtoh2tqemJhbFRUX0lJSjc2MCUkHRcWDw4QAAkJCQ8ODxAQESYfH0M3NkY8PTwyMy8pKC8oKCkiICIcGh8ZGBkTEhQREBEPDQ8ODh3ohSWQdVhoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/41.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Ensuite, j'ai entendu un couple essayer de deviner si j'avais le sida.",
+    "end": 23,
+    "index": 8,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=20s"
+  },
+  "thumbnail": {
+    "hash": "04a7f71221",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXB227SAAAA0P7AXLbZC7SM0sLKoDDAUkoLBUpDaSmUKdsCBcFxi4JMLuPSDaMZmmXRmPiwRJO9L86/8Mc8B/BC0Dglyh4CtyFi0L84Nf5Yk793t+f9q0Kpdlp73+8v1p3SZj5qtVdmYwLwLsdXQ+ulOdbr2ZjH35pn94Pub2sli1mNRrU4W9bLszP515fVdPKpas4AmcKtglJNso0M93jZW57oRiz6UlFlGv9YShSZUIxhW1Lsfvnu2rqpNa+BtxJbTzCi3zNS0w+DN0/r5Y9+O0wHkhR6IkQClE/KSHVVuGwa1nhYedUG7sZTLeRNBQ7O5cSFnhsp8s9OS00kb69ujrw+FIEyDGVI8SwvaByVOcKBXndTlmS/A1GioUFBESifG7HRBKlk87jd5oAgGkdihy7SFUkHXamgE+CEmmlOPSgW9pBVSXSCz/e2tvZhENnZxiDQDsIkZmcojHDSUcoZJkCg0/lsNla63twDEYLwS2LukHRD28/2YRgFQXhnN+IlhhVJE/hqMV8p5IB6Yz1bPAwvvkfjavf1/Onx3+zDnHejLw4IB4xg4K4b549z7WKSy4liMZ//D7Y6dtfNFvIOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/08.png",
+    "width": 1920
+  }
+}

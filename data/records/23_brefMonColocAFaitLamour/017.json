@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Il l'avait mis pour se motiver, mais après six mois, deux semaines, trois jours,\n12 heures et 11 minutes sans rien faire, le compteur lui faisait de la peine.",
+    "end": 23,
+    "index": 9,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=17s"
+  },
+  "thumbnail": {
+    "hash": "16b65e91e9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBT2/SUAAA8BddbMOBoQIjbmbePOpBz7t49IPohWzz4Bdw8aAXE2OWmJ0wYboBpbSF9rXl0XZ97evfVwquoAKCmmXbd/D3A41ajT8+7jUbqCvauhZiexQGGY0nCZ2mw2lCR74bY9s3BliDfaED2vW63Gr1JREjPfGIg5DUavY6vCIKitAxFPlXmk4pTYkbmAOzJ4Fuo9EXRUuFseuYED559DjHsMVC4W4+Xy6s317Pn3ypXcxmWRSkxHE0CBSOM2UZ6/ooDITTk2KxtMUwzzcqO6XSs3KZvXnj8OOH69XyR0LPQ98f9IHK8xZUMUJp4Pc47sHWfZZln25u7mxvP6xUWObW0eGnq9Xi55BmURAYCKi8YEEdIyMNAlUQ7pUrAIA7DFPJ5di1NQBA7ejz5e/5lEZjn3hIB91WG8kQIyNyCCXuu4M31Zcv9qrV/d3d16/23789+B5Hi2w8icPEsW1VAe1vp1CQDKgR8yzx/MUk+zefXSzmV6vl9d8/l6vl7Hw8oVFKHG/QH0gCaNa/ik1O6YgG1FzD8iw7xE7suolHhr5HPZJ4JMZnBOmW3FXbjf+XmRTEErW/0gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/09.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Je me suis rendu compte que j'avais confondu la la planche B\navec la planche H, qui est pareil, mais avec deux autres trous sur le côté.",
+    "end": 32,
+    "index": 14,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=28s"
+  },
+  "thumbnail": {
+    "hash": "a9082cdeb1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlOTGxgX4N1da6jpdTO0MK2uLKjpaqanaWVlp2Njo5+fZqOjZuQkHRmZXJkY3FlZQBqXVuGd3aXioq7sbTe2drPx8rEuLvBtbm0p6inl5ijlJOxp6ezq6qQg4KHeXiPgYIAeGpnnI6Pinp1o5OLv7a3hnVvn4+O0srNoo6UpJGUuK6trqSkqqGhpZiXpJWVraGhAH1vbZaJiJuMiryvrsC2tYh0a5mIhtnQ1NPJzMy+v8G2t7CmpqOZmYZ8fJyRkbWrqwBvXVttamB0dGjEtbrLwsGqnJmejIuPenjNwcC7pKCfi4e8srK0qac/NzQfGhlEPTsASjgwXEtBXVFIfnFvlomJVlNUg1dMWS0he3N2pImAfGNamI6PlIiGMColHxoYLycjAFdHQGxbU05DO05DQF1NSTszLmhAM11SUiYxO2lST31WR1RDMVxVUC0mIzouLEc6OAAzKCQxKCM/NS43LSowIBhdRDVOQz4nJygiJCY2KiVhOCRcOSSYj4p0aFw1KCMfFhkACgUCFREQJSEgJxoTQCsja0MsZEMuLyQdGRURGRQROiskYD4tc1lMnZGLenJvDgoJcuK/9o46T1EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/14.png",
+    "width": 1920
+  }
+}

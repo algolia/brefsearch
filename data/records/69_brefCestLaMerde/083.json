@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Bref, c'est la merde.",
+    "end": 85,
+    "index": 33,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=83s"
+  },
+  "thumbnail": {
+    "hash": "616645acaa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nBXMW2+TUAAAYBJ1zsJotll777oCpZQWTkuhXMrlQKFcDtQN6MVL4kz0QWOyF2Oim08++auN3w/4MKpCXJ0853v9KEJpmiIUbXxPmQOq1exeXhKnLxhq4HtwE/jQdTvNBmaQVeOMjC1Y7o9Fkacosk1dE3h3wtncsFrBnz55tpgDlESuC7uNOqbihNls57dFkZfbbRpt/JW69MD0CO0bc1U/vyBOTkcMnaHYX7vX7SZmVHBbAOXumOd5imLfhYo007hhIEmPX77eFYdMVnQgRqHvQ6ffqGEmWQ3h+vjm7W5XZmnie1CZiQfPK3T14fOnv78e/9x/d7RlAE1ZnNTPKphNEEg3ysN+m6E4DNaOaWqyxnO+wN+h8GN++/PbvaXIypRbjIYzlsVWOAF7V0ny//ZsQ5dEgaXpTkvs9wA9WPLch5vX7+PQFcbvttnvHw+YjOOTWs2xzMBzzeVCFzh1zPK9Trf2kmm3bIGPFMkRpxYQMtfZpwizSVI9v+Bf1Zl2a8mPkpWGLMMCU0BTc4YC1PWMHsjsUBmzujjxZPAPRUVePLPHrooAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/33.png",
+    "width": 1920
+  }
+}

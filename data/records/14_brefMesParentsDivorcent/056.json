@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Maintenant, c'est épilation, sorties copines, cinéma, canard.",
+    "end": 58,
+    "index": 27,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=56s"
+  },
+  "thumbnail": {
+    "hash": "7eb70801ac",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nBXLaW+bMAAAUH7G1mS5Gs6Y0xibcppgEkIgLKTqMZKuUYvaZptUTdOkat1vn/a+P06ejlVhYs4kbKp1PmeBu2Xx6abpLusqCZlHkA4MRdRlAcj8eNjjkKbokmQos4igxEVbRt+fu9fDl32Z77JkTX1KkA+NGFnQAJJwzk0GvDgFMg8c05x7eF9v/p5eGpY0q9V1njUsKqKLpYcpho6lm0DmFF7bLNgiDgPXSaPg9aF7e+qOTfXn2/Pvx6/XeVpRfx26EUHENjVZ4hwT10uW0zB0HZ4HbXX143AXQdLtrh7qmqhQmgCoah/6vK6C3tmQE8YaMhC2kSSC0UjI/PgmKwPdTSxCLTzty8MzafRJGI7EweC897HPLeeJZSDH9Wwb+gSVWfKrvT1tqv2StcWipn4ZezF2fAdaGphOxv9DzmhdFYGHI5+EHrm//Px2vHusi10aNWm0ib1V5Hq2AY2ZoSncBbYJNLFtuRgu0niVs3Zbvn9/+nk8tGtWU78ICHVMz1DsmaAr4j9RL2idxwyZ6gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/27.png",
+    "width": 1920
+  }
+}

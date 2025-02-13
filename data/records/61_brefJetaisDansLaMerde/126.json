@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Bref, je suis dans la merde.",
+    "end": 129,
+    "index": 51,
+    "start": 126,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=126s"
+  },
+  "thumbnail": {
+    "hash": "983ba5148f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nBXLW2/SUAAA4Cb6oEMz49AxDVOCIwtz4MaltHQtvVBKr9CWlgOnp/fCjMDojFOjz/5ts+/9wwY0MxqKylg2VMM07ABAQ+AVhtNuBOAsgLNw7bk1sRFaXTY6hRevMYEVdEU3DXNmuasg3EBkM/iEuEaSFMAw8uPAC70FWq/27Q71GMbi2DQsx3J9GHyFNpSYnz5AQzqambfZbeQnaZjGYbLb/aIo8aj4DlMk1bXcJfCyOLuP55nO3c0tOGQDbfxjn6NlEAdJEmX3+V+S5J8dHGKarI9HCkXQiiTnoZOp9L90kQjskqcett98GCZBkkarfP9HHE2fPH2O6bLeJ+m3xdJZrb7zZ2iII56AA1Js1vJ1GkTrOHwM+7vfqjY/fHWMSeKIIunLz9dy88t3OAFcu/PxhKtX3EELUL1wpEDX8wDabh5EcXpUfI/xDNfF++75+bZ8HPM9lWi0Tktm90IlGny1DCofQsNybJAlG5aVCy+LWJ+k+i0cld4MCgda5XR4VcerZY/r3dSr8kXNOvvktLuGNgWuL4pGs9n9D8LofP0G4d26AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/51.png",
+    "width": 1920
+  }
+}

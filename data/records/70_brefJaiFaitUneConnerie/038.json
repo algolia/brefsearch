@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Puis, je suis rentrée. Elle m'a dit: Avec un grand sourire.",
+    "end": 40,
+    "index": 20,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=38s"
+  },
+  "thumbnail": {
+    "hash": "4236a7756f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nBXMS2+aAAAAYA5GkTcIWHwiUKRAERGdyko6i4pVHvIqtLHdsp12MNmy/5+lyXf+gCLLy6JMwqRIite8SoPQ+/qQHI9ZEJ79/UsUVFkR+KfJWGlTTLOOAFkcF0mSBHGZFt/f3rfu44Bub1ZOGoTZs/+Wnn9ePv5c/znWDAERBESBLAzyMIgPz2WSfVSv7mzOYsyA5vInN95uyij8dblcf197bBeDcZ7jgPiwe4mC42YTHQ5n7+nv0bVEqYVS+zHvrxZ5cPpRlVPNaNRgCqN5rgP4rhN637z1cu+6mqD0cLrPdG67XbiOaYJYRiddkvvtnrt0WILmbzjgcTHbOsuHmbUyTYZo12sY2iQZrAXWUGUkTBWFIdgqSU67/ZgXVGEErE3Dta0v9/piMsXhFtTAkSYJgQQCEjcUy+Kt+cS65Klj27Zu6JIImLJkq8pElsX+CGrgn0AcbZIERHAUO9c/o3jnmcrdejrVRQFQ+aEhCuPhQOrzJELBIIFCJIWQOIQLna4hiqokb53V7WBoa6omjP4DLbVSNoF7NuMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/20.png",
+    "width": 1920
+  }
+}

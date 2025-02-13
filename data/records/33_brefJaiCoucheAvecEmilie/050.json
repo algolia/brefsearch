@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Le match a commencé.",
+    "end": 52,
+    "index": 22,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=50s"
+  },
+  "thumbnail": {
+    "hash": "30fbc8b603",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALayuLCrrqSSjr0XGrknKpaEfZ6OiJuHf5uJgpqKhJaFgJKCf4d5dXlsanJnZ2hdXQCup6e1rKyOfndvOyd3RjJvUz5uU0ByV0JxV0FvVUBoTz5kT0BwWEZsVERpU0RhTD4Asaiqv7S0joB6OCwiIRoWIhENLRgRJhcTKRoVKh0XIxgVKx0YU0U8Vkg9SjsvPjMrAK+mm7yzqIp+eEMwJxQNDREMDjcnIR0REBgODCMXEx0UFC8gHGZaTmNZTDguKUA3NABwZUGBdk93amJKNi1XPzVSOSxlSDdWPDJFMSxlUVQtIBwxIRxeWTxnZUFBNS9CNjEAZ1ZMXUI3UEM9NCwuZ0xDSDEoOywnOSsoOSgnWlNjLyIhIRINOC4oV0k+PzY0OjIzAGNRSVY+MkI2MTcrKTIoJzgqJTUnIzImIyYcGy4oKFNGQUM2MjInJDQnIx8ZGiokJACNfHaVg3udi4OlkomdjISfjIOgi4KeioGTg3qaiYGpmI+ol457bWZqXFZuYFlsXVgAbF1Vempgi3lsmoZ6nIh8o46BppKFrZeIqpWFoI+CnYuAmoZ5kH1xhHRpd2ddZlZO3v2UZaGoaDAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/22.png",
+    "width": 1920
+  }
+}

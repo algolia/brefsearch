@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "À leur pied, allaient débarrasser de ce qu'il voulait pas.",
+    "end": 75,
+    "index": 34,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=71s"
+  },
+  "thumbnail": {
+    "hash": "1052af2dab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABS0lEQVR4nCXO247TMBSF4e02jrfjQ+JDfG6TppSRZoYKZeASRvD+D4Vartf/SQvcpPf9+/6x7x/77z+/Pv9+7j9/vH6755QFY1OIWiqlrY3VxRrKGXqAgUvaC3LsTYra+WMvuLJIkQEIrU2Ik4uTTy7W1DZAAkjZICcxmnpZR+v5oIQynFIEYLS3KY8PkOe85NP1CY4dl9M4h3rZlAnSeDlaPBCEx6TdbELSNthQfTo/AQHksm3b+Xozc5nL6kL5DwRF7bwv1aeW2lrOX541AHbd7e09tUWMzqfFuIgEGDkoOdqQbcqhnFK7tPUrICEMQDL2cr+rySGXQlvBEAGMDbGtPjUTUiinWNcnOJAewJrx+vbOuUQukQ1ICHZU29mn5mKd5uRzjWWpyw3wcKAAqZS2bX2HfFDYscdJSrlUo4s2FDMnn8qcT7Fe/gEbbB6fT8lcoAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/34.png",
+    "width": 1920
+  }
+}

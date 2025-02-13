@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "J'arrive. C'était l'époque où mon ex m'avait quitté.",
+    "end": 19,
+    "index": 8,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=18s"
+  },
+  "thumbnail": {
+    "hash": "18ef60387b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nBXN227SYAAA4D9j0AKhnIawghsWSk+MYcFR1kILQ2y7A6UV6tgWumLLOhkhJtOpF4tGY+KdiYkv4N7EBzN+L/CBdZ8vsO6H/AEAQJNrWdP5+Zk9d1Yvh5MTSVSElj44vZzeTCZz03RfmR6AA1AQgoMQ7Ftb64i917Nra+rO7JuROvgxd01uV3padZ13y8X9YnHvuh8A5PeHIAgO/B/4/bY1dc5Pp47teYax0jSNZQ55bnX7ZXxlK0dKAy+DRDwVjyWRSAyCg/vPuEvL9d5+/uh4swPJ6ohtPK/IzyeeRcvUJhrGUxvAHJ5pqnHcHwz6R4vb79a3P/bdr0+2TWdSSqXcpYtVXhaMMSWXs0SGLRVAa0/g2XoFxysMe/37b3V0px7qS0Oj0HQuEnyc29qk98pdY0ugMCa7k0FBNoNto8V0NFkg6+r7h6JgXGhDqdmuE2SJqiEbaBqjqI7eUfRjXpbIOkDCSDKWjIWjRaKmL3++UEdmV6TEMdkebe9K0WQ6kcPo3rjfuzC4UaNUA5FQJBJCglCYxoiv86s3wxOeIfJMA2MPkFgihMRJDFeazQbB7DypFh7l/wGazmPQ/+R/QAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/08.png",
+    "width": 1920
+  }
+}

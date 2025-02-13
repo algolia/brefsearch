@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "J'ai dit: Désolé, je retourne.",
+    "end": 84,
+    "index": 32,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=82s"
+  },
+  "thumbnail": {
+    "hash": "db35ee5e2b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeUlEQVR4nEXNTW/TMACA4TUfTWK3jut82LHbLOkW4nZx02ZbuiVT6WAtF6QiNA7AAXHYgWlCQtokhPjxaDCx+/vo3fte53ft+NtF/nGZ3azVzXa5O5HNi3i7kFfV5FyOJ4LtM26ZjtYxtI6x93CuPs+Ht6vp/dv694fLT1cvN+rwukwvZNLMps2sWB5J5oWmbmnaX/D1dPKlmf58v/5x/XqlsowFlQh/bSrFSNBHCaXHMvddz9C7umY+goVM16eqLrI8EZyg0O4W4aDdp9AwiGVRCPjAxz38DMQAjXCfYxfZTsHDV3n8To17hkkc24cAO4BiggB6BphQFkarbLSRcSuzXIxyGqrIq4YhMC0P9oQXIIB0zXwCAxIQLygE3c7y3Vk1GR9ExN8VSUpQr2tHLo6pcCH+Vz8CCBHnw4Waz8vjtj6ry/Io8ktKXNvuWxbDeBhECLiG3n0CHgCC8YPkMI3TN+vLTdsYHd3UTQrhScQWnDPsORb8f/gDUFcx63mT3bIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/32.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Ma mère m'avait dit: Va là-haut faire un dessin.",
+    "end": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=3s"
+  },
+  "thumbnail": {
+    "hash": "5ceba75c41",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADsuLD0wMEU6N0M3N0U5O0g9P1JJTWxmZ4OBhpaVm7W2uVpOTUAsLBYQEQsKCwkHCABCNjZOPzxcREJ+aWCdl4S6u7rQ1dra4enp8Pfw9Pf0+Pumnpw5KigGBAUJBwgKCAkASkFCbFJOZD47n4Zv0cuw2dnY1dre19zh3N/j4ODi4uTk3djbSTo4AAAABQQFBgUFAFlPUGJJRnBNR5Z8cMXAt9HQ09DR1dbW2tbV2djX2N/g4uzu8od2dwgCAgIBAgQDAwBfWV1jU1RxUEqQdnO5trXMy83LysvT0tPIxce/vb3V1tff3+Wyp6saDw8KBgcCAwMAdGFadl9YgWFajXRum5WUubKwvrq4xsXFxcPCycTF0dDR2NnaqZuZMR4bMhwbCgUEAF5BNVI0JkwrJ2M/PpSMj7arqr61tMTBv7u5tbWxsZyWlpmRkFlGSTMeGjYcGRwLCgBMPTplW2I6FxhFEhRpVFWmoqCRiYeHenV6bm1sYmhiVl53Z2RZUFUVDQ0vGxkqFBMAUEREiomaLxocMgsLQxkWPS8pDwcGPy0nYlFSUURHV0xRTkBBHRkZBgUIEwsKHQ8NP3e6yuJsg8cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/01.png",
+    "width": 1920
+  }
+}

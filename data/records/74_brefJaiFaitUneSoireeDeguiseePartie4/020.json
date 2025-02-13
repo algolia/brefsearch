@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "name": "J'ai fait une soirée déguisée (partie 4).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4"
+  },
+  "line": {
+    "content": "La gueule que vous faites, c'est marrant.",
+    "end": 24,
+    "index": 7,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=20s"
+  },
+  "thumbnail": {
+    "hash": "4cfd948f80",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nAXB32+TQAAAYGLLjzvu4IC7gx4UCkcFCm2po1slm0pXY5tMt6rVqPFpifHB///Z71Nk3HPWVXJ3vzu3ZX988/VyfP5++vvj+PNDt79r31/uHoYkpsCss8W22ChV9ftm9xzzaLj51Ze70/rwcP14vn36sx/6MKnDvM+bFQ9byuq0fp1VytCdPh+/5dF6256HvPgosj4qPrXrf/vV1SSeu8FGLsOgvPXou2xRcqFcumuZzKnF17JtkryfxDsh38pZL6eLSSo9UYTzrcguwv/ikMYiSssYgng0Un3ChENXjtO6rA1n3PSmxI9szoGVM9nFzQHj+zhTMttGAI1ejMukME1PqMYpzV7Fc6whAiwGCTXJxp9mLFsAvHKpQiE2NAB0UIpZQEVM/cOyqYIIqpAAzKBtG1ZN3Cvm1iZKAVI8iFXVgBooozSfLQWLpR9y5EANWgZygIU0FGKvcNhEhxGmCtQB0uF4pAWOH9AkcKPE46aO9LGBdYR101ShDUlBxUuHc9v/D4H6NzMeTaRcAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/74_brefJaiFaitUneSoireeDeguiseePartie4/07.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Dans la salle d'attente, j'ai essayé de deviner qui pouvait avoir le sida.",
+    "end": 18,
+    "index": 6,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=14s"
+  },
+  "thumbnail": {
+    "hash": "644814ee4b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALeIP76PRLmopseMLK2FLpqijrWSOdmqZ9K5p9KPEsajbsCifMd8A6uRg7J8Rmw4AACihWCgglukiWapgUKZgVSKmJ+ilnK2k2K2mXe2k2G3l2uykGGqgUOtiFidcz9MKhgAdHSSVUpXXlVmc3aXc3aSc2FncWBphYaecGt6TkZRhYOWdnOHVVFjoJmdaWt4OA8hAG1wjlZPYkpEU19ifXV1j1pUaVlUZn5+lWZcbmBGTXNwiHZsd1A9PWNnel9XYlUSGQBcYHt/hpdBSF1XLzleQlVAS2xETWlhOkxBLEJMQlFaP1FcTFIkKzYkLDhIMzVcDhkATlRh59bRhYKKRCEpSDI3Qy02SzdASygxNRkoJiIuLSgyGiArFh8rGSEqNx4gWgoYAG5dWI9qaYlhXX5UTYFbUV4UGmEYI1MzOjglLywiLQ4ZJRAVIiMmLx0iKSMKFVcHGACLbl2DZ2SJaGeLb3WchYaSeG+MblpNPDkiJTEWJDAVCxoeEx8cIisQFRwrBRJVBxgAfF9Jh2lTiW1YjXRmj3drjHFgknFYODEyGRcjRg8YVg4aQwkVKRUfERceNAcTTgcWjzeYBhEMCoQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/06.png",
+    "width": 1920
+  }
+}

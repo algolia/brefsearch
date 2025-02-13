@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Sur Internet, je clique sur des pubs gagnées 3 000 €\npar mois en restant chez vous.",
+    "end": 92,
+    "index": 32,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=90s"
+  },
+  "thumbnail": {
+    "hash": "777558f924",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHd+nHd9lnl/mIGIooiPqY6Vr5GYtJKat5ahvpONoJ+Bhq6Ol3NYXR0WHG5ziY6XtAB8hKN9hJ6Ah6CHj6qNlK6TmrSYn7qcpsKksM2gk6KhhI2ego5wVFg6JiiIhZicqccAeH+cd3yVeH2Vgomkjpaxk5u1maG8oarFrrzajImaf2FodV5okHJ2i2NkiX6Pi5mzACEiKyAiKiAhKSYpN3J4kJuivpymwaKsyK6826GgtZBveKWJlZd7go54fJN+iE5LWAAUFRwVFhsaGR4NCw9JS1mhq8ejrcirttKotdJnaXlyT1ONa3FPR1I1PEx0ZG5YTlgAIB8jIR8iJSEkHBodJigxlJ+4rrrVoazHTFNlNTlFVUdLQzM0Ki45MjZFKCo2NDlHACkpMCclKSckKCIiJhUXIHuDl6+71j9EUxQXICgqNhQWHA4OES8yQCktOSIlMC0yQAA5P1YzN0knJisnJiwbHitESFZBRlQRFB0PEhoWGSMjJjUbHSkrLzwvM0EhIy4sMT4ANDdIQEhlKCkyKSkvJyw7Hx8qHxwjEBQeKCw2MzdEHiIxGRohLDE+LzRCKi05Jik1VUehSaB1VcgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/32.png",
+    "width": 1920
+  }
+}

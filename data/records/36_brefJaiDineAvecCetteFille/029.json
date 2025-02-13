@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "J'avais Je suis mes parents.",
+    "end": 30,
+    "index": 12,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=29s"
+  },
+  "thumbnail": {
+    "hash": "81a40ebbbd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nAXBWY+TQAAAYF7KwsxwDAMMw1nKtZRybg9Ku660iW5a3SPVmKgx8cF9W5988T/5I/0+LjLNx31/bIr3N8VYRqd18dBXvw7NsLKLBY4TyQ3Q29brfEaAAPkJt3DYp7vhaejOq/J5Vz3s0q/L9N+3d5c+zCqUpkqZ6Zd1WlqYyRDwV9zcY4ooNoF92dYft92xK37vyz+35dAaTWXMpvi0DH9skpphHQJJELh5EGSKfDtzD9UwdzcZy8eQ7QInTfR6QWahMlTWmNBUVwmEWBQ5QyVf9qvLsGJKklhtTPOWURMRiv08JtFUa1PzmLoF1UwJGghwIi98HofTpteghxENzSLQIxuHLokqm8aW9qHL/573vW8yGWpQ5FQkLUM/dzMNOTIgVPFMZapCZshO5/iZS+6LsNLVBCNbRooocioEjc8UgThaVnmhp+LXcXxzvVCA8XO9vC+jBCMXAgZEyPOA57li6j8NTR1HHaUby3i5617q/HydlNHs9bD9fpPPsORAoAlX/GSCAPwPKjw9ZVzGPqEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/12.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Pas mal, mais ce n'était pas mon meilleur score.",
+    "end": 65,
+    "index": 27,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=64s"
+  },
+  "thumbnail": {
+    "hash": "3567e8c199",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBfVPScAAA4B+gTNngTgbhG2Jwjs2DDQuSZBu6Fxpvw42xDeVVUaNORAPTAzs6664z1PqnvkAftOcBYdhNef1EKEpFYsTaKrm+1tOKV1WtX9XHx83Jaeusor5cXSEwnEsLiygK4uR2IIgj6LLKsrVdOpdMfOseqcwOR0bOZamTF98Q+PryUipJK6XKkscDvD6/C3bZ55wsFbsxlLrE/bzs3p21b5q135cfhjXzpKxuRUmByxiVw2AgANzuF/C8A4LmV7yLrXdcPcNMjmvPV72nfnf6sfP8qX/3/pSholkxe2A2whsYWFjwOhGXfWYWmp3b2QzLya3hYfnrSXNcN8/3C0dZsSEJPObX+L2q0cQ3MOBwOBHYOQMsEATTrxM0ETR5um+UOhLXTjPa24SYoPKpeEuRTb1ORqLAbrfbrFYP6otvc2lBY2IxJoKZfGpgyN0cb3LMblrU5Hzb0Mr7Oo7hwGqzWS0WfPPV7f2f+4e/k+m/69Fj//rHYPT4+cuv4Xh6O3n6ProoqU2Rz/lQDwAAIDASChGsqBfKHaU+KOo9paALrJROZUgySe+pWf2ClRp05iBOF/8DpAVvMcbGefIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Jamais, jamais, jamais, jamais, jamais,Jamais, jamais,\njamais, jamais, jamais, jamais. J'ai appuyé cinq fois sur Ajouter.",
+    "end": 37,
+    "index": 13,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=26s"
+  },
+  "thumbnail": {
+    "hash": "ffeb1d931b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBTW/SYAAA4F6NcVtmWCAZ0PX7fdtSWigtLRSKLazvGEHYBlvHIDWgYIRl06HzMBfUxSw7OA4z3k2cxnj07tGTP8Af4/NgeUM2NdbKwLzKrNuSniRsS0CbfDIRAWyobACDi/FkVBWBk9M79SIGqYguk6ZC6jxhSlQK4HhkGfIRT2UCW+og5dyviQxeMtLz97PjvoOJLMkzhAJJgVmDNA5pPLS0gIcXP08HviujIvfn17fr2WmCXr188/rs2Mcgy7A0IfE0ZEnAUYBdW7p3NxkP/f3y0c6rjs78vv304eSZSERrpXR/x8PIWIyIR3lAJQQ2KUKeI1aWFzIC+H4101JitSj/vLl4FdSyPIVMEeWSmAw5RQBWNlUtF11LrRQ1VaIO9ntP9nzI4XlN+Drv3N40CmbC1fiarWJHg+7F6WTU3T7sH7w7Gb59Mew2H/Ta7Z16Kx5fCd+/kxAlhKppgV6NLAIijPl19LTX3m14wX7z8PHepN8aBlvXz4PRQ9fICFYGaKqxgZpuTlkvZY9Gj7CClnb0tFfQW5vlLVSqe875OPj342o+bjc2Kn4DeW7FNJzpeDCbTi7PXv4HxeN1RCV+uvYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/13.png",
+    "width": 1920
+  }
+}

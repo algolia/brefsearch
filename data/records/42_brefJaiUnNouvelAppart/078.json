@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Qu'est-ce qui se passe ? J'ai bien rien fait d'ici.",
+    "end": 79,
+    "index": 27,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=78s"
+  },
+  "thumbnail": {
+    "hash": "e0d4a855a8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBW2/SUAAA4D4Ys+i2uA3MANFUoK2ldJSWAqX0UEqhl7PDpWytrICAGmsYDIxzictioi7GGDOfTHwyJu5J41/0+7BaIjKo5qHIMrthInSnmMJPXBS0m1NkjqH5BFpWqVCiqbogAPaRVcxifS7xXMtrXIYIbwvxEI/Hl15rfmAfPz5cDn3fNkEyKsS2RDrdkgstmceOdXEKuHJ0R8cjTjZZeBg7cVszx1qN/PMg0Pm9Nh3T8BBPkkfNmqdJ2NIqebkUvLt2yKZWbUWn7s3d9syxzp5NJmg/un4rH9lSiQeeaYxgY2QCbGZVXI5sxzaGfPK0V2myycBBCxe9mY4Vmtq5eeP+5u0KRXZV1auDkQGw7287CzNvhtYGHPmule8XiaGpvfZ7Y7QvJFKp8HZ8c10iaSWdsQq5gQGwnx/M35f2xUHaL2de1oWRTLuqdDbuQ0kSCErLckw0AjJ7hliUadqplrBvp7Vfl9bfq871R+Prov4Cin6j+srvIVnqABXJVYlikAImjiOnmUaOwc6fil9W4MdF4/oT/HeF/ny23wfdudc7AoVuRdGFEmA5u1zpQ6hybJ3G/wPaxnTdd8HKDwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/27.png",
+    "width": 1920
+  }
+}

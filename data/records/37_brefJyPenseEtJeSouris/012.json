@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Il devient très riche.",
+    "end": 13,
+    "index": 3,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=12s"
+  },
+  "thumbnail": {
+    "hash": "8b51dbe5b1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADQtJy4nIzIrJjw0LyUfHTMsKVVNSFxWUWdgW2JbVEE7OBQRECchHyQdGicfHTMrKAA7NjA0Lyo4Mi5OSEU6NDEgGxkfGxkYExIaFhQbFxYXExETDg1AOjdPSURJRD44NTAARj84S0M8Y1pUpZ2VdG5pZ2FeGRYUCggGCwkHEA4MKyYkIRwaiIB5nZSJg3lvb2ZdABoVFCkjIFhRTJ+YkWliXz44NTQuLA8LCh8bGS0oJSklIh8aGJKMhpyWjX92bSAbGQBAODJKQTxyamSYkIpoYl5FQD0gGxkMBwYrJSRpY19PSUYaFRSYkYuqo5pya2MRDQsAS0I7U0pDaWBajoeBbWdjSUNBFBAOCwcGEQ0LPjc0dW5qSUNAlY6Ih4B5GxcVEw8NAE9FPlFGQFpRS4yDfHBpZV1XVEtFQVdSTUdCPxoVFC4pJkxFQ2RdWSIdGw0KCBANCwAwKiYvKCQxKyhKQz88NzM+ODVBOzlHQT8+NzYXEhEKBgUUDw4iHhwKCAYODAsMCgkALCUhJSAdHRgWHhgXEg4NAgEBBQICMy4sW1VRa2VgSEE+EAwNCAcIExAQGRYUEQ4NdaRhmzh+Re4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Je me suis dit qu'un truc, ça faisait trop faux.",
+    "end": 54,
+    "index": 27,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=52s"
+  },
+  "thumbnail": {
+    "hash": "a28aba168c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nCXR6VqiUAAAUN7/BZyRvlEh8RKbFxBxQWQxv3GUQb0gEDWNFcaiQPYA/ei8wsGaDZwiezKUTd1yVg7aegEKIj+K/OiwPyAXrX9vTN2S4aB3C5oNHGMAa+rWwyE+Pr2cjsklvdTn6lpe63P9WX2WRXlJL6/Pr3H4aBsLBrCYPp13iS4L7hbLtWKvNXVkzs3ZRDNmxng4Xi1XE3VizAxAARkO7q0ltlk5fa7f/PETx3/RnChDEVA9sk1o46nACVDo3zTxXrenT3Xk7pGLsACFZIeEfJ9nOAbQsihJUAIUEPuirs3G6ohneUCB5CWpi8rb+ViAAkVS1IEKBdhptVs3LaJNjJQRA+4kKPIMpw7UgSh7Oy97S93NFjN1i+zcigJkaIZod+y5nZ2yj3NdFuW1+iiLS1WU1blM395DL5xrBsbS3HSsuWs38qP/j89ZkuanvHjPizTPT1mWpMkxeXr4t/+LjJnJ0hzWbOCgSyvScGHeu2vX23qRH8VhHAdx5EfeznP+OPbcVqTh98MXThZLQgMqXsUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/27.png",
+    "width": 1920
+  }
+}

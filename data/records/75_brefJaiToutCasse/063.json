@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "You're such an asshole.",
+    "end": 67,
+    "index": 25,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=63s"
+  },
+  "thumbnail": {
+    "hash": "38d124e584",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nGNgYGBkZGRgYmJgYmRgZgIhJiZGZiYQYGVlYWZmZmRiBnPByhgZGFyNtVXUbBhFXVnEXZmFbJkELBh4DMUEZZw0FQJMdAPMtMWkLdgUE3jU08T18nk1MxlyA93y4pKFFQMYpOM4lVJFDWo5lbOVlZ3DTLRy3e0nxHt7O8RwaNaLmXZKuqwWcVjEkOJpN6GiyMfFj1XMS0LBw1jdVEA1U1vLO9xYI9PBvD7UxUjXS0CzUsq0XdF+qrJtP0OsvWFfWUFjUZmOWZqQqL4oB7OUnKOCuKKtomSwvma6q5WVrr6KQbqu2zxj35UmvssYwi2065OjeyrLbR0TuVm5xTlZBLjFOdh4XMxMTRRly2JC0sJDeDl5pMTl1fUCEzLXMoRZ6hSG+dYmR7o6Rwtxi/Kxs/Hx8okIiUYGBITaWpaFB2bHRPFz8gjz8glysUVH1DJYqcp4W5n5Wpsa6VsJC4ixM7MIC4tISkoqKSqaqKn4mRtb6OtysLAJcPNyc3DwixqCYoERFMagkEYEOBiAxEDxAAKQmGFkZAQA0i5JsQB8UxEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/25.png",
+    "width": 1920
+  }
+}

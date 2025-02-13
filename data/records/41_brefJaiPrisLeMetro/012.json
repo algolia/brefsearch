@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "En gros, c'est comme 215 kilomètres de chiottes en dessous de Paris.",
+    "end": 14,
+    "index": 4,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=12s"
+  },
+  "thumbnail": {
+    "hash": "dad2b04768",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANjS125kZaqipKWfoVRKS9rT1Y6DhB0MCa2goe7p8OHa4NjS18S9wuXf5N7Y3d/Z3gDf2t9lTkZwXWB9eY1DNDKYi5pKPD84IxxcTku3sLTq4+nW0NXDvMDj3eLd19ve2N0AoJqeOC4vMyktHRYeRDo/UEJIMCMjQjo5Ixwbhn5/7Obs1c7TwLm86ePo5+Ln3tjdAE9JTDYwNSolKAsGBlBHSExCQEw+PGlOR0E1Mm1kZOLb4NTM0cW9wLaus2phZVRLSwBFPj87MzYmICMRDA5WTU63rrFOREMoHRswJSNZTk7g19zXz9PJxcepm5orFhE5IRkAo5iYPTIzMykqJR0dWE9PWlFSGhUWNS4tPjQymJCR0cvOtaqrrJmZpJOSKB8eIBYWAIqDhRsVFyokJUQ9PkM7O1JISB0XGCkgIEA2NYR7fK+pq4Fyc108OU42NCEdIBQOEABaVFZBPD5bVFc+NzlMRERkW10VEBIsJiggGhyclZedlZg1MTYUEBNRTFB3cnhua3EAXVZYgnt+iIGEQzs9WlBQPDU1SEFEe3R2R0FB7ufp0crNSUZLJiImi4iOs7G6lpSeVGa6qcR+A7AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/04.png",
+    "width": 1920
+  }
+}

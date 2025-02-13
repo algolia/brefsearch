@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Je crois qu'ils ont pas tort parce que j'ai un pote qui a eu\nun enfant, un pote qui est devenu médecin et un pote qui est parti du jour",
+    "end": 10,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=5s"
+  },
+  "thumbnail": {
+    "hash": "06fbd01eb5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBTU/TYAAA4F5Eka2u7ba29ONt17efL127vvvqDO02WQcqIhMWWGTOoUSjMHXGKJJ42cUDIdyMB6MxHiTGg0f/gf/K5yEUmnQXacTTgEpHGrdeBDUlzy1cEcmr7MI8pNKYp0OBCYVsKZ/BAkMAKq1nSTmTIufmmgWuX9U9nhr48FEdVSWWvnzpSexNO6WbIBvLuUjOESZLYSkHafJ6gRstO1sVuKIwYwyH2HrRwpilj/d6v97tnyxb9wDT4a8RAWAjU3TymU2sjWM0uVV7P+g+bVgvm3gS+d2CcPbq8Y+Tg+OdeNcVe2KGSFy4ghSTIRNHmm6En96O/v358vHh7W3I3Q+MNpR+zp5/Hq02tcWeq/axStzB9lpRb1vyuO2fH/UvTqd/v599m03262ZT4XbL9tfXe7/fDJ516odJddyyiciQO0vaRtk8XA9nB5vDtahbC8oQDEtgZ0l+UHHuVv1hEn3oJ0erle2GQSCeqWtCbCtbIeo1PE9VPUWxRLGiijdsPUYoMF1HtR2ge0AOOJrgUvMwSwWA7/p6y9UbjoUNs6QbjqIVDeQbrgcdH9pINaGkKqnUf/QhXj9xlMhLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/02.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "De quoi ? Non, rien, j'aime, j'aime, j'aime.",
+    "end": 98,
+    "index": 40,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=95s"
+  },
+  "thumbnail": {
+    "hash": "24d96c178c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdoYIFxaIx6cZWCd5uGe52KgI14bKFuW2xDNGtYTpSCeop5cINza3lrY2teWV9TTgCJeHCWhHuejIKjkIWlkYaejYOXd2mrdWN2RjdWQDeThHuSgXiNfnSIeXF8bmhvYFwAmoh/o5GIp5WKp5WKp5WKo5GGtoh3mWNTVS8mZExEmoyDlIZ8kYJ5jn93hnhxe21oAKeVja2bkq2akauZj6mXjKOUi6d/cIFOQ1kyKYt0a5yLgJSDeJGAd4+BeIt9doN1cAC8rqa/sqm5qqCwn5asmo++pZaxiHVeNi5QNCt1XFA9KB1CMCZBKyBuWk6RhX+HeXQA0svG18/Hyb+2zbOi0aWN1qaPzpuFcUg7YTwwZkA0Y0A0RjIpKhgPX0g6gHJrgnVwANbQy+Xf2dbMw+K+p8uYfryLdqR1Z45gVIlfUnJOQoRaSm1MQBQKCkY1LXJjWnZpZACAcmy8t7PZyLzQooycbFi9j3uSZ1hzTUKhdWaPZlh4UUJ4VEgTCgotIR5nWVNsYFwAQSwoSzk5jGxfsHliZD0wi19SbktAVTgvkGZack9FakY7g1xPGxAOFxAPT0RAXlRPq5vGCK1Fzv0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/40.png",
+    "width": 1920
+  }
+}

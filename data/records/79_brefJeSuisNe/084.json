@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Hé, les mecs, il y a quelqu'un ?",
+    "end": 87,
+    "index": 47,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=84s"
+  },
+  "thumbnail": {
+    "hash": "608871da1f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAo0lEQVR4nIXR0Q6DIAyFYUtBNGEm1VKaCur7P+USvXGJ2777v+eiXffJOedvAKD7DRFDCK9TjNF7/ycAACKqta7ramYppV+3h2FIKalqKSXnXGtl5q8j3nsiyjmLCDOb2bVDRF+DZVn0JCKlFDNT1Xmen0dCCOM4Xg0zq6qdpmlCxOeRGKOItNZUtbV2HMe+79u2pZT6vn/OAAAR3Q2enHPXT96CvwzxHl52qAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/47.png",
+    "width": 1920
+  }
+}

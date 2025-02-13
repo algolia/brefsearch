@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai payé, j'ai pris mes courses, je suis sorti, j'avais pas pris de déo.",
+    "end": 65,
+    "index": 28,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=63s"
+  },
+  "thumbnail": {
+    "hash": "484bd42537",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIFqXG5eTn10cJ2CgnZaXbmvs9/g8qqbqbyhlnhkZpeKha2ld46EYpSJfq6omqihlwCUg3OWjYWin5uwrZWcjn+8srDn6fDGnojpyLRyW1ZiT1W5spCem2SvppbBvK+vp5sApY6FiX1/koyIzMizyr6u2tHN5Obrqn1ssot7qox9roWBwraSs7J7o594g4NchnlkAFpFQHJLQaqPiObi4MO8tsPAueXq87CQkbeHc9KtlsSpn93UwJmPcIuAYb24kJuKdQAOFSh/VUzKpJu1t8KilpKVj5Hr8fm6rraXZlmAXlKzn5GslqSNeYKmpYm8s5WXjH0ARTc/UUZcWlFwamZ7iX10fHV86ejvyLe9TzpBVDo2vZuMRjNTYVFz17i1xaSdu7GnAG9GOUZBVUhIaJV0bqWUiI+KibyyuFQ/TxwULm1OT2lNViQXOTAoRX85QKVRVLGMiwBBKyxBMztFOUd4XVqPbmhfSktAODwzMD8mHDQhFjEnGDo3JEUxK0I5JDaSRUmTP0EADxEhGR01YV5xpZ2gp3h4oUE3klNIOjdIJhg0HRUtLBw7MyFCMCo9GRQqXRogcRMYmoLSOLGn9c8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/28.png",
+    "width": 1920
+  }
+}

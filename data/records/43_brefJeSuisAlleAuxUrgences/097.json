@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Ça faisait effet. Il m'a demandé d'ouvrir la bouche.",
+    "end": 99,
+    "index": 46,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=97s"
+  },
+  "thumbnail": {
+    "hash": "c24f09553e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABIQExUSFiAbHWludpejsZmlspSeqZaIhaWUkZiFgm5dWB4cIQsTKQsULwwWMA0XMgAREBMVEhUpJiiTnKeotMGptcKcp7JtXVp6ZWFVR0htXls7MDEuOVYlRHIoQ20mQWkAExAUFhMWMy0uoqixrLfCqrXApK64eWllh29seGZlhnd1aVJORVFyGkV8JUh3IEJvABANERYUFjAmJpyfpq23waiwuq62wJWFgXRaVpN7dXVgWVxQUR9EcENmkR1CbzxafQAODBATDhBIRkmxvsi1w866yNOcqbRaUVJTNjVeSUNaSUEsJCUOGzFbcpJWc5lddpQAJhkbMB0cZWNntcbSf4uWXGRuHB8oIBwcXEVDQjMvNCooRj42DAsMBwkRRkxVbneCAEEoKEo1M3pzdoybqRAUHQEBBwMDDDQ8KkI/MycdHDsxL1NZQio0JgcGEAMDChIUHABCKixJNzd0c3hga3gMDxgREhoNDxc+SDBNVjY5Oig/RzBNXz0rNSgLDRcSFBsSFR4ANyYoPC4uZmhvNTxHDxAYFRggDQ8XMTgmVWM+UmE/TV09UmNCIykgCAkSFBYeERMa6nODAzlIf+QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/46.png",
+    "width": 1920
+  }
+}

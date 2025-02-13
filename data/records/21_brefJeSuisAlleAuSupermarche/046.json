@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai voulu jeter mon caddie en criant.",
+    "end": 48,
+    "index": 22,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=46s"
+  },
+  "thumbnail": {
+    "hash": "b64cbdee29",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJCCiaSUl6WalLero7isqLy0rnxrZGNRT5ONlaihpLStqJ2QipqUkJKMi4R/h3JxgQCSiJG4s8Kdk5KvpqfDwszCvsGZdmOPY0+UiIinmo6kjnCJgUSAflt0cGiXk5WRjJkAj4ufoaG3sKCVuLGyvLW4nZOYnXJgg1hNtqu30MbHxLm4zM2kybqivLG9ubfHrai6AKGan8W5r7uzqbqwsnlicSIhPko3QDElLRobL4Bsdr27xdHT58DF1tTQ1cnFyrSvuQCLf3uCd3SDdWiNVVE9IjklKUYWFDYRFDELFC89KDfKvcPR1uTEw8/Rv73VzMvOydEAloyJlI6NlYyFezY5NhgpKy9KHxs8HRs7Gh87PBEfkG12xsjN0MbEx76usKuwupyTALivrsnCvtTKxm8xNyEOGycqQxcYNhMXMxQbNTIOG41kbYmTo7KtscPCvKyZlqp4YQConZ20rq3AtbR4JS4tFyEgJjwRFDEPFTEPGzQ0BBSebHXLz9bBrqSrnZqnmp6ki4kAnJGRpZyetKutf0FLNx0rFBowDg8tDRAtChEqPyk6iGyAs6/Dsqmtn5KQioF4iYODSdraO5wpVIUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/22.png",
+    "width": 1920
+  }
+}

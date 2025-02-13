@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Il y avait tous mes potes autour. J'étais face à mon double.",
+    "end": 120,
+    "index": 43,
+    "start": 119,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=119s"
+  },
+  "thumbnail": {
+    "hash": "939598abb2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nB3LzWvTUAAA8Fxt895L8t5L+vLdNV9NmjRpbW1S0nayFVkHE5lueNAMFAQPBVFQL14GCkMU3NxkMAURHYp49n/w5D8k7nf/caheUyAguKaHNRxBvSfTVOpkJM6IkklairUYUv8SIZAhHtV5TuR5FfEGBrYmeo6apf4oaQ1jez7wp33fdXTbYr4tahIwJUgg5AgALhUYltsG67n+1dX5o63F25vlwZ2Ne5uLWZCN21GrodsSalFIEeIIBC0qGjLzC1zkg+tV9fHprfMqf3O7yOL+IulOZ/O00/EaiicLFwGAtoq7TSvtFoO8vPuw+vz6+c/TZy+Wu6zpPXmwE/WL9fF4GIYOgTISOIpAu4HHVrCWJtc21rar+2eHh3/+/j46edUMovNvR3uL2XoS+qblygLDF8GRpcueN+04j5d7J8cvv3w6+PXj+PvXd6fv988+7C+3b2x6ZWCqDhXV/wHyK1RwDT1esXpJOMl7k3xQjq5M8tFqmRfDLI26oZt5GrMwkhHkBL6uioARasiKpSiOygJDD00zNA3f0B1VtRnTFVUj1JQghuAfIPhUfvlCuewAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/43.png",
+    "width": 1920
+  }
+}

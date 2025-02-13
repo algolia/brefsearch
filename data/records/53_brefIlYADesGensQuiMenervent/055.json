@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "On va bien faire.",
+    "end": 56,
+    "index": 24,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=55s"
+  },
+  "thumbnail": {
+    "hash": "3db7f5d201",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nBXK0XOScAAA4N+iSSBMFDaGwA8RFBRFnLAp29F0Zsk52YR0Ls2tdZ6tq7PyWrura7341nNP/a9d3/MHZEhVi9BzDLsgd0tqyyke7GtuXXdspWJlioYk8+mMyOc0EcIdjksBliI4koAUWWbZWW1v1D4ZzAI/cKNZ8P7nt2G3ZfJyHOM70cvl+pc/HgJJIg1NPDqs3zTdTy1v4Ljj0+bt9flqtXj4vX54PTwv7ed2rbefl+u/fy7mV0DXGM+r9sLo8qnbNWudiv6qAZe98moxur//cHcZTit7DcXuBNGXH6v+KADv5ovwrC9wvMhKAjRKZXPiGYuONp+erj7eXDxv1qF8bB1COltQ86Zlgruv32vVo604nWRgilV4uXTdNhcnyjR6djs9s3lBTTEvSsbE8dSkgCM4GPT77LaIYRQRp5ndHFkInGL2TVsf+gdXvmWl02pyu8IJNi9naCmG4GAS9iQxu/mYwFAKxZh0zu3ZZtgojD29kZelBJ1J0EJiZwslcQRHH2FgEvq6mt8AaGyTRJB4hmHCSvW4qNmKQuPJJEpweCIVI7D/+0lsI/YP/QZWbeXgw4QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/24.png",
+    "width": 1920
+  }
+}

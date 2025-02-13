@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "On commençait sérieusement à avoir la dalle.",
+    "end": 5,
+    "index": 3,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=4s"
+  },
+  "thumbnail": {
+    "hash": "317a98b92c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nBXOzW7SAAAA4L6I0UBZQcpPoYX+wEqhUEuB/gFpy9axtQQGpbXUbkbJYNLhxUyX6Izx5NGbB7142FPsgYzfE3xA4emzSgKiIagBgXzqQCNLCpIZZlNWGTlCcxaOLSqUTeDHGNqDYS5xAKBPYpUYRMeTch4xS0WLQG2iuKTxVwyxPMR9jglesFOKMEtYv4AK6SxAQ/kuWh0QjE0zHlt3yJJDkyFXv5uO72ZnkalFmhpwTataHWJlAc4D9VTBoPl5W7nodLaqdD2Q98bgqzd7fPj9+PfXz/1VpPQ2iuSyLaNMiggGmM2uq+rbsXW7OL9fLe995+PU/jyf/Ply+/Dj2/fQv+4I667g1BgNxQW4CMhlZlTl5g3+dU+KdO1KUUK+/VZov1OkjaJGorgReL/ZsElSzhXa6RzQp1oG1ZrxYuS6n9ZvPoTB/ny61Yc7VdrI0o02uFTECUXqKCbAGT6bAyxRn8ijxfB4t1rd+P7Ocd6/9NZnpx7PebWqW6uc4JiBZHvJJBsHWTDxv6RSjTEvhaeTC/MkMPRLcxTow/Fh5QhFtHymn4ak5xAHxuqxeA1M/AMTUoxyNq0LxQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/03.png",
+    "width": 1920
+  }
+}

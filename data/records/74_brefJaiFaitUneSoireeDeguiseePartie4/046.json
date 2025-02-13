@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "name": "J'ai fait une soirée déguisée (partie 4).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4"
+  },
+  "line": {
+    "content": "Tu passes ta soirée dans la cuisine à faire des cacos d'olive ?",
+    "end": 48,
+    "index": 16,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=46s"
+  },
+  "thumbnail": {
+    "hash": "a47fa97d94",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nCXMbWvTQAAA4EDz1rskd7lcXi5Jk2tzaZImXZoWjWxrYWuZU9cxp26FISjsiyAIKn4T/O53f6+gP+B5JMZeUrIwgMvDshHrNKznabsT84IGLW/6cVWxUe6FzKIYoNj2pTi9J3Zr4zLyuzJOHOwUcfm2ftqxuOOzNhYRogQiBCxraPqWIyXpA2Nbxi5nfPdMiDxMi5Cfixl3gj5ftqPCN2xd0QcDVR6oqqxJE/FJZB+DaH9SnKxFVkfp8WR6npdPYr7kzYpX3HaRBlVFV2RNHqjSNLvNxodc3HXzD3dNdznmPRc3Vbmd1kdxLrw4tGwHGFAF8n9wffF1t/55uPnz7ur3Y396qKuzarFvV6d5k/spAsgBKDBt3yQYIE0ZSg+vv2/6b0f1m27Sft4cv++Wi5hT7C3GdeJGGCICMQE4QNSziKEb0v31Y0AzXdNHjvvjxfNf+1frvFRUyCij2M39xP13m0MLahBqUNptrmyTUEyJ5dyuVl+2Z5kfQmA5iDASCC+hhs0wRbph6gAD4y+7wzo2cMZpzwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/74_brefJaiFaitUneSoireeDeguiseePartie4/16.png",
+    "width": 1920
+  }
+}

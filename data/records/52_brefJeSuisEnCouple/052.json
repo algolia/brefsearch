@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Non, j'ai pas pris mon produit à l'entilles.",
+    "end": 56,
+    "index": 25,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=52s"
+  },
+  "thumbnail": {
+    "hash": "d48445d182",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABV0lEQVR4nC2LS2vcMBSFNb5XsnR19bKlsWPHHuI4hMlrkUI6DXQTQqGbdhUodNu/UOiiP76YBg5ncb7zCQSDqBGMkuStD9ZZw1pxV0ZLAUCxCaS9MUHXTiKJphmm+SgE1IqyD/M+F+b1+PDx6TmS+/z49Hp3c3+5nu3H6FqjSIRQSplgJ2tpsvdzbhpLy2G9GufT6fnP77/fvr/9+vGzlPPALdVWINQAqvchkZ1yWvoyRH89zet46Pvp9Only9e3D7cPw3hVfGhdEBINVLo4P6Z4luJxHpauFHbVTgkBrO2y75Z5jaHLMZeQNgHBGEXFh8RuGbqLfh+sQzASjaV4eXFzmK+rnXbc5iYLBEIghdSGhskl9uc5Rxe3vTK6DikNqRmZSy2ZKb4LCJaMd5wUskQr5dYIJNESZa2bWgVEB5UVUjLC/wdL6ZRym/CeDSF6AFcBAzpA9w/DOh25jYY6LwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/25.png",
+    "width": 1920
+  }
+}

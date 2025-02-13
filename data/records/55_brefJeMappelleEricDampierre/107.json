@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Bon courage.",
+    "end": 108,
+    "index": 53,
+    "start": 107,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=107s"
+  },
+  "thumbnail": {
+    "hash": "e3ad38e5f3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIiRmGRJWRIAAx8MElVPTFdTUE5HRVZPTFtVU3NxcXd1dHh2dYeIipCRlIKDhnt8fwCKjpdqR1kcAQokDhZiWFgqJigEBgs4NDVqYWB/fX6IhoaKiYiOj5Jxc3Z4eXyAg4UAnqWybkJWJQgRJxAZaVtaQzU3Dg0SIh4hZV1choKCjo2OlpaWh4iLGBsfR0VId3h6AKCirnFDWCcJEikRGWFWVlVCQ0g4OUEyME9EQVI8QGlAQomCg6Onq3t+gmdman5+gACUk55xQlcnCRInDhdcU1NcUFBmUlFMOTcQDRE3FhtEDA9tR0qRmKCdqrOPkpWQkpUAioaQazxQKAkSIgsUUEZGZ2JeXj09OBYZMiUrSR4jRBQYXicpgn6EZHJ7a3B0jpKWAHlye10vQSgKER4HEEA2N4qCelQzNEATFkUiJkUZHUgVGV4oK3lyclZTUSMaGi4qLQB5dX5PJDQhBQwZAgs0KSphV1M7Kyw2Gx4+DhJBFBdJFhpWJCd3dHRsaGIoHBgoJCUAZmFpQBgmGQEGEQAFIxobOjIwMiEkNiMoNwsPMQwPOQ8SMw8TZWFhUVNPHhgWKyYlGUqA2Q1AA60AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/53.png",
+    "width": 1920
+  }
+}

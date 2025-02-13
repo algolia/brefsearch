@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Il pleuvait. J'ai posé ma tête contre la vitre.",
+    "end": 74,
+    "index": 24,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=71s"
+  },
+  "thumbnail": {
+    "hash": "43ccae8a26",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC4qJy4rJyQgHhEODjEsKiIeHSgiITItLDk0MTg0MjMvLRoWFhoWFSomIyonIzEtKQBqYVdtY1leVU4yLSuTi4RgWlRmX1p/eHORioWUjIeakoxRS0dVT0laUktIQDpfVk4ARz44YVdPYVlTPzs4pJ2WZ2BbfnZxmJGKk4yGpZ6Zta6oYVpWaWNegXtzRT44Rj45ADkyLWNYUWRbVUtFQqihm2liXYR7dY+IgaGZkrSuqL64s2ZfXHFrZ5iRiWBZUVdPRwBEOzVeVE5cVVBOSUWknZhnYFuHf3iJgnt/d3Kxq6a/ubRmX1x0b2qVjoZWUEk+NzIASUA6VUtFWFBLT0lGnZeQZV5ZiYF6iYN8enNupp+avrexY11acm1ok4uDRz86RD03AEI5NE1DPlBHQkhCP42Gf15XUm5mYoiBe5qTjpyVkKminWBZVmNdWI+GfVVOR0dAOwBPRT9SSEFKQDs6NDJya2ROR0JkXVh+d3KLhH6PiIObk41RS0hGPztoXVZQR0BQR0AAKyYjKyUiJB4cGBQTLigmIBwbLykoPzk1R0A8RkA9RD88IR0cGxcWMCkmLiklNS8rYeuY8kI342cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/24.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Il est où ?",
+    "end": 18,
+    "index": 9,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=17s"
+  },
+  "thumbnail": {
+    "hash": "f6a8ae273f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFxRTm9iYYN0c7Glp9TO0MW5urWnqa2dnqaWl52NjZODgYx8e4NzcHhqZ3RmZXNmZgBtX1yGd3aXiIe+tLXe2dvRyczFur/As7e0pKWpmZqgkJCZiYiUhIGLfHmMfXyThYYAeGpnmoqKhnRtoZCHvbW1hXJso5CO1crNoYyTpZOWtqioo5STno+Ono+OqJmZsaWmAIFyb5qMip6Oir2trb2xsId0bZaUmKeiqbSipNLGyMS5ubaqqaWYloV6eZ2Tk7mvrwBwXlxvbGJ0dGfEtLjPxMGHhYpZbYNEQkesnJiznJiZhH+9s7O0qKU+NjIeGhhFPj0ASzkwXEtBY1ZMfG5slIiHOTk6Qz5BUxoIbktAiXJnalJKlYqLlImHMCklHxgXLycjAFZGPnNfVy8jHTEjHWpSSUA5NyoqKzUVDVY1KXNYTl1EPDksISkjHSEaGD0xL0g6OAA+Lig4KCIUDAgrJB6EZU61g19XQjRwSTJ1UDpnRTJXNydcNiBIKBY/Khk7LysgFxoAFw0JFQsHDQoJCgcEEw0HSjEcllwxpmI2WkAxMSknOygfcEg1ZD0pTSsYMSIcCAYF2m+2eYX+wDoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/09.png",
+    "width": 1920
+  }
+}

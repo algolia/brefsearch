@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Alors, je suis resté.",
+    "end": 95,
+    "index": 36,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=93s"
+  },
+  "thumbnail": {
+    "hash": "21b2ca3cda",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nC3L2U/acAAA4BrKiizRbOPS1XJ0kVpthXZCpVBppb8CPaCXgJVyroLOKcZlJNvDEpa97GV/8l72vX8QV2t5/uNwvDLtaavtqer1MYZnY6lDNIt/IG175riBIDpUUaLYxklRgsq8Mg3Wwd0PtT3omlPLnqViKZ5iBrJmXGqe93k2X6udOVftclWT5VSoXFGWj5vZ4rssGbY9d9wATaI8VVxYg4npjcfP9182vZuXRmskAr8q9qFSBdyvftdqhiKbsuw47uKcZCSG61Qv+0q317+9e9iMPv3UustmZwn0AGLOLp6+/gHNYU2wgey6V4v8AV46Or0BukCfRZAohhGT219mb2W4K8N9gkiq9Lz+O/RfeLZhmtMK34oir3OxFH/6MZNEt7ZCSHi7wIK6MhFkv66MoEOi4E2+ae1hs26Y5uwAy+/CCHgTV5Lv96K7IRhBwhE4hBzR4gkDyCKAMllCkKx0hlK1sa77+/vZxNuUTp/7SfR/eLUdhiNo+pigxTxdh97F99qdcZlrXAgdGbiZDEngBct6EHE6hkRDcGRnJ55I5DCMSuNsjuT/AU/PaWOFxMcnAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/36.png",
+    "width": 1920
+  }
+}

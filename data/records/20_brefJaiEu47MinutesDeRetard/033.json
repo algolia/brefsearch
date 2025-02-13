@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Il m'a dit: Tu vas t'embrouiller ou quoi ?",
+    "end": 34,
+    "index": 16,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=33s"
+  },
+  "thumbnail": {
+    "hash": "4a539df189",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABURDxEODCsfHGNJQ0k8N29zdTpTY1VHQHhPPolZSZheTJhfTptjV5FcUYJSREkvJwAVEA8TDQxvTER5U0hHPztxf4hMaHpcSkBVOzFgQjaVXkZxSTlxTUGKX1KQYFJoQTYAEQ0KLR0al2JXh2FTU0hCgI6YUWt+fVhGYkM2gFVIsXRjZ0I2QS0nVz01ZEQ5bEY5ABcRED4mIZNXTrGAcXlhUpCZolRofJZeSJ5gSrV6acCCdJJdTXhSRHZVSYZaTINTRAAoHxxUMy2SV02wgnSBZVSIk6FZa32YX0eeYU5vSkF/UEaiZli2d2iyc2Goa1qMVUYARDMuXDsziVRMpXtud2BSgZKkanWBj15HelJCWTwzd1NIpmtcqGhYlltKgU48bkc6AF1EPWpIQG9GPXlaToFrXYubq4KEhH5YRGhAO2QyNGVAOIZfT5ZcSYtWQ3ZNPUAvKgBoS0J9VktkRzxQPzR5Z16VnqKLioFzUT50Sz5lPDlyQz54UkSCVERrSjxPOTMxKCYAcU9EfVZLRzUuQDMqZFxWmZePgoN7V0Q7a0o7YEU6eFBBZkY4UTsyQDArLSQgOy4qSXuXEkwMdvQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Je suis le roi.",
+    "end": 68,
+    "index": 28,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=66s"
+  },
+  "thumbnail": {
+    "hash": "0368096a00",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXBbW+TQAAAYIytFgrl7bjjDrjyVnpQoMDatSvr2lmXoHtf1uk6TTQzWTRR980PfvCv+zzcOqwf9+qnYtjEqwl2G2rVxClUL6X1ZXW1ybZpsHEQu2VV/LLVftHmPh98/FqW58nifPnlfrZcmea0P5nYR+/Lh+ftvyZvEByzwZufs/ma55V2h6vDihr+0ptfxutdvniMw4vs5F3x4fvpn1/bv4fpBmkU0+PdaP9UFkeSzDmAQn10vddcT85uypNt6C/s7JCd3R0/FdGBJBlYJwhPV7T64VkXls1pShji8RGbl0G170VT22V4SMyMGJ6PI5+MQsIwihKc/x56n4I+p8iRi8fUZAMnTdyU9TOfFhAnGPpQtZCKHZ0QYJswv6Hut6HL9XpRT0k1beiYsWcljpUTq8JkjHAKgKtIQJcAUaCkhFMUPg9sThACXnC7AjJAZMIIwsxAuWEWABUGTBURd3mZF9Sgq92J0oOqcJ2WSkWrxxtdyZNlX1aZChIVjDWQIWMmd1299ap+3dnJ/L3Iv3XYf4CSQsDLdBqbAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/28.png",
+    "width": 1920
+  }
+}

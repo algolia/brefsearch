@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "name": "J'ai dragué cette fille.",
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY"
+  },
+  "line": {
+    "content": "J'ai demandé à Christine, elle m'a dit: J'ai pris ça pour un non.",
+    "end": 18,
+    "index": 6,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=15s"
+  },
+  "thumbnail": {
+    "hash": "f383d58318",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAqIBtIOixPPi5SQzGljGWxmG+Yf15HLSI5HxgwGBViTUCtlHpAMScJBwQODQkJCQkAGxMOKB4WDgsIBQUGX1BBuKF6cl5LZDgmi085YjYtRS4pnIVvQTMqEQsJEA4KCgoKAFdRP1JNOy0hHDcnKBQPFD84ME88MoFKM6NiRINKOGNEP6WSfGFMQRUMChIPCw4MCgBjVUVtZVNBOjRTPEVYRGEJCQ0KBgZ+Tzm5c093Pi9tU0+pm4uMbGAyFhIRDQoNDAkAIBQTTBsXGg4MEBEbj3uMIx8ePT88fGpcrWtIYjYrMyI0TkdXdFpWYC8lGw8NDg0KAC8lIF0nISsNCwcMDFxQTUxIQ6GdkpyUhoxqWEo7QlNLXGVgZWtZV2Y1KCwXFBgRDQAqIhxYJB4pDg0ABAQaEw5TT0qalo2MiYB0cWt1b2xvaGVxa2lNRExYMSlqPS03IhoAKSEcRhgVViMbIxoWBgUDUU5La2lrWVRSQTkyRD03JyEeLCgnKyUzOCUlfEgyVjMnAEQ4LEclHnY1KUEqISofGIdhUGJUT2VgWjcwK0I6NSUfHhIQESQgKigkLlU3LT4nIENzac3DUNpiAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/06.png",
+    "width": 1920
+  }
+}

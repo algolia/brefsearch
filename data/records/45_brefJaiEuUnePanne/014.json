@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Les filles de l'énergie 3.",
+    "end": 15,
+    "index": 7,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=14s"
+  },
+  "thumbnail": {
+    "hash": "dc01709593",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFJwl01yoVF5rVaDuVyLyGGT1GSa3mef5Wug4muf3mqc2muZ1WmSymKJu1yCsld9qQBTeahZgrZfjMZml9NsouVzrPF/s/SAtfV5t/x8uv57tfh6svJ1q+pqoeBwlsJ3jakAXIi5ZJLIbZ7YdKnmeq7ql7bcqb3Ulrzii7fmiZ+5g772g8T/iMH4lLzojazKh5qxAGaMuG6ay3am3nux7oC07ZW015e5342975Ohr394e4CgxI7H+KnA2bzD0a65x4metgBsj7h1otB+rd6BuPCFsuOasM2eudWPpLx/hpZsaXVvd4yUxvGcweKdvNuVscyDor0AdJCvfKfQhLbhkbrfprnOprLIo7TJg46fc3aCZWJqUlJjhKvIwe3/p9T1lMHmlLDIAHyKnY2gtJivxqGvw6izxqe3y5elsnp9gHx7eHt7eHFucH+DidTX287Z5Km5yJ2lsQBqc39KS0dXW1aIj5aZpbyhr8KCg4ZmZGNYVllSUFNXVVhsam2YnqmVnaVqb25+hokALS4qExMMHR8SMjUnWF1ZXGFfXFxcVVJXSkhNV1VaWFdZX19aX2NKOTsnGRoQJykcToz6EoCXm/AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/07.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "La soirée où il y a pas assez de meufs et où ça dérange pas les mecs.",
+    "end": 52,
+    "index": 21,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=48s"
+  },
+  "thumbnail": {
+    "hash": "69f17b86c9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVR4nGNgJBEwDJAGZmZmJiYmYjUwMDAICAjw8fExMGCTxWoMExiQ4CQ8gPYaAMabAg4+0uCfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/21.png",
+    "width": 1920
+  }
+}

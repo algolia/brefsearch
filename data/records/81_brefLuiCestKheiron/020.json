@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Jamais, jamais, jamais, jamais, jamais.",
+    "end": 24,
+    "index": 7,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=20s"
+  },
+  "thumbnail": {
+    "hash": "a080ffd773",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBy2+aYAAAcM5zD6yV98f3EIFPngoIdW0nSl2xSGliq2sNjYlNmvayedl1W7LLdtpOu+26P3O/H2M7lm4iXScdAiglhAC9h9whgpjjZdY2MBYFWRIxRI5tnZ2EjCRxmCiEAKKqGoZIVQ5bTdKRLgaWZygnoblJTwVRsHq9Xb2tzgeMrEBRgqqKZAVKCpQBajRe3manH1cVAgdJTP/9+bWuSkkUtpv6ukoZScG8jADqiCqWVMJJUObbvz893K42r5uv0sT7+/PL9XwutIXId6bHCdNug0MOyBADrCFiNHlxEnq7+hHq3kHzxbtR9H3/VI4THROf6i41GFXVEOqalhNEieu4nuteplMruiCGB4Dg2L0fn8+/7kemZVhGt+9Qpszzzc1ylk0W8+J+vbxfXZXzqj8qqB2yLZZlGwqmg3gCVci23vA8xxwfvZ2lkzhOxuO0yGf5++wqz7bTeLfIwtDXuwhpfT86s6jhufZlkTOO5dnUdmxnGERBP/AHwzKbrsdH3x7u9s9PQTi0vZFmJtWiqD8sH7f1fwwFVqewFSxTAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/07.png",
+    "width": 1920
+  }
+}

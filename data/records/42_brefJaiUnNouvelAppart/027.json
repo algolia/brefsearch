@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "dit: Franchement, vous habitez ensemble ? On ensemble.",
+    "end": 29,
+    "index": 10,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=27s"
+  },
+  "thumbnail": {
+    "hash": "138b445f99",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADwuJUg4LGtYSF9SRUY/OlVQS1dVU1dUUk5JRkI5NiQeHh0YFkY1J29cTVpHOnFdTQA8LyVbSTuJcWFKPTcAAAJSWF3AyNG2vsa7w8y+x9DM1N5HSE8xJh53ZFRcSz55ZlUAMyggRjkva1VHQDUwGBwgf4GD////+/v7/////f38////hIN7IwwHX0s/UUI4bFhQACcfGRwVEC8jHDcyL8XIy+Dg4O/v7vn5+P////38/P///6esrCcQDk88MllKPmpVSAAxKyYyMC4lHxsqJiPo6Orw8vn3+fvz9Pbc3+Hd3+H////b3d8eHBlAMyguJR4jGxUAP0NESk5OLSknIR0boqWopKWsqa2yfoKGNzg7ODtAmZyhhYiMGxcVOCwkJh8aHxoWAEY9OklBQEM5Nx0XFgkKChAODQwLCg0NDRYWFhESEwMDBAICAxYQDi4gGTAiGTMjGwBbQDJbQTRJMiUiHBkVFBUYFhYXFBQUEhERDw8RDw4VExMVExMXEhEzIhpLMSFNMiIAYDwlYj4mYj4nSS8gRCwfQyweQysdRCweQysdQiocQysdQysdQSkcRy0fTjEhSC4fglWSzFFdbRoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/10.png",
+    "width": 1920
+  }
+}

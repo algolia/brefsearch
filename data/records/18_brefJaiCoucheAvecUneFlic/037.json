@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "On aurait pu s'enrouler.",
+    "end": 38,
+    "index": 16,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=37s"
+  },
+  "thumbnail": {
+    "hash": "f5935504d7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAICAg4MCYiLjnt3dYaFhMfKz56gn2ptaYWHioF/ftjg57CuqUs0Jlg9LVM6KzMiFwAAAQEPDAt+f4R/fH+ginmRd2JmTDuLgnmJjJd9eH2enaWCe3tJOCtTOipjRzZJMiQANy8qJiAeJSEhTEA8m3plZkg2SygXY0g2XFFSWE9YNzE2MSknOywiQi0fZEg3WT8vAFVHPzArLCsmKHFbTYxoUWBBL1g4KFM0H25cV0Q+QzgxL2JYX05ERTcnHF1BMWZJOAA/NjQ7NTpJQ0d5YlRePipcOCZbNydYNiFEMyc1LS1WS09QR0s0Li4oHxlOOCloTDoAIRsXHRkXGhQPVUc6aks2WDckVzQiZEk3fHJvOzg5JyEdGxcSDwwIGg8NQSYeWTcpACAbGBgTD0NARJCIj3piUnVkYWFORGRQQpaRmZSRnSsmJRIOCisYFkMWGEsRFDcMCwASDwseGReVkKKEfIN6c3Z9d312bXF7cnJ8dnl5cHJBOjgfGRQrHRkqExAfCAgMAgMAPTYtR0JDg3uJb2drfXh9eHF2dm91dG5yZV5eSkI+KyQfGhcSEA8LBAYDAAMCAgMDC2h7yHgCdikAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/16.png",
+    "width": 1920
+  }
+}

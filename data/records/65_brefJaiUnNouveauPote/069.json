@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Attends, elle me reconnaît pas.",
+    "end": 71,
+    "index": 29,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=69s"
+  },
+  "thumbnail": {
+    "hash": "9ab6f15829",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXB227SYAAA4H/GDAtslA5aSkNb6JHDaGE90RO0HNZyGKwF2cYmXrBFrrwzXvkOxpjsykvvfAVj4pss8Tnw+0AmCZ0kIaFCfXhYWZqSSKZ3u6fD4fDv5aVjuop0TuEoVcidZLKtemPq2gDPIRiCNHg2mseSrL5OQL1B8PvPX0czuAo787pjpYkXCSiRfgyHH+9uAEuWYBgRhZrqzJi63tLsyLv8tZh/G3h87bxnGCNVieL1/v3jNgyjywBYmj7y+9fzaB2v97v98/OPr/fbLyXyp2FYFT6LlVCcYpvaYLq63excLwBtqXUdhn6nU+WEZr0u8tyGZj7RzHdJ7jekYzifwymy2iY52fHGwTQClqLbiuEb5tAym7UaXWFuBfEzxezJ8kxWUkghX6QzOAPjTFXSveEEqG3V1U2zbZgXCltmHMt51zGfMGKdK9hlHsWI0zMcOiud5mmarY/GC+A57tB1A8+39U6/292u4vEwKGbzHEboii7wQoFkjyDkTQYvlcVwsgCG3rOdkdefXC1ulm8f4uVmerU8TsMpBJXkC5GvZgskOILAqxRKVHw//A9/Dl5L6/dkBAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/29.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Avec plaisir. Je trouve tout ce que mes potes créent.",
+    "end": 66,
+    "index": 30,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=64s"
+  },
+  "thumbnail": {
+    "hash": "0994e3f7bf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNgZ2UW5WKT4GLnZWWRFeIrjA/rry3xtjBwN9SIcLJM9XXOCHDLD/EqDvHK83NOc7dlYGdhkeHj0pWXEOPltNBU7q7IzYgMTLIz9tdVtlSTS/Z1zgvxKov0K48OKAnzyvZzYWBlYRHn4TRUlJLg4Qx3se2rzC+NDlxbllztahZqqhXv6ZAX4lUc6V8S5Z8f6pUT6M7AwswiwMGuKMwnI8Dtb2vSXpo7syR9ekpIgpFqhKVBWoB7ur9rWoBbUYhXkIpigqc9AwcLixAHu7wQn7asWG1B9oLJE5ZP6JqbEZFtaxBuY1KSmlCaGOluqtNTkBwmLxfuaMnAxsLKy87OzcTg52C7Z8OGvtrKroqSsmAvCykhfzuLwsS41vJiN3ODADNdSzVZe21lBhYWFlYWFl421vyUxMb83PLk+KaivJq87EQv99yIiMbigsaSwtTQQFc9VQ1VQTNNWQY2NlYGBkZjZfmqtMSeirJVUybVJiaE+XiZ6eosnj5/w6rVVQVZzVVl6fE+Rtocekr8IA2MTMx60qJ5LmadWckTmlrinBz8XV0kJYTra+vXLl9ekZtWlp3m72air8qvIcMLAAD1ebT4h8VQAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/30.png",
+    "width": 1920
+  }
+}

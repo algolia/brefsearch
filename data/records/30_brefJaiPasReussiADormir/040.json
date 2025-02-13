@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Le zèbre cour de toutes ses forces, c'est là le prix de sa liberté.",
+    "end": 46,
+    "index": 18,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=40s"
+  },
+  "thumbnail": {
+    "hash": "64470bb3b9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXBW2/SUAAA4CO9ck7LSkt7eju9l94pAoVFHZJh020mWwfLZlziNGr2pK++6Yv+b78P8CIR1ZnitHh6MItHu/5C6s9W8Wgkt1Z+b6RHLbySyU5QSh5ZHNKBZG7U6P0kuCTzr+Hmh7/4FNQ9SXaYzIKydcsrI+74kctxAho5LNTAyFir0bVEtk795C+fveroxq/s8HRiVXa4iVd90HznTxyeR7yoM0gGDFRoFjFII7OnoPnpFL1hVuLIG574uv/GKW/is1846VnBYCCmWQQk+1QjlWxkpDh49YM57VhosEOs4MKY3nir53T3Rw1bmhcYOKZ5EUhuq7mNHb+O55d+vjWDZoJT3ZoPWJkfZe7iW7b/i6cXNAeZoURxAlCigx6cWWHj5+dR1ZJoHVedk+5oFo/lyq0+ZO/+GfntC5qlGIGiIUByDiVHwmmyPEazLqovksW1GaxFOVLMlR3v07e/9bQfUBxFQ4qBYAAAABSUvHR5lzX3+eZjWHYyjsZahMPzifnSifequ6WHY4pDFIv+Ay/gPDx1uVC3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/18.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "La dernière en date, c'était Anne-Charlotte.",
+    "end": 15,
+    "index": 7,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=13s"
+  },
+  "thumbnail": {
+    "hash": "a2d9768b8d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJaWl5iYmpGOjampqq2trb29wLq4t1lSUGplZL28vK2rqquqqayopaumorSwrKKdmACampudnZ+ZmJebm5xCQ0RubnCNiYZKLidkS0HAvry/vry7ubfBvbmWko6MiYanoZsAo6Kjo6KjpqakgHt6AAAAKCosa2ZkUDIsaUc5n5aQzczLwL27083IQDw7FREToZqUAKCgoZubnJOUlKCeoDg3OiwjIlpFP0ErIkAnH1JANrOxsMDAwLqzriwmJUE3M6yloAB9f4NwcHFnZmahpqtwbG4+GRVCKSJbNClcHhlKCwVzY2Ckp6hPSkkAAAQ8NDGJiIYAYVdOWlBHW1RSY2NjPycmRyAcMSMfS0A/YEE6XhAMUSIiPEBDExMVDA8SBwYIKCgoAEU9ODs1MUQ/PjkyMjklISkXFDgoKTIvLkQ2L181LkUMDAYHDAUKDgYJDQUIDBcUFQAEBQkNDREnHx4vIiAeExEIBQk5GxxBNTMwISBCLilIKyIJCAsAAQYCBAkDBAgPDxEAAgIGBAMHKyYoX11dIR0cKCAgLCEiJiAjIRobMx0aRTIvbWlpOjk4AgIHAwQJAwQJQJyPoTGMA14AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/07.png",
+    "width": 1920
+  }
+}

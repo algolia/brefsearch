@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Vous savez... Oui, car...",
+    "end": 42,
+    "index": 22,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=40s"
+  },
+  "thumbnail": {
+    "hash": "ce4dd9ffcf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBaW/SYAAA4FeXzSxFHLSFDkopAoMyGMGWUQ4LlGPQE2zpWBnCOOqYqJHJEciWGGfiPvjJP+zzAJarlutS5CwNwV6Gq5uzH63eSDXHSZaPnJxuJpPleKpfKGJNSdMFBxYAxbqkaFfJTPHQiWfKorX62bq2UpyAEFGtKf97eHjebO/6I2tgaYpxhPqA0OqqRr8iamdsWegMrPXTh/G3d0UxkWQ/mf3f98u/292vxXJx+1VqqJAdAUp31Bl+Hs7Xt/ePd5un6ffHG+NGTJemkraYWEZT3c6+zAeTfqeXiKUCeAhkahonX/PakNdGqtDV4mwDj2SduFm++LNaL4ZjU9b5XLlRFVk677G7QLLQOK+2c81LrnnJn/OtklwjYwziq9C53Wz+vNr1FGOgmW1Jd6KEbQ8CR1gQJShPKOmL0l4qHS8IHEExnmCzKn0U2+2KZMq6qeihcAKyu+B9G0D9UZJiKLpIxjMwHnWTiSwejWEBJlNS3teqTD5PZ92oN0ylyGPSCQ6ADfW7yRj2NnGIEAdvjh3ek1N30A97Xb4wDHs8GAFBjhcv9/2hOPYagcGr/zCHawpMIJcWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/22.png",
+    "width": 1920
+  }
+}

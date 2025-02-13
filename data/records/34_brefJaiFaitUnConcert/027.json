@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "À part pour ma chanson sur les ruisseaux.",
+    "end": 31,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=27s"
+  },
+  "thumbnail": {
+    "hash": "f3b8302588",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nB3Nz0/aUAAA4Cbq6OP9avvaV0IpqVBbgQCutrRAqEBQZxzKphXQQdhcNqYxanYg2Wk7LNnFZPftsOwvXbLvH/iE2EkPSuioJCa7eBqQNz5cNJV3Rflre6tbtvKcFTNqjslcolyWNEqEF1V0soNf18TrNp37cOKB60BqrYtvDW3erFSMzCZnWUXSJcIQlNJAeOXjJMBjL33XlT610DwEi0ja2853rMy303C137xpPLe5phKsIkjFlHAR0UlILn300Kf3Mf7QAZN6+rRqHxay30e1v++Hfy5eLvfi0LG3OPOsrDBu0mlELwN036efe2Tsw5yK++ViUecNW/951fsy7D/Nkqd5cnsYP44OhOT/MPHhXZ+uBrjrwvUUsY2sqmhrKXwWFWad+sf99u/l9NfNbHV+LIwCchbgxIPLmDz2cFl/Zpmmu5mXKV3bgJ6tPAytuGQsuuGP2aiaN4WDGjquw5MqWERo1sBlU3MKFmcKABCnccWUb4+MHUu1NK1iGjnGhJYDYwcM3NRgm7g5LacxAlKiiADALpfPd9m4pTkZVtA5RViG8B+a804fz+K9wwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/11.png",
+    "width": 1920
+  }
+}

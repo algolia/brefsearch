@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Reprise de vol, 2-0.",
+    "end": 67,
+    "index": 28,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=66s"
+  },
+  "thumbnail": {
+    "hash": "0f50b29536",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEU5LikaFTUmIEAvKGBLQrumlrSXimsyLZhvXcGbh6mOfm9bVF9NSnZvY4F0bEU7NwAnGBMoGhUsHRcvIBo3JyJfQzikhWaIakutcFXNmXithGt5YVZ8bWaReW2PdGg/MzEAIxQPIRQQIhYSKhwYKx0YPyolZE4yeGQ7k1pLlmJMkWJMbEU6d21re1hOVTIpTkA8ACASDhwQDBkPDBwRDSEWEjomIG1bR5B4WaBlUp9rVqt3XK6HerWsqWhVT0EpIlJHRQAuFw8XDQoVCwkXDQoiFhI4Jh92XlZxV1GEUECOWEaWZVCBdX2HfId8bXEgGBkUEhQAHQ0JFgsJEQgGGg4MHxQRMSAZTz5AJyAmWzUsbj4zYkU7X1NlT0Rak4mXOTU7BAMCAB0PDSUZFigaFxQKCBcMCEIrJEAzOB4ZIT0qJmFCNm9YWGxkblFHU2tfcV1WYwwKCgAxHxtOOjQ8KyYlFxVNOzdYRUc0KzIbFRtfUVSsmJphV18yKjI7MjtfVWVzank2MC4ANCEdTTk0QzIvVkVCh3Z6U0heRj1FLCQsXFVWvLC1W05aNSw3MyszUUdXYFdsFxQUHHJ4NWm0NNsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/28.png",
+    "width": 1920
+  }
+}

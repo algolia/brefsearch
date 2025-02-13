@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Le boss, c'était à mes parents.",
+    "end": 98,
+    "index": 32,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=96s"
+  },
+  "thumbnail": {
+    "hash": "41d52c411e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhufWpyg3F1fXxua31vc39sb1NHOVc5KVg4LkU+KUY7KEM6J007JFEnLE4cLkQhLABXOEhaOkxmQExtQUZsPkt5NUFwLzd6Q0J6PUBvMzpvNDxpMThmLzNjJzVFGC56UBUAUBUnVhcrXRgwYSE4fERThkteiUtdl2Jhj1ZehkdahERRgkRTfEJRZDZCb1RSs4UUAGFRUWlXWXBdX35uccG6r8W6nsW9pq6gkr+wlszDr6+bg7+xocvHxbKln6qOe8GNDAA2QDwmKSgjJiRsgHvIv6pwgE5Lb0mup4jHn2/LupXDs5nRw6fNxLPUyLeqiWGWbkAASkNFUEA9VEM+cW9usaKbR2ZBJlcwl3ZkjFo7qZaDoI6EqZmNqJuWrZ6OtZZiooNWAGVTUnJbWYFiXn1oZINqZ3BfUWdhToJZUXxYQYNtaX1oZnlkY3NfX2ZVVXtoX455XgCaYDiVWTl9T0RpWlh1Xlx6XVyAZGV3WlR1XlOAamh8ZmJ3Yl5wXFlpVlRfTU5WREYAdUw2X0Y8U0ZFWklIXUxLYFBOY1JPZFNRYlFRY1FPYE5NXUtKWUlIVUZFVERDUUNB0kCs92jU758AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/32.png",
+    "width": 1920
+  }
+}

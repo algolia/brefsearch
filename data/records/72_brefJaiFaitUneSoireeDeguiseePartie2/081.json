@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Et tout à l'heure: Tu t'es pas rend, tu t'es pas rend.",
+    "end": 87,
+    "index": 32,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=81s"
+  },
+  "thumbnail": {
+    "hash": "2bfb5e240a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nBXOTWvTYBwA8NBnfV7+z2vSNGnSJm2WSufatJW2rBadmx1rmXWue0FkWEUUhaEwwcs8OEG/wXb1KAi7ePPiVc9+I9kH+MHPwiyiEBHsNIvelwfbF08O3m+uf7y/+Pnw+Gq8dXn04dPs3ZvRwbw9nNxojxs9C7MqFxHk1SSpPut2zibjp4NbLxu9P3v7v2fTq8X5t8XX09GjZTcMVKGkXItATYGfavdFt3W2tX4+2Xx1u/826/87fPx3vvvr+eeLvdNhkBIMgklGwKIQpcWkJMxaUD4ZDg6z1jxrvs6Gl3enP6az7/OTWPtAhc2N4VowaXk6HiQrgglF+FolPm61b7r+iiltxI1+uLxb7xHMBEgJEihXXFuhLisqNZP9cjnWzqofGq4p5llQC7ULhBMMOM8oBs6umcUwBww8z0aVykaShExGoOvaqRu3anuGKYqBYIbzlDNxXUqE6mi7pXRX6u00vVMKBsbZ8fyp51W0E6mCxxXDgJZoDhG0hK2Ey5GxE6FqXFWZXFWmaex7hWLHcQSIRqHogkSI5BBGCOcQ/g+eoEA40KlmVAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/32.png",
+    "width": 1920
+  }
+}

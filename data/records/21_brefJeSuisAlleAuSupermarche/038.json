@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Le MRC 3000, la boisson des vrais bonhommes.",
+    "end": 42,
+    "index": 20,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=38s"
+  },
+  "thumbnail": {
+    "hash": "9dfb4ab022",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABAuUx5DRDNWRklvgER1lz9zlz5qh1FWYFR3klGGqIiYnneNmld0gHB1YmhuWGhnTAAXQCkxW0MpSDw6PDpVeX5Vl6o9SE6dVTZ+dXFom7R6obJhhpVAMSlCOSSHhV6bi18AI1NDLWBLHyIhiUQsfWxaRJacWXd2nVY9hYZ6jcnBrrmydoSFOhwUHxkbkY9sjYdiAB9bMg1GKxcWEo5LMG1NN15wYpiOfYxXQLePdbaxmbmOboxtWzEXDwYKDnB/eGKFjAA/bUc8QSAgGQ5BHhMtGxWCVkC9eFqvdFnHhmXOime5fV5iOywvFxIrHB5vfG9hmZsAy8Or0I9okUgrLx4YNRsWfks5tn9irnleqHJWhVQ7m2lOlVxEZTQnaEdBsaWRvsq4AMzCrsGTbptWNTolHTkYE1gkF5ZkS8SMa55pT2pDMZd3YGgyITYUDXZOO8y+rM7EsgC5qZCsfFiJRy0rFA9HIhhbJRmAUDm0fl+4fl6ph2/DuKJ3Qis8GhGGX0vKwa66saEAuK6dp5F/d0EvRR4VYzIgdj4shFM/nWpRu4FjsoZtxLmnhVA4aTMihGZYwLior6OQd0esmUSm0BcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/20.png",
+    "width": 1920
+  }
+}

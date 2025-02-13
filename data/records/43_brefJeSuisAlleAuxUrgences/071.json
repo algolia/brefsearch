@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "J'ai dit que j'étais allergique au vinèvre, que je m'étais foulé\nle gros entail gauche en 2001, que j'étais anégatif et que",
+    "end": 75,
+    "index": 36,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=71s"
+  },
+  "thumbnail": {
+    "hash": "32fefaae77",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABY9YxM9ZTRPa36GjGNlaSklJh8bHBQSEgYHB0RHSICLkXyGjVJUWAkICwwMDg0MDwAYQ2kWRnEyVHOKkZVnV1crJCJTPztaQj4wJCBjZ2mFlKF9h5I9PEEREhUPDhALCwwAG0lxGk56LFFxipKXf25tXkhFUD05Uz02XkxHjpWbiZOThImMMzE0EhMWEBATDw8RABZIcg1FdT5khISMl3FobGJNSU86Nkk1MGhkZJSgp4iTl4uUm05HSTgoJxQRFA8OEQA6Y4ZsiaKUpbiDi5xEODlCNzNDMi5SQD2TlpifqKySo66RnadYTEpgRD4qIB8KCw4AlJ2rmJ+tipSoeZGrQUVTLCMgMyYiPEJNrrrFwsTGpq+0pauuWE5LUT05Pi8sERARAG14i3N/k3mFmXuJnlxxjTI3QyolKEJkiK65xcXJzrm9wLm9vlhUUzcqJlFBPDMpJgBfa31rdohyfpB4g5WHkaJhboEnLz1viaS9w8mttb+wtry/w8V7fX8vKSZDNjMnIB0AWWN2Xml7Y3CDV2V4WWV0eYKSNEZcfYuctrrAnaaymaKsqq6ymJ6kMDE0BQQGAQEEG8Gh25nQNKMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/36.png",
+    "width": 1920
+  }
+}

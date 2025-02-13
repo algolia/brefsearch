@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Et le pire, c'est quand je me pose avec une fille.",
+    "end": 38,
+    "index": 16,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=36s"
+  },
+  "thumbnail": {
+    "hash": "4d1e66e2d7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXBW2+aYAAAUJLFZsvSLnsRvBSNwjob8VLF0n5FRFtkYpWKiPAhIAio6Gy2XmzSJX1s0j+9cxB/s3cgNMGxdYXbzbzTKdsAnzRwuf5zOtYWi6Whm6qiycOR1LsVbkTEmq/u/7yEUPG1QagNAlXyVckUORNUXGhuo53neBa09IkxkhVJlJBum/e85evbx7+394fH1010v9o+O+G+VTodwN/e6ilabsNg7ToLXdPlwRDhALhu8VNVc+fBbvt3u97AcC/CB4pqXA19ydzNZ7ZtQHOqT0bjkXyHFAunOJ7JZjKfv3ztCuLz04sEd+c36kWRBj2LEQ3bsF0DQkX9xbf6goBQ+HEum8Uw9FPsoECSc3PG8WKx1rwsVGhWagJWh7MZdNSJIct3t6KIEN8P86lkKp2OxWJoPP6DINB4/CSXS2KJw6OjS8B1BhpJnZXrTLFU41gWoRLfmLNqqVwrl6soipHEST5PktkMmSfABdtpC9CKaIYnC1Wmft6m0si42+r1+gkMSyXTUk+O1o+eG/X7cuBvrhs1XVENw6VpQFEV1w26dfI/9Nh3SgnUI9oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/16.png",
+    "width": 1920
+  }
+}

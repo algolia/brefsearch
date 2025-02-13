@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il a noté: Hypocondriaque.",
+    "end": 79,
+    "index": 38,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=77s"
+  },
+  "thumbnail": {
+    "hash": "31e0805fd7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACA+XWlze2ptcTAsLCsjIjwuLB4XFUpMTIqUmYWPk2BkaBUUFxIREyYgHzInJSgjIwAnR2h7hY1tbG8tJiVZRkJvU05jSUFybm6HlJyKkpk5ODwJCAsREBMQDxEdGBgfGRkAIkZoe4ePgXRzYEhFV0VDRDMvUj03fH2AiZmjcXmCJyYqFhUYEBASDg4PDw8PERARAB5FaHaBiZCRlnZiYWBJRFpDPlxIRYiOk4uVk3V5fCQhJRAQExQTFhEREwwMDwwLDAAcRmqGkpxxcXlaTk1GOTZEMS5SRkORmp6Nm6KBipJHODgzJSQODhEQDxIODhEMCw4AcIKXlqO1aW58Pi8sNi0qMyUibGpsrrW6maewhoySWUVCWDw5FBITCwsOCgkMBwYJAHN7jXqHnmd/mkBASkUyLDczN1NqhcLIz8DFx5mcnks/PE04NC4lIwkKCwUEBwMBBQBjbYBrdolreY9RZ4I6OD83PElXep65wMm4vsa1uLtAOzpBMy9NPjkrIyAdGBcSDw8AX2h7YWt9Z3CCdICSTVdnKzVGdIqjr7W9maOwsre9eXt+OjIwQDMwIhoZEAwOBwUHo7CHeW0uaysAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/38.png",
+    "width": 1920
+  }
+}

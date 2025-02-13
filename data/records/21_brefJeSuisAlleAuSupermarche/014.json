@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai aussi pris de la salade et des frites.",
+    "end": 15,
+    "index": 7,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=14s"
+  },
+  "thumbnail": {
+    "hash": "670d3b3c52",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJGDjY1+eJaJjpaKjomAaZV0X6eRfbKimraekK6bgaOKf459eoBwcHZnZnNzY19bUwChlZ6Sg3+TiHKNhXuak4Kjj4i+sqWzkYGoiXS7taKwnpGYiYaRg4h4cVx9jTmIhFMAoJOTem9bgHd1opOOtaaLs5+YspiYTThQRi1Hp5SUv7OYoImEgHx9YlxgcGV/bGBqAKaUiLmvlKWgk6Wfjbmtnsa4oJRaXGVFUG9ZcIZTWr+1nqGMfaeOhJ2IgoZ9p25gYgC7rbiLgnWno4Gtqo65rJTBtaulZ1uvdk+abmKRUU/KrpugiH6sko/Bmnemd1SrlJgAk4SDyLy7w6mqq6CZspyF18rBkIOIEQccFAMYloOGy7Wpm4SDpIiEhHF0rZWNs4+BAKyZobeuu8GxuLalrrWikNXIuYN9gwwKHBEQI5GLj9DDvJyIhqyPjYZ2dkE8RJmSoQCVjJusorGXhZGvpKe9tKrZzMeRiIg4ND04NT2Ee3zazsW6sLKdgoGbcHB8cXhuXFYAf2xej3uHlIOUnYyCsqWkyby5hnt8dWxvhHp5dWxux7mztKellIiNjWtrgFtglYB7pM/pp1bdT1gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/07.png",
+    "width": 1920
+  }
+}

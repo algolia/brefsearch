@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Quatre. La soirée Annuler.",
+    "end": 62,
+    "index": 25,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=58s"
+  },
+  "thumbnail": {
+    "hash": "8b5e505aad",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nBXGWXOaQAAA4O1MJipFgV1Yjl0OMaLGCzm8ggFJCJIGWyc2bTrT6ZGJbV+Sh751OvntnX5PHxgMx+4kDL1esmjma3+dLMPQcYeGSunnhx9//r7s9vvn56c0SXY3ebm5BBzEg75TpD1Kze/36bf79P1+e/iaF9lmGkxlVV/F8a+fj2dhsM3TRegBUGvYNs9CXsDC3MfB5DReeUnUnc3jKIpXgXfYXo27XdO0inTljYegyqFeFysaHvQpwnjua1mkyip8xXAiVh6L9cuX2/PJiG0IeRzNggkQsCJrtFg3by56od//WHY2iT0ZWpJM2icn8ej00h8f3uXlzL/w3Va7BWSVtmySRvru2ny4a7t9K1k2s/MOlIhK9HI5fdpmv+/eHMps1HF4hAAriAgjTsSvIe44qiApTluluoJkohCjSfW3ofshWXy6Ss4Cv8LyoMrxNR41oFSHYpVDLJQUDcsqrHGImi1Nt2xCLEISz7Utu8YhUKlzDA8ZHglYJYYlE0PARFTo/2sGyyNwdFxhWF0jlTo8Yhr/AJfLSQAFJsEkAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/25.png",
+    "width": 1920
+  }
+}

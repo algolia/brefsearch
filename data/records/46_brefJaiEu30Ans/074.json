@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Découverte autour du vin, votre forfait pour l'œnologie.",
+    "end": 77,
+    "index": 29,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=74s"
+  },
+  "thumbnail": {
+    "hash": "c7ba01e562",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nAXBbXOaMAAA4PQsIRCBQAKBAIkC8iLqsGqrtXVqa29ra3e724sf93Hf9//v9jygCdx54t/nUSe5sHHByK6UL5PsVkURhF3MGTYJMqbCXw3EaZyDecL2VbyvUoJJ7dkdpxFxt4psZCCRsVbRKmLKxg6Ele8digQspD+J3CKgnuUyjEPLtk3yfZYfM6EMYxZSquuphfd5uoz9BxmAVlAXwY0KOWF9hImJA4f+nBU7yWNdrzybYkSxeflUnku5FBR8uaudXu9RcWYRjAzXxAHxbmJeM9fVYEmdOvL06+uh5xzz+E4GwDP1hjlryS2EDIgC2/rz9fO/X68/HpeGpt3n4fs09W27zUe7KtsPOehdXS0Sts3EOhNtEq4Vv0yH5zZ7rgd9CBPX6mRQimhWlMcmm8c+SFxLeXZCrPfJcDOSGgANRAdGn2QYYsPUYd9AbeSv81Qxz8EWOM0ntyl/KsXvbXc57d4eVoeBfx6Jj7H8++1lMR5RjF5vmoUSfcNEGvwPVQMz1K+WIL4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/29.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Elle m'en avait donné 20.",
+    "end": 29,
+    "index": 14,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=27s"
+  },
+  "thumbnail": {
+    "hash": "5840edcde8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABgTEBkQDFdMSc3M0eLj7tvb5NTX3NbZ38bIzHtrZV5HQHBdWq6vs8LJzrS3uJuWmAAZExAmHhohFxFTSEXS0dzg4OzS1tve4uqamJpWNSqBXVV8WlV4cnTP19/AxMeqpKcAHxgVIRoXLyYjHRIMop2i6On10dTZ3+LqjYKCTDAoblFMbFFOeXN20Nfgw8XKsKqtACYfHB8ZFighHyYcGJ6Znufp9dHU2tre5pWGglw8MnlaVnVVUZeMkc7W3sHCxbGqrgAiHBkhGxgnIB4bEw92b3Dj5e/R1drk6vGelJNLLShtTk2McW+/wMbIz9e/v8OwqKsAJR4bIhwZKyQhHhcTV1BO5efw1dnfpqauWE1OPikjUz06TkJDo6Wy1Nziv7/BrqepACslIiYgHSskIR4YFEE5N6ypsFVPWTEpNiwhJzkqJFdHRzMpJyYiMoGBnbGwtq6nqQAeGRghHBspIyAgGRYoIBxFOkcxK0UyLUIjHycpISI4LDIlHSImIi8uKlRcVnyknp4AEhAOFRIQIx4bHxkWJx4bNS05PDhYOzdZIh8uIxodLSIpJh4nLipJOTZaKyhLgn2GKuu0UWsmc5cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/14.png",
+    "width": 1920
+  }
+}

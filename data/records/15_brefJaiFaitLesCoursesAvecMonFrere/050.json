@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il m'a dit: Franchement, c'était le mieux à faire.",
+    "end": 51,
+    "index": 26,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=50s"
+  },
+  "thumbnail": {
+    "hash": "8efb70f696",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADEmJDEnJCYdGjIoJVpMR4h+gZGMl5uXlIR4aZCNdW9gTZaCfZ2Meq2ie42LbZCFeQAcFBIeFhQaFBEbFBI3LCupo6imn6myq72lm6CFd21xW1angneEYkWnkW2DeGx1bWEADggHDQgHEAsKCwcGIxsdaF9ij4iPsKa2raCjn5aHimpfd01AhnVso5GJYlZQgHZzAAoHBwgGBwkHCAIAAFNHTH50d42Hg6igqX11gFROUF1EPEkuJi0rLWNHSnQ4NIFmagAKCAgIBQYEBAUOAwN6a2C1q6ipo6N8eHEVDxEkHhw3LyckHRUUEQsQCApKNDWPhJYACwYGDgcGDgYGJhcUk4SMp5edpJuXZWVcBgMKHBkYeHdue3ltODUpAgEFISAjdWpuAEkqIUsrIToeFVlETL+xpaefmqu1nF1fYwEAAhYTE0E+LUI/LDAsHwMBAyAcHZeQlQAgFxgfFhkUDhE3MDufnZmhrHixuY5mZGIAAAAQDQ4qJRUzLRkkHxIJBwgTERKZkpgAEg4UGBIYGBMZHRceLiguTEY7ZF9mSUVMBAEEDwwMLCgYMCwbIBwQIyAhFRMUjIaJ8sh+3KGzf+QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/26.png",
+    "width": 1920
+  }
+}

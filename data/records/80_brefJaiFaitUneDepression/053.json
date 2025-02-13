@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je suis allé chercher des bougies.",
+    "end": 57,
+    "index": 20,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=53s"
+  },
+  "thumbnail": {
+    "hash": "0bc15b0020",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAw0lEQVR4nFWQ24oDMQxD52FjWbIzl9KhpdD//83FCS1TYUggPpKdJRV0mhnJjNy3bV+3nhmUAfYrAEuPTIVGd0bc9r1Hvh+P13kCEEkv4aMCepTfSIhQmNl5HM/zLmoddsNRE1vcXaSor8d1AFGjyk8qZiEJgEPTw8wcTidg7vVUrYOphPvtWHsPVcIcdQJ1ARweCgCttb/Wxg6ZoQqlV/1+SpERtVUbMrNlHnN6dx/2SOkKzu6pAr7iGEBkzMgPfwX+AaCbDmk0WxSkAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Ce n'est pas top ? J'ai dit: Moi, j'adore mon taf.",
+    "end": 59,
+    "index": 24,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=55s"
+  },
+  "thumbnail": {
+    "hash": "4c2e88c735",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALGvNbWoLWBSM2hQSGtRR1A9N0s3MUk1L2FPRnNlVltCN4tXSV03LykaFyEVECIWEgC/uCnQzRZqVyVmRTxNNi1UNyxQMik8Jh81Ix1cTEBNOzF5TUCWVUdMLSdLPkpXS2EA2b2Z4syZpZB9SS4iTjInglVFe1BBSywjGQwJTDswQDEneE8/kmVfd2V8hH2na2GBAObTsvTvprisoi0YEpNnUr+NdLmGb31VRRYJBzcmHTcoIGpJOnhocmphe4N8mXJpfgDlzI3urmeyVU09Jh6aaFOveWSkb1yTXkwjEg4rHhkiGRNjUVGGepKHf5GCe4tDOUoA57Ck7JaI44ZuXTgsglhFsHhkkFBKRykiFAkIMx8aYT8pb1xuYFVsnpimhH2LV05fALtkP791RrBuWVU3LVo2JYZaR3ZNPyIUESMUEUkyK3BWWGJXdXBofGdebT81Q15VbgCCaVRVQz1QQEAsJCRKKx9TLx8qGRQnHRsnGBRJNjNLP1BjW26CfJVGPVY9NEw/OFIAVkI9NCgoRjUyIxscRCoia0AuKxwYKh8eKhsXVENIe3GAcml4QThJQTlUS0VmNi9Fu5KRrp/xQlgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/24.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "Toi et tes petits œufs de poulette.",
+    "end": 102,
+    "index": 29,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=95s"
+  },
+  "thumbnail": {
+    "hash": "a6c3c962bc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXBbW+TQAAAYD7AHdzxfhwUBr3StVBW6Nv6Quu6kDljp8vapUM32RKXtc5MjdH4Qf+9z8Ntuu42O7hJvWoUPE7qz9PgoeeUaW0/rb/kwddZsJ8GT7PGtzf9X9cnP9cL7tiWl576lukfO3Q3dF8m3o/c/zxwdqPavyL8WzR+L9n3Rf3LjO3ycL/scJ9ip4roXYvctqzykJRt66HrPPXcP0Oviqwyps999z6hqybZpnaVUW4Tmu8O1KWFckN6ZeE5wXMDLQja+Nqlr31oksc2LZm28pSuIRVM4waGdGxI5556xfT3gRYrMJRAKIEA8nMLrwPtwlMLG09M0QV8TDDXVWGmwpygU1s+c+UmBr4kjA0UK2JLEXuqONbFvgobUEhNdJs5XCRDhgBDIFbhiEgMAVPgUwX2VXiIQIxBB4Em4MdUvh941cDhfARCGY6p/NrXThzcVqDO8ybP1wDvAMES+BDDREfXCb3rOauWySUGyl3lzNcKTxmaYqSAGhQ8DDKKU1ue+NplYq+PnO2RfRGRU6b9B3CjPwum6ZQHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/29.png",
+    "width": 1920
+  }
+}

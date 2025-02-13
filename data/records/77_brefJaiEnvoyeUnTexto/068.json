@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Je n'avais qu'à dire la vérité. Je n'ai pas dit la vérité.",
+    "end": 72,
+    "index": 36,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=68s"
+  },
+  "thumbnail": {
+    "hash": "a92035c1db",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZUlEQVR4nG2Q2UrDQABF55ssIo3apGlnMp1uSdNOJjNdkiapS1VarAUffBIRxYoLFqEidNFUi+/+gu9+kGhBVITzeA5cLoisJhYVtBRPqxkrigxCnbjOCffS3FPNSlb4K+kiMoWk6REFR2IQLMTQMjb0rQ3abdPddrHVKmxuw5KjsTq2PUhdZLmqWZbzTMJGRNaApOmQVQ9eB8dvYe/9ZW96HZwdEuET7qe4T0SAbQ/bHmKuWhASNoCcpaTq8/2u1emsXx2xbjfXaKa+7D9orC7nGZB1BmkNFh1UcpNGDdE6Yp72XwCpo+g2sBs7lWYHWi4RASkHRAQp7uPfKhEBpE652eFrLXBy0T/v30kZOp87N/CPBtufgZShvZvB6eUtuB+F43AmETNZqiHLnZ/zjcbqyHIhrUmkOHx4Hk6ewGgchtOZmqNRbMg5S9G5WiirZiVhVuIFoRhczrOopsez9HE6G03CDw1anMm7jEmfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/36.png",
+    "width": 1920
+  }
+}

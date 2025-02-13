@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Elle m'a montré des trucs que je connaissais, des trucs\nque je connaissais pas. C'est pour homme.",
+    "end": 19,
+    "index": 9,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=16s"
+  },
+  "thumbnail": {
+    "hash": "c081d32fc0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIZrWIxuWoBQRHo/NWU/O3o0Q51BValOY6pIXo48THJXWYtpYY1VSmY2KVUzJVs3KACQdGCWcV5tNiaQVR6fXzJgMChhJDRwOlRtNz96LztuIzFkMzxkOTxvMidbNyheNygAm3xllWxemlUq7qk8ynMikkYSLRogYjxkXT1SXVtWFhIWIRQZVTEzcC8lZjsqYTkpAKB/aqZ0YFMfFL58K6ZMGnAwDkIzNEBCYmIxWFVMVGdzbxQVFzIiJWUmIHM8K2M5KQChfmmlb1w8BQm5cy6JSiEqDxaFQEwdLT5UM1Q8IjlGTUtOTk0WExhiJCB2OyplOioAmHNemGFQJwcLLhwSKh8UpUtTuk5dGiU0QStDWC9QEAwRaWloNSwvZyombzgoYTcoAI1pVYlRQiQLDQQJEA4PEppCScZHUy8wQR4VIUguQy8dKEUkJSAaHloqJ2UyJVoxIwB/XUt1QjUqCQwSDhElIyV4XlxJJCsyMUIXGiMXERg+GSJTJygVFhpCHRpfLiFTLSAAZ0Y2XzEoRBITGw8REhYeJys3BxEbHSYzHhskKQ0OYiAgWSAhJBQYPhkWVCkdTikeGIdyLen2IGsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/09.png",
+    "width": 1920
+  }
+}

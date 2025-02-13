@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Le prélèvement de la caisse à outils, Brico 3000.",
+    "end": 57,
+    "index": 25,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=56s"
+  },
+  "thumbnail": {
+    "hash": "e419d03f50",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nCXNT2/SYACA8X41s4vR2w7G7LCgEkd0HJbFP9FdTKbOmBhdNhLFbhDZHINZsLSF0lLoKH1b3hbe0pe2tIwxBgxndB/BLCbP9ZeHuB+KLj9+/iAUXVxYCoeikfBKJLyyHHm6sb6V+PpDEloYTVXZoynl+7dibHOPmLtx6/bN+cWFpUcPV18+exPbTOWykt7wMZoG7h+MxqDeBYojFCGTV6lMlbh7597ai3fklyxX0Buy12qeIeNcbwSyaBWoY7mCXHvqdCYQ9HgW1kSbSKVYvmRWK51y0eRoTeAMjgbxWPrTe5I6FEVOR3AA1R6CA4zGmuITO2QulWSOMhLPQYm3lJrD5pVknCoxGlR93B753dmwf3Ua/PXwDIITIrH782C/nE2LLA3YPCgVmvVq1zJGGF249qzv/f5f4F46nYvrw8cPiR2SyqTFEtOUeNSo9SA4MfVTdG3GHp4G7q++d9nrzixzVBUQsfF6e5ekckcyzxpSGcki1hTf0AZtOLTbZx4+952J70ys1vC4gnKHPPFk9dXb9e3PsYP0Hs/kVaFoyBUM6oGh+W0YWGYfGZ6u2CKnZvfp+FbyH8AWOQmJipREAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/25.png",
+    "width": 1920
+  }
+}

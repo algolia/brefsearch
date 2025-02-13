@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il laissait les pourboire.",
+    "end": 46,
+    "index": 21,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=45s"
+  },
+  "thumbnail": {
+    "hash": "ef93c4314e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nB3LSVPaUAAA4EceSYDUVDaroYwEVNQkJiRmK4YAsjQafASCEDZX7BRsmXHGC4devPc3d6bf/QOD69YYXc+Q++h7rmUImS3j8Au3z3Bs/jj7Vcjnm6aKalZdky35zBQFMHS/T5H70EfPt/7QaXhVzeSLTDIpsLn9dJpJpqTiYadmVTS5qp9bcgm0DLVbtyedq6dBbzUbv06D3O4ut5d6uVRr/FGa/swyzKKP3ucjR5OsUxaY/HHbVIdO89H3VrPxfQ/ld1J6PvPmVt5R9SCdiFOxkWX8/TH9mHdvjBJQioWGpgzajaf/YTkNbO6op/LLdvln+0Jhs9sUnUvQC8d+81qv8xmwRO5SLbmVcuA6E9QxJFnMMkNd2PitTb/JpHbICM0k4o5ycl83kKWDXxN/Pb1d9DumKFIxGoBQJk57Cv/bse3TAgCQwAkMEgQkSgdsgdkDD+hqNeptXu7+LJ8vZBmA0HY05p1zgSlRZARCgiSiEMPxcARCMhSC4MYud6vlQaOynvgf65XM8Z/IWKBLd9+kBLUVDpMkESXwCBaCEMMhhv8DVWhajmEMFIwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/21.png",
+    "width": 1920
+  }
+}

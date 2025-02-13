@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'ai raccroché, j'y suis allé. Merci Kheiron.",
+    "end": 13,
+    "index": 7,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=11s"
+  },
+  "thumbnail": {
+    "hash": "eebe2e3a8d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nBXLS08TQQAA4P0HZbe7szOzs7Pd9+yr2+duYwtYYNVCaaEBAa0HxGJCpRqbxjTGBDyYENMYCV48G+OFgwf/gFcP/iXjd/84CrQC0hQgIREokowlWeLzBoKPVpN26GgykAVR5oG8JIq5vJgTOZcgW1UphKqMKMQaVCxCjtfT26vZ/EmfigIWoSIhKADAS4AHXGTqXkE1iaJjQiHWFbXsWGdZ7fLowfFaYuT5QFFQXtYgoVAlQOEcgm0V6xhbtGBRjelmGgS92OqH+v3AzAJ7LV3ZaHdLbtFC1KUm5xDNJpQZesyCmIVVP5z01neKVubS3djslP3Zh++ff/y9+fb77Pyi5ERc1WNF246ZG7PQN5xed+/l/k6NwMxSt3yt5voH4+v5p59fb/+8v/nVqLa5ZjmsBaweBWkxqnpsf/h0PNhMHbPpGJ4sVOqdvdOPL959efz84nB0eW/zkGtVonroNUrRciVu32mOzt9MusuDtLLCDJRbQgLOtp+dTBcbg9npdDGZXf0PSeQ34qgVh0fDk+l43E+i7SQdrSbDVnLXdeuNztbD172DV5O319P54h9BP2A/qZbIzAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/07.png",
+    "width": 1920
+  }
+}

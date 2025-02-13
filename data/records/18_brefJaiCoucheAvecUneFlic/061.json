@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Ensuite, elle m'a dit: Je prends ta beuh. J'ai dit: Non, pourquoi ?",
+    "end": 63,
+    "index": 27,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=61s"
+  },
+  "thumbnail": {
+    "hash": "755a7341b2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXBbWvTQAAA4PyngZ8UNkT8ICibyBCGWhg6sHN1RhlWcK5dN6jpmlFtsyRN83JpcsmlyV3SZEnbNW1s6jr/k89DHb1/Wz/eB8JvFxLfCSxgMZUKc3L8/VNJ5QRT0aCimz0N8OJVk21UK1S7wUIV+k4YBjdxcONZ2JT7SDNP6Y+9VtsG0DNtbNrYsJCqqp0OpfE81rrJwBz5OPICZGBDc/ocT+9sXTGMxTUtSSLQGSIUWCYGKjXFYIaVOZGX12ZG5Ah2sdyp7xfK20+qW4/ePb4nVkuArSGJj2wrggY1J0o6EFOHi+UaaX32miXt26svm+t7G2v0w7W9pxv6adE42VWOXmLhcuwgKgv0RWzn13Ax1Gaok/RqCf+DO9gRDwtd+rXbOBw2iv75bvdg0+PYmYuoLIT/5tFd6t+OB7djlPsS/lX++uwB8/w+X9rGP4vhBR2wZbd1NoHa1O5TU6LnCfo7RnmkpxY3Ui4F+s35i3X2QyHQhEWIswDnEVnFZOnDuSVRoF33AJdGAwI47+IsEduuwMXIvVusVlm+nEyW4ySPh3+IPbOVkdL6DyjpCmfKKHRHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/27.png",
+    "width": 1920
+  }
+}

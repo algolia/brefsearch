@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Je me suis dit que j'avais la poisse. J'ai dit non, 16 fois.",
+    "end": 20,
+    "index": 9,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=17s"
+  },
+  "thumbnail": {
+    "hash": "42cf442194",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABXUlEQVR4nCWRMU8bQRCFD9/Om9nZ9RqfzZ19Nuc4OFiAjUmgIBFQIAuEREHkRKJFwimSJvkJqVKkouOX8PvQHq+eT2/ee4mpBUCEVcVaw2gs59NZVYrl4NU7qyrMICJjTEK1mFnVCjeK4XhxeHo1n4yKjC28E+dElQEYY4goQS0RIWr0tyc//r58//W8M96t3k8BUiu1LQtz8J6A6ACAmcG8XP2+W///9vBvef14frtmgQjitUBYmt6zSBIDEFKTlkXv8nY9P1vdrP6czC6mex8PqgHDqK0xkaZTMCJARCnR/jD/UOZfbh7vfz4dT+YwyW5ZHFaD4EQELPErEEVAhIlpb9j7NB52itFk9nm0Vba8zVr+6N121W2rstqYmwwlwhwTwyyq8uvxIlbX2EjTNNsMg7yz1Q69LGTBe5W3oiJgDAHUbfqdXu6cYxYCOu1W1S/63SzfDN2gavlth1cz6iLoK8IG3wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/09.png",
+    "width": 1920
+  }
+}

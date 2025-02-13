@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "La rotation de la terre sur son axe fait alterner la nuit et le jour.",
+    "end": 50,
+    "index": 16,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=48s"
+  },
+  "thumbnail": {
+    "hash": "24058fd067",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABf0lEQVR4nE3By27TQBQA0PF43ndm/IrHjj2J7bR2YkhIJQgURFUJFgWJ5wZRiUWhGwhLJBaAUD6ADb/BVyKx4hzU1L71fl5VtXNZHAdBgP6DMQEuC+cWXdsfHQ19jyINSkqQUjCOMV70/ur63eFw+PZ9/+LV+XizEYSkhE4YLQjNOUNZFGkFIJUSkhG2O9tc7S8+/vzz49fv/ZeXHz6/LmI916pPzJCYZZGhxGqjlOAChIiVKJt8/fAJLD91u7fP35xfXj8d58Vxqlc+H6p8NXNoOom1lJzyFKTPbHdjWq+/uv5Re+fu9my4fH9xsuxqq4/LbKzylXcoi6wSUnHurGyLuN8U23vDYru69eB03FWPn91uprk3emZhqCajdwiUkkIKymLJY+BuZtp1tLlfrk/L4aR0s8RIUWiIOW9cOtQ54oxRQhljlFL8DyWEU2IUBU5wEBIScsEAlLUWlEKZtV2epMYAaM4FDnEQBJGCidGGhjgIjVZRZLQ1tffjcvgL2hIsocHGhzsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/16.png",
+    "width": 1920
+  }
+}

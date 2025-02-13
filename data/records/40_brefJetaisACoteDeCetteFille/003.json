@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "Elle avait pris mon numéro, mais c'était pour Steve, son potomo.",
+    "end": 5,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=3s"
+  },
+  "thumbnail": {
+    "hash": "780b3ee278",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBbVPScAAA8H8iGwMGwsYz24DNPTFYk/l3bjFJ8HhodUZ3UUkXHR0g3bWyh1PzIVMry858410v6nV9hL5dvx941oZ8lgyhqBCb26lrrq1SeNAoyj8+7p4fbl8ebl/suCfu5N2wPzTUnsCALxPn7g0FADBelv9NnV89+wm8zmepT+/fXn7+sO9OoSxq/Pxjp721CgdKAfw5m+oc5bs28xSKWzV1BIV2WWGI2Hijd/X1uGEZMwBEUBRHfSNDOagvgL8Xr9LRucDs7H5TP1+3jlqLL1f0DB5qVc3vJ3tmRePCoU1dWaaorir8fFgDx9MuGQxiHu8Lu/S7V5tUpL4mEgjiNBtnpwfdqtnMU0OtuEjnxFTi1DHA4Ha1QEQIzFdOEUeNiqvLVSaNeTz9tZt7JhyURJvLrdLUg0xWI8g7mgzW9GLSjxGYD0e891X2+ZJkS3yn1XrNcf1AoFPkrXlWiiUGZHw9Q7N0AVBRPBnwkxiGIwjMxkc6v6Erm53GG1gaa/ISm1/IF3gyVg5HpAxDp2gQQZC4H8MRL44gTAh3LeWbY4ys8u4t8+pR/Z4BiXA0l0gJNEunmSSZ/A/GIl+H8vW7iAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/02.png",
+    "width": 1920
+  }
+}

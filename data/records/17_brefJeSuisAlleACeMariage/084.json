@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Il m'a dit: On ne peut pas, on va pisser dehors.",
+    "end": 85,
+    "index": 33,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=84s"
+  },
+  "thumbnail": {
+    "hash": "800866d313",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABYklEQVR4nD3PSU/jQBAF4N7sgPe07Xa7F+92bMbB1oQRngEUEBJISNw4znDhyP+/oyRopKc61adXBRDGiKBjICKIGKiK6VaLOqbCsR7b4n3Xfd6OSxYTDE0IwWkVGwgbCGDonBtDyrZatCxMbOu2zJ+67P3XZtGhd2ZwzwfYOIGjITByzFEmB5BEyvNeh/K+VH+v+pde3Smu/f+AQEgQPcPaNftTQ8JqSp8b8W/uPpbhbVvcSG4jAI6nHwIJDMwD2PB4zvUPyRP7/DKkz3X6OohFR2uTBASffvguEY4pXbNL459VNuqc++HA6MjcPrL2TZ7T0IcAQAwQPkxnhRofC2/VS9WpukjqSvQsCKi12on1yzQ/TNeXKge211iutt2U+qEIaJPEF9lY8qbkbZY0dap2Wt407cN0/Tj/3k9/gEj3UiySDymTimetLDZqnKpp112NxSwizfx1xninq7kep+riCxUaKZzpKI2tAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/33.png",
+    "width": 1920
+  }
+}

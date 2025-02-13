@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Je réponds pas aux gens à qui je dois de l'argent.",
+    "end": 23,
+    "index": 9,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=22s"
+  },
+  "thumbnail": {
+    "hash": "283171aaca",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGtmam1qb3JvdXRwdn99g2NfZE86OWpeYoiIkY2MlI+NmI+Om4+Pm42MmIiHk4KCjgBua3Fzb3V3dHt7eH2Eg4tbTlCIYVyAZmaGhZCWlKCXlaGXl6KYmKWWlqORkZ2Li5gAbGdrcm1yVFBVUVBaYWBnYE5MgV1cm4OGlJKelpWimpmlnZ2qnp6snJyqmJink5OhAF9TTkM/QxMVJCAgKzEvOkIxMXNPS4J2f4yPn5uapZucqZ2frKSls6intaCgrpiYpgBZTUkcGRsNDRZERFBCSWM5PVJKR1lQVG9OU2qIip2Rj5l5d4JwcHx2doOKipeYl6UATkZDERATGBUaRkpeSFBsTl52TV93U114R05pY2mEiIaPYV5mODM6LSkvXFtkl5elAEM8PAcGCSUgJD0+TlpKTYFxdWtyiVJle1Bad09Yd4iKmW9ueGFfa2hlcWhncZSUoQA1Ly4GBQgmIiRTPDlmVldzcYFqcYpXbIRWW3V5bHeYm6mXmqiRkaCHh5WGhpORkaAAKCMiDw4REw8TTTg2VVNlRVp1TV50WWmHYWF8hGpolZWkkpamlpenlZWlkpKhi4ubPMa4VEYG8NsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/09.png",
+    "width": 1920
+  }
+}

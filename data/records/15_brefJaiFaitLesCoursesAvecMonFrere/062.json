@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Elle est venue, elle a vu les préservatifs.",
+    "end": 64,
+    "index": 33,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=62s"
+  },
+  "thumbnail": {
+    "hash": "2c8e7fa0bc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACMZGBoSEhYQESIcHisjI3Zzbb21rFVKSpR4b62IfGpGPHNjaa+in6GKgImDjWFhZwAZEhIUDQ4QCgwVEBMRDA5dVFi6pKZMPDyfeWeziXqIWEmEaWqxoZypjoSjn62LiI4AFxEUEQsODQgKEg0QCwYJV0tJp4mFclBHhF5Qh1xPb0M2kn+Gu6ulqI6CqqG3saq+ABAKDw8JDRAKDw4KDBUNDqGZn7esuJV4b39YSmNCPVg1LYx/irqooaOOfY2Eh6edtAALBQkKBQseExYbDQ04LjOWkKGppKaQeHFrRDh4TkddOzNuZ3GqkoeXbGWcnqSHfWsADAUKBgIHMRwcMRsWOS0xNzI1XFY6Y04/OiUiQSUkMSMfFxQaMyQrdFZWqqOsjXhxAAYBBQ4FB0MnJEAnITAjJhsWHj46JT86IyohGiQYFSkjHRkTFQYBCiklKqaisbSpwgAaDxFDKSVEKSQuHBobFBgRCxE6NixOSzE2LxknIBIpIhobFRYPCRAIAQlZYVqrrsQAVTg0TC8pIhQSGA8QEAsQDgcOODYxZmZaenRubWZiSEA5IBoWDwkQCAIKLysokoWI+n1972cCFt4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/33.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Il est parti. J'ai sauvé un couple.",
+    "end": 87,
+    "index": 34,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=85s"
+  },
+  "thumbnail": {
+    "hash": "0cc81ffdc2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nAXB6VKbQAAAYFoLC7tZYGFZlmM5goQjhxgjifFI1EmjHY2MNhl9gP6pPzp9kL5zv0/6N0teTsIipVCTTVX+nnvvk2jbd0IMkPz1zDU3o4qY2IHABDIBsvR5lb+16bLPVAQCrL6fph9N+pyzidNLeuqqEEUmKIa+Di1NwUCW1rX30URrTtqITT2yH8fLkN4ktLDwU+ztziYJtR0EONYcBIimSMs6vC+8hhsPA3Gb8v1YvNVBV4UVxdsqel7Ohj5zEaBQYQg4SJWIrXMbMwJDG7aC3WXe47E/92lqo4vjaFHFTUgvfRbq0FRlQ5Ulk2BqaMwEVbmYiaCkaJMFFcGeppxyQ1hwHvNDnbWcOkhF4JukyF9MA90vpt3q1zg9pJZVu2ZG9aynrUIzJuqJZ3VlshZ8YOs6OJJEP9os2t8v3Z/X/WXzt4x31KCWbmSuPnANYag1xTcJfx3lq37AoCJt57Nufn64vv7sdj/X3fno8a69EHx8NRxO83gSsKlrD13yo4weiigj8D/g1TmkcUsnxwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/34.png",
+    "width": 1920
+  }
+}

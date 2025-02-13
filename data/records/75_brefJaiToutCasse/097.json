@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Très longtemps.",
+    "end": 99,
+    "index": 37,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=97s"
+  },
+  "thumbnail": {
+    "hash": "56c2a7ea3b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZ0lEQVR4nB2LS2sTURhAB9I7uc/vcZ8zk+bVSRsbU1EihGgjQt0EtVIqWujKVbty1f+PRDiLA4dTjWNKFJzGiKHl2BJ/366ev71//Lx6Pry7210kwFOmBCRrN42+YufBsJaAhhMG1PRjd/Vyv3s6vH253/7aX5JBb4kM1sIumlgZiVqRVQSa0PBQuK/b9d/b7WFz8efL1e/9K6eP1SrUEpdtrIxCo9kZZscBPBq6262eblbrLu9fz39+XFqJ5j+qhjeTUumhU5KMIjBkFViFD59WN+spWx8gbM5HRoE4cVJYMbDXy1HlgT16Dz5RIMe1gOvLSd8ksIGs73PQtRsKp2qQwn7oS9WGcJrzpORxLmh8hGAlDQWcDJyVcBZYClcPrBROHYe26mKctWXRNeOUC4VMIVEsHNEwauqIM3DBwIbM0G0mTTVJcZ7Toi3no2aaUiF/dvR20TV9W/qmzHKa5zSNsWOeBf4H6+gp+j9JTnoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/37.png",
+    "width": 1920
+  }
+}

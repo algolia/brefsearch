@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Je ne sais pas ce que j'ai.",
+    "end": 30,
+    "index": 12,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=28s"
+  },
+  "thumbnail": {
+    "hash": "074bcf1586",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nAXByW7TQAAA0Elizx7PeDzeMmM7juM6W+OWENlVU6CiiNIWUCUQotwQEpzgwoEzV76Aj+AfeQ/8+/Pz76/Px3Gghm6OscVYOEg6MIZogojBJKc0gTgntGKsIATc7NvfP769e3ouwcAifOSxPovwCLKhK0aQAnep5EmiU0xqzhJMwPfL7sPV8/dPDrenm5wxS+nBRngI6cD1HcQH8NVR/uVwWnHeeFw6EHw9HL88WT9cHt4+3jaC+y6sPF57bCbG8yDwXXy7mH7abyrOC0L5CII3m7yfmotm1ttwl6hFIFahXPg8Y1QiZoRcRroJdcLGE+5NlQJdmW3T8NwEL5p8Z6I+j1JCMoI1wj6kbRp11XRXFFWgl0nc2gno6tmZ1ffrbKVFq/1HsYoRbLVolKg9fl2Z+7a5a5frOPzYbfZZClahuG7sVW0MRtpxpYMklTH3MxH7LM6Evwj1Lpu83s4futVZYUBv9UWZlh5XLgog2kbqWVNGKoaOF4allPNC50aohI27wrQ2+Q/6/DK8rm9q9gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/12.png",
+    "width": 1920
+  }
+}

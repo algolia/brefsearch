@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Je n'avais pas envie de me détester. Je suis allé en acheter au supermarché.",
+    "end": 5,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=3s"
+  },
+  "thumbnail": {
+    "hash": "1fce0fa3dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGtqf1VQXVhSX3BugXBtfnVzhHt5imZjcGJXXnNvgFlSSVZPTmdjdmBMRmNVXGJgeABdW2lTUFxcWGJgX2xpZ3NTTlRSUFggGRxLNjGUhIpbVkpeWVRua3lZQjFkUU1qaIIAaWd0aWt4ZGNvZmZxYGBrOjg9WkVKb1JVcE5LpZGUTEg4WVZRb2pyZUUmcF1XcnCIAISLn4CFlmtreHZ5inhyfoFrcIxja5Z4fqOGhaKXmkM7OEU1N2pnb3Vqa3lxe3ZyhgCHj6KDipxrbXt0dYaWe4Oeen2GZm2DaGiJbG+2p6yalZlYT05mYmd1c4F4doZ1cIIAh5GkhY6gaGx6c259noGLo4qPwLe+kHZ6bU9QaFJTtaWphn9+XVZZb2p0cm57cGl6AIONoIGKnV1gbmlbZItobHpcYYhxdV5DRp6NjmNVSFpEO2hURVtNQ2BXVl1MT1VCTQBRVGVYWmsuLzg/LjBkPj5qSk5/W1+kjY/f4uiHg4hoYmFfVVJlV1NgT0ZINjAwISgAIh8sHRkjEA4UJBkeTTAxVDc4YUBEoIeKy8TMusLOo6q6jo+heHWIa2NyNiswFwoLPeuxZcvRsyIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/02.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Quand on allait nulle part en chantant à tu t'aides\ndans ma vieille voiture cabossée.",
+    "end": 87,
+    "index": 40,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=84s"
+  },
+  "thumbnail": {
+    "hash": "5f8caf2265",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nBXLy2+acAAAYLLs0PUAzjo6tVqsivKUH2B5vwV+QJFXV4omto1JD9uy6y5L9q8v++4fIokG4FSaBJrqlU0XRnkcpinMXTMUOWU1WVJTUhGNXQCTJPfsAAEbg6O21AJsONX1kgzmFUwe4+gWnw57oyF6PcJwnmR9L4Zxvs/r/2HDquSM56itLJm2au8U9RDtpBmJfri8usB6Hy/5BV3vG88JYfSACLzOkOJ8QrErUZYsx/BDRXc44SmMM9vjJwSBfQZzOrV8TdRNzUVMK1Hu/Q2jyKIpS9b76/n9eGAn80Bz26Ik+30GH6uLNYsPVUZwTB+RZRcIFksrzEqiSfD9fPr75/eDt7O3mqt5Ci3oKxaMbujBV+Fu3bYnJE3Kpu5cO3TMAMLi+em5zYpT3VZR0sA91Fx+OL3DBgTaV3mxO7whry9vP37+ytIyy5pv3RkmdeDCewoI45lELOe9wfgTeotdzdD+PikCJ0aO3bEoHm07qqqubI664mlGqDsp4JXlzWKMDojelzU+2lJ8VbZ5kv8Dyudf2hS/5L0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/40.png",
+    "width": 1920
+  }
+}

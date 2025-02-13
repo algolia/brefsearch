@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Elle était magnifique. J'étais au sommet, le café.",
+    "end": 15,
+    "index": 4,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=13s"
+  },
+  "thumbnail": {
+    "hash": "ddbb02efbc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBW2vTUAAA4Di7NPeeNMnJyZKTJSdNTpIlXW1rqVp3cVunm/MyETcYjlXx8uSL4IMIoqIU68vQgSCiDNHiwwRBffHNJ/sDBv4av48xBVbjWU3kFJ4FJQlb0EU6hpoNtQDbSYVQElBSiUgl9Ehl0mfaE3IHK1NQkDgOaqoDgWOWfRtiZFgQOgiFvpfTKIuijMYZpcxSqO/UrRbiGmm8UJua9uzINlyoYgO4Rhkj04Kmg5CPHYIdGviMIXKpzndPth70Ni626qfj+EQUZK7t6aqpiLoiYmR4zoSNTKgBqAFGZY/U8umfwy/7g8cPb169tTa31e3MplGbkti2LFCydKACoAIVamWklxmCna8f9v+N/v75fvDuxaOX9+/cO9e+e9w/M2l2G0kzwA6EhQIn8JwiCaCkMP0nzw9Ho98H334NP33c2/3x5unba52tapDI0uZ88/ql5bGxolAsyty4wrOSwDHvd/duXNmYSaozad47u/x5Z7U/W9+k4YWQDF8P1lZWxo8WPCD4gDdFFioCk7vB+VOL26vr89XGQpJuH0sv19JeTge3e6+e9UVZDg2laUmZIS5GcL1O/gPvv1V7U6EaxwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/04.png",
+    "width": 1920
+  }
+}

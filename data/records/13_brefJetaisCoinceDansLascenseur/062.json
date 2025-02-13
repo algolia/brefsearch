@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Connard. Soudain, j'ai eu envie de pisser.",
+    "end": 65,
+    "index": 30,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=62s"
+  },
+  "thumbnail": {
+    "hash": "764e3ecb16",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcElEQVR4nB3L226bMAAAUEvBd4NtwDYGSriThgTSZlpWrZEq9SF72Nv6A5P6C/2Dfni1vR7pgK1RIaNGy6FwXW6OXfW87i/L/PNheb2cf19/PK/zblv6RFsttWBAcioFExQPdb1r2snKp6lexu409d/n8ekwnYa6L7MsUXEkOMHASS44kSH/8/fz9vbRlPV6eCyNqr1rctsXrvU2T+NIMEZxSDHIlajTqKvu1svt2/Wt31+uv95P01i5xCfaaakirqVwWmRKRBQDwbkUpK22VTc3u3PfzNb4x7E/NmWX2/siSyRPIm4lV5xghEAVi0ILp0LrfL9cDw83Z3yAgg2EAYQIIcFoHHItaBrSiCLw36HA8M7nw/KSZA1CiGDCKbVKGq0EZ5RgTjHGaLMJQBAE/waCg7eFMQAAiCClhBDCGUu08tbYNNFKCs4QRIAxpqVK4/RQt+dhKvNt4cumqqd+2o/7ZXc83a/HcW7LJjc+VvoLRaIp0BvI0mUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/30.png",
+    "width": 1920
+  }
+}

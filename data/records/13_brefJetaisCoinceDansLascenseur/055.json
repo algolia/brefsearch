@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Il m'a dit: Non, connard. J'en parlerai votre patron.",
+    "end": 58,
+    "index": 27,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=55s"
+  },
+  "thumbnail": {
+    "hash": "dd85f443d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhklEQVR4nD2MzUobURSAL4XMPefcM3fGZCbTMYlWZ1InGp0gaX6QGtv8VCr4W7OTQsGmKOJGWmgpdNFF68qd4BO0S9+g+1LoY4irvoEyGejH4ZzN9x3hZSfcCQvBcGztZ+2Nevz9YPu416zPFizNlqlskzWTyZRshcJ3nJytF0p+peB5tn46H37Y7B51W62wZCYemoysgBk0ExOKajkoh9HWcvVNp1mbKb5ea4z6K8Pm0pzvIEnFwIxKgVKQlARisH38cu/0YCU+7K/ut2ufXvU7lSD0cq7FiEZqEyWjFCpC8fnHv4/n16Neox0Fe+34Xa81bFRPXqw+euga0mCFREhjVAKJLz9vvl3f7j7vzrr2szhar0XtsPQkmM5aWgLgGBiTZuL91d/LP3fD0Vd6IHImzuSzRc8jZillaqd+chBtbYqzy987R+fTU4+jhdZyZ1iYLAXlipv3koDo/3tElAC2ZYmzi1+Dzbc6kwnK9bixnnfyQVjxJ4uGlKkKAEkMkDGM5mJ8DxpRPmqlWF9pAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/27.png",
+    "width": 1920
+  }
+}

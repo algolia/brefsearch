@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Et en dessert, le fameux doigt collant au sucre vanillé.",
+    "end": 119,
+    "index": 42,
+    "start": 112,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=112s"
+  },
+  "thumbnail": {
+    "hash": "e9995b468d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXB207aYAAA4L7Fki1jrLKWFkrXyWQcLBGSIsihgiCdYAC1iQoiDGkZSPsXWsZRKASyzMyFkV14sTfYu+37oGZjAJq9oTq7vChjiM1oMCFb+M6OR0oelvxWF2Yxo5SdooE0LV4KXg8DDYZPXflhoOrRUMKKUYSFwhEic3RS2nXzTuQDasLNlAm2Vm+BWOtEggmo/kXRZ7+nk597dIC0biPvLKSZyCWybsIp0LidfGuCbUYDmk7x4+GTIi+gCBOu3dQ77f4ezeCo7eWLV7TLlzrm4w5P5SO2BcNGA2pG7AfB9Fz/u17/g8S6JlSltthl/BEcJUwwRlpdtOfA94lxUDRFOg4DoWgoyvjZ1fz7YraGpPZYbqmqBJKxyJvXsMsZKJenF+damrvz0uFU4mqkVM+ybHA/9rwZPq56kHyX0hrpUSuZZd3vcYqLHC26K/Fa5s/BTfHhvrH5Jt3zmTjHcstJ/ddjF9LV03nnM6gEhDP/rMwrOe6511cK+fh+qparbLSJ3lIXTXkJABBP/6z70BRkKnnfSXj76thb46IlNvhDbEr5QiEWTrqd4+Lt/Gtn0FJHykgWqktd+w8GAJ9aOox9ywAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/42.png",
+    "width": 1920
+  }
+}

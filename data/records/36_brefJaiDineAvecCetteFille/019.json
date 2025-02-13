@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Chloé, nièce trop choute. Musique, OK.",
+    "end": 21,
+    "index": 7,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=19s"
+  },
+  "thumbnail": {
+    "hash": "a0835c8572",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBW0/aYAAA0L4sWbK4p0XZoiG7ZMuWhWAyoiTgrM5JDaLBbuvooIhaaMvXUukNGbG1lK58LRULIZJNLckSs1+5cxDy0zpD7DdrZJshfYH1ec7Gs20MXXkZnX/4YDkyn4u/p9BkEV3F04mN2BuEPyZ7iuCJwAXcUJWnVvfaNAZ0GeYxHs8RnzfjTxcSixF8JV7ZSuOpD8itDYcC77eU8XknaGt9gRu3lGFTuD5T7y+90DYtUFt99eL53KPE0rNM7C3i/dQnijzm6xCwfZYeSaIvguBMve3/8iTRrlcnHe3GMg6z2OuFJ9HHc4hEV33DmukXN3Jz1uveubAnAFeWPEVyGvzUNP7Y3dnA/Ttw9XLp3VIEadUFXeloCtvSjkLXuR8FU8s02aqvyrYAgk479OBEVWC5KFN7BRJFJIbVeAYc5RhmlwPUSG//C65C6EzNizvoXIlgwpz0Kl8btX2ZJ9R8Bikd7JwUMk06f8p8W1yO7u6lLs1mCJ2ZZf4GzJgtn9eJjkS5XFnd3jxE15Cdj8nSAcZ+z9PYdnY9VvqCqqc/NKnkszRki0aDcvnKoEhwaLqwtZFNJf8Dq8SxdkSG0zEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/07.png",
+    "width": 1920
+  }
+}

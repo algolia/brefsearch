@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Pendant qu'on marchait, je me suis dit que c'était cool qu'il y avait\nun bus de nuit toutes les 45 minutes, que ça me laissait le temps de conclure.",
+    "end": 85,
+    "index": 37,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=80s"
+  },
+  "thumbnail": {
+    "hash": "2ac60026bc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB8aFBUPChYQDSEQCSELBxMGAU9AL4hqTzosI4FaSX5OPnVBLlE6MBodIMuznf7WvAAiGRUaEw8bFBEbDggdCwUQBgE3Jx1uTT45LCN5Vkl9T0GETDhNMCQXGxzQybD/5sgAGA8JHRQJKxoJLxwKNB8MGg4AUkU0jmtVWT0yXkQ3UzQpYjgoOygeICEf29rA/fTUADUkFzouFkotETsfCDcgDBcEAIuFde/iyW1PPYRXRXpRQn1HM2VGMyYoIuXjz/v63AA7JxlLOSBEKQ49IAgmFwsQAACCdmXHxblMOi5nSDhMLylfNCd0TDsqIxzs27/87swAIxYNPSobLhgGPCAIHQ8DHQ8HQTo8NDA0OSkhMycfRysjQyYcNyYlMCMh6qeN8amOAAsGAzIhFSoZDSUUBzElJi8pOkA8UBkaJUEwKjgqISobEDMdFRkVGioiJ1I0NXtPRgAKBQMoGA49JhItJCowLEU2L0E8NEETEh0eFxpoRTd3SDZOMSoVExo0KysXFBmEe28ACwcEFAwGLR0RIh8uHx01MSkzNy83IiApFBQePycofktBLiEmGBYiKSIqHRcgOCwv3vFojAypLmQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/37.png",
+    "width": 1920
+  }
+}

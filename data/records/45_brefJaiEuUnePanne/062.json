@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Ni: Tu bois de l'eau, c'est pas grave.",
+    "end": 64,
+    "index": 25,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=62s"
+  },
+  "thumbnail": {
+    "hash": "274d7240cd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACESDR8RDEEsJWhOQmdMQGBEOFg8MVU5LjUgGUAqIVc6L1A1LFI5L1M6MUItJSwbFQAnFhEmFRBNNi2BY1aAYlV4WEtrTD9oRThPJxpMLSNvTkFlSD1aPTNdQTdcRDo8Jx4AMB0WLxsTVj0zkHNlj3BiiGlZeFdIdVRFZTorXDUnf19Tbkg5LxYOQygecVRHSC8mADcjGjciGltCOJd6a5l6aohoVlE0KF08LkwwKEkyLHlZT2o7KUAeE2RHOXhaSltBNwA6JBk2HRNSNyuYeGl+YFFiRDgoEgxEKB9gQTljRT1qS0IzGBFKJRhONjF6XVBnTEAAeV1QkHRno4Z5s5KCeVJBaD40UC4mYDkuWjgxYEE6cVRMRjIuFAgKDAQITjgzUzowAHBVSZF1Z7SXia6MfqBnR4dKOnxOP3I/Lj0fGkwyLHBNQj0qJQUBBAEAATQlIlM7MQA5IhlXPS6MblqYeWiUc2aJZVWBXk+EZVsiEQ88Ih1nOy8dDw4CAAILAwRMOjRxWU4ALhQPVzEgdlQsc1Q1gWZegmVWfWBUWUZBCgQFWzIoWz00HRQSCgQFLhYQYktCalRKiNd0HskXlskAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/25.png",
+    "width": 1920
+  }
+}

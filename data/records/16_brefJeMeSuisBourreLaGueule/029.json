@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Salut. Elle va laisser 100 points.",
+    "end": 30,
+    "index": 15,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=29s"
+  },
+  "thumbnail": {
+    "hash": "7af8ccbe3d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nAXBbW/SQAAA4MO+Xe+lvWvvoO31+gaFbggGAiywuuHGJEJijEtINHExIfrBLyYmxg/+Aj/sP/s8YFnVQyFLjHZZ+vNudX7d/l3vtpgvLPsKk0vLHppW6cLQZchE5gsbvFJFRmmJ8YIFXyaj0IHH+vLAwjcQnWfTK4+MO8YQwS72A8ihgcC0py/CkEOXmlBD2kdkV6gj81vMj2VxnSVziEbQTggRkCMTAw6RRjTHTEI6QvRRqlOd7JV60PVO68mgf5OmU9uc90SCJDYJwKbdEG/G5cgP2kg+xvlGRTe9aMG76yTZ5Om2Kreq12ZFjAQ2CMhckmPa+MFW53MpZjyshewTn1iOJDT1iCR4Veg2VtLxkYHBsm4qAoWLl2mfQYxtp0tZowrsIAzdXMSr6uVpNjk2gwBy13CB9lyFnM1w/HX/kREfAKCYGCcldSDsdD6v989Pv7/fPXxqb2Mq7Y4FMhFGrvPr8OHftx/zQZGL8P6iui51xrii6LS6fT7/OR/eP719F3nCAMZ/2Oc0ax2zdV8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/15.png",
+    "width": 1920
+  }
+}

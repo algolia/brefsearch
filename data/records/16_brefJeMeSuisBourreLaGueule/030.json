@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Pour vous donner une idée, Marla vaut 6 500 points.",
+    "end": 32,
+    "index": 16,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=30s"
+  },
+  "thumbnail": {
+    "hash": "e143698eab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEEffW4Wr7ICnMAFscUExcsGuI8YkHc2tJtU3YJRbDIfJ4hdmGhCXi8YIB8RFBMKCQAwFURkIry3DLnbBrvAB8OQJGBFJxhRJYB3P6BgOyhGJiGlQW6ZS2JWNDgiERQuHRkAKA0WVR+cgB/ZoQ/Kew2qYy1BTzAVTCJYfTuwSCcjTS8rYy45bDtBIxUXCAQHJxcaACIMFCcORG0k2nge5m8ewUsqLFgzKj0hH1IpT106Q0w7Pkc+OjAoJhkQERAJCxAJCgALBg0hDDFeHatqHO16QKl4UDxwRD5yTDhNIVpKLGNcS0E1KCkrISA1IyEcEA8YEg8AFAspKBwyVit4XSCKdz91d0o+Xzo2b0ozgDONTiBuTEExKyAhJx4dKiAfEAsNEwwNADMgPz4rTVk4T3tUXZRocXpIPmU8NW5FM3I0W0IgQkA3LjQnJjAlIyUcGxEOEBYRDAAPCghOPEptUm5+Y4d8YXpfPjlTNC1ILCQjDy0rFypbOjQ1JyYrIB4ZEhEHBQcSDgwABAMDEQ0SJhYvJQghMBIqQy0uNSAcOSQgJQ8eIRAZLx0aHRUUHxYVHBMTCQUIDQoH+BRp6lkJkSYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/16.png",
+    "width": 1920
+  }
+}

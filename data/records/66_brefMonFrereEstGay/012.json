@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Ma tante s'est excusée. Excusez-le.",
+    "end": 14,
+    "index": 7,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=12s"
+  },
+  "thumbnail": {
+    "hash": "1641388114",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBa1eaYAAAYLY0fCHypGhyUoE0DAEVQe4oFCnIkAGWFLtotcvP2NnZh+30p/c8ULlUhkvlGop2GvUe0bRHjDsdrma8dEX2WnifwOUBafF9ZUDRjbMmOIYAXEFg0DitsmTbHLGhKaULNdAmgcwX5iTkaO6i6avjyBTlAX2OAggFCAbQYaedOUbi6smN8eQ7qWv8O2R/7u9eNN6iiECffgqcxNVuZgKEIkjtBLOY3mHl5itnF7j7ePk9Dd726e/Me9aFjzydWnKxdvKlHTsqBADSrdfnfTrRpo++8zlevW7DQ+S9ve5+ZX4mMJsxky6UYu3ulvZmrkAIABSOa90Lf8QWa+9lG/3I4yd/8ewv/u4fvmqiSrZcjootKXHVtSlBMAw3TzC+dmZeUr4mh5a2vbW+Rd7dNZlb0i1Lm11cJ88TRQin1/bwEiodlWoV0MOwIY4LFGlP+C++m9tSMGImRN2mWpE42Briz9DZzDjjqgMdvXtfLR+3QYU6rZItIjCUQ+hltpzoYqqPNxK7s6eFM3t0lA8yN2fp//LOV5XFd6wgAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/07.png",
+    "width": 1920
+  }
+}

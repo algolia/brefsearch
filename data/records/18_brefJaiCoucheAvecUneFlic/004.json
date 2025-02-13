@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle m'a ditDemain, OK. J'ai dit Cool, 16h00.",
+    "end": 6,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=4s"
+  },
+  "thumbnail": {
+    "hash": "555b777d77",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGBcSKahlXp5X1JRLnBlRpmCcHtwSm90OoOHSIuNWF1mLGRNOGJJPop9bLmlkJ+EawCCf2zd3NOGhms3MSKJcmjXuquwh3FiWTJTVydiXzFTVyZkTjluVEu0ooy7oIaym4MAnJeJsK+loJ2QWUk9hWhXlXRhg1hBalVCc25XfnBie2dRcVxJb1RJvqyVvaSMuqWPAIuKhomIf4uKfIFmWquKdpx9bZNvXIRyZIaJho6KhJSNhYJpYmpPRL6wnsSslLegiQDCuKiKgHN4eXF4cGuRc2CNZ1VqQjFxY1eGh4K5trPExcOLdHBpTTzBtJa5nYOniW8App6UWEs/lJeal5yqbFREQScYTjQol5aXtrSyvbq2sLCqf2pskmwZ1r9jrpB/oX9iAGhsa4yToY+Zs29zhYNmVVM1IDEnI2NoeIyQnaSjoqSim418gpZxHcqsKMCndrqdgACEjaCWob2FjqdcYnRqZm49MzUqKjRnaHFrbnqMiouwrKWQgYOFYiWJaBKGaiqmkm0Ac3mMcHSHeoKbdX6aPEFUFBgoLS88aG2BcHWFcm5qlYyDgHB0hWMVZ2JZQTxyhUZU0yfLzMLoAXoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/01.png",
+    "width": 1920
+  }
+}

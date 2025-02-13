@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Et puis, petit à petit... T'as pas fait la vaisselle ?",
+    "end": 42,
+    "index": 18,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=40s"
+  },
+  "thumbnail": {
+    "hash": "cd78e9983d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nBXN227SYAAA4N4aI46tQjmU0f79D6VHevz/QkfrBgyKlMIk6oiZM/HOxOwF3I0xXs6Y3S4+g5t37o47907G7wU+TtU7LI4ns2mRTyLPevrkceXZrtgQlovZ2fnbN6fr+YvxxcWnH9fXNzc/h+MRhxAI3PCkyIssTSKP3y2JjRpSwCrPzl8vsrRHCLz6fvXr7vft7d00m3KNluSZ/jrPR0l4GIcVfkdsCGYHvyxmH1fJacrkCn95+fnvw8N2u53ncw5gVQGw3axnsT8csHK5hJrC++N0s17NE3Z22Mt9k9rdL1+/3d//KZYLLugf7Etyt137kCXDfljdK+tSc3MQvHtVHFNzoAEDE+oz16XjyXSRzziHRkKtBvZK0y7xdQLbdd9QfANvFsmKYiTWoUEZjaOwp2lWFIWcSrADRFcWn1tEh7JmowHTqa+fjILUIzaGSKeOyyzT6aiG73W5DlYC2JJbbQtCCyqRgY5cJfbU+TA8chDTiYRsXXcwVAnRurbBaSoGAv+oVN0p10CjLlV5KEsdDfeZtWTm4H+LbYItILVb+wgp/wA8ImNyRceRtwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/18.png",
+    "width": 1920
+  }
+}

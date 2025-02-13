@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Alors, qu'est-ce qu'on mange aujourd'hui ?",
+    "end": 35,
+    "index": 14,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=34s"
+  },
+  "thumbnail": {
+    "hash": "c1a739fac3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBDVPSYAAA4P2Zuou4SitPPfvQPqjTA7EjPi49ENiSzaHucFtj8IIb7wYMZGMyN75DF4qgHWeZf67nQbRWT+/ap+c3pn3TOBuXTjppeAzr7bLRk7RmoXYqlOsZUaHT2RTNUqkUoncHpj22hlMOavmK6fb637967V//QnEi1NqgpPNQlbUOBwSa5WiGRYzBsHU5NewpLXWC4eT60ryyn7AA4/74ORg58AXioeB2QTGyosylsz84HjHPL7rj2+boji2d+QLRdMDTPyTbTJINh+I4h5M8FtmBSuNIVniQ5zMAMe3L/vXf1uiOBMYOwVUi/kYirONRGduK4yyGUrFQpHhsiqUqEMRcXkCsX1eD3/fNq38kpxJcjfBtaNGvnUN80/VmfvkDhuIHKF7VO5KiClAWRAlpXUx6kz/W6B7bg1tEyvnoAelxHcW+Ye53jmczgApDfi9ftRS1UZDLBamE9Ce3oFAPR5J1CTDU9kOnc2PhCeNdDrx96XA85mMeOuHzobtl9URWanKxirSH1xloot+Jn8W4RHpfzD5fWZzbXVtZmn3qWpjJoavE5urip7VUJlep6TXN+g+94M7xg1Q0AQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/14.png",
+    "width": 1920
+  }
+}

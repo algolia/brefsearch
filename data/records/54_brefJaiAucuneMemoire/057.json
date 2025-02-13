@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Je ne sais plus ce que je voulais dire. J'ai oublié ce que je voulais dire.",
+    "end": 59,
+    "index": 22,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=57s"
+  },
+  "thumbnail": {
+    "hash": "62b85bfb50",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nCXLzW/SUAAA8Mf6Pvr6eC0roFBaVuqwo3xs7QYbxVImTKgROhIZS9lmNNE4Fz2YZdHN6MGLXjx58M81xt/9BxhmCpWL2fuv33y++/r7+uZnf3/gGNUHmkWhSBHNs/R82H+7ej4K20kSAYolmXKOWTy7+Pb9z/XND6/lx8HT8+Fk1zC2DYMKONzzrs4Xk7DbMM3/QeFEmkbL29tf7y7vnh3NBm4vCR8fNZuztqtxZewffHh5Ege+V94ARKAleb2lacv52furLy8WyadV92OyvIxPV0Hn4rA32W5Evn8SDY+nq/ZDByCAfL04dZuB16mZtms79Upp7A9eRfNFxz0L/S29jKGkctUsO67jASag/WL+9NGBa+owhZRMBaTSWVU/9sej2tbI3bE3qgAguCamgICgCEQB1fPZuOM1SgVGc+tqRRJlies7Tjest4atXUuvCmsigRRDSSQcIIEU5UxQs3X1npyxGC+kWY6ygmXt9ar1gReaZuNfwGmMGMEcUCIpadnWS/lchXENQSZJOUwym5te4PUnTxLDqEGBEiITLCMo/QUhB0brfVjLrQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/22.png",
+    "width": 1920
+  }
+}

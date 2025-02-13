@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Je me suis rendu compte qu'on me regardait plus dans les yeux,\nmais au-dessus des yeux. Qu'est-ce qu'il y a ?",
+    "end": 17,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=13s"
+  },
+  "thumbnail": {
+    "hash": "f685254e2d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nB3O627SUAAA4GYbtuWU9vSK2Atd7w4OZGUUXGXQEmCyCQtZtBW56LLpXIy3TOOSxR/GRKMjPoGJb2ri9wQfdtxrpcPIVosiI9zVinEVtWvVgW2GrDCUFQFAAqcASTMUx9JCQchjb2fjJtoaNRrfTperi5Pf59PYR3taMRZvHxR1GkCSoBmK5dk8z/CmrGDf3z29v40Wve6fqw9/P7//dTZNo2BgGm1eSlFZL6g4noM0z0OJoTiB4bHVp2W63+77teeD3nUyWUThyYPWo7K3x4qPETIVPUtCFooclKj/Pezn5eJydjTrxuejwy+zJ6uX8x8vklHZa3PSxPNMWSMJBmTZHOBygCNwGrv5uPz6er7c79+8OrueJm8e9q6SYcVxDUm9t2ntep7IiDTgCAJmSYjjOewiOegEjYqL0rhz2u8+C4N5VN8yHNWob/v98W6zZloVrUgS9K0MldkAWEGSddV2rbKh2IeNYNoJJ2FNvWM6pajeHMf1RoxQy3W4LMxsgPU1EhPYvKU7mmLI2o4uO75pIMsV8nZlZ+zXen6pGpbKgWVtCpIA4Poa/g9c9FIExiuBuQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/05.png",
+    "width": 1920
+  }
+}

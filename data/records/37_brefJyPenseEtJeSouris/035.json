@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "En 1908, le fortisme créé par Henry Ford, tout le temps bien rasé aussi, popularise\nl'automobile et le rend très riche aussi.",
+    "end": 39,
+    "index": 12,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=35s"
+  },
+  "thumbnail": {
+    "hash": "fc80c87cca",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC0qJi4qJyMgHhEODjEsKiMeHSgiITMtKzkzMTgzMTIvKxoWFhkWFSolIiomIjAsKQBpX1ZrYlhcVU0yLSuTi4RgWVNmX1l/eXORioWTjIaZkotQSkdVTkhZUUlGPjleVU0ART03X1ZOYFhRPzs4pJ2WZ2BbfnZwl5CLlY+EpZ6Yta6pYFpWaWNdgHpxRD03RT04ADgxLGFXUGNbVUtGQqihm2liXYR7dI6GgaqjjLawpr+4tGZfXHFsZ5eRiF9XT1ZORwBCOjRdU01cVU9OSUaknZhoYFuIfniIgXx9dnOxq6a/ubRmX1x0bmqUjYVVTkc8NjEASD85U0pEWE9KT0pGnZeQZV5ZioB6iYJ8eXNtp5+avrexY11ZcmxokoqDRj44Qzw2AEE4M0xDPVBHQkhDP42HgF5XUm1mYYiAe5qTjZyVkKminGBZVmJcWI2FfFVMRkc/OwBNRD1RR0BKQDs6NDJzamRORkJkXVh+d3GLg36PiIObk41RS0hGPjpnXFRQRT9PRT8AKyYiKiUhJB4cGBQULSclIBwaLyooPzk2R0A9RkA+RT88IR0bGxcVLykmLigkNS8ryrWYTnhYCc4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/12.png",
+    "width": 1920
+  }
+}

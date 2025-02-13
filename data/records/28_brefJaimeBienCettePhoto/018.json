@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Parce que... Bref.",
+    "end": 20,
+    "index": 8,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=18s"
+  },
+  "thumbnail": {
+    "hash": "66515c89d0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIZbRohaRIBUP3xTQHdPP3hRQIVaSI5iT5FlU5BkUndTSGJFPU02MUUvLjckIz4rKACMXUZ8VD+DWkh2UEBoRTdYOitgPy5wSjiNYE6SZVNmRj1KMi1fQzx0VU5NNjQ4JCMAkGJKr39qrXtmkGJLe1M7ZUEtZEEugldEqXhjm21YWj02X0E8Zkc7VDkxQy0tNSIhAKt6YqV1X3VLN1QyJEAlHi4XFkQlGo1hSMmVfLyHbndQQ002NUUzNC0aHDIgIi8bHQCbbVFtRjJEJh5TOC1LNC03HhlMLB+RZUq9hmvCiG6rc19uS0BjRz1jRDhWPDYxHB4Aj2BCglY9jGFHiF5Dd1A2aEQra0YvpHNZuH9luoJkuX9moW1YbEk8cE0/iF9QVzk0AKVvUqJsUZpkSo5dQ4VWPIRWPZhlT7N6Y7yDasSNcbuBZrB0XppmUnxURYZcTn9YTACeaE+nb1esclupbleja1SfZ1KfaFKdaE+ncli6hGu0e2G5fWi1e2iRYVFvS0FxTEMAi1pEmmZPqnNbr3ZfpWxVmmRPiFdBeEs2qnJbt3tltn9nvodxqXZlh1xPVzk0UDMtqQCgtJQQTYkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/08.png",
+    "width": 1920
+  }
+}

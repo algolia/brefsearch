@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Et puis un jour, il m'a appelé et il m'a dit: On peut se voir là ?",
+    "end": 95,
+    "index": 41,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=92s"
+  },
+  "thumbnail": {
+    "hash": "c0c748ea6d",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABa0lEQVR4nBXQyXLTMBgA4F/7YsmyvMmx5MiJaQNt0qZTMkwXhsIMF44tF16hhw7D+x+YPsB3+YAvX4mLys9O2dqPLp2aeGWaRbl1qT0Fpoj+8/DysNxjwAAYpN9xbg3X0dq6bIewbetUqTL382BKiQUCeH3+9/fpDQEBoMBlV3J1HerPKWtu9/sfx9Pvu3m+WaWKyqFwjhHFil/bJ0nkO/BNWsfNRet/7s4r6Zpuezx8249xdKvOrkLhDn2XtL4X7INqAQnw/da0OU9nN7tD2WQrXaWrpYvzsLTtznCVtP7i3XcGR+EMdzDmi2592eejKBoXcrc6D1U4TPk2n8X+k9W+IvRR0hOGCfC6DOB81GbgrGAA1yldbj5WqnCqqIWY6iEP8c7IRwIjQAQ0cgtSOsJsxQUnNJfGC4EJM5xZxgQVSuqA0IZij9AEEPD7LS456wQDwIIQLTRnQmEkMeaUCyIk4IagzHCPoAH0H+ZKINgPGWVrAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/41.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Arrête de penser, réponds-nous.",
+    "end": 59,
+    "index": 22,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=57s"
+  },
+  "thumbnail": {
+    "hash": "e30810b8ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nAXBTU/TYAAA4Ca6Adqtfb/63b5v37Yr7bq1c64bNLIANciA8BFhkwNOE0+giwdjJB7Ug1miR/WA0cSEo4l/wJO/zOcRRjtH3azgtIkRJdiDgEGZQcgxZBhSgpiqcIK5YzeDsJ9la8L45FGnPcCISxIDMMRKYDqJzVLGM9+/Q2lCEBclSp1W3CzieCCMjyetOJdkbrM+D4anz2bz779evvt8cTl/8fbTeDozjQhIjsvSMFr1/K6wVY7i5Z7JBnFnzwvXpxevvv3+8+Hrz9fzLx+vrh+fv4mSYdze5G7q+j3baQtpknOayMDVzVQ3O1lelruT9Qcn9zYPy9Gkt7JFaWpZLcdqct4xzUiwDF9XA4AaupObfE2CSaVqVSuGoobjp7PtgzNDW8aQaoTbRmAYoQBkXVUaUO0ivU/swvE3TFbYXkHdPIoL170ri9btBQLquqYwlbiCuCQDYNdqjkIiDBsyigCOEIkQ8gj27++fbexMyv3TuLWKIMXQFhartxYWYRvJl+VwRcOVG2JNtOo1qy7qmuL/+PvveHr+/ur64ZPnSzdlBK3/E/1O7Fx+qZ8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/22.png",
+    "width": 1920
+  }
+}

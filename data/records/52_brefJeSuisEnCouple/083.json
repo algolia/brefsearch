@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Ouais, non, mais profite, si t'es avec tes copines.",
+    "end": 84,
+    "index": 37,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=83s"
+  },
+  "thumbnail": {
+    "hash": "599b1da86d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nBXL626aUAAAYNKuI9ZLRaUg2qOiU8R6OwIeOHKn0ILUYGyrpjV2rjNL1mXZv73CnmKPuuz7/xHHaLrz4KMxiKe9m3HXHgqDRq0PquP6VbfetFRTrILyyWkrnYGV5pgFxNc5OtwpL570ZE6WGEZo1CqzWwO/J/EdmjrYtUeTIQByo4ZbLdwWiC8heg2UnadsbXmlSzGCgxoIIdwHbjBFrh2GXhQ7ztw2bk3d1w3ieG8eY33vowdDulfhLrD2gZOoylJDiSKtkLrEs9C2Q9sKjZmPMXFIFn///P75nCiiOOwIh1sn6Latnuj0+48896t1+eMTe7jmE6xEzv9DPPjucb04rhNHmiRIXqty54wU8wWJZvaVwvcms6sWd3R2I9Rgt9MGgMDSCHAVc9JbwO6rhfUCtSzm3AIVsvS3duUNlDYs5VK5G/4KFIrkKUnwDFMrlap5ai6NVpoS5LPvTWZpWRtT+Rzrb1B4Ll9w2ZzG1+nMRZrMEBky9eHkY4Omt6bmDq/bqXOfZX0NvXizaDaNYG9F52SO6XHl1Nl5mkz/A1M/We8siagzAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/37.png",
+    "width": 1920
+  }
+}

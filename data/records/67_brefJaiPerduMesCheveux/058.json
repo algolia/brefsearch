@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Et puis un jour, j'ai décidé de m'en battre les couilles.",
+    "end": 61,
+    "index": 20,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=58s"
+  },
+  "thumbnail": {
+    "hash": "3bedd93f5b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACwyOzI4QTY8Rjc+Rz5GUUBHUjg/SkRAR0ZBRyowOjU7RjY9SCQlLRwaISUmKystMQAtJicyJyU6MzhAQUtLU19PWGRHT1xbSUlkTEk5QExKU18/SFQwJS0mGRwyNDhGSk8AQUBISEpQUkNEeGFiWV5pVV1pTFViSkVKbWBfXGNtTFViP0lWSUFJSzxBSE5TRktPAEZHUEVKVVZGSGVIRVVZZFJbZ3d8iICDjZCSmMXGzWxzfYySnJCUo2t0gIuWn1hgZQBGT1xbZXRqbHVeWF50e4ZYYGyhoaynqLKgo66wrrikqLGwsbqprLeSmaaQmaRVXGIAUFRgkpehi5Gdb3N/tba/g4mUop6no6Cpp6m0nZqilJeipaCqoKOvjZOgaHB5TVFUAEdDR4eLlnx9hpKVn6aruJ2hrH6BjImLlnBwe2VnclddaGtxfmZodUpIVEpQWFJXWgBGTVZ1eoWCfYWCgYmBgox1d4JYWmVxc35rbXhkaXRIUFpcYm5qbXpbYGxRWWIiJiwAOkJMTVBaW1xnXFxmTEhOSk9bU1Vgb3N+b3R/aG55R1BaYGVxZGl1WmFtTFRcEhQbWWqrh7AHIA8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/20.png",
+    "width": 1920
+  }
+}

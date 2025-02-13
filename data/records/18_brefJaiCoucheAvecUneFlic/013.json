@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Le lendemain, à 18h00, très précisément, elle m'a envoyé un texto me demandant\nmon adresse, mon code et mon étage.",
+    "end": 17,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=13s"
+  },
+  "thumbnail": {
+    "hash": "a902e9af61",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADg3ILSwprGum0VFJklPIWNbLWxSO2hnNF5iKnFzPV5kK1RWLWI/N1hDNHhtXq6nnQBlX0t3aF1oX1RtaVg7Px9MSityYmB1Z1ZgVjhkYT9rWzxuakhtTUNiSzuHe2y/uLAArpOFaE0/MB0TVE5DfnhmeXNif4dympuOgnlwj4yEhXRsjH5ua0xCYkk4hHhpxr+8AKOKfopjUHhRP1hLP4GAd4qCf3dcW39zbnBxa5SVkaqoo6+po29PRVlCOIB1ZcG6qAC0pp9gQC9oSDOYf3iqsr6mqKpoW1Z1bWiTkYy2s7DDwsCurKRqS0Z8YDLHrjHUui0AxL22hHJsTDw5gH2GlJ+zlJ2upaiqu7q1s7KutLOvqKaioZyUcFVYlnUd1bAMx6EQAHpnXrOYjGJZYYWPo5Wdr4mRpH19gra1sLi4tLSzrqqppKilnoFqbYVlJKaFB6F/AwB+enl6cnqdgnWjpbCVnq98gpNxbm67ura1tK+qpaGjnZiimpJzXmGGZR1zYkFMRmMAe3t+XWNvbGlweHmDgoeXWVxmZWFdqKaimpeTkYqFkIiDk4h/c2Fli20kmoU0b2dVJ3fNVngGkjMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/05.png",
+    "width": 1920
+  }
+}

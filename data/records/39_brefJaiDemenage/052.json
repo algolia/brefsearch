@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Sans le trois. Un mec qui dit: Ça passera.",
+    "end": 54,
+    "index": 23,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=52s"
+  },
+  "thumbnail": {
+    "hash": "ee6b74996b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHBiX4yAfMfEwrq0s8jCwc/KycW8u7qwrbGloaqcl6KTjpeJhIZ4cmRRSmhcWF1STwCFd3OjmJTW09LKxMPX0tHe3NrUzs3Gvry6sK2yqKSsoJull5KVhYBoTkR2aGNvZWIAloeEsaWi4uDf2NXU4uDf29jX1M7Ny8TBv7aztqyqsKakqZ6anpCLd11Rfm5ogHZyAKCRjLWppd7b3N/d3t/c2+zr7OPh4M7IxsC3tbetqK+knqqhnqicl4JpXYZ2cIh8eQCiko20paHa1NTe4OKXi4uwoJu5q6S0oZqGdXGekIWunZB/ZWCKeXaOdmmPgHmIfHkAnIuEsJ6Z0szMqbnKd29zWj01kHFlkXNjZUtBf2ZchGtfOSwoKCEpSDk1lId/g3VyAIt6dJaCfbuvrqOho4huYpqDesSrnZyBbINoWHtgU3ZcUFxNRSkhIgkGCGVUTWVWUwBeRDpwRS6odE6TdF+fh3qymYislISmjHqfhHOVd2Z+YlVMMjEdDxEpGRRAJhs9JR0AbkQlj1w0pHJFmmc9iF49gXRuh3p3jn91inltjnpouqWHknxjSDEmSjYsOicgPSQYur/nSY+jOuUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/23.png",
+    "width": 1920
+  }
+}

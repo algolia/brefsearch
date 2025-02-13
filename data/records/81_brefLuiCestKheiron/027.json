@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Il est venu s'asseoir à côté de moi.",
+    "end": 30,
+    "index": 9,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=27s"
+  },
+  "thumbnail": {
+    "hash": "33b940aa5c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBTU/aYAAA4J7mYVFSWizQ9m2BYpw6pPaF0reFFbQUEMNHkAbXWkJKiwh62GK4aNyyLFs2d9iHmWTJjmbJ9h/3PBgAVIJjWBDnk3xSSHEAmFVlY4uOg3DdRN8+vC1piCTDwXA4nYw0PYMREZJmWIpmoyxHJwSciJARPE5HcHKthLJ2+3B7J40Toeq+PgtGI6eHhYl1ludJKhpjuRjgQ3j4ycoK4KIgSRnFvFOCm2kG8OzWZkpH0HdOsLVwBKRSTFJYZziK4UIE8XR1FSdCzzPph88fr93Ga8+yrK6KoIZyqixi5aKyl4eo+ELR1AJCWQhBWsDpmJiHt1dXdrNy450sLqaSUsipqqbKmPeyVzf1XqcVOMe+3bFaVWGDYxLxnewzKOZqxbJ7dDho18q6Xqsb5r6KldQCzEuVA6NSLsk5EUJRFDPH7YZjdaU9bXdb4rm0O+gfNVsDq980D7DFPPCHrmFUT217fjY9nwTB2JsF/tQfZ5Epyfpuvmw0umbVlGWl32ljd7c3y7tPr2bnX9+/e/z5/XF5/2f54++v+3+/HwYD1x1OLOt07E0Xl/NL3/vy5vo/hiNvOz8jHVYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/09.png",
+    "width": 1920
+  }
+}

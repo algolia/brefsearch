@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Il m'a demandé: Sur place ou emporté ? Vas-y, fais le chant en italien !",
+    "end": 86,
+    "index": 31,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=84s"
+  },
+  "thumbnail": {
+    "hash": "123e089945",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGMaDnBHP1VXXF1XW3NraVxKQ1E3Lm1KPGNFOUw4MlY+NFE5LiEaGl8lGmo6Lm5lYABoGxCCWlN9g4KMlJWYmJdbRTwtHBdkQTNKMSc1JSJeQjVoSztGMCpsKx5kKx1bSkUAch0Qj2Zdqbe2r8HEkpyfdVVGaEU1j2hbcU9Ba0s9hWFObVBAVzgvh0U4cUQ5W0lDAFkmGY9zbJiusoqkrYSHiW5KPHFMPn9ZTnhRRH9YSXxXR1g+MV5GPZSDeZqQhnluZgAdEQ2RblnEq5u4o5bCool6WEY+JiA2Ih5WOjJrST1sTD5ONiw6Mi83NDJAOzdLRUAASiwdn4Fx49jR2sOpi3VfQC4kPyUfSyclSiwnUjgtTDYtQS0mVD82NTI0BgUJIR8gAHBOOY2Ghp+QgVM/KwoJETQuMEs0K0gsJF4+MUQvJyYcGUIvKXFQPol8dllbXwgHDAApISEbFxoLCQwBAQgZGBp+d3hoWlcuHxksIh4dFhYlHBpXQThsTT9+cW19gIYdHCAAFBMXBAMHCgoOBgUIJCMmdHBycWhpOi0qJBsZNCcjSjcxWUQ7ZFJMeXl+Q0VKBQUKr56CJymzIx4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/31.png",
+    "width": 1920
+  }
+}

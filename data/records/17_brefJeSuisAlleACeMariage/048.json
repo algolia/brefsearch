@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Ça n'a pas marché.",
+    "end": 51,
+    "index": 18,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=48s"
+  },
+  "thumbnail": {
+    "hash": "dd62b0d66f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABsVEgoLCFNCQ3FbXolyf5B6ipF7i498jIt7iop6iYR0f3NkZmxfX2dZV1ZKRjs1LAAiHRoQDw1tVVeJanGRcHuXdYSXeIiTeIiMeYeIeIeIeIWDdoB+cHV5amxmWVdLQTwAKiEgEQ8MeldamW52nnB9o3eJn3mNmHqOjHeOjn6UjHuNgWhugG92f25xbV5cT0Q/ACshIBIOC4FUWKVwe6VxgaVxhqR/mJd5kH9oe4h6kYt3iHFbWHltdH1scGpaWEA0LgAuGhMaDA1+TFKMWl+KWF+dcId5WGGQeI12ZHRtWmN8aHVnTlJyWFZzXFlOQkAdGBAAdlVLb05Nglxfk2FclmtsmnmHdFpbi298nH6TmYSSkXuHfEVLflhSfmNYblxYVkY+AKiPnLCAkqFtU6ldUriJkr2qv8OpwqBnc56Oq8Cqz7umwqiFlXxwdZaSkaiRl5t8fwCDZmOPaWeBaGB0WFxfR0pxV1x5Y25/YW58cIh6aX1mWWNeUFNeTkt7aGGTe3+Pf4EAbVlUPTIsGQ4MKA8NORMMSRoPPBIIPhoWRiIdOhgPKwgBKAoGKRUSLBwXb1daeWNfrVashjO2PpUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/18.png",
+    "width": 1920
+  }
+}

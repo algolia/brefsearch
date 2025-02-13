@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Je suis pas bourré.",
+    "end": 92,
+    "index": 43,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=90s"
+  },
+  "thumbnail": {
+    "hash": "c6b98068b5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGVygGp3hXF+i3yLnXprdXtbX2lWVjgxLCcjICciICckIiIfHDU0M291fnJ7iGt0gABve4l5h5SDkJ2Qn6+Sna+FkKJrbnVIOTJoVVBKPjsdGxgiHx0TEQ9SVFeGj5t2f4oAe4SQhpCbkJqlmKOwnam7jJqqiJShl313kXJtYktJFBIREhQTCAgISEhKmJ6lg4mQAIOLlI+Xn5efppmhq5yjr5ykrp6mr4h3dlc+OnNPSzgrKB0XFwcEBFVXWqanro6QlQCIkZyTnKaaoqubpKyepayfpq2jqbCign+WbmhvTEZEMCtEMC04KCRybmyfn6ORkpcAiZSflaCqnKewnqiyn6ixn6ixqLK8cG1wWUE8Tz46HRcWMCUjZEtFalRMh3JqZGFgAH6Ll4yZo5ekrqCstaOut6OvuKm0vZmiq0xAQjMsKRMSEiwlJVdEQG5eWmBbW0JLTQBUZnRecH5neYdyhJF6jJh/kZyHlqJ2g4lGTUwbHx4PFRkZHyInLS4qMjMzQkU9TVAASVdkTFpoUF9sVWRxWWl0XW15XGx1TVpaQ05PISssFB4hJjAzOURGP0hJQEpMPEdKjPGwpxuQAMIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/43.png",
+    "width": 1920
+  }
+}

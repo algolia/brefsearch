@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Bref, il fallait que je parte en vacances.",
+    "end": 2,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=1s"
+  },
+  "thumbnail": {
+    "hash": "84675f2403",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADgxMUA3OEU6OUs/QGpdWpSIh29gVXllWJiMhn1aOoxnSKOVk5uMiZSHhZOJiImAgABhV1lsY2JoXVxvYmGBc2tqYmBbPTqEYFmQiIOZgW2kkYauop+0qaW0qqmupKSflpcAdGtvh3x/louMo5mYjoR/FhETHhERJhobg3x7rKSkr6emt62quq2rwLW0vbOzrKGkAIB4fZGIjJqQkp6UlaGNiFI6NQAAAU87N7GVgpOBc6GPg66imrGRj5eFhpSJi6WZmQCEfYGdj4eplIOmjnmBb2JCNTZPNDNpSESGeGrCsJSulnemk4R8amZALixjUk+Ifn0AXFRYbmBckoaJtqisTklMNDg8ZEtBSz05O0JI6eTX4NC5tamqNyUgPigdJBcSRTYxAC4oMT03P3hxeaedpkZFT05IR41xXaWRfDY0N9DHs8eylkxDQVFGRkk8OAkAACgUDAAuJzIhHCVSTVORiI4+PUY2MzaAZFKlk4AvLC7AqJKQbFtEJiFxWVdEMzMmFxEyJB0AIx4lCwgMCwgMHRkfGRcdNissYD83YkM4Jx4fflZJm2FSlFxSgE9Ga0I6SSwnMSQaXV+vCA6+0F0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/00.png",
+    "width": 1920
+  }
+}

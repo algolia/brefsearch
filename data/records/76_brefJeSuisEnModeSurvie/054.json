@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Et oui, sinon, ça serait trop facile.",
+    "end": 61,
+    "index": 19,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=54s"
+  },
+  "thumbnail": {
+    "hash": "8be5ff192f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF02JW9namt5iD9AUCEeKxkWHiUbIHVVVJ59dsGekKyKf2thYGprcmdyhExVXD8wJQB0hX51hZFRVG4bFyImJS1HR1InISqHamWNcGyVcWpoT005NTllX212eaVARk81JxgAfp61UFx5RkhiPDpMfmVan35tTj8+XEdGon15lXVzOC82DAYKZWV3ipCrWV9mIyIXAFxac496fnZlbYVvYqB7V5VuWX5fUDoyNVs/QVpVaB4dKSEbJW1mbnR5i1VdahsbFgCKcXHDmYytg3qKfX6WgWWRb1NANzsgGRknJC8+RFs4LjODb3KRcnVSWX5HTWcdHRcAYE5UkWlhkHJkk52eiHp4goeYWmeAODhHVl54SU5jVkNHsod7gWpwaXCHXWR0R1BTAD5DVnd5iJt8aJ2HeGxthWFtkGZwkGNylmF0mFVph2Joe31sbn9+hnJ1fmZqcUFCQgBERleJnLqyu8ulrb6InL5jbIxgZ4dNWXNLXnVtd4NzdXpgaHdgZXQ5NjxAPUFHSFAAT1BZZ216cn2MYGl4YGd5U1dqSUpVLCoyGBUcJSAjHx4lMR4hVVBVkJqenKWjpKeicxqkfkDuua0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/19.png",
+    "width": 1920
+  }
+}

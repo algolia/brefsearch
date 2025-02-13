@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Fois, il fait ça pendant des heures.",
+    "end": 99,
+    "index": 35,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=89s"
+  },
+  "thumbnail": {
+    "hash": "50ac272cfd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nBXQWW+aAAAAYB4bNXFDPDhEQUDAC6HWYWtBRBCIeK0Vtcpa27SxSes6t7krWffgsiZ7WLotWfZnl30/4QOgUCi8s0Mm8eN+35+ML174/vSkWZO94UBvaPuyrCqq3WpxaRwFnxAoCsRCATAQgIKBrqbM+t2FN5KLJaOQX0x9yzA1RbWM9sDUywRKwfEMHAcYOBYJBrAoNFSU1fL6zJ8jUV43V7r5tqm6uqrYhjV1bUcW9rKZPIkDHIbgERAFwWPHeXO3mnijHCFMlj/co692wzmoVk3dHHfa3QOpXmQrLAUwCIxDEQqG/ens5++/52cXSrlyqKzaztZttsRSsa2q/VrFrgqKwMs8A7BJjE+laATxno8evj/ef75/fbXsdW/8xbeOYetU+ppJ9+i0URUbYqFMpQEpm2UQuJBE2xXhdu6932wettvbV5v1py9Ws3WJRT/S+GRPdKRSPc+xiTjAE2QmBj1jyLFWM4TcsHf0+OvP3frD6dVLt354Hg3fkNiIox0ypbJ04f9SEq/yfI2jTTGvFXOnM//deu2f+B13YEnSIBycJyAPjjpYYp/Ad5+G/wFHcWolvu8MDAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/35.png",
+    "width": 1920
+  }
+}

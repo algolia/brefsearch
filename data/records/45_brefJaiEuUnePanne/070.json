@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "D'ailleurs, dans pas longtemps, elle allait me demander\nsi c'était de sa faute. Tu fais quelque chose qui ne venait pas.",
+    "end": 73,
+    "index": 30,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=70s"
+  },
+  "thumbnail": {
+    "hash": "f865964c34",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABS0lEQVR4nB3QC27bMBBFUQGV+B0Oh39SlGQrDewENZzEcBvvf2WFs4CHi/MGyZCPio9KcRQT8EmD8Nmf53L19ojQDXQto9W1hFNy+yAZikmLCRS3fFRi0gQ1u9cS3o7tntxvT3t0L1ZXCzXSYVCcJEPJUTLDRykmbaESVGd69eclX5dyLeHkcXG4gcyD5k4wIxjwUbJfUjKjBYH0zswO5kx7MAup7HRxZnV0HhRD0s2bDUQgaKjLUzIqyYziVjNE7qwMwSw9f2zz92BUKv60lK8W/yTag90zvVrdfm4wFlp2p+LfUWcLzePTYPGZW1BXgtnq6nELuBG07N96/tzav5Y/kj/XeDksj4GelGBkNCp53CLtHlcjYy9fa73/DP5u/bvXm8OtpctQ8q3mW/TvZFYjk4VmVNLCBXts8XLoj0N/rPN9Lp+BXgLt/wFgrCEjURjTMQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/30.png",
+    "width": 1920
+  }
+}

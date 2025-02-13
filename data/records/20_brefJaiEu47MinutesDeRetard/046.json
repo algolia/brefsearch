@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Pendant que ce mec que je ne connais pas me fouillait, je me suis dit que c'était\nquand même une bonne journée de merde.",
+    "end": 49,
+    "index": 23,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=46s"
+  },
+  "thumbnail": {
+    "hash": "a272ab184b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AId0dCUXEzQlIIlZSZlmV5tnWadsXKRoVJRfTllBN4N7a1dRTRQRFRUQEQ8KCQ4JCQBvTEdRMCpeQzmkb1thRz5EMi1SMyl7TDw9KSNCNi+Yjn5KRkQNCQoRDAoPCgkNCAcAUj49ilZNeldJzZJ3nnBdaUc8lmJOqnFcUzgubk9AioJ0NTIxCgUEEg0LDwkIDgcGADY1NolcUn1YSr2AacuKcsWCbM2Ea9eVf6NpVIhgTm5waDIvLQsGBhEMCg4JBw4HBgAgIR80LSh0VkqtdF6+fmfCfWeeaFh5Vkx8UUFwWEtqbWpWS0gNCQgOCQYNBwUMBQQAPT49VFFMc1dMkGlYs3pih11OYUQ9PikmPSoiUk1HZWdmZVVQGhgYDAUCDAUECgMCAExQUIFwZ3VVSlJAOYVgUXZOQW0+O1czMkc1Lnd5emFmZFtGPzw2NQgDAQsEAwkCAwCPfHK0iXSHYFI1KiY7MCxnST1zTUFLNS5KOzS4sLSuq69XQjtpTUgaFhcHAAAJAgQAtJqTpXxpj2dXV0E5KSIfJR4bLCMfNyslVkZAjIaGuLG1X1FOUTArLiQjFA8PCAEDATJ89H0zPEEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/23.png",
+    "width": 1920
+  }
+}

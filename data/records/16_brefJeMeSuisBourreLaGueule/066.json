@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Il y avait que des filles à zéro point.",
+    "end": 67,
+    "index": 31,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=66s"
+  },
+  "thumbnail": {
+    "hash": "a950e34a56",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF8WkH4XookVopobr6QguqMftLIZubI0y5RMzY5WzjwmTR8VJlg9ZS4UIxgLDwgDAwB2G6idGbNMIDg2DyyzE7vCDce5B7KPK56bVNSUXM9BIiUiCABPPks8KjQXDBAGBAYAfCG4rw+4fDVGHBAAbAxntyK1ZhxTMRkPjUq8p2jwglOSMxYWLSIhQDA3CQUMCwgMAHAmsakUypMlckcwIEgyO5JEknMwWUseF3dKlZBlxIphpjAfLj0hH1ksJCEODQQFBwBgGI+LOaB6UlNZRUhwNT6wEJt4KUlPISR3V3hjSmJRMTgNCgkzHBxBGRA7HxcqFREAQQ1kdTWGXDsqakA2XSgwejdPQi4XNiMhYDlHVyk5MhsWDQsNDQkJGQ0QEgoNHw8LACYSJFsncDUhJ0ckD1MfP3cybVEuGDchIAwFBDskKjwuMQwJCAoGBikXGQ0IDQICAwAqDD5MF3w+MUUwJSQqDzFqKZwuGA8FAgMFBAZGOFlEND8RDAoUDAs1HBwOCA0HBQYAGgcvNR5PJR4fLyMrJxsiaxe6HgcyBwcABwENNydjHhYdCQYEEAoIJxMSCQUKBgQGP4ZnNNiZ7eIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/31.png",
+    "width": 1920
+  }
+}

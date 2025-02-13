@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je suis arrivé devant sa porte, j'ai sonné.",
+    "end": 111,
+    "index": 43,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=109s"
+  },
+  "thumbnail": {
+    "hash": "df864bd914",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVR4nB3QW47jIBBAUUvTMVBUAQUUL9uxY3dPFKnnsf/VjTILOPfjTp8tfHX+PsdW82uTu3DPzJ5ZFh+ymjUY1Armm7p9qI8f8/Qc4dn972vZu3zv7WpxFW7RR+8jB2usNWQU6FkbpfWsp6v6q7i/X9sx6s8Rz572wtfaNuFIFgGcZ6IASoM2oPX02eOvo/65xmvvjyFrzTVy9D4gOXSIPkpDdNYAaDBKTw5Mcpg91RTYkUNylsxsrAYOqUir424NGmWs+Q+yI/G0lrRUkRzXdfGEYIAAQQMBEXqyBBrUbX6DEt75rea1SWl1OffI1CKX4NlaVDogSZLEOTh+A6Nmj9Ak9dHOY3s9lr2mhV33uOZUOYgPXZqkEkOyxk4ONBOOIseoZ0+HcCObQfdAe0nP8/G435faPBLo96h/ggcea8ND9eAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/43.png",
+    "width": 1920
+  }
+}

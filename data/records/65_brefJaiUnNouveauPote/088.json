@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Il faisait la même chose avec tout le monde.",
+    "end": 90,
+    "index": 39,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=88s"
+  },
+  "thumbnail": {
+    "hash": "61367371a3",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABXElEQVR4nCXLy3LTMBQA0Ku3LMuPK8mSbdlRGtdNStN0ShhYdAMrZljQ//8bFpz9ATG/0ibX/hGlxHTppjc3vVq/2f5glWXADn75e/8tQAJQSjnorkjdN1U3W9NjLnn3/pDb7hTnoAwAmUP5/PXJgFBShVRAUC2BbK29DjiHcpwuy/jy8yE/B2yZFkQLIs6u90oCsX44QtOnbc5vCWOLA67jsH0p1/clD210Bg1Vnuuvg7+P4cLFkyvgplOOGTvnytnjGLs0+zziPPq10+1k7Z/n87tLe2V+MLjxGnQbTJ9c3uJhX/dbY1zoUsR5cVNqUFCRrP1ozY2zO4EDEOCqsThfLy8fZfn2uPfW1dKgxVOPDx5d00iAlcB3AmcABwC1W9N0vE/DYKqaccWlEqISomLMat3WbakxChkAwv/AqPKSIwMBUHGhda04U4RwIJIyxcRYx6NpBgoIEIH8A/1xHlKwM65MAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/39.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il y avait une vieille qui arrêtait pas de gémir.",
+    "end": 35,
+    "index": 20,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=34s"
+  },
+  "thumbnail": {
+    "hash": "6b263fb161",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFZcYFNaXU9XXFFbYlplal1nbG9zdYiHiHd9hUBtlDxumVBsiGtdWT80MlM+PDkoJgBGR0pWVVVKT1NWZnBufYaJjY9SSEImIB0uKSYxNjw7daJhiKp+aWM8Mi5OPTs8KykASVFbVFRWPj5AUF5lNVp0VFFQMSgiHBoZFBMSDwgCJz9PZpe5gXd1QDQvKyMfRTczAFFicXuMmKSttG17hDZVbUQ+PDsuKhIQDxQQDhkUEycfHFJfZXR6fD0zMCUfHEI2MgBTVl6ChpCwsrmLmKJAUGBaSEJTRUQ4JSIsIiA8KiU7NDFQXFxXY2IxMC4mIR8yKigASVVganN7t7vBlJ2kLV+GXGNtcnByQzUyFxIQODQzTlNSTlhXNjw7Nzs3QkVEISAgAGx2fYyXn7O9xY+frDNtkmuAjX6IjlphY1RXV0pRUEpSUT9FRC8yMCYoKRweIgcHDABqdX2Nm6Wms76ElqaCoLKOmqBrd35KV19lb3Q9Q0JBRkU0OTcpKicYGhsKCxIREhEAVWRxcYOUd4GPbWZoanV/R1lnLTxHER8pUVVaZGFhQ0lKNzg2JSIfFxobDA4TOUAups2Lghwtk3kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/20.png",
+    "width": 1920
+  }
+}

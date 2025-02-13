@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "J'ai pensé à tous mes ancêtres\nque j'étais en train de de voir.",
+    "end": 51,
+    "index": 19,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=42s"
+  },
+  "thumbnail": {
+    "hash": "293dbe2059",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPElEQVR4nE3OS2sUQRQF4IbY3XWfVbf6VdOPKmcymRATQQIuspCAC8WNG/H//xXpMYL7851zKnIGjWLrGVMMl84uaXo+3X5/fPr98OHX8fh1SZ9M1kjDeTyV/lxBra4maJScCQ7Rl7F7OEzPOb9e7n+ezz+Op28lv5b85f36kufPVfsOXU3kPLYeW/WchnBrWvp434U788egJdpl7J/G4WPfPe7gnwnozHj2lBhHL6tpMV+ClqA56KZ8IJjeFqARaJWhCzyTM4JeeTafryAHzV42oZnxCqARcpGhIxcDL4ID4yQ8B93+A6vQgXHcAbZeoFcclSaTVSkpz0KHoG8LyqvuRQmhr+obR60NdmeyekpRN4bhGlqUFy+b8sI4EfToIjirmBahtN+A+HeBXMeUrgcmggFdRGcIe7qp5Q/9yR/wp+0iPQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/19.png",
+    "width": 1920
+  }
+}

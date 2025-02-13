@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Bref, j'ai fait un dépistage. Cadeau.",
+    "end": 96,
+    "index": 33,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=93s"
+  },
+  "thumbnail": {
+    "hash": "ee67ab16b7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE1VaW9win18j2xiV25raYJ3cZGCeZmOiK2mo4F8eh0bGxEPEBYTFmM/FYJNB3pIBwBUVmRvbX5/dn1cRT1AKyUpJSR6amKUhX6blZCYh4ItISAMCw0GBwwlGQuETgeASgUAb19NYVhPgW1hlGlfVTYuDggIXlVTnZaSsa6po5CKbk9JMSMgIxYXMR8Mh1AGhUwFAGBPNWxjUHRePm9PTkgwKjcfGnlvcY6Qjnx2cXhhXH9bU1M7M0AqJ08xC4dOBX9JBwBNOh1gVDxpUyJkREBXNjA6Ix1pY2FzdHJcUUdoVk1hRj5KNi06LClALBdtPAZtPAQAVD8cXE86X0oPVz4sMyIgLSAcJBwdEBARODEqZVhINS8pSzs2GRQXDhAXMSgkWTcVAEtJQlNTUkRHPkdPRUZGRSUfIgwMEBEPEgsLD01GOz03MQ4NEhQUGhgYHhQVHhkYHQA8QEFXVlVZW15bX11VVlwcGiASERUPDhALCgwPDg0bGRgNDhQXGCAWFx4SEhcNDBAAPj1EVkxSXFpebmp1Ni48DAsNExIWCgkLCgoKDg0MCQkMDg4TFBUcDxAWDQwRDw4SECprrQFtpjAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/33.png",
+    "width": 1920
+  }
+}

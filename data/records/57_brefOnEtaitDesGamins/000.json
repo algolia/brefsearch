@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "C'est une sacrée histoire aussi.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=0s"
+  },
+  "thumbnail": {
+    "hash": "9e97dd2fd3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXByW7TQAAAUDuJ44mX8Xg8mXG8jON4yebUaRInFNIsoBJaQC1pVQk4tD1QLkQgUSFxRXCgNyTED3DhM3lPCOvGzFGYAZc+uIylu5uzz1+//P129e/71c/rR5kLka5PBt2slxbj9nzSFcY2WHLFI9rDEG7y9Me70993F+fT4CDGxwOSeTBpuv2Ih4Gb9dwij4SFLa18sCDgZTe+PXv65/3J7sWI6cq4RZYJjm2TmCZFOtFVzmDkWoInV1BN3jToB85i7vYNnRMTIzjj+E2XFQ6SZAVXJbtS9mSJA0mgqoyh5vHkNvS2xFjb9PWTYpgG21G04cbahRiUG5rKIGzaKI8cgapqByMWdhI/HNdkR9ecOmYmDAh63kSvWthX5cgyJhwZNQmrihATvPIZtT0SdlTegm6gmUQsS4ZF5/34cdOicsXH6qIFKZCqoiiUgOLUyWavffFgfzufjqYFMLAfpdFwkvYGR/t7z7L2YeznDV0slUtiSUgcdnOQf1oVu/lwN+sfDxJat4JOlrfTj+vi/vLk1/X5/dvT3dGhA6EOqv8BQP1AuoDT5MIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/00.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Je sais pas.",
+    "end": 84,
+    "index": 27,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=83s"
+  },
+  "thumbnail": {
+    "hash": "da85ec1706",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXBXW+aUAAA0Jt06hQpyLWgIHIZIPJdqEUUqF61NUJ1jal0xiXNSJbYZIlL9rCX/fidA1LPlptVpVlRyU8mSwsthiZIV9VY8hoSpHTDmH0hmyWviYl9Q5FU4LWokKVsTfP1wRRxHZqpVxuGJHcZyNGQaND1WjP2b9/WSToKeEEBqQhnCFqO7wWjlYk2rhmpiq0aPNMmG2SjTlYqBGLpIzbXY/f2CwIr7WapcbrY6XfF/vCx3BfLMAUV2G0LrtDjmmSLoCdSq0yYy04emypYqCxW2HsnhAi74dfLz/MSb0FNQmpwyrPcoJ8tuNGuv0fMv0IuiwwUi3gz7LpI/9zbeHdPu/ywwltAjZCxeD8eXzzmGMBMp94nzN8X/uOUgdixLEV9jGeHb+cZ3uVZ8efXOfY9w5o+ROlyKE14GLSJU8RfMvFHbgNQpZkWv8e43D3n42g7n/8u3z7W9mnqnJ/mr5PQ6wsLhSvurP29fIgocAWumrW61BFNEfXaAg2R489GfhLoXmI5D6YRDwfYdXAQDAaeInL/AelkTNgP8oESAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/27.png",
+    "width": 1920
+  }
+}

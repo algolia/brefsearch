@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "T'es pas mal. Super.",
+    "end": 67,
+    "index": 31,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=66s"
+  },
+  "thumbnail": {
+    "hash": "3224497839",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AExGSmFeYn9+gZOTk6eoqGJaWDcmImNBOW5ZT2lcVF5QR11RSW1iW1JJR0tFRmFbYABRS01nY2WKiYuvsLCusrJlTEdfPjhoQTlsTUR8bmZrXFN3aV+Yi4NpYF5QSUlnYGYAV1FVbGlsj46RjIyPYWFjlGtfi11RdEdAXkE8V09JTEE6TT85X1NMUEM+WE5MbmdrAFlTWW5qblxaXyUiJRQNDmtLQUQrI04vKW5kYIB+fGlhXlhOS1VKRmJZVmFYV3FqbABZU1haVlsyMDUkICMRDQ8dEhEMBAQoJCSMiouqq7CsrbKZl5uVkpWEgYFkXVx9d3kAWFJWRUFGJiMnJB8hEgwODw0PCAYHHRobkpSXrK+0pKWpm5ucop+klJKUamRla1NPAEY8OTUzNikmKSAeIBMREzo0OQsJCg4MDnZra5OPjjo0MkE8O2tlZm9qbFZOTkMuKgAnISIqKCwjISQlHBw2JSMxIh8YDw48JiBnQThrXVkaEA0VDAkXCQceEQ00KCZCPEEAIx8kHx0gFRQXMiMfck5ETS4nTzAnPCYfLygmOjc2IxgVGw8MKCIeJhsaJBURZU1GiDCDqIloAjYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/31.png",
+    "width": 1920
+  }
+}

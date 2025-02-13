@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Ils m'ont tous dit, lui dit pas, lui dit pas, lui dit pas.",
+    "end": 30,
+    "index": 15,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=28s"
+  },
+  "thumbnail": {
+    "hash": "fae786d988",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nBXO23KaQAAAUN7VhWWX2yIQIYQVEcW02oxUQG2iaBS0o00ipmmbTMfppI7ta3+gX93p+YLDIKxjxen5rYZ90fSCVTq//jAf3WTDMJmm69X++PL658frqdg9Hn+ePj89M5AnmNCg+abjd+J+PJks0vzhcZkft3dRL+5Hsy9Ph8PhuC++7ffPu+Irw3Iylm2iu/1oObrZTOb3WV78Koq/p9/jq9ird6azT7P5w/VkMxxn8XDBcFARCRVVp9vPBsl6ON76QfRxNH7J19tp5tUogFWiUUk2kaBphsvI6jnRqWq4F27Pa4V+EBlWcxBcfl9tbpOJhJQSwICTRclEqKoZdabCiWVWAJwkKta5c1k1XIHYmqAmTiOwnEoZAlYQpDNFpRxU5CplWEQ4XuYFVVItojsQa1ixEMDvS5V3LCyXIQflVhA3/AGCkk/bDIsJkgxBMXlRR5LBYRUg1ay5u3yf1igqsVjU260BbYaeSbtXy/8lFhHAkwpUAE8AVEqs2K5308Eicd6aoqafubYdtIKwG2Zyc/kPOBJQL3dgSTwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/15.png",
+    "width": 1920
+  }
+}

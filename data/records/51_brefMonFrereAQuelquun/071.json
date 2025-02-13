@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "J'ai dit: C'est Maud ? Il m'a dit: Non.",
+    "end": 73,
+    "index": 32,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=71s"
+  },
+  "thumbnail": {
+    "hash": "0eaf02b584",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGPgYeOU4hc0V1d2NNR10tPKdrWo8rMv9XfqTwubmuIvJSjAzsahLC2tq6qsIC1lrKvNwMfBJczBHeVqnx8RIMrDG2WpX+ZppS8tGWFtPC8rxE5LmYeD21xbU11RQV5GztjAgEGQi4ePhSPQ3npqcVqoueGM7OhTfYUt4e6LCqNP9uSlu1p6a6r42ljo6+qrKauqqWowcLOwczAw6crLtSaGpTpara/NOd9XtCIv4lBr7q761MZQ1+YwL0dbW2lpOSNdfStTCwZDNTU/F+fU+IRMH+dgE71UF9uOaJ+mAMdpib6TkwPi7M2CXJzl5FXNjUwjA0MCvbwZ4gJCagqKO2ub4j2d3PW07FVUgvR1irzt+xN9M92t9VRUlBRVFWQVg339I4JDfD29GOSExJTFZA2lpAJN9f0tjMNMDKq8HeuDXXxMdP3NDawMjNSV1E0NjHzdPR1tHWytbBnE+QQEuXi1xUXj7Ezs9bUt1RRj7UzcDLQ0ZaTyvOw8zSyU5JSlxaWUFZVUlFR1NHUZeDm5BLl51UVEvA003A215cVEJQUF5UVEfI11ir1sndW1zZQ0VGXkFWUV5GTk5aTlAYhYZjSh/1FuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/32.png",
+    "width": 1920
+  }
+}

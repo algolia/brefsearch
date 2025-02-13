@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Ah bon ? Pourquoi ?",
+    "end": 25,
+    "index": 14,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=24s"
+  },
+  "thumbnail": {
+    "hash": "589b53da8a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nB3LW0/aUAAA4L6h0Ovp7ZzeTmlLL3CwrSmsCKstMFRQE2TgvCQiY1k08XHLXra973V/eMm+949SFRSEcegFjiLFtjnphk+TskpI6iEHKpYEIEtDlmkh2PdbXWxRuobTfmlpVhE4P27mf7abv69f3u4eIoQgz5oSwLJoQxhhTJq2r2vUcRhdzRakHfdce1ue/P60/Ho+fVltpqTDHRwoHKsBwZAlR9c803B1jdrf3D6vdznJTlvOadt/HhffNqtfu911Pzd5HtC0yrMqz5mKjKHa1BA1Xbxlw3u/lWeev/9QvJxVPx8fvm8/X1693g5HiG4IDUbhOF0SdUnUREAd9VYkWTTdHPCw7zvLLN4Vo/moSvK7dTVPZIE9pLk6rf4/CAhU0D0nyWVEZoqIXVkck+CpHLbdKEqX5WA+0GXEMKDByCyrcKzI0JTjl15YRWRm4szghdjUHQlgq3uUfXzXuzjBBoGKWK8ztUPEC4kXUNBIoZ7a3vumXwDB4Gs1kRP9aEyS6053dux6A9cijkM68bqc7M8u/gFL00ocnqtrDgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/14.png",
+    "width": 1920
+  }
+}

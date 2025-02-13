@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Il est chauve avec une Barbe.",
+    "end": 106,
+    "index": 45,
+    "start": 103,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=103s"
+  },
+  "thumbnail": {
+    "hash": "70d6e54c95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nBXObVOaAAAAYG672w2UUjReJQIMTNKQtM23PE5vqzuxuRcrhkzByTQ9WruxaSq3O3V1+7Jdf3jXL3ge4PPIvfK8q++eO5m50/n1bDGe3LqTWSZzGENRDEFoDFMU+YNx/v7yndasA5rWuFn43/xfP5e/J+v7H8vVdH3X+tgWOe5Gf/tnYCQZmqNjxUolLWek/RQgMrQzHt2uV9PVarpceou5588L+XxRPrDrtYevVlWWWALP5wu7cTFXKAEoHCi9yFpOz+xZbbtrWJZumkme14ov/e75/RdDwNFdApMEIX2gKPIhEAmAAk229ItO3zHtvtlzdLPDUWRNyfwbmINGNQyCKQqXWIbZ4YS4AIQhkMWjzeYbZ+zaw1HXGZ5U1QgEKjzrt894LPIUeCLFiCNhO0VFBXTzUaCjSK1c0I223bMvTtQkiVGbcDnBea3TJImHoSCDhHMsmWW29qIBAAlA2EYwJ7BNtXR92XDqalaMM0hITfJ/R52jOIfBsEhsadlEnie4EPRYCj1/lua2P50e9xvVV7n06+PKHidUEjt3Q1NNidQGvE+iZ1mxLPHRYPA/4w1qeBELdGIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/45.png",
+    "width": 1920
+  }
+}

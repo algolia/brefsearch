@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "J'ai compris pourquoi elle disait que je l'ignorais.",
+    "end": 62,
+    "index": 32,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=61s"
+  },
+  "thumbnail": {
+    "hash": "eb499e08ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFRQRouLkop2gJmdpMDIyNvV0t/Z1czMyZ6hnJSXjLe2rod/dWddU1VLQz0yKyceGAB+bl+in5aXiHqkjYXCvbnKysjf3Ne4trKEjJNwb3Kno5qCfHtwZ2FqW1NTSEY9Mi0AlIV2qKKQkYJwqIx4squjsKyszc3LpqalgoeKm52opaCafXNyomI3kFk1RzUxPy4lAH9yYqOhp4B8f4mCgJ+ek5COj6OwuqimqX2JinNyW5+WkpKIf66Ga4pya1xVXFZTXwB+cXCFgIx8eYV1dnZgXV97dnueqrano6Vyi5abnY2rnZhvgXBIb1BVbF5NYFxFVFEAiWhykYqQkIuPiYB7f3ZstauoxLu1tLGucYapZG6UlZKJTXJTGFcVJV8pJUguEzMLAIdmW5SGg5eVnrGppb2zqMO5sMjAuLq0sJulsHaBmJSMijZsMgtbBRJQEhFOFAstDgCJcl2onpa5sajHvK7Fu6/IvrTMw7rIv7e1o5mvp6inpZ1agW4PYxcNZQkIUgUGJQQAmJSWubClwbepwrmsyL6x0Ma60sm/0Me+xLSnmZ+lqaakjKmNR4xRNnRGLlc2JEsvv+DfGkhtx7wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/32.png",
+    "width": 1920
+  }
+}

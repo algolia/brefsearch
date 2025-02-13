@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Oui, je vous appelle concernant le love.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=0s"
+  },
+  "thumbnail": {
+    "hash": "f63f03fd8a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nBXBTW/SYBwA8H8fWqAtTBiMbbxUwEKBB7Ii1LDRtR0gtGO8pHTgwE1Z0TlXt8zMYKIXY7x69+AH0JOJFxNPZl/Aj2T8/SCazsV5LIg1XN3FklIo16o1dfb07Pzy5si0WnUlkconM7ip94y+1R6MIRC9F+GEcBIn8tVSrZnIbmWypTiXUfct++yqWd8TilVc2Wm0e4PxiTGaQU7Ad9Y588geTOb+tYQ/FNvvHk6mC6Esy9qBoXYUrdvojsWSlBe3VX0EfKYY4vDHT5+fO0vxgdbUzS9fv9/e/lUNyxidtBu94l2hVt97ef1Obg9ThQoAHY6kxVx5W3vYP168nr9679x8mM0d84nz6MVycnpdKFQ3oqkfv/58+/lb3GkByYTY1Rjy+iOxdKs/s44vbOetff5mal8p5kKSD/govxmMiVh6drnM3ZeBQG4Pu0q4WSC82a1635prnaFuPp7ajtYZJrMixYYQHQTE4Iqya4yAIFyU24dIGhC9Eo6HNtMEyQK4vEyQDayTTJCkA8jtRxQrKfrh6QUAEPAfAUAxK2skRSOXhyAohCi3xwdAAfIAuBAiGV9gg+P/AXXYWJYvx9vDAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/00.png",
+    "width": 1920
+  }
+}

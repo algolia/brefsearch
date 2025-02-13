@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "J'ai eu le temps de me faire un thé, de jouer à la play, de manger\ndes Knacki, jusqu'au moment où elles ont dit la pire phrase possible.",
+    "end": 71,
+    "index": 26,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=68s"
+  },
+  "thumbnail": {
+    "hash": "19865dd509",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGlpbG1vcWxucVozLWc2KlY7QDQMFEIMFYhwc87Hw9vX09vJvshQPcdhMsR9SMG3mQBpamxqam1wcHJ3cG+GfnpeQkdiOzpdNC6Qe4Dl4eD19PHx19HTTTfdViXSiGHLsIgAc3V4enx/hYaKeXV2XFdUSjhIUjtMSjIyQTlKkIiKqJuXr4yG30ss4mE636iI16eKAGBfXmlnZ3Zzc3NubjUpKkIxPD0wRDgwRyseMjsjIhkLDHUoGs89H8KAaM+ehbWAagBLR0RWUk5oZWNzc3FqT0mDYlltXFxPOz5SPDpJPTg7IB2fLBqSQjKtj4CqhHSGY1UAR0I/UEtIY11bd3Z1XEpBbllXUUxOOzMyW1VVWktMeSgeYhgPclRDl3Rhc1lQY1JMADgzLz86OFpVUmViYHNoYX9yaVVLSFNDPW9gWHBKQ3pOSFI8OHlXRHhWQjUiGSEXFgAXExIPCwxGQT5bV1RjWlRYSDdYSDlYSDlkVEdcSztOQzdZQjZyTz1HLyMwIhkhFREAIRsbJBwdMywrREE+VExIRjk2VE5QUUpNRz4+QDc1RT09QzIsRCoeIBQSLCEbMSUffhWZo3kxJTcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/26.png",
+    "width": 1920
+  }
+}

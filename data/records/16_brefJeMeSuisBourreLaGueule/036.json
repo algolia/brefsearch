@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Donc 100 points, c'est pas top.",
+    "end": 37,
+    "index": 18,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=36s"
+  },
+  "thumbnail": {
+    "hash": "8f7932e5d0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVR4nE1RPU8CQRCdnb2PABIO7jz2MIZdw4LIycchHZ3JaVQo0KAVFcbKxlgRIzEhmlhYWdjSGPwZJib+LXMfAq+ZvJ19s+/NAiEEEQkhAJBK6N12c8u2AYCEwH8sadCIOCLKgu17dVlwkroeaaLbEGIlCMYTktS1YjYzvRz0DjwFKSJSShVKCSE0RCwOeFhSmipyxtPw4tRrRSPz+Xy5XOacSymFEKVSKThFDNzbmY36NjM15arTOms3DCMLAIwxKWWttmdZluM4nPPYGQB0OHOZmdW125Pj+eP0/fk1rRIIXS0TxhkAQFeVnitEOmGqdHLen92MR/5hleXC9+P9rLYEAFY6NdgX3crOqD98e3i5Ht/5tYrrmAAQJ11DIBCWcbRbnNzPvhY/n4vfj/m332xUNzORYP03EPEPRJ0oDpfu2SIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/18.png",
+    "width": 1920
+  }
+}

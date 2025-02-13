@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Il faut me dire si tu as besoin de sous.",
+    "end": 34,
+    "index": 16,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=32s"
+  },
+  "thumbnail": {
+    "hash": "ed6f841d3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nBXL226aAAAAUJ5qaqLL7MpIHK2lRQEFKXYCRQRBlFKUIgpeuCnQiluXNNuyZNm+YHvZHy897wewzfGdJhp637wfRP5cV0QBO18N2J1r5Vl4yIJ8t8lCb+2YLI2flouAv7CGWo8XmPYNpmoihcBzjvz3afsz2ugy97zffn6KD4mf+AuJvYbeloDAnihDwXWswajf6zFDCjMY4sfS/h6F2i0Tb5w09h5jb7tyWBKDykXgOUv7ckdSOEnlVeWjw9MTuvH38PTn2wvfQuROY2WPk2DuWTpRq76Gl3wvK2wVhRrtK1lmZRrTCPS3v0ltTcDeS2TNnSiJ78wMFa2Cr2EfRHkWLb3paCjeUASDwDyGBMa4S1J6t8khb+zRbRou3Om4AUPvigVg566+5AdZEJt1Ajm7bJ7Bdxyrshx4Ak3NRBe1mcpmoedZer0KVo6PgLU175AMiV/jdQo8Oa3XELKOY8gVetGQ5dnD7KtnL+PV1BgIcKVcKRYAQ1IvPpy3cKaF0zhKMDjZbVJo7VIdBqb5KPbXafpr+aC30RpYOi4Vjv4DU5xrJT2gLB4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Elle a dit: Moi, c'est Jessica. J'ai dit: Non, c'est moi.",
+    "end": 65,
+    "index": 23,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=62s"
+  },
+  "thumbnail": {
+    "hash": "ab6c4e7ec2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABj0lEQVR4nAXBZ2+bQAAAUCT2HQYRNtjHwdkcwxSrHsSDDANtnDpWEzXqSlVFaiP1W39A+t/7HpMEbolHoeWoAtieGU8E/a3p63V5mhVtRt9Ps4ZEvemVQONZXmJ5porQeTbBjgNZ8e2ZdY/Dlzn911UPs7TNkz0dX5G4DUaBPIA8GPAyMyd4Scn5EBGg7VyvDfydb3/L0CGP+2zSJfExIVvXNURgSgNVAExNyYLG+zi6NJwL130uxz9o9JOS74uszyangn6Nca3plgB0EWoCYJoy3WTjDY1qz1+Z1mOMbwOv8+1jHt9Q8kjwb89PJWgKQBPAgAdMGfpT5C5ItUYJ1dSN4/SBfUTmzjM+xuGfof9LN7EILBEaIlQ4mUm8aBVfXKUfmmEyVhRLgoWuHd7Qz7v1c05fTesWakiAQ0mxBQA5mVlGN3N/Vo+KLZ7uMapdY+pbp8v66e7wpW9fiqKWoC0CW4QaJwNWZFZJtk6rVZiXAck8f2Y78wh3y+rY1J/edXfXDVJUnZdVXpI5nme5/851PmQrokz7AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/23.png",
+    "width": 1920
+  }
+}

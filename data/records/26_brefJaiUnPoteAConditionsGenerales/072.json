@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "On va boire un verre ?",
+    "end": 74,
+    "index": 36,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=72s"
+  },
+  "thumbnail": {
+    "hash": "60ebb1715d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nB3LTXPSQBgA4EhhP7Kbd5Ns2AQSQoAECWlSvlRwsA0zFoWRdqYyWg86wqGD1oMnL/4H/cvO+NwfrXqGalVUeXIWSet1WX7+8vV4PD5++77ZvusadObLwq+PfGfoWj0JkS20/6EmMH4owg/j/tXqerfd7u/u8mK8blm/FnHm2R0paA3bTJcG0xjGqIZym59Gwfu0NRtmi6K4nM3ypJ/VrX3qzzvhRdBUALthsExaWmZDWUUHBXtX7DG+dyAyASqVeTe6zrNNke8m42dR2+Ns3Wtss662tIwHnZ64fivYidNHzy4HyVU6KNPBIu7dTCefXi2LIHApCU1QBtPOgf68CA7AtgT9YOR31nwRyGk7jJXKg+BlEg88t8G5ZDog9NTkWizFZWjfd9QpdP4+7/9ZFWPPcjl3weioetcyMiVMSoHQBtfXfV9LldkAo62csG7OI/fck4xQ0HWbM88UJiEcIY6xjfFmFB9WE+1tFrUssBgTOuOIODoLhfABJGPKMExCgepAqIHxm6T5cRr/AwRtOM7ydxzKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/36.png",
+    "width": 1920
+  }
+}

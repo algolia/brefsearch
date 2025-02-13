@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Quand est-ce qu'ils vont inventer ça ?",
+    "end": 113,
+    "index": 48,
+    "start": 111,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=111s"
+  },
+  "thumbnail": {
+    "hash": "4bbca5dd4c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGpfW3tva4h6d5WHgqKRin9vakE0MlFDQIp6doJxbIJza4Z3cYZ2cXZpZXBiYEYzNACFeneHeXaHeXShlJellplFOTcaEA4gFRQyJCBnR0CJbmeNfXR9XUQ/Njc5Nj40LDQAfnFsem5nj4OCs6N7pJRwQSwjdEY8i2FaWD02bUlCjXFpjntvaUw2MzA4NTI7Ly01AI+FgquipLKkfeDNSuHOQ51xRZFWSIhgYT0vNUovK2ZXX459c2NNPi0pMCcjKR4aIQCOhoWwpZXErU/dyUrr2Eqqg0J/WzNIQ0kuKT9lWms1N1R0aG9YTUw/QEhmanZLTFcAZ1hZnIJCr4oltYde3752r5Q/VkhHNDM/REVmhYivLS9KSEFQPjY1UU9ad3yNW15uAGNXTLmkOrKVIotbLsOOeMi0lqyqsi4lMFlTboJ6mUAwODsxPDw5Pzw4PiQgJhgWGwBiWUm8rFC6p0x9XDKndmTaysb///+winxuT0laPjpSNTBEMzJGREpEQUcyLzUbFxsAUUtJtLGrt7Sti3drp4p4saKb1tHT2dXSpKSidnd0VFNQTklKOTY7NzU5RkRIRkVJFCCtt5bZKT0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/48.png",
+    "width": 1920
+  }
+}

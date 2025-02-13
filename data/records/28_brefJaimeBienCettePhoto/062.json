@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "sur les photos des années 70.",
+    "end": 63,
+    "index": 22,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=62s"
+  },
+  "thumbnail": {
+    "hash": "fa8b97b0df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIpeiKJpgqNoiaNngGpIPkArJDclJDQkJSobHINtbc++xMW1t7ymxZRsq7iIarOIZwA1M6acaJKvcZOWaGNpSDF8Uz5nQzZQNDImGxw8Kiy2pKrUwbyzoLx3a7O0iW+hdlkAe2B8rHyTsHaPi2NJhFo/uoJhqG9bv39mYD03MCAlqpSOxbO+b2q4WF3Rg3a3gl1SAMSOZt2imKd1eYldRtGWbJZkUZNfUKNqV1czLjEjI5GBmHt50VZawW9143B37FRQpQCidWbHi2uZdX6Sb2fno3bFhm7Rj3WpcFxjR09QTZdkZtBgZtVKTq9QVb1SVsBPR48Au4dilHB4nZLPdmFrmGVLjFlOilhPmWFPV0+fVV7bVFnEW2DNTFC7Li+LYVN9e2R2AJyNxHyA73Fy21A9VE0vKptjWXtGN0MwWDpCxUVJw1NXxkpNuzc1kWpagpZ8jXxmfQB5fud1eeVVXNtbT5RDJSxlQD1ROlhDSbhJTdQrLKRGR7JAPp10Z42lj52Lc4l0YHcAY2bBbnHVYmnaX2LMVjNENhwxPEO0cnrwUFTKJCOENTGNeWqMtKKplIKTfWd8aVZslijGiOt2op0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/22.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Bref, j'étais en train de me mettre des gouttes dans le nez.",
+    "end": 6,
+    "index": 0,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=4s"
+  },
+  "thumbnail": {
+    "hash": "6dd4ae725f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFxPTn1pW6SKaJeEdmhWS5GDe66el762rsComphiTE8wJV9VUKqdlKCTi46BeXlrZQBjVFBtW1V8a2GFdm1vX1iMfHOsnZXGtq2neWiGVEI3JB4VDg2ajoe3qqCcjoOKe3EAjX57l4iFoZOQmYqHl4mFkIN8s5aIkmpek11NhlhHTCwkMR0anJOMuqyin46Bk4F1ALCkoK+inryvqaSWkaGWj6GMf7SGc1s3Mk0xJ1A0KkYmHmxgWsS4r7KjmKCOgZuIewDLwbvBtrG7r6uqnpiCd3hdR0JkSkszJig4KSVHLSVMNC0xLC5gV1agkYaij4KaiHwAyb+5ysC708nCj4aGJR0nFRAXEAwTJyMprpWQlGxdOSsrEgwSDQgPRTw7oI6Cmoh+AK+jnLitpqqfnDgxORIOExEMEQ4IDSYfJIpzb7mDbYBTRCwgIh0YHhkTGWRWUH5rYABQRD9zZmJNREgQDBQGBAYkISKLgn+Be3kuKCt4V016VkscFhoZExgXEhYRCgw9LSYADgUDOC0qMSksDQkMUkpIlZGOxMK9vrSqj4aBHxoeEg4RFA8UEw4SEg0PCwcJMScljYSoMP0cEB4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/00.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Avec ma main droite, je faisais un deux et j'avais les lèvres retroussées\npour faire comme tous les mecs cool sur les photos des années 2010.",
+    "end": 9,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=4s"
+  },
+  "thumbnail": {
+    "hash": "c733139d7f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJpegKNjh7pynH9JZw0CCSURGRUNFIBWctGHtcuDsNGHuMuDtMZ+rsF8qrdzn6tpkgCubJO1b5a/cpilXoA4GR9iNTgsFBhcO1Laj77Bf6qaYIeraZLNh7bKhbXHgbC/eKQAtXKZtnCVuG2Qwm+UmlVrYTAxWS0xp26HnWSFQiU6JBEfRys+sXWczIe3x4OxyICtALJymLRwlrZukMKJr8Kl02A7SFYpKZ1gclU3RBYEBEUmJyYRE3tSbcaGs8ODsMSArACvcZizcpi0cZOfepaijrN8Tl9rMTWGTmWMa4hoOjGQWFKFUk94RFaxdp3FhKzAgKsArG+VsG6Rq2yKiGh3mHyOimFrazU7f1tvm3uVl259iVRTcEA9ek9RgmSYrHevxYKmAKlukq1ri6Fsho5yf45zfo5xfYJhboRsfX5meMi02YtwhGhOUmBOZBsjii9A1o9rugCeZYemZoagY3yDXWSHcHmRd4KQdoKMc4BtVmaohaFiU2hwZ3E7QHsLGngYJ5IjL60AiFZzklh3lFNsajs9f2NvmH2Ki3B+kXmHZE9ekWp7YFB0S1F4eIWqbXOfFyVsSz9mhQzJvLaSQWoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/02.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Écoute la basse, écoute la basse.",
+    "end": 86,
+    "index": 38,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=84s"
+  },
+  "thumbnail": {
+    "hash": "c08fe8fcaa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADsvLTEmIm1oaoONoVlbaHF5hnB4h1ZISWlOQUY4NGllY73AurzAuq+zrZ+jnZCUjwBAMy83KiZvaWmBipxfYm18go2DiphvXF10UENCMS0VDhGIhoTS1tDAxL21uLKkp6IARTczPjEtYVpZUFVjOjo/TVBaTlBaZUdFcElBUDIuFwoKVFBQztHKxsrDv8G7s7WwAE4/Okg5M19RS01GSkY+PlVOUFlPUVo6NV05MWRAOSkVE3BubNHVzsfLxMTGwL3AugBROzdHIB5oSklbPkheOUNrVV90doBTTVVFKiZbOziBhpHAzMrNzsXHysLFyMHAwrwARi0qPgUEgW9xg3iLeW56d5OlcZirQl97MDBDV1tofKrEhKu9rMTIwcfCw8bAvMC7AEAtKjYLCHBQUmxOXnKLl3GbrGGDnE9uiToqPUpRZXGZrYWqtYqyv5Wyvn9/iHR0fAAxHx41EhBRFhZbQEt9qrhWdYtBXHtYeY9GHi5ZZ35oh5qBoKuLr7l+o7Nic4FKRE8AKh8dMx0WTTQ0b4uZb5WoNUdeRWF7YX+RVSAxW2F4Z4mdUWZ6YnmJZYKTV3OFRUhUF166D94W5kwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/38.png",
+    "width": 1920
+  }
+}

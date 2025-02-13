@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Excusez-moi. Oui.",
+    "end": 127,
+    "index": 50,
+    "start": 126,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=126s"
+  },
+  "thumbnail": {
+    "hash": "fba2c4097e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nAXBR3PaQBgAUF1CEtTLaou+bdKqIAESCISNAdu4jT3OTI7JIaec8/+vec/yvtvIcaQ/A5ar+haFse/E37769+vp3I1bLcbd6/PpRSJkaFoCWDgBiKMqmbcgp2Ygfmy7NPHovz9/f70+X5bV7+vTj+PtYLTB0XG9sgqxkCm0if8e+h9h8BmF5yi9Npuf4+Z9s9pV9WG13S3WPc+8eTT74lolb8rM1BjvKekT0mLYJ+wm0xNjo+401AXXvTFvy6Yh4NmxdRzuLtubTstSaS10KfNSlhlWgkADbCyypw7uF2KplcZkNvOsx5oNinHCcuB5piTTuShpVhourp04N/yugpWg+9p0grvzwHppmSaYIUIQwyknWFKaI6x7zU81HIrsUNBNDvvKNCB5ClYPie+GOEwCP40jihEgJCmWjy08NHCp+UMDUymHXCnMIeVWbDvu3AudwLajJEijkHgBk5idDJ0UnhQ5aFJQXLOMxizw0v9SJDiuaPhqDgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/50.png",
+    "width": 1920
+  }
+}

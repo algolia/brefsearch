@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Il pensait encore à son ex, Maud.",
+    "end": 22,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=19s"
+  },
+  "thumbnail": {
+    "hash": "d477e521a0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nB3B63OSAAAAcD7MjoeGTZCHgRow56YOFEWcAVN8pNMTB5ttaacm5V7GRt3q6rrrdXZdX/vSt/7S7vr9AASC0WAwiqIEho1rFYsmTZw0YrRAR/N83NoXT+tyUxEHujLUZeuxCEAgFISRzftoLBIxtrgxy5gkhcAIHgrlaMLZz313BwdF0Tqo1AqZai4FwCAUCNwLI8isnL9sGdNEokFSKAIXY9jKVG6dJ+8m1tOmNu03zEJG3U4C7WK2sJtO45u+Xvo1H415zonFDYZoC5TXUJb9xrAqO0b5/Kij7XIlgQUujwdfvdWXpXvd0mxF5LCIRFI89oANh5qZ1JuTntfTXbu3Oh3m+YQqPALmh7W7F5O17/3wX988f5YVBBrHohgeDqE8RZ6ZpYtBfWF1F1a3o0h9VQYsNetohflh7ePL2dq/+Xx9ZSqKwDwU2MSJuvPHOxoZ1W2K2GMZmUvmuSTQldNWZe9Yk2ed+tXI/nRx7rsuiRMCEf3Q138v7b/vPYakNjYCMATBIATUc1xLSrWllK2XJ93W7Wz67e1dSSzEccyW0j8XZ+tXU5YkQRAC//sHfvBhuoKAAQ8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/08.png",
+    "width": 1920
+  }
+}

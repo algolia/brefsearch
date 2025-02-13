@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "On a tapé un fou rire dans l'escalier en portant mon lit.",
+    "end": 63,
+    "index": 27,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=60s"
+  },
+  "thumbnail": {
+    "hash": "d01ae4811c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGxdWIZ6dr+8urWsq8G6ucjCwb61s7SqpqygnKWYlJyOipKEfoJzbmBNR2NYVFpPTACCcmyfkY3QzMrEu7nQy8nY09LNxsXAt7S1qqetop6mmpagk46SgXxlTEJyY15sYV4AlIR8rZ6a3NnW0s3M2dXT1tHQz8jHxb26urCusqimr6SipZmWm4yHc1pOempkfHFuAKCOhbKindnV09nU0+jn5uXl5NjU1MjAv7asqaugnJuQjKqfnaKWkX9mWYJya4N4dACjkIeyoJvUzszY09Hv7/Dr5eHMvrStmZLCurtqX14PCAhqXl2lmZWHb2KNfXeEeHUAoIuBr5yVzsXC3NXTyb66mYB1p4t6u6qnqJ+jTzw6PCkkPTMugnRwgWhblYd/hXh1AJF9c5iDe72vq8a2r4dtYY11a7efkJWJhmJTUWRPRWVUTlBDOmRPR1tCOG5bVHBhXgBiRjpyRS2mc0y6il6jhnSkjX6okIFrXFZMQkRyV0ppTDtXPjMvHBc3IRlDKR5ILiMAbUMljVszn29CsX9Pk21OgHJteG1tZFtaOjU2Xk5FXUQ1PicbNCIZOysjQCsjPiUbyxDjIXQtg8cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/27.png",
+    "width": 1920
+  }
+}

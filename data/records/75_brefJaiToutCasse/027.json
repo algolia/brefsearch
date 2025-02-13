@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je suis passé devant le banc où je l'avais rencontré pour la première fois.",
+    "end": 29,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=27s"
+  },
+  "thumbnail": {
+    "hash": "de4503e752",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nAXBiW7TMAAA0KCuGmsOx0d8X0lsJ7RVSFmztmGVBmJIQ4L//xzey65RrUmfHNOwMrievWg5CUZe9n0UzWD13nBDIK3BKJv7oLPvybxP3WvSbQMVhuegB817LedWfzF8ju3cGUcxR2iU9NLJbGn5297fB5sElghOXiTNeq3mTk1e3Uc7W3Y0zFEySLpGna1BfJzir2ObRCMQ+trKo1OjM0vyc6f3igcCA4UaQYPgGlX2lvi/c/iYu8iwlfLH5fnoZDD6FNzkdXKWIQKeClKWjqDfk89eo/y7jH++xUAhrkAy6mBFK+XB6YMVg1EcN582eV3UBqN1sFnX1Ldkfx47CQDMC4PrnjeDaAInnuJJEVXD7WP5sC1wCV56lZEy53W51zQy8tyqazQvvb4le0tuCfaa3NKbYldttrtRsrMXGQMFKvIGVL7BCuOOUU8pKGpYwrqEZQ7yz9Vmk28edk+PBQPVf8oXMi+6+uURAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/11.png",
+    "width": 1920
+  }
+}

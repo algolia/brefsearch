@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Je me faisais tellement chier, j'avais l'impression d'être\ndevant Questions pour un champion. Il s'était dit...",
+    "end": 13,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=10s"
+  },
+  "thumbnail": {
+    "hash": "f27e5e0da5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUklEQVR4nG2QXUvCYBiG3+39fvWdm1JqI2KZTd00GZlufiOC2YlaWlhhhXQUWHTYQf2EfnI4Iyi6j+6Ti+t+HmBbFgAAE0IZ06S0rf3X8+Hn3ejjov88CB57x/cdb9EsPrTdp2HtbT4AlmkCACghnDHOuZQyn9l/mZy+Twergb9se4tGedE8WjSdZbe0OvNBKmGsDRgzxiilQnA9Fivn3VG3O2741x3/tuXNa+7lSe4myC9bDohyBgBACGGMEUKMMSnldmLLsQsHVtY5dHq1+rjdmNW9WcW+qmQBVFVFUSCEECEIISGEc65JaabSWSuj60YqaRbsYqcaTFrBtOoAJcw3oKoQwnCYkFG5k0zHdSMSiRi6nkqm3Vyp79fXgPo7GGMeRoiIJjXBxZqX0bgR3zX3/gKhCVFKCSE/n9jsFEJoUvvHsGFQeBJCiBCyHhx2jPEXsKAryPXJ6tAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/04.png",
+    "width": 1920
+  }
+}

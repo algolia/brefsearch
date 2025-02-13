@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Il y avait pas assez de place dans ma chambre pour le monter,\nalors je l'ai monté dans mon salon.",
+    "end": 12,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=10s"
+  },
+  "thumbnail": {
+    "hash": "7adad3b8b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGJVU31ubFhIQV9QSl1GPXxKN6t1Y8iWh1VDJ3trVIt8dol6cod4cYFxbXhoYmM7FwBzYlyGcmVfT0BuYFZcQzp5Sjmmb17AjH1pTDJ+bFWNf3iNfXWPgHeNfneIdnBwSCQAdmNbi3ZshXRslYJ9Z0tBUzMleE1Am29geVk3dGRKkYJ8lYR7koJ6koF5kX94h3NtAIVya5aCeoN3dmNdXF1HPnZKOqRxYr6Jdm5lVHZpWXxtaGhfXYV3cZWDfJOBepB9eQCCcWxtbXZTXGw1P0gtKSNILCNxRDmCZl5ugqB9h5xvcHs9O0B8bmmXhn6Ug3yRfnkAdG92SlhsP1JqQE5gKy4vIxIKPyQZT09bWnGPVGV+dYinjYqSiXhukoR8k4J7kHx3AFhfbktXaF5cbDxNY2Nuf4FvbVpDQURMYENWbUpYbWV6mJ2juo19dY9/eI9+d4p4dQA/TWBGU2ltUFBxfZbg3ez07ffY0NuMj51TYHJEVGZYcI6PoL2Rgn6MfHeGd3NzYVgAPU5nYlhhdU1BmoGBrp6j08nV6uHu8Ofy39jkwL7MkpOlhZe5hnp5c19TYk9DTzoosFPAS3YiJv4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/05.png",
+    "width": 1920
+  }
+}

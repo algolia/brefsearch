@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Je joue de la guitare.",
+    "end": 32,
+    "index": 13,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=30s"
+  },
+  "thumbnail": {
+    "hash": "caca45c554",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nAXBS3OTQAAAYC4GdmHDsoRdWCAQlldgAxGSdhIM0dQaO9NqfY0H9eL04HS8eHHGH+HZv+v3KZnL3h93wzK92dTHOn6zX389rO+HvOvossJxYhS5ddunwiYYaIaqKjLg387Pb/rV3cXqfqjfDvm/D+Pf252szVVjxQk6ddF5GecOtiAwgaZwC3OCx6X4OLTny+bzof1zaD910bohrXTKxP4+1q9LLmamBeFU05TC9SQxT3V+lPuM960v7jK/CqiUM1mSPLVerYONTwKMbB0SoClFMH94uRvrxsdV6W8XJHzq2Ri6sR+UgiSxdaz4IfFiMmVItyFQmIUf3507IS2dM3Oe0CokISdpyhYVI9Wc/bzePQxNaiN3ihAACsN4KLMFzUxAMXRcc2GjaAo9QRe162xT/0oEOTYSC1GkQ1VTQmIKZ4YhT2iRMXfFg19Xp8D2cyf68Wy7iWhswNCANtDgRNWeTJQ2Ca/7WlB2wbwx9h7H/oss9qnY1+Xv0+WLdO7rgOvQmExUVTMN9B/EOTyWw9JiMQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/13.png",
+    "width": 1920
+  }
+}

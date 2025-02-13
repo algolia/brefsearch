@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "C'était négatif, donc positif. Yes.",
+    "end": 87,
+    "index": 31,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=84s"
+  },
+  "thumbnail": {
+    "hash": "5c9e21f7a2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nB3O3U7TYByA8R707fvZvm01RFna/9uv0XUdClMztZuxgxE2t4GDgbpgzA6MMzGIR0KMicYzTzzxlDvQSyDxCrwkMy/gl+fRALI4zqO43li/t9NpD3rlcH84OTrc689ezM4s6TDGbMc2JScUI4Q0gDxO8iBMi6I7O3q+u10OBwMA7/GdfrcYU0YZY67rStukDBsG1pRagjBM28XWy5P55u2mtGxDJ2VrlIQNhHTOubSldCzGKDawBlCPoiwIqsWD8s1kIgk2CPZWobWxs3K9grHBuTAtS5iccYIxWYIgSD0/brcenY5G253e3vh4qxx9vvhRS9cRMqTl2NIRQuDl0f+CCmq+SurZxrfzr1dXf3//+vPp9Pzy5+XaWkNwec1dcRyHMuq6LuVM870MVA0gzvPNxeL9fP727N2H768X95MqJlyathAmpRQTHEURE1yrVFIFqYLoVqN5PH3Wfthp3W0+6ZYXH7+ASnQdEUIQQoILH3zMqLZaqXpeAn5YzxpPx/uvTubTg+lw0C97kxs3gWBCKNF1XUqplDII+QfuXUdOrAayugAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/31.png",
+    "width": 1920
+  }
+}

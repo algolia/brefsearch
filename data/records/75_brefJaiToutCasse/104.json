@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Il m'a dit: J'adore.",
+    "end": 106,
+    "index": 40,
+    "start": 104,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=104s"
+  },
+  "thumbnail": {
+    "hash": "dfb0df92bf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nB2PS0/bQBgArdbrfX27XmzH63fsOI4DhriBOrgqhiiUClSlCARUlVpx4oa49NZfX6XSXGekMbDJGAbFZeS6m25/e/Hh6evHt6fh5Xt/kEXJyK+T8Owwr1Pd5kFXaoMgzgkoJpsk3A6L+6uT39/6v89f7oa2DoNVVZQ6OBrHR2V8XEanVbATGAYg0OfRw+Xy8ab7ed39+XH+uG5XRfy5zg8ivSzTdhofl+FQRwY2OUEcMD8tk/v14m7dXnWz19uTX5vFWZnetNVQxf18vGqKbhZfzEMDI8GIy5k/y7Ltp+a6m6+m0aadpJ5b+6N+Eo+dvTqNNl0zLIqdwKnt2CNXjVxw6iReVrniyjIFJ3bh+7NQZ55PkNCu3++Pz2ttMCwEV4LZgkrAQnGlwOFEESQKPzjMUkkVsSQyIfWcfqp3D9T6D+YMc4G5A3ue7TnSQ+8BveOWCQxLjEAxscw8g1pALQ4UBAVBhCRCUSEJhJ6eFCW1JNkVwTIZRayJnX91XjIO76oAZwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/40.png",
+    "width": 1920
+  }
+}

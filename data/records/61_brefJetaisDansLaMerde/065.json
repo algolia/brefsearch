@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Elle m'a dit: Elle s'appelle comment ?",
+    "end": 66,
+    "index": 28,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=65s"
+  },
+  "thumbnail": {
+    "hash": "fe27360378",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD87PUE4NT85OE1BQWNMSmE9OF1PTV1FUDEKFTUQG46Ejbi8xK6vtqqss6epsWxlbABGQkREPz9IQUFycHSTlZpwaWxFODVaPUg1Cxg9GCNhTU2bmZ/R1t/Cxs2tsLdkXGQAR0ZMLCcpMiwuR0RHS0lPYE9MTzk0NyUtJgsTMBkeVz04YVhalJadeXqAqq62YVdgACEgJRAOEg4LDxANEBUTFzMmJTAlIwQECB8gJDI1PTswMTQ2PhscIgAAAG9udVBGTQAJCg0bEhZJLDE1Nz9LQEAvJygvIyQQDA07Q1FGTl01NTs5Q1ArMjwNDhIWExUuJyoADhAUHhIXSDU9OEBLNjxIIygxHxIVEQ4SJCgzTEBDRS4sNS0xJyozGRsjDhAVEQ4RAA4QFA4MDggHCA8PEiUpMDE1PRcWGRgYHg8PEQ8MDRYREyEdIRUSEgQFCwUFCggFCQAkISI8OT84OUV0fY+HjZmBjqdzeY1udoprdIhncYZpcoRwdoJ4bmVDQUQMDA4AAAIAR0A+UlJdWlppWmByTU5bVE5XWExWTk1aTE1ZUlNfTk9bV1ddU1RcbmxtUk9RAwEEDxJwOsot/EQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/28.png",
+    "width": 1920
+  }
+}

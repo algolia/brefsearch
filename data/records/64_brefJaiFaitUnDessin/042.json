@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Elle avait deux cheveux, une jupe en triangle et des boucles d'oreilles\nplus grosses que sa tête.",
+    "end": 45,
+    "index": 20,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=42s"
+  },
+  "thumbnail": {
+    "hash": "c945389552",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nBXL/W6aQAAAcF52D7EH6JIlS9tkyxabNq7azsWg1q9ZQUEFhENFBI+Dk6/jAAWN2SMs+/3/Y14rN62ft+PWozphbcDj3SJyAHGlGC2Dvexbc0UailxT6Fa7r9+aT1+YTv1e7FVNZehoPEHrMg0T3Nsuq67JYuvheor8AGK0cla8NG4OflcYsf9sgRFBIHY39GCW6RFbHzXxZiP/sMCH64lGNKAJTg6GrU+EwQujzzqRq59SfAxhdthdjvSSG8gYglk9cORzRiIa5mlYpDhEQBNbzE4dJ75ZZEERe2WErmdqr//ArQyNCXYWlzwKkv+hzPwYb9aLHrOa92NvU6S4IKgkuMyioghzRY/bQh7jv2USkDCnQUFdH6qa+MbMRw24EbPQziJ4JOh8ilIMyff2uSl6nJgTLyR+StzkYFqAm/ZrTPflq/TesDQ+gCD1zYI6CMgG++YoM306It4W+xbeq5b2Lgzqndo986vyqV275TpPYMra6ghvZ9haeFAJkWavhWC/BEtO4lmu9dh+vms8fP4HFk5W2K830NsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/20.png",
+    "width": 1920
+  }
+}

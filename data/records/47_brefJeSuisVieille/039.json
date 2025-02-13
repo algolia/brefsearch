@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Ensuite, avec Geneviève, je parle du temps.",
+    "end": 41,
+    "index": 12,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=39s"
+  },
+  "thumbnail": {
+    "hash": "93665dfb07",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAsJChoUEx8XFBgPDVJAOZWNjqSnqaCkqJ2ip35+gkA4OkpGSnByeFdQUD4zLnVjUgAMCQoVDw0cExETCwpALyqVjo6oqq6rrrGjqK1gUE1pQixYPzRRRUVGLR8vGxJxXEsABgUFCAcIEg0NGREQRDY1j4eInZ6joaKmoaWreGRdfk01dlA+TTAjSCscMiYfdWFRAAwLDggGCBENDigcHWFWWoyKjZGQlJWVmZyfpY1/fHpMN3hQPkwyJTsrIzcqI3llUwAZGB8TDxIiFRJDMS51bnCIhot8e4CDg4iNi5FpWFVXMyRfQDZUR0VKPTVBMyl6ZVQAEhIZGRYaX09IfGRWbFdUf3+EgH2BTENCOy8rMyAbRysjOiUgRDk3TUI+QjQqd2NRAAYHDwYHDSkqN2ZeY25hZIF9gWpkZSMZFCsgGTsdF0YaFTYcFzIlHSkdGTQpInNfTgAGBw4GBw4EBQ0QEx8+QlNsaHJALycgFxQnHxo5HhdKCwg7GxUpIh0gFxUrIh1pWEkAAwQLAwUMBQYNBAQKAQIKKCk4OzI2GxEOHRcVLRkURgsIMxkUHhkXGBIQJR0ZYVFD0MZvKohyuy0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/12.png",
+    "width": 1920
+  }
+}

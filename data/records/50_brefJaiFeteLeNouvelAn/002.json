@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Je voulais passer un bon réveillon.",
+    "end": 3,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=2s"
+  },
+  "thumbnail": {
+    "hash": "0c83430198",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nB3L226UQAAAUKLulvtlGK4zzDAwwFKELctNdunaNlZNaqxpqumjaR/0wScT/QJ/w3818bwfwWfci1PdQ8OumeZXFmYbFO5IVIZBYFmGojiGCTTd0HRVURRZFjzGPcYdTOwQo3Tjs6zCaGA0dt0tZ++72geWpRnm/yBJkhDGSV3ym6WueIx4DmmaRvi6qZjjXLWnf38+Xl1cxkkWRZRQ5vqh0DJ7TGGbh29KclOECY0uKP7TZNco+DA2vx5uv3z9XtRtlhVlWeM4EUwANOjaXvCZoKcoeBt4Rwh/p/i1a3+czn5cHu7vH86Px7rZ5psqYlywAyKZUDPAOXT20OGi3OjmHUYNAInjbpM0y4okLynfeJjKuiV03dj3Y991Z00zErLPiipEx9O8TahlgWeSupa1laRqFtSBgyIi7PppnPbLYRn68V23+/b4dPvpDnse9n1R0VaScqJooqqvFd0AsKpeCk3bt90wjPO8X+bDMs/zPE0pZSei+nwtvliJa1HRTADc0Mek68d/FFk9G4vHRbEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/01.png",
+    "width": 1920
+  }
+}

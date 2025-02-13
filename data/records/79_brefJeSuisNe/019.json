@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Trois minutes après, c'était le départ.",
+    "end": 21,
+    "index": 12,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=19s"
+  },
+  "thumbnail": {
+    "hash": "080378e146",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBe1PSAAAA8H2fYqfkaXQVgWHZxXmDzjz0rj+yCD0PIQOCbSrvLS5UZHNMxh6wNxuLHNMZ+bi+V78fEF+Dvn7+8D35Bcmm9guZQyRXLaFYrYjVizhewvEyhpUbjVoFzjbQPRzZA5BvyfIB/KNeIU6Pzojj06NGp33C9jqSOpA1iZcEXhTOOYaiyWa93KyXAJJsUfRZl+1puiJyXYWnlX5PEtjhyDAd+/J2av919Qurb2qcKhI9GpBUSR0ZztT9c+Na6kAVBUuXDUOXTVMZ/+J03XKv7Nsppym0yOHtY2Ds/LYmFyNncv3vbnp/Y5qGNh6P3KvhxOY0jRL6vKYy8qBFdw6xagbJA6plUDzPSJJ16QwnNqMopCB0ZYkSeLiGpdCDQqm4m04nEvHN+ObqegxoM+c/CbJJUUxf6LBskyTw1kkRw/arlXSh8DGxtbH2PhJ+sxQMhF74/c+eAtlcfmc7mUymMvl8DkUzMJxFClu7O5+2E7GN9Zf+YMDnW3yy8Hx+7vEjr9cDAjEoCi2/XQ6EXgWXwivR12EoEl2FIu9WICi4GJp9APpmZxZAz7zn4Rzo8YIz/wF1R+HAk3HsxgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/12.png",
+    "width": 1920
+  }
+}

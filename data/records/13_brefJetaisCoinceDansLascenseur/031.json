@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Au bout de 10 minutes, elle s'est rallumée.",
+    "end": 32,
+    "index": 16,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=31s"
+  },
+  "thumbnail": {
+    "hash": "222ab71e1d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAqklEQVR4nHVQ2QrDMAwLVIeTdO3KHvb/fzqcHowdwji2kXykkLAkCr/AgXxHCKBMZ/kfewK6GCMgWL47Z8NLAEzAbHanQGAJplrnhGOH9xSQeJ/rrVlCOShvjJ0tMiSPdK7xWPraw2ZZQt00hyl9SFXqTh9kD609lupm5Q3PpW7NQcyhrIrJE6V9DprYzK1qrQJZ9k3yr05Mp11pWGt1jBYp+LjhGx5L7vELwzQJeZLSFUAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Bref, j'ai recroisé Emilie, la fille dont j'étais amoureux quand j'avais 15 ans.",
+    "end": 6,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=3s"
+  },
+  "thumbnail": {
+    "hash": "e9ba7725a0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGNcQ2tlUSAWFSAUEEgyJ0Q1Ja+llLatnVtaLzxCAKGjIrewc4B9Pm1kPXBaUJuLgQCLhXyMgXorGhNULyJ2VUdDPDOyrKbw7OjY08uJfmemnXS2r3yPh2QhFhRHMieLalkAglVbcSYxbx4najUqpJCGUUpCwLu19PHtysGy0Ma46OTgioFkfmlKHg8MOSEYZDknAFwHFVABDGADF3API+DIyWlkWqOalMK4sHpuXqadlOXe2bCqkWlBLE0pIWA7Klo1JwA5AwhSBxNhCxxYAA6oeYFvbGG8tbDaz7DEuJrw6uf49PK9tq5iRDVXMCN0STVySTgAPwQLQwQNUwgXVAARq4yNbGZcnZKJycO0tLOk2dXQ1MzKk4J8Yz0tTSoeaz0thFJAAEMEDEMEDVQFFVoIG8WyrF1USqmdlc+rq59fZpt4e5aSkXhlYWM2JjkeF04rH1s0JwA+BAtDBQ1LABFeHyrJuq9LRDyGa2aSHi+JGSl5JixiOD9kXmZuTUY1GxIoFhFDIxkAPQQMNgUKNAAIXSYsYU1BJCEYhiIsyRo9vUtejFZVUhcdRjdEgXd/YEAzNB8XQTIwpLWlzZXq5vsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/02.png",
+    "width": 1920
+  }
+}

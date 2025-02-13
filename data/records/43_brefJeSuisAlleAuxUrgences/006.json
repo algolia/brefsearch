@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Alors j'ai fait ce que n'importe qui aurait fait.",
+    "end": 7,
+    "index": 5,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=6s"
+  },
+  "thumbnail": {
+    "hash": "790f43d1c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nD2OXW+aUByH/5zDyzkISKmDOso7CFaLArbGAmutbkwWW/sS26TLLrfrXe9qn2BfeTFZljyXv+eXB7LIfdks7q7zsW0qDKkH5nbmbwq/Gnn++75lGM6JbvUUVRA54IwjDaaR+/Wufmuv5kkgAfu2nvz59bAt7P3H1YdJ7honZu+d2VVUXhSAt3Udisj5+a35/rysRpEE3OM8/P2j2lbx0+ddWzaz0CtGwbnvaLxEQAhPTyG27fvbi6bMUs/p025m6HUalNezTblsLsqR71pufzJ0e0QmIIwDDzAnMYgyWMSsiLAoS2p+ee5Nk5tFeZkMZblzbOiDyNYkhUMkcRxA+LA7OIgCECIoeT5e3pS7ZfN426YDX1a7YWgfqxpiSEfs/hP+w/Odcprt231bfymLYlPVqe+lgdVTNYxFDlNgEGEQZTkJYcqyFGFqavow8PM8PRsGQZiU2XziuQJHAXgGeGBZgjHB+JCEDgckscx1Hq+L+P7T6mH39PL8urpaxIPxkSSLPP0L+ek3t4zdsLwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/05.png",
+    "width": 1920
+  }
+}

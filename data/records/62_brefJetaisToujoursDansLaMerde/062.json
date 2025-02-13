@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Bref, je suis dégoûté quand je m'assois sur un banc mouillé.",
+    "end": 64,
+    "index": 25,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=62s"
+  },
+  "thumbnail": {
+    "hash": "2bb7ec0693",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXBW2/SUAAA4L4at4CAXGqxYzcLYzAolLKe9rTn9E4LtFDp2IUN2EQdzEhkZonTLD4sMT74D3zywcT/6PcRvbbd97yjYDAaDk0Frz15uknTpii2kQwBEPgmkhVZggLfBPyhY1oEZjZ8Uz85GoZOq0iR2VhcOtg7RuDbbKJJUBGhbVo6UhUgIRF2nTYxMLWg0w59v/FqdzsRBy9TDJnsAf7Hcu7quiIB125Zqq4r2MRa4PnE9XwxHo1kAaTi6eeROBnLZNMHjUIzbJ2w1VOBdy3dsFTdxLqtGYNeQKw+rWZXV5ViJbKeiKxFt3Kozn2osrMad8PWbrjmUsWeoWEDa5ZmvO4HxOXlaHI+3s+XouuJeDS1Sdvl8nT++Pf94x+g3LLcUgQhEg8VSdaxGvT6xNt3b06Pz7bonSxJJ2NUrWgUdruLn/+mX383hLuguwwdl6tUIRBVhP2uR3y5fxhfTKnMBkXmEs/SPkJlxg0Xvyz/uwAf+p3r0FYrxRJfb4gCsE2LWN3eXZxPUkmqkNtmMi86EszvmND5KKmfRXQPwZkLxRKT3y/s1dmaivB/RvVxgAmxnhIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/25.png",
+    "width": 1920
+  }
+}

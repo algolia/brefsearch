@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Non, c'est pas celle de la merde. J'ai reposé le paquet.",
+    "end": 55,
+    "index": 15,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=53s"
+  },
+  "thumbnail": {
+    "hash": "3175769e3c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIqJgH18c1hZV2xRQJdpV3tOP4ZaSmhaXmJmY6aljYuFToJ9TX55Q4N9S4F8TWhhMACko5lOT0QRDANgRzdfPzdpPjJUOzWAbnMyJSF1cj2ajkOloGOSizyEejaIfkJ7czgAsrOldnZgS0Ilj21WeVRKfVBEbEc7lnVxaldBhIRCoJ5TpqNgkIgzhXsxkoxIgHk2ALu8rqiiioJzQ5x1XZRkVmM/N3xKO5l4Z398QJd1OZtiMaWPT4x3KJF6Op6LS4Z1MgC1tqjHwa+6r6GCcGRaOjFFIiNOLyeOgnHT2byzo6OWQz2eMxqYHg2ZKhmWNRyKJBEAv7+vlpmSUFRLbFtGPiokQikkPywnVU9EZGVilI6UoVtRmicYnR8ZmB8VkSgYhRAJAISDfRwdHyotFlpOMEEvKB4TDUItJ2VZNxASAFVPWKthVpsrHZ0vK5YjG5E9N4MrJgB0cXEFBAkNDQwiIw8eGws5MSVEPDRSUz5ISjx4amyxYlaYHwmUIwqKIReCIxh3GhAAeWJSOzY8AAAAHRwOW1tRpaeltbezubm2vsPCs42ImCcakjsohTcRfz0nejYraSEKHHOfEbj25AoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/15.png",
+    "width": 1920
+  }
+}

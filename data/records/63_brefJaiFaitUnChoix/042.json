@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Ouais, parce que tu as été jusqu'en CM2.",
+    "end": 44,
+    "index": 17,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=42s"
+  },
+  "thumbnail": {
+    "hash": "1ae206ed85",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACYcHAwLDD4uK31cUW1KQUUyLmZZVnhzdX17gX5+iy4sNC0qMYJ1a3pjT2RNPmNQRAAYERIQDA13WVGcc2dwST9qVFBzYl5/eHmHho2KipYzMDk1MjqXiX2TeWF1XUlsWUsAFA8PFA8Pd1dOa01HbktDZklEi3Rtf3d2joyTl5akLiwzJiQqpJSEpopxhWtWd2JRAB0UFAcEB25ORpVtY6B4bZZxaoBoYZKAd2xobk5JUSQiKCMfJaWUhKuQdoxzXn5oVQAkFxYVDA02JCKXal+keHCed3N7Z2SQdGR9cnMfFx4jHiNFP0Wsm4mnjHONdWB9ZlMAJRgWIRUTHRERRywojmhem3VuV0hLbFVMvq+ml4iKvKKVvaqgv6ybmX9niG9bdmBOACobGCAXFycaGiUTElQ0LllFRVJRW1NGSbKTf72elaGPjNfBs7KahItxXHpiUWdSQgBnSz4yIBwkFxYoFxY6HRtaSEpNUFxERE5fUlKehXtsY2mVgXidgmt7YU5oU0ReSTsAf2BTb1NIXEU9QzAsZkpDm350YVNVPDpEOzg/gmxkhnt9c2psgWZSb1VEXEY4XEc5M9OaE7kzxAYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Alors, la fameuse farandole de pâtes qui restent.",
+    "end": 39,
+    "index": 15,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=35s"
+  },
+  "thumbnail": {
+    "hash": "78146aaa60",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGx5hlVaXl1fZGNpdmlxf2dvfG9vd2Bnc2FpdmRrdGBmbWtwdmlrb2VlZl1bWlhTUwB5j65hdpuHlKqEkKOWnrCQk6Cbenhxcn2Ynq1vbXRrUU1wc3h5gIVxc3ZpampdT04AcIama4Owi5+/bnmKanKAYGBoX0hEU1djg46bdXF0ZkE5V1BKb3eAc3eAdXZ3a1BMAGt+oWR3oY6hv0BETCIeJU1OVnRzckRGUWBncGBVTDsyMWpWRE1JRHByen5/gXZXVABre5Rea4h1fYpIUWFCR1iZoLDK2vCAh5wyNEFORDuWjpR9aWM5OjZmbnOIipCCZ2oAeH+HcF1Pg3t5eYWXb3qRoa3Fq7vSkp+5Q0ZVPDMyf3eDbGRoOS4la3B3fX6FfHyGAG9zeXJgTHhmU3uAh2RmbJqdqqS21ISTrU9WZlBRW4aPo5eesWFXV2VocExCPUMyMQB8hIxsa29kU0JxZ15+bmB+eYFreZpkbIQeHSMZGySDgZKvoqSbk42KgHljXlpSMCoAgYyOa2NYYkMndlQziWtPiYuRhI6cgYqVdXuBbnBziImQpKGdnZuRn56amZ2fgXp91zq//YSRQrMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/15.png",
+    "width": 1920
+  }
+}

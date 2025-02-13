@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "En fait, je suis restée devant la porte pendant 5 minutes sans oser l'ouvrir.",
+    "end": 38,
+    "index": 19,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=35s"
+  },
+  "thumbnail": {
+    "hash": "78e8e43124",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXBa2+aUAAAUJIlXVF53HuhiLRSpwhaQESYiIwU14mgPMXio00z92F/YMn283cOdjm/HfbHIimSMIqClSkPHXOaRlG1S45ZcizLfJs5hoEo1LwlCJzEznVdV/U+LfJ459oL1AT6SD2U1WuavlfF9Xz5++dfsPQ/f8IRCQFBY695VqVpuUurKMrnBmghT+p/bFZZGJ7S3fVy/v3zF4d4QEBZFFkKYnWR7bdxsg49Y+YOBsHc8VVd69z/8JaHeH09n6TuF0Awd4B75AWRF7ByG2brl+/uQmyLVIM1JGUg9AgcmopSxaGtGx22s0+yXqc7uH8Q2Da28d2N7zmTCQfbsMVydIejebIB1H5/rj5RDVDnxakop2PNehrfAQYL5tazPfuq6yL/QDcQD4UuK7IkNxAEgeHGffn9cIiDlWvZS9NgaQZbTFRHV/XhkKEY0GI4wHM03wYcIoCpKI5hFHH0zbI82/ZmJiIhZsrDqSLJjz2GQvgNid9QzVsKtug2ZGcjedyXNs++IY9sTXMmGiLhf70mUKW67mvxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/19.png",
+    "width": 1920
+  }
+}

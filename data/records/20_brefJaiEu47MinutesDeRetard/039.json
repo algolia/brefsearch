@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Il m'a dit: Vas-y, je vais te fouiller pour voir si tu mens.",
+    "end": 41,
+    "index": 20,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=39s"
+  },
+  "thumbnail": {
+    "hash": "f7044766a5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFg4MXNKPzQrJ4uMjJWMhVY6L19ANqVvW55lUF86LmxIPnhLPZFbSGY9MDEtLSwqKwB0RTuSYlFQQDiam5mxn4+RXEOfZlHTl4PGhW6XYU2HXU2gcl+4fmaUXUsrIh9FREgAcDsysHhmhGRSrKObqY58vnJUsm9Zq3JktHBcyIFq15mC05V7y4dusG9ZMyMdW1tgAHY+NLh/b41qVqmgm6SKfLdvUohXRWhCNqhqW8d/Z8mGb7hwVrhwVZxlUkszKWtnawBqODCvd2iDZFGqpaOlkIWVYEiJUkiXUUqfbFu3e2W+dVi5dlmqa1JkSDt4RjmajI0Ab0M3gVdIiWxYwLy4oJiTi11Fi1ZLllNOoGNUrndgq25Un2lSgVdGUTowRDAsxMTKAH1UQ1lANIJmVbq3saWrrYFbR39VQYpbSLl4YaRwWIJZRn1VRF5HO1Q6LrSopuPl8ABlRzpINi1rVkmpq6mzu8FYTENxTkCIX0+OZ1VpUEBnTT1ZQjU6LihwSzvJvsLb2uoAVT4zOCoiX1VOeHt/SUtQMiwnNCokPDErOjApMykjNSkiKSEcTjYqfk45hG1cfoCJr2m0cbjNhVcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/20.png",
+    "width": 1920
+  }
+}

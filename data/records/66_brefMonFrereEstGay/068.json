@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Il m'avait déjà dit qu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler. Ouais, j'en ai déjà entendu parler.",
+    "end": 71,
+    "index": 35,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=68s"
+  },
+  "thumbnail": {
+    "hash": "607ed38f65",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH92bYd7cY+BdnxwaC4mJRYREx8aGnltao6Df4d6dXlYS25JOm5GNmJBN1M4MVg6LgCMf3OZiXuhkII+NjMiFxlZPzwyHx5GOzmbjYiMf3uJZVSLXUaHXEV9VEJ6VEJwUD4AnYt8vbKqy8G6PDU1NCUlbUlFXTgzRjIwgW1ojoF8h3l0g3VxgXNvfW9rdmhkbl9bALCgkdTJxObc1ZiHglo+Ol8+OVY3MygYF0wvLYRxbYd8eIR7eYB1dHZraW9lZGxjYQC9rJ716+T47+nLwLpPOjdGJiNkRD5xXlVhR0VmTU1rVVN3Z2NwY19mWFVjVVNgU1IAoY+Bh4F+ZmJhaFRQQy4rLRgXLR8ePDQyQDY1OS0uQS0vY0lIZ05MWUhGXE9NWUpJACQeHwQCBgcGC0QzMlU3NRkVFwkHDAIBBgMBBgcGCQoICzgoKl1FRSMbHT01NVZHRgAJBwwTDxMVEhYqJikvKSocGh0OCw8NCg0MCQ0MCAwJCAsKCAwPCw4PBgo/GxpVJyMABgMHCgcLCwgMFxQXHx0gDwwQCAUJCQYKCgYKJQwPQBUVRhkYTxsZVBsYVhoWURcSKpl+Hsuxl8MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/35.png",
+    "width": 1920
+  }
+}

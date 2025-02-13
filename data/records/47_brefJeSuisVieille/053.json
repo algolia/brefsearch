@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Des fois, je passe du temps avec mon petit-fils.",
+    "end": 56,
+    "index": 20,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=53s"
+  },
+  "thumbnail": {
+    "hash": "803225e1ec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHpwbJB+aoR2Z4N2dZSOl5yZnJiNi5aWoqudmouCh6GepH1vYXdsYXRzdHdyen56hABnbIVxcoKVh4OokY6jmJ+yqaiXhoKtoqabjJAgHCp8dXqdj4WIhYp6eYFKQkpaWWQAS3a3U4XRe4GMnI9teGpicFpWMSorSEFFT0dORDQ3Tz9FQDlDjX57kYiIg2heb2VoAGJ/qGiGtJaXjYF7WCQlQCQlQSUlNRUSFyUkLoF9jIaInRITHUc+QJGGiHpjXHVnaAB/d3V3bWhiZGwtME4OFC0aHzo3NEZPQkAVFRt1XFOVeG8/PUQiISZRSElNOjw9NTUAU0U+eHBxa21xQjtIOSInLRwfREVUU1FWIiMqdmhpjX18dHSBQkFJOSgnQSMkMy8vACgaFF5NS4yBh5R3cHpCMW0yJVVTXYV2bm9oc4qFjnRweSspNzQ1Qy8cHTklJiknKQBPOTGEbmmHdXGEVkCogVmlhWdnY21+b2xSREdLRkx0bXUoJjMuLjstGBsyIyMpJikAbllSc2Fccl9ZWEZJim07pYxro5SSgnh3NzAzJSImYVxjJiQvHh4oHxAVJxkaJSMksbuc8PdiYlUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/20.png",
+    "width": 1920
+  }
+}

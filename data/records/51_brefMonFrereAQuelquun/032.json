@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Non, je sais pas, je suis débordée.",
+    "end": 33,
+    "index": 14,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=32s"
+  },
+  "thumbnail": {
+    "hash": "cfb3048bbf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXBYU8SYQAA4Dea3Pu+dwc553QxmdVhYDqOwXFaAh5cd0fcciqccBZHAiKnoBLSwYbeRqVkLT/Ah9xyc2v9jf5azwPmHrnmpyZn3G4SIi3ODYzNkXV62aj3raGmFvLZyoqws+CP6MKKbWSLUgzM0PQk7UKIJCGUl3zX5e072xp3W4P+qGEcf0jL+Y1C7KXY3paGB7r5RgCzbjfC2Ekg9dnjlhAavFN/29a4d3Zxfn+kGSevGDMjJvi4vav+apWriSgIeufiAUb0ec0w0xbDdiF9e9G96XzsX/87NNqXMluPsXIo+LW09bdXz0SWAedj6in+XOFkn2fa7XrN+sed42+nTat3b+q1KvdcZ592lOiPqvbn034zswZITFMkteCZdVGkY8KJEewbuStz70BOdTflSozbZee/b0TvjvK3J6WbWg6QiMaYgggjhKETOhwP91TxS0VPB5jP5WJzPdyIBYaZ0Kio/NzPXb1XAUYkgghjRGEMCQjAg+w6f/Y2KQWDZn6nluSbiUBj7UVPitia2N0SACQwhJAgCIzQhJOYonBVXj1MJ6TlRcXvVZ5M5xY9pdWldjJkpjhT4v8DBwBzSPVlBUwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/14.png",
+    "width": 1920
+  }
+}

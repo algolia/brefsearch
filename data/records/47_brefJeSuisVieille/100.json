@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Bonjour.",
+    "end": 105,
+    "index": 40,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=100s"
+  },
+  "thumbnail": {
+    "hash": "121456e4eb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBbVPScAAA8H2BDtAB22QTmDUiJOShsQGObey/B+VJlEDYRI8AUwgUpS7j8dK75tXpddr1qhe97Qv46fr9oPHCnF5/PzD04fmFeffr5vbn3eOfv/+eZrOFXqv0hx877Y6uG+ejq9HVbK9chSqVMhB5IG6WsuqXyWJhPg5G83b3cvbtoXV8LIlcMbeV1dSspm7JUoKNQ3JGUCVRTLMNQx9cTvZ3duatyrhjHNb19klfVfg0xwCQAnKSz8Q2hSiU5sIZOQE0xmjUFbBtAPb+7N1tr/mpZezuFpWClNGSuVJazjGiEmI4PySAcChO+aPepEgn6Hi3IN73m78/nz2MTotZwPD0m9Q6zb6KRJ4HgoTPh0JrATfpJ4g1zPfaE4q+bOVF86h0c/R2+v6wVq+uktjqC8xNESTl8lKoA7NCTteyy+N0eRAqSOIkqgGhV85289Kw07o2f+zV9lc8Tpx0IgQMYzYL/AxCcDvuRXEvhhIOQZZ6g4uT0w/T+dfpeHLQ7DTavZSgbMSiK27UZrdaYQu0hMBLiMOG2KlAkBM1TpDZlFCtGflCKbDBhOh0hOFZTg2EY1bnsgW2/QfMhXxy7iJtKQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/40.png",
+    "width": 1920
+  }
+}

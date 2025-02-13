@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Si. Je n'arrive pas à rentrer chez moi.",
+    "end": 7,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=4s"
+  },
+  "thumbnail": {
+    "hash": "fca712ab5f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHlqXYJzZZeJeZSHeIuCd0NBQBscHB0eHjc5O4V8c5CGfWVdVnJoXYl6a3lqWnBgUQBWSENKQDxfVE9CPTsrLjI1Nz0vLzIWFxYUFRQjIiAcHBsKCwwXFxdQSkSIeGuFdGUAMSYiNisnLyQgT0E/OztAMjlBQEdRNzU3FRUSCwoHExENFRENICAhJSgsbGJbm4ZyACQaFiccGDIkID0rJklAQU1ebEFPWTIuLh8eHxYWFSciHiUbFSsqKy8yNiwqKoJyYwAeFBIjFxRYNTJWODJJPTs1PEQuMTUgICAaGRkWFxcWFhYcHBklIyIhISEREA8iICAAIRcTMyEdYTQxbElBbVJLMiooGRodFxgXHBwbFxcVODg3iIaISUpNExISGhkZJCQlADojGj0lHF81LF87M4hqVq+jgm1nUSEaFR0ZGBkbHHVpZbOVklFHRx4hIiMiIykoKgCjiH+QeW9+XlNHKSBgSTTMxZ/b1a2elXdYRzVCOzc+Mi6ihXuTd28xLjAjIyYaGhsAyLy408rG0sfBqZmRloN01Mu82djM393M0sm5zMC3v6efu5yUu5WNXUpEJycoIB8g7k19QuKob9EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/02.png",
+    "width": 1920
+  }
+}

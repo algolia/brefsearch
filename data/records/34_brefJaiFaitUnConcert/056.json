@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "J'ai dit: Est-ce que je peux avoir une bière, s'il vous plaît ?",
+    "end": 58,
+    "index": 20,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=56s"
+  },
+  "thumbnail": {
+    "hash": "a406a99247",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADUdGEErI29NJH5XJIphK5RoLpZqLWVBHmhBKHllY25LRmVHPI5wQYVpO3hgOWRNLQAwGxZQNSuMZC+ccTKoezi9jT6vgDthNieiZVN1Xl9VOTtkQzqhf0yggkyWfEx9ZDsAMCMlUTgyo3c3vo8+y5xGr4o9iGQyk1U/pm1cdF9jT0FQZEtJrIpSr5JUqpBWk3hHAHVWN512Rq+COpdzNWJLJx4VETAfGVY2KU41MYVuWL+ca6+OYrSQUriYV7SXWKCCSwB1Th5fQhwqHxIOCgwJCA0ZEhAuIBxGMCg0IyAbExWMbTnInVCyjU20klCujU+HbDoAXj0bCwgIDgYIPxEGORAHHhAPFRQSHBYTKR8cFA8Wblg1zKJSsYxKqohIon9EemMzAGtFG0oxFgYFB2o2H5VAHE0aCzAMByULCx4UEQkIC19OMNawWMOfUrSRTKaERXVeMABaOhZGLBMbBQJULiRwSD1qOSRuNRxFFg4hEhANCgovKBy0lVCdgEJoVylURCAlIAsAFAsGDgYFLA0HMhAFNR8cckQ3bkQoSCgaPSYaLh0UIhUQMiEaLR0WFhcMDg8IDQ4Gjlt9ugVYL2IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Faut qu'on parle.",
+    "end": 116,
+    "index": 42,
+    "start": 101,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=101s"
+  },
+  "thumbnail": {
+    "hash": "bd8bb1d25a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nGPYlRpe7GojLSDEwMDCzs4nyCcmISLrrK+tLSslLCjFzyfGzSXIxsLFxMTKBAYMm2IDXjXn3anPaQ7wUpNRYeWWttbRTrfXzXEy0FVUFRZRFBSQ5OYUYGVmZ2ZiBmkQ4uSK1dPenxT2v7/yY295b1Rkrp9zuq12R6iDh6mJqLiWhKgCP58YJxsPM9gSBkZGRgYGRh4OAQ9NveUxYZ/bS5flhrupS6dba4ZbGSkqGElJqAkJSnFz8LMys4E0MDMxs7NycHMKsHOL84uqRehqFzjrZzsbBhsqZWhL+crKcgkpC/BL8nMJsTKxgzQwMTGxMLPxcPILC0orSqmlqMvkGClNiXcv97VqNFZsVBLKsrOXEZNnYOJiYmJjYWYGaWBmYuVi4+HmFdOWVEgV56k205yaEdqVGtTnZd0sw9Xrbt8f5OuvpcnDxsnAwADRwMLOwsHKIWgmLp4kypmrr1qfGFEWF1ZpZ9Qkw6UvIMjHK+qmrOSppKDIxwfSAHIVEysDE5etsECCKFeCmkxdZEBLSlShmVaJJJetiCADE8hsVmYmEU5OAC/9SFrng1ENAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/42.png",
+    "width": 1920
+  }
+}

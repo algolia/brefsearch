@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je savais même pas pourquoi j'avais dragué cette fille.",
+    "end": 63,
+    "index": 28,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=61s"
+  },
+  "thumbnail": {
+    "hash": "9e6fd76078",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJRma6h0e7KBlrOBnLV7lqRQbVoJCl8GCkwSEEknIVMtIlkaFlIEB1EHCDQMDCMSFACkc3SPZmaqf43Bj6K7hJGpWW1hCAtXBglnJjqCR1tUNjBJJBtbCAthBQg6CgwuGRkAnWlmNxMcXzpAwZKYvomKqmBeRAcISwwPhDtXiEhgVTI4MxoVWhIRYQQIPQoLNRsbAHtMRVkbKkMZHKh/e9OknJhXTykQFD0aF4s1UZZPZU8uMjMZFFoiG10FCTsKCTQcGQAgDBA6FBcgBQdQNTDbrJWDQTtVHidJHRhRGCZwMERJGyNAHRdYLB9gDA0/CAc1HBQAGAgPLA0VFwgNLSYljnFhMyEjMxocQxQVLg0KUhwueS1KUyMdWjAgXhcSSw0HOB0RAA0DCDYVJRkLElVUUmFjYWdpZ19fXzcTFVQfHIZEVJ1McGInKVcqImA5OEcWDT4cCgARBw4gCxUQBQweDxVXLDh0TCgxIh07GSRtLzaUS2GjU3plLTpTJCV5TFdoPz1DHAYAKhkkHgsNCQQGEAQQLw8fJQ4QPBQiZDRPk1VunFh0iExtaDZMSyMlWCUwZTxETzAqH91qyfHOhFwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/28.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Je me suis rendu compte que je faisais tout, eux, ils faisaient rien.",
+    "end": 15,
+    "index": 5,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=11s"
+  },
+  "thumbnail": {
+    "hash": "a83417aac3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCNioWGhH6IhoCem5Wppp98enFiYVlTU01AQUR1dHSJhnxnY1o+OjFfXVUqKjYIBRcAlJKNi4mEkY+Jraqmuba1hIF5Xl1aTFFbZmBlaV1WVU9EQkE+My8oVVJIKSk0CQYaAJ2bl5KQi5uZk7i1tsfEy42LhGtrZlhcYGRhXh8SDQ8IBlpXS0pGOlBJOR8fKQoIHACjoZ6XlZCenJa7t7zMyNORkIyDeXGBe3ZwaWBFPDw/QDqrp5x7dWZDPCoeHikKCR0Ap6SknZuWpKGcvLi9zMfSmpqYk4R6n5KTgouaXm2BVGFuhImQgn1wSkMxISIuCgkdAKqoqKCemqajoLu3vMjDzqimpKCUinyHmWp9mWFyhlNgblBcaG1pXElCMB8gLgoLHgCsqaugnpulo6C3s7fFwMmJg353dXZtfpZhcodca35PXGlPV19vaVhkX08gIS8LCxwAq6mqoqCepKKgsK2vt7S3a2hhSElMTVdkX2+DTl1vRFFfSE5TYl1MeHFlKCg2CQkbAKqoqaGfnqGfnKakopyalmppYy0pIEBDR19ug1dne0taaz9FSVhRQFRPSCEiMQoKHdZDukKrWghXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/05.png",
+    "width": 1920
+  }
+}

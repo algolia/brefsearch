@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Elle a dit: Je vais lui chercher sa facture de téléphone.",
+    "end": 81,
+    "index": 38,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=77s"
+  },
+  "thumbnail": {
+    "hash": "b6ebc0429c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nBXL226aAAAAUJIuQTJEBAGlpk6UZFOqIHTWCyTa6awUMTpD0i6aVkO7RqxFKBQvbNm671523g8AQVA0GmUyJ8dEgkrgJB4/E4TA8X8GYfh6OPj7MAjt5ZplcngcQ5EYAIIgDMM1SSqyOTZNF5kPeTo56PXC1/3e2x38/Vv4ZzG9S1HJJEXFUQTIM9kyxym1msyXpq3GrN0wlKrWUmxrvXWDrRP83v36blyTCeI4RVMYBoglQSpXlPP6/VBdat1ZqzGqieZY92zHs13PdsNgv5jNKYKkqSRNUgCOkzEUY7K5ua6Zamc1HKwGl4v+xWZp+RvXs53ti29bz0wmmyLI/wGG3yMIcvTuSKnKfx8eV1p3IAl9iZ8aN+bt3Lr/4a43geNLJZ7CsBSBAzAMQ1AkjsZkeWwa5jf5sybyPeG0zov61bjdbFoP1suzO5SVHBrDojAQASOFj0W10zUXbxPNvBQKqsir5U/NQlFTDem0ONEnmydn8qUjp9M0BAGZLHd3u2vVq/3OuP/1untWveJYnWMn3Rupcl4p5C+U9tOjPRuNVI47AcF/3NltCl91exYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/38.png",
+    "width": 1920
+  }
+}

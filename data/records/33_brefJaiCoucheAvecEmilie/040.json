@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "J'ai vu ses photos été 2011, ça allait.",
+    "end": 42,
+    "index": 16,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=40s"
+  },
+  "thumbnail": {
+    "hash": "72d3a0ac38",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nEXGT2sTQRzG8bn5AkRFfAd6E8SraBFFUJGaQj0oeBK9BKS5C1ooiBe9qNGDf+gloNBqkm7amGRnN+7u7GwyY2Ynuzvzm0mzSPE9SKviw4eHL1pYenR28cXVex+uPWjcqG5UVtqV2lal5izVnIPYuvnw62L18/X765fvvrqw/BStrj1/Vt9mjIeEj1iq9O5f8F9W2B8iD6Kk1d5BrXanNxgOXD9JmIaZ0lZpW2ir/rWC2Z8WMv8eEDSZiDiKsmkhcwumBFNqKO1sDmBAG60tgNHaKAUAVsoMbb5/c/H0ydXHa04/33Ros8u+bLNuP3RxNHBD1yOeF/cGwU7Xo4kYjafo9qVzZ44cunNrGUfE9/e5boA9wngmUq10Waj5/utSZpYmAl1ZOP9kpdr4+K6Dv2Ec+kOCvRB7YRjS0WjCuOQ85TxlPI3jca+H0YljR5ttZ2/vVzbNi6KAg2W5UtpaOzPGarBKQSqnhNCO00Gnjh9+W6/TOKaUCiGsMbvzn/2gIGMIEjWRZkhk32cbLdz41Hz5ev03m0RDsMrLlGMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/16.png",
+    "width": 1920
+  }
+}

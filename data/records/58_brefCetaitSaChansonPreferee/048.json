@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "elle m'avait emmené en week-end.",
+    "end": 49,
+    "index": 16,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=48s"
+  },
+  "thumbnail": {
+    "hash": "1104269693",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABFklEQVR4nEWOy1LCQBBFk34/ZiaQAEkKVFA3rvz/v7MGFnbdZZ97zwAAMAKMiMCvECqSETlRsDa1g/niZW/zY9l+B/g/QlAiZwqiQNQXTFxEJ/VT1Ovh/PMCEIEIhcmZk6UQOaIRNxgZyZELS/Pc2vGrA9i7mciYg6Uwl74AyjJ1PdAou0gjrtluw9Pkaf9cEKks1WLxuuV0Ez3AKCRTlHUcmGUaYCQYicAQrStJibbX5bPM92hXy4v4guhZ96w7cnkBTNilmcxsyvmjHO95eO9AXCw3Lz1t/vbcBgRmVGFnCdFifrS6Wv/YrW4aJ8s12y3aVXOzWAaRUK1qk/nsOUc5a7lInDTOmhf1JXIt01vkVudH1vUPyQcQIzPnpbsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/16.png",
+    "width": 1920
+  }
+}

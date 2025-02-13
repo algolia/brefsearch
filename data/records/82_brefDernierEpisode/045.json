@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "À chaque fois que je vois un panneau: interdit de marcher sur la pelouse,\nje me demande comment le mec qui l'a posé a pas marché sur la pelouse.",
+    "end": 49,
+    "index": 21,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=45s"
+  },
+  "thumbnail": {
+    "hash": "473a0c6889",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXBfVPScAAA4H2DymIiQZzHFRzIi0NwQ3lNZmzjbb8NBnv5bYMxGJuCEV5ZwyTNNO/q8h+/bc+DKLJPknw0CFNctMbFap0k2UlW+d0Kt1cGmRLIFNp4voH3xDdQ8UBxE1FVVJC2o+SHBNvOa7BmTVqnTv1k2prblG3yi1lRFyNMje1FTMOrKT5E11FF247TZHWkrB5/D1fL1Z9fH29c6+oLM1Xt9QWYG6E6CeTdU2vTULeQiblljILpJr0vcgW9Wzb6x2NIjRVhNqZMmbE0YWGVhirdyy6cgKn7EGOITsb+BE3a68u7p3/rx4ez28uTa9f9ey8tndG35ezapZ1JHuC26R3oKDIcbOgDFGPe52C/NOgTElsZ9sqGdAA7ZV2oW1pjqsX4BgFKpuFXNS8iy6+g6sHoYqrL8WeWs76Y37hfH35O3PPz2++f7398urtKCg2seaTBABRRhGWfQRHNUgeRVv1opFTHcE8COcjnJJDutuJcM9Zm3lHH4UqR5173ux6k3doA4EWqsBPEieB+OpDBQjgWSO344+EoEUnk3mKHIYwIZg/9Dfolyzz/DxQaiMZpUIhnAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/21.png",
+    "width": 1920
+  }
+}

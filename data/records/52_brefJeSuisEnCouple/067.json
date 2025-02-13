@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Et des fois, il demande à mes potes de m'appeler.",
+    "end": 68,
+    "index": 30,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=67s"
+  },
+  "thumbnail": {
+    "hash": "523f3e6250",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABT0lEQVR4nDWOW0tbURCFZ2bvmdmzzy3nmpPYk5hEU9Fi2zzUSylokRb7WCKW9qn//0/IwQjfy4L1sRZ0Io3qIo21ylx5rgJAuzb/dzG/6YvvQ/W4rBZJQHCK3tDDOg1d0EJ0sLAQ6UQQ6Mey/To0jcgqTfbbdptHABeQM2Q4za03rUNYZclJlvQhOHD7k+nz5fHTl8ufm+H3ulllBuAMeUIMlYaMZWo2jTZPrBIN4O+Oqqvj2f/727+7iw9tOYuJIgfwNTEosUcW4uA4OFESRS5DjDG/2awe3m/6sm7zolRLkDvHQOhHyDtiInavOJE3ckvrvGzS/Nfu4+PZ+iAgeoSDwCSeRJ2wY0RvYpllVVr8+Xa9/3QGiN6TD44nLKmXMSI75FEgJhyXU7XTsng4395tBuiDLKMuoy5MaxHCwyvCsf063pudT5LPs+7q3fQFDoAaabo4dNwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/30.png",
+    "width": 1920
+  }
+}

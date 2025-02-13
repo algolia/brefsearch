@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "J'ai trouvé ça un peu facile, alors je lui ai répondu.",
+    "end": 98,
+    "index": 43,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=97s"
+  },
+  "thumbnail": {
+    "hash": "f4661b17d1",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBeU/acBgA4JezoaXY60eP0WLvFlYoh2DFEosDAoig1CqJSnRjB2bZFrO/9uX3PDD29GXHvT1tPITd+2GfJygsTWRTxTLO0BiFZ8kqSesU7UtILpZoDIfrbj0ZtB+j09fpxef5JcIZg2b3gXc4b850mStQrYpSR7zDlY9LNMKPIA78p1HwZRa9rec/VleOUOnLHzYNe26boVLpSVJkWKFutERJKhRFkob7sPMyHn5fTn/G6z8PyX7QvtKVhaFuaubK0ZOaUWcFEWd4giFSGFsg4HEU7BefDrfLX9vt3+TmfXIWmk7sGrFr7lruYTqK/Hbg1HumHdhW5LkwbXmroB8Ph8lo8m0SvY3OeqrlI36iyDNL212ESRh9Xcx/3928bzf/nu+gJkhepdpWza5R3533lrZWAkwl6Y4gtMvIpUoIckoG99nyotF4Hl+CIwgNWTkxrL5uP524NY7LQF4rkIHAdRDlMxSCPANZBkDL5WYfa6CxrMOLnlxt8sK1XVGPGBxyCDIDkV2bUpMmKUijVJpNpSkAFcv/ByDpShK0hN00AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/43.png",
+    "width": 1280
+  }
+}

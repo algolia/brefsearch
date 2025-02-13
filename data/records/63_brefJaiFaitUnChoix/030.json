@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Ouais, c'est qui cette pétasse ?",
+    "end": 32,
+    "index": 11,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=30s"
+  },
+  "thumbnail": {
+    "hash": "8888270c3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBWU/aAAAA4L4tA4pxxXEqKiXIcKscMuyGhmKltlgpIPQulEMoZQV7jG7JTGa2JXvSxO1hJvsN+4n7PmAnGPA886x5vMRR8avj7MYTmWjol2sr53Q5f0hmCgov93oDviu0mKsmcwVkk3H/cw8E+mvF3K3xoYhkK2l4xTE37W67hHXf4dpY06a62hsKrNjp8AD+Fgm/WI8FAuRhtprPx4MhpoBwpZzVulxZrmk6tuUsjBttoqv9oSQqQKNS2tuKJYIv52xzoSjJ6CYGbxvYkUlgX1afbMd1rI/m0jbmy/HwWpEHAIkelDKpHLwza1ErWSzAyV0IqqcTEpp1JtOZ7g7Hpjo0JEVnO5LMi0AusXn8OlVBXulNQqWIKLQBR8LYfuoM2VuqfYGWpVZf4RVNlj/3WVekgdAa+GYrUkXSJnfBnJTx/MH3Eft7IT/M+Pu59HMi3Gv8g8Z9kyiLPh4TKLDh80FeLxILT+uVwcXZ46L374f11x79WfaeTPVRF+6khk5hXPWEQNFauQxEQDDi9W37QWIftgTmbtS9lS5N5tRl6UWjxmHv2yRF1ernBI2fkjWc+A8qnoDGuVd3iQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/11.png",
+    "width": 1920
+  }
+}

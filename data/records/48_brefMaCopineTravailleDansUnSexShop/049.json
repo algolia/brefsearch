@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Trop mal à l'aise. Quand il m'a dit: Tu connais pas ça ?",
+    "end": 51,
+    "index": 23,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=49s"
+  },
+  "thumbnail": {
+    "hash": "bc14c2fa69",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBW3eScAAAcDqnNuTmfwNC8MJsCvMCA5WLCinKCHIdRdOsaNVKK8tWtsvDznZqe2sPPfbU6Qv0Ifv9oHskR8ZwW6gFij1puqFhh3Jl9mDsl/ReSenJ6qhuzzuPnsvNqdnaKypQAsUZFE8DUkvmuulyJDQWZefE6H8x2udOZSjlaQRt0luHsrPYnwxkA9ohKYGkebChJ/npTv20FqyM3iulc26b/+bDs6BVYJhWVox2rcjs9CUDEilaYhL5TbrCsXa2cNNf/vJCP18c5LLHjna5317a1ReyNKq41+8ugnIVyoBNHpDtdOq9VvKKu38Ovv4NvUi3zlx32ZB+Rw9vRnsTUZmp3sVwMS7oEECwDQR/kuOvXf1Ts/GjPv3pvLw0Hs9U44NePO3qV2F35XcsNj8VtLkZQHEYSxHgUCmtLPXIvP/denpiDhRmm0GAmmCMDHc18b/1uwiMpu8m33ojqJFi/dzWZ7vmC/xYrB7rvQygbt1egxEshRLP0uyBLAIMYDGcQAgKBdCRWf5oSq9rssZmZCa7DVj4DkIgBAxjHEa84SiBiK+to3gMjyNEbB39D1iIW/aAD/JBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/23.png",
+    "width": 1920
+  }
+}

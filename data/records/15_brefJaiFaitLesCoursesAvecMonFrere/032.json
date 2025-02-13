@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il se reste trouvé vraiment dégueulasse.",
+    "end": 35,
+    "index": 17,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=32s"
+  },
+  "thumbnail": {
+    "hash": "4632a039a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACEaHhUQERcQEFdSS46Ke7avrnp3b4qLfbKwpZ6ZnFtKQkE0KmBURqmPgbKbko59dwAZExUWERMQCgpPSUaXkIN9eG+RkI7a29+inZdYS0iZcGCleWRyW0qgk4yompWFfG8AFBASFhESFRAPMy0qtK2sz8vO08/R087RvLKxe1xTjGZaoHVfkXhqzczTraSciHqLABMQERgUFBQQDz00M315bZaTfrOtsKukn2prXIVkVpZsX4ZeSqSMgr+xqZeFnnBgvwAOCwsQDhApGhdSPzJ/fGWPiZFyb3s3Oy8fHhpvU0qIW1GFX0xfT0qFcWaakaxwZq8ACQcJCAcJQCEZf2RQk4l/aWRdKyogDAsPNCwoV0M8TzUuQzYqCwsJU09SvLa5k4d8AAcGCCEXFXFMPIp5caKek1xZTRAPFA8PFCwmIjEqIjErIj05Kx8cGw4OE1lVUKyelABONy14V0hVPzRVT06Ef4MiICgFAwgNDBJFQT9KQz1EPjJIQjIgIB4KDBMWFhlzbV4Ac1FEjWdUJSIUExYDEREJBgUMCQcMBwUKS0hBnJWWmJCVcGtkWzQqVi8oDAoNSUdHFkGS0f3ZcVkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Mon ex m'a dit: Bien fait.",
+    "end": 10,
+    "index": 7,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=9s"
+  },
+  "thumbnail": {
+    "hash": "40baf77d1e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVR4nHWQQUpDMRCG3wE9gmcQ3IoX6MZL6B0URARxobjQ2ko3Flu0r81LmmRek3mvSSaRpFRc6MfPMJn8fwZSoVFsWTerZdMIIa1ULRdKSOsDpfgHlXPeGIuIXdf9TFOMRBQKlBuinYgqxD7FPHI+3xbz7ulcU8rHHX2/DSFUb6PhyeHBw+3NfMG/Fku5RwghpWSMKaWEEJxzREwpVaPh+PToeDIebSkCbDQYRLTWtgAtACI657YFIsoBCiGl9Hx1eXd+MV3A9KMWa1ivoeGacVDaarAAuW5M2RBKYP46ebm+/6z5+3Q+m33VdbNiql5pXaxaZ7UtxpgqXwKUUl82d11vjHXOE0UK5P1vZWf1+DQ8GwwYl1Ihlxui/af8wzdYGZcMS1PrRQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/07.png",
+    "width": 1920
+  }
+}

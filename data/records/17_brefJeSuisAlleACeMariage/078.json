@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Oui.",
+    "end": 79,
+    "index": 30,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=78s"
+  },
+  "thumbnail": {
+    "hash": "97f0fc2fec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfklEQVR4nB3KS0/bMAAAYNPEz9RObCfOkzwLSVtGWxq0bJ1gDMSqQluhDXbcadpt//84Cek7fuByEjCGsDVap+rHRfE0CVvFFLKOuWnKNBQsYChxSMlpyalPIJhoLini2D7O8z+fpq/zbEjclWKHxvgeTwSLONEEKgIDgjwMwctZeFMZB1n7Ln08Sz9neurzVrHeCJ+RiLOIU82wR5GLIUc2uC78x3l5X8W7Nn4+Tw5tcleFjUsXvhu/V0lQ4FDNiGTIJQgoQZUvrk/NkOlDlzzU0TJStc++FP7SyE4JSZBLoHg3JjbwxsT1HKP4LPRmgbgr484TtaZDrh6abFelpXDGyGbIwvAE2SNAsYUwmHZXi/o2E7hPVevzxKW1dO4n2XOTXxlpHOJAi8ARsi3AORtWH37vjh8v/s2K7amOtUyMHDex7ovoNg/3XTUzUhLIsQ3tE7C5nP/cbP4+bb+tXxbd8df3fZlt+vbmMKy3/WqZqLfF+dc6LQQrpZtr9R/XIy7kNEmpdAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/30.png",
+    "width": 1920
+  }
+}

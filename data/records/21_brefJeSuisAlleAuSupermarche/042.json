@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Du coup, j'ai pris conscience que la société de consommation m'avait rattrapé.",
+    "end": 46,
+    "index": 21,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=42s"
+  },
+  "thumbnail": {
+    "hash": "2ce4caa506",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEhxiUx4jW2phH+/hXu/hpfOoH21tHy4tWypt3qwpbzUo4/Bg1eXej9kl0dnejFVSwBWfJBikqF7sKuq2qu04rOw362Y072NzciGt7+fzrWw6K91zo5SkJ1Pfa08bHVRgVUASnh8fa6km8zDq8mwvMym0fDEuNy/rqGSuJF8xJ6FxKWEta2MppSLn5WVj5F1ha52AGuTaoOripy9qm1URq15Zb2gi5hxVZdKJZNSKaFyXaZ6XKNqUapmSrl6X8OHb613ZgCjvWKrwIhaWEpeNietbE+hYkuOSSaJUjSdgW3R0aLM3biXo6OVlHuJZ0mdZ1GtdWIAs8yBqcd+JyMYPScdoWhOt3xhrG5To3tpptK/vuanmcO2lMW0xsacrX1emmROl2VTANDNrLa5hzIhF4VRP5piSptlS5xgRauIc9bixtDgt7u6q7SZdrB5XriCaZ1sWWo+MQC1qZnAtpc0KR0vGBOVXEeoa1CyblHStJnv8dTVt5zKiW6pblWTZFCOXk1ySTxNJhwAo4t5vrKmc2dgAAAAaj4wuHtjuoRtwo120LCbp3ReuIBqmGVTYDQnaUc+g3JnLRkTqE7j1myHKvQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/21.png",
+    "width": 1920
+  }
+}

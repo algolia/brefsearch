@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Quand le nuage s'est dissipé, j'étais dans un supermarché.",
+    "end": 48,
+    "index": 12,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=45s"
+  },
+  "thumbnail": {
+    "hash": "aa111d9046",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB227SYAAA4CaDlgJrS1v+QwulLS20pbhRQtlCNyJLdghG2dyyaKcyDUNwU1hIhoNp4jmLizHx0sTbvYRP4sv4fQTPgbxmCAIwobDt2eF2c8tfLijZRn2lXq36rqULKUzT8WgkQUbpCEnwKaRk1AIGKs++O9z6d/vj77dRyzULOW3JcZctU2MZjaYXFyJJioxHSULgMRJhHog6gtOHm1/Ce7NOq127oyHgGoZt5C0AyiwjLkTZGJWkKCLwAygiU0JLmjK6v/m19+hzd3+9ZEGOKShKXs1ZMO3znEKSYjzG0TGibFcQwAYGGYH/tL/z53L8+7wfBn5Gzq5UKuWSs2oX1zAoJuhcihWTcYLnAErjrJBKLybuWvrN+Oz96eDx3oN2u324t+t5Nc80mxlcYpNlDGSOISQg8TwEIqapmMqzVy+Pf/38PplevOifdHY7Vc+vFourKO0wiZoiG0AkuhvNLJRFIAMo2xgNnz25vrmef/wwmc+e90/Co6Pw4GDDseoYBrrqSJDotRqeYaq6edx9Ou51R68Gl1ezi/l88nb6+nx09uZ0OBjurK819GxgqK6E/gMRj1d1QAFTGQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/12.png",
+    "width": 1920
+  }
+}

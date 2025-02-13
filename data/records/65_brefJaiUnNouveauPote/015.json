@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Et comme tous les potes, on a pissé dans la mer.",
+    "end": 17,
+    "index": 6,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=15s"
+  },
+  "thumbnail": {
+    "hash": "29a8c080aa",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nBXR226TcBwA4B9QYHTUjlJKGfDvxlqkUDn0lG4drLWs1dSttiubOjzQaEz0zsXoGxh74ztosnjhWxn1yvgImN1/dx98WX/68/dfMos4gByAh9TlKDDKpX6jHk2Onz6cPX8w6eztzMLw9cXy5fIMfny/TtP0Kl5pGGOJaGg1Zr3OuWeNbHvQC4ydak0sH3luNBm/SZJXcQzX376mafo+XrlsMVk8+nD18V3y4rFdD93WsOuX2C0AQuCEwHOSxXwVRbD+vP756/fb6LKv6uO7U//w/nz/YGrqbXd/ee80utNANOvmCydea348OR0MoJDj9aplW52m57e7oecchsbeIvA7vfGJ4TyTlVgQYp6f5rd8WTVUBFxB0s2m3TyqaI6utxytFuiVs8CPu/1LsTzIZkcsGxWLPpO1CIqjsqCg2u6uqVVdxz4QOTHP5OoKmt6uP5FRQDNdmmmSdI/aqJF0BqMyGA08v63XbEXVhRLSJAVxpaEoh5u32hnaxIgq4BrgMmA0ZDCgcKCAIFk2x29LlY1NzixKCxm1cMLGb5wCoABINz8YBiQOJADxH55ZVQpZlYbjAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/06.png",
+    "width": 1280
+  }
+}

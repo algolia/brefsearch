@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "C'est un peu macho, je sais, mais c'est dans ma tête.",
+    "end": 38,
+    "index": 19,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=37s"
+  },
+  "thumbnail": {
+    "hash": "7a069ccc1c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFwJhKUEjK8GpbcFtssGup0bn4I+vZFN0ZJUzJ1lxHdLaRgOCyASGSMQFiAVF0w8RgBEEHq9CrDTB7LLB8mkEoNKIhhgL4GaUeudVMeuV5t8SkkuGRMzHSEsFxopGRhWRVAAIg0vgxfMoAzAiBCvXxhCLx0BZzJzhlbCiFWTjjpJdjM5Si0nOyIjEwsOKRcdOCgtACYNIGUez3MY5W8Yw1AjJFEsIU4rMk41WTsrPV0yQFknNFxDS0AxMSAWGBQKDSUVFAA1FkNaGcNmGu9qLqlcNiVeNS9fOy1SKkgkCFFXOEZPMj9QPUA0KCcoHh8gGRMrIRgANCA4UCWLVxyPZzOAckc8VTMvYT4xeTxZPg1rSDE8SzM4NyoqMCUkJx4fFQ4OGhMSAA4LCUsrTHJGWndJV39JQmI5MWc/MHY6VEgbVkQsNkcyNDEmIzEmJCEZGhYQDBoSEAADAgQWDQxuVmp/YX5gPT1VMytMLygxFzYkECdcOjZONzc4LCsyJiMcFRYPCwkeFxMABAMDBAMFDwoOGA8WKhscMx8dNyIeMBgnEQMSOCQdOSckJx4dIBgXFQ8PCwgGIhwYPzZrAS5mjr0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/19.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Pour me changer les idées, j'ai regardé les affiches.",
+    "end": 30,
+    "index": 11,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=26s"
+  },
+  "thumbnail": {
+    "hash": "8768c01aeb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFozM2c6NygZFzgqJnpTS5ZpX6t/eH99jV5qglFUYmRthn5waZV9ZHp6iGBkfmBiegBlOjaBTkdDLihvTkWcbWFTOTdnTk1vb4BCNjRSMyNKPz1oVUicgG+UjY1iaIJgY3wAXTcxcElCRzIrgllNrH50jWdialVYNjpAZDwojFpLQS8rSzowkGpcmYyEaHGNYWaCAGtFOUEsJVI7M4JZTqFwaa13cJt0ckM2M1tBNE84MC8tMF9WS2hSQot9bmFdYlxecwB6YmI2IxtJNS9yUkqKYVpdPjs4IyB3cHV2bnUUEBAuJR1WRzZBOjtHPDRELxdKQD8AaGeBOjAwJRkVUT03cVJNQy0uQCgjbllWQDg5HBUVJB0bOysaLSgyMikuRzMfPjAmAD0/Wl5ddRMOEBkTE0Y1MlMyLUYkIXRIP5R0bh0ZGR8ZGjUqHi8nKCkjKjoqGTQlGABtbYx7fqRDSFVXXmStrbZRQENeQDqecmm7mpYyKiocFhVmU0RwXFJUR0VwaGU8MSoAXV1/dnqiUVV0i4iblIughoSXTTw6ck9KsouHWUpHFhMePTt1VklVQDYzTkpNNy8rImeJxIpOQxsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/11.png",
+    "width": 1920
+  }
+}

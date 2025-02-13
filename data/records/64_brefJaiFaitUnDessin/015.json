@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Il y avait un soleil dans le coin avec un grand rayon, un petit rayon,\nun petit rayon, un grand rayon, et un petit rayon et un petit rayon",
+    "end": 19,
+    "index": 7,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=15s"
+  },
+  "thumbnail": {
+    "hash": "29e8ace481",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAQEBHZuVaebbqihhLWypry7rbm2qbKvp7OxqrSzqrKzqqmqopybkp6ajmpdVSAUFAAEBAeOf1XZw43c073n4NDo5Nro597p6eLp6eTo6OPk49rk4dTf2Mvc1MKQfnIwHBoACAUGnY1r7eHG5+HV6OPb5ePc5+Xf5+Xf5+Td6eTd6uTc497X3djO5eHSqJKIRycjAAsIBqafkvPu4+rl3+vn4+rn4ern4erl3+nl3+vn4evm3uji1OXf1e/t5K+akEYlHgARDAmspZz18ers5+Lt5+Lu6eTr5t7t6ePq4t7m3tfs5+Hr5t7p49zy7+ewm5BMLikAGBEPr6ac6uTc4NrT7unk7Ofi7eji6+be2NHG2tXL6uTZ6uXf6OPd8+/npZmQQS0qAB8UEKiflODSx9vKvuvn3+rm3+vm4Oji29zSzdzZzuPf0url3t/Z0efh1Y+JgS4iIQAXDw2akIPVyLrVx73n4dPn4dXk4NTl4dfr49vn3tLm39Xk3dLUyLrJv7GGfXInHBsADgoJjIJzwbaixbuo0MWz0Me00ci3z8e3zsSzzMKxyL6swbWhtqmUtKWRd2tgHRQUp1Uv50VIxIQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/07.png",
+    "width": 1920
+  }
+}

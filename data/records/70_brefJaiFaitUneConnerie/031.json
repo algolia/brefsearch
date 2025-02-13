@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Pendant tout l'après-midi, j'avais l'impression que tout\nmon corps sentait une autre fille.",
+    "end": 34,
+    "index": 17,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=31s"
+  },
+  "thumbnail": {
+    "hash": "098bde8e62",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABM0lEQVR4nH2OS08CQRCE54d68OJVDTc9eTXxZuKDg9HEvyAqQU0kiohsQoRF5Lk7093TM7uwCxIfhNUAR41f+lZVXSUQUUoVhJYYAVBrMppCywSyH1rLFFg2TMysmUCDUEppop6S16Wnm7u6U/McV5VdKFWl40K5Bo6LxYqfLzZfOt3sfUEAomVdrnYLt26+UL96aB7neP88OLwMDi7sXoZ3z/goC7li5/FZVUqdWQMRGWM9haSNL9GGsbZ94oA4HL9PPr6Sz0kShAMknTlNCyklItoZZhjHUTQYj99Gw+FoNLvpdPo9J44iQNheXRae5/m+b4xJkmSh/QkA9jxvJ7UijDGIqLVePFvEfoeJuNdpp9eXBM1h5v8blILXVutkY00AQKPRkFL+455Pgma7m9rc+gE9mINx2OlM6wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Je m'en fous.",
+    "end": 13,
+    "index": 6,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=11s"
+  },
+  "thumbnail": {
+    "hash": "9990636a02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABQPDBYRDhgTEBsWExoUEFBJR9/e6tzc59vc5czMzmNcWjEmIU9DPpmbnMXLza6xsAAQDgoVEQ4XExAYFREeGBUfGBOrqK3j5PHh5O2lpKURCgZIMitPNS5VR0TGzNG+wsQAFxMQFBEOGRYSGhgUHhoYEg0JZV9e4+Tv4uTuh3p6KxwXXUI5dVdRhm9uyM3UxcjKAB4ZFhQSDiAeGh0bGRgWEx4ZFi8pJcG/x+vv+o6Af0wyKko2MVk+OZuOkNPb4sHDxQAlIiAYFhMWFBIeHBogHhsmIyETDQqKhYfOz9hWSkZYPjVUOjNvVVPDxcrX3+S+vsAAHBoZFxUTEQ8NFxUTHRoYIB8cGRQRPDY1SURMLiIgQS8oSTItT0BFfH+buL7Jw8PEAA4MChAODBEPDRQSERcVEx4bGRwYFSQeHCsoMR0ZGigfICogIhIQEiQkP0JEb52crAAMCggNCwkQDgwXFRMbGRchHhwfGRUqJSgxL0MZFxomICodGB4kJDs5O1wnKU5PUnwADAoIEA4MFRMRFRMRGxkXIiAeKiQhOTVCQkVrHx0kKSEpGRUaP0NpPUBoLS5NOj5seW588bV+IIQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/06.png",
+    "width": 1920
+  }
+}

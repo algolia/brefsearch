@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Je m'invite. Une entre-goutte, s'il vous plaît.",
+    "end": 90,
+    "index": 31,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=87s"
+  },
+  "thumbnail": {
+    "hash": "be07bc9858",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKOstKu0ua62unJscD0xN0Y/RpCWn7e+w6+0uYGCh2NcXzgtL0xERT43PhwZIh4aIQBJSExAQUZjXWExLDNPPD5tUE57dHd/e31xb294foBcVVY3KytXSEkrISYTDRISDxQAV1hfKyYuSkNJIxkeZExIgV9cZ1BRTkpMR0FBYV9iSDk3MiUmWkpJZEpKRy8yCAYKAH2KmlVaZX6GmGdme3BeZHJTUHh1fnV7iHR7i3N1glQ/OTMmKF5MS25SUlw+QBkSFgBZYHNLVWVyepNnb4xVWXVJQ1NkaHp4gJRWWmtYWmdYRkAwIiQ6Kys/Li5UQkkrJzYAXWBwVlprW2B3VVlySkxjQUFWNzRFipSiaUpPUhweVkJEOzAxLiAlLSo8HB0vGBcmAFRUZF9gb1BVbjQ2SykoOCYjMEdFUX6KmXpRV3sfFmIpITovNiUiMxgWJUUxNGpFPwA8OkU8OUY5OlAnJzgjIjEgHihgYm9mbHxbSlJyKhRqIw4vGiANDhhkQzypfHGNWk0AFxQYHxskLS0/Kio8JCMxFxUfRERRXGFxWlBbr0pKu0NAWyQrQy4qn2lch19Ze09FhPaFu7K89SIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/31.png",
+    "width": 1920
+  }
+}

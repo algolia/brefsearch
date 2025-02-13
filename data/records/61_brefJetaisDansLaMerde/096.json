@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Je n'ai pas de frère.",
+    "end": 98,
+    "index": 42,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=96s"
+  },
+  "thumbnail": {
+    "hash": "4ffa0364d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXBTW/SYAAA4P4DYzKjG7pMNgOlWOjaMqAtLWvpFy39hFLG20kLKx8VxFY3XVhiYnby4j/YybNePHvy4p/yeSBFEXRd1nW1gWNsFZ315IXdVRqEYTmDyTKYLpPJaG5yah31ZNYRKMi2dW/oDFyDJys9ivQ65zOzazJ133XAfLvcpLv07S6yLebU5im7XYcAGE5CMPYdpYHNNP428NZW98PQmPpusNjOk83dTfb98yLSWj32zOtQ0Pt0vdkmge9KNRQIVOr1El2ONT7oif0gvJzG2bvNt5vV3dQxaMJu4dDDj4efv39l6VokEAlHHApfGJJQhS0GB/7IHr0Jo+g+i+9XF1aLHIsUdP0p/fPv7+56KxJwB0e6RFkjEPL4RZ8jv4Jh5g3Gpn4bj77M3LFIXyosxDTJj1Fg1yodstzGSvpZxaVO2fJJnyVBMR8U8iFWAlJz7fCRxhlUFaqjsLz3iD3cF14XznEESBwQaKWGWjiyyu1dHDwJKoWJRLkM1mdxiShC9KsjPveUPsxxJ0fNUj5Q+VDl29Wievw8fvb4CoOXcisxeZ2EWeQlj8H/AX1YgvsALIIJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/42.png",
+    "width": 1920
+  }
+}

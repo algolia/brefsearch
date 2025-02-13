@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "J'ai aidé un mec à déménager, je ne le connaissais même pas.",
+    "end": 19,
+    "index": 9,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=17s"
+  },
+  "thumbnail": {
+    "hash": "2c8a8ae658",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABY0lEQVR4nG3OzU7CQBSG4cY5Z2YK04KdFihSpGhbVGgqgvyoSFEpaNRoYvxbsjAuTNy5YGFiwsV4l0bjTt982yf5FE5AA/QFq2e5m6ImYhbRQKzofOjnu+5yq5wZVJcbltp0tJPIUTIAjko3deZrrMSppGBQkBRXNT70rLKullR4qNtvo3rTFpPQVnzBdiSvZ3glRQsMTYYGRYtiVedHXm5LqhPXfE+ixXU/youRJ5VCCttSrWnMZtSiWEqzLEWJ4Gp8HOS3c+KmtvL5NJ2ftgMdzsOiQgBMjsXvM2gwaqmMI6YByima+JYvxcizP652HxrOwBG3hw0FAJYIEPiN/IwB2hwT34zXC4+d4DmO7vq1l7Nwft/7Bn9DAhLhZM1IwmDa6VwMjwc7u7Pz4WI2/gcQgKzKNQITz5qEXm1tI+7sHXX34278enf6HyAgONcBpl7ushlEG+Fhq9+L2t2wdXYw+ALIKC/r/gAilAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/09.png",
+    "width": 1920
+  }
+}

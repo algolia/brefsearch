@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Pas grand-chose. Dix, ça va.",
+    "end": 109,
+    "index": 33,
+    "start": 106,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=106s"
+  },
+  "thumbnail": {
+    "hash": "f3ed682844",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEQ2LGBRR5+Si6GUjJuNh5iIhEoeIlo5OtrR05eQjlA3OTMJD0wyL1ZKQGVcV01DPABMPTFxX1OdkYlTRDmHcFiZg2lHGRxgPUHh1tZkSjwYAwJAEBddQT1tXE91a2doW1MATj0wdWNXpJePbFRITjkfiGwyRhcYakhK3NXXfl9RRDk2KhAYWj45bmRcgnhzaFxUAFI+LnBgV25mY1lQS0E5MX1YND4REnBKTJWirZOEgldygBktOVE2L29iWYF1bWtdUgBBMiJaTURbVVNKREAyKyNvVk9AFRdrRklXbnyoqLE+TVkPJC9MQTxgVk5qW09VRjoAODQvPDEnWExFYlxbOzIqXVBIQxweWDY6N0lTpKGpOkBHABAaOTY0a11TW1FJHxsUAC4yLlQ6MmRIPmBbWT83MTkvJ0AyLU44L0JLUKWkrUNKUwgRGD87OGZXTE5COSYhGgASFxZtPDJ0RDoyMi4dHhwwMzA5NjA3LCQTGx1ka3I0P0gcFRJbQzReSjtSRTlFMyYARS8kRzYvLSsnBhAQCA0LCQ0JLComQUNDOT0+Mjs9LzQ0NiQeTDMoQjIlPDEnLR8WO+N/l9x2Qs0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/33.png",
+    "width": 1920
+  }
+}

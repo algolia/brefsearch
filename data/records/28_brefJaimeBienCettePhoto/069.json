@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "D'ailleurs, le beau black l'a montré du doigt.",
+    "end": 70,
+    "index": 27,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=69s"
+  },
+  "thumbnail": {
+    "hash": "32d2711fdc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGdYXnBhZXxqboVxdol2eJeBgrminsCqon1lXDkpJSEXFiQYFmFPScGspMGspLKelgB4Z2yFc3eNeX2LdnqOeXuUf4DBqqSeiIBQNy18U0B8VEo1IyEWDAuJdW3axLjJtKkAjHl9nYiHmIODi3d6jnl7l4GCs5yUd15Ub0s5sHtiiF1VSzIuGxEQW0hB07qq2cKxAIl4e7GalJ+Jh4x3d414eaCJiI10anJNOrN4W4ZYT29KRkEqKB0TEkg2Lsewnd/JtQBMRl+diYSVf3yHcnGLdHScg35+YlR7Tze2c1eOW1SLXFpPMjEYDxA7KiSvj37XvacAISJNcmVqmYN7hW5riXNuhGthVTstYD4rpmpUh1dReE9MQysqIRYVLx8ahldKx6GMAB0fSlxSWpR/dIVvZoBqYXldTl0/LDQhGHlRO3tPQUUrKCwdGCYYFR8RD39cTdWvmgAfIEk6NDpnVUt3YFOJcma4opKBZFE+KCF+WECndFZbOis3IxglGhglFxeCX1PJopMAGxw/LicuVEQ7c11Q0MW/4tXNaVBDTjUtk2ZStHlWfVE3OCIYPzAzgG55gmxxdFtZEU2uPJr5uIkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Une fois, j'ai écrit: Je t'aime par terre tous les trois mètres.",
+    "end": 89,
+    "index": 41,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=87s"
+  },
+  "thumbnail": {
+    "hash": "c4b021184d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nAXBTXOaQAAAUA6dzIQx0BGiRjEi8rUgILAGFBdEQEgERBIbOyFN4yGHpodeeuuP73tYtj/SJE3irZUfe0GSpltNViVBQWhtzeCwy3DMmBvy4kTxw60CZlgYJAROtC5wP9xmuz1FUJdf8K9X1NUlybGCzQsD+uamx7JDwTTd6RRihmoSONm6aCHPV1hWG3OOxAMR6Ka7XIUFQo6sCKzIjkRZ0oFkYDwPrkm60+6pgsR1u5E1OwaeBxe67aEgXhj2FkKkG6qgaKqpAgNrE9Q10ZZuWXUiiAMmhWaTbBxZmU+N3z+afYACw4ihvbas9czIfITRBM0NRmmwOdXVsNPnGXal6XOgZXfwXKTPyfrBR3WyKRb2ATmPSYjJt2MPuiow6zK3VK1D9fvdERCm9659Qvb30HnfZ+c6r5bwszn++/OBAV7cOQs4UYs4uo83PZqZW3cvh+rnQ/CWR+9lWgR+4q1C12vq6u+vM3Yo86c8B7yehlGeJhNWPpbl+fnptdp9vjUfp285WpaeHVuGC0CE0H/uglhwBpy6jwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/41.png",
+    "width": 1920
+  }
+}

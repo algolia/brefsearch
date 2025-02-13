@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "18 kilos de son, mon pote.",
+    "end": 84,
+    "index": 37,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=83s"
+  },
+  "thumbnail": {
+    "hash": "a162473493",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACogHVNJSH+Gl2NndmVrdnN6iXF1g1JJTEc4M4aDgMnNxsPGv7u/uK6zrJ6inZCTjwAtIh5aT0x9g5Fpbntuc3yDiph6fYlgRT1oTUExJSNsaGfM0MnGy8TBxL60t7Gjp6EAMSYjWk9LVVhiQkNLREVNTVFdVVBVYUA5ZEI5IRcVJh4grKyoztPLxMbAv8G7s7awAD8xLFtMRFJJS0hAQU5GRlxWWVpHR145NWdCPD0iHxIICJiXlNDVzsTIwcbIwb3BugBBHRtfPjphRkxZN0FnRlBtV19vY2dQMCxXMilaOTVhYWTBw73LzcTGycHHysK/w7wANAMDaEVEi4WTdmFvgX+OeJmnaImcNjtMPistbHJ/fafCkbG9uMbFw8bBwsbBur65AC0IBlw4Nm5OWmdUX32grG+XqWuNoDxRbTAoN1+Aml2Am22Tpoiwv4OTn3dzfHN0fQApCwpLIB1IBQ1qcHt5o7BLZoFRcY5ETWQ5IzJkhJxukKV1lqZ6obBrjZ9WVGFMSFMAKhoWPSAaRz5HdJuqWHWIMkRfWHmTV19wSCQ3YoCWdZipcJKiYX6RWnuQUWFxPDhA1w+9VPgdP0AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/37.png",
+    "width": 1920
+  }
+}

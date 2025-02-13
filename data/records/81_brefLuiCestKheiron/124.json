@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Je l'ai jetée doucement.",
+    "end": 126,
+    "index": 36,
+    "start": 124,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=124s"
+  },
+  "thumbnail": {
+    "hash": "28c37925db",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nAXBS27TQAAAUFcq8X/G4/iXie3x+Dvx1GlSO/+0QVakNg0FVCSgLACx6AIJoUosEKuKfcUNuAknQOIiiDvwnqArKlB1URQNTR/SoC3pPO7VxLttp1+ftR8fN+s801XddMagvEPZW8GCCGi6IUu831+XRR3haYzPCnL/8uLhw4v755v9EVM6Snf+LXn417v9JSAdQlWnXcRcp8CYYfc47F2O2HXNP23n18Os8d0QmPzdz9e//w5//BEMDRgqCCCIIDw4eORCmNjmq3X9/ebJl936phnsebbj+Wyy92fvvcGVoMuKb3W5Y4WSfHgoUhzUjD+djT+fL980/G472bI07dNjmjDPDZEiKB0xMNHQc+ogOD1pLharzbg55YOrMj6n+Ix4kWV7ELIw5vlJgrEAZZV00TRLLxer3XLV1s2yqiZFPiV4FrjMMjFC1HGqKBrQvG9jAcgq0IyUJG0z2YzGC37UFKxhLHOd1DRKz+kZBrHtkoScJkBDgtSRJEnLSbysqlGSFr7PSTSMkzpNqsALTOQAgE0zw5gT6tn+fwcdROwGVqhfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/36.png",
+    "width": 1920
+  }
+}

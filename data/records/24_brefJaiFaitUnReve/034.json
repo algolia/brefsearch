@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Tout d'un coup, j'étais à mon ancien travail.",
+    "end": 40,
+    "index": 9,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=34s"
+  },
+  "thumbnail": {
+    "hash": "64364d3d19",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABXklEQVR4nDWLy47TMBRAs4jv9bV97TiO0zxL62b6IHQYBolhKIjHAqkMGzQIif//EZQFR2d3dDIUQCgLNmnsUxNOY5yGeh3L2003rkLq4rxp7nbtTV+tPFtNGQIaosa7edr+/HZ5vn4+ruM2+KdXqbBceff2MLw/DR/vDsdNH1hnSipvTFu68z5d7uc/T1+fv3+YQnFu6zyXrPTDvPtxOf/9df30+M4rzAwtQ+Pd1NXzi/bxPKWxtQgr1oG11erh9vT7+uXNfkxDE4zKrDaFNtG6MRT7vvZshIBp3e+aUBAGa26G+jDEMRaVYyZahpK58cWmrlJdgQDWdH+cXqY1S9Qo+9J1pfNGa0kIkFllOudSWc6hel2FzhoCVCAIBCMWikpSUSuWEgVALjJDVCs1apPYbpmj1hIAAQhBAXgiL6UWSALyXIhcZCDAovQogyS/KCWAEEuTS0IHgDnk//kHPKAjYNK58AYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/09.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Quand j'ai mal à l'orteil, j'ai une tumeur.",
+    "end": 49,
+    "index": 21,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=48s"
+  },
+  "thumbnail": {
+    "hash": "190e0811f9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nGOIC/DJT4xtKiksS08tSkkuSYmKcZcOdpZNczHrCHHd3VKwo6vSTl87Izo0Lz4yzt+bwVBFOdTTfXJr45TWxr6Gmmh/H38roUhX+Sx3h7Yg590tRdvbS7wtjcvSE+sL0gsSoxiqstM7KktndLXO6mmf0dWSFRvlY2cY6mLmY6KfamuY6WG/tCa7KcynKye1rTy/LjuFYWpr44yO5pldrTO72yc21+UnRKRH+OfHheW42y4uSp6fFbOns3RxccbEqsL2stymggyGSc2N0zpAqqd1tPU11FZmp9VkJ7WX5MTam2c4WC7MilpbkdqUEddZWdhXXdBcmM4wsblhemfbzO6OKW3N/Q01xWmJ/i4O2mqqOvJS4SZ6qc6WmX6OK2uz/BwdkyJC63NTGLprqya3Nk1tb5nS2lielaGjrikiJMzHyy8pIuSopWyuIl8bG9iZFaesoKKqrGlnYc1QnZvVXlnWV1/bXllmaWQiIiQiISYuJiIqJiKqKiXhpKsW6mijqaqlIK8sKyUjJ6PAkBYZlpcQlx0b6ePkICEqISYiKiosAiVFxaQlpaUlZRXllWWkZIUFhUWFhAGkk5b8QLdKdgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/21.png",
+    "width": 1920
+  }
+}

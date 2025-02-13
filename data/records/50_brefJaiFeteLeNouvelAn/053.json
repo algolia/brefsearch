@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "La soirée chez des gens qui, en fait, sont pas chez eux.",
+    "end": 55,
+    "index": 23,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=53s"
+  },
+  "thumbnail": {
+    "hash": "1503d24955",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVR4nGNgJBEwDJAGZmZmJiYmYjUwMDAICAjw8/MzMGCTxWoMExiQ4CQ8gPYaAMksAhEMqg69AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/23.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Elle a un rire énervant ? Non.",
+    "end": 80,
+    "index": 36,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=78s"
+  },
+  "thumbnail": {
+    "hash": "d766080437",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAQDAwADAnlcWapfYJtUV5hUVatgYaljYVpIRG9RTL6Si5GBg5OBgot8fXRmaIVeWAAcGSMTGB6ZbmyZTE8tERMTAwNOJCWoWltTQz+EY1vfmpLIlJLDrqq/p6KtdnacaGIAVVNlWFxstnt4SRobAwAAOCIgEgUFbTo5Tz47fV1U55OK0W9x0JyayYSDuVhbnF9ZAE1MXmFicql0bxsCAj8sKqF4cV9AO2A2NKx6dcCJf+KWjNGCgdORjtGNisB2c797cgBAPk9nX2x7V1EVBQSpgnnGmpCKZl9hOzjauavMj4Lbs6PZvavYuqjVt6bDqpq6hXkAOzdJZFtmoGZhWSwrvI6Cq3dwbUdChFFNpGthhBgTtmpeuYR2tYBytIFykWBWbxwXACcmOpCKj8p2crZUWrZoaKlnZJNARqxmY8dwZsVcVcZmXsFgWL1eVbdZUq5TTJ5DOwBYXW7Zz8ypcWuxgH24f37Bi4nBgoG5g3z6qJ/7o5v9r6b8r6f4rqbzqqLmn5bMfnYAyMbNrpSOkHxwm4Z6oYt/pY+CpJGFuJSIzF1XwlRNwllSvVdRuFZQsFJMqVZRq1VOlKvKMCC1nPMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/36.png",
+    "width": 1920
+  }
+}

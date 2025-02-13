@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Mon père leur a demandé: Vous avez pas des capotes ?",
+    "end": 89,
+    "index": 39,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=86s"
+  },
+  "thumbnail": {
+    "hash": "e17d9e3e9c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABcbKhkYIEBFWVFYaKmZhdPNzNrV1d/b2sm9t8m+utbOzci9ucO4r7uzqqSblJ6WkwAbIDZVUEp2dXRKUWWyoY/l39vQwb3PwL11WVZfSkbg2trSyMXQyL/HurBLOTRKQkAAQCckb1xKcGtlMjNFdGVgiYKAtKahrZeRZlBMXD05lIqN0MfH19POtJSKUCcgRj04ADw4Q1lOTE46NTwrLlNCQykgIYF1dL60s3JYTR0UGE1HTM/Gw62prF9UYFVIUY6DeABFREJWXGhAOTstLUBkUlVrXmeFd4KDaW5WPD00JCODen21ra9UVWtCRmFcXWidj38Ajot7REdRLiYyKS1BNDE9c2x9PTdDOTVLUkpWrqKlpqCpX2N9QkdiNjdGe3BprqCQAJyYhWxubBsaJCgmLyIcIh4bIRwdLyIkNod9epygrGtXYEg+TDs7R3FmYKqci6WYiABeWlJQTEgrIycqIiUqJywsJyk1MTkrJCpHR1MoLDscFh06MTB6bWGklYWilYOThnYANzAxIBgYIx0eIx4gRTk1RjUwTDs0OSwsIyAqKxsXJRwdbWNbl4h4mIl5jH5wfnFjgwSsr49XKu8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/39.png",
+    "width": 1920
+  }
+}

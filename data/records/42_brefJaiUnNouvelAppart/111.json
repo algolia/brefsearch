@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Allez, merci. Merci à vous.",
+    "end": 113,
+    "index": 35,
+    "start": 111,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=111s"
+  },
+  "thumbnail": {
+    "hash": "b753437817",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEM3LGNVSo2BepmMhKGUjJiHgkgcIFw6POLa3ZuNiBwSDzQOFE4zMFlNQmhfW1BFPwBMPDFzYVZWST9lSz6RfGCReFdFFxlkQUTj3N+YfnQnFgwzDRJkSERwYVV2bWlnWlIATj0vdGRagW1iTzgsSjogiWswQxMVbkxO4t/jmYiDdFpOKSUuVzw3bmNbhXp2ZltTAFRAMGZbVmBYVUVAO0s4K4RUMzkOEHFNT9bT1a6kpXmBiB1IW0k8N3RlW39yaGdYTgBAMyZbUUtSTUpDOjRIOS6QeXI2Cw55VFfU0M/Kw8hobXYHIS8zNzZoXlVtYFZSQzcAPzo1TTsuWlJOW1VSQDUsbV9WORQVclNU1tLQxLzAZWduAhEaGyUqcGNbX1VPGhgSACEoJV89M3FTSVhJQTcsJEZAOjMsJikhG4Z+erCqrG1xewcRFzEzMmxgWFlORjEsJAAfGxdpPzZGODYXHBgUFxI+Qj4jIBoQCgUFAgFPUVNHUloREhRdQTBoVERfUUdLOCwATTYtQjYvGB4dBw4NDBEOCwwHKysoT1RVSExMPkJDNj08SD85QisgTDowST82MCMaEqWGu/rl6IkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/35.png",
+    "width": 1920
+  }
+}

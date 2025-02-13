@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "On commande une pizza ? J'ai pas faim.",
+    "end": 85,
+    "index": 29,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=84s"
+  },
+  "thumbnail": {
+    "hash": "33e4e82347",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNIiogsyUwvSE1KjU1ydfKwNbHysHc1cfDMreuZPmd5TU1zaGBkRXF1TnxyToSfs0MgQ3xkUnludllWanpiuqd7SFlCcnJQmLGDR2V1S0Pb1LL0bHtt3faJC2rr+sLCc0Ii8hjSEzPLs7NK0xIy4pIdLV1jnZ2DHVx94zKaOmfUVLQVRMW05uVO7J42Z/XuiUt3R8TmMBSkgTTU5GV7OrgryWooSsobaltERqR19y/Mi01L9fPva2kPMTFrKKyfs+V0XHIRQ0FSQkNRYU1hgbSorLKshqaqoZaqkYKUSllpc4Sdi4GAcGFScqyqeq5/VFJxl6tfNENpZkZXY1NhbrEAj7C8pLKakq66kq64kFReVmGsnbOBkERDSXm0tn52RGxMYoGHdzhDeVFVR9vE+vouGUklOUllVSVdZXktJ1uPyRNmBJnZWohJJQWH1GRkN9S2+XgEBQbEMBTnVTY29LY09dlZOYkLSyvJa4gISsZHJXd1TPE1tHJUUY/x9a8MDcuMzDQ1dTIzMGfISMkrK6kvLqgK9gmWlFCSEFdWVjasyS+rrmjxt/ew1tANdfdy0NAtK2owN3fi5xYAALumk/XI2jSEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/29.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Bref, j'aime bien cette photo..",
+    "end": 87,
+    "index": 33,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=86s"
+  },
+  "thumbnail": {
+    "hash": "89017b043b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHtwboZ7d5GGgpqPiaCVj6eblayelrCflqGRiYBiV5dxZo9+eJWLhY+Ef4Z6dXtycQCQhIGdko6lmpWonZeqoJqvpJ6ypJy3qJ+ThXyDWEy8in+dhX6bkoyilpGdlZaSgnkAn5SQppuWqJ2Zq6CbrqOds6eitaiit6adkG9odU5FmG9ntJWNqJ2XppuWnoJlhFcjAKedm6mfnLGmorClobKnobWpo7ywqr6mnXtZUVEuJophV31tZpWNjKeWiYhdL4Z2bQCKgH2KgHyakI2roZ20qaTEuLKbko2FcW+BcXlaTVV1Zm89OEIgHSNtYFuUfmqGcmIAbWRgZFZSc2hmiH57i396ppuXXlNQhm1voZ26nZy7nZu8a2R1CgkMKCYteE0dh1QYAI6FhIN4dW9bW2ZVUoF4dZeMhItuZ4Rxc21ic4tueKeOm1JIUB8YFpiCgIt1ZZ6LfQB6c3JoX1txZWFpXFqUiIOQdWmohYFcUlQxLDFvU1J+VlWEZ2huVVC7j4SvnZmQiIcAiYKBkoqJoJqYpZ6cn5SQgmZfj3Z1XldVJiUqbm16RjU3YEVDi29sim5phHFtfHRy/LnVZOgxo6AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/33.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Je n'ai pas dormi de la nuit.",
+    "end": 78,
+    "index": 36,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=74s"
+  },
+  "thumbnail": {
+    "hash": "5244196b89",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABY0lEQVR4nB3CO2/UQBAAYBdx7H3M7GtmH9712XdWCCQF5NIECRGIBEUkKCCiggYKFEp6Cv45Ep++Lgm1gKFBw6ky/2OvdC+xV3gifa+ycEE4PVrCwlC6FeDCuaqM6ZU5kTTAhjGMiL3kAQ+a95hJEYw2Y2umdTswRcLq80VeknBN2EvLk7S2VwfFV5BXnYLiIFyFVnTu8FTaAc6pvajbE2o74Y6GLl1qwt759tpWEm4vaRpdVFQhdH7EqvwzmjdMxzAffXtl0zuML4X709aHul1DeSrJDMYrnv3SFQiTphXzqultOtzT/M1NP4F/hPKb66OJ965WSUmEoufJtI6ky5oapKb5Oe9uef7C0yPXX/vzr2X5W+ZbG2kwVoUEKQJ3WbmifNNcpN/A3zj+kNonnu6keUD6TtONpSgcSYoyZMXdCnww6cyVPaadgLNRv8fwxtC10B+l+Sztla9LmKuOSScW/h+vqilZTkXcoAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/36.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Les garnirs de platanes, les équipés de lampadaires éclairant\nla chaussée grâce à des ampoules. Dehors, il y a plein de lumière.",
+    "end": 58,
+    "index": 20,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=54s"
+  },
+  "thumbnail": {
+    "hash": "4ca53e936b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nGNgZWRiZWJiZGRiZGJhZGRiYGBkYGQDkTDAyMjIBAaMYMAgxMXJyMisIS3gbyAb72NdkuSTH2lZV5pUUxRXXRhXkB6Vl5MaFRrIxcnBxcXFy8PDoC4mwsTAHO+oOiPHvS3J89r2vvt7e66sqnh3qvvLtZm/nq9aPacsNsCXn49fgF9QUIAfpIGDiTnIyWJaRWxTouuWuXWrZ3bvmlp89cDcvQuKG8v8LCwtw5MKBAQEODhYODnZGLSlxIU4ObVUlMrTI6ZWxs9ry4z3tphcGb2otaA5Oy4nOqK8qDQypVxIgI+Tg4WPl5tBR0aSj43VwtT4yP6dV0/u27tpQ1t7cniqt76aXnqo98KOiqKUcHlpRT5eXi5OLiF+QQZNGUlGBoaykqL//389u3/l3cvnG1avSE9LnT2he/3Euh2dSbmx/tU5cZJiAvz8bMJCAgwC3FzMjAxysrIRoYE+7vaGerre3r7G+rq+bg7e5mreVpr6urp2FoZcnGwcHMycHBwMfLw8nOzs4BBnZWRgZWZkZWRgYmZkYWJgYmIQZGTgAEUFAwcTEwszEzMrKzMAFyNsp63Ue7gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/20.png",
+    "width": 1920
+  }
+}

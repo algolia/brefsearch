@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Elle tague les gens qui n'ont pas pu venir à la soirée pour qu'ils voient\nque c'était une bonne soirée. Elle part souvent du principe que...",
+    "end": 43,
+    "index": 18,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=39s"
+  },
+  "thumbnail": {
+    "hash": "aa0de1d857",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC4lIYVzXbSggZeJc35rWpeBbMOmisOkiMOjiL6ehLeYf5N1YmVKO0AqIlY6LWtMOgBlSDpfSjx+aVhSPjhkSUBDMi6AalzVs5e4ln20k3rJpIh3V0ePblqHZFJjQjVQMygAj2hSVz4yZEk/052D16CG2KKIhmVWn39rpn9om3Zfe1lIbk5D1KGG0Z6CnnFeOyEeAEowKFJBO5F+b4RaTcSPeqFyYmVCOq6Cbue3m8SXfU8vKDceHpZqWpBjU2pHPWZDOwBaOi6IalymkoRZODGabV6NYlVzTUOKY1egdWSbcGBySkBiPDbFk3y+j3midWSfcV8ANyIfaEc9t6GSqoBuuYNww4x3lWRWvI55sodzqHtpflNIRSYkqXNkvoVytX5sgVRJADAjH15GPW5kWkk2Mm9HP2hBOlU3MqZzZMqUfruGc2E9NiQQEXRGQKFsX4ZXTF82MQApIiAqIyEUDhAgGBtEKylBJCI1KCeFXVOWZVabbFt1UUYzGhpmOjZrQTtHHyBZJScAIx0cJx8eIxwcGxUWMiYnOSgqJh8hOSgmfVRIrX1pZkU5Mh0bOh8dUTIsdk9Fh1dN6GGkuPlFYYAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/18.png",
+    "width": 1920
+  }
+}

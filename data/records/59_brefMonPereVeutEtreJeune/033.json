@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il essayait d'utiliser des expressions de John, mais il y arrivait pas.",
+    "end": 35,
+    "index": 16,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=33s"
+  },
+  "thumbnail": {
+    "hash": "4663b033c7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQklEQVR4nFXRS0/CQBAAYA7s7KPtdru79LFt2NbaligG8AEHDBBDIPFg4lkvJp48+Rc8efUnG1oTMJnMXOZL5tHDAPeT0W4+npWZDWUsvOkw/Hyez89NGvhFpOJAECAYKOpj1Mc9AFhfXzwtZ5UJhecmAV816ff79mFsMynKRMeBAHQAgAgg0kOAF5fVZtKU8SBTIhV8M8p+PvaPN6VVwXAgNeeUsCMAIFrKu9pWia5ibZV/m4dfL8v9tLAq4I4LwP4BihkAzaNwUdvtVVMrUWixOIsuEm2kIPjQStv8BwhmXVitxsnAKMmp42NaDqSREiGKgOI2joBi5hDGXb8ySREqo1Qa+HUkfcfFwBAicAo6TTFzmVeYbJanqyaPfV95HsEMEEHtiU6WbgsGwgh73a/edst1bSPuefQwd3f7DnR/+AVOuiM0Atr7cgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/16.png",
+    "width": 1920
+  }
+}

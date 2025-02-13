@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Il faut un père qui n'aime plus sa femme et qui fait avec.",
+    "end": 5,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=3s"
+  },
+  "thumbnail": {
+    "hash": "1f51826fe6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwctr02AAAPAcrWZrZTVN0ubLTNOZxLT9kjbvx5f0lS6dacZWjKhdV5wPZI4pPk6CIAgeFATRg7ddhoIHvYj2qH+KJ8GLJz35+2EaW0r06sTmUoObDVs3Uy9xm7EqPUzQrKNmIXz3IPv0/Nri7eGPb1++L75iLk9lvpBqYCeo7W0Ye2P3LFOeWI3jg0uvZ+vzfuvD0/n7Z7svHk1///n789c/zKlSW/balVC82pXnI/NG6vWhOPXVOwNzv9e+PwmOn8xeHm6bdeHz0ZvFxyPM5shE56cdcTdS9rfDe1l0cAHd3fBe7Ywep+j22G9LtcuRVWOZQIOxo2MtUHKgmHSsEbLSftiz9J4OU7N5PVDHjSoP6JNL+QpJEWdIwACGorBzFLG0vIIXiFOFEkmzoqBEpqFV6TqgIMcylVXAAHy5cCKXBzTJUCQmszQqFqXTRVW14yCKu+tuOzQkhSHKBFGOUG9zmDSk+lYfRabClUmMr5AyjqOa6Jidgd93DUcWNRXGkuDxq4Kj2aEdhja6dXFz7EBtDWC5HL6Sx/W6HFhhYCFXc329a+spcjLPHBpQb4pw4HdHyB1q5xWO/g85e20VMs5c9QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/02.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "J'étais tout petit.",
+    "end": 90,
+    "index": 29,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=89s"
+  },
+  "thumbnail": {
+    "hash": "d023e144f9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB626TYAAAUJ7G/0uWOS+bpN3GgLVc1paLQIHyUfhYW0rbUagdRaobJs2URMtaTTunMSZqZmKm2dN5DqJqHjAD6AVCV2KdmjSyxcjy00GQeo3kRIts3gf1gXriDZ12ZMIQYbkNdocjn9UkmjdFFU6ZZv5kmr/48fPr3d0y/3x1Pl8kbzM/znqjy0GYIpT8QCxK2AbtVltDyQ1nirssjLPJRX5/ubx9nf+ZJovG85GpBKrgWZKLAGXrU9J/1ZRHjhR2QJb2egF1tTpfLebr5fub9TyLvcyHMyhkvjPmSWQdUNepFE9wTcU6EPz+EHwPuX+rwZuZnMzE23X3/mPnb6b+kre/jMs3GorIhweAOVI0nOeIflv/lrinIhuYGgSM3sQHUIghuHa5d2A/tYjmMY1wjwsqipsEWy2TEEgXbaOvqqeGedaEL+1WZMNJC8YQhKY6bGgOX0OorafMo93j3YJYKumVisnxXl0ZW0ZkgzPLGJm6r9e7suhwVYOhFJJA0M2H6OY2voNSxQN2D6tguEge6QxtsLROU/VySSYJ4RCr7u+xxWIZRf8DD1az5ySSkOYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/29.png",
+    "width": 1920
+  }
+}

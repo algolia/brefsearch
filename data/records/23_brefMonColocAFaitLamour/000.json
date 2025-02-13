@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Bref, j'étais en train de me changer.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=0s"
+  },
+  "thumbnail": {
+    "hash": "43177cd5bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF5PT5eMhbayr724tbivqo+KgZuVk6OgnoaDgYV/gl1WWWNbYFxTVWNaVl1STW5kYgBEP0KblJLFwsDLxsPKxMLJxMG+uLq+u7ygnJuJiI52Y2FsVFBcV1t5bGdwZmN2bG4ADw4TjIqO09HO0s7N09HQ0dDQv7u+wsDEubi7pKOod1pXkmxip6ClcGdec2xqgHh9AAUDCI2LjtjW1NPRz9LQ0NDOzrm1uLy6v7Kzub+5wpGFiKWemNfQ2KifoYh/gX50eQAICA6KiIzX1dTSzszOy8zIyMmnpKivsbexrK/Bs7mGt4h1vHeztriCaWxwW1h5cXIAFhAOkI+R0dDPx8TDw8DBv7q3sqaeqJqNgmNThWJahItuor2XuKalaUtDWkQ6aVtVACggH3NvcHd0eKCUjL6vns28qdPBq8y3nrafhGJSRzEnLWJLUnViY3ZqYmxeVF9RRwATExY2MzZBPECOemmplYLKt6PSwKzjz7WIfW8dJjERGSEIDBAVHCVgXV+Bd3RvZGAAFxYZIR4kIR8lbmFbjndkrJV/waqQrI5zQTIqFBsnU0xBKSIbCxEZWVtfnJiceXV9w9zdBFLZkjwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/00.png",
+    "width": 1920
+  }
+}

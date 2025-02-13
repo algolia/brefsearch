@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Elle a dit: La vendeuse m'a dit: Vous voulez du popcorn ?",
+    "end": 27,
+    "index": 9,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=25s"
+  },
+  "thumbnail": {
+    "hash": "9d8e32aedf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABd0lEQVR4nB2OTW7TQBhArc73MzMee/wft44d29hx3DgJoYsQQJDSSkgsEJt2xwYhLsANuuIcnAMJiZOhsH/v6Tl8ARIw0gYBJRICPp/Pfnx49fBiyAKvL67qsnp6+jl2XUjKZ+nQBWjEzLMEJAkBxJfD+te3z9/fbIrAlEm8mza///zdrUZPnEkn1K4hOQsCRmZERng/1I/74W1bzANTxNGubz6dXtdxVGexIXSuQusrlfpWkvS1dolPy8XXl9PH67aJ/GaW3k/toc6mKq/TSINwNIiQOTGeJOlpVyLGrrobmnUaWKWqJD6tqmUeZ0ZZRgXCkQAWIFZasnRJpkE0NJtFWpTWGG239eJmnoQMPgmDcBY0gkG0kplYk1xWq/14mOeDYj8N89N62SfGgAj+5xnAUSAkoEuokXyp6suuyvuxu2nLqa+2x9XYhTJkjCQpABZwXkIBLmEd+AvrtZfPhnb77nh7e7zbXx831WJMdBmaWFHIyAL+ATRHKI16GeP9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/09.png",
+    "width": 1920
+  }
+}

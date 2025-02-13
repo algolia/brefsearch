@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Non, tu ramèneras rien. Un petit truc à manger, à la rigueur.",
+    "end": 99,
+    "index": 35,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=97s"
+  },
+  "thumbnail": {
+    "hash": "2f868af327",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AImRooiKmImJk4qKkoKAiHZze0xITFJVXlRma1FZXXVwdEo+QD4yNDUoKomFh8fMzgCLkaGNjpuPjpqLiZKGgop2cnpLREpZWmNJR0xNNzh7bnNVTlU9MTQ3JymPiYvQ1dgAc2luem9yhXt9lY+TfnV6hIGNT0tTZFtkel5fclFQbF1gSEBFOi0wNyYnj4iI1dvdAGNRTnhrZpKHfpeSjXtxdFZQWgkECSEYGzYnK0c4PGtobkE3PDMmKDgnKI+Gh9jd4ABqWlmEcWOHcmF0ZmBsWVdIPUIJBAgbFiAvKTMMBw5TT1ZJPUAuHyI3JSaQhobX3OAAa1tbcFxQdWRdcWBfblRPWktQDAUJGxglOTVDDQwUTiQiVDAuKyEjPCUjkoeD0djbAGRWWGNUVHVoa3xucndpbWlaXhQMERAKDhgTGxAPGWIoIEMiIEUvJnBFLnpZSLi3tgCBhJSBfoyOj6CEgIx4bnVWS1ASCxARDRIWExogHCgsIzEzKCpcRz47Ix5tU0eglo4Af4OXg4WZiIuegH2NhoOTZ2FtEQsPEAsRGBQcLys5KixKMCQsXD0qUjYpeWRYcVtPojaYh8snd9IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/35.png",
+    "width": 1920
+  }
+}

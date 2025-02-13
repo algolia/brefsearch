@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 3,
+    "name": "Je me suis préparé pour un rendez-vous.",
+    "slug": "brefJeMeSuisPreparePourUnRendezVous",
+    "videoId": "1x3P61ck0QI"
+  },
+  "line": {
+    "content": "Mais que voilà.",
+    "end": 100,
+    "index": 29,
+    "start": 94,
+    "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=94s"
+  },
+  "thumbnail": {
+    "hash": "fccd3a62ac",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYpJREFUeJwdz0tzmkAAAGAusmkRdtnyXhaXFTSCPIyjFiaiiI7PaEk8JDO95JBD//8f6LQ/4Dt8Qhd0LOV73DMTTvKBm/TtMbezkF539fJpVKZhmQ2KNJzHfPrIYuYIQOw4SEp8J+27kyGdUN3XlIiRj/bXLO7nQ1Zmg5gTZmtD5jBHF0Sx4/1QEk6ywI18h2BoQpkR+/P9Y/LI08AbMsczsanKnqFSAwtAFH0DpZzkAe0TsytDRVFtk/z5/Krn+XTEx0Ev4pToqm9rgWsJD0D0dJQFNA+oZxuyjFSkYlW7397O62I9S0/V7FD9rBdPl/r5tCoEAERqqFnYm4QeNTRJkiFEtoYX6fi8Lg9Vcd2u2v3mfty1+821qYRvD4CZ6jjw0pAFrilJEoJQx3Doms1ictut231zP+7+g+alWQlQ7jILR5wmYY9TC0EFI9nAiqpI2Whwqlcv2/r1sH3dN9ft+rJZCgAAC8PIJ8m/g65jRA3cd7Sehdt6+nVb/T5Vl3p5rp+PVbEr538BTA1CcnVpIiYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/29.png",
+    "width": 1920
+  }
+}

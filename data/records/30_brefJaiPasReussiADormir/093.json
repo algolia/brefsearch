@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Non, ça court vite, un zèbre.",
+    "end": 93,
+    "index": 35,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=93s"
+  },
+  "thumbnail": {
+    "hash": "99a593694b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA0KCw8JClxVV7Kvr7i5tK6tq6mnprO0rrOxrKagnsvLyEM9PgAAABcTFEI7OD43NAAPCwsPCQh1bW56cnBOOC6hj4etqKajop+rpaClnp2/vrtZUVAyJCEkHBtIQkApJSQADAkJPjQyRD4+IxwcUjAsYEE6blRMfWlhdWdjbF5bbVtXX0lCVzkzPysnNzQyFBAPAFNBOzsnIgEBBC8qKUo6MysnKFlIQ3ZiW25dVl5NRlxHPzwqJDInIlRCNC8mHR0bGgCOfntiU1IeHiAwJB9SOS4mICBENC5SQTxPPzlHODJBMy9YSUB0YVRhRjslHBMpKyQAhXt6rqWia2ZoRUJFOzg6Qzk4Tj88eFxUdF1WZU9Kdl1Xf2dfXkU/PCkjHBwWIyIdAHRudIN6e3BfW6mYmX9xcnJYUn1dU39jYW5STnFORWtMQ2BNSS8xLzQ0KzEzKiUlHwBvcHluZmdFMi54WlSEa2ZhTESJZVtQPT48Kig+LCcSCg43Kis5LSgiHhggHBcdGBQAXFVUcGlnS0ZFRz8/pp+cv7u4zcXAw8C6o5SQiW9vcWlrVk5SXlJOPC0qMSQhMick4tmKESbUXRYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/35.png",
+    "width": 1920
+  }
+}

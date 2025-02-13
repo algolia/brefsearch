@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "J'ai dit: C'est à moi.",
+    "end": 39,
+    "index": 17,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=38s"
+  },
+  "thumbnail": {
+    "hash": "1830cce9ec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGNgZGJQUZSZPXdhbnrSkgXzd+zYOXPWjNqmhr7+iR2tzZeu3zty/Hhzbbm7kUqEvYG7oRoDHy+XpqpSfl5JR3XpzIbcJDfThvSQhtq64sLK0vzSmvK6jKSUiABvJ0OVKEejMDsDBk97C1UFOVV5mdxw92xvixhLjUhL1Ywg53DfwFCfYF11dWsTY3tTI2NVqUArnWR3SwZPe1s7C2sPR5fcMPfyYIdUN/MYG+1kF4PchGQnK+sgT6+85OyIgBB3W2tHfaU0bysGIx1tO3MLH2en/DCXeDvtfE/LaAuNdA8jOyMNSwP9IHcvJysrXXU1fQ0VE1XpWEdjBiVZKSVZKWUZsfxI9xh77QRbrUhL9cJIj+baBhcHJw0FWXkpMQUxYV0JUXsZqQBleQZVsFBwYHh/c1Omj2lWmF9WhH9GsOvU/ulTJ8wyN9RXkZXUVpDVlRDVExLU5OZhEBfiN9TVnTN9WV1peVlaXG1ZZWVhcW1JUUleXlpMlKOliYaijLyUqAAfFxsbKzMzM4OPs2VCZHRjZXNxTl51WVVxdm5mYnJceKi3i72pnqayrKS4CD8fDyc7OyszMwszMzMAoAl8vtgIUu4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Je lui ai dit que ça allait. Ouais ?",
+    "end": 41,
+    "index": 21,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=40s"
+  },
+  "thumbnail": {
+    "hash": "880b0ea7e4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgElEQVR4nCXNXW+TUACAYVKB833gACs9K1CQDTy0tNh2pcVKFdFtrl7pEo2ZWbIleuH/vzaNyXP75tXSINlW68tx5AzAMrn48/z0cP/1c98hE0MDccx84UrH6VbF9bZsF7kWyaherFUYZzK6KuZfPva/H389fr93CQcGYoiOhKPC8NhUhzJbprGWjOPNfHWlpiPbORT53brq983f56fYPQMGopD4wm2mrx4+1V2VzyeBplJ1qNsqV9QEfal+tM1O5ce+t4iFDIxMggH1hTtPJ7tZtikyrdt3dx9u18WUGmCXJj/3TRGcS8fTBwCZBBon5gs00AA0iHSG2vv9u9v2oMLQxXQ5Cd5kqU2FQwWHBJqnAzIpBhQDRiATVGjtdl9muU14Oyu+7ZaLC1W/fptLGXF2hik2MTQpOiEE0lMw8nyOOQL0ZrM6butZfPnS8yJOY9tKLMsjDOgI6Ajq0NThuXA06UmOLd8Z1mXlMXuIsCR4zGjAaMiZjSjQ4X8UMkH4P8+XNAtCK3C2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/21.png",
+    "width": 1920
+  }
+}

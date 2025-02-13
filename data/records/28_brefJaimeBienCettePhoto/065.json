@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Le reste de son corps était complètement bourré.",
+    "end": 67,
+    "index": 25,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=65s"
+  },
+  "thumbnail": {
+    "hash": "c9305f10b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nGOoChAp9xXOdOSPNOUNMuBx12Tz0Oayl2e3luGQ5We1U+R0V+dyUuXy0OAK1uP21+RiMFfhctDi9jPmC7HgS7IXaQzSr/fXrvBXDdLjUhNhDzDg8dbm9tDgCjPkiTPmSbfmZ0h1FIiy4gsw5nPV4fLSE5waG72pNGlyVqSuDLuGBEeqnUCKNV+2k0CqNV+hi0CuPT9Dd4TolASxKQli/dESTUEi/dHaxzryVlblhFsIlQWK1AWLNgYKV/sKl3sKVnoL5dvzM9QHCtcHCjcECpd5CRe4CXdH8U+I1dtal1fsrtwbKzwxUbI7WrzGT7gxRKTMTbDUTYChKRikus4fRDYGiVT7ClT7yO1pL2yNdMp24Cv3FCp2EyxxE8xz5C9xE8hxEGBoDBTuihGdEC82JUViWqrk1GTxjnCprU1pC4oTMx1kKn34KnxEi92F06z40m34U0x4GUrcBesDhevAruqKEuuLE28K4l+Q63F0QvXikojWcLkpKRKTk6X648VbwsTyHQUYcpwEsuz4q/2Ea/2Em0NE2iLE2sJFSl3FNzek7mwvNxXV8dORrPYXKfcSzHUWSLXjBwAfmXoM/QDGxQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/25.png",
+    "width": 1920
+  }
+}

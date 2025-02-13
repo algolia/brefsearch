@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Je me suis demandé pourquoi j'ai acheté tous ces trucs.",
+    "end": 28,
+    "index": 16,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=27s"
+  },
+  "thumbnail": {
+    "hash": "70452cc53a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJuarKGgnpuUhri/uo1ia0EDEh0fNBkVNhcVNRYVMxkTNRgYMyAbKUYGD4dmY4mFdQCXl5egmXu1rqO/yMOliHlRAxAmHy8VFTQREy8QFS4XFDMSFCwdGSVCAwuRcm6fnZIAlZBYramQrauvpKuqvKl6aRUkMRorDhIwEREtEhMtGBUzEhQsIRUfbAkTpoN9q62iAJWOU7m8obasncTMt7/QyJuJi1tPTAEEHg8QKg8RLAsJJggLHyYiK3g3Q6eDfbO4qgCom4q/xbvRyLjK1Nu7wMajk5NpWmURChkWDSISBRs3NUdMR096X1ydioWxqJ61tqkAqqiswcO42t3Z1c+2xKmGWk5uRjllUxESUxEVayUpYlFViHZ0vpCCtI19vrSqsrOqAKuopMXDtcTDu8KogLymgoaCiVBXeTAyQS8wO0xRWkZNVHpjZrSVjbGnoLOxq62rpgCon4+nn5a5wsW7wcSwrqGMlJNHUYJETWBHUVlVX2RUWmFZVl2UkI+rrKiop6WjoJ0Ai2pglJOVsbrDtbrJqKqzjZKSfoGFKi45MThAiI2LLzM9JCo0bnJ1oKCfm5mcmpWUSeO9DLIeH5EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Il aurait des beaux cheveux et il me cuirait.",
+    "end": 55,
+    "index": 29,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=53s"
+  },
+  "thumbnail": {
+    "hash": "754c143ee3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFEcLl0lOW8xR4ZCWJtXaa5uer6AiMKAhrdrdaFPYIk6UIA1TIY9U3g1SVshNUwaLQBgJzp4Nk2STGKranm/h4/Nm57XqafYqqfOmJi4cnqbTVyFOk50MUZ0NUl8N01kJzsAdzVJkUleq2d2wYaNz6Ch2K6r2rOt3LSu1aqmypWVs292lEtZgDlMZSs/ZS1Day9FAJJIXqNeb7JzfMCHisqamNOqptexquCtp750dbRzdLuDhaNibI5KWHAyRmQsQWQtQwCdTWSxZXW5e4K2foC9iojHnJjRpqDdm5apT1eiUFazdnejaXGaWmZ6O09lLUNnLkQAn09mpVJoqVlrt3Z9toCCvIyKwpKPyY2LqWFnsGdqoF5jm11mk1VjczpPaDBGcDRKAIU8V6BTa5dJYptNYrByebSBg7aCg7eBgrJ4e6ZlbJZSXpBMW3s9UWkzSG0zSHQ0SQBiKER0Mk6bUGqfU2qfVminanOobHSrcXmnbHSZWGSMRVd9OU5qLkRlLURuMEZlKDwAVSU+XiZBbitIiT5Xn1Joo1lqm1Zll1Fhk0xdiUBVdjJGbi1CaixBZSo+XyU4Uhwuvg3Awk0KP1kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/29.png",
+    "width": 1920
+  }
+}

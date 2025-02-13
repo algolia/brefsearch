@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Il a dit: Tu vas faire quoi ? Je lui ai dit: Je déconne.",
+    "end": 74,
+    "index": 29,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=72s"
+  },
+  "thumbnail": {
+    "hash": "5319380265",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBTW/SAAAA0MbExIPWLBmKUxYQQWCrWqCsLZZVwkc/YC3QQVtokZbgKDDAKBQpCRGWFR0bmqAHD148+DP3HqBpA8MYDYcz01xYlr1c/qAJFHryQEzC85401Irznmyen1Ur5dNckiNfAf3+bDy+sKzVfL6+tH9rivbCcd/rAMPPnepJ4kOZ+f/n+mo+rvIpmUXEDAyMxhfT6TfLWk2/LCaTr2Qs6gLvPgPv+R89ZCPeEurbmK22IqgcXj85ErMIcN4d9RsNvSJI2TiHhlKHnuBjMPp0J+7eVQno0qhtP3daJbqax/QCqrAxoCPlNAZnokEJeVkIOt+6HdH9XQpyU4E9CT3Y9Fo3urhSaZlBuOOQxuOA2S6ZhlBlcA0LmGyMCbkIj4OP+NI+ZxH29lnSpGObBt08ZWUurRcTwMrS7WmzV6OUI/9NPXtGQrkDFwe55LBHj3krsEeC3bZItvOEwR93+QTAYdjikzpplwrQ/lUt/TEDV8OuJubX46Eu+VpAAno8+F1OtRl8UEzOFA7YuQNqPDF4n8v49mzx3aKenyqV7XL96+e/7fVfo8wOqMhaperkm06etBThFpeYikjSZA9fAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/29.png",
+    "width": 1920
+  }
+}

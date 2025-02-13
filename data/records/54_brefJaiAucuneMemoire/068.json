@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "À chaque fois que je me réveille chez quelqu'un d'autre, je panique.",
+    "end": 74,
+    "index": 27,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=68s"
+  },
+  "thumbnail": {
+    "hash": "a5d43a65a8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nAXBi26aUBgA4P9wKQJaoUVRoOeIdgoCpWod1PudCkwx7ZK5LEvWdelssix9jT31vg9wq/fBG1jdRdO6rSnK3HPuMFYpZud2ryUFAHE0V8gJeU7gWV6RL8A0WxSwhDQ9x2/rxvtu9XUUmGIxwE5YJQCIRswZfZajOQax56IIhbwMACzD6kp1bls/ht0vw35Da4bt0Z2Gr0QegAKgKGA4hpfPS8BQHAKqUtJm97Oh6y1N7Wkymk8fVLms5/nQUPS8YEjFy7yAaFEsNIBBLMfy8SZ5TPc9y/bN2mY8fX0+pZtUk1VbrXwf2P9esr/JxCnrZYkAAFIV7dMm3kfbeXB/+vn78+6QRdtfj9lLsth2vWPfPU0+Hn336Ht7pw0UoHaznW2T1XAcL9Z/3t6zeD+7cSPbPIwHkXW9xmRbryeNemSSqE6AQXTY6x/SbD1dZFH89vz6Ld0tb7yuYQwNvDCMJcGrGlkSPCdXI0MDAJrouOPehr1g4jlZ0Endlq/pFaFQzQnNomRLsidfdJRSUKn01fJ/RoNEaZvkkcsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/27.png",
+    "width": 1920
+  }
+}

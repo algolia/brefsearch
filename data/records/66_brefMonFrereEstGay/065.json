@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "C'est Seb. Cool.",
+    "end": 66,
+    "index": 33,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=65s"
+  },
+  "thumbnail": {
+    "hash": "576ccd46b4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHxxaoqAdo6BdpeIfWtgWSEZGSIZGiIcG3RpZo2CfoR2cXNRQ25HN2pDM1w8Mk0zKwCHem+ZiXyklIWikYQoIyMyJSZ3VE9EKidUSEWekIuKfHeJY1CIXUaBV0J3UD5xTjwAmId4rp2P0cnCz8fANi0tSzc2ZUVBVjYxSTUygWxmj4F9h3p1g3Zyf3Jvd2pmbmBcAKWThMKypeHX0evg2ZuJg2JCPmRBPFo8OCwaGlIzMoJvbIZ6doR6eHxxb25jYWhdWwCkkYHUxLbx6eXq4tyrnphALStCIiFsUUp6ZVxnTkxjS0tqVFN0Y2BqXFhkVVJeT0wAoop6inxzWlZXPzo7Y0pGQSknKBcXIRkaNCwsOC8uOCwsQC0vZEtKZk5LVUZEWEpJAGJQSw4LDwgFCRIRFUw4N0gxLhQSFQkHCwUCBwQCBwYFCQoIDDwsLk87PBkUF0I3NwAVCw0ODBAVEhUWExgrKCsqJigZFhoNCg4OCg4MCg4OCg0LCA0LCAwNBwsVBwpCGxkABwQHBwQIDAkNDQoOHBkcHRoeCwgNCQYKCQcLEAgLNBESRRYWSxoYUhsYUhkVTxYS7Q5/y8OH7toAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/33.png",
+    "width": 1920
+  }
+}

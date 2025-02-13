@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Vous voudrez une Je vais te faire une pause de préservatrice, s'il vous plaît.",
+    "end": 61,
+    "index": 29,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=59s"
+  },
+  "thumbnail": {
+    "hash": "68907e116b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAkHCAoGBiQgOktPgkhRg0NDczs5ZDsyYWp0tIqkzEpTbkxVdlBfkDU+YjxDW293dgAIBgkJBQYoIT1ISnw/S4FISHs+O3FANnJnc7aKpcxXZIZTZ5FYcqtPYpk+WG84anMACQYLCAUIKydJVVSRTlORREp8WkyCW02DYXK1hKDKhIGUc3aNdYCUdX+bTWyFPGNmAAkGDA4LGE1ekXKKv1FjkElUfniErmRyonCLxoWPrrSVkpqChnqCn3uHqVRxjThaWgALBgwgHTBzhbGUpMd2hahpeqCTociZp8qdr8+dorW5m5mdi5uLmcKQoMxviqU+Y2UAEQkPLSQvh4+uiJOxkpezcHaPgo2vkKDCjZC1kXSNoJCSinyWal19Y1x5aWqCgn5xACIUFj8pJnVpakVFUQ0PGUlDSM3DwaaXopyOopaRo6Cipo+Hi0lBTWVNVllKVHZpUgBPLCNpPC5SMCU4NjuLiI7FvMHDur2Rg4OIf26rqI/FwrugoZlFPzp0XlV7V0+KdFcAdkMrik80lWFGsZ2VuK+0p6Cmp6CgnpqXgYB0oZuJp6allpWPe3pxhYR7jId7hn1ZcZu71onmuwQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/29.png",
+    "width": 1920
+  }
+}

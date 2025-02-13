@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "T'es encore toute ta vie. T'as raison.",
+    "end": 22,
+    "index": 12,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=20s"
+  },
+  "thumbnail": {
+    "hash": "22d7540a17",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBW2/SUAAA4L65hZTB2nN6euNw6I3S01EECkUWO2DKBCZlxpFtMuOaKZm3YYzRRafGmExcYqKJMVl8XbIHf6Pfx8yHvVG7Pvv0dNU1dZG3pdTDmnUY2J8HwZuDKFrJdYn8Yndj3XcKClfJAub5eHM6GszP34WeFfo0vu3/Ox4eBvqtvDRo0UnRaAn8sEFbK8QjUIcsc3Xx6+fs8dled7tif9nr/Z3tvB3U47o5Csz9bu0e1ctpdj90Gw4uaaIGWObP+5Pzg2hc1J7dXbs8iS9n90/71ahIqCVXnKypwLCQOZt0mnnVI8hAS8zXR1tdSykpUqfsfX8SfdvtxDeclpWxRd7BkCCuaUi/p5vHq9QFScyzzEaVWnKG4Nxa9fr0jj+q5X0VwCSXgfJNA2hcol1QL6b9l75Zl5IYJBkJqCIQsCiJy0LTUqgKYCoFl9KKIJYwyqYWGoY0n7RfrxfHvkYAy0g8xCJCy5yqCCCdwAjmsGpgNysRLMiIXSwT9CB0T7eCD32vayPGJIKpCXpOdqhi20JB10pu3tQsGSBdxjCxkF68RlXuqBf8eBV/PJr8ByjxXQyg2PqYAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/12.png",
+    "width": 1920
+  }
+}

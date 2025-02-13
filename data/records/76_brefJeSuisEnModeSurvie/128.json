@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "À bientôt. Ça, j'espère.",
+    "end": 130,
+    "index": 47,
+    "start": 128,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=128s"
+  },
+  "thumbnail": {
+    "hash": "2be423e97e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nAXB207aAAAA0P4Ny7ZsWcwSM7PgsipTO1G6i7ayltIWbGkLKytrK1J6G/SGUMaiqOmo2cUQRBKzFxMT3/cNS/aw79g5ACtZr7ey6A5BFMSCUKc5FcE5jBZxulrkZIxgWE7khWqBLmA7KALDgOxPctUjq/dTD0ZH0czwTrKrkFM3uofn5r4FL8y/QXJGK5BqCsdxuc00UDa/Mfqlc3ojyC7NKi83sxiYFDnR6kaOF1KppxgC17RAVi1FUSsbEMDUR2Rt5Ec3iyB0L/Hw7p3HLCuSnOoexg27J1Fvy/haZju/rxiGade3XgGMHGJs64PaXl7HlldQaBW5/v3v4PhK0w40K/jadxn4ydI63Gi2vSB0mRLwUWvj+VK5oirmYFcwdHt4cftnz47JDFEkuUE3RFKP5pNJUW4YhmM0faAk7r0DX7xPL6pNG0b5L8fT6e1fXgpIivcH43h4BqVWnoNrLFuBkgtLc3OAYnilYpnOPBNIVK3wptmXP51Tu2o6g6B41e9EJ9EPr/PZ7/QoDIXvJ4CmG7D57TyYkDYedGXCH8RueKZ7Q73Vs53+aTyezi4ms+nl1a/v44mj2/8B8BvG0Rqv6F8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/47.png",
+    "width": 1920
+  }
+}

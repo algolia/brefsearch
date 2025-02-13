@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Il est bizarre ton costume.",
+    "end": 80,
+    "index": 25,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=78s"
+  },
+  "thumbnail": {
+    "hash": "5cd6d61f57",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nGNYNH/x+jUbdm7bdeTgkWtXr928cfP0qdMnT568du3a1atXL168eObU6SMHj+zctmvLxq1ZKekM2zZvP3LwyMXzF65dvTpr0pSd23ecP3P21OEjD+7ff/7i+ZMnTx4+fHDz5s1zZ86dP3sxNyGJ4diRY5cuXnzy7OnRA/v1ZOSsdY3zUnMWz5n/7OnTFzDw7Nmzu3fv3rp5e+7kaQznz52/ffv2q9evTh49ZqWjoyahwMctIiQgNnXKjO8/vj+FaXv69On9+/cP7DvEcOnSpfv37z99+vTUiVMuTu7s7CKc3AKiolLGBuYH9h989+7ds2fPX7x48eTJk9evX/d09TBcOH/+zp07z549O3r4qI6WLgMDq7a0goWmvoiQVFFB6cePH589ewbR8PzZs/CwCKgfnj9/npOZw8sryM8vLC0ooiAm3dLS8ejRY2T3XLl02djIhGHrpm2nTp5etXylv7tPfGwiBxsXOzsXL4/gls3bvnz58ujRo4cPH968efPShUsH9hxUlFdigMTDpvWbN6/fHB0Rw8DAKMQvzM8r0tnR8+DBg/Pnzp05dfrwwcN7du1dsXSlmIgEABYEE+aNbuOaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/25.png",
+    "width": 1920
+  }
+}

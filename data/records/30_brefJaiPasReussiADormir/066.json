@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai fait bouger ma lampe de chevet en fermant un œil, puis l'autre, un œil,\npuis l'autre, un œil, puis l'autre.",
+    "end": 70,
+    "index": 28,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=66s"
+  },
+  "thumbnail": {
+    "hash": "6eaf8c6d9b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nCXKW2+aUAAA4NNxFRCh3OVwv3hABAEjZm3V3mZZK5o2jWmzZlubZVmyJXvc2/76HvY9f6DXt3i1lN2NFt8Ps0+weIPF63D8bI4PMHvW0aMSdpJ9yUkTmoMUawDBaOSgVYKtU//wF7+96rOd3JjREkYnft46WWvELc27FMWxvEMyKhCttZ48ifbarb7585/WaGM7lYOWMFzAYOZPrsLmO8VDmmJpTidZCRCMjNMixdv29M2f/1LdM37gYqQiqkizMhudo4u/x+4aowWC0XGSAwOjkoxIUH27eLXzr4pV22jZl1PVPYVe42eb9OLPMDvgdB/vCTjdB4Jzpboz2ZxY+RczvtFgMipbNN8ni4cwu4yKDWoOBmpxiiHoAUZx4Njf6f6J7kyD6d5LVtCrR+U2rj+mi4d4+iGq7qK6M6LVO4LBCBbDGcApFSeFMszH71/SWeejdVxug+LaS1ao3o/PXsK60+Lr/xsjWYAfHQEAODlOmydU70b1fVx1FjpVTRTlt0G58/I7Ld4SPRGjWIxk/wH/w0AAdAakogAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/28.png",
+    "width": 1920
+  }
+}

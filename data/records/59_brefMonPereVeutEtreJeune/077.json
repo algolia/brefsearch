@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Quand j'ai rencontré ta mère, on a couru sous la pluie.",
+    "end": 80,
+    "index": 38,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=77s"
+  },
+  "thumbnail": {
+    "hash": "1322369912",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nD3Na0/aUACA4ZPFtufS9pxeTi9gC7a0aiQwEdmidkSgqHNIUYtAIHFAuu2DS7Zk299fFpMl78cneYHlRGXuxpXo7kN/M8qKh8V8OIrLXj2Mam6p5uxyZlm6S1VTJpokINBNVy53GrX94n66yaaLm8nnu/w4jA4q1eMgfOoOolKFEsaopTFHkXWQ9GatWpy22t+f5sXDcj3K16P8qBoGbvn69N3246TXbLuapVObqpxgDZwl+VXn4mVy/3Ox/PNc/Fptt7ePh35gMS09aX/LpuNk4NtV2/CY6mDEQOf9p0YQb67TH4vV7/XXYjzLzgZlw5EE2In3x0mvUoocHjo84IavMRe0mt1WdLC5Gi4H6ZfH+cvsObvoK4iIglTh1p7jc8Pjhqczl1JLkU1gm55ve+ub29llf3jSPq83q/YuFERKGJV1gihGKoIKhLIkElHAAENFIcZ5/W2eXHbrDYbkN2AHSeQVIaj8D0qysIMAlGQEVZOap2HsUB2JGEP5lWKkYqQSrGHMEPz3kUTyF+VsQjzC/jeRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/38.png",
+    "width": 1920
+  }
+}

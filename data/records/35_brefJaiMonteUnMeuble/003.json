@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'en ai acheté une.",
+    "end": 4,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=3s"
+  },
+  "thumbnail": {
+    "hash": "66551d4f34",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBOW/TUAAA4FdKDkzr8zmO79jPV56POE5sUjtNKe1AkRIl7RD1lCKKVJQFdWVjQ0hARzZA7EVd+AOoU4WqqkPFDvwNvg9UKsRqZJ2MVrDG31tYqAsiDnsEQbIsDwDY3kzXs8Axjf3t4bcvny++XwBqmdxMg/k4X++4S8SSh2zIK5KgijWxtFiaPutbat230evT+a+rq8ufl8DS1I0sfjkZjActjqYNWTUk1ZIUJMtE9cGTLIA0iVR5b2d0c319e3MLJEFa7YQnu8NREYg8bMhq00QesrDtarJCElWiUimXykGz+fvu7t+fv2Dxflnk4XS4VQRmnvYEQUF6I/L80MO2YUq1ugh5jqIasjI7OPzw7j0AAMwOZz/OzzcedbHtMjSEHEywh5EVeLgTxnnWS5NEYDldVFpOAJar1SLNj4+Oe+2syIo87XtWaGhIV/TIwUqt7jter9ulHpJIa3T8FsDITfw4dPDW2tOzTx+nz3f644EbmG3LeJwX3SjmacbW5RrLiLBmqg2AbT/G7XaQrET5/OzVi7f7u2/Go6+Tg9OJJkimJrEUxXMQ0hRD0hzN/AemQFkcMGi/+AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/01.png",
+    "width": 1920
+  }
+}

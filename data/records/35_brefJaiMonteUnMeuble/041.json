@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Mon coloc ne m'a pas aidé. Il était occupé.",
+    "end": 45,
+    "index": 19,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=41s"
+  },
+  "thumbnail": {
+    "hash": "e44d50ae9b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlNSmteXYBxcLCkpNTNz8O3uKeYmYNzcmJRUIl4eJSEgop6d4NzcHlqZ3NlY3JlZABoWVaAcXCSg4K9sbPd19nSycylmpytmZdLP0J7c3enlZOXh4STg4CMfHmKe3iPgYAAbl9bj39/gG9npJOJt6+vh3RvgG1rqaGlRktWhn5/uamonY2LmIiFmomGpJWTn5GQAHRmYY6AfpiIg76vrrmurYZvZ3ZkX4V9gFZUXZCGiMm7uqOUkY1+endraJmNjKSXlwBdTEtgXVVral/Ds7fKwL+tnJiId3aBcnE/QUhtWVeii4WnmpeYiYM1LSgdGRc8NTQAdFxKclxNcWJVf3JwkIWGV1BPbk9JJAoCFxweeV5VcFZMdWpmgHVvLScjGRQRKSEdAIhyYZV7ZmxWQmlTQnFZTDcvLVI2LCMZFSUhH3FPRWtIOz8xHyoiGR4YFi4kIjosKwA3JiAkFxIhEgl0TTBsV0lKOzGgeVs5LCIZFxRdOidxQSddNRxVOio+MCUoHRodFRcAHREMIBAJWjkdW0QvMysreEwss248PCUYFRIQTTIkXDgmVTUnTjMnNyEXIRUSBwYEjlWpA3WB07EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/19.png",
+    "width": 1920
+  }
+}

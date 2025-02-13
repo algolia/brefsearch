@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "J'ai dit: T'as bien dormi ?",
+    "end": 79,
+    "index": 31,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=77s"
+  },
+  "thumbnail": {
+    "hash": "4500a91946",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nAXBaW+aYAAAYL6t0WbUYFGkyH34KnLfchQ5X0BnUReTpsuy7Mv+/w/Y8yDYt6f50yTww7aFHWyHrm2q4pgljr6XGApwdOg5sK0h7IAiL9ApYk8mEcufzpfx4+N86tu6KLLY0tXX2WxHkaHIR1ulyLOugyLLrF6eEXcybfxovP+8/Dj3sCrzJHItliKZBe6IvC/yNs+6pjH0cCNwawxFXGw+wGEcb0MP6+I9j0NzD2SKtAX2oEgGRXoC55p6UxUys+bwGRKC3e3+uF7HoW+PWRy5prGVAUMNgVto6jWKGseMHCMJ3TWOicQcydX9/fE4n/qqyNLQCy3NAnKy2+SGxuKvl7Js0thSga6IxAtKYyiSLom6LKoyz+PomB5sFQD6LQBSogJLFGCS+ECxBLb0nX+//8LsHZGnz56ueZYROUagqxrP8gRuy1ymgsYyGse2ONqVhCE9/Lrd/nx+IVv0u0gspeXClAV3IxoCA+g3nWdkciWtCIVc7RnaEPmDtqsDuwz9/6DMVgLnS0XOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/31.png",
+    "width": 1920
+  }
+}

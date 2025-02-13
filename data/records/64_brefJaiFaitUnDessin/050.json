@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Mais vu que je savais pas dessiner les dragons, je l'ai fait très loin.",
+    "end": 52,
+    "index": 24,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=50s"
+  },
+  "thumbnail": {
+    "hash": "a97bbc4428",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nB3KbW+aQAAAYH7wfsGafdyaNGsTv3Tt0uhM58sydNra1reC6KygVUFAKMfBAXcHd2D3F5aYPB8f4dfN107tctSpvoxFQ+17+jSwF8jRkLMM7IWzljWp0m2cfr84Of/0oXT6UejWLidPzZ02Qu4rRXuWeJxAhgGNXIY9jn1gK4PHuvz0s1ktVb6dCVKvZi7HsW9kiccw5CQs0ugoySnKSYgTTx/09X533Kw+imVhpdwH7jrDgJOAkyCnqEjjIo3fGX5nuKAo57G/0OBE2nbaqtQWNvMeDqzjiw5ZckiT4yZZ/JZG+3+MFgwD23Y0VVeel9MHQZXEwFlxEuY0KtI4i/04crMUYeSSyD3whNMIE8SzEHobVW4Lz3dlcznE0GDYo8jBwCDQTsI9Dp3Y30WhRQnECBCg2+pw0rsVOrcl5aG2UwfQerE3cuBvQ7AOwRYFJoI76Kw8SwOvM3PUUhpX3cqFUL/+IpbP+uLVfNDYzO7crfxmzlxz6tl/XWturEfqpLUY/x7+uWn9OK9ff/4PRLRakKoOogcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/24.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Elle, elle me comprend.",
+    "end": 78,
+    "index": 37,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=76s"
+  },
+  "thumbnail": {
+    "hash": "77f305a145",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAWDQwiFBIyHRVrUkWbf3Kbf3GfhXSegHFQPzchGxooHRtgS0Guj3ivknesj3OojG8AHBIQKxoVPiYch2haoIR3m4Bxpop5Z1JIGBERNiQdeU49Wjgsl3pmvZ+EuZyAup+BAB4UEysaFUsyKJR4aZp/cpp+cKSFdEA1MCAXFWk/LX1NOohWQaiIcbudgb2gg8OnhwAdFRQtGxZgQzecgHKVem6Xe26ihnVaSEAyHBZyRTJ9TzyHWEWtjXa4nIG9oIPEqIcAGxQUMh8YdVdJm4F1k3hrk3hso4Z1alRIOiIabEEvbUEwbkU0vJp8vZ+Bu56CwaWHAB8WFD4mHoZqXph+dJR5bJp+bZZ6b2BSUzYjIkgsIlExI2ZEPHFgb5Z/erqcgL2gggAoFxJPNy6XfXKXfHGKcmtWS2Q4NmIeI1QvICxPKh0/JBorJkEoKmUvLmZ+bHy9noIARisjjWdWnIF3mX5wVEleICNbKy1jKStfIB8+QSMeNRwYExYyLS1fKytgUkhlqo54AG5DMJ5vWpB2anxoYycnTiYoViorXSQlUw4UNRkUJD8pKnFgYllMYR4gTVBDTIFnX+UkmOjC5mdaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/37.png",
+    "width": 1920
+  }
+}

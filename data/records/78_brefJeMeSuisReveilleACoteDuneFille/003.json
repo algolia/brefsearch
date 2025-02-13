@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Je n'avais pas envie de rester.",
+    "end": 4,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=3s"
+  },
+  "thumbnail": {
+    "hash": "3e9d7163f6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nBXKW2/SUAAA4AYH55yetqf305bLSkUKTEbHZTh0E7tSDKxjTqhjndPZRMVkxMTELc4nk8UHH/3Dxu/5YyzTxrmszuGCSBxVrlJlK08LEsE5oHBYgEBm0XbR3LFoE/EtVmDKm1UeIoPH5f9bq5u6oysEQh5CTeDcQnG402+X8vt1xyPkgCPMXm9YpJYh4Ie6VjX0CtVMkScQcgB4dnkRHK+T63Gnc+htd2U1JBITjmKvuWsS3tG1kiIpGIkIChDwiH1Sdd8ER/c//q4WH+ZD/3x89G66YKbR1fjlRUmnOkZUICrPCwAQCCqGmUTxZThZnSa36fc0iqN+73x2xkyC11FwOhoEft9v1zxbpyKCIssWZLnzyB11di8nr+6//V7HadhsvGi4zHL+cTl7vzy5mvgnNs0TCDGAhMU1g9YMfbD1+CJa/Lr9c7f++Taa71VsJjyY9r1923IkFssswgBkMllTFBt5s2VvPvdax0N/dZbefLn7+unmWavDVIsVdQOoD7IyhBKL0EYuk8lahLgG7dXcw253UHfj8exzskqT66fN9j8ig0olHBFS3QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/01.png",
+    "width": 1920
+  }
+}

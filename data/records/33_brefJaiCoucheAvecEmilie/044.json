@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Elle m'a demandé: Tu les connais ?",
+    "end": 46,
+    "index": 19,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=44s"
+  },
+  "thumbnail": {
+    "hash": "e2e7f69dea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIGJno6XrZmkvKSvxqm1zcTM29DW4tPY5LXD2bLA2LS/1bC70aOvyJqlvY6WrYGJngDKxsTc2db19PC1qqtaP0ZkS1NbTVBdU1OCaWSOgHvOzMrt6+nx7urr6eXe29jKx8UA09LT3t7e9Pj4moiMKgABRyIfXTg3LBYhVy0sYVBQx8jL3d7h5ufo5+jp4uLj09LTAN3d3eXk5Pr6+o2MjDUZF1U1OlU+TC8mQwMAB0RESMPFxt7f4enq6erq6ujo6N3d3QDg4ODl5eX5+vqUjIsdERFiIzJOKDscGCYiEBphVVne2dnj5Obp6enq6urp6enf398A3d3d5+fn7/Dwy8fHl5KUsZugs6GnnZugwbCyz8HCrKWkz87O7Ozt6urq6Ojo3d3dANTU1OLi4uzs7Nva2tjZ4ODl6efr7fX09ebq7uDi4peMgcnFwu7v7+jo6OPj49TU1ADDwcLW1dXm5ubS0NDOztTd3OHe3uLn5+fu7e3g3tupooPKysTr6+zi4uLW1tbDwcIArausvru8zszN2tra39/f5OTk5eXl5OTl5OTl4+Pk29vc3Nze2trazszNvru8rausLoI3cO1vQlQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/19.png",
+    "width": 1920
+  }
+}

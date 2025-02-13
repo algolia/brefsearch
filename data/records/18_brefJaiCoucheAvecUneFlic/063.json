@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle est partie. Alors j'ai dit: Hé oh !",
+    "end": 65,
+    "index": 28,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=63s"
+  },
+  "thumbnail": {
+    "hash": "a39f89b27c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH5ycYVhToFmW62psLy3w766x8bE0LKdmqhvWb+BbpVjVCkaE1hHOp+FbZR6Y4FmTgCKgoSOa1uedmW5q6bJxcrAvMW3sbSNaFmgaFa5gHBxUUY4JyAyIhmFcF6pkn6tjnMAqaCdo4p+qXxpq4Z1tKafq5qLqIJtlGJUhlxMsntqZ0o/TDQsKBsUe2ZSt5l8sJN8ALyso6makY5rW6d8ap94ZoJhSHNKN5NaSrp8Z6ZzYpBfU5RRUUw8MZyDa7mZfbuXfACmlIpxW0lwTzaYbVmdcFyVbVxlPi58TTuZZFB/VUKwbmN/VlKTgG2ciYO4nYm2i20AinVnaUsxgV4+e1Q7c0w4mG1ZZUIyTjMkVzsqcUs7pW5diXJguZuDrJF+vJyDqHxeAIt3aXdWOYdiP3ZTNXZPOZBnUm9NO0IpHF89Lp5rWa50X5FnU5l2YKqHbL2dgsCdgwCFcWKPdWCDXz2AWThzTTh5VUKDWUZpRDJ3TTycaFaca1qcalqPZFKac2Gng2yxjXUAeGRTjXhph25ac1E3aEIwb007b0w6bUo5eFJAhFtJkGZWqX1tt4p8tIuCn3ltg15KDgDDquo4MdcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/28.png",
+    "width": 1920
+  }
+}

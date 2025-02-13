@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Deux bruits du système de ventilation de la salle de bain et le voisin qui écoute\nla traviata huit fois par jour.",
+    "end": 53,
+    "index": 18,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=50s"
+  },
+  "thumbnail": {
+    "hash": "e6db0f7a27",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA4EAw8FBBEFBA8FBBAGBREFBBIHBREFBRMHBhUIBhIIBxUHBSEOCwcEBTQuKWJaVQAPBQUTCAcQBgUVCQgdEQ8ZDg0SBwgbDAkZCAcYBgUNAwI6HBN4Py0fFhQpIR4XEhAAKRwYGhEPCgMCXjsvdE9CPykjW0IoiW08c1k1UDoxJBgaQhsThEItJR4eEA4OKh4YADUlISMYFyYXEmM8L3lPRIRZTIVhLZ59PbiZXKaEXHBXOl02H3VGLVtLNVVGLko6LgBFMS1ALSpzU0tWNi5VLid2SkJvUi2FZS2RalGjd2awkFK1lVGtkFO4mVR6aEMnLDYATjo2aEtCYUY/STQwSSscRycZXUQialw2ZUMylmleiXhWk4lWsZdZvZ1VYVQ3FhwpAFU9N3JRR0ozLFg8L2ZEJF5EHV9KJFRDKF5BL5RlWZp7W42EVK6UVreZVElALxIXIgBcRkJqTkd9YFlnRDxzSD9yTz9uUT50UUR4Ukh3UEiDZU6WhFS2mV2MdkkXGB0kJi0AalpYcmBfgGxqjXl4lX58oIiHo4uJoYmGnYWCnYaDoYuHq5SNpI6Ggm9sXVFRZFlYT4B4GEr7yNYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/18.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Il était hors de questions que je mette. Lol.",
+    "end": 45,
+    "index": 22,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=44s"
+  },
+  "thumbnail": {
+    "hash": "d67d614255",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAcHByMkIy4uLBMSEA8ODD89Ozw7OA4MCh4cGRQSEBAOCx8dGycmJCkpJxcXFgMDAwAODQsyMjA3NTMPDAoqJiN4c3FvamgdGBQzLipQS0dQTEkeGhdMSUY5ODYWFRMGBQQAHBsYQ0A+R0NAJyIeLyklR0E8S0RAS0RASEE9OTItPDYxTUdEamRhSkZDDgwJCgkGADMyMGViXjItKElEP7KurGZgXS0kIDYsKHVua2VfWx8YE3hybqmkokVAPAsHBAwKCAAXFRMrJiMeGBJJQz6ysK6Wko9mXVp1b257dnQkGxZFPzqin5yHg4AmIBsTDwsMCgcANTMwIR0aHxoWWFFNRT86LygjSEM/dGlimY6JTkhEWVNPw7+9WFJOFQ8LEw8MCwkGACsqKBkXFBAMCVBLSIyIhk9EPRs3QRRXciY9RVpUUGZgXIaAfUhDQAoGAw0LCQkHBgAeHR0GBAIkIiAvLCk9OTcvKidfXVsnPkgNN0gcGhclIBwYFBASDw0LCQYKCAYGBgUAFBUVBgUFJyYlPTw6DgwKDw4MSEVCNSwmFAkDJyQiMzIvExEPCAYECQcGBgUFBQUEPg5X30xWnKAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/22.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Là, elle est tombée. Tu veux boire un coup ?",
+    "end": 108,
+    "index": 40,
+    "start": 105,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=105s"
+  },
+  "thumbnail": {
+    "hash": "57dfe45607",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBW2/SUAAA4CN1rJSWlkJZWWnL4daWWz2FXhCESZFSYDDGWDa2mEhcWDRZojF7nMmGbvoLNL6YeEn8l34fcJqdyeFiPh5df7i+WL+5u/v86++/zf2Xn7//3Nx8XL99Nz1+6fuT+fyk2/VmsxmoItP1xquhu/S6i+Ozg+n89nbz8PB18+n+4vW6hhyS5nWj4fVHPdcfDoYAKuVCCfm21betCnKktNIfjL9/++F6U2TYdVWr5Qv1ul3WLeR0zKcdkJALIXYnQsciDBek2DgvF1T9/Hxl2O3B83ZFUyRBaFp26YkpQU2UcoCL8QGcxCMsQXNYiNqm2IQAzXpbR5aB0PvlwncsRSvpVZRJZaCYBbF4EgQJLEQ9JugATmIhik9lDaNlGOZeu1VTNB1mWZpRS9XV5dVoegSYXTmwhUeiHBPbwXByK8yIsFiuNCSoCaIsiYLbQoO9xjPHOVtfJeUcwGN8nE0cOva+ZVNRnmSFFCwrRVOERU1VTya9xX6n12ke+C9KhgmwbRBPwQBBk0SECNPhaJLbzfOims7qgpg/nY0vXy0z6Yyagy2nLuSLj4LEf1gPV4kh/QkxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/40.png",
+    "width": 1920
+  }
+}

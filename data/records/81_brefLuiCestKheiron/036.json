@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "On s'est super bien entendu.",
+    "end": 39,
+    "index": 11,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=36s"
+  },
+  "thumbnail": {
+    "hash": "c9a2b9b44b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXB2U/acAAA4L6aPexh2dseFrORaMxMdAgCRYqsEobKFssWUyasCB2tBvFAJnMrh4CDcfeix68tbW3i9jfu+6CnCwtul6tyedvtjJqNe6beFjl1MuQEVuJZiR0L0z7b+HkX3Y4gAb/PvQ6tv3xBZXLDPi/x6l2rx/EKkC1dtTXVAvJcV00T2Lffmffozn4sGvL7IHxvn50qsqg75mP7vg8UW1PsYad/nqMUUTf1B8f6e0LSiM+LIkjA44G+4V8k0eBHYutXrdsbG6qjSPPiMU3iBFNhHPsfmBmpT4fbMBwKoVtwGEol4hckeUEel77io84fSTQlQWNHoq7Yc/CgAYe/qRI7Ee/GZgSJBAMIdHSQOE2nKlT+upCtntKDLjcZzmTRkERdmRkAOHWKamLxYDAKh9BwAIYyyY90OnVFZm9OyFqJ7jXaAmcIrMZPVJEDsmRdpjM1LO4PY4ueBAy/g6Jb/tSH3dxhskgcXRdyP4r073prOuBmvAZkazwQiMTeGbbrWlp79mrz9dIatLG6EvK+xWIo8fmATuPnOeIqny0X8tWzYptplkvlZCxcyuIrb9xPni8uL6/+B3VywASkWE/3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/11.png",
+    "width": 1920
+  }
+}

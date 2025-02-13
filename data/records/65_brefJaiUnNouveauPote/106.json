@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Salut. Bref, j'ai juste un pote.",
+    "end": 109,
+    "index": 46,
+    "start": 106,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=106s"
+  },
+  "thumbnail": {
+    "hash": "6e023126a1",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXB/VOaYAAA4Jchq/lifIbAy/eXBqICXYBM9NSEUrNt5blpdbfV7rz9/7/vecCiZ62T7rc03BXxYTZ6zBP4CYqQmljqSBHJBimTjAoph6a7LC2fN8E6vnoeRYdp+rYY/91Uh1kJcXLbs/fDztyQ9Ral0EKEFJdhPYbT4AX4ng6Os+xlVkSyOA7CP/e1zYs5QpWl3zv63FAKJJWWk6mqx7DSeRPsivjttvxYltElO7WN9/mUh9zKs3a++zq8OkZ+qSoS5BDk+C80xAjwa5p+rBe/l5ONq9auvk/CcRDdheGPjrVyzfdJ9lzkfcMe6KaP1L4ig3nfX91cb7Ps0bf2obNPr/897Z6+lsN2e9AW14F7HOc/J5PTpj5t69PDLfAuhb6iDwz3RtMqW1p2vIASTIIccGzAMmNF8FqQBw23ReWatk5i0BHaPaTGpjOyrcpGXUgKoMGDsyHDrBxUmVKXJCnQYDCcBaB30QIGy7lC20dagsTakYwmJAHBAkLEicoUH1xZ/XzGApzHcAbDKYD9B8mkROqoNQprAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/46.png",
+    "width": 1280
+  }
+}

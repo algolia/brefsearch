@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Ça puait le mensonge. À tous les coups, il allait voir une meuf.",
+    "end": 54,
+    "index": 27,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=53s"
+  },
+  "thumbnail": {
+    "hash": "6f9b6cf773",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nB3Oa0/aUByA8b7o5ZzzP5eetvSihQnYbiqOsWwhFYKgjAACcomNqFEyx1K8vPXlluzNvrbRD/Dk9ygEYUCEYWJTum2JSb+/Xme3q/vm1+oiqT7Nh383P5e99rfKwcX56KzXUZBuYANxQm1KQ1ums3m2ecoengcnncbH8q/hj2X35PFydjfspdPRpH+qIAMBJoJQizGP016rlabXV1d349N2vZR/mJ69rG7+Pa83y0U6m0wH3TeBE+CEmgC+yWpxtF87rtRazepBOy7c97v/H3//yVbt+vfF+TidDBSGwWJCUmZT2HHt3cB3hbXvuZHrfAqc0efKy+U8uxgdlqO4GHWOkrfA5iKQZiD43pYbh1uHvryp5R0ATTWSuDxu1CvFUt4LHe6AQRXARDLxwZJfAqexm5eU+TLnMKGpWFWRJ0TBMi1qbudCRzhYJ8r7PfeFSEphZ69IDMJAYgN0DWkqYoSZwHUNudKzRY4gUABhi7Ic40m004wLSMeAKEUMG4ANZDIOCOuqJpllUgmIvgKE5z/QDVx2XgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/27.png",
+    "width": 1920
+  }
+}

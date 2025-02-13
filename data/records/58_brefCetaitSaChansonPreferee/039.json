@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Tu vois ?",
+    "end": 40,
+    "index": 12,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=39s"
+  },
+  "thumbnail": {
+    "hash": "9f47d3bad5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nAXBW2+TUAAAYBK1tqUOW2sZZbRAS7kdzuFwOTcKhcJgt0zNjFn26IPxDyya+Of9PsmzTA7D1PPSADiON5IV9+AbliMof364I6EHTGOrrlbzhSJfTCcziSbolKc1K27r5qk+Jz7Q1/rWuLoR9PXlpcNJyxKRxRQGsWNZ2qXk2NbBcTHGhRAI5SDCu7270dXAtIULqwCdS1ZWYjjzoTnSNJOKjA5t9+W+z7MkwgTH2PdDZbl9+P6r7YaSUdcJdd3sa34qjnlOpK5ufjw9fr2/7tqOsmNdiBjRNxfhz9+v//7+ASGSFVVZqBmOBRMxQtLtdTu0Vduc7/qeEDE0te8DaWqPP2wevz1T3kxmC3mmzBefIxBhCKVKUJLTrusrwWMYHzntSq6tN2/Hymg6Vz6t308/rlbazrSXSxXDSAp9nxIqGCcYsZzQLL85lQxFpmHIyvzdZDYay97ejYPI2NjAO0ggjCAACYI8TeuCIYgIglWGWZ67vqtdauaVAV3/sHMscxfsrf+f7U6UFNk/kwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/12.png",
+    "width": 1920
+  }
+}

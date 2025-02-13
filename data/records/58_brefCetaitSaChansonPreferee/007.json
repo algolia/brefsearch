@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Bon, tu la montres à personne.",
+    "end": 9,
+    "index": 2,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=7s"
+  },
+  "thumbnail": {
+    "hash": "7c996b9d46",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nBXB2W/ScAAA4CZetPSgv94XvU8GllIm6wVtKRs73OFiFI2g7oE4oyGZUaPGBx/8t43fB5EUxfC8rOrBIMzK+vDs/LKq6/owmqR+EKia2dUMjhdomgGAUmQJCoLAdmzLtizbkjXd7Q3q5igvm71wxAmSrJuiarCSwggiSbM0w0JRNCxnxcXF01lV2kE/TIvxtLrebNe3d8tnK3cQt3AK7dAdigUMSwIa2t8fL5qqmE4Nx+/aXpklkqzGRfN6u/v08+/mw13geBig77dQGMFacBvKksnpyVFvr4/gJK/ommrgBMAAzYrKKJ1N8joMQ8W0aJbDcLLdxqA8L+bzal6XjuvKuonggKRYGAcoYBECcF1VsBxFM45Plml64Dg2NE6ys6vr56tX86aRFBXFO22CuvcIeQijDxBCojmV43zfqcppniXxaAiVi+Xb7cfd91+fv/5YnJ5Hcex5nqIoBEEynEDAWFeUHof9aDjoBV7g2tBqc/Ny/X59s73dffn2+8+LN++eHCR5nkWjyPc9XhANQ3dt0/nPdl3rH6lITVXxmoDZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/02.png",
+    "width": 1920
+  }
+}

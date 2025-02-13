@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "La lumière s'est éteinte.",
+    "end": 31,
+    "index": 15,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=29s"
+  },
+  "thumbnail": {
+    "hash": "abd2227bce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABe0lEQVR4nBXKu27bMBQAUAE2H5e8JEW9JT/EWLYly1FkRYmdBq2BOEEKdMiSoUCXAl37BZ37Df3fItsZjlfGPgJPrNks8mG7euzbU9d86vePQ/fyMH77fHzomrqcFXGQBn6gpCcFUxKUhEUa3azLu6bq1u567brN1dhUp/3mflc9X29D5EoKTqmXaFCCSwGBwUUarmaJy2NXJNUs27t5VcRtEZyaermoOGcWpZco7iLMLFotjRKBwdjq2Joyi9p5Ns+SYTifv/76/vvfeP9U5rkHjGnJIyMig5GRoZGBwdCoyOrU4LFpnp5/vLz/efv593B8TcLIW1p0oUqNCJQIFVgUPgpfSaulVVgl4eVwOH95u1zes8JpIN5kMiWEoABrUKPQSigEAMYYFcABuAB+tVyl1qfTyWQ69QghnHPEjyWFBPiwVlopDQCUMkoo48BAUkoJIZ6SGIfRLC/KeVlXdb1uul03dLd3N+PY3R7avt/17Xbv5i5LUuv7/wG59CvkZ4Zx3QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/15.png",
+    "width": 1920
+  }
+}

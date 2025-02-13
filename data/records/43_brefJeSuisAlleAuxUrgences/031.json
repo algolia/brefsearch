@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Il était bourré parce qu'il arrêtait pas de répéter.",
+    "end": 33,
+    "index": 18,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=31s"
+  },
+  "thumbnail": {
+    "hash": "cd853a1fe8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFJZX1BZXk5XXlJcY1hjalVhZn6Fic/O0YaVpDhrmFVrhE9FQzovLU84NzQnJw4NDwBPUlRVV1hPV1tUZG5zf4ViX15UUVCLhIB4ipg7kcVOh7NyZGJHOTRbQ0FBLis2LSwAREZKRUJCNTU4Wmx0YmhtPzQuLCckGxYSGxoZMYOsS6DVbW53QDMsOy8rRTUxVURBAFJjc3OCjo+WnXWDiVlVViEbFxAQDxoWFRQLBz9GS1mLpWqDlEc7NiAdGkI3MlZFQABXXWeMkpyxuMCGiYs9NTA/MTAwJSREMzBUPjdWTEZteXhmc3I8PDohGxgyKidNQT0AR1BZb3V9trrBipCVRERKXklFPy8tHBYURTczXWNiXGprQEdGO0E/PkA8MC8uNi4rAGVxeYWQmbO7w5GhrCxcg2ZweVxdXSwtLERJSWBoZkNKSTE2NC8yLy0xMg8RFBYWFABmcHmNmaOlsryCl6lwkqmDj5VyfYNLV11GTU1MU1I2OTcsLSohIiASFBkEBQonLSEAYnF+e4ybfYiVdG9yeYSNVWZyKTpFP0lQWVlZQUdILzEuISAdHR0aFBcdGx4ZRU44nZaNeCyu+JEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/18.png",
+    "width": 1920
+  }
+}

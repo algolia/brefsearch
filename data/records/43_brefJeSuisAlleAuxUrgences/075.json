@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "je supportais ma léparastamol.",
+    "end": 77,
+    "index": 37,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=75s"
+  },
+  "thumbnail": {
+    "hash": "30969d991d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACoZHDIkJykfIldRVWJsc2ZvdWhxeW10epmJhZuFfnZgWiAaHz9FTmFpdFVbZ1JYZAApFxo8Ky86LTBcVVdyeH9xeX5xeYB3d3ueiH95ZWJnVVM4LTBEREtxeoZjbHhcZXEAHREWSjU5RTU4WFNVeYCGeX+FgIeOeHt/fWRcdl1Yf2toY1BPZ1ZaeYKNcXmFZ298ACYZHDYnKTwtLldSU4OKkHV6fldZX1lZXopxaoBiW5F1bWFNSXlzd4iQmXh+hm50fQBCLCpALi8mHBxaW1+KlZxtc3kvKy8vKzFiT0xnSkZmUEhRQDw/PEFQVF19g4t3fYYAOiwxPSgoTU1Oe4qRhJKbc32GOzU4LCswNjE0ZFJNMiknSjs5QjgxAAEHJCYuTVJaAFFbdURLZGl3hIqVmYeTmXqFjR8jKgQGETM/L1JUQTMqKU9FP0BHLxgdHQIDDQcIDwBEUGhYaYZIX4RXbIeKlJlqcXgQFB0ICRVEUTdugE5MUzc+Si87RywRExcNDhcNEBgAS1hxTFdwWGJ8Q1Z5Wm2LUlpmFRYeDxAbQ04zboJOW2xBWWhBQ00yCQoRDxAZDg8XMcmKeB/OpPAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/37.png",
+    "width": 1920
+  }
+}

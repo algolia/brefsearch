@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "super contentes de s'endetter 20 ans pour une machine à laver.",
+    "end": 43,
+    "index": 14,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=41s"
+  },
+  "thumbnail": {
+    "hash": "b81348509e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nCXNzU7UQAAA4D6MR5/AmwcvXk2M3iTREx7AiwmRwKIEAiREXCHxsBJIgyhR3F22u9t2Z9vp/HZmOtNOu7+a6EUfwyAP8OVz6BBJxBVRJjVW2cqMPLd+cbByUluMm59//fgzK2ezcj4pppWurCocOkQiYZIoza9BaaqPu0vbyw/Wl++1Ph38nv8d5+NxPqn0yCpbSOPgAeQxEVgompk0L4T53jw/fHv04egQhL15+bPSozKrrCoLmWueOUkQEYAY5AIrSVRGs6ZHjzfr2y/edDpwWkysKq0qc1ForhVVTtwHKIQYEAZ5ioTA8uw8fP701e1bd04bX6Z2qrkxaZ4xnTEtiXSAF8R9kAQQAUwiypP01PWfLKwtPFsNQq65liST5DqXRAqcOn6rC7xw2IviACYDjEBy5jZ2d+q11fVu+1tGzU0rsEiR4AlzupdXfrsfegPQG/43cG/z8cbK/drLu27jtSSWRITGjEHGE8YgdTpfW91Lz2/7Nybyo/f7S1trj3Y2Hl647xhUCCAECIkIiTCJ8D/SyjtyseaAdAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/14.png",
+    "width": 1920
+  }
+}

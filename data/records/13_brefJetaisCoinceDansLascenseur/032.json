@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'étais en train de me détendre.",
+    "end": 33,
+    "index": 17,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=32s"
+  },
+  "thumbnail": {
+    "hash": "734df23eb6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAoElEQVR4nI2QYWsDQQhEF+Kb0b3LXZtv/f9/NLgHoVASOrgizCpPh8CSEO8Vv+rBPzRNEhHdOMxVxofxp7WbCIRGgvkIRDN/7XWfaTH+To4VgmsWsJcfxzy3shn31Oa2e/srpLISGTnYrKN8ZFMRjJ+zHluW2FPH9BS1gmjoIEzM1HfpzAbvK7Wx3gJq3VZ+EaZ1TpdWw7Lenui19PUbeAJZdAn4izdqtwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Bref, on était en train de faire des trucs de couple quand ça a sonné à la porte.",
+    "end": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=1s"
+  },
+  "thumbnail": {
+    "hash": "7f99dd5608",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nBXNaWvaYAAA4EytFnV1UeOMZh6JuV2ONq+a+6iJrVrXAzxa2PzihoxdUEpXpGyCY0L7pexTKTvYHx17/sAD1at4PLoJJ5LVLBLZQFC4IJAsnsqopVwpCyMboUQ4gsSiLPJE5/AGVYFaohSGQnAi4UqCyLs7tCzyTRRrmsDqtgNPMyzQBE2z1+ma1DOdqUBAVLZicSKXG5h6oNt+s5XPVFKPsTovAUUzTU/VnOPRq7PpnK1W/w8ct83inFwuv9A11/Qn46kiAIkHbf/Icnqdg7Fh7ysCsE3fcLqm7UO2FfT6Y98NPLE+GhwORjMV7ALJdDpDzTtWvRMGtC1O8bltqiywuAiJRE0kaYVhDZbW68+3CDUjDxilyzAKiZM1gudl2zs4PZm86e9NdtgWVHiKlgsYXeNqFTINF1J4I94YFjtzdXxx9nJ2ebm4Xt8vb399vfn57cff2dsFhKJYLldMZ4vZPJ5GqWSeRlg3GH86Xz1crX9/uf1zvX5YfL+/WN7t909tZwCFQ9FIKPoICm/GkjQPWNlu7A6nH1bvF3fvPt/Mz1evPy6n8ytD3yPyFJYu/QOVMWEuK+Zh1QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/00.png",
+    "width": 1920
+  }
+}

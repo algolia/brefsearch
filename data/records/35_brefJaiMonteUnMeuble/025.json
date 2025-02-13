@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai essayé de fixer la planche B à la planche D avec la vis\nB5, mais ça marchait pas.",
+    "end": 28,
+    "index": 13,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=25s"
+  },
+  "thumbnail": {
+    "hash": "3f97771dc2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHVmZWlbVmJhaUtTXyozNjUoH0QlGmo+MI91cmt9mYWJmGVfYT86PHNmYndoY21eWwCGdXVlZGpEU2VPWmx8eIB9c3WKd3mbgoKel6CmpLS0r76vrL1mYGSEdG2Gd3F7a2YAiHp7Yml3SVhrWWN0rqKqtaq1uLC7uLC8ua25t6m3vK27xL7SnJiiiHhujX52h3VvAIZ7fVFfckhceFZjd6GWn52ToJ+Wo6Sbp62isamesbWoubOzy5Warot7cY5/d417dAB4cXhNYn5YdJ1SXnGdkpqbkJ2lm6epoK+xprevpLbAssGnrcqImLSPfnmMfHaEc2wAaGVuVGiFZ4ixQk9dmY+Xn5WgpJmln5SiqqCvsqq6xrnHlJ25hZ/Cgm9jdVxFaFA5AFxbYl92lWB7n1JMT6CGh6GRmJOIj4BzeYN4f6Scqs/AzoOHnHWUvIRvXHhWMnlbPABVWGVaY3RqWlxxRzpzTESJX12Jc3h/dXpxZGZuUU+KZGCieXORjaJ9eXp9XDt0WkIANDA0PCUXVzYpa0Y9c1BJellWemxye3F3ZllZSCoiXj02k2hjkXN1fX2Ji3JdgmtbWTfSKmF3iHwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/13.png",
+    "width": 1920
+  }
+}

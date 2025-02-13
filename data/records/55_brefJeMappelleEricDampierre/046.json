@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Merci, passez une excellente journée, au revoir.",
+    "end": 48,
+    "index": 25,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=46s"
+  },
+  "thumbnail": {
+    "hash": "277d1ac583",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXBC1OacAAA8H+XZ20qYiCgoIKoiOJjmEi+8oEcZVPKJHEacctHLm/Srj1ud1632yfYJ97vBzxI+AjGGb44nK3ieSkr1lrqICWUvi/Wb9uvP9fPG2sxHhokGQcHR+rFAHhRyhMkuaL86emVSovx9AeppjQbXeva+Lv7tn92NvcLtaW638FENKUbM6AODd20rSdn8fp2t3SmS8f8vP398uPFsteTuXbeu1SuBhd6ms32a8r4dg4UfTaYriePzmz7yzBX8/7dqNrbmff/9n+ch5V9a9oTyxzNuk0tTTAFPA7Kyk29P+2NHycj+5IWVIKtY7Reb891w9In+83uy8PyrHLuRyOREyrnD4NYppwSm/xpu6EZWrHRwehcONGQW4Y6+NjWjKvrTkNBCPp9IMQGyJw/BHA6SyYKwSiPMPlyUmwiVJLms0VZKpQ79Y4kyjgeK1VambiQ8WKcJwhYQQolij6cgSkuz+RFL1bJn3F8KccJ1dNqNJrwBghVu8mikcRxIOb2AwinDz3ogRs6RiI0zmYgXJa7OMnCMAZBKACHoUgyx5coly/k8lAu33+shWB4/xKVKAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/25.png",
+    "width": 1920
+  }
+}

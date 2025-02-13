@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Attendez. La fille m'a dit: Je suis là.",
+    "end": 88,
+    "index": 36,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=86s"
+  },
+  "thumbnail": {
+    "hash": "ccb012dbd9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACEVDjYbElcqFEgnGHBPNrudgcavlntoVkMmHqluWoRSQmQ7LTYiGk5BMUg3LiIXEwAuHxVDJBZsNhBxOQ+FWC/n4Nf//fOIfXRRLyOiaFNzRjdyRzdBKSAuHxghFhIfFREAPxYQVSYXiUQShEISeFM46+rr89Ovo410Ty8kr29YmVtKd0c4SS0kJhsXIxkVIRYSAGhOQ10qHIVDFYZNGZliLoteVKR0T6R6Wms9MLNzXKVoVW4+ND8mICMZFSQZFR0SEACloI9hNCdiNRFrQht9SxuFQDa0gV3guYeCXUiaZFKOX0x8TkBHLiUhFhMkGhYZEQ4AoqCKVy0nKBsWKCAaMh4Vi0xF0p1w6te7mXVqrXRhjmRTZEY5Z0A0MxcUGxIQGhIPAJmbglUtKCgcGiUeHEAvLYVeVs6yntnS0qqEfLp8a613aHhSRn9PQVImIRcODRQOCwCOlHhQKyYcEQ5dVlTJvrrPw8HKv8LXy8vJu7qzhXugaV2GW1F6WE1wQjYtHRkPCggAcnVhPx4cIhgWtqyr2dDO0MXDz8PB18vJ39fXxLOxkFpNpoB4mI+NdE5ARi4lDgoJeU6cPd43JfUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/36.png",
+    "width": 1920
+  }
+}

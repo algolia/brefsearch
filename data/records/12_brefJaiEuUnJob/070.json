@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "J'ai compris que j'étais la poubelle.",
+    "end": 71,
+    "index": 33,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=70s"
+  },
+  "thumbnail": {
+    "hash": "bdad510005",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEpLUFNSWFVUWWBfZmtqcnJxd3d1gGpqdVpGQXZUSl5GP2trc6qptZ2bqKyrtbGxuQB3domJiJ6QkKaXlqyXl6uTkqaTkqRjX2eHYVa1hHaTaFlWU1akorGlo7CtrLaoqLIAW1RYUU9VUlNbV1ljZmh0oJ+qtLGxeW9qY0Y+hV5UZ0Y4cGJlqqi8oZ+xo6GyoqCzAFZSXEtKVSsyQCotNEtMT6+uqrGuqIV2bXtYUIdhV39YSpKCi6SluKKgsqGfsaCesQB4eI9xc45RXYBvcox3eoynpaOsqKJ3cm1QNzRpQzh0YFyeobSinrCfnbCfnbCkorUAVFNjT1FkSExlXWF1Zmh3lpyjlKS0epOuRkZOPjg4an2RiZ25nKG1lpOlmJWpmparAFtdb1NWaldablRXalhgdYujvJiwx5Gsx0BHW09VZ4aivZCmvp6zypqitYaDkYuImAA0MTNGR0tOUVZWWl52jKWMpL6csMORrcZNQFNZVGaUr8aQp8CXrcSluMyMj5SAe3oAAAAAPj9FIyUmJC0ueJKvf5izlKvChZ62PxgodGZ6nLfOiqK8kai/mKzAm6SwnZmdEWrVJSM8ZGYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/33.png",
+    "width": 1920
+  }
+}

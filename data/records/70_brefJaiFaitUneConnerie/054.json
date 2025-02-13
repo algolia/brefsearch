@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Et là, j'ai découvert le poids de la culpabilité.",
+    "end": 56,
+    "index": 29,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=54s"
+  },
+  "thumbnail": {
+    "hash": "fb8aa1d8eb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeklEQVR4nD3N2W6bQABAUdQaGGZjBhjAYIYt0GAT8G7Xa13HjWrlIVHULE9VVVVV//8HqiZSpft6dRTpR7NmXIaR9U4fJemfXz/vzl9/vDxeBYHRAUA1MMAu44nn7drLTVMqSRDP20klU6EarYwX9eA4uno633xMswATqCMMUGDbw4t8OyiqXldJw2Q1XtRJnhJTCjcT9u/b0/1uPYniQrjUIBhgnznDi/w47k/LTFlN1192p3FxmZucQTyM5ffD5nm/bl3fRibQINTRq4Md05Kur1xvDzefTot6WPtdYbIeZ8+r+cNyLiDSVWhoEGrIeE1XDaBC5fPmcL3b70ezSRK7Jq263nlUN2UdetIyINLRfwTqiECqVHnZlnJWFk2aRbb9uF1+Oxwn/Wnle6Vlpsxk4J/zFtSR4nDRdUPBhUO5y5xlvxn0IklQZpIPnNUOHwjODaR1wNujpGGcyRwDjAC2qEMACTGKKJGUJJQUjKaMUYC190DvAKihvy0+MgbARBLeAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/29.png",
+    "width": 1920
+  }
+}

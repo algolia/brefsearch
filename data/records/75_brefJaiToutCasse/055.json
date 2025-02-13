@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Morla.",
+    "end": 59,
+    "index": 22,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=55s"
+  },
+  "thumbnail": {
+    "hash": "fd7415e365",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABe0lEQVR4nC3IW2+bMAAFYNuYJh0hKTbYsWMg3CGES1EbBFq0quvUdct6mdSnTnvYY5/2tr8/Zd2noyOdA9CRhhBECAGAIPy/9X/9Bh6jYQ0jpIHp1Dx9R40Z44RVHvWYw23XtgQ3qGXaFnFtltkskTJLwupszoA552dzyzBtRvjHrchdoZha2tKyFOcVX/VhOHblUOdt5NdMXILFnBkzx1owh8rFgkmuXOExqqRIV97eT75X5dNw/tgU+5V33TTPwJxRw8qV2/b1uFnHDmGEKkmXNvXnZJOnVxf1zab45oaHpHxp6wfgWMwT4TbthvH+1+HRJmrJ42i1yeL9z6v20Dh/noaXMejr91n+NREMCEI5L6S3q7rb14cvH6ryui2HorhI89s2+lQHr3f9j2H9+2533+9SQYCiJJBuGcZdEl1m0XnkV4HfpclYNcU6DqQfqmC79j+36fNQ7GIXYE3TNYQ1BCEERxBChLF+cjKZ6LqO8elkqmP89iOE/gLOzDJJJPhswgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/22.png",
+    "width": 1920
+  }
+}

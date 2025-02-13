@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Je ne connaissais pas de Xavier et je ne m'appelais pas Christophe,\nalors j'ai dit: Désolé, c'est une erreur.",
+    "end": 65,
+    "index": 37,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=62s"
+  },
+  "thumbnail": {
+    "hash": "2439b28021",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB3W6aUAAAYG6sTqqg6EE4IoKAB4pWBSlaoC0tarX+4rqudc5k6ZrYZpm92LKfLrtqsstmV3uF3u1B9k77PoyObvWKYNHWl313st9Y2voH33hloi9D59fV6K7rTo/cue+U8pzAFUeDLmZQZJDPPq4mf5++fl5NftyED+/DM2vnY6f1EJ7edr0wOF6HPRtJWqHg2iYWynAuM88/7/49P/35fnO/GG3GQVdHt771bdL5NDzxa/Wr4MDRlGImR0WTWADTY4Hp2+6sN91cX5455u/VfFirDitoE3jnVh2yGiBgepugKUjEkpjEsAafRyWVpksMFJuqYiMVAuip5WFZnO4Z48Oj9m710GruIk2XJYwGkKRoURQhzbKpTAEAS4ZEih7Udy40flZRli3j/u3Lx/XizV5lfTHAktE4EU9QqawuCJduw1Ol1/uqhzgT5s61YpvNqtnM9az/LnCPNaXTbmFkLA62cSpBMiBfK/CjZqOhlh29ZIrCoIJckavzBVNRRU7Os2U8AbEMjiuAjG/hkUgy/iJtKGWCyPBM7gBJQbXi69qJJtMEiOFMOi1EIsR//NVX/wxSZ7AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/37.png",
+    "width": 1920
+  }
+}

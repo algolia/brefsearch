@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Oui, parce qu'en fait, peu de temps après que je sois allé vivre chez elle,\nma copine m'a demandé: C'est qui elle ?",
+    "end": 58,
+    "index": 23,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=53s"
+  },
+  "thumbnail": {
+    "hash": "cd72fd1341",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nB3NbVPScAAA8L2pc9t/T23sIbaBOrQhjKfBYTuQnEiZ5TxB5TnkgowET0q9s3QMH17BtO46P0Ifs6t3v3c/SJG8uhY5ODw6vb795lyf39yd/cdXe7z2+g0BMAxGdC2cXTWDsUixUoIknvNzTCGfH00fRhPXcR/siWtP74eXo+CLoKlHrExKpGlFlqKpZLFaggSa4QlM9UvDi+93vx/H9z/tietM3YPPPU1Vezsbj6fdV9ElReCSibiRy0EsSXgwIODg/bu3P25vzh37zL66GDt7lXJAlourmXGnYr1MeAkspMzl1goQBQADEB4HybBabdYb7Xat1frQ6Zim6WPZWj7352qwu5KSSWxZnTcMA6JQxIMBFkPjwYVqo97tDz72+t3j4bZlkTCcXVJ/HTUTip+cgXVFjqkLEIMBBgc0CmuB+f1y+fD45FPvy+7WpqbMMQiSDswOtvMSRbIAhEUuJPOQBwc0QCl4RvHyhUy6vlfs13a2lmMiRXAoUl5JnZQ2ZxlGwLG4/3lGlf8Nz1AEPH0i0qQRWmwUsu2N3Lqu6eGoRBFWOnrZ2o/4RAEHxqKvuZ7+C0yAaczYl8vHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/23.png",
+    "width": 1920
+  }
+}

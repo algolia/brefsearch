@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Au-dessus de lui, il y avait des oiseaux en V.",
+    "end": 38,
+    "index": 17,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=37s"
+  },
+  "thumbnail": {
+    "hash": "0ad1078d46",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nBXN207aYAAA4D7llmWLN3sB77aFK8yyIDOZm0QHGKcDlMMKKBZqBSmHSstprW2p0L+Hn/49gyzbCyy+wPdh58lY5efX5uUZ28J55lqZNIHE6AqnzzggMqrYZym8dPSZyKdqxXTh5AtWzR7Q9dwDR5mPY8eUPaj41hyqgsDRa98AIhvZehXdehl9+zq7//Eyn8To+oU0ai0B71kL39ZCx9gEtj4XOZr899ctHu6nou8AT5bTsfdvXtyUz7BRp2YoQx+BlQNDxwwdcxPYlj7v3xJPgXUc21lMb6ExVKXutw/bjdIPTGCbSBODZxuuPCt04VOAkLnoUsTKW/bruCa1bZ1D2pi+yvXIAjZlSLjgPUsNbP158Jbr0HYdk+vdbULXR2AuMMiYQjCRf3c5uorRjYI86SBd8pHuW6qPtLVvIUXoXP1ygfIndALHlHqUMrrjBySFH2PV3GGnkReHraUqOObMNmc+AnINJxJ7fDkLH4bqqCvn09OL70QqXtyLYOfJ3XImcVM5ZdsVeUKr4sB8HEMgDNqEWDpRGoX7o/h94tP1biQTj2QOdv4DyllMT+SsFHYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/17.png",
+    "width": 1920
+  }
+}

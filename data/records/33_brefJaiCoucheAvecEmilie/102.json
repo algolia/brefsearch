@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "J'ai dit: Absolument. Pas.",
+    "end": 104,
+    "index": 43,
+    "start": 102,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=102s"
+  },
+  "thumbnail": {
+    "hash": "bbc803e743",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA8JC0U9P3hPOFUfAGMsC0oqGU01KV8uE1ctFNO4n1NDNisiGz88NUAxLSkaFh4VEQAXDxE0LC19UThfIgBaLRQ/KiM+KyVOMSRaMBfVvaU8MSg3LSZwZVZgRD1ZNC4gFhIAGBETHhkaaj8pXSICSyUTakQ5cEU6RiYaVjAY38ewRjwzNy4nal9TVj41cUA2NiQdABkSFBUREkQiFFogBVYkDXRKOoxaUF82JFcsE+bRu01DOzcuJn1wYks3LXNEN1c6MAAfGBgSDxE5HRJmKw5UJg1PMiZgOyxcR0NfQDHk0LxTSD42LSWEdWY4LCRxSzp/VkQAHBUXFBEUMxwUXTMhTTYuSC4oa0I2MCYmNCcnmYR7aVREOy4ib2VZJiQdSDAnbVZcABcQEhYRFCMXFGE5KmE9NkAoIV49MhkREBsQDVdDPltHOEAyJ3BjVUAvJ2hbZ2FcdgAUDxEWEBIZExNPMCg0HhomGBQqGxYcExIYDgxGNC9NQDguJx5SOS10ZHFuaoZPSGkAEQwOEQ0PFBASNiEcKhgUCAYHCgcHHxUSFw0MQDItUkhDQTk9e3OAc2+JQztWRUBht3hkD4JUUpQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/43.png",
+    "width": 1920
+  }
+}

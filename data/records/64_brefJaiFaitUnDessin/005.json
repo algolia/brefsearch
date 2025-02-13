@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Alors, je me suis dessiné en haut en train de faire un dessin.",
+    "end": 6,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=5s"
+  },
+  "thumbnail": {
+    "hash": "bbc478d805",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBTW+TYAAAYH6FiR48eTLxV+jBkz/Bm4kXE3/AMm/TuBiTjekMa+ZKaWHTdrQrbRiMj7aDF15ayjvKgFK+Su2H05N3nwejiY/n5N5lo6SLpwh0QkfNAjkLYRaOUh9EN1cItHWBERolltxnjnaxJoX3OhQyuokHlomTTr4H9ocilpe5HyE2GJHFVM18OIHCgGc45hCTWqQLhTyyfy+TTW761tc0kIbX4g0UVlk18SVknP3dzIsZuh0p/W4N08VG4pubRTSf3SLwtnv2BkjVAJmxPzHkL/7opXLxYhEP/qyLNLSgymJQZvPpaL0oHAO/W96jiftAPooDlEee0tnx4ENXf+Ka79bFrIjHtnaB9Tk6DeBqnvn2wb+7x/XyI2QwSeAONblVe4UGD+b+c3dI5jMvCy2rx2Ld09JY5xcJSoOJ3X8tt57C3glQRGRea8KnZuXZGOyHrvUrRi4UFa6C1cu41KYcnc+C8SoH4fgw8WigSlPXWeUSkL5tisV8CmytrXCVZhXHygc75xVcYEnt6tg1L+0+NVQJ7id1jO/1Olsavy21f9SIXb5B1E8+08T7/4mJQ/ly7ZnpAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/02.png",
+    "width": 1920
+  }
+}

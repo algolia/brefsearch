@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "J'ai lancé les dés. Carbone cable-argue ?",
+    "end": 51,
+    "index": 19,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=49s"
+  },
+  "thumbnail": {
+    "hash": "9957bd0a85",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhklEQVR4nB3Py27TQBiG4fH8c/BpHMfjs8dxHDtxHOdEWhpKGtqCSlWJBULKpgJxAbCjy6q9gd4CN8BVokZ6Fu/mW3yIYqJMs/TccRyshsmmSpdFvJs38zQ6TWQrXZ+wgDIHQGAsMEaB1Rs51iKRi0HybjrcTvJx5M0LdVGpp09vzvMwsEyDMgeDe4QG/qjLxk0Yt2l0NsnrSHq6vlbhvkyer5bnqVS27TJuU9YH4gEg1wxzv27UYjaYbpvRVGXStGaxX/fFTe6Pe9bEc2yum1wXhHkYEAWTEyEMqfx6XW26so778rAs3yv/OpOddDaJt84ipGGTcg8oAtApGJzYOhNC9zOZD6P48bo7yYL7rrhQ/l0VXVUKIcxfrxMEmANmGLNjGDYTu659vj3ZpkFi26uw92fXNoGnaWBQBhpGgOkRI684aHxVFg+fTz82g13bfH87/XE2y/q9NhTKNkzdQIAJAAE4boAhRH/dffj3+/D3283Ll8v7bbtfz34ebr9eLvaFquPoPzU/La1pT0DLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/19.png",
+    "width": 1920
+  }
+}

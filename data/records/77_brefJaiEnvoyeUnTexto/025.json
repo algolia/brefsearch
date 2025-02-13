@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Kheiron m'a envoyé un texto.",
+    "end": 26,
+    "index": 9,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=25s"
+  },
+  "thumbnail": {
+    "hash": "aa8d80b75c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABY0lEQVR4nFWRS2+CQBSF+f9rF7WJpNWmBRSsr6T2CVgBQVGrMWkVEGSYYWQG62PfoI1pk29xFjf33HsOo7abhipPR2Nn7vk+CMM4BBhERwAOQ+QHkTP3Zh8Ts6Oo7RZjG/oqAEnyHeOUpntCdwnZErrLNNmmm8NJg2jtLFy7pzPO3Ht968hK9/PL63QMwxhYg3HP6Gu6NRxOZblr9ceKokFEEKLuwmN8P5KkRi53wfEix1UEoXrFlu5qj43WkyjW8nmW56WuZqKYopiGYcxARKRqUxLrxeKtIFQ5rsIWri+LfL31KAjSTYkrl+8Tuo1ximIawYSBMGk0HySpUSgUWbZUEWumNXp5ljXdUlRd1/uj8Sy75+gAAGY8Z2n2bNMayUp3YE9AtE43B5oeCN2fMzhNQ0SyH2xDD5YrjFOS7tcks4aI/Oe4+zclg/nTg+v7AAAcweQMiPAqgO5imfXwrqrt1g+xbWWBX+7wggAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/09.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "On s'est envoyé des textos pour parler de gens qui étaient juste à côté de nous.",
+    "end": 20,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=17s"
+  },
+  "thumbnail": {
+    "hash": "a9f4d3ebbe",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nAXB2Y7SUBgA4L+n7aEUum90o6V0h4EWQTuEkc6whSouo8YwaiIm3hgzd0ZvfQGf2e8DkUb1VbTMo0hX7pfFpakDQ52F/r7MbhL3iaPuxsGxjBaBPZT4HssACXCqyuOieG7JP9/s/nw7bxblzOkNJf40z+vM/1hE+9R/W42b3E6kNiRC59fl83l7c23JP+6bf78fPxwPr/JwEzh3RdoUyWZgr0Lva12UKquQAI+b4u/3hzJOrkf5ulp9abbrLHxfpE0azAf9ueNFguJx0tTUljY/5Fqw86TTQHo98vZZVHj+ajoZ6ropKRh31K4w0XqZrAWcODb089PsUiXgYcJBsB0Yp5Ffe9bL+WzSdw/TNDVUR5TXfr+yreNsFJumK0plTwIHgQrwzBA+lcm7cvJwuFvn8W3srvr6ldXb5umLcb6MPbnLAZAEYOAAYUAhS+eKaHCCqygaL/Isx7W7pih6kqh1eIZiEIER0QICA0FQAJRIEG1EkQhrTBuAxogmoMWSWKBpBtEciQEwAA1A/QfHazt+234VZgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/07.png",
+    "width": 1280
+  }
+}

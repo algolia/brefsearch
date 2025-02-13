@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "J'ai voulu mettre du parfum. Baptiste a dit.",
+    "end": 10,
+    "index": 4,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=9s"
+  },
+  "thumbnail": {
+    "hash": "22bce54d1c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHlwcFdaTVthUGFnVpONjnBxaltjT1piT3+AfX9sbV45MVo5OCscGzInJlJHR1lMUwCFe3lfY1FgZ1Jla1eSi4tvcGdaY01cZFBvcGqHaWeLWFGAVFRBKiodFRQqHRo7MDEAkYSCbnBjbHJhbnNki4SEb29qYGhYW2FRZGNcimdkf1FQfFBRSS0tJRsZQzs9Ny0tAJ2AdNvMuN7UxLyll39kXoBrZnpmYWxZU3hoY4VmY4JOTYVYWU8wMicZGD00NDkvLgCfc2HesorpxJrPpIaZdWqKb2aQc2uVeW9oVlRDMTN1S0dNMzM4IyQXEBASEBARDw8AknBor4Z6uJCCtI+Dq46GmXVwhF5diHRwJB0hCgcMOCUmTDAwQissFRAUEQ8SEhASAH9lY5t9eKWHgaeKg5p/dqh8cHRNSywgIzAqLUY/QUA4OzcnKRkTFxIPExUSFhUSFgBXPjp4YF2ZfnmRdW6Ba2aTcl18XFMiFRk0L09uZ4JsZHMUFBoTEBUTEBQQDhIQDREAKBkXOC85ZE9OfmVgbVVOe1hDkmthMh8dNyc+EhNBLx4sKR0fEA4SDwwQDAkMDQoO9t+OTEpO7KsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/04.png",
+    "width": 1920
+  }
+}

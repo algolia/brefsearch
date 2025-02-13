@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "J'ai d'ailleurs tout le temps deux symptômes sur trois.",
+    "end": 16,
+    "index": 6,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=15s"
+  },
+  "thumbnail": {
+    "hash": "c61de342b2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nAXByU7bQAAAUP9wL711EwekipZNFeLQViRkoZQQmpg4dsbbeDbPeLzHY8dL+Je+p339+OXnxdViPNmtXr2VjnSdAcB9yGHAbIfsADQta/mynM5/fb88+/BZm/+4sf4uqGGmAc4gyj2YuX4K7AKiDIAconhrSWATw9zeT6bnF5pxP2WOKxGVENdxcpCyFryOIsV5I+NGxioMi1CkhFHgWC9r7d+790XdEtNlG8sU7TPc66S2wsYKmxVWr1htaJ1XXaXavFCMcm17erZv2mBtJkyytHHZHgqFIkXiGsc1ljWOm8Nh6NuhqmrBIs28vilL1XXHtjsOff/WD0PXH/s+TfZCFKos8yzXTbo2sOdRzwu0xacTTgX0OUExwSlCGecqL95oeECkwajdGu14kt6N5XwmZjNXe5o9OjsXBaHgRRzyhNh5xEpJqiRUCU4oYS5hHvU35vrheXQ70q6/XU1+jxd/noBpY9/hCAjqxwwK7DF/FwYWdnSwWa4eR3e3l+enJ/8BpFFAOyRrE7kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/06.png",
+    "width": 1920
+  }
+}

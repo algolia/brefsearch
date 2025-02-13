@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "J'ai voulu le quitter, mais on n'était pas ensemble.",
+    "end": 80,
+    "index": 32,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=77s"
+  },
+  "thumbnail": {
+    "hash": "933e1e128a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBbXOSAAAAYD5WN6/Oq3PLPPM6X5Zz2AWitoEsRVQQGIgpIi/i5hypG0vRk2LnS9tqXbe2L33ot/Y8gK4P+v2xZX2bTdeXy7tBz4z5PJVU9KtBnfJ7ZwpjWxeG1ukoutFq1FkaGI0c2145zpXr3i6Wv8v7SOTFEyS81aLQxUX3Yf3ldjk32oomllUmzeEgMJms5s4P9/LX1c1fkRND3sdB70bo+cZHMGSU4Ovx0WJ6LrEHchVRaEShYMC21/bYtQbW4MQkMnDg6aOk3wv6PAKy7TSLd/PzI0Vu0hmNzTZKKZXJAr0aJ5M4n0lU4n4iHky+fEaCIQZ83cHAPwPj3/Tsc736qYKoNCRTqV4dB05qB4d74Cm6Y+YSZDwAbXmEdIyHwwIUdhr08hD73i426A9lNNFmsse1fWA+anZYzMztPhhVHd0tRHzF6KYIR9R0VMnujPLgT4XsCiWdL3VYVK3AgGtJXR7XM9v3BmVTiJaNcW831XeB41SQib9qQ29W9ZxBps0qOhaJIYcDGof3JaIc89+0CkMCmpHJWY2cKJLb1Zs5eJhPXkt5rQD3aczVBBl7/x+KNoqV2WMT4wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/32.png",
+    "width": 1920
+  }
+}

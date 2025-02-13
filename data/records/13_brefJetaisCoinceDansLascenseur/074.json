@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Il m'a fait comprendre Il m'a fait comprendre qu'il vous l'a pourboire.",
+    "end": 75,
+    "index": 33,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=74s"
+  },
+  "thumbnail": {
+    "hash": "0712b19a29",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nB3LyW7TQAAAUJ9pY3s2z4zteDzjJHa8kKaqUUOJA0VVFiUElTSiLUhVVCqaA5AiDqmEQEJCcIBTxYklR+AL+A9+CIl3fxolwHdYULbr0kuUHyu/GVW34rAZVmIlAs+JAhlX5K1mY9QpFmczDUCdU+Rxy7O5cBzhurVApWGUhZHnupwxJbyaX95Ok2HRXj471yAsUQLLNnMch3Pbdb1qtZ4mG3maney1hVCBUsKm7c3Ng2737auFphtrBANGCUAAIgSBwSmJs41BK1+O71AMLEY5IzeybNoffHi91Nb1axgDjIFhliDQA1U5nF9+/vP39Pllw5d5MaAUM2bVAzXp964+vtcwKBFkQGgSgiKH7E/Pxk/ePbr41B6eyKToHl0IXxICuYUno+Hqy5WGsUGwqQM9lU4nEtfDsBame5OnO/1jGbfuPnxZi2KMTU7J4+nBz29fNYgNiExmof3t+HZSzZS323vQPVyotAUscb8/3grlmr7ucjafzX6vVv8DRrLs9vO0SOqDnc5ub3rv9I2f3Kx4/ihv5JEsAYSJ9eJ8/uv7j3+mNlK0UkRFAAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/33.png",
+    "width": 1920
+  }
+}

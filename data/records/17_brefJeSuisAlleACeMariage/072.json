@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Je me suis dit qu'ils ne perdaient pas de temps.",
+    "end": 73,
+    "index": 28,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=72s"
+  },
+  "thumbnail": {
+    "hash": "abe02c5ddf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNwURPxNVTMjfSPNFMMM1XSkRXN8HWYnBlR72+dZKOjIMxnqyyaYimfaqVQZK9Q6qHJ4Kcv7aoq7KkhGqQnGWSkoCktUh7iXhnk2hHj3xDm6aaraCAjmGajnO2gWu+p0RpqzBBqruqtLe6nIxGgKxFhIu+up1Ae6JLpbNYQ5lbuaZnvaWmkIBNuopjvqNbkq9MTa80QZCDrpyHsrsjtpyUaYiid7mjUHe/fGOTcFOrWF+VWG+Roo23qZe5Y4ATWkOjE4KkqGGGpURQfEmaq4KcpHGGiHG6pG2mqHW9pXOhj72OiIymk5mxgWuCk1uyn15vsxuCiwF1TkLJp/57ytDBPJV4fdWFLRZE4R8sSH9ckB0N3bVkZASEbFalCZ41mf73eNA8GL3XhaCfd6qL4OCd9b0VuDyW+QDdPGx1VTwMlH+/YhKQKD23paGu9OEvlWi+t/jR3BldVQXcVAWdpVk8Fjghnu/rqjrrZZ+w8UhzsI4IbThZ375vXN3N6fUuWp1WBpURnvAODnji7mQx7hJNFV+ukjXvuHjz1urZva1TWpKLapf4FG8sa1q5cun/+gv1z52zprmqoivIAAFUWgoP7h7JxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/28.png",
+    "width": 1920
+  }
+}

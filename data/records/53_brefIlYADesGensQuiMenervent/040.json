@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Vas-y, je t'en prie, c'est quoi ton histoire ?",
+    "end": 42,
+    "index": 17,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=40s"
+  },
+  "thumbnail": {
+    "hash": "8e3240c75b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nB2Qy27TQABFLSX2ODh+tEBo3KSlTe20aRLHnvGM7RmPX4kdK00UBJUQSKBKLECIBQixYQE7FiDxA3wAn4nM7myOju4VZnO88CjEyfjMOtH16bFJrdPwsQntKxKtAloFdIVI4mHuQjqdYWHhRsjnOEhHx6dHqjEzj6rJ+a07fpeikucs21JeB7QkYQ5J4rih4EGGSRoEmWUO+pqxGA5eYOf70/Xv92+WxU1S7Hh20ziswmHuISYgn4dREUb59fCEj86ZdfHt+ZM/nz/8uHtdl3te7NJil/zvEFpAzAUfJ4xXUZgN7veq8fiO4S/7+u/XTz9f3m7yDcu2ab6N000UV4QuEUkaAfrcGk0N5bBv9PbI/bgtf7169rauCFszXkfxOozXQbTyw8L1uTAc2prak0StA/SOfPDooI9GNrucXJ/Z9iVs5tKK0BKHS4gzx4sESVS7ygO1+1AGWgcYABhAMlptXWxrQNJN8wLhHPqp56eOFze3SqIqA0O5dwgkDUiaDAwZ6A2LXbGltFuKbbvzeTSdkasJsmznH9Q4UzE4S480AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/17.png",
+    "width": 1920
+  }
+}

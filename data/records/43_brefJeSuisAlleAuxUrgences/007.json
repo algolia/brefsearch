@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Je l'ai dit sur Facebook. Baptiste m'a dit: Lol.",
+    "end": 9,
+    "index": 6,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=7s"
+  },
+  "thumbnail": {
+    "hash": "bda09441bf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nE2NS1PaUABGb+4N90USKUnI45KnIQXiEGsq0EKamipFoI+ROq0LZ7TTTV049Qe48o93qJvOnDmr78wHCMBnk9HlxzdfqsLmmsvVVRGfv06Wxf5s6GeBSD0hTL2raxwRAgmgAK/L4ue2vt7Mg5YuMP/zY/b722R56OWR8CwrdF3P0B1VVRDjiAIM5Iv6+OFmffu5itqGhejT3enjr3k5EMPIF6bpmFYWBt4LXUWMywzovL2av7q7WlycjGPdjHirju3zcpBlw6yXBx0n8bvvjg8Sx9UgY4gBTDTK91SlralthbeaRN33vYN62p/Mvl/er8sPqbD7/SD13Cb89yBBBiADgAJAgLQzYVo4GvSOiu32/lO16lqG64vAdwhuNmQGIOL/AyTK2V49nWXD5PT95mu18mzTcO046lLcRGgXsGcaWIGIyTJtYCVPst4gzMejcjzP4rRjdHzbghKGkAAkU4Qo2k35cylBFlmdOPSP8nRxVlcnm7fT6mWcMN6CUuMv5DEzffkbsX8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/06.png",
+    "width": 1920
+  }
+}

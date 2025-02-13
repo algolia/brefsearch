@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "En y réfléchissant, j'ai compris qu'il jouait depuis le début.",
+    "end": 74,
+    "index": 32,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=69s"
+  },
+  "thumbnail": {
+    "hash": "1f607baa2d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nAXBW2/SUAAA4C7RXk7vPS2ll3Pa0svplbUgUApsHTAgysNYsmimJhrnk8le/SHGP+Qv8/uokQ73k+tzO9mO00NDTrPs227++6FdL+yy0qJY8gORRIqvKwrg6DdvqdwePu9uXj5sj03+uKoP8+hX3/x7/XRZj0glpkQNAiUPYWxCV5E5mqEum+7zYTvPol2dPq6qu4X/2td/L/37OR5XOgl1jKRFaXcRsiRRYBnqslxMUyJdXfV5eluucq9pPXSKvDoMygwmoRqF6irHlWVAHogsS+GBGTroSEYzb5I6m8xpdiScIstRizKIQ18uwsFzm8+woQJO4QDF0KwmS+e29Y3px3ftn6fzj/2hdBMEi3gQJ0P9tvC/d+kp81xZVABHyTwfG1qJphVuj7G/xnFslQgSSw58PSHuYJnjn5v6PsFDgVc4lmJpujANFZg8q0IRGgKUOFsXHFc1dDGAspba2rWpIhE4kiCxDKUDcFNGmWvKnDh2nQ5bY5zuJ8uvp7t1UX3pmpe+QQKwBA5yDE/T/wHI00A1Vzf9awAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/32.png",
+    "width": 1920
+  }
+}

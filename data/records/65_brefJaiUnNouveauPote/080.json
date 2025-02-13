@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Il m'a regardé. Bref.",
+    "end": 82,
+    "index": 35,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=80s"
+  },
+  "thumbnail": {
+    "hash": "8df5661f3e",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nBXCeW/SYBwA4F8PSo+3LW2hYOnF0WMrJbQdgxXoFEQyxgYbW6aRiYsuxkzJ1Bn/02/gZzY+eUC2/UrQLRgeAF1sHbmDE0uru1EWvn3Yv/0avH9sbb+F97/CD0/B9nH/dgdsLRS8bk42AVjW2NOdjoSUsmq4/RnTSOrdl1fLtW77yI4FO0JGCKLqlu0eQRYAaJJVc1wJA3zkhePhmeqMVldffr95t8jmzcPrZnddixag6J2qP8VIgcLZm1b//sXpZTYZB/FoeNNon54vH9b9wXx6PVj+fL76Hk+2kDMdsh7QSnXrtv8eDv8EyV3vGHmRPn6t2AftdnaWZtnBUSd5pbup6vSgmc69yfoiSDaqfqdZT7a7qRjO9CL8+EM290plx2l0pFKNpWXK8sTZAiiqwDBKzCurgvpJq+2s5udnVr+R+PEM8eWCYoqSIRdtmlGKenC83gEQiIB8iqQTXp4ieVPUNopWowQgOILkc7TE8RWKljGcxXBEEBxwYtUU1EGei3AmzaMlr6yEkk/xBClgGIdhHJkTMQIBxv0P1D+UH0NiS7JJIwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/35.png",
+    "width": 1280
+  }
+}

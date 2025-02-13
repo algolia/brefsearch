@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Ça faisait: J'ai déjà mangé. Donc, un peu autoritaire.",
+    "end": 90,
+    "index": 43,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=89s"
+  },
+  "thumbnail": {
+    "hash": "3cd09e8ff8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nC3P30siURQH8Pv/+bD1LzRpPfjoVE6oO1osGUYkFIGoO+yyYs2wLoIPvjbRD6ckKCUGoqJc7tzJxR2dOXfmepfRPY+HD9/vOSiTlr9/+7G3t7+xkcxkPpfLFU3Tstlcs9l8eOjl87uynNW0n4dHx7nctrC0jKJCtNd7LBQKoihKkrS1vbW+viaKYq1WMwxjU0rGYlFpU7q6ui6XqyuxVYQx4ZwzxoIggNk4jsM5xxhTzz3v3uvXN85oBACj0d/nlzf0taooitJutxVFqdfrqqo2Go1Wq/VlJ393qf+y+A0BzqdA6SzRR8ViUZblRCIRiUTS6XQqlRIEIR6Pf1pYrBweFDvvHezxsJtSSj0PECE2IcQ0zX6/jzG2bbtUKqmqOhj8fn15NgeWQwM/xJT61HU9NLT/MMam0ynnPAgCxpjrugAwf4wFvv+fU9/3LesDGZ1bjG134s1bAWBOAMINhC6k4FHL+jA6XXR6oulnF6b5ZJHh2JmAO5PzTAiPHo8nhAxN80nXL05PtH9yRVgsX3kNNQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/43.png",
+    "width": 1920
+  }
+}

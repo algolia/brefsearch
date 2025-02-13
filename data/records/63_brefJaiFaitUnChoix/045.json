@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Ce n'est pas parce que tu l'as redoublée trois fois que tu peux la ramener.",
+    "end": 49,
+    "index": 19,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=45s"
+  },
+  "thumbnail": {
+    "hash": "e36e0a0328",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB7VPScAAA4H2vjIKU1zV1mk5kso3FCtgLjI3x9tug2AZj6Jlt+YKAgFd6RF0XdNVJH6rzk9df2vNA6+EwjW1T2A4d3S1wgqmqaZIuM3ttmXtVyOtCpsMxrdzL1yInELGnD+5ByPLy2soKubFFwIhIUVat3lK1/smpKclGsfS+1/tglGf7Nbecmw7ebfr9EBoMwT4ftbZOhuB0IGwD0JHzwxY4FHI2qM3H5wvX/O60+6p0M7lI7MWhgMdDrK6yOE6iaBpBrILyVteNJNFgMybQPjnGXde6Pduf2eqvq26jUoQQn/fFJirF4grL2029qWlHlv35+uNoMBqWlC+Au9bEH7bmZBOL8VH3jQ3thIIcHgMJKhONgyTTLhXP3f7iz79bS/8Ne78937JS+EBhShg8OQCz4w4UjUSkFFtVSqZSnsfJE1C/nMxvzOZfxDcMeA8J3OETfYU5ExMXem7a1qBdOFKRlJbRkrJy7Fmsxos/K8piIzjyLRlL91NMtlrVe2p+XM24gJ8WBQgL+XM0XZcLBIY/evikTFJ3fPIrhlqPPeY2enVgXjruqSofy0yDpads8j/dcX3Mx/LcJAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/19.png",
+    "width": 1920
+  }
+}

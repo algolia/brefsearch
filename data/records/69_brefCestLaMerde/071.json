@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Le matin, mes questions étaient parties, mes sentiments étaient revenus.",
+    "end": 75,
+    "index": 29,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=71s"
+  },
+  "thumbnail": {
+    "hash": "a3eb76b453",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nAXBS3OaQAAAYA6CiK6wsO9dYGFBUKgak2pibbSxpDFO0zxmOtNeOz10pqf+/0O/zwqGnoJwmcaVYByGaDQeu4MEwjKEcOCO3T7o94HrIgDwCHiOY/neMAKg5myuRM1YK0TBxTKJtzrJCVeIJlQaERc8phBRGFkh8P3BQEeRIbhifCbEblJOhdgXejNdbLYvj4fH4/W+rS4wSigWFoFhMBwZgg2jmpCJjDVCBcG7Qt839ent383hR7c/n4/PaVwrWVnIDxSmV5PJujQyhDII4ig8tLO368vv3Zfzx677+me9Op7vvtXFohCpxcNIEzrT2dKYnItW8g+r20/r3bYy3c3t59Ovp+ffD69/VYQVVRwxC3qeDGEphOH8XZpcpvFmuqjTfGHyNsv3q93p7unh9DMCvqKcI2plhCQYCQg1IYaQseN4Pdu1Hdu2nV7vIlFzyRslC5mkTCAfWjljHMJg6InALxmbKtnorM3MTOs6TbdNc//+ap6XFEY8RP4I/Ae2uThgD+x+UQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/29.png",
+    "width": 1920
+  }
+}

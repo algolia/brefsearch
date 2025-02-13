@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "J'ai reattendu 20 minutes. Un interne est arrivé.",
+    "end": 68,
+    "index": 33,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=66s"
+  },
+  "thumbnail": {
+    "hash": "f98371b631",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACo1Oy87QC00OVRJR09LSTdDR0VPU05WVjE0NS0vMTk7PEFHST1DRTY8Pi81NyovMQApLzEtNTg0MDFsVU1lUEl3eHl3fn8lJidIOzg+NDISERI5PT05QUA8QUJAREY/QUMAQmBxSmRyWk1LYkc/V0E5ysjHfH9/LSMhfFxTbVNNPionSD49eoCBn6Oko6erio+VADxqj0VyllhMTVw+NGBaWFRZWB0UFDw1NGNJQXxYT19EPFU+O7Gsrba4vJKTlouNkgAePFo/X3xjWlpPPjs6WHA2QEQ0JiM/QUNJS1NyUUleQTpILCaDcW6tsLSKjJCGiI0AEixJJktrTWFzSVlmME5oMC0vNywoU1VbKj9YTVBdd2trSEFEWExMoKariZKYe4KKADZFWR9BYRhBZSxUdSs4QxwQDCcoLio9VTE6TV9gZImWnmh0f3aBiqiwtI+bo2hzfgBdTUkrOksSLkokQl0eOFUSGSYXIzUqM0VDPD9ubnGCiI1ncXxgbn15gIZvdHpPVFwAJycvGSk6HCUxISEnJDBDJiUuJicxLycoJS0+UkhIXVpdJDpQHSw+MzQ5Uk5QVlVYHdmJvDins+kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/33.png",
+    "width": 1920
+  }
+}

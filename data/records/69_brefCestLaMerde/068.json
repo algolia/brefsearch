@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Ok, j'en suis.",
+    "end": 69,
+    "index": 26,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=68s"
+  },
+  "thumbnail": {
+    "hash": "72e2e57224",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJ6kqnZueSQLEz4WJjQSHxgLDjo1NmteYHVdXnhdXYhpZD8yMB8cGzw2N0pJT0lITQCor7eDfIgnDRRBFic5EyEUCAo0MTFaTU9wV1loT1BjS0llUExKMC5EODlNTFFOTVIAr7a+kI2ZKQ8XPxYmNhAeJxkbXUxMUURHTz5AW0RFU0BAhGliZEZCREVKTFFYUVBWALK5wJmYpCsSGjsUIjMOHFtISnFUVFQ6Om5XWn5gX31eXX5jXWM/O2s/Q15ESDg6RQC1vsahprEuFx40Dxw9GCZkTk48LS0pISNOOjxLMTJcQD5lTUdVNzFqHBh+JSJ4MDEAlX17oJimMx8mKwkVPBkna1dYRDEvMRESOR4fSjU3Tjc1OyklRCUhXxUUcRwbdyIgAG41K5xgcH5TXjoVIkorN3ZiYFkvK0YNCzEJCTkgIS0fHjQfHUkeHWcWFW8eHGYaGQBrNSiTWWehdYBxSFVcRkx0WlZZGRg2Cgk6CwlPFRVGNjpMMjVZGRllFxdkGhpcFxcAVyohcEFOTTA1SC0wXVBQXzw5QAkJLQkIRA4NWhAQSx4gWR0fVRAQXhgXVRQUURMSQCFzkWtboaEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/26.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Du coup, ça a changé beaucoup de choses dans ma vie.",
+    "end": 12,
+    "index": 3,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=10s"
+  },
+  "thumbnail": {
+    "hash": "e351158a43",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXBe1PSAAAA8H2R/ik64+ocijBxcyCDOaYC7gGEbiABR4A8rI5TnCjCfAADKl6DYUQND+G4vO76ev1+QCoUpDF7OnQ0qheli9NU5DgbCnoYRvNCo32r068a15f1oHb5Npdo5pNi5iNAE4QJNBKbWD6bus6frUHhpM/rYz1LL9+AOoPRCK+80xtAfZzBk5SdJywAQ3lI0n3Ih6LR4NEBjhjMWg2oA9esxI4Fs2M4CZm34C0b9/7QieMoZAIcLh/DRff8McxuBrWvl17pbGYHguDb207b7h7hpMh92kUz6AZkgVesMARsrBo2IRO6btrH4MiBF0FZz67bz/CRAOf3sTTl5v1smPMEqB3SCjssKDDp1mbKt/nw6/OvzkRuJeJXCMomis3pSJ71q2qrPGmVf1QF8VMszbEfKBKYKo2/j71/08HzuP0lc2I0US4+KdT7xfzlYij9GUmLh/unXkn9LgzuPldyMaBXvVK7lZkiLR7q5fNTrytQyMY7zWpJvJErhVn/Zj4Qn+TSY6c0lATpIg00rs/6kjhu19T23c9GoXl+LN/mfnelcasiVy7nSnWu1NR2Wb7PS4UTIRP+D8ipr6JK2DUCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/03.png",
+    "width": 1920
+  }
+}

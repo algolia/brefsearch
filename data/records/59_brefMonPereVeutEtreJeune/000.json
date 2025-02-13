@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "C'est l'heure. On divorce.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=0s"
+  },
+  "thumbnail": {
+    "hash": "cdd62c5f0f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nB2PW2+TYABAke8rJZW1Wy+hBToYdyoUxkVghVKYpWLFVrauTk2866JLF2NiYvwPPvp7TT3P5+EchOu0RLIdq+yZMAjFwSnTcTgyEGlfZGSyPVGGqS6kunhuCLkpLR0F4bvNUKJXjsx3m7HY9/m9vbDV3NXPOCYZO5s03CbeNnGvE/v11EQi+fhFoP65uzIFZiYPbssgt+QqsjLHlY59kZ1eprPbKv+6nu/W6c+LGaIyJHV0MOKobvNAIzsLQ8oNsbTVwtZOhoHMhV+K+E0xG7FDV2J/XT1CIIAAQICiLQxz6V4s0E+9cRVYicKpzAOWMrah+T716ug9vAZ3zzMEgzUM1nAM6xMNvd+ZaCONZjJDKSzJE1iHp19NT7+X6XXiJSp78yRGAIpCCGsAHjUIvFZXeXUVPny7iDZTszTkylf+/v70IY/uisncED22jwAA4J59mcZSny8e35TZbhn+eBZ9zLxvq/xl4l76+twQB436ySGB/D8AKAp6LaJK7HfrfJMnnjC06HY6VtOxsvL0pavLvUOKwMn7+D8xI0yevUH2XgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/00.png",
+    "width": 1920
+  }
+}

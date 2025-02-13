@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Elle a sorti ses cartes. Je raconte ma vie.",
+    "end": 13,
+    "index": 3,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=11s"
+  },
+  "thumbnail": {
+    "hash": "74ffe27a54",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nBXL227SYAAA4F6sR/r3BIUyO5vCMhoK3erK2OigtaO1ZaMcGh3jIJPhZMYuLp65QBOjyYwPMOOlL2r23X8QhyFpHJUpXElzJ4YS2+WzSnHqejM/eNlqzY+Pw9q+K/MH64zCkhLAoSSG4ghKoKgj8vNK4UCVrgLz2yiIu+7Hs9bAaQxrRlzJ9fO8mWV0noYAAt8HDNMz3G2vbhnqpXf4fRSthr2401xG7rWlHUm8KTDbSbDJkBCAYQRGaIJcp1OTwFyeesvoyepp+C8+X/WbX7vN94PTzSSXIrANiqQQDGJgdG0NBngiQyXz2YeHReVILXf2jLvr2e8Xg8+h9WM66uolXeB2M9wDkoAEHGNRDEfQAscONCUwtPOG+fdZ+89iupyNf076t9HjL87O4pE8LG1kSQLKUbjKkgUK289Lr06csbV745qfqqUPofO249yMw19vLmc78lDJ2CJbFWhITKBaCqgMYcjCc78xd+1Fz7/wvbjtX/WanrN39y6ebMthjrVFRk8DiEFgMYHKAN9igacVw2olqtdGtjVt2u3y1oWpvQ7qYUGwRLqcAhLA/wM50VqQTn+D1gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/03.png",
+    "width": 1920
+  }
+}

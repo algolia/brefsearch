@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Je me demandais si j'étais encore amoureux d'elle.",
+    "end": 38,
+    "index": 15,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=36s"
+  },
+  "thumbnail": {
+    "hash": "e90d94de95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH1+gnd1dpCOkJSSlVhOR01DOk5DP04/PFVJR11TUG1maHZ2fGxtcm1tcmRlaF1fYwCMi42CgISem56hoKJhV1BIPDVXQj13WFFkUk1YT05xaWp2dHloaW1TVlxkZWZjYWEAko2JjIuQpaKkqKWqYllSTD43YElHbFBOblxZYVVTamFhamVmYFROUElBYFhLalIiAI+Hg5GRlqajpauprWFYU1VFPW9TT29RToRtaWRYVmRaWFxUUmFNP4JeM1tCJXBYLQCFe3mVlZmmo6atrLBpX1pQQjpONzRdPzxvYFxjWVdkWldXTktTRD1sV0tyWD9tVjEAkHdyk5OYpqSlr62xSUNCIhwbRzk5U0I/Sz8/MCwvXVNSWlBNUUVAVElHTEhMPTk6AI5uZZCRlaekpk1MUAAAAgMCByggIzYsLhIPFAQECRkXHE5FRU1DQTo4PkY9Nzw2MgCDdXWSkpZyb3IGBQoQEBcYGB8NEBgJChENDRMQEBUIBw0sJy1KPTk7Li5ZPB5ZPiMAgV9XhoiNODY4AAABIiUvLTI9JSs5Jio1LDA6LC84CgkNFhUcQTMwOSokNCcjOiwntGGOvpMggv8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/15.png",
+    "width": 1920
+  }
+}

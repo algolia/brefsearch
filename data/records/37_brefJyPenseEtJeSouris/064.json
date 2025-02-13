@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "alimenté par de l'essence, et trouvé par Edwin Drake,\nachetée par mon père grâce à Henry Ford, la publicité et les cocaïnomans,",
+    "end": 69,
+    "index": 22,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=64s"
+  },
+  "thumbnail": {
+    "hash": "7a35616390",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKGakIN7c3t0ao+JgU1IRqKembWxq7i0rbm1r7q1sKSdmUdCP4J8cnVvZXx2bJeRhQDQy752cGV+d23Y08pva2jd2tbr6eXs6ubs6ubn5uHMysZlYFyZkohmX1RhWE6hmo0Ae3RqPzgxaGBZpqCbaGVh19XR1tPOzMnFysfDyMO+sKumUUtJT0hCKSMfHBYTHRcVABcSEBwXFUA4NUlCPUU/PKGalKafmaiinKehnK+qpKagmjkzMTIrKikkIR0YFgYDBAAeGRcZFhMpJCJGPzxEPTqKgnuakoyclI6jnZeemJGVjog7NTMxKykoJCEfGhgOCwwAMSonJB8dMy4rZmBcVlBNg3t2hX14npeRoJmSo52Vj4iBR0A8bmVhVUxJNS0pNS0pABIPDhQQDyMeHTYwLislIz43NEM9OkpDQElCP09KRkpDPychHjIsKSQeGxQRDxIQDgAKCAoLCQkXFRQYExJAOzrKxsO3srGyrKuxq6u9uri6trMzLy0mIiEXEhIVEREYFBMADw0NFBAQHhoYIh0aSENA0MvGiISBs66qurWxrKikzcrELiopHxkYHhkXHBcVHBgWrtWn1YxLtjUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/22.png",
+    "width": 1920
+  }
+}

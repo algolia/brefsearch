@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Quand je suis en mode survie, je regarde les tickets de jeux déjà grattés par\nterre en espérant qu'ils soient gagnants.",
+    "end": 9,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=5s"
+  },
+  "thumbnail": {
+    "hash": "bc25514b92",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBW1eaAAAAYH7FRjcUIy9lxm3pFmyTLqgTjq1pm5iXCiMZMhREQdAVS9GzXJ2d00sPO/3SfR/QEpXH++fZ5Em51i4asnSlNk5KklCvlyp0JMZg2KXQUFo9ozOqClflr01AUwaW7g57Y7PrmLqbzxWMz/xC+R6G1tFAAIVDmXTO6I6t3u0nlt//mAEc23fsiTPwXPuXf/dwWhSMQu7mrAwuw6sryDIYRFFaV52h5UtiRzxXgcppze7futbdyJ5KYhvDkhxJlCgagjZiEez1qzUE2ZavLXf4ezp5ns//AUJRUJrywBixhxwCR0AQeo+nMtRBIBiNb5Hroe1dku5pel//6d38nfkvQLfjdVUry/IgGIDWQjiWZA84nuXeEu+i4fguSeBo0htePC30xcx0rT7QadWyh/tLSxD7Ib6zGYY3kW/Mnp6Ok0gwkcA9o5x6kzLU4sO0OR1f/pm3AVNKs3QUBFfEY1Y+zhPkjpDLVuIIjW4wKerRUNq1piqemEre0r7c+21AqVHVAsoxsVaR4feSRIKgqCMahrP41lGa1apVS/4xVPud5rkm8eNB/T8Mq5Evr2g5cgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/02.png",
+    "width": 1920
+  }
+}

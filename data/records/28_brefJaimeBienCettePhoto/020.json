@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Si je faisais cette photo avec Marla, c'était pour rendre cette fille jalouse,\nce qui ne marchait absolument pas vu comme elle riait avec son beau black.",
+    "end": 25,
+    "index": 9,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=20s"
+  },
+  "thumbnail": {
+    "hash": "9a76059b96",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJlsTa59Wc+bds+5sNjHwdTBucKTc654VKt9YqZ2VGhGMDwmGzIfGDYhGo5nTlc9LQCmd1STZD7EjGPUuq3aysTezsnax7+6k3mcb1PJkmy5iml0YlwwHBUyHheJZVDCkG8AonJSa0cqn29FzrOk3s/J3M3F3M3H2crHrZaPwZqF0LSmyLu4UUA6KRYPTjMnuoprAIFXP2I+IYthO8ayqNvKwtfHwNfHwNDAvLuws7arrcS3tsCys2hYWCkWEDkiF3dSOABYOShOLxh6YVHJuLLPvbbSwbrLu7a9rq6pnaOypaevoaOqnaNqW1wkEQs3Ihg3JBkAQi0oQjQwp5OKx7Sty7m01MS9wLGuwbGxopaep5qgpJacqZ2jcWNlIxELLxsVKhwWAEw7Pp6JgrmlnLqnoc+8ts28t72urMOzsZ+Tm6WXnqGVm6iboHVoayoZESwbFBgODQBdTlCwm5G8ppu9qaLQvbTFs665qanBsK2ajpajlZugk5igk5lvZGsSDQsoGxIMCAkAcV5amoR8tZ+Tuqaeyrasv62osKGgvqunmIyTmo6UoJOXlYiOdmtxCQYICAUHCAYH/xTcF+RbD4MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/09.png",
+    "width": 1920
+  }
+}

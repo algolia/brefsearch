@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "On n'a qu'à lui demander.",
+    "end": 73,
+    "index": 27,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=71s"
+  },
+  "thumbnail": {
+    "hash": "aa580002e4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nBXOW2+aUAAAYKKco0dgNrX1goJwuF8EBcWBgjorohtrl7ZbmoyHtkm3pHFdlu1pe93D/vXiD/iSj3C4ZqJzOxdf+3gud+zOaWpwv7Igd6QTAGoA0AC8gtCT+1MN+xJPRIZ4GRjvnH4R6VtbiGX2Rza9j93MxhSEiAQ0hNUyGEl8PFADVSQWA/Xzwi0i7ftunA+lUGj+yaPf+fxl+7rF0LBE1quVGnkE66ERGhLxZmg8bfyvK/s5Hb0f4kRs/rzw/t2sHmdOAyFYIhkIKQAckU99e25JRIC5l33wZWl+nCg3Y2WrsYeV8/d6uZR5UCqh8rHEQOhiPh3b8UAl5nL3sHEfYyMzuSu3/8EVcrP3EFqpKVYBJIkycwTAk4Vs4iSOStw6wp0vFpGemdzeZO8jfSF1rCaTa619r9GlahQANbKMW+drz55ZClGIZ7c2dznCO5N7a3WfEutuom2M3pXWLtj6osGcUwiRoI5QaCpTXSI+9U4y3J7J3URq5674LR0/r71EYS/6Zwf+9KFNd1AFgQoNq74ihqb8H00ASEM9dd+0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/27.png",
+    "width": 1920
+  }
+}

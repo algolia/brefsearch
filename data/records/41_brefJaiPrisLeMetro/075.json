@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Puis, parfois, le wagon s'arrête au milieu de nulle part, alors on attend.",
+    "end": 79,
+    "index": 24,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=75s"
+  },
+  "thumbnail": {
+    "hash": "f38b7b7292",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nCXP20tTYQAA8PPSm6/RBcUHtcLmaGgxWeE0VtllLOfIULIZFAoDjUbOYQT10EMamNK02cU4sUrMNQSFgzvnbN/lfJfznW9nZw/WHxPWH/B7+CkcMYcISWsu9zzR8ETjoP4HlsH3tfWqZkjm6pq1vPhl8dU6w5IjplBAOGLCsiV1a8z1hCeou5TNbM1Pv3mcMvcNArD6cTu/onIESBUrVgVTQBhkwnIklTXmCiLW5tJfZ6dyT2fKe6WdzQXt14fdzbda6d0hQAb8b2zMOWK/6weZ9FwqOph/OJIevVvYWFVzyU/L4+pqclvNWhWsgHIVm4gCQgGp2+7Pb1v3xx4MR66OhUOpicmpieRG7rlWyu8V3+u7BWzCQ4AMiE0kqVP8UWw51tx6sjV2I556ND1+517TkaZLwX4CbBtLCjgyoAL2K8iAUAcNx3s5/6K9ue1se+eJo8fjN4cS0YSv7UzgtK/wWbUxg3oV6UDBJoY6QAYUlp2Zme3pDITPX7zc2x8JDSRuDYcCF4L+npXXS5I62MQEEIXTGvz3RjocjY2cO9U10BuOX4vdjkSv910J+rv9Hb5nT7IOk8wSnDh/AX4XBegYtvMJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/24.png",
+    "width": 1920
+  }
+}

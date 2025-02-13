@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Je connaissais son numéro par cœur. Maman ?",
+    "end": 14,
+    "index": 4,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=12s"
+  },
+  "thumbnail": {
+    "hash": "5cd7b35a02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AK2oqLq2t8XBwc3GxNbOy7qyr3d9eo9/aKuHapR1XFk8L0xCPYyCfY+EgGxjX1hPSwCUeG6ihXirlIq3rqrj3Nm+tbB+dWeNfGKmgWWmcFqrcl5HNC2Nf3iGfXZRT0xeVlQAeks0i1M3iGFOlo+O3NXSt6+qhGVKkWRFn3ldnWxZrXlmrnxroI2HaVtPbGNbd29vAIVXQJVeQ5FsW5qVldXPzb60rFdRT3BMO6N7XZptWJpjU590X6WOgpyRjJmOiZSKhwCKW0KZYESTbFuTjYzDvrupmI5OQkE9NTGTcVeqkIhnTUmKY1HXrp/c0di1q6yMg4AAbDspgkcyglhAb0o5gFdKcT4uZTsrTzgsj4F/18zavbO+zbvF49fk7+Xy9+73mJCQAIVfSo1kTI1wVXJIPVU0LIRkSnpdRUhHRKWfp8G5w7Gws8rF1tXL3OTb5+7k76qipgCafWOpiWi5lHONdGF/YlWpiXNKOCtAOzmDbGennqess721sbrOyNLGvsvOxNS3sLcAe1xHjm5UmXdZqIVjdVhBVj8rXD4ya0dBZj8zf3F1pqm0rqixt6yxpJyomYGFi3BqOK/gvWu8wd0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/04.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Non, parce qu'en fait, je digère pas bien les saucisses et...",
+    "end": 80,
+    "index": 30,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=77s"
+  },
+  "thumbnail": {
+    "hash": "ab1e952f42",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBW0/aUAAA4Mae09uhYIGDheJGW8utK0qxq4iSFip0OHAW44SZSTIYTF7cXDY1WVyW7GVZ5qPxcdvTHtwP2K/b9xG1QqZWkI0UViFwMPJXUmsiVhj2Ic0Gln7kVDqPjR1TlwUhQoIwoIhmKWOpUtPQ/KISlLSj9fzV0+1A1zKAmvv2WeAOG3a/bq3EojESLkKK2NJVx9AOHevEr816bruU7RYyoy0rn1BOO87VsH3W98adejGBlyAVp2hCFUVNxI+Wk8W0WM5IxbQSpkNyPFVcLtm5cjUnb2RlU32gCotJSGOKJgSGZhfIMKREjksibm9NL+XM5s5BTtJ2y2ac5SIULdAM5rh0KCShEMEzXBRxLISHeeWtuzrZNrrVqusFSkIZu3ZWxAmel2IxHInEEcKII5aiMQnjCIPGrc2bD7PA1N807EG7Oe/3pk8ao17H26wmhHgY8RyECAKCBYCn6L6zfvFy9+vs+cf66rVv/zwf/O5u/Do/fn+83697rYppF7IIABaQBLUAhl757tPsev769MXBu8Hen8+v7n9c3E2Cf9+nf79Nv0z2L0+e3V6Ohq0KQ5L/ATWwVDmoQdZaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/30.png",
+    "width": 1920
+  }
+}

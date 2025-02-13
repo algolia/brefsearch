@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Je vous laisse.",
+    "end": 127,
+    "index": 45,
+    "start": 125,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=125s"
+  },
+  "thumbnail": {
+    "hash": "1ffa0a2e21",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBTU/aYAAA4P6WXbZk2UEThflBJsHodjCRiCBNFSWmtSDL0BVaacF+t/SDFtryQrfSqQswhLmw6MHDstv+1Z4Halg+bQCq6VFyhxQtgjNI0Spc1FLwCVEX5JbDKfq1INc5geH4SoWEBPebCEaSPxN7E975LnjDEiWtLb9NxjdyyeQVK5sgFDWbFRVWkKhqFZLAnXnz2AyfGs5YAFN18Jg9xLDtdwOGNMs4Aufcu7kJbgVF4yWV5wVI/TJuj55pe4jRoMgGefprDsa0o/322SkoY4VMhmQUJxgruiU3DVlWIH0wde//sODhszapGNNP6uSy5ui5Aw3JuDiSz2TrjOKFPzTLaRq2quqQEc68+78c+FVg/CLTO28EyRNiPx67zqZoZHd1faVIML3bB7PTNSxXN2zIvPnpz/9JwVP+snVGORe0thiJLL18UXofQxIrW9ub/BUehoHlBZYLWrYL2cPfqj8jlfDwlCkRKprde/P61U4sWt1NbEYWyvDW3CtXyI+kqHf7YdvrQ53RM8n5Ox/20PPqMYqmE9G1xYXI8lJ8NYqnNgCNuDUkDafSKK63u14//A8OXNNWH8ArcwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/45.png",
+    "width": 1920
+  }
+}

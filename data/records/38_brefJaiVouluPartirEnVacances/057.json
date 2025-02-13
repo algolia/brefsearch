@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Brico 3000 ?",
+    "end": 58,
+    "index": 26,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=57s"
+  },
+  "thumbnail": {
+    "hash": "ffc27c47f6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE9MVltXYmRfbW9reXx5hpmVpailtNLP3+rm9eLe7NXR4Lu3yJuXqb66z7ezyaKesQBUUVx6d4acmqu/vc7c2uzh3u/Mydq+usmwrLugm6uWkaOTjqKEf5G2ssTW0ui6tssAmpmrzczh1NPnwb7Qqaa3l5Kign6NdXGAe3aHi4WXk42ep6Oxu7fC2NTf49/vzsrfAI2Mno2Lm4B8jHp2hXFsent2hn55iomEk6ejscC8x93a4u7r8e/s8uPg6N/c6djU5wBfW2dlYm96doWFgZCalqazr8DOy9vi3u7q5vTs6fTg3ebW0trZ1tzV0tvTz9vc2OoAeXaGmpqrvLrO0tDk2tfr3trt3Njq087fy8bVu7bCysbP5+Xr5uLp2tffzMjV19PjALKwxMfH3MvK38fE2cXC1snG2MrF2KOdrZ6Ypr+5xcK8x9zY4dbS297a5N7a6NDM2gCVk6Shn7OysMTKx9zOyt/U0OPDvs+0rr7LxtPc2OPm4+zn5O3r6PHk4ezU0N68uMYAh4OUl5SmnJqssa3CurbMw77S0s7g3trr49/u4+Dq4+Dq4N3o2NXhy8fUuLTBpJ+rHFs7jy0Qx/8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/26.png",
+    "width": 1920
+  }
+}

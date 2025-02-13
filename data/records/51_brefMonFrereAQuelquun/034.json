@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Pardon. Elle crie ouais.",
+    "end": 35,
+    "index": 16,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=34s"
+  },
+  "thumbnail": {
+    "hash": "5c773e4d0b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nBXLW2/SYACA4Wash+9roQd6Wgu0tYN+jKWFQlnBzZbRFgwbikQdZIcsDrMYlyWS7GJeqLvQeOHf8MY/abh58948mF3R/WpJFjhblV2zovPsm75/6qGR8yy2rYu4ez+N56H3NmyO/fqwiTBb5JFSbMhFR5VknuNpOqjZ493Kma0fKNJF0vv6LuvqclhSO7oy8RG2dLRV1+kbWoqMqwDdBmjWbpRlqVEU9jR5lQQ/FqMBMgyebexIr0MfEwFVF4VCgV323Me0M6mWPyZhSxVf6dKiZV310MNssJ5Gp34dKdye5WJbWzigIFdgAWTygOYBXEVtX1M8WVi2zMvQuRt1v8+j6b5V5xmZBhieI2gAGUjnN2EYgvi7yO6yow+Rvx6669S9ib2+pWW7JQUCAUJsO0dQJIAQkgRgIHOMjAkyb1+0/928fJq0f877v8/Hn9Lnx45dIHCaojaAwEkIYG4z4GHgHVaUz0fNX6n3OA7+nEXfpuF1FiWOWWZADsc3AN8mcZzkIH1g7JxUy4mhfjl045p5P8ue3g9PPDt1ax1dtNl8z9D+AzT4SjU6x4KRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/16.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Je lui avais dit que je Je t'aide à dormir chez Ben.",
+    "end": 45,
+    "index": 24,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=44s"
+  },
+  "thumbnail": {
+    "hash": "e682e92e7f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nBXKaU/aYAAA4Gb2eK+2by/tQd9e9ECgBReYNmDlkOHUZNGEHboPLGZo2Mb//7bs+fxwzPHjVhy6wag8G6R5YvtV3D782f98/vZj82jIVHgnQgGqiLi6Ni0zLmqFgcNS1j4fjPrtLHLcLvOfNpvD227/66UfRZCXgIgUSDzDbKqMK5Kidex14nw6qh3dLH1vu5o1Z8Pddvv37fVDr4d4gCSMRARFRADmrurZYrq8Xd4141pHeJKn3y8vJt1i+/x0eN2975wecQIQ/m8kYSgibj5p1rPV/fVNJwiIII5C9vViXDFvc7P6NJ9Z1KIAGxBjEYo8gCLmlpeL9fzj+mqROnZhW03RHgS+p8o91hpW9bAoU50WOj01qCsTwAOuSPKExZ554ijKw+T89+fbcRIZCOYsKeMsomqkKqmmdk2tsk0KCGfrVugGBBCK5abq7x/uX+5WmeMgQEwIbYxcmQSKnOnUpxrFlMtZmLEEiljigWc5X5bzx6Y+0SzhSMISthA+xsghxJWJhmRT0f8Bbpc9WM/GgOAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/24.png",
+    "width": 1920
+  }
+}

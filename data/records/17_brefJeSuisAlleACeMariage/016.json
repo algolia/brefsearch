@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Ensuite, ils ont fait des photos dans un parc.",
+    "end": 18,
+    "index": 8,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=16s"
+  },
+  "thumbnail": {
+    "hash": "2fc62fc349",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB7VPScAAA4H1TbAHbfj+2wTbGi0NhgnNzLynCYAQIbKCcsSFEL6BgZ1l5ZNF59YHuuuu66oN9qK/9nT0PUpByJIhy1KbApPKsr5HCzA26ZUjPmqWWkXNE0pPCThrmIsFRSf3UqyLTxwN0FQTWuBjBHXCr+VjQLSp/L0//vTu/ezPuFXb6En2cpfQEOW0Wu5qIjO0SvIfdX2HWMWKfXdF4Ymgqc9tceq3Pg85zp2LxaCsZeKSLV+1SbSuJ2JmQxkMWpyTSZzBrW7T/rKx+bJeWXuPHpH/RqVdT0M3S5xX9+6y36FpIcxOrZphtns/iyB7rU6O4o6S7stgRhVmt6Jra0TY7ULgXNeP3y+GfSw+56tdvL3qLmfd6MnKUhMahIkueWfs39fLTh6YuJA7TlCsxU0tZnjZ+jVrIt/ezL28nXxfzm+u5Icu4H2UgZ4nySX63rXoUjAMsmGboQ0n4cFS87RSQV43yz+snx7Uy7g8AjIAAhAFrRG09trfD2oDASRAiIR2PRIYHuZNdARlXjLnbFNfjwQBGk1QIABqEM9SDDVrmQBISOAlJiOOYH1UTkWqG+w8liGHZ/GN+vgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/08.png",
+    "width": 1920
+  }
+}

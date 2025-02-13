@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Marla avait sonné. Ma copine avait ouvert la porte.",
+    "end": 51,
+    "index": 21,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=49s"
+  },
+  "thumbnail": {
+    "hash": "640858942e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXB33OSAAAAYJ5qoTARSKfDTZFf+WtjngaLKWyAAiICorLBSly7anfd6lrdZa122/XSaw/d9cf2fYA/jwfKUZ8p9sq4XMH7ZGHUafmaNFM6CrXl7G3PulWNRAcVuIZBNJYCHD90DXVYJ3T6qVUrRuqRLQnr19Hfh29X88m5RMUSYzP4mM7UcIjKgoA3izxzIJM5o4oulVY4lEJd/nDmP1y//fX5+mbej0TSfZbzWKSJQxQKAsHi3LOMFzuYXs5eGEJiK8lIi03195ePf+6+rl8Ow07J57CAyzZxiMHTwOz0lTcyukS2T8DJUFzays3CeWPrt6v43/36+9KcHxRcOhNwSB1Ls3gaCBbxxND5/KaYT50p7eBEcET+0lJ/XiY/3iV3S3PB580KPNiFGARksRTg+uHU0tslrAo9drqNUBPble0LQ16ZyvREvLd6YTk3LqMqkWaRDQYFgdF4amvHzSLSQOFAqEf64fE+54q8K+4Hcvd9k7EheFUqnFI4tfmIRp4AhjXpCc/3MuCsTtpVYtxihuKB1uKcQ96W2gmxddugP9G7V+wOCW9UEfA/qGJmtGXlO+YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/21.png",
+    "width": 1920
+  }
+}

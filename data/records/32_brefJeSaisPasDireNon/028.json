@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Je donne à toutes les ONG qui viennent me demander, même celles\navec lesquelles je suis pas d'accord.",
+    "end": 31,
+    "index": 14,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=28s"
+  },
+  "thumbnail": {
+    "hash": "435b451f39",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACcZFS4eGTMiHDYmHjkoIDspITgoIDEgGxsPDB4SDxcNCywdFjUkGjAfFisbFCUXEgAtHhgzIhs4JRw6Jx47KR89KSAvGxYrGxZEKCE6HxkKBAQTDAo3JBo1IRkxHhYrGxMANSIbPCgfPSkgPCkfOSMXNB0RTCoig1lKiFVHTCYeDQYGHhENQCcYPygYPycYPCQUADYjHTAcFjwgDUcoDFU+LIJoW59xYZhgUVEpISsTEC8ZDEkrEk0tEk4tEEsqD0gpDgAeFRRCNziGc2mbiH+qnqCtjIWieWl5TUBOJiBIKhpRLg5ULxBRLhBPLA5MKQ1LKg4ARkJAycbLxb7Fxb3FxsDFl3l0dEQ6UTAoRC4sQCQYQCEQUC0QVzITXT4jXUAoVjkhAJaCgcnGzbWrr8G5vdPO1LWmqYNRSbKgonZrazkgHi8VD1AuEVs4GIN6c3VtaVlKRACXkZexrbS2rbO6sbbHwcbEvcOQfH54aGZVPzhkUk5KMiZVMhJcOhpbTERcVFBVSEUAiYaOnpuhqaSqt7K3vrq/jYOGhXh5blxZcV9biX2Aa1pQVTUTVzgZVEY+Yl9eV1NTjjSCkIwZEVIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/14.png",
+    "width": 1920
+  }
+}

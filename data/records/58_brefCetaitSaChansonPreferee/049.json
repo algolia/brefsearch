@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Ça, là, c'est la constellation de la petite cuillère.",
+    "end": 52,
+    "index": 17,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=49s"
+  },
+  "thumbnail": {
+    "hash": "9ebcfa8add",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEUlEQVR4nDWPyW7CQBBETe/LzNjYgB1CghCXHPL/3xeNIVKp1Yd6Vd0DAMLhJYIDITChEQVzEAVJVZvMlygf4/Kc19/hDQACMIIQGVO3IiiCIChJUZ0sztlu0+lnB4AQiFCYnDlZCpEDiOgR0ZCCpbE0y7XOzw5gz+aezcFSmEtvQGeuzIFo6ovqRFyz3YaXuwuVyUWKSLU8Rb1G+xQdAQzQzGYAZRnfAIERWj9JSozXtjzL/Ij2abmKL0ghOpV6Ja7/ADrugNmYx3uZ7jl9dyAulpuVzeLSjk/Pbdh/VWZnSdFicbTaHb5PjZPnmu22t20WyyCcZtVsdJ895yhnzYvkSaMv6kuWtYxfkVubH1nXP+BREDf2N5mRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/17.png",
+    "width": 1920
+  }
+}

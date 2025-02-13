@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Quand j'arrive, on me dit: Je vais la mettre à la cuisine.",
+    "end": 107,
+    "index": 39,
+    "start": 105,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=105s"
+  },
+  "thumbnail": {
+    "hash": "69a9c6a2c1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE5XZU5XZlhhcFtjc1ZfcFJcbVhgcXF7iT1CSyk0QTtMYDQ2QV9mdVZdbFVcalJYZwBUVWB+dXufiIa0op6lm5yUkJddXGQiKDdVcZJ8oMBFVWk1NUFka3xbYnFYYG9WXGsAjnp6lnp4n4B9vaSfuJqSvZ+YrI2LZks0WU41a5G3S1txJiQwYWZ3X2d1W2NxWl9vAI1xcYtwcKCGg8Cno7+mormemcChobiPbUwuBEZdeEdYbQ0KEVZba2JoeV1kc1pgbgB6X2FzV1luS0uNZ2OOZ2WJZmaZc3FjTFABAQocGyAWFx8QDhRWWmpiaHheZHNaYG8AYUlMZEtPfF5fpouJnoKAlW5tWT0+BQEECggKDgsOCQYKJSYvYmd4XmR1XWJyWV5tAFhBRVM7Plg5O39cWmxSUj0tMFxQU0ZDRxsZHwgFCwIBBkVGU2Vre11icVlebVlebQBNNjlONzpKMjRNNzcUDhELChCEfoSqrLKdoqx4fIVhX2VwZWxaYXJcYW9XXGxYXWsALSIlKhwfHBATCgYJAAAAPThAj46alpyrqbC7rbbBtKepem5zUFhpVlppVFloUFVjAy2fR2MaSuQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/39.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il m'a dit qu'il avait un truc plus important à faire.",
+    "end": 53,
+    "index": 26,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=51s"
+  },
+  "thumbnail": {
+    "hash": "76544bc300",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nBXLW2/SYAAA0CbQ9rv26x1sKaPWoRuFJUriwh5wMgasZMVKN+gYlwlJZdkgcclijBpfffEvG8774QiEEkQKxjolvrt3N5t+Xd/Pb6dR4+3DoPMnnY9aTTf/Ir4M4ste2G1xFCAKkIywRnDV3UtXq+326W42D+q1Zed03m1/X96MW830ehiHwfCizSERYBEqmOiU7FvmYjLZPGzX6f1J5WATBT8X47/f1r9Xk8dpcjXox8H5LlCAGCIqwY7K+q2z3kV8PRz16rXlWfPXbPzvefO8SJIovL36FAdtDgqAIcIQVjFyDdV/6dnuUdmr1D2n6TpPg+DHl8lj8vl9tRZ2z2+iPkchMiTJkGieSYeWeViwDwzWL1slTfYMddRsJO0P6TCseuVizn7n+xyDWJdYQZE9VT72HEfXTkr5yLexiDIZ0ZJZ40256noF3TKYLmTBLmiUlVTl436xc/Qai8iUcxAgPivwWZiTmKspCqKOaetMQyLmZEw1KumUHnvF08orAohCVSQiwEOBB0hEkIfZjGDKuibtwn/ntEsRHW9QRQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/26.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Je l'aurais mis par terre et ramené un groupe d'enfants pour le cuisiner.",
+    "end": 47,
+    "index": 17,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=45s"
+  },
+  "thumbnail": {
+    "hash": "43731f800b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBfXOScAAAYOr6b93p7BK1bdU8m1brdG2Z2UDxDWxDHALHQPkhLwKKP6U6WMOb1t22Vnd21yfom/Y8CEth/AkO+PbqAi4v3P2OnSBU3Ly1/R+LS/+rH2jmSFJUYIxM1wtWPxEML/VowgHdmyvv9wqKcJHir7si0CUu/OJ1aAbHCdW0bDi3Zp4XfkfQbJZs12Y6vwwmS9/4FvpFfgo+EVy1fDc1xsJZHE2ddpjRxB1alg0/I+l8vtGuj1Vu5qgzW/ahGjggFOm1BcIBF0oMGk+QFAXncGiNdNtBDj+WysdFodvSFLEv0H/W13eBe8WRf1393+XsRhNS8Tgv9Fw4saZQH4+Rg8Lr3d2dVgM3DeA6pqZr8mmjtvd03mn+GvIOhVePDmQwMKyRogJp0EfgeZem6k2y9SqXS6KJaCT2LP5IepefnNT6xHvx+O2HwhuaYYCqcALHCgIypElfFdl6Bd2MUeXi2oeFTLpZyJ5hR0Q+V3qZ3Upuv0jvUVSb5YWeKCO9SqmynxOqZU9iF5p8ayu1w8KDe/cjGxvRh5FY9PGTxNZ2cifzPINh1Q7L/wfuW4nOui6i+AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/17.png",
+    "width": 1920
+  }
+}

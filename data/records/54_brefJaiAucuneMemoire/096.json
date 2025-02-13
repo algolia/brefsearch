@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Mon prénom ou mon nom de famille.",
+    "end": 98,
+    "index": 37,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=96s"
+  },
+  "thumbnail": {
+    "hash": "25402695fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nAXB3Y6aQBgAUKzdBUF0hmGYb4CRf1CkzgICim6jG7NpsxdNWpP2pn2GvkUv+oZ9mp6j9BVLwMi49fKUB7blItRF7hC7GUUltwoHY01bqDNYoiYVdeor1yEsQ5S75O0oI5tswJYrkAJ2PpWCNYK2K+ybxlLV+k0wlKHSrdCYoa2wb22FNfUu0wgjbujXbXQqgiFxnzPy/Zi7C7Nb+2eZKEJ/f43xrfKubVk56L4NdkATgg6x28e85qYEo0k9yMa2Sp5lqHjqo3TMMYdTkVyEGAOeAsk9fpPpJxl9+fZ7GL9OdKZmn4v6cP7gKh1FBei5u9wDfGTB0Q9C2wKEhzx+25e//vw73P9O5nTK91C0QwnKSZBLYUdsNnjkTP0zBAHC1FwAsnY+65tLsRmmyJ065VIUMiPKa8Z+9mlk67XQB8pqxNbMSQBiipuYPwkkqDldwASHGuHrlamMvv1jF1QMZfBQO6gy7Yo4DXNe115GcRd7C2M+0dA7w36YzX3r8T9mEzlNsA6fjgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/37.png",
+    "width": 1920
+  }
+}

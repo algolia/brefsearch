@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Je ne voulais pas mourir, je suis allé aux urgences.",
+    "end": 19,
+    "index": 11,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=18s"
+  },
+  "thumbnail": {
+    "hash": "6846ea223e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nCWLXW+aUACGzwfCOSBisYCKFFAOFdQg0rMpwVpso8avZVuyZP1IluxiV7tsr/YHlvRHN7bJc/G+yfMAEYiLNPp6y7dFYlK1Las7Hm45K2I/tC2vaTKn1TH1jl6TsSRBCYigsi/S39/Lx23uarpNqvc38dN68u1uk7HLhqYHjt05b7Q1tYqJjE+BsC/Svw+bX8d5zzDPkfT6svv/fFgVh7vpzdj3bMtidtvWzlRMZYECCYhf5sm/P8enbc4M0xGrh5HzY5Xsy93hep2PGAsuZuMoaLZqmFJMgV4z+p57nQ3TiDkNs6XUJ1HAF1f884wn0/4gdPrd4TgMO20FvgdIUCCWASAAktOAlFTPetM0Ka/ifOhlAzeJ/EEQBg4RlYpAAcIyfgci+gESZH8yul3z/TKbl+PhbNDquizq6VodQgkgTBE+eVhQEKb4dIllNfmn+OduNRsFvm+qWt13/QvDhFAECBOEJYiIUPkICEDEM4w8i4/lZsmLZb7gWR51w4aqISi+ASgQNmjYBbZYAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/11.png",
+    "width": 1920
+  }
+}

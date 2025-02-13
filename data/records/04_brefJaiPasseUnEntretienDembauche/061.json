@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "Après, il a dit: Where are you from ? J'ai répondu: Yes.",
+    "end": 64,
+    "index": 22,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=61s"
+  },
+  "thumbnail": {
+    "hash": "4516a7e2f3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjEFQw4ZczklVQLogInFtTvLqjdtfEph399UvrCv2dnNil9PjkjDmk9AUVDfMKyhobGhi4ZY2VNC2tjI0rEyNTAn0cDXTLw33Kw3yiXezDPdx45I245Yw4pfQFFQxz80qaGhsYOKRNdPTtEjxdJ5bmTi7LywrwnFdXMrUkqy01uiwpjlVGn1vBGKIhK6cQpIFLykhM2TI3LKivIH3HpLY9U9r2zejZP63jwMT6ovhYFml9HkVjTmkDYUWTrJyC5sZ6Bi5xDU5pA2NTh6Ko4OklGQtrCtL8PdN8XBZXZYV6+zBJ6fMqGrNL6UlpWOYXFDXWVTNwSWpzSOqxiuuGurvWJ0XFujs5Gei5Gepn+rkZm9kzyxhyKxixS+sLKxqlp6c31FUycEoacojriMlqeNnZ+thYZAV4Jrs55fl7BdpZ8Esqccnpc8kZs0npCygYJCYm1laXM/BKqHDwC0nJq0QGhCpISTiaGoU4WnmYGznaOgpJyvCKiAtKKfNJawspGCYlJdXVlDPwCAlz8AvyCouHRaTbWdqIiQhzc3EqKKgEB8cLiEvyi0vwiYoJSkiJyyqaWVplpqcAAMTxcU2eT9DEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/22.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Merde. J'ai voulu l'appeler pour la prévenir.",
+    "end": 9,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=7s"
+  },
+  "thumbnail": {
+    "hash": "3116a67398",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIh3eJGAgpGDi5aOk6adopiTnI+StI+RsY2VspCaspOLnpOFlI2Cj4J3gHRrc4d6hwCJcWeMfHtzXmJzXWSUe4N8bYVWVohbWohRXYZUZo0/fLc9aaZDXpldY31oXmCFeIQAjn6Eh36IVzE0Sg8RQhMXRBMXTRQUUhISUg0MUxITYYyxY4+6SnGsUVluVExPe3B6AJmMm1lUY0spLzEBAC4FAy4EAjYEA0cGBU0EBj8MBZmEU6efoGxve2BYXoxwbaB3cwCbhoimkpVhPz8qAwAxDgswDgo5EAs9Ew1CFA5EGhB+XUSNbVqpgHDGnZTSoZS2gXUAl29aq4JpoHBXj1s/k19ElF9Dl2FDmWBCl10+nWVItIhxxJuL3rKo37KlypyPsX90AHhTPYNdRIthRZBjRJJlRZFkQ45hQJhpS7eOccefhc+fjeCxpNuvo8+hlb+Pg6h1awBCKx9ROS1XPjJcQzVhRjd0VkSTc17Fpo/exarbv6C7jXO9iXvLnZC8jYGse3GYZl0Aa19me252gXN2iXt+mYuMt6Sczbao0bmixKeItpNzonldl2hYpXVqonJplmZdiFpRYUe+4zVFAmUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/03.png",
+    "width": 1920
+  }
+}

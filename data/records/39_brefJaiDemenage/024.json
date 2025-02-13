@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "En plus, Keyvan allait emménager avec sa copine Maud.",
+    "end": 26,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=24s"
+  },
+  "thumbnail": {
+    "hash": "6263baf15a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXB/U8SYQAA4PstxokM7/O9972P9749OD4OEYi6kLgJBqQMd9lsMsQGQmlSRq5lLWszS2tra66tv7XnIXbb62cvDsKan2GosFr59+vy5v3Rj/no22w4e9KabAYPUpYlgEcF955j0JEIcfysd33+etTtlATQuVv4+/3T7/NXlyf7X1/2Z2Fr3KmvmSp9J1q01J6/Csgo8eFwMBv005ql0SyIJ8pu6k1/++pk/+PBzlFvY/I46GSTOLaYkVFjJYUWF4iw0XQUw5SwAkQDSnCJXvPcn/PxxbQ/3WqM2vWNQs6iGBOinLmscTxR8Qo6VHQoYQANKGFesCXp6vTwZj6ddpvDph/6pXLSLaaSaU2XWZ4opj2JRQ42TVExkYx5yMYT70Z7fz6fTrrN3Vr5oa37Xj5vOyZEDBkjMqbDJVgsyKogqQBhjo9HouOn3duLt8/bQeiXcrKSMWxLVDDHMeQCgWggcshSDFvWRRYYCAkU3a7dv/0yH7bqmyVvVdWKblYVkMRwFBkj2AQj8ciSdVNUMRA1AVbz2RVn+frseG+9OmgFO0Gtks2LLM8lqCUy9h/hNmEWT3mpKAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/11.png",
+    "width": 1920
+  }
+}

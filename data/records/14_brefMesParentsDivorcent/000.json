@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Bref, ça faisait 30 ans que mes parents étaient ensemble.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=0s"
+  },
+  "thumbnail": {
+    "hash": "502b85cfeb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAARElEQVR4nLXQUQoAIAwC0EHqVj+x+1+2AxRRUOCX8EA0p65ib4BAgadAYIvaoi6NzRULsmf2ZMHpJF5NcirkIf/50gYM6bcKWO15pn4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/00.png",
+    "width": 1920
+  }
+}

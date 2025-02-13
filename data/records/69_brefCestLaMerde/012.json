@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Autant que moi. Tant mieux.",
+    "end": 14,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=12s"
+  },
+  "thumbnail": {
+    "hash": "ed67dfd5e2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMklEQVR4nGOIjsl09wrXNbB2cPSysXWwtDa3c3DU1zdiZWHHRCzMbAzFxY3+QQmqWqbu7gH2js5WthZ29k6GhiYQFWysHOxsnMh6GFrqOuMikzS1DN09guwdnc2tzWztHIyMTdhYOaAaWDlQNKxfuKCnrt5QQ9fFzd/ewcXcytTU3EZHxwCigZWFnYONE64ZpGHdwvlzu/vCze3trZ3sQBpMvNwDrE2d2Fk5WJjZWFnZ2dE0NBSVlqbnuOobuts4Wlo7mFuahgWGeDn5sLNxgTTA1CGclBkVnRwWpSEuYm1s4e7krSGv6GDpaG/pycHODdGAhhiiPT3SI2Ncza1sLGwN9UzlRaR0VHS1NYzhBqPb4OPsmhwZE+HtZ29mrqtjpKKgpqdpoCyvwgZTgayBhZkNAHvWP7aW1M99AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/06.png",
+    "width": 1920
+  }
+}

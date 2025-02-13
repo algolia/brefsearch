@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "J'aimais bien sa façon de parler.",
+    "end": 83,
+    "index": 36,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=82s"
+  },
+  "thumbnail": {
+    "hash": "4d3562f31a",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXB+W/SUAAA4NcTetG+nrTQwgqUvroeFJaV2krHAMVFzXBbjGfmNTZj1GSJZNsv/ud+H1C8uBlPrUll5iv34NgxOpbhpJvL4PJ3vN3FN/cH33aj64f45iHa3kffd6DhxoIbiW4so0xQbQqvS6wYhBlEjxVUmI+m70/PhgMEBLMZznkTAdUZiUYADc8e5jVOxYnakb//tFj72TnK35Tzt3cX714WS7EVVRd/22gGXH8mW4ll+rflyW25vHqxyfv+JJlXz39k6+u0PF9E8TxfdZOV1R9rogoo12843odBeBckf7rel3DC9BE1TMS0NINiP37y+mgxjVIUTntumPY80MvWJ2h0CrWPTftXZ/BZs6Ly2eHPf+l2B21f03vdbijJHYbT2k7YKdcAx2oGyS8F5ZPRvmrtfdVbh/qeF1VRumJ5XZJtEbah4tQZleX0UfEKAIKFlFAx4owRzqC+gQaiOQAAhpEEKdQYmReatboMMJagJVnrAmj0EAfHODUmmQXTWPNyRPONukTSEoaxOMFRtIjhPAAsRvCS4vwHBa5EyoPpJCcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/36.png",
+    "width": 1280
+  }
+}

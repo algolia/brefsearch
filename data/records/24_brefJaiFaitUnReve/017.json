@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Je suis bloqué, connard.",
+    "end": 18,
+    "index": 4,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=17s"
+  },
+  "thumbnail": {
+    "hash": "728728a8bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVR4nEXQy07CUBCA4W5Mz9xPsYVagSpYLhET8BKl4gXR6MaF0YULTYzv/xDmgMZklvMl80/EIILKIOSYHCuZsTf2giqoSmEwJogJHRNIRBCWGuI928YIqlEwjArrpXbaHO+297PMUwCiZNvqM0sSCoYde1BD22k0j8repLv3OJu9zS/uJ+PDvBkRGpExmWdLyFs4jwWEYq7y3c/F4uX87OH4+On0ZNrrlWkWIUgwqIQhRsmUDB0nZJeD0dft4nt187FanlQDzx5ijsAJgv6ZELr5wazXf63n71f18+n07KBKtcHrwggcr42tjTCGJCVpZ61Zv1+PR5OyOyiKaacctHbcFkbgCBz9H7b5MoYGA2mqz31SV9WyGlZZ3im6vwAcETCjMAjGhDF59kWaFo3to245zHPZcnmW313XP3PdJBEIOrwTAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/04.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "J'avais décidé d'être un homme et de lui faire un cadeau tellement puissant\nque je n'aurais plus besoin de rien lui offrir pendant au moins six mois.",
+    "end": 34,
+    "index": 9,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=30s"
+  },
+  "thumbnail": {
+    "hash": "27e4c1a793",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABGklEQVR4nHXNTU/CQBCA4f3jJAS5idxI8OMi8aKJpXIpN+KN7sfsYts1lBZ3u1sLXBoSGq4GKyoxPnkzmctkUHmklErTNJ7PkyRJf1kul4vFwhiz3W7LskRVbbd7Lwptrcnz7DST529ar9br/X5fVRVaHcVRJAmW2P+aGB/y/VdKQoKTON5sNquiQLpmzMtkAneDabPpt9v4vDNtNPzW2bTVgsEte7iPKDPWaqVQVrM2eH7m7pDeXJNej15d4s4F7nZpv8+fXOY8Ss5tnmdaI6VU/SOYzYBS/k2IOgHACJFRZIzRJwdBAACcczgEnzsABy4EY0xK+XNQE0IQQugfjDGMcRiGWZYppZB35Lru8B+O44xGo/F47HneBzqKXwHtQGHJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/09.png",
+    "width": 1920
+  }
+}

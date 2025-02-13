@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Après, pendant deux semaines, je mange des chips, des cacahuètes et des olives.",
+    "end": 101,
+    "index": 36,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=99s"
+  },
+  "thumbnail": {
+    "hash": "d0d1b9329d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIqSpIiLmYmJk4qKlISBiXl1fVNNU1RYY0dSV1ZaXHlxc0o8PT4yNDUnKYmEhsfMzgCNk6SOkJ6QkJyNipOGg4t2cnlIQkdQT1dNOz12XWFxbnZVTlQ9MTQ2JyiPiYvQ1dgAdWxyfHF1hXt+lpCUf3Z7hoSPW1dhc2JmaEZGgmxvXVNXSkBFOS0wNyYnj4iJ1dveAGNRUHdqZZGGfZiTj31ydlhSXBELECwgJDAfJFFGSW1pb0A2OzMmKTcmJ4+Ghtjd3wBrWlqFc2SJdGN3aGJoVVMzKS4LBQklIS4rJzEFAAZVUVlKPkIuICI3JCaPhYXW3N8AbF1ecV1QdmRddGNiZ01ILCQqCwQIJiQ1NzE+CwoRSSQjUjEvLCAjOiQikoiE0djcAGZYW2JRUXRmaXtucXdobWJUWhEJDhALEBkVHQwNFVQlIEQjIUQtJW5ELXtbSbm4uACChJSAfoyOjqCFgY14bnVdUFYUDRIPDBEXExofGiYqIS4zKCpcSD0+JB5sUUWhmJAAgISYhIWYiYufgH6NhYKSZ2FtEwwRDwsRFhMbLCg2KitKLyMtWjspTTImd2JXclxRIT+YgQCcCYgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/36.png",
+    "width": 1920
+  }
+}

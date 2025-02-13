@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Je savais qu'elle allait dire que c'était pas grave.",
+    "end": 56,
+    "index": 21,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=54s"
+  },
+  "thumbnail": {
+    "hash": "bf54ebd059",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOElEQVR4nCWOSY7bMBREBVgk/8T5U2pKtjwgAdRx9yJIkANkk/vfKFAbqF3h1avBntCe0I0ExjsjaCNBFZqFZjDejkflRjIjmhN41MGO5AyDDUyz4KTx1vUHYxOaGQoYeQFuJHtChjKAS0yNaWbUyG8lbNf+u+sONgg1cgmNd6M4I2A9GBkI6usDuijYet3X9vF+/9vinVEZCkMmlw7SBjA8EDSCQlgJsnxJzu3z+e1fr+8MKtg8tRLW7M81XtbpeRgQ8iuMVVAX/dj6H0+T0BzknPyi+d7KY2l7131AKAgJIREquUgueH7L4SpYor/U9Khxm+r3pe3r9NR8H762k7MeoZDLaANB8ajZn7Nfa9w033rbt+XnMj013Q6AUQ/MJcHqeY7So/Qc1hovmq41Hrkuv9bps+XHfwyeG5e4/dZYAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/21.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'ai dû me tromper de porte, désolé.",
+    "end": 126,
+    "index": 50,
+    "start": 125,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=125s"
+  },
+  "thumbnail": {
+    "hash": "69fcb55d34",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nBXLy3KbMBQAUDI26HHvFQKBAIEAA4bE2E6TSUOn7UzrTndpl1n2/3+jk7M/QYpIXCjBUWKdF+euvfadzy1BfLeTmYbtQRMmpXXeeZuYQEuhpSDOjIpX726n6X27XnwjZRyGuAshxjg3Ve/HwQ9Wpx8hQ6lBtCb58TB8mfpf90ObWwXxbg+7PTKudJwVWXWoXGPSgDjPCDKSk03eX9d/Xz99G7tt7Aqd8EhEEYYRAaZN1a19N+QmyEjmCkoFBcHv8/i2Tk+ufOrqlJRByRmEEaZJcV3Oj8PQJCrQILWUKVGRZC+D/7kctr4xKmGM8pg4kyHDsW4/3y+nuvIaAxISBEkRN5n9+7zMrjRKK9C5sYLTPoRcm5f5+HjwR5vWmgJCLThxhpLTbZ3/PJ+2qV9q52wVRsgYLb75fpovvhrzxBAEkkMUguAYhcAZHp2b61qBtqmNIgRBr3N/O08XX7ZprEH+B+STJngqaFt4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/50.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Pendant que je jouais, des gens hurlaient.",
+    "end": 34,
+    "index": 12,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=31s"
+  },
+  "thumbnail": {
+    "hash": "dcce2b2133",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADooIjkgHGBFLX5XI4lgKpFmLJhrLpZoLH9OK2BEOnBaV187N3tgQodnNnhfN2hSLwAzIx5DJSJ3VDWfcjCleTawgTrDkz+jcTedXk5oSUBLPD1YMzSFZUeigUeXfEmDakAALyUmNyYtfls7toc5x5lEyZxFoH83h1k3rG1bhV1UYVJbSjhGjW1OspJRqY5UmX5MAGFFL3pbP6uBRcGSPolrM0AvHBgRDzAeGV9AM044NoBtWLOTaLGPWrWUUrKWV6OGTwBrRRqQYiZ6WCYtIhMPCwsdFRAcExEqHxs2JiAuIB0ZExGSczzEm1Gyjk+wj0+be0MAZkIbhVonKx8RBAAGNhYKRy0WFg8OFxIPGhQSIhkXEQ0Ub1o3xp1RrYhJpIBEknI9AFs6Fn9UIzgjECYTD3o7LFYfFSMJBRMDBBUMDBQRDg8NDFBCLM6pVbuXT6qHRotuNwBPMRFnRRwsEwo2DgdbNStZNStOJhRGIRYvGhIuHxU1JRY9KCCdfUh4XjRaRSk+MBcAGQ0GHhIJFQYFNg8HFAkGFg0JNxcNHQwIHBMPGBEOIxQPSSskQSsoFw8NFg8QCgoGvWJ35S+BmtUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/12.png",
+    "width": 1920
+  }
+}

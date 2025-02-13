@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "C'est des molécules d'eau qui sont attirées par les molécules\ndu sucre et ça remonte.",
+    "end": 102,
+    "index": 42,
+    "start": 98,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=98s"
+  },
+  "thumbnail": {
+    "hash": "e89cb30682",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIJ/hYuJkYWGkl1aVnh3enV2fm1ze4qLkWRiYE9RS1NSTVZVTzw+OC8wKyIoHigoGwCMiI6WlJyTlaBPTUojIB0nHh05NTF9gX4uMy81Njc8MjMuJyYrLCYkJyMdHhkcGhcAk5CXpqOpnZ6qTk1PLyAhaEE9RDU3b3J1Qk1KX05QMyElEQ0TLTExLzApICEbHx4ZAJiVnaiksqGisjY5SjknLWM/OR8VGhUXI0JJUFVMT2c/PkM0PUdceUhTZh4hJxwhJgBweoFmeZGRla8oKDgWFSM9MTdOPz8iIi4sLzRueFJpYUNGSltLYYVFWHUfKTYHCg8AQ01fQ0xWm5OPMi87Cw0ePTE4Rzc5Z2xpJyowXmNEjZNZPlNvQFN1NEdiICw6CgsRAF9YX1hNTF1SSSgmMQsNHgoLFQ0QHDc9RUxNU0hJR3p/YCo8VjdPdCs9VykyQFRXaQBsYV5tY2JqY2NRR0kzKisvJykjHyUbICpFP0h+XWF2XmE2Nkc9R2AfL0YlKTY+QVAAZltbcGZodGptb2BbbFlPalZOZFNObGFiZFhbbVVVYEdFXUE5Vzs3NDA7BAYKAAAAL09+msZFCuwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/42.png",
+    "width": 1920
+  }
+}

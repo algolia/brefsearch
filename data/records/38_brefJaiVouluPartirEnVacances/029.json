@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "J'ai rempli mon sac de: On sait jamais. Un kawaii parce qu'on sait jamais.",
+    "end": 31,
+    "index": 13,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=29s"
+  },
+  "thumbnail": {
+    "hash": "d1c301b51c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF5WVHpzco+IiJyWlKafm6ukoK6npbKrp6ScmVpNSlpRT6WhorGsr6WgopeSlIeChAB7cnKLgX+YjYeek4ylm5apn5qonZa3sK2VgnxGKiRFMjKJcm9uaGq1sLKnoaOOiIoAgXZyfGlVgWxRfGZMhXBbjHdehm1RkoFypJSMeFJJXTozhmRcOzAxUEpOopqbkouNAKyXfq6Zf7OkjI59ao98aJR/aZB8Z457a5yOhUs9OEMxMG1gZR4ZGxgTFn51eJWMjQDUxbDi2cbh1b3a0b7Z19fS0da5tLiTiYlPSEgGBARwbXOKg40NCQoVERRBNjV3a2sAzsKv2tK/1sy1zcGm1NLPyM3XpZSXVSEiDAYIBQUGaGZleXJzEAsNEg4QNyomal9iALCdg83Bpsu/osS2l8zLyry+xYiFhmAlKWU2NDEmJEpIR11UVw8LDRQQEjUlIlVFPwCQfmasnIK6rIybjHKKiYxUUlkkIScSERQuIiQoGxsNCgsOCw0JBgUPCwwhGhotIBkAZFFCcF9OUkhCJyAnHRgjEAwWEA0WDAkNEA8WHx4vDAsQEBEXHyQ0GholIBwWMi0nIxixjpGbb+EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/13.png",
+    "width": 1920
+  }
+}

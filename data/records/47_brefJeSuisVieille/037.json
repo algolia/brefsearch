@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Alors j'en remets.",
+    "end": 39,
+    "index": 11,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=37s"
+  },
+  "thumbnail": {
+    "hash": "2b1ae74508",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nAXB21KbQAAAUL6i1mpTgZFwW2BZrmHZXVhuEUMoGgM1fbExmamZUR986PQb+s89R0gdEzsAQ4Ch5atiYspVFPwemn/H6XDDas9Iba2JUEvTJk1qvBAyZOWew33IfZgAJXP1jsbHbvl32jzXxemWFOCaQWtTF+s8axkRmKNyz8xdLbUUBvU28XoSPVb8z93tx7r56HBri6s03q2W25vmruQCks8ToMS6GGkSseftwu1JOFXkpW2eeb6n1ibHv8bpviqGkq9zKjBXr0OH+3aGAHW0ZWQPNGhxxLy0DUmJy5/jnpEOuRUOcGiZAvcs6pg5sgk0iaM1od1h1zYTWWHj5vD44+Vh2M+NSgdN4FeeaQocgcwFhW+XHiiR2gYacY2ZuMjI97fj++vhndJJUtjVNVN1os8dIXPUHKqNr/cLMGZwV7g9hrIU9cvt6ek0Dk8aaC+l9FKmM9GTREO458k6Nh4yb0vhFKjbSF0lSPpmdXm5H3dxtPp0gc6++mez+PMF+HJ+9R+x4Gfydr9SIAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/11.png",
+    "width": 1920
+  }
+}

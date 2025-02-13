@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Il voulait absolument me vendre des trucs, mais il me mettait mal à l'aise.",
+    "end": 39,
+    "index": 18,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=37s"
+  },
+  "thumbnail": {
+    "hash": "032ea4c09f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBW2/SYAAA0C8ypdR9LRQQWlyplIXWFii0UEvpjQUoIhZG58KU2YgOg4vEzSXDvZio2+ItMS7GmPjo//Qc8LjpBJ1Rt6bzJMMQpCNYP4//fdr/vhocn7bmElVI4tEkJGAEWw/DOIIBV5B9xarS+VGteDntf97u/F58OZ9+nDd237VfOflSOkqk8AQBY0gEomEIRmXtiWxJJH3UN/4e7vza6x3pWyf3nz8qOXWSs9nciM/n4kl8PYqiWBiBIKhvzbW2JwrLXmPlNj549nm3O1PdQHF5ktPy7JldMzNkAiMiKL4WhmAq29OqvXI7F7vtP88efPNbZw3No2udTBlHktVs9o0hj7k7UoZCwvDa9ZvAZoQBJ0+K5sI0Ak1Y6uWlJDkpoUneNblShytMq+LSVgJVqN0mxWQCRGFUZcS5NfgReIFZ8Qqbe4LMQWpHaXw9mO0bls3mXjvKabd+2BTfakXQklSeaTvG04sX/vuhfnKvMi75tzBjrFqLnhuLbbBxqk7TxiZT2aCUDAVKhW02/zCd7TfVyeVkeBX4ff0lS89k/mDQHKaJFESJtRsYCKEghIAQ8h842WDg4JiTjwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/18.png",
+    "width": 1920
+  }
+}

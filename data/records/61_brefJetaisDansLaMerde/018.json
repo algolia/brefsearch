@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Ma copine m'a appelé. Je suis allé voir.",
+    "end": 21,
+    "index": 8,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=18s"
+  },
+  "thumbnail": {
+    "hash": "485c799a6f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nB3KyU7bQAAA0BElje0Zj/d9vO9jOzGJbQgpBhFUXLBCUUoXVeLUa///Wqnv/ICBBB1iHQkGL+pIkFkoYhkLKoQSw2LbIpEXxm5QxmkmymOUAJMXTYTN/1vleIVFCIoMJ2IksZzgOH6TFUMU1WGccPwgSECFWGAQv0S5ZYeqJiy5UNNqolNLlXnc+u5+RQdatEGQM3CHMPj4YXF+tmTO4doPAt10lsxMSU20WuU9DDf8YsyDb7f9Q52nC/YgKkDkBF9zFClR5MZyO+rRe5r3VZUbmm+YLV19vd7+vm2PFzQ8W7ylKcAMv6+7+XDcloNnJJ4Z7reX85f59Xh6no7vf/5+P/24zLwnGhEAfq5bUJK08YsmzLu8Kkkcuemm3d2M06b7tGq6aXp5fDrdHZ4fhutS1nvXBZZkEsWJzDC2Yk8PHj+/za/v0/xrPLyE2foua26qrq13F/VVGRSuRgBc8jJSLdmxFTLEVRunxPGITWzTUhSzpNt+M/blVeoUCSlju/gHCnU7t4jVvfMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/08.png",
+    "width": 1920
+  }
+}

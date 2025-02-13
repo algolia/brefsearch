@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "J'ai fait le calcul, il me restait 200 €.",
+    "end": 63,
+    "index": 28,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=61s"
+  },
+  "thumbnail": {
+    "hash": "ec3bc11a55",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACARERQREw0QEBwQEkUHCnQKDMmTi7Cak69qZJASEoQAA3UICmUGCDMEBTAJCkEFBwAnExIKCgoNEhNNFBlrAADQZmK8sqiDfHfHkIrYj4iyODijBwyHBwo9CwxoDA9OBAcANRcVAAUFLRITbAUJpRwe37islpGKmXh01nJy1nFw3KuhuiwtYwEFehYXmQkNZgYKACISEQkOD1wRE34AAOCIgKylnYR5dMx/fdyGhNZ5eNWMhpAGClkRErYSFaMIDH0ICwA1HBw/GRtnAAG2NjXawbVqZmWgdXPdgH3Ramrbopm5NjZYAAKUGRu6Cg2iCg2DCAsAbjMwYBUYdwAA6KSYkI2HiXl03ISC1n582IWE0X54gAAAYxUWvQ8SqQkMmgkNdwcJAFofHEUAAK9OSbmimF5aWbV7ed5/ftFrbdyim60hJFMEB50VF6wJC5cJDIIICl0ICQAuBgdKAAGXSESfgXmCYmDBZWbJeXbOf3y+Y11mAABgEhOhCw2GBwp1BwpbBghJCwwAIwIERQUHSwABcSgopG5nn0dIoEFCrXNsbw4POQYHcgwObgUHXQYITQUIQAcJPwcJU2CHPjFqOdYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/28.png",
+    "width": 1920
+  }
+}

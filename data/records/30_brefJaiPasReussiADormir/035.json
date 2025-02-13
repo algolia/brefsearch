@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Ils conseillaient de ne pas aller sur Internet.",
+    "end": 36,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=35s"
+  },
+  "thumbnail": {
+    "hash": "1c493bd498",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVR4nCWQyU4DMRBE/f83DsCBA4EgJCDsZIEsIsmMx+52e5/xbPkXhHyrklpPr5qdnV9dTx9m78vlrgSkqixBSJQAQoKQVcl5UW7Xm/nn193t9PL8gt0/vq02hwNXoKN3ESVYbQiVIZ2DVkSoqpKvv3+eHh7Zz3rPwaCJ5JrUtMH5JtbB+ehDHaK3LldnLKEqDkfGOZKNxjUutE2dtCJDWitCCVqRArTa5ECojvsDA7Tep1B3TRqijyCkVgRCykpkmYzIFF6UDMGE+H+d2rFtuuBcNvHWDV0/9sPYD6dhHPuhS60zlvFC+tCk1Pf9qU1d5uXRhrS3zpB2xlptQEgFyBbzlajA+7rrT8EHWQmUICsBQgpeKcBcy2OxWiyX8wW7mUzfXj9+d3tSRv+zMavnR0UfMnu73rzMnm8nN3/NJVTM6UWbMAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/14.png",
+    "width": 1920
+  }
+}

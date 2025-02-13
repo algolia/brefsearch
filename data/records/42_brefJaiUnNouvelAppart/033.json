@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Le lendemain matin, elle est partie au boulot.",
+    "end": 37,
+    "index": 12,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=33s"
+  },
+  "thumbnail": {
+    "hash": "ab875e9128",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nAXBW2+aYAAAUB7mnCgopZoplom0OG9Q5FJQ+OADuSzOCujU6RqrtU2169Ime9j2smS/fOcgF5ViiyoxRM7myn8X8Me1v/WDB9+b672HL1//PT/93O5et4+78WhlXg67NUSkTkWKbJVwnX3/ewJexuFdeB1dmfGVephMfu3vn9b77exmG8A7R76xeESgTukCzpI4lc8O2OoGqIEgJaoW62DaN9ajeAX0l7FxHIFvtuY2aYQm8gUUTb9JUfmMTpNJrxEp4s7W9q4VdAXQbh2Tz69T79aHIwOq5x+QIpbD0+lqAW1XTmyu/CexD4GxHCiHEC40beNa35fLfWgsoaV2ZLfDIEQGzadT50WsTuI1Evf5xsoyl8C4hc7C8mbASxx/bfJTewh4fjG4RLJvU81SvlkkqgRGZt+dZNIiy80MGOlu3PcC2fQVaQOVT6oWyxeJ2UdEqnzfaTy3z+YfGZ6qEDkcRTGuUgulQSAZjmz269X5QI3k9saDoNdHrAbnn3VXdOWRY4+CMWUoGsfKBNmrN8yu5Aiy12QiRViZagSGYkf9D6WiXefPk8T7AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/12.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Un jour, j'ai eu 30 ans.",
+    "end": 3,
+    "index": 0,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=2s"
+  },
+  "thumbnail": {
+    "hash": "f478129e60",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nAXBS0/bMAAA4HTEsZPUJM7DDnUShzzaNKFpm6oDQmihPMakddUeB0AghMRpTNph2mHa7rvtssN+z/7Zvk9yVSQMnAdeYOImpB+a0VR4OSWLoahDj3e1eRwcZGHTDzNmGwhKsW0KozugzjbUQoscDkVq4YG1nTOj5nZk4NVefFLsTsWOb2IIgDRi1lK4L7mjId3F3YJZOSUYgEXcayMvJcbVNLs92GtjXriGo0Ips3DpmrXPPEKKwD3dZSWzsQrPM3/M7JJZN8fVps4vU38ieE4daUjJkNrHCZ9F3Na1dZWOfaZ0XvhY57jbp+R2UR2Np2eT2byYCNuRLE2d+Kzq0WUaNIk/9un1Yfnt+uLxfN5kXFfkOurVSZIGUcyYq+uSoaLYMRd98XTZfn599H29//N98+f5zY937dfNcnPaPq0v5klAMGamoSNV0hQFI1Rx+1UZ3u9nn9rs98Pq398vv+7P3o6y54/ru6tVQKkKEVSgIgNJhQgBCGRZAwAj6OjqYMdZzfI65gRBtLUldzqKDHSIkAwUGfwH0ew7Xrv7ljIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/00.png",
+    "width": 1920
+  }
+}

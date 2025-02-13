@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Vous, en train de coucher avec une autre.",
+    "end": 26,
+    "index": 12,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=23s"
+  },
+  "thumbnail": {
+    "hash": "1e9c6ab563",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXB226aYAAAYN7BjYlWoYpOEUQQSrGiloPAD8hBsOIBRNst6mq6tmbt1W62ZMneYE+774MSV0vCaaSNvgQg1ZWFqqQGyMAkCbaut5cEicHLBFrs4KguiVPHhrKZ7+va2lSPga3QHbPb/er6lqiCvh5Gz4Mbs10tNbHS5aecLPLpXQQtLUNtE98CcL7zUkXZqqOX5SpSA60HXO/EXTktFO+26GoRY9q8pQNoIvVWQ/Ecez8i+y10XgLrNY6Pi8f9/JguXnnWwJFqrys1USpfoGCkBVmKfG+Pz7H/cx29hc53F9wDL7U3B2/55IdrN0UvSJpVCOIWqcuFhgwNOX7EUJkh/9otTxP9QZNjaWzzwz0wn6N55idYHqdqnXaNRStXWGMAVRCMaxArQz/PJg/67U4dRcL1YZ29v//dGPZjfKihzGWZalZYBKEvMA6qFyozUQu0qd8XlVbTpMhTsvn9518Qnfz+aDd/KuRwtERUy9SHjwRc4qGIl9fXusnLIkG6HEPAcI9mHTAnmwJNj7mbrdBwhLrc/TyA82Su2PkPvMtxVqWYnJwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/12.png",
+    "width": 1920
+  }
+}

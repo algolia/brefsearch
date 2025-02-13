@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Sous le bras, j'avais Marla, mon plan cul, qui est en train de me dire: T'es\nqu'un con, j'aime pas les photos.",
+    "end": 13,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=10s"
+  },
+  "thumbnail": {
+    "hash": "1783a2883e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKyxzrK11q+eosnQ4cjT7Nbi+6u0zBcVIwMCCQUCASkdHTEqNyYfLCEXICcgLDAqOgDDy+jH0Pa8ssLEx9rH0uzT4PuztsvBu76jo6k/PUETCgwpIS0qIzQgGSQmHysyKzsAwcPlx871ur3gwMfkxtHpz9nzwayyzr+/+fb38eztnZicOTE/HxgqGRMcJR0nOzNFAKudusfO8L/H8MDJ6cXR6q+wxYtucsvCyOjk5u7p6//5+IR1exkSJBoUHx0UGi4mNQClkq/GyevAyPG7w+XBy+OmrsZmZ3vGxdTe2d/b1NnYwMOkiYwgGSgaEyEYEBcnHysAp5SzwsTov8bwwcjpwMncqK/Iqa7Fx8LO1cnQuaOrnX+AOjA5GhUmFxEcFg4UJh4nAKybvsPF67/H8b3E59Th9bi/1sLE1LKntY1weaiLkIh1eBUQGR4aKxkUIxQNEiQcJQCto8nFy/K5wfC3vubO3PG9wda9sbybgoqrj5aIbG1QLRdFLCQVEiIYFCEWDxUdFhwAn6HGrbXeoKPWsbbcydjwsrPLd1ddSCccOispNigpUSYFYjISGxYmJB4rFA4UFA8UfJHfP+ZBs64AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/04.png",
+    "width": 1920
+  }
+}

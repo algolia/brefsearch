@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai repris du surrhumine.",
+    "end": 54,
+    "index": 23,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=48s"
+  },
+  "thumbnail": {
+    "hash": "d9eb162282",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFVESnpoW3ZnYJZ8eKmYk9HO1OXo7uXn7MOoorGgnbWzvbCor6Wfo6GZopSDjIN0iwBdUlt4aGGFdmaTgnyxpaC8s6/Pz87M0czBtLORf3yLeoC2q6utpaiwo6GMfn5eTk8Ab2BZgXhmnY90oY58tKiZsqOZwLauyMC1hm9tNCAnMB4ojnWBtK6usaaSi3xtg3ZwAHVmVol5b6CLg6yWja+hncK7wdHO0tTR0a+ipEU1Q1FGUI58epmJjJGCdJKAdJZ+dQCCc3mVgoOjj4eplI6hlpasprHOys+emKSmm6Gelo2fmpq3sLmzpbOSfXuNb02VdVQAZVJZiG1jm4uPo5OPm4x9l4mBpZWGdWFmh29nmHVtjYeTqaKvn5CRrqKhta+1lJWgAG1bV4ZoX4pybaWUhb+zqsG5s8K5s8O8uL2snolhW4N1eqWeo5mFgqeUlKmdqI2CjQBiSC5/ZVebiIW4raTHvrXSysPZ087f2tfCvbpxbGtZTkxXTlGZj5Cbi4WUhYV7Y1wAbF1hiXt6m46Kqp2Xs6mkv7WxxLy5ycK/qqKdjH99eGtmRjw7PTg9d2xvgXV9dGVnrvnzeKHNw5cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/23.png",
+    "width": 1920
+  }
+}

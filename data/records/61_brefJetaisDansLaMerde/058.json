@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "J'ai dit: C'est une ex, je ne l'aime même pas trop.",
+    "end": 61,
+    "index": 24,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=58s"
+  },
+  "thumbnail": {
+    "hash": "06cc493fa4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBTW/SYAAA4GqMB0rdRl8o/aLtWBkdUMf6xRgUWigtbamlihVYHAOmThM10YseVGJiTMwOHkyMWaJGd/NsYjz6x3weqEzhApldT8CXL10pbRVaWu15HK7mE7lcDgZBzzSatZpxUHfaulISGooM5QAK4MQGnJRYuiNLjio/ibzV/NBQ1ZthtK+qPdM09aZnWZJQVHerEIYkMTixz2++uNUfNmp2VXxzFL+aTdx2axKPR8PId/qu48ZR5FuWKEoQicClLBo35ZeTQCrwFE7f1bVpQ/Nsd3m8tI2u3TQ6B+bIG5iqxnI7EJECBMhQmSxPUrvl63K9G98+ur94eHjybPH4tdNx9D1FqVRHnq8odTZfggiCS2doDOBIcoPlBL174+3Z1++//p1f/P3y48/4+CmDkXmSKeQ2+RyXpxkIJziK5ll2m8zmMoBoWeGHs/NPH79d/Py9eve5bgZ8sYpchdNrAEXQFJKCQJoCgMQJjmG3cYyWGs692en7+fjRbNlu9TSxYhuWwO/gGMVhRB4joLV1DE6iyLU0CkgcZ7b4yskwXAwcgilWeP7B0Jm6vTu+O/X7p4Ed7on/AaUqY3mRtjIbAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/24.png",
+    "width": 1920
+  }
+}

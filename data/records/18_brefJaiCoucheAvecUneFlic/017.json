@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "J'ai répondu Pourquoi ? T'es flic ?",
+    "end": 19,
+    "index": 6,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=17s"
+  },
+  "thumbnail": {
+    "hash": "78629bb7fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nE2Oa2/SUACG+5f9YqLxg5dEjWPOSyaobC2OUjoRRgVbzmnPpeec3lkJsG7K5DJW2MKfMGxfTN68eb88eR/pweOPj16Un+2or95/L3xq75Z+7n3pvi11CkVjt2gUiu03+63XHxrPd9QnL+WHTz9LHTBGYiriPEw34WATpLfhYEP9uU3PARpBkgE8RuKyYyWWMwJkIjl8yqJrGixMeNpzBhAPIR6Cu4ZkSPgFFb8d9wx7Ux6vsDeX3HDJ4xURE11vl4qHiqxVKnpF1iqKrlZ/QOgB6JkmtcmYJysWLbcAi3PqXTYavxS5flBWtdqJrneOvjVqaqv8taoox62mhdkFi/8Dtg91Qz6sHZSr7/b269qJ4wQQCAAEBB4EwqEZvwewN+dxjvnEclIT9i07bRnchH3MMuSeITdDLLPpmPgzHuc0uJK6dobEjEW5SG5E/0Yka//0ViRrFudbh7vwZM3jnPiLHvkjHR3zZjc10bnN/hJ/4YbLrWS0ZNH1/abBFRIzQCdGb6Q1g39fUEDgvHhxLQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/06.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Ce furent les trois plus longues heures de toute ma vie.",
+    "end": 72,
+    "index": 31,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=66s"
+  },
+  "thumbnail": {
+    "hash": "57c4d6d26a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbklEQVR4nF2Ny07bYBBGjWrPzD9j/7Zjg2M7IRc7KGqci1JAjUKAQGlIu6i5RAiyqASb9g14ivah+mIVsADxbc7mOzqG+W6WBZb1QgRAJBG2hREx9D0EMN5cTbBMBWYtru5kGYHJhKKU49i+59rCQRAQ0quACFrIE5VuVYattN3ItJAQIKGrdS2uZu22iDwJlmUBgC0UeU6ebB2Piv1e//Hvv9MfvzYMg0U+trbTKGRhpOcCIjKTq7lopcOsPi4Gs7Obu99/vi9XWn1wHCfQduo7iWezQgOISClmpbU93mkOO80kij7Pr2bzctbvzIq8kSZpFCah3wjdqisGKkXMqBQSNuNwOuhm2zVUfDyZXCzOp6Pet/1i1M3zelINPFfIIGG3UgFEAKhH4Ze94XR3t9fpXC2X64vL86PD9cne5cG4yJtx6BPhUwGJTNNkljjanH8qvh5My8Xirix/rq4fbm/Ls5P7xeSwn1c8jYj/AcGhLTqkV75xAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/31.png",
+    "width": 1920
+  }
+}

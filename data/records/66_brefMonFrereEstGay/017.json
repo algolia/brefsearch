@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Steve m'a dit. Et toi, du coup, ça t'as fait réfléchir ?",
+    "end": 19,
+    "index": 10,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=17s"
+  },
+  "thumbnail": {
+    "hash": "a7dfa8cb70",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXBaW/SYAAA4Jq4yFHe9oW20NL7gB7csNFSmo0ORsc2XYB1gAIRsjHdTKrJzIxGjd/9ZPwD/lKfB8ETSUPgwuNu4NgNMtuTuGHdvO07HVNtyfxJtdRQxD/vL/9FV1G/tfGrCIgn47GEV60sRsEBxZxB7LJUWDcNBqCLfevvzdKvVmxNCLu1YdMMGxoCAQYAXuD45ejU4cR+nj6vlwdWUc7A1wflX7PJtONouaytio6h9nQJSaVAW1F6lrU8P/PUokxRbq3c0gssBlZ18/eb6yPL5DMZuyDVFMEta0jyRWxWsR6CE7/RFCChM7Rt6QbLYvHkoKBsD70snlZzWVcT64pk6zLi1hurXu/T7PpqGPjeUXe/TQKYRjE8iUkEVaLpTAovs/lDQ+uYusHlkW043S3m92+3H3fvPkePT49fBv4QJFIkgMUcY/NcDoNshmAJUmQllZeRU9ce9/35xcU6nN9tdtFD9OPbz/HLCY1BnaZbgsDCNE+QJJ5GE4ChGMSrlY7brWHXHQej9Xx1s7m9v/vw9en79NWEhgRMQQrgBMDRGPr82V5sL/EfHn1U1Nqbx0IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/10.png",
+    "width": 1920
+  }
+}

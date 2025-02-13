@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Après, ça s'est passé pas mal.",
+    "end": 4,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=3s"
+  },
+  "thumbnail": {
+    "hash": "69cdf22006",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjElEQVR4nB3CSXOaUAAA4JcCbwFEoMoqCj5BEVlECIkbWkZjxnqIySSZTtJeeuul///UmX7zgSyM6cCd0iAwuoeZn7uOp2tVNHE6mgCxIoiq0JJ5UUAEM5DnMNimSTJwAkMPTe1aps00fP22+329fuzvI9toIR6xEHFIFqXJoJ/6FMwsPbYNQ5J4iNa+e8miehL+eDj8eT6/LrPSH1ZJUi/mqyxdJsk6zQDkMIakI7R8VbYV+ZbStT9+2m7+fr5dlneHLH5/PP+6fE+DMYFiQSNgSzL7Bc5M8zocrbpaT5LHpuPpxs/zw0u9bebFptg+H05NtRJ42dOHoNBMCfFfeVK2lb0xaEajwrZK1zrn6WOSHLO8Xqw25b5M7zFqW6oLYlVTsMBxqIOIL3VvNW9nuqconHujlEaBadXhlNrDvukYqurpFhi3VQESAjHLII5FmCVU1ipKFVG2unZHkgq/H/R6x8XsuJg2+QRQsU04zDCQ/R8ARhHEuOeAGxaAGxHhfUxPd9mpypoi3uXRP0zUOs3cpvp5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/01.png",
+    "width": 1920
+  }
+}

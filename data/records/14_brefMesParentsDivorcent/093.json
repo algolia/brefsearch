@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "On mange, on discute.",
+    "end": 94,
+    "index": 43,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=93s"
+  },
+  "thumbnail": {
+    "hash": "4194fc11d7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD43MExFPl1XUHNsZn95dIN+e5KNjpuVmZyXnJ2XnZuTmXBpah0ZF0ZBQpePloZ9ggBMRT5bVUxmXVVORD1kX1uPioebl5mpp6ySiYuKgYSwsbuciYtfPzwfFhOSjZWjmqQAVU5HWVJJQDEmOyIZWUQ7kIyKoJ2esrW8jHZzbVFLsrfDr5+moXRyb19tdnJ+loyTAFtUTV5ZUVdJPmNBNIFxapeXlZ+en4R+i0xBSzQmJVtcbrm7yZWRl3x6oHh6qlJGRgBDOzRrZGGuoadsVlB7dHCYkI2DeXtfVlxGQEwyLThAO1h5eIl9dXJhWm6EjM9dWW4ALyUeblBLqoJ9h2hif29vjX17YVhcZmNpX1pdYVtie2duj3B3jHRyYFJSgW6GdlhbAEYoHXwlDn84JnBAMauPj19TUIt8b41+c3RhXYFvaZyJhoRhW2ZKRGpOSHFPQ15AOABjTEeCPi+HV1NdSkqrkY9NQDt/aVqNc192YE9PPTRTRT0bFA8uJyRMQDtJPzo1KyYAZlpZcGdmgHV2fnNyl4eHg3d1gnd2g3d0fXNwfnRzSj86CAUFHB8pMzM9Q0BMRENYb/mvR73HabsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/43.png",
+    "width": 1920
+  }
+}

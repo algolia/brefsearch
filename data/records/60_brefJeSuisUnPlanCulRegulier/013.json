@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Des fois, je reste.",
+    "end": 15,
+    "index": 3,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=13s"
+  },
+  "thumbnail": {
+    "hash": "4038ae71e6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nB3KTW/SYAAA4CaOlfF2/aBfa0s/KG2Bl0JLodBhhwVa1jEIbkPDtNGgicQYPXjwYCQ7Gb1OD5707g8wHrz6w0x8zg8icayhyE3L6Nkw8jvze+EqGWeLdPvgYrfd/Ph08/f3ny+7D+ohSJOpCyHyf5u+3Qg99+xkcBWP1mfx00X6ar26ebn5tnv76/vtz6+ft8tTm8R4FEWgUXFhvddqhp4b9731dJjNkifzdBVHiVcbO5Vs4r+7nt2+f/3xzXOewJGmZTq1KixrVZGXSNA15c0izubpoFEtUwWVKBgs6Yqcr4mr+G7SdxBLVUoMTeZyR3mU3N/nAJp61cfjwYvzqKsJRrEwcipBXetYck1iBg0T4ShSoikOx7C93MGdPZ0hoMz2a8py2H42j67CVuqWA0MI7crIby/jCSIyRZkt8jgQCEwkgcrgKotDhbO1o6FjxV14nQTZNHgYde6H7cvJEBFpUuVphcYlEnAAFfC8TAONxRX60BToeoltlYXLyH8UBxehe+pZSBEr6Dzl6sJxQ9N5kgOoSORF4qBEAUtkLJGRKKwH9dmxcwJV31L/ASCuUkGb9fGJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "En plus, elle avait une tache sur son T-shirt.",
+    "end": 15,
+    "index": 5,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=13s"
+  },
+  "thumbnail": {
+    "hash": "271678cf0a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEU5OJeHgKWOfVA4MFA6L4pqTqaIcKCKgci7vNXP3M7G0b6vsIp6eqmgrMK5yK+msgBIOTqhkIeOc2IwHh5YQjmhfmeYfnOEc3aMfHyxp6ydk5h5b3eDcG6fkJXZ0ePEuMMARTY6kH93bFlTKRkedFpRt5iHhW5sWVBjc2Z2rqGliIGVXFhyj3+FjHt8187cwqyeADwwNEk6NlhEQEc1OWZMR7yYjNK5t8m6ws28wM67vsO8z8m+zLOiqJeHkNjM1bOTUgAvJSwzJSVHNTNdSVFcQ0GdeWu/oqPPw860npy4oZ69s73Ows+smKOuo7DZ0d7FrpkALSQwNSgrXEY/VkRBQC4ukXFin4aAs6WnrZmUmIaIsaWor6KmpZafxLvK2NHh08rZACgfKTQnKWRLP1lGQisfIn9kWpyCeKOPhqCFiaKLnaGQlqCSkK2gqdTN3tXN2tDEzAAxJy4yIydZQDdHPEA/Ly5TPjiAZ12XgHSchoWikJaaioehlJfKwM/SzNzPxdPEt74AMCY0MSUtWkZFTkZPWU1OWkhEUDw3eWNZn4yJppecm42NwLrI0MfUraOqrKKtq56kaBDeIGJExUgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/05.png",
+    "width": 1920
+  }
+}

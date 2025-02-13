@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Bref, ça faisait déjà quelques mois qu'il me fallait une vraie armoire.",
+    "end": 3,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=1s"
+  },
+  "thumbnail": {
+    "hash": "0582dbbe8e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACkxQFlQSTEmH6SbnlJMTAAAAFRRU87Dw4Bybjw1M4JyYrqce7KTbntnVEc+Ok9EPgBDIxhoRjBkVku7s7ZCOzgAAAA8ODra0tVZU1QGBgtIQ0FtYViMdl2CbVlVSkVcUUoAVTMjXTkmjntsxr7DUUpKAAAAHx0evLe8Pzw/IB8iV01LLCcpZ1hIgG1bW1FLZlxUAGhNQTUSApqKf//5/nVxcQAAAAkJCS0tNRscHysoLEA4NyIgI2JURXFhU2BXT3BmXACEa2EhCgByZFq5tbVQUlkAAAALCQoQERQXFxgkIiYyLCwzMjdQRT1mWExgV0+Ad28AT0JBFxITQTYuTkMST0ERBwwPBQYJBgQIIR8hIyImExAQIBscZlZHZVhPX1VMkYiBAB0lOA8QFDgvJltLKp5UJIlxIklTGT8vDCMlKyAfJA4JCRgPD1tLPV9UTWFXT5+YkwAbITIPEhosJiBMPC8VDg1hUhl8eTVQUjEmKDEVFRkbExMmGxlIOzJXTEZjWVOloJ0AFx0rDREbKiwyRTcpAAAADg4eFBMVOjY0LzA5CQgJAwICYVE/c2FPRDw5Y1tVn5qZJM10AVTN16kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/00.png",
+    "width": 1920
+  }
+}

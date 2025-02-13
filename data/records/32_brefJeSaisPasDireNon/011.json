@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Je me suis sentie coupable, j'en ai acheté.",
+    "end": 13,
+    "index": 6,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=11s"
+  },
+  "thumbnail": {
+    "hash": "61a0636fe4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGdiWoN+an53Y3FZR76eh72ch66DbIdcTzYWE18YGLaonqCgl0dCRTgwMzMqLCogIwBrYkuAcFRpUkKVeGawjH+ddWmpfmyRY1ZILyZICAl6YlF+hHJORkc0Ky4yJyoqHyMAe3RfgnJXnoJux6iXimdfk2pfjmZdYkA/VzwubjMuh2lYg45nW1hXNCktNiwvLSMmAK6rn7GrmcCxocajkbqPer6ZhJxwZINXTXlfSKiAcqGRdr3Bs3trbjEkJzQrLishJACuq6e6urbBwb28noyoemaVYl2QXlaYbl2voozCt6q0uabEwb+2kYNaNzYuICQmHB8Ajo+OlZ+osr7JuqKTtY11oGxljlxTmomEt768xcvDxcjHyczKv6GUrH1rVzs7HBMWAJCOiamom7CwsaWJeaB5Z5lvYopiVoWLn32WuqOfqq6oqq2oqaKAdriGcH1VTCMWGgCDhoe/vrigmqZjTFd6WlxeP0FFLzV7eYO0ucLLvrbQva/Hu7KnjYGia118TEUzICEAjY6OwsXJoZaYRDFGRz1lNy1NKxspkoSIycnMwr/DyMXGwbqsoYp3jGBaaz04PyoneZDLna8MlL4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/06.png",
+    "width": 1920
+  }
+}

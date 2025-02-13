@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Bonjour. C'était mon tour.",
+    "end": 63,
+    "index": 27,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=62s"
+  },
+  "thumbnail": {
+    "hash": "7e807daa7f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIp6ZouNq3GBoVNccUpIVY6Bc8S6rLOspbKppLivpKqagVpTRTEtNycqPE46QpltXwCPf15uanYqKTENCg1rU0ezno2roIXSzsnX0s7RzsjNz8GDf3doTkpjS0QxOVlQTGkAbGBeTEVDBAgNGxshnn1qrY58q5N2zsW81tfRz761xId6lmFcSi4uc1I+TEJLSUBTAExFRCkpKQYJEVI/O7aNc72ZhbyDZdG7rdze5djMy7xyTrE2G1wgGiQrNjAxP01DTwCvoZobHR0UEheUalmwgWu6jni4nI7PvLnSvrXbs4vPvoGEUzReSUsiLj0+QEqGgogAh3x6EQ8QAAcOUDw4gFpNY05PooFXy5lEyZ5NwqJqy7h/sax9hISDLi83cmVgYFVWAEE3Ng4NEh8YLR4YIk4zOS4bLIFrTtCoVb+SSMmxYNHBUMq5atfLvYB1d4x5dnVkZgApHx8VDxxaNmxVNmU4J0BAJUVoR1OukGWUcEm3m1DcpULDnHvLvsaSgn99ZmNeS1EAKiIjIBIsakB7hlSbcUmKRCxdZT1rjWFQkmVbnHxSuo1atYyIr4+SX0pNWkdRPDA+woK5aNjJsJQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/27.png",
+    "width": 1920
+  }
+}

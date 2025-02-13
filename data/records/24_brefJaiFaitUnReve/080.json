@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Quand j'ai relevé la tête, j'étais en haut du Mont Blanc.",
+    "end": 83,
+    "index": 26,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=80s"
+  },
+  "thumbnail": {
+    "hash": "fd76f8de7f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKWgpbCtsbu4vcXCxs7LzsjFyY+IjL62uN3c3tnY2sfDxTEpKzw4PLe0uLKvs6WgpAC4tbnHxMjT0NPa2Nn19fS/vb4oEBSObWzs7Ozs7e3X0tIyGxsZERS8ur3Myc23tLgAyMXJ1tTW4N/g6+vrwMHCbWVwRSMmkXp48vPz6+zs6ejocl9eKRoctbW34N3fxsTIANLP0t3b3PX19aCgogMDBhUTHiAZLkFAROzs7Ojo6Pn5+YOEhgAAADc3Ot/e3tPR1ADV09Xf3t73+PdnZmkAAAASEhYLChUbGiDa2drv7+/u7u5EQ0cAAAAQEBLFxMXb2dsA0c/S4eDg5OTkNTU4BAMHDg0SDAsPAAADl5eZ////0NDRFBMWBAMGDAsOtbS02tjbAMjFydfV2N/e3jAwMwEABQkKEA4METUcIqaipP///62trgYFCAgHCgcGCaGeodPP0wC4tbnFwsXb2NuurK8SERUnGB0OCA1JPEDj4uL3+PebmpwBAAMKCQwDAgWIhorDwMQApKGlsK2xvbq+xcPGIyIlIBAUDAcMHR4j0M7Q5uXli4mMAAACCgkMAAABbmxvsKywK0XmRIVmVEEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/26.png",
+    "width": 1920
+  }
+}

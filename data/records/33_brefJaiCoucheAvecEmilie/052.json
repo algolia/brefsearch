@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Elle a dit: Là, je travaille dans un magasin de fringues.",
+    "end": 55,
+    "index": 23,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=52s"
+  },
+  "thumbnail": {
+    "hash": "1194f13ba9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEMtIWxQOH52QYycP6S6S4Z0Q3lMQVY+NXJORapvXa5xXa1wWqBqVZdjTl0/M0QtKgBLMyVuUThwZjlwfTiHmz6Md0yWXkt0TT9SMyuRW0uNV0dZODBMNC92UkZ1UUNqMywAVz4sc1tBZWI9aXU+malrmYVuo2ZPr3RdmmBLpmlUk19MVjQqZkQ5lWhSilxMTTgzAHdeUYV0cmBbXY6SmICDmH1pbahqUbN0YKFiTbd6ZLN1XqVrVLZ7Yrd9YZBuZFlXYgCki4Sjm6hMQ0tUUWc8P2FYSEyVYUuMWkqNWEiudGKiZVOdXkmtb1eYZlBnWWxOTG0AuJuGv7e6XVdeMSouMzRLOjA2elJCYz81VTMtUTMrc0o+i1ZFi1hDeFxUQ0NiPDxhALSTebKWhWleZCwoLzk3RickLVo+M4xZS3Q6N2gzMFUzKmJCNGZFNmNaZj49VjEvTwCCZl2Ja112YV9NSFVVVGIhICwmGxd5UkR3Sj50Rjt4Tj9MNCk+MDJNSl1eXGslIzIAXU1RRDk8RTpCPzlBQDxJHh0tHxUTQS0lVzoxXz8zQi4mPS0oQTtIUVBibmx6Pz5KVKOZl7zBU58AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/23.png",
+    "width": 1920
+  }
+}

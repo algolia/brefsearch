@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "C'était la bonne nouvelle. Non.",
+    "end": 66,
+    "index": 32,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=65s"
+  },
+  "thumbnail": {
+    "hash": "348e024b52",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBW0/aYAAA0M83Wmj5egOZezFmZgiEDsF1TsBSKGBA6YCmRiQRlFUYOAO4KoxikXhhk7gNL1sW9+Cr/3HnAMxigRAiCBKNCJ32lyDHCdxSLsSxr2ZdztdD/XQy/tXYr7102GgS4hYUIAhqNlsAAPGYqJZ31wX+X793VpQrYnCFdfdOun8mv6VUmiahnaFIiAP/G3Z+bm5qCkSFaEutXjebD8daW5YqCX5rI/XtYnR3MxH5CAmxGYedJiFYZFmv24OYEH6Vb1cbz+PJ04k2/lhuZNba9frl2fnDz/vsRgZi5hmHfdpGA0iQFM2gKMqHgkbX+Hv1o18uKstLhYRwORgO+8bdze0ntUoR1mmGsjMUwDAMRc0AgHBY7Bzot63WXlaSlgPyerpzpBlfe9dX3we6wbkW7FacIiAwISaSgAGfT62O1O2D0Y5SSyVirDMeEvIfNjPJ+IVxrnd62XDI77DZrDigmRd7FW1blo+0x1LhsMRzFX5F8XuK+c/plOxzzR/Wm6e9/m4+J3ndszgGYsnCcfdxlfML79+JkeQmz+9w7L4grolKwOtc9CxsKYWBPqiVSrm3fidJ/AcO9Xrcb3YUFwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/32.png",
+    "width": 1920
+  }
+}

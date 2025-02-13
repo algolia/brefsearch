@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Attends, c'est toi qui me rappelle.",
+    "end": 10,
+    "index": 4,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=9s"
+  },
+  "thumbnail": {
+    "hash": "2f7f682b95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXBW2/SYAAA0M8NN1q+rjd6oy0NtGu5DGSwYhkMOrbSAYV2oaJy20wkGKfR6DTzgSVuybJE34wP/lvPASpDWlnVrRZmbj1oVnIC+97eX4+ch7n/3T8J66WVb8/PGmO7/IwiZbANSppcL2ZetJ9/W3jL8/ZpTl0elZbH9fuxN68dfAjad6vwetp/F7SqIq9uosDM6rZVa1nW56n3eHk+OSi+qRUnVvnGObodOutZMPXaH1/1bxb9tqbktzCQkZL5dP7QrE+d5u+5f90/+XrauAvdHz37MTz7t7r4Ega8lPJta1DQy1EC7CVEI5Xd1YxWwfj7dhTWzG7OmJmlrr571aj8uXx5OxntMJKspJta2oIUyPB8UkqiFK+KiV8zb2RVC6Lg5gxH1wcZ7WfQGRxaKJ0Q0kZKkHWcBsk4wwiJKKQgJNZh59Owq7C8qaoSKyoM9zD2Fq6D0ALJSnGSpyABFJqOQfJJBDIkc/962Cnvg6cQ32Fwgo/GKN8sX/VckpNwTiYojohiAEfg5nZsI4IycbZnVnhe2tjCkBgFsTgCaRwjLVXlOBHFGQQhkAj6H242VsP1VVH3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/04.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Mon ex m'a envoyé un texto. Il m'a dit: Ne regarde pas.",
+    "end": 46,
+    "index": 23,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=44s"
+  },
+  "thumbnail": {
+    "hash": "18b21ab817",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJ6fpra0tLaxr7ewsKyiqbinqca8vLqyurmxtaCIepF3aL63sr6yqmdaVDkpJjwvNwC+uL/Kyc27trzRzs/Bub/KuMHNw8e+tsiwpqyNZ1GHYFHKvbqSh4EVCARzUUZ0UkQAxbq8oZSZemiEvaiwr5mbsqiuw72/wry6x7/Ak3JfhWJT4tfUqZOHOSQbg15OiV9KAMe7v8fEyb+4u8q8wMCzusO5v8S8v7OssYyDenFaSVU9MF9YUYZ5d4loWZRpVYleSwCbjJ+Zdn2NZWmGZHK9tL7XztK1rK89NjRDOiZMPys3Kh4cFQ0iHBpsU0ZnRjdwST0Ar6vDYys3WwwLVjVdgoSlxLixgXh4CAIARj4zdGxjLSYjHBcXGhUVck9CaEU2OSUdAKWkwz06RDEPDFRAaoSBlr6zqF9XUQkDATkwI19YURoVGRUPEhEPEXVNRJ1qXzguOQCcm71MTGAwGBlSSGmjn67n3tJaUkkBAAAgGhIjGxQRDRAVEBQPDQ9TRE50YnoyLUEAnpizXVxzOBsdfWt/kYuYv6yNU0c2AAAAHxgQIhwYCwkNEA0RDQsLQT5TZ2CFKyU00Y+7JulzNmYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/23.png",
+    "width": 1920
+  }
+}

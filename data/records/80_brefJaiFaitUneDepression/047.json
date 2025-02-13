@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Alors, j'ai fait ce que n'importe qui aurait fait.",
+    "end": 49,
+    "index": 17,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=47s"
+  },
+  "thumbnail": {
+    "hash": "91bdc07bd4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABWElEQVR4nDWQy2oUQRhGe6C76r/VX9V17ek4Ge3IhMQLIkk26gPo2p34BErU7A34CEK2giLu3fl6kkTP/nwcvq7/j7EGAQiQkBAAEZmZiABgGAZjTIqZSbpa1sFH1TjcQIAq7vnZ0+PdAVgQImvtMAzW2pyrqu/2N8udeZvTzCzWGAIM6p+dnTw+2oFBJr4d6vte1fsxdTm1vXmr7IKoIDOSd67lksc45TKqOhYmRsQxRHauUxeICBGCcyqeib1Tutb0wWZTfaileR0RRVUBoCN0hGwtMMvox1H9arW6vyzL9u7J4WFLtdU5hpxiERFrbQdAeHOLiE51EuInDx/9/v7t8uLTutS5rUsqOaaSGxEZYzqwAGCJOI611amkcvnh/M+vHz+vvu6WA5HQ2l7wkVn+CSLOgr1NurfZf3F6+u7tmy8XHz+fv3/98lWKLacpxSn4zOyGof8LWaMlwMMdwxwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/17.png",
+    "width": 1920
+  }
+}

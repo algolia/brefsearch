@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "Le directeur m'a appelé.",
+    "end": 48,
+    "index": 16,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=42s"
+  },
+  "thumbnail": {
+    "hash": "a9ae57305b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAxRWOhm6eqoq6ln6yemqaVj5eajIqinqS/vcWxn5+EZV2DY1ppSkAyJSAOCwkSDgsAM0lnp6Gusqy4pJulkHZxdFlRV05Ln5uixMLJfHJ0JRoXPS4pRjMsLyMfFxIQJhoXADNJaKqksrawvbOVkr2KeqJ2aCkhHHFwdMi8wYdsZ3FWTmJJQVA3L0YxKkYxKkstKQAySWqsprS2sb6afnqNaFyKaV9mTEOUhoigjo98Vk6Vb2RpST9fQjlaQDZjRDxeOzUAMElqqaSyubTCm4WFoHVprIN4j2per56fu7vCm357lG9jeVZLZUY9UzoyVjszWD84AC9Haaeisb+6yJ2LjoJcUZp0aHJZUndydaOhqZF1cIdiVnlWS1g9NUkzK0s0LFU/NwAtRWmjn667tcKknahmUUtJOTQyMTMVGhxVVluVfHhtTUFSOC9GMSlFMChQOC9ROTAAKkNnnZipsaq3t7C/kI6aKy41Gh0gHR8hEhYYaGVsmY6YcWNmOicgUDYsXEQ8aFhZACQ/YpWSpKymtrCrumVpgB4iLCEjJBsfIQwREyInKZ+aqq+ltFdCPYRxcouDlWVjcoMLsS9x5ATZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/16.png",
+    "width": 1920
+  }
+}

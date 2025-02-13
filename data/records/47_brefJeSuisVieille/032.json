@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Parce que j'ai plus toute ma tête, mais j'ai encore tout mon cœur.",
+    "end": 35,
+    "index": 9,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=32s"
+  },
+  "thumbnail": {
+    "hash": "68aa5809b4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nC3L7XOScAAAYFRABvOFCVmOcc79bDpmKgqMfGGg3gJRhm83cWaw6e2lTKtbeWtdH/rDu3V9fx5oZKhWQ5laxvuuPm6d9mvy1NC8YXeXpiHIlwGcmJfSbBLsMXEyTEfDkNPWLho1p6WYUvl+3NvczL55F47ZjIXJgB85YEEpJ2T20wmKihAEhmDQ0DS+usPrnjl913i8d5+W178+z+8ci4qQfh8cpxL8cZkDmVg4gqNbKIxBtlL/fjN5Wi6Wk/6PxeXmzn38NH+YjwGTgHzoTpSW8kI2BaJECEO3UASDjFz2izv4s1n9Xt+uJwPP0tVjrqfIK1u70psSlxXflNLsfhjfRhHsOTQLwszS155jV+XFueG0lDLLlpLJ2079Z19pSwW5KACGxYP4/6AWTz6cVcc1vrTL9Con57KoC2XPbnsdVc3nikcFRXibSjDYP43AQahTrc808aMuDiv8lW0+zCcrd+SYag6Al/HX6VRRyEscOCKwbTiAPodRu1s5PKgf7k01ftCqZEEqFgqRaJDE8DjFhAiaeQUE/jQWfRHwI3Ag+BfFKVmWFMLf1AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/09.png",
+    "width": 1920
+  }
+}

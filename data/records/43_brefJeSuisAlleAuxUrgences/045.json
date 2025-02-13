@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Colombia.",
+    "end": 51,
+    "index": 25,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=45s"
+  },
+  "thumbnail": {
+    "hash": "2218d8a07f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBXW/SUAAA0P6AmTgMUJi0o723H5SAWAYU3PhoS6jQ0Q0QHLAOaIFMRhPFbRhmMNKNAU6jL76YaOKbf9JzkF690as3NFHO8rFx8+TWXtzdr1abjb28m36cvbu+fnt5eTWytIN9BttFn7gRq9ubjUdjXa/L0rTbnn+ar78+GH3jQMzEU/GowJdV9eqs3VEkZY+PkCRy0Wo+3Mx+r5d/Vva/H99+ftmUjg+ZUIDiGIwkREl8lS+05dxUf90v5VtyFjEr2sIa/bI//723lwNjMRy+SAl+GgbCHBlg2tX67fmwW5CkZ+GGmOkU88iZpn4Ymt9vpuuJdVE9zsX2KI4FLE0H6TAfMSuVRd/oSBkBUsV4rCnnkHwyYVSP5qPBRD+Z1GrpWMwHABWgqSAb5LjILtAEwRDTZkEcHL48zctICJBKKmFUyrZ1/v60CQBEn+J+AEGApQmYxEklyuti5k1ZNUvFWiaNUBgWJPxRjmupxX7tCLKsx+ffdqA4pBiWfU7AbCikJpPVbE5JCPvhCAIwHPowv3cH+nAWQIJmMAJubTldqM/jxd1OL+rccTnQ7Ucu1OF1P/b8B1ufeWxHf3AiAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/25.png",
+    "width": 1920
+  }
+}

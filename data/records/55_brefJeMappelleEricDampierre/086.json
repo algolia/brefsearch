@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Parfait. You win perfect.",
+    "end": 90,
+    "index": 43,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=86s"
+  },
+  "thumbnail": {
+    "hash": "f2dbb6f551",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nBXQ226bMBgA4N/GBww4YAzmDOHgNCHJmjRrq6zqolSd1lXTerG7vf+DTH2B7+IDAOAIM4QxIASIACoDuYx1F6l6EVZykfuBdCgFxAABABBADiCGHOGwmHtrrdswWhmzy7NvbX2qiklrxQUDJADwJw8OBociFjLvOnT/DvNdkY8qfmqqv/ubP/N07Zu7PKuFv0AOAQAXE4YoBZa4/rVvXsbup+2/VmUWhHOW74tinaRfjDk39T41SymBI+Ii7mIeEHcdx89d/Xs1/hiWVqdZoHKpTKD27fB2//h2//h6OIKDMAUqMPeIG3P/oSwubXVpqvdVfyrLQkbWlE/z7nJ7+H57OM9byITQTBCgkgqOOUE05v420e+2/9jYUadz3R0Hu+v6bdPZvILVQmrGuEN96kbMm5Qynjzl2S/bfWzGY1kuk3wwRaOTItJpEAJGn/fG8zdZdmrr17V9ttN5mh669iZWpVwo4cdeEHIvoExg8h+9VCZFQVm5igAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/43.png",
+    "width": 1920
+  }
+}

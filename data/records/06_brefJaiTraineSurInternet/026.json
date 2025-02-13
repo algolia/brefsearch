@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "name": "J'ai traîné sur internet.",
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU"
+  },
+  "line": {
+    "content": "Je suis allé sur son profil, j'ai cherché ses photos, j'ai cherché\nun album Été 2011, 2011, rien. Été 2010, rien.",
+    "end": 31,
+    "index": 15,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=26s"
+  },
+  "thumbnail": {
+    "hash": "ffcda2af8a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWtJREFUeJxN0ElPwkAAhuH55V7lqjHxoFESD2gilGKX6TItHWft1BaRFghUaYtLXGKif8CAB02ew/tdP7C709pvHRzttduHF51To9cJjZ50jFsEi8CbBd4MwcK3xu5VCjVhdTE43j85P+lrHWT3JXIm1+GSkRXnjdjirGa0orjEwTx0c2SmoHtmEjRNxHo8+sgnX9Piu9ia/lPkX5Px5yh5SVgNAitjwzLmjRJrQauYN5LWkjWCVpLVnK42k1aCVDFreHQPOm3d1qXZF0aPmBoPnTs4UJ6Z2bqEg9jqC9dMLY3bumT4gUUlcHTpGAoO4gDepvI1VW+ZekvjTYySj633TL3fxK+S1jRcgJ52EXkFCRcYzTYRLEi4xGiG/bliT4o/K/4k+aMgFR0usJcD49KFGvOtzLdHgTuhuGTXD3/wPY2WvxcFVuYNJIgsieEN9XMWzjkuY14lYp3ILbFWrJFkJYZLjqbEG2OofgBxYVCOgKRzjwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/15.png",
+    "width": 1920
+  }
+}

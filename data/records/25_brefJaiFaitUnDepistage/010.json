@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "T'as pas pincé le réservoir ? Si, si, j'ai pincé le réservoir.",
+    "end": 12,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=10s"
+  },
+  "thumbnail": {
+    "hash": "ef5c733bce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABSElEQVR4nE2Q20rDQBRFA5k5Zy6Z3DqZM2maJk20aC1UtNa+SEHRUksR+v8fI6kKwn7ci30JbLUrJq9F/e6aT+s2JT35ej/uz9QeVVRxhsAVZ8hDYCFyJgM3eXPTvWuOvj3a9DYzMxNf2elHRk9CxJwJRANccIYsBOAquLg/y+7Ltwejq0g5ncwNbUzaCYz+AHlhAGEADtSexv25nJ1MNFHSJn5j/MakDQ4AChEDKODykiAD1xx8c6jr18pvya7Irrr+5KoXHVdDpRBQxAgaQbEQOMMhoZrs6vGW7H2RLsk+tNP3snxWESEaFnIAjWKY8bMkoHrvae3scpQtEtNT8ehpnaW9VCMAzcKQMY6gOfsDCnrOky5LZjZb5Mnc5neJaWIzlSoHUIzx4dNf96DASNKyyNNrskub3YzSK6NLJa0UsQD9888/yW/SviH0d1KR5gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/04.png",
+    "width": 1920
+  }
+}

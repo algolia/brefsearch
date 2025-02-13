@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Parfois, ça payait, mais ça lui coûtait cher.",
+    "end": 47,
+    "index": 22,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=46s"
+  },
+  "thumbnail": {
+    "hash": "32d4095e0a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nBXOS0/aAAAA4N6W7OBiopIK0xQo9ClU+oLSFgqUMhW1QAv0QQsVageOIMlwI9lpr7vb0ZPXLfsN+2XLvl/wAQyWycOp44N9iWNzcCa5fwDt7aHH0AmKF2lKrYjGddvuG0PTGJi9gdkDeBI5zaaTIMickEg8HtQFt8JX8YxW4s2O7g56nmXeTPyRYw37xrBvAKUcxmDZFHhY4RgSgmoYvLxQtj1t0lIasijQdFOpaQ3Vtq2R69jWEChTJIMjSRDUpDKDY1dcPpCZQOIiTS5XWxgjv06kMJzS2t1pdOeMPECkSA5H0/G4Wi7VWDr+areGpqO6cHlKCFW1Zbj69P7T06/lt8fxYjWaTIFynuAJFIrFFJ6tsfTui5eJnZ0GkmKPDokcwzc7o4cv3//8ffjx7C/WThD+LxUQmCXJdXijq2qzWCxiaLtAvMmhEkWJbGmyWG+ffr9/fJ6sNu7sLcATCINnQ9f9OI9WwfhDNNvczhb62fy8HnSu7cu21z5bbL+Gn3/KzStBVIA8nJQKVOg6075553vvfHcV+EunP7tQx13d63ascy2Y3+vRJnEEg7HEP38HePJEY0qEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/22.png",
+    "width": 1920
+  }
+}

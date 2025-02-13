@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "On peut de la suite, on va dire:, pas deux fois.",
+    "end": 110,
+    "index": 35,
+    "start": 103,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=103s"
+  },
+  "thumbnail": {
+    "hash": "c8c4eb0e7b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABK0lEQVR4nB2Qy0rEQBBFs+q69ejqJB3jmInJJEFmRsQHIi7ciGtX/v/HSAeKgoJz6lVBBuiR7Z7jiePCvrJv7Bt8KaVO0FFsEjmCbwl9RUUY2aYi+MZxha0l+4q4QgYucSQ0hJbQ7oIMEleNG+ykzVNsn7U+o7SfRUaRYUfrQClQqlL30R5+LF0YncbT7fKXh+9088Y2773vwLnQSIE8kFdN/1XnT+YeyKl77effun+35mzNBdKHYIREqFEmeCCr1B+ADmiZb7x9tOYqcbLmGvOL+hx2bhdSoFgE0ROhCZQ0zp5fOU5S3nUvcVSf1ed9+4JSMduKddwFl7hoOqsvogP0ABvYjpA7Qg4UiTuxWX2twD3t1xAyazmR0bH04C4UNBPlQM5ysPoivv0D1iwbgzdQhRkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/35.png",
+    "width": 1920
+  }
+}

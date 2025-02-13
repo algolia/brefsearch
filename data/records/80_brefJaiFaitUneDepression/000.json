@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Capitaine, capitaine, vous n'êtes pas le capitaine.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=0s"
+  },
+  "thumbnail": {
+    "hash": "4f1521766b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABRElEQVR4nBXD246bMBAAUBTsmfH4GnM1C8QQIGzasupT///PqkjnFKIsRQmiRJBEaFl3zXC144+xPevI7BVZQkZkkASSilKI26dEUKysUo45GlNrvrNyTJbJKtQECkEJSYURMrDtY9OHOrKd2nEfn1/3bkk5p8cU6im2ycc8PGYXBtZFkJiqfp1fe/4eXL0/3tdxLe0yD9t1/pzzMQ/nNOy/z7+P2HXEBQpgMt7cl/HominEo2mOWvve1+/t/LW9U/Oc5z+v61/sc82+8IABaGKdtc3GLS6uLn7ZkF18herDhd34zfkuND2b4k5cIQ6KZ21X41ZjF2OTtonNU9undpvxu7Y760bpCqggICNkBdgRDYpHpSelG/pY2C5sV+0ym5k4AnoJxa28QSlMCR4wAtaILZID8siJOJFKpHpULVCQqIX8D7vZHZRZkz4/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/00.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Capitaine, capitaine, n'êtes-ce pas le capitaine ?",
+    "end": 113,
+    "index": 47,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=109s"
+  },
+  "thumbnail": {
+    "hash": "03882d1bc4",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAs0lEQVR4nIXP62rDMAwF4FiyXRFwAprji+TYbfP+71gaGGyQdd//o6MzTb8BgP3mrDNgps8Q0Xu/nOhG1tp/AmCAmXvvfe+ttRCWT7eJKIRFRGupOeW+95TynyXWWmbOOddSU0qttfEu6sx8vcM5t22bVJEqJZdaamu7qsaveF3ivZ/nOcYooiklFW2ndV0R8forIlLVMYaIjDGO43g+nvfHPYRAN7qOAQAiwg94AgBj3lteUrMOFBKUAxMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/47.png",
+    "width": 1280
+  }
+}

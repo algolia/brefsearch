@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Alors j'ai dit: On va chez moi ?",
+    "end": 74,
+    "index": 32,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=72s"
+  },
+  "thumbnail": {
+    "hash": "8bdf207a83",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHBTRYNrTZ+kXZ2xSZ6tZ+To6+rm5JBkUnlSQ002MYhYS6xvXp1kUpFfTYtaR2xFNgCNbFmihWWUmVejtFOnuFJkblKWjIuqdFubZlB7TkCRW0mSXEpPMSpIMi1iQzl4UUEApIJrw6yOlpRllKFcsL9vVl5GVEJBrnFYtXVfo2ZQsXVfoWlVaEA0ZkQ5g1hGdE5AAK+PeNvGrLijipGLgqanqo6Rqop6gZ9kS6hrWadrWMOGcKlrVapvWbV7YrR6YHhOQACUcFvPtqfDqZqVeG10a3dST2VpV1aDV0NiQDVrRjuCVEebX02mZlGyc1uUYUt4Vk8Af11Lr5CCtKqsZFNMSkFESEdcSDo+g1lHbz42Xy4rUC4nc0tAj1lHjllGZ0pCQT1WAG1PP4RlV4l8f0ZDSxoZJjg3SiMgJ2tKO49YS3M2NG04M1o5LmxHOGVGOU1GUykrRwBfQTNqVVJFPEBGQ1kyNUhTVGQgHiY9KiN5UUR0Sj2DVUViQTVGMCcyKCtKR1c4NkQAVj0yUkNIKCMtLS9LPT9SQkJUFxUgKx0XQS4oSjMsRC8mKR4aNyknOjVCV1VjWlhkxfSliskTVuwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/32.png",
+    "width": 1920
+  }
+}

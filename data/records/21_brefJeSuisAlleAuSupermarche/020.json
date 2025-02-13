@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Et puis je me suis dit que si le caddie partait à droite, c'est à cause\ndes mecs comme moi qui surfent dessus.",
+    "end": 23,
+    "index": 13,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=20s"
+  },
+  "thumbnail": {
+    "hash": "668d494b1a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGloeXh0eWNfhltYeXx0e5GJjZqJaqmbWaOReqqmraChvJCLf5iViJyXiYNsQIN3ZgBmRzF8aF6JgHdzamVvbGp3ZmB+a2ibnHiklXmzq5y9tZ2vq4W7rn+nkUCbjE+Lf2wAnHhioIl7o5aHk4R9d2VifVVDZ0U6fXVspIlwt6iKyrejxruewbOXtaZ5n5V3kolzAHhhZoNsa5ybn4R1dkQkKjInKz4tNB8cNoBTTLenkLCej6+ZlaWbk6ual5aMgoh7ZwCHOByPYFSem5JfOy0eChMSGy8VFzIZGy9pQjS5rpqXkIqOi3iMhXCLeGF7cVZ/enAApouMn4qMopyTbUNCGgwTEBgqCRMqIRghi2pBtrGlvbavuLCnurGpvrSfnZFsVU9KAIpaQaB0U311ck02NyklKwMHFhkVIWZLRKqBabOpnL+4scC5s8C5tL64trausKGWjwCUb2eOeodfVVdQOzhhUVFMOz08MTV4amS3q568s6u+trC9trC5s66zrKqroaKdk5QAdGZsXkVARDk7NztHXVNRk4eDVlxfU1lfopuUsKafsqilrqalqqKkpZugnpOal4yS0gLOPLorG3IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/13.png",
+    "width": 1920
+  }
+}

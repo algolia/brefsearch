@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "J'avais plus d'appart, plus de coloc. Mon lit était en bas de l'immeuble.",
+    "end": 91,
+    "index": 40,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=89s"
+  },
+  "thumbnail": {
+    "hash": "297214585a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALGqp8G4tG1tfjQ9VIKGlYZ5dj0vKDo0NkVMWzc7QS4vMRgcIC85SF1ngVJSWjkvKgC9s67HvbxtcYUyPld0c393V0pgOCxELiNKQjw5ODciJiwpLz1qboNseZQqMD4uJyMAxLqyv7ezYWh9OkZcc2lpaEExcEQ4ZkQ4JSUnFiAtIS09ZGh8pKOxZXKOICo/aWFbAMS5r7OrqFdfdTZCV2lgYoNcTV00K2hGPSUtNhssPz5JXmptg5aTo1pjfTE8U6ackwDAtKmmn5tPV20xPVJHS1xkTUhPMCZCLSsnKj8xO1dBTGNWXHN7d4tcYHYzQFinnZcAu62hmpORRlFnPD9UTzlgPigqRikfLxoZHhYpLiI9NjJLRVBqVlVpSkhUNEJcjYeDALGjmI2GhUBLYTM5TDAfPC0YIEYgFT0hJRsUJBoUJCIVKDpAWzk5QTEwODZEYXNvbwChk4l6dHQ6RFouNkggGzQpHjVPJyA9ISwfFiscGCkjDRwyKD0jIB80OUUzQl9cWl0AjYB2Z2JjMTtPKzFBIx44IhkvMhwdKhsqIRwyIRotGBEgJRkiHBoZNkBULjtUQkFFa06IxaekVigAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/40.png",
+    "width": 1920
+  }
+}

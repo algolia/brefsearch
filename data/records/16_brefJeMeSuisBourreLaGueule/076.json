@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je suis pas chez moi.",
+    "end": 78,
+    "index": 34,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=76s"
+  },
+  "thumbnail": {
+    "hash": "29ef655089",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHpyd19ZXlVFQ31RR5JiWI5dU39NQT4iG0EfF1gyHlAtGlMwHVQvHFEvHEcoF0UoGABvaGo7Mi5EMy1NLSRYNC5AJyCBVklqQDVfLCVcNSJYNCJbNiNgOyZdNyNZNSFYOCYAoJaYpZ2gm4qJf1RNil1Xe09JlWhfaTwwlGtkoIB2mXlteFZEXjolY0IvYz8qYT8rALetsLuzt6uYl2A6MmI8NYhXTG5AM2E7LaR9c62PhrSdmLSalXNQPl86JmA8KWZBLgCzp6mnjImHXVNDHxY8FxJNKh05HRBuRzujd2qWb2Ghgni1n56mioNnQi1dNyNoQy8AsZmYoHhwaz4zPRoRPR0ULhUMLBMKd0o+jGBUg1hKcEc3nX11tZ2anXptZj8raUIvALaen7abl3hRRj8bETkYEC0PBkUeE2E2LWhANWA5KzMUB3ZSRaaEeq+MgIxiUGQ+KwCumJi0np6jhX9OKR8tDQc1Ew9EHxtBHxdIJRlUMyZ0UEZmQDF6UUOhfXGcc2VhPC0Am4SDooyLjWxga0g0aU0xclU2VzskRicVa0g9poeCt5iXmGthXTglcEc4dEs8VDAksdWV19L02ZEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/34.png",
+    "width": 1920
+  }
+}

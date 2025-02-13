@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Sur son profil, j'avais analysé des trucs qu'elle aimait bien, alors j'ai disposé\ndes objets l'air de rien sur mon lit.",
+    "end": 81,
+    "index": 34,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=77s"
+  },
+  "thumbnail": {
+    "hash": "9dd336e4bb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJCHgZCDeamelKGTiZyNgndsZFVAOXNgXIBzdJqPk7uvpr+uocC1sJ6Mg4p4cIN5dQCmnpakl4y5raSuoJahlYplVUxjNSOGaF9sYGFWSkm8r6WKe2iPhHuhkYq2qqOLgHkAubGor6SXvrOor6KYdGpoVEdLbE9IcWJgX05KNSAZwLezr6igqaGZmY98lYp/tqurAMO8trWqncC1qaWakU5FS0xFT2tlak5BQDsoIisZEquim9zSzcK3sJR/bqGTlHtufADFvre4raHCtqqck49LQ0s+Nz5pX2JZSUQlFxEZDgmvpZ/RyMPFu7bDt7PGuqOzp5MAwry1t66iwrirj4OBPjU8PzhBcGduX1JOIBcUDQcFsqijzsXAyb+7zMK8x7y0vrOtAMG8trOrocC0qqiNgl5UUEM8SVxWXE0/OCwfGwoJCa2moM/Gwsi+usi+ucK3tLOopQCyramqopm0qZ+6raVxaWEwKSwtKSkyJh8fFxQMDAytpqDNxcDEubW/tbGzqKShlpEAnpqYmJGKn5eOtK+pgHdwIx0ZHBkWKh8YIhYPExAOq6Sfw7y4tKqnq6Ccm5GNjYOAir7by2iIKjQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/34.png",
+    "width": 1920
+  }
+}

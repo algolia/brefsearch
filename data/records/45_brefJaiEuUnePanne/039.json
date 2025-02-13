@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Elle a dit: Attends, je suis sur toi.",
+    "end": 42,
+    "index": 18,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=39s"
+  },
+  "thumbnail": {
+    "hash": "01b70e5be3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABTElEQVR4nB3H2a6bMBAAUBQIYfGMZzxewZAQFEKqIuVWt+tL//+vKvW8nYLoaszq3Cv4rzG88/hJekIVCBMoD5CYZ4QIyju3O/cqiK7WPoM/YvrI+fv1+ie4HcGDkq7ViMnKKnIHTM5tKR6FkdW7lw9HHL8N+XO5/brffjNlUMI0kM4iq/eb4cnJ4t1a/P8rxiMN7xSPIX65TR+Px19UTnhmykyTlZs1s6GBKRXMi/d7Ssc4voN/Gp0EY7Jr9LuhjJi0HggTUyIdDeVCKcuUxczBP2PYWFnqmTvelh/O3hEc0SBmZh41BuGp6DtSvQEliM7y6DgLOGr1lvfn/afhzBisTKSDRm94KNoG6rq51K3qCJTR4AwG7uUxPJZhIwjQGQTpO24bBGWKqqpPp7Isy6qsLnVTn5uuBVCiwavOqJb6BrtLf67O5elUlfU/h2IjmNFID4QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/18.png",
+    "width": 1920
+  }
+}

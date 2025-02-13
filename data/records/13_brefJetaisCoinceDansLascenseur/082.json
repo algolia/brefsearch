@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Je lui ai donné ce que j'avais.",
+    "end": 84,
+    "index": 36,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=82s"
+  },
+  "thumbnail": {
+    "hash": "751997d9f2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeUlEQVR4nB3Ly27TQBQA0FFiezyPO+8ZPxI7dhqTRHWdNCWp2xApSCD2CMQOsemKBTu+AfEVfCpSpbM9KFccCJ47va6K43Z1HrZjvxmH7eUwfHp+++Fx398sZk7nWlgBLE0QMAI01UCXub9fLQ5d07fVbVv1y3q3qt/drq6btnJGMkriKVCKDE+BEiAkKLHI7LIITe7bIiwyVwfzpvCHOnx/+fPt5e92s9tUMzSTtLUik9wCM4J6BbmRpVVBCyfBCAg+e//xx8/f/y7Xz85oRJLEcBIEC5JnkodXmRZegVdw6Jan7Wa8G798/VWXtQWKGgutE6WC18OcYFZwIzijhFNSOL2e5/fNbGhqrQzBGMVRnCaxotgJrjhlBJMUpziJ4mg6jSbRFE0myWTiGcMYR1GEojhOMVbArZISuOCgpLTaeOMy53OfFSEvfVZaZ5QWHBAwHqyvy2rddsO6P94dnvbHy8PT9fF8PZ0vD+Pz/nTsd0PX3czrwoX/NI8skoLASqgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/36.png",
+    "width": 1920
+  }
+}

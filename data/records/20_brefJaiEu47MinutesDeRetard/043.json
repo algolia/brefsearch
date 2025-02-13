@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Il m'a touché. Je n'ai rien fait.",
+    "end": 46,
+    "index": 22,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=43s"
+  },
+  "thumbnail": {
+    "hash": "78dc3e1846",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIqFh4dkXSsaFUgzKZNhT4pfUoZbT5VfUZNaSYNTQ0w2LnxyZJ+QeWVaURMPEg8IBwBbX1+OaGFXMyxyU0Wsdl9YQDclGxpAKB97TT01JSA4KyWThnSglH5RTEYNBwgNBgUANDk8Y09OmGBVhF5NzpJ2sXtljFxNo2lUuntldE9Be1VEmId0opeCVFFKCQQDDgcFAB4eHygkInZUTHhWSLN4YcKAa8J/acF5YdaTfaRqWIZaR3x1Z5mNeH1vZRYSEQsEAgAeHRopLChQS0Z0V0qoc1y2d2G5dWGWY1RpSkFtRzttUkRhZV+NgWyJbGAvKysJAwEARkdEUFlUd21lclZLhGJTpnFbd1NFWT03QCknNCQdSUI8WmJfkoVycVdMST8+EAsLAFdZV3NwaaiFdXVVSUw8NXlZSnVOP3FBPVkzMkY0LoKBg3d9fm9tYk4+NV1EPzAqKgCfk5a5m4rAkHiLZVU1KyY1LChhRjpuSj1IMytIOjSupqnOx86zrrVTS0heOzVLNDIAvrHBs5uTpn1plm1cYkpALCUhIh0ZLCMfNyslVklFiIKDr6erycHMe3J1MiEdMRwYfimY2GG1Y2cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/22.png",
+    "width": 1920
+  }
+}

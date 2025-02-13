@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Mais comme c'était pas logique, une maison avec des cheveux,\nje lui ai rajouté des oreilles.",
+    "end": 12,
+    "index": 5,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=9s"
+  },
+  "thumbnail": {
+    "hash": "3d9cb53b4d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nAXBz2/SUAAA4P6nHkycyTx40cQ/QCcuM5oII9iESSYrY6sgrLR9/f3W18orvLa0XbGUDrqCsOFBD179PoqhjzpfK6DbQBIbOrIpDRKm7iEFCkJiyjaGIRaR1BLZGvvl49nnQ6p7VoVCO8DKbezc5YkN5Kh9niDoKlqs6T53tUgnt1PsDQWNa3ZOy5TGMQHW8jTYFfMsS9eAcwVhc9EqOuwQ6L/eH80sc7Nd5jNvgmWl36SGem8ej+7v0mK7ioj7Rx0QEyWKUvDcRpWmBox0fTnCD5tlFjs/tO8UQWKeTn7frxybxEDOonBdr99AmHHcvx7rmDiz7VwGqxuyTP0x4qmh3i9mnpMuQrqx4/sYOX9LbxLfDyF6APzcMEIIyTUMMPrpXkPxktL5FlGvpAo9LR0uqhXS7UVAWuvKlmDshRkZ7bARGYofuzYCgwua6jWPmYPX1v5+/nRv8fKFxzQtPySaHgDg+v6YjIjMeVgRNO7yW/O88YmqlUuvnj3vP34k7j0ZvD0I2VPXs6whHFsqGZu2JaoaB4T2SeOYrn2olt/9B6EOROIWPnW0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/05.png",
+    "width": 1920
+  }
+}

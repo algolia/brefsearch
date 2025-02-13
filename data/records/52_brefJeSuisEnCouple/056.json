@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Il disparaît.",
+    "end": 57,
+    "index": 26,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=56s"
+  },
+  "thumbnail": {
+    "hash": "cb53f52f2d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVR4nD2PyW4VQQxFi1e2yy67xh7SjyikCYkQeonEikRhWsGGJSs2iA/Iz+SPUTcS0pVX51j3uuu7z6ePP0UyeC6ahGRZ1otlIYwI4f7b7z9Pz+vFdbWUrCKoO73/enX64tyhp3xWc1WTwGNOCCySHr//enj40a22XIsWQnE3r29aagy8jv281cuhKqtxJBAEce5FRJxzmVs/a13Z3MtxFpQq8d1x+rAeb4+DkqAPBIwgRNatnLe6LvPU6liam2sTFAK+moZPby/fjB09w0ZvAnhGL4OVpfetlRVXNfG2T5qlV+Mw5bpBex/CCF4QYoo5coqSTItjUsJIGIuVQHo4MEEkVAQFL+Dj/win3iYXdkEkq7bdVCKjkBATwD8t7lcDWcmD25/FwFWkBDSijaOQAQ1AAxeiDGCIBl49pL+hnhidFx0TMAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/26.png",
+    "width": 1920
+  }
+}

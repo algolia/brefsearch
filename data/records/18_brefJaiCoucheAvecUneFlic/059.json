@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle s'est rhabillée. J'ai trouvé ça triste.",
+    "end": 61,
+    "index": 26,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=59s"
+  },
+  "thumbnail": {
+    "hash": "332d13c26a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFFDOG9SRXFQQIJ0ba6lqbCpuLCrvqqhroVuXauPd6mQe7Kbg7qjka2lsb21wbmyxwBWSkF+Y1iKY1OolIu+tre2rrOonaGMd2uOb1aIZVGaZ1ecb1yihGuyl4O7nom4opkAoZWPkX11f1lJlHZonYuAmYJyj3NYd1pEckc5oWFTnWdZsXFfiWFMpYZtn4RzqopwAJKEf3BeWHFOQJFqWXlaRnlZPnRWOmlCMXZANplaSrx4Y5VbR3FSQq2LcqGGdXxtcQBpVEpSNCpaNymEXEyMZldoRTBLMh9MLiKNWUabY024cFZQLyRTQDOykHiri3OXeWcATSwdUjEhUjcnb00+fVhHXTknXzoqQikdUzUjdUczekg7aEI8h2lRnoBsp4hwlXVeAGtXTGBGM1c8LXJQQHZRQGE8LX1MPJxhTZNWP2Y/K21PO5JrUZ96XpmAcZt9ZoluXQBiT0JYPS9dPC9sSTpoRjZlQjN1SzqHVEKRVT9yQy91TzeUblKffGGmhmulhWiIaU4AVCwbYDgnaTwtSikfTzUoakg4eVFAhFlIl2dVpXFen29dgl5KkHJZkXRchGpWY0xAbyGzeZWIp+gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/26.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Cuillère.",
+    "end": 121,
+    "index": 38,
+    "start": 119,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=119s"
+  },
+  "thumbnail": {
+    "hash": "b92a7e02d7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nC3NbW/SQAAA4NvuuOv1Fdrr0dJaWmhHV946ECYoL7MTNNnYiNZUwSwxLvpNs/lhMSbqP/eD/oAnD9CooFNiq2JgqqlnLhJnGtuLXrTZrt/sr/NRMHe1p53GyOexZ7kWB6lvt12WuEbf41kS7LKTm83kfBD++bb/dbvdZWmx7BXz4cXpcewyUxbA2De5wTRZdpj+LK7ny97Hy/H97sXvL9ffN6NP6/R22Xnb9e5eTtOm02vUQF+HBMJDCCVKu4HzOKp1fSuxK9N2cxXamVcpfHVliduQj5NwPkhAhWKCCYRIolSTFU7hxFMHvj5r1RZJ40nLK05b+2FjGVmxU02CR0AWRYT+G1WSs/7Rjw9nDzfnd/nZ/dXs4fPrr8X656ujdcxaZlmjFHC9jCCGh8hmzK9W03ptGLqrk+j98/Td/Phy3MxnnXwStV3DUCSKCeC6jiAGADarrM4ZAAAeHCi4JCGoCUTBWCkhDJEmUlwiAibA1CsI4X8JQVggAkaYKzKTBMcoS4JoSFSjgipSjDAp4b+nrjttlzQqxwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/38.png",
+    "width": 1920
+  }
+}

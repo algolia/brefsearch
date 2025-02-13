@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "J'ai des centaines de souvenirs avec elle.",
+    "end": 95,
+    "index": 43,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=93s"
+  },
+  "thumbnail": {
+    "hash": "d83050c478",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nB3L7W/SQACA8bJe73pv5ej1vQVKQSiWMTRSO63VUibJwDimOHHsi1ETE+P//9G45Pn2y6MQKqfzetBPJ93u6frDl/e7u83N6nnuu3FgB+N+nA6GQz8KTcegos1MhTJrlF6+vlhuX+Y/958OV7uH632RLTwn9qTXc71B2F2OJ5u8FIQzzBXGrMGTvCne/dpt/x5Pvz9/+769fTHOesEwtP0OM3qOV8/nt2WTeCHHXKFU9pPFIr24X1V/jg8/9l8P1dUk6gduL7BcpOmSG2X29H6zK5/ltrAVTDq9+Hx5Xpya+lCvTtuPN28ayYVsux3WRhCqLTCNovWyiNzYFL7CqCkM2zG9u2Z9XK3r+SI0bQh0y5ACU+1MlYxkXT+Unil82QkUijlFDCM+i0f7V2WVzUzWhgATqBsIqcrZ22FYzSYUC04FwVzBkGBIiM5NLi/HaZVOR24AgY6AhlQNqQiqeqsFNIAe0xX03/THjSaWUyTJ1PUQQBBACBBUEQQIQYwgQRqBGvkH+sw18TXUyaQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/43.png",
+    "width": 1920
+  }
+}

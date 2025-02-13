@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Après coup, j'ai compris que Marla était arrivée dans mon ancien appartement,\nque Baptiste avait ouvert la que Marla avait ouvert son impair,",
+    "end": 31,
+    "index": 11,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=26s"
+  },
+  "thumbnail": {
+    "hash": "828dcdcfd9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nBXLTW/SYAAA4CZyKSCMlomgtEBHP95+vAX2QXEooZSW0pZCCx2wTtisw2VZomicW4yJmYlHT548+kONz/1B+OxOAk3GHsUSaHyvQrUAaxw2blfLD+Ei8sddpakbtmnaalejKYoHHHKUT1dwLJ7A+UrROJD8zrHbbr2fuffR+lO0/nixsjRd7fZ03QR0VRR4pJnfaRcxIvuUIki7zkSOvp3a22D85+Hb318/795FtjXqaYZuDCWOkyUJOcylVALrl3frZP6Aej5uK5Gpvla7D1eXv7/fv1nM/dnScT3TtCEADbmGyHhSyaX65ScWKOLxOEOS52bvyuj/2ES3m3N/Mgnmp87ItywX8ny9VkNELFlMpbOZHJUvlDIZlii9hHDtDK/DhTcYuPbC85eeP3PH3v8AZQRPJFH0cTq1W8gxFKGMXmnqfk1mBaPT+XJz3ddugHDy4ng6tDzIs1AUkFgMxbFSmWwztENR9j6chG4YnYRft59X4Z3ceCvCNcPNGdalq4oAIPKs0KjSFscHHB8AMGW5QIRnrdbmqHkpwAtBOhOkUxbMKNot7zksN/gH3/Jlmw1xvl0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/11.png",
+    "width": 1920
+  }
+}

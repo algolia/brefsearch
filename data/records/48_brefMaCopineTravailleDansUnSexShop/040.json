@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "name": "Ma copine travaille dans un sex-shop.",
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8"
+  },
+  "line": {
+    "content": "Ce qui compte, c'est qu'il tourne équilibre.",
+    "end": 43,
+    "index": 20,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=40s"
+  },
+  "thumbnail": {
+    "hash": "50e916a55e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nBXNbVOacAAA8P+daykiKCSZkigjULBUCCwSbJaQDxg4H+jUaecc627tdrXdLVu3rRfzxbrbm932AfZ2H3LXB/jdD5xphinuu5r5zfvqlDp7qdLZwXTR/nhnvHNzLTKCxcJYBEYRP0IEwgkIA46kdw6PL3ojQyzbYvaqrlpCYaI4X+pXb9UBhUdJnIiFcRhC4UeDAltQXhRkr9OXk6nlsP7vw+TvuD+XaqlwUiU5R8hIZHwDi0ZCWBB6fMC5dGjlip/c7ne38TBsXFeVa00ZCBoWoRJo/L1WmhUyW1ECC2GrAcS/GgIjsdLdVr3y8c/R6e9p68/w5L5abm8WMCgWfIpeqLuenGsLTBJfgyHEvxIETU7s5dRR8WhhGW+0/Ofn8vgZV1nnjzJFlWbqGfZSl26aqrubNVjKZmmwE085wsFNs/Fr7pzr0kzcqW7QWop/mL/yaobOcM42e+9U7iz11pSXpgo4Mi9m7dfd/o+pcVnJT3iZJUwlrSx6TiJGp3FSXKdqWbbKM3s0JZEkELY6adreZKyx0Vq29Vt7wDMzjpqe6i9PSvtrCIHDUd8KAp4EgS8AfP7/YshgJtle+kEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/20.png",
+    "width": 1920
+  }
+}

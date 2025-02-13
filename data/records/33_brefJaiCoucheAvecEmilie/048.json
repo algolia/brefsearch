@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "On s'est revu, on a pris un verre, on a comparé nos vies.",
+    "end": 50,
+    "index": 21,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=48s"
+  },
+  "thumbnail": {
+    "hash": "7d988f5152",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVR4nE2OzU7CQBSF+4yufAVfw8S9G6ME3YliWpegCaAGWgRa0lKmf2M7TDswnZ9K0jcwbU3Dl7O4ubnnnKv0n57fBkNDN8B2a7v+0o4cD1vuznR35gYtnWS+hl9zd/S5mIzGr6qmGLPZamUbCxBE6fgb3mjb655zeW+d6urB6mhrz/P16UzxPIB2aYL2OKMky7T+SxhGUhZSFpyLVjTPCSEe8JQkSRhnUoiyLG3LvDg/W5urCEKEEsG5FKKSFIJzlucIIQVjzBjjnB+Pv1EQdW+7KIkh/IEQxnHMORc1vAZjXDcwJoQoigJjPBl/UHpojpp9a8ibBgAAIaRNKstSVh9UtENjJoQAABR9Og18f09I3cpOU0/jsywLg9DQdaX32B8O3nV94WwAhDGlh7xy/UMpTdMUQmiZlqqqnbvuH8aVa/FKXzDwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/21.png",
+    "width": 1920
+  }
+}

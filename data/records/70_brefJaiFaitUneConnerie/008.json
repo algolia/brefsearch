@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "C'était la première fois que je trompais quelqu'un.",
+    "end": 9,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=8s"
+  },
+  "thumbnail": {
+    "hash": "a11ae9e618",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABd0lEQVR4nAXBu27TUBgAYAvi85/7/dgndpz42HUcp2ksLi0BqQMqqFSdYGTpUKkTEnsXZsSL8RK8C9+XVdZqQjmAZ7Tg7NN8cdm1nTUbYxhgyBEF3PgQrYUc7dZNNq0qTSlFUEpRK3Xq2svUtkZHKQnCBDAgoEAqF7yQlbXZVC8NYxJjQ0iyZgp+o1TvTXKmEGIpFQMCeS4wlpRTINnU1J4zz6iltNHqWC1bY8bge+/2ZTiUhQQg3PWnx+7tw2p3n73q01KKgvPA2VqJcy8bQVtjeucOsZzrKnKyTq/nr3/Obp6701N2NQ61kobSUrAUV+fHz+PwJlnXObcNYYoxeXd3Md2kbnl23b97yOZ2HTjjQBws9vOX29//3n97HjXfxmpjdOdtpdXG2aS1JlhQkQ2xaLSqlQokP+4/3P36O19/HyQMRVErGZUEhF68XABgDJhinO1iOKzqsQhbb7dWf7z/eXX7I0lSK60BU4BFvgCEOCGAUI7QfwhJLCykwvRUAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/04.png",
+    "width": 1920
+  }
+}

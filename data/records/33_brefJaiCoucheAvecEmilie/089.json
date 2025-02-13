@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "J'ai pensé à moi 15 ans plus tôt.",
+    "end": 90,
+    "index": 38,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=89s"
+  },
+  "thumbnail": {
+    "hash": "7aa1b15749",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdoY3ZlXmxPP2xGMHRMNnVLNXxQOY9eRK11V8SHZMqMZsiKZcCDXax4W495boV5dQCMfniIcGSEW0SSY0iaaE2XZUqaZkuncFPBhmXSk27WmHDXmG/RkGbBiWitlo2dkpAAmYZ9k2tWn2xPr3pbsntdrXVYq3NWtXxdy45s1Zdy2Zt02Zxy1pVrx4plk3RnbmVjAJdxXZ9rTrF5WrmBYbqBYbR8XbF6WryBYsyPbtSWctaXcteYb9OTasiIYZdtVXdqZAClb1KzeVm6fl++gWG+gWG6gGG1fV65fl/Eh2XLjGrOjmrPjmjNjGXJhmC4gGOfiH4AuH1ew4VlxYdnxolpyYxtyI1vwohqvYJjvYBgwIJix4dmzYxp0I5q0YxozIlluIhyALl+YsiLbM2PcM6RctOWedWZfNGVd8yQcsqNb8mLbM2NbdGRb9WScNeTcNCOabp9WwCsdVzAhmvPk3bVmHvan4LcoIXXm4DRlXnSlXjTlnfVl3bXl3bXlXTSknDHiGe1elsAm2pWrXljv4lxzZV81p2D2qGF1pp/zpJ3zpB0zpFz0JN0z5JzyY1tvoNlrndaoGtR4Ofr/KOElkIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/38.png",
+    "width": 1920
+  }
+}

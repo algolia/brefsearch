@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Bref, ce soir-là, on devait aller au cinéma.",
+    "end": 3,
+    "index": 0,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=2s"
+  },
+  "thumbnail": {
+    "hash": "494efc5952",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nB3MW0/TUAAA4BMjA9v1ck7Pac+t19mNsbF2UlgGbpTRbDBhXARUOl+MxgfnND5gYsKLmvCoP9nE7wd8oMFxVg+OepvluP/hLF9cF9/KyY/59PNh/+MwPe9uvNlJ92rBqF17xmwGKiCNw366Od7Nvtwe/168/vXp1cPi5u+7y7sXxbLY+/lyfH85uZsdLi/y/dgPHymg5ftZK93u9uanxfLtbJrvng+yP/Pp+yIfrdfLrU6ZJcvJYLa/M2xE7VUdrDNR95sn+cF2mnAvqGKOTOv7bHB/c9aR8iJp3W51OlFkOC4moqtZYIOyrJUcP+/X4hhzD1p0TTW/no4eyqsm423Xi4VbNR1EhOHIBmEgwqRBWVNK6YWQCNNiTPgnw8FBknBIBKZPVEs1CCQSMg8RDkKMa9iOhaSuD4nkIpTBU0i4aUtVI4ZJIRGQugZiVYvpOgEBQq6JPJth5jrct6lLZPS/9ojtQsQQ93XMVA0r0FY0C6iPFa2iQhMjwiDmusV0RBUNO9TPuj3JAxU6io5XVbiypq9UtH9KRkY7kIls7QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/00.png",
+    "width": 1920
+  }
+}

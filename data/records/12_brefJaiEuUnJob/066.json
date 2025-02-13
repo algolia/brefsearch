@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Elle a un cul. Elle me dit oui, je lui dis pas prout.",
+    "end": 67,
+    "index": 31,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=66s"
+  },
+  "thumbnail": {
+    "hash": "e399f7aba6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGxwc2xuclNUVSEmJyktK0IzK0Y9NhcdIh0bHiomJDpARy81QTEuLjc3OERJT1xcWwCSmJ+PlJs3MTA5MS8nKSZKMyw6LisPFx5hSUQ9IxsjKjI1MjlQPB1CPShFSVBcXmEAqK62qK61LyssQS4pSVZfRk5bbXeDJzI8MSotb3F5RlRiOj1EXldASUY5MDM8Y2ZsAJyiqpals46jtzc6P2B/lnuNpZGVqz5ZbEJAU5670n2asSYyQBgbHycoK0BIUHV2fQCFjpZgdYSNprpiZHNIUVpkX2NnWWZOTldwV1xweotlgpo+TV44Ojc4OjU6Q018f4UAcnuBQlNfcZClcXmNOTU6OEhVV0dXQSknPTQ3UktLTkpQTVtseYGFdXl5R1Fcd3yDAGFqbjtIUFpia32CjGZTVxoZHRANEQwDBiksOE9neTZASi47UDxNYictMSYsMXJ3ewBYX2I5Q0k7NTZGRUg0LjAJAQIHAAIIAQULAwYKBwkAAAIxO0trb3IcHh0TFxVsb3EAVFlZKjEzLjxILzxGGBgcBwACCAIFDQoOBQABHhkbWFdbc3iGXmNvNzk6FhoYWlxa/+6ABYNoncgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/31.png",
+    "width": 1920
+  }
+}

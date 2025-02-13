@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Je tombe.",
+    "end": 66,
+    "index": 27,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=65s"
+  },
+  "thumbnail": {
+    "hash": "9fbc2b01b9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABl0lEQVR4nBXKW2/SUAAA4IOnN9oChZa2p/R+v1Harh1zRBgbqQMH3RYzNzWYiInRxAfffPSnG7/nD1A9rS/lvNlI/qOSflZnJ212UtOjmr6o048oehK9e95oWGFGsSrJIMChueBsx+7eOPvhXPy2iqMaNnq4McKVk90a6Rb5O2pgkgTL9AyCHoOhdoWSTyNzY5bfnPNfut+gSWwmN5p/qbm1PW3c+XeyP6FIhmRlnOYBTgs4NST7upGfrOonJ+UUgyAh8iiWtESPbsLrvyPzClJDnJYhwYIBKnnkcaKtz74a2RfNf6OFq4FcIHsla5nuLeP1HyX9gFE9rMtBsgc4sxHNSphMtelRMi/seBmfPyaXz+ni2S9urWgZ1O+V6B1G0jjFQZIBI+desheyUdjZQTFy3a2jug2qffL6yS8avzr4ZwfFX7/CuhCnIUYDVixZ3hXULF0cw3LvJOuwfgjr1oqXQXXwyq1b3MnB2/8bUhBnAOx0AOiwvBvPX6KqDcvWy3d2thkrrhGu3HxnZTs5aLHuEBI0JJh/TDhAJHIVAX0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/27.png",
+    "width": 1920
+  }
+}

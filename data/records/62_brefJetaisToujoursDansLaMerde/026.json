@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Je l'ai regardé. Tu réponds ?",
+    "end": 30,
+    "index": 11,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=26s"
+  },
+  "thumbnail": {
+    "hash": "fc196d3d64",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBW1OiYAAA0K+andwsQVovI/PFRUPAG6LgJTAQFDQFNeSi1brWUO3O7M6+9dBDM/vYn95zwNLfOKvnhbtZ6N1w3A5cd+WsFFEcKQOGZiBOqn2tWZMb1Y4fhNHDK9D0idQeyG2dYyVNrO6DyLQciefrpTKNkyiSLWRysrkznJ+BY629EPCQ+Jo4TSNZDIMk5N7jX4ZyXaVo+0rdjqwrQcpl8KbYd+ypP9aNTguUyFIikULRXBrN13g58u4FtobnLgatzu1A2/ubpT1TZMVS1XA8kSo1cN3rHR4coAiWTec8c84wwvExevTljKfL4XAUB9HvP2/24sm6CU25WyEpoOh3yfNmltDlrruPnmiieAiO8JLcUEKJ4fsNsdOzWfXHcPe5fP2kKBak6C1Wjs+rf6H8XtE/IO99K9QF48Wcxbvb9dyaFlmpUDYoYdn1/zW0EKSIBUIF6OU9UvyOXMZZ4e2i+0G1H+e6uZve+O6Ka2qQG+VLWmX4IugROMmPTgqTJD5L4k6yMD8lvDNym+GeJdEgIAPTGA5rRNVO4y1ee6yr6/8w0114jmXuJwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/11.png",
+    "width": 1920
+  }
+}

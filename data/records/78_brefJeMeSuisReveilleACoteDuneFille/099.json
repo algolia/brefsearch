@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "J'ai rêvé que ton père t'appelait parce que ta mère avait un problème.",
+    "end": 102,
+    "index": 38,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=99s"
+  },
+  "thumbnail": {
+    "hash": "ba3e5a3965",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAiklEQVR4nIXRSQ7DIAwFUPAQSzEhfBLaRXL/c1aim1aK4K2/5SmEf0QkP2KMYYyZVTXnvG2bmYnIpCCEoKq1VgCqOk8zM4BXB4CZR2kzyzkDeHelM7NRDRG5+3mex3Gs6zrqsCyLu6eUANQOQErJ3Z+XEZF930sprbX7vq/raq19p5rcKsZI3eMTPt8nCAIKb2anAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/38.png",
+    "width": 1920
+  }
+}

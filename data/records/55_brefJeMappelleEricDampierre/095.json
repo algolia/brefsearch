@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Je vous appelle à propos de votre abonnement.",
+    "end": 97,
+    "index": 46,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=95s"
+  },
+  "thumbnail": {
+    "hash": "8cd0057b39",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNob+mzldPmY2AyUFCJCgvycXfV09JysLJMS4ivrKisrKiora3t7ZvY0zuhoamlsraeoaOh113RUIyB3VxVMz05SUxcioGJnYWdJzo8oquzs729fdrUaTn5RXoGxrl5BQVFJQwTWiYHqJrJMPNYqesUZmfLyygoyCgICYi4ODr29Pb09vfPX7i4obldV88oKyM7PT2DYULjhCA1c0U2fnNlzcykxCBnZzlxKXcr61h720RbuwxHl4ai0g27D/ZPmdXc0l5ZWcPQV9sTrGKmwiFoIK2YEheTHR1traPjpqzmLyXnISzuIyoZKC1Xn1PcPWPh0tXrZ85bzFCbXhqkZKzMLqAmJBEdEhzj7ByiaxAip+QqIuEqJuUkKukmJuUpIuFhZO4fFJ6ZlcNQnlLoIampxM4vxykU6ukRpKoeIK3gJy3vIiblIiLpKCJhzi/sJiUfa2clKyZqoKPLkB2VbsUvI8vCLcnGZ6et4yEpG6mq6SwKUmojKOogLGHKI+CirB4dFqAgLWljbcWQFBSnxyogwczOx8imLS/vI6dkzS9szitowiNgwMVnzCuoz8FjI6fo5e0rJyNrbmYCAMV3cs+QtxioAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/46.png",
+    "width": 1920
+  }
+}

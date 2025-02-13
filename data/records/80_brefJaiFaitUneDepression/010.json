@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je me suis couché, j'ai reploré.",
+    "end": 13,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=10s"
+  },
+  "thumbnail": {
+    "hash": "0af3316e8c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nC3NW3OaQBiAYW7Y/faAAmaVABqykTMaJGokBonSTq2jnWpLLtr//z8yZvLMe/8q7X7177g+Vcmxyv7u8kffHeidLmMAoDOyzeWxDA9leHqJY/vG4kS5NHm7L9eLIg4fl+lDGYza3JeDnsnZ3L5ZjW/Pm/RcJ+cqiS1zqFHl3MyL6WwoF8LOXDH4XybtPMocsb533u6sKnAuddruJm2dppZxPfieyxmnlDFu9HUz6BtL6fzOx2++O7XMH0/jS52+N5O2TiLRtTWq9DpahzEKABgocE6oFPrKuy1ssUm900t0KsP3ZtpuknuD9xlRdI0zQikQRihSATA1GPGt3jbzDs/BfuEfnv0/2+yyDgNTMwgoGmOUEPiE0bUu16qp/FaMt7lsZvJ7IX+9Rj/nUurseiAA+AsCjJEKFNjEsxaBswydVeSWsbubydfEtTVqEKwAAEJIVVX0CSPMCfH6euT2kqHIRiIdidmDFdimQaAD+APQyjeKvrxs0AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/04.png",
+    "width": 1920
+  }
+}

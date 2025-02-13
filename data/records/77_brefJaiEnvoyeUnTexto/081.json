@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Pour donner un côté: J'en pense plus que je n'en dis.",
+    "end": 82,
+    "index": 39,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=81s"
+  },
+  "thumbnail": {
+    "hash": "f25a6fd072",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABb0lEQVR4nD2RS0vDQBSF84+6aIXChObRTjuZ2mk7SZPJZBLjNOnDKmLxCeJzYVEQFQTBhaggKILoxr8naYpwFvfCuXzcc5QCMIoaKsMWwHal5dacsClS0xZVJzTtwOxyjXgqtsuQFDVUAIZS0i1gUb3DYS+CbkyikZhs1z2JgxT5feT3G0zC3orR9YFFlwysAESrtmgwafEE+f1OvCYmO4gny+GwKVLME8wTxBPEZNUWwKKK3mbQjTM3T+pMYjGgct1woronobuKg3SuxOJJg0m9zZQK8cKN3bPr+9vHFzaaRht705PZ5OA03tzfOr7YOb/KOEGa800aKBrxlkXqj6bP719Hl3eHs5uP79/Xz5+Hl/f7p7d2PM4hC0KHKcCiRpdDN8ZBSqKRxTN6Kxp24nFTDNB8zd1m/sOSgdXsxq/1Iuit5snMw/kfZN2NjS5X85QKwJz3QFRsa8QzaVB1woXs0KRcazO16ZQhKelZD3/ewZQrad5icAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/39.png",
+    "width": 1920
+  }
+}

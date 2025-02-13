@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Des fois, j'ai envie de lui dire que je l'aime, alors je lui dis:\nJe t'aime pas,Ouais, c'est cool. Je crois qu'il s'en fout.",
+    "end": 32,
+    "index": 10,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=26s"
+  },
+  "thumbnail": {
+    "hash": "a35940e2e6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFRXaVBOWEM7QUtETFNPV3JtcVxVV3FuemdkalFKKHVyeYOEmHFbRlc1C2hGIm5tfABpbXljZXJLSE1bWGJmZXBgW11ELyFjTkhmYmdJPSZqXWBsZnB6bmx/Xz2EaU+Cg5sAho6mgYefeHqMfX2Pe293XT82SCwcUDMlZ2BhUkBBVDg1MyYlY2BtkJSxj5OvjpGsAIKLp3d8kXN0hHBufGJKQ2pDQGpBRFs8OWZhYWRRTm5ST56gv5+jwo+Qp5WatpSZtgBxd4ltbXxtbX1tb4F0XnF6TltzR1RZQEBVTklxaXBqXmGVla6kqsuNjqWWnLiVmrcAaGx6ZmhzZGVzaVxfiF1kjFVxbkpRX1FEYFVOZV5jdXJ9o6fHk5ari4ydlZmxkZWrAFFLU1VHRVNCPF1CMmJDNGU8R3ZZW3tzbWRUUWtaTo6MmaOpyIuKlJCSopSXqIyMmgAfBh8lCCMuFCNZRTqFd2aAdWWgmoePgmh/cF2ViXKWjXmLiYyWl6OXmqiRlaODgo0AHAMjIwcuIAMrSjI5g3RggnlsqKiYjoRwhHlllIt2k4hwiYN4kZObkpWehYePbm5zOTS3wE9jifQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/10.png",
+    "width": 1920
+  }
+}

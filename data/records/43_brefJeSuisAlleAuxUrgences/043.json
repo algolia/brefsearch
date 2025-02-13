@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "J'ai dit: Non, merci. Après, il a chanté.",
+    "end": 45,
+    "index": 24,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=43s"
+  },
+  "thumbnail": {
+    "hash": "265a021858",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AICFkH6EkYmNmpSapoqLlFNHRTEuLCcmJCcnJx0dHRkZGRUUFhQTFRMSFQsKDQ0NEACMj5ePk52VmaOaoaymmpqEb2gtKiglJCIgICAYFxcVFRUXFxgWFBgTEhUPDhENDQ8AoKCmqaqwsLK5rLG5oJGOjnBnQzc0IyAfFhYVEREREBERERASCwsODQ0PEA8QFhYWAKSprre5vbu8wL3CxpmRkGdOSUI2NTovLBgWFg8PDxAQEBsaGiUeHh0ZGh4dHiIeHQB1iJWMnKehrbWnsbd6dXd5XVh2XFhcSUUmIB8SDxAUExQqJSUtJycfHBwbGhsuLS8AaXV7cn+GfpCdW2t2FxgbUkA+XUhFQzc1HhsaERAPBAUIDg4RDw8RDQ8SNDo/P0RJAIBZJYVcKYlpQzc6PAgMETgvLkE3NBgWFSMgICoqLDMxNFNJS0I2NSkkJScrKxwgIQB0Sxx6TBx+UBshISAICxIfJR9CSzQnJh8zNCxxXl5iSUk+KSg2LCsuJycaFxcGCQkAa0QbbkUbbUcfGx0eCQsUMDYqW2hFS1Y6NkYsSTEjaB8fLRESKCAgOy8uGxgaDQ8PHLRs3LS5Y9QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/24.png",
+    "width": 1920
+  }
+}

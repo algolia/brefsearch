@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Et des fois, il me demande: À qui tu parles ?",
+    "end": 66,
+    "index": 24,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=61s"
+  },
+  "thumbnail": {
+    "hash": "4e60a08e00",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBTW/SYAAA4P4EL548aALDzY0CgX6AY5SVNi30BdpRWmhLfbEfrBK+HZsgRbMlbmTRA3NkJsSEgyS7eDH7ez4PEkcDNI2yDGqIKQ2WTxpFzZIMLw9beakKSgp90kiXlbcFDstRMZqJI1zqjagQzoA/n9T9H7OvV8ve2HWmeWsgzlu2bYrvRgXY441Ttm5lFTODCCAhq0n3HLRHrNOBs0ZtfmbaM7n9Wb4ft/ye5swq9hTAMdD6oOpxiFpOG5Dt+saHXm04Pru76HqnsOI2pKqogYJSBHpT70w190JTvLrsKIg/dK8Xk4f1zwwnHfOypOiJQwbF0tFIjMeSDEVjBLlc3j49PW636/vVd2T45dNkcen0RsF9YjeaCh7goUhq54B8FdgRXgaOIlHqmHr4dff4d7vZ/t5sVki0WKI0ncgJgX38RTAcDOMhNBnGMiSZJJ89pxM4m+dK0AJNtz8Zr1bXSE5VBdjEKDa4F4+SDE6V0oz4GsUMsXxpm44s8UDoWO/VWr3R9hY3c8S2DGhbe4mjcPzQlOu23owR2UBotylm/RZc33z746n/rrq3RuGjURn0vf+uWpbX22nNqgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/24.png",
+    "width": 1920
+  }
+}

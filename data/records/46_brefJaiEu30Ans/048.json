@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai pris un taxi parce que j'avais la flemme de prendre le métro.",
+    "end": 49,
+    "index": 20,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=48s"
+  },
+  "thumbnail": {
+    "hash": "4a40f6cc2a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nGMoLy1atmzpwYOHjoLBiZMnu1taZk+aePz48W2b1y9eMG/H9i2HDx8oL8j2MFFLC3NnEObmiQ4Pv37t2pUrl+/fv3f69ClLZcUsX7dtG1a7W5mK8fG72dkcO3a4rDDHz0IzL86XwVpF3svZ9cLFy8+fP7ty9cq8GTMdNNWTPV2mtDWqS4pK8PNL8fKUFRVWFOWGOhhlx/gzqCuomJnY1Te27961y9PRTVJIQk1SwlRZ2cHAQFlcRJyPX5yXV15UNNrHJS3E09dAh8HUxMbBwcvJ0Ss8IEROVMpEU1dFQlJJRt7FWF9JVFiEh0eEh1eCn19eVERTXs7dyIBBVUldRVnbyNjOysRGS0HV1djITk9HX0vfXk9XS0aCj5NHhJeXl4uXn5uPi41LW02VQVdbV1pKXkvLxEjXRFtB2V5H09FE3d9Vz9dcV1pIiIONi4eTB4S4+Hg4eXk4eRjUNfXllTStbByD/IPkJaQ89NXDXe1C3By1ZKXZWTm52Li42LnhiIOVk0FISExCXEpVXkFdQYGHk0dcSNTazFxbRY2DlZOdhYMTrAFC8nHwcLFzAwD58W9wg3Jn0wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/20.png",
+    "width": 1920
+  }
+}

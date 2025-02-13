@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'ai dit: Tu vas trouver ça bête, mais je...",
+    "end": 119,
+    "index": 47,
+    "start": 116,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=116s"
+  },
+  "thumbnail": {
+    "hash": "b9571ca5bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nAXBW2+aUAAAYF720KyxigEPyAHhSCeIBEW5SAFlXira1CpZa21nsMRqrZe6Lc2e98f3fZjf0ASaVBWZJvCvZ186LStePsklAeBphQUaRxgI+DLnyAVPL/kNBWubNcQASGbJTCpzcT696Z0+3n8s5gIHWTxdZanXbmPTN691eeTpga1hHccsMoDCL8j0OSCzL88Pn5+nu+kwlzqDeGZs1JKOswudvsI/Df1By8CuPeeSpQs5nM6m2Dy1e13+OryFPQ8RGSEHumq5LQl39XKkF28cddx3sUHrqlTIKwhyIMsx9H6T/D5uo2ikI7YtSxOj+ncc/LvvzU0xtCvTYYD1vOYlSzX1CoI5HuaP29Wf024R33u1slUU2t/ExK2uvcpPS0ym3ckowL5fWUUGNOsqgoCH9MdufXhfbVbzSRioHOOLaGbIsVueuZV4YI/DFhbYdcQAQysXKILNU4e35LjfrPfbQT/QeNhVpYeGODOK69CK7NLQN7DA1Hma1CQRAoJlYLxcRo+L2+mjZ/mmyPkSGqlCpKOlrz67ykuv8R/b3V/00ElcDgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/47.png",
+    "width": 1920
+  }
+}

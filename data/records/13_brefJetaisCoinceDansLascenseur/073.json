@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Finalement, le réparateur m'a libéré.",
+    "end": 74,
+    "index": 32,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=73s"
+  },
+  "thumbnail": {
+    "hash": "ef7e15e4a4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nC3LW2/SUAAA4P4Azv3Sc3rntCsyBrI2sGLrsioMKA5dMXNMw7JoZkJMjDHxwV/vi9/7Z/399UMJanxtPJ1G3lnSHZ7EpybcTLOsl9STrCmL+TRPI/8yO9+UpfX7+I0x6CnhKxE5Kgndk9BPk15ugoExdZ43r4rr6cT4TjE8W80K6+fzI2PQsfn/49ppN6re3pznrxfru2p4up7NlhfTQIlyPN5eXVnHpwdMgBTUFpRxJAXxHV3f7Jv22B7+DOOoeDmaDPqSk4vR6P18bn0/3CEMMIaMIsawlFxKVly3q/WX8bjqmzB7kQ7iLuekb8y7ura+ft5JjhHqYAI5J7YSyuaXm/vVfJeaOPLdNAwi16GcOII3b2rr6dOtVhQRgCmSSniB67p2uWyrYpGYOPDdyHMcLTknnODtamkdPm615gCBDgZCCcfTthJ5tV7cPvcGI4gAoQRiCBCQnO3bnfXwodFaQIIgJYhgKYWUEnSw8mLGpZCKCZsQ2oGAUv54v/8HXgFD5jtSBxcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/32.png",
+    "width": 1920
+  }
+}

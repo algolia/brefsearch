@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Moi, j'ai d'argent. On se commande un jap ?",
+    "end": 82,
+    "index": 27,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=81s"
+  },
+  "thumbnail": {
+    "hash": "fbf939bfc6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAwLEQoJDwYEChEPFQ0NEykkLGNITHBOTnlfYkc/R3Z0f3l8hiUeIzU0O2Nncl1VWgALCQ8WFyEyNUY1Mz0vLzxDSmFdVWFpSUd2WlteVVyHiJNucnwaFRwyMz1KSFZRQEMADgwSHR4vKCk7IR0mNThJQkRYTDs/X0hIaFBQlIeJoaKrTlBZDQkQTU1Wb3J9TkZJABQSGg8OGR4VHB4WHSAiMS0lMDMgJEMxNkEuNGNNUHlpbTw6QhsWHUxFSlxdZSwhIgAQDhcPDBU7JipfQ0ZNPUUtHyYoFhtPQ0VoYWRvX11aSUwxLjYPCxFHQEN1b2+EencAEA8WFhAXRystcktMb1BQRzxDMTA8bW5zm5yXfHFpVktOZV5hdW5vm5aWqqempaKgAC0nLiwkKj0oLE06P0dETkdLWDs9SV5ia2JeX1dUVlpXWXRydomGiZOPkpeUlJmPjAAvKC8rJy89OENlVWZUR1lJQE1EPEFpZmxeXGB+fYOLh450a3dMSFVERU9VU1piXV8ANDI8NTdCTDdEl5Cbj42Zk46Tg36Df4OPcnF4eHh/rrjBuLG/cVtsOD1FPDxGNjhCEqSEBGlO76QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/27.png",
+    "width": 1920
+  }
+}

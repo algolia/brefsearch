@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Excusez-le.",
+    "end": 31,
+    "index": 14,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=29s"
+  },
+  "thumbnail": {
+    "hash": "3f90736788",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwVy1tv0lAAAOAmzsWAbU/POT2nl9MbFNpCKZR14CCjMuaFbQ6wmCzRJWbTOFzieDI+qJjMaabxkmjio77ok/E3mn3vH3dp6crSco7yQogRBVK3bEQ2K6pk1SushZWuYx8N14c+bZqUQFlHmLu8nMvlBQaka4ZWlPGd2NsIXd9ihkJgnp8mzflur1+Q0qqdlB1XRVw+JwBe1IHUNnWX4J2mP0mCFVsFIqCisF1zRw1n3QI3AnbdY4mFOIEHugQZgKFCShQ/bFfeZul80HApRleFoqYyzYwd1cCQSMAiiAM8sCEqYsygFJv6bC18mtZmvepm3Z8ONrJ+WnYrHc+q24ZOFCYjDgrAgahMZCqKwzj4/iQ72UyyyHyV3fz75fzn2ZtWI440HGm0EVR8y7gIBYw9ShQgPui3PhyMvx1lx93ay63Br7PFv8/vD+/dLWAxKRW7cX3Sa3MAIIawpxCHyvPp7fl4cNyJvu7vnO6PTvYmf85PF7PHKwZZLTmhY3SqJU5XGBARBvBWq/H8/vjRMM2C0l4SfjocfTyY/H63+PH6RctEviw4kH+2m/4H9aVSZx0h5vgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/14.png",
+    "width": 1920
+  }
+}

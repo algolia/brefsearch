@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "J'avais l'impression de dire: J'ai perdu Babit.",
+    "end": 40,
+    "index": 13,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=37s"
+  },
+  "thumbnail": {
+    "hash": "91c37dc4bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXB6W6aAAAAYJJWkUMYKgiKWiaHoNw3WnSg1ZraOgJUk63dsoSlWdKky5bsx95kL7vvAxTF3iTrQ/Y5vXvdPzwto9XNrrwrXkwtDC3zw33pOlGo28FM8TR15ViA6m8lzkgffpx+/Uvi7esh/V2eT/l3Q/UCTZNFxeT5vWPsLF0dCeORAsjaXJXnavDoe0kRRy+3yc+8zHaFp+naWGRJutemuC4j91mO6g2YCSAMWDvKnEVujHpvxeHv6fbP+fxxfZSuxsJIHHaZXptiCJJpkRRO0eQYGHRpLcoW6ZFnmU836dtxU90/+lb8fsgPmRFNUCTeIdB3GIw3YQLH+kCfHgjczAuWmwlfra+/7NdlvN/zk2S5syStg+IYjKNQE6qjjRqCQCTQaramnLgI43ymVDL37BqFJO8EyXfire0pZAcGMRhsgpdI/QKCGgTQwrtzNwrd6Fq3nkyzct1nfhxZnmtFKydwWJbC2kgDg8Am1MDAOgrQ5MDWrMCO8zT9lh2r4muhmr7u6lPbmRqBKF8xHIq06jWkXkMvL+D/o71PtKz+kfsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/13.png",
+    "width": 1920
+  }
+}

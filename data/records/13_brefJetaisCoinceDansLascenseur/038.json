@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'ai fait des pompes.",
+    "end": 39,
+    "index": 20,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=38s"
+  },
+  "thumbnail": {
+    "hash": "f53a52c0f0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABT0lEQVR4nGWQ204CMRCGSWxn2m5321ItspTTrruICkE0SoxKIJJIIkbiBULijYf3fwWzeLjxy385X+afKZH/0C2EkiIFO4QAgLNlRCyRX4oRSgAoZ8CRMqQCAWHrkh3YaoSQP4EyBloyp2VsVcNGsZEqYDpgWqCWgjMEKNRvgSKCDHhsVe4rx+36IGsNEu9MyBmakGe1SiQYIP2phAgiYEbJfuoHeXvUOzpJW900zZNm1SqrVTkUsQ6qSnKGJUqpCHgUCaPDi27STxu+4lQoaxW3fFgtHl/zNG3sO79Xbu/pWMsSAHDB+fbA1O8f1NxJno1OByHH6e18erecDTtnx4edpo93jZa82PCNCkPv7DBvteq+Xo373e58PJ6MLjaT8+ebYS9Laq7MOfv5khDcGmVUdN3vTEeXq8Xic7P52Kzf1y9Ps+nb/dVtL7MmQsQvQmIleTVHsVYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/20.png",
+    "width": 1920
+  }
+}

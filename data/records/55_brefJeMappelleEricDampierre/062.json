@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Je viens d'écouter ta conversation, ça va pas du tout.",
+    "end": 65,
+    "index": 32,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=62s"
+  },
+  "thumbnail": {
+    "hash": "f0ef718502",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBW2+aYAAA0A9ap5RoA96KCA4ERQTBTXHeUFE7RVdTo2iFduk0jlUXs2u6uqxLtjTpw572tH+7c0ChYqhanc8VSYqNkUzoJJHiJVGQWYp9Y1/f3eyWY2vWG1Ik40Fx+AgD5ZZZNkyt0Q+SHB6mMryUlQuqqsmi+ni7//fw+PDp63I8I8JkIEgSrAhY6YVQaKTy+sxyGoVSv95uVlsZQRFS8seV++du/2XlDvTOsT8Yp1IhMgly5U7ReFXrT2/3v1br3WjszJ21MbD0Zm97tdxcXJl652W9rXBZTdaeN00wuFgPbXex3S/e/5hvvs83e2f383z1eeK8+3v/+/7mw7e32+V08UzIlbLF7ukENM/s5uiydf66O10Z4+va0K6PLhtDu1tsuZY9aQ9cyzHrbZpkgx5/5igEwvE0TqVxWiD4PC1qTK4SYaRoQlTiabOkW0a/pVV5msMwgkRDFIwAALwAQp4EiBiflys9pTbwR5MIRsYITkyrerEq8SJNUCiKRbyBBOwDEHQIAc8hgvujbOSphOAU5MMP0BCbVFK86kcDWU6kT+IQ7D2GfQyM/AerDl1ZBxMkhwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/32.png",
+    "width": 1920
+  }
+}

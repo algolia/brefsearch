@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Lui, c'est la solitude. Il m'a copaqué partout.",
+    "end": 29,
+    "index": 6,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=27s"
+  },
+  "thumbnail": {
+    "hash": "5990bab712",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBDVPSYAAA4HV1pCeislC2DolrqJdsQVc5LaFiIAhzurHx7jMQwTkGGzrzMmN8SApi10/ueSAU9kcC8CYSsMDesCX1m2Bgij0D3DT4nyd8nd1L49j2WhjHInWheFXjIHTJ93JhPhNf/2OCqfN9eqE9dNR7Wxma0m1LtiUm+4H4uBkliY22yv7WRWjZO4eHkG6d/fej8tepPF5oE1sZtaRRW3LPQKNUOMrtH2S+UmTcORaGbRXaJdavq/TjufzQkafn6sSWR6Y4NEFHY4qpT6VMksTfkPG337YSV3WxZ6pQeisxscDYAmNbmljyXUscGOW+IRjl/E6c4KgkgUXCKLKTiLU0QaKzkNfrF7K7U1u8t8RxW7ptgt4Z3z0tOSqt5lM8lcRWQ+jKyvvYhqlwNa4AeWZ8aPCVCfKjptDTefeUuzlhr2tHtlgwuByX/hxCgsvwi1j0tamwv3QF8njmns8uFVPbY1seNMv9puDqfF8XLlW6wVAHKRIJBPwLi9FwqMrmbY2Fnj6bhZ7M4GuYo9GXFcatHXaPGbdRskCusp+kyHdBGF6c960iQTb7pXqY+Q8U1IRuTp+DqAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/06.png",
+    "width": 1920
+  }
+}

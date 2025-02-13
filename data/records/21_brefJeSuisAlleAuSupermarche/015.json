@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Je me suis retrouvé les bras pleins.",
+    "end": 16,
+    "index": 8,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=15s"
+  },
+  "thumbnail": {
+    "hash": "4cf3534230",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJCCi4x9d5WIipSHiod/aJZ1YKaQfbGgmLWej66agKSKf499eoBwcHZoZnJzYmBcUwCilaCShICRhXGOhnqblIKijoe+sqWxj3+khXC6tKKunY+XiYWQhIh3clx+jjqJhVUAn5GQeW5Zgnl4pJWStaaMtKGZsJaVUj1UWUFXqpmYvrKXoIqEfnt7Ylxhb2SAbmJqAKiWirmvlqOfkKOeirirnca5oZZaWptpXbuVlZdhZLy0naCMfamPhJ6Jg4V8pXRlZwC7rLiLgnSopYOtqo65q5PCta2mbGGia0uHVUqUVE/KsJ2fh3+rko7AmXWldlSslpsAk4OCyb2+w6mqq5+asZyF2MrBi4CGCgMZEwUamYmLybOnm4SEooWBg3BzrZSNsY6BAK2aoreuu8CxubWkrrWjkdbIu4B7gA0LGxQSJJSOkc/CuZ2Jh6uOjIN0dEE9RpqSoQCTi5qqoK+XhJCvpaa9tKrZzMiOhYU5Nj87OD+Hf3/ZzcW5r7CdgH+acHF9cnpvXFQAf2xckH2JlYSUnouCsqalyb25gnh4eG9xg3p5eG9vx7qys6akk4iNjGppgV5klX95vFvqr/5bcQkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/08.png",
+    "width": 1920
+  }
+}

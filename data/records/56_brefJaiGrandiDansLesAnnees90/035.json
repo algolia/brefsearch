@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Et dedans, il y avait toute ma fortune, deux billets de 20 francs.",
+    "end": 39,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=35s"
+  },
+  "thumbnail": {
+    "hash": "f9bf686217",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBW2+aYAAA0G8KKhe/gBQUpHJTEBEsICoqDLCKunXGmrhq2y2by5Ile3F73dOyH75zANYbszU5o2+/KeOANQEtFYg6Ihgw2EDFJ4crrB/T6RFVXaJI2DgHqpo/hvxH0Tp1osTKqG6EGiEiDeDoPaXPKu494STkbAdZ7S3TPgseINqDsKnvG6bWC9bx3O27BU6r3EhVyWIli9Yc2LIQyKX93mMcu+YcAF7lRF3hZFPXj7b2Or1LutblrndNJpft9t+v66f7daRrvx8Wfw65n+WAEOSCZBZaRq3GLDThEvnXZXh593A9P5+y5dPj+TmwX0L75zr+e9xO5wnwDYVRDbzjoE1NEm+3A+NHGgTONBotvyfRcRbvutreMw/T4SwIJN0E+2ieL3buLCc58Q1OIyWsxdTTtjrpdE8j94shRoJA4BC/afL90WbigsT1P+T7bHPgBBkpkUiZKBbLKFKmqrBKQrSEVzASJ+iG4lhe/PXzK3Cd4TrNvXAhynqV4kiqTtA8ilEkZCDdoFiJl+267DTbnmqNV6v8P4ggSbgde4XFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/14.png",
+    "width": 1920
+  }
+}

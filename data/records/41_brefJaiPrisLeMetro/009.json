@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Le métro, c'est blanc, ça sent mauvais. Il y a du carrelage.",
+    "end": 12,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=9s"
+  },
+  "thumbnail": {
+    "hash": "ae496093ea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nGNQFhdurahuqamf3NG9Yf2hbRt3L1u8qbux/fTBY2sWr9i6bvPyaTMO7dh78/LNmxdvXDt7hcFZR7khNclKTaHAzz00qdNKRzc4KC0mNCrWxz07MjTYyqTAw27ZxGkF2SUZiRkJkXEM3vpq1TERARYGxb6OAXZOWgryZrq6fvY2oVZGznpq3qZ6ngY6RfGJytIybMwsrMwsDMqSYo7GRtrKKurSElryCpyc3FbaGhHO9qmutkFmuvoKMlKiktIiojxc3NycXNycXAwq4kKqsvJudq4SopI8vLwGOrpuZsZBtlZpzpaBFvoK4mKSIiKCvHxcHFxcHByc7BwMwWaKqhLCKnLKlkYWXBwcOek5aXHJ+qoqunKSukrykuISViYWgnz8nOwcbCysICclOao5a0vxcnLpqevISkobG5q62Nlrq6qysLBxcnDy8fCaGpqJCAixsbJysLKzsbAyRFgqhprJGyrJSIpIyohLcnBwuhjpuxnqc3Ny8fHwcnNysbKA/MrBxs7OygbSEG2jEmmlaK4iJS8lLykiBtKgo+1vbMTBzsHFzsHBxs7BxsHCxMzOygpxEgCCDFwMRfsz4QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Ouais, salut, c'est moi, c'est Batou.",
+    "end": 71,
+    "index": 32,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=70s"
+  },
+  "thumbnail": {
+    "hash": "74c46ace99",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nCXK31PScAAA8D13vdRTSXgCkgKTH+FOBDb3DWWOxRbsB8wB2mAOxcGIAbHWOTvBVdedonRh2XX5j/bg5/kDdVV1qGn2YGB2u21FGbY7Vq9/8/3yQ7tDpFOKwNU5lgZgYy2yHgjAXh/0sKfORa+pFnFcLnINvvRn9jMdi3kePzJE/mivzOIoiIZjAdjz3AWd9vtfbfvuejbStCKaqOVIIbPz98dtlRPehvymyOv7NXEbp9bXkJVleMkNjU3zajL5N/91+t4oppNSlihgW/Or6axEj8Cm3VL1fSmPoXHPIuZzpYN+6MKyps6X+/lvq9sTd7LyG7pCF2Z661Mq2hQlR1OMxjsiuRH1vYj4V2gAoLFpXTvf7m/vzodDicgeslzvpDuTODn0slURL48lW29xr/FtJM5TJJNKQSPdsI3R2LTPBh97h5qudCZnzg29Kz19QsYjWg581o/y8SjidlMYlokhEEswPC2IzF45X64LBzJ/UClW+n7vMRzK43iJKpzrjYGK5AD8KriKhsJQdWGxHAwXNnF2lyXRLLlFMcnMiesZtRpgAKiXqnWO6TQTci2KJ5YQ7/J/eoKUG4U2Eb8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/32.png",
+    "width": 1920
+  }
+}

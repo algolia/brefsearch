@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Youpi guy, pauvre con.",
+    "end": 116,
+    "index": 36,
+    "start": 112,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=112s"
+  },
+  "thumbnail": {
+    "hash": "fd85b717d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBTW/SYAAA4Dcxukg3y8ZaKKxQ2kJb+klLu7fsZWyt0GUgDChf28IIUyFiHNEtLiZ6MTHGm3dPmph480cYD573g3wewG1gO+uYThJVlleprTiOYZGoXG6enN/KLM+mOW6HWQMgR0SHiA/3RSBE8eTGOr+1aSZT51pyAcmwerT6+Pvlh6+iUKnA5zerL77r6elUTcARjwN1OxZ7uEbheGCqc6RNLaYpxF7PFp8/vS/reT/o2ujZnugh2ejCfFBkgF+wSlmxXTIGh/Bp82C+K9WzhMOQVZ5qJ7FD954T0HlK4eNMv+bNRmOw7CxHqNE3LMRxJ+XSZYCmRbHG0jCXdpkEyhJHVdywM1aKXk4Ws7MX4HZ8PfEHRjwhbEZhJtOyzR40O7rs89l9NlsTBIdOlZhtPcH/+vnvz987cFYN3o2vTv0hhUW0BOmLkqcpnl08toqhWhibTsfYLZCkGifGjdGPb9+BJ0shRNfh/Il7/OjB/RJNNxRtT5GhohxwbEMSh05l5LcG9f68N5u2RkCnUyjHtWx41ZurnEJhkWZBa1swrHddSXcz6SF6/HZ2s5qsVhdvlqev/gNIyGM7DdMAfQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/36.png",
+    "width": 1920
+  }
+}

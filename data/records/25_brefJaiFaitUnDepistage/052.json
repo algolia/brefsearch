@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Tic toc, tic toc.",
+    "end": 57,
+    "index": 21,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=52s"
+  },
+  "thumbnail": {
+    "hash": "8d00cc46df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJZhBpFeBYh4aYdyZmJvkZyiw7K2y4dybmRLSEpBQol/f7SqqXlxchwYHRgVGRUSFACUXwaVXwSKd2SKc2VoboiMj6q1qbKne3VlQDsUDxEoJimjm5yGd3U4KyUYFRMODg8Akl8Gkl4Ch3ZikYF4fm1gcWpnjHVye1lXXUA6Kh4dJRkZgXNys5+UpIpoSD4rPjIaAI5eBo1bAIl7Z5eRf21aPIB6bnZVQYxfXW9MQ1EzL0ozM1pEP6iGd8SvkHlqQJF0QACHWQeIWAF/cV2AeGJVPyFsYk95WjRuS09LNC5CKiVOSEpNSlB8YVjQv46FgzuOgT0AhFICglEAbV9KZmJVW0IVZ1lDbVIbQjQuNSklWj46RkFWKyw6KB8ddW1QbW8xpZ1XAGBCHEw9LUtLUVxcWVdSRmBeX1RTPV5haG5ojGxplUpOc29zmDs+UgAAAhMSFlRMQAAtMEAqLz8+P0tTVFRMUFNgY2lmbnZVX4lGWZ1FTXdobplob5RhZYQjIywFBQYICg4ALCw4JyoyNjdBPURbQkpZaGFndHSIUWWqYG2hWFx9bHimXmeBQ0dXNjVAExAREBIVidGUuLxCOWUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/21.png",
+    "width": 1920
+  }
+}

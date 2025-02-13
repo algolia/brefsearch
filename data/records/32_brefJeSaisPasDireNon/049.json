@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Je l'ai lu, j'ai pas aimé, elle m'a demandé.",
+    "end": 51,
+    "index": 22,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=49s"
+  },
+  "thumbnail": {
+    "hash": "7c604dd0d0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBTW/SYAAA4FdKG+DtSzsKLW0D/QKGtEBLi3UdarcBDY7PwUbIwC2aGTcSPejM1GQxc/OgN49LPC3Gg4mJF4968Yf5PEBXsxAHbooZFOWhqbgy3y5rliKQWGhWN5eG3q0Yo87WXutB4FQsWQR25TYeuiXT8aGRe7xWftZ0Z17V4BlLka5ePhnUdM8yDSXTKCquIhQ4BtQKWgzHKDLazfMHprZo1BZe9Y4kTNru2cB3NNlYzWU5hqXjKQQ5BEFZTGNYWGSo7Vx66TvLjn/ouzqXyFJI5ZJFVdLzqpoREhRCMIpiEZAgIgDDzSy3IXHvRq3zcWe+ZpWStIhiDIIZnuVZhk8maARJGIWxKECh0Cobn9paU07te9UX7YYjsAwe3rQMu6it64WiyK/ESQSjkUgEw8Jg1u18OT2ZlNLjHONzZD8v6im6wMT3HzYXwXqroh3etRUECSJMEOEVmgLfb759fPN6WFZ+XL6/ubj4fPR07149qJWOxr1ZcH/g6lfT/qaU9Zz629OzSbcHPn24PJ7unIy3//z99/PX76/X12O/Marb58+P573AVoVXj2YHo93+VjDf2fVM8z+/ZVgXQhdQHAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/22.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Non. Non, je suis pas dans le délire.",
+    "end": 82,
+    "index": 40,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=79s"
+  },
+  "thumbnail": {
+    "hash": "187a52f540",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZ0lEQVR4nB3Ry24TMRSA4WOP7/axPfZcPHQ6nSZpbhVIjRJRBYHURdRNYUE3bJDY8P6vgMK//1Y/7IcPQwgciGciVbxIFbi0lNdMDMr06BmhFRACQAAqIHA5HE+LZadtb/C4XJ+Wm23TzhiKdod5cVqsBBGcMEmZotUVvB4O5+2ulfb0sPvz430zLjrj7zEUg1PMrQtZO8e0IDwwJQmF35fL0zTvhvHX69vl+DznUptQKzdgvE9t1Pix9JvcUGAShIAK/r59/7rd//z28nL8chinTcrZ1iPGOwyrps82jBgeUxKEcyI4MPg03X1e758fn4ZU5tTNGKJyvfU3zg8Yk0bkehXTrmksFQwqeGj6G5+8dJ3PHaZifatco12xoVgfpIk6nOfb81g0MAoEikMvpCLMCRMkBmmzsq3GW+db7WrlGhPXdZ6MJvA/Q6gD4oByoAyorUQtTVY2SxO58kwn6SZj5HXDFfwDFFwgZnT+xWkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/40.png",
+    "width": 1920
+  }
+}

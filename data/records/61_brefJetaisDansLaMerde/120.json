@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Je crois que j'ai envoyé ton plan cul directement chez ta copine.",
+    "end": 126,
+    "index": 50,
+    "start": 120,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=120s"
+  },
+  "thumbnail": {
+    "hash": "7e6ab59b0d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nBXL33OSAAAAYKqVyylDEfXUaYL8UtChTBmiTHeYpMhQFBhbWJbduPO2brtdu53X1sPqruupXroe+0e7vvcPoGAwB4HPAsEnjx5nMzvVUklm6aWhfTlbrFzbd0y+wqnqUFWHNa6K5fMAAW0JqQi8jcSiiS5HqTyrt/ZncvPBf+fb088Xvm/PNEVRev06v0egKEDHwG420sggyfhOg8iaYuViOlrp/Z+fLv9+f/jz7f7yjacNRr3+QKg3aBwHKkm4nYK0AtLOxXkszWG55VA56bSuT5zf97e/7m5eW445O9b0sbgvlkgCICLhOhJqp6MDMl3PJQNPAy8Fft5p38ysH9fnHxeeOTEt+1g3TEls/g8UApJQKAHBCJJhUgkEhKokNWk31+/nq1PHGY3GxtwYO5PptNWUijgBRIPBcHB7KwTF4HQ+xdCodCTLPE2JHG/0e3dXV7J8zrD2QWcmChJdQIGNjc3nm2AyTqL5QxzXMPRVVzh6O7GWrvt1vfZOb3drH9jKnKAsnFCJwh4QDiEvshJFG0zZLTF2sTililaN95RDX2qdsbuLMueVyi5ZNDFCRwvDf3TDZQqsMnGJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/50.png",
+    "width": 1920
+  }
+}

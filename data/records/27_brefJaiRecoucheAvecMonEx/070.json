@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Il y a eu un rappel, mais j'avais la flemme.",
+    "end": 71,
+    "index": 27,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=70s"
+  },
+  "thumbnail": {
+    "hash": "167cb73c80",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKWbmaWbmaOamKmioaqjo6qhn1hDOUUpHmM8JmE6IGBGOKyhn7GpqaihoqCXmJWLiQCwpqS1q6myqqi1rq22sLCWh39UMh+laVeZYk6PVj9YMR2Pf3i2p6WmjIKjkYqelJIAurCuv7azubKvt7Cvs62sl4qFRCYXcUU4t3NizYRvl1tBl2NLeUk2m11CsXZao3hjAMC2tMO5t7mxrrStrKqjo6OamG1bUUYxJ3A9M6tqWaRpUqRlT3xOOpFjSp5kTZhdRgDAtrPDubW1raqup6WjnJuempmZj4pbRTc9JhpXNSlVNClxTT3JqIbjw5uWbFFsPSwAvLKuvbOxrqakqKKimpORnouEtoV3jl1OflhJVzgqYTstkmdPsHxfmmZNkWRRkmRRAK2joLClo6ignJyRiqt6abV8aseEcNybhrSDcVM6L29DNIxVQ3lNPH5RP3JIOW9JOgCei3eslX2diG97V0Ozbl3PkoLZn4zYn4ubcF6DX0/JlIF/VkpeQjdxTD9ePTBlRzYAmoNmqJF0gW5XSzEkYj01bk1GkWZarHdonGtcvYVzypJ/nXRkq4Jyo3pqflpKZkc7uT/UmvEccGgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/27.png",
+    "width": 1920
+  }
+}

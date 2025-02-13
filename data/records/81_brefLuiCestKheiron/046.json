@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Quand je vais envoyer un texto à une meuf, il me dit d'attendre trois jours\npour faire le mec détaché, parce que d'après lui, plus tu seras détaché, plus",
+    "end": 51,
+    "index": 15,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=46s"
+  },
+  "thumbnail": {
+    "hash": "c3f22a32cd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA8RES8hG1MzKDwqIkMsIXh0eZqgrXJ2fRMQDSAYFD4sJioeGiUgHVpSTTk1MFJLRABLOTBaPTBTNSpbPjFZQDJ+goiPlqFscHYlGxZONy9YPDM6Jh8vJSFFQDsGBwVeVlEAdVVFYkQ1VTkrWTwvWUM3YmRmZWltVVlcUz83jGVZhGJZbkxDQDMsHh4cBwgHYl1ZAGZHN1s8LUktIVA7M0lCNVBRU1NVWUxNT3NpYnxcT3RQR1hANx4dGQ4QERkaGC0wMABmSDdJNCtCOTVYUk9TTkNaWlhcXV6CgICjnp18aGBtTEFgUktKRkJBPzwhIR4lJSEANyghGBQSGBwfS0xMT05OV1dWk5CQsq2vq6WmiX9+WkAxZFFGf3RvTkZAIx8ZMy0lABESFA8PDgoLDR8gIkVFQ3d0c6eipKaho5WPj3dzcmNURXFRN2diYDQzLzQxKDQwKAAaHCEREBIODhAQERNHSEaRjIqblpWhnJ2LhIN2bml8dnN1Zl9XVFEwMi9BQTw9OzgAFRgcHB4iEA8RDQ0RJSUmd3JwkIuMjoqJgn18Z19af3h3gn19a2dlPjw4PDw3PTs3KNB++r3kVtQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/15.png",
+    "width": 1920
+  }
+}

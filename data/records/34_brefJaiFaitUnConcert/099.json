@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Quand je suis rentré chez moi, j'ai regardé sur Facebook, personne\nn'avait rien mis, sauf la fille. Elle avait mis: Je l'aime.",
+    "end": 103,
+    "index": 40,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=99s"
+  },
+  "thumbnail": {
+    "hash": "d9348ba1d2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIJmUqiOdXthSY1uX6WKfpKFebKfkaOGdnpcS3BgVTw3KywqK09KTkQzK0kyKkxSZACPd2W0oIuzq5K/tau7qp6UgXWghnK6gmlVOSxycGVAPTEwLi9bWV9QPTRbQTdLSFAA2tbIz8W2sKGYm4l+YUQ6OjQvbVxNfkw4aEo3iHxrRj8yKCotSU1XRTYuYEg+R0FCAIF1ZINyUnZJNlA0JkcvJU9EQUI1MUcsIjkmIUY4NDcxJTU3OENGUUAvKF9GPEE/QwBmUkGjjW2giGtHNitTRTyAbmUjFRM2JiMvIR8eEhMpIhpLTUxsbXZHNzFdRDtAPkIAe2VVq4hthmxSJBcRopKJcWFbCwEAKx8dJhoXDwgHIRkTTExNbW53Tj03WkQ9RUJFAFxJPmZTQSEWCnhlXOPOwk0+Ny4jICUYFigdGxsSER0VEltWWHZzfEY4NGpZVkxITAAuIhwIAgE+MCnbxrnJs6ZJOjRLPTgeEhAmGhgnHBoxJCF8bmyGf4RIOjdWSEhNWG4ACAQDKB8ag3Bnz7uwqJKFV0dBVEU/FgsKIhcVHxUSPC8qfWlfhXt9QTQyRzw8P0xkNe2KYqJllqsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/40.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Et la dépression, c'est quand tu restes coincé au sous-sol.",
+    "end": 36,
+    "index": 14,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=33s"
+  },
+  "thumbnail": {
+    "hash": "1cd88b7e0f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkElEQVR4nBXN2XKaUAAAUKZgo5ALCDrGJo7TdDptVMSAl31HNkEkiigo8amP/f/XTs8PHIRfrkdPUyjCfHdIgkRaCSwzIHo4TQJbnIUypy5+lZHnGboqSZBfIKt3eTz+rkjKpbp5hvE6mQzYId7t0SSpzl8t7mfpqU3iupB3dM1SVGQNjedvP0zdujV3XVi9jJ5YZtjrdmlALqbjTBXu6f9X42d5VoR+hEDJGo0mlmnfmtYzTW62GDBDAMD0+cV/n50c7WBrG2HhrZd54iWBg0Cos8zA0LRbXVfHo++4LMN2Ol/7NNVG5i2w/lb5n32UeUbqK4mvI6IoMzSlq3Jbn6+XKo2iPk2hGEaCx1Tmc0m4bszSkT7rqqnrsiwRnhcp8KjIsK3P96beJXGfIlEMI3B8K/O1oxwsuYyc9lRUp/KjKJD5nKMAAUWhOR3byzmLQwoQKIb1ug+bNVcFVurocRTst3GRZ+k2Rd5+zwCBr5bcxy4ri33g2oDAv6DoQ6ezVYVrGoaubXhOuPHSbRwn8T+ISlmeXhoVAgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/14.png",
+    "width": 1920
+  }
+}

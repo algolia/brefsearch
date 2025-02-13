@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "J'oublie souvent le prénom des gens, mais j'ai une technique pour pas être vexant.",
+    "end": 41,
+    "index": 15,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=39s"
+  },
+  "thumbnail": {
+    "hash": "687bdd77ef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgklEQVR4nBXGXW7TMAAA4NR/sePGTuLYjp04aZO0aauytRIFRqUhhAQ8DqExaRIHKM+7AFfgAhyAG/DAsXhGfE9ftC3k0+c3l7fX9/v2gy88QAoSBfAyjjc8kRCLGTYoVoBoiDVC0eXd4e+fH7+/f32Yyo8uC5BoSDQgVyk/KxFimkGcA2xRrCEpAY7uj/3Py92vp8dvt9e3StYzqAFWM7Lj7FyIYzq3KM4BVgA7FBtIoiDy03Jx9/L05XzzoglDpkIqNcALSlcJWzK20+ZQOR8nBiCHcDTZelPVY1kN2q9cu2uWo3YOk5rSisQVxp7SUaQHawKhDuKoV3Yo7dr4ydYr40fj+7JqGN0W8mjVJks9IQ6jZ4U4OVdDEjVStVkZpBq075VtC92VdpnOO0q6hE6SD5y1jO4FPXd+LWTkZVFL5aUKmQ658bJwUi2EmFK2FWwvk6uMr1N2Y+UrV1QJj+xcai4Nz3WSGZ7/D898Khue9Cl/buRrI7qEflqH92NrWPIPlfQshTH889kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/15.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Charles sera en retard.",
+    "end": 69,
+    "index": 39,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=67s"
+  },
+  "thumbnail": {
+    "hash": "fcaf0afc3a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nAXBXXeSYAAA4PfsJgzwZXwIonyIKF9uThSVgSC6Aco8Tlpqa2XTLmrteLqobuqm01/ovr/a84DttReYapujB3XJqYlhkVxw/HMcKFyVRuC/v8fjenTIomXPMkqMyvPg4238dmAdHH3pOevocsZwbyT55yrdR15imJ9W4X1kf86TLzM/t00ehWDlu5GhZZYeDqOnzatFuZJRpeer4Pfr7McyztpG5rrv0vTren68GfMICvbx6KZ7YcnWxO4/Ti49ovTBNN67vV3g/smTiyovihaCcMnAvnc7CADAUcTIVO+ymXemD5oKXZLUmu5oxtMm/75dBd2ec972e508cCNL66l1gLzAKJrzw4kk1GSuIte0pigwrLjL4t3Uf5xfb9L42377az1/6LcOdzNQJikGnpIYrpSFyDKTbuvBN6ZnSp1lx3pj2FDUSmUx8q7sjiE3hIoKSLRIFQkS0jjO0ARrqWrabUxbskgz57LUV2tus84zAiQlltORAg2wAg5xiL4kcIzEUAJCaj4ebrKQJymZKWllzqpWC4VTSAgEFE5O0P9irlIyqCReXAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/39.png",
+    "width": 1920
+  }
+}

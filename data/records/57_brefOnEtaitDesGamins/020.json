@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "En fait, dans ma tête, des fois, il y a une voix qui va vite.",
+    "end": 24,
+    "index": 11,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=20s"
+  },
+  "thumbnail": {
+    "hash": "61172ca947",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nBXNa2+aUAAAUNJuXakV6OUlXEDeMEEpKDWKgJJat6wyTWerbZ3afXPJ7HTZxyZLt3Q/e9n5Awch0QOTOe573Lglf4rUaaLdd42vubcZuatMXwzch3fO4uLtJDFuukZk0UgZFKoC8T6AN4l6HcmhiPPo/rxr/BzXpgE0MLTG449X9R937e1ddJXYiFXCmjqVn0mzVMsDSL3ep17ttSWwHTozX+iLIBGIh8TajcOnL9m323PE4YnIpHsO03eYOsR07NAl0EubmbbkSxfW6WJPIj83lFFV+LXMntYjpCqCUCFDheyYTCqDTVs7N0ohV7zvWPPE+WiWYp4Y2lwHYqus+vJ4jdRE0NTZtML3XFiH+MKXMpNXDvbyU2XW1IcqFUOiyeEeiY4b+vNmjlQFcKaxkc3Fdkk6OWpB3KcKBvYmd4RYAi5VCDi8QhwOKvDvevL8fYlUeKKh0pHJphab+1KmUR555DHFqa+cljCbOjZO0FAgBhX+z3rye7tCbA7zRBBAolkGH3z5NnFbKu2QhVgh2+X/Q0elUoONNHo3G7zslv8AsUBR0rOmybIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/11.png",
+    "width": 1920
+  }
+}

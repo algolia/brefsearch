@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "C'est sûr ?",
+    "end": 103,
+    "index": 45,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=100s"
+  },
+  "thumbnail": {
+    "hash": "c1c91b79ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJyzwIScrj45Qlk9MU04LTooHlM2KnFKOnZOPnJQRV1HQWFKRHdscmqJoYGdrqW3wgCLjpZbdIowPk5XPTBkQzJDMy07KCFqRztzTkJGMChBNDKCYllsYmlMaYR/mKmPprMArIx/mpSWQFVoUkA5b0g1aEY3WzstYj4ye1lTZ0pCdlVNkGthWlpmUW2GaYSZn5+hAIJcVI9mWnh1fEhGSXFMO2dDNFw4KV86L4FeWndUTIFaUX5gW09cbGiGmnxzcph3bQCEaGNiQDeJdXFJT1hfQzZmRDmMgYGBamWCXVpsSUJ3VEpqXV1KZHZzcXJfPzFnSEAAcFhQbFBKc1FHVk9TQDc0loyKs7W9jYODVz04UDo0Uj41VFhdX1tebUo8VjwwZktAAGBBN2lKQFw4MG9VU4iHjLGwtG1jZSMMCywWFjAeGhgaHC83PWhBNlUxJ2FEN2RKPgA6Hxs5HRhDHxx/WVeuqKqSj5BVTk1XT09iWltjXV1eYWNkaW13cHBiU1FZRT9RPzoAaWBha2NkdGZllIWEq6inop+ep6WkqqelrKemq6alrKakqKenn6Olj5OVhomMf31+xj6mT/pqa0kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/45.png",
+    "width": 1920
+  }
+}

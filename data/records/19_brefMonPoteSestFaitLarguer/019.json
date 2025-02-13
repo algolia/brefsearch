@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "T'as raison. Elle est jeune.",
+    "end": 20,
+    "index": 11,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=19s"
+  },
+  "thumbnail": {
+    "hash": "528b79a22c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAcEBQkEBQ4GBAwGBBoRCjEfESgcCi4iCTMgED0oHVA0JUs0JFU3G2tDFnFJGjIoIwAIBAQJBAMOBwUUDAkYEQwgGRIkGRA3IxJVMRyLVDqyclRTOy5UORx/UBmBVCAxKCMACQUFCwUFDAYEKBYQLx0VLx0VLhwUPScbSC0eaUIwjFtDcUo5aEMlbEQWbUceKBwVAAcEBAwHBRQJBksmHkIpHxcKCBgJCBUIB00vH4taRoxaQ6FmTmc+JSALACINBkgnKAAVDwsQCAUyGhNRKiFILSMNAQQZDQs1Jx5DKh51STiEWUCAXEmilI17bWw9JSBBHh8AGBMSGhAPUy4iUy8iMx0UJBYRUT8yVUY3QzElTjEkTzgokmlUxbu8sq6yta+8ZVFZABcPEBkSGTIdHjYfGDYkHWBRRExDN1hNQTQsJDEhF146KIVpXIuEf395d7axv62mvgAZExMcFRgdFhUiHRsuJyVZUEx1b221srBNSUUTDQonHBdCPTlpYFVqY1+blp+wqMYAEgwREQsMGhQQJSAaIx8ZHhweNzQ7l5KVWFRSExANGhkXLigjU0g/TEI8g3l8r6fEIXtgpBsP1b0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/11.png",
+    "width": 1920
+  }
+}

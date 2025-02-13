@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai raccroché avec Xavier et j'ai récupéré Baptiste.",
+    "end": 74,
+    "index": 42,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=73s"
+  },
+  "thumbnail": {
+    "hash": "5d4f8e5643",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXB227SYAAA4D/LcLL1YKGFHjh0UEZLGaWlpQdKh6UwmGMQxnBhOCSTCYshMJJJolHchd4Yb7zwBXwATXxAvw9sge3Irt9iiKs898qRJp3qVcPpHGlnampYMwdq5pTGX1uyyu2/yKbyvj1AP/UfMYTL0v0c9+f7+78/P32cvHzba3QdZVAvb950Pw8b86rVKiojR9P9KKhG8b4QG0rcom79WN//+/X197f71ejcMy3PsFzbUPjUaVaY1pyWJlsIDsok5kWJY5Y5yYlxOl0uupvlZHN3qSeSSTq6AwXBFkQHwkpagHGGwymgZ3hTFA5CYTIQjpCxEJ3meblmG54qVfSCqWl2UbOlnMJxSTqKowSQZFktGkwkHiIoEiOiTMwfiO3AoV7T3SxvH1d3m8XtQ685r6gXsuAJBwD1wyHkGRkMi2x89FxvFTIyxyYo6rrdeFzNPrybPEyvF+3jqa3UM9y46QB0Dw0iWAAJ7tNsXUwPba1tykKEurlofVnN1rPxfNhdj/sVkT+kqFImDTAExRDM54MhCH+yDZfFXJ7nzcPUmWsvbwbTy85JydALhpMVSwkWgwL/AY6GXrwXoDGhAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/42.png",
+    "width": 1920
+  }
+}

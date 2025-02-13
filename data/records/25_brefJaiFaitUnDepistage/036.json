@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'ai peur des aiguilles. L'infirmière m'a dit: On y va ?",
+    "end": 38,
+    "index": 14,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=36s"
+  },
+  "thumbnail": {
+    "hash": "4cc7fb99d6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXByW7TQAAAUH8AokcEUg8cKi6ISAhRWgmKFVSlC7RAjBySNl7ifXc8M17iOLFD7HEaO20aVJYLJ658Iu8Rg74n8b4qRaaWuFYGhjkEOAyqiWbD07cf9vckEUyTVegXAZz7w5RQhJGhTh3zm+dg5C19VEfR2gf4t9L9h+Sj543HO40s3STjm3hURX5JGGrqWgVwF9CrEFwF/nUYbUI7XfTppch0yYMT8nSa/UjTu3FyG4U1YenF0Fl6bgW8GqEbAK8tu5Q68qrf/YtM5+xkBubT/E+S/YwndwitCMvErlu5Tu3YS9O+cm1s6dl5i+aaZOfdwUfykBnEMLwdTX6h6LvtVoShFZZeGhrWNSwrc0lMBTmje/D1izet3VeO6HXZzDLnMFi7aGM6FSEqhaiVoppzcs5ysSLPJANTF/F+Uz88DjkJ8/JMMSvFKHSwVpya4FuMcMSylN1rMXxbUXV8yaft3uTJnvGUHLd7iaDlnHqlGCXXD+lPOiFsbQ/ub9MPdpitR+2Xx5yKqQ56T4EGGTTI0eev8MtlcMGOBXNBPWue33v4H2njtwlRskg/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/14.png",
+    "width": 1920
+  }
+}

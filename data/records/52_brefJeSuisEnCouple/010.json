@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Venez, les mecs, on s'en bat les couilles, on part à la mer.",
+    "end": 13,
+    "index": 6,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=10s"
+  },
+  "thumbnail": {
+    "hash": "7ffd2411df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABWElEQVR4nB3MuXLbMBRAUVYSCWLfHjYSAFctli07hQtX6TIuXaR17f//gYwyc9tzG0wkoZqyR4TqY8s6JDBRbctPdc7jtM1jsM4oGABGcM1/oCgzlFnG4YAEIZowYNT+fb9/vuz3aQzGz8E/zfXz/d6Qx9swZikDUP6SCyEaEyOlfy3T16/zz5/n3+chWW9tOp9uTY8VoQ+AiLFUf71eQQIXvk7Xy7zntNy2+ftjW+tmTZI6NaiXhBpMjFLuOs23XNYyKRVCXJd6jmHB2LzNJaZFyCgeAAmMFerlaZ0+3q4v2/y8VSWB8hDjBjC1nXKQ07g6X8s4N23Hjx0XHNZlmcp42WuOgfbq0Gkfdu+WY6ss5JgW5+uea3NsWU+UUfA05OuU4zhYG0ivMPVCZSmHQyelTuAKuGKhNB0SjJoO8b7n0fnoAxXQIslFcK5qk1tkhI5cRqmTMMM/YugqYxb/PDkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/06.png",
+    "width": 1920
+  }
+}

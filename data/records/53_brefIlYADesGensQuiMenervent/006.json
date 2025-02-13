@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Et qui ont raison.",
+    "end": 7,
+    "index": 2,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=6s"
+  },
+  "thumbnail": {
+    "hash": "228e1594da",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nBXP627SUAAA4D6AJv5YgoqAuxRbJptD2rKytqen956eQzsuhUgdl8gkXmIYGjfUTLcADpQxkxmjj+LDGb83+CjA5y2pqAqctssTHdqSqHK8B3WkAqNYtKU9V5EQkDEESAVagadcRQ4sywWKp6qh53kQSixbZDKOAomuE03bt4yybdaQU0MuAhJVwziq1MuIVBCJqqEhqfLmjs5kuUxO5Qq+YdaQW8coME0PQt/QqOft3uDVUb/74lnrsN/u2dBR2LyVFbfpLJ2gfdNqEBwFvswJdGK1pEHqeHgyPpvNvi5nk8X74agV9SrsVshuFdhHD1KMrztPMIkCYsuAf7iNAKBGx6cX0+Xl4tePq9/nX2Y+qcubOTG+ztyjN+JrhiA2XdTAuOq6pf8llXp5+HoyXnyb/7y6/DM+/+7j8O6d9I2b8djK/XQsef3U+PuhGrlOBaEqwkTXqE6ze/ppOh0v5xfXZ5/nyApur6zGbsUyqaS/k3rn5yYHhQ7OdcqP981dOS9SrWZ3OBi9Pfo4eHPSPuhLQlET6LqVDvUNspe0xUQJrjVsOrRolWO4zPo/liaByjgwRHEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/02.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "J'ai revu mon ex J'ai remis le paquet.",
+    "end": 61,
+    "index": 31,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=58s"
+  },
+  "thumbnail": {
+    "hash": "32b74ccef8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABwVEhwVEh4UElc1LKN4YKOVaJyRZ5mNdamkrpqOl499cL26ucC/yqKXmbKtuLaxvwAbFBEeFRMwHhl6SzyZZ06fjFiik1iRfkmjmpeVdGdyTTltVUmQjqWLjaScmZyknp8AFw8MHRMQNyEac0IyiFU9hm41kYFDkXhNqJ6gnXx2lGhaYEAxeXCQmpOtqKCssKisABcNCiEVEEQpIWg6K4dUQIZNIotNII09H66Yo6KMj35QQXlXS5KMiZiWqXp3hmhhYAAcEg4uIBpaPDFULCB4QjCKJA+OIQ2QOCKxnKd6fIhcQjp0V1RlXmiDgbtVU2xgX1IAJhsWQS8ndVNEXTcrajgnjjwijzkilD4koI2USj0+YUE8LigvIh4qeXKBrqjBj5GgADEjHU84L4tjUHpWRmcrG4clDIgoDpJDHqCNkqSRl3pobTo3QhMPFjUwM46EoltjXwAnIB42KSRjRzthRTloJg+BHgCGKwieVTixnaa3tse6tsbGwtSUkKFCPkmpqMOgpK8AHRscHBscHxwdJh4dXDEhlWNUpH1zuqWkwL7JwL/Ivr3HwL/JurjDk42cqZmnkIKGP8Os/uKYvLQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/31.png",
+    "width": 1920
+  }
+}

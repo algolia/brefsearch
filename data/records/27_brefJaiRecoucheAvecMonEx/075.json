@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Elle est partie.",
+    "end": 76,
+    "index": 30,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=75s"
+  },
+  "thumbnail": {
+    "hash": "4c6dd2407f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nGM4tmv90R2rr5/ev21uS32sc6i1jpacFC8nLwsTm7aKSmZ0gKu5vqyokLgAv4ywkJacDMPiyU03z+y+fHh9ro9FgqVOrb+Lr6GqKL8AEwObkbZmcrCHtZ66tLCQCB+/qICAgoQ4w8m960/s33z2wOYyf6cyf9e2cO8oMy1xQUFGRjZjHS1nCyMtRTlpERERfiFJETF5CUmGTUtnT2mpmttd15/kV+lh1x7oHmuhJSUspqem6uNgaa6npSovKy0iKsQrIMwnICogxKCrIFOcltacn57trFfkalnvY5cf7BEZFGFrbBzmZuNjYSInJiYrLi7AzcfHwSvAzcdgpG3c2dDZVdeQ4O4Qb6JR7u9Sm184vXdiXGismZ5htKWxPCuHMJ+gIA8fPycvPycvg7OVQ2N5XWdDW1lGZpKdWW1mVllufmtVbW5KroSwtJ+Jvq2AAD8LJzc7Dw8YMWgpadWV1tSVVNaXVpVlZXU3thakZdYVVxRmFkoKS2UGuLnKSkuwcfKy83CzcYM0KEkrl+WWFKVnF6bntNQ0N1XUZcQlVeUX1RRXy4rLBdtZOCgrKAsLCXLz8rBxcbJyAQBGjXV/RhqYcwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/30.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Tu te fais pas grosmo. Excusez-le.",
+    "end": 66,
+    "index": 33,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=64s"
+  },
+  "thumbnail": {
+    "hash": "e71a12894a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAFBgkFBgsOCQ0qGRYqHBo8KCFcQjNPPTVOOzNMPThRQTxKOjNXQjdWQjgvIRwYDw8ABQcNBggOEwwOJxsaKCAhVUA3ZEk4XUtBVz0xeFVFXUY8MiclPC4pQTAsIxQSIRUSAAMIDgYKDxcPECocGCceG0MtImNIOF9NRGJBModXQXNKODUmISQdGzwuKiIWFSsbFAAECg8MDBAdEREzHhU5JBg/JBVjSDlnVEtlQzRuRDJkPi07JR0ZERI0KicvIyAjFxMABQoPGBETIhUVHRQTHBQTJBUSXkU4Z1VMWz0wWzcpYT0tOB4WPy4oQTUxKRwZHxcWAAgLEB0UFSAYFx0WFiAXFxwRD3NURauGcoRbSEksIUIoHjQcFkwwJHpaSVI+NR0WFQAJCg8fFxg6MC4xJiQeFxheST/Dm4G9kXaFWEFGJRlHIRhMHhlRLR6UaVO0i3M0JiIADQ0TGxYYRzcwRjs7OzQ2tIxzuo1zr4Rrek84Vi8cTSUbQhYSXzopmmxWrXxil3JfABUTFh0bHS4iICobFn5iU8GWfJ5uV6R4YqB3Yn1SPl46JU0wFotjT5RkT5xuV5x0XxJQYF7c3dIrAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/33.png",
+    "width": 1920
+  }
+}

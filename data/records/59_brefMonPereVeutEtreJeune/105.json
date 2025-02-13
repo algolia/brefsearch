@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "J'ai baissé les yeux, il est parti.",
+    "end": 107,
+    "index": 48,
+    "start": 105,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=105s"
+  },
+  "thumbnail": {
+    "hash": "073caf94be",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nBXQW0/aUAAA4FM59PRyek7vpQVsq2gVYU5IlduWzmJBHSLVEAkqbHFpmrhl04dlD9tvX/wB38sHTFVzDKtqVRtB2Gp+iKO05u6VdbVbr98NTvLPo5fbWej7pxerxdPvwoYAqCjZumlrlufsbLvN7vG4HrRd0xw03z1G/ez87GEYj48OR9HkcrqCEAMEOZ2qJc1QJbVseJ3womJ5W44dtdrpcetbEj8MT/PJOL9ZRPENyxIAN4o8KyiY6kSPu+dXydKkaq1Svuz3syT6NZv8u7/7MZ08539PohlXxKDAQAR5icNuyc+W37P1C0Fc3XNHvcG8015/7L/eTr+Mk144rAUdSTLfgMCKOtFq1Z1V+vU1+0N5fOB7+9tB23fXnwbXvc6h7xtEN2Rb1TYBZIp8kVdEuuX4y9H1z8e8JOtBpUIlGQDQcDd7wZ5nWApWMBJZyAG2gESELcV6v3v0PL+fx4lJiC0rPBQYBmqYNKquLEgKVggnEY4AzIkKlvd3w9lZ+pQufMshCBkS5SGPIGIhCwDztiLKhCeyQP8DBDBDp/NiXf0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/48.png",
+    "width": 1920
+  }
+}

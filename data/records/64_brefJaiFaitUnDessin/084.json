@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Allez, gomme le monsieur.",
+    "end": 86,
+    "index": 36,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=84s"
+  },
+  "thumbnail": {
+    "hash": "bb2e6be955",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGlVUGlVTVA5LzknIkozLFA2LUcwKUwzKU8sHUAmHTMgGlA9N3BYT2tUTGZRSF5JQABrV09xWlFMMyo/KyZrSTtYOCpGLSRWPDFFKSAiFxcvHx4jFhReSkN0XFNdSUNfSD8AbldQdV1VUTQoXD00eFJDgFxPaExCSDAnNSIfJhkYNSUjHRQTMSIfWEA7RzQvVUA3AHFZUXVcU08xJUMnIIZgVJ1zZ3VZUmBBNz4mIS8eHDYiICkaGDQmJF9LR2NNR1hBOgB7Zl+YhYCVg32AZ15wTUF2VU3Bs7B/eH5EMzNqRjx2UUY7KilsTUWWe3JcQ0A7IyIAm4yIua6swbe2yLu4sp6ZsKCcnqOxdICYPkFSWkJDa19nYmZ6hnB0hHBvVEE+WUlIAHlta5GGhK+joaabmaSYlaimroKPp4iVrXqEm2ZxiHqHoG94jmNvh2Boe0AyN1wwMABrYF5sYWFwZWRmW1pra3Z9i6VfZ3tnb4OQnraGlayHk6lseI8zLTdCQU4uKTJiJCUAjIF/gHV0gnZ2d3F1d2hse3iGVlNdXV5rhJOsnZaer5uVjIKFcGlxcnqNNTZBUCAhGAqdMJcXA2MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/36.png",
+    "width": 1920
+  }
+}

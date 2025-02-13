@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "C'est pas grave.",
+    "end": 68,
+    "index": 27,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=67s"
+  },
+  "thumbnail": {
+    "hash": "d3ede36b23",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB7XOScAAAYMqkHy8TERj8gPkCCAP1YArThLHpdHIpaTNdczqtD5vnerWurmtdH7rrex/60l/b8yDnrjJwlLiqRZXCsQoDBXZVscGkOmn8WYH3FUlOojoAuw8S+2z6dddDJp4y881ZUDp39TMr21LFN83S1FaXx84qdF6U8xZH5QEQHybKu5nbqIHMA3NU0xah/bJZbihSv1S4cY23rdp123tqZq+sXDFNQgzIiUeuzL+LA+T9JApNzcnCigzXo94mCnxuZ9Nt/tmu+56tkYABqEQACTzeo3acHETq2l6g59hksmOp/z7ffJ+Pnx+Y36bx30/rX68mDs8yGJAIDBIYjWE0QSASiQ8k5tqQ7kKnbxs/ltP71eX96vKud/QzPrILOkcQYopkMQApCtJp5KogfNGED56+9PZVEhs3D/rNw95hbXNa/z0+LXKsQOIcSWRwXEhTAk0hC4m7LYqRIl3UjIVfnXfDWTvYDtofz55sR9HQrbiQqcp8lk6lAE7hBJLHsB7PeDK0eHYbBaN69euwM7QNLUNftILYr2t0al03T/KQSqIEiv4HiOFRfirTlukAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Pareil pour le liquide vaisselle et je découpe le tube de dentifrice\npour pas le gâcher.",
+    "end": 13,
+    "index": 4,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=11s"
+  },
+  "thumbnail": {
+    "hash": "0f71b2903d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nBXO227SAAAA0H6JiU/GxGjMzJzOZW50o0BLS+kNaMsmDRXtaovSFdlg7Tq5WFa6QhmXQercXMQ5bw8m/pzhA05ygOfLy2EoGgE3wo8WZIIsIDADghxJb4tFLrfzdHVzLYzDST4E80vPwLv3F4EIRiFJBqM5CEbLOaElKTQUzQovuS0hK0iiXKH5V7du31mL8Ysr4XsLKwCCp1AynaA5mEjlc2KvtFvCYIWhtYplNnpGoy9rpii/f7KOPXi8/nApBMSJNEaxOMNjVCavVltapcym2rbvjr95o1n10MkKkm44sna0uplgXxTmACUzc0NzxVrb1vdPbc8Lfjc602ZnUnitcCy3Z9hWe7SdVxMkC8QSNIwzUYzaEhV3eBGcBmcn7rHrWK1B9aCeYXlN04Mvf3qT2b7VMVs+AMUJKE4gOFPvDIPLn2fTy49N56juvCvXpB2ZzeaOu9OL63/ns7+D4KbpTgAwim3EMCSZPrDMfr/tuH53PHMGV5JSelPUVf1w/PmXXmt2R1fD8x+1D10gFEEjKEHxeVU37BPfG331xtfeeB6omM6e5Q4/3ZAkpe4a/vS7UHj7H1pmvBpCGSOWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/04.png",
+    "width": 1920
+  }
+}

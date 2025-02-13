@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Je déteste les gens qui ne mettent pas de déo.",
+    "end": 3,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=2s"
+  },
+  "thumbnail": {
+    "hash": "2483e1769b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGhmfFFLV2Jdb29sgHFvgXx6jGNjckg8QXBiaXRxf09HOWJea2dfbGVUU2ZgcWNgdwBbWWhSTVhhXWppZ3VoZXFfW2VVSVFZOjuyk5GBf4hRSTVqaHJqX2FcQi5uY2ppZXwAXVpkYWFtYmFuX19oWVdgMC4wZUtPkGNnm3+Db211SEEqZ2ZubF5aZUYqd293b2p/AIKGm3h8jGtreXd5iW5seHRjam5PUHZSUZqLk2ZmbzssI1RITXFqbndmXnt3hXVyhgCEjJ9+hJRnZ3V1d4iVfYOkgYSpkZm8t7zm7vSdnqRPRkleVVdubHZ4eIl6d4Z2cYMAhpCjgomaZGd1cWx8sJ2nw7e90M/YyMPL5+31paKlUElJYVtba2ducm96dnOAcmt8AIGKnnuDlFxdamFda5+GjquSmLWhpbalqbehp4NxcVRHO1hHNmRYVGVfYV5KUVxPXQBiZ3phZHY1MzwrJjBsTVKxjImedHKfiIl7V1x+bGxxaGJURz9gUUhdTEBCLSw0KDEAJiQxHx0mFBIWDgkQOiIoZ0VDXz9AeFparauyl4aBpZ6jf3+PcWx6Y1lkKB0gGAsL7tG2+DmKyaMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/01.png",
+    "width": 1920
+  }
+}

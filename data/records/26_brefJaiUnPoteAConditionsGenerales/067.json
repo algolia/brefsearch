@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Je vais t'emmener dans un café, je te paierai un verre, on en prendra 10,\non se parlera de nos souvenirs, je te dirai que c'est pas grave, qu'elle",
+    "end": 71,
+    "index": 34,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=67s"
+  },
+  "thumbnail": {
+    "hash": "24b641cdeb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nB3JW2vTUAAA4EOTc78u5+TSpMlZ16xJXJfWtOJ0btWHobjVG4oDRUQE3UAQX/0BPvuPBb/XD4QBgmEIA5gLyhAejVAQoDCAYQBXsVrldiiTPndtag4i6SMN4P+zBP8Ypk98CkAoMKEIBaPgY5d9W+8f59ZHikJkObdSAAYxhnht5e3gnx9kMWUZ5ylniVRD5t50k5Op7ydFKtXb3j+YFaDT4iJEX1L1OpbXGH8o3Cy2CaXnzeHF4uhy1e/WdzdVmQq+a4oXfQ3OtPjO2FfBd4rfCHY7dtt2vu3as2Z+eli/3KyvH53eGWcZp6VWYy3B0rBfy/KT5FcE/xTs9/Fkk9uhqqbOLavqpJ41aZIKvseYQagxAtRWb0v7fj++8e7vw/bP+WIR60SITCsfx3Mru1grQhUhlRbPmgloE5Mp5RNXOnO/StskYpgoxiLBM60MIRwigbGj5NW97vPjFXh65HMjI841YxLThAuvTaGU5TyRQhNiGFWEaoKvmsm7of4HIVovzTfwYY0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/34.png",
+    "width": 1920
+  }
+}

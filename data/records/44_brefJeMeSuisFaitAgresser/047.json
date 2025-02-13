@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Au lieu de ça, j'ai dit: Bonne journée. Merde.",
+    "end": 50,
+    "index": 18,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=47s"
+  },
+  "thumbnail": {
+    "hash": "1582f47bc9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBWW/SAAAA4P4Tw9ziEueEpTg37lJKGV0vKD1pS4uwCj3GVeqgGxksw2GWZT6A0YiJxqmJT0t8UOOe9G/5fUAGXEWjIV3Ad3P80yTm+9755Ljj9keT8eX07OKoO52eqAoLI0lR4lSRBlAwIOR2DmsMjAuzdn3Q1K121+odqZzQsJzRYtkaX5CF4jaE0mqjxPNAHgw8ZyHPFBmGuzRKfR51Ou7y9pfEsgRJvvl+++3nnT8cppOpWBwCw08ALLSq4TuewRAE3cJTkxozW7z/evPp5fh4ayvMSzInCIZx0LKdml5laBogt1eodNjWqJ7rZkIPuzL55++/K797PhoKSmVzbQ0MhgSWaRp1tSzJoghAwZXNB/e0Svnzl5vTTvvjfP7j99381dRttftns0PbOqgbttnUFVnm+VKhAIQfbwQ31qt69Wr5rnk9Gny4fr14e+J5PZEiMLLzYqAqmlQqlTmOoSgS2wdQOEXhexVOIBz1vk+u9wnzdPCMZXtsrpjYFZWKbTvUPk7l9/JIFknDAAwlsiiSjUUwPPPIpgMNpGjpFVljoEgxBqbgXMM0cbyQiCaS0UQ8Ev8PtZKi5bwYjRYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/18.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Carabazoff, au calien.",
+    "end": 68,
+    "index": 26,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=67s"
+  },
+  "thumbnail": {
+    "hash": "8b87300e71",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nAXB2XKaUAAA0AsooAFZBK2IoLLIokLAihkVIUJIXCrtGGno2E7ayUyf8gd97C/0e3sOGJpz3VlNvJXAMDLD+lJPrGIO1+mSLAAQhqAEihNYrQqjNNlo0AKoQChN8Z77kSeoeGz8KQ6hrvuyPevICATDoIIhKInVEahK4DWF4wACKjCAeIb3+9qn2+nvOAh02+r7niBpDQIAGAIQClcRGGOoniPJAAIwRdJJmEbB8sFULrfW+elg6lMex++kti9yO89c2RoE0BoxxFEWwACZ+4tvl3LheqbQnmtqkT+//XgbCpLKdX5upv/ey78v+72hBwOLqdOght4km23+tIuCRRZGRX4+pll5Lr58fhEo/mhppTPOjdGzbZXOJDNGoNsSDg+77XKdLMPX669rcc3COFmGeZxuVT2T5KOqnnTtcdhPZSnpD8BooJ52p3Sz3cfJ6+Xre3H5Hq3vFMVl2UgQQlHciGIk9u4laS12gw9twDFNSzPcsTs3zXvbyCbmRtd47KZRwbp1QiFJg6KdJjdrtWbt1qTJ/gd67kUJvL/MKAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/26.png",
+    "width": 1920
+  }
+}

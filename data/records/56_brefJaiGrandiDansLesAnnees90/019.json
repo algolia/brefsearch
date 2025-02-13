@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "J'ai payé Internet à la minute.",
+    "end": 20,
+    "index": 7,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=19s"
+  },
+  "thumbnail": {
+    "hash": "c1aa49e6fb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nAXBWXOaQAAA4DVVCUFA1pDlCIp4sFmuFTkUQdHgkZZ0kmY67TQ9Mr3y2P//1u8DZKCKTiRpNmnzFTR+mDG9wp2kkr0COhnvr0DP0K3g0Uy+GOGTPgNBGPZI5Cq23+rU1/brtPhzHb6lBwUvGW3CSvKWTLXVwfXKl1GWBzuQJ3SIsWm4iaQ948WDQoLRfB6edP0GnLXrGXndhM/7EhU18jK5fA8omdwmvuSl7Q7MeKQowy5dWKs9GrvOoO8OjM9L+u/h1J2XjD2Ti3sw0q7u1zGtPwIedll+PJ78rvJPwfQY+isyXnjO07awTbMhqQKe6VEBorG+C4jpRy2Izs47vqF+r9Zrq/+rTDPcz60eHRnNNwxr3uh+RFQI7tJ0t6mNkdMSYLN1znPCcXf4us9/HrONY+ZWT5MEASIlu5vHiyokICPe7ebkBAnL8gzDNRpNdIk+nKoqpomFhrLIMtwl6g/xfJlt/758Aw720zSfEioI0gUnclyXYfkLlpdhTxKhCDWtb6sGHkwoduPH+t1/DHFFWJWG+3AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/07.png",
+    "width": 1920
+  }
+}

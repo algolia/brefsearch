@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "À un moment, je me suis endormi, mais je me suis réveillé quatre minutes après.",
+    "end": 65,
+    "index": 26,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=63s"
+  },
+  "thumbnail": {
+    "hash": "47763714a2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nB3PW2+aUAAA4DPPEZADLZWJQFGQ+0WggJc6DbOtztlUrRZd0yzN1KTJXtYle9kv2F62/7xk3z/4AMU22FrENyc1YyXaO8l5YngHnxl1615pP0neVjDveXXGvI0pRiGxBDipX21eVZuTRrjXu6/c+Ziq1DCjoIrYcHI1vBXtW4prkQSLWZWgBcApueAWnDJqRs+t9Ciol7zcVuz3RrJUnaGVLvTuC3lyTpGYYkSC5gGq8IjkCEZuxAc92we9Ihp9jq8PyeTFTuZG+mDnP6vaGFJnZVqEBANOpJQXzdOaLntrMyms+IMVz6P8i39ZeL210dv7099ysEUUiyocJFnAaTNBzRTrnR5OrXjmDz452cIMb/zuJhofreG34OMf0Vsiki5THCQZwBubemukuiM7XRnt66D/GObPZjR1krsgP5rD7+35X9l/KCECljFEGDBCh6ladTXz+o9GOHU7a7dX2Mmd193Yg4M+ePVufknBroQoiGhIYADBGwBKNKdZycq+WDjJUvOv3Kxwezv1Yqt1vhqDH6Kz/h/AkMD/APyORLMW+KEwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/26.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Je viens juste récupérer mon...",
+    "end": 101,
+    "index": 34,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=95s"
+  },
+  "thumbnail": {
+    "hash": "d605347047",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nCXL62/SQAAA8C5G45yJZu6pQ5266TaVR6YhbEhpESqF0q20HG2v195dH9frQyAhxk/+6Waa/L7+BOKC2IecBos0WZfFusxXGStiymnwj88wDL05dixo3diGJoSezTAq4nCR5SXPFnkZ+YjT4Gcal0lYJLSICcOQQoCA4Uwnd4ETf5mlaZITP2SUDWXZGEhLFi5YtIz9yDEZ9jhFgW26pn4XshCvcs4DHBlapCvxrZrog3ymLd3JsHFSq+yeVw4m/W7o2QhMBQrnKfFXGTOlTr2y/712vkbmL2z/4cQftj/sPiVqd9puDBrvx+3LkXQlEHeeBF4eEXCjv9rblusXWrPqKeJvCqTqyZvtJ9xQ4okcqB3Q/TJufhSwY1Foh54TI3fUE0dfq5XHm6f7z/qf3zaOn29tbEDlGxnLaChirYdUUUDgFjuz/yfBPlR7rZd7Lx4+ONx6dHn6+p4gnB0dQKVj99vuD9FWRME1dQQM7MyIA6jnmt3rfu2sfrijitf+3Pp0fLSzeb918W7abZpSy+pd/QWESobTY3m0DAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/34.png",
+    "width": 1920
+  }
+}

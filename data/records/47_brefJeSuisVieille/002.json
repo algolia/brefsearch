@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Je m'étais préparé un rendez-vous.",
+    "end": 3,
+    "index": 0,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=2s"
+  },
+  "thumbnail": {
+    "hash": "63a78e191e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXByW7TQAAAUH8FVC2kIiVtnMRb7LEzXmbG8dS7O3aT1KWNSxuSLkGlUg9IXJEQB1QkIlQJIUD0xg3BgX4C/8CVf+DKe1xt+a4G9IvLF+cXz/eryc23X5Mnp8S2MCZv33/68/ff99vfvuexJFlc31y9+8zJneba6r2yiIs0qEZFnkWK2OHr9wMXff345eeP28XiQ56lJ9PZy1dXr99cc8gEtZU7w5icjfP54/LssIQyrwl8lafPBv7lfPZ0ejDMgmrETqdHs9kxp2mNB7Ul2xCq3Dveyzc9HaobsqSqPQ/28GA0rgZR7Nks9koWRZsu1+CXW80VoDUNvW3ZSkesK1JDlLVW1+YVR7f6LHSZj7OIJgm1icn1kNxqr0FHDDIALAkipQclAB0RoHXRUA0U+/hoUgwehYiatcYqh6jGi3WLiOl+4u7keuY9tEHMWBRmAY0U7FlZ4O+xeIj61AAqz/VJ16fdIAQkJBp1eUtbNyW8xQRdpVGqUiwQaAZ9iwjQ3nBQm5uPi/ODYrzLBsPE9XExTIrtCPkhxBAg4m+FToBJiMuCHm7T3Qz/B57/fGu/2N2CAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/00.png",
+    "width": 1920
+  }
+}

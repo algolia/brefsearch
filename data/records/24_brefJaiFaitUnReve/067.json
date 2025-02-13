@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'ai reçu un texto de Kheiron qui me disait: C'est qui ces deux meufs ?",
+    "end": 69,
+    "index": 21,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=67s"
+  },
+  "thumbnail": {
+    "hash": "6f43f48214",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAkHCRMNDkAkHo6FeLC3saStqoaCf5qOj4+Ef5yjoLTCva2glJNsW3RVRXtdQ2leQwALCAocEQ9CIhmtqYbc3susnpqjfm3HqJi5i2yOem20xb3FuaumemWFbFCHc1RUVEsAEAwNJRYRQSIcmppwysGKj3Bco3xqnn9xfl5ObUw3hox2z8S1totykHZWmYpnZmhSABkSETIfFz4jHqiFddC0nntpaGJEQJJrWndWTHxPOaSQg8S1qrB8b5mAXJ+HYHFiVwAjGBVFKyBALCWSe2Z9YEBoSkKXa2KddWGkeWZgQzqHf3rKsq/Ci4SljmaljF5/VzsALR4YRywdSDs3ipRmNTMWPyclRTY6VzpBRDQ1MSwrZGVefIB9enx6hXRTqZRocm9sADwnHUQpGktGRWdqTiMkDFBRNkpDOy8iKiEYGlpGO4B/cD5DODk9N3BfP6uXbWNULgBRNCVMMSBSUEJUQTAoJhFsZkR8YVNLNDVWPDl/WEqmhmqTjXFzdlyOe1KYiGV0bWUAWTwqWT8uU1FEOzMrSjs3kW9jfFlUdlVVeFZYkGxhrIl2WktLUUxDgGpKg21HTUQ4/aKndjiQsrUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/21.png",
+    "width": 1920
+  }
+}

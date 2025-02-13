@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Merci d'attendre. Au cas où...",
+    "end": 85,
+    "index": 26,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=82s"
+  },
+  "thumbnail": {
+    "hash": "97fcee2253",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nAXBWW/TMAAA4GxJ7NQ5nNiOc9lO4zSlG2O5UAODVt2lCoQ4JEBCIAF7gEl74I0n4An+N99nKM4etutWq7YqXuwuX57vf3y5HRvZ5ORYJBWP6owuC65YJChWLDSQbdUsGGt5WhVX0/R8s3t3vR8bdZTRE5VWnNQZrTmRBDMXSRYai8iXBO/GYWjKtsqHhejroiBRW/BVHmtOqoQoGjqmiR0gaWBoFqoknR6cPD09/vjm7euryyNVRJ4buJ6gWCdE0rCMCfFc34Gpjwwe+DEVoTvrls3dzfdvn742qvQRWvBYsUhxMud0niZFTLHrd7o0QpxJ2SMAWIDPp0fPttuzvksJWclc8PieEpHnYeTxiFBMulobdf1kXq3twwNg2gVj6/ur/WZbCdFIITjXeYYABJZNfIygU6bCiFlFotw6PAA2QBC+ut7f3dxenG0e98OyLCPXdR2k1dybIQdALReGAxGwbGDZ0AbQsj6///D3178/P39P/eg7MECzWpZTN1im6c9cLfR/ghg1VI5Sm7EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/26.png",
+    "width": 1920
+  }
+}

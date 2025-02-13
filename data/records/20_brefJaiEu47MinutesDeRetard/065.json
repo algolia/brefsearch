@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Je lui ai dit que je cherchais quelqu'un, il m'a demandé si je consommais.",
+    "end": 67,
+    "index": 32,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=65s"
+  },
+  "thumbnail": {
+    "hash": "54286fac2c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA0MChAJCVM+K3BaOWxhSHJiS0ckIIFpXJ6Lfp2TjyMaFxQNDQcFBB4dHqGbn2NfWQAVFBMICAozLCSSf2GYkXuhmIZeMyuPcWDKtqdyZl5WNSyATUNKLSYPCQk5OjF2cmEAExAPDw4OCgkIVkk1hXheiXpmXC4qj2pXqZB8UkE4g1BDj1NFe0c7IRQQISIgcW5dAA8ODg8ODAYHCEM1HJOCXYtxUlIgGoJcR45yXGJJP49TR4JJPopJOigXFC4qIV5ePgAMDAwODQ0DBARrXUfKvJ6xoYtXJyJzTziGaE9qVEJ2TEF7Rz5OLyYXDgw2MCdkZTQADQ4OCwwNKxcYiXFQ2tC63NTQYDUyZkEmbVIzgmxegmBcWz84VDQuSj06NjAkTEonAAkMCxEODlYrLGlUMp2TbaCQe0wdGGJBJ5F+bs7Ax7mMiaBjWp9mYauYnW1gXk9DQQAEBgYbEhBRKitgRSSIeU6Ec1VpRELCsbjg1eTe0uPRvMW4hoO2mqCjlp+cjpSMfoEACwoLIhUTOCIibVUslYhkqqagv7TA2M3fzcHQyr3MwrjHt6y5qp+qnpKal4uTiXyCbY+Y6jHwHOgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/32.png",
+    "width": 1920
+  }
+}

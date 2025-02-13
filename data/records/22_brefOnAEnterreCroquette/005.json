@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "On couche ensemble et puis elle s'en va. Alors j'ai décroché.",
+    "end": 7,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=5s"
+  },
+  "thumbnail": {
+    "hash": "0326cfd541",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nCXLTWvUQBgA4IAU3Mw7X8mkmUky2WTzOZuk0W1Ml1bRLVVo7arQlip6EVSK4KF48NJrwX8gXr34N6Xu5bk91jZnUjiMAiOAkZ2G26s2eejjhSSj5ruKPDPRfl/FcTJL80hKS7qO8lxG7gLFyHPokzp65MP5kH1b740hfdHqpwuTzcqqNJFSlhKuEi6nwCmmGLTvHnXpUtFPy+r27cG68A4rNTZZXTeN6eIwsJRwtOCCEc4w2JM+06dDeZzJX5/Pfl9fvuvyi0W6MDNj2q7pkyi0KEbKYdJlHieC4qvzo8v9dti6d3Ny+Of2x6tYn6X+0Ob1JoSBRcB2KAmEIyh+kMd/f16/Hk1nb10N3c3FyzWDVamWTV6brp3vxIG8CxQjToASUIJ/f3/6vC96Yp9I8bFIv1DYy+VOkVT13FTzyPcsjCYYTTYN/1d7/ECQx2B/IPgrI7uJXyY6L8o8K6RwLLDvbw5GEwo2wQgA1QRWyn1T6JFA77JpIJMkneqp57B/lzU7bRDiYJYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/02.png",
+    "width": 1920
+  }
+}

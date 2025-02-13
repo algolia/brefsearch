@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Je me mets à côté de tes trucs.",
+    "end": 118,
+    "index": 40,
+    "start": 115,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=115s"
+  },
+  "thumbnail": {
+    "hash": "56d3d49d8c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeElEQVR4nAXBu47UMBQAUCeO7evHTWyP88KZDElm55EVOysyGqQVAm1LQUWNhPgBEH+AtM2WfACiQfR0dIgv4xxScB4AahAl8DxjhomVEA44gm78SnJIk4wmjCUsJVlCKOkKs0Edje609AIsqBwgaLDSOGWAybkua5MDZZIynmRk6/Hg8wFNRN0oNdmiAJUxaRWG3FmVb5wtsQCmkIOinEzW3NZ2LHCNZo0YjUGJIAxKs7FFpQ1NRZZJwbVTiEKR68odfdGjLigtBR+tfba92bRj7dsa8xaRMymElkKvNHplyD64p6g7NPfPT8vuuByWIW7n6WbbH9rcRkTIpATUgKXJnVRk54uKpm9fnv/+/vnl44epWa/ycJ4vV/3utJ+jD5Wt4/r21YvXU9MgAxIlACF31/t/f359//a10yK6cFnux34+9W3ng9OuH85P2p1kglNBGEkrTt/dzT8ePz98en/lzRDH5fImNsOxditjNWAIA2LDEiao+A84Xii3XbV6nAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/40.png",
+    "width": 1920
+  }
+}

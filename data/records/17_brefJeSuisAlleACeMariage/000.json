@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Marier pour le meilleur et pour le pire.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=0s"
+  },
+  "thumbnail": {
+    "hash": "97b5f20de9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNQ42Fxk2YPVuKIUOVKUuPM1+ZK1eKqCrTKdTWI0xHKNRSM0+TzVeZ1kuU2EWVT42dj8JDjyDcV7gwxanJTnuavsDVFrt1euCXMutrfpNxCZGmY/BRf2WxDwUQDIV9FLnMJToY4Td5JvkptiZ7mylJuRioTQ5SyDLgTdAWK7RQq3XUr7KTa3eQKXfXS/b1SbTScZDkZ0k1lJvgqW6lKCvNwigsKhJqq16QllwS5Zzpb10S4ZFrKZ9mqGqkpycsquBrreKkKMWQ76RbYyErzc8kI8ojysNloK+1Yv6uioNLLQHNla1ldsFWspZq8mJAgF6uCmIC7gTrD1MYWJyVBMR5OCV4OCT5OIxn+6R3dSdGJOkoK1T2bUmNTQs3UjVQ0WJmYtGQlHHWVGYpz66S4WcS52YU5WYU5mX1MtOI8nBTl5KUlxHW1DILdvFUVtGUlFAT4+LVVdWwNrRm0ZWUEWRlFudgEOVgEWBkdNGRLQ5wkBHj4+HjEBQXkxOWkJeQlRCWlxGXEhCVEhCQZHMys+JgZBNlZeFiYFAQ4U52NqmN8hfl52dlYhPkFJESlxITFhfiF+XgFhARFeLh5AOjNVbDghvllAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/00.png",
+    "width": 1920
+  }
+}

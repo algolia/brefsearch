@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Et là, je me suis mis à faire attention à tous les petits détails.",
+    "end": 40,
+    "index": 14,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=38s"
+  },
+  "thumbnail": {
+    "hash": "9b137c173e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHBmZXdoX2tVUTMTHWxVWMm8vpiAiR8ACFxGR3VlZIBwcIR2dWVYWFpOTVxOTz0yNAB4bW5bSjt3V0M/Gyh4WFehiHyHa3ElAg5bSEl2aGd1Z2aIe3twYWBgU1J+c3RoXV8AhXd2Y0hAeEk/PhojooZes5tjfFo8Lg0ZSjk5YVJPZ1RSYUxJb2BeZFdYfHBwaVVOAFZHRX9sapZ/gjwWH56EXpmMXn9cQi8QGj4wMEE0MT81NVFHSm5eXH5wcaGVlnhmYQA2LjFBODpTRUY2HiWVelqqk15lRTknDBdINjNCMzE+NTdKREdhVFReT053ZmNUR0kAekJBSiwtODU6LyYrblg+polWTDEsHwkTSzUxQS8rVD88bl5dZlhZYVVWXE9RVUlLAEklKDooLiUmLBUPE01FSnhsb0IwOBMDCzElJkU3NzwvLl1QT11SU19HQVQ6MkE3OQAXFBQuIyFOOjRpVlB3YFdrUUVUOjMmFBQiGRs0KCgqIiNQQkBGOThSMylIKiEUDQ8ASjMrVj42XERASzk8WUdDUzwwRC4nSDAnIRUUGRERKBoXRjAoOyYhKxoXJBQSFxIWSzx+hfpxUJ4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/14.png",
+    "width": 1920
+  }
+}

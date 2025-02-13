@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "À un moment, j'ai dit: Tu as quitté maman pour des petites jeunes\nqui emballent qu'à ton argent. Il a dit: Ça n'a rien à voir avec le fric.",
+    "end": 69,
+    "index": 34,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=64s"
+  },
+  "thumbnail": {
+    "hash": "e07cf24b27",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nBXMTW/TMBgAYCO1+fDHG9uJ7TjOZ5OurF2TNi2wgbqBEBUFTQgJhDTElRs77siJP8CNn4t2f/Sgxrh52YYBwT6RkChuKKYM085lh+W8UpmR1gHThIAfUD9EnPLdsqchSCpy2349fdEiaVN7WG9Om9XNxbDqNgsdtzJKGSPTADGfvu2HUlsj1O2rN3/uH/YX47nLj/vL9/35/be729cfmySZCbDAiBeibeX+veyPZ4s0yR++//j989duOTZpvls/e+rK6367KM8EqELEGTAaYPT30+pu4ZhPnZmfrj/UaR5OAgVxbltKNccspkwQqMteywJPPHSobQYgmezqIc3W3iQIp5hMiYiymNuUSxOJhEVNvmzqkXgBKpUSFArlumasZpehz4hHIIwEpFrYXCaKcUmYjV1Tb4mH0cxISaE0VdPsXbULAvkETVrtBBjsg33suSRUc911z9MkRxxTyaLC1EU1qmxd2/JmHE5XV5/fHV/0g4l4TOHRUF6Xw9jN/wOkazJcshbG3AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/34.png",
+    "width": 1920
+  }
+}

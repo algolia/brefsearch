@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "En rentrant, j'ai posté un statut pour me faire plaindre.",
+    "end": 8,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=5s"
+  },
+  "thumbnail": {
+    "hash": "4902760bd6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABUQEhYRExQSEzwpJHNMP4VcT3xXTHtSQ21HOIBtWq6jkKOXhoh6Zm9iVGdaTXhoWQBPLilHKyceGRhxTECEWktNNjEkGxtKLiZHMCiDdGC/sJq0pZCUhG96bVxyZVWCcWEAYERBc0E5TDYvfVZHpXRhfFNGYT81jF1NiV5OhHVguquWtaaQl4dxgXRhe2xbjHpoAHZuaoFRSF5ANmxJPJFiUZpmVo9bS5dhUppoWoFwXbaok7OjjZ2Kc4p7Z4V0YZSAbAB+f3pnSEFSODBnSDyCWEiGWkx8UkZRNTA9LCeIeGS1ppKzooyei3ONfmmJeGOXg24AenZyfVlNSzQtUjw0Z0k9aEg7TTMsQyYmVUE4mIlytqiUsqGKnotzjX9qiHljlYJuAJV1aIlgUEkzLTAkIT0tKEQwKlY4L0MoI2ZWSY19ZbSmkrGgiJyJcYp8aYFyYIt6aACXbV59Wk1SOzQqIR4kHh0eGhkpHx1VSUS7tLHJwri/tKWmlH2NfWh/cmN3aluBc2cAi3RwbVBHWUI7QC8qKCAeKB8cTD03iH15raakzcvO19bZvLi0g3hrbWFVbGJWeW9oewysKzglIYQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/02.png",
+    "width": 1920
+  }
+}

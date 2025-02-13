@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Après, je me suis rendu compte que c'était parce que ma blague était pas marrante.",
+    "end": 47,
+    "index": 23,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=45s"
+  },
+  "thumbnail": {
+    "hash": "4490592576",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACMhIERERDw8PUREREtJRk1LSWFfXWhlYlpWVEZDQCspJR8dG1FQT0REQ0NERRsaGQAIBgQ6OTguLCoaFhMpJSIhGRU5MCwvKichGxdJREA1MC0TDgsnIh8bGBYSEA4ODAoANDIwLSsoFA8MY15cNiojHjpFIEVUMSIadG9teHJwSkM/IhsWGxUSPTk2FBIOCggFAFtaWW5raRUPCpuZmE07MR1UbB9nhjEaD66trH95d2ZgXJaQjoiDgHNuaxoWEzUzMQBVU1BhXVsUDQhzb21GNCsZUWlBi6t+amG2tbVDOzdlX1urqaa9u7mmoZ8bFhFRTksAMS8sWlZUHxkUcW1qQzYuGzxJNF9yrqKclZSTKCAcZV9blpORf3p4aWRhGBMPKyglAAYEARUSDhgTEBgTDyEbFzcuKCogGiQdGDQtKSojHx8YEyYgGx8aFRYRDQ0KBwYFAwAUExI8Ojk8OTgYFBEnIh9lYV4hHRkaFRFlX11NR0QOCQVJREFiXlwyMC0TEQ4ZGBcAPj4/QkRDQkJBRkVET01LY2FfODQyGBMQVE9Mb2toGRcTNDMwPTw6IyMhQkNDRkdIrb5pSJPn99gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/23.png",
+    "width": 1920
+  }
+}

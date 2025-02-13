@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Maintenant que je suis à la retraite et que mon mari n'est plus là.",
+    "end": 28,
+    "index": 15,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=26s"
+  },
+  "thumbnail": {
+    "hash": "da159cd37c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFxALFw8KGdGMkMyLjQiHlhBOlI/PEw7OGZRSks6OSYXFxkNDyEPDjYtNX+PpJCnvgBKMiM7JBlFLSM+LCdLNzF0VUxePjs/N0JfTUtZR0csHB09LjFsbHuJlaqNnbKGma8AMx8XLB8eQDAzPC0yTzs7bUpEWzc0STU6PzY/TDw+Pi0tamV2prPOq77Wo7bOnLbQADsnIDUnJj0uMjMkKUIyM21KQ2pIRmZFRTgyPjovMzknJ21odpylvKSzyqa40ZyzzQA9KiM6KSc6KCtyWFeCaWVRPjhQOzpmS01xXmVoV14xIyRhVVpzanN2c36Ag5NZX3EAPCkjOiknRzM2nHl0knFwblZUPSsnd1xcgGlueGhyMysyGRAUKSEnGREXFAwRFxQaADQhGzAhIUY3O41raIloZoxsbGtST3tdW49ydYJwfDUsNQwEBygnMzU0QDIyPxscJgAnEAgyHhs6Ki98YF6BYl+DZGOFZGJ/YFyCZGSAaG9ANDwTCQsbFBomJjIjJTAWGSQAKBMPKx0fLh0eWkNCb1JQclJPc1JQcFBNY0dGQjQ7FA4WJBgeEg8WAQEEAAABAAEB/zR9ahjKi5cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/15.png",
+    "width": 1920
+  }
+}

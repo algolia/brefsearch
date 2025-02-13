@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "J'ai entendu: Tu veux mourir ou quoi ? J'ai dit non.",
+    "end": 36,
+    "index": 17,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=34s"
+  },
+  "thumbnail": {
+    "hash": "29f840a4c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABYRDw4LCjgoJVxCPVJJRVZlcF1PSJZfS6ZqWKRmVaRoWphdUZBWSmxEOT46ORcWFwAUDw0ZEQ99Vk1iQzpPT05gd4RfTERlRjiSYEymaFCub16vcGKlZ1qHUkJLODEvLzEAEA0KPCcjnmhca0xBXVtaeIWOZ01ASjYwiVhGg1NBYkQ4iV5QpW9gmmFQVzUqOjk5ABgTEEsrJ55hV5lvYHpuaJaGg5JaQo9eTbh6a4hVR0w0LE04MmJEOnpRQWQ8MC0pJwAvIx9aNS6eY1mbcmN9bmWQeXOiXkmwcmK5emuVXEyQX1B5VUh5VEeLWUh5SjslHRsAUDs0WTUul2JXjGlbc2pninFrn2JLakY9b0U9llxPs3Jkr3BgrG5coGJPeko8IBkWAGZKQmNCOXJLQnJXSH53dXllXXdQP2RDOnhUSahsXqVlVpJXR3tJOHtKOlg8MisiHwBvT0V4U0dUPjVYRTmAendvX1NoPDZoMzVlQzl/WUuKU0J6TDpuRjdONiwxJSI5JiIAd1NIb05DOi0nSTozeXRuY1RIWDguVTIyXDs2aEk8Z0M1WT4ySDMrLSIeJhsXWlVasYWPWaPy1Q8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/17.png",
+    "width": 1920
+  }
+}

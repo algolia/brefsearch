@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai passé la soirée sur Facebook à regarder des trucs qui servaient à rien.",
+    "end": 13,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=10s"
+  },
+  "thumbnail": {
+    "hash": "75f775177a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AImAcHpzX3uWvHKewFx2j25uc5iKdLuymZ6YhZ2WgamcgIt+YjEtKTQoKiIeJm9ENgBlWUl8a1eKnr43P0kPBgMVDw1RPjKsn4bOy7bMyLPGxK2blnlTPzlQPTksKz9hRUkANi0ipJeCc2thCgMADQsMJxoXkWRTp5R7ycWyy8axupqEs417Uzw4Zj0sPC8zXkhPAEQ1K5+NezsyKQYCAxUNDWlFOqV0ZLN8ZcvDrdHVyLiEdaU9KV8QCy0dHUczMT0nKQC4pJutoYscFhEEAgVPMCiRWEiocWC5mY/Rv7rWuKzXs4iidDhfJh0tLTISFyktM0cAwb6wj4h6EwoIBAMEKBkWVjQvUzYsonFAv4NDvYdOw49WrZhZg39qNzQ2KiEfXlJNAKiikFpOQwsCAyUWKSMWIjIdIkooPqp5Q8SCKLeHRr+kRsSwR866enhtblZIQ2tfWwCYkYBTSz0XCBZgO29oQH4yIDg/I0OGXk2bdUWabzXOnjzAgS+4nHa7opRwXFJ3X1YAfnhsVlBCNh08ZEJsbkxzbkWGYkCBdUxih1Q8dE42t4c6w39Ex6h9fGVhUEA6TD5BvsanND1zcMwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/04.png",
+    "width": 1920
+  }
+}

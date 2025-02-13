@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "En y réfléchissant, je me Je me suis dit que c'était un peu pourri.",
+    "end": 30,
+    "index": 12,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=28s"
+  },
+  "thumbnail": {
+    "hash": "594728468c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AExIRWNgXqmmpmJgYaWipWAPGmUACWwOF3MZI3khK30oNHceKG8YIWMNFVkEC1cECwCjn565t7rW1dqwsLTb2d50IixxDxuLP0mMQEmLPEWXUlqJOkKNQUuIPUZwGSJcBA0ApKGkwcDFnZ2hh4aKs7C1ch4nfSkzl1dfkEhQkklSjUFKkEdPjENMjUNMiT9JXwELAHt6fYKBhYB/g4GAhJ6coHgpMZE0PpdFTpdFTplHUIguOI45QpA9Ro46RI88Rn4jLADKys7MzNHi4uezs7ivrrKSNkCULTenUVmeTFSJIixxAAmDICmdUVmTPkeWQkx9FSAAZGNmYmFlp6aqwcHFr6+0qm94iz5IjEFMjENMiUBJiDxGhjxFiUJMiEFLh0FKgTlCAL68vsHBxtXV2uLi5+bo7O/w9+rp8Onn7eno7unq7+rr8Onr7+jo7ejp7ufo7tva3QDSzczm5Ofr6/Ds7fLs7vPr7PLr6/Lr6/Hr6/Hq6vHs6vHs6/Dp6/Dn6Ozf3uDMx8YAvrWxx8K/1NDR3dvf4eHl4+Ln4uLn4+Pp4uPo4uLn4uLm4N/j29nc0s/QyMK/vrWxoGL0YPmSvJ4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/12.png",
+    "width": 1920
+  }
+}

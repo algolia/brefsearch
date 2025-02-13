@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Bref, je suis allé au cinéma avec cette fille.",
+    "end": 101,
+    "index": 41,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=96s"
+  },
+  "thumbnail": {
+    "hash": "2b6e83f09e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nAXBW0/aUAAA4CZDWxhQS6+nF07PKb3tFHqHglLI0MI2NcFo5sjIMhOTxexFfXAxWZbp2172sGT/Yv9x30cZLA33WmKTKUJ4s313u5l/WY/uz8a/Lid3M7sPuIcbuyvvzEplNuUUXqRAiwb0C4NtTUP3+iT9unmzPioe38//fn79YzWofHA8LXi+g9Fu4ArfrrYUYOs8U9Ob9MjdW5XNdZU9fjq5WsV3VXiZmsdETyFXIk6iaxjAf3+eKKG5a3YYxNEZZiMkzHJnuxz+vl5+Py2eV4MPqam0d4jU6Al16WXtMCWULtYxqCOFyTxpkaGjA7fMeh8Po03ubBKYQNGRG77MeDLjSgzgGpQqNkiPizw+G6hlgZeLfDya5K9w6amxzubYcLoogOo+6Q5dYEhtCmntyJOyvpYEShKSanGGENkfOKdj7yLGEdQ1UTdliFU4JPa471C2yRNHiQM9CY0kPpjkc98NsIp+nle3bxdIsyFAsd+XO1pgWVWRUJYp+g4IiBbHyPdCx4oRDDucbilQ5TUNeBD0sOHybaAJwEP6f45LSxb9KV7GAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/41.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Elle m'a laissé entrer.",
+    "end": 76,
+    "index": 42,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=74s"
+  },
+  "thumbnail": {
+    "hash": "60f06b98e5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD4fJD4eIkclKF4wM2g1NlguMGIyMnw/PH9AP6ppX9emjtOPeL90YLttWrFaTqhLQQA/ICNDIiZLKC5oNzh+REJ4Q0J4Q0KSUUybWVS/gnbltZ7Xk3/AdmS4aFmtVEujR0AAPyElSykuVi8zdkVEj1VQjlNQiUxJmFdSp2dgzJOG67ai2ZiFxH5vuGdeqVFNoEdCAEAiJ1QuMmc7PYBNTJdfWZddWKV2cp9iXattZNScjuismdOSgMaDdLhqY6dQT51GRQBCIypXLzNrPUB+S0qSXliUZmOokY2da2aub2fZnpDjoZDMi3vEgHK1Z2CjTk+cQ0UAPCAmTyktZDc5dUNCiFBMi1RUg1BQkVlUrnVu2JyQ2peIxoN2v3ZrrVtXnUhJmkFEADQZHj8gI1YtMGs6OnxHRIRNTIZPTYtUUaZvatKTiNCHfL1zarRlX6ZRUplGSpRBRgAyFx49HiNEISRTKSxjNjZoOTpwPj96RkSZX1vCenK/bGavXFupVVafS06RQkeNP0UANBgdPx8jRSAiSyQmVCosUSksVy4xYjQ0hUpKrl1brlRSok1OoUxOl0RHiTtAhjo+AJyrkX4bDf4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/42.png",
+    "width": 1920
+  }
+}

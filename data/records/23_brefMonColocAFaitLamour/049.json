@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "J'ai compris que c'était pas sa taille. Il m'a dit qu'il osait pas en acheter.",
+    "end": 51,
+    "index": 23,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=49s"
+  },
+  "thumbnail": {
+    "hash": "3d92f466ea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALKpr8rAxdbLzdrPz9rQ0sC6sXpybBEKBygZFUQrJEksIzMcFBEIBBoVEo1yaJNwYgCvpq7Kwcfe09Xj2Nfe1dfCu7BkWFIhFRBnQzppSkNgPjRQLiI5IBcpHhqJcGiJal4Atq62y8PM4tja5tzd3tTax8C8eWtoVDYslGJUf1hSXT41XTgqbkU3ZVNPsquxsKSoALWuttTM0uPa2+PY3N3S2srDyZ+VlmxLQJNiU4VZT2M+NGU9LnFIOpuMjMTBybiwuAC1rLPSyc7j2dzi2N3EvMKtpLCdjJN+W1GMXU+NXU57TT5xQzJsRzqSgoKpnqG0q7EAs6uyzMTM2dHYubG7oZWjoJSkn5OefVxTdk5CgVVFeEs6ZDkoY0c9g3Bte2Zii3p5AK6nr8rDzLSsuJ2Rn52Rn56SoaKZqYl4fmZFO25FOG9FOlQ0KmdUUHhpZXRjYHhpaACupq+9tb6elKKaj56ajp+ckqKYkKCdlqh+dX1nSkVwS0RYSkRrX112amt6bW5/dHUArqauqKCrlYyZlYual46elo2dlI2dkoqbko6gh4KTfnR/c2pxdGpvgHV+hnqDh3uDdSfgVVSOF+gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/23.png",
+    "width": 1920
+  }
+}

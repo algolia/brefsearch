@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "À un moment, elle a pris mon bras. Yes.",
+    "end": 72,
+    "index": 31,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=70s"
+  },
+  "thumbnail": {
+    "hash": "3f808132ba",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUElEQVR4nEXQ3W7TQBCG4XRndma9a6//duNkba/tOCEEkFJApEUC1KqcgnrQw97/daAkAi7gmXf0LQglCkyZDXFfldFVK5u2ma6NclpVmq2ShmSCwCgk4EKhBAGZ4owplnmoir2zz+/6zppaJ14nhZIZo0ZgEBJgwX8LU20f57C06cHb14+bz60vFDmtckUZSY2gUBCIcwEBLfOXzr98GEJRVNr82KxvY+ezvNYqZ5mRNBIVCMIrEJgRf43Nce3asp6cr9N8XLb7bu4qlxL8L6C4vgSW1bdu9X1Y3TbV0y5uQ2jd+k07T761l/PJP0CIcHMGR1f+ej/vfX3q/XHebMM4+H4XxlInCYgzAEEAC8OcECnA4zL/eXr8FOPd2LwdhmkVQ7nehuiMURdAAOdZGZEQGcRp6h/ufx/afte4/bA5xHnw3dh0tTEsbtRlUwn4B9JQHQfuAxneAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/31.png",
+    "width": 1920
+  }
+}

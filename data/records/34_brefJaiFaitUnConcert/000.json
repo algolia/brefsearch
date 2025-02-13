@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Mon cœur est si gris.",
+    "end": 2,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=0s"
+  },
+  "thumbnail": {
+    "hash": "23d8795738",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJOIjq2hqHFnaD4tJrCYlNjN09bKz9vQ1dvQ1uXd4dTJxHpuZca/wN/b38K8v4ZrYACnnKK/tLo8My9LJhyfcmXUxsfVy87ZzNDXy9Dh2t2piX1LIhHFta/49Pnc09a1oZsAua6zt6qsZlNLXDktdU9Dzr6/0snM1cvO1svO3tTUjXBkWTEdtKCW8+3y6uDj1s7SAIpyZGZRRlhDNWlUSKGTkNPHybenp8y3ur+xstjNzHRaS0csHVBBQMW2u+vi49TJywBXQDBBLyRLNyx1XVGPf3uHdG6Ja2KZdHGHb2vIurdOQDssIR9KPTqzop3h1dbNwcAATjwwLiEYQzImaFJGaVJHbE5AgGliWDswUzoxcl9ZNCwsLCQdX1BOmIiHyLCow7e2AEAvIigdFjAiG0AwJm9aT4FoXIt+e4h9eFpPSmJGP0o4MktGRltRU3traZyEc6+inAAwIxocEw4VDQkbDwo9JhxPPTRHOjUxMC0xMC9KOTJHOjZBOENiUVdxWmBkOVtgRVQALCAYFAwIBwQDIA8KZicMJhkSICAeOzMrfWpXnIZ5Ph82MhEnRx09UCJGOxQ2QBY+P1zCWfbGYwMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/00.png",
+    "width": 1920
+  }
+}

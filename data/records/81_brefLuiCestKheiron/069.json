@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "Ça, ça veut dire que c'est cool.",
+    "end": 70,
+    "index": 24,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=69s"
+  },
+  "thumbnail": {
+    "hash": "8c2b0f3b50",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nAXB226aYAAAYJLWQn8ploKKiiAgilEqWkCQQ1uUQ1QUqj2otSeXLNmS3ixZ7/YWu9nNdrk32Ovt+6BRezruTQI5cJt2KF+mum8J4r3h3w7CVI/icycU216VVctEmzgbMi40VVbJcO3LY7PKB01z48wHHP9kT5+cxdpON6oTt2iDJi+ZvM+QIctDS227vt4HjYsJXZpzgzdvFXeVV3f+7KQ7N7lXOh5f0ou4XS3u1dZGUaFbbbcbf7npTbRCQStLiRZsnPmbd/doLXbDKKrTVgn/sOW/nxZ/ttG7GULL3mPYT2W6w52e4scokkF0Tvw+WW3M2VIxTQoz8ujP5Orf+8Ov5dWHuYWiZgyQbObgAEMAhgD48Eip0N8s51mbJefKNZUdkNkXRfz94P+weysphWzWbRcpDifgDIwdA3AEmLPCvjtM296syUUVdFTBtXzuVeZuJMEsi9CAMcK6EPEcAU5yCMgcwg5bX7aspCP7DOGXMZfK9fPYBXlSBXCXRCGVVhtUNRbYRUMY1WpejbuT+p+Hxlera1dInUQtCp8JtEfnewQq5cB/AbhXOYOYrHwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/24.png",
+    "width": 1920
+  }
+}

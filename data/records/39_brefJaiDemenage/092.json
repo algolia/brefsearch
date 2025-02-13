@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Bref, j'ai déménagé chez mon père.",
+    "end": 98,
+    "index": 42,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=92s"
+  },
+  "thumbnail": {
+    "hash": "c36b5f8afb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJKMjJ+ambCrqbu2tLmzr6+lnbOqpcS+vKKbmS4bGC0eHUIpJj8yLZ2XlKGalpCJhgB8b2y3srK5tLPFwL7Dvbq4rqexqKK+t7S6tLKAY115SkGIXVF4WFJfY3mLjJWhmpgAMSUjtq6swby6vrm2tbCttaukwLiywbu4y8XDu7KxdVBJRi0nbWp8b3qYbXWOdXmJABMNDHptaM7Kx8XAvriyr6Oak5aLhLWuq8K7ucTAwJiFgkQ4R1hmi2Zuj2pxj2ZsgwBnY2YqICG8s7DCvbqyr6t0Y12EVUeMbmW0sbG1qaawjIZuYnZGUHdXXoBbYoBVWnIAnZqgEhUfaFxYrailp6Kfc1pTiFdNbEdAmIuJpIZ9nXhtXVdqQ0xxP0VlRk1sQUZhAJmVmU9RWx4WE56VkrCtq2dTTnFHP4hfVnlZUpB/e4VmWkZCWz9IaCwySzpBXztAWQCDfoJ9fYU/Ojg6MC4/ODZIMiuJY1lxVE4aEhU9Oz5rZ3M/Rmk2PFcwNlI0OlY1Ok8AdnN1Z2ZthoGAEg0RSC0leFBFUDcyFA8RBgUIEw8PRkVSNj5cLTNLNTxZNTtYMDNEYXHBfFKaBYgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/42.png",
+    "width": 1920
+  }
+}

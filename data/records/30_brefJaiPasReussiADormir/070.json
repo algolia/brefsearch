@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai pensé à tout ce que je ferais si je gagnais au loto.",
+    "end": 71,
+    "index": 29,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=70s"
+  },
+  "thumbnail": {
+    "hash": "a580acb10d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC0eFSwXDD8lFFY1IrOooczLyK2impSIhmxhbE5LZT1DZzE5XTI6YDU8YS41VigvTQAxHBBDJxZTNiJlQy5yVEBBMylDMic9LiYqIyUVFycLEysCCSMXIUU0PGUyOF4rMlQALhYKSi0aVDYiaEYxZ005NiwgQDgqMyopJRocLR4gNCw9ExYxDho9KjRfLjZdKzNXADAWCVEyHlU2ImZELoNjSlhIOG9iW0czOEIkHVAxLU46RCMiPQsYPCQyXCcyWykxWAA3HA5VNyJTNCFmRC6id1ZEMiNqST1YMSdKKB9fRD9USFMjKEUUIEcnM18mMlwnMVkANx4OVTcjUDEdaUcxq3lUNB8VOCklRjIsPiwowsPBh4SNMS9KNT9nKjhlJzJdJC9XADkeEFg5JFAvGnZVPqd9W3gZDzkVESomImZWUOv5+c/b31pQaTErVSQkUiQwWiItUwA0Gw5KLRtAIhB1WEOofl6ZHxRMHRclIB5hUk/o9vbR3uJZUGcvKFEjIE0gLFUdKEsAGg4JJhcQCwEAPygblmVDhh4VXSgfOjEqVUI81t/foaStOTJJLzhcIC1VGyZIGSI/CNRz89RG/T0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/29.png",
+    "width": 1920
+  }
+}

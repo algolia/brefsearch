@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "J'ai aussi essayé de penser à Marla et moi dans un plan à quatre\navec les flics d'Energies 3 bien. Ça marchait pas.",
+    "end": 32,
+    "index": 15,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=28s"
+  },
+  "thumbnail": {
+    "hash": "5141790550",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACoVHDwdJnU8Q2s1PmUuN3QsK4U8SpBHU5VDT2YrOUsbImkwPYVOVms9RWQ4QFw2OwAtFyBLJimcWVGQTlGEPkBVKCiAPEuBPC53OjOySlplLChVLDeHTVdzQUpxQ0psQkYAMRgiXC8ug0kwkVNRmUpLbjYjYyw7ez02aDMlhDU3UyUfVioulk5ZfENOdz5GckBGAGYyO5lLQ5hgVMqXj6BHPGg6JWgxLnc2MXAyKI1BOSsQD1MxIp1WQ3k6P4pDRquEbAB+QDeSTzqUTUudXll0JCJpKSFoJx9fJR9kKCaLQzdiMCtwRTd6RzF5Oza0W1u8jncAeDk2j0o2dDU1ei8ydyQokDc8gjo5iDEzcS4uslpW63+NyHVzczssbDIqp1FMmGNSAF4rMHI2Lok7NphEQrlnXMF4YrdeUrhCQ6RCPI1BP9FrbqpRTH47LmMyLZ1VTItTQQBfJCpsKSqRQzedT0Z5PzN6OjB5MSiFOS2CNC2ePDivSTyRPDWAOyx+RzqBQjp8PjcAoj1Ar0RGkjc3jzo0gz00hT83hT42mkNAhTIuiTYxnj48skRDnEhAWS8edzw5dj4/7HSN4DsEDawAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/15.png",
+    "width": 1920
+  }
+}

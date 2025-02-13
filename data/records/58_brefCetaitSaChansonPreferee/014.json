@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Bon anniversaire.",
+    "end": 16,
+    "index": 4,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=14s"
+  },
+  "thumbnail": {
+    "hash": "629eee537a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nBXLW2+TUAAAYKIvxpilWkspKxQoh0Pb0cP91h7gQKGUFVrM6KKbmrnojMkWn+ajf934vX9Ustm13Y0siL2zHjsaCQI/HzMGkON0F4RJnGzXOPUcPzAtMOyHc4XCJP/49UdzuLbBDImaDpdIlBS6n5Fi33TFtk6zykG6D/jZ4E2MbCrJL7vb+7vvjx9SgqFrcZY3t9EF8p2wKqpydygjEpp2uICL96/RRKbi/PJ0e//w+Hxs2jHDCWNg6K4frkmMDymp91elbRW+m9rLjSYueYlake3x9Pnp+W9VdzwnAFXD6yjwXcNw8rxq2k8RMhoXdYnTBFpoWJSPs+p4/fD0J9+1g/5QFaQ6TfJNgXFG0m0S57YCVZbRoEIw3u5byluRsr66+/k7zqrzARPJ01MSEdMwkKlATYUXM0l2dDPwAtP2/ocFstOyufn2y18Rlh6FAHTRqrR0mmaZ4bnMT5ACTKgQ34WSxE+mFCeAMNocT1/UufnyxSskiKVrWwAMznrTIa1yrDJmRYaGEw7N4Lu39D/KG1w3p39xOQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/04.png",
+    "width": 1920
+  }
+}

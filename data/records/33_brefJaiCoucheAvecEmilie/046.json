@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Non. J'ai dit: Carrément, on est potes.",
+    "end": 48,
+    "index": 20,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=46s"
+  },
+  "thumbnail": {
+    "hash": "2506cc0fbb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABRUlEQVR4nE2Ny07CQBSG+5xufAWfQMILkJi4KbAwJsSAiEYxcSEmQBtCagPIdNoOdi6ddC6dUl7BAKHy5eQszvkvln3b6NzZz7370cfL8HUwm82j+BfCmLA0QiRCGBMWwNjz/K/P0dNj33IdF8J4HSSEqTUSN91Fo7Ost/xr26u3/HrbrzW9mj1v9f0Qwul4YgVrwFgKIAlCimnmuHN/ESCcbYhEODvOhghMM855AAIrSRIlpcl1URitxNXlxdugzxilJCmMLrem3Bbl1hiTS6kwxhalVCmV57kxRkoJflZpmmqthRBK6/yE1lopRSndN0gpq2u52xVFcfRX+/iSUu4bAACcc30I0weq1HOUUpxzAIA1HU9CCE+ef7U5UKlZmkZh5E4d66HTfR9+OM5suQJRvMmyTJ0hhGCMIYQ877vX6zXt9h8J5W0O5aPTBQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/20.png",
+    "width": 1920
+  }
+}

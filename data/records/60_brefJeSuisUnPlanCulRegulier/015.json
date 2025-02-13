@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Je sais pas pourquoi, mais chez lui, je dors bien.",
+    "end": 17,
+    "index": 4,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=15s"
+  },
+  "thumbnail": {
+    "hash": "c70270ea29",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHJ3fnt+hnx6fnZvbIyOmIuOmnd0iYyPnJWbqn5+hW9oZYeHjHBqZmtiVWVUQks2JACChpGJjJWOkpqRlqGTlqGOkJpva3+NkqOWnauUmKKYnqqWlouCakx3Wj93XEReRzQAjJGekJOdj5KbjZCbkZWhkZWgZmRrioF9kHdljHFcjnhnh29aZj4iTy0ZPisfNyceAJCVpI+SnZCVoZSYopqZmpyRhZZ9Y5FrS49oSpFtUI5sTn9cQWpELmRDLFU/LlpGNwCTl6OYm6KYjIWbhW+XeVuWdFCUb06GXUSAWEN9V0J/VzyLbVx9YlVsSDZTNSU8JBgAo6KinpKIi2FAh1s5hlk4fE4vckAlckIra0EvXTMhZzwji2dVeVlQSy8lRykeQyQWAKOjpZ6VkJeCc5d+aopnS3VNM25GLohlUH9eSHBJMmlAJnNEM21FN3dQR1gvJV8+KwCenaKmp62nqq+gnpydlYygl42impeZkZqVkZuZm62TkJ6JcXOKcnCGaGGPgYSRj5kAi4uOkZGSl5SVmpeXnp6fnKKvoa7Po7HQpLLRp7TUp7TSpbTWl5eskJKmjpu1g46opQ7Krj88iiYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/04.png",
+    "width": 1920
+  }
+}

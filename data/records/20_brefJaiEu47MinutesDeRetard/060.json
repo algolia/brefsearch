@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Je suis arrivé au café avec 45 minutes de retard, je n'ai pas trouvé la fille.",
+    "end": 63,
+    "index": 29,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=60s"
+  },
+  "thumbnail": {
+    "hash": "c12feda399",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJqFbaCKcJR+ZJmHdKiXhamXhauZhq+diaKRgK2agLaffrCaeX1vX5uGb6GJapl/YgChim6ym32vlXWznYfEsJnFsZrDrpjHtJ6bgnGcf2R4XUiphWdtbmOXg26tkXCghWcArpV3p5J3j3tjjoBul4l4kINzj4JxiX9vcFJEqod3j2laXU09Kz4wcWpSsZFxoYRmAL2ggJB7ZFtTR2JaUGZfVWJbUmNdVEI/OoF5eurf4sbKuKCdkjEzLWNgTKaKa4lzXgC7oIKbhGtxYlB7a1l9bluAcV95aFVRQz2jkI/FsKmDvnWRn3lYVUlubVNxaVhaV1IAtJyAkntibVtEcWBHbl1FaFtDdlpBRC8nXUE30LWvxsu6hoFoa21Yamlbb25plY6NAKSMcp2Fa4x6X5ODZZOCZZCBZIhwVhsUED8uJsuzqrmspIF6anJyZo+Lh7evrbOppQCKcVuUemOahmyij3Onk3WjkHJwZFArKiNnYEyRhW9ycF97eXCnoZ2/trOlmpZgV1IAg2xWhW5Yj3tjd2lWV05BW1FEZ2BPaWZQcm9bZWNXg395rKWhrKOff3ZvOzQwFRIOribOz9EQR5UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/29.png",
+    "width": 1920
+  }
+}

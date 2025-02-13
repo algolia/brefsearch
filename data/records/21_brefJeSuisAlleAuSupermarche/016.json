@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai voulu prendre un panier, il n'y en avait plus.",
+    "end": 17,
+    "index": 9,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=16s"
+  },
+  "thumbnail": {
+    "hash": "3c0d1b94e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJOGk41+eZaJjpmLko+HcpJxWqiQfbGkn7Oil7GehKKIe5N/fHxub3ppaXRzZV9dVACgkpuVhYGWiXSLgnacloWijoe6r6PAmnPBjFW6rJKxoZaai4WQhId4cGB9jDiCgk8AopSagXZienJuno+MtKWKr5+Wt5mTzZVkzYZGvKmavLKboouBhIGBYVtdcGV/bWFsAJJ/drmvkaaglaWfjbeqm8O6pKtsZLltVq11ZqqEe7msmqWTgaeNhZuFfIqAqWxeYwDAr7uOhH2em3iurJC1qI/Fua+ebGVnQUNXO0d6NjjJrJqljYKojozBm3moeVWli40AhHNzxLi2w6uqsKKcrJqD1ca6mpKYEQohCwEcg3d90byvmIB/p4yIhnBxqZOOsox9AKGHibiuvMOyubWlr7OfkdPDs5KLjxYSIxEMIIR9gtXIwZqHhK2Rj417ez45QpGKmACOhJKsoq6ZhZGpoKS9tKnVycSflpQ2Mzw3NT13b3Lbzsa9srSdhISabm5+cnltXVwAa1dCjnp/kYCSnIuDr6Gfxbm2l4uKaGBkh359bmVoxrixtqmmlomPjG9xgFdZlIKCCnDqpsLjWP8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/09.png",
+    "width": 1920
+  }
+}

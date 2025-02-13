@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "J'ai eu le droit aux chaussures de la honte.",
+    "end": 62,
+    "index": 32,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=60s"
+  },
+  "thumbnail": {
+    "hash": "c04b1f47db",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nBXL2XKaUAAAUF7iAriACKKE1RRRMLJdNrmCgOLEtJ0yGE0ydTrtdDp96EuXL+iHd3reD7KQ+eB+ngaeb4MI+MC0rYV+PR7+fHz5ejzsVoYp8p02JkxEx7CWMwNhyF5omfvYh0GYrGHkemsXnIrs02H3mm20ycSSRZGmdVEJLM9Z2siIJKCpH/O0SLMiSZNwHQP/+7n+/Xq+bKLSWr3zwUrgI/0e+jB0AkSiBxvgVu/rMt+XWZEEEfTCX9fr329fHhzz0bEeHdtUlCzc7NMS+hBRKDJ0vXP9fMj3uzSLgT+T1arIfz5Vpb4IpkqsqdyQ5saCoS2TaIvoIypzwen0kifbNIqlW6mL9e8E6cdT9bnYwvlsOmYJvNu4aTVu2nBdIOPhwNSXp/qSwjT0Ap5mRyTz/9wKQFPZPkn3yQlF41gPbXV4boowzECdqlV1SaL4LTD2c5nASRzt4WhH47iFIFrydEhQrSaOtXpos4NwHCPx0sMm/mDfPdtSOeNZgu7jJIZ2fZat3yguyzYbbYoYMhTbxfr/AG4gUDgE+OK4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/32.png",
+    "width": 1920
+  }
+}

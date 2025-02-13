@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "T'es libre ? Je t'embrasse.",
+    "end": 89,
+    "index": 38,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=84s"
+  },
+  "thumbnail": {
+    "hash": "e9e4962e17",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nAXB65KSUAAAYKbSXUldNRURL6BQriEBgkfkdjiAIku4zmamk6yXnZ1m/WH9qEfoKXrYvg87BOoWScuJMFd5JPYn/K3QbnVrJF0j1U8jOHHb2VwzlRpUGyNmoNB97DQHj7PRxlFXlhLrSgjkBFnfXZjHc6qohSg2bvlhl9E51uoPTF7C9sF4NwVbF6wdsLTAFx2cP0eJhzoEYY7h3F9EXhC7KEIwdLyp7WGnO/N0Z27Q+MECO2TEihwpylfbvFelFdCWurkw9AjC0IEhdKaGjf05Jf/+/l7YBpTlo2sNKSoUpaU2Rj32zNV/ceTPXuPHR/og9RbmZGZo2IMHL/v1KnBXyN4MhXEGlyqERDVmLerCkedO9dgs74j8vlWOZV5gaKzHdj50mAAIiW9/I8tJ5UZ9m7Vv8k9t4pmuHqnStlaaF/NuvSo26tk0jjFElSwUNI59iWcXS32sv9s1K/emeUDgOTROPPtEFQfFosrQlWzuKoVjmXQm/Trti8JL5PuK+P4anzcppE02jr70jdVosC7nwm6LKJTevEpnrvD/o+BbejafeBQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/38.png",
+    "width": 1920
+  }
+}

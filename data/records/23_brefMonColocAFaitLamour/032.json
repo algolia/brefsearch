@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Ils avaient pas baisé.",
+    "end": 33,
+    "index": 16,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=32s"
+  },
+  "thumbnail": {
+    "hash": "ed1d31fd28",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKiiqbKqsbewtbqyt722u8C4vcG5vs/KzZGFg5KGg+Pg47mrq2ldXb64vLuzuVpYZACMg4t6ZnCShIvKw8fEvMHHv8THwMXRz9SbfHWUdm7NzNCXfnhLLyaro6aup6xLU2IAiXuEbU9djXmCzsfMxr7Dx77Dxb7D1tLV1cPCybOwqqChr6Wmi32CgniEjoWIiYiUALCnrrqvtse/xMrDyMS8wb22u8C6v8/Gyevj59LAv62iopOMkIaCkXNseX1ydpSIigC2r7bFvsLLwsfBtLe2r7S1sLW8uL6rlI7Tvrrj1tl1ZWFRQT6FcnhqT0llUUpxaWkAsqmwv7i9zcDFs5KRj4SBpp2gqqSpioCCjX2C2MvNX0tEGRMPbmJlUUNENy8ucGVlAKCYn7awtszGybmxr3JZUn9oXERFTygvQT1EWnFqcVNIRDEqJVhZZUNDUy0oKYF3fAAzJyR6Y124sbWrn5qBaFhTQjkiIiQvKys3MTg/PkBFMzEtDA0rLDcdJDUrJSVeVVcARhYEWR0Kd2FZinxzdk46WSsXQywkSD00My0rNjQxQTAwIwsMLCswICYzCQcHKSgqSk7bo23/vPUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/16.png",
+    "width": 1920
+  }
+}

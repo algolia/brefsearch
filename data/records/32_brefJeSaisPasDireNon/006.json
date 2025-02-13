@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Elle m'a demandé: C'est bon ? J'ai répondu: Oui.",
+    "end": 8,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=6s"
+  },
+  "thumbnail": {
+    "hash": "f7f32d7916",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG9PSWIMEFoRD4JnYaGfmIuBeYF9eoiBeqCWhaqngJqEbI94Zqeie5yacXZsUIR/cwBcKCo3Dg1YQzmehna3rJe4tKerpZ22saimnYyQhGmrjXNtVkyJcEK5rHOen3t6cVcAVUI7PSYdi1pQq4N0rKKTlY6IkIuDrqekp5uQn5NyjWlaZ0I6cWBQxLOBu7yEnZt9ALCxtnZpdXZaYHxtc4uAdH5yb312aKmmlaOajYR5bVhDQ4RqZYmFiH9zcbuklaiHdwCytb7Q0eCJhZpPSF68tqCvpo6loI2cmoGbfFpHNC2RkZqtpq0hGyEfFBmekYysnpcArqy8z9Db29zpnZaLk4tsuLGktqyim4d9q4yJPzAyVlVaXVlfBwAGQTs1j455jYaCAKSisL26xrWorrarrrato8Orp6SCfKqhjomBex0XGg4JDQ0ICwsDCWZZVKmhlIyGfgCOjp2KdX2TYlakl6Ktnoymg1WgpV6+x5x0al9LR0yAfYUdGR0BAACGfnWwqp+WkYsAeXmGdV5kiFpRpI6Em4RtrrBzpqt5mpSGZ0VCUkdMjYWMMCstAAAAe3dvmZSLf3t1xvbRBJsU16wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "name": "J'ai traîné sur internet.",
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU"
+  },
+  "line": {
+    "content": "Je lui ai gentiment demandé de me laisser tranquille.",
+    "end": 54,
+    "index": 25,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=51s"
+  },
+  "thumbnail": {
+    "hash": "93b4ac176e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDAwNHDw9TBwc+qqLSIho+OjJenprPEw9HCwtOanKm2t8bCwdDMzNutqrWDe4aEfYgAqqmzuLfDk5KZWE1NdF9flH+IgnqHhoWLmJmhh4aMmZifpqWtq6myi4eNgXmEhHyGALe3xLm5yIN1eHNRS4lmYXNaV5CFlY2FkZGHjJCQlZmYnZ2boKenroF/g393gYN7hQCwr72wsb6IdXRrTERxVVBINS1zXl+WhJKRdnmam6V/fYVQTVJGREhRTVCAeIKAeIIAgHp4gHt0X1JLOSkjaVFNeVpWeVlWinuEbl1gMi8wIR0bFBISEhEQMi4uf3eBgHiAAIN+e5iVlX5tamJCPHdXUXthX1RBPEg9O19TViwlIxkXFBcVFhERESsoKH52f352fgCgnqOpqK+gnaFsWlc4JyBINS5UQTsvKCRdR0JZQToiGhUVEhEKCwslIyR8dX19dH0AtLK9vLrHtbS/mZidQTw6MSQfNSolMykkXkY+TzkxJBoVHBYTCQoKISAgeXJ6enJ6AKOhq6imspeVnZWTmlVUVxIQDzIkHTcoIUw3MC4lIR4XEyUcFwoKCh0cHnhweHlxeBXkt0zCDiNAAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/25.png",
+    "width": 1920
+  }
+}

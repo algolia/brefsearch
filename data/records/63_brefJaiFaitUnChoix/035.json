@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "C'est qui que tu traites de sale conne, pétasse ?",
+    "end": 37,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=35s"
+  },
+  "thumbnail": {
+    "hash": "55cf20b6b4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGVjYW1raXd1dn17fXl6e3RxcU0aJ04cJWBISMPEx7/CxdTb33BcYykDDywXHEU9OgBoZmVycG9xbW5hXV2EemmEc2pRFSVqODxfTETT0tPIyMrGxsaFb3UzFRYrHRs9NDAAZWNiQDg2IBcVDwgINiYXgmBRWSIxWzNENSwvmZqgxMLDjXp2j31+TTgsOSoiLh8ZAGZlaUg9OBYMCxoREh0RD29eZU4/Uk5FY0AwNh0TH0ZDVYyCgoRybmlUSFZHPEU1KgBIREk9LCUfFBEYDg4iEw9KOkNPO0E/O1BBQklMPDtDQE5lVVR0XlprU0VdTUFENywAWk9JOCcfIRQSFAoJLyMicmBXTTAxOzxgRU9oSyMekm5pub/DhHV1Wj4wW0c5TCcfAFlQTTwsJSETDxEHBiocG1M6LVY2QWtqo0FFYywLFFMQC2U3Nmo8OVo4K1gyJmEZEQBFOTVFOTgqHBoUCgkjExA8Ixg+MD5cWZQsJkgUESEzISQ2CQc5CQhOLyhWIRpQEQ0ANSMaPzU2ODQ4EwoJKRkWNR4YSzo/YWB6LSdBIxwjGxcZEhASGQ8RSiwrVRURSBEOzLN3Yg6t98QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/14.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Lits non fournis. Merci, c'est cool.",
+    "end": 52,
+    "index": 27,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=49s"
+  },
+  "thumbnail": {
+    "hash": "6a51f2c91b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABYMChQLCRYMChoQDhQKCF1ORKWai6KWiqOWi7Coo6WTj31US6eVkM7Ny42BenpsZQAOBwYQCQYVDAkdEhAXDQpVTErJxcTHw8HOyce0r6x+WlGFT0R5U0rAvbp4a2ZbS0UADwgGEAkGFAwKGhEPGg0KVkpGxcC9wr27x8PAsqakh1tRkGBWek5Dt6unsamgq5yTAAsFBA4IBhAJCBoNCzETD29fXMfDwsK9vcbCwMW/vpx1a3lLQ3FPSsG6taacirGdkgAIAwMOBwYQCQclDQpLIhuKfHjSz87Bvby5tbm4uMOwnJtdNSp9aGDLx8NtXVFnWVIACAMDCwUEFQsIKA4KSycghXh0hoaGvbzGqqS2lo2fioKRZkZFbVRPmpGSgXRxWUg+ABUJBhQJBSsYEkUmHUswKVBIR0tMU7a0yI6HmpeOoZKJm4ZyeYN2gIB0fpqRlqykoAAdDw0gEhAmFxY7JB44JyM1MjSnp7appLd2boOXj6WMgpGHgI+GfIt8cH57b3mtqKYAKCYyHRgfDQkOCgcKEw4RJyEnTkhUPjhANS44WlFhfHODeG9/dGd2VkxZd219mpOT5qinADossDAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Je n'ai pas le temps, je suis mal garé. On se voit demain.",
+    "end": 90,
+    "index": 35,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=87s"
+  },
+  "thumbnail": {
+    "hash": "ef0d6dd882",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBC1PSAAAA4N3lOfZgW5PNBIE541E3uEvmHMj5qIVhCig9CBoIK5hRc42iuG0qGYh6q/MyH9dd10/t+wC9WbGM1sD86Bz1Lo4tW2+pirI/+mW09xrp2PZcWOTij0R+IX5/K7P8RS0BPU0Zmvr5oHfjfPt3/v3UNvQ3ysC56mqdrXhk9R7jo/0p4eH6cvp1Ye1grwocdNQfh58vR9Yfp//3Z//MNvRGvdc1JX5uEiNhCCNgzIPfSSYEtZw/1KqArb89tTu/j63rkXVzYg2/au+bzeLSAjdNgS4UR3ASI0mUCDOzbblo7paBFBeprEuGUrt2zq5O7H6nvVvbWUvO51bTUZaFQARHCQzGouxdrfbcVF8BQWpiPsLy4VCzIl8M9z8p5dyikBUebIgJboaBQTeBEqjLHWLY+rNNOZcBApM0RZA0joux2JHxoVUq0DgqMF5dSi2FZ2GXG0dwGESmaK+cz1bzGYAmiAk3Nk15gpTnnfyyWylKU2SCDT5J8nE2OHZrHHIhkAslCaq0Ie0UHgMYjGAwchtFQz5f/cV2a0VokGMhDzETCIhcFAJhCETAcdjv9T9dSWUX+f9EsnIGp4euIQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/35.png",
+    "width": 1920
+  }
+}

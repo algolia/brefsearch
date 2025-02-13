@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Bon, j'y vais.",
+    "end": 76,
+    "index": 36,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=75s"
+  },
+  "thumbnail": {
+    "hash": "c8da5113e6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAiExIfEhEjFRMyHRZrUESegnScgXKhhXWggnNJODEjGxk3KSSVemeukHininCkh2wAHxMSHRMSKRoWPCUbhGZWoYV4nYJzqYt6ZlNJHBQSOikjIBcVXUc8uZqAtZh9tZh8ABoTEhwUFCkZFUYuJZN3aJ+Dd5yBcqOHdkY3MT4jGnxMOFEwI00yKKqLdLyeg7yfggAbFBMdFRQsHBdbPjKegnSdgnSaf3GhhXVfRz5HJxtwRDJpPix0Tj6lh3K7nYK9oIMAFhISGxUUMh8ZcFJEnoR5mX9yl3tuo4Z1hGhZVzIjdEg2f045ondfv6CDvZ6AvJ+DACUYFygbGEAnHYJlWZyDeZh9cJh8bYlxaVtMS0EoIE8sIWg+LWBNVm9gcZd+er2dgABBJx4tGRRNNSuVfHGcgXWCbGpHQGEoJ1AJDiopGhpQLyFGLiksLF8nKGIyMWiGcXwAOSIbVTcsjGxenYN5mX5yQz1aICNaKipcGR1FGxYjQSIYNSAiHyFGLi5gKSpdVkpiADsqJopaRKN6Z5V8cXRhYiEiTCYnUykqWx8hSwgQLCQXIEoyNW5dX1dKXRsdRVZHSy8AjUEU+J6uAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/36.png",
+    "width": 1920
+  }
+}

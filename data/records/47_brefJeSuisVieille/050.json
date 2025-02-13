@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Oui, avancez, madame.",
+    "end": 52,
+    "index": 18,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=50s"
+  },
+  "thumbnail": {
+    "hash": "808b50c65f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFtTVYl8dJF8Y5F/bJJ/f5iUoqWdnIh6eVlLT52Lg5OMi5iSlHpsYXVuaW9vcmdjbQBQUWRhcp1qdpuZjY2mlJOkk5GwpqV1YV9fPDB1YFugl5avqquKeXB7e4Nyb3RPQkUAZm2IV4rOZJbci42DjoNeXU1OSUFHJxkiTCEjSzpIlJWjurK2nXtslIJ8j4WGg2hdAHh7jG2HrXCEp5WUiFtaVBgbOwwPGRwLDlQzOYZ+iY+Ll3p0fntvboR6eHlyc2dUTwBuY2CNgnx/c2tcX2YfI0ASFSgODxQgDg83GRtoTUWZeGiBeHuCf31ybm9EOztFMDMARDcyTj43c2ttdnN1UUJIMhkZCQoQEQYKFAIFOzY5jHx8fX2IZGNuW1lZMSAfPR8fACoeGDEhGnRiYJiKjqJ7bm47LD0oJG5EMFtJQGtodJaQmGplbjAuPzg2PykWFTQiIwAbEg9eRj6Re3aMc217U0SIeFSVfWSXXEaJZFVEPUU7Mzd3cHcsKjYmJTAqFBUtHiAARB4TdF1XemlldGRfV0hLi3A+popvkoqKXVNWOzM2IB4iXFddJSMsGxojGwkLIxYXSwGd8coiXekAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/18.png",
+    "width": 1920
+  }
+}

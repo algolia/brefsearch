@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "J'ai réutilisé le même sachet de thé pendant une semaine.",
+    "end": 80,
+    "index": 25,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=78s"
+  },
+  "thumbnail": {
+    "hash": "b75aff5051",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGPwcfUP8IsODkpITq2saJheVT8pOiTOw8YpzNElzsvHWl0n3S8gIjhSUUre3NQ2Ja2Iwc01yNMjzM8vNjI6NzquICYmNyevvqqqNTMmwUxWVomXLzc00t3VV1ZCzsjQzt3Oi8HFOdDe1tvJ0d/ZMcDJwdfJ3sfJ1jM2Lrt/yiJ3Y0spNs6clBxDI2txIYmAgOiYqCQGHU1jBVk1TTVDXS1zfR1LI30bUyN7EwMbD7fghuZJ+VklUYGROpoGClJygT7BLs5eDAmRSfZ2nppqRppqxno6Frra5jqaZga6Voa6lgF+0e0dk0N9gmQkFMQFxfzdvVKiYxhS/AKCg5NS0irsbL3VVY20waotzZytzF1CguOryxuCPf3C/YPz0zL62jum9k9gCLG2tTKx83QL8fEIDQmOT0op8vYKd3EOcHUNjo6IDfcPCvYJLC0obayqa61raqtvYHCxcXG089TTNLG1dFu4YuOmAxcXbzg4f/WusrzSwuSU8vL6rKwiVxdfaytXV2ffIN8QBh+fsITEPHtT+4KSlsXrD9W1TnO09/b2jaosqMmITmlom7x04/6w8BRLc2dbG3crKxcAL5mLWbfsN/EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/25.png",
+    "width": 1920
+  }
+}

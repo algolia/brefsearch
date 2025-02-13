@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Fief, tout.",
+    "end": 22,
+    "index": 8,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=20s"
+  },
+  "thumbnail": {
+    "hash": "4f2b713199",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEw/PFlLSGNTT2tbVmxdWEw9OmtNRHtdVHRjXXZmYXdnYWRVUjYyODc0OjAtMywqLwBhUk9qWlZvXll5aGRVSEQ3JSGeb2DCj4CegnV0Z199bGRiU083NDpBPkU6Nz4tKjAAeGhkiHdyj355lIJ9dlVRb0xBgFxRjmVbnX9ydWVef2xlXVFOMS0zWVtjf4aUT05YAIR0c29iZWhbWGpfXW1PS4hdUKBzZ4lfVYl0bYBwa4RybFdNSy8tM1lRWo+To4OHlwBQRU4eGS4bFRQUDxI5JB1kRDmEXVObb2KfgnqJe3eHdnFOREQyMDY6NTxOTFVnaXUAgXx+UU5WEQwOGxYZKBkWUTUtp3lrdFBHc1hUkoB7hHNtRT0+MjA1NzU6LywyKygtAMzBsb+3rUQ8Nw0LDwoGCF4/NqN0Z1A4NBwYHmpZR3FfTj44PDMwNDYzNzIwNCklKQCWdFm9pYmTe2dLNS9zU0eHYVJWPToiGBtOPTuPblZpV0MuKi8wLDAzMDQvKi8kHiMAhWhcmHZolXdtj2xhfFtQTDg0GhUaOi8vfVxRmXFhbllOODI0MS0xKyYrJB4iHBgaxk+OTHAY1UAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/08.png",
+    "width": 1920
+  }
+}

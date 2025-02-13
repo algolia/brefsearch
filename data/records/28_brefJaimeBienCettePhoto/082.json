@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Ce mec intéressant, c'est moi.",
+    "end": 84,
+    "index": 31,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=82s"
+  },
+  "thumbnail": {
+    "hash": "39897c7c4c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgElEQVR4nC3N2W6bQABAUT65r1XVSm28UNwYzL4OwzIsM0NYzGLAdjChqdwo/1RF6tt9OpcpYnso0TI+3afj29y8v3T3ufl9Kf5cy/t0fL0UL0M292QoA+IpQN4yU4f/TvVYhs9NUsXmUAQNgZEhRKaQB4ancA0BYxVWiQWkjStvmdcPrJhPeBnpMtBlIMuYzT2dumRqk0sd3U7ptY7OFepzWGOTmXv83Ma3U/o/uuTWpdc6udboUoVTE5/LoM+9loIaWzW2mHMVlJGROIeWAuJJeahVsZWHOpTZzFeQvnOEh8h6LGO9iLSPw+kJ9rnb52Cs4LmCQ+G11G0zp6FOjW0MBKRzyNgRVyxDhfoS0xCnIRaBB19jQ+PnMTVTV7T4B+ew8mQWCGuobD2VTex9avPgsGYwlHKkUk9MnH0M+AJpBdIii/dVzpO3UN4AeQ3lTWTszMfvjrBi9qvPBv8DqiyyfmEoUlfEUMx8OYNSavOhsQt0zpU3KvtV476xXz79A+IFF5WSE3DSAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/31.png",
+    "width": 1920
+  }
+}

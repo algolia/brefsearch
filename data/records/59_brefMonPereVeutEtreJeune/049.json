@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Un jour, je lui ai demandé un service.",
+    "end": 51,
+    "index": 25,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=49s"
+  },
+  "thumbnail": {
+    "hash": "4d9686c880",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nBXNy3KaUAAA0JuY5lFTQChhomhA8YUFecjlcSECKkSKgGjCopkxM2mTRaa7tpt+RBf94U7PDxxAXpz709EGaYk1XZtyYsk5UgpXEztNTbh5XPuHzeopj/YLR2CoG7oBmthlaqvbOcyQljrqxlGrEM6GnDviSygtVPGlvPu6jR7XvsgybQoHfZrMbGUf2ttbI3f1wtWqhelMem+J93sfLSe9LzF6zsNDcqvwrQ6FA5NrfoZyFbmlb2auXnj6QwhTU/pVLv485W8x+lauXsrV6y6yRnyLwIDVbRWe8bBEu8DaIC1DahWanjywBtzf1/vSlP4PWfCcB4klC1cUiHWxmBupoxVzWHgzXxkLbJPCPoyb9I8iGDKkMxHuA6MKYTAdcDQFnE/92JAiXUyRHsNph6HpBsleMVDgvt+5s267flGfcOx+rntSv00SoHZcIy7rLE0iaXhIFrENSQwnccIcCT/z0Bx0z87f89dMhpQYSuMWA2rH746OTgConZ6cSj1+t/QpnGhg+DVFrtUxTRAfiYbEs4HSn0/7ttj9B8H3Vk3rIm2nAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/25.png",
+    "width": 1920
+  }
+}

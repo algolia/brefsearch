@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Plus 100 points. J'ai déjà fait des plans à trois.",
+    "end": 42,
+    "index": 21,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=41s"
+  },
+  "thumbnail": {
+    "hash": "33487cf132",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEoIiSIHF0MGVWsKvEAHO0gNIDIOFF4PNXsOj7gHuE0IMhIIB0UEWj4ESUwEo1QAxQBbC7FVDodcC41aCoxFCC8rCQ9TJiBmOSRiEXmwA+xkDFRIFSV3BL1YBJBhCMJpAuAAZw/PaxLRXgyuOAg+LQgQKhAVWCwqdEIuXxRmXAOgJgIuGAULMQFLaQDAgwL0ZALIAG4R3GcR0VAKpDUHMCAGDDwaIGUvMH9EPDATHQwECSUgHyEaIB8fFzMmNn8T0l0AswByDuZxEe1JDJw1CRwnDQseCw5NISFoNiw/FhopER1gYF9FRENZVFpdalByNJ9hAL8AcwfoUQu4PQ1kNwoPMRQPPh8YVzAoZzktXy4uViw2IxMYDQYLEQkRDw4EXg2PZwDeAGQKzDMSdT0NXkIYFVMvKnNDNm4+NGk4MF82MGU7OVcyMAMAAgwBDRwIF3M2p18V4ABNGzJQHFNpIKFwOD1aNzF7ST17Rjp8RjhkOjViOzZxRz8MAwkLBAomDBiMHrSkDd4AMxQzKwwzQA1Aczs+UDArbz83e0M2cUE3Zj06cUI6b0I5DwUMBQIBTghdjBGvYRNqRHttRsxR5ekAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/21.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Le robinet qui fuit et que je lui ai promis de réparer parce que\nje suis un mec, alors que je ne sais pas le faire parce que je suis un mec.",
+    "end": 50,
+    "index": 17,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=46s"
+  },
+  "thumbnail": {
+    "hash": "eb3a5d159a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXBzW+TUAAAcP4Rk112MIsTXbeytKUr8N6jDHh8lo8CD0pZobRrwX5lMzV6MDGZ2cHEwzQmJhovXkw86dU/zN+P6p6ewFZT4Vhbgj6Wh5r6fr+fOQ598MgAfF3O6ml5ned5kiS+i0VEwfa5wrE64j1Fii19Eg5/ffsxc53Tw4Ox5+6qerdcVuXsenJVpomDZUrhWJXvYtDTIN/vdt5sN1/v74WnR+yTx5FlTUbZvCir+WKRT5bZmAwsimcaBrwILoUB30o16d+fv1/u7jJDBw16mUabYlyQMAuDxLEKEnhYodQ2PeDOPKFpto5r3/j98PDz0+d1loEGHV6C0sWxCgMZDCWOYNES2tRqiLYh2gbohQ8XDriJ9O/v3n7Y70NZ5J8dE0WsI2sVWytirog2tSBV+Wgby7cj9WWKd7GyJsrr3Pt4u36VZ2GfH2tKHTmb2N4l5prgwhQoHzKJzGYal5ugHIhzR5raqLT7lS1PsXiliiMJjFDPvmCIhky+RfVOjhBDK2zD4BgPsbHcyzSYG/1U5jy+6XCMC9ou7NigowsdeP78P8xllT3aTI57AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/17.png",
+    "width": 1920
+  }
+}

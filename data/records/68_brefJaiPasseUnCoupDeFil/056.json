@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Putain, j'ai perdu mon portable et tu es le seul qui est dans l'annuaire.",
+    "end": 58,
+    "index": 32,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=56s"
+  },
+  "thumbnail": {
+    "hash": "d2ee1b4b94",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXBW2+aYAAAUN62LtZp5SIgF2m5KaBziLQfUJBKESutlFkNzUgXutSatXGpWbZse1q2ZI/Lnvdbdw4E8L25Qr8BnfkIPF3YQGBDZf/2uL8eWbOBdjuffciSIgQGRygN8gCBIZuAE4neJid/v65/r+YPkX/nDjahsxl769h1GljYVRe+tXR0t0mbeB2yceSqRf+5W/z79eVnHm/PRkvjVWEZ90OQeqbL0hYvfc9nxejQJHF5rwp5JDJh0PzYFgX9YTpMzb6M467AayyHEKyMETE4ug4DX5Gol9XK8xLUQxFQrwG5I0uDbXKmcjyP4RpFGy31BNhRGH+6yVrNHl7FsN1KeacCaQh8xNL7tKyKPafTLcNEHaOsVjvpd321lUaTH6tl/FopPyvhtXrlRRl6n8bf7oup3r0QqLceeEqnj0n0MV9OXKs49/KxeRk4mzyNjc7UPZyPHWjhW1kwDERm2WasRt2lyVORjTTR7/Ufb7LianLu25/z9J3Rzk+tVTaFBLhK7ZYUFA44QkNhplrjMcyVDnoUMzMHvqp4hj429A7bJFGqQXD/AZtLYZwQnffKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/32.png",
+    "width": 1920
+  }
+}

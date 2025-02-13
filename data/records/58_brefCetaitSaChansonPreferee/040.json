@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Je ne sais pas, moi, tu n'as qu'à demander à Steve.",
+    "end": 42,
+    "index": 13,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=40s"
+  },
+  "thumbnail": {
+    "hash": "548c06ae2f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nB3L+1OacAAAcCq3H0xRxLn0Fl5Lz6lRKSeEyMMvj8AH0xEmaj4YDREyH+uH7a6rP313+/z+gdgbQqjXmvWazNK6Auajgbt48Jz5JlhOLbMrcvPx8GW/8X3XthfWeAqJDKUBti3xPaV531GXi8nGc/aBu1t7w7Zi3lS6QuP9/fXt7fU5mNuWDKk8810T+5potmVLV5ez8cZznj3n737tW3cDlu7xDQkI293Laqo8dr9AGscYHdn4H+47ys/x4Mm19/6vre/OdFUnrpSrch8I2+1vZ3QLamnotk4ZbclQwQ8VmC1pbhn2xBrcGRc1irwo4VmMzOd1CTyunnarCZqIQs1qpd+SdInrAKYn8T3AMgwTTmYOInEkkQrDictCkcbxfJVaB85JKg7RxaImchpPjdoNlSVEhsoWvkFh+DASS2O5RAaLop9NgTsvXXaaXAv5AOFYtkFWh13+T2CaCsGQ18nTs6Pj2EEUKZ9iuRT6EUbZSuUkm5NpqlU6g87RTwReVBqEDkieKFyX8+F4MnQcO4wipXTmKwwfReIhGAnBqKioD7PZP/gObTCK4VJpAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/13.png",
+    "width": 1920
+  }
+}

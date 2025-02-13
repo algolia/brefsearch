@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Bref, il faisait beaucoup de sport et utilisait beaucoup de bande passée.",
+    "end": 26,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=24s"
+  },
+  "thumbnail": {
+    "hash": "d19a961410",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXBu27TUAAA0LuBiCBpKbCUIsEAFIIQGxJbVYkNISHBwgAT/wETv1BohWmVpDY1ruNH/MCP2Ln2tX2v34ntpIFW7XdwDujv7h7t7wv0oc7zjqr6lkk8mAYoj8ICR0UU5gjFEyewDFsW5V80YChKoGl9yLuaGrlOSaIsDPIwLAkuY3xS5MuyqAjJfOgbusaxgOv1VO7YUUaeaZQEf/3yefP+g6fdx8+63SebD19ub80I/jct6xjHE8eWBDA8ZExRgrru29YsJm9evQYAvOh0nrfb3Sutlfa1wBlfNM08jXPkuYoMRIa1ZcUzTGTbs5i8f/sOAPDo5q2tjY17qytr11cxdM+bepHFBfKgOgIizVqS4hm2bztVmnz68BEA0Gm17q7duHr50p3b6wUOz6ppk5DMm7gjGfADRhMk94+Jxm4WYUfTqJ0d6vu3n3t7ferHWNdO63pZZDMc4rFlCTxgewOR5cyRCk2beGgaJ3+r6rSpzxfzi+XJ2bxZFHlFcAJdqCnqEQMG1AHbH0i/j3VRnhhm4EAMvQT5WRhkYZAGKPW9yLagrhhDTuwf/AfUBR50rL5qygAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/11.png",
+    "width": 1920
+  }
+}

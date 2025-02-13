@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "J'avais dragué cette fille à la soirée de mode.",
+    "end": 3,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=2s"
+  },
+  "thumbnail": {
+    "hash": "2e84773691",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIx/fsK+wMjBweTh4Kucm6GOjZaDg5yJiKCNi56LipmHh5KBgIt7emthYF5UUXNmYgCZjIu4sbLAtrfNx8iuoKF/bmyZh4aplpSum5qahICZhIKkkZKejIt/dHNfUFGLeHYAlIaIenJ4hHp/jIaQkISFQykhfmxrrp6dsqKjfmFZgGhlpJSSY1Y8dWFLjnN4n4ODAJ+RkZmPka2goaqmrYtxbEAhFF5RUbupqHVpaRYQFBYSF2xgXXVoUGhYPJuGfqCLhQCbioiDb21nXF1STFBfVFViTkltUUhZTEobFhoOCg4RDBAjHB43MjI+NjNdUEx8bWkAZFdWFg8OEw8PBAIDLSw2VElQZlBNHxcYFRARJBweJRscIxobBwYKExARBwQGST89AE5DRREODxcREREMDSMTEEotIiMbHhkYHB8ZGQkIDgUFCQUGDA0KDhUREQ0JC0Q8PABPRksRDg8NCQoYFBU8PUQ3MDRYQjZTPC9uTDg7KCBLNSdPNioYEREMCQwKCAk0LC4AOzU4FBASAAABRzo0koJ/gWddvIxtn3JWflpGck46pXRVsHtaSTMoAQIECwgJJyEhZp6RZnBuc8QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/01.png",
+    "width": 1920
+  }
+}

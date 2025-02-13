@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Depuis, mon père dort chez moi. Maman a parlé de toi.",
+    "end": 11,
+    "index": 5,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=8s"
+  },
+  "thumbnail": {
+    "hash": "0e38e4b7f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBS2+acAAAcA4V/qJVUzfN8BErrQyQ1Sf4QlpA2yIFjfJqqJsSbNeH6ZbpDku6yzqXHbztsOy0D7DvuN8PwpPxYjalssVB9bVaJ2Vmv18qKHVa5ZgmkbtoMKbAGd262a2ZfNXqlCEynZRK5KzHlfNpnaVEBj+rUo7UuuyJw0pZb+tLa/zR0le2vrLVldGDVI5Zm9LfzZd6kZy06M9XQ1PgfE1U2hqeutrH/OuRu7mbbd5724fZ79UcEo6oYj4rNtgclmKyKbvLDRtlr9exj1tYwiWy9lfXWFrjGkmL1fKf9QICwd0dOLQTCMJwqJRJnTKEc9y5187PKkfJuJzDTm/OxbWphZEgCkLbpQeBYARFo0E0mo7t8UReYXm2QFpC1xCa1QLFv6FuL/o/5s7jWJ00K999F0KQMAARBESTe8kwGqEPO46kPBhDX5On7Zorc/9+bZ/n061vv5NaffoAAjAKQBgBkQC8Sx0UPnnzp/l0s7B+3thPjv688FfW6F6VvT5PJKIM9hJCAgDAaCAQevUicXc5+va4/DB9q7ClEzo3EZrOCX876F0P+hyeweOxTCzyH4nDZ5qe/WM3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/05.png",
+    "width": 1920
+  }
+}

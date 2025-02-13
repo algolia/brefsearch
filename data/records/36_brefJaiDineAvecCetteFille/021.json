@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Par contre, ma tante, depuis qu'elle est avec Thierry, elle va pas bien.",
+    "end": 24,
+    "index": 8,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=21s"
+  },
+  "thumbnail": {
+    "hash": "36da4d1a5f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXB61OaAAAAcD6tre5yw5yPiaISkCLzjSK+BmalhJBpS7RusnA0aTpqtKuzm3Xerpdzt8eX/a/7/QCpWDoos2oGuarFRvTqTS02oNG88zkCWsIQVCGCYoI85JhmgdpMkjkCA84UbdKVptvRn+3CaRadlMPnJaLqAaU1OOR1e2zWdMDXoKLv1nMyS7MEBtyfnT+08vcSNWvQPOJQo/C4GJJRx1Ecu2rVjS2Ww1HEtpL2w0KCrKdIYLhOGSmfyeCXeZxxWUsu0KQCGukZpIlbXf89/DTf2xlyxbgXQsAXSdgDaEK1jdsPcPso5dsPQtCzpzLu1KOwQb++1rRfN9//3T3e7TfnDZGLkcuLC4DR15Xadtpp5f0rxxEv47IydosehVUCvui8vf1izkfDmSz/UHqjk/ZONQvoynutK2OQzba4kLBbJNRdR70d/NUe6h7vin8+qA/q4eRUHV9o1/3O5woL8FymnFsrZ9GQ/+XS0hMXuKyzjJIK91Lhabc1GSnfLo9n5mDabn3crKjNXSAbwQqZ4NabiBCLZwJwaNUhbSQH4oaUjX81eo/myV+tPxaFI4Fv12p8Pvcf3rZ514h8TfcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/08.png",
+    "width": 1920
+  }
+}

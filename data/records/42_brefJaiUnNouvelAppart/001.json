@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Embrasser cette fille est entrée directement en première position\ndu top 5 de tous les trucs kiffants qui me sont arrivés dans la vie.",
+    "end": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=1s"
+  },
+  "thumbnail": {
+    "hash": "1f4eee8f3b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AMvLy8bBv5GGhIl+fol9fV9WVWBXV5CEhJWJiYV6eot/f4t+foyBgYl+fndtbWthYQDSz8/Nx8aonJqrnZ1sYWAPCAcFAABpW1mHaWEnGxpJQkOklZall5ekmJeXi4qHfHwAj42SoZyftqqpr6GhNi0sFw8MJRQPZkQ6fFBBa0M4HBQUk4mLvK2utaeoppqamY6PAHV3f4iGibuurY6DhA8JCBELCjgeFmVANXBLPV4+NBUQEyooLlZQVKabnbCkpp+UlwCioqeknZ60paNQR0ZEJBUkEQo2LSyTgoE+LywUDQ4ICA4JCAwAAAEqJiqhlZeflJQAmpCPopWSm5SXZkY4eEAlJxMNSENFwre6h3+EFBIWCwoPDAoPDwwRBAQIeHF2oZidAFhIQ2dZVoNmXWY1ITwmHktGRiojI35ubbetrzs5PgQDCA0MEQ0MEQcGCzc0OY+KkAAnIyMzLCtoQC5TMCJNSk5gYmgdFhUwFg8jGx0PDhMKCQ4JCA0JCQ0KCA0FBQcuLTAACwoNHR8kJyQqSTMsY0U4QDMwIhMRRioiDg0QDQsPCgkOCgkOBwYLBwYKBAMGAAAA6hyLvQYetwsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/00.png",
+    "width": 1920
+  }
+}

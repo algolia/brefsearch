@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Du coup, il y en a qui confondent.",
+    "end": 16,
+    "index": 5,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=14s"
+  },
+  "thumbnail": {
+    "hash": "3a41817ddf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANDK0dHL09PN1dPN1NLM1NLM1NHL0tLN1czG0MfAysS/x8C7xr64wsC4wcO6wcG6wADPydDPydDRy9LRy9LRytHQytDV0Ne9srh0b55maKB8ZHZgWYBGS4d8e56+trmdkZQAzcfOz8vTz8nQzsjPzsnQz8jPzsrSb1pYbl1osrDIY1NaNisxjYmevbbEk319SDEtANHN1bGlpcW9w8rBxrmoq9jU3KmjqjImKDcvL8nBxlNNTxMPEJaQktLGyYIzLDkPDQDIwMqMcouRe46GfIVtXmTHwMfBusE4KSpIPkDTy9NoYmokHCCjm5/IwseLSUQoBgYAcFZeS0RkSDA8MCUpLSMng2xuysTMIx0hUElO2dDWg4CMZF9sw7q+w73DmlFLHAAAAJaJj0tJU3htcU9HST81Np6Ul7SutUNAR396gdbN06afp3Nxf8G6v7+2u3VNSzcoKQCgmKBrYmmflZt4b3VrYmepoaaSi5FsZGmSi4/Xz9Snn6ZQTVu1q7KimZ9PT1NZVloAtrC4q6Wrv7rDr6qysq21w7zDkISElYuOoJaaysTNq6OqjoaNvre/h36CYlldc2lvTYn1JBHQ/Q4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/05.png",
+    "width": 1920
+  }
+}

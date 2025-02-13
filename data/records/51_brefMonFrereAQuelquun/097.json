@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Entre.",
+    "end": 102,
+    "index": 43,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=97s"
+  },
+  "thumbnail": {
+    "hash": "fc7bdf46b1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nGNoKC2XZ2ZT4RW0VlGoigmMsjN11FKWFBKSFxUMt9VrL871tLVlYGBggQGG9poaFRZOLQFRA2mp/BDfqamhiwviigNc+Dg5Pcx0+0pzQ91cJHl5eTk5GZmYmJmZGaZ2dumy8xkISyjw8Wf6udeFe/cnBs4piLNTVwq0M+8rL8iNCA3UVDGUFGdgZGRhYWaYN3mKEZeQsZiUCBtHbqDP7Jz4teXJO1sL2qN8Yt3teisKKiOD4k10bWUkOdnYGJmZGRbNmGnAIaDBJ8TJwGCjpZ5iZ9YY5Fwb5h7nZhPhbteUm5oX5O2upuinpaotIQpy0oJp0+2llPzMbFxNrDyNjKNtTe00FDPcrZsTQxzMTUO9PFI8nIykxUOMtN3UFU3lJRk2r1kbbOngbWhuraZjpyCf42webKjVFu7ZGh7orG0Y4uoebG1uKiflpa3qpibvqqrAkBGTZCAppysuoy8hYymnnGZjmmBhGqhnHKZnFm1saaKspiQpoaegZKumrC8uKsYtwKAsJCbJJ6gjKeegom2npGmvrOmsquuuYRCgY2qjqiUuLCIjIWukY60ho8DDxS8mLAkAHh1iWaGI/ooAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/43.png",
+    "width": 1920
+  }
+}

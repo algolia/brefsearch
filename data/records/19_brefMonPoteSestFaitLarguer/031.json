@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Elle tient, toi ? T'es pas à l'aise, oncle.",
+    "end": 32,
+    "index": 18,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=31s"
+  },
+  "thumbnail": {
+    "hash": "82fc168e0b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXB708SYQAA4PtQzQrOu/feO973fnDAcScHR8ChcgwFDioyI0VhqIXO5aLYVVoXVDY2TGvLOWnFcuSWX9r80voXex4igegfX751207ZMqMSSorAVvG0hkcnxxfDX6PTw41iqiwJrYVcTOYUNElEgOfsYfVkufro8Woqrh6s3f60krXDvj+V+mHe+vlyq1MuFHhYmY2pAhPmaSIyeb1Xe+CuVp3Fklu/O+w0nxXijZQysDJu3qrbZjOpl33MZj6RFkAIU8QU6T368M552tosZv8NXvQbpbWMbgWRpfmW5pLVnGFrchqBTil5RwJRCRKzutl13MXKcm1u5vzV+sel3Jv72ZjIB1gmEuYNI6hKSPdze5WZjYScURFhROcxxJpm3Evrr1fyDTNiIMhRIIB4laOnREYROT9984kdP6rntotxQgkoMkYhv8YDygwhQ4CMlwQeCtFoOsinhRui94rMUt12a/y5f7z/lhA4jCCEJM0C2nPtKu0lRSxgwGOGFQCcvxXe3dn6Ouifj74f7Pfe7zoEBwAkAUNCFlDkxISIBU3RAlIoKGnN2vrv8fjv5eXZ8HTQc93nO3vt7f8FiWYmQheZaAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/18.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Alors j'ai dit: Youpi guy, pauvre con.",
+    "end": 99,
+    "index": 32,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=97s"
+  },
+  "thumbnail": {
+    "hash": "ba15faeb96",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAE0lEQVR4nGNgIREwjGogAtBeAwDSZAbBj/k3twAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/32.png",
+    "width": 1920
+  }
+}

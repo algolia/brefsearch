@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il avait un iPad qu'il utilisait à 1% de ses capacités.",
+    "end": 18,
+    "index": 7,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=16s"
+  },
+  "thumbnail": {
+    "hash": "923056f41b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXBW0/aUAAA4D7sYdnTkgV6oafntEALLXYDWQcNiJR2jovRKUMQAyhtabFQZMrM4rIo2RRwcdmSJUuW7K/6fVhOBEnmSXGTV5vqWimdeZXMijHNKGa7WWRz4XEY1kTwlkcOCy0kGHEslcYju0QtL5vR2HqVQhraqAr5I+61zQpjPuzzyIpyFh8Z8iGb3dgXMMplIkMu/+a5Sj6rKnh+HN1yYwUnWRhJ26cS+iy+2yTU1FN6iFiPzxYDGOkz1BkMeIhoMHDI7bjp86Z+dVj2OmVjkoC2YNTU5a+vxWuNsVmxQGDUmMEvoXjAFl5GlEZ454PUbqWPraziK1v2e1GSa7nS8v731f1Pfk+kaiEs5DPBGZB7/KhRWV7U5yMdTBk4YxPTlHvxt7p70tprl/R2ve0oXibYJzDSpckJCNgw3pDjpipYa9QNS19y4CMr93LlelPbd2MHeqAPX0yIoA+wQIUkW6Dkxo0JmRhA4EE0gxGf4T4h+pxAHRIci2hKlZ30dnddMjkMt2h8AE5t/f+N+/Ctv5h37uad1cL8sRqsvpuL297dbffsRPv3cP3ny7TiZB4Bval0LrF3le4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/07.png",
+    "width": 1920
+  }
+}

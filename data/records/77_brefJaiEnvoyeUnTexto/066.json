@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Ça commençait à me saouler.",
+    "end": 67,
+    "index": 34,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=66s"
+  },
+  "thumbnail": {
+    "hash": "00f440b9d2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nDWR32+aUABG7///3r12LdFmVSxQ7p0VLdigWTJBLCp2BQUsPy5eoRWhRcQ03bIvJ+fpvH3ggqpxHJLlX9pkZlmO54UhJtEmJiQJwo3n4WdzpY4fpb7MsPwlVQfoZ0cefNWeFwYBDkO8jeNtHGOM4yTB0SZJXgl5XdnrkaLxsA00baoq2vfzC1keiKLIsmyn00EQ1q/qgiDUajVJEqtTlWa55+PfIw04zotlra5/XDebTZZlIYQcd/vXnCAIrVaLoihd19N9mma5ZdnADyLbcWVZbjSa/f5Dr9tFCLXbd5IkIYQYhqFpWhC6GOOPoli/+MB1fcN4Ovt2xvN8i6YbHNJnc2M+Hw6HruuapmkYxul0Kg5Fmu6XSwco6sQ0V72eOJ1OF8ZcnS2K8ng8HquqKr92KMsyy/JdmgVBNBppgIdtRZ2EmLzt9u8fRVkesjz/z/s+y952Kdkmtr1WFA3CO3BJ1W+Y23vxQVEfF0+m7Xh+EGFMMCZBEDmu9+d5OR7rUn/w74dPAzxkiUs+174AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/34.png",
+    "width": 1920
+  }
+}

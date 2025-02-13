@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Ça, c'est un dessin que j'ai fait quand j'avais six ans.",
+    "end": 3,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=1s"
+  },
+  "thumbnail": {
+    "hash": "cd19145b97",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFBEQ1RGQ2pdW3JZV4hta3VWWUwbIlU3OcO8w9ra4ufp7dbT10gjKTIbHUpFRTs0NwBOR01aT1B1bW2OiomQjoxnQkVlPTx8XVm1rLPb2+Pr7PDW0dVGHCI3HiBPR0c2LjAALzBPRj9FKyIjLikpRiwuQRATW0FCUTAyQSYpQTo7Qzs9Ny4vMBMYPCgrU0dGPjQzACEbHyYdHRkUGBAQFTgTFT0RE0o0PE04P0AgI1ItL1w6ORMMDCAhKiIkMCcdHSggHwAWERIXEBIQDhANERg9HyVdLzNdQ0JbTE96c3huUllrPDEoHx4WGCQYFhoWExgjHB8AEQ0OEAsNDwsMBwQEJyMtMC86CwkPEQ8VHB8rIyArHxMTGBIUFA8RW0pCZVVUWEhKAA0KDA4KDBMOEA8LDA4NEBkZJA4OEw4ICCMaGyEcIAQEBQAAABALCy0iHBwbHFJDPwANCgoGBQYHBQcDAgMCAQIMDRRIOzhuUkllSUBwUUdBLygJCAkjGxpCNS0/OjNSQj0AFxARFRARIxscLCMkNyssRDY8ZE9JeWFWVjw1XT82ZEQ4MSQjPzQ1QTU0OjEySzs1zs1gOxjl++gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/00.png",
+    "width": 1920
+  }
+}

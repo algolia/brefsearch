@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Mon frère pleurait dessus.",
+    "end": 92,
+    "index": 41,
+    "start": 91,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=91s"
+  },
+  "thumbnail": {
+    "hash": "a8e76fa209",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJSOjqCbmrGsq7u2tbawrK6knLWtqMnCwYyEgiYTES4gIDsiIFBGQaymoqGalpCJhwCTioizr668trXGwsDCvLi2q6OzqqXCu7ivqKV2Ukx3TEONYVNtU1FmbIKZl5ylnpoAUkRBv7m3v7q4vbi2ta+suK6nvbWvwbq3zsnHr6Kga0E5UTgyc3OIbniWcHiPf4COABEIBpuPi8vHxcbBv7eyrqCTi7KoosO8ucK8usbAwIN2dzo5TmFtkWdvj2xzkGZrgwBEQERENzbJw8DAvLt3bmp5T0KXdGq0rKq7tLO9tbS7trtWXX5MVXtZX4JeZIJUWXEAhoaQDQsRiX56pKCeSjc0eUxCg1VNoI+MubSzt7Cur5yXWl17RU9zQUdmR05tQUZfAI2MlDw8QyshHrWwrJWAfGdBN3RKRGtaWKqmprasqI9oXE9RcT1FYy40Tz1DYjxBVwB5d359fIIqJCJUS0k9OTlDKiM1Ix8SDQ8fHCGMhYZ1b35CSW4zOFIzOVc0OVY5PFAAa2lvc3F1bGhnCwUHCQUGQiwoLCAfDw0SBwQIVVBUaGp/MjpZLjRNNj1bNDtWMDNCVFDEWFgOpbEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/41.png",
+    "width": 1920
+  }
+}

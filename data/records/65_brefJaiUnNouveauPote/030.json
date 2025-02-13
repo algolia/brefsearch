@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Un soir, il est resté dormir à la maison. On a parlé jusqu'à 4h00 du matin.",
+    "end": 34,
+    "index": 11,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=30s"
+  },
+  "thumbnail": {
+    "hash": "8bfce0ed32",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nCXCO2/TQBwA8L/v4bN959edHfvs+JGHncZxaqOQ0paiChQhFQsk2BADQowMsLDADmVj4lPwIRn46QfUwNigBlAExABMDISBAJj/LwKvC11tMRsQAUQBg4NNEzNqME4dirjk4Vp6GIiJTIxoG6tOBTsVuJgExKwcCzxCcqmWsyTzw8SNSpVcLfJGBtpxMi7GJLop0zGJ5oL3kWw8DlngDcvqYtPuyvw09m2ajtnsutIzyz5P48tCP1sVQxrXgb+Lwm3owofp8d3V4fv7Vxer7Ou7F3/ufx2K5MlmoSy78sWxym/qvJVhxkXj+70KYOqzscpvN2Xhe/ffvvz9/aNPowfr+rKtU8GbWA2JyrgTM6sUopMB7LUaq+z5+WbaLX9+/vjp5VRL77o/a3UiKNOeW7giZizARFtW4wqQzHy01K+P272OT/vVdOi2VXI7nLnUFIQJg0rLnjm2h1BpszlGENu0y+N9kcxd++3peHfcvnn6cKjmGIAZiAHCYDBEVj5fOzQC+AeByi5simqVqAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/11.png",
+    "width": 1280
+  }
+}

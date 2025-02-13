@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Ça a l'air fameux.",
+    "end": 63,
+    "index": 20,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=61s"
+  },
+  "thumbnail": {
+    "hash": "65c363a5ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHyPnGV0hGp3inOBlGV0h15odnJweWNldGNvg3eDlGp1hoCOmY2cppequXqMnHCBkQBtgZJgcoFWZXFbaXZTX212X1+6lInJqp2Ih4uClKCPn6iPoKqNnqecsbx1iZ5rgZ8AX3SONEFYKC0+KjBCICMweV5avZiMs4+Il4KDkaCqk6SvkKGrj6CpnrO+e5ClaX6bAGg1QmIuOVQzPzIuPCUsODkrK3leW35hYrqUjaajpZGlr5OjrI+gqZ+0wHiLoWF0jwBsJC1bJTBIKTYaExw/SVhvWF2DZmOsiYObbm1/Z2p7jJeVprCWp7Cit8N2iZ9eb4oANCAsMSAsLiMwHyQ1ICg5Mi02VEBBZk9PdFVVZlFSW2JtPEJSd4SQnrG+dIWbWWF6AAIHDwMGDQQHDg8THRoaJhARGTgtLkg4Nk5CRT00MYiMkjo6QycpN2Fkd1tcbGdueQA4PUE3P0Y5P0MmKTIRDxUtMUA8Q1YyKiZPRUBBOC1iZW1eY3AXFiVeY3dXXGZqc3kAoGhAiI6Ydo2mKSw2EhEVHR0kiJOjKiwxOjUsVUw9MjI7f4aTNTdKS1NhRExJQ0RPpoqn3bsyercAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Désolé, parfois, je conduis vraiment comme un noir..",
+    "end": 83,
+    "index": 39,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=81s"
+  },
+  "thumbnail": {
+    "hash": "b11d95a4cb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nBXCW2+aUAAAYJJWBZH7AYpwkJscRIoiFmmr7mBR1lmNWnft47Jly7L9gl2yl/VtT/sH+6PLvnzEuSgADjhOnI6KOd49vP+6OX5I07nnRhB2VbUDgN7WXRcN6zX69KRBeJIMgBn444v0pixfzIs98gedDuJYiaEFA/oG7CI/duyAZSSWkQiB5nhOM43gvJ/j+SaOJgKnGBB1TN+zfarWxNn17+8/N7iUeEUQzgia5FTZgjryvSQbL5LBVJHNMByvb3flYrWc4T/ffvz99fh5u9VUCIBOiLymqV77zLWtfhROeigdZ3izfX48Piyms3f7Z4+fvrytqj60JVFjaYEAoiFLhiJDve2Yhh+Ho8tREvaS2/X9wnLf4LzKri7DGLmBLEPLDgmOVZmmKPGaCRHqjvJ09vHlkwKXYTB0dedptZteF3mOV9VhhtcXGSZoSvi/yauy6Tr9YXy1LFaHw6tyta/Wr3FxNxzkYZA4Vg+IWotiCbLBNmqt+ilFk5wCYNcdZJNllpdRlBmaJfFAFmWmyZI1mqq36ifkP2vgSBLc1g93AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/39.png",
+    "width": 1920
+  }
+}

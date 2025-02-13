@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Regarde Mamadou, lui, c'est un bon Éric Dampierre.",
+    "end": 76,
+    "index": 37,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=73s"
+  },
+  "thumbnail": {
+    "hash": "9ccd7cbcae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBW2/SYAAA0E8zyWCQzoLMrrS29AKUUkppByv3dcDo2CiVreuaORgDDCGIGXiJzsWkyfaiMTEx+uabf9NzQFVRSpKkJFPZBFfKVzAijjMCHhPxF2yKy6AYHcIZL4xsIsQznI2wIthXVZlLMjghZ3eP9lqvr6b66ZCMJuwjs9+1xhfXUVYIYmyh+bJh9ik+B07OBpFQOIISxuXsfLzqtroUwaQSwsQZjO3+7dv3g9F8uHT1s3FOM1BaAEv3Z7XZVWuHWsdZ3v++nH+Gg0g1Xy4rhXalfto2aw2DlWukoG5RAoTQwP31b3TzNS4WwnjcmX6wrm9gGOm1Ok7H6vccx7TTciVMpVmpDKGsP0yCux9/JyvXBz3fCKJpPieiNBcTj7WDi+PeK8OaDadKVS8e9Iq6hdBiCIuB4eKW5rKPPIEwtBXbgDnfU55KSZl8PVc8LGl7O2X7aqHbo939LsHtiIUGOBnMo3ERALDt8ZPrEO8PJkIoRnI4SvJJKRNNmZX2u4c/o5U7/Xj/5ss3UO+cS6oGAAiAte01H+vdpD0BISHTTPrJeoDB49Rjr9E0F3ffZ58eOs7kP7coZgHJ/AoFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/37.png",
+    "width": 1920
+  }
+}

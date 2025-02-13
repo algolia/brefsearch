@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "C'était ma mère avec 35 ans de moins, 15 kilos de moins\net trois tailles de bonnet en plus. Elle était bonne, bonne et bonne.",
+    "end": 75,
+    "index": 35,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=69s"
+  },
+  "thumbnail": {
+    "hash": "1340078d9c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCFfnp5cGh0amCEenKKgXubk42Ohn4yJx0sIRc5KBxqV02sqKWno6KemJaDfHY0KR8AkYyJjYV9gHZskYeAlYuGn5iSST00SDcqPjAlPC0ialBCn5GJsrKyq6WlkImFNisfAJqWk5iSi4J4bpOKg5yTjoV6bykaEJuAcJd4Z0MwJjUjF3BbTLOxsa6qqpaPjEI3LACalZOblZCBd2yUi4SclI51Y1VBLByXfW6hgGx1XE5HNCs/LB2uqqixrq6XkI1HPDIAmZSRnZeRgXZslY2Gm5ONdmVXRi4Zt5aAuJSAsYt5UDsvW0Myo5uWs7Cwl5CNSD00AJKNip2XkX90aZGKhJeRjH5uYDQeCWtPSKt7bm9KOSsaC2tNOKGalq+vsZWPi0k9NACKhICakot6cWaWjIStm4+ym4p3YlpUPjqAV0VeOic/Jw5sUT+rl424p5uXj4pFOzEAgHl1kYmBenFmqZKEp4Fvool+lFdasE9MnVtRjFlKbkw5lYaFqYZwxqKKqJaLMSYdAHBoYn10bYN3a5d1ZYNhU39jWa1FRs9OVdBoa8xzdcp9gbyJjql5arOSfKCIeB0TDog1w37hLs0DAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/35.png",
+    "width": 1920
+  }
+}

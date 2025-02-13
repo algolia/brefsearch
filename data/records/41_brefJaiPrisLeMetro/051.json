@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Car je ne sais pas lire.",
+    "end": 52,
+    "index": 19,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=51s"
+  },
+  "thumbnail": {
+    "hash": "eb983eed90",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AN3W3efg6KSeo7Swt8/I0U9KTDMuLK6gounh6IGBsV5fkjc3Qz5CYVpfoWBlnF1ingDd1dzl3uaupqqVh4eOgYU2NDUeEwuKbGHk2+KmpcZFQ1MwHw1USliEiLqChbR7fq4A29Pa59/nppmaPisiT0NAOTc4MiEXmHZr29Lb8uvznYV9XDMcpYuD1MvOY1pWU0tHAODZ4O/o8XtzdCMYEkhAPzo2NhoOBoRsZuzk7K+osDouKT4kE7Cho19aXAAAAAkIBQDPyM9/e4A/ODpANjdNR0o0Ly4PBgBAOji4sLYoJCUKCwkBAwBhWls3LioKCgULDAgAhX+CGhYXUEdPLyoqRz48Rjg0EgwFHhkVNzIzCgsJDA0KBQcFIBoWRi4kDgsGAAAAAHpwazAoJ1FFSCUiIYZhVF1ANRYVExgUEREOCggKCAkLCAkKCCIcGlM5MTEkHh0aFgB8bmYtIh5GNzZkS0OEXU4+LSYkHx0mIiISDwsCBAMJCwgHCQUaGBFFNy4wJh4rJR0Ad2dbIxwaQzs8VTotOi0oKyYkLCMfLCowGBQRBAUEBggFFBIXPCxHPCZIGw8nHxQp7zaJZkHklKAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/19.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Son pote au mot aussi, je l'étais mitigée.",
+    "end": 25,
+    "index": 9,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=23s"
+  },
+  "thumbnail": {
+    "hash": "782ce6eb6e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADUeGT4nIm1MJH9XJYtiK5drLoNaJ29CLHVQNYJua3BNR2JBOYtuQYRoOnlhOWZQLgAwHBhKMCiLYzCccTGnezjDk0CUaTGVWEifb2F9a3FMMzhbOzeefUqgg0uWfEt/Zj0AMCYnSTIwnXM5uow8yZxGpoI7aEwnilBAmGdYeGRkZVdgZlBSrIpSr5JTqY5VlntJAG9RNJJuQ7iJPqJ8N007HxwSERsQEEguJEEsJ0c6NZ6AVrqVXrKPUbWVVLGUVp6BSgB0TB2SZihWPhwPCwkaFA8iGhEgFxQuIRwuIRwZEhMzJxu7kkyyjEyujEyriUqEaDgAbUcedlAkCggIFQUFTCkRKhwQEAsMFA8NHhYUGRISIRsZqYZIto9LqIRGoH1Dh206AGI/GHNMIRYMB0QiGHEyJjgTDhkFBRcICBQODRYSDRIPEI91QtOrVayLSKKAQnJbLQBVNhRQNRYlCAU6GRFQMipMKh9NJRU5HxUoFxA1JBU7JBtwUj1wWDFALh08LhkbGQgAFAoFEAgGIAcFKA0HBwUDIw8JHwoHEgoJEw8NEQsJMx4YQispFQ8OFA8LDAwHCA0Ebxx1VicHO3sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/09.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "J'achète un parapluie à chaque fois qu'il pleut, je l'oublie chez quelqu'un\nà chaque fois qu'il ne pleut plus.",
+    "end": 26,
+    "index": 10,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=23s"
+  },
+  "thumbnail": {
+    "hash": "fb5b8416bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nBXNiU7TYAAA4Kb/1Yte4o5ua/+utLM7Cp2JOIMTZQ7cggsgEx1TkLqwCAO7zQnGLFGJMfjQxu8FPqZSWHqwXKI5S9HTiYybpEHSLKl3c7KWAoAfnA6ur+Lo6LBZr3Vaz4/eHTDLRe9hWKGmxYm6pGcd06X6HcJrC3oGIjEexzc/v1+OhjvtZv/t/vloyKyUCrVqkKc2JgrgNS+Z2vKdMJdNJ1KCqH69vrr982M6vtjvvDg57sXjEbNS9B5VK46dx0RBvLooyesuDbJpQ1PdrDGff/t7+2s2vTjYbQ+i/pfZJRMWvfpq6NgOJDIRNMASxGLIEn1BMTS501z/fTOfTUbdTutsGEUfekzge7Vqecl2AJaJqEEsAZZgSCROTCjKPcuYfv40GZ+/3mm/efVy89ka49k09F2H2iyUiKBiQYNIxJAjkJN5KbOoHx92J/FZa6P+dG11EPUZl9Kym7dNE0CRFxTCq4TICBAMOAELEibtzY3Tj++rJW+71YhOeoxlpP28lTMyAHA8EhGWMBIBi8j/hBAWBX6h8bh2v1zYajzp7m3/A1U0TpCLGDinAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/10.png",
+    "width": 1920
+  }
+}

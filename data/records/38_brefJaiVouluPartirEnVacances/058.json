@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Parce qu'on sait jamais.",
+    "end": 61,
+    "index": 27,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=58s"
+  },
+  "thumbnail": {
+    "hash": "327b0f0b79",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEU/R05JUVBLVHRteYqEj5yWoqehrbawu8rEz9TN2trU4MzF08C3xpyUo5aPnJ+XpgCGfoujm6qlnavIv87BucfMxdPGwM3i3Oe5sr7Evcng2eXKw8/Kw87LxNG9tMShmKcAzcTW5dzuxLzKvbbExb7Mx8DNw7zJ2NHdu7XAtK65p6KsoJmkkYqWf3iDdXB6cWt1AMK5ysnB0JONmZqUoJ+YpJmSnoeAjHRueXp0fnVveW1ncnNseHRteXp0f354g3hyfQBiXGVnYWxdV2FnYWtkXmhpY21vaXR1bnpya3Z4cn1vaXNtZ3FmYWtrZW9ybHdvaXMAYltlbGVwaWRuaGJsY15nYVtlY11nZ2FsbmhzcWp1cmx2gXuHlY+Zo52oraeyvrbEAE5IUVdSWmNdZldSW3BrdYN9iJWOmqOdqbStuszF0t3W5OHa5+ni8O/p9+vj8t7U5gBpY22HgIylnazIv87a0+Hf2Obq4/Hv6Pbu5/Xs5fPp4vDp4vDp4vDk3evWzd68s8QAoJalt66+yL/R1cze3tXl4dno4Njn39jn4dno4trp4drp1c3dubHAqaKwnZSjkYiWtzwRoKd+kZoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/27.png",
+    "width": 1920
+  }
+}

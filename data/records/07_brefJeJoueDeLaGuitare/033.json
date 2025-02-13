@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "name": "Je joue de la guitare.",
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M"
+  },
+  "line": {
+    "content": "Il n'y a plus de frein, mais ça sert à rien.",
+    "end": 34,
+    "index": 16,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=33s"
+  },
+  "thumbnail": {
+    "hash": "18945dd33d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCTb2GiiH96cGxfVlFjWlZZUk1PSENOSURMRD6IgH2soqKupqaikI2hgHt9YFl4ZmAAl31ziHBpjnhxYFdTY1xZU05KSEM/UUpFMjAuWFpfrKSljYGAm315XUxJJCMgmY+KAItuZWNQSW1oaFlST1RPS0xHQkA+Oy4wMAYSGjlCS5uXm2ZjZVVGQR4iIS4xMkVEQgBsaWZ9d3V8fH1FSk4mLjIaIykCDhYBChIADRYxPESzrK+NiYtLS0qOhoWRiYleV1UAdXNxgYCBhIGAb29wTFNaRUxVLDM7EBceDhohUVZbgH+DZGVrPz0+q5SSvp6djWpjAHl0cnl4eJSOjFVYWBIeJj5AQnl4fFdaYTg9QTQ6PW1tcI6LkGFSUH5jXnFXUVFBOwB2cW52c3GTj49qbXMUICYPGBxjYmVBR0wTHiMZJCmgm59+e39MT1RZVVV0bWpgXFgAbmhld3FtlIuExsPMlZagLzQ2YGFkLDM5AQwUFyIpkIqLSUlJNTs/Tk1MXlpaSkdHAGliXn91bZqNg7+3vHVzdxkfIFJUVjI3PgAFDSs1PI6Hhzg5Oi4xMTU0L0ZFR0I+PxNxmxPpT6HRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/16.png",
+    "width": 1920
+  }
+}

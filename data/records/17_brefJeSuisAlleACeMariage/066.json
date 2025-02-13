@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Les mousses au chocolat m'ont dit: Cours.",
+    "end": 67,
+    "index": 25,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=66s"
+  },
+  "thumbnail": {
+    "hash": "c3bb6b1e4e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nAXB2XKaUAAAUGas7DeALBEql517WQREyhJRMQZNYiczbcdpm/S105f+QKf9+J5DoIWeudYqsHPXnfEi5sDvDP8din/76K1Oj1k6pviA/DsHahygJ1Oi8OwaB12M1oEPKNYDwosFXxP3z5C+VfExT89LPMZhY0GJ5gFJE+vAqZFXI/8uDApRLWT1AuHG0F5D81OOxiI5peE5CpCsiCQnUAzRYK/DXoPcFvsnw+wU9Tt2f2b+N9f6tc1PefS0xJcE2UAQSFaiWKJP0S6LNnGwWYad565k5clcXKBxnCsXZNWe/RgHA1zoLJBpTiQZIoFmAt9HC+1DWAxhk0oiFsWdrn3xdCQJWATPod3Pb+cMUCj+ZsoSzq3sza3KHnr/YWsXlaIaLGcDvg/gwzp7SaMr9tuZrFGcSnL8O4bInWIsf+zwvrGi1sr3ATo6RqWrhzL5fN9+fR6vfZ8AUaPYGclyE5rInWpXrg5lto1XfZRj03IkJTfhuS0/9s11PDx2lcHdiCTDTklqMv0PFJtByNWX1ggAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/25.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Deux semaines après, je l'avais toujours pas rempli.",
+    "end": 88,
+    "index": 36,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=87s"
+  },
+  "thumbnail": {
+    "hash": "b386d3bb98",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIZ6c5OIgKuel6KSh6+dkcKunoJyZl5FO39iS5N+Z6aQgZpzUaGDa5J+dkUuN3RhWgB2bGedj4piVlEfGRcuJiQ9Mi5FMStoPjOecVyWgGaljn+KYDmqhWWul4pqUFOPeW8AoJeTs6imUEZCDgkIMSopRjw8d01CfVFHh19NgWtSS0FASTYqXU1EcWZig3RthHRrAMG8ucC3tVtPTCkjIIJ6iHZvhF5CPWE5L41saHlrZxcUFiIiKSAfJiEfJBcVGUo/OgDCv73Cvb9WTUxfWWF9eJRYVnQ4LTUpHB5yWFhrYGETERQhHB4lISMkIicRDxJmV08AtrKynJWVZldRfmtzVlJsUlBtSENXQT1OZ05JNCYjLjA6TlFiSElWNzRDIh8kQjYzAGphXkM3Mk9DPmdORFxMTU9GVFlPW2lQTnhVSCMcHz4+UUpOYDk6RBwbIy0oJzArLAA+NTMqIiE9NTRVQDl0UUZlSEBnRz5jQDNDLSogHC0yMUAkHyIeGh0MCgo+NzEpJSUANy4sHxkXMSooQTMxdV9dQj04LiYiLR8dIxsZhYWNmqSzMCwtKigtQEFJY2BlR0NHNPOMjMYLI1QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/36.png",
+    "width": 1920
+  }
+}

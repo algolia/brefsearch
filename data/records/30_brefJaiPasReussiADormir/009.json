@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "Bien sûr, je l'ai pas fait.",
+    "end": 10,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=9s"
+  },
+  "thumbnail": {
+    "hash": "e4be785d03",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGheRWNjnWd5xnSU0ouauqyei721oqObhJiMdZ+RdJGCZEpDODkoJSAcIHhNPW9RRgB3aEx+jqV7psY7SU4uLC1HOzCajXTEwavCvKjBvKSjmnpaSkE9MTIrLD9yT0xRRVIAfmxXm5qfQkNMCgAADAgIRi4no4hwx8ayzcm2xLujwbSbcl1UXDkqRDI1T0ZZOTlWAIp+bKKUgBgOCQgHBxUPDX5VSKh7acS2nc/Tv8Cgi65MPVkWFCsbHE82L1AzME44OwClkX9ybloFAQAXDg5bNy2la1mzhHfLu7bWysnYv661hUddIxUpJy4YHCoWIDhUUFsAzcW0X1VGAQAAEg0MYDova0E2mW5Twphvw5Zqy45duZpegntdT0xOEw4RUUdCgHhwAKGbjTIoIgwEBw8JECcXFjMcKG9IM8aBKLp6LbmVT8GsSs+9Zoh/czMpLXJlXUpBPwCGfm4cEw0gESJTMV4/J0YoFiZpQlOviEuidDq7l0LLmzCykVHOt6SBbWJ9Z19hT0oAgXtrIxwYOR9BaEJ1cEeFUDNlVDJgh1lKc0gzoXkzxnkqxI1XsJSAZVNJW0tINyosn+6m0vF30BIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/03.png",
+    "width": 1920
+  }
+}

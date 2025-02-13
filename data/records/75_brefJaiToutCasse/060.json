@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "I'm back.",
+    "end": 63,
+    "index": 24,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=60s"
+  },
+  "thumbnail": {
+    "hash": "5e8bd86ef3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeklEQVR4nEWRWUvDQBSF506WyTJpOqTtJI1Nl7R2oU2a1iXSDWtdUCpWEaWgoogPCv4A/4Io+I8lLejHeThw7sPlHIQBYwBACANCCBAAYBBW4BXCyiQna6kaNXnMK+d26aTJWVzasC1XkiiRNVPXUpoiibJG1Kvd4Gm61y86yExZzB01Jl+Lg+XbNJg2fZ/nddVQZJrWzbSu64RQQu6G4c/j5efLEgkAKZW26tPbQfB6PLzY2hrUvFreaTvWrF2cNeyq69WKfttzv18fPp7vUblYMFTFsfhyEj0M+8vtaFx1Q272GDkqZ68Cu+OXebaSzxXm45GXy6J6e1+kfre6+XLYr2Qz+2Ec+XWP0U3GUoALTIybbobxvJVO3lMUtON6QGuzKHo/7tbdjcn22fVgfBJ27sJOzzE5M3KmwahOVVUlCpFk1GIUpHRULs2jSilnnwbdm9Fo0WrEdsZhpqFpGlEUmciiLGJBxAJal50ASf1iIjHZBTDAf/jHL6eGL7eQSkdwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/24.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "L'ipad que j'avais lancé contre ce mur dix minutes plus tôt, l'amitié que\nmes potes avaient pour moi et la gueule d'un mec que je connaissais pas.",
+    "end": 9,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=4s"
+  },
+  "thumbnail": {
+    "hash": "7ab0491a47",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nCXL7W/SQACA8SZiS3vXl7uj721WerqNrRQoIKAobtiWkAyz2U0NmzjdIItj+EJMjImfNMZojDH8wWYxefL79jA7G8ZdqpcMVLZI3SVHDW+wbXeo5WGpakmv+rUvr/fnWXwcd7IHUcs3mP6mVXHU0FabRTOwyDD0e9Q470WBrVVN6c2w+Wsx/vzy8Wyvd5J07t02mfu3jMAkoV1orJmRq0VrZtczz7uhi+SapcyHzb8fJt8ujhZZPN3r7Wy5TNvTSjraNnDVVn2CBA44CJdMDQlizUaXg/pqOfl5NX7/NLk82I0Dj6nYpKTjLR2XLYIBFLj/AU1CVZtcpNHq4+nvdy+Wz9Or7FEa+symhjZUdK2GxTzgOQB5KPIiAnLdVWfJ9fBnebp8NlgcJknFZ3ws+QV5XUU+kXlOAHkxzwKRFwmUa44+btMf09Hq0+ztYTp/EicVyjgKLBKJFhRbkThWgHnIsUDggCyIRYKzJv16Nvo+P56OHk4G3RY1GEeGtgxdBWIA2JtCngU3cnwux/McUHjYpuZZeuek3xi1gt0yXVfhP9LgTVK8MU5jAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/02.png",
+    "width": 1920
+  }
+}

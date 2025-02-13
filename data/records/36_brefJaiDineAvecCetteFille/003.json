@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Elle s'est assise, je me suis assis et là, on a commencé une partie du jeu\nle plus compliqué du monde.",
+    "end": 10,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=3s"
+  },
+  "thumbnail": {
+    "hash": "6e1387d0cf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nAXByW7aQAAAUFeCUOLOgD2DbSa2GQx4wx4MjlkMCAIxCZHK4kaREqIsag5po6hN1VsPPVbqr/Taa3vsd/U9LrKMMhKLAPTdxuPb+Say04F/Nett+u7NPHzeHPmGjiDsNOjENzUBcl1LVzESIOha1afVfB25d4vR87vlbhpejv2H09jRD3ARhHVtEZiOgriorlYVSRKEtqGdx2wROJdH8efzs9ukv4nMVbvWIDJBQovKy6B2qMucp+IDjEQIXSKuQ3fSML+d9HbDYDtkX2b++65hKkgXBY+gs3a9T8ucQ/DYoQNTS1hn2kwmTpw2abUIlh12H7OXWEsDw5alUBGOPRppEjey1PTQWjBmEd/TwsRzVQG85l5NbXNm6j9O7Y/j5knLjlU0qsmWCDmZ36cYGSUqQcUkRkcvtXVckWBNElwFbl1ywSjTlDLgHVKyJMzJmazIvynkAQa4WVKuW9bLyP2Z+F+HQUrVUOK3XqVTKVcLeQ1CXACclMmCXBbk9vZy+zdR+Ofx+veH3a+L1b/vT38/PdwOnKuBt+4xAvlCPp/LZP8DtZxMTF6BIUUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/01.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je suis arrivé devant la résidence, mais le code avait changé.",
+    "end": 85,
+    "index": 32,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=82s"
+  },
+  "thumbnail": {
+    "hash": "996cf47ccb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nAXBa1eaYAAAYD41D840K7loyjUFXi4v11KmoKCgxdlmWOk5FUtP6Gj1Yfv/ex6kdHRUKaPn1SpWrTTqJ2QDaxO4C8HjzONahMpROteRWArwdAvDfUAhMvFVa1YlomZTZ74BbmxxYYnLgfowtmNb1nnG4drRlXIzsjoEQZ2UkY1NLtVGDPDMA4fE3Yb6eiinfZBYPb6Jl76g5mX7JfF2d5HK0zRJIkvj4tc1+eJyHzH8iLVDqLz6IPOkW51FS2izXnv0tHydfG7XjshOXQsZ0LW/U+59zOcj9k/QfQ/E/UTYekIRKnIbO0bLG1cs0vDf/lnh6MkVRCJAfs6k31NQRMpbqB4iPY/NYmE/TyDfxFrnZz8G8maoFqtIZjsjEyDfes23UM1ncB8bh7mVz+39wslCU2MvViNo9+jUM59C526g0I3TodpD+pfkgys8+UoWaFkAX0NjNzPTvjQGzC6ABkNed9tpX4wgjx9XIN1C9E5jrjG3BrfqC/eudD8QfzrCd0dMbGFhdGPIj2XWB4zFkjxW7+Kn/wGQZFtHLUtgsQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/32.png",
+    "width": 1920
+  }
+}

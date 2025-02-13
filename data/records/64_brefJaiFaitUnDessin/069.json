@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "name": "J'ai fait un dessin.",
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY"
+  },
+  "line": {
+    "content": "Bref, je crois que j'ai un secret.",
+    "end": 74,
+    "index": 32,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=69s"
+  },
+  "thumbnail": {
+    "hash": "2c38dda176",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBTW/SYAAA4DcZbaH0++N9KbCWAWnLkM9WWmBCW2ApGxuRZYypzC2OkZiYaDx58mKyi4lLPHk18eLJn6MuiwZi9Gf4POCg54/9zvLx7MX06N3y8s3Z+cP89oXvffvy9e7uz2r17/ev9cztVCQ0DIKu2wT7/XA6Gr28Wry/vr65+fDq+GThum/njz5//PTzdr1a//3x/fa42rChstcL2nULmNvDgRdWdL1imjvl8kBCe6XqxHZaaa1Zq7drVtkw7kGllTMPAz9wHJCU0oaqJQSJ52WDFR4wnF+sjRx/aJoTp7nodtI8pySzWq6yKaNcKgkEmoUcz1EMxcFiQj0r1y8Cb9wNzudXT0Ynz92qndckmFVTWl7NZhQV0LE4G6cZkiIwDPLItjyRQwwtsoKGFHNTlCHH8zQ7bFlPxwen4RDEiChFxjmKYeMUSUQR3JLElMQwmizpWgbHCQAAjkXySQhlsefagCVJLILhGL6xEQEAEARdLRSfhZ3FoP16suuVzBgRVUTJKeSbVunQawPECwLNqChRyGzVdD2wnelu/3Lfn+3Yy9CbdxsaRBWjEDTuO+Vav2H9BxxuW8/k0kG4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/32.png",
+    "width": 1920
+  }
+}

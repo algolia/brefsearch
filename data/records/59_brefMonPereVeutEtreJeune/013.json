@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il s'était créé un compte Facebook, avait ajouté mes copines en amis\net les draguait dans Farmville.",
+    "end": 16,
+    "index": 6,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=13s"
+  },
+  "thumbnail": {
+    "hash": "49e7d4b7e2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nC3PbVOaAAAAYJJaSgEBQuimdpJAWiBIKiwUO9BQcZgv2PDlynW3u2lbW+u67ppbd3v7srYP+7+77vYDng8PcHtzPej3Ply+/fP7l+c0fKf2euwVJJHGSV3JlRRlEycTJMUnttrusa5qAIpgSwBIE/S3z4uh2xq1alPPLfKclWbrB5oqScgaymxG+ejTNElpNAWAgVV0fWMvFr+dz69nb/o169Wg65VVvyhfvPRKhec4SmAwHsYj9kHZz4kACAZxCDnOZb9fvf/78LC4ufq6uB93xnaGG1SMbmfW7V1EqHgotJHhBdswAQwl8xxX4lOzk/7PLz/eze8mp4uW+7Gw3yrvqW174g8/9U8ukwkmRsdInAZgmHgW2WJjjMiwrm4MrGbbaPZrXd89Nw8nh8bo7OxuMr237SETZwgiAgTAYAAMrkFheD1c3M3YedmSBScvVdjtSuFIzDpFtVO1p2Z16jRHOynuP1hegRCEblSqPfvI1PSmURZSaTapZIWqLDXqjXNZthRB29lOP6YfwXJo5QkcxqKWpr0wLV2WS8o+mxR307qSq/OcFlyFcQiiMOIfWIFfENvYgjAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/06.png",
+    "width": 1920
+  }
+}

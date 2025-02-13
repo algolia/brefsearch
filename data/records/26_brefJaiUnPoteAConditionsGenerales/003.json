@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "On a tous dans son entourage, quelqu'un qui finit ses phrases par...",
+    "end": 5,
+    "index": 2,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=3s"
+  },
+  "thumbnail": {
+    "hash": "99e8b8e19d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACAbGxkSEVpTUrKurrCrqrm0s7q0s7eysbaysKiin4NoXXBQRFVCPIV7d4yCfIF3cQAYEhEVEA8tJSSrpaS+u7m/vLq+uri7tbS8ubeDd3Kcb129h3SOYFJyZWCbkouIfngAFRAPFhAPFxEQi4ODwr68vLq4vbm3uLOyt7S0lX11glZIkWNVYzw0d2BaopmTkIV+ABUODhsUExYQD4B5ecK/vbq4trq2tb64tr67upN/eqRvXZlpXYNUSaGNhaSclJOIfwAUDQwZEQ8cFBOOiIm9u7m4trS6t7aXkZJUUFNJN0CMX1FzRj5QOTV/d3SimI+Ui4EAHBAONSAdKR0aopydure5u7q6kY6QNSc1HhEhNSU1fFJHWzkvJhYfQjw/ioJ/hXlwAGM7OE0qJUw/PLCpqamlprOwsG1qbjozPSIXIyIdJ0EqLlc2NRULGVRNUXNvcmBIPwBuPzs2HRhoXVtkW1owIR1JOzdSTlJGQ0kbFxoXFBYbFRsfFhwUDhIYFBUxLjFRREAAVC4pNSAcWTgqSisbIRMNJRkWVFFYSEVLHBYcLiouPTw9Eg0UHhMeFhQVLSosRj9A/6qjUGA6qKkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/02.png",
+    "width": 1920
+  }
+}

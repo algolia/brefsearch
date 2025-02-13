@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Je suis dégoûté quand une fille me rajoute sur Facebook.",
+    "end": 68,
+    "index": 27,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=67s"
+  },
+  "thumbnail": {
+    "hash": "86941fb489",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nE3La2+aUACAYf7vvi3ZmmzZXLpY69SucUtjG12LzguVUhSoHFEseAEFzuFSFLnUKdpsaX9EsyxLmjwf3xd79Tb3+sPJm/3Cu9SPT9nqYZ5K5pvpPJkp3KRPOtmzfua0m/re/nzc/Pjl5/sDHCviNEn1j3E2eSF8q91WKHRGoxIxa/AOyU+Jm2mlNS0QarYkpk/5xBGJFcsttjM857wUtTniHnLsNkXvMuxjEVgNgasLAO/NvjJ+kggTZWuvMMLqpNAdIGjdO+49tAPkhKYTeN7a83/Pl08L/9Hz//jBg7dYQ7iUZP3vIA7tKVopaDWG0T+avTHdrenGphsjd4vcneHEYy0AA4RVLwHDKxPNn1mrCQwVFCkognexNd+9ZNjr8WwJRAOjuZFwi4bqQjEiBUbq/8F+UUNno+hBTzJpboTVmt2rtsTwqiBZ4mQ+1PyxHur22ryLobPRrV+qEUoTF4gGxcjVS4CVytcXVabS6BBU/6ott3iVE7S+bA1GTk8ygWiwQKUYuU4KeI0tla+fAQ5tQI5KjTLsAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/27.png",
+    "width": 1920
+  }
+}

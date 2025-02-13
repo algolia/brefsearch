@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Quand il faisait froid à l'extérieur, il faisait encore plus froid à l'intérieur.",
+    "end": 39,
+    "index": 13,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=37s"
+  },
+  "thumbnail": {
+    "hash": "0959a6c139",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABT0lEQVR4nDWN227TUBQF9+3sc/ftOHYcksaJ26QVLaqgBYmCxAsv/Qn+/y+QkZDW26zRgJEopiFyonXU7Nm7uM3d3Xj8bv3UTV/K/quvZtFew864AYyJLu6Q/NIfXvbXpdslE1Jz+fj6p98+EIZ2fPxw/V1PrxIWsQUITUh7jfvH3e3709v9eCqhS748f3pv2qNQIGAbtuP5Z7n5YfMJCNWYJjUXb5uSpuhK9kMdhvn4orYVSQisrg95bsenzfwLmOMqVGeXTmoHkZpNCelQ2rMJo5iayIVq9nlGNKGawacDgJY8Xg/P3k/Mmbha+tNlvAWujRbmyFKJdsQBgcHlO0RvxS/D7GwhTmqHpTuOsaS10BAqoWHJ6zhCHN9cukEgBFkZObUbawenbZc2iPafoISO0DJnCN3navPN2IGAacVGpFE7qHaI5v/VERoEQeC/Np4YznP6GQYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/13.png",
+    "width": 1920
+  }
+}

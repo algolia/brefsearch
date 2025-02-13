@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Bref, je suis qu'un planqueur aiguillé..",
+    "end": 81,
+    "index": 33,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=80s"
+  },
+  "thumbnail": {
+    "hash": "5f12601da1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHZ6hmdmaWNmbnt8k32Bj3B0gYSHmWpocUpCQVlRVU5JS1tXWVZQUGNeYGZjaU1KSgCFjJ2JiZWWm7CEiKCYob2RmbB3eYVxcoNYU1VQR0lXU1lrZGNoYF52c3loZW1TTksAkZmwoKnIp7LUh42jlJy2n6nKlp2whYiVZmNtc3B5dHF6amNiYFpbgoCOe3qHT0pKAJWfup2nxqCrzYGHnZGZtaCrzZefvYuQqIWGmYODlIOCknp3e3t5eoGBkn9/jmNfZgCUn7ubpsejsNOEi6WOl7Seqs2Tm7qGiqN9fZB9fI5+fY2BgZGDgZJ/fox6eodranAAkJu3mKTFoK3Qh4+pjZe0nqzOlaK+h46jf4CQenyOeHyNe3yMe3mFfHuEbGdrWU5NAIeUr5SgwJ2pzYePqZCbuJKcvm1lhltObFdLXW5nbXl2dW1mYmVURFxIOzgjGT0mGgBqdIl9iKKPm7h8hJhjY2pMM1IzBjUzCDUsBS0xDzBUOjx5aE55Z0xjTTZQNypPOiwAHR0hKikvOjpDMzQ4IBMVLAYsMgk8Nw44OBA+KgU1ORY0i3lhi3tgcF1DhXVVemdNiknE67Jthq4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/33.png",
+    "width": 1920
+  }
+}

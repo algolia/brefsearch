@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Mon frère m'a dit: Tu es vraiment hippocondriac.",
+    "end": 7,
+    "index": 1,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=6s"
+  },
+  "thumbnail": {
+    "hash": "60fde04877",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHhoX2tfXIl0YrSZdZiEdmdWTJqNhaOUjHJeVFpJQZWJgbuwp6ebk5uOhpCDfHxuaQBqWlVvX1tzYlyAb2aFdW5xYVqUhn6ofmt2RTIWDAohGxm0q6LDuK+qnZShlImPgXgAlomGmYqHoJKPpJeUm46KlIeDmoqCrXpkcUY2Kx0ZJRcVrqWd0se+rqGXpJWJmId8AMi+ubquqauXlLqsqKWXkpmMhaCRipFqXnBCM00tJE4vKXRsZ5qRi6+glqaThpuJfQDOxsHVwrZtTVSHdXWpnpibj4iNf3qhfHKYZFBNMCZJMSolGx0SDRRRR0aolYiaiHwAyMC6zb23SS8xg3h0x723i4F/Pzk9W0pGnm5bdE5BJh4eGRUZHRYdFhAWZFdRnIl9AIhyZ7qvqjMuMjEtLXBpaCAbIA8JEA0KEGtWUT8xNBMPFhUQEhgTFxsVGxcREm1dVABBLSVSRUA9NDQFAwYDAgQNCQ0wLC6Nh4XHwLlwbnEnICgdGB0VEBMZExgUDxAfEQwAFg4NDwUEPTIvLiYlJR0cf3NtY1dWr7CuvratsqefTkdHFhAXGxUaFhEWGxESKxYSiNymz9a4qqkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/01.png",
+    "width": 1920
+  }
+}

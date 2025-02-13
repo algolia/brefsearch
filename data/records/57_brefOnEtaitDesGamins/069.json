@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "C'était les meilleurs moments.",
+    "end": 70,
+    "index": 28,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=69s"
+  },
+  "thumbnail": {
+    "hash": "855afe2433",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nB3KW2+TUAAA4MOBcjvcDqzgOFAuZXSlsI7SMkEWM0Zbm11sk3WZxjnnkybTB+P/j3Ev39MHepBmIWQh5CDVe5UFAPOsiXgKUCwFOYriKPBfSIsMDRgKvj7IQ4qnaYGGiIZ9iXexJDK0zDIqS2OeUVi6jzjfkICHxbgvjS05s9X0UFmlZJs7lacVA71w9cLFU6IGuujryNcEogpglTndxF5lzipzPqT2fma/tONf3XSZOm1iFwPdlHhDFBJT9xBbEQncFMFN4V/N/NvC351YmxHen5DHs3gzHVSRpQusxnGxgT0DG6adhS7YltG2HG7LaJeTh/LoZVPNiTox0W3uE0VU+d5zkyyPHRmp8gFRNQw+LoZ39Wh3Nmpjtzuyv5znP9dNmww/z6LkQEEMc5mGf67L5/PJ1anv6wg8LfPv6+KuzuvIO3X6BPUCXbJlMbHw29ht0mEYhIaGF5H99D7r0hD8fWh/XNdfL6p9Pf/ULCaHejMmj5ezb+v57927+67yBgNTEQIDvZE5S5P+AXZuOcRaZ2LCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/28.png",
+    "width": 1920
+  }
+}

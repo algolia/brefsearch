@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Je n'en sais rien, je ne sais pas, j'ai pas la solution, c'est ma maman.",
+    "end": 86,
+    "index": 33,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=84s"
+  },
+  "thumbnail": {
+    "hash": "c2f05c7254",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXBaW+aYAAAYNJoODxaBOrBFC1gFEFe3qKieHAVsVqPTqVd22VqbJvMbtmVJUu2T/sJ+7Qv+6t7HoQiImUK40+i+UR0BVP/nsSfV5k/L8Hf35+fwtk+MNamZld5VxbkfG46C5Eyg2ss0SvFLSFxA8nvQWYFEg+2/Otlf3fR+TTr7lx9AsoPTlMtca/DHVIk0bMUKp+igyLhCkkpTbDxSA/Wt8v1m07t26L/ZWzs+uo7S/dBbfv4FSlRuEjjEo128oQtHMNCsnqKTz0nnK+vW/Jh0v8w1OeqYHI51zD3hx+ISOESg1VptF2IeWJS544BS/QkbuiMDLm288zDZfe+VR1W+Okk3GyeEYnGazRaodAOFwsqpMFiAYsvhdRMEizYvB20tj011Phx43wyulr4FqJkE0o2JqXx81dxk8N9lX9/+3a3vHdbg8CfLFxrDs7aYqEBdKC1JbWDMEmMSaAkFskSR81yYX3zvLr7OJxuGu2hP7C6jdbYcaBSB7IKFI3JFJEcSaSTKE1ERRr3vbkCbahbbXMMdevS833LHjkXUFH1OgAKOKHY/3BlWFs+zMsKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/33.png",
+    "width": 1920
+  }
+}

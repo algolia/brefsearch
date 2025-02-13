@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Bref, je suis allé aux urgences.",
+    "end": 109,
+    "index": 49,
+    "start": 105,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=105s"
+  },
+  "thumbnail": {
+    "hash": "2c80668614",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AExYY2VtdV5kaFZcYVlia1pmcICKkmZyfHhzdUdRXixPbmlyfHyAh2pudlNXYV1ibQBfb36FjplyfIZpcnhZYWVcXFxYZGtnb3R2X11RQUA/YH9te4l2eX5sb3RYWmBiZ3AAcoSVpay0gIqTeYWNX3F+a4ikU2+HSElKXEdFV0JALz9QXWt2hI2UfYOKbHF8a3B4AHuLm7W5vY+ao4iYoVp0h2OEqmhnbzUoIzstLB4ZGQkICwwMEklPVYmTm3N+iW92fQB3fHyLkpp1f4ZWY2tWaXZNcZZYZ3ppaGk2NTYRExgQERkMDRQVFx2Ej5R9iI9veH8Afn11jJSefISKWmNmcoKNQ2mLVG6EYGhsOj9ECAkPDQ4WDg4VEhMaVVldXGRpZm52AH6AfJCbp257hUhUXE1gb01lfUhVYU1LTkxCQgEBBw8QFwwMEgYFCyYkJCwuMjxDTQBrcG5pf5FbfJNKcI1Lc45dbH1fXWVlWlsuJCMAAgcODRMIBwsBAQUVERA2Mi8uMjgAVWZxVXKMU3WRUXaTaIymUGZ7FRwpExkkDRAXEBIYCAcNBAMHAQAEEgwMOTg5JiUpdPSUWBafuXUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/49.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "J'arrive. Non, t'es capable ?",
+    "end": 15,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=12s"
+  },
+  "thumbnail": {
+    "hash": "12c316f03f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNQU1FVV1VVVVKWVVSQVlbQ0tFV0tLQUFe1NjO3crW383byD/JPiI1z9nNz8nVx8XFhMDMyMzcxN9I3VNbQUNBUNTEzExCTDLEym5OX4OpsZeFhHxQWlJ6WGpEeHRQXEhDhz+Dm6Obm5G5jYWNoYKSppauqYuBiYpLv4zw7O6anpqyps6umsjIpJjYzMzUjIzU5MZ4hwMs/wMvfy9VLXdVYSMjAVt9+fmVuV0JItqdTT0fv8SMnp/RN8nb1cHVwcrKx09c2YAjyDYoMjvB08RYU1OXjN7TSterLS3XU1nYxs8lKzaouLi/KzIuPiI4MDvJ0dlJU1GLw9fT1sHcw0DIQFTERETZWkHW21LXl4xISE9cryS5oKK9urqxpq6qqyE4rTI61t3FmsDQ21ZaXkJNQkhC3lpV2kJFysNEx1FIwTPAKrstKc3CNSE/KCvXzayrOLEyOtDILZDDWM5ASERQUUBYXs5QUtxIU0DZS1VSS0sgJDs6LT7Cy9SnPzgr2cC1LiyxJjWqrbWNQU1ITFhIWFlISETLh59Pg4pTj51Xk5BIV5JdwtXf2cHbzc/dorSzOjAnOigldM3MaAHntdXVGmWv3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/05.png",
+    "width": 1920
+  }
+}

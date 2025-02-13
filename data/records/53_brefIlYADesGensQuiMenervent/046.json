@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Ça m'étonne pas.",
+    "end": 48,
+    "index": 19,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=46s"
+  },
+  "thumbnail": {
+    "hash": "014cdec4c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhklEQVR4nC1QyU7bQACdktixFUJClZa2JBSCCIHEccbLjGf1jB0vMQSiXrpQiYIEl0o99BvaSnxFf7UKqfQO7/Ce3gIO2jv+frcY9h7iIAqph1UYJYjMEZkHOFkDKc/nLiQTB52PPdDfaemj/e8J/XX7WfAM0YzwgsqSyQWTCyrKiGYoSgOsZj5zpgi82259wt7vu69P325uiyoSJY8rqS/jZBknS6kveVwRXiCS+VjNIAHp8eCDP326v/n74+ExL0KW87jaqDcG+ezBLEdYQ5+BsN9fwfHPZfHny+qjTgKS8bgS6kLqZZxcqfR/SMTyEGvoMWAZzcHrt9P3g6O9XrfzptcbhjiV+ipOrlW6Uum1UBdUlJiuK7keAbUtu1bbNs2OaXZs66Vltl91DyKaU1FSsWDyeQCdB0hDX0xcDIxa0zLbtr1rW7tWo2Nba3I+weHmVqS9UEEopjMydtDw1AVbLxpGvdkw20a9ZdSbGwyOHRdy12UTh5yN8ejMPx3Bk6F7eDj6B5cEVxoMjlO4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/19.png",
+    "width": 1920
+  }
+}

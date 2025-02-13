@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Je me suis dit que ça ferait\nun super tube de l'été.",
+    "end": 60,
+    "index": 20,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=52s"
+  },
+  "thumbnail": {
+    "hash": "26ee9117b8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD8yLTUtKgwODyAdHJyUmtvU2omBhYR9fHl5n19ioVZYgjk7UV1inmdrom9yq2ltpwBtTEA9LycLDw0REhKQiY92b3EAAAAnFAdyZXCanMd6epZOTl2am8F9fqE4NU9wbo4AbUg+HhgUBAgGDg8NaGNlRj8/PCUZYTwpo4mA+/P3w7u8c25u/fT4qZeOOCMMiXVjAFg3MBEPDQACAAUFBEtISU1EQGRALlYzIaWPjevl77avtWllaPLq9K2eoC4bDm1dVAAVEg4ABQIXFhFLRDtXVVd7b2daPCgpGA6Rh4ns5e23sbdraGvOxs1YVl0IBwkXFhkACAoHAAAAUEQ2f3JkXU9JVVdYUUlDOiweNDYyvrW6tKqwRkNFICAmCAoPDxEXDhAVAAgLCAAAACwqI09DOWpIN0M+OTQ6PkxEODg/QVlGP2NBPhUVFgYHCwkMDwgMDgkMDwANDQsCBAEtLSk1KyJOPDM3NCwgJis1NTMpMDNUSkNyW1oSExQDBQUGCAgGCgsHCwwADQsLCw0KIiEcEhQNNDMxKykiHyYoMDc/LDM5SEM6emVlEBARAAMDBggICAoLCgwPLlN6yQ47basAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "J'ai pioché des phrases type: Une de perdue décide de retrouvées.",
+    "end": 16,
+    "index": 9,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=14s"
+  },
+  "thumbnail": {
+    "hash": "f87e67c7df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAgEBQoEBQ0GBAsGBCsZDS8bCSkhBishDTAqHE9DNWdSPVg8JGZAFnxQGkczHx4eIwAHBAUJBAQNBgUUDAkcFQ4iGRAsHw4+JRNgOSZ9TjhkQSpXOyB4SxuMWh5POSQaFxsACAQFCwUEDQYEJRMONB8XKR0UMh4SSSoZfk01s3JUeU44TzgjglMfkmAiUDokDAkLAAcDBAoFBBIIBkIgGj8lHR4QDS0XEDoiFmA7KntRP4NTQFc0HT0gCC8YCjshGkooLwAXEg4PCAYqFxBSKyI7IhsKAAEmFhJGKRphOiqobVWZZEyNdWhdTUcrFA43FhJdMj4AHBgYFhAQRykhYTkpMh4VQTAoWEk6QzQmUS0idUw6d1M/u6+tubK3raOrXklLQiAmABwUFBsTGCscIDcgGUYzK1NFN1NHOD81KkMsH1U3J4plVJ6TjoN8eL25w7y2yi8lKQAYEQ4dFxkdFxYlIR0uKScuJyNgVk9RSkEXEA0xIBhJPjh0a2NrZF+Uj5O6s8phWmgAEw0UEgwSFA0MIBsWJSIbISAgNzc/Qj1AGBQSGhkYJyQgZFpQVE5IYFdTpp6vhXySKJBeqgeEhkoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/09.png",
+    "width": 1920
+  }
+}

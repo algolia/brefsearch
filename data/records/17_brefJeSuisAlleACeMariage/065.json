@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Elle a dit: Quoi ?",
+    "end": 66,
+    "index": 24,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=65s"
+  },
+  "thumbnail": {
+    "hash": "9721541563",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nAXBWXOaQAAAYN6qKOwiCKJlXS5FQBC5L5FoNEfTQCY2rW3S1s502of+/9d+H6ENucNqefS8z8X2XF1f8vi3LbWrhT0eMSQNSDDowTkvJfoynNm+ohEcSe0M45Rlr/X12/74EvgnPPxo4j9p+DNNdGHc6dD9Lo3YUWmtS2tFjCC7EMQ2ir5d7U9FZZs3iR5sFel15X7y/VMUM32G6sHuu76DtJ0bEiMwUFj+0Vufik2bFqVbRZpRK+iSZfu58avamBNEkZDuAcQKOzcgDlPsDvlbx2mS7DkvvpR5ruG7mfo3yy5R+DXwJIajSQh7cALYreUQ/zz3VsEPrvOUlU1aNEmeq9hguUaSW8tKEIIk6JMAkEAecMXMIH6Yi7M9Py5mTZS0adFEUYknPNkvET5MkTsaK5wAujQkAexSpjgh7lW5nqJKlWvTvvfDp3B9pYwxRasUrCX0wbR0loddmqegwQvxVCZudFllmKUoxtrs4AVvsbt5zzk0fMDqOYxePE+BHN2hRAreLZ3vRfUflTxJU10XrIcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/24.png",
+    "width": 1920
+  }
+}

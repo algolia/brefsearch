@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Quand je vais aux toilettes, j'attends un, deux, trois,\nquatre secondes avant de pouvoir pisser.",
+    "end": 25,
+    "index": 8,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=20s"
+  },
+  "thumbnail": {
+    "hash": "9d196a124d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXBW2+aYAAAUNYYlYusSakXlIoKRWtFZWLBT/shIKAItVhcmdjFLtnWJjNN97Cky176uGRpsix72Z/dOcgMDu3B2Yer4Pfzj8dtvPVnjjpoHDG1Ei0dc61yKTA1KPdMMBAFoVlhkSnU1kEYef7T7uFjuJx26sP26TFT/DSfuKrcbwhr15rB0cp1TqqVN3UBOetIM92wz2Ec3XjLnWtc1sURU8hKPFekDi50+CVeLafO5/e3xWxWbjYQazhcLxaeoZ8ILf3icff1RVQuCTyTIV+/2tuzgHr37q09Om+3OhRFiQKPRL5/F2/mGuRYHjj34eY7351jeGafJFOpFOz3fNMAkmQO1J4oMgUaWbnuBACWzt2EoeY/0N3brrIo5SgMw/ZJss3XLKBkqQOuUnUg9A0DcTVNYMunXO3vz1/Xqy2aa9tjS+/3kqm0KAgbbxaYYyafSyQSOI7zbBXx9HGL5/yJ9e/lT+DYRIZ0NU1XFAwnYV++j8LAHB8V8hiKptPpZDKJOCOgiM1tFD9/e1o6NkXlTQDUbueQOgSSdD21x3KvTNMEQWAYhqLof68MXjCEyQsxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/08.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Mes potes m'ont dit.",
+    "end": 86,
+    "index": 38,
+    "start": 85,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=85s"
+  },
+  "thumbnail": {
+    "hash": "6ac83ff793",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXB207aYAAA4D6BRJ0xIWs2IpQWWpQi/pRDaUtpy6mUtRQClDOoq4iQuHUHJ4tbxGFCxtyYcVcuy7LEm72h3weJuaqY7ym114Ju/byZWqNOu5Ivykkf6gcuHHMGGO2CZA4zxjzItHWtD2ULlVxpbJif+fJ5u1kL727XXkhaXkRdIdi+g2JsonQJ+OP6yT3NNwfmBFL1qlp70xnPotrEtrIu72CmROckzuMOOewY5mEZ9YKSXgmVGYiVv3/9B8mKnK+ctoZTzriGYedQEZa9ajfDbxMheBNDvMmY8gGk3kXUKRVTf939hxqNcrF+Wj+ciL1vuwSYNbTbo1Y3naCCwPuckJJNKmOxhY986RL30X2jBT08/O6bVqrQS5tLNir8HZRepuKAxOMRcCBF5+MzPz+i82fR1LEbBTTFQfMv74dHY0XfV05uMZIPIU6AoDji4uLheIA8KA/C4pAvfgKJLr9HRXAS+nN/t1jcpHOGOlp6QXbDtra6suF2bNFUAEe9e0wnkjRB9i2Iaee6KFA8tPyxuLqaMpwsm9ceStlcXVu3PXE8fUa4t2A7HGA6frrNFizcxwQxD0IIj0/ThcVNxUp3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/38.png",
+    "width": 1920
+  }
+}

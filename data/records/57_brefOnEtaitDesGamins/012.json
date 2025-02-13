@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "C'est de décider que quand on n'a rien à faire, on le fait à deux.",
+    "end": 14,
+    "index": 7,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=12s"
+  },
+  "thumbnail": {
+    "hash": "52d337b116",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQklEQVR4nEWPW0/CQBCF+cU+aeIb8VEfvCQmSoxghARKKVjobrtlLzOz221pgZj4h0zbRL/Xc2bOOYOiKHgqWCoQaROzHRO7JNMGT6dzUzd1XTdNI4SI45glCWNsAABKaWMMIliQnlTldFVoAklEtoM6AAARB0qplHPOeJpl41nwNg1DJuex+GI5AKoWrZRGxCwTSukBIlprjTFC5Lfj5OZdPqy/75bHcewsWcZ4yrOUZ1qDlFIb01bqs6y1URjE0cLB/udcH3xhjCEiX5a+qoiQiNpKvRsA8ny/CILtNm6a+nw++rJqFYDh9dXw8kLmQiqldZeAHVrryXT1PPr8mEXzMMly034EWIfLaLkwRvdd2g2ISIQA+DrZPI1Wj6PV/csyiHjhLAB67wtfto6O/wRELL2tSleV7lA656gX/kb2B7/fQDtOz41C8AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/07.png",
+    "width": 1920
+  }
+}

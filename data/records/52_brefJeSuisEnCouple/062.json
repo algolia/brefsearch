@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Des fois, c'est chiant. Non, on boit pas.",
+    "end": 63,
+    "index": 28,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=62s"
+  },
+  "thumbnail": {
+    "hash": "c9d92cc203",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nAXBWW/TMAAA4DSXc9hxDttJnKM52px0oHXZpq6AtnWCDqGtW1Ef0ISqCYT6gNQ3nvjtfJ8Qe/bArG9j56UO7jIKNfMsjR666SZPjm3yuwzeMfqRuQsbJoa+mnCBInOgaD8hv2bpaRR4EH+oioeu2mXxvz772yRLRla+G+rGGJnzwBPGxFpy+9DQ/SyPPdIwthlOT0L/jvF9nP8cJ9dh+N7DDKLUthOEhLcZvc3c4wl/rDNTh7Uf7i6GN9S7ScLvWXKoi3UZTyCMXEIhIpohLGp/XXrPVTyl1DEgx+6q7b52s6e+35b5nyZ/raLewdwhBbYdYAo3nT+kgY8cx8BQQ45mXGX5U1d9Trwr4t3HzbGtj020zuIFC1uLCPOCU0x1xQCKLoqqbdhf2npTTO8nu/P0xdKi1uu3xeWhTj9xf+4EgmVgSQKKBBRZAyrUNXjOy1t+EdAfxH8FMhyJGtLT66jYxuzMwoIsAVlSFAkYKtJVUxJVpGAXBJJoyqIiikCWtNFIChBb+uGli/4DiZ82d+Qlb3UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/28.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Et moi, j'ai dit: Parce qu'en fait, je savais pas quoi en penser.",
+    "end": 31,
+    "index": 17,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=27s"
+  },
+  "thumbnail": {
+    "hash": "3be4ce196f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACggIDw0NjEuLxEOEg8LDx8aHS4nKUxBQl5XWT4nLCoKETQUHEstNpCQnYODkG5tdQAyKSpFPD5MR0tPSExXT1RYUVZgS0t0VVCRh4ZROD0wChE6Fh5TMjyioK6WlqOJiZIAOjAwTENEV09UWVBVWlBWWlBUVz04WDgye2ZgbVdaMAkPOxUdWjlEtbbFqKq5pKaxAEQ5N05BQFFDQU09O0w8OlFAPFU5MmA7NXJWTYp6ejgQFzsRGVw8RrW4x7CywKqstwBGOzlQQ0BPPztJODJBNDJOPTo7JiFKLSdgRTiPfHZhTVNDGiJgPUe+v8+1t8atrbgAQzg3PjMzOS4uJx8fIh8jSDk1PScfJxsZUTgraFVOLy4yJh8jOSwyh4eUs7bFoJ+pABcUFQcJDRgXGxYTFi0lKFtFQ0wxLUoxLmpTTk1CQiIcHxcXGQ0LCxYSE4+QnaOkrgA1GRUuFQ8TDxIuHh5HNDQ5KishGhw3JSVWQUJSQUMiGho8LjNjSU5ePzxuZWl0doAAPBcZRBUOMgwEJQgFHxseKSYoEhASIR4gIRweFxMVIhQWTCovX0dObExTKxkYDA4UZch3ADOlGsoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/17.png",
+    "width": 1920
+  }
+}

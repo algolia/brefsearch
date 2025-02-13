@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Il a déjà mis une clé USB dans un sens, puis dans l'autre, puis dans l'autre.",
+    "end": 76,
+    "index": 37,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=73s"
+  },
+  "thumbnail": {
+    "hash": "12149083c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nAXB23KTQAAAUH7EJ5+rD7Y6naqEkqRkgbLcFgjsAgshLDdBCEljLiZTx+mTv+w5nKNKoa3l2GlXYZPgbh29VFmbEgIXvvIYAMGdPRBtynyTmLIFBI66RhX7A0sOXXnt638vY8eK025PEaSGlMAnogjMfR5zUhIUWwpXhN7Akl9tcemr69heafA7i8/DZrAUCp8onBNFqHz92KRDFrDA4poEb6vs0Janlv2tVm9Dt3Ngj/TRUipDwoqIAV/5+qnNtiysI8S1KRnL1b7Jjy0biXvE6Icu96ZyCe0LtjAQAsCXvn5o0i0Lm9jhqsjvc7qr15t1fCDugXgdBK/Uf4u9M4Lp4nG54Iultq+TPsMFtrnUMxsaDDndsIR5ZiDyDQSvGP2Jgz3S84Xozr7m7vMmD+vITR2N8zSZukYRejUN2nVarDL19uNoyNfIP2OnUub25EugiglSY1t11SmnirwF5ksoU8dAsgT4b7fv33mT+5+mOiKYzSfg7sP084308AnOvsuT+//k6p346Aj2NAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/37.png",
+    "width": 1920
+  }
+}

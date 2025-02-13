@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Non, c'est à partir de 15 €.",
+    "end": 110,
+    "index": 48,
+    "start": 108,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=108s"
+  },
+  "thumbnail": {
+    "hash": "1baf8a59f1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nCXNwW/SUBzA8Sb01/dK34PSB22h0EELbDCZXUqNUeZEEGYmoBkRoytTl82dVhsdRu1BDyaLW5wnjcliojEx8eLJ/8/MJd/rJ1/uuldvLpYMRTJTos3E9UuV/fHqUTD5cxj+2r/3frjsX6u9fNh9M+0f3G+HGy2uVso51XzVkMs6XchS10xu9Za/Rtun4ebr21cP1pxuPbu55p0E48jvzCYrXErCGYJsldgaXcjJF7LS3vDy30+zL08GQftiNPL6NTUYr36Lph/21t/6NzgcAxzjGYasJMylxIpKlgrJ493Ri/6V6JZ3uOGG7drPV/73yP8cjI62e+cACADDgoohT5GZhDtN6+mKO/HKgyXdyacfDdq/301Pn9892e1xIg9xHiSAFAIFgSYKBQpugXQbpWYp08glnKI+Z1bCBzd/zEYfdzocRXCWAPL/FAHMBCozrBHRYol5ndVN3bYc23J2hq3jxy1OIVgWgUAsCbwsQFqAYkKoa/EMwRSJcUBMyRi6wWRz3nKfDd2zg8TzcZ6n5wBBI40XVYlRKkuKLNFKuarpBV0r5g1zq9P4Bw4/T7rx1C2kAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/48.png",
+    "width": 1920
+  }
+}

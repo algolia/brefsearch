@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Un jour, Fabien m'a dit: C'est les chiffres, putain,\nça marche plus, regarde.",
+    "end": 27,
+    "index": 11,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=24s"
+  },
+  "thumbnail": {
+    "hash": "f697ffc865",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCkn6SppKSloJ5bVlMeGhYkIx9APDc6NS4VFRc1Lyl+bmJTS0dFQkGpp6eQjIqGgn4AqqWqsq6vsKysYV5bCAkHFRYWNTMvIiEdDg4QGBoebV1UdFVLSjYvoqKmjY2QZ2dmALGtsr26vbq5um9vbUlLTFBRUjg2NBYSERIREhUVF0xGRGRKQnNtbq68yX5/gmpqbAC6ub3KyMq5uLpzcXOgoKevsLg0MzQPDAwTERQSERY4OTo9LjCGl6eoxNdxfYldYGUAwsDE0dDRtra4ZF5ioZ6lwcLHjIuLRURDDAsQHCMuIiQpSURNlq3Be5Ora3uMQkZKAMLBw87Nzrm6vJCRk6WjpJWQlZqXmi0rKwsIDRQUGRIRFV1re5Crw3GGnGBvfigsMQC7urzBwMCysbOXkpV8d3pxbnI5ODoaGRoiHR8eGx8xNDxwgpN3h5hpfZJQXWshIygAsLCyl5WWd3J0Yl5fYmNmcXV5Y2hrj5OUgouQbGxvYl1ifWtqWEZFYnaLPEVQEAwRAJSTlWVhYVxZVnl5epiYoK2stMDBxLevrpOMjn54eG9TTF9MSVtqe2d6kCgrMAsECpBUtF4d10BmAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/11.png",
+    "width": 1920
+  }
+}

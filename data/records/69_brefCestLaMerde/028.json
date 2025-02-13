@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Grave. Bon, J'y vais.",
+    "end": 30,
+    "index": 12,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=28s"
+  },
+  "thumbnail": {
+    "hash": "141fb8b732",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFFlfUJOXjQ4Pjc4PTw9QURDSEVDRkpJTpmfpbvDvnN0cWJVVmxeYWJfZFxaX2xueABdaYJSV2g2MzYYFBUTDxA4KypTMy9MLy2YnKHAyMRiYWF/YWGNa2hoW11oZm1yc34AYEJRY0JSPiktQTEvJBoZEA8QSjEyVTU4jZCWucC9YlpaXkVGYkZGYFFTbmxydHWAAEhRZVBZbDs0N2NKR0gzMBoTEE4wMmI/TaChp/v9+4Zzb1g+PVo+PltLTXVyeHJyfAASFBkaHSMbGx5QODc9KCchGRgwHx0rGh+Fh43U2td1a2k2KCcqHBw5MTNiX2RtbHYAKCw3EQ8TCQoPJRgZHRMUCgsOCgoOExMYbm5yZWhoIiElKiAhGRQWDAsODQ8UUE5YAB4fIw8OEw8RFRwVGRsQEAwNEBIRFUY9REA9RBMSGBcWHBQVHAwOExUUFhsUFyghJgAYFxsJCw8kGiFYN0RMKjAqGB0LCw8oHiczLzcXGB0yND0lKzgcISszLS8eExUOBwkADQ4THRQbVjRCXjtJXDZEQyUvCAcKGxYbLCkwFBMXKSszIiMrJBkdEgkLDQgKCwgJXQhqG5VCdrAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/12.png",
+    "width": 1920
+  }
+}

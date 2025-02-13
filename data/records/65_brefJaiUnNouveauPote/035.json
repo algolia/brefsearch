@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Tu ne sais donc pas que ce n'est pas bien d'être raciste.",
+    "end": 36,
+    "index": 13,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=35s"
+  },
+  "thumbnail": {
+    "hash": "b5a2e7d28e",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nAXB3W+aQAAA8OP7ADmOOzjlG7VQPgR0iltFZ6vJZmPXzYc1abakzV6a7Hmvy/71/X5ABzzmeMLxNi8gTqK8RHgR8ZLMQ1lQBQ7yQIECVEVoKGo+DgECosmJtihbogKADHnIJJUIUJcHUDYMWadQNzXEsJUFbj8vAAJC4dB3vsO0AYNGTUikIVvUDBXpqjmjeB/aroU9m45HzpU3AkxW3kd24+LKIXdx2PtuMMBY1JFqDnRcEOuch/u2yJOoSScRs0E/GS4CUjBrjFFsWgmmvm5GCKuykQbx87Z7PWz+/Lj8e3v+/f2cBh5ofVJ7tHKtyESWpDnQWIbe7ipOnNEqu76tqkNVvxxv/r5+/fV4PK1nIGNmMaLHclIOqafpiYk/5+m5ThNCp164KcrVZPowpS/79uf5cNkvQcpQ6uC3w7aP/aGqbMvssl2f5nnL6DyOd2Xex8M+tE9d87jr7j80IPdoQrRvy/qpa1vXPs6yp371ZVH1Tf1p099160VeLa/zm6r42OS7Jv0PYlQ2x4U+WukAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/13.png",
+    "width": 1280
+  }
+}

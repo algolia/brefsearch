@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "J'ai dit: Baisse le son à quelqu'un qui écoutait de la musique.",
+    "end": 37,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=35s"
+  },
+  "thumbnail": {
+    "hash": "d2c8b1bb19",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF6ApmKFrWWKtGeOuGqSvWSKs2B2lXeWv2+WwmyRu2aLtmCFr1t/p1l6oVN0mlBulAB8ncCCp86Ir9iLsduZxvRWcYw6HRePkqeFteODrNaAqtR8pc94n8d0mb9ukbZoh6oAnrzZqsnpr9HzuNz6udjyeXB2TCYfh4WRstj8p8jrpMjqoMTmm77hlrjZjq/OhKLAAOPr9O75//r//+zy9XBYZ2hLS2NLSYyDiuj4/+Py/uHw/93t/dfo+dLj9cTW6LTG1gCnqraytcG2vciSi5g1DyZDJTVvXlhmUlefn6yhp7KWnKmWm6iVm6eQlqKanKWLj5cAKz9dL0VmL0lrMC9KKw0fWkFIZFFPQCg1Jy5GIzRMIC9IIS9IIC1EHyxBJjFDIiw7AE1MVU5UZUlZcUU6UzEPIl1GS1g3SkgkPTk6USo7UCk0SCg1SSQxRSMvPyErNx8pNgAtHhhCMSthUEpZQkYuECAyFiY4Gi08ITM5OE8mOE8gKz4gKjggKzoiLTwiKjgdJTAAHRQRRDUwWkdCWUdANB4jKRUbDwwPMiQoWk1QSkZNOTpFIig1GyItHiUwGiAqGR4m7A+/xu7cwOEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/14.png",
+    "width": 1920
+  }
+}

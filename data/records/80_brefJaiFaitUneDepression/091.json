@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je me suis battu contre les mecs qui voulaient pas être mes copains\net tous les adultes qui avaient raison parce que j'avais tort.",
+    "end": 96,
+    "index": 31,
+    "start": 91,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=91s"
+  },
+  "thumbnail": {
+    "hash": "512a27a667",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXB31PScAAA8P0XPeaD1/HSU1HdWZ0ROAa4jeH48XVjPxj7zY0YW8CAoUi7LNGMUEohxELLF1Pu6LrzpWf/kf6KPh8op5pKwVWKFarMgqpIN1TQVC2vVHtr5jbVbEPJVPJMmSnYjlxwWdaACPtJikfXEV4G7GDw/sP4+PD89Gh6en05upqPe+Pjrd5Ba3fftLzU/WX4jg8i6n6SeylFRBuY3rvJ2fXffz/mt2d/+tPfpWLXVt+45o6ldPilOH3Pn/Y9hiiwVDOT021n1DTGw/5g2LudzWaTb5Ov/SaXGXbsQU3drxtaQYhjUQxFoD0heNEBR7tU21s9OdRnB6WfQ3sHhC69zE17dV5cuxnp530znQW+hcWFu4tQKvRCIgmRidNCpKIlPpflqkw5SvCkmrhwstsitWVIjiIm4HAOR14BGCLDURrFtfR6lRdb+VxbyXdr5p5jfKy/7pb0tqG7ulYGUYuMuAyxIeEQuQJzGKok14p0xuKyjsi3NHFTlzc0sSHn6wL9SYp9YR/+0h595/3d1AMIfvocDwSS8AoIw3QswmEoj2NCHBMInMMwNoaoaJBDgkw4QMHLVOjZf/9uuZ/xla0CAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/31.png",
+    "width": 1920
+  }
+}

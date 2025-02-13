@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Mais bien sûr.",
+    "end": 46,
+    "index": 16,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=45s"
+  },
+  "thumbnail": {
+    "hash": "e526bd4577",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB0TEUQyLlRAOkEsJj4oHUMsIjsmICUZFxQLCSobF0w1LEMsIzomHTUjGjMiHT8sKAAkGBVLNjBZQjpIMipHLiM0IBkeEQ4jEg8fEA0VCgk1IhxNNSpELCJCLCA3JB1BLSYAKxwZTTYuXEM7Ri8oRC0iQSgdXCwhbTYoNBoUDQcGKhsWUDctRy8kSTElOSQcOSUcADAgHD4oIEItI0IrJEIsIVc1KXQ5KoBALUwlGhkJBz4qJFQ7MUkxJ0w0KDslHTIeFgAwIRs7Jh09KB5AKiJGLyVYNSlxNSh/PSxjMCA/GhNPOTFKMidGLyRMMyg5Ixs0HxYALh8aQCkfQSshPSceQiofTzctXzAnWy8kYjEmm2pln4GBe2BbXEQ7SjImNiEXMh4VACsdGSEUESocFkApIHVbV6CBg3JUVEAsKlw+OpB1dsqqq8aio76dnp19e0ArJTEeFQAjFxMTBgUmGBRQNzKkgoS3kpKwjIyEZ2eZg4SmiIfEoaDCnp28lpazjY5jSkkkFRAALiEfMB0ZLBcQUjk0h2Zno39+t5KSw5yc0LO1y6qpwJ6duZaVpIOCh2lpZUxNIhcWS2lxyN6DPG4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/16.png",
+    "width": 1920
+  }
+}

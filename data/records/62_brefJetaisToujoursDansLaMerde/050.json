@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Je tombe. J'ai baisé dans cette voiture.",
+    "end": 51,
+    "index": 19,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=50s"
+  },
+  "thumbnail": {
+    "hash": "3eb2c46a4d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVR4nCXOy2rdMBSFYWnftHXZkmzLPj52c0jSQMmgHZWQ0nGhk7z/65STwhr+8C237bfex1j2dVzOVr6l+Nymx+PpYe5BxGyuNmkICCwomcStvfdcWp1zLAnwedt+PN5uvV9TshhTrppqy1ZiJmQGdqbRVJ1DBk4c9mn++P3+8evtEsKq+tXsZhVYY4iB745DEO/QO7yjxDXll/P88/bz/bhemQ/hv9t4rQYAHgAAnWiNsTIpeCLgANREz9YOTS8xZpbV6usyvk9zDeK8d33a9/XLcXlQtVL6XJfCuhCfqlu2KCFny21sdT5a11jcthxj3qtNQWKxaR5H7ReTaBJ6bcJCGJjC/9tM6qwO4egceI/CMaVabGl9E1ZCRI/+c+AJPXlPDlG8B/AEnrxDcITAGrJIRCBCYboLCPzZ4D+2eRRZ71fzCgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/19.png",
+    "width": 1920
+  }
+}

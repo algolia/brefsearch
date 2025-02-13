@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Tu m'aimes ? Grave.",
+    "end": 12,
+    "index": 5,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=11s"
+  },
+  "thumbnail": {
+    "hash": "d7d5469cd9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFtaaERHUyotNzYzODU0Mjg7ODg5Oz0/Qq63tbjAvXp7eFpVVmpdYGJdYl1bYVVSWABycX9NUF4JDBJALipRPjo1ODU4Oj1AQUSzu7jBycRzdnVfTE2YdnNyXFxmZGpgXWIAhH6IWFVgLSIkTzQwVDo2Li4sOTw9QUJEqbCvucC9b2trUz5Aak9PXUVEamdtZ2RoAK+ioYB1dzMhIEovKjgfHT0qKzMxODc4Prm8uPL085SGgVg/PWhLS1Y9PnBrcGpmawCypKOTgoNAICJMMCpRKi1mOj9JQUxGQEynqqXb4d+Gfno8Ly4xIyM0JihjYGRvam8AgXN2cmNnQy0uVjk6YzY7VDg8U01SVkxUmZ2Zd3x6LCswJx8hHhgZEhATDxIVLSwwAGpaWmBSVigWFEQ0OU4/RysfIj83P0tDUkxLTRgXHBESFxETGQ4PFA4PEhYRExYQEwBbSUdkV1pBNDY+NjwuKzIgFRsrIys2MjwtLC4QEBUoKzQlKjYcIS0zMDIjFxoSCwwATkRFY1lcV0pNQTQ0LikvIx4jKyQqJiEmGBcaDQ0QIyQtISMtIxwiFw0PDwkLDAgJ425+CJKdgKsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/05.png",
+    "width": 1920
+  }
+}

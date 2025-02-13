@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "C'est mon petit trésor.",
+    "end": 69,
+    "index": 26,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=68s"
+  },
+  "thumbnail": {
+    "hash": "38f3dda927",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nAXBaW/SYAAA4P4HE5MtMVPRCNE4EI8osIxjgAV66DgKlLaUQu8D7OoGvC1dCYpmyzJBExanJA7dlyV+cT/P54Hw/CuCwlKF52h1uzfQvE+ePTZ5Lc/KWUbaYYSdejNZKkfzqXAyuplNbEKaRjDdNNWNDafm8WzpDD0wAMZhVbJzEkAUgIkHCNfNsmKabMbLRARixDj9LqGA3N7gfQ1FPvLEkSnqw4rsILKDyiNEslEBFLj+a8ZMVpUtqNZ42bJgERAolrdKqcuRcdrl92xaPaxIDqG4hOq+UV1cBghnITUVhqhOgtTTFZ1qS23Ak3Y5MxFoywGUKVH7nV2N4g6K4gBt7+d2RSxD4VDPqtuexMqNUr31wRubHbbfMxJZPA6/5VTamxqfT/qzr6PZ3HZc2TBpyAPa6s8ZJyiB0FYOK7mTKScovkDYH4zAGLn8tfh3vbq6+rG6+HZ+frI4O4Y0UzydT0imFQhF1zcePAo+9fmDd/1hnz8UfLZdojq/V4vrvz8vL+bL70fzL2MoiuPJChFJwS9imRtrdwIPn8Ri6Y37j9du3bu5frtYKMpyr2noLV1jVbnBt/8DsoGoudlwHc4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/26.png",
+    "width": 1920
+  }
+}

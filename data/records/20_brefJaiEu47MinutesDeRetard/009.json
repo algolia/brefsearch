@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "J'ai cherché mon portable pendant 13 putains de minutes et j'ai abandonné.",
+    "end": 12,
+    "index": 4,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=9s"
+  },
+  "thumbnail": {
+    "hash": "a79fb76665",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD82LF5NPG5UP4NqT4ZyW3psWmdYQmNRNVVDKSofGQsKCBwYFlFDQUE4OE9HSXdxcwBrWUSUfV6hhmCJakOfgFmRg3OakYeNgXBmWkcZGRgfHRsWFxYeFxYlGhVZVFF2cXQAu6mStqKDsJp4tKecuqqYsamfs66ptrGtk46IFxgZNzU0GRkZFhQRGBELLiohUEpGAM3Aq9fFpsewjd7TxOfm5t/a2dfT0Ork47aytA8QEBkXFBAQDxsYFRgPCwgAACcZEQDFs5ncy6/eyqrk1sTw6unx6unv6Of///+sqqsDBAESDgoIBgIeHBMhGhUYExAnHBQAtaOQ3tXS7ufl8evs7+jn9/Dv+vPzvLi2OTY0CwoGIBsVCQoILiYeQzMsPDY3JRMNAIV0ZaynrOvk5fLr6v339djS0Xx2cUk0OkEvNVhBQIlcUXZXSHZURGM9MF09MW5TUQBIQ0CBfX/b1Nfd2t2Jg4VeS0SvqaWYjpR8V26acW+0d2Gvc2WkcGKUaVl5UkNqVFAACAcITUpLi4WIWFtmOiYjg2po4t7lqZqYeE5FqoZtqoZrnW9Yk2NWiFhQcU5JTTg2Xq68uq6jfjYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/04.png",
+    "width": 1920
+  }
+}

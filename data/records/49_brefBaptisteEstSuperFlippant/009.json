@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Du coup, elle joue avec.",
+    "end": 10,
+    "index": 5,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=9s"
+  },
+  "thumbnail": {
+    "hash": "6189b96806",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIB+fpucn62usqSlqLGzt7Cws3dycn5+gbm7wLa3vKWioE1AOhUREg8ODxIODzUrJwAlHx2ZmJu5u7+vsLPHys6LhoU2IhtkSkG2trjEx8ytp6Q2KygHBwsQDxENCgs0LCcALScno6SnxsjMtba50tbaX1xcNyEdb0c6oZmWztPYoZmUPzErAQQICwwOEA4PQTkzAA4RFExPU7m9wbG2u7KtrUU6NTAcGGM+M4p6dKqvs11VUmRAOz8ZHDsRFUUZGlk+OAAFCg4AAQVPVFiWlZpTKCYbCgc3JyNiT0VzYVd9W1pYJShZICNUGBxPFhlWGhxUGx0ABgkNAQUJGB8jWTs8NQMEIAkKPicjbGFcfV9dVBodSxMYSxUaRxMXRxIWQhEUQhIVAAMDBwAECRIOEj4LDC8EBjwHCEonJW9jYFYsLjYKDkYVGksWGkcVGT4RFD0PEjoOEgADBAcAAAUnGxlVNzFAHRw1Dw9hREF3S0dQHiApCAs7EBRAERU+ERY8EhYyDhEnCgwABAcLBgkNKSgpIBoaKhwbIRYWVSkpWSYnIQkMFgQHKgsPOQ4TOA4TOBAVOBAUNA8Spr50FThgNOUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/05.png",
+    "width": 1920
+  }
+}

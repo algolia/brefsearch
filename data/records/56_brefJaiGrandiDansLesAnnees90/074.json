@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Un, deux, trois, quatre.",
+    "end": 79,
+    "index": 24,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=74s"
+  },
+  "thumbnail": {
+    "hash": "28d7de8fdb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB7VOaYAAA8AfNM82JosQjvjFSEfCFBxBISCMwddpcWhpnhbrrbnOrXfuwrW/bPnbrbv/J/sX9fsBs2yIv8ZWmN/M3V5v55d3ZZP3jZv18MXaPTk3jZOm9fztemOjwpFw0SmVQKTcxEMhR+Q+e/306Xi1Wm3eXL5/v//3+Ne2O2sjSW7bV7rfqynmd8xQBsDQdDe4wNLPyPj1tn25GM6cudNvul/nFfHirKT2BV61Dx9HN677jD2ywXbibgVyFUG92Pj7+vfa+lrJFQzIcnrPrDV1E1ZKgVkWVE2x7YtsjsD4/ftkOBxzVbxuz5beHh2dJQFeG6LunP5ezXkOoIQshnWUqIi+rSAeNg9yfx8n9WJmasiV3raOzSpEbsglfzrzhCnNNmFqaKkoqanU0vZCvgByB27Xc3VDrN1DPdDSlQ5H517EgKmRrB5IoHrO5cioJUymaJCCEDEjEkwwZp17tUgSZIWA4nMACIQBAiix13QXDSgzvBoIRDAvhOEziEAAskk4TmUySgWmWyob3yEg4igFsJxSNxenIbgzmFRyHsRixTzJwn/kP3JtXjGXvtzAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/24.png",
+    "width": 1920
+  }
+}

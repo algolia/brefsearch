@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Je te le transforme en complètement plein.",
+    "end": 93,
+    "index": 35,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=90s"
+  },
+  "thumbnail": {
+    "hash": "7044a75bdf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nBXCaU/TYAAA4Jde63pfb2cL6w7q2FEmNHZXx5bCDtlBkHE1scDiwVjiCAYS9ZOIGkKM2Q/YT9AvJn7hZ/jZH2N48gBDFCHLRTgOUpREECyOP0SQJV1zTFMgSZoIyRSNo1gIw2mCAElVpUmGDfMSD1Xx0byiazAKFSOpJ+xE3ISyznMpReZJEsdDEjRAOmnFsxvmSne5GjzdeOW0R6XexB18KLjba6nFrK4tCHxGVQ2B1bREfv0lyKVsq3SwUj+2m2+K3Umxf+H031V2P7aPv7p2Ja3KGi8sKoopS27Wqno+yKWd5fKe7Q3L/YvmyW318FPp+ftnp9Ody9n69jgRUWWS0Dg2JokxKEc4FmTyzVzFL3hBzfFajf1WcN04+bZzOWu8/lH1P2fsTdOqLUVj8wIP5uYeWhXf2Xxb3zp3onoeisV0vj286ZxOR7e/xtM/weTG3RrFFVVkGBRFCQwHjaMve1ez3njaPbxaEGUKgNVy5+z7/d3Pv3e//x2dXxswouIEiuMYhiEIAtYKLWe1nnn8ZNAd1uw6Q9FMmOl1ghe7I39wVi94MkFKYQrFUARBUBT9D+18VELMT7eaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/35.png",
+    "width": 1920
+  }
+}

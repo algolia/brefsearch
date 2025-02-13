@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Elle est passée à1 000,\nalors je me suis mis à boire. Voilà pourquoi j'avais bu.",
+    "end": 61,
+    "index": 27,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=52s"
+  },
+  "thumbnail": {
+    "hash": "6bd2d36f4e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD0KYiAGFB8FEz4JXHcT02IKakQSGi8PE08KO8MIutIHxzYHKxIICS0HJkoGplECxABPDYRHC1Y8BkFAA1pPDF06BxwsEhA8GhM0GQmODZGyBONfDV1IGCJJC2NmCNZlBN4AXA+zRQp9LwYwKQU6MwoWHgUOGAYKRx8ZYjYfbBeEkQDtTwJtGwcKHQIpUQOcZAPOAFwK0j8HcxwDPyMGMi8IHyQPEEAbHFwvK1MuIFwSkkcUcRoWFB0WHR0aFBwTGDoBcQBmBt5TBtAtB480CSQwCxMiDg9RJCR4QDlUKyVJCWpGQEteYFlpZ2VvbW5FRT4cAEEAagbkRgquNQtkQAsbPRURJg4MORgXTiMgNhgSUyosOCAlEAwPFhATFQ8TEgwCJgdeAFsNsy8VcEQRZk8WGUAYFEYiGzsaGTcXFU4qJFs2MHdHQAsDBwgABAoCCAwHAC8JaABFHCRHG1h3Kp9fLipAIh9sPTFaMChbLydiOTFRLyuLWkwXDRAJAQgHBQE0CUGSCMMAMRU0IgkvTRo5YDQuRikldkM2e0U3d0U3Zj04XTcwhFJEGw4SBwAGAQMAVA1wbBF4LsRcPi6l4qcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/27.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Quoi que je fasse, je pensais qu'à sa gueule, sa gueule et sa gueule.",
+    "end": 19,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=12s"
+  },
+  "thumbnail": {
+    "hash": "369c4bfbd7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nAXBS3OaQAAAYE7tKT6AoBh2WVjYBdZFHqICPpAYE40S8nDM2InT6XQy6fTWQ0+d6b2/ut8n9BTRgKqBQcARgpcRdxdp5BI9j7kBewj0iAkpRswh3V5HlCVhmjuLMhzP/fI2rjbR7nZY77M/H69/v512q+ztef3759vLtgw5616pGgJCntHR2GIc+JF5eArurt2iYPvF6DCNwz6pt9mhWhz2q2U2jiNOmSUETLFN2cSyTZR5jq9Lh1KMNG3oGq3mZToZVNvh/Xp2/vJQP87jGAku7RAqM1fSQZMSJU1Juy1RSqvdutWUCMFP9fLxsH54no0ntuOoQuCDOIGuq5u6aON2UXiNpgy7cp/ojYZkmPr6fpbMgiy1A34FMRC6qmigjkMBAiIlSsgh0pA/mhKbiBctrIPBEPPASrgVEt0GXSF10dI3VgN9FdmbAS6SQXFTvdTH3aZm+Z3nWp6lBliLLRATvQ9V4XXinFPna+59n7MfuX06v+Py1Pj8CbJx/evfTeIdI3Qc2sfEqkKz8uF/MrNRuuwpD+4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/05.png",
+    "width": 1920
+  }
+}

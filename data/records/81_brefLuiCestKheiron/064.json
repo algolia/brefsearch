@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 81,
+    "name": "Lui c'est Kheiron.",
+    "slug": "brefLuiCestKheiron",
+    "videoId": "z5tHQfjXtwc"
+  },
+  "line": {
+    "content": "En soirée, on communique par des signes très discrets.",
+    "end": 67,
+    "index": 22,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=64s"
+  },
+  "thumbnail": {
+    "hash": "831365e87a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXB3XeSUAAAcF52FOEiCFy4AnLvBZ2CCqi4iU7nx9mSrZpmbn1puVbLY5299FCnHvu/+/0YTMz0NH5x1r9ITuK254XE9Uxsw4CWfGIVFF7ReJsoJpZUXcAOZKAMyxZxLdr1w6ftbTTwvYCWi3qvevwpvahXsKjxMgIFnRMV1saIEfi8lJeRortFe/v8sjdtUhvZBXket/5924U1V9JBXuF5kRNETiwAJpthQU6Yh+GHyeh+mQZNasmyq2uP88nfzdqnOMezHMgJEuAAy4EsA1XjrNHYTc+/L69fnfcapDTrtjuo+Po0vh0OMIIqkvIyyOQyWTbLAY4RJd2jlcT3xq1mp378+Gb16/B1Px4mho2tCjVgkaoiElwHG6bJCzwjivrRESfLyLTQbn3z5/Dw+/Blf7e6cstjE9cMCHThapY8LF9Wo4HqeIzrhqVSFZN6FEbr+ezp4/ufn7eb1eJ+kCyg6urypB/fjPoatGhrqjkBY1oVgn1C6u3wZNSJ7tLLH5t3y/TZfjxcYLPfbb29TrGDELVqQVMyyX+z/Eo7K8v47AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/22.png",
+    "width": 1920
+  }
+}

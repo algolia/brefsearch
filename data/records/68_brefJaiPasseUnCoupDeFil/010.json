@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "J'ai voulu prendre l'appel, mais comme d'hab, ça marchait pas.",
+    "end": 12,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=10s"
+  },
+  "thumbnail": {
+    "hash": "92595afa5c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBC3OSAAAAYK7uXNmG843IJuhgIvISfKGgJE2cMERtjwR7XLvpKreaZzpTr3VX1+0f9Gv7PqArZT/qpfMK9YpAnRJvC6xbzROx+Hh4uvj0/s9bc9bVeiJ9TCbZOBTw7gCjrnrntpdn6tJUHs5P7vvGrwtzrErrm9Hv+c3foXmrFZtE0s1TZwJZQRHg29C4v+w9vNGuFWFtt/6NnVWvedWqr76Of04/D+T85nV72pTWluIWaQXHgJdMRhZ5jSGGPHmtSPPO0YnARMLwcnL1OJ+sBtbGqM10eWbUbJ6SDjCgQRLZFE7v71lseiCXGzTJ4Xg0jv7om4+DXoOibDZzpxQuq7l6Gs8iCNAp8KsLuy3ypRQmYpjOsVw6E4wgwwJ3fEh4vYEgGLpV806ZR0KxZDgKTFvywtbnfZNGMVvgVJoBd6OgL7RxupOjegVNaCzz/YNTSh+SENwkU8A7iVtYDUPMPdkCDxAMhhLbvkgUTnxp10ea5KrljqrmeCkURLJw3GIIQKdSTjWHRmNPPaA/APn9kM8P7UYQDN7r14pFmnn+IubxBLee+cGd8H4Y/g9Lnmc9E6dHGQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/05.png",
+    "width": 1920
+  }
+}

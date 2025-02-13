@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Merde, il faut que je fasse un coup de fil.",
+    "end": 86,
+    "index": 32,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=84s"
+  },
+  "thumbnail": {
+    "hash": "fb5c83b98f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXByW7TQAAAUH8XRw5w4IJQJU6oRyTggtjEISqCLsakbtp4zTi14yX2xDN2vG+xXTt7mihSv4j3CKgIVeo2mXvclU+P1dO2Oqzz/TI9rLLDKtvP4/08XpVeGVoxVqizz8QssI7rYjeP2szZNtGmDtd12GROGcEmxRFSUlerIqtJ4KZyxX8doknQcZVvm3DXhNva39RBm+HCH89zXEfWQ2bPc5Q6SjQBpa+BbocoffOxjdbVdOYbmavmUzV1NEcTXUNEKp97WuIoE7nvmzx59vX0zQsiQcqydNpsssjtRYGWM7QonEWO2gQuC/QQW4WnJ1iuQ73z7ePJy2eENxbK0HANwYcggCCwQAiHE4VBI8aW71SWxBrrGnwIgaP3f354S7g6l09HMZIie5BgkGA5gBLWOW8smgNaZUlzQLsqa8t3pnT9/f0JoYnXAQS+KRiDrsr/dQxuDG6k3vnw9mJ4e3HPXBoCpfOUxlEaf/Xp3Sui+/vHPUOqAmVKNJR7eNTHKosVxgK0JlAjjpT7l9LNn2HvnP715fT18/+wTRiKIz1+EAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/32.png",
+    "width": 1920
+  }
+}

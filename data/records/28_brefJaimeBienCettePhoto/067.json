@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Il avait fait un concours de shot avec le beau black que s'est tapé Cathy à la fin.",
+    "end": 69,
+    "index": 26,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=67s"
+  },
+  "thumbnail": {
+    "hash": "98d62c0ba4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHJKEnhOEm1FEF45Dlg1DUwtB00uDEIjCDwcCB0PBT0hCUcnCkEkCkkoClIsC08qCgArHAg2IwpGLg1ONA1XORKEVTeHUzGBVS1VMQonFAdSMAxOLQtKKQtXMQxeNAxoPA8AdUoSaUQRWjkPTzIMTjEPklpWtHdnm3FjLh4KKBgHZT4QZz0Pb0URZz0PckYRbkAPAIlXFY9cFpJfFpBcGIVUFo1aIb+CZLF/cF89F4BYFIJWFoNTFHxOE3hKEnlLEnFADwB9TxN9ThN/UBN2ShJtRBKIWBCIViS2f253SyqHWBKRYRmKWhd8ThSCVBV2RxF0RhAAg1MUhVUUglIUglQUhFUUfU4ReEoZu4ZvjWBMZz0PdEcRcEQQcUMQaz0PckQPbEAQAIBPE4laFYxdFpJiF5ZlGZlmGIpZF7B9YKh6aG5FJHtNDn9RF3lMFWw/D2o+D2M0DQB0RxF8ThN/URR/UBOGVxWLWxaCUg+YZT7Hk3utfGOCVSWQYRaUYxmNXReGVxZyRREAbEIQaD0Oe04Tfk4TglIUh1gViVoVdEQRpnVZu4l4MBEtPR4acEYVdkkSbEIQZD0PIWp6j0KxgTAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/26.png",
+    "width": 1920
+  }
+}

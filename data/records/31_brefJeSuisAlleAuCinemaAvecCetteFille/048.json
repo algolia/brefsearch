@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Puis, je me suis dit qu'elle devait réagir pareil au lit.",
+    "end": 49,
+    "index": 20,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=48s"
+  },
+  "thumbnail": {
+    "hash": "3abacb530a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABR0lEQVR4nF2Oy47TQBREb/rt7nY/3S/HTpzEEwYmciLN7GHDio/g//8CRYCEkGpxVDolFWBE/w3BHABe374elg1gRzD/TwD0l34DwWwHpO+j7ocdEPTsCdo94c9Ac82pJJgRzBCijIg5HbKvHe0014IIzbWTrqOdIJ1iGqpJuR8MlYFrQ3i2dVvf305bEHaO+2bzMR1epmtSvvYxyQDNpikeigyBsKGzp3LeLo+1XTQR1aas/THN67hG6bKKsXMQmEymJWGKWZz9NOVLi/Pgz6NbKuWBq+brFFrPVdHREgk9ZkHoKFuI79bdvDlZvTh39/Z2LPdt/X47PuahYkSdej6HzGTmcq/LpOoo/NIP1/FzLh+DfTmF62vdzq7NykQqirRFeshcVaYK5ZWyRkVF9PHl49uPn/f10QAKwgXzytTejM1f2nD7BZhMHGBb9Qt9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/20.png",
+    "width": 1920
+  }
+}

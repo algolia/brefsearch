@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Il est organisé, il présente bien et il a toujours ce dont j'ai besoin.",
+    "end": 24,
+    "index": 10,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=21s"
+  },
+  "thumbnail": {
+    "hash": "8f5975f19a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABoMCDggEDMcEE40IH9XOJRoPmhCKmI3LnJCN4BwZ1QoGoNWRKJ+WIlgN1o5GTUZBQB6dnull4e1o47DqpC8qI+4po64nIyqkIqulI20pZ6gf3S1mJDDqInCpYS6mHObfGEAQUFCSkZKUUtLUkxMU01PU01OVk9NUEtLVE9OjYiDaWZjZmBfaWFhX1teT0xPRkVIACMPB0kmEjwgEzseFzUfHxwJCTMXFTseHTcaFnJnYpVlVItZS4NeTnpWRBwRDgAAAABfRDSHXUN9WkV5V1BiTFNlS09WR0NcTUlcSEN/eHKbgHOQc2mcemyif3JoXlxFR08Ai5CekZepn6Gmmp2njJWnoaCjlpqfh5alkpicoqKfhYyZgoaTk4yMiIGCdXF2ZmVrAB8VFzUgHTIdGjkfIDYfIDggH0IkIi4ZFjgbF21dWmRMQmlANGxGOV4/N1wSDFcJAAAvEwpIMBtLMRxKNixPMS9ONDVjPjdlPzJoPDKTfHWhfGmYaFKab1uXc2KjWEGhXUkAd29xeoWIl5iVm6GbhpOdmqSss66sqLO+q7O5ycK5vLq4nqm9rrS/t7S0l5edcXiJKBOosDl2mPoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/10.png",
+    "width": 1920
+  }
+}

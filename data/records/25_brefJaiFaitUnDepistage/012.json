@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'avais pas pincé le réservoir. Marla m'a demandé d'aller faire un test.",
+    "end": 14,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=12s"
+  },
+  "thumbnail": {
+    "hash": "3a331ba647",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABU0lEQVR4nDWP60rcQBhAA8l838xk7rNz2Vw3WVfWpZbSKlorLaJt11Iq1Pd/F4kinL+HwylW7Y/Q3afh6Jvvfn27np7a7f/25DlvHhmzjFmAmlRYlfAKFqF7iMMxjEcjx+QOq3zj+3vfPaThp9QDpYZUCISRCt8oYv87bf7m8RjMPqoTIac6Xorw2a2/GbejKEiFiDUQ+i6Mf/L81Mz/ov+oeaPcmczXMl26fKXtTKlcBCoBGBBalVCk8bEdfw39nTenHK2z+9Dc6PxVrT4oMzKmXwsSgCPwpZC7u6G77fJVdOdWTFadtvk6xguhZ6E6pIqUQAhfIoQB4UVKX1I4b9KFNwdvDtF/Cu5g9SxlX4uEUFclqUoAshSAsMLqSamNN3slNlbvvDlj1CvRKdkz7hGWXQT2Di84T8rsnNlavTVqkvWaouE0cL6iKN5A4BQ5xeX7Bb3nIoDnqmEVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/05.png",
+    "width": 1920
+  }
+}

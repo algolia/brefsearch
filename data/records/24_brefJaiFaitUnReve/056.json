@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Je comprenais pas ce qu'elle disait.",
+    "end": 57,
+    "index": 17,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=56s"
+  },
+  "thumbnail": {
+    "hash": "ebfeab3716",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFVOTWZeWH55eVxYWmI/LKN7VsKtk6WWhKypqKiBcJ5zWph/fmRrhIKNn5+ruqGiqABeUkB3aDqGck0+MCZjOCitfVrKr5S1noOsqqezuq6ZoIebn5N+dYCTna+0wtK0t7wAopV5m4hOpYxhXExBSSQaaEU4mHFfjnVksaqgrayZjI14lpKCvLWvsL7Pv9DihoGQAKSWb6SVZK6ffHZfVWw9LIFSP6R6ZcGiisK6q6qdlpOPgoqMgm9hZY9KTJ6VrHFabgCjnI23tKrJxsaIcXFuQzRsPzFuSEWVcF92bWaIhH+loY2PjYY2OleIboJwbHxaVFkAtbjAvbm4blRSSSUcSTApTS4miVxYh3BdPzszeGdlmph+lYd8a3SSoqmuXVVGZmFRAIuDgE85KhAKBSofFUwpIC4cF0k1MXtuTj8+JjEsM2tnXZCLfWxyh6ecoGQ/NmpOQAA9MiwOCgkSEQ4cFwwyIRc+JyBIOTJeWTc2Nx8NDBYREBVXVVN9e3d5b249FxRCIBwACAcPBAQLEhAOKSYZIyEWJyMXOzYgTU4mNjYeEA8VEA8UFxYahoF8hYB8TkpDS0dAeKOvFBL+n6kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/17.png",
+    "width": 1920
+  }
+}

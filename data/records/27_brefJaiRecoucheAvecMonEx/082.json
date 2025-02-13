@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Puis, je vous le facture pas. C'était trois fois rien.",
+    "end": 83,
+    "index": 33,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=82s"
+  },
+  "thumbnail": {
+    "hash": "2a09fd604c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AI2CgqSamrOsrr+4u8nBxsrBxsO4uM7Iycyvs7Zpa6yXkrCgmaial0w4MD0pIjwpIgCckpO1q67FvMLPx8zWztPTy8/Ivb/Sy87BpKKneXKNX02ZbVCvn5lPOC9KMytHMikArKKjx73B183S3dbb29PY2dDWzMTIysLEgmxmZj0xmmZQyKSNpJOPTzYtVTsxUTguAKecnqGVmaOWm5WIjJWHiqqcnbSdl6uMgkIxMB4YIolxafDh1qublkQqIVxBNlU7MACYiotFNTlIODp/bmlpWVNFNjFtUkumjIWBZF8jGSNaSELPspvYx7h6Z2BWOSxSOS4AnY+POy8vQzQzgG1jSjs0OSckZVBNpoJ5nGdSMiEgGBMVtJV9x6eM1sW2e2FXQyshAJ6OjJyGhXBbWnRdUUczK0cpImxLP4RjWodoYGdRTA0JDIlxYreUecCjiJuIfzYhGgCKdXGgioOKeHCAbF9pU0Z9Z1+klYqyopSfh4KKcWwgFxdZRjx1XE5mUUddSkMtHRYAdGRkg3NpkIJ2qp2UpZaKqYt8rZWDn4VwhWtkeWFdMyYjRS8mYUg/T0A8PywlIBMO/b3JUQBd4CcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/33.png",
+    "width": 1920
+  }
+}

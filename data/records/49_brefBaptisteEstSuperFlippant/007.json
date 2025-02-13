@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Tiens, tiens, je t'aime.",
+    "end": 9,
+    "index": 4,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=7s"
+  },
+  "thumbnail": {
+    "hash": "635afbdef7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nB3NbW/SQAAA4MtiHNCjPa53ba8to4V2dOJKrQVpWS3lxQ2UF2UuMCKTLQtx0+kHE2Ni1MQPftV/bOLzBx6QzUCOEwiWZKrapi0RRrDM5QSxIJmKrImIYZ7w0GC0bpmWQsFuBmayPCWMEmaZNsYKB3EuhzS2V9bUfY2WGdUp9mxjEAVJow7u78I8RJQw8n+IPW+eJsFDV9fMakmLDgybERXBwDGn3eh1vw14Hmc5AWM5sCpnLf+qn7yJQ1vV83mkFHgFwYpKT0Lv4kV3/bwzPvIBRrjpOKs0fjdKbifJqnt0oOkEIUMhqe98XI5+3K6/b5dX097LTnMY1kFJQs39yts0/jAbTlvuIml0fFfCOHKdn+/Xf77efL6Yr4ZPT3utSRx0gxqwFEQxLrHiLHi0eZZsRqlvGTKVf91tfn+63L46OT9OzvrtcRykfq35wAJ6ARKRcLQoMaNqOUbJBPe4Tvjk75ft3XJyOR0sBvE4bvSCw1bN9mwDiFxGFISCvCcoxg6UdziSxcWb8/m368X17Pi01x5Ffr/hhofVx07ZtUr/ALIDTY62mH2eAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/04.png",
+    "width": 1920
+  }
+}

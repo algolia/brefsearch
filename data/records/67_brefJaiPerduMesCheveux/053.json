@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Des mots qui servent à rien, mais qui rapportent beaucoup d'argent\nà des mecs avec des blouses.",
+    "end": 56,
+    "index": 18,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=53s"
+  },
+  "thumbnail": {
+    "hash": "db3ed0dad7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nDWQUUvbUABG85v2sj10jj5YYahZLWod66oWGSY2aUqqxFVtEREEy8BVMjq2UNxmyx3YBJZrBW+0yb1pe5u1uaOb/2Z0sO/9cDgfBwCwLMu2bUmSNG13u1DIZrP1uvEz6N2YpuvjThff3qFrCC3LAgBwtm27rttqXYniVk5WlpeSs8/nXqXF4lFTiS11DBA0Hd9ycJcghCCEHEIoCIJKpRKf559GphZeLCpyPhGX5GwtP71yc/5R3z/+XrsYsRHB2HEczvO8IAh0XV9eSEpbuaJ2oO1omqa/FgyR37hqNBPxmFZU/vx+6PV6nudxGOPBYBCGI4Scy2+N0sFh9f3Z5ddbfu1TOrrSOK9GY9Nrmcx4PKaUEkImAKV0OBwyxgzDUNWdvKKo6mla+rKZzFl1o1b93Kg3Qxb2+/2JwXEcQsjg3+b5xKMnjyPPItGZDX714vhdi7EwZA+M/aKU+r4/aYAQIoQwxl2/Wy7tH56Vy5XSnlT8cGII0tv1zVJqPe+594T8fwkAYJqmDaHbuVe3C1Nzs4uplCgou3tHGVl4+UZQcvK1/aPdbpumCQD4C0goBJsqxHbDAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/18.png",
+    "width": 1920
+  }
+}

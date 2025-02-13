@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "La mariée a lancé le bouquet, une fille l'a attrapé.",
+    "end": 20,
+    "index": 10,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=18s"
+  },
+  "thumbnail": {
+    "hash": "e1f563e16d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIJxZI9+c5mJfZCAc1NDNywfGSMXEzEmIYV1a5+Ng5OBdXpuXFZHMkg3GUo7HzgpEgCWgnSbhnmok4SUf3MhFA6GYFCOZFQpFRFCNSh2Y1RaT0yBfoONjJFOSS4yKQYxLA0An4l8n4h6nIZ6jH12aEg7jGBPjFtKQCYdHRgIOSUXYkM3SC8kVUdHeXRwLicKNS4OAG5TPnFWRF07MVAxK3NQQIJVRXBFOEEoHi0mGV1AMKZvWndLPSwaEz8xJywjFCQfDABOMB1FKxc9JRM9IBBJOzJzT0RUNCs1JhY0LBpXOy2MW0mJV0lTMSU6KR02LRkzKxcARTccSTogY1hJjIuNgpuzQTw8PS0pRjkoTDUeWDcigFBEi1dIWzYmSzUgTDoaSjkdAGFMOqmor77D0MvO3JSnv11sfiouOUY9PXFkZXVcSnNTNG4+Kn5dVIZsW1c7FFtEHwB7bF7Bxde7v8zAw8+mssWlt8xtfpeTkZnAwtCSjYVINRFRNSOohnypa1JlRiVENxYAhHZ1qKq1rrC6t7vHt7vIuMDOn67Fub/MwMHKn5ORVTcmelpTo3Vkn19Cd0MvPTQU8XydvCVBI20AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/10.png",
+    "width": 1920
+  }
+}

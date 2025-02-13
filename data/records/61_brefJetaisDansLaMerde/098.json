@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Oui, ta maladie de la mémoire.",
+    "end": 100,
+    "index": 43,
+    "start": 98,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=98s"
+  },
+  "thumbnail": {
+    "hash": "1818f31a72",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBYVOaYAAAYD71YaW+GGqibO6IEwleICAx5FQ00ch54qEzJcHTMvUyrautda7tbrfd7raP26/Yf9zzIKPbp67r6Xk1d6ymGa5qGMPRxJvferObTtN6l4Pd0pFCk3KGAjshdCeATB9e/KvrVtMslIqqLLf17Llljm9Wk9XDctjpFOWKAg2BFvdTGAgzxB4y//Rt+fjx+fmuUDkRITcwNKeo+bOFv378cj9zDengDWEe0jKVQoMoge0iy5effX+82XzoO44ejTRzQhnSbl6bjqfXo/6gJJU5ytH44sE+hu4GXgWQ9ddfA3+UywoOZP3tbUfibDZtb215ArcYOheG1FLZgSHVIJmKxcJBgCw3P7zLqSZzpxhmB0M9kesKbBuAVoq4qmuL+tHEPG5k+RpPpuOxKECRy/tNzx9pfMYKBOtJvHXIWSKsEokORTx1K/++r/4semMzf8JT8HU8GcGQ9nAKRUnhaDUa1UOhFhq28UQJBRZP/71zPw/O3KJiq3w+/RYSexQeR87eD1koMjTJ0JQWDDUAaEQiNRQoSfz32ps3CmWWqooZPUMyiSgOwH+22WtBxpfy1QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/43.png",
+    "width": 1920
+  }
+}

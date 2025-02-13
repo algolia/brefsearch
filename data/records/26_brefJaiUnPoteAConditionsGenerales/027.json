@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "name": "J'ai un pote à conditions générales.",
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg"
+  },
+  "line": {
+    "content": "Amour à revendre dans la limite des stocks disponibles.",
+    "end": 29,
+    "index": 17,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=27s"
+  },
+  "thumbnail": {
+    "hash": "bc31c3cdbc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABcSESkjI5qWl66rq7Gsq7m0s7m0s7axr7Svq62opYtzapBoWGxMQ2JTUImAeoF3cQAWERANCAdoYmG/u7m7uLa/vLq+ubi6tbK9uLWbk5B8WU2wgG2pc2NmSkSFfniMgXsAFhEQEg0LPjY1trCvvbq5vbu5vLe3t7Kwt7OxqZuWhlxPlWVXe1BGXz84kYV9koiBABoTEhcPDkM8PLm1tLu4tru6t7m0s7m0s7+6t6KbmZNnWadzZINUSIxsYaKakZKHfgAYEBAZDw5IPz+5tbW5trS4t7W7uLavqql1cHBBNkF9VU2CU0lXNC5SSEaWjYaRh34ALRoZUCwoWUxLuba3tLGxube4p6WlVEtTIxQkIRcpa0ZGbUc4OiIkKyIsfXZ1hXt2AF03NFgyLGhfXsC9vrGusL+9voaChUQ+RSwgLiQdKTAiLV85NSsZJCslLoB7fV1WVwBYMC5MKiRjVVJzamhOQT1eUU1aU1ZUUlgqJisVExQhHiMhFhwaExgODA0nIyU4MzUASCclRCgiTTkyOiskHQ8LIRMOPjg7RURLLSguFhIWSEVJGRcZGRAaFREUIB4fNTAytPuqkqETmfwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Un mec est arrivé, il m'a regardé, je l'ai regardé,\nil m'a dit: Vous êtes travestie ?",
+    "end": 103,
+    "index": 38,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=99s"
+  },
+  "thumbnail": {
+    "hash": "30ff7bf6de",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nCXLS2sTQQDA8YE8NruzMzuz88rOZt1sdjfbxKbbxph0G1oqllbpQXLQ+ECwoBJL6wusKEWtoOQgiFcPgle/h5/EgwcvBb+AFOF//P3B0mhd6Ha5ZNuQ2tCtVTGG7jjVRcgaLvUIcW0sCSW2gy3cCRQwytbu1sb8+ABDUi3bZs2hyO0HYhjKwHVDznqBkPhMIxPFmgNkWNOr61/eP24GzZXBKsaCYp6HehTVVwK5FMhRS2XKZQhjE0mHAIEcjhwAwMP9gz9/T5V3rlIyLveSxTq7lHk7XT2MZCppptyQ0UAwcH27+HA4FZg+urH9dG+ye21ydPyqiFQmWM/na0m935QtQSNOfUIkoeD5i/vTK+N3H1///DH//ubO55Mnv05/79+7GUOz58tBpBa08AgRhCnCoGGDTito++r23q3Z4ezb10+zyeb87dHLZw/6Hi0SnXpcYEcSJghHplOrQLDZbZzcHS/Hfqx1nqSLaXtrbXXj4vlOQ7kWgjVEIOGE2yaulqyzIQ/lIPYSLVKf57FezsKivzDM2xe6YdMTZgUqyh2bGGXrf/8AkFFGewPXf3EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/38.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Elle est brune ? Non.",
+    "end": 78,
+    "index": 35,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=76s"
+  },
+  "thumbnail": {
+    "hash": "0652e33753",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXBW2/SUAAA4P6TyQTnbW5CiGxeSld6o3cOO6W0peV2sJQihZW1TGoYMDJ99JIsmUYTH3yaxuij/83vw3ZTW/n7d54+zPhQsiuyWiJ9IBfSqfNj7m2tHAChX6/GhvymVWkrlMUT2P7O9v7ObTK/9246GDqWxjFIoPn847+b2b/15Mu4izSQdOzER47E2iyJ7aZTd29tqUf418vFh2WS9NHHlnZmVn+t42+j1tWgMfe6c9RYT3yvVjHZI6x6mMVz2Z4izt3ORfhK58gfs+HvzexmeXo17ESa7BnwxNY3YeBbuqVK2AyU6sXDqKGfj9zLKOipyvUEfX89/LOKfibjpqDE3vRiGn5anK18dznysFOF8FUm6dqxixbTeGx0JzQRiMT7l2bIU+QBXivDEFrrYDSGqsEQWI88aNL4AIAAGEitOaqOaNEiSCqXk5/hTonrs+UBJQyrxtiscziBqYUsndtrc0x4bOlkGb7ATR70JdBk+SrFRDUrqkBHBHVRc5uIx4tY/l7mwXbqUSZdfFJgCBZQLKTENq/6grQandx8voasBAUgPy9WaNmThP9GaJqOaXm/HgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/35.png",
+    "width": 1920
+  }
+}

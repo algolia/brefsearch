@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Quand je joue avec mes transformers, on me demande si je suis un collectionneur.",
+    "end": 29,
+    "index": 10,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=27s"
+  },
+  "thumbnail": {
+    "hash": "9be8362a96",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXBWXOaQAAAYKbNqAvLLnItuCAop4oIIkmBxMTQ2By1zphDHzqNU3s9tOlT3/oL+qv7fUyv2yWSpCKedgzTHzlhFE9Szw/tnlvF0ToZzkwdtjjQ4IQmjxosczsJ0y5VEZZEwiEJQcGxrCgIJoPgz7r+t7s+nM4EDsMW10GS0OSZ1dj/dZatxr7EQUeW2k0WAxh4/sD3t3l0qNJdmcW2jbEkAoiaPFNYdB35sa5NDboaOhFR2oDlgDAwzK/z2Y959vvmYpMlSKENgMFrlrlPhk9ZNNR0AkUZYgkKsMHWhNyb+jJwDmWyK6ebPLkyaKYSAhBzYtJIUwWk8rwmIqVvBWXHeHHMpU5y20ypXnq9T/N8Y+iPmnqsKEwH46NXALDyRZy+8fxR331H1BVRrrv0bOCWjv1QpN/eVtu+VcvSFVEZJMqGQp9P888nSeV6H/Nkn0a1It/Y5n5ZPS+rL3fn+8vig2UU7XaOMeNS4/uieFnkT5PwZ139fb+4c3ujFlfoZHt+fJuP19X0cT6b6yTkYAT5/38nRBPrqKuyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/10.png",
+    "width": 1920
+  }
+}

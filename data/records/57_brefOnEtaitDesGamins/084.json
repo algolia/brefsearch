@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Attends, c'est pas ce que je voulais dire.",
+    "end": 87,
+    "index": 32,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=84s"
+  },
+  "thumbnail": {
+    "hash": "1ceadd4bb0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbElEQVR4nF2P3U9BcRyHXVinlzUX3bS6sCZiahHWLM4w4Wgx5KhNkuFw3n7n9+KIicWEtGh1Uf9tQ2vV9lx+n8+zr4YQ2GioSTblMpsCFlMkFCyWbzOZFE17gkG/IJQB4AHgERIREjGWNITAZlNlzs+OjLuBfYvP53U5bEsUtb5Mbayt2m0Hc0HAWFqgwXhWSF0k3GbjqdNuNRkoitJvbV6HTwqM93DPwFWK820ZY5kQeVYgBEJFrIb9Fdpt3dFTSxTjcQ5BHrJMPEjzAofgjwC+BQQlkM2QWMRhMq5otVchzzMpQTYaD/kEkUNIJAQsmAkYKwjJgC+T3GU6FtXpdMVEqFlIJvzHhUJOUQRFEWo1ZYFmfg0QlpVqCeSzd1hq3asdxIlsJB1nqkJZlqsQiv8FCGVVhYNhbzzuf3y+Dtpqg7vpttWHbqteR38KswcQAEDs9drTyXA86k7fXyaw9ObcHiHu8anfaTd+C18oPqMAa1qJFgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/32.png",
+    "width": 1920
+  }
+}

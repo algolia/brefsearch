@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Je me suis promis que jamais je boirais si je devenais un humain.",
+    "end": 49,
+    "index": 26,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=47s"
+  },
+  "thumbnail": {
+    "hash": "b08c9633fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nAXB23KTQAAAUP5CCfdNWALhFmCBZYHlUghESZoaemG0JZ060ye1Uz/Bd/1kz2HQgt1+YJEo+7yIWA5zPOG5TBJSkb+CarfZVBASABJZCgXB5zgmXIjeR8FjeSwvG03vofZJW+8h7NfatWOdXOc2jg9BmMoAS0okKkxrR4miF0u9N8yT495H8UzpM81fmubX6frP98tTUd0g0q6tVFETBTI7M2mNcLDRFy8cfTT66C4IHwl5zIr38fbf+9tL006EHlxUQisFOtNayWcvvwnyEaVTRC5lfSnrr5hcinouqjkv54w+RPi4Da/0bb4ymdZOum1+COgZZTOtv5H8tev/vv34fR4nnF2KeorTcxDubZQBk4A10zlp52Y7lwxeMkbZROhdgH4eh9dud/aDe4yPjtcbdqmaWFJDQWI6N+3ctLHjxgh6yx9c/2C7nW7sLWvYGI2qUmVJgZotYSTKGCyZYu1XRlAbfqW7JTRzADNZyQEoIcxXK6ppWBQxz8e8gNhFsOD+A1keYHy/JEppAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/26.png",
+    "width": 1920
+  }
+}

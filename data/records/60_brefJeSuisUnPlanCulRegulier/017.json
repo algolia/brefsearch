@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Vachement bien.",
+    "end": 18,
+    "index": 5,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=17s"
+  },
+  "thumbnail": {
+    "hash": "5be44b9d34",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGpqbmJfXl1XVVtXVlNKSk4uJFpPVG9pe4KAjoqIiIaIkXJucoaGj2RlaU9JREU6NAB4eH1uaWllX11iXlxgVlZIKh5eUlh4dIeIh5VgXVVRVVd3eHl3e3yYnKxjXmAsHhoAgYGGb2prY15eX1paP0BUHx4yIyZDUFBtjI2ejZSgjJGeaWVeZWNrZ2eAbWhqTktLAIOCiGlkZmJdXUVHVxUfTB8nQhQdQxkhTnx+k5meq4+UoXdzeI6Pj4WFgXV3g2BfYwCDgohkX19dWVg5N0suLDg6O0IYIEMzKDF0bXeWnayTmaqZobOVm6GXm52Yk5OQhHgAf3+GY11fV1FSKiInGhUSFBAXBQUQNiYbeHJ7mJukkYmGkYiClpCPkod/d1Y4cVI2AHd3fllVVkdDRjkzLhkbKygsPXBwcpWTk56SiJFzWo1nR4xoSYpqTn5bPGY9Ik0tGABubnVbWFlXVFZqZmeEf36kmY2jkHucgmSVc1CQakyPa1OScVeObU+EYUxsRzNjQSsAfHt8iomGlpWUopuWlXNYj2hGj2hDj2dEiF9CfE84dEk1aD8rcUYsh2hZcldKVzYn/niqYCf8VKoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/05.png",
+    "width": 1920
+  }
+}

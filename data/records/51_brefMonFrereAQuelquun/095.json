@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "C'est cool que tu sois là.",
+    "end": 96,
+    "index": 41,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=95s"
+  },
+  "thumbnail": {
+    "hash": "c1285fcd83",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJuUlSUKDSYNEjMdGoFjWXJQRlQ3LSAXFQ8KCko0KGNOQ15MRlQ2MSMRDyASEFw+NACmnp4sDRItEBUmEhNvVE6GWkyaallwT0QAAAE6LShnUUZsVU2RaF9ZNCtWNSx0UkUAtK2tNhIYNBQaGAcJYEZBmWxdkmRTpnlnRyskUj43XkpAf2ZfdUxFckI2dEg8elJHAL24tzsVHDcWHBECBV9FQZprXq11YrF/a39URltHP1lFPHVfWkssKUQiHGlANWdBNgDBvbw6FBwqCxAPAgQ7JyZjPTZ0Sz12UUNeRDtYSEBNPzlYSUZmQT1PKCFZNytUNCoAwLy8SScuVztCTDpASTI1WTszMh8abUo+l25eRjs4NzEzemprZkhDPiEaMh4ZMh0YAMvIyFtDSUgtMjkkKDAXGGg9M2I7MnxPQoRVT1AxNkw8P1tMTzMkIgsHBw0JCRgNDQBYTlMzHiMqFBozGyA/IipeNjNgODVLKjFRLDVaMjgzISQaExMxKC8oICYLBwgRCg0AKhkdGA0PJxccQCQrPyIpPCEnQSQsRicvTys0PyYsGhUXGxccIh4qKB0kGRYfHRUbcC5tDx/urkAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/41.png",
+    "width": 1920
+  }
+}

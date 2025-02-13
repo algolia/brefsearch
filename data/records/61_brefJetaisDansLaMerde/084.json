@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Elle a une maladie de la mémoire, je n'ai pas envie d'en parler.",
+    "end": 86,
+    "index": 35,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=84s"
+  },
+  "thumbnail": {
+    "hash": "178c9ab3bb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB226aYAAAYB5gqctm06zZ5ipiiXWbw0jUOg8h1dqprFjqz1GqoHiAolJODjVS3RJ309s97b4PEu+p6Onp2ceziTq0ZrprzqbKA9+mxoAeiYIq9yWO71AUIJv1cjGNpSEB0PCHSAJNzg19+8verb1Rv/sdw2uX5YPr7H1/9/fFtJd0o9G4rpVKBCQJ7FXtpl5vmoa+X7mH/abTaoZD4SSMvjiLfxtXMyx5ZFSJ6hVRrd+QkPM0D563u10Q+N7Gt/9MhmX4/CeeIXNZ/Y40GFpgeI7h1eFY4LvNBgmZhuZZ8/XSeTLnwaNGxVAkEgtE1gLtrSJaHPCX6+f9wTRd0/KmmgENBqqmzVzX1xe2fXv74+1J9kvaBHcElgLFfBfHR/3Bevtb1xeyPFKUMTTVF7a3ctyVyIDWda2FJgqhsIoglaPXX4/eZNCLQjYPaKbbVXhOAh0eEsW+MpjQbbqA46Vc/jKfL36Ch69C4+MTJBrP4dlMCqsUK/qjKUoKywgQTbMsJxGlcgKJf0t+jkdjFwgqHb+7fx+B44lcCkuiCRQ5f+jJvNDrceA/yeWPPasDEIoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/35.png",
+    "width": 1920
+  }
+}

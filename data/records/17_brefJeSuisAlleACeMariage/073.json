@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Je suis sorti, je suis tombé sur le marié, je me suis dit\nqu'elle ne perdait pas de temps. Il m'a dit: Ça va ?",
+    "end": 78,
+    "index": 29,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=73s"
+  },
+  "thumbnail": {
+    "hash": "b62f7b1a69",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AISCgYyKiZGOjZOPjpSOjZKKiK+nrcG3sraklquQfYlyZqmhpb22u7Wst4NxbFpGOwCUk5Wcm5ycmpmYlJKVjYqQh4OqoJy9rqOynYxBMysIAABJKR+rmpa6sLCJdWxmUUYAnp2goaCin52dmpWUlIyJjYN/pZWMuKOSqJF+Mx4ZLhUQQRoOjXVru6+piXJmbVVKAKGgpKCeoZ2ampqVlJaOi4+FgqOQg7uhi5qAbl88MlUtIk8nGpmDerWnnYduYm5VSgChnqKenZ6dmpqalJSWjouSh4SahnyBbGZcTFBUMyswFg5YPja0oZavm5CEal5tVEkAn5ydnpydm5iYmZOTlY2KkoeFZ1tmQjU+QDU8LBocKBgWMCIifGlhsZqNgGZZa1NIAJ2ZnJyXlpuWlpeRkJSLh4F3ek5CTkk7QUU2OiwiKCUZHjopKUMzMaKKfn5jVmdNQwBuYmSRiIWZlJOTjIqQiIR0aXE/MjpCNj1MPkQyJisnGx87LCsuICCFbWN6XlFeRTkATkFAhXt2jYaEioN/i4F/ZlpnMSQoPjM7STtCJxsjHhQXMiQjHxQVYUtEbVJETzkvvyy9LUdRw7wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/29.png",
+    "width": 1920
+  }
+}

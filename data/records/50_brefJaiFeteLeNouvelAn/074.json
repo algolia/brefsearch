@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "J'étais dans le métro, ma copine m'a appelé.",
+    "end": 76,
+    "index": 30,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=74s"
+  },
+  "thumbnail": {
+    "hash": "559aa1f598",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJmwt6e9w7HHzpSuu3GLmltqdE1UWkdKTlRKR15CNlk8MFg+M0UxKBMPDgkJCRIREQChv8urydav0uGhx9qFo7dldoJTW2NOUFVXR0FMMihQNixXOi8rHBgQDQwJCQkICAgAu9rgyuru1Pf5z/j/lLnNZnmIVV9oT1FWV0E6NyIbPCchXD4yPCghEg0MHhQRDQsJAMTl6tX3+Nj9/7/s+oyzymR4iFRhbFhLSmE+M1Y4LFw+MmNFNkAsJD0nIFIvJBQODACeyNqn0uai0umTw92AqMFfdohTYGxMQ0VGKCBZOSxfPzFWOS5CLSVcOi84Ih0AAgUAfaW5gqvBg6zFf6e+eJqvXHOFUF1pT0pNSCokSi8kUDUqRzAnOigiUDctFxMTAAEFAG+RpHOYrHWcsnOXrHKSp191h1NgbFFOUUoxKTslHjIiHCseGjUkIFI6MRcUFQMFCQBggpVlh5tqkaVojKJoh51fd4lQXGk2OkEVFxoVEhMcFBIgFhU1JCA7KyULCg0ICg0AWHiKWXuNXoSZWHiOW3WKPlFfEBcdAwcLAwYKCAoPIxgVLR4bMCEdFA8QAwUIBAUIeYaXDAbR3MQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/30.png",
+    "width": 1920
+  }
+}

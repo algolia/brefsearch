@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je sais pas pourquoi, je me suis mis à courir.",
+    "end": 17,
+    "index": 6,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=14s"
+  },
+  "thumbnail": {
+    "hash": "1557525e66",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nCXLW2/SUAAA4JNso5dzTi+np6W30EKhrZw5ri7DjQHRTkgGZtTWzV0kUaeJJMoWI2/zRbOX6V82xu/9A4e14iiy6ibZcSgz1QlzT1qlfs1hth4Q9LJZunmdrM4mF0nvPOkNmQ+eRfZe2WQW3as4j206iEqj0Dl/Up+1Y1+BWbd8t5jevUuvp4P302HSCMAotJquziyt61stV+94dmxoi91HHc/2VZx3yj8/nNwvz75kyXL+/LgbgX5gbltaXCRNV48MIgsI87hm6BTJFU191fF+fZw/fL349mayyl/Mewx0S3rd0mKDNGzdUWSBg1jAfAGqohRQLW1795/S36ur9eXx7ek4O9gBdZPEhhpSlZmajjFXgJBDkighHlV1+j/8uV2sr2arfJz1m8AnUpXKVaqEhqqISOARX4CIR6oolSmdMGed7j/cLNaXs2Wa5IdtYEnII1JAFZ/IkIci9y/wHEQCMrCyXyl+z4c/rrPPafJ2fHDUCoGrYEfBroxMjLgtgSuIG5vCxqbAbYmIh4Em50+3Twet6S47akcNV/sLX1NLZcNSAXgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/06.png",
+    "width": 1920
+  }
+}

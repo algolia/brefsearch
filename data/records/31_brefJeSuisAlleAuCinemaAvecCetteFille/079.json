@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "J'ai dit oui, j'habitais à l'opposé.",
+    "end": 80,
+    "index": 36,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=79s"
+  },
+  "thumbnail": {
+    "hash": "73563f8bf6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE5FSxMQCx0WExsSDlk1Go5mU5JfUZZYRXBBLhkMCDo1LPfz1lVKPQUJDWyUnE1dXQAkHB4eFQ8eFxEuGAeRTR+MZleEV0liOy95RjJCJhpEKiHgxKtLPzMHDQ2Kh4Y9PD4AIBQQIRIHIxIGGA4FJBYMTjUrb0M0VDQqi1Q9aT0qajYn47ydV049BgoIkIV6OTc3ACIVCx0OBSkUBi0WBTUeDXJPPpBSQpxfTZ9eSXA9KIpjT//wy1JINwgKB7OpmVBLSAAcEQcmFAY5HQdLJgdMLRZuTTxaNSptPjCMUz9fMB+ljnjdwqcnHxgNDQmqmYlMRTwAFw0DJBIGORsHTycHNx4GNycaUDIuYTYsZz4tRykbZEY7sYN1PSgfBQgDs6WQTkg8ABcMBCEQBSoUAjEaBTQoJCglLjgpJFAxJzEeFTYiF1kyJTElKC4lJxcWFVpHOyolHQAlFQYuGwYzJRcmJTFBRVkcIDAmHR0uJB4cFAxcOCpoPi4jHCAyKTAfGCIvKC4nJCEAJxYHKB0SLCk5OjhMLi4/FxYjGxUeYkdCY0M1eUo6VjcsExEYJh4kQDY9NCo3JB0niXBkmO1d8hAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/36.png",
+    "width": 1920
+  }
+}

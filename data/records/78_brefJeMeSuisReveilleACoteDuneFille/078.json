@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "J'ai marché sur un truc, c'était une capote.",
+    "end": 80,
+    "index": 30,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=78s"
+  },
+  "thumbnail": {
+    "hash": "cb22f52a59",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXB2W/ScAAA4F/isy9YXBCQFhWcpfSk9ATKsQI9oC1SSFvdJpDBwInA8J5HAok+kSwmPhhNdNm/ue8DkmIWK1a55tBkjiI5ihYxnKupTr3pqs2e1j5uu2eOf645M0qwnlBVUKl3Vd3TWs/zVJ5IwEgkGoP2qkpDrZhNre8Gi2BwcTjdesMvRfWQ4HQgCVWzM7TdsUTn6cgdJpmkYYR9vK9JJZHM94Ll8Oz76fnlZHWpdeZ8uQcIQjTax11/LjI8uQcRYSibgFmSq+Z4EUV1zR8vdy/f/Vp8/msHn1RrCkxn0OlNu/5cZjgUCmdCISKBlBRDofNyBpNYZbzcvf74e7256o82Zn8NDPuF454+9V7JNIeFIQIKUdFYQ/cOCjURzbL7xGC6XX3993Z7HYx/mN57UDeCVmdkuTMSF7F4AotEcfhhXfdZnM0iqbu3w5p18mZ7vd5ctfwPfO0IKAduwzwy7JM0JiPpXDKVS6FCSWkJOIfeTwFwi5Wd1bf/84s/mrtkii6Qy1al3q9pzx6k2XgSjycJ+BFTKNs8XcjEkEjoXsOejBa7yeqnas1wwb4BBup63qLsSUkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/30.png",
+    "width": 1920
+  }
+}

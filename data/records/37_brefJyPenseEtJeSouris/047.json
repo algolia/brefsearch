@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "à la campagne avec mon frère et moi.",
+    "end": 48,
+    "index": 15,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=47s"
+  },
+  "thumbnail": {
+    "hash": "4845bc3ebd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGNcWEE6Nkk+L0g7LUc7MlVIQhYSEiwrLURDRTExMyQkJzQ2OUlHRZuOiGllYYyGgQBlXFlvZWNyaGV2a2l6bGhyZWALBggaExMlIyAUExUZFhknJicsJSZaSUiCg36YlpAAGBgULyslLikmTEY6SkU4HBkXDg8MRERBa2hnb2tiTU1AKCkgDw0KLhEOQh8UTCEbAFFKPFZMQDs0MXdrVZaIb0U8NzE2KWJtT3+Nn5SjsXuCXmFrT0M+LWgxJ4Q6Jow4JABWSj1eTEBGNTFRSEBjVElKODMgIhkyPScjPWoYNHRLUTxSX0VZTTiLTjWhd1eUb1MAOzEtalVAm3pemop6X05CYEpAJigTFytrECNjFSg0N0c4S1U7d2tVkltJk2tTnHVYADkwK1FBNGxZR2RWSUw/NlNDOyYrGC85OR8rNiQ0Oic1HzpEKWFYRnZVTXI8MZBoTgBCNjBLPzhCNjE7MS1nWEtNPzoaIRAnNBErOBgxPSIuOB0nMxstJx12UkhtNCp3UkQADAoKFhESHxoZJiEdMCokGhYVBQYDDhIIGRsNICMQFRgLCQwHBgYFIRkWHBMRLyUjx4NtVMr6U38AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/15.png",
+    "width": 1920
+  }
+}

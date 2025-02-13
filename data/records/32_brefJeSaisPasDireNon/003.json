@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "J'ai dit: Non. Elle m'a dit: C'est gratuit ?",
+    "end": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=3s"
+  },
+  "thumbnail": {
+    "hash": "5850606f3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AImIjbKxrLq5uLO7nI9uSX0xLXdIOqCbgaapkKmpi4mHcTYnI0ovKTgfG1FNRXZzbABuYF2Sh3CWhWuglnmDb1SUbVeLX0+Tioywt73IztV9dnodDxAqHh4bDA1QSEKPh3IAkYJ8lopyn456m4tbn6hVsIVsnnFirq+uur/CxMfInI6FYz41IBIWBAAEbFpOnYFeAKWbk6yrobS7vMTAxsDDxHZiZXZgYsbCucO/t8DAtKmgko1fUGRFO0AmHot1ZbGljwCXiXuXjoOYlZHHu7XEwcomGzFbTlnKw8W6tZfFwZm/uph4Y021mHu6ooaLcFtTSkoAhXJjb2Ffb2FpopeW0srJpJ+jqaKoxL7AqKOKu7qhua2TjYWCTUNEMSktGRAUEggLAJ+YkpWRlpOUo5iGf7ORiNva3c7Iy7mrqp6TcKuoe3FmUyofJhwSFR4UFhwUFhUPEQCemZOtp6ial6KVh5mmeWqymZS4o56sko6bhV52b0UaEhQWDhIWDxESDA8SDA4PCgwAg3JojoxvgXx0nZaPloJ+oZCSwMDErZufkHZvVlVRFg4RGRIUFxASCQUJBQQFBgQFRL7HosLTmM4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/01.png",
+    "width": 1920
+  }
+}

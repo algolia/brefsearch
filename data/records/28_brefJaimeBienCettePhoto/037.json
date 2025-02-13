@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Ben avait beau dire qu'il les avait posés sur cette table, elle faisait la gueule.",
+    "end": 40,
+    "index": 14,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=37s"
+  },
+  "thumbnail": {
+    "hash": "e1386b1879",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHViZ3tobIZzdYp2eaKMi823rrujmUMyLTUfFGhFNXBLQjomIh0TEx4TE4x4cL6pnwCCb3SKdXiQe32SfH+fiIjTu7KPeG8mFA6dbE/amXqndGtiQTskGBUVDA1cSULRuasAiXR2i3Z3kHt8knt9pY6Mv6OWUjswYD4uo3JZpnNfUjg4UjYyJxkWGxISRTIrzbOhAIdydIp1dZF7e5B6e6+XkoNlVjsiFdOSbalvWm5GQ3hUT00yLyQYFiEWFjUkHbeeiwCEb2+Jc3OQeHeNdne2m5B1V0RSMSDmm3GiZlV6TlCcaGRnQT8gFBMaERImFxWmjHgAgGxriHFvinRxjHVxj3JkUzYkWTkmw31bg0xFgFVTh1pZXzw8HRISHRQTLh4akGVVAINuaYNtaIZwaYx1bGRJOkMpGjYkG75/XKBnXnpST3pRTUcuLSYXFSUYFiAUEl0+MQB/a2F+aF6EbWOFa2BrTTlUNSEjFhFXOimVYEhaNzE/JyUeExIiFRIpGhYiFhRFLCMAZFBHcl1SemJWh25fooNrZkcxLhsVUjkuxotbhlxMSC0mSzAeMyAZHRISFQ0NRSghk0OYzq3+WjEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/14.png",
+    "width": 1920
+  }
+}

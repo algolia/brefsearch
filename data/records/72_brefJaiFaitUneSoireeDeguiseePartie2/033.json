@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Einstein qui vomissait à la vitesse de la lumière\net des gens déguisés n'importe comment.",
+    "end": 36,
+    "index": 15,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=33s"
+  },
+  "thumbnail": {
+    "hash": "7eeb40aab4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nE3N30/aQADA8YbSg/646/Xa3pUitBTKpJQiP5ZuA0cVNGJBsDOYTaImLktMjDG+LVuyl73sv14yXpZ8Xz/5clhUiIwGbmNUc75nn39k26fT9CXdvKbrP9vVr7uLp/PJ/fTofas79INlPOaAUDQh7lp7Par/3my/TddDy1y88bKm+3I2X/f6gckspKmSLApFj5Y5C6KIlRLHiQzyc5nNWoOQ4LvhwadO++v8arLfLamEqpqOMFEQhjrHZCW27eMgSjvRyneOK9ahzVK//np1+7DY7qnEQNhAmEBVhyrBNlfVzYDS2PWW1cpJmY4r5T41Thv+43k23h9QqBoq0RSsiFAqyJIIuYvR5Ppo9qFUakJoShJT9VHN+xLH68HbHsFIVGQJFYGY50GeB0AocveLy+fNdd+plTWiIw3kC2fN1io6mLbDiLF8TsjlBP5fO8PdnMxup0m7Up1H9cR3BR4EBg0pO2w0P7ZCqSAJPNiBXVzSDtNuJ/a8d66Z1G0ZyAZEDGJXJxbEsCCLQPx/8hfiIz2B4XdUPwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/15.png",
+    "width": 1920
+  }
+}

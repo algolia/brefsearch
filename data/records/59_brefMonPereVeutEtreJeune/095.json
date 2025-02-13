@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Alors arrête de me juger.",
+    "end": 97,
+    "index": 44,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=95s"
+  },
+  "thumbnail": {
+    "hash": "3e5f7601c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nB3LW2/SUAAA4Oq59kpPyymnF7qttB2zUoYNDKyMdgpWiTKRrAu4xMRE9+L/fzXxe/+kNFvGyZtz4e3r9dN292P7/eNN6XY93/GGF4NXg6TPe9ywmG4zg+uaJeVF83pYZP3g55fdfdW0m93m5l1fRMLuDYIwCc8ng6SezE3F6GjM0LtSki3v5h+OdfW8P/w5HH/ft++LRdS/dO2ew+wLz6/zvK2bMy50Rf8fhovrbNauyr+Pp+fD8fHuc5ldx2Hqc6EQRTC7Huen9fZ2MnNMbuq2FKfT0dX022L69Kn5tW9Pm69ZGHEmbINhRBRMiyR5WDfjyzG3PMt0JVdEoRs9VKvDctnM5uVoYmqdbqdrKhqBCCISeyL1z0zDtS2fMU9SiEqR+jYbtauqykZM0SAghqx2qAykF1USbIqMGdwyRUfnmmZJMlIoVgVzbq+yMkkDy0GAYogIgBTgnqqrWMaQYkwxoghSCQMiY1mlWh6E8yhOuUsAQQBigDAg4CWGkCBIMZIxUhCU/wHG7DkdrASrFwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/44.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Putain, il faut que je me mette au sport.",
+    "end": 13,
+    "index": 4,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=12s"
+  },
+  "thumbnail": {
+    "hash": "a2fff69f41",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nBXL226bMAAAUB6adgvhZsBgG4xtCLcATQi5rBldSS9EaVo2qZWi7aHSvmSfPvW8HynjQRmJ8+vpPJzapj60N8Nj9/FyOGzrrilv53mTJzHjHoRVmiUilGacLZLp+fX519N9t26OP74PD3f//v7Zl3nXlE/r60UcQWA2ZXmzrPNQSFUkVrP093B6P/Z3q7rfbess6ZtFiDAn5H5ZMeRSTBLOU84i3/sMyzQ+vzx/vP1s6+vdvIoDynxGXCSPZeo4HKM6z9umuV01dZZ9hnkcDQ/792O/KbJNmWPbNlSgqzqxLaAoIcFFFBLbxpZt60AqBCsEO+27/bdt6pMqEtAAyldFUzSOnNB1Ckan1N9UxaYskoBJaRDkjPbtbl3OqAUCB9q6Mb4aT8YTbJmOYQjkUtedUhp6nsBYCn0vDYKM0YhgbOgJ4wGhX65kQzWQCYCqEcvkBKvyZHRxOboYSQy5AmMKIXWgqSrE9aGFgIlsYEFNU2XFBQZQNWRBbDsQmP8BKSk/kyHQD3wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/04.png",
+    "width": 1920
+  }
+}

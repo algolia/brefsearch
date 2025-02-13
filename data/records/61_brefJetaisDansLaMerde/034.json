@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Plus tard, je lui ai demandé pourquoi il l'avait envoyée chez moi.",
+    "end": 36,
+    "index": 13,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=34s"
+  },
+  "thumbnail": {
+    "hash": "07d70a86c8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGOwUZMzlBJQF+FX4mFuqa3Oyc3XV5TLCfIqDPIqCPYujvDPCw8wVlOWFhXxcndLSEhgsFOTNZUW0BLlV+VhntDeWllda66h4mps4G9hkuXj7GKgmxkaaG+oKyEsHBQQkJySwuCiKWsuI2AgLqDJxzqxo62mqibSwTrD2z3exb4kKsTPwrwwKjzez0tBQjwhLj4zM5PBVUPWQkbAQEJQW4CtvbZ64aJl9TkZJSHeZeH+vaUF1TEhnXnpVUmxXvZ2hUXFWVlZDE5qUhbS/Pri/NoCbI3lxavWb5nY1Z3h6xrnZJ3h71kVH96QmRTr55OfW1BaWgaywUFZ3FCcV1OYR5OfpaGkcMGSlfPnLUoP8okwMwozMS6ODatMTyrMK6yorM7Nzc3IyGCwUxLXF+XWFuVT52WuL85fvHzN8uVr0gJ9El1sMnzcssL8Wwpy2lvbS0vKs7Oyk5OTGSwURLWFufQlBLUF2fOS4ipqmgtz8jKDfINsLYPsLFL9PdoLMpuK83NzC1NSUqOjoxlMpAU1hbh0xfl1hTnNtNSs7ZyDfP1T/LziPVxj3Z3SA7yK4yOiA3xDQiITElIiIiMBsFmF0OksJAYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/13.png",
+    "width": 1920
+  }
+}

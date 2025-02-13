@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "J'ai dit: Sophie, comment ?",
+    "end": 55,
+    "index": 24,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=53s"
+  },
+  "thumbnail": {
+    "hash": "4df6a2b17a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADo1M0M7OmpfYFlTUYB3dZGHgnVYR2M8J3tdS21WLZWIgaGYm5R/dIFUNX1jVXlsaQBhX2JIQEBPPj1YTUytoJyNdmleNyF5SzWBXkxvXDGXjYeonZ+kmZujmp6fl5uRh4gAgX+EcmxrfXR0iICChnVwlmpTnWlPnn1zk4eFVzweW0JEl4uOqZ6gppudpJibnZGUAKijq7Cqsr22vbGpsTYrJkMuIYBWQqJvXpGBfnVlYn5oZZqOj6qgpKecn6WanaGUmACsqbGuqbGwqrSlmZefjX5lXFVvYl6eaFWWg36glpOnmpmilpigkY+jl5ilmJqfkJIAr662rKm0raKkvqiT08Cv1b+uybapp4R1kmdWjnt2moKBn5WVlnZhn4FwnI6On46NAICBiZqXoJ+Gc7OZgr+pmcCrmsWunLieiplsVYFfUohxbItwYX9ZQ4JdRYxvYJOBfABkXVebkYq6qpvNvrLJt6nDrp3Erp3HsqHCqZW4m4SSZ1JbOCxlMSdiNCeAUzuKX0YAs6WWxbap0ce91czC08i+0MK2zLqsybWlybSkuZqAsYlsdko7ZT4vakUzhksvfEwyMXvf1VnJDREAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/24.png",
+    "width": 1920
+  }
+}

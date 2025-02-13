@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "En arrivant, j'ai vu qu'ils faisaient des promotions sur les pains à hamburger.",
+    "end": 8,
+    "index": 3,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=5s"
+  },
+  "thumbnail": {
+    "hash": "bee82be961",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nAXBy0/TYAAA8N5ZvHgQTybGRwLRqJlMolzcmBvDrQXauUeftGX91tK1X9fnV/YqVisZSCRwIF4MxOlFYmIMB2JIPHjgf/L3wyiCI5brqtIzO0Pb2nbst76XBF4SBGOuTlaJsgpCpckoLADKgMhSWOnVao3k6YZSzJWIMsXRG0oLbmper7e/zpB0De/CEV9Mg2rZgkk2jWMMq/Fsm2HVezdvPLl/59HMLL6Mr7MiNIcUsdior9iwLxYemFwVBR8XMxXM39pvKY5lRXvIPxnHntoWOFESJMeJK4V8Yf65oSNHpkOzG6Jdq9PHwtHBBvCRZl1Mvlz9vfy2twMkoLZhR0eisNniVV1zHe89Cj4g753bjbFBciwD3wHwJB5enn0/CuwGXmGanMgrPCOrCtQANPTAtUeuFUGth6HoiOENiawd+8bv08+7JjDoJa1ZkKkSt7LE4TmRKrcEUaTqzOuqxOoYJzqZTHb1ZQ5KahQfIj8+2Bkl24N+GHV1KDdq0htCJov4wtP03dm5h/PY7Vsz11LX889erOXXRMH1YHQ6+fXz4urs/N/XH38+HU620Nhs+wuP56anpqZTqf93xLHkwC88wQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/03.png",
+    "width": 1920
+  }
+}

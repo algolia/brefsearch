@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Du coup, il a débarqué chez moi. Ça, c'est moi et ça, c'est mes couilles.",
+    "end": 84,
+    "index": 37,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=82s"
+  },
+  "thumbnail": {
+    "hash": "6163f6670b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAgDAQcCAQgDAR8YEy0lITMrJ4F6dXRtaU8zKVtEPHVycHp0c0RAP0ZERU9NTURCQgAHAgEGAQELBAIpIBoyKCU4LiqRioRWSkRcNSliPjB0bWmPiodMRkBKSEhWVFVGRUYACAMCCQQCFg0GLyYhNi0pOzEumJGKZldSVzAlhFhIkoWAlZCMVUpAUktIZl1aVU1LAAUAABAHAicaEzMsJzgvKzwyL6KblWpgWjoaD31fU5iUkZOOjFxQR05FQFtRTEk/OQAuHBYnFg4mHRUyKyY6MS1ANzNlWVNGODJFLiOIZFWZhHaTh4FdT0c+NjM/NTYsJSMATkpTQjxCQDo5Pzg1QTYyPzUvSDYtaldPg21ilHxumoJxqY58cVxOOTEuLiYlJB0aAFFQU0dESGpobFdUVjQuLzcuLFA/NXBcU2tSRnxlWpqEdq2Sf493Zj02MjEqKCUeHABGQkNcWVtLSUsiICMmIykmIykvKSpPQDhhST13YleSfXGagW+ahXNPR0RGPj4xKCUAQkBCKCUoEQ4QGxgcJCEmIB0iHh0iGhQUWktCf29mgm5ihGlahGhaNSwnKB8aJhkS1LV10vVaTakAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/37.png",
+    "width": 1920
+  }
+}

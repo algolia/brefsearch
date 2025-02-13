@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "En y réfléchissant, j'ai compris pourquoi j'ai acheté le Energy 3000.",
+    "end": 38,
+    "index": 19,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=34s"
+  },
+  "thumbnail": {
+    "hash": "d7969889df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJiLiaCUi7eppLGloLirpMC7tHFpbIh8fLCutbGts5qXnpqVnqWfpZqRkId4dXlkYACxp6+6s7W9t7u0r7qrpKKUhH05LziHZVmLfW17ZV5pUk97bmSQf2mTgWaMfGdpUT8AkpKrpqe8pqWzzczRsaioiGthcU5JomlWuaKksaSrvKausaGZiXdWiHVXjYd6iHNrAMm/tdbMx8/LzLKMlKBPXY9CSW1FO4lobdjS6NPQ0dfW3sbAwLeql6GQcp6XiaGLggCklou1rqrMwsaERFmpRVS1NUOILjl8OkjHjZjLnZy9n6e8srnNydHV0tLJw7qvmJYAdGlneXFthXl0RTdObiQ6mCMwqy8/kx0pcQkUdRAdcyEwjXqCs6SsxsTP0dfkxsDNAI6FhpiRkKyln2RieBMQLjYYKlIWJmgwPotkbIteYqKOlpuOkrGlnb23saeosLe0xACvpaW4sK/NxsJkYXUIEC8RHzUGEClMUWLe4OLSxb20oZaooaKlm4+XjYySjJmakZ0ApJqdq6Gks6qsPj5WERYwHSI6ChAqS01iz87Wwr/LpY+Lc2NgkoyRop+uoqGyoJiqqDLo/tiuXGQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/19.png",
+    "width": 1920
+  }
+}

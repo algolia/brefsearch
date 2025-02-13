@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "J'ai aussi pris du Energy 3000 pour aucune raison.",
+    "end": 27,
+    "index": 15,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=25s"
+  },
+  "thumbnail": {
+    "hash": "a81b385079",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACIbOxQNLwwHJhYQLBcaMmtISZ59cqeclaGQhnFEOpyHkq+uxK+quKyms4d6e4l9egAcGjohFjsaEzcYEzgXGDZLRVi5saq1t7DGvsWMUkd7SEGtpLXAvtG6tsOhmZubkpQAGh03LyZEHxY8FRM1Hh09KBQsUSEriKp7u7/At4h5qlk8nnlour2/x8TRv7zLuLPEAB4bMy0oQiEWPRYUNRwWOhwVLVoJHYRIRaOFgLGYlLeHZaiSaKmnic3L3MfH3qWlyQAkDyQeIDkcETcWEjMQFjQPEChHAhF2AhR0GCpVUF2AXFeWfXC0sa6ppKqtqra9vdoAMAodGCA2GxU7DBIyBgsqCAomWDI2YyMqVhsmWlNhdGZniG8/s6ign6OUaXMtqqa0ADkHFDAdLzISMDMULjU3UoVpaMCUgpZuaZaNipGQhKGemqWXXLuyqaizkVddF2dhZQBYCBNxEB53DBpyEiNRUGJ+YF2DXVWNc22nn5V4dlenpKO2rZKzqJWQjH1xY0F9dYcAVgoaWQscTwUTQgYSDwcYAAAZIiIpmZWJqKSknZOBn4uHn56mpqGch36DhHRKPzJw1J6pKYdg7V8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/15.png",
+    "width": 1920
+  }
+}

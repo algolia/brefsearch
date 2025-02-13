@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Quand j'ai rouvert les yeux, je me suis retrouvé dans un ascenseur\navec un mec en porte-jarretelles.",
+    "end": 21,
+    "index": 5,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=18s"
+  },
+  "thumbnail": {
+    "hash": "f8f53a4565",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcElEQVR4nCXQTW/aQBSFYW+ieDxz75254w8IxA6QAqlijI2pjR03BRoVRU2rVqXqosoi//9HRCHSszibd3McUESoCQ2BQdAgCSQpD0PiOAgu2JJEQ/7iNpt/GEWBdTQyk2Wy9oSJCUyPg+5mvr/9uIwvwZVKYPOprIosHvYdcwos2VDb0FhfswbKx5Njs/mWF+PehXeupAtttd7eVfPptaPBGGQfOdQcEPuor6L+lzT9Ude7bBmSBQ/dM7nKsq/3TbXKHVLagGFkBsOgQ+J9ujg29bFrD2UZoo3IJxfzdPF02HZ16aDSGgwpjZJAgFamnc5fdp+ft109nV4F0WY8uba9Mi/+/nq8qwrn/RaQqAQoD8S5XCSj//fd9zK/GQ6zJN7PZkM0bV39+/20KXPHE8rzTk5DuDJNRrtlVkwmsR/M+v1VknhnbltVf34+NuvcEa589xYIJYSK2B/4UUDGKpwNBllyia63LorDw0OzXr4C+PYyqwgL8ZgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/05.png",
+    "width": 1920
+  }
+}

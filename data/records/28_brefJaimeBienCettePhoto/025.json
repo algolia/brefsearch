@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Ils avaient passé une demi-heure dans la cuisine à mettre des mots sur le frigo.",
+    "end": 27,
+    "index": 10,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=25s"
+  },
+  "thumbnail": {
+    "hash": "37efbc6f20",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBDVPSYAAA4P2IPu1KMiEIgWPgQIRh58p5ldzt8qPrpLxZcpaed8TMSKTQ1IXkgPHufffl9m444PqPPg/xty7CpoRast7WDAk4XdntacfCdyaVDdx74L87NuUL/N4/As3u2eFxvVIlVPEnRtc2sLBiY+VqqOMhgO9mqbx//GUsNheOTN4Zmw6TmgTRPyD9aRHK7kLfGmGEHYgxuBqY3hHPb+diAseuZDPPp2Lkk8CjW/dr5aoDLfVSIU7oiWtw2jf+O8h2oD2yhqXC0hZN7hcWVlLJ3RdpNhoZv/3wtNpwoKW3EXEQfIy+cZ45cKDpqrYL9MoSs51PbDF5np4RFrO03//M99RoIxuYZlcjzt+Hz1cncOuXC80+VHVR5GfJUj65lkquUuRGdpoJTLIzNFYsG5hWzyBUgTrZW74U3nqKgjsdT9UvKuVSLsHFQ6+iwfV0vBANslR6ZHousm1gEkrjR1OUyl/X+q2aC6Db6w0UxM/n5gO+xbD/U576kEmwkZDwReirjtFBxE6x2KjV+Y2ivPfGg8iRZU8zUEv6uLzOxUMHr3M7TObzXIqMcqXNw+7ZxQ3IhbxkEuaQfAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/10.png",
+    "width": 1920
+  }
+}

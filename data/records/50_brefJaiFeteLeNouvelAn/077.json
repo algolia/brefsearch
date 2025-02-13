@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Chéri, tu es où ? C'est à la soirée de The Nine.",
+    "end": 78,
+    "index": 31,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=77s"
+  },
+  "thumbnail": {
+    "hash": "bed73f72d9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nBXL23KTQAAA0M2yyxIugWwaKLBAIC6QhGugSUyrbVJtg9HxNmON03HGGfvki+/+gV/teN4P8KKSWvHQ4qY+gIJg6frbOjvtrhzLjFnUlss/v59+vrnO2Lk+0PkzDnqaJ2iOZsWESAgJJXMuwsl9lQeWadAzLKmB7X5oK27ZW8492wVQYz3VHQ6oiBFGaOuzNgr2i7ThkWFOBdV0x/Z2vtRUwx/bZeAD2B9D1ZWVEUJIItI29I/57G4+OxTZTbU2J41reRmvAcSGoj3UCYDSCEhUlKmIxZGivOThPpvdxHHB2JI5lwmfeNGhbhPHEWSzK3MAFQdpbKxThUiSSFa+d71I79umnATrmL+uiss876riVZ4dNpvPmxUAWJPkod6XRYwRxiO5n7vnuyo/o9QYaHOPHTfN48OPX5/e//12e9oUoIdVkfQJIRhhABFV5Mamh2o+9RjowW3i77Ppu7vu1B2fdvX3F/X/gCUZYQIFAgURYbKwaFek89AXMS596/F5uk7Cj1cXX5bJ11X6D5QKNviYuc0/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/31.png",
+    "width": 1920
+  }
+}

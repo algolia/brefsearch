@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "name": "Je suis comme tout le monde.",
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM"
+  },
+  "line": {
+    "content": "J'ai déjà démonté une pince à linge.",
+    "end": 14,
+    "index": 4,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=12s"
+  },
+  "thumbnail": {
+    "hash": "5b08082a9b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWNJREFUeJwtyNtu2jAAgGG//+3WXUwIlSoQJ4HEOD7Fp9iJDYEkdCuUrn2aiWnSf/HpB+mqlNiOfnqNb2+n+236c7983S9f7/PnA/Pnbfz4dbiO/nLQR40NENijoilzUZemIR1FFm0lQUaxwP65rv7/IqU7yEBsXzWPDLuG9JpHyQKvvaQPax7p3jW0lyw0tK8rQ1ELWCWjPXvRe9Eb6hSxXgRd22COiljHO8t8NEM0w236uI53oFnXNlGR1vKgWaepN7w3rG9FNKxzTdS0C+Z8cNMYfs/xCsb4jnK8y1iaijTlGRSPsiZJaLp5nM1GQMgh5OmG5JkATg7RTrGdO3VycnBqcPLo1BDaqdM+2FMwobdzb2enJidPoEiwJF5Rvy+oop2sXZniEta79Xaff7NsN+rveC85cevncwU5WPxYLZ6WyRLmSbl4ekFZwlFeJCXK6jypyFYY6owI2RqvV2j5E/4F7U05a7QmiG4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/04.png",
+    "width": 1920
+  }
+}

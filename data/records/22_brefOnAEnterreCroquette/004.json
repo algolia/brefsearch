@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "D'habitude, elle débarque à l'improviste.",
+    "end": 5,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=4s"
+  },
+  "thumbnail": {
+    "hash": "241a05013f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD87OGZgXnFqaHhwbY6JhoN9eZmTj56ZlXdoYn5cTYlqXz40K0A6HVpSO3dwa3JrZwBTTEd9d3VgXVpdWVV6dXF0b2qNhoGZkYuJZVm3iXfJp5ZVRD5FPh1sYT+De3h8dXEAXFFPfHBtX1pWYV5bpZ2XraWdbmVde3JreFxSfFVLnX1tjGhdY04waWM+kYmDh4B8AFBBQkQtKGhaUn54d6CWiKCXhXNtYZGMgoxuZp54bbGKeayFc2RYMmRhO5iQh5CKhQBqZl5VT0pcWVR0b2mXjYGdlIimn5u2sKt4Ylx6T0aidWSBZVJiWS5iXDuOh4SFgH4Ao52aqaKeqKKdr6ijpZ2UfHRsZ2Bbg3txRjsxQywlUz40gWJRY1E0Zlc8Y0xBVUdIAJOOjKCbmKymoqyloGloYV1ZTEE4JzYsHCslGDUkHV9BOmVQPlVHLlNCLFNAJ2RUQQCHgoGQi4qZlJKfmZZNPjojHRpEOCo4LyA0KxxFNihRPS5GPCZNQSo9MyI2LSBIOyYAfHd2gHt6hoGBi4OBWD04VTw4gWNcXU8+SUQ2OjAgRjkkSDsnPTMiNSseLCUaOi4gUuKp8Q/SilYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/01.png",
+    "width": 1920
+  }
+}

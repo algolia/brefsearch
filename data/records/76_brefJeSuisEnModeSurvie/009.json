@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Je mets de l'eau dans les bouteilles de shampoing vide pour les réutiliser.",
+    "end": 11,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=9s"
+  },
+  "thumbnail": {
+    "hash": "f31da11478",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBXW+aUAAAUH5KXTJfnKvSegtygfJxkSugCArClIJaRMG5zrHOpCY1tlubJnNLtjXrw7anPexX7hyCZZg6zVCAKh4clJ4VVMidWf2xM+z3Jgj3BCOCyC2VgdY5Kx8JNG8QvsR6IvREGMhc3jV+5O9+Xd98XSw2bjcPJ5ygvaydms7Ui96Uj/k61yDUo7JWOzRApQ0qk4awG4f75cWnaLQLhiuzZVIAUAJENitqCLUUbBMqqKJatYmQbfcc1w+8QTYIQtx0BFkij4uF5zSUSeoU8hgrOta7hK/IFkOrLD8YJeH5bDBKvCjRLI8TMITyiypD1hhJ7fjRaxJwUsMk2i1r1G4vzY6L9SjOxkk6jhfz5dU4XZOAPQQSxWuVExEZQ0Ex6bpA4I5rWc7dbP6+a8UazvPN9v7b7v4xztbZaitht3IisaLuBqmCbUjRhNqyccdZLT9sg1dX8XT/+Hf/9O/u85PbD6xekL69ttyRPwhtPxEkTJZLhKgauu1dXN7ezuZfvv/5uP998/AzX+8c255Pk8vNQ5yuw0mGmi7kUbFQ+A/iEI5+HOL1+wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/03.png",
+    "width": 1920
+  }
+}

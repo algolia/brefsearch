@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "On avait une fiche qui résumait le client.",
+    "end": 21,
+    "index": 12,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=20s"
+  },
+  "thumbnail": {
+    "hash": "4e2ca63f1e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBW0/aUAAA4POABoRwKfTKgXKg5SqUCRRLL5QWqLJ2vdBIJogIUcckblmyLNnT3va4v7zvAz39VhpplqoGtjs3ZovgXhpbsNpZr7a/Tz8+OXea5b9+/+XdbZ5eTuvDEfBXqqQYtjkNHM9zw/vDV3Xm8J3h2+Pzvz9/b2auqC/2p59TO3RX2/DhANJ0ua87U3fjfH5211+89dHfvX9c7r7tXt73x6Wz8uZB+PA2Dx4n9kqxAnB2gQmabfpP0+Xe8HeTYD+bhSYvbO3l6+agK5ZZvLQ6CgGrRLEhyLcAy/PNgSEa/tD0RMMbzkOlNx7UrszJQpPGbYbTqMqYbRXyNbxQ/6AuQIbhyVILY7gUgdJ0BfLdpmggQaZQiyvVZYa/JpCUr+WpCsE229IcRNN0kkRJkk3ihTRdZrhuqSmmyDLXlcX+WMRZmeIGNJdK0Ris1ns6OE/gkUQugRcxWMXZRhbWsrAWzxVR+3ogjGQCKVTlEi9FzpMZEumjCYglCRC5iCRyMQzGMBjNMPFsIYrBDIGEXLGPQSED6XgOgDNUaQiS9R/jlFmqaGisAAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/12.png",
+    "width": 1920
+  }
+}

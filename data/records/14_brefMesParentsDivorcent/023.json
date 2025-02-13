@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "J'espère que tu vois du monde.",
+    "end": 25,
+    "index": 12,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=23s"
+  },
+  "thumbnail": {
+    "hash": "6c43e2a86d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBe1OaAAAAcL7XvsDadre5ujqXz85zeaDpEnTFUExAhKHEG0VEU/GR84GaDd1qy/7a9ZX2+wGZ4/flZPR5vd6t73arxe7e/bN9enCWK1Mf8mWbLfZZfMxTU4k1cCT+9hVQTpyIGfDl4fHl969H96/RvlMU++b2adS2RwJt84xFXIz5ottUb69Led87QM6AEhL7t3Xd6YKTxxhhpk9OT0G82ZxOdL5OokYxO9O+b7rmvCZw4DGgoWfVZPh59oOraGEYg1JEAqmEI2mSFBvXgnYF2wL1s2NsB+1ZXeQgH8AkAnTsqMuzASj9KRmPxM49+4FowKdS3+RSoSfRq7bu2uambzmmzMX9QD5ygAffZGPgR+jcCydD2a97/iCGJAYKNVAYp6WuOvV1p77pNx1LYeNBAI/u5/wfwEjOk8p6sUsPmtr7AuGXyKxRcdrq8kabW+rCUu97DcdS6XgIQMOewhmJor1osXJIYQdC4TCfo6/oZUuamOLEFKdNeW6pTksf6lUs6gUYoqw2FiTRg2AxSJVCHPMZpkmkNKxxfZ0b1CpDozqq812JUUoXiaPX/wH/EO4B9CW2RgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/12.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Oui, une copie de quoi, madame ?",
+    "end": 22,
+    "index": 11,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=20s"
+  },
+  "thumbnail": {
+    "hash": "d6b6712f5a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nAXB2XKaUAAAUH6inbGjcSTIFnYvyCoYEcGIKIsOyGYU7TjWtJo89q0f3nOgazK+J6N9ssyWb/socCUpdN5Ou7QKF9ncOm6DS5kesgwQOPvcQztd6OQrV1/8d28+yvS6mv2OgnpVB+7WNxVPEeKpcXsvbs2Zw3AahtF2G9Jo1KD7j2N5z5NqMirs6dGPy/g8M22RQAS0W4WLv4+HzHAc8qwNZMiSjHQ+/2wOte/WtnlyJ7+C5WWVXLY5oGQWeVEFbZcUIwAkvF/lF0gfjnPfPyXRjKd/zsxH4GaqkojinzguvGgsOxg5wdmFyvIqhdXlDQIk58mKznDTAevxdKqBGPAbwyzCzcZZj5UliSs0H4zAkO61w1UBUQgzEgDZZ00OiD1Cwwi+9b3740UzIttJA+9gDUKU8IaMwMBPKsdDKiMkr69HJ7nZaQU8E1ctih4ypsQtbcrciG6z+nL0M/wEo52OJogQDWN722/09U5w84G7xg2LNnhGmyK6DYs+psdyGrsfrW8tliAxGPsPqhpxO+9vC/kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/11.png",
+    "width": 1920
+  }
+}

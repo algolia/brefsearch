@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Là, il faut courir.",
+    "end": 15,
+    "index": 6,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=13s"
+  },
+  "thumbnail": {
+    "hash": "00c1a01f66",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGtvcXV4erjGycPMztfY28bKzmVETUEzMgsHCzQvMFdVVE1NTUdGR0A+PTs6OD09PQBzeXl7fX7A1dfP4ePq7vDd5OZrTFgdGyQFAwgsJSddW1tUUlNLSUlGQkFCPz5DQkIAgYiHgoSE1Ofm4O/x8fb45e/wbUxaXjc2azclRjMwUlJUVVNTTUlJSENCRUFAR0ZGAImSkYWHh9rt7uP09u/19+fz9GpPXHJBQXY9KisdHVpUVldVVk5KSEpEQ0VBQEZERQCPmJaEhYXT5+fY8PLr9Pbg6+2mpq51dYgaEBhoT0SylYRZV1xOSUhJQ0JEPz5EQUMAi5CPf39+xNzc3PHz6/b36fz+zNHRUkBGJhQZbVBCyJ+Da2NmSERFRT08Pzg3Pzo7AICLjnl5ebjNz9Dl6dzj476qo6mViXFVRCgVFiYWFLKNc3dsbEU/QUA5Nzo0MzkzNAB5hIZwbm+bqquux8q7xsloOzFOQEJHREsdHCMNBgaMb15jWVg4MzQ6MjE1LSw0LS0Ad4GDYWBjjJyclaapuc7SmqGlIhgfKSYuPUFJQkBFXFldRkRIMy0tQTo0Ny0lKyMfR7q+8IOgCv0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/06.png",
+    "width": 1920
+  }
+}

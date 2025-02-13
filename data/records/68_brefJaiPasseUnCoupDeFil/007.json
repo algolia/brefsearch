@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Ben, dis-moi, je voulais savoir quel film on allait...",
+    "end": 9,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=7s"
+  },
+  "thumbnail": {
+    "hash": "965ba340e4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXBW0/aUAAA4DqY9H477eH0QhuItQUqVmECszAoN2UDCgx1AmniWDBmW5ZoluwS9WXRZcn2uOf9030fduBkegfuSWN/PayV7fRpyb4bN3/MR38upnO/GB3XribNhqll41SVZMEGjjX3nEWvcjkNrpf9sOKuaoV1UH1chjeDztug8i0Kv1+MXuYsj+A6nITiFFbM5+b9+v3V7Ne72cfW4ep54by8+3XY/tRv3Z4Pblezn+/PTktulQZDCek4hxWc3V69+jka/I7CL8Puddu/C1sPbwb/PkSLwLft7OtOfbzvBrw8gZpJClgp7yLd9Kz039VkUnnWtq0Tzx3nszdHDS+b4/SMZGyZWroroSlUDYLHZIhIMaki9Lh4tXjhu6rSc6xLv9z1dkRoIGNLVkyAzB2kFyWUogHGivJTggOc+LAcrY/aBlQOt7f3MhmalUgaiLImQh2alqaYSRZARsQSOIs9IZ1U6v5slDPTGwkG8JBhZZqTOUkVkik+qfPIkAUEKYHDGSwWJxIEA2VUtG2Sk2KbDEmJgoAEoDJAoRgJZwBOiywlsJsUEcP/A/2pUOa0QIN4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/03.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Kheiron qui m'a dit: Je suis fière de toi.",
+    "end": 31,
+    "index": 16,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=30s"
+  },
+  "thumbnail": {
+    "hash": "9800f38239",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABTUlEQVR4nF2Qv0vDQBTH84+6CM4qXeugkwgODm5O4iA4OokuQqFYHErBNom1zf3I3SX3cpfEtncpTSNJpIgf3vB48H3f73sOpRRjzDinBN+cHg8H/TTLAIBSqpSq/kAaHCEEYyFjteCyczB6f1sak6apUirP89VqZa01xrQCzrmDWwihBJ8f7r++PM0DBABRFEkphRBtU1WV63oYE4dzXk9jOfPGd5290aCfaA0g/+Wpqsr3/ToSb4ijaDqfXZ90qfup8yxtMMaUZbltqB0mLmOsjoQQwggFCJ9dXI3dek2ilJQSADabzc7Bdb3agRAihFBa4yC47R4N+z2ldZJAHEeR4IW1O4Hn+ZTS3xviOI6FeH64/5j430ub5kudLXS2WJq1KUpTlHa9nX7N6y+FYUhpGFIymgRgKsjXXBVtCVVwsAwMB0Nl8dibIUR+APXggt/1ehN7AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/16.png",
+    "width": 1920
+  }
+}

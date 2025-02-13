@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Vous avez trompé votre copine. Pardon ?",
+    "end": 19,
+    "index": 9,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=16s"
+  },
+  "thumbnail": {
+    "hash": "ed023ea4c4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nBXLSXOaUAAAYG5pWYqPx4MHLkgBxSWLSgwuCYqixmhAMxqNUxNtUyexTszYnmx7yKHX/uVOv/tHICnJi1rHcb89b1fPO8M8Kdj1aq3ntQfd7qDttAb90XQ632xeX7Y/FsuvBC/qECebXv91t3/787fqtDO5sl1qBv5kNZv/XH5ulRupzOnvX2+bl++TuwcCoDgQjXzRvV+sN9u9dzm8cHs9fza8mT+ObvePq6btGMbh03r3tN6NJ/+DynBRXtJLzo3THDc7s6tg4bbGx4X6dc1bXgfTq0EunZdjqdJ5r1LzCRwxeawJsm6V+/Z5cFb1G5efMkfVg/ehvJn94g/dUg0AiaQgRGo21yCgGIeCAkVVjqa0hKVoJ4mMLYjxdyR7pHzsFIoYSiQNKQockMBIVwjqA08xHM2KSNLjeg7JOsIaRXMUDTyW60LEkCxJcRxSAB810mWC5cOAD0MUg4IKBZUBWAwnOBgJsfyt2+8W6zTN4XCydHx2arXUjEMwIQxQDKAYA2QWRmiAOUERZSOpmPfBg5W1saSZplUpenFrFDEv/gFXK1aG9+idrwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/09.png",
+    "width": 1920
+  }
+}

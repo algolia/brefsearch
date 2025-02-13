@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Un jour, Marie m'a dit: Dis-lui que tu es enceinte, tu verras si je t'aime.",
+    "end": 68,
+    "index": 26,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=62s"
+  },
+  "thumbnail": {
+    "hash": "c6311234ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALW90bW70JKUoBMPDhEHBRAHAxUPC6asu7/H3be9z7S5yaeqt5GUnY2RmaWqtpCSnADR2fDM1OmgoaxGLS5DOkdZUmtIQVSioqeelZCtrrm4wdSmqreRk5yYm6SzuMSlprMAsbDSra3OnZq2pJmuZ1d5b1+Ha1+OiG5sjGFEi3Fni4aMS0tNamZslZefs7jEqqu2AGlZiW1ahHRki4aAmFlEWIZbTks2SjkkKHZNQIhbUnxYTVxCMWRWTn2Bha60v6utuQB8aXpxZomBeZiCf5RlTU6RXUVJNTY4JhxjPi9jQTdeOjQoGRUuMihCRjpgX1ybl5wArIhvi3dxe1ZgqIeQVzIubUEtZjksZSolRAYNTg8WPyEfSUM8HB0VXFBJZ1pViX9+AHVgWa6Wd6R1WHVMSUYbGjUAADQAADIFB1QPGEYAAEkmJlBHQigcF21bVHNiXJeMjAA7NzO/olzLqVNhTURuSFFoOURXMTqHbGqwmI9eLjFxWFiHfHdtXllwcXZldIF4f4cAiYyVqKm3rq25srG2rKqvqKSnpaGioZmYkIaEiX98gnVwbmBbaV5ZX1lZVVxkb0o5Hne8hvmmV+YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/26.png",
+    "width": 1920
+  }
+}

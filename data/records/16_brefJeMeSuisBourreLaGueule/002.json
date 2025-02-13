@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Je n'avais aucune idée de ce que j'avais fait.",
+    "end": 4,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=2s"
+  },
+  "thumbnail": {
+    "hash": "05c54440ca",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHVvc4aCiKumrbKss7Krsnx0d3RUT7aSjq2PjKGBgJ1uZE41LGJHNGxKNWNDMGNFMwCyrbS6tLu7tLq7try0q7NuUVCAV1GldnOmfnungH2qd21kQzdlRjJzTTdtTTpyVEEAurK4vbe8vbe9vbe7r6Gkf1ZRimBam2lmnWllmGFZg05DZEEzgFtHcUo0cUs1d1ZCAMC5vr62u76wssKwr5x8cY1iWWxLRFw5NIRUUHxQSGg7LopoXLmln6uVjpV3aYhoVwDAtbi/ra7Brq62m5d8Tz+FWlCIWlSJX1tdNjFFJh11T0CYeGuqkou2pKO8rK2znJcAwrKzwLCvwrK0oYJ8TiIWcEg8gVZNlG9th1ZNfkxAZUAzc009jGdYnn90qY6Gq5CJAL+wtL6usLyop5p8ck8sHE4wIVQtIjoVD1UyImxNMnVZOY1uYrOdnLKZl6CCeZ+FfQCum56pj4OslHmvnXuvnnSWhVyKdFWNd1aUg1upmW+1oY2+rK2/rLCehnp/ZkCXglkAi3RhloRfpJh0pplupJdwrp9yrKB2q51vqJlsrZN6tpqftp+huJ2dcltJe2tEk4FV3a/WHmLwNnAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/01.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Ou non, viens, on mate les trois en retour vers le futur en slip.",
+    "end": 7,
+    "index": 3,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=5s"
+  },
+  "thumbnail": {
+    "hash": "e9924dd0c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nB3Oy47TMABA0SwaO078iN9O7cRO7CSdttMZISQ0II0YwYYlQmLFjj+A/5dQ+YCjeyvYMAApgLQG7FBTCHuEuNPHGJac4p6TkdYo97xmKxTBvGo7gVrRdpIyS5ltsWo69b5sb+f962MpedmCP8/p55eXyY/FuQoT1XYSE0OYoVRHF4QaY1iu0/zr9fbyuL3uQYrhcn22w+Sdr1B7L6BWgkbgTp5DMjblfB3HkzDh97fr37elxJKm0hJ9X6pBD2BfAwYbHqcYwsjEcU4P+3Yj/fDj0/rn8/ywXj7cnuZxZlRVdU0BZAD2grtgPRemQTL4tSwXxv3Hy/L9XR6n/TRvRo9Sj1UNKGwY51bLARNZA1YDoXTKy0XZdMrlqRQfNj9kQh1m9g4Et4TIDgvGFGgEQKbDTumkXB6nNYY8HLO2kbH/oO81xgKhnlIJID0ADpECjTxAwXSyx0WbSdrIpcfMdsz+A99TKSK6coKFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/03.png",
+    "width": 1920
+  }
+}

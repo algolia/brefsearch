@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "J'ai libéré mon bras. Je me suis levé.",
+    "end": 64,
+    "index": 23,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=61s"
+  },
+  "thumbnail": {
+    "hash": "5a27a7d659",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nBXBW0/aUAAA4CM4C8VaWtrSSk8B6b09paUtrQNDQZzMS3CYEWIw6tyLuLnIfJi4xGTJsuxl2cPMsuzPLvs+QFHsGkERRD5PMsqGuRntQKgQOMGQjKW5LM09Sy2zVFGgBciXK5ICDMWxVNcxfMfwPRlNX1+1+8cUs17gyyJUuKLEMALkoVK1lIoOeRG4nOAKEoJqWNXCGpocXbbiXS6VRni2jGEVbKWczQKQGg7f3M5/ONZz0MjhqMBXqJJProYymhy9TVoHUmppazUrY5iawUrYCgDAMpq3d7/OLj4DmypYLK8zpYCmAxlNhpdB0AUApNPLS+C/DJbrdUez2ZcPN9+vZ1+BJduu7tXVuqf7TdUdDU5eDk6QGbgoMjXbMRuT8bvHx78Pi993H38OD86Bs2F5Cgo0r2k0Yr2x33016I46QZI0+0m8ez6dL+6f7j893bz/lrT3IScCQ1JR1fBqdqg6se71on4nSHpee9vvbKFofHjxsPhzOp1rVZNbo0VWBLkMnsfJIslCtuTWrE078g0vMv0WikO1vtc7frEzpgmKypFCYV2ghX/2XVCKeNsY8gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/23.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Le matin, je suis parti et c'était comme quand tu vas dans un sex shop.",
+    "end": 12,
+    "index": 5,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=9s"
+  },
+  "thumbnail": {
+    "hash": "c96608ad58",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABbklEQVR4nC3KyW7aQACA4YmS2cezeRZ7bDAGG9s0BFQFREuLInrLqcslb9B7LznnYfqeVav++o4/qGNRx9R4Lwk2jAbBZ0Z/P5+2Verz3HNOECYIYYi8NjaToPFxVZZDKhQlltGk5NLqfZ0657rc+kwIQgWhCCKKkKYEMET7Mk1VaThznOeMTsGtc7vQagx+6Wxjzdo7CiEX1voVSO3lMD1UWlrGfCYc54PPxxjmxkzBtc4OwW1i9Ix0h5fh+gp2hx+Py6aLft/MxxDG4MbgWklncV4bk1Q2M7rzbqZVqteuGMD5eD11i2PfXzabbUorl9cmHx6+7J9/LYpmobJSyphJhsnNDcgIBpfj04e+7YPvilhoo4QU8G737e3083fnXZvbIARDGEJIMWWUgU/b3X0VpyImmQlCjVASo1hN784vJYWlUvzfjRHCCN1BCJ6uXz/fT4/rvne2kJJTxhFK1er9x+fs9tZQhiGCf/3vD/2qKWNSkILnAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/05.png",
+    "width": 1920
+  }
+}

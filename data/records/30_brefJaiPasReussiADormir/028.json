@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai mis un pied dehors, un pied dedans pour avoir à la fois chaud et pas chaud.",
+    "end": 32,
+    "index": 11,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=28s"
+  },
+  "thumbnail": {
+    "hash": "b04b62fb26",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nAXBbW/SQAAA4KMvV+6uQN9Le3dtoV2b0lIorjCGQ7ZM4+aysBnFDUOmJtNvxvhJ44/3eQDqMNUqDX5hJ9t+/omWT7z6xsoDK/e0ePSy905yawaXqlW1ia9gF/S8uR1f2/E7Vn2Nl7+j2TPLtjx7w9NVNLqMxjd09AH1Bqjdwd0AYht0vcY52hrBhpb74fxnWG4tWvjRzB8cB+lJNt8Nmx/ETBQFKaoPsQlkZEpQhcjsx+davyZ6IqO+F8zi6irIz+P6Ljn95ZePMnFl7IqQAJ0tbVYYXmr7udqlLdEQZJtow6C4ierPwXiXrf/4o3sJYhnrYrsD9OitEy1cPtGcmPRCGVNBcVqSoeqTcHKImu/p+i8b7yRFldqaqHSAGd+7g5c8W7H0LMhW7GilqIGiJprR+OHZoPqYrv/x+kmUkSgTUSIA6znqUjdsppvn4vRhOH5t0alDl264caJXLl8MJ3tefxEhESQkyBiIrRYAQPeq7MXdaL7LFw/J9Jola5rf8urgxlcmPbb4CSSWAJEI8X+c8TruA/Ep3QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/11.png",
+    "width": 1920
+  }
+}

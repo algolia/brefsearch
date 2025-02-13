@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Je garde l'appart.",
+    "end": 80,
+    "index": 34,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=77s"
+  },
+  "thumbnail": {
+    "hash": "d9bc4ff175",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABgTFh8jOSs3VmJWSohxaZ6Niqyjo7SooLmqlcW7rcW8sr+2rKGXjrGpoK6ppZSOigAPEBs5Nj06RGNiWFKKcWtpWVx6WVWRf37Lwr3Px77Ty8N+cmwhFhVMQDybk46hmI0AKCkxc29kRUxkOi0wUTY0TTs7RCwsOC4yxL7AycG708zGX1BNFw0NGw8PRDgzpJeGAEc0L2VYSkJBSiEaJoJ0inBhaTctLiUbG6Gbn761r87FvmxZVBEGBhcODUQ3MKWWgwBHQkdWT0tCODktHySDdYhxa4pOPUU9LS2Kh5DOxsLGwLloV1UuFRETDxNjW1mgkYEAS01PZmttUFJXKys8Uz0/Sjo/RTU7OjY/o5yiv7i2j4uMPDZFRT1LQkJRWlRTiHtuAHBxaFBTWDs5PR8jNSEeJichKRQZLU5JTq2mq5uFglBNWkpNY1VXaklIU3BmXoh7bwBhYlk/Q0caFx8eGyQXFhweGyIeGiQyJCFqXWBdUlw1M0VDRFVIR1VZVFSHem17bmMALisqHBwfGhUXHRgbJSEhLSQiMyUgOisnOjM8MzZKMjNBKyo1Pzo8dWthd2xgZ1xTK4mY9xuO6AIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/34.png",
+    "width": 1920
+  }
+}

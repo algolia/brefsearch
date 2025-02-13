@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Lui, c'est le mec qui additionne mes mensonges pour me dire\ncombien je vais payer.",
+    "end": 13,
+    "index": 5,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=10s"
+  },
+  "thumbnail": {
+    "hash": "4c1ba46792",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEE+RVBSWTkvNjYmJyQcHY+VmuTv8dXi4s/h4NTo5p6oqYuQj8PT07vJycDFx7S8vQBHRUtZWWJAOD42KSk6LCokHB69xsnw///e8O7m+vistriboqHY7OzO3+DQ1de5xMUAQD1FYmJqNi4wY05JgGRZLRgVeH2B/P//4PDt5vz5qra3oKam1vL01uvu3ebnvszOAEI+RmFgZkExMHVbVGJKRCcUE19iZ/f//+j39t/x8aevsKOrq+j//+v4+uTv8cXU1QBIRU1VUFM7KSeBYltgQj0ZCQmGj5Pr/v+8z9PD3+Smrq+ira3N5enY7fHm9Pe+y8sART9EQC4qKBcVbVFJQCkmAgAAgIWG6P3+vNLS0uvroKmpqbKx0+3sy+fp2OzvhImNAD0zNEU7PDYmJlpBODQjIQoDBk1APdDa1uT+/tLr65ednaWtqtPo5s3i48jf4XV5fQBOOjFSVl9IP0FONC4uIB8RDA8jEhBbQjaYmpa2zdCGhoaEhoG90NC0yMmxyct3gogARzQrUlljTUhMVj00MiIhEQoLGxARPikkWD4zfHh0cW1uhZOWudXXl6yuk6quYGdtUCjqHnXOS8UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/05.png",
+    "width": 1920
+  }
+}

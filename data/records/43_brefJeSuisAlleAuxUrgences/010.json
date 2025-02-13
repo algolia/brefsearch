@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "name": "Je suis allé aux urgences.",
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk"
+  },
+  "line": {
+    "content": "Kheiron m'a dit: Un truc dégueulasse. Julien m'a dit: Mange de la mie de pain.",
+    "end": 12,
+    "index": 8,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=10s"
+  },
+  "thumbnail": {
+    "hash": "74c325dc39",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVR4nE2QO07DQBCGfR8qDsJRoOYUlNAgUdJRBaWJBEJKBAUgSARIkIdfsdeetXdtL/a+0doC8uvTjKb4NJrxpFTWWmPMUPtorXXfhsEM6ToupfKSbTwdXfqrZQY1pY0QXAjB+wghuq7bGbm11rufzg7292Y3E8q6NEUAuCgKjHGWZQCAECKkxBgDQNu2TiAl9YPka/66mi9S+E4QaVjbsJbShtK6c2vUL9IJWrkbnkfjydnFZ5C/vS+DCMXbPNriMC4AVwCOHCpCGidI6bzrq/HpyfkmRPPFRxCmYYT8MFsHkAMdyHJaDoLW2lobrMOnxxeAMo5RFCWAS0JZSVjTtP+w1hjrcS6UsdpYKRXnUkolpepfaa2xWhul9B9uw+3dw/HR4caPNiHyQ1RVFaWkrmvGGKWUc/fK3fwAnW+RPX7NjAAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/08.png",
+    "width": 1920
+  }
+}

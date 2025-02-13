@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Tu as pensé à prendre mes cigarettes ?",
+    "end": 82,
+    "index": 31,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=81s"
+  },
+  "thumbnail": {
+    "hash": "a21e85ec44",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEA3NEw+OWdNPlMwK0AZI6+pqK+srKqko7y6ubu5undiXSoYFhYMDjYgHjQqJDYqIgAjFhFFNTBuT0VULi9FHyi/ubnAvb25tbPPzczLyMmAZ2RePDRDKiUhEhYsLjI6NjMALB4YUUVAd3JqVTg8SiEqyMLCxcHBwLu51dPT1dLUdVBYMBwaSTYxDxESDxITNjIwADY1O1hPS2piW0sqME8pMdLNzsvHx8XAv8/Ozs3Ky2pCTxAICxQSEg4TFgcNDgsNDgAeFxgoHh42KyktGx09KCyGfn6JgoKWkI7Jx8fIwsNbM0AuHBxPQDwHDhEKDxAIDA0AEggJFA4PGhMUHBcXIRscGhQWHRgcIBwgnJaWtq6vWThAGA4QVkE+CA0PAwkLBw0NAHBDSTQfIBENChkREBkREh0ZHCEgJxwbISskJlVKSUMwLRgREGtOSDYkIjYmISweGgBaNCorHBUTDQ0hHCEhHSIoJSwaGBwRDxMCAQFELSklFBY+LixPNTAmGBceFRMNCAgAPS8nNS4rFg4NGRMVGxcbHxsgEQ8SBQMFPjUzZlVRMyopHBcZDhEWDRIYAgUHAAID0Ptxp0UClI0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/31.png",
+    "width": 1920
+  }
+}

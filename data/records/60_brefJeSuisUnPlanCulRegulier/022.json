@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Parfois, c'est un mec.",
+    "end": 24,
+    "index": 8,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=22s"
+  },
+  "thumbnail": {
+    "hash": "8c671b635a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE5OWUE8QEtESkdAQjklFnBfVn99jW9rdVJLLm9rZ4eHnIJ1b3BGDndHBYJ3eHV4kQBeYnFSUVhvbnhIPj00Hg50WkmHg413dH5pW0hZUEpcWWOMi5yQipKQg3+TlKiJjqkAeoCXfYKWgIOWZ1VVUzIgYUU1bWBedmtngXNhVDotTTY0jY+jkpezmKLCmqLAlZy4AHR3iXZ3iHZ3iGBMTHtJN39aVWhJPmZQRIBxXmhUQ4mClq+64pCUq5ieup2lwpmhvwBtbn1zdIVvcYFoXWt3TFp3UEhWQjVYST1mVktXSUCBdH2src6UmLGWnLecpMGZob4AZmd0bG17Y2NsY1dYkWJ9gl5rUkU0alZGYU09UTkwbUo/oZ62lJmwkpetmJ64lZqzAFlOS1pIRGBOPl9GO3lLY59wjXRdWGlWRIBsVGpXQHtyeqisyo+Nl5KUpZOXqY2OnwAmCyYkByY/Iy1jSEB5VGKMXG+EXVtdRTBwV0ZRQjhLS096eIGMg4STlJ+Njpt9fIcAHAQkJQksJwgqWD4+mH9vloB0loNzfXBwd2t0aVpaW0c8enRzjZCZiYqQf36DX1xfIOG4MwC3MKgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/08.png",
+    "width": 1920
+  }
+}

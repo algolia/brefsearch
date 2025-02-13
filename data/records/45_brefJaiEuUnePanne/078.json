@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Tu arrives, tu sais.",
+    "end": 79,
+    "index": 34,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=78s"
+  },
+  "thumbnail": {
+    "hash": "d44b6f0abd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPElEQVR4nCWQ227bMBBEhdYkl7vkLu8Ua1uyEzmxk6IJ0P//t0Lu6wAzB3MmUA6URyhWe4fVQgDthYbbEwn+HHghbOZAVjn1Q09oAihnNaMRNMEoZKxFLnP5rOHK2AMvHntwY5R7lnVCw08IESSr2Rz2AmPPvCztK/lz5LWmW/THxKee3yaCiEas9gTRam8OCMoF6tmd5nirch35/qs8iqxZXjz2iUx4DltQZJTbC5oIgoNU/DnSSO6YaA62BncW2SarWbC3uCVZ2BbGZhTpnwCKdg0gbGLEufqlpfvofyc0knmZ072ErfBa+FLkytSfJhxqZsjZHXt4bfG1xp3gnE3eVsa5xdsoHy29JV7333KpYatxI8gEKfIy2p+J3em/Vm+70Ij+JNQJUovvx/bd02Munz1/tPzI8jLq739WOBxg4fpOaAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/34.png",
+    "width": 1920
+  }
+}

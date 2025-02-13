@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Elle me laisse une chance. Il est parti en courant.",
+    "end": 97,
+    "index": 44,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=96s"
+  },
+  "thumbnail": {
+    "hash": "0f6fd04c22",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAgEBAgEAwoFBBIJBx0QCSMRByYZEScaESgYDTEiGF4/LlI3KSgcEUcuGWQ+FnVLHAAIBAQJBQQKBAMrFRA3IBggDwglEw4kFQ9CJhZuQiyoa1CAVD42JRxGLBdDJw9BJxIABwMECwUEFwsISSQdRSohCgECDwQFCQEBKhgQXTglb0g1kl1DglA9TDMdIhAIEwIBABELCQ8HBTUeFkwoIE0xJiAUERcLCSgcFzsqH2U/LodYRZNfRYVZQ6udnId8fk8+PgAcGBUYEQ1KKR5cNShALCMlGBI2KB9gUkVMQTJMLyR5TDpmRjGTZE66rq+ooqmqo64AGhUVHBgbLB0eOyIZLx4XFgsGRTcsT0c7UUk7OSohQSkdTTIic1lNmZGRj4mLmpWdABUPERsWGh0XFiQdGS0pJiQdGUtCOlRNQ5WQiVRSTxMRDicgHT46OZOMio6JjZKNlgAUDRgTCxEYEREhGxknJB4oJSUzNDtPS0y3tLFtamsUEhAlJCI4Mi6CenaCfYB7c3kAEw4OGBQTGhgYGhcbGBEXGBMbHx8qExAcko6UdHFzFBEPHRoYKCEbcGZibGRkgXiBB0RdsWlDRj8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/44.png",
+    "width": 1920
+  }
+}

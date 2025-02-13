@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Je fais attention à le Mexique.",
+    "end": 44,
+    "index": 18,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=41s"
+  },
+  "thumbnail": {
+    "hash": "07c002f2b9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBW2+TUAAAYJ68tZRLCxx66OFwuBQGFGihUGrLoKuQLLa6Lpmz08bNy4wvanxVs0RffTbxz/p91JdL7+56tPXB4WT98fJlHfo3gfgsNP79+v33/e2FqZ2W2cXCus7BSqMzzFHfD0d/vo73K88WRFeB25G9NHFB+h+y5Fsev42DmKDlkfrp1DyL8To0qFfN+Ha3Ko1gqetb36wt9bFFFkjwJO48Dn5sqsommGdDzEUWmToWNQ/HN7s3Q96sbKswkCOJmeulpjFg6FRXr7JRbSi+AjUFgw4t0y0qULmIRJBRmHtt7n5HoHm1yw54hrCtFIkTP3DE7sz2jptdUT6RGJYaIyHRwt5DwD5g+Ee83O4kiqywrAPEPAineWFh4jqjYr1Zlo0sAErvdRM9OrZdscX22jygO1PSf10ldy+eNrOZhi2kksl0Xp5sXDeCEqSGohAi5101X1k411GG0Vna/7lPPjfFVaSfB0aM4WJezhZrog2BCKk+xyNeRawUQJBqsHRI5aBD5e+XkxzLtQGfD5XaxtoAA0mRAfwPNKFPR6iA68MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/18.png",
+    "width": 1920
+  }
+}

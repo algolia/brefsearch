@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Ouais, c'est vrai, et toi ? Non.",
+    "end": 4,
+    "index": 1,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=1s"
+  },
+  "thumbnail": {
+    "hash": "bfd2af6a2a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVR4nGNgZGAgCTEMCQ0MDAy8PDw83NzYZbEaw8zExMzENHj8gF8DAMATAOApEkavAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/01.png",
+    "width": 1920
+  }
+}

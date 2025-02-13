@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "J'ai posé deux cartes. Argument.",
+    "end": 29,
+    "index": 11,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=28s"
+  },
+  "thumbnail": {
+    "hash": "4d86d89ff7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB4PDDMaFEwpITwhGzMiH3dsenVqe3R5nXJ3mYBvboZsaI9jUnRRRlU/PEEzNDgtLAAcDQsvGBMnFRELBwgHBANqXWN/cHh1bIB2bH1yYWaEamOYcGOabFuOY1VpS0JEMjAAJRMQEQoJAQMEDgsMIBQTWkhHjHBjdVZEeltGgF5Ej3FXlXVqmmxbmG1clGdYeFNGAAcFBQMDBAgGBhUNDiMWFC4fH4JqYJJzWpZ7ZZB4aZF5cZqFg4xkXJdmV5puX4piUwADBAQGBQYTDAwWDQwVDQ0OBQRaSUipmZmajI6bi42dj5WsnJ+Mdl1mUjuFXk+JX1EACgcGFRAMIBgSIxkYIRUVEAkJHxYWmoWEs4uJjYB9fHR9aFphdFtOXl9LUE8zUj8vABkTDS0kFjoxHjsxISwhHBoREREJCUs4N19CP0EvLCseHUU1N1NJRldRPUxILkE9KQAlHhQ0LBw/NyRDOyc/NyMxJRsYDw8rHBwwJCM5LC5fUE9fWEdnWkRnV0NMQjA5MiMAJCAWLCgaNTAgPzgnR0EsSEEtOC4hLyMeVENEbl9bUUw2UUkzfmVafGVaYk9GOi8sx0B2D0Qn0UAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/11.png",
+    "width": 1920
+  }
+}

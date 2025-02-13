@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Je suis désolé.",
+    "end": 120,
+    "index": 49,
+    "start": 118,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=118s"
+  },
+  "thumbnail": {
+    "hash": "8e9e506ec1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nEXL207aYAAA4CbbotkQsdYxx0CU8tf2B3qg1EpLW6UVbBHaYg9gIUCocxLn3JJFE7MlJjvd7GbJrvYCe8td7rv/kMTT5ONHT9BkssqwlULB4OhQP/xydXEzjqZOV1c12+43mwaB4+VSucbvIdvr6LOVDY7YNip4T6yNTGNwqD7E4/eT0efry4lrH7dNQ29BAFiaEcU6omTRLSy9k3llsXig1u/G/o1rfl3Ef3/9/PP9IfIC68RptY5piqxVeVlWEC27dpTHZDwDXj5nAXjb70SadOXYvz/d/bj9EPhDtx+YZoeBUBT2FOUA4TdWGrm0DnLJpSV0DQua6kzXPjrut+s38Vk4GEaeH5pm93/AEqurqRf4ZmYrhRL5okhR3oF6P58tzgLb9Fvtie2EPbvHlqDAC7KkIMvLiVQqnd0k85l9pXrkalKlCBRBjIfeNLol4ZzlRrJ8SsMKzzH7Yh3B1nfyuQZesPCCRRQ7J80wsgeL6cVlfC813rHVc5qd75JDYrcLoVrjRaQILBJ6FPRJ0iUpnypFgvi6Li1o7pzm5gw3K9MjEgaAPAVUwLDtf7GlaazDweVDAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/49.png",
+    "width": 1920
+  }
+}

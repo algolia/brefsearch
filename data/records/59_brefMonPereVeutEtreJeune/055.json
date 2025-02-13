@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il avait réservé une chambre d'hôtel pour deux en plein après-midi.",
+    "end": 57,
+    "index": 29,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=55s"
+  },
+  "thumbnail": {
+    "hash": "048d127a5f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABp0lEQVR4nAXBW2vaYAAA0Ayb5DP37xoTQyxTWww1Oq21UaM2Jp3xUtq5SqUUKpQx2GCU0bXdBQpjhT3IHrYfvHO4+29Py/nx+evONKwtxwejwI/2a29GvWmvMRsGs3gwiYcWJTYzK8XirmtzT8+b1cnkLGqNgtoiOWxVXqaN6ubL7eV0kHb3T9N4dhw5ppnDtFIqt1/VuV+bv+/W67Okv5wlp8kgafqrfvvrzfW424qD5tt5mo76FqUWYSah24Ui97z59/P3n4fH7+eLRalYziGUNvYmna63W13Opxcnk/FRmGeM6hAZkEDK3T/+uLt7uL66whABESAdMogJJCbObTuFklso2A7DJEeok7MtjLnxIJwMw2q5pGRlbGCkI1EAIi+IvAAEUczwWlZi0GCG4TDTpoyLw17UCVwrL2dlXdE0WRV5QZVVVVahBoUM7+2Uw8OglLclACzmcFE3aNdrSEfYIBQzRVKAICqSLIGsBLIiD+peZb26+Pzp1ve8rRcZrtNstnyfIqJICkWMkryhIVWSFUmBKoQGdd2dg+rex/cfjsK+sMX/B1syS337L+HxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/29.png",
+    "width": 1920
+  }
+}

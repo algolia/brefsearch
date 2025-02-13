@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Non, ne me dis pas.",
+    "end": 50,
+    "index": 26,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=49s"
+  },
+  "thumbnail": {
+    "hash": "a8c0c37d6e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGNwsLZxMjMJ9PULM9JP1FSutTPL9vJzkVBPVreIVDLyN7S5dOHaxYs3tm7c7qCsr88rwRDs5+/n6pqWmJyZlqWjoJSbkJgfm+oqopisYZlv7hZn79jV0fvu3dfDe484K+lZCsszxEXF+7p6ZKakJyWkOmhr5sdGR3kFOQorRqmYpJk6RVhZVBWVvnz1Ydu6rW5KBrZiygya6joK8sqqymrmJpYJXp5uFpa6GvqywhJqUooulg6uts5R4fGhwRHK8qqGEsq24soMwsKSfuraAbqGVjYubk5e9jbO+gZmQsJixvqGxSlpniZ2HiY2FkZmggKi4sISWnLKDMJCElFa+n4ausam1p5O7iYGpka6xrKySsYaOgFObg4G5lY6+hbaegoyynx8IhJi0gzCQlJ8/KK8vCKaiqpG6lp6Sqrq8kp8AuL8glKCIrJSMiqSMqoiorJCwrK8fKJcnHwM3NyCQvzCwgLCQgJCQiBSRF5QTExAVFRUWlhYSoBPWFhIXEhIUlRUloODj5WFg0FPTdXT3t7R3NLFys7V2jYzxLdcUyPG3Dgl2Dcr1D8vNrqupCwpJtbHxd3J1ISNhQ0AXBNkB7ndX44AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/26.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "J'ai voulu lui dire: On habite pas ensemble ?",
+    "end": 23,
+    "index": 8,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=22s"
+  },
+  "thumbnail": {
+    "hash": "25fe212650",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXBaW+aYAAAYJLNIzpLq0OtQluZcijwIldBFKUMSks7LcxqtXNuLUYXj3Sby5b4ZWmWLNmf3vNA5cMcUciZxGFogpXbfLS0S57CkXQ29coSwfP807+n1Z/Nat3vvm+K/HEBAmiWLWQWFv8rsGeOOe0YPVm45Gu9VuPvZv38Zb5bLH+vv+4mtz98I7RFiCsidP5gbYtr1/jYMd4pmsVyt5ryYJtP9+Pt5/nyw2wxCjeB963bfLTqUAFOZVNJtpj1OKpTo0kUv9NPA0W2qqQrScPz4Ob0bGzZoavPHP1KZKD9RCIZi0dfRAowLOMnHZYzGbZWxBplUsBLF3K7r2k/p8PtwB0ams0zEBxPxF9G86kEKKYBigAUMcgjky4ZVFkiKEfRv4+C3cN96KhdVfHqJBSLROB4DNtPljJ7+b2U+gZdXbQGumQx9NRs+oqw9L3t+GbSljyB7as1SMwhPl40sDyWPohHow2yMjHNa0U/5+sjXe3V6wNNvWspfRV0BeJa4aGzE9rH0CmemVBk++i4grzucFKLEeRK1QFyk2B1invLVK8AETQkA0j/AbeoYYzKf4r1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/08.png",
+    "width": 1920
+  }
+}

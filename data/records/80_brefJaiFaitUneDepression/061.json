@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je suis tombé sur un mot qu'elle m'avait écrit un jour en disant: Tiens.",
+    "end": 65,
+    "index": 22,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=61s"
+  },
+  "thumbnail": {
+    "hash": "b3cebe8433",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA0ElEQVR4nFVQy2rEMAwMxPZIsi2IBaYLSXtpe8gH5JL//6+yq+BN5ySLeclTfCH9BwAza609Ph6/3z/buvbeW2siMt3ZPuecAez7fp7n1/ZpZqrKzEQEYLobE1GtNefMzL334zh67/M8A3ABEb0FIuLslJILzMypzOz5McZLkHMupYgIABFJKS3L4gMRDUEp5SkQEWczs1sC8NO9t3sTkapeCczslbzAuHI0iTHWWp8J4w3AzxURVb17hxDc5frWO0IIqrqtW601hDD25QVm/gO2IhFqmESS6gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/22.png",
+    "width": 1920
+  }
+}

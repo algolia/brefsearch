@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "name": "J'ai fait un choix.",
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0"
+  },
+  "line": {
+    "content": "Ma copine, c'est un bon coup et franchement, j'ai pas envie de déménager.",
+    "end": 96,
+    "index": 39,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=95s"
+  },
+  "thumbnail": {
+    "hash": "2480535d2d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nBXNbVPSAAAA4N3J3sc2cG/AmDByr00chDDHQOZQQIFGGGabxVmcpajXl7q6uOvsax+6rrv63B/tfP7AA5yPDy9fhO9fPmtZSmDrQ2d7U2B8VVoNm9/CzutdK40iBATajzbUnCAx68Di9OldPP04nx3t2qFXi3stPZ9x5eytX73Zq4RlRUpRJAxzSULNCTLPAFdnk69vzv79uL+YDpfns9toqmdZS0hHO8ZdUF94ts7SNAKTYKLAppQsDywmh/efP/3++WsWuNFR9+1kEFRMJcNdt8pfes73cbshCXgikQRBkSa1LA9cjA4+LOPV6noWtE/7/qtxr9/2jGLB5Kh5Rb3x7G2R4wmMxzGZoQ0xA8QDfz7qLsKev6X4Vqmly0kIZHGUhiGTT0+skkhgFATlSSJPESWeAU6CZtTvzEdd39aPq/q0qqEQPCgboa2RYGJoFp7kWHhtjcNQFkVYAgeOvVq455zsu83Hm+OqFjdMmef+XEXLrsOhsMrQNZF7ODFEogkGQ4CDernn2AO3WtfkjiGHW6XL/cbfd893NgRXLQoEXsmxxRS5jsKFVFKi8P/WAlXNHYUwFgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/39.png",
+    "width": 1920
+  }
+}

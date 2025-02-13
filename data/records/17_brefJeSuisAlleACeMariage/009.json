@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "Les pellicules aussi étaient les mêmes.",
+    "end": 10,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=9s"
+  },
+  "thumbnail": {
+    "hash": "064a19c554",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHQ6HXc3F3UyEZBGGaZbJI5AFn9JLKV6X5ltUIZUNYE2EaZUH7BaI5E6DY09FphOJwBvPSJvNxpxPSF4NhdkKQtpMRdMIA6XZlN5RzNKFwNgKhNsKgp/MQyYSyCMRyC4g1kAeUYqbDYbdUMpejsaYSwTRSEVQCAUaUU1cUIubjEVMBcSXScNcTARnFEnjUkivo9oAHtJLGo8JGxDLXY4GjgaEkYfDBERDEI6SDArMyAUClIiDkQeEVgmEopIJXE/I76KYwB9UDVqOBpyPyV3PR9OKBczGQsECQUfGSYUExYLCwdaJAtKIxReKhSXUiuFRR+8jm8AkFo7eT4eczgaiU4tpnZWKxUJAgcGDw0LCwsJDAwIPBICimBHlF09hDsXjEQcr3ZUAJlRK4pEH4Y6FIJGJKt+XikVCQAFBA0MCAkKCAcJBzgQAJNoTJFdPnUqCJNFHZZKIQCERCR/Phx6NxV4QiWmf2QkFQsABAQKCggGBwcGBwcsDAGNZ02DVj9iIwZ+ORaCPRoAompDnmE4k08lklYxm2lLLxsOAAMFCAgIAwUFAwUFQxwJjFc4hE4ydTMSfz8efkIiPrxr/dsqTfQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/03.png",
+    "width": 1920
+  }
+}

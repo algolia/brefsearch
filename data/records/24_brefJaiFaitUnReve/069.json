@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'étais dans la pub Energy 3000 avec le costard que je mets\nau mariage, aux enterrements et aux entretiens d'embauche.",
+    "end": 74,
+    "index": 22,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=69s"
+  },
+  "thumbnail": {
+    "hash": "606e3e44b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AH53ZYeBbIuHbpGMcZ6afp+dgKuTdZF9aCcnLQgDBxoWG2NdVJmUepCLcYR/Z4B6ZQCRi3admH+inoOjoIOwrI61t5aXdVtpVFyLm7xgYXAhGx8BAAM/OjyhnH6TjXGNiG8AnJd/p6KIq6iLq6mKtrOTwruWe3hqp6q30tjmucLZjZeuPz5HXU1BsKqKop1/mZR4AKWgh7Crj7Sukq6sjr+7mYZhTJCOmdPX5MXFztLW4b7H3p2Jg7uJZKyhgaWigpuWeACloIawq4+zr5KzsZKqmXlwaGvQ1+bW2+nR1eTd4/KOjJameV25km+vqYiuqomemnwApaCGsKuQsq+TtrOTe21kubvL2N7sztPi2t/uur/OLycqroJivpRrrqiGrKiImpV4AJuWfqSfhrevkZSMdTo3PrS0veLm8dnd6Nnf7khFUFE0KNevkLSPa6iig6aihJWPcwCTjXmbl37BtaCBdnUAAAAWEhR5dn67yOaSk6B2XlDPqZHRrpCfeFSdlXiZlHmMhm0Afnhlj4Z0qp2WraCZal9cGRMZAgABIyc6kntwy6uTv6KLpX1eg2BGjYhvhYBofXZgSM7tE5AQZlUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/22.png",
+    "width": 1920
+  }
+}

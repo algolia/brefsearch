@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Je laisse régulièrement un pourboire à un serveur que je déteste.",
+    "end": 28,
+    "index": 13,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=25s"
+  },
+  "thumbnail": {
+    "hash": "b99ba64af3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBW2vTUAAA4NMVTJp7ctI0ObmcJCcX09ktdVm7lLXrtq4XlFE2utKpK+jqg+DDFHU4REVwL3tR0QfBN8FX/4CP+xWCv8XvA7KoKKKkSBBpJjGd2LuJbb9S1leIb5Y1RdZUWIGKpkLD0LGpY8AyrMjzKiw7uhGa+q2QBK7rWO4sr22FrqmZDnIt5FnIw1ZkIwJEntc1lXiuZSDbQJHvhz5JktpmNdlL08np83o9d+3Ax7HnRNjygFaGKhQlgWcZxjLs9XT13vSwtbWbbXRbze7Z5Y/heO47XuBHxCUEYyAIgiiJGlQ4lvFMtFlf7txeydaavdFBO9seHj/bmzwMSViNYx/jyPNAWYZJEGQx6TRq/WY2H3Q+f3x79eb827vXF4vHL44fzarpYL0+bOe6qmGEgCLJSeBO7nS+Xp2/f/V0eHD3+tenv5dn//78vr548t3gZkeL+Zefhy8/nNyfdlsNQLEsx5ccU9tYq7Xz5n5/+zSPFqk97bV7obPjVPoPFun4pLo7HoxGjdVlUOJ4yJdEhirRTLFILxUKABRoXmJYrkjTSxSNZFGgbnA0ZRu6b1v/AczGT4qgv68zAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/13.png",
+    "width": 1920
+  }
+}

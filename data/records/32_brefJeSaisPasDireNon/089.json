@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Ai pas les moyens ce mois-ci.",
+    "end": 94,
+    "index": 40,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=89s"
+  },
+  "thumbnail": {
+    "hash": "e0dc16e792",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB8fLx8fNVZYaHp6fVRSUnd1dW9tcFJRXFtXW5aRmrWvvJKPn4aDkJKIkltPVDw8TAAhIzkoK0pLT2ZUTkxANjVoZ2p3d35wc4BlY2mCgIygn7F1anRXQ0FrYWhZTE8vJigAExYpGyA7Jyk/REI+coeXipOciIuSjZCbgYSQam10X1tZX0pGelRSSjc0UD5BU0JRADNCTUlUX3Jwd3RoZUhbcWlye3x/gHl+g4aPlnJ1c2NjTm5+hmRneXCNoEg1N0EfJwBgZ2qFm6CfrbKIh4pERklscHdNTk8WFBYrKi47OTtRW11aZnRRYHiGtdBnfIknFhgAERAVLCcnEA8PKC0yq7C0lZeeRURNCQgFCwoHDg0MExASGhcYTWZ8b5OobouaJx4jABAQE11HM21RNQMBABQYGx4gJEg+OCshHBMMBw0LBwgIBBUUE1lEPnBXUWVVVhoLBgAQEBEYFhVPOStoRi5ROiSFYTu1hFKacVI5KRwVEAwODAoNCwpKMydoQy+IcGhsYVUAGRcaGBYZGhkeJiAiWEAto3hIt4JRfVM5GBUSNisjVkIwMSUaSTgrUDwrkYV5eoSO0juHRbPfO60AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/40.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Il suffit de lui dire: T'es hippocondriaque.",
+    "end": 77,
+    "index": 32,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=75s"
+  },
+  "thumbnail": {
+    "hash": "a85e2e23a5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFs0I1o6MF85JJ9pLbqBNrqCNsCHOLeAOE8yG0wwFql0Lrh/MK53LaRvKZRjJIBUHwB4SzSCSy1mNx+iay3KkDzFjTnQlTmbaigvHBsrGBp/Uh/PkjW/hzK3fi6sdiubaScAbVRJils9ajgakFkgypFAzJU50aBNw5llglFEekY3m1kcsW0gxYo0ypI3wog0tX8uADAeGlAzI0kkDoxZIc+WONCkXdnLxNPEw5JqXohpYLaaj5VhOHI+FItYKIVRIX9NHgASCQouFQ07Ggl4ShuBTBm2mYbi3eDTycjNvr3Xzczf19eFZlVKKCBhPDpWLSlSKSQAaEk0RCcZKhMKWjEPVzUwu6usxrq5wKWfuJSM0MXF3M/OinVtRScfZkE5XTUsWTEnAIZfQls7KCIQB1MtDFw/N8K1tsa6upBvZ2Q+NLOjoNDBv5GAezofGl45MVYwKFEqIgAvGhY3HRQqFgtOKxFcOCiGcG6Xh4drU09hS0V0YFqBaWBrVE1DKyZQLiRLKR9CJBoAKRgVKRcTKRYQPyYdTzElTzcvTzgyRy0nKxkUMBwWPyYfKRgUNyEcNR0VNBwUNx8X8zSdOZaBBg4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/32.png",
+    "width": 1920
+  }
+}

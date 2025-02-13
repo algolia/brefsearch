@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Dans les années 80, mon père, dans sa période moustache, convaincu par\nles publicités dans leur période cocaïne à gogo, achète une voiture pour aller",
+    "end": 46,
+    "index": 14,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=41s"
+  },
+  "thumbnail": {
+    "hash": "ffac2dc8f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABs0lEQVR4nAXB207aYAAA4D8RGPTEX+wQiuFQEEqh0FJOFioGBBFKKdiTwIQ6x6IbLposi3HZhYkXe4Jd7nKvue8DZ0qjf9Ic9RSSIPxeH4njXIY5qUutqtiSBD6XDofIQUdemZPt2tbOT8FMHdQqJTaTml70yxyrDrprx3BmmqmNLG2sXwxYJkVBSKCoz+NBEQS8vTx+uV3e3Sz//f2zsua7rfv79efbr+fXl+8PW/fhs9tTZFkq13guFqYwBAE/vt0WsmmlUXXmWrctt2rSZmE93n96ftqtHfPjh6tKMW9Mhl25zqbi7yEB7t2rJB2ReO5SHdYFvt2oGtpYlsTd9ma3dc3ppMyxxmSYPKRTsWgQQ8EBtR+hQg2x1FOOC9mMc6mftpp1obRZ2Kaurh1DLOTzGQbiOCQIAsMAGvBDDM0xiW6r2e+0j6sVa6bpo/Nrx3r6emfPNZZJkgQegpAMBhF/AEAcw1EkiGHJw1gxdxTZD61s66yjJOhoMZupCXyCpr17e2gg4PV4AQAAEjiGoNEwFaej77w+azpyF+ZmYS5N3dZVZzZm06mGwEepUJyOiEX2P1PGXLWWMrqVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/14.png",
+    "width": 1920
+  }
+}

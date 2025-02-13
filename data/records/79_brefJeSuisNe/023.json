@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Allez, mes Zetins, on se remue le plagelle et on fonce tout droit jusqu'à l'ovule.",
+    "end": 26,
+    "index": 14,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=23s"
+  },
+  "thumbnail": {
+    "hash": "d6d7dd8902",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nBXKW2/SYAAA0JpaQ8cExlp6/1oGbRltKYxLWFvaGqBQQISFybgEBMkyE/fgMqNZlpm4aYwmRh9MpnFZzBJ/p/E8H8jm6DKBlQncoqm6IMyyuaNScaGpx6XiW9s6c+0Pfu1zu3497N5Oe78OfMgFnEmRjzjO44WeLL80jBPLOjWNq4b3qdP6Puj9eNr/Odq7W47vng3+LgeQA0CV57uiNFSUcUY7NnfPa9U3jnPZan7p967nk5sXz2+Pln8O5zer2e/VBLJZ4DBsX5RHqjbNZA+LpQuvflatvWs0Lh63P84m38b7l1bhvZG/co2vnTq0SwGbAa14YiBvD7e1qaqfVOxz3z/1vFfN1mvXXSW2Rgw94dgDhl5sCVCW4HMx1hTEZkppyeknaW1fz48L5YVZmWuZdox0NnAzglvRmBHF7E0cypHxHAlKIOlKqpfS/JTazez0Vb3DcJWHoZ1gOB/B1fWoiIaltYgcDENZKq4TfIFLWqJiCpLJJ2tJ2Y4ROhpUguH0eiQd2kigIQpGSTjAIgFIjQEF43RK0AmgY1QBo/TwpoQGaRihYIRBAtyD/xW/h5DwfQKG/wEP+F+M0q3XLwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/14.png",
+    "width": 1920
+  }
+}

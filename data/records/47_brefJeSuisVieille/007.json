@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Pour résumer, à chaque fois que je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
+    "end": 12,
+    "index": 2,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=7s"
+  },
+  "thumbnail": {
+    "hash": "055e8190af",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAIUlEQVR4nGNgGPSAkZGRBNXMzMwCAgKk6WFiYiJNwyAAAEC8AEn4nP8eAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/02.png",
+    "width": 1920
+  }
+}

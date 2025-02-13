@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Et puis, j'oublie.",
+    "end": 80,
+    "index": 31,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=78s"
+  },
+  "thumbnail": {
+    "hash": "c1ff92a3f9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXB2W/ScAAA4CZGRzZmYWy4yVCg0OvXu4XeLRTpRbcOxjU6usGi021qSJxxidmDUV988sl/1++DLhbJ3eUkjd3kxP92c5FOT3EC8BzHcTRgAMmzXEtSNH3gdgeOJgIcuplHnsoft7VJ0Lkeuf9+fknPRkgDbWB1nMRRQDAiZxiqbeqD0BUpEop0NrKV4Rs9UJmxRT+u+n8ePiyT4SAOMApUcAylKVVTotA7iiKCICCvRZkc6YhUj8cjhfn78PHxbjn2zV/319/vbxfnY9M2MAqkadpxuq+RBqQzqM6gkSFcHXu38+nvT++/vls2CDrodddvkx/r1eXZUJCbk9mca2mCbEGW2bQFXCFqV7G/Pp9+no5Wo5Nc8RCjpTqKOYbE8TTbFGaLmdsPjbYP+Z7Fs+BZJnt4UHJUhQUgv/OiVCXKNQIFpGy3ajTOGVL7yNQ7bQxIkCQJ5XJ1Ywt+ksluZPNPN+Gt3N5uqQoXDnCKVXtNI5TMULICVTa6CClAr5AKXNh/XijCO8XN7Xwmm8vtvYR397fzxUqdcGLZncjJ8rQfx4xolBDwHzK1Y6SzIvF3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/31.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "J'ai dit: Elle a dit... Non, il est mort.",
+    "end": 10,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=7s"
+  },
+  "thumbnail": {
+    "hash": "fce59f6600",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nGMQ4ucTExIQ4OPl5uJiZWEXFeS31VQMMNM2VJKxNzTSUVRiYWbmYOfg4eFVlhLXkRBmEOTnlRQVlhQREebn52DnZOfg9LfQD7XQsTExifYPqMhMT4mKkJeWZmVl5eLiUhcTZhAS4JMQFpKVEJcSFebi5OZg54w113Ey0F6xdNWKRYsLM7ObysvSoiIsjY2lhAVN5CQYhAX5xYQE5SUlJISFFCTFhAUERTjZq4pLD2xbu3v9gvlTJ7Q1tOUmJ5rqaBvIiDupy4E0iAoJyIiJigoLhRhr+Wop2Vla79q6fVlT8fq6zK3LJl8+d2bGxAkqokLOanLOOkpgDcKCggJ8Jiry4cZaGuLC+anJCyY0b2gtXF+Zvnfj4tPHDgd7evjoKTtrKlqqyYP8ICokICDApyQs6Kmu2JMdPbcmvSwhqLcic/28nrs3rrU11pvKSWa5WdprKZoryzAI8PEIC/IL8vOxs3MI8HBneVp3xXtPzI7wtDLxd3UqyszUVFTw11ePszO0UpM1U5Ri4OflEeDj4ePh5eTgZOfgkBLgDzbTbozzCbU34ebk4GVnM5SXSnOxdNVV0ZcVN5KXBgAhPWLT7lpySgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/03.png",
+    "width": 1920
+  }
+}

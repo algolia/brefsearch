@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Ok, je rentre.",
+    "end": 77,
+    "index": 32,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=75s"
+  },
+  "thumbnail": {
+    "hash": "01a5f5d3e0",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXBXW+aUBgA4BeQ7w/P4QgqIgJaKlQQcDpLqai1y1rbpO1Mt9TNdsnSXSzZLrbb/vc9DwDUJNUI0vlROIpHsZd98Gf30fl+uNgn6+dh+aWTXA/e3UbFzs1v7NEGAFiK4v0gSvLp8CSd5YvJx9ew+iZjuxWchYvDePk1vXgZvP8UlY/z7Q+gaUFWGnE+TapdNrnO3CCLiuLiEPvHtmmPz+7Lh7+j1Ut59/vy6d9k+Qg0o+h1VK3X4elDptsCVw8FNHESz4sdw2pbfjfebPZv28Pb6up7UdyAjPymdVRt98vN07GARAEnqOXwCDjMyU1GIDRbN3tpf1gk4yrJzqHhFqiddbPdbHLrsWqH2KHpsDWNlw2ax3RNoRgNoTYmHUbEKu4CtjLDOxV1z7KicXfQV0ydkTiJaMRR1SZV04BW8+nq+defzz9f03kFGvFwK6zxiGLUBu4oeo+XDEU2nFYv8E+AkihGUU3f6qdBUgbjEohbELegWaySoG6lotpWJMJQosQjUUAAHMvrnNQGWgOQFNT9D9FUPQoi1zpsAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/32.png",
+    "width": 1280
+  }
+}

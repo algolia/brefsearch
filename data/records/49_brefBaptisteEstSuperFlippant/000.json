@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Mais non. Bref, lui, c'est Baptiste.",
+    "end": 1,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=0s"
+  },
+  "thumbnail": {
+    "hash": "0a3b8dc36d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgElEQVR4nAXBW2/SUAAA4JNInGxzc9qhDQko64Axx6WlLZT23O/nlLOJLD5ooiY++i/84X4fGCe3eZoxQo3SzlivjcComM+qbC4JlRhLJnBdWwodhaIqQDK6yZdLhrAzNvjw1AZJUHqXoGJluGi1aU3LEX7U7IsRBu3AaDjcZClHpHU+tPu9sU4KWGZVNvdSOKmC30tCDlYevfYUgn4vKrOMI+y08dpapSxnOF/h9eJb8JqSvWslQkevn73ytAbR5WmZphxhLaRiQnHx04g/vHlcf1aw0ox64zisj6169tLiCry76OarFW6QoJQi8iu4fz++/rUs//hheTfWlFipWVM9GRYEVE0JLk9P7qeTTVGgukYNlOX6N90008GoH92PE46gZhxv8iCwJzuDtuDs5YtB/L7ZbmG1myRJL4pu+r1RHMXXbxazKW1qgUmVzh2pvx8PhiJw/qrz+qQz/jSMo7dX593o4mw06MfXV90OeJhO6qKA2yp9mCm0O4SQLxf/AcPsYfRjd+ViAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/00.png",
+    "width": 1920
+  }
+}

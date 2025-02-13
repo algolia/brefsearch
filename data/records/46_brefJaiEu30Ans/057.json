@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Je mélange plus les couleurs quand je fais une machine et\nje comprends l'étiquette de mes pulls.",
+    "end": 59,
+    "index": 24,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=57s"
+  },
+  "thumbnail": {
+    "hash": "51c3879d9e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nB3K35OSQAAAYFR2YdldfruHiCDicgiCoaKgzGnZXaXpzfRQ99D0UNP01kx/QP97M33Pn5CX23X90B6f0qy8YwPXGXpeUIThMZm8nidZEFLiBv72WN1+7He3RS4Uy23dvtk0B9tiClI4nx1P5yJ5lQ9d19B0YuvqcDxaLcuX593HSxoLZbV/OH1o2hMhaqfT2dTN7fkzpaOeZIgAY2QS7LB+VhafqtXL+3wtpPkqnZdTniKEuj3x7++v365PDtEf76PYC8Os5sH9IV88NmfOz5fTd4EQghCiGAMAfGa/W8638eRa8j9V9KtKsnJfF4svzWJfvp3Nbu3upyDLMkLIosSzzPVkHLH+qG8x05QVgiRFxXSXxNfNEiuG72+y9CIghFRKI4cFtmFhRZOhrqBuF/Z6kkrUZOiso3Ho+cyNBh5nzlRwmZ36Xl/TJFGkMrSJMtApQdg1zHhw5+o6BBKASDcdm408fyow06AKBiIQRREAIEEp7Ns1j/5XAKEkQ1mCiBCNh/zQtP8AfOs3DF74zgYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/24.png",
+    "width": 1920
+  }
+}

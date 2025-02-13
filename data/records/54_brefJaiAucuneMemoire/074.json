@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Je me suis fait chez moi.",
+    "end": 75,
+    "index": 28,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=74s"
+  },
+  "thumbnail": {
+    "hash": "6689636bd7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXBSXOaYAAAUNrpdEmHFk1j64IRZTGCCggf8LEpIKixKEiEaDKSxZkmnbHL9NBce+ilf7rvIRdjNQ3gZmqkgbbyQDSSpXaTxqsaR1cLhUqxQFY+Vt6jpTeviy9foM+fITNd2E60m4WVuXLmwYuRAtpNpl5zAd87xc5qBaparqBvKygqc13fGiJRGN3n+cozPKZhkg2HapgM1ScJTxHgWdkVm8sRdOSBC+00StM4Q379fNpsbzH0uHyEWnRTb51SpZLUZuxBd6QM4sl4kyQTb8I06JN3J0BUkB8PXx/zndwX6sUPLQzDsSL26ohrdexhNJstkiR1HF/gpU+lWp/jp4GPOOYoOg8fb/e/D99vkpglSLzWxUmz29NdwzRVk+0ILMvTNAuhIcsAgQDqAFrQWkeXf//8083wuG7Jir+N43yd3F1mYTCFQOux/TbDAhkgQBAtDdqaoUnqUB/WGzxOSHdXm4d8l6frL7urp2+Hw/4+Wy5X8/ln30O4Vq1D4BxJiByrCCJFMK7t7q+vsyheL5areXg+DhzDslXDVnVLUf8DbZphyo6E6MsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/28.png",
+    "width": 1920
+  }
+}

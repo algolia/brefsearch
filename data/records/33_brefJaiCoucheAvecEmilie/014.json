@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "Elle a dit: Lol, je déteste ça.",
+    "end": 15,
+    "index": 8,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=14s"
+  },
+  "thumbnail": {
+    "hash": "17e32dbeab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF9ALWpiJnFuToGCc5WKd5WIb46MYW9qO2xnLFJPKTUoJyceHS0hIDgqKjovKU1NEQA+HyJaNDdhZUmDelatlIO8qJuehXuji1aUiz1NSy0XDA4RCw0XERISCw4OCAk/OR4AKhARa0dGb25bVkU2LR4bTzMoTSkiTD4jiJg9eHlLZDsyHA8PFAkJJhwdVE1OgHh2ACUZHoJqbaynkz0tHjAWEXdIOo1VRVg9MkdPQEpNPndFNmE5Lo6FgtrW1enm5tnX2AB+e3jCvrzn49pQPS1ZLyGWW0iTV0hsRzM5PS5PUD5bOSu/qaP5+vvw7/Do5+XU0tAAmJiXvL286+jjq5iHcEgzgks3j11UjYR3TlRDVVtKwsbA7/j36e7s5+roz8vLwLi5AH9+gKGfocvFusCzpoZWP4NMMZxvXMrHyJaDf3dZV96xuuSqtdyYpNWJlrhRZ61DWQCUkZCljH9zZV19cGeWaFWSVj6abFyZhYlHDhFCAABXBQyLITOZL0GZMUKnQ1apUWIAkImHaEIxTD85XFNOn3tskVU+ooB0kX5/RwQGTQUIRQUGMQEDIQAGPAAFTgcMYyEnm7awSETvGCMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/08.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "J'essaie de marquer des points, mais j'y arrive pas.",
+    "end": 40,
+    "index": 15,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=39s"
+  },
+  "thumbnail": {
+    "hash": "016e975ab0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHFqcb6+ycLFwKGemqehm8TFyLCutD03OAMAAAIAADMuL3x2dGhhXkxFQjgxLEE3MwB1b3S2srCztKmZlZNEJheUe2+4tLpKQkESDA0lGhk7NDR/enphWlYdHBsTFBNDOzYAcGZnloyJlYyLjYKBVTUog2NYiYKDalxXUEE7dFNHaFNJem5mW1FMERIUHxwcSkE9AEQ1K2NTS3VmYWZeXls9LWtGNmlNQXVSQDksKDklIDQnI1BBOF9ORDc0MT8+NVFLQwBaTEY2Jhw+KyJbTktiS0FXJx1ZPjVhRzkpHxowMTIvLCscFxVHNy1BNCZPTTtBQTIAYFJOKRcSJhQQQyYZQikfVScoVCMvFgoOLCAaXElFSTo4UUA8Rz44RzYrXU5GWk1EAFFFQkEtMFJAQ0wuKkUfF3JCPoNISVEuLDkxME5PUCIlKBkZGxUYGh8kJ0xMSnJiWgBLPjhdUEl7b2prVlI1GBFSMh9AJRZsST0rJCQ8QUAwMTUtJy0tKzIoLDBIRkRQQToALCEcNyojSTsyVEhAV0hBf21lc21reGxna2ZpcWxth4GAnJaahoCMhoGIoZ6enJaXjR2Ctmp/TQAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/15.png",
+    "width": 1920
+  }
+}

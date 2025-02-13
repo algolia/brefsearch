@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'ai regardé des vidéos que j'avais jamais osé regarder.",
+    "end": 65,
+    "index": 25,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=61s"
+  },
+  "thumbnail": {
+    "hash": "c76a7d7684",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXBb1PSYAAA8HVdsT2bY3vgYc+e/YO5yfizTWEJQ2MIZ3CYAy/JLM6yLCqtsHrjeV1q9KJOL79AX8MXfbp+P0oR+QzPQRYkARBYjmU4yHHrnrkRVnu16tvN8OWzR6FfjCqluudUCxaFIK+gZC2vNBZUkWUZBvQc8qFZHAd23IyOD9//fjUaNBaX3XzNdWplmyrksFvSTqfDSdzgacCzXHNeOu0ufV3zDtor02HvfLR+9SKePR92l33PzlL9+8Xp687fyzdnez2OBgCwbRM/8bSPa/5RJ+iHft21G3n9586Dm9mn/X6TGsXu/mT1+tt2VDJBAgSGFJnShoVCDYYG9lQpkFMVOV1T4fet1r/zQ2p3s7K3VfUXCBFFVeC3XeWLg4/K5GQQxjl59c6tbuL22MKPXb2lpZ7e8yhdQnkFywKURFFhmd0M965kXCjJ60r2gvCXmDkgybZltG2z4xQe+kuUKiGC0o4iZyCsz9E/MDjRhT8yM0N3x4i90sCkLC8WrJKuBrnsijVPkUzawMiUkCQK0VziGNJniP5FwI4qtBD3mdADM50WeQJ5GSZxSvgPkH9Tf0yGEX0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/25.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Ensuite, je suis allé aux toilettes.",
+    "end": 58,
+    "index": 23,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=57s"
+  },
+  "thumbnail": {
+    "hash": "7a0efc08f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrklEQVR4nBXOO2/TQAAAYC8Qv+K4PtvxXeyLfX7HtRunTZwGmwQFIsU1bSISuQ8VISEhdUFIlIWNgQUxIIRYUXdGxMTEwIDEf0L9A58+auDgSYATohcE3mwO/7za/H1T/3w2X6fE88B0oNf3wqdFPLERavEKz1IP+sE0xKnRXvrGxyr7/XL77/r0++V86nREXhjb6DRzL8Z+FeNQ3ZEYmipH0WLPrnzj9Sw5S723s/Tz42KbuLmF5CaXIHkRwCepud0nQ6wAlqHKg+BoGKz27C/rya+r9Y/n1U398NOqWEXEk8Q+lAtbm3uoIFqoigrHUCejXjlMdrF5NfY/LEfvF9nXk+LbdnYcdPMOyE11GRkzVydAbDc5wNKUoxGiBYbUOerh6/v9c5fUoVn2LK9tDrG5DPWzzKliy5Ju+dsSEi0k2T4kriy+OEzezbOLQWAAiAAJcfCoR+oDq4ywuSPILCOxDGUAossuUa3cgrtQyW09horIKQ70464/sbtzD+7rMmxyEtMQ6AbVbnXkpsY0+NzSN4lzHJm+qrK0gADqm35mGjEEuMUDlhboBnP3zn93oE6GYKKGaAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/23.png",
+    "width": 1920
+  }
+}

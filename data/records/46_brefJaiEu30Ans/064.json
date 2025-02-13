@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Kheiron, la éteinte.",
+    "end": 66,
+    "index": 27,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=64s"
+  },
+  "thumbnail": {
+    "hash": "edcfad34ad",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABYElEQVR4nCXLTWsTQRyA8TkkO/N/m/edzU6a6K6QmJXYHhS6QaRYEC0FwUuhVw9W/AbizU/gN5Yg/C7P4VEBgYEJSUgcuUg+kE8s3+bp193p9918Guuuyy1oXC5wuVAXXghIAMGgY0nio4Qi8uM0/X24/XM/z8+6fRud0bBccLNUQ7BCNrCvPmTrgrgkvvf+0279c54eLsf3Yz22sdU66iZorVaMDqX37f1ueyjJkiTri3NfDpun68P368Pnl9tEUBGKMVFr1RHeDvV5DF/3mze1ZaBORIyZt+XxOD6+Hl91EbUuzInQG60+DKuPQ+/AXDheO85MnZADUxjfbcrbmgrzOYkCYseoboZ+yp60RjAWoQhlPkuEuxSuVm3m858IuWmOfVLV0rGE3jIbyIydcCTMwllobe0+p0DoERxoapqrdaucMVPxNy9q9bZYrs52lhNTa/m/zBQQPAI3zWWf/wH9SybwrTeCowAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/27.png",
+    "width": 1920
+  }
+}

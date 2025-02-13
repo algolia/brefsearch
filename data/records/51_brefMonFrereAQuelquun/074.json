@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "J'ai voulu savoir qui c'était.",
+    "end": 76,
+    "index": 34,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=74s"
+  },
+  "thumbnail": {
+    "hash": "75a6192584",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBTW/SYAAA4MYA0tYYpIavjlXefqxllJZB10Ipk9LSZi3lo1RLHbDIpguYjLiDWTxoTHZQLyZ6MFEvevNf6C/b80CJRAJFUQRByB1ck5uOYYTjSS6HB6b++83LT/PBud2xNDU4tidd2dcqEIwgMAzHYvEyKEWj0cnUX4azQib/cXvx9/325zr6ulk8lup7AChize/3IDiZvI+id2JxkSq9isKb6+vX681l9PT/ry8fFv473z41j06G7sS2B73ubOBAOPZAZykslZobWoNlhlZ/s1rZmvrvx+c/V2ffN8ubVWSqLaUmCBwbeQ5EZzPnnYZCg7XbNZqHnmW+WCxkvvptu3zr9bZG+5mpywfdwJ1OHGc+HkJisXDaFIdSddFrhY79xB1dPL+cdtyZKo0Oq2Zlj8QBu9+Thb7Mt8JjG4paYiBXFQboNb4jNjTJ0lquVNXbjNCgyIepNEXs84zAZkGtVBubFhQo/FGZLmAYiefsA8lrulSRBTjJAIkjOCydyabxSp5RqTKRo+tCG/LqZTqfTd5NxuLxeyhK7NCAlJhHHLVbkUm+TrD+OLw6W5MEXyqyu0XuFrL6Za11r0ORAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/34.png",
+    "width": 1920
+  }
+}

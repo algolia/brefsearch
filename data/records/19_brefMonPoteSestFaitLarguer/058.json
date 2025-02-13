@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Pourquoi je me prends le nez ?",
+    "end": 59,
+    "index": 29,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=58s"
+  },
+  "thumbnail": {
+    "hash": "22599b4842",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXB3U/TQAAA8IZ41/bu2uv6/bm2dC203VZG7QZjY4QMRqAuSliIIJsZAZH4wINGY0xMfPDFf9rfj9nFbIdys0BZJ9LTtnC7KbzzyaqF1zG+Cfkrjzs0+ELhpyY68nBLQwwGQEXwaZT9OU5+9KSegXNdmDjke49+LYQvOVlsy4tMq3T0ZpP4DciwAAgAVCZedo1zXzQx9EV2GkiHBhzqbKXBI5fUIS0UfhJIuUUYmQMZ5UYOOQmoKyKHwELlLxP9rMwkjHqBlWhCV4I2gh1XO4gdRoRAAxsheWWJUCFsLPFNDG0e/L27+HS6v9pPb163TkIlVXDHpsPIZDAL5+1gEDuGItgiaopcKcOxr6xH+XUZXe5Gt1334477vm3MW3TgUSZo8M+jrZfz4uEgGTdVj6LHcfvf8uLhuKxT+3qQzXeiRMWZKXYN7FPA1Kn1bdr5vBfViZqqxJfwXT9eFd7QlStPneXBXqhvaTiUscCxhGOZD6VfZ9Ys1vpug3LAwLBvS7PM/31/9Wv99udy/nJWLTJ9GjYmgTyJjP/h6kF/473DdgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/29.png",
+    "width": 1920
+  }
+}

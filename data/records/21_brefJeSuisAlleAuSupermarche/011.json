@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "name": "Je suis allé au supermarché.",
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4"
+  },
+  "line": {
+    "content": "Du coup, j'ai pris des steak par 10, du fromage par 10, des oignons\npar 10, des tomates par 10.",
+    "end": 14,
+    "index": 6,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=11s"
+  },
+  "thumbnail": {
+    "hash": "09950ef1e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGlbYmlbYW5iZXZqbYR6dpGHfZyTiKylmq6ss7Ow1KuUlpVqXDYnLQcHDyYkLouIlQCBdImBc4J1YmphTkp5amevqam8uLfJxsPOzcu8t72Sd3WLY1hBLzMtHiQdFh58dXsAe2p1alRfY0tVRzdJdmdmgXN9indvqJ+RurWoyMXCnXt2nnJhc1NLd0pHW0xRpJ+kAFpCPXZmV2VWYWZLVIpxgpCAiXtcUmVGQYZrYbKmno9yaYBVSl9DQIJYTaKRjbGtrQBRNz1hUliQeHR/Y2mSb2ikhoOOaWKGYFiXcmmmj4SspJtGNjZEMzN9XVRzYWKIgoUAcFNwV0l5YkxbeGBUjnRos4uGpH1ygmFYpIl6saSe1tTPXFdbOiM0Tio4YllkcGt0AI5eNFg9PDsaJXNSRIZxapl8eWVaaXhvbKWZjLy1tqalui8rR0MdMHo6P2opLnRNUwBpWkZhTzVhUxWNhDqgmHmGgY9RNUpOJitoVE6XgXVMQ1UYHTplPkllExpMBApEBw0AhHeLhn8ndXgIgoYBd3YzXT5RagoQVggLPSEjPC4sIxovPRQhYQ4VTAcPSg0UPQoQvV+vRXJksokAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/06.png",
+    "width": 1920
+  }
+}

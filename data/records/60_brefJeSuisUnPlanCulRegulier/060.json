@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Parfois, on fait l'amour.",
+    "end": 62,
+    "index": 25,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=60s"
+  },
+  "thumbnail": {
+    "hash": "8aa2af97c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJysy7XJ8o2OmYiDhX58gykiHVNLRXRsaYeFlpiataCmwKSrxaOrxJuju4uRpoWLoQCwwePK3P+gp7dvYlhqXVRSPjZiS0N2b2uNi5yanrqkrMittdGnr8h/gpFYVlt4eYcAtcPnyNn8sLbJjXlqW0MtgF9YiF5SVk9ZjIqhm566pKzIqrTPr7vWf4SWHRgXXFlgAJ2ox5umxLC40ZOAdEw1I1U4L1IzKw0NL0VFepebuKauzKWvy6u00nh9kwkGBzIrJgCipcCoqMakrL2CalJsSjB9VjZAKSITEzoPDjlVVHaanbSUmbWiqcpbXm4HBAQzLCoAoJysmoiUsbzSY0w3hmBAuo1tRSgbDQwhDw4nHx1DXlhecGxxjY2nU1NkCAYFHBcVALG81re50bG82GtaRV1JPFpFRDAdDBcQFhQRKBgWPDcxQVhOQnFtd09OXQwKChgUEgCpuda8z/W3xOJ/fo9iUEZWQSpFLxUjFhQLCR4UEjk1MERSSTteWVhGQ0sLCQoQDg0AkqG7qLjYs8XpkJOfZ1A4PjAtPSwZVDoiaEtCSztNQkJKTUg5S0M+PDk8BAMEDQoJQAm3o1C9pOUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/25.png",
+    "width": 1920
+  }
+}

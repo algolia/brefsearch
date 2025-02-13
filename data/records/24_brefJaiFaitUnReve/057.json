@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'ai voulu lui dire, mais j'arrivais pas à parler.",
+    "end": 59,
+    "index": 18,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=57s"
+  },
+  "thumbnail": {
+    "hash": "f234cd4d02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAsIDA0KDg0KDg0LD0MnII17b6Kroqeyra24spGVjouQh6qvqJ56andZSHRbRG1gQgAMCAwMCgwLCQwZERJWLiOomJTN3OintMRfXmE5LTE7LzKCfnm3j3yFZ1GDakprZVYACggLDAkMEA0OJBcTTysgrZVytambMy81SjAlkGlQUDYtJBkZpn9qmntfkoFecG9XABEMDREMDRkSEjIgGUMhGLOcjL6+sSsnJ3NMQa59aoNYShwQEFY+OaaGaJqCWYFyYQAhFxQeFBIpHBhHLSBMMyujgWqxm38sJShWOzqRZ1qQZVZUNCw3KCmihmqii1yNZEYAOSUdKxwYOSceSSweZ19bvbawt6OZOzQ1WTk2nmlcnGVVRCokHBUVZVY+p49fenVpAFQ3JkQtIU40JEkuIZiXkezo09LVxFJORxsNDXNFSoBORysZFRAJClA+JKaSaHpoQQBjQS1gQC1iQCxdRThnaWOFf22Vf2c4JiI1IR9iOzZeNS5mPjI+JyNEMymYgFtybWUAaUgyako0akcwaVNCTVBQT05OkmpWQzIue09Gf09MfUxHo3Nfak9CSjk2k2xOWEAoACCO4ranoWoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/18.png",
+    "width": 1920
+  }
+}

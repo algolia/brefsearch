@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "C'est toi qui... Ou tu te...",
+    "end": 49,
+    "index": 25,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=46s"
+  },
+  "thumbnail": {
+    "hash": "82c6fc1c31",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACMGDioKEjkMFksWJEkgLlUjMWgtPV89P15ERE1BRbq4vdHQ2MbFzr69xbq5waSjqgAqChQvDRdGFCBTGypOIzFaJziBSleOa2dnSEYZEBFxcXfn5e3W1d7T0tvNzNWzsbkAMQ4YMRAbTBgkURooSyEvWic4c0JNY0dGVj49Lh0db2Rp4uDp2tni2tni19bev73FADEPGzERGlAaKFAZKEUfK1MhMHtGUF9BQWREQ0AqKZqMkeLh6tva497d5tva48rI0AAnEBkqEBhMGihGGCY6GiRGGSZbKzRbPDxAKys2Ky2vq7HKyNDLydHT0trQz9eurLQADw0QFBEUGhUZGhQZGxYaJyElMCktQDQ1JBsdMyUmQjs/QD5COzc8NjI3KygsHBkdAAkIDA0MEQ4OEhERFDMxNURCRz49QU5MUUpDSEM8QUE+RUlGTUlGTDMxNgsKDgoJDAAGBQgLCg4KCQ4fHCE/PEI/PEJCPkdBPUpDQE5JRlJQTVVKR09BP0Y+PEIaGB4EAwcAAgEEBQQHBgUJKykuPTpAREFIMi5BKSU6KiY7LCc8PDlCNDE4KykuHh0iFBMYAgEEcCGEPrmjtAQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/25.png",
+    "width": 1920
+  }
+}

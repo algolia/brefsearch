@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Pour manger, j'ai appris à inventer des plats avec ce qui reste.",
+    "end": 30,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=27s"
+  },
+  "thumbnail": {
+    "hash": "7e5164e6c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AKWmuaqtwK+xxLe6zbS3yXd6iIWHmLi6zrW1x7S2yIiEj3huc4N9g5CMlYqHkIJ+hgCWlKKZl6ajoK6Rj5wqKjEnHiE/MTVoZG6Xk6B6c3xrTUepjIyKgImXlaKVkZyJhI8Ako+elZKipaKxZF9pEwsOalBPgGBbfW91iYaUWExRYEE+pYqMmo6YmZemmJWijIiVAJKPnp6brKKgsHpyfWBDPnpbWGhJR4Z+i396hmpWWlU6OZJ4fbSgqKaktYaCjV1UVgB4eYt6e46Bf5B1bndmSkZ1U05zU1KRjJt0bnl5bHVUNTWben6klp9zb35ZUllKQkUAQklgRUxgQUleUUpTYkU/VD08j4GJnJqph4KMmZSgMyMmaFFSX1NcKiIsOTM+TUlYADtCWUdPZ09OXU1MW2JOUl5NTpCOnpaRnIeCjENCSx0VGyslLisnMiEaISklLkdDUgBhYnFqbH9gV15nVFVaSk5qTUhfUldyaXJXSEpHODo7MTZKOz9LOjtIOTszMTlCNjwAdHKAd3WDcG15YFVcXEtOcFlaYlNXcmVrdWpzZVpiUURKclxgemJhc2VqZmRvWlRaosW4Z4JjsBAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/11.png",
+    "width": 1920
+  }
+}

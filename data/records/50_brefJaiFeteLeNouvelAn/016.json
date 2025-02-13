@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "Le petit jeune, j'étais à deux doigts de le juger.",
+    "end": 20,
+    "index": 9,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=16s"
+  },
+  "thumbnail": {
+    "hash": "6b0f2a98f1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADlRdVZqiFxujENbhFZihoGInIqWqZCar4+aro6ZrIqVqYiTp4GNoEtggTdPdjhPdACWm504Ojw+Pz88Pj8/QkaxtLjBwsXBw8a/wMS+v8O/wMPQ0dTNz9LCw8e3ub2ssbQAmpyeBAQECAgHBgYFBQUFt7i62tre09PW09TY0tTY29zf3t/h2drd09TXycrMvL7BAJ6fohsaGTAvLiIiIAoKC7a3u9XW2cjKzMrLzczMz9DR1dXW2dzd4Nna3tDR1cTFyACio6YRERArJx4uKiAIBwi5ur3h4uXZ2tva293a293Y2dvY2dvc3d/a297T1NfIyMsAoKGkBgYFFBINExENAwQEtbW3z83DyMa7z9HU0dPU09XV0NLS0tPV0tPUyMnJuLm4AKKlpz0+Pzw+QTs7PT9AQb69ucrHscC+scHFzcLEyMPFy8HDyc/PzdHR0cDAuq+toACprrGSk5S3trXR0tbX19zS0MrGwrLJw7PKxrfNx7TIw7fDvrPBvKu2sqKsoZOnoZAAn6KmYV5XlJOIvcHFvsDCwsXIxsfKx8jLycrMxMfLwsTHvcDDtbm8r7O0p6iro6eqHVUNgCHpcE4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/09.png",
+    "width": 1920
+  }
+}

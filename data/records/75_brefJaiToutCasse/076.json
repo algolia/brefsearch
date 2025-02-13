@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Je me suis dit que j'étais beau, que je devais pas m'arrêter là.",
+    "end": 77,
+    "index": 29,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=76s"
+  },
+  "thumbnail": {
+    "hash": "fffa2d96ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nAXBy3KaUAAAUJZVysNcL8gjgAICVwkQxxiogBVBKEgHnagx6bQZdZKuus3n9xysSqJqFe+LpPoe7qsi0IRqLH3E9keIruHoGqGp1PX77FiAKgMG8Aar86xcp+/H5s/u5+n0ErkoR7fnwDx58stUf/tmxkNhMRQnCn+v8LbIYodt2Wyyv6f6V1P++/zcFat8JG2dvsfRHE32aHLMw9odJJYS6HJqq1gwsSZjdZv4xx/p5Xo+lKtiJD0/GCrbxVs4IAhAEMsh1zjKbqIfZiY2c8x7pDfL4LlMX5+2x02WW8L7wv4doD6glsoN4rqhytZjITW4pd7DkCJOLf0pmV/2zbGpN2mcmfxljs5zxFIUhX8NBuza5ArEpUM2VhmMwnGp2wkd1KyTNPRntrW2xMZTJQhogsTbhAToWGUWKhMNYKBArPWlRbRbMqAeNSE0pQELVgZvi1BjwdtMTwyBaOMapB9l4Akdl+9grgginStGt5nBL7SerzC+wjzIjCPCgyfnFu8KXUgSCiDvuM6oR/8HaKZQiJ6OgjEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/29.png",
+    "width": 1920
+  }
+}

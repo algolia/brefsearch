@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "J'ai couché trois fois de suite avec une fille parce que je ne sais pas\nlui dire qu'elle me faisait pas.",
+    "end": 17,
+    "index": 8,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=15s"
+  },
+  "thumbnail": {
+    "hash": "f5ac3993c1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACccGC4gHDMlHzgpITsrIzssIzsrIzEhGhkODCAVEiAUEDUmHTMjGzAfFywbEycXEAAwIBs1JB86KCA8KiI8KiI/LSUwHxgjFRIrGBQhEg8JAwMlGBM5Jh03JBo0IhkvHhUANyQcPiogQSwiQCsgQCkbPSIPPSAYZkI6c0Q6LxcTBAEDKRkQSi4ZRisVRSoTQygRADIgGzAcGEYnCk0tDksrEXldSYlfVJZeTlsxJyYSDi8cEUkqDlMvD1EvE00tEEsrDgAZGBgoISCHcWGZhXynm5yql5mjdGh8TD9ULig5IBVUMBJXMRBULw9PKQdPKgtPLA8AKhMMjYSE0MzTppmexr3EqZaXeUlAXTQqRywoPiQgOx0PVDAQXTgZeWRScF1MXUQyAGg7K8G2u62jqK+hpM7GysfAxX5STaCEg25iZEArKTofE1YyEWE/IH14dmhjYFVEOwBxX1ywqrO2rLLEvMC9tLjFvsOVhoh+bW9bRkFqWldhTEFbORRePRtbT0psZ2RdU0wAenN2lY6Wsa6zqqOoq6Knn5ici4CDhHZ1dWNfnpKVeGlnXkIjWTgWWEtDX1pXTEI5D6aBPdmjLe0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/08.png",
+    "width": 1920
+  }
+}

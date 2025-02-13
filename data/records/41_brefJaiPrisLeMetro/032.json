@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Pour le goût, un jour, j'ai vu un mec faire ça.",
+    "end": 36,
+    "index": 12,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=32s"
+  },
+  "thumbnail": {
+    "hash": "d8af57c2a9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AN7Y3N/Z3uDa39/Z3t3X3NrS19fP1batsMW9v6GXmcfAwtvU1paNjXVqaK2mqLWvsQCLosTPzdfe19zc1tva0tfLxs/U0dqpoqiMbWVXOC+lnJ3W0NKEY1xCKR93bGnSy80AkqC3ycfQ3dXZ2tPY3dbbw8HJr6aurKOom311f1FCj3l2uqytfE5GZTgubl1Zz8nLAIOKpcHB0N3U1tbP09/a3ZSLk4BqcpB8fHtkYGpJQDsuL0c6OVY3MFstIIJuZdXQ0QBkaHalqrfVzs/VztHZ09Sro6+Sh5d+c3pDNjQvJScfGxopJiUZFhYsGQ5DLCCGd3MATmRwWkI3m4eD3NfZ1M3Pxb/FwrvDlY2PRjs5NCUiHBcWKSMiIh0bGhAMKBwXPSghAIePqEdSXX+TntnQ0tTO0NXOz+Pc3oZ9exUMCC8oJRkVFCAdHCQfHyEWEx4TDzIhHACbi4ofVHRGd5bLu73V0NPKxszOytGDcW8jFxMiHx0WFBIaGBYkHx4ZEA4cEQ8yIBsAe3J1R1BeYWl7ysDD1M7TxsPJzMnPkYiJMSgnIBwbFhQSFhQSHxsaFAsKGQ4MMyEctOXUpBenHbUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/12.png",
+    "width": 1920
+  }
+}

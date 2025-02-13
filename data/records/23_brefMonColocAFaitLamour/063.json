@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Ah.",
+    "end": 68,
+    "index": 31,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=63s"
+  },
+  "thumbnail": {
+    "hash": "2806daf81a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AMC7wWVeYmxZUKyQeqaNe6uRfqGGcaSeocvN08jN0szP1sHE0bK90bfAz5eesIuJlgDDwM50cH9YRUOlhXSlh3eigXCJaFihiHnR1NvJ0d3IytG5sK6no7CTkZ6NiIiDf4EAxMjXlImQYkhDgGRcZEdCgVxRaEtDq5mRv73GtbS5qaOas4VJrZybnaW+tbzIvL/LALK4yaWap4NhWJh7bY5tY6aEdaB4ZaN7Zru2uby+xcLCwMWwkcXQ5cjT7MDJ2bOuuwCboLaorL+ThYiWcmOVb2JwUEx0TkKeioO9vL+4u720s7Wum5u2qJrHwHyopKOfmqEAmJ24rLC/n5ulcldNdFRJaEFAXj84npyjqaOsmoiJqJ+QsXQ5vKKHxsFzsK2mra63AGpucIhndaiPkXJfVkk0MFM7NlpBObKtss3P3o11i396grNdYqGOoa271Li+ybCttQBaXWdkU26xqauUemtgRj5MNC54XFKysrzHy9eRlasvL1l6G0KaRFKtrKarrLGpqbUAHBxDZWuBsLO6kXduiWpdd1RKm42PtrzLu8DMoqW1IyVQHyVOfCAxnHNmdHhqgH99rETzn4FlOuIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/31.png",
+    "width": 1920
+  }
+}

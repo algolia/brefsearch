@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Il était à quoi ce cake salé la dernière fois ?",
+    "end": 112,
+    "index": 45,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=109s"
+  },
+  "thumbnail": {
+    "hash": "de943b1b1e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nGNQlZFSl5ez0dPzN7W+eeHyoa2bz+w/5K2tV5ceVxobUp2eWpiY1FqcP7Ug2UpSrre2gUFKWIiVlc1KS9NDU39hS/3hrZtO7z3oq6ZTEx+c6utSmpLUXpDVkp+1uL7OXlp5zbwFDJ4WxroyYn5GWkbySs466qVJCXtWrXbXMw1ycwl2dQm0MIn39U7ycS+IjgvUNrl24jSDloKcoZKMtrSYqYSEirycobBwoIGBlpa+mpKqlYFppqObraqGlaaGjqyCrrxydnIaAxgwMjOxOBoZx7h5hNg5GMjJcfPwqshIm+nomcrKxTi6ONk4y4nLiggKsTEzM4iLi0lJSnKws2tqaJWnpJUnJ5bl5HBxcYsLCfibaquIC1tra5hqqMmLiwny8rKzszPIysrJysqKCAuzMDPLSMuFerh3FuWlB3rlh/p2ZCf2Zcfm+Dtnh/ql+LuHOts4mxkyMIIBPx8fGxu7uop6S1nFtnlz18+evXbOvO6qqtyI8Bg7c0cTEwNNHWcTw8LoUAZRYWE+Hh4BfgFuLi4LI6ONs2dNqSgqCvWOc7fzNdZyM9Y3UVGSFBDgYeeQERK01dEAACbScMvRJxbCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/45.png",
+    "width": 1920
+  }
+}

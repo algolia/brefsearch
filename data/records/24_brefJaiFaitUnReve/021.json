@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "J'ai essayé de le tuer 27 fois, il voulait pas mourir.",
+    "end": 29,
+    "index": 6,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=21s"
+  },
+  "thumbnail": {
+    "hash": "80fe460315",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABTUlEQVR4nCWRW27bMBBFFUvkzHCGb4oWFUd1DBlB83KS/jkFkkX0K9vpxgunCzgXuOd0agCtEDRZ9jd1ij4FX8bSYqze5912rqkSCSGDJjVAN/SgFfU9GUXn4xokIlhrY/Cl7+nj+eXz6bS5QgJBbbTCbvLekS0uff1+v5t2Fp3nYNBaicK+hvH1cHhe9wRCKGKku80ps32Y579ff84/H4cNMTlDDkGcBEPu5en+/W0tMYD+BkZxpPh2rOfj6iXPqU5hBC2GLGjJofw63S2tZO9BswHuvLGbnlpIr8setYsSk00IYtCBtjmkm5bW69ZSUcowcGe0UQMx8H2brbk8ZvbWJpGI6GrOy5xPh/0ULwBq6tS3pWEw1Yatz8wx5ymXOcbJSI4hHZf5R21aM1ymodM9qAEuHUiWVJzEmLZj3eVybV1BDLuxCYpW9L/DPydcHRX5qFFxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/06.png",
+    "width": 1920
+  }
+}

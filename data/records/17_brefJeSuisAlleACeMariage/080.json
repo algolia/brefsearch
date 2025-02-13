@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "J'ai dit: Non. Pourquoi ?",
+    "end": 81,
+    "index": 31,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=80s"
+  },
+  "thumbnail": {
+    "hash": "a588d66747",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXB3VPSAAAA8L3lcVeKImqDsSXtA8ZijQ1kwHZbjDlQtqFDSL4zFPWoqMsPdoYGHXnXeddDlJUP9qT/ZL8fkMPmCuSiTrplv0siIDUSiC2DRRYvcrjMUB+qxS0OUVCXCDnqOdk+tYFSeKkeheosqJKwQBFZLniip67K0tAUZf+iyYfLAq0TLjPgXsPn1ygY2Fnx7SaQWtQrsWKSDFWS1OGq3FViXSWuh7A85d2iQRN3GoF5HXMawQVgL4F0hKf1qJcCIbfD2UqSA1M5M6XLktITw40V1MBn31XN698/2xqnIQ+BXR7eF9Eq69ngmW2r2rPUwXrc1uKfcilbjbyM+PLozNFe+fb+9tB6ocEOoMl5OsknlQR28bbbazXfVMxuhu5rfD+TOjeFWsy/GVqwni1tJ/BC0G2RbqAd87zmHu+rzEHZoMGZprF6XjN6AnGapodWetRplRhPFp3OwFN5fDq9/AjYYJAGC7ZF/OvxwZX9/t/k5mJT6Wvccfr5iRr7Nfp2M+iN24VXApr0TWFzDwAmQCg0Nt4x/nxs3U0m18MvY53/vB4/kkK2TP44G/0d9L83spclOQK5aM/sf6Que22N4zlGAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/31.png",
+    "width": 1920
+  }
+}

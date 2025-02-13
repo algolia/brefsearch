@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Il est devenu tout beau.",
+    "end": 85,
+    "index": 36,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=81s"
+  },
+  "thumbnail": {
+    "hash": "c557d8c4fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nB3L227aMAAA0DwMcHx37PhOnBtEI0C7JRRUunbTkMa612r//ymTdt5PhoHEQCIgOWshKARtNGu0OkixpUCSBSFLghbIsOiKzhSbDANJc0Wg4TTBFadQC1pJ3nszFSSQBaRLgj9BzSpT9KXoM5z/D7liOJJcKlqvzQOFJSdOi7akgQEhkLZya9VQii5DK8GRZdgjIMASYSAUWTNsEeAUmRSvtZ/b5tb19zq9GTVmcMUUTZWbk5sFCfkSF8RzZCnUBU3Rfm3c1KyvKX2vqtfgLxnKFVhAQULQR6dGCkuBvWSpFENwp7a5bdvb2P8aNn9240fd/My8P6tikKzmyEma6nBu4nVT/0j+nOJzcBevH5M/df297e/OPWXWnmJ8WVdv3s6ad5v0Oj383Q/v0TxGf7H6ixJbr4/OPTl/lsXnTMlDqY7WnVJ983ZSou/St3H4ncLszFSqveStVTtdHpTcK7n7B05HLW0KK1eaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/36.png",
+    "width": 1920
+  }
+}

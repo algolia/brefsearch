@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Allez, je fais la bise à tout le monde.",
+    "end": 83,
+    "index": 32,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=81s"
+  },
+  "thumbnail": {
+    "hash": "273b895c5e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiUlEQVR4nBXLUXOaMAAAYK6KhCQQSEgCISACAloVWud002nb2XW9tb12uz1tL73r9Wn/ZH9lP3LX9+8zJoK2cfCxiD4UcRn4iQO7JLxs0uMkyxCsqddpSQHQnttquR7FRqff9O08LSRntnNIAkloI8htExYOnnG6y6KWexwAgWAbceNcs20uZ4rmgT/m9M++O9NRHnj3p2GOUCeYdhAFVu6T+0m+1cL4sZ3tak3Mfh2Qq0I9r5qfbZlTfzcMSowqghMXExsMfff7ZHSRSuPf35enwwKfnBTUjVykHPQ4zWOMiWlqYGlov8ukZ1sehLVgG82NsXAIGLTSm3Fimya2Bl0UVqGoEhVTr+ber3WZUTyM9LKq97kyxpJZvZ5y0blix8mIY5gy+rDpXj5vliMdufBUsVKyMk5W4/ItLFSgHJgxL/Xd130nHAx6Pdzvv9dCIghN04EgcNGnMp0qIQkxbtbL47xZafa1LV+/XTw/XH9ZFIecX1XqZjn9fXfNXLhI1dNZMw8DawD+A7Y/NXbZxr33AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/32.png",
+    "width": 1920
+  }
+}

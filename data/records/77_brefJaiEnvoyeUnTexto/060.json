@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "J'ai mis resto.",
+    "end": 61,
+    "index": 31,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=60s"
+  },
+  "thumbnail": {
+    "hash": "0a98c48f40",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG0bQHcdRoEhTIsiUJIkVZYnV5knWZonWponWpknWZYmWJIlVYsjUoIhTXceRm4bQAB4GUSGHUySGlGeIV+gImChI2ChI2ChJGKhJGGhI2ChI2GgImCaHVeSGlCGGkx2FEAAkDZepDttsmN/mk5RnFJWnVJZm1JXnlZYnFJXnVJanVJXm1JVq110sl+ApUtxnFJ1AM62xN/K0sbZn7rJkr3JnLLFebbIhLXBlbjIjK3CccHPnMbSo8PZnLODf9GfuNPEzgDawNPg7tDDzZjs6PLV0tzn7NHn596KhJXX19Po7s/Jxs7Hw9Dg6cWQK0PVob+9g50Ay6++4MLRx96jtsqDy9ynpr1lrsR0yNqjtcp+obtdwNKXvc2Sp8homINR0KC30bzIAI8zXKM6a7t2j5taVJtbVp9eXZ1dWZtbVZxcWZ5eXZ5eWZ1cVp9fXZlRUsiosrqcrQB5GkWGHU2RF0+dH16gIF+gIV+hIWChImKhImGhIWCgIGCgIWCdIF6TE1GjY4ONTmwAbhpAdx1GgiJNiyNRkiRVlidYmidamyhamydamSdalidXkiVViyNRgSFMdRhCbBc9itfV6IqYBzYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/31.png",
+    "width": 1920
+  }
+}

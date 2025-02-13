@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "Comme il faisait beau avec mon mari, Christian, on est allé à la campagne\nprès d'un lac, on a fait du pédalo. Je m'en bats les steaks.",
+    "end": 58,
+    "index": 26,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=52s"
+  },
+  "thumbnail": {
+    "hash": "ed0833b92d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGJhY42MjquprKuorI6Lj52anqumq66prbextZqYkk1JRT8sKScfGxQXFBMVExETEgBdXmBZXWB2enxRTEs/MCtCNzNdYWdwdHx8fohXV1hIR0VcRkBVOTUtJiEdHBcfHRgAcHF1hoeMenl9OCcejWZYXkA0SEZFbmdnamFhYWBiSkpLVkpEWkA8YExFPTEoSE9eAGFjZoWHjYeFintWTINbT2RFPFNIVWhFVIJdZ3Z0e0NFRl5bXEE1LlpEOmVcYGF4mQCEgoqDgYhwcXl5bGp4T0NLMCk6QVNGWntpb4l3dX47PT1ubnNbWFkwJR9fZXZvhaAAKigtOzpEbG12rqSqZ0U1OiojMysqSVBpPkttY2p2RUhFbm5yg4KKdnR6d4KSd4uhADk4Oy4nIKyntcW0u5d4cHFjYZ+UnK+quV1ZdmhQZXRXTXVgUnhydYSJlHeKoWV4jwCTeXSyiYbIvMrKv8jEtLevpa3Fvc7Cvc2ZgZFhFytpLS5xW0x6gYt3ip9jd49UaH8ApH5mpZJ7wrm/zcXUy8TRvbjHpZ+wr6m6mpGegkowf0ovc3R6dYukYnaOWGyCTmF19yK2NC4G4HkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/26.png",
+    "width": 1920
+  }
+}

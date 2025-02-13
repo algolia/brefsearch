@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "Quand je croisais un autre chauve, on s'est changé un regard de compassion.",
+    "end": 45,
+    "index": 15,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=42s"
+  },
+  "thumbnail": {
+    "hash": "095dc8a8a3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nC3N627SUAAA4GpLe87pudLTAu0ojOJYxgoMmQyZSWGMXWCoC8mGyC7RGMuWLMucZnGJM8boI/i4/tAH+PIp2mND14CRQBahq747G0S383cPXz5/v/103N+LqpXpcOsmPhrttifj3otnNUXXANRNDKmkYsnLnI52N+tNh9tXp/Gfu/v7yWgabUTrzYLjLrl2u15WjISJISGIOcKqBovHe/28m5fUujm7/D2/eJiN33Zar3cOwka/tFxt1SuKoZsmoJwIyUStWPh4+Graal7sdH9d3307O48H25fDXvQyzu1f57bjoDNTDANTxGwmM5a9VgwO1sJBvVEJVr5+uPpx/v7nyXjS3RQyVwyj8tNevtxWoEEwYpJaQcYNs9lS9gkwnUca6TY78/3hm+i5n/JUFTJIAzfnZZcVI4E0DXHMVxYyhZRnywKjNoRciIWNsFErljASCAoIOCWS59cVTQUJFaaZWHRSaelTmkaQI5Q0sZUUHiU2+g8YAsyWvqKrII2ITxlGScY8BDkADEKOkcBmEkFOsA0Bh/8SxP4CXrtDW+ZGI14AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/15.png",
+    "width": 1920
+  }
+}

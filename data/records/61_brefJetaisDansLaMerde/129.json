@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Mec, tu m'en veux ?",
+    "end": 132,
+    "index": 52,
+    "start": 129,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=129s"
+  },
+  "thumbnail": {
+    "hash": "46cb770528",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAZklEQVR4nL3OOQ7EIBBEUXdBI8ySQItVJNz/kJYcj8aTjF/+VXUc7yEia633PoTAzFpr51yM0RjzOWDmWmsppbUmIjnnlNIYQ0SUUt+mAJw3AD8dm3OutfbevXciem4A6NvDk3+5AHdXBLeWWGuIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/52.png",
+    "width": 1920
+  }
+}

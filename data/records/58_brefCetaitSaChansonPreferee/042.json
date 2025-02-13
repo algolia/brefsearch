@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "En ouvrant la porte, elle allait faire tomber la chaise pliante\nqui était accrochée à l'interrupteur.",
+    "end": 45,
+    "index": 14,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=42s"
+  },
+  "thumbnail": {
+    "hash": "633f2ef6c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nB3PXU/aUACA4cM57WmLFBkU6iptZ2FtU5AClg87Qi2SGAuikxmGOCWKkmxrGmZY2ebcErNkP3uZ7/1z8YLguN2QuJYuNTRpJyfYxfyo11nMp7Pz4eW7fhjcza/ORkfdy6EXBvOfoQ+qG+spDN8ofCnL8etraZbOJGLSBie/TJf0fLWou7a1/Hz79LB8DIN7/wb0mkXXVPqVLXuLjzP4BUNlEzGaJBhMAAAKuvrja/DnMXx6WP5aLW4mp+Dv/O1q1NmVkzUx+SrJYgiNNFuVuEHdOLSMU6ex8m9/f7//tvi4DO6Ghw5wDNGrKNXNRCHDNmRezSRoBMub3KRt+ifudbc+ca3Qn335dH31fuC1LUCRRIyhojTWRX5fFZ2c0NHEo7I6bpUv9qwP7s65XZz23dnF8LjbrBkKiNI4SlMkAVPx6LhVnrrWxN4+0LKDitoz815JcV4LzZxw5u2Zmkwi9B/QmKCfF1UhPW6ZBwV5V0ppHCuwdIoh4xRRM/K6IgEAEEKAoUhMQBIhTBAIRvj42knd2BYzAIAIhCACIxAyDAOfQwj9A8u+T6KthYKwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/14.png",
+    "width": 1920
+  }
+}

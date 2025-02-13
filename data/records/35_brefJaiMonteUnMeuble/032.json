@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Je me suis senti triste. J'ai crié.",
+    "end": 34,
+    "index": 15,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=32s"
+  },
+  "thumbnail": {
+    "hash": "5a540caad8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlOTGpfXn5wca2ipNLMz8G2uLeqrK2foaeXmZyMjY19fJmNjJqPj3RlZHBiYWxhYABpXFmBc3KXiou/tbfc2NnQyMvKv8O6q62KdHKomZqikpKwpqayqqqPgoGEdnWMfn8AdGVilYiIh3hyo5SMvLS0gXFrpJORtrK6V1BXh3+Duq6urKOjqqGgpJeXopOUrqKiAIJzcZyOkJyNi7iqqb6zsoBsY56MiaWptHV+inRvds7Bv66lpKCXloV7epmOjqGWlgBtXFl6d2+Eg3rBtLjKwcCqm5iei4hkVlNFQ0VBNzddVVGJgH2toZ43MC0ZFRQ5MjEASTcwWUg/WUxDem1rkISETkxNg1FEYiQQGh0cQzYuPS8pXVZTg3h0JB8aGBQSMCgkAFZHP2lZUUpAOUM5NlhEQD02MmQ/MnFCMTg1M2FFO2ZCMkg7KlFLRh0ZFzAlI0g6OAA0KCQtJSA9MyxRSUZiUEikhW+shmeQblRJPTRALiRdNB1XNR+XjolkXFYrHx0fFhkAEAgDFA8OIx8fPDAqXEhAXkMzYkYxe08xcUkvJiAdMyQdXTonb1ZJmY+Jd3BtDAoIxke1606Mu0IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/15.png",
+    "width": 1920
+  }
+}

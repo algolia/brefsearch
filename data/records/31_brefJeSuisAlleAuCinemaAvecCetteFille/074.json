@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "J'ai Je me suis dit que mon courage de demain, je lui ai dit: Tu veux que je...",
+    "end": 76,
+    "index": 34,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=74s"
+  },
+  "thumbnail": {
+    "hash": "c24cc119c4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nB3NS3OTQAAA4FXZhQ2QLizvhbx4BwKEltQ0k7QhSRttO1NzqTUe9OiMM870qD36B/zHjs589w9oBNqEV0XOkKF3wjuayFSsCm+GuuRbtPLM0YgtD9vKM/qG6lIC1gUbs67ThbbCU5FjCjQIdAi2iPC0nP152t8Eui2+Pq7S6ybJbALOfOLr2JA4XYZGFzIFmjLnKEKPyj/utt/b+jaxaAeuU2fum1eRBgIFDglMNBRRFFA0onCoodDs9Gj35cP+5f3yIbZoh98k5qqPzz0R5CqKCMwpTFWUUBhqnENeFb2uJvKH8+L5qqlNWcHcTeZcpvFufgfC/0OswkCBvvrP/TR665tE4HJP2mWWgWGkS5vZdrt4vJy9A6mJEoufMDTtCbEBPm0WPz8ec4/m+snXaX8VGB4RQjY8Kw+Lql2UFyCz0YSh0uVLF5Ueev78pS3yylVuQ+f37vSxjpmCo0FZF/siasajU5BZQm4LpYsLF9cD6djOm4GzjJNv8/TXOmtjz5bxapxXYTWbXEyT5i8GlTuW3m4wwQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/34.png",
+    "width": 1920
+  }
+}

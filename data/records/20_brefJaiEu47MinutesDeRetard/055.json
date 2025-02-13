@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Ne casse pas.",
+    "end": 56,
+    "index": 26,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=55s"
+  },
+  "thumbnail": {
+    "hash": "49cc4016ea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD89PU1OSnBTSDQeGE41K4ZZSmdIP2dDOX5OPWpBMl9HOaCLc4NzXm5fTGpcSkg9NgBzcXNcX115WE1nPTSGX0+bZldFKyZAJhx1SjguGhNjUUC1oISKemZ4aldkWUsdFxYAgH9+a29tfmthkV5QoGVVsXFhkltNpGlbtHZkc0g3knFZuaWKkIFsgHNgZVpOFQ4NAISDgICBfnl1cXdYT5tjU6dvXaVrWqhpW5ZgUoFQPKSDabyni5mHco18aG1hVBQLDACEhYKDhIFqbm52XVSudGGia1qYZVSpcF9XMytLMCKrk3u6pIiaiHKOf2l3aVoaEREAd3h4k5OXno6Gp3llsXZno21fmmhZqHRiUC8mUD4xu6aMt6CDm4hzjn5qe2RXIxsZALuxu93T4uXJxr+Ibr2FcciOfLqBcoVZTDIdEot1atTDta2WepGAaYl6aGVPQzInJAC/tMDGu8fQx9S8mZKodWGrdGSyd2Z2TkJDKxuMc2jKwcTHubeai395a1pQPjNFMCsAs6e0uK26vrTBsqOqjmJTi19Qil5Qakg8VDwwint4ppybt6y0vbK9npGSTj83Mx8YozW+v3A53PoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/26.png",
+    "width": 1920
+  }
+}

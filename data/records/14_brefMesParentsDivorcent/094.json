@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "name": "Mes parents divorcent.",
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M"
+  },
+  "line": {
+    "content": "Tu dis canard ?",
+    "end": 96,
+    "index": 44,
+    "start": 94,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=94s"
+  },
+  "thumbnail": {
+    "hash": "c70e220bd7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEE6M1BJQmNdVndwan95dIqFg5qUl5yWnJ6aoJ+YnpyUml5UVAsHBExISaOcpWlfXwBPSEFeVU9RRT5KQjyCfXqVkZCkoaStqq+HenmSjJG0tcCoiYpwS0UwKSarpK+Bd3kAWVNMS0E2OCMZUDQpgHZxm5iXqKers7K5dFFJcGVnwMPRqZidnnqAcmqChYCOeGxtAF9YUV1WTWBCNnVaUJGOjJuampqWmWNcbTgqLDQvOnh3i73BzXRvdYCBs2xrj1tOTABIQTmimJ+VgYNnW1WOhICMhINzbHBYUlhAO0U0M0lOSGOFgYZiVlFzcZd4fbRpYWgAOiskmG5pm3hyhWtni3p7em9uZl5lamZsYlteiXyGmHNzl3Nvc2FeallekW94YkxIAFsiEoksFGk0JZZnXIp6fGNVS52MfYFwZXVeWIZ4cJN9eHdWTndZVXdWUHBPRzomIQBwRz+HQzVvVVeBaGeOe3lQQTeReWiBaldhTEFTRT4+Mi0SDQtBOTZPREBFOzYwJiIAZlxbdGpqfHJzinx8k4OCgnh2hnt6g3h2hHp4dGhmJRsWCgsOJCk4NDRBTk9pPDdFz9KxONabsXgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/44.png",
+    "width": 1920
+  }
+}

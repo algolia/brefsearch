@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "T'as raison. C'est un tant pis pour un tant mieux.",
+    "end": 19,
+    "index": 10,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=16s"
+  },
+  "thumbnail": {
+    "hash": "76b39214ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBy0/TYAAA8B4IY5lA+n597dd2bZfua9e5Ryd03RxxsCUjG+sCjMcGBmeVGIMzMREdiIYwInrwgDcvmnDj4tE/zt8Pu+u2ouryi/HwoN90uHnfpF1InW94x2Xja9h4sxs0ALlTzpxGPQRZV2Wws5eHgyfB9Y/z0WEn8OztTvCqE9y92/rUzIS+udfKhoBuZ42ahx4hmE9y2P2f2/fR6PfVh2/Pwq1+/fpz9Hfy9Ga4+jywOnl93K1uqoIcm0UiWXcVpDDYr6vpzcnxIK+PluzxXvvjKPz35eh2sPJ29WHgyr6tOJClEnN93zpd97I8jm1UHk+PtrsW37DgelB83fLPdmq7Bb2sckgBti6kRJKIz+5X0LTr17hF7PvJMForVSwdaTCdSg9q2XYp5fC4SJA8wdoa0KgFPDYzrKKLVnHTETEXihIjybwiCzxgJUAs5BVapAmGoADNJgUAiXk8NrOC5Elv+TIsYRLHapJgQKCKoqnLmsoAmjI1mJR1FRgKJyjUIiQSjkSsZcBFuIT1mpVSTjcNykZSrgALHsylzaJrGVAWGA5ygEzE8XiMeTAX1oOfl5P/+J9iFOIiFcAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/10.png",
+    "width": 1920
+  }
+}

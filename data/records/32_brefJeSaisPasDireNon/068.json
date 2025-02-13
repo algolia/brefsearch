@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "name": "Je sais pas dire non.",
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4"
+  },
+  "line": {
+    "content": "Un jour, Fabien m'a dit: Ça te dérange pas si j'écoute de la musique ?",
+    "end": 72,
+    "index": 33,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=68s"
+  },
+  "thumbnail": {
+    "hash": "204b24d70c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGFfVG1qXnp2Z4F9a4aBbYiCcYaBc4J+doB9fGRgYSkjIR0YGRMTGg4MEw4JDwsJCwB4dWiJhniWk4icmZSdmpycmaOWlKOQj6GKip6AgJNubHZaVEtFPjQxLCYhHBkcFhQAkIx+oaCrqaq+rq7FsK/HqKa8o6G2nZuvlZSmi4ydhIOVfHmCdXBjbWZYXllMUUs/AKKeiLCvr7i50LKvwqqlt6ilt6Ofsaelu56dspSTpoiImn19j3Ryem9pW2xmV2ZgUwCuqZK9uKTDwtS7t8uwrL62s8eyr8OpprmfnK+Rj6KMjaKDgpV6eYxyb3dtZ1lnYVQAsK2Uw76fyMXByMjgxMTZtrPHtbPHrqu/p6W6n560kZGlhoaZfHyNdXWHcG1xaWNWAKuokMG8n8rFq8jH18bF28TE2b690q+swaaluZuZrJKRo4aHmX5+kHd3h3BvgGdkaACamIK0sZfDvp3IxsLJyd/Dwta6us6wsMOqrMCcnrGRkqSHiZt+gJF2d4dsbHtfXWsAf35uk5B8qKWLuLWeu7zLub3OtbjJrbDCoqa3lpqrio6ff4KSdHaFamt6YGBtVVNePwTvA+zIxDYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/33.png",
+    "width": 1920
+  }
+}

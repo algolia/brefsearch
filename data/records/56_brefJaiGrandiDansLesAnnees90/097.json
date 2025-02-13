@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "Il dit 5, 4, 3, 0, après paf, pastèque.",
+    "end": 99,
+    "index": 33,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=97s"
+  },
+  "thumbnail": {
+    "hash": "7da0116615",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nAXB3W/SQAAA8KMt7d3aa3tA6cdRihQKpQxWsRTHZAzC4pQhW7YMERd1WbLMB7825x40MTExPBhNeNFkf6y/H2hvrOu6cb44ufu7Op/0F9G9L1v5j7G3mrTu9pvz0fBw3U1hUZZEDOHZ8QGYT5/sDbpvr26//v43DP22rS071m2vdljNvfY01w2OH97PE5zgkiYhi34ffL6Yf3v/4s/P604UZrC4+6D+bsP8tVV4XLF9qpdzmU+73rBoQI5tNlovX12C8aPwYBRfzPe2NzvNnH49HVzG7qrnTIKCR81eszFqd6a+HVJjenT64eYH6AbF7SgY70Rnp288SsMCzRvmpq1hSRVyXVg+Uq26jJKyqKhEV1QdkFS24ZcGnQbCarcVLb8vSdYGDJfSHMmfYX+W0SgSkhyXZBiGY1lQ7J9Y+VKlXGKRvB+Fq5srzchjns3SGqrOpNLTtEKIuCYhCfE8hgKw4mdI1jKGIxMdQikO6o5JFSSQdA5Vn6PCSBFFyEM1a2GZUAmBNavGMEkkawKSAUhUbKfmOAricdrli2M+VRMhTDCsQx0kEoET/gP5EUlBZT9dZQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/33.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Marla avait ouvert son impair. Ma copine a dit: Béatrice ?",
+    "end": 53,
+    "index": 22,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=51s"
+  },
+  "thumbnail": {
+    "hash": "6690276b21",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBa0/aUAAA0JuJWSwRCYa4FiggBYQZUgqU8RjQzhb7omAvldeKvByakaw1KmTNskq2LDG6z/u3Owe04GD58HN+90OFeq1WprJk5UNJ0bpdY6aP5+3+qNm6qFerdBxPBtH3xzjoLcyV/eur/ceYThSZZ0u0Wqa7HXW4XA0WN73JQr+ayxzLZ+OZ41DA7wcLyzadZ3P7926zeVx/qxUoqUC1mcrYMHpXs/71rT6eKeL5RKgUCNzv8YDl2rG2r+bTiz4cOPZ9nTzNRvFGJllNxRWSND5PxA7kOL7HVehYEPd5wZcHx3x6sbavoizm0KMcHiqnCO1joU4XCSxc9PrkJt8Sm51qloqgGfwdmFvfV/Zv03mWOR7zHiaItMDwmiApEgyGEwjYEaicoasqna4SASYdAbOVdW1tbtcOReZdrj0UiyoS7EgaVGCOLCK77kYs1pc+dfLxKUeP2AJoD6ejG5NTLw88vl0XEgknYQuOtN6lCov5yv7efiOEjYX6vcYwqSibSYBzra8Opqx84Ts82nnzFkOjZw1BacrCmZDLltzIwQniXoi1f4+zMhE4xfz/AdOgdM+vKO8FAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/22.png",
+    "width": 1920
+  }
+}

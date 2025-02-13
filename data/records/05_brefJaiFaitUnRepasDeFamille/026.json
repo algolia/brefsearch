@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Je te jure, oui. Gros mots, sept.",
+    "end": 27,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=26s"
+  },
+  "thumbnail": {
+    "hash": "17f4cc8e42",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwU1v0mAAAOAeCoMC7duvl7a0DGhpS6BCoaN8ObANRb4GIcwxN7K5xY9lkoxtcU4TE71ymJnx5mEx+gc8eNhhF/+Yz4P4fJjPH0L9YRDCVYY24tLQUrebpbaVnTj1/Z671bD22rWZY7etbBSPIKg/7FuLrGEExEk9Ch3LPGxbh73NA696MXFnTn3QsIeNjWnL1gQ+yQAEDUTQABEOA0iANGQ3NHlayRyP3NNu9WbfO39qF1PxtBTrVkxN4DWOQtAg7sMIiqBEki6IsKVGx6Xk60nnfNR603y09CwzIfI0U8mqRV3NihAJYGQQAxBQSZZNQHqdIZua9Ha7+8qrXg1qp47ZSAkKZL1yIa8kEwyJ+EMgGAIQ0AmWlQWOxolnzdKf1eVJu+Lo0shU3HQswxBf5r2fnxcv+psIFqEiBANpVheFFM/VjMz97cf71fJqYHdUYWisbymCy9OX/fLD7fu/qwsEMtEYH1NSSkHX87nip+Ppv+/Xv97Nz1xjx+DGOWkkC48ZcPIkf7fcvVs+R0jAQJbTZDWn52qW/fXs6Pf10Y/F7MO4Pi/H90pyPys2FXLRKd8c9L+9HP8HLvFaom5Rv1cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/12.png",
+    "width": 1920
+  }
+}

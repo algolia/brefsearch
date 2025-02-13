@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai repensé à des trucs cool.",
+    "end": 63,
+    "index": 25,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=62s"
+  },
+  "thumbnail": {
+    "hash": "1bd4c99a55",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhklEQVR4nAXBS2vbMAAAYE0vv+TYsmTLlq347cRJ26RLw8jCCCOjDHbpLoXQ0b0odN3ooYdd9uf3fSBd3evNg776lV09Zdvf6Zvn0LzLvMQwNYRlxxvPTcXqNj88691DcnkC1f6lff+vPvwt9y/59lFtn7jeGZZ2k3zkzSAH3xFheRSzr2F9I8cbYNZ31dvHav+n3H7Xy89uuHRYlU10HRQ9r8uojSbGtxQGAgFJiAFRvhFmnc6OMrt03RwCm2J/4iaKqZhp6Rea954tMbYJDghWQFWHvD4WxW4qzyNXEex7dhT7OmNpzZuGV6UcHSeGkCBoE8SAS5iP3RB7nDBOg5CKIhy6ZBN7iWLaBLpX83l7beoPts3hKwIwJBakHqIOIj6inDLll2W8UWGpgqLg0ypuW/W67z4GYmZZIcCIYkQJtAikDrKFJWJmZFBKV1SiamTdJmOfrXU0ZGKhxQgQJARSAimGhCJHTc5N9Wl6dtcuTt3y1C1uh7Mv84ufs4sfw+pbt7r/DzbgMTuWJRlJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/25.png",
+    "width": 1920
+  }
+}

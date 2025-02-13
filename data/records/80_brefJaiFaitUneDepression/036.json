@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Et quand tu essaies d'appeler le dépanneur, tu te rends compte\nque le dépanneur, c'est toi.",
+    "end": 41,
+    "index": 15,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=36s"
+  },
+  "thumbnail": {
+    "hash": "bb546e7ae5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nBXL23KaQAAAUN4UbSLLbdkNq1xErYooIgLiJU4KGSexuWuSqsFUE6dJfWnf+wGdTj+50/N+qH4Z96qFgd+ZzW7H49FoGPp+d7Vc/f395+n25sSqujphPmR5FmAICUZUWEJemYSuvVo+bjfP+/3bZvt1fjffJcnZMDQLcgXDLJ0WWQZDkSD4P7Q0ZNbrSbJ4fd2+v+1233ZXF5ejjtMp6yoULEUmHCjJWBIEngFUUJTaOqrU7bPpdL1evLw8J+un/fv3Xz9+fmrWhlXdM5SSJBrkSBJE5uCQ8jTYIEKlbnuD+OLzdLtJHh7vl18W13FUw3BslltaXkWiAADIAZ7lKKcgmEQoVkx3EPu9wezu5v5h7nW943arreZtXVFEXkNQ4FjAMDwAlEW4j5hV1JLTO3G9vmk58ekkjiZRPzQVgjkWMrlGHouA4QCryJgqS8CQGDmvNt1+s9W1ncALxqeTy/MoQjxPJNjQFU0SU6lUls7IUKRUPqdyhxCierPjByM/OG7agVG1Qz/0zJplaMUjlMlk0jRNp+mDTPYfpBtRuBvghxoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/15.png",
+    "width": 1920
+  }
+}

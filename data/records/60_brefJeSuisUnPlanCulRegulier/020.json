@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Parfois, c'est un pote.",
+    "end": 22,
+    "index": 7,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=20s"
+  },
+  "thumbnail": {
+    "hash": "653513bf3d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUklEQVR4nCXPi2rbMBQAUMWSrde9elkPy4rrOI2TpWSFlG5ljP3/b40xOD9wyKAqk2nQE8elh+bmJ6Y3LI+Q35xbwW/j8iMsP337dPUJ8U7C/MnNwmQSeLTlgfHOZJJ2c+ES/EnrIs1L2X7H9Su+/DL5Qdbrn7Z+pHIt8z2XPcRX7S+5fTm/SRm5SjbuNu/KNWGatCup9VrKZYwn55qGpNSocXLhDFCd36bj06ULuCpN6QY4dIIAlJ4b2gNl+r+BG8Bs/LG292n+rs2sbeV6pByZdIQyNQgrMPbCUqYOHe+YAltT3sO4WbcInSnHXtpDrwUWojGH6ZzaLbVvPm0+nACrcU3rwhh2VNMeD1TRAekAHBKR0qMp1jcfFusXsLPS6V9XeM6dhiJV7AfsOkk6TgUSiYs0TbumTBWQe+kH4Y1pzq/GHp1fQ3wdyy3kG4QzjvtfGKIerc0tUI0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/07.png",
+    "width": 1920
+  }
+}

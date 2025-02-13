@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Charles m'a dit: Si tu te poses la question, c'est que tu t'es à elle.",
+    "end": 50,
+    "index": 20,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=48s"
+  },
+  "thumbnail": {
+    "hash": "afbde8f328",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nCXL227SYAAA4D6AicbMsQGjKwVaSv8e/rb0AKW062Gjo8CszEEzswNadx5kuIhKsswMk0WzOJNdmnjha5rF5Lv9kKdPniXmFtAURmaLfAkKQCyzsq5ajtlo2M0Vw7MMz6y5RtVWoFJmBOTF8/mlJFrACFAAAhAhkFiSk3nN0GzX9E3dqdfcuu7UKrYKFZkVkcX55HI6m8eLFAEYiudo0ffavteOevuvNiJV0jXZeKTUVagonIQkE2k0nc1hBJGjKIJhSsL4fPx1Mv12Ndt9E/NAKgsVCWoSrKi8rP4PmRSGZXI5jCDzJUCytu5utDY9uylyKkeLPCtzQAIlUaR5ieaRxNxCMrGUSWFoGsfQAolTVaiAIsQyBLqIEnmQx2mGgopQDbwgcNeRyBL2PO2dX3vfWjnoOAcd93I7jF82X1uV3bXaeT88i7phVfBofMd3t9ccZBSaX6LV2X77+2H37rR3dxo9TI5/X41+HPdvD3t/rkd/Zx/uLwYf++vD0I19A3nbUE869cut1elO6ybu3sSbR91gvBcNAusiaj1MR/eTs1+fhz8/DW/HR9cng3/Q0nKpKQZaoQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/20.png",
+    "width": 1920
+  }
+}

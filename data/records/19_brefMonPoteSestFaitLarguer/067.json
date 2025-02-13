@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Moi, monsieur, il est trop fatigué pour me faire l'amour.",
+    "end": 71,
+    "index": 34,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=67s"
+  },
+  "thumbnail": {
+    "hash": "db244d5128",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nAXBXWvUQBQA0LA7c+/MndxJMslMdjeb7Fds0mo3LIsEXLEVFCxSqC9VfKlIVRDfCr77zz0n8gjnKD94fONwQzJDUaTcNrNtPdtW/lNjPrfJQ+9+tPH9Qr1PMZorOKX4s+PnDhHFt5ft71MXMpOwrkNaWzhU2b+b4elYPu7UlyVGjYGPpbpfm0DQWLw78w9DXbAiJYwWqZKXPv41rp/G6u8++b6jqGF8lWOlwSl44eh6ybdtEZT0SgYFbULvmvTPWH+9XPSZ2jBGFxkecl0o6GbpoTS9hS4zz8oiR3QKcg07i0OgTaJhMolRRldzOnoqYzM04e0qv3B6webx5qqvQoIiJxy8sSASjRlOb4/nUc84Z1UYvcr5dUiuc94v3KlfOaMZBaPoPM9YWRSxnIy7ZbSOZWm1i6livU9oNDg2+dAEkoJBWJSpBs9oUZCcLklGBQlvqcriQsslwplRWxeXlrScWpQEwoBAECAlgawM/AfroCj471ow7QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/34.png",
+    "width": 1920
+  }
+}

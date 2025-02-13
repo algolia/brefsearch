@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Il voit toujours le bon côté des choses.",
+    "end": 9,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=7s"
+  },
+  "thumbnail": {
+    "hash": "0d83492832",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBW2/SUAAA4BMwjK0U2tLr6e209H6ldG0tg5IBGyKBbGNMCBuZxnfji/HFt/nkPzDxv/p94MZDy1DbpOZT6ewLaztQD5n+0ZcCBp9o9FOi7VN9qNILi30d6sehAdZ98yG3jyO/siSfJ0qR2kbqJkRjxNPNxqmw7n2pW6/PLObtUHxbxWCXey9VdKqiXOEg3up1Wh9MeLo09gN7qPA/V+n3aVDw1NqHf16v3p6vwHEcfZ0NVr6cSnwAeYMirk15aasLz3ge9D4P3VtbnMiU024uPfj7ZQS2qfMpdxeRmRnIFYVNFj1mvskLoaL0RZ7FMACAw5CVzO1K7++PR7B20U1gLS6jWezMY+fLvLQEQeMklVd7goQYljg7V3BsYiiHUfjv1wlMTTm39Cr27qpsN07ngUnhlKnok8CZeUgguhBrTXlyKnEZ2R7LDMh0MVBh5hrXiXtfhKUu0R0aCmoVWO8RS5xjXKMZdtpJB0/wC6FWBx5kdIZMDFTYeqmLPaZLEzRLw9hPTEkl39XRRUOo1bRmAzXP+pD9D0u5Sa871dfxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/03.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Moi, j'ai faim. Je suis pas fin.",
+    "end": 84,
+    "index": 28,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=82s"
+  },
+  "thumbnail": {
+    "hash": "4dea2fa7ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFRMUk0+O0Q4OhcPFDw0OkxFTCcjKUpkc3+OoY6Ql4WGj4aAhXt2fW5eX3VjWUdGVwBcVFlCO0E+Nj4eFhtAMzhxXWEzMTZUYGmFho52cXo+MDSIjZqYoK9tanVXUVxJTGcAX1ZbQ0JOTk9cLCUrLyImWEBCOTdAWm57hoSSdGNnd2BfbGJsnq3AkJ2ucYGcZWyBAFxSVVNRXUI/SysiKRYQGBsWHiQeKlhbaXp0g1RBQ3BeX2IuMmNaZH2PobHF14ybrQBiWVxIRE89N0AnIigRDRUkICsZFB0oJjBfVmJMOT5qS01ZGx9rYmhkboCRpL6GmbIAYFdcTUhRVEtTODE4FBAYIB0nHBgiMzE7VUVNRDE0aEtNalFWc21yOThFYmyDZXGJAGFZX1JMVVZOVkc/RhoVHRsXHxUSGVhVYVhGTlNBRHJaW3JRVTEoLgQCBxoaJSwvPQBmYWlUT1hLRExORkwwLz8XGioiJDRqZ3NaSlJYTFI9LjFJMzp5eokmIikhGyEgHCMAa2l1U05XRT9IU0xSSk1hKjNLLjBBZmNvYVplMCQtHxUcRj9IfoKQamt6UEtaTkxb67WHeQlJAYsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/28.png",
+    "width": 1920
+  }
+}

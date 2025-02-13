@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Lui et Cathy, c'était le couple gênant, le genre de couple qui crée\ndes silences dans les dîners.",
+    "end": 52,
+    "index": 26,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=49s"
+  },
+  "thumbnail": {
+    "hash": "d20569b521",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAgEBAoEBAcDBCMPBTcdDisbDyQZByMaET4pHUUxJGBPOmBDJ1g3F3RIGFo7GSYjJgAIBAQJBQQSCAYkDwcfEAgdGRMsGg9ZMyCgZUluSzo6KxhSNxxoQx2GVhtpRyEhHiIACAQECgQDLBMPNhoRLBYOKhoSMh0SWTMhfU87kF9HaD8vQCgVYj8ZbEQZVDcaIRQVAAwHBRoMCEMfGS4VD1FCRVlHRBcJBV47LXlNPJ1kSpRjT1dENkYtGRcCAC4WEVMsNAAUDg43HBdRKR4nFhEQCQxiT0lFNCZSMiWHVkF6UjuHYk+8sK+imJpkVFMyFxJRKjIAGhQYJxocMh8ZKSAhKR0XSDYnQjMnOCYbTjIlVTspl25bl42Inpmb2NThfXJ6JhETABcQFBgTECUhGygkHjIqKzoyMFFHPE1EOyIYEkUrHWBORGBXTn13dbq2wLq1yxgTEwARCxEVDxIbFhYbFBEjICUdGyp7dn6ZlpUTDwwZFxUtKSRXTUJWTkiYkZe1rcUvJioAGBURGRcVFhMWEgwSGBEaFBAcTklci4WHGxgWEhEQIx0XQjYtNiwle3Fxr6fAPDdCv4xgItWfDRMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/26.png",
+    "width": 1920
+  }
+}

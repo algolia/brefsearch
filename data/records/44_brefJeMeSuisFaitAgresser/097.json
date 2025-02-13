@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "name": "Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8"
+  },
+  "line": {
+    "content": "Il a dit au revoir.",
+    "end": 99,
+    "index": 33,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=97s"
+  },
+  "thumbnail": {
+    "hash": "9a8b45d979",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGVmZU5JRElEPUVEPWdqZZWXk4OEgFpVSUpGQEI/OlBMRlFKQyYhGRUTEg0LDRMQEQCSkpR8dG1VRjNSRTJqd2uftbKAiYRgVENYRzY5LyZXT0daUkkfGRQNDQ0RDg8UEBIAmZeXoqGfjpCIo6KdVGFWST4wc0c4Y1hObGtncGplenBpTkY+JB0YLyAbFA8PFBARAI6MiJiEeExEPUU+N0ExKH1SRJZnVWFGPTYtIzQrJFxTTEU/OiAZFlw5LSQXFBIPDgCRioSFYE8/RTELVTwzSTZdPTFzVEY2TTFrbGNUS0ZTRjhNQjsZEg5LMCY5JR4WERAAjoeFS1tKEoVbAIZhK3NWdFdELUw3AHVPRaOBlZWDZ19eMENMJy81PSoiUz0sTjgqAJONjjFyXAB4Uw+JYQuOZSp+XBZ8VBWJXwKKXj92T1tGQDBfezRKXzIaFyUcFjMmHQBSWFgPYUYHcE4IaEYMflgChl0qhmlBf2QCelMhiF5CLBIsJycVFRcIBgcFBAYDAwUAFR8fFVE9ClhBBDwoBlY7CWBCDXRUEGtNCU42EDouCQYLBgQFCAYGCQcICAYHCQYH3o10q1OMWbYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/33.png",
+    "width": 1920
+  }
+}

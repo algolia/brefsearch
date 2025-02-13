@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "En partant, je lui aurais dit d'aller bien se faire foutre.",
+    "end": 91,
+    "index": 41,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=89s"
+  },
+  "thumbnail": {
+    "hash": "8c2402dd57",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIJ3d0Q/OUU8M1RPUDIyPzU1QV1RT15TUWdfYnpvcHRqa4B0e6GSmpeIi5OGhop8ewCQhIdKQz8lGxVaUFE8Pk0xNERXVV1zdX1xaHCBd31/dXmOgoaqnqGckpOgk5SIenoAnJCOW1NQMSgsOjZANDZFJys6LS83WVZeg3d+jYKOmYyWjoGJjIF+eGFWW0dAdV9YAJOKiE9KTiEgLyspOigmNDs6QDUzODw2Nop9eox8e5KEhHlydmpiUnFmYpKIgHBZOwBpYFwfHSMdGyUoJTMgHCpOSU2Hf4ORipGBdHBjV1BqaWuBeX9RSkkhIyVMT1JLRD8AbmRXMCooHxcVKiIkHxsmEBETRUI+VlpjWF97TlNvXFBOgWZdcVdGGA8FEgwHOi8lAF1USCghHgwDATYjHiMeKCwtNVBKT1xfTVxmSV5jZUk9OFlBLI1oSHFTNX9eO512XwAaGxoKBgglFQ9jQD0rJDA0LStlWlhpZWNOTjVeWz1JQzQmHx8SDAonIBlZRTdrTz4AHg0SIwwLPRMQjR8gghcco1Y1gmA8LiotR0VPkoaGiGxIZFA/f3R0U0pDNSwuUElS6UWJbzlvgVwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/41.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Je me suis dit que comme c'était une serveuse, je pouvais\nfaire une blague là-dessus.",
+    "end": 39,
+    "index": 17,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=36s"
+  },
+  "thumbnail": {
+    "hash": "371cbd9b77",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZUlEQVR4nCWRy2oUQRSGe6uZ6bp01+1UnVO3npo0TBYiYiCigmRjFt4SQUQIyoAIroW8hKBPEV8lLyU92X/ffzj/3wl2JPlKDcyZAZ1OwRWEGn0lXxCiN94qq8Qoe8GOeP+wk3ylRx6sysFNMRzXtGtl1+qulbmmlqkSRDBg5Dj0gq06NbB7epNwnvI2xw3RccotxrmkudAmU0WIoJxe7nROiQiqEmxLbBEvzp/92F99/fJuf/3+1Yuzk5NH24w1huQ1WmlG1oFehIIwTwmtufn17e7u9t/tn7+/by4v356ef9ignRLeC1axzipObizoWqaC/s3rlz+/f9pfX33+ePH87OnjJ6cVXSEfQXkj9NB3emRgZAJdEFrG7IGsSeBKgCmGiZbGDvGDVWwQ6+XpUfagJYFO3k4xtEytUMs0xVAQEpgDzUexPtQqVssUYq1H7rQMVh1MnUCTU35BhRqY5AvN+wf/AeU6OdErivk4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/17.png",
+    "width": 1920
+  }
+}

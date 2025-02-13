@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Tu penses à toi un peu.",
+    "end": 44,
+    "index": 24,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=42s"
+  },
+  "thumbnail": {
+    "hash": "687c929620",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nB3BW2/SUAAA4GNsz6WnPbSn99vEVUpBLr0ITEYU1HYTSLaRLMOY7WFx2d4mXqJGo+8mGOOTP9fE7wMYIVfTmSxLkkQwkRGSIaYEM0IolSEUJIwggiKEBENKIPC4ejopL9frwd4gtL1G4M+z9rTdTEyL1rRxkZ9PR3XTEAntRGGVOsBQ+Y5/b5RnaTN+EITXy/K6nORxgykscNxfP35+XR+9GqexwxtBWEQqiDxPUTTfj+vRIGv33h5X87znWjaEMA7C1fzkbDG/KoffXx+tXi5mwxwkjrbjmJ1HB2aQyIpqc01mlsGtUad7MJmeLlbjwaTaH/7dbjc3N8tnz4Gh1UIveJi9UFRbgPTOXYiYbfrNZDduB14/Tigm72/ffdlsTg7LvbQPbK4aXO8Wh0xzdVWLHLfu+Z1WX2Im+G82nf3Z/n5zcfE4z5JoFzAqcd1s9Z7Smm1xvUjuF61G2kpcw1QpeTLe//bp88fNh2VVdZNm6DpAFEWIMMaSIIiCIIoYEoIRwhiKCqWe4+qcc40zRSEYIwj/AfM4P+NmU82FAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/24.png",
+    "width": 1920
+  }
+}

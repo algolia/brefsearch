@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "name": "J'ai fait une soirée déguisée (partie 2)",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU"
+  },
+  "line": {
+    "content": "Je lui ai dit: J'ai fumé.",
+    "end": 63,
+    "index": 25,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=61s"
+  },
+  "thumbnail": {
+    "hash": "71a04df3fb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nBXLW2+TUAAA4FPL/XCAczgInHItjNJ2pVfYWotzTTe6uFv2ojZrYlxqom+a6JM/xJ9r/N4/gKFhqdiQtS5l2zC7dL06HTe9uurWmqJDCepQ1yDxrGAe5oviAfSdsG+xwkubYll6yX29e3nXfCvOUs3UJESgAWWkSEhWcd+wC+yAbV7cj8qnxcVdtfGc+M/3n3+PLz+aDwGijR/dJPnYDTDUBAllxDn4EdhX6/3qcl/v3gzmWNY7hn19Onk4fyo76e/V+vO0PMyqcSfkOElDZhXlYBZmu+nqsH1MWKQKCpI0hp0y6A0t99fZ8lguv8yr2LR5XlIkeJKOQJcwRtx5b0oNq9Vqg1dcYNCrMOE54VOUfMwGN3mf6UTgZUmUIz8DAaKmomOImclUGXFtQW6LVISgxS1d/ziereLU0TDPiTwnBm74P3iIxrodG7ZPmKXRt8PyenSuimjhxV9H08f8lCEDgLZP3ZnXBVTWPWRm2M0wywgLiZt3Tm4n6yoabPLJ82TxPCwG5DUl7tX6/bba/AM3GDwUYNZRMgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/72_brefJaiFaitUneSoireeDeguiseePartie2/25.png",
+    "width": 1920
+  }
+}

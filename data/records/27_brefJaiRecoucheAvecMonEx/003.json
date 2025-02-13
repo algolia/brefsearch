@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Ça va pas, je me casse. J'en ai même écrit une chanson triste.",
+    "end": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=3s"
+  },
+  "thumbnail": {
+    "hash": "469b6fca08",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJiMi56TkKWYlbCin7yup6eblXJiW7mont7Uy7qzsbKurdLHwcO5s7espaqfmZ2SjgBzbWaFcnV0VVuXhoPSx76ikIVuPjCrkIb78OmEgoeCipKgi3+Ne3LQxsC4q6iupKMAYVxScmJfXktFmYqD1MnFw6OZlnJlxbiw+evlqa6ziIyPQSYURjAgu6WdrpqUmYWFAEI/MW9nXbKmn9LFv+rk5qqbool6fd7Vzu/l4fXr597SzHVURFg0JWxSSsKwrJ6LggB1bmNhXE1TUEGVi4TDraiQe32Abm/h1dH57+v06ub/+fbAqKKGSj1pWFvg1dTIurcARkQ2XVZONTAbe3Rmq4Bxln9/loiLo5qT3tXOsqeihXx1ZF9dSyYhoYB53NXSyb+7AElFOldUSVA/LYBPL5FqWY95eJKDg3BnYpKIc21iVhUPDEU+OSwhJHxVSs/DwMW6uQA8NjA9Oy8xKhlgNhdqVEhdSktNRktZSj43KBxEOzMyKyVFPTYoIylBJyN+b2yZj40AFhUMGhoOIxwONiMRW01ISjU4DBAUWUs2LyUhGBUSKCEcMy0pKzI/MyYqOislMSonmE/PEP9EI5oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/01.png",
+    "width": 1920
+  }
+}

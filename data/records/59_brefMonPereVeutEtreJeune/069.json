@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Le récépioniste a dit: Votre chambre habituelle, monsieur ?",
+    "end": 72,
+    "index": 35,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=69s"
+  },
+  "thumbnail": {
+    "hash": "6cb32b0ea5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nB3NbW/SQAAA4EbC9dretXe0FEqhbxmla3m5dYNBwkuGjo1tKnMbDGfUMBE3JpioCR+MJtMfbvQHPHk4qtpUc/WM65j2fjmeHA4XFze9uFUwt6KAuaYVR5Wcnk08SWAe9Gp7HFFt02G1nX5ge3fXb34slpv5+uH6bcWvOE7Zt71GuRY4HkgAKckf15v/gRt3WsedKNrM5qub2XLy7sNoUi0xy462CjYrhSwIqawYhFy02xzVnHQuHBycfxtPHj8tH5dff338fPv8ynfLgR8bql60HBZs2xldx+i80/03aFk/rrXvX5z+vl/9vFsvXk4ve0eFfHG32iQS0YkW2E6OEszDp/UGp6QKJGXVq/tfXo1W4/Fm/rC+et+t7BKaKzohgghBrCFFSIJsMtHP6xylpoz10Ct9n76+PTm97B0Mm11DM2Wctg1PAqIAJFlOIYRjke+rCkewRuR0OpWfDk5mw7Nn1R1FwBAqWCQG1UQgqDz4c+gPWKhIVBBkDolURpqMtMY2G7W6R2zPzVgQKgKQFCjCJFAhZBiAhAAAgjz6C5/RSCS24OMIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/35.png",
+    "width": 1920
+  }
+}

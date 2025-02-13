@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Bref, j'avais beau avoir du mal à oublier mon ex,\nça m'empêchait pas de voir ce mec.",
+    "end": 6,
+    "index": 0,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=2s"
+  },
+  "thumbnail": {
+    "hash": "df67324f09",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABUUlEQVR4nBXL6WrbQBRAYUE0+8ydfdfIUuzYTnAWKKENJPQh+v7vUvz38J2JYE+woURixDBiaGYYCUaN4lGTpGlU2HCkCJIYCZBhwshSErRugltKJMFKMCt5AFmi2ZyoVjUQSctyj3qZ8viy8VlBE9zfNbeSR6uH4Mnq1cjGqSUYtKoWBqVuKttP2b7BDEo1o0YIr1XRshCkCAZJPZ0FmYWiIZidEzs93v6BPwuR2H3QaGYgsofViupU87IG6MXs1Z2dOYAoU9//cuZBFsEtRmx+IBSrlp6P43Ok64iXYrfT+vm0fxvZrRpT7b9TugV3zPHs7MKonh9IDqfr6cdDN6Io6mp8Ou5fPb+0eJlCem/9T6vva/81+oe3K2cGZN6Wj+wOUa9Rj15eDstrCbuHMoEsRmYno4dqVTYqKx44AQu1l2tPlxav6/J26LeeLzUd/wOWcCEwN63MEwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/00.png",
+    "width": 1920
+  }
+}

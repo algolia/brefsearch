@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Un dimanche, j'ai brunché.",
+    "end": 48,
+    "index": 19,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=46s"
+  },
+  "thumbnail": {
+    "hash": "3e73995070",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nCWNWU/TcADAGxLW/9VrWw9buu6s2LGVunWsVEsYHpvo1KJAd7khNmBFozEDeZD4MH3wzcTvaxbffwfl2jV/y2vYjYbtfP3y+en+s4vZm7/z5HcyW8TDy8GLx67DMVxGEOLTdz9ubii3VrWKhZwsr0nKpyRJzs5Po+Nf76ffJ4fHnaDvtaa9TlnXW5XS+NXB1fUVddeum7lcTsyKHLe7szsejCZR9KTtzh4GrlnZ99z55CDc2T7y2/3XUTiLqfX1WkHTJJ7PCmkESTFf+XgW/5lf/Hw7/DYMF/HochRGD4KXvudYm3alSqmyBmjI8+m0ICKItVv6OBoszk+me8GH/qPr6PlJr9NrN0uqpsqaU7WpjJCFAGPEQIARJA2nWS6Z2xtWt17rbtZHe/fDwGveNguaDiHhWIHCiEGQMIRDkIhZmefSKyspXVaO7nmH/la35VTzhiErmqQSzCJAKAQJnYL/8xlB5FgBIwbQ+I5h+BtWUVXXJMlQFAQIoBEEeHlIrQIIsMBnWIZfCpiFNKJXoaEoTrlkGYaZLyK4xBDA/wD2Jk8hjlRzvgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/19.png",
+    "width": 1920
+  }
+}

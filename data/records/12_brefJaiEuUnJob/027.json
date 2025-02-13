@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "J'ai fait semblant de taper des trucs compliqués.",
+    "end": 28,
+    "index": 12,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=27s"
+  },
+  "thumbnail": {
+    "hash": "5d34a92300",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE5PTSsvMSkvPWtugYZ+hnJqcU1GRHBnZ6Wam7KoqrClp7+0uNDEyZSHjVdSYElHVAAYGh4GBwcaHSRhZHeHfYBgU1BaQDw8LC13dHevn52ggXl3am3Cub2nnahwcIldX3MAGBkdCwwMEhUaVlZkm5maeHZ9bERAY0hLa3+agHmAjmlihWtuu6apjoOFTE1YP0FEABkaHQwNDQoLDEhMWYeWqD9MXEwwL1BLWkdhgVlZaINbVJeBhKekspyLkGA9QVo0OQAYGhwODw4GBwQyN0NygZhUYHI6NkQuKTg8TmRmdotFNzhueIt7m7ygrsOZhZuPcIYAGRsYERIOCAgEHSAnbnOBWV5nGgQMNSc1W3KLc4ukPkZXPjxOW3OPkqnAhG5/ZDE+ABMODBINDQwJBg8QFWdqc4KHi0UzOWlsgFRsh1lwiFZhdjImOFRqhqS3zGdvfCEaIQAMCQsTDA8cEgoKCQtMQ0KNgH2oorCVgIh9aG9WVmJCPUVBLjY6Qk1tcn1XXGoMFx8AGBYUIR8dGBMQDwsKNzArb2JcpqCujHd6h1xXl2xjd1VMgWBZQzEuCQgLKSsmEhgZ636T7KZ7rBIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/12.png",
+    "width": 1920
+  }
+}

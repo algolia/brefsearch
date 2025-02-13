@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Il me suffit de lire les effets secondaires\ndes médicaments pour que je les ai.",
+    "end": 30,
+    "index": 13,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=28s"
+  },
+  "thumbnail": {
+    "hash": "d50e6f7c20",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGpgY391eJKIjaCXnKifpZqRlXdpaIZzb7CoqbqxqqqakaKHepx6aZJ0X3toVGlcWwCBd3uVjI+elZmflJOGd3JFODFXMCCcYUqQaVKKaVSUbVx+VUSmfXKrjnSJeGV6a2YAhXJph3FjjnVphmdXXj8tPCMaUzEkhVNBmmlak3Bee1g9kGhawZuNsph0nodsl3tZAGdFNItjU5dsW3tWRlI1JksrH1gzI29AMpdkUKycmbWkp7iQg6uCab2lfK6NY6+VbgBXPS17VUmfdGaJZFBgRTBJMB1HLiJJJxp4WlOyqrbIxdm5paiYbkzIsoe0lWqulW4AgWhKYkUvd1FGnXRmqZSWi319cWJcbmhlmZqevbe8w8HJxLrDspBpv6N3spVrrJFrAIBmTZh8XYhqTnJNOI14eZiJi4yIhaensKWtrqaXm8G70ca9xLqbcbmedKyPZ5V3VAB7YkmWe16tj22PcVN9Z2GHdWmOg3+MiIeOjo2dm6PCudHQ0uTDspi3nnKYeld5XEEAZE87fGRNjHFWj3NUbVA4eWVedGhhh4J1lZONnZijnJKisq3FurO3mn9dh25TbVZAmAjTObuOlM0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/13.png",
+    "width": 1920
+  }
+}

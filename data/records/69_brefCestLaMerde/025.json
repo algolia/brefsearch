@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Tu m'aimes ? Je sais pas.",
+    "end": 27,
+    "index": 10,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=25s"
+  },
+  "thumbnail": {
+    "hash": "b3b0b81371",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBW0/aUAAA4D6MMKRIHcrUEhZLu96A1ranPfQApTKgF0oFC4IoMGXToFs2t2wmLtvLEpP9Cp+XZc/7efs+bDq9qtuBrCBDQxrQYNWEqKaDyjiMPBN1RKEp8pCiMikCf4rj8SR2+/GH3YoS+EZblb2qASp6tW5LZRmPrW3haUcqrwbRrOOSz7LJRCoeS2A/v//y3RG1Q/Y0eViF+6pcs2xFVohEmtshD3X9dTe8v1zZiv6qKG+uE9jfx8fVYgnpglsWzL0XUBABQKJQSsaS8CU/rsBz1/12ef1pcfEhHG6nM9i/P78fPn8xyZwvCwErnJtW2w6QZuUy2cLm84Gqjg/sN0fDu6v3Xy9u1nECe7i7v57OW8XSyAALxZgga9I/7reDI8uS8vmGKLQ17bBuvR2e3C5v8LUU9u50NumG/Ha2i2wPWhLNtGod3+7NXCcwEUPmVJZraWA5GJ0Gg9iTODbznbN+ZHC8ZdolQdnb2pU4RZfgcbMxajYtSdqnKF/X567vAbBLbGCR4yyn83E3bGiAZ0QmT/O0wOSpHoKeYTiqelAsArpgsiziWJPn/gPbEmWDDDV4AAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/10.png",
+    "width": 1920
+  }
+}

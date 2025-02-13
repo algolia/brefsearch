@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Mon objectif était calculé pour être 20% supérieur à l'objectif\nque j'avais atteint le mois précédent.",
+    "end": 57,
+    "index": 28,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=54s"
+  },
+  "thumbnail": {
+    "hash": "b6db5738ba",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nAXBW2+aUAAAYB7aptmqW4syLGWeAIJc5MjlwAEOByiKWEUJaZrV1KxZ0j102fN+wx62x2X7t/s+hufF0/P+QFR1RXN0o7trXlf7FmeiOrvkx6wgCR9lTbehH+uW50Q5MxgKJ2cXveEYuoTcbn7++vPv99/nbz/ibE2XO1q1WdWmZYPz9TzMIM4Ylgfnb96d9T8YqEiqjizaiG7ixe7YPfi4iJZdXO6DfOvEK91NDRgyV9cyOwKsoBh+jovGITWYwNRCXx+foGqHqAiLJqB3Tlz1BuIVJzJ9QXvPS4ZLnbhyk9UMLxAvUcmUFQNeS0SGbrr2SG2hwosK20uYt0PQ48DUIWG2nZMae5SOtZRUiNbB2PDEKYyWpp/n6/vDl9dNd2BO+qPTC254o7CCwgNdlCygzUeSqegu4oAn22ZYzlBR7Q8Ozuliy2h2ODFcfY7tMLODbGIHkoV0GOZJGQATyBYwPEmFU9W8HIwwuWUwrdJyQ6smr1uy2CVlk9Vd8/D5+PL9/vjSfnpOq1azkDXzuRvZRuQ/ix9Y1YE/pakAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/28.png",
+    "width": 1920
+  }
+}

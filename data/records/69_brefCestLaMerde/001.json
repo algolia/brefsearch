@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Bref, ça faisait huit mois que j'étais avec ma copine\net ça se passait super bien.",
+    "end": 3,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=1s"
+  },
+  "thumbnail": {
+    "hash": "51d96e8213",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nCXPXW+aUAAAUJIq95MrFKh1EaGorVq4CKVIo3Ar1WpXgtOoTdesWbIle1iW/YP99mXZy3k/EqwjJCMFkuTai6+9x8lkN59vhHhZrVKPq7jBEMOAIBn/V0Iyqp9Au9n68+vnj8M+uhoUAa9uwhkPNEXDMoEyxjJREKOQEkglBDA4AUWSfN9Uv4+HftvmbtfvOBgQU9UbWPEv7Ju+qwDCIKNQkUAdNQj7JLLJcHBYLkYXvdvBKLgcdHRzNfaSrrOdxl+fiiKdMqISQCVYx+eaUYTBMoqekkT4/HW9Pi6XOeexY4e2tc/Tt+3hy/G907L/HeQaahvNe+4v4njqeR/v7t7Wq/3DQkQRt9ppz6nyTKTiTDVMqhtMl6CMrbNmNU13c1Fm2efncpPlOyHyMIz6vdlVn1+OTpmOakgj6inVpKHjOuetoWWLYLy9F+9l+Zim84AvkiQLg9uuqzMNyZgAigHBgEiqooIaZIAK3/tWPZdZlo+jGQ/dD5ZlmJZuEkAUqGBACKQUKn8BDVBAjxjitX0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/00.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Cool, à tout à l'heure.",
+    "end": 103,
+    "index": 58,
+    "start": 101,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=101s"
+  },
+  "thumbnail": {
+    "hash": "963c2e2ad1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB3W6aUAAA4BPbNCoCIsKBg6KgiIhgXUX8KUapVeyqhVmdZrXWtYvZlril82LNknVZtos9wB5j77jvAwvXaiTIFkUGpjoW4MbIrTq1bpxe9qrz8/rEPX18O7sPhnYh1zgu+2cNcOe1buq6p8s/595u4OzHzoeLzoDh9qvJJjjv2y++vl8/b6bvbH1kFh+uh2DpOb8egt2Z/bHX/Dx2f2znn3zX49Pr4NLrOa/6nd+7+y/+4KZWCixzMXKBKhe2o87spDKvmk29VFC1Zb89SWdu7ZOClF9debeXw+lp0yrqelZh2TxgaPa1YxdTooZSJM3jSSEnSgZEE8j7srxtW0paUbIajzSOUxk2D9xqpV02wBFOUxxOQYoVICdmEvDP+s2/56enlsVSqaMIy/ElQdAjMQhUUSJIhkcSj6QYxRJJBFFGornv/su/q9ldpRynhG7Nrhs2GRexGAdCB1EQiig5TUDZCJHEKUgmBZNHj4ayP9ZgnF04rW+zK11Sw1E2HKEBTdBGVqITMBylYiRDJDhZVqdmsYtQCSIMZ/J8msBoAKKhEHZwiP0HVYJSvln/1h0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/58.png",
+    "width": 1920
+  }
+}

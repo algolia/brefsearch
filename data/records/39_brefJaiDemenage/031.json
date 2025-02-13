@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Je pars. Baptiste a dit: À tout à l'heure.",
+    "end": 32,
+    "index": 15,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=31s"
+  },
+  "thumbnail": {
+    "hash": "fe7d3141fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGtZUnZjW2JRSn1kW412bYp0bIlza4VxaIBsY4FrY3JdVEAsJ1A9OW5XTWdNQV9PSwB/b2djU000ISGRZFuigneQe3SPeXGOeHCJdGuLdW5hTEBhOzOAWU9jRDFmRDBvW1UAfm1lWkpDbElGmWxmj29pdWNgb1tYcV5adWFah3NsblhGUDElgV1Sb044bUcue2ZeAG1eWn5ta3NTTFg9OX9pZ3ppZ2JPTmhWU29bUoRwa1pJP0EoH3ZSTnFRRX9kVYJuZwBHP0FsZXGMeoNtW2SAepKThIiTgYCNenh7aGFpWVoQChgtGyZDKjIVDyBMQUmFcWkATERHY1tjp6S1pJ+tkY6nYlp5gWtvfGtwbmBsWEtOBQEPDgsYCwcVBwQRKB8rgGtlAEVAQ0I8SH58lqqntKyptHxlbo5wd3dxdodsX1pGRAAACg0JFg8KFwUDDykgKnhkXgA5NTlBOkVwaomKhJuZhIeVdnS/vsTj5eerk4F7ZVgkHycfGB8bFBsYEhowJy5SREQAMS8yOzU7Sz5HOzE3JBoccmZsvsDG3NzfxcC/t7CvVlNVJiMlLCYoLSgrJiEkIhwgu+icQsG2uykAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/15.png",
+    "width": 1920
+  }
+}

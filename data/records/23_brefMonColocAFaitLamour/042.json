@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "Et aujourd'hui, c'est le grand jour. Il me faut des capotes.",
+    "end": 43,
+    "index": 20,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=42s"
+  },
+  "thumbnail": {
+    "hash": "9deb2d3e38",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtUlEQVR4nAXBW2/SUAAA4P4ENVkCC4FINoaiwS3RoI4RwAEFeiztkV6FyRzLNmayZE/OW+IDMYWxXmlP71Cdmc7f6PdhxkzWplNFkrSJpP4Ynx0O8uvJ4lauWdmpl0uNagWv7pJNYMqGq9vaRMaQqluKbsmKrSmOqvRpAmxm31cKte1nAK+3artEvQkB7c2dpbs0r3TMm9u+iVzDDExrfnVJVrc/w9ZYpIlSgSLaAMfJJmA6bIDCm+gmtHxsgfwQuZ5lR66/cNCoL3zAK+MBP9of9DiRIl5TRIeD/MJZ3l7fyhMVW9hBYHmhEyjSVITdgw75naf2283jg+PR4QkEFASQfSNGbuSj4GW1hHmW71ueY9jFreeJO7Fccu2c6Vbzm9nUeo8RWZqFZFdg9zwU/F7++XrxBbNU5KHg7PQ8fje+tpp+mNroAdB4Uby/kigXigIrMlDoi0Nbd/9e/1u6EabPDFU2mBbIxJOxe/EHyczF8B1VfpWOpfKZRxzk+W5/Tzyay+bP8JepmJg60z99/HYKiROillhJ5NJZodEuPnm68zh/xPM0xTG0+JYbziTFd0LtUv8PhG2ykSj9RC4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/20.png",
+    "width": 1920
+  }
+}

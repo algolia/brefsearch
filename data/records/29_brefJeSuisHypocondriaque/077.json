@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "name": "Je suis hypocondriaque.",
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg"
+  },
+  "line": {
+    "content": "Il vous répondra: Non. Je fais juste attention.",
+    "end": 79,
+    "index": 33,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=77s"
+  },
+  "thumbnail": {
+    "hash": "8093885ef6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABYNDRUODnVnZKCSjZqJgVdFQGhYUr2roMe0p8Wypb6upbWqpayioKKamJaPj4Z/ggARCAcTCwqEdG6rm5NfUk1MLyhpQjaqmY/ItqrMuqy+rqW2qaOsoZyxqKWyrKynoKIARTk4Sj48n4uDtKCUcl5XY0A4gFFDnoh9RD5BUEhJZWBhYWBjU1NWYmBhenh7fXl+AExCQltOTFtNSmNTT3ZeWHFPRVs5L5iAdRoTGRUQFSMjKCUpMD09QSYmKCoqLzUzNwAHAwUJBggJBQgLBgkfGhuEaGBCKSI/NjIVEBIhHB4eHCAiIyokIykhHR0rJyknJisAHhYYHhcaEw4QEg0OIBsdpZqcn4+QHBgaCgYGDAkKEQ0OExATExEVJBwbKSMkISEmAB4WFxoTFRIODxAMDRENDjczODUyNiEbHRINDTwvK1hHQlhJQ1RGQlpOS0pAPmhQRwAaExQUDxESDQ8PCwwbFxoYFhoKCAgSEBEWExQ0KihmVlJ/bWqQfHeplo6biIBgRz4AEg0PEw4QEg0ODwsMHxshExETDAoLDw0ODw0OCwoLEA8QIR0eUkZGfGtoXk9LLSEep8l1/2PqNnQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/33.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Je suis dégoûté quand le téléchargement s'arrête à 99% et que ça fait deux mois.",
+    "end": 67,
+    "index": 26,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=64s"
+  },
+  "thumbnail": {
+    "hash": "61e3635145",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nAXByVLaYAAA4Mx4UKYQliz8JJINhSxkQUP2aEJWEixEizJo7JR2xrEHrz302um5b9DpG/Ql+l79Pujt24/ff/99PLzd3dbLbH3tRl/ua27ImDM99EJZmiVhogoygYF+D6MICto/v/789efl89dNUSVR4V+6u7TUpvrDh8fn+sXzl/X+kISZIqiKqKqSBsVxudnU2/tPfrBa6PYZOG02OhavvE+rVbHNonW1fvKNa1OSLd2WxiJk2Pl0tnAv3YuZD1AabiJtGONwQtf8Tb7K4zKMqys3sS4s04knExViRhrcI4kBSw/FdgtvNjodGG8ct3CUAYDrohTWZ3nBGNIiLxiKMofOJzo54Gw79Zw1jrLwu167ifbafXooDwCHdAGGEKeAJQAz4eehH0PRsl7dve4P3x33hh9pCEKhCM0x8pR3gvDW91emGRt6oMmmbqZ5VkGmV0bF4yLdJUGZuQncwo6OTsL5VRYUhp3OrcT1cseOZcWaqp44NSEAmEW+C5KtKBknx/CQYDn6vNtCQJ8Zn0kMPR6PBIZk+xiJIiQJqP+8N1dtgTqZMgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/26.png",
+    "width": 1920
+  }
+}

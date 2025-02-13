@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "name": "J'ai fait une dépression.",
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E"
+  },
+  "line": {
+    "content": "Je me suis dit que non, je devais être fatigué parce que c'était\nl'hiver et que ça faisait trois semaines que j'étais resté enfermé chez moi à rien",
+    "end": 23,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=19s"
+  },
+  "thumbnail": {
+    "hash": "4c3d900dc7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nAXB227SAAAA0D6Z+KYmGoOLOqcbSDcctIMwyr3toF1b6JXSdULvoy20FAaNY2jGzJJ5SfZg/AJ/03MAkRuyJGZqfodRUZwSKTmz8253K7G7lTAHo9vVj6Gi28OxofqOtRq5G8AyZjzNXC1+iX1T4PuFNNiCspnt108fPyrDuYeHf7o19v21PpioaqgqDuAaY9eMJdn+9vXPanZ/tPf+p+ssRbqd20++erFZXv+++7uMrmez9TSIbcMDWqiCFCkSp2+Dm0BQ6gepQbPiEXUdq7D1aqApFwrn2Oea0fddL5yEgMgbF+Z0E31fWO7ctEJZiqVOLDBfJJpEKjSFESwy0DTjzJyIUpesAo0yPlA8W58Pz6NpcMdRilSC9UqeKWSeP3km0GfzRXwZTO1ez2Pa7UYRgOA0CO59ePMSAlMy7zCnn+FUupx8m91O5PahHqtfhvfReB3hxzcSdTWyAY7nWySNYmizhjKkije6WI0uQQiO4CTGUjjPEDLPGr0m4aDIsH0CcF1ZEFWSEMBUtgBXayXiMA1BB3k4kz+Gy9Uims+VPiY/cSedEU1q5Ol/gxyOEH8lSpQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/08.png",
+    "width": 1920
+  }
+}

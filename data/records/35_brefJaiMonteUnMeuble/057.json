@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai marché pied nu sur une vis C2. J'ai dit les gros mots.",
+    "end": 60,
+    "index": 23,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=57s"
+  },
+  "thumbnail": {
+    "hash": "d848215458",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJSGh6aamZaJh2tfXYB2dJaMiZOKhkU5Ni8bGCojIzMvMS0mJ3lubKSVk4d6d3hsawCllpe+s7GliohCJiZ/d3Ti19CypqJnQTxwRTweExEkICEkHyF4bmy8rqqfkY+PgX4Arp+fw7e1zraybUhHjYWDppubYEZMakE9eE5FUC8sMiUkGBYVcmhmybq0sKKeopSRAJ+NjLytrcq4tHNVToF6dqWQk2dFUWpBO3hMQ04xKy0kIxYSEWlhXsy9uLiqpa2fnACRfn26q6vArKh5XFV9dHHCr69gSFI1IyBBKCBHPUMvMTgDAAFYUlHMvri9r6qzpaEAkX9+x7i2o52iTElTYVtcf3t8NTg+GBkcPzQ4QEhfT1VnKy0yTklIyry2vrCrsqShAIRycLmop6ylqUdQYDIzOxgdKBofJhsbHjpBUzlGXUxXbVZda19fZMG1rrquqaqdmQCDcnGjkpGvoKB1dHs/PD83OD0eHyIcGhwxPVI+TGU/S2BhaHVcYWmon5yuop6UioYAdGVllYaHrJybpJWSZFpYqKCeTz4+mWddYVJaOEddNkBSUltrSVFdcW5xm4+Lgnd0cfS5zSh2Nk4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/23.png",
+    "width": 1920
+  }
+}

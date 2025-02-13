@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Bonjour madame, c'est très beau chez vous.",
+    "end": 34,
+    "index": 15,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=30s"
+  },
+  "thumbnail": {
+    "hash": "9bd096558c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nAXBa1eaYAAAYH5DO7t0OgsBEeyFuAoKUhhK5JyIb4BgWCBYirXjNrdq17azL/u6P7znQZ6W/rfcXfXVote40MGYJ9Kuuob21yL4tb74+yn/XcABtYe/enafen/KGPkOG2WXS3TmMTmLFNLjcU/AYx3MbWXpmpvpYON1epUX3O7OjwX895AjW+dwdvj6s2998AzIVcYC4ctkJBMbaD4mbwqnNZZpbW9HrbwsYe9LOkLKds1j0aepfaVTHo+FMhnK1VCuZh1+A82f+XAbOZe9VmIpma1GCoUMyec3tvS+L+VHYMRhkVy91OigQSZaHfLolQG25+bD9PQ+Po1bdNIgkMIA7xypPGFXFgcF3GXQuQEihYqadHbERBI+06h1X7l72/JFbHEMkBuLy9r162NmZfETpTZg0JlGJ20w4vHihEsNEMpErJKRSgYiVlosEsiEL1VTAywtLpBJu74fKrXEAK5AxC362hZn+sFUJc9FfCIRa4tFzlgsVsjbLrvqMM7BfodChzwxadJBk3YFfG5xC1vMTGbEVSIJ+zhU/wPDpXSso6uzugAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/15.png",
+    "width": 1920
+  }
+}

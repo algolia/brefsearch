@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Après, il me dit: Tu devrais dire à tous ces gens que tu les aimes.",
+    "end": 25,
+    "index": 10,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=22s"
+  },
+  "thumbnail": {
+    "hash": "f8f698fb18",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABc0lEQVR4nAXBy27TQBQAUCfxPO68x54Z2+OM7bimplHbKEUiUiuIQgtKWVeCD2DVdSVWbPgJfpdzssHbUkiFicLkqlD3Xb0Wslf6KYTvqbqL8T6l27I8aHby/K4QmRMiCuEAEsBnL07RbY1+mS5+X207KW9D+dilx8p3QEdGOSIZI+AYLzB8UvTtvToUIgJ9busbXWBED5WPAIO1k9EWU4NJRhApGa9z+PdUv15rl1NDGF7kDzG+jN25S1/7+rzd/ry43CnlCMlq45P1N0r/PaZjakpEIWerJdk7d3DmY7P+s5u+jZdfmvlXqj5okU0hVlIP1s2iPIU6CkVWlCFAOSwWuNZqI+Wx3Vy7+ezcj9ZklglFueOqZPqh9Bshl0vMcpLnJFviIIVkvPfDYIdRVXtfZByDJEwQAAwtt54KioXBChCvlXkXwliaObatCbMJktnMcskQAGI4J4AYRYxT5yCSFeuLegr7hq83Ie76prOWg/kPR0Anuhkca9sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/10.png",
+    "width": 1920
+  }
+}

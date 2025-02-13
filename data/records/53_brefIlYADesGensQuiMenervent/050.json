@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "C'est un super passe-papier.",
+    "end": 52,
+    "index": 21,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=50s"
+  },
+  "thumbnail": {
+    "hash": "214ffa4484",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXBC2/SQAAA4Apj0Paud71H37220EKBGdAKe4WtLCszbGEPNTg3HUwSM+Mk0ZiYaOI/MP5kv0/anSzeXD0eDk573byB2RiDsbCKJDiI3KFnpRgLSAQ2E4D7UBFAkQ4vHq/n68X674fP/3a4/S4VRTfK22KvJXZi77gdTBMBKwCUawOgZgxL49ffHh7+3C1Xk0E+9YP7o9Gn97cfZ7Ovb1/9mJ/fT/cvO/VZ3dvCaBvDS0Gl4vrn/OpLl9mRigKoD51wfb76Plv+nt78Ki56VpRSd88x6gg/RSh3mHR0ujrePosxjzHzIc0MYz4cLfKT5f546MdN4r4wvQ7hAtIG0tsISantPQ+aMXWYjFrMK8JwZLM8EX3XqWPmId5ErEN4rJPMZD2kSREikUab1G/zcNdLDlwn4/ws8Sax1SKUKMQCxFV1oZEeIy9NIAUa9SEPdd/WDKJgpYa55jxzrMzCKWGxzh1Vp1XEZc0GoG8qEipX0AakKpKrsFySNysQyNTVGakpDcI63AAVZbMkbzypyaVqn8v/AT4oQXqmSkB6AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/21.png",
+    "width": 1920
+  }
+}

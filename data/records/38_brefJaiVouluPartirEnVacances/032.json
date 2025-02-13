@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "Des clous et un marteau parce qu'on sait jamais.",
+    "end": 34,
+    "index": 15,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=32s"
+  },
+  "thumbnail": {
+    "hash": "f24c1dece6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGJZV3tzcZGHhp6Vk6eem6yioK+morSqpZ2Sjkw8OlZMS6Wfn6+op6ihoJeRk4eBgwB8cnKLgHuWioGbjoailpGonJWlmI63r6uSfHRCJiBSOzmPdnJiW1uxqqmmn5+NhogAhHlyfmpUhGxRe2JIg2xUiHFYgmlMjHpoo5KHdlBGXDkwhGVdNCssRD5Bn5aWk4mKALOdhLWghrurkpaFc5SBb5uHdJWDcZGAc5qNhUg6OEU2NW5jaRoVFxkUF3lwcZKHhwDUxbDj2Mfg1Lzc0bzc2tvT1Ny5tbuTiIlJQ0MFAwNzcXaGgIkMBwgVERM+MC5zZWMAyr2p2dC91su0y7+i0M7LxcvWo5SXWiIhEgkKCAcHYmFfd3BwEAwNEg4QOSkkal5fAKyaf8q/psu/osO1lcvKybm7w4SBhFklJ2c5NTsrKD07O1NKTRALDRMPEjIiIFE+NgCKeGKhknq2p4mRgmt8en1HRk8dGiMQERYmHiEfFhcJBgcJBgcJBgYPCwwfGhopHxgAXEw/YlNFSD87Ih0nGxgmExAcERAYCwkLDw4UJCM3DxAVExUdJC1DHR8tHxoUNS4l0fSu0lE/WbwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/15.png",
+    "width": 1920
+  }
+}

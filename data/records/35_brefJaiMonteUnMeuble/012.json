@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai dû pousser le canapé, déplacer la table basse, rouler le tapis.",
+    "end": 14,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=12s"
+  },
+  "thumbnail": {
+    "hash": "5aa7e5fdbf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF1SUG5hYIN0da+jpdPNz8S4u7WnrK+fo6iZmp+PkJOFhIx9fIJ0c3hqaXFkZHFmZgBrXVuFdnSWh4i7sLLd2NrTy83Hu73Ctrq1p6qqmpugkJGXh4aRgYCIeXiHeHiOgYIAbF5amIiIg3JroY+Iu7Gxe2pmpZiY08jLoYySp5SYtKmooZKRmYqLmouLopSUrKGhAGJTUJaEhJ+Mi6+koLSppodxb2NtfIqHkNnP087BxMa7vLmtraaZmoZ6epuQkLasqwBtXFeWgn6lj5J8hnGbnY60pKVycX0yN0Kkm5q7op6gioe/tba3q6o/NzQgGxtGPz4AdF5WeGJZaFFKl4h/qZySYFFPbFpaPy0pe1dJnYd7fGRbmI2OlImHMCkkFxMSJB8cAEIxKzoqI0E1L56NiFpRTUk6LlRIQDkmIXdYSIFlV2BGOzMoICIcGB4XFTYrKkQ5NwAjFxMmGxY4KyVmT0UtHhlENyyFbltQQDiMcmKJcGNgST5VRDtGNCs8KBg9Mi4hGBsAGA8MGxENJBgTNychMyYfQzEoc1lFW0M1d2RXloFxhnFkdGFZZlRPTzsyNCgjBwUD7+e81dJYBHcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/06.png",
+    "width": 1920
+  }
+}

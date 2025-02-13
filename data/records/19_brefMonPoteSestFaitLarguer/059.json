@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Profite-ra, s'il vous plaît.",
+    "end": 61,
+    "index": 30,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=59s"
+  },
+  "thumbnail": {
+    "hash": "d6ec3158a1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nBXLW2/SUAAA4A7anvac0/aU3i+UtqP0wkBKJ15Ys42RTlC7sUG2RZeJS4xBE59cjO8m/mzj9/5RSxUsVe6dBmoHVW3pwkUffLjx+LXHr1zu0oV1ileF/m2SPBbR29CgLk3uIUCfu3CTmfdjf2rjXYa/99GXmNuNlDddNZKZTy+Dq9gcazCSOGrtoW1PXAX4tu8+HfUGKly43CaEN5HwMVPrkDiIrVPrOrNyDZqQpQhgJabpYWZiCGdtkhDwzGq98I0q9U49kitsQuD6wM01ONJgSAAF9vYOXONHdRgTbiTzEW5uy+HtdDAwxb4hWhyt8uxxR36uczEB+xKgEN14P4r+PtQ/q/HXw3ZXZGZd42aS7isoUrFPYE8X5oG8CMSYAMIyFGLYADGbPLw/zu8Se6YLZaDPOq3CFCIVhwqyJT5T4NKXEqmJaZriGdqDzCtbzKxWBti40ZgGRtWRPcSECvYl4AhgHlm7k+FjOVyk9v/gC6DQsYdB4Whl6r/2zXnmR45+Ftu70+Gv8/zPdfn74uhpfb49Gf8DLD0/JUnfTNQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/30.png",
+    "width": 1920
+  }
+}

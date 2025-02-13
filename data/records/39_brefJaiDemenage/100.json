@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Oui, mais je suis ton père.",
+    "end": 101,
+    "index": 44,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=100s"
+  },
+  "thumbnail": {
+    "hash": "cfc63905c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdpZoFybop6dY59eI99eZB/eZWEfI18dUU4NR0UFC8lJKyopNnY083LyL25taGblwBuX1x8bGiGdXCJdnGJdnGJeHGPfnd4ZWBVODM2IB0PBQVKQUHe3Njj4d7X1NC1r6sAbVxZb19bbl5abl5bbF1Za1xXaVpVdV9Ye1RLWzIrPyIeMyoq19XR6unm5OLfxsC7AI6BfpSGg5GDgYNzbIBwaod5dIV4c5B5cn5WT102MFEqJGJTUeTi3ufn5enp5s7IwwCMfnuRg4CMfnppVUZoVESCc26FeHWWgHppRUFULCdWMiuspqLt7erj4eDr6unRzMkAinx4koOAjX57ZVhUY1ZSgnNwiXt3e3FrYUJAQiUiTycntJOX6Onm7fPw7Ozr0s7KAHpsa4x9eoZ3dWxZWHBaWXRpZ4t6d4NMVXFBQFEtKV0QGWAFFn01RLuVnefl5c/KxwBvYWGAcnCHeXZtXlxpW1l9Z2iXNEuYFjZlHSNZGhpjBhFfCBhiAxZhAA6eaHTDxcIAZVZVb2FgemRkcFtaaVlWi05XnBk7jBg0fBQpZhAaXwcSYwkZYwsbWwMVayU1qKWjbbrGH0iBHIoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/44.png",
+    "width": 1920
+  }
+}

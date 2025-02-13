@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Bien fait !",
+    "end": 55,
+    "index": 25,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=51s"
+  },
+  "thumbnail": {
+    "hash": "60dc98b2eb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD5AQFxbVWlLPiYVETkoH45bSJNkVIxfUZBdTY5ZR3JNPZB8ZYt7Y3VoUnhoUZB6YgBUU1JgWlWHVUdXMihxT0GudFxUOjAkFxRUMyVYNio3KSKmkneVhW2Ac1yGdl2CblsAa1FOZ05IiF1RkFZIhlxJzItwn2pWc0o7oGZQhFdHZ0o5t6GDlIdxhXplj35mgnBeAGNCP2c/OHpUSn9SRnhSQLBvWrp3Yq1rVsB6ZbF0Y41iS7agg56PdpCDbJaEa5WAbABkUExpQDV5SDxzST55UEGSW0mYXUqPXExePzVNMCeKbFa7poefj3eUh2+Yhm2hiHEAaWFdZEk9az0vgUw9dEU6bUI2bkY3VDYtRSgmMB4YiXdfwaqKn493lIdvmIdum39pAGhsanZlYWtDNXdDNY5RRHpHPFU3LF89MUcsJEs6McCvnrihgpiIbpGEbZKBaYZuWgCxq7fGsriAVUZeNSl0QjRiOC0/KCAvIBkyIxtcRTfCtbbMv72jloeCdmCEdmF+bFsAu667urC8kHl2VzUpWDInTCwiNiMcKBwXQC0kZ1RLm5KRtqyywLbAo5mZhHdqeWxfFJGto3Z2/UoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/25.png",
+    "width": 1920
+  }
+}

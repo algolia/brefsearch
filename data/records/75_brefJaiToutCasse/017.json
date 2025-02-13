@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'ai cherché le texto où elle m'avait donné son adresse.",
+    "end": 19,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=17s"
+  },
+  "thumbnail": {
+    "hash": "33dcfef564",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABVklEQVR4nD3P3yuDYRQH8POcH89jKGNhNkW9aK0ZC2tjfjUxs4bZmrZSI0VyoSbciKzRQktu3Gj+U72vN+f6fM73fIFQCEXYCBstXcZ0G+1Zmw+XN+LTYwEjhskwaSZtbxIDoTBpIe0AA8BTQV/jbKt1ma8XU5OjQwAsbJu/0+BqsjUTAahQwFtNWO1atllet4b7QZGWLmHjAmGDihEJEZlIKUyM+ypR67mS+zzKhX09ikSL/fBfiJ2AyOiOAoCdSLAcCT5kl1rFVGSkD0AZJ8EFhBoVESEATAz13RVSjwcL9XT4PD55szd3tRML+QfIaegA7SQoYgdE/N6fk8z3xWa7uvxeSN7nY83dWOd4e7C3V6GICJH7EhEiKLS8nuv0bLu0+JSb6Zxm3grxj1LyNpvwaEMkzE5pIrvAPyhGrZfSytvhaqOw8rqf/KplyjELAIU1o93hF3aRMpxVNGbBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/07.png",
+    "width": 1920
+  }
+}

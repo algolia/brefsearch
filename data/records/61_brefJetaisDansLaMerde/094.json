@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "Qu'est-ce que tu fais là ? Je viens voir ton frère.",
+    "end": 96,
+    "index": 41,
+    "start": 94,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=94s"
+  },
+  "thumbnail": {
+    "hash": "147c6993cc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABq0lEQVR4nAXB607TUAAA4D6Bf4Ao08UZ0CysZWFtaau7dO3WC11vnEN32u70sl7WMVwmQ3+gBjQhIfEhTEx8AOMv387vI8ZjUVEkY6Jr2kgV5SHLyx0SO8a5hzQHQJyh9NLxo4k3M1FkQkRYlu46BvKhrcsCeaTzzNpzVsCwlNF5kKRXn5LVjT9fApxbfuxOQyKcXWCMsixyNXFIU5kxwvo4t3WjK4Agmi02yeU2XV3PyjVMK+BHRFlEizKtljnQRJVrXznaLfbeu0ZhqSjEYbFG8yosVrjawKS0vJC4u7/9ev95+3EDlL7CUqna+wDNXJFhj4EQWH4czKswX7lhaiMMwoS4+/7lz7+/v37/tEReZckzlsKjbiB1u81G5TlBEE0QniYljEsQFXh5TcgD4eHHw+PjN/Z1XeeOTaHtD/le81WfPNwO+ZuRZHbot31Jc6YwXoKoIDimrXK0ddLq1J9KDGkKJ7HaN1jqjKPmL/by/Z3wZY1ptiiuN1BN1b4gTuljsV4Tnu0OGs9F8o3dYxe2brDUoHWQ1Xbme0/Q/q7UaBxS9FGbPn0n/gdzaIQR979fgQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/41.png",
+    "width": 1920
+  }
+}

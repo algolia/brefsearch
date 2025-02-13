@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Pendant ce temps, Thomas Edison, propre sur lui et bien rasé,\ninvente la lampe électrique.",
+    "end": 35,
+    "index": 11,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=31s"
+  },
+  "thumbnail": {
+    "hash": "00a58f9d35",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nCXQv2vUUADA8Zfk/chLXt7Lu0sv13LmcvnVxJy9K2lr72w5KooVQfwBtrQnXdoiiFKpxZMOxc1FB3UQHXRzcXByLSgUClasg+JQdPH/EPU7f6YvqLlDIxXHkYISPJaNplHADWM8z/zaCMWYEoIhgqqmqX/TNA0UzdEs8NpZXLbtM7PdrZvreRQUJ473ulOWSQVnJqUE4f8aQgiuXTyXR41TE21vuKojONlq9q9eunz+7GSrWRLckbYjhTBNqGpAURRVBf0rF+Z7nfm5mcT3VACyKBjcubVxY61TjA87pbjuHau6juAGJoJzjBDoTRfNJDo9M50GPtPJzv2t74ef9j7svn/39smjhw+2B2ngV8slDKGwuGAWGJKCGUZY92pupSys9ZXlN69ffjnYPzzY/3n0Y+/jbmei7Uo79r2kUU8bdWBSiiFypKxIm5t0rnty7frizr3NV8+ffvv6+fevo8Hm7RJjrTRpZ/FYEgJDpwhCkxqWYUrO0rCRx+HsVLHaX9i+u/Hi2ePVlSVGKcXE1CmjBtAxgf9+IQ1SogvGpGXV3EqehARBDDVVUaCqYYh0THRC/gArl00GRQCT5QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/11.png",
+    "width": 1920
+  }
+}

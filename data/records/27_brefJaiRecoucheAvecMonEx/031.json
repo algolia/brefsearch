@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "name": "J'ai recouché avec mon ex.",
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw"
+  },
+  "line": {
+    "content": "Elle a rajouté: J'ai un mec.",
+    "end": 32,
+    "index": 15,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=31s"
+  },
+  "thumbnail": {
+    "hash": "78aa822071",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AD4kGjsjGkIjGXRSRKaTibiwqsG7tsO+uYp7dXhXTXJXTZmRi8K7tLOspaWel5iQiwAuGBBCJx9MKBtvTj5/a2G6sKignJhvaWaUYlG+fmanZk9TPjZ9enaAeXSQiYOlm5UANh4VVzMrWzMlWDMiQi0jfGphVE5KMyclgFNDr3ZhlWJPRSwkFBERBAIBTUlFsqiiAFMxKXBEOWg+MGI/MEc0LFhGPj43NUs8N4dXSJNdTYJVRmdEOSYhIAYGBFBLR7SqoQB0Rz5yQzd0TUFnSz8zIhpMOTEsIiIzJiZ/UUOIVEiZY1I+KiUpISMSDQ5OSUWwpp0AiGVhiG9wnouKeWlkSTw8YFFSVUhQHRYaPychbEI7PSYfGxQVKSAiHhUYWE9MqJ+VAJiNk6CVnq2jrK2jrK6krbevuLmwu1FIUhgODTkjHDkqKSceISQbHRgRE1NJSJuSiQCBdX6JfYaViZKekp2glKGlmqi2rLmlmqQzKi95aW1lW2AVDhAhGRwdFhgyKSuGfHcAaV1ncWZxf3N8jYGJmo2WoJWfoJShppuqX1Zkl5GgZ2FrDAUHHhcZHxgaHxgaVk5LoWWdatqx7uAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/15.png",
+    "width": 1920
+  }
+}

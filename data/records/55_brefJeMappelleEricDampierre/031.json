@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "C'est comme aux échecs.",
+    "end": 32,
+    "index": 18,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=31s"
+  },
+  "thumbnail": {
+    "hash": "9ff60ef710",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nBWRTW/SYACA+z/8BXrw4mGnnYze9OSM0eCFuJlsUeY6TMaHAWqphVAopX0prLTlpfStAm3ptEDpGNS4sWElevDgjzEkT57bc3qwWLpwnCunCiDHKXQDlRWT0xyA3LJiElWV4NrpUjNBAzzL4DkGzzLYCVUjOIWR+8AYt6w5/HapjZbIWyn2QkTjhjGuQaciD0ihk2PlVLGOkTysQlsyZx33CnkrY/pzgx8ao2XXXujDQLMWuvO92jljVeuT2MVKrV6z73fcK2O2Rue/No0fGrP1xn6oTa716ao3/w3QSPzisdDGKm1LsuZdP5STxeaz1/J+8vTFfjNy0J+GrGo/jRzEEvRnP0STG3kYcJqDMVJPlM324AI83AG3t6QnUXB3u3rrzsBbkbz2eCf6ci+OJje6t5Ksi4pqYgQrV3goOUErL5xGj6TdeOtNWo6Tg9marqPDZGHvMAO/XirDoKadUfUu9g7P5GjAqKboBPJo2e6fo+t/6Mff3vwPxWuv3qYiuzivuyy0SQEmCwCLJajNB1rI5mt5ii9+rLI1yHJQ1N0TSri3df/Bo+cEp35gGu9J9ihT+g89JQW8eoGnlQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/18.png",
+    "width": 1920
+  }
+}

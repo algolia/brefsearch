@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Le parquet qui grince entre la chambre et la salle de bain.",
+    "end": 46,
+    "index": 16,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=44s"
+  },
+  "thumbnail": {
+    "hash": "02ae77950c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADIvMWBaWVVPTXhwbXVrZ4d9eoh9c3hwXXVoYW5lYoF+f7u2tKGdm1hMSz40M1VYWQArKit0bGhsYVx+cWp5bGRuY156cGZ6fXCXlJPIxMLUz82TjYw5MC86LSxsbnB0cHMAHh0ge3BpfW1jgXFlZVtTTENBX1lXfHV0tbCvcm9uQj4+Rjk4OzMzjY2QmJebYFNQAEA7OoJ3cYZ5c2VeWzkwL1s/O3Bra1lSUWBWVTYoJjorKkpBQG9wco+TmG9jY15LTABxbW+DgoVhYmRJSUwwLjF5bWzJwL+/tLF+aWREOTc0LS1VT0/AwseLhIg8LTE/MjgAPTxBRkdJRkVHSkdJamRkoJOQta6sf3NvRzczOzU1a2drdnR4bWxwOzg9OzQ3YVlaAGVjZUA/QS0qLEo+O4RuZ4Z4c4J1cTwvLD86PHl7g5eWnpWUmikqLzAsK19WVGtkYwAyLzArJyZQSEdeUE1PLSNPLiYoIB8yLzGEipWbpbSdprVscHkSExVGQD9pYF9XU1AAMCspTkdGWE5MVkxJUEZDRDo4SEBAdHF3fHyEgIKKkpmkWV1lGBcZSEJBXVhXS0hBAXOhgCNeKTgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/16.png",
+    "width": 1920
+  }
+}

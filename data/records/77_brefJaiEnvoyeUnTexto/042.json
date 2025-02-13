@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Un smiley qui tire la langue, ça marchait pas.",
+    "end": 44,
+    "index": 21,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=42s"
+  },
+  "thumbnail": {
+    "hash": "da8826c544",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeUlEQVR4nCWRX2+aUADFeaYIF+7/y4ULVxGKKLau2wfYliVd9rAsTHRWKxZbJ0vT7PsnCy45r79zcs4xXOfKAxaGDqcw4CSWXAdipORISS258qlkmGEXebbrXAHbNDxgEQR8hpWgo9Afx2E2jDKtUq3GcThUMpZcCSIovDCWQaAjGdKBKNJRkSXzSXaTp3ez4q4s5pOsnKR5onXAAwYF8aA7MDhxQw6zYdSdjudju1nVy2V9OhyeD81uXa9//tiu6/vPH7WkAfMocgz/AqQ6fD2fuue2rqrVZtsd21VV/W7bZrt52u++f7vPhqEkLsOOwTEIGExi2Wx//X3989adX5p9d3pp94/H5vFp97BZVl+/fCpSLTDoE5BnC+JFgkyvk8VsspgV72/Ld/Pph8X8dpqXeTq7Hpd5ogPKkNN3cIGFL4ykMOQo8tn/ZWPJY8mUoAFDHPXeyB30swLbdG3TcwcEAdFfgZUgkd9LCeJTyLGHoeMBC9gmsM1/m4NFkQULiUEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/21.png",
+    "width": 1920
+  }
+}

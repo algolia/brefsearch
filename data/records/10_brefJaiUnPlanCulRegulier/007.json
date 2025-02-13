@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 10,
+    "name": "J'ai un plan cul régulier.",
+    "slug": "brefJaiUnPlanCulRegulier",
+    "videoId": "9zk0TrOU_cI"
+  },
+  "line": {
+    "content": "Marla, c'est mon plan curieux régulier.",
+    "end": 8,
+    "index": 1,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=7s"
+  },
+  "thumbnail": {
+    "hash": "f9d5a2c389",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAW9JREFUeJwVytuK1DAAANDMJe1mmiZN0tybpNfp2JkOs7MisiArvgiC4MOigg/q//+EeJ4PoHKQ4erHZ9vfub8Sc+H+zt3tUCUqT3Z8Sedv/fq9W3/G5bWZvwLVnFQz67SE6cnEi3KLblbMu/2ebEGOiLfjp379MT/9Pd7/TI+/gU0XHU+1n8Jw03GR+uj9SlmAD6yoDDxw7i7t+fNwfT0+/urmL8DExXUXZnrXrdLPTLRav8Gl3UGcFTxDTMeV2amUvaCJQgqYaWs3VrqVzVSprqri/71FcF/u9hgRw91UCF+wgHOebRFARFYqYuGIClSEApsccZgRRDQREYtAVCplU/A2y8lmswGVTirMwg7CDZi4AtsDNqg0zE3cz5XtSxlzzAsxcHvdbSEohWUq2nap/QhzAjMCEc+RQAeJqSNVQ0UqeGJ2tcNHGd6BB6KIHOpm1enGzYnyRFhDRMfMWYe3yt+Vv7nxgxtfVHqu4/t/LkIr3e30NfYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/10_brefJaiUnPlanCulRegulier/01.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Quand je partais, il me disait: Tu vas en Quand je revenais, il me disait: Alors ?",
+    "end": 32,
+    "index": 14,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=28s"
+  },
+  "thumbnail": {
+    "hash": "70355911d5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nBXCaU/aYAAA4LdMjqZYer5UjulIJZKGyjE5ChQqYIvggTiXIMtmoFncHC6KOrbJSjEVXJa58W2/dvHJA0bXV5/0brO+o0jypiTXi8XJ4GJmjKzvX7sHjb1CPBl+Ud2I7pclSYxIYgQYw5vLj6ftw6N6Ku1xYiEIf12c/b23HozbXquhRMNFIVKXMk0lq8TWSsl1YI1up+a43+mUWXaVZrdTCevzhz/W5NEy+2/bu1Jq0KzNv5z3XjW1dEzNZcDMNH5OxrooqIQnCb3FgO9eU/5Nzfns7tE0zk/0NxXlsn30+2H+bXCzo+TBWa/b73RaS95jn3cbMiXIaYGglsmW87KSyVUKlZdCfHMje3c9nP0Yy3ERqLmsmki0lrgDDu5xXoFiwQKGIA4A7DbEaQMO1LXY3qpO3x8P9XdaXgJyPCatrFRJch+yV/zzEoTA5sIxYtFNEDiDojjjoU9qqnGq13JSQ5YBHwiGGZbH8DDJHoZCaYoCz1DU6XY9xRDEGWTg68qWEElSOB308yDKry5zfrsDs6OEn4QRGroxgnCTFMFCiqMJuLbMF8R1EsPtCyhF+v4DyvllZrZyzi4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/14.png",
+    "width": 1920
+  }
+}

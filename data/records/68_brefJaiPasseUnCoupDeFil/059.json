@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "name": "J'ai passé un coup de fil.",
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98"
+  },
+  "line": {
+    "content": "Oui, oui. Oui, oui.",
+    "end": 59,
+    "index": 34,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=59s"
+  },
+  "thumbnail": {
+    "hash": "a8cb6305f0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nAXBW2+aYAAAUN6WpS7KRC61XOWiIjAR+QA/oViqFbxRq06r7eySurhEm7RL1mRPa9/2p3cOUqOLCoYCgW7J/KKlvVyBv7P4dXwZNbRtBDzhdB6aj6PgtuPVOU4nSSQ1pFmVSZrGOu6MXO33AP5bp3/S3jp0j9edkS49ROD95/J9v5jY2rQqIk2GtWgWNoOn5WzpmlvPeOoF+66/OW89RG4osEO1fLhJjrN+IAkOgSMpMKO6uQrAvA2urUZqqK+DaHcBZ459GERDhY2UWpmtxMAS8gWVJBEKO/vCcRuod806msUlgkrUCo9Tm7b7I7mss4LBKZkPucKnz0QOs2QZqYpliVdEQdUUI4sSNMWoXAlF8TW0oVbLokWOPC1kctjHbMN0XdBCDqvp23E3setjmb7vwOfp4JDGL9v1OITfEnjbcyaR//x9OfdBDMG0C5Gbc3dx4Uci87XCtGkqZIv9Cp8Y5diDv3b3d2lvfhW+7e+2jr4M7cdFH5HyaDFzohNYl6d0HOPQvIjjvlyyBHHle44ij0I4dG1TKDEUz5yV/gOdvmC8g64thgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/34.png",
+    "width": 1920
+  }
+}

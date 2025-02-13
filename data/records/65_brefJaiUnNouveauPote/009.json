@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Oui, j'ai un peu la chasse, mais c'est bien, ça me purge.",
+    "end": 13,
+    "index": 4,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=9s"
+  },
+  "thumbnail": {
+    "hash": "2fae6134e2",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nAXBbW+aQAAA4GvqfOVNCgfyfsdxnIAKDiyssepqF7S1frBbzYzLlmxJ921f9gu2ZH97zwPWkbcZo3qEVszZxPYxRy8FPub4FsMJFOdI+5S6H0I91fjnzDpeI/AwIYeC7lLMNIlcCXeB+aUMXpfxxxQ/BiaRuHOOS0MatN6cK/xrMwHPOTvPR08p8UT+KSXviV37+u86e50n29DbRe6fff6tDO/J4N/n2d/TO/BSxt/vsvuhswq8r+tq4WozVfi5iE9VlNnGISOb2D7NwmOG6hCuqAYOOTvfJMvQ3k6TfZ4wWUCynHrOlATMsn0V8o1W9/ISib2RzFmdBtgnfp0EyxHdFeNDHt1S5GoOc/1iyK4pLrDtKmqv0VTbrcrRf9Q5WBOr8N1FQhex/zAO1hGBkjKATkroY+bfIF3m+ma7m0t8pqlL3wRTU40towxxQVHiWsyxoCCqfY350bYqh7p+1eFgsz3kenG3ZQIAiNSjuppie4xsamgeVBRegJI6UAzqUZmXjU4zFLtv9X4q9/SLi/8RZUXfROElUwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/04.png",
+    "width": 1280
+  }
+}

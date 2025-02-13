@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "name": "J'ai aucune mémoire.",
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw"
+  },
+  "line": {
+    "content": "Putain, laisse-moi parler.",
+    "end": 57,
+    "index": 21,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=54s"
+  },
+  "thumbnail": {
+    "hash": "023338e3fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjElEQVR4nD3LS3PSQBwA8A37+GezmwdLgNaQBxhIeQgp0AcKpjNpO0FKp9OgU8eOFz04XpjR+gm89GM7evB3/yHBhAlSgjRBdP1ov//94+n5/e2u1/KVdVA164KJhmll6ehzubnMTpAEKZgh/zVblx92X34+Pb9dXB0FST8cANaBcE707uHB412Rnx0jnXIgumDCNmwL5HbzsP/+Kz89vlkWj9fbSKm43jCZ0bSdT9t8nReIaJRqzGBGW7nzMDpPzzfLxcNF793rbPcmywf9YjxMmk3PVuNOJ7u4RxWNEo1ajF/F4SqJJWWuikCvZ/Ps2225Tl+Vi/k6HR1aStOAMwNVNFLR6Atprnvty/HQllXbCRCiSdT/uinL08nH5cko7GAsCAaMdYQrFFeY4sYq8ovpxHU7luMzKiwnyKdZfpQsenHQaGEiKOEE64hixoFLLtKgdTZIrepLAEfwGuhuHE1m7e40mQV+X0OMEuNvYASAAgfdq9VCL2agCDY4V5RZQTCcJLNsded5yf/wB5PdNa/SGQMYAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/21.png",
+    "width": 1920
+  }
+}

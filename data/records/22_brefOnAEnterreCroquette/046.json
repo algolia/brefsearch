@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "name": "On a enterré croquette.",
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths"
+  },
+  "line": {
+    "content": "C'était long. Arrête de penser, jeudi.",
+    "end": 48,
+    "index": 20,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=46s"
+  },
+  "thumbnail": {
+    "hash": "42de0dbf4b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvElEQVR4nAXBy2/ScAAA4F7sgLU8ZA6wA/qCtEB5/DoK0hdsLZRSBDZgzElXYIldQrKRzIlGdvDkMzHGqyd1Vy8m/nt+H5TmgnkB5SpenINpPHR7pH51R/cfX/37/WN6Xl68Lm/eX40X7cEzTeuRdYOBRJ2uaJFqE00XPCAduR0o393Rr/XFny93F9Oas85NV2J/qugdXqozaiMHaf2s1GZ4LVCswXa9ZB+AlaXcdNXNbLJxLcXELFsY2lLT5AdDozfhoExxu6r7ZIuq6PhzrfjJMb9djn/eLf9+fvPypldQkaYBnh6pso6P5vmrTQfqTlg668kArGtXZrb2bnK46sgf5uP7t+78Wmmd5AtgFyg4zoaYss8834UAH2ayKLsPG8e00eZPVc5V9peNynpx2uw/AQ0sL+/0pqJ1Jj5MPihKCBTHkCSB4gxCklHtsKFXS2aJ6grZ68tlXdJLIMcJBFOOcWISKAkWBKBoFMViOyF/0LsFD0fHnZbFJnDnzJk5L6g4yVBsNpXJsKlHsfBjGqG5ABT0+9Ft1OuBEZ+PJAgiTjNpuXXQrwliNBzdi8Xjkb1UIpWh2ASJyi3iP3fQZ7hBCIJWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/22_brefOnAEnterreCroquette/20.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "J'ai attendu des heures près du téléphone pour qu'on m'appelle.",
+    "end": 15,
+    "index": 4,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=11s"
+  },
+  "thumbnail": {
+    "hash": "512b44f553",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoklEQVR4nBXPaW+aYAAAYL50VeSQVyhXBdQCLXJYimIRBRTxCIK91kSZWzZX167JsiXLlvTPL3v+wQPhx0cnGFJD0dJRGa+gGIxUKwhaKodX+teH+XYVZgN71bmYORfXeuNK5iACLpMoSuFVHMEYQPIUTRM1gKBtiX8p7j6uZ4fd5u+v3/s0DoyGq3AQiyE0jtcwAocRpFShq8BqNWWOrZNgm82LLPmwXrz9efu8TPJ+2zvnIZkleQCQY7hxQiksY4nCreeYotCkqU0aFcugmHpDWQhE+ls6jswGZCviGc9IgBhp6nMaPy3Hr9l0lwRuW97kyfvYf02jn3eLoHV6WAS5Z0Dwu/9XHpB9ufXoOzfu5fdV/JInnt1xLLPJ0gNV/HGf7iaDIug9jnsQBUhDMxkCWHVuostLQ3uaRfttMRxMe93I1GyVo11VyrvtT5G7mw+hrq7NJknrVJAItC9LRdA/PNzsvzxni/Vtei8rDsvKkWOFxll4Lm1iD8IqmKnpl7olEHhH5DLPTkbRyI/H/jj0Y5Zpel1/2LtW6nWVAZOO+g/cWlMfiB70oQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/04.png",
+    "width": 1920
+  }
+}

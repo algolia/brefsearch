@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "J'ai parlé à une fille et un mec est arrivé et m'a embrouillé.",
+    "end": 22,
+    "index": 11,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=20s"
+  },
+  "thumbnail": {
+    "hash": "7381dccc76",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABj0lEQVR4nB3BCW+aUAAA4FceyC1PQO5DRK43tNQDKgg2Rde62q5rkybLsiVrlv2EZT9/yb4PQJJEHDu3rTLJMVJCll0b2sZzfnXXfRqV7uR5gTvPfc6i0HDcsQ0ICGe2fbuqm2X9fdfFopj6bmUE7+X6R1PwA/oCgJsweMFJGaUTYwJISK6SeH9VfpjifVFYsvp2ODc2Xit6n4VvH49p4E9lpXacNolDJwL0gPZUfR7OI3cWWG5bVG1eXSrFfdpXWXq4Lk/tjmdYH0knPBMEEfAM58kTE1k4iM+7Y1esjKHsiLYvm+YIOWP1vtm2qTfmuc84cuQRUAQpE01s6D/PT6ftYb9cYceXGc4YIsQxjqo+tN3jJqdJaAg84lgg8+LlULtbJK9d3+eL167exgWihSHLkPBialqfdl0ehgSEDMNSFAVcSa5N8+ttvY6zl7z4+3j0RzpDsJGhfymvfh/3d9vK0zWSJDmWJSEEvigtbe2prRRpRBPUe1P3ecpQgz8P52/1ZqYiV9NUhAb/EQTxD6jmPDr5+HTJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/11.png",
+    "width": 1920
+  }
+}

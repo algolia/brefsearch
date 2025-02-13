@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "name": "J'ai couché avec Émilie.",
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0"
+  },
+  "line": {
+    "content": "J'étais vengé.",
+    "end": 100,
+    "index": 41,
+    "start": 98,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=98s"
+  },
+  "thumbnail": {
+    "hash": "a5a985e72d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHhpYYJzaY18c5WDeZyIfZ2Kf5uKf5SCd5xxYH5QQG5ZUI6AdoR0a3psZG1gWmBVUACLenKYhn2gjoSjkYalk4ijkYagj4Wjhnevd2VcMytZQDaRg3mPgHaIenF9cGlwYl0Am4mApZOKqZaMqZaLqJaLppSIpZSJp4V3jWBSUy8oYEQ7moqBlod9kYJ5h3pyfG5pAKybkrKhmLGgl66ck6uaj6iYjqaXjaaIelU5LjIfGXNdVIx4bYd0aYZ0aYp8dIN1cADEubHKv7bGurG5qqG5o5S3l4a+loLVoomNY1RWOC5WPDApGRE2Jh05IxZ7aV6Ie3cA3NfR4tzW19DIzsG23rqiqXljqHZhxZJ+kGJVcks/a0Y5YUE1PCsjMR4UbFhLdmlkALqxrOHa0+bi297LvNSqk3xURYddTJFnWYdeU4piVYpiVKJ1YmJEOhIJCFZFPGteWAB/cGx6aGO4sq7XsJq+hmtdOSuBWEiGXk9rSD2LYlWYbl+JX09pSj0QCAg9Mi1iVlAARDErOSQgRC0plGZUjl9LUTElYD4zYkE2TjMqlmtdeFNHXj0yY0Q7DwgHIxsaUEZCVHzEJAeINBIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/41.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "J'ai entendu. On y va ?",
+    "end": 40,
+    "index": 15,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=38s"
+  },
+  "thumbnail": {
+    "hash": "ff86be879e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB4VFRMQDw4NC05ITWlkaktHSEdCQ0xDQT02MjcpJ39gXkMwLRcUFUE9QTkzOColJwARDAsRDgwLBwVDQEVyb3hTTUpOSUlbS0FPR0FHNzZ+W1dfREAwIiBBPUI8OD4zLjQADQsJFA4NMh8eRDxBcW54VVBPTkZCTkhIS0ZGSz47dVVSglxYVDs3PDlAQkBIQj9IAAwKCSMWFUMnJUlBRHRzfFVRWVFMT1BJR0tDPzwvK1s8OnBPSjIjITUyOUdETElGTwATDQw2IyFAJSNOQ0ZxbXZWTU9fXmNWU1hXUlUgGxsoGhljRkFSQ0GPjphOTFVEQksAIxkXRzAuOCEfTkVJcGpxY0tIdGFoUVFafXqGMisvJBoaRCsojoaN3t7ntLO8VVRdADYkHkYwKy0fG0pCRmhmb2FPUH9XV2ZYXaamsZ6drW5eZXppbM7P28rK0tbT24SBjQBPQEBALisoHxxybnSMi5VkZGxRPj6DbG+3tsTFx9OnoKu4tMHAwMq2tL+rprJqZXMAMTJFQDxLOTU+dnV/jo2akZOcTlJXXE5StLK+vL/JsrG+sK+7r623pJ+sjIaVcW16VY2T7Q9Y/nAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/15.png",
+    "width": 1920
+  }
+}

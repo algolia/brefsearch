@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Elle dit l'ol dans la vraie vie ? Non.",
+    "end": 81,
+    "index": 37,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=80s"
+  },
+  "thumbnail": {
+    "hash": "f5a8174514",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFpUUCIfHQAAAAUFBQQEBAYGBQAAAC8qKKCNhKSOhaaQhqOMg6SLgn5tZI56cJmBeACeb2pEOjYAAAADAgIAAAADAgIAAABEPDjel5TAbnA7ISFhNzi9am2Xdmm3hH2JSUwAa0FDbGJnPTtLPTpHMzA6LSozExMbWk9N1IKCPR0hMy4wGRQWaDE0tIp8s4J6JxYYAFY7O4eAi2Zqfm9ugm1sgHBtgGNjeJmIjpdbWXhsbtjDwayenkAnKZ96c6l6d2dQTwB+Wlx5d4NdYXZhYXZeXXJjYXVgYXaWh427nJmpnJy8qqqunp+diImdfXmdfX19aWoAmWhoa2p4WFlvXV1yXVxyYF50UlJpjX2E2Z+fzbu7wbCw0cHAwo+Qn355u4eEkG5sAJppaFxbaU1MYVNSZlNRZlVRZ0hIYI5/hNqAfseOj8evrsuOkL5hZZp5c76AfZ5dXACHWVY4OEYrKDwzMEU3NEk9OU4tLUWCb3PWc3HBZ23CgYTAaW6uUVWIaGOrbGmjWFoAkXJtcnB3b2t1dnJ7e3Z/f3mDfnqGo5KRwYmBt4WBtouGsYaBpHRum3hxont0m3NstYe1BXpbwaAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/37.png",
+    "width": 1920
+  }
+}

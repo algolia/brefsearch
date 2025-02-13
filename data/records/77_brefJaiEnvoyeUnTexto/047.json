@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "name": "J'ai envoyé un texto.",
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk"
+  },
+  "line": {
+    "content": "Je l'ai enlevée. J'ai remis: Hey, Kheiron m'a envoyé.",
+    "end": 49,
+    "index": 24,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=47s"
+  },
+  "thumbnail": {
+    "hash": "970adf6b3c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nC2RQU/aYACG+xsWT/6GxUR/wI677u5tHpaMhJueLB6IqWDLxLWDft+syhLFWMGVkSgO6CqIk/KNIv0+oKVftSbqwZ22H7AUd34Pz/u8LyNwC1CM5HNL5WKsfrJ6UU9eGbzZXO+cp7zDYuerVDuNlwsrB7klIEaEtQVGyUY1lT2vJrqXaYKkkZVxetCxdtz+lwdc8cwtjMRuK92oJkoqq2SjjHa4/NPgCZLGfZnaMiXK7Wjj0X336L73nbQ3+Ext4F7LBElXhqCpLPOjwmEkejagGFICfevTb/PV3970H2v6yXx90wOUQIqhZwOCJOOMY1p6cmhlKAbUBnSo+Ho84F8GG3PBh9kgNXPTTtGBEkYYjKxMS19njApHkDi25ZAQQpS772/u917c708F+rw/2PFxCPfssJVR4RhN/e/ghg7AG0Lq7PqWQHspSpTnMuOJQ9vgNXU5XKmkso3JSvjX5l3z4AnpLoZuH7rXWcfKECR1L9PNaqJ0xG7LUUbg3oKPkXxusVyI1U7j7W+b/eMtsyl0GkLb4C9qyfrJarkQy+cW4eSHf16FKopbcq6gAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/24.png",
+    "width": 1920
+  }
+}

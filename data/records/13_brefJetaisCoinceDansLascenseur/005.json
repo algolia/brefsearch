@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Kheiron m'a dit qu'elle voulait voir le dernier Woody Allen.",
+    "end": 7,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=5s"
+  },
+  "thumbnail": {
+    "hash": "7f7a5ed3e6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nD3RXW/SUACA4f5zY3bjhYnZzVA3M1ey6QwJKrIBBVZa+rFT2p6envZ8n34wKMqfMMTE+/e5eo3oObPGC5gwUtacbxlrKWsobbh4EWrP+TYFOEccpgLjmtDWsMbWu1evAy+JIxxHaBOhJC43oCiKSlcHzrcgxBEoYSqSmOW5NpTuCiwWo1mwxvYCgBCjTCGoYSILXBek7X18/NyfPj64gRuVZXUCOBejb7+cp2w+AdOxt7QimMgskZQ0Qu7u7leDoTMZ27blYKwM3RxL0kyGU9/JVsvN2k49J0NQASD8gIGNcF0UhBSmvCgUY62RBD5FiIsDITXnOy46If5U9fHr/fL95ezm1r3ur8wvnh8wQlpCWsOdPQzNq/6Veffh+rZ3Mf3x8/zN20+9y4FpphEsC06J1PpF1welO6U7o26OlDZzy1nbofvkPfvJfLJa+7GQe139VvogVSfkTsidVHup9sZo8P387CyDbRQylDclOR3ATkgglfqU/uv+g79jBllFDJ1tzgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/02.png",
+    "width": 1920
+  }
+}

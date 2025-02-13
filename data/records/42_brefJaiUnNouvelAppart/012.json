@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Je vivais chez mon père, elle vivait chez elle.",
+    "end": 13,
+    "index": 4,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=12s"
+  },
+  "thumbnail": {
+    "hash": "ce5ade31b8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAADklEQVR4nGNgGAVDEgAAAbkAAftY4pIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/04.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "Bon appétit. J'achète des sous de marque qui font peur.",
+    "end": 77,
+    "index": 24,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=75s"
+  },
+  "thumbnail": {
+    "hash": "174e0e345a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXB227SYAAA4L6LF17MmCxmXm0hkcyxJlsIdoNWRkuZ/OUv9MBPT/REqSvQQmGDCAwzhhddNBE1ixeaGB/Al/L7MKhe5anyReldhVOqggtFC/A6zWkMUKBsAx6VGE6QtRrHl2mmeJ7HULil0aoTJ250P5xvN6Ppx2Dc8majydruzXyhfrp/ILe7muE0GuIlQWB1/wF0fvjL34I+zJHw7BAvHJ9eSh0vnEeLpC02yYNdUBd0u68bFiKyGDA3rPKpt/qVzuSePnmeSuEFkj3Ci++n66vRokRSqPg6T5xILafrBzZVwGr6lK6HqD3IZCtHx8Vaw7v7/o8sNU13opqu2tJjE+InGc3yB8ObARQwxemzVVFGtuZNoeTG1/eTzV+ohByrO94ASJatolfpfcexHC9y3QiDTat8iCu5tOH1AG8sVl96iz+KEUOoAtFDUD4r0HnqQkFKNp3CX+5hWnfIAxG8SYtVRodsl5dMNZBoQqhQNAPY88J4eLN+eIziWZV5S+4+w9xwLAAaZHZ04kWs0f14ORpfh9FgebuazW+D+MP28ecmSZKv3+6Sz4Hr/wdG7cQ8TDRySgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/24.png",
+    "width": 1920
+  }
+}

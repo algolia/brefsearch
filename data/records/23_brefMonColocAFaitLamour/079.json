@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "name": "Mon coloc' a fait l'amour.",
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI"
+  },
+  "line": {
+    "content": "La nuit est passée.",
+    "end": 84,
+    "index": 35,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=79s"
+  },
+  "thumbnail": {
+    "hash": "1a4b19663f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHZveo+KooqKmoBvaqOhn6ywqHdvYVlNSJSNg6SlpKiytKOVl5hub5R3eaCenaCdngCqqa+/xs6QgYGEW0ipn5q2vcKsopOrlZeAhIeBf4ujuMSpr7uXgXmBcGmwrrGnpqUAlJCUlImRhGpgfmFauLa9t7i5sK+XpJ99ko+OlJSeq6esoI+TkGZMb0gmp52XnYmUAIBBR1wbKYqEi4t9iau3xLm+tq2tr3yCaqGijbG5u5ZxdpRXWIJSN3FDGqOSg5JjgABxEhc7BxSAipCBn4eLe1G2pZ57fYJ7YVyrZEW1jnuytLykm5xuTDWgj4e8u7uhn54AXgkNJQsdZHtrWXxMdV5cko2NiJqucGNnZ0IskoB1qbK8kJCRpaSry9HgwcPLrKqoADgGCRoXJ5aemXBzYk9EXoCInFyVv1yCoIuNjqWtsrWsqZSFiLu/z6iosra1vJ2bmgAeBAgpKDSxrbKUkZt6YnCji4uNn6yep6y3vL25wMO2r6yId3S1t8dXUlddVlSTjY0ADwQIQkBIqKaseHp7hIB+q6Knr7S6nI6Vj2BekmBcsaijkpKRp6e2QT1EGBIRTUdBfT3idmjSpXgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/35.png",
+    "width": 1920
+  }
+}

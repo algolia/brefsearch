@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Ça veut dire j'ai trop de sentiments pour toi.",
+    "end": 32,
+    "index": 16,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=30s"
+  },
+  "thumbnail": {
+    "hash": "2647a494f0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nAXB627SUAAA4P6C01m2QW+nl9PSllawVKhQUtpRdGtag0DsZgoWy24gLm7GOGdMdJmJP2aMz+Ib+S5+H3a4+tx33cV4/uHm51m2qImsIoqB651c3g5cLxx44WjCQlFF8k5pGwcAy27uLccdB7P89fr5wK2SZUMQnUfWNMnausrxqNvp6oomi1WCIAqFApacfFJrem965fUP+ob0Pdn/tUyv87XTbNZ5migzHMcjVKVIBgdbxWIRi5JTiqTTyx/vJuF5YH8d793OkoujvIaQwTFVCOs8p0qKAAUAcAAA1o1SQ+LvnmlDYXvS7/6ZHfw+zjevllRlV2LKfqfXm12F/tDTFOoBUShuYUwrnjTRvQMNgnCaD+/S+P1ozAqGK6m5aWTZ6fzvv/04SZyWRZM4wDHUjlONv6jRZzL51lS+he7crO9BeKyhL08ay+nESjaPrfbqRdQTeapUwnzbX8i7uQ7PdXajcQHHODS5UuDHBlrXpeskDm27IcCXgT/Q1ZaMsEiGqVyZa+wblR4jRoRiaadCADASyERmeIbWJC1yO09tM2w3h2b9PzhXWJFZ+3HXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/16.png",
+    "width": 1920
+  }
+}

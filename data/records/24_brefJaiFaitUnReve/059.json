@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Non, putain.",
+    "end": 61,
+    "index": 19,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=59s"
+  },
+  "thumbnail": {
+    "hash": "a6b29d2d50",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGJcXnBoaX98gYWDgY2CeIJqVmBFNqV8Vr+pjKOLe5xxYJWLlXaEnJaktqeut5mcpgBZSzh4aTuBb1WHgGWej3pfWEVJJRyndFPNsJfGrpOSkXiGi5RwaHShrb6+x9CorbQAnpJ0mYRJmoNfqKd7vbOcYUs5TishYD40mHBejHFhfndmn5yWuLW6u9LmvsjUcnCGAKSUa6aWYKaWdayqh6qkknNTQXtLOJNhSqR7aLSahoqFcnp9f3FGSptaXqujsXlncgCimYW3saS8urmclZetn5GRel5tQDJnOi96UkuwlH65tKFYXmhQRWR6UV5lWWBjXFsAtLe+uLe7hFpUiE85ZllQVUAzQScfVTEseE5JYVJGgnllfniAhpWyjI+MWVRGbmxaAIyGiWtLNF8cBzwhFhUXDkQnHD8jHC0ZFmZMQVRSMCAfIUtKVpGVo5V/fGJCNXFZSABoVzpfTCcXERYEBQobGAwaFAlgOjNePjg8NSRTSy0gGyAMCxEyMzZbQ0NFGRNKJCAAeHBKHBsXAQEKCggLGRcOGBcLLxsWbkdCdGVRa1A+Jx4jDxAVDAsQMCwtSEM8Qz03/aird1oXlg8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/19.png",
+    "width": 1920
+  }
+}

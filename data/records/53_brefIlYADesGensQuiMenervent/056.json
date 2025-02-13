@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Un autre truc qui m'énerve, c'est les mecs qui passent toute\nleur soirée au téléphone.",
+    "end": 59,
+    "index": 25,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=56s"
+  },
+  "thumbnail": {
+    "hash": "accb12f0fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXBbVOaAAAAYLYOFeR9oDJBQXkRsCEIEQncLHUrHJl12WzZzu5qXNfsst1u3eXdPm3funW3/d49D6DWGd+Wu/66b6ldQ+y7uueqW17DNgWzyRt6TRGFZqOuKLxQLZTYVwCDIByOChSh0MypZU6DTi/23ydbH9Ozy++LUeCoBQFFuPHF+ez2WpCrAM/idlOxTOPAaX7rh2d+OD+Jv96cr37//PXv+XEcDxRPq3mr56fV3z+SIQFynRyOd4fHR6OOM9nY6LZa6UC/nw3uFhc/Hm6XSbyvWv6bIL1fLB+XbLUMnB4fjsaJLEmvaU4V9YLSPgoaN2Pv+svsan7yrm15VcnWNkVeDcJOscwCdw9PUXeCwzhFc3RBJCutHde4Spx0Pum1WwJCyUzxg+XsaR4F4iWGAXb2L7X1CMrkUYSmGJHQh46hTfr25wNvU6pIZLFOMm6ZDwWVJ1giDwOfptMw2AbXYChHgDkyakfpW2cW6QPXlOiigFMVjGIxBgXz8BqEZyHgMIlty82BKJzFYIjQWK6nSGGVr5AclsVKMF6EMCKD5F5C2RcZpdb4Dw+1Vhe/diLFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/25.png",
+    "width": 1920
+  }
+}

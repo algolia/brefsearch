@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "J'ai eu mon permis. J'arrive.",
+    "end": 9,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=7s"
+  },
+  "thumbnail": {
+    "hash": "d1a5d1cc02",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADQuHz82KEQ7L0lCK2leOXhrSZOAZbijkHdlTIh6T3ZsSWZfQ1ZSPVJOOUlCKj87IwBzX1NdT0FaTj1RRjmDdmOmkXvIrJmwmYZWSTyHelyJfF6Gd1xsWUtkU0VGPiw1MiYAc1xRbVhQeWFacFtUrYx+upOA276tnIB2RicfqpqV28rFxaugtZCEpY+JinZwkX10AI58dYl3cZSCe4FybceuqsCnoMm1r7WGeoFNPIFycqOXl2xkZIBoZ4JgXVtMTm9dWwBYU1FTTkxQTEpgW1uBeHyUi4+bioxyTERTMCc0JiUwLjBIS05sVFhUJCMaFRY0JycAEhISIiEhGBgXODY0UU9QaVtbTEBDDQ0PSjk5HRgaCgoOFBQXQiIkQx0eJBASLRkaACMgISojJCwsLjM1ODU1OCckJxQRFAoJCTw6PxQTFwoJCg0ODxgTFRcQEgwKCgkICAAFAwMbEA9PJyVMJyc6IyQIBwgPDhAPDhEvKi0YFBUhHh4TERQQDxAGCAgZFRUTEBAAAwQEHhobNBoVRCEfRR0bDQsLGhkcCwwQXUE+dU1DDg0PHhoaKSIhGRcYHhocHhkcWOV6VC+6YBYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/03.png",
+    "width": 1920
+  }
+}

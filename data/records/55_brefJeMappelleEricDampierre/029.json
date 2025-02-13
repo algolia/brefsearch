@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "name": "Je m'appelle Eric Dampierre.",
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg"
+  },
+  "line": {
+    "content": "Le C'est un crypte d'appel, c'est un arbre avec toutes les possibilités de réponses.",
+    "end": 31,
+    "index": 17,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=29s"
+  },
+  "thumbnail": {
+    "hash": "f752133fed",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrElEQVR4nAXBaW+aYAAA4DeNWbTY45V68nJZEHUgtUAnqK0gVOsJautRW68ZWczSNmuW7NOWbb9gv3jPA0q1WxbRbrsz7Lmm6XRHc61cl3XLcycDb2q1huOl779+H8/Xu6/f7udrcBKjAh/Cd1Z92Ol1u9506Uta1dDNfz///vnxWys3xuv9+sub0x6s/JfhfAMIXpZ1u9mfepP16Ml/WO6d0fKu6f56ed8t/ZtqY/b5dbJ9c2e73mTTHDwCnBSqnUfLW9nDje2tnPtt3RnNWoP37X678NuGM9Ibn8pNXi7L+q1a64EolSs1Hix3UXcXZv/Zak3qdN4uXK3Gzy2nqyT5BsrJjHh4mmSyqmb1QZTKElwR8UVKUNJiSVRrknKdv7yRROWCzRkxtpLKFBkRxtPnUqlYaYFwlA7jZPA4gUECJzJcwaDyVziZJTmpiAQ9yhhJLp/kMUjQeU1QTRDA8CBMHUVpmEjjSIgz4kk8HSF43fYUOleJsaUER0bQQQiymYvC5TUAAewgBIOnqaM4G4JE+Iw6jCDsjEJIkCGhRMiPEMEQBAFMK6gZ1fkPykxemStpl40AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "name": "C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI"
+  },
+  "line": {
+    "content": "Et surtout, ça allait allumer la chaîne Hi-Fi et lancer sa chanson préférée.",
+    "end": 68,
+    "index": 23,
+    "start": 66,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=66s"
+  },
+  "thumbnail": {
+    "hash": "430d2ce72b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nAXBa2/SUAAA0CYmxmQYh2OCpe/evu9taS19stvblrKOCVIhM9MMXaKgqRp/gX42c4sx+n89h7JsQzOVMIAIyZomyUBQdaBJLBB56PuCJJojFDtqs5onJL26ekUleAyDwPYMqDIu1BmR54HgQjkYOyezwrCMbJZrqqTqMlDZ/W5LZWXiRiHOxhEyRUnuDenD417om/XEL3E8cuHp6pwVuLFvl2Xatu8pMk1JHmzWUw6YT4acKhw/OuzYOi+zTyFEJI4UHfRo+jx3l4us/byjptVkvZwsqqDb5wxFzCHnMEdI7N970FG8oP3UkumsOxicvajfXF98+7qjYpIAZAFd6fRoBUgjXbREmqEH/SEXeT5ELiNrfY6PyyqfP9992FKvcZQ98/2RKwhAsZDsOKxlHUngMW+RxGOGB/cPHpqWcvluWzfNfv+WusvjuyK5ydOfefojTz/iZJ1GoQ27AxaY6gR70EGKoZ2clkmRNc2CusHhLxzdkviWxL+L5F+R/i3TPxX+jqMvJL1ezi8vms169XKzqupZVU//A0pEXSogrrRFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/23.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Mais comme j'ai pas envie de retomber amoureuse, j'hésite\npendant trois mois, je finis par craquer, on couche ensemble et je repars.",
+    "end": 13,
+    "index": 2,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=8s"
+  },
+  "thumbnail": {
+    "hash": "e8dcda1dde",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABe0lEQVR4nBXLS2/TMAAAYKcdS5yH347t2K7zbNJ1bbfQUg4IIe2AGBcuHNAQiCHUSfz/O+K7f4DorVwdWbXH+lDoA/MnpG6ovbfTR7/90hyehvlXPz+3dz/r3ZMbvwLpt1U7236W/sCqnfCvidmnpMlFJ9v3zd339fH3ePozvXlZny79/AyY6cvVjRtmvdobtzNunxO/uMoWyyTjrd987ucf0/llOl2m89/xdAHCrYUbXT/zauLluvL3mIW4kDFSOQ92OMswV/ao6GD1vNl+A8KNWNWqvqVlx0VHeRdDHkN2DTkuW6KHnAeW6vwqo6mlRQOICkh4ompEfVHYGNJoCWEmM2wLWRPdFiIkr9AyiqPoOlokgP4PjpY1JiFFJklZijW3G243SDWorCGpkkxHYAnAMk01YKYr/QbLcJ1wmJu0MDnxiAcsG1K2OQ8xqmR4i8VYkNb2nwDEiqg2pw5mFOYizkScScQ6KkfCWmFuTffO9B+q4cGNj6p++AeQWTA+3VYEeQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/02.png",
+    "width": 1920
+  }
+}

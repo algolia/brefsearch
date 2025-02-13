@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Après le bus, j'ai croisé un mec avec trois chiens dégueulasses.",
+    "end": 16,
+    "index": 7,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=14s"
+  },
+  "thumbnail": {
+    "hash": "9f7d65d455",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADdCGzdDIUJGNz08OT1DOUxSRzs7NzY4M1VYVFxfXWpoV1VWRDIzMD1BOS0yLkxIPwAdKBYYIBJHU0NKTEBhamBkb2YOExYSFxhhZWVucW+po5qFg3YfKyBBSTspLyRrYFwAVlwbVF0ZhYhLaEBTcX5ReIpWIiscLjYnXF5VLisqo5uYnZuVT01Cd3FGQ0kvhnd5AIk9J1BbFW5sIXARZ09kKFh3Gz9XH0thLWZwRiMgEZiOjay1hI+Qe5yhaGd5PpWQcwBiGhpZNypPTjxcI1VIUkVjdVY3USY8VDB+hmdVUT6OjX+Jm2RRVUllaV2Ul36MlWAALisnU0lCgHdkaWpaU1RJentcamxWfIZfpqaDopZ5kphjZ3FbQlFESVhHYW5RZHJJAHJpV391a5WIfH50a4B2aIh+boyAboV4a46BdIyCcpKGeH92aIJ5bIh+c5iMfJKEdgBtYFRsYllrY1x0Z1uBcGB6b2JvaFuBcmCKfW1+dGeGc2KUe2SXfmqVf26XfmqDbV0Ad21odWtjem9kc2pghXpumI2Amo+El42Bk4l8mY+DopWJnY6AiH1xfXRphHhvhXhwGFGlb5gOwNQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/07.png",
+    "width": 1920
+  }
+}

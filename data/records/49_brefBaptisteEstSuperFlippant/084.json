@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Et Baptiste est devenuSuper casse-couilles.",
+    "end": 86,
+    "index": 38,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=84s"
+  },
+  "thumbnail": {
+    "hash": "2135ee45a8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nC3P20/aUACA8dPr6endgrKxLIYpWNqeQymIW5c2BBDSsCo0XCIFdROjmdvCTNQXH5a4Pe/Nv3fRmXyvv4cPZI3M/2SBFxhQt3YC1+rtkeWw9/j77n4x/JH00+lR82PgWDaxMcit516/ymuSqEAOsdSeY8ah/20+WqXJ48Ptr5PkbjE5+3zWDkJiY+JgYOi6rsqIoxUEIQ18Ys3j6Gs6elhd/L1fLbvBz+N0+eW8HYRVXHExBohjxOdUEfIUeF8uno8H3xeTP9eX18ejm0F0e3V1ubxoh02PVCq2DRBLI5aWIKtJAkcBv1Q42W/69ZrfqMeeczPod1utdhg2ql7d9RzTBAJDiRy9psqqyEMG5DX5wMPlrXeyIh/4jeiDXyUVq1jEprnrenapCCBNIZbRFFEWnqZFns5vZHOGLiHhzdtCZz9KJ9NBP25Ua65DzO2tJwBpSpXQC2ApJAi7npfRlcz6Rq8bnc7mSXxYIy627FKh8AIkBKVnwFNAk8VpMsxlDSOT7bQ6s/H0Uy8illMu7Wxvbv4D+rFK4kHY20QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/38.png",
+    "width": 1920
+  }
+}

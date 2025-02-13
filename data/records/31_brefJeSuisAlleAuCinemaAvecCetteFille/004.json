@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Le choix du film était important, pas de 3D.",
+    "end": 8,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=4s"
+  },
+  "thumbnail": {
+    "hash": "77697d5144",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB7U8SYQAA8GfHc9z7Pc9zr51wFyCISILKcWNoWwqCJGPZBb6AoZuFOddJFrVZfmitD6Ef2tpqtbn5oU+stf7Dfj/Q33+bm3kQ0a0p3Zy17aRllbLe57OgXStvrpbKhYV2pXh92vz4rLGcTwPIgxeH7xxzHkkykVUka9Vs4s+Zf/Mh6Gzc71c9b9pJx5xLf+XT4GHNzSQNAzzvnWPZFEUkidgi+pt64V9Qn1xsH7XWBtVCNZswEHndKnn3ZpCIDaIAv/EUMlKYFRlG3piLXT0pXzaLv4ad452GX1veWkrfxcRUNFEkFMUBWgCblS1AhcOspGO176Zuj1Ynp/Xfo73xeTfYrZWTNkPzgoDXFmYL9lQoxIHFdB4AyHIyx6P1pP3Nd297Kz8Gj8ej/VcHzVzcYWje0o1M3MlZpo0J0BBhWSmqGY6u24raW5q+brk/h92rUfd4e30xbiu8yAuyQlSKYgRWAioimoxjhu4oiqNouah5Uil+vwi+DHcfVTwIeQg5WUKWboRokQojwHPSHYwjhCRUpZ6KfO24k5eNv+8PxydtL58BAIZofi5up6IWgAJk8X9eIFPmOiAXiQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/01.png",
+    "width": 1920
+  }
+}

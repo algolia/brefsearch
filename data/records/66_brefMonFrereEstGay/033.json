@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "name": "Mon frère est gay.",
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs"
+  },
+  "line": {
+    "content": "Salut les copains.",
+    "end": 34,
+    "index": 19,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=33s"
+  },
+  "thumbnail": {
+    "hash": "81283074f9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABc0lEQVR4nAXBS5OTMAAAYHZlCiVASZp3SUiAJDxaRMaOa3cdx+OOjuMePDqe/Al68OBv9/sieiSS8jwFAmIGCcHcW39ubMslzg+P1rhagxSkd69+//z+cJkiTsWJ17CoNh+uYXaqu86rV4Yj7E/N2z7UhHPMynT/8vE2aB0poQxXAmKJqOJ6CK+Ddg9dONd6aNrNj4ry985LSO7v4l2cRFY2HLEgThqSRenbefEmPI+zZafZutV0tDpeu76jAqR5mmRRWeIkO9SYeiY+j+7rHFZlZEUars62/zINCmEADgZTA3Gyy6KViZdaToRutZoZX6RUEE9teBMmfMDmSAdMHCFP0zQwEcdp9Mvqf0b+9c1M2QfvJiFbRB6HiWAGspIgqjFbbLddVm9dugPR0z57LvI/mn/rjMLMIDJw0TNuOfWcjHVzNS1n9WVcnHUM0WiLY30fD0X5491261oICoePn1zbM1qBYp/kuzgjiI39WOYVKuF/Q1Qy8xVugQgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/19.png",
+    "width": 1920
+  }
+}

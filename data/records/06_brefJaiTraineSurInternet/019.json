@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "name": "J'ai traîné sur internet.",
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU"
+  },
+  "line": {
+    "content": "Ça m'a déconcentré.",
+    "end": 22,
+    "index": 10,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=19s"
+  },
+  "thumbnail": {
+    "hash": "32a03f1fa6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB6XDyAb2mNf32ViIiaj4+hlpion6OWiYiOenWvoqaDenwjIyM8OjpbVVJ7cG2WiIMAhWRAjXx2mY2Ml4yKraOqtay2r6eviWpjoIWNppmhaGNlFRgXFhoaBQsNCQwOIyEkAJF7bKqhsbm0yYqBgaWbnby2wK+hpZN1dKaUsqqdqUlJSQwREREWFwkNEAoKDgICBABgXGGDf43T0/yXkJmNg3+5ttSViJV2WlellrCzqrciJSYHCg0QEhQzMDBpZnI5Nz8AOTc3SUhOycjrkYiRpJ+6sLLkkZG2X1ZgpKHFoqPHCgwPFxYbLy0rUkhBdnJ/UE9YAEQ/O1xaYsG92qCctaGhyZqbx5OSt5mWuKur2GJkgAAAAFlWYbm403BsdlNOUUlHUAAYGBNmYmnGv9eqqMyMiq95dZJVVmlZWW96c5AzMjsAAABoZW/S0fN9e4s/OTYoKCkACQsLJSQkREBEPDk/PzxDKycpKSoqMjI0T0hJMS8uAAAAZWBmycfjdHF9LyolICEdABoZFwQHBgEBAAAAABUVEj48O4B7hJOPmomFkIB8hmdiaJSNlb250pGNnWBbX29qbwxdsMyz09gZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/10.png",
+    "width": 1920
+  }
+}

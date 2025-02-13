@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "name": "Mon frère a quelqu'un.",
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY"
+  },
+  "line": {
+    "content": "Elle dit aux gens où ils doivent s'asseoir.",
+    "end": 28,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=27s"
+  },
+  "thumbnail": {
+    "hash": "28a8f0a545",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXB626aYAAA0C9R+qEMhCJaBGwrF7XgBRVURNFhsE6oaYvtZLGapU02uzTpjG2yLdkLbHuC/duL7hzwcDF6vBrvlv4umr1E/rBarJ4Kc0MNG9K35flz6O0W3vNi+hC463PnetAGm9ngXetsM7FX407UbxgFwZbyt7oSlPh90P31+fbeH10Pu6uJ0y7LnqGDhdNUsrR4lB1q8tOk9+hZa6d5b5TvGsUvb6t/92tTOqkL7I3VOs7mTK0CPLP5wbGaeSHP5uZ6eV5TAqNS5dlLXfnhd/69bLYTO6rLoVmtiXJNKQLxpHAX+CzN4MThNgy6apnEUxzLhR3t9433J5rur9w0kRIYRivIbssEFIbPuyZOUAxJPV24osBD9E3pWPhoa6/j9t7RP7lmhqSQOHLKKa+bJcBQ7IggIMQyJFVKk2qWxpNEhiBWI/P71A71UuQOSAzv8ZStWovxDMRjEEFQhkzFYgfIQUJi0jRBAgCnHfPnrP/V7S37VgIm3DzdktSmOgJIHEIEPUxRKEwmYDKOoGmSts/U90ZlXVe2onDJZ1mc4JKQ42s5zvwPoXRVRs9RUDgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/11.png",
+    "width": 1920
+  }
+}

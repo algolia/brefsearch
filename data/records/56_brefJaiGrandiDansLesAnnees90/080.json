@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "name": "J'ai grandi dans les années 90.",
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8"
+  },
+  "line": {
+    "content": "J'ai connu le monde sans Wikipédia.",
+    "end": 81,
+    "index": 25,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=80s"
+  },
+  "thumbnail": {
+    "hash": "6caca5eaea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nAXBa1eaYAAAYDojQZDLK8VNFEklFIReRFKn5v2Gt7SZri1bubVjup2zTzv71E/f8yDtSuHL0+59N+uZMnISIjACPw0LAPAsU7Ey235hUc8vGt6kCnvX+RtoIKN6cX84/lm2XYUjMZLCI2SIiAOQEc+9y+R9t7jqle9a3rwOB755Ay+Rsa2OJLaAYmqYKGmyHePrRmroOUM3f6/H+3n92nMnzfJt0++U3YZvI4EI+uiJRzM+jtfifE0Tt63K+/ZudmXN9fSLqR0307fd5tf3z4eX9bfVGOlT+EBPl1MpC8UNwDoStyq5U2jpFLlsll4305+b8f7r7HUd/D087R+XSDGmVI1s4ezcREOBGA2usgsnGyTkgiZNOpX1tPvRSc8bxVou9vZ4++/3M1JStaIcg+jpGpBHiR0LXJcihm4OGhe6zGdV0b5QOr5dg/rxx8PzpxEC1SSkmT5L75WzNktmPqAuB1q+1fRMJ5M0EpKtSWo0kha4h+Vg1q0iGkMnImQCC5kY1qTCHqANmhZANMbzqiRqEq+JnBJlBJLIJZWyY/wH555RLdA1XEwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/25.png",
+    "width": 1920
+  }
+}

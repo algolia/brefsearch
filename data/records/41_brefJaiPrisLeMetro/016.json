@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Et il n'y a pas de lavabo.",
+    "end": 18,
+    "index": 6,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=16s"
+  },
+  "thumbnail": {
+    "hash": "ac4936a86c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeklEQVR4nD3QS2sUQRQF4P5lWegi6EaCgSgIgijqIlkEI25cukmC2TgE6WE0DyNRRo0xmcnYqe6q6rq3bj26urtmMvk5Mo4I3/KcxTkJcqOF1cKSdFpYB6HSDUnnIFgVqAxG1Q4aj63H1kFIkNM8TdIFai9Os/7R99qMW9scfBzdf9B59DhdXT14uXG8tnZ40hcJco2cSFpTOo/hxbPnD5fuiJFobBz+Knc7p9335710+KF70UsH+UjPCzMOHBtk924vrize3NtNo596DJNqPAlxEuK4asdVdOASKGBeIGGAqScry3dvLPz8/KWmhqSl0pkZ/3ehQa4TealUDlCgLtAq9/b1q6dLtwZf+xUG4tpKQ/8JAq6TMitVDooBMmUEpdtbbzbWv+0fevC6QOL6nwKxQMXKpBjm8rcsL0HlIDPZ3d7s7ezsv+s4CFhozYmEmYMc2TlLVE5azD61qlIMf3w6ZmfZ6GTY+uuaYmMnrbtq3TT661hNaxP/AP2TOgVB+N1fAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/06.png",
+    "width": 1920
+  }
+}

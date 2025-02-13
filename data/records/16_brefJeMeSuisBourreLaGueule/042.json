@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "name": "Je me suis bourré la gueule.",
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w"
+  },
+  "line": {
+    "content": "Plus pour cent. Avec qui ?",
+    "end": 43,
+    "index": 22,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=42s"
+  },
+  "thumbnail": {
+    "hash": "38fed8a83c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABgGGiYGJD0GRlMHdHULjGELPGgHQrMIp8YIytwIzc4HwjoGKxAGC0YIimMD1lMLjQA9C09ACzxIBVJPBEc8CBozFQ9OJhVVHEWgB77VB9itBdA+BzkaCwRXDJZ4B+lpBdYAYxKwQwthJgUmOQcpHgUNMhQWbDwrYSZBjwPVnwPeoQHtcQiKPBIWSwp8egbpXAS0AGIQwSAEORkFFiUGFjMSG14rL3ZCM2MnUm0J14YG3YMGyzoIThAGChAHCikDRR8DKgBjDdY4BVIqBxkiCRAgCxJVIytrNyVgImRqCOBqVnlSUU5QVE1nZmRCP0ADAAAbBSMAagjpUAujPQknHwkIIhEQPxwbWS0jUyQuYx5kXzR/PCtNLSooMS0wIhweDAAOGgQ7ADkIkCoKaUQRMEglJWU6MFYuJ04mImU4L1Y1IYM/fGskex0JBAAABQcCABAGMR0CdAA+FFhIGJd6LVteNjRvQTd3RDl2QzdtPzdNLSqNWlF0ME8hDQ4IAwsGBABICoFCBHoAMRIeSBF1djVMUC8nZjozfEY6fUc7bkA5VTMugU1FYCk4DAIGCQMJAgIBaQd7UQtQaJVovkOxvU8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/22.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Sur ma ligne, il y a un mec, ça fait six mois qui s'est fait virer\nla semaine dernière.",
+    "end": 46,
+    "index": 15,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=43s"
+  },
+  "thumbnail": {
+    "hash": "7c2885155c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AOLc3uLc39/Z3+Da3+Da3+Hb4N/Z3t/a397Y3d/Z3t/Z3tzW2+Te4sO7vdXN0N/X2gCTkruyr8nl3+Hf2d7g2t/f2d7o4ebn4OXn4OXi2+Hg2d/g2du+uM6Be5yQjbCUkrUAXVh2rarH5d/g3dfd3Nbb5+Dmq6OoS0RGjoaJ3dXZ1s7T7ubow73Ud3KVVkpXTj9DAHBcVt/Y3NzW29rU2N7Y3cW9wSMdHgAAABoVGGdUTXFZTId5d66nqrGmpTkpJjIkHwB0YWHc1dvZ0tfc19zs6O6HfoALBAUYExUKCAxKNzBGMisQCAtUS0tpX2InHyQhGR0AEQwPta2w7efrvqyttJuZcGNjFw8RDAgLDAkLKiMmIBohFhEZXVRXLCQmFxESGxQVABcSFEhCQ7OsrrGWk2dOSy8oJhoTEw8KDRUQESYfHyYfIhsYHkQ/RhAKDA8KDhYPEgAgGx1GMzRuX16bkIxKQUEdFhQcFRQaFBMbFRQjHBspJCVtY2RDNzMAAAAEAgYBAAIAKCszRT9GUkxUU0xMOTAtRj49OjIxMysqNzAuODAuOTMzl5CUNS4wMSwvMSwvLSgr1kXB4DKKItEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/15.png",
+    "width": 1920
+  }
+}

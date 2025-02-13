@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "name": "J'aime bien cette photo.",
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo"
+  },
+  "line": {
+    "content": "Derrière elle, il y avait cette fille dont j'étais amoureux parce que...",
+    "end": 17,
+    "index": 6,
+    "start": 15,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=15s"
+  },
+  "thumbnail": {
+    "hash": "ff322d696e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AGw1TIZGaa1fibWInrOjp7idjMCrnZ6MjMW6xL60ubiloq2mr6SZnZmMjXprblhMUQB5R12EU2qZYnvEmaiznaCxhHmhiIWnmZSkko6jkIWsgVyTe3azpqmjkY6PdnFaSU8AOCEph2R1bF9/YlN/f2x9nXRraWFtbFxUlnt3v56Km3ZjbWiOiIKci2lajnh1nJSpAGBINpNzUl9WhDQ8hj1EXqitxDJGcnp3hK2Ofcy2spSJj1hZiJJ+jbeQgIZxbaOYqQBRNitqRy1KMCMLFjQJIU6wxelwhamyt9PPv8DLwtWbl6kwM0ePPUmtQkWvmZeJeYkAKBwYLR4XKBsTAwsjCh1EssDmipSrhoejtMPtt8LrfHOBDQ4MgyEkpiI0TEJNNTxnAAMDBBYTFBMPDgAFGl1QWrCkuKKvzZV2k658q8CHt4RgXyIYG2FBQWIyKQYDDAwLEgAHBAQUDQwXDAkIBQomIS2YquCctuGQRl2eEEilHFaVVExXPB00Ih80IxYOCg8PEBQAAgICAQICBQIDBAIBAQEOa3utRVN4WTE3exo/eBZEgVE2fFMjOSEJNCAOFxEOBggPioqsjpKlSOwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/06.png",
+    "width": 1920
+  }
+}

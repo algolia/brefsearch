@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Ça m'énervait.",
+    "end": 24,
+    "index": 14,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=24s"
+  },
+  "thumbnail": {
+    "hash": "261bbe0804",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXBz2vTUBwA8IesbZK1TZpffUle3nvfJC9t0sYs7VaUMnaodtMqsooTD04YE0b9gaioIB687DJEN9BDERU8CB6960HBP2AXDx7Eg/+Hnw/CFvE9O4oZZzjwARumZzWaugpYf/5odn26vn35/Opy58ndmx/eHJ1dW0WeE1DiAnOECFthJxMJd22jXiudQLOdrdu71549vHNlsj5/+eLLp8/zV4eIuNx3gWIuwm6adIosPV2cdAxtGLkHN8bv7m0d//j278/f38e/fn79Pj88QtTjnObACubQVgt6g6xIkx6xHmysvJ1tftybvN9//Ppg//7e7nQ84qaOPOxRB6IgidMcGAsB8nylHwaXMrg6SDaLcPtM8fTWjmiaKkJYKSPHbtarim3onEXAlpgn8qVsuRMPiDkEe5SQC4P29OKkjQ3QFv26jAKgmqZVy2VNVrBNgAXdLD2VJaPE3eiJcR50uUM4CN/lqsRUCQnBXYcaNa1aWqgrCrZ8ILwfuGtt91w/GgpsGTpjNI6jwG6AWkEADOOwTVhoatJCabFS0eSKqZSbVSnUFaLXJFm2zAYADSgJDeU/hPhTfbf9fU4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/14.png",
+    "width": 1920
+  }
+}

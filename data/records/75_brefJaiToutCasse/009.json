@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "J'avais envie de partir, je suis parti.",
+    "end": 11,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=9s"
+  },
+  "thumbnail": {
+    "hash": "8e00723d76",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nAXBa2vTUBgA4CBtc3KSc8mb5KS5nJwkPWtqb3Z0WTtmu0LtWKebClqZBS+IoPhBED8ICn4RBBHxh/gjfR7jvLrz4vTk/f7XbvU2c91xkFyV3VfHwx+Ppk8HvVXRq2VnXk3HUXEM/vW4NuZK//v99/unr8K0D7NifzS7UPr1rPrzbHrdr4YiO9Wjl9ubcX77LsANuMZ5nH57stsuVuhWq839TaKWkfy4qH7e70/jRDIvp/4k6dRRvBRq54JxFoT70aTWA9SwIu5vUnVPZu/m/S/rnmReTCDjfo97z7UehP0LBkbuhaN2BpihBipi+eHxw8uy8+ao+rwsFYeUejkPci5WUk2CaEOYEYEQXFCLmk1kIbo+PFkU+kGvWB8kinmSQtvhkvkRgbMk3YBvUEy7QZxDYJk2sflyOKvTDDB1LJZxr01cbjqhA1okW11ddboGw6yEsBIptznHpC5G86z0bcYsmlAgptNqIGGzQSQT2z1wmIFNi5i29qOAuLhldUMV85BjSjCjiLSaCDWRYpC7nsZEWs5/4kk8XDyJswAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/03.png",
+    "width": 1920
+  }
+}

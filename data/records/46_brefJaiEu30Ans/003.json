@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "name": "J'ai eu 30 ans.",
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8"
+  },
+  "line": {
+    "content": "Tout le monde m'a répété: Ça y est, tu es vieux ?",
+    "end": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=3s"
+  },
+  "thumbnail": {
+    "hash": "0295f75ae5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nBXJzVKbQAAAYKxZlmWB3eV3SXAJIQRCEgLFEE1jE23rIY1/nXpyRh0PznhQZ3roTA/2WfoEfcZOv+sncaz0qT4SPLJoEzjXy3EZeplnHo+6+yEPMJ7Fe4eJWAxE6ttMUaSQGYGGO4xRhPO2+3WWRkwPDS3n5EDYEdE/jeN1HlUh94kGAZBGLit9cx16jq4xDRcd20TIUvGY0/ecpCY9q9OLMjkQvODMgFBKmN6j2sRlmWifzvPSIRZWa+G9fJwmRCu4dbcuruqs6TjDtpt6jpQ5LCD6xLeP0l7bYqdZGNlMqPBuEia2OfTY/Un5oajmaV4Np5HrSQZSBq7Vs6gwSSn8ptf53gyfL5ePq+m+8HQFVKE/ieJYxF3PN1VV0qDcd8w6CjaL2cOXxeNx9XZ1+Od1+/vb4nm72qyO7jefm1hQbLiEYAVJSAZERfWefVFGt/PkaTl425Z/f25/nTU3y+bHzfXD+abrcwQRlKHcAhKCiiJDsAtUACiCvoH7Ll2PRSEcAlto9x3Y2fm/sgJbQG6Bf6r+OnUJnR4uAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/46_brefJaiEu30Ans/01.png",
+    "width": 1920
+  }
+}

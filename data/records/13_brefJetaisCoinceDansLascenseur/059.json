@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "J'en parlerai pas à votre patron. Dans trois heures.",
+    "end": 62,
+    "index": 29,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=59s"
+  },
+  "thumbnail": {
+    "hash": "c3df999188",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nF2LvU8TYRyA30R67+/jvZd+3PXa6/X4KiElOQptjyJqgZACWgEjKYMCMXEAogmEROLH4FSNA3Q2mqCjJCb+AyTGgYXVzTiZOPgPMGIKYeHJMz6PSMaiTiKumeKa3UQ0k4jVw+B1Y+7JdGUs55mKtEKtSDEqBpNR9Pp+vq/Hc6xGOSh2Z3pT1v1KYetO9dGtYuAlmdqRYmQGvhiytq5O1Muj05sT4eOp6/Nh8HJppjY0kHftdFwjyYuaSBKBYhC1xY0Xn35vbr9bnyrdDQur1fLu4mS90L88Vsi5dkR2KIVEcC4RoWh++bf/4+ztwfGDG8VSzm+Mj6xWi/dK+ZWbYV/ajhgRIkAEPIeIxHbr5M23v62j09rkrM2RoNur5LL9yXiUIMoUU2QStEXQTJ1MYmfve/Prn4OfZyvP3hvXhNbac5yMbWnGTkaTQKFElAjtTTOK3dZR8/DX2quPXT2DQ6O3h8cXstku1/MB4RIppWEYEkASgni483n9+Ye5paemIR0rnbLSqWTKzfhX8vYhJQD8BzCrSOUrTo4/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/29.png",
+    "width": 1920
+  }
+}

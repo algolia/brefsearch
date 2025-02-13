@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "Sauf qu'entre temps, Baptiste avait trouvé Charles, un nouveau coloc.",
+    "end": 84,
+    "index": 36,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=82s"
+  },
+  "thumbnail": {
+    "hash": "3854bc0de9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AIByc15DPop/hKyjqLivtLmxtrOqr7qztsa/xJOJjSgdHScdHCMZGSEXFiIYFh4UFAByWVZaRkKCeH6TipGupq27tLm6s7ezqq+0rLGwpqxBNTUhFhcoHR0mHB0lGxshFxcAclhUY1ZUZktJdUtFbl5gr6ivta6yta+zq6Sot66yZFhaEwsNJBweIhkaHRUVGREQAGlSTmJUU3JMSJ5pYl5APIF5fbCpsK+orbews8S+wKecnjklJSgYGBELChQNDBMMCwBePzgeExVBLS6KXFp0S0dCLS5DP0aWj5WvqK6wqK6xqrBsVVVbNDEeFBUMBgcaERIAWURFKB8hEw4STTIySS0qJRseDAgPPDU7pZ6moZmhraWrioKGZlFNd1BKWDs3ODNFAI+IkI6FikM8PyQfJSwjKRsYHhcTGSUfI5aPl7Sus7OrsK2jp3dvdmNERl1OYTs9VwCLg4iYjpNsYmI7MDE+Ly0nHyQUDxQgGR2DfYapo6utp6ymn6hNSFo7OFNCRmVDQ1cARTxAb2VsdGlrRzg5JhALJRkYHRYaFA4TcGp0lpCanJachoKQREZmQkZmRERbQD9QxxadpDRBVUUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/36.png",
+    "width": 1920
+  }
+}

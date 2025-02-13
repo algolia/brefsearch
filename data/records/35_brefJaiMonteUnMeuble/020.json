@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Je me suis coupé avec une planche, j'ai remué la main.",
+    "end": 22,
+    "index": 11,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=20s"
+  },
+  "thumbnail": {
+    "hash": "c6866a3fe8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AF5SUG9jYYV2dbOoqtbQ0sa7vLipq7GgoaqbnKGSkZeHhpCAf4d3dX1ubHdpaHhqawBvYV+IeXiZi4rBtrjf2tzTy83IvcDEuLq4qaqunZ6llpSfjo6ZiIeRgX+PgH+ThYUAe2xpnIyNiHdvo5OJv7a3hnVvpJOSz8XIoYySqpeauq2tqZmYpJSTpZWUqpuasaWlAIN1cp2PjqCRjb6vrr+0s4ZwaJ6Ni9zS1tjO0c7Cw8e9vbyvr6udnYuAfqKXl7uxsQBzYl9xb2R5eWzKur7NxcOvoJyij42Qf37NxMW/p6SlkIvDubm6rqxAODQfGxlGQD4ATTsyXk1DZVdOhHVzlYiIVVJThlZJcxMAoHNocmtpOiwomIyNnpOSNC0oIBoYMSgkAFhIQHNfVzkvKjQnI2NMRT81MF00JmwpFHJENDgtJxEODj83NDoxJyEaGD4yMEk7OQA7LSg3KiUnIh9HPjxvYFd2WkdqSDBYPStkRzY/LSISExM7Lyo7JBUhFAwsISAiGRwAEQkGFA0JIBwZIx4bJiMjNy4pWz4pjlYyZ0g1Hh8fLRkQSy8iSjElOR8SJxoVBwYEVMu6zKSF4WsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/11.png",
+    "width": 1920
+  }
+}

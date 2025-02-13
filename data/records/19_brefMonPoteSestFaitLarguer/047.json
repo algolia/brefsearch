@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Mais je fume pas.",
+    "end": 49,
+    "index": 25,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=47s"
+  },
+  "thumbnail": {
+    "hash": "f34adfedbd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nB3R227SYAAA4B/a/oe2tKVAT7SUHhl0UOigK8exgZKdsoXJEhPj9Ma4mGiYOjX6Bsti4o2va9z3Ch/ACOlSSSjwLMcRjDGEuTyFIRRZFiHEIShyLE0zEEKWYI4gYMjSZvLs7eZ6L00czUh9bxa3DkLXLUq213i/vngzH6ROjeeFfhQu2iooS3KtWhsPJ0kvC2z/x8vL7fkyDX2e4MXo8PHubns23aTtyCgrstz3BOBoqqbbTmOkWR3H9k/TeBZFlbKKIBPa3tEgXSS7V1n72/Xxi5OTZZaAHU3ajfYsP67oLuEkgrmi4pVlveN7q8nh5nQ96O5fzMd/Hx62t7dniyXQNbPm9xlWESv1HE1oVBAUR62GLTeIrGpgWjzGnz58/PX5y/r4+bAXA9vdiVrxrNPZ72ZZszWP46ju+vWQQRx4Mp1M/zz+fndzM0y6Tc8FoiCaRi0Ogter5aujWc+tWyW56XmmUily7HQ0/nn//X779Xy1ajcbpq4ChmEYiECOovIUTdF5mkYIoqcQgecNTSvJ/wmFAiEEQfgPV/FB+oFXDMkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/25.png",
+    "width": 1920
+  }
+}

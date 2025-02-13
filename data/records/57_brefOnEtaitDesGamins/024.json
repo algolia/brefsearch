@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "La 11ᵉ fois, on a rigolé.",
+    "end": 25,
+    "index": 12,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=24s"
+  },
+  "thumbnail": {
+    "hash": "181a3fcb97",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nBXObXOScAAAcF51u418mAii/BkipQgDQUDEcOhANPChiXO6k0xXXXaXd93Z3PmCq9W7ul52fduu3yf4QenjJxUiHhjUxue+XMu7seTJYGQUfm7dtS+7MuUK+EDCuhXM1wiLR6ECAqtUamkXH6ZSR8iyyIlHow6dflxYn0b6sP7MEcErFR+p+FWDev2ShwQi2Szhi1bxcFNVQJJPHOuZ2ELJfwvMaHoRts9bHH6l5SYGCLvl7dyAZArpiGcTgwkU0mWxPo3oGLz31I+2/NZko7ntCsApp2YvyGWPe7hzII1GXYmaWexABPVsXEOfrrTC3tMqCBwIxLanzE2uw6VnjdzneePvjzWkUOnLczBUaSuPKAisZmIBD5b1osOTY4kcy2TY4r/e+btp9df95M/3NSSCpMlm9f/7oxoW4xJHNojfqnSXy1kM2n6eDi/F37vl4zv/ftk7bG4gHo/pdEpETxrUabeMOwzSzp8GVarJIDwKt0vo3K5Gm2m06u/DXvThGuJQuEokamTyooB0yhlPIAYV4rbJmgyqnyVbRaxfK+3eDFaOFL0fH9bDf1lEYdkcObp1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/12.png",
+    "width": 1920
+  }
+}

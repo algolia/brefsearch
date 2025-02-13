@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "name": "Je me suis réveillé à côté d'une fille.",
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4"
+  },
+  "line": {
+    "content": "Du coup, j'ai dû enlever mon bras un centimètre par minute.",
+    "end": 52,
+    "index": 18,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=49s"
+  },
+  "thumbnail": {
+    "hash": "7e1f526756",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmklEQVR4nAXBXW/SUBgA4FeCINCefkHPaU/P6RelpR8DpWUiTOjYRiRQJcMYjdkuFqPRXS16YeKVF175E/yxPg8YxME6JZjpPSqKCgB02sK02FTLfRkG+6LIg4FnsKHtM02/+/ITCLEJpoQwy+CRP/TcSJLU2Wz3elWdD/oXcRxRNmBe4gYeNr89/AFiOAQzTVY8XT9x/EmYZuGoLI/bs1cL115HUURZyJzxcDwvzn79/gda1xA7SGw+YZJEESKi6Cnyi8lqu3oztcjStzPOHUxOT/LN5fHm9jss1h9dL30E0KjVTVEYYBwRgyNxPn6+XVy9HOWmLDt6N+ROo95otxCUVzfV2x+KSmoAWqtpih1PlZmMqKZlYeYaDLVadq8buYGEZACAOJk+Ky4m0w3HlikISrOOHtfaAJamXV/ff/r693C8NxXZJjgv1sVsDyamvh/HSf50UqbZnKqqgYTEC6vd7Yf3D8fD50VREknEsnRalOfLA/QUBWsap06/nwaDESc0tOw8yQ/V3W7zLuU84U5P6HQRoj3sG+Z/ifxCHrMZSdwAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/18.png",
+    "width": 1920
+  }
+}

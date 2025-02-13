@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Ça va ? Non, ça ne va pas.",
+    "end": 88,
+    "index": 39,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=86s"
+  },
+  "thumbnail": {
+    "hash": "7fd02c11df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAcJEAoLEwkMExsfJScnKxgZHwQFCwkMEhMYHRQcIikzPCQuNw0RGQgKEAoOFggNEwAFBg0DBgwVGiFIQ0VTODIpIB4WFxoTEhUgIyVNU1o/SVAvOkISFx4ICxIMEBkKDhYAFBUdYiwvijU1i1VSaUk8LyQdMCEhHQ0MAQMDdXeCpKi0aXJ4HyYsDhQbCw4VCw0UAEMzP3s2PIclKIMrKVo2LIBUR4pGQCUbGwYJDQUEBktMVGZocDY8QhQZIA8SGA4SGQAMESAiKDJFKjBGDxRUGhxcOTiFRD9aSEYpMC8SDw4CAgIAAAAqLC0YGyAHCxERFiAAIjFFSVZoNEZWQExWXV9nanN7cXmCgYOMp6atrK23dnh8Pj8/cnJ0RkxRNT1HKDM/ADM5PkxNUC8xMUpNTpOUmbGxu8TG09TU4MDAyqyvuqWmrbGxt66ttHx9hHx/i0NIUgBLRUFFPzoWEAozLimEgoSTkZWclpuhnqhiaG55fISLi5Cdm6Clo6mBgYRnZ248P0cAYVxZPzk2CQYDGBQRLSsqMTExUUZEPDg6OD5FOTxAKCcqLSwqZmNhWFZVLC0vGRwh2D1y+tMz+A8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/39.png",
+    "width": 1920
+  }
+}

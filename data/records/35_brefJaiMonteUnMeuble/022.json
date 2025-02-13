@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "Je me suis demandé pourquoi on remue la main quand on se coupe.",
+    "end": 25,
+    "index": 12,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=22s"
+  },
+  "thumbnail": {
+    "hash": "a3ba731093",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFlOTGtfXn9xcq6jpdPNz8K2ubKkp6ubnaiZmp6OjpODgot8e4JzcnhqaXJkY3NmZgBpXVqBc3KRhIa7sbTe2NrQx8rGu77DtrqZiImikpKikpGZiYiUhIKMfXuKfHuRg4MAdGZjlIaGgnFrno6Gu7OzhnVwjHx9hHF0Vjg3mIeJuKuqo5OSno+OoJGQp5mYrqKiAHlraZSHh5iKhriqqLuwr4ZyandrbT48QTk2OLKnqcm9vbapqKaYl4d8e52RkrasrABpV1VqZ15zc2fDs7jJwcCsm5eSjJJOWGRGPz6xmZWijIi9s7K1qKU9NjEfGhlEPTwARzcuV0Y9YFNKgHNykYaGVU5NclxaKiktUUhGrZCHc1hQhXt5jIB8MSslGxYUKyIfAFhIQGpaU1lOR1lNSFVEQDctKlI1KjQhG0I0LYthU2pHO0AxHy8nHSAbGS8lIzwuLQAxJiMvJyM/NzQ2LSkzIhlkQzBhQCsyKiU8LydZOyxfOCNnPiNIKRcpGQ8oHhseFRcABwQCCQcGIx4dKx8YPSkhd0gpp2IyPCsfHx0cMSspRC4kY0ExTjAjNR0RJBgUCAYFvuet8eLlDokAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/12.png",
+    "width": 1920
+  }
+}

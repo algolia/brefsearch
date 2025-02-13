@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "name": "J'ai fêté le nouvel an.",
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s"
+  },
+  "line": {
+    "content": "La soirée à problèmes. Pourquoi tu me fais ça ?",
+    "end": 66,
+    "index": 26,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=62s"
+  },
+  "thumbnail": {
+    "hash": "ec93687a4a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXBW0/aUAAA4JNs0QWhlvb0em61toWWUgq1EKrdaCkirCDGRdwU3RK2GN3DDNmSPey/7/tAEHQ6YRx17SK1p1k/z5NBv9ENqOU4r3/+vu5+f767e3l+GWfZzerjcjYBvKyfRP505DUb3tPDeLMeb+6vtptpeTEbxLGs4eXl5fPT93RwspoVg6gLwH7NsYUahNRQslMcdcP8Qy9LW+/TIhmeZnHv67xwjq2W6y4mWdtzwQEvtVxFQXLbR1BVsoRkQ01HcL8mWIz9urr49/jJM01RUlfTvNfxAaHMsc112Vyed0Zp7/HaP0+tdstg7Cj0GqPAWyTxt3I8i8K013EcGyCKQ5+VhXl/bf249dLYyRKj7TFCDcMwvuRnPxfFbl1u57lBiQAlwENJx6qsIURoGBihz3bbwHWZoiFCSds012fxejR8mBe+61YOBcAJkBNlWUOqjkUZ61hvNrCkwmpdJoalI+oQ7DA66UcIswoPwbtD/oAXqnUoKjoiTFIJJ2pQxYgcKTqtcAJ4s1fjeKLjvWr9bYX7D90yThPU9n5yAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/26.png",
+    "width": 1920
+  }
+}

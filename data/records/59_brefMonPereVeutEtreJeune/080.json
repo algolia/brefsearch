@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Je lui ai offert des trucs de merde qui avaient plus de valeur que ce que\nj'ai pu lui offrir avec de l'argent.",
+    "end": 84,
+    "index": 39,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=80s"
+  },
+  "thumbnail": {
+    "hash": "82ed67c5e9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nAXB+3OScAAAcK67+qFbzhImKEPk4YNZngPFNoQvL3kMxAfzgZC6W5trFdlxnesf6N/u84FaNHdBcU2qxeA1GiXpMk2VCBoj2/UmWcQ/sRzoiV2u9bSZHvbxMd1BVeSchHEKo2iUvGQ5pkwRMIoXUAbDyDNMFS4nhmr0hX18c9ivXtItRBcrBIxTSFlrtcYKIBC8dFoo5eAqctYkKvv5ONslZo9f+Hr2FB1/xhCLkRIvOrq99n3p4mMxh5y/h8vvPlzV6/1G7WvgpNFyrg8W1tXvx+VLmkCWJEfBKAnDTbJpVuv512/Rk7zGdx8mQZeszEXmuFv8+hImEvscj/4edlDoODPHmdn21LJGhl2BsdyrN4bA+zKQ8MKSJ7aePhsIM4GMnes/PxIoMM3JcBiYxg1Qp5Yr82Lx5FRqd1Su4TP5SKTuA/tbMFxd15ZmL3veQJ6meZrmAuAC4Gnm1HZdoEsdQWXJoAGHvWq2nf/L0sfxcG1//n6/hqyB4siyKvYVvmdJiqcat17gKardaY+FRmSD7OEu3SSRqSzN/t1q9B8D0mg7vcUAvQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/39.png",
+    "width": 1920
+  }
+}

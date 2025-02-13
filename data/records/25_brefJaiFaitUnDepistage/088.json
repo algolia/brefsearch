@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "name": "J'ai fait un dépistage.",
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ"
+  },
+  "line": {
+    "content": "Tu peux partir.",
+    "end": 90,
+    "index": 32,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=88s"
+  },
+  "thumbnail": {
+    "hash": "e09204c35e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nGMICo3Pyu9obpgQG+IbGxFakZfRVZ4zqbU2OzVJT0dHVFhETkKsyEu8PZiz3pet1puFITYsJD0lOzs2JtzSUE9OSlVJYUJV8eSWOksjPUF+QQlxIQFhAUNlvo5gttZA1iY/VoayZM/0ON+ewoTuuGB3fWU1KbGuxobejpYpDRmZcTZ+rsohHkriohytAexdwWxtAWwMkS6yiTGBzZk2mV5uQebaHrrKlaXFXX3dM+vSti8r7miwr803ExLmS7bj6wtmbvVnZwizFYjys8wLl8r1sY4w07PTlPdztHF2dXG3Nli/OGPidMtp/a7yMpKqKqpZrlJ17gwMYR46UUEuYV6qQa769no6KtLi4sLCLKysIsKi1haqplaCrp6agqKisvLqNpb2wVZyDB4eTkEhwd6Bfp4h3n6hgbpaevz8QiLCIgICgswsHEKCwqLSUopqKlKystJyisrqhgwWDm5hwYGJ8YnZOTmhIVFSEnKiImK8YMDByaEoK66krKqkpSqvISssISQsKsLgYGMb7h8cFhaZnV3qaOvJxcktIiLKw8vLycXFw82to6msoKYipy4nqy4jISfKJ8gHAMqSaiXsYtuUAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/32.png",
+    "width": 1920
+  }
+}

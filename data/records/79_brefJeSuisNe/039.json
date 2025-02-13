@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "name": "Je suis né.",
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0"
+  },
+  "line": {
+    "content": "Je l'ai dépassé, il m'a dépassé. Je l'ai dépassé.",
+    "end": 40,
+    "index": 21,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=39s"
+  },
+  "thumbnail": {
+    "hash": "8def75780d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nB3LyW6bQAAAUD6hi+MG44WYHbMNZmZg2E0xeMGyCUnsuE1RFiVVK3U95FL12q/ot1bquz9KOulIr17ag4HePQXdU0jTqNeLhv1S4itjUkNwiMh1Gl1EfoVhaduU3HmjdRnMCt6ISzk+F4W1rhxD9LTOv15uH/L0XeDtpvaM5zEzQHSfsvo8YpVYNpfAaVx8CP0DQTcefIzIp1l45+PWRQcIS1lPeTUeK5R7poW8udRRPXUbAGvg7ExwDezHkPxYF9+q1Z+H29/H/UJSMkFNOJVKZFRo3tYOrlBwYaOdAWoDtCT4Wa2+L4vP+fzLYnUXp+uJmY7F6EymZqpbmv7Gifdk1kZZG6W3cfrcNH9/PX9M4ns/uMFeY9lzcRKyYvg/4LlOSsvfoeRI0iMOPnjBfZQ8ZVnrkvcQNYZVCGLEjsmQ90cClU3wwiC5hgsdbyx3C/AeelcOOgfg3DIrVc05Ph6x/mAI6R6kGSpTnFxDiQRiyXyrWKVm1zjYWHYuCHNRyMZcPByFDOP36OlJx3z94h+8+GKBl+mZ5QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/21.png",
+    "width": 1920
+  }
+}

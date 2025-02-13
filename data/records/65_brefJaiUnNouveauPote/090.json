@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "En fait, c'était juste un pote.",
+    "end": 92,
+    "index": 40,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=90s"
+  },
+  "thumbnail": {
+    "hash": "af372bb9a8",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVR4nD2QW0/CUBCEZy/ntJQDIgWxtNwpgUgADUFAEsXEJ2M0Pmp84f//CHOocZ92k/kyOwP4ISEKhZRYgF7r6u2wW2bJy2z8cbecJ4kRWwmNAFKoATbMZT0DRFEQJBduM+idnvanx8O621FxTo2C6QwwIIalJBQp10Nl+GWRtd9X8+dpvh8PR82sLEJeyQWghjkybJjiyFoRK3qcjb+265+HzefuME0HjkGk/4BY4cvQ39VAK9YQeNVJXmeT7+3tYX7fT0f9NBX+A6RwcNY7ErGz2jAyiuvHfLDKrhf9PG9mQ1eP1BWxvYMyR+rTx8xjkQYQu+qym91k6bzTtWxSoCelqmd8S76fUKgEzgkTQu2cr2zDWqmsJAxpgTKgRf6loikKiBqgLtAHqmCB+JwghSqkCWoDMfALk6kXraEkmgUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/40.png",
+    "width": 1280
+  }
+}

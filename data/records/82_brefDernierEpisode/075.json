@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "J'ai regardé ma montre, j'étais en retard.",
+    "end": 77,
+    "index": 29,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=75s"
+  },
+  "thumbnail": {
+    "hash": "9ea5161fe8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AL7AxcvO1LG0tLS4uamrqpSVj7O1t4iHgpeWiU1HMzgxHVdTPElEKjUvH0E+IjUxGAB7enx9d3ehoaXFyM7j5+/i5u3P1NiAgXVhWjkhGRMUDw1DOydBOyExLBRHRB8zLxkAeHBlQicbbF9WiYBwpqaetbiymp+WoqWWV0QnMBUTOioYODUZOjUaPjsbSkkfMzIYAG1hSFBCOjYwMDY0Hz4+ITg3HUBCJ3poVEYoH1QeGl8+Jjc4GD06HE1PIEFCGCssFAA5LyQ0LjIYFhgSEQ8wLh8yMSA9MyI0JhwqEhFeHBlWNyg7PR9ERCRMTCdBQiElJhMAHBsPLCclJSEhEhAPMS8hMzAjOCgiGR0aPxUUeSEdVTkmSD0kMTMbMDAbLi0ZHx0SADs4HicjHCMeHg4LDCEhGjAqIyYdHBMQDicWG1IlJlFFL1VDL0A1HDUyG05FMSsnGwBLNyoiGRUJCAgjGxg6MS45LScoGxciGBcgIiceJi9IPjNIRTI9MyIzMSE+PSggHhQAUD0rOSwgDAoJT0k2YVpJVEMzPCwkKyEdLCYmGBkiIiEhPjwmNjUfMC8bMC8bIh0UiJ1uGG0XqrsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/29.png",
+    "width": 1920
+  }
+}

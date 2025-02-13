@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "Le film a commencé, elle réagissait un peu trop au film.",
+    "end": 40,
+    "index": 15,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=36s"
+  },
+  "thumbnail": {
+    "hash": "a429c962ba",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABYklEQVR4nAXB2XLaMAAAQMeXLOu+ZSRfYIPtBhpIyMA0k870of//SdlNBBJ1UVcFAhkgAJcpeEledqr93O7X+XKb36JuqxLXgLBawLxOGu49sxgQCdmOOpxDlIHz/vz1+8/37d/j9cvJWOZ1kVVBtaLmiWd2dgOrKClgIFoDpAp4CtP5cH1szzkuFOmiqLMUWGIs0YkloVeNgIymJS8Az8pWuM/1eYzb++l+PlxoLQXWsMSWaI9kMsSPfdN6vjMVYVnO0mJy+8f6eP56fl//Lv3aufF2uGmsPTMSoGTo/kcTrYid6UcTaJqrip7Ccl/vH8v74MdTu/ZmZJB1OhqqE8ffGG4133mse954KBraHMNx7bcpzIqaqKIkjlU8EBmYTjzzgraOR0s6Jy+KvQq6CKwZ4gRyjmSro+XBiFWiQHOUKGoYtor1nBwZXTnfcD2A0iEonGw6N+7DZOVIyIRQh2H4ARpVJtUAZh8NAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/15.png",
+    "width": 1920
+  }
+}

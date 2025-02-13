@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "name": "J'étais à côté de cette fille.",
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus"
+  },
+  "line": {
+    "content": "J'ai voulu manger avec elle, mais j'ai eu 47 minutes de retard.",
+    "end": 16,
+    "index": 8,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=14s"
+  },
+  "thumbnail": {
+    "hash": "98bea050ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AJGHhsC9v8fAwOLf36iYl6OSkZiFhJ6LiqKOjKCOjpyKipSDgo18fGxjYl9ZV3FlYACYjIyxqau6sLHHwcOpmpp3ZWOZhoWpl5WvnZuYgX2XgoCmk5ScioiFeHVfT1KGcXAAjYCCeG92hHqAi4aRiHt8PyUdfm1srp6dsqOje15Xd2BdpZWUYVU6bltBi3F0mn5/AJ2PkJyRk7Cjo6qmrYdsZD8hFWFUVbuoqXNmZxMPEhEOEmVZWHtsV2ZYO52HfZuGfwCWhYOAbmtkWVtQSk5gVlZjTUhtUUhYS0kbFxoPCw8SDRAhGhw2MTI7MzFcT0x0ZWEAW05NFQ4OFA8PBAIDLy87VEtSZ1FNHhcXFRARJh0eJRocJhwdBwYJEw8RCAUHOzIxAEM6OxAMDhYSEhEMDSgYFU4wJSceIhsZHh4YGAkJDgYGCggIDQ4LDxYQEQ0ICjkzMwBIQEUNCw0PCwwVERQyMTYyKy1HNSxEMihoSTY2JR87KSA+KyIVDxANCg0IBgctJykAOTM2DgsNAgACST05jIKEeWJdvY5wnXFVfVpGZ0Y0oHBTsXxaTDYqAQIFCAcIIx0dlVaOqz/eqh0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/08.png",
+    "width": 1920
+  }
+}

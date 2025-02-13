@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "name": "J'ai pas réussi à dormir.",
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM"
+  },
+  "line": {
+    "content": "J'ai compté dans ma tête pour savoir si j'étais calé avec le réveil.",
+    "end": 60,
+    "index": 23,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=56s"
+  },
+  "thumbnail": {
+    "hash": "4f9b5fe71b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nAXByW7TQAAAUOPdM559POPdjtMkFiZLqySWE6ULaRVIUeihEjcOSKgIJH6D3+Y9A8kl0VvIugClkLUAtz5seH6U9RdZnUV1FuVnWTzx7IHqAUU3BlE90zskVqFYCj2QsHZt3wcqGl2i0UXWF5ndMzoW6Z3IPhK1NYjasfiAVQ/4sv3wfTZ7AYF0bIDFnMZ7mR+ZWvN4z9VGlmcWHwxdPclsT2SHo+tm8vpw+qfT3neR+c6yTMdzGddrlvQI1UxveHJrZKM7od5TXhHehrDdbn/N12+UTR3Lt0zbtkAAcgCTEFUQJhCXhlAdFWPMCskXjs1CWFTjZxVvTMO0TNe2AtsMXEdAkAV+FNLGwLTGrCmyWwJLEBYerMOwzMuj53DPJY4V2DaGeELEgkTXVA9G0lzS5mtdPQu+AOiKqB3VB6kG4AvgUYhqqgdZfpLliaUHyDpjvPo9vfl7tfpTdz+axdto/jOZfJPpPWZTzGayPIn8kcY9EiuApx6s/gPbiDDMedXzIAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/30_brefJaiPasReussiADormir/23.png",
+    "width": 1920
+  }
+}

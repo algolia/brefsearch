@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "name": "Je suis vieille.",
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k"
+  },
+  "line": {
+    "content": "Je l'emmène au parc, il joue.",
+    "end": 57,
+    "index": 21,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=56s"
+  },
+  "thumbnail": {
+    "hash": "de456399e6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXB3VPSAAAA8D12WipukHwdhxYiHB+ONWxjY2NjG7LvD9BwY8oA2YFekYeUpeL1cZYvXS/11kMv/ZX9fgCaz+LoDs0U9yowhuckkRBq225X6njaoc23HU5tk7yCsSJeYYsIkQE0izs5MexDxWxQuoS4PjMdS++uB9Pbi49f7oYzs38her3WgSobR3TLrQL2qGlwZZPY1Qh43JfPF+b87uD9vffw7eH17PPkyvauGjeX7o/zge032mMaMI85kd2bOyaez9YZxP9gDc+405m0GFk6Q1nDV73LzpvJ0dy2esOWcyYDVldN5YrxxFYACtc58v7nzeKTf/116rldRTYcf0QxDEvSIlVjGUHRZUBoiitQJBTffPQEjCSf/f335/ev7443KRFNjNVpXktls+hORi3AMFJSVRkAw/FAMAJFEo/B0NIqKHQ6Rn9cpmWkImA1OZVDM8XddDhWDUURpCTJIrD+NAqF40sr4HIgGIglMdUg6hrJm5TQ2s6XY1u5PIzyLzE8leJYpkxWgTUovAptrAcj+UyhQBL7mnZ67LOKk869ADcSoWgy/Xzzrd2+9WxdYAaG/B8TV3nNTGkDvQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/21.png",
+    "width": 1920
+  }
+}

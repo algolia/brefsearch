@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "name": "J'ai monté un meuble.",
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c"
+  },
+  "line": {
+    "content": "J'ai voulu enfoncer un truc avec ma main. Je me suis fait mal.",
+    "end": 20,
+    "index": 10,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=18s"
+  },
+  "thumbnail": {
+    "hash": "3b8916d782",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFxRT21hX4JzcrClptTO0MS4u7Wmp66dn6eXmJ6OjpSEg41+fYR1dHtsa3RmZXRoZwBsX1yFdnWWh4e+s7Xf2dvRyczFur3BtLa0paaqmpuikZGaiomVhYSPf32MfXyRhIQAeGllmYmJhXRtoZCHvbW1hHRtopGQzMLGn4iPp5SXt6qpqZiWo5KQo5KRqJubrqKiAIBycJqMi52OirytrL6ysoNuZZuKh9nO09XLz82/wcW6u5yZoYSFjX91d5aJibiurgBxX1xvbGJ2dmrHt7vMw8KsnZmfjIqOfXzKwMG7o5+bh4RgbX9TYXI2LzEcExE/OjkATDkwXUtCYlVLgHNxlIeHU1BSg1NHag4AjWRaqZGJfGFZUFRcUlBVKyIgGhQRLSUhAFdHP3FeVjguKTQnI2JLRD41L1w2J4ZHLntRP4dfVH1XSDgwJyIfHiIXEjUoJkc5OAA5KyY2KiQmIR9FPTptXlZ3WEVoRzFzWENzWEV1SjN6RitXOikpHBY3JRQ5LyofFxoAEQkGFAwJHxsZIh0bJCIiNi0oWjsmg00qUDksMy0sRC0haEEsVjIfSCgXLyEbBwUEgtu4gX5WoTQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/10.png",
+    "width": 1920
+  }
+}

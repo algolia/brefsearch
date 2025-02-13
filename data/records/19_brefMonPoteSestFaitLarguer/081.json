@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Je suis amoureux, connard.",
+    "end": 89,
+    "index": 39,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=81s"
+  },
+  "thumbnail": {
+    "hash": "dc9747cafb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFdMR1ZLRV9TTk1AOiMXDCsaDFs1DVYuCXFLHL6XL7WFHKNsC41VB3RFDWtLLoV1dACTiKGRjZ2WlZJZUUkUBgRbNCtuQxhfNAl3USTSq0HHliW3eRCfYQaGUBKNbVpuZWEAbElKWEc9WVEmj2JGaEdBf0cxmGQjZTsLe1Un0KM3yI4cuXYFrmkFj1cWgGpYTDMsAF85MlYyJlhBHb2HjayZnYVmWKh5MGQ7BX5XJciOHbR6Fq2BRJx5UjooGB8eHEcdFgBRRkFDRzZ2cme5qbOkhX+zlpOpinqBZE+AVzRvRxNQQzd4bGc7NjQYEhEKBwYzDgsAXk5NUVFLjn+HxrO/mX98oIN8hm1oYU1MWj00JBUSIh4gMSglJR8cIRsZDgkINA0KAColIycjIlVNUcGywZyEg412b35cVHBFO08yIjQmGS0hHC8kIighIBYTEwkFBDIKCAAOCQcJBQI1MDO1qbyikJWKdXJ5aGc/MzE2KSQwIx0jFxArJyQtJSIlIB0gHhw4ERAAGhQPAgECIB0fm4+ehXeCV0tNOTEuEg8NFhIQEQwKHRcVHxkXIRgUIx8bMCssOBUWFTeAoMxHCPYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/39.png",
+    "width": 1920
+  }
+}

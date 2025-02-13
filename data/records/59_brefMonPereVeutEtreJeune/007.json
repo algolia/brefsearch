@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il faisait comme s'il aimait des groupes dont il arrivait pas à prononcer le nom.",
+    "end": 9,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=7s"
+  },
+  "thumbnail": {
+    "hash": "3307571a3a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nBXLS2/TMAAAYCdt6NLm5TxcO3bsvJqkbZ5mdF1btesmxEBMCLSJiQMcOHHjyM9H/e4fOMr2KFtZLfIoSkLKUfB8PHx5+LQdtt8Oe7nINW2ijSelELdtfd5uQJ2lgmDHMsMANXlu6FNo+ZlYJ6LKWZJSNlI1azrrinI3yIPsgaqMFaACoHi2s4xTz7ZDxHQdXk1sgqJt17+/u990/fnm+uvjh+fPT5cwVjVVHTuGlTEODYMhakwdaPkREZUQ1+tVWxSbpn7Y3T7enS5hpGgjRbNmpkDY1g1zBp2Z5ZoQ+yTFiEHIfK8riq5YrGJxCUAZ6W+u8ogLwjNMfMc3pwZyXATnOQ6YC5ecV4wNZbEUAriGteTJfnj78/XHx/2uoz5DczEPuY/yKIkDd4FRn4g2iZs0rjgFJyl/v7z+evl+7lcbHpTIkfOgQkFHyQ0lOQ6GVAxp3GVJnYgyouDptPv398+7jHYhXIdegbwGBxUOuog0yB9iJmPaclqLaB3znOD/8ts2+bWqEg0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/03.png",
+    "width": 1920
+  }
+}

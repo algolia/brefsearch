@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "Le lendemain, j'ai passé la journée avec cette boule.",
+    "end": 93,
+    "index": 38,
+    "start": 88,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=88s"
+  },
+  "thumbnail": {
+    "hash": "b62eacdfc8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nAXB+1OaAAAAYHbmdImVOg1DcEAgD0V5CGmAgfKcKDunTLTCa7XZ427bL92uu/3t+z7ApOCtSi27FFU7k9j22/772pssVfGbIjxs04eZv3KMbeCMeM6nkSsGA6JOM+5hyjleLJyYHfZts/z3+PL7br8YKs9p+rKKrif6r8XsORwvP7sSiQNUqTjA4LNyhWnAyaX4wzFek+vXzS4eGaGiu21Z+YR/tex9OJ5OQ5HvAxNJQCC0dHzaQfCN0XfajM5yf6K5TXdbICTUm6bmRdHu7+7uPl770wQwCWxAMwhKFsBTGmcVkudgXOZkFuXqhyWkWjVHQRAkaeA9JcnPxRygS2A69/yhSMB1sFguf2xAEH5cgSEIb9ZgjqAEXnHsL5v1zfBiNJYlAKtVFxPN7lGeQF5QaAUEc7nC0VE5VzixaP7JC0mCNYzg5vbRsUOpKwJIvTHTFU9quWLLEWkSqmXeHbzP5g8+FCWUuFd1hpUGA2sV37ruzDRtoM8xrsobHD7undt9QabVfDafyeQy2UO6iQW6xjLy5dCK49S0fE0b/QcEblvLVmSMwQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/38.png",
+    "width": 1920
+  }
+}

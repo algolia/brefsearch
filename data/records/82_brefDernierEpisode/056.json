@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "name": "Dernier épisode.",
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU"
+  },
+  "line": {
+    "content": "Mais j'ai jamais posé la question.",
+    "end": 57,
+    "index": 25,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=56s"
+  },
+  "thumbnail": {
+    "hash": "ccfe053ce3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBWW/SAAAA4PqyRTYpMEAoYVyzAm23Uo6OWlhbWin0oGWw0jadwx3hkDPOxUXRGKPZdK/L9uIv8B/45/w+wLQJRUHaGjYYHDg2aVs5oQYzZZinUbWRNXSsXkkfUJECHkSRZ3BqA1DkdLeLWib6tk9OZ7xl4AuVGjWpIpo09D2x+pIuRrpK9qiT6ehJqhAFWo28yCODQUngY5KS6GvYnSNcq6SMp49N8uaWu3/sPDz27m4vbn7Ln1cMAIUCPl8QzyU8G0+g2DZL0z8N9n2dkEmUKmMUlyIIUBJgW2przQovPAcMrclVq5YuWq2a2dZIAv/qiCuDpfaytVeFGp+PQk9RIpMjSqlEwg9Fgevl9EjXrmaj1eWUIXPbwa1xT/02PmbLZBwKO4evf32ZyVIdJ4o7MOINRIET2x6enV4tF2ZHD4Buv9uty9J8MsvvYqDLRefxf3//3P/4+M5SWhyZjYeA0Xl/Pjz/dDkXuUrYC0JbvlZDXE4mL+KxzfX1TDL2/cNo5Ogqt8+VUBqHgcXwdHpxMj5zCCQd9IAhr4cpk8P+mzgUdq2tRQL+nswobKknM0wR2d/d+Q+QQXIbxpnUzwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/25.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Il a voulu me casser la gueule.",
+    "end": 24,
+    "index": 10,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=23s"
+  },
+  "thumbnail": {
+    "hash": "4558670730",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBy2/SYAAA8F7MwhZa+tH2a79C+/VBW9q1BTrEthQGTgoIbulEIy4uxmeMSzDxcTBR48FE40lmyDx48OJrXj3t5j/m70e8fPbh5POv92+Pp+mejnXdcnpRKxsPXj1fTHY6aWinsRt7euRqdaPs2xXi/q0nLw4Pr8UBWFtjCyC40OrYlQCL0/FoL+1kXXd2semoSIRAYIGhSsTi0esHw97TK31TVxXDSJLYNcxqiVexWnedq2mYxnUZsZChCxTpVCvE1y9/FzfmHw8m+73QbwZJHCJRVmRl064iJDYatazXaNkSTZE0RZ4PPOL0+7/FnaOjYfvhqDsddsaDHVPGCJUkCXMQeRo62HZ2Q6td03muiOUS8ePb2bs3x/Nh/94gaTd9TddgEUhlWVMrZUnpNswstufbduRqoAgg5IiT5e/Vp9Pr2WwSBVumdi6X2yBJigYKxgzDcBznmWo/sGSRA3SBh4hYLX+uln/u3n4cbJqXt3yWYaAgrOdJDWPPtikyX2QYJAgsy4gCJwoCESWDuH3Jsmuz6ehmN9YlKU8VcusbAs/7rmvpsoIllmVoACCEoij8By4rWvvOrM49AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/10.png",
+    "width": 1920
+  }
+}

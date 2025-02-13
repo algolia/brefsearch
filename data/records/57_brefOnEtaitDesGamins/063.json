@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Mais arrête !",
+    "end": 65,
+    "index": 25,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=63s"
+  },
+  "thumbnail": {
+    "hash": "807ae059cf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkklEQVR4nBXLSVObUAAAYKayBMILRCl7wvJYwxJ4kBCJok6xQJJpNNpR22lnvPTUSy/9/Z1+9w/jiTMV0G1qelPS5Ul9TGw18HcoDwv1PlJ75PQ57BHscvtzZpW2hPEErrAjpE0MFldoHH2kaw281+HT0hgipS/8Drm7whkKp8usCkoYR+IyQ0KOFEfEtSH0vvbJ4H8Uzp82ecy0vvSH0t+vg/3a7xGsHBmTGEoeUzNAzllq71x0qV878Gdq/m68h1RuM9hExr4KDptgt3LrQMdWpmByI5sjZZq4UsevBXxI3ffM/FXbu4VY2Ip1AfrCe7yKv2zC61DHLqGI9KnJkuDsgw2ITAZdaDY6/5SIQyStXL10Zqdm+dwsj5eL/6HLjECaBsLE4miFxgFByBMuPR+9IQ3pfAWVXeE8N8nXm+y4CWtPwdpkvjblYibqE8YClMRQka592+bfy3mu8siQ2lg/Vt7LHTpt49vUwu6TORQ4lWMD8VwBTKwIxzLq87RL/S6G+wR2qXEonZfb/LSNbxLzH55JRKuGzF0CAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/25.png",
+    "width": 1920
+  }
+}

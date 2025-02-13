@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "name": "J'ai couché avec une flic.",
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ"
+  },
+  "line": {
+    "content": "Elle m'a ditNon. À demain.",
+    "end": 12,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=9s"
+  },
+  "thumbnail": {
+    "hash": "bb732c6997",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALCsoGdkSV1QPZiCdH1lTmVfLmNnLW90N3x/R1RfJWFLNmRJP3xxYLmlkrKYgJyBaADMy8FcVkuAaF7Wuq20jXl9aVJjX0FXVSxlXjlfXDJqV0FmST+ajXvApo+5oourlH0AnJqRa1xQc1ZGpIFvilxHhHVhhX91fXRlhnpyhHBidmFRXUA0k4VyybWgv6qUtZ2FAI+Ph5J6bJ55Z4loWH5WRYtyZYeFf39+eZ2blKmpoYl0bolwaLyvosi1n7yjiqyPdQCAd2x4c26PblyMY1B1T0FdR0Bqam6Ulpqxtby0ucOSlKDQwcHQurHJtaGwknWigWUAX1tXko6VcFVDRCoaRikeY2l6go2ljZWoeoKZeH2ThXR4l3plsYt9vaWQtJmBspJ0AHqDmIWGlo9vXEYtHS4mI1BRW2xxg3uAjmZoc05KTEY4MmxTJJloOpFfJJt8QrWafgBwd5JSVmdoYWkvKS4jIy1manxscYV2e45YVFVUTEJ3aWt4VB5wWDVKPzp8WkGie2UAa3GHZm2HQkdXFxooNjhBXF9tbHGEd3yOdXN4lIuBhXZ7hGYjeVU8TyZhbSZEnhk8E7nCoMLM2JgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/03.png",
+    "width": 1920
+  }
+}

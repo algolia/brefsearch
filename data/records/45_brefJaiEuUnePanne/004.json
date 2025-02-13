@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "name": "J'ai eu une panne.",
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0"
+  },
+  "line": {
+    "content": "Ça va ? J'ai répondu.",
+    "end": 5,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=4s"
+  },
+  "thumbnail": {
+    "hash": "eadbdec44c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABHUlEQVR4nD2Q2WoDMQxFh9rWYsu2xp49C5mGNNA8lBb6/79WJmkCF4EkDgduA4bdGzMqOgEbrEFjEEEQxBpylp3dpjVkDRG2Dbq4MfdYQwgxhYmpJVRwHmxAF+7YFoTcPOnHyWeZ1uX3OH0TZsLkqQh16OT+RYTUPL2bmiCqLEP5OMw/KUyIMfg+8pDC6LklzG3cN9bgC0CQHJcYRpXlMH7lMHpS4U5lp3HJYep0fQD/EnA+h6mkYxt3u+5W0gFd2DxcssxVT3P/2SAkZ/0LCFxUFpWl1/NQrkwVQcR3RdehXOb+1jCp5wLPKsAF4SpUe107PXkqKrua127jL2O9Nkxt4J4gMWbn/FY2pBSGQc9dPmncFz1VXau+V93WPw//Fdt3WVQ0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/02.png",
+    "width": 1920
+  }
+}

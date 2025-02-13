@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "name": "J'ai eu 47 minutes de retard.",
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q"
+  },
+  "line": {
+    "content": "Je me suis dit, s'il me touche, je suis obligé de lui mettre une droite.",
+    "end": 43,
+    "index": 21,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=41s"
+  },
+  "thumbnail": {
+    "hash": "5802061f38",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABYREBkUExwYFxwaGCEeHSQjJGJRQ5hsRpxfS7xwXbZyZIRgWDMxNCssMlZjbUFRXQASDQsXEhEWExEWFRRKNC1lSEB7aVqhdlGbYErAeF/MhnPShG91UkkuMDVYZG1BVGIADAcGEAsJFxMRHhcWl1tNmmlYcWhYjGhEjltKrWpUek9AvnxnkllINzg4a32HRmB3AAcBAgsFBBcTEkUxLJ9eUrF+a35rYJRbVq1uWL91ZcN7Z9GGbrFsVnZRSWiDmERmhgATDQwZExImIB57WU6UX1KTb1x3Zl6LUlRxQzSdYVTKe2S4blWGUj+fendkhqWKjpMAQDEqMyslTT41r31sk2dXbFNGa2RUgV87eEQ6nWBPpm1VgVhHbkg3eXuFl6GpoJWOAHNURGVNQH1eT8OMeX9dTlFFPVtiWHFYPF1EN21PQU05LkUzKZVdRqaJfoOFhZeYmgCJZVWTcGCofmvBjnZfSz84PT03P0EWFRkpHhZALyVTOi+KVkG0cVR0WUkjJSxfY2kAlHBlnHltuJOAsIZxMS8qFBUaEQ0SDwsMGBALNyQdYkAzWjgtTjwxIh8hGBYcICAlrtqQXH7xv48AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/21.png",
+    "width": 1920
+  }
+}

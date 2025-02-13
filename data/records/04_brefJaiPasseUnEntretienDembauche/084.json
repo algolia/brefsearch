@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "Il a rayé kayak.",
+    "end": 86,
+    "index": 29,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=84s"
+  },
+  "thumbnail": {
+    "hash": "2f7ce3bce8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAhIBwdGxcmJSEdHxs5OzuXlaCdmJ2ln6SppKunm56biIimoKuxrLqTk6abjork0MkABwMECQcIDQ8PExYUFRcUc3F1qaSqqqWqsKuymH13hF9Sm46Sw8DOjIycopaU69zYAAkBBAkDBgsMDQwQDxwaGHZxdKmlqbCssaqkqWtSS21MQWpaWn94f3l3gpiMitrJxQAIAgQIAAMKBwkICgswIh1/d3ikoKKQiotMQ0QuIR1HMCknHh0qHx5PSk1RSERXSEEACQUHCAADBwMFGBYVQC8pfXV0oJ2dcWppJx4dJh4cNSooMCYmLCEfMSgnhX+Eh4GHAAoEBggCBBUTEkEzLUs8NXx4dpaRkGpkYhgQDxQODUAzLjsuLB4WFBQMCl5VVq2osQAJAQQIAAMSEBJJPz9uZWKCgYCGg39ORUQcFBQTDw4wJCA0JyIYEhEmIB8sIyKHgoYACQEECgYIBQgIIigrgYWGen5/d3p5Ojg3GhUWWT85aUlALCMfFAsJJR8cQDEthHh2AAgDBQoKCwsREQoSEURNTHV/gKGmsbGywk1OVC0lH2RXUHl+gZiXooeHln5fWp53cGKlhfxP8SGOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/29.png",
+    "width": 1920
+  }
+}

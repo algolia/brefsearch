@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Il faisait du charme aux serveuses dans les petits restaurants.",
+    "end": 42,
+    "index": 19,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=40s"
+  },
+  "thumbnail": {
+    "hash": "d7d1709dc4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXBa2+aUAAAUKq8Llze4hWlpA6dVapSMCidlRYoFQWsdjaOdWYmS5olW7JkH5rs1+8cLE3uV8m959jVCqWKiiarlQrFs7wiyIDmFpPr2ZVVg6LC8jIUISthRZYU6+TGmwgA9rX62r6ENGugRkNBOA5Cz42mk4HZGXW7EiNQFIdt88ddkcYL3+337A8Xu2AWec7j1G039WYNrW79MktO+6IslqN2u9tqYc544NiW74xP++2/Xz//lPtyHX9Ogm/5w51rJ/ObeDYpouD4nH3dpC9phLEAAhoMP3aO2/z97fT7ZfP+9uP0lD1MnaGubfzroN9pquj4nB+K5W4ZYZDm6qJknuvp7fzv98NhtQydUTq+9Ac9A2lDw0gss93Sy6fVIU+3SYgJDKepCCkqDzhVRgwQuw01tEy/Z2oKEqA8OjdYmnOsqy95moULjCYAQTAs4EiCASQHKB4CHpJ09QyvnpECI+mKjuMASbXsbp4GnzACp0iCIaq0zEIeQJ5m65yQLeav5WscxionMxRP4ExDqsUzN/K9/xQoR/ipZtl1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/19.png",
+    "width": 1920
+  }
+}

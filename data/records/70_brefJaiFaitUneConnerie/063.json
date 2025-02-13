@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "name": "J'ai fait une connerie.",
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60"
+  },
+  "line": {
+    "content": "J'ai posé mon téléphone face contre table, au cas où la fille m'écrirait\nun texto au milieu de la nuit. Non, je suis pas d'humeur.",
+    "end": 69,
+    "index": 34,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=63s"
+  },
+  "thumbnail": {
+    "hash": "5063a4d50b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nBXOzW7TMAAAYC9O7NixndhOkzh2fkmbFfrDqFZgTNrEpKo7bJQDAiSkHYc4ANIEr4DEhVdGe4LvAwmVMlIIEnwUUo8QjyCAFRH3h/3ptIMeRn6EIBM0/nJ9dXhzChKaKKYp4qFHIkgjSPERkZh/fbefOwchU8I43bw6nj3cffr+8RaEQaR5mlAVQsIgpY9CICD+8eGmMzZEsVH1+Wr779f9n4dvh8tzAL2QUyWoCj1CPcIDZmRb5/PPu+tcZdSnpao79+zv7593hxsAEEA+i1nOo4wHQhPdmMXQno3jbhx3tXuRiryUZSyf7t++H2wdhhMgorS3q96d2Gzs7fO+etm4zfDksusvhuFq6C/qciHltDDrTDcyaQFBwmbHXbV19mRozvpqa4tVW7+u3GaSzop8WWSL5LGQCl4KbkEYMMXtRM9MvqzLjTXrLB1NsazcNtVjNpnHvEQ+VcLouBJJA3AQIT8iWDKaSdFoNci4FbzSaqrUrCzWUljfwwQnOOCMFf8BDGovWGiNi8UAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/34.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "name": "J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA"
+  },
+  "line": {
+    "content": "Je connaissais cette voiture par cœur. J'ai dormi dans cette voiture.",
+    "end": 50,
+    "index": 18,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=46s"
+  },
+  "thumbnail": {
+    "hash": "ea330ca6dc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABj0lEQVR4nAXB23KTQAAAUD7BccYHH9SSNiYpSSiBYSGw3C/LZllggXBJYqjUts5YrdOXzji++eGew02mihUWN2rATzb98bHu7k0nn1xJ19dgsTIOww8/Kt6+eT+fiXjHdGBz86VRHR8NM7ri12377en5rwyiy+mG55ezhfL65x+0kHBxuZVkWjSStOUEOZTMLMN1HmJRUNP89jS+ZPU43D1/f3q1nHT5eZ3abgw9lLWWgzlvd8blWLKhxfRGhIsNmUtkJsafpsYHXvn4jpfnInV9plm9T4tu5Kr+gTQ/3bAa+0FRQ2BQAEvZqGcrf7s2XEHRV5oiW4Fo/DLiF1RyET3auxG6rKvOplPGqHU9BpzWAriDiALHl21Vx6Ff1T77jfeclRxUtwImReQU41NCzn6412BFtrjSg8LeobhJkr70siLIsZdxwGF6UAuS50V9WtwhMgToYMCyhmnj0STaR6jHqKMBq3DTkYbTnBz6laqF0M7C5EjyEZFbxy6+RKwIWZAcUnaf5F8DciJsKJvxPzCvdmxNQpaEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/18.png",
+    "width": 1920
+  }
+}

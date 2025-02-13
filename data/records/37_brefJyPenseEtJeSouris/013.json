@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "À peu près à la même époque, à Mussy, la ville, en Belgique,\nJean-Joseph Étienne Le Noir, qui porte très bien la moustache, invente",
+    "end": 17,
+    "index": 4,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=13s"
+  },
+  "thumbnail": {
+    "hash": "f2ccd40629",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nGOwMzO0MtG3NNSxNNSVk5LUVFVyd7D1c3cO9fNKjA71dLZXlpcVEuAX5OUR4OURFuBnUJCWEBXkl5UQk5eS0FJR8nSylxYTtTAylBYXFRcRFBHg4+Xk4GBj52BjZ2FmYWJiZjDT1XCzt3KyNvNzd9JQVkiMDHWysXS1s5aVFOfn5RYR4OfhZGdjYWFlBiGQBiNN1YgAr4K0xPjwYAEebnER4bz05GBfTykRYVkJMVkJcREBfmFBflEhQU52dhYWFgYjDWVLY/1AT9dgb3chXp7QAN/TRw/u27Vt3sypBdnpUqJCxrra0SEBno622qqK0qLCDGryMsryshIiQnqaasL8fE42ltP6O3dt3fDk4Z1Txw/raah5OTvWluYHebtqqyqJCQkwcHFwsLOx8vJwyUlJSAgLaSorWZsaxUcET+7t3L55nbebs7KcjJWpoYayooSIEDcHJwMzMzMbCysrMwsXB4cAN7eEsJCYoICGkqKUqLCIAB8/N5cgHy8fNzcLExMDBAjw8vLz8grx83GwsYkI8OuoKYsLC1qZGBpoqSvJyghwc3u6ObU0VtbXlLQ1V3e01QIAES5PDMFGPfgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/04.png",
+    "width": 1920
+  }
+}

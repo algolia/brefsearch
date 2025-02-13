@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "name": "Je suis allé au cinéma avec cette fille.",
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g"
+  },
+  "line": {
+    "content": "J'ai entendu: 1 000 $.",
+    "end": 30,
+    "index": 11,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=29s"
+  },
+  "thumbnail": {
+    "hash": "d55ce24061",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nB3L246TQAAA0CllBmaGgQLT6QBtabulhJZyWXrBdoXt2mia+LLrxsQYs8nGN90PMDHxH/wBf9XoeT8AKggqyKCcIeqaji+DUzR+qtN35VpYXAUq6qhY0RBQ4tH43LQAdTXY1frE2Az9wObS4b8uuz9P59+fz9s4butjESca6M4M4+WhuTSH/0FBPZ1dD/2R7SbS+1gtf7zdvLTruZSfPjxemhMG4GYS/Hy+nLcpQArSVJ3pLBJCWu4pnn+ps691ep9FXs9O41W7qYWCfJ00+eLNNgVQQRgSUzdN3SKQhlx8b6+/3RTPr9KpDJv67vH9vYSEdaCFad/qAazqnDJd/XdEzxtYIg9k5YlIiCrd5YuqLo7JeIE7qk0ZhQQYiIamGdgimWXb7PXcCxNPzvucG065LO8Ot+uo3OdHlzoWpoZmAA2aRCVDHhTJPo1yaQ8t4lDIAh4WcbXPD8m0bPbtxBszDRONAqxz2CUMuwGf+HwU9Cc2G0h3mEyz1azcrHerebm8Sgc2pwhrXf0vQQ01frXk9ToAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/11.png",
+    "width": 1920
+  }
+}

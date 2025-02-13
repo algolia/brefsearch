@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Un, deux, trois, quatre, cinq, six, sept.",
+    "end": 75,
+    "index": 22,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=68s"
+  },
+  "thumbnail": {
+    "hash": "eb4261bc4c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ANfKyJiJhUs7NCgcFTQiGlE1KoBVRqRtXqBuYKGHgNXEw/fx9f///+zq7VhSVujm6QCLd3BaSENUPDM1Jh1FLCFwSDqaZliialyrdWinioaeiIWumZL27+/l5OdaU1fx8PIAgWxpbltWfWZfWkE3XkE3cks/h1lMj1xOgFZLuJ2avqmqnIWAz7y13drgZF9l9vX5AJ+KiI17eZuIhWVORlc+NE0yKWE+NH9SRYRVSKeBeK+QirOXk72modvT2c7J0+Pb4gCsnp7HuryyoZ9vXVlWPDJvST9gOjGFVEmVYFJ6WVC0mpe8qKa2mpa8o53Z0NPc1NoAkoJ90MPGyru8mYSBUDgvWjsxTS8pZTw0jF5RYz40kHNuvaOgvqqqw7OyvaqnvrG0AJmKhcOxsMKzs7efnlhCPS8aEj8kHV48NJloW5lpXm9NRpF3dLikpLOalrGfnsvFzACij4yynZu1oqC2n55wWVU4IhpvST6NYlWUZVmhcWd7W1aYgX+miIGggnzDub/X0dgApZSSrJmZqpaVsJmYiHFuTDYvdlFGiV5SjF9ThFpSim9spIiDhWZcnoB5zsPIzMTJWY3geDpQkPYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/22.png",
+    "width": 1920
+  }
+}

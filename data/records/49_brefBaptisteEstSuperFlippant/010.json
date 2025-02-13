@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "name": "Baptiste est Super Flippant.",
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78"
+  },
+  "line": {
+    "content": "Elle se rend compte qu'il prend trop de place, alors elle le crève.",
+    "end": 13,
+    "index": 6,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=10s"
+  },
+  "thumbnail": {
+    "hash": "c32a017da7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBW2/SYAAA0D6p0blB1oQKlEqhtKX069dRWnqhFFYKi4MydouEDdjqxmUDtiZixqboCy5xib74bHzwd3oOYmgGHqN01bC3bbd5cH56Mh1488lo7PXzmlm07G77+HjPPWzsXl+c12sOohtWMgV00+l2Tr6vftyMh/PJ6Ovcv59dQSrFZ4TZeHTo1v3xcDn3j1pNhAYGy0nprK2VGoPh1OudfbmZ3vm3btVRiDdZhr448+xSWdiSHWenWHaQNFAzUGVgqb7fe3z6/fPp18N08ml42a5WvN3ax9GgaledWoNOiyQDI1QOYQUViBrJGYKoLZerv3/+vTONlqZMO+3Vw+dvd4s4yWIxOkHDDCOF4jmEgzqAeZA1TadZKu+873iSIDExoqIby9vZtlV5voY+e7GxEcQUKAdQDMHfMhwv4QSNJ/honH21jkYIShPgfsVeXA10rfg6iGER8uXaZmAzvB4IIQBIPL8linKKATQrxBMclQJWTp71+4/3i5Z7gIYILEoG0XAII8LRBJJMZnhelLKKCPOyXJDlgioXLFm57nX9yw+99imEiggVlhVIkoniyf+5IG85sRBN4AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/06.png",
+    "width": 1920
+  }
+}

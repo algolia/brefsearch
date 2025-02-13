@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "J'ai eu envie de m'inviter à boire un verre, m'inviter au resto, m'inviter\nau cinéma, me raccompagner chez elle, coucher avec elle.",
+    "end": 48,
+    "index": 17,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=45s"
+  },
+  "thumbnail": {
+    "hash": "f288c8cb30",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBtRTF7TDWJVTuXYUSkbk6ze1q4fl21elqkbE+ZZEiKVj2MWkCVYUSSXkGKVTx/TTUAaUQxgVE5kl5ClmFFpm9SsnRWsWxSr2pSrWpSoWFJnl5GsXBUt3xcpm9PiVY9dEUwAGNBL4RUPJVgRIpYPoFPOoZMOIJEM4RHNYZIN4JFNIRFNIVDMY9OOZdbQoNTO2U7JwBhQC59UDmNWkGMWD6cZ02daFCJUD6BSzl9STdqMSVLIBpCGhZMGxZSIBlOJBxYMCEAaUUycUgyhlU8lGBEq3NSs3xbs3tetHJbsm5Zp2FNmVREklBBjks8dDktXS4iXzQjAHFHMmpCLHtNNopXPZpkRqduT7B5WbR4WrVvV7ZuV71vWLxrVKNZRX1FMmw9KmQ4JQBzRzBvRS9zSDOAUTmKWD6VYEOdZ0qeaU2UX0WKUTqARDJyOSllNCRlOCZlOiZbMiEAd0syeU81eE02ek42hFQ7jFo/kFxBj1pAhlM7eEkybkEtZjwoYzomZTsnYTglVS8eAHlLM31ROHtQN3ZLNH9QOI5aP5FdQpFdQo9aP4lUO3tJM25AK2o+KWxBLGQ7J1UwH1CgmrWSvZ8JAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/17.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "name": "J'étais dans la merde.",
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU"
+  },
+  "line": {
+    "content": "J'ai dit: Béatrice.",
+    "end": 73,
+    "index": 30,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=70s"
+  },
+  "thumbnail": {
+    "hash": "9c566591e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nBXLW2+aUAAA4JNx7EU3xoKZdbNstbbeSoBWRPEoKCoWp0UrtCiuCIuYOp2xafrYZY1Z97LtJy/73j9Av93n4nTymMkkkiU6u7w2LlCph0r318ba7NXPuArLHsfe7YVJpdZkaQawXDFKHUUiMaMsDhT5wRlqhfyoUX90rGlbVfN5r6+fZVKJ+KExGPKnPCDDUTz0Cn9JXCLkthubhf8095+X89+r21+rxWZx+3O9QoJwkqVH1g0SyyBMRgj8NYRbfCr9uSnf2+af9fLv3beN733/4j1/nT3O/GrutMBxtu3KlSrAcYLA3wQgxIPBfPJwqms//MmT7/kdzayIK7O3tEwlddBiMjf/Qw3s7OyGgiH4AgvAQJKiuiX+zjYnWt2tSRMJDRVkNqQ6l72SBXc0kSUFQAghBre3tk8YkS+qTPxgrFYfxuZa/zTXmtOuKgkF9Vw3+4Ox5ZTFCsAwDADw4WNK0x2t7/Fii04kukjw+x1brSI6HaOSvNxTus7F1SyXEwEAAMMgzaK6ZrV7TtuY5sr6/t57iiQokkjHomGCZITzWsdFrVFRMf4BGbpoq7warYIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/30.png",
+    "width": 1920
+  }
+}

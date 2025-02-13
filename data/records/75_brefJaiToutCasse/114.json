@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "name": "J'ai tout cassé.",
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0"
+  },
+  "line": {
+    "content": "Elle a ouvert.",
+    "end": 116,
+    "index": 46,
+    "start": 114,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=114s"
+  },
+  "thumbnail": {
+    "hash": "679be3d68d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMUlEQVR4nCXPzU4dMQwF4JRJbJ/jZDKT+YHbirkCBAuuECvEhhWw6Tv0/Z+jSru17HM+h5lwhSmghDIlrMtpX0+qWYQwuuG84HKbz6tNbmEraI6l8DTlvWCr0/vz08PNBsuwQhCKlwNfL/l+76OQDQUYyZHuiuvW3h6Px+tWkB2jKR04r3w9cF47JAzRhoiYKOLhh651/v16f/m53IyVltlJNCWtg2Ni6NviSVzFaFym9c/H5fvp193aiJykN7fS/xkihoigCkkw5VKXVvetts/n4/3YJ7pZHpI7uBRHb3ARhBhxNVgdtzafzEZa3sd622aYi+YhdqqK/1fRGGI0mi+1qVDFaVlSt4qwsAyJKbHQJ/eUQEOIg05e5pxjRE8ST4lXESlxZImxH/9j21oz1P4CPsYWS5/Kh1sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/46.png",
+    "width": 1920
+  }
+}

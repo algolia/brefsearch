@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "name": "C'est la merde.",
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc"
+  },
+  "line": {
+    "content": "Du coup, j'ai appelé le spécialiste de ce genre de situation.",
+    "end": 62,
+    "index": 23,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=60s"
+  },
+  "thumbnail": {
+    "hash": "6f05398a42",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nB3LW2+aYAAAUN62thS5g2aiglDLXUREi1U/UBSsdE6ttlNnbbpsTbfaJl2TJUu2ZQ/710t23g/UNJQiV3zYbn/vvvzZff159/FpcbEEpz1FZmmOxNMUxhIYix4Sh/vo/isY0gt8ls5cRMPn29uXm+3jfDay7V0yiK0yy+QJlGUwFkcoDCGRA+zgNQJpslY/Kk397izojRre9w/v70bxr+srz7RI4k1dtQsMR6ZoPEWl4P/BkHUtz8de63m7edms/z49/Fgtvi0mk3ag8OoqCBOrYnA8gzEojMN7KahZ9W25xjH81dn543p1P19sOmAZgL5pt6otYLvXoBOWjpScQCAkCuOQJtUrykmeER3ZHg/i5eDsph/PA98VpGqpPAS9z+fJUBQC08pSGRajIb1QNkWHhRk1p5+adgy601506QOVyXpKZT5M7ieTSCwmruscq2mUhrzGKKgN9Jwq87bD63HNXXcDXzMFSvKsk3dh+Gk2C4ti4rpj0FHyAtRyIlduWmI1g6SFbMnmlYYgWoLhSFVdKvebYNrtRoYxbrffgk7TNP4B2VNdMw/lZbsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/23.png",
+    "width": 1920
+  }
+}

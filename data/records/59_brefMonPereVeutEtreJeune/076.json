@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Mais non, fuites, petit con.",
+    "end": 77,
+    "index": 37,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=76s"
+  },
+  "thumbnail": {
+    "hash": "15632715dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nBXOa0/aUBgA4JMAPZf3XNrTSsssFy2BzKlFjZWM4hijYJdJXHGwCY4RJTNelmXx0/zzy55f8KCSu12rtg5a/UYQ0lwBMOUGLmnd29/70Y+Xg/5NOjypB2F4Ol//ZVQjb8OvV3YO99/Vyk1WMMAgNF/wHSdqvp7H7S9v26tRshj0JvHp16tHAAdVvFoS9brR0BY2x1QQkIT6zkYaHT99Gj1Pxi/z2f15uv48yxZ/ONNo22+usuXl+DsnICkoxm1gNc9N2+1F5+Ru+OFlPn24GF+Mss7omlMT+W5wM/v5cPusKJeUccwkIUHJ6x4eZ0etx7Pk7jzN4s7eVr3sv3GLW6jq1Rdp9mv12xaW+F9iitKm71c8f1PrpBVGjcZuuVKUjuaWEkUUH3TvJ9/Wk2tbWoIwScHhEHieLTRCqChV0gp3y1XNTRNMkqfoY3f4dLWcJmcWCEkox0wDbGqbFaCQw0YOu0oDBltokylJBLp8P7jNpkfNHW4QkzKBmQ3wylQ0z3AOc0yMXJ5jsMBUVCoq/wEeOEGY6F3EIwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/37.png",
+    "width": 1920
+  }
+}

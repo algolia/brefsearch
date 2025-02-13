@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "name": "Je suis en mode survie.",
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ"
+  },
+  "line": {
+    "content": "C'est ce qu'il va dire. Je vais la mettre à la poubelle.",
+    "end": 110,
+    "index": 40,
+    "start": 107,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=107s"
+  },
+  "thumbnail": {
+    "hash": "3a70cdd7e5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AG9venh5iH5/jYGDlIqNn4qLm4KAjnFrdUpBSCAWHCEaIVBIUW5reIOJooaOqIKKpABiV2RxZ1R0ZU2IiJyVmquTlKSJh5Vzb3pxWlxMNTMLBw8hGiFtanePlq+NlrCGjqgASCYpUjQie2s/kZGgm5+xmJiojIybcmJnaUhFYUZEMCEmHhcecG18l562k5u0iZGrAEk9PzgmLEdBQ5KUpJugsZeZqI6NnGVMT21LRoloZGpJRkdASYSCkpmguJeft4uSrAA1KS8lHiYkHC6DhJadobKWl6eNjJtnUlZuU02YfHZ/bW1wbXuHhpeaorqYoLiLk6wAKRAVLBohHRgkbWx+nqKylpelh4aWUkZNX0M+lnltf29xdHGCiYiZmqK6lp62iZCqACgQFSoZIBsVIllWaZqcqYqOoltifzsxOls+O08+Qjw3S1lbcYeHmZmhuZKZsYOKpAAuEBU6HSIbFh9eWWiQlKZkaYdWX4JHP008ND4wMUY1NkgsLDxWWW6Rl6+Lkqt7gZsAKA8UQBkdLBoeXFhicXOGSU9pQkVcMjA/MTFBNTNDNDJDNzdMPkJaa3CMhY2mcneQ2C6wJ+ydW+kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/40.png",
+    "width": 1920
+  }
+}

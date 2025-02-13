@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "name": "J'ai fait une soirée déguisée (partie 4).",
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4"
+  },
+  "line": {
+    "content": "Et toi, là ?",
+    "end": 69,
+    "index": 24,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=67s"
+  },
+  "thumbnail": {
+    "hash": "c50e4788d3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpklEQVR4nBXNUW/SQAAA4JPSu/Z61961XEs7CmMtsrHBUsPQMRyQqTBmmLCNaUcmEx2JZpkTZ9TswQTjs6/+W7PX7+UDJjF80zltvBzvDc6fDd93RrPO6Obow+Ly53GtOai1b7pv5t3XrbWqijSMMBCMB8KLt7tHW83rXnx7OJn33y4mX39ffBlvRq2w9L0X/xlOd4KylIRyEoFMSuRT7otiVM8sfzuIf53M5r3x38u7xfhqUtkcbESLw4t/8cdRVAcPkjCJgG1YJuU1v7Ah3LNq43b/9G44fdd61So/jtLZ3aD0Y2/wuTvdKXcEYZIkA6JSgvVQeILw51n/anu3X21zbBCFeExU/GBdeFHYEJknnFiJhAx0bAjdKqaXyjx1HBSu2wcrti90ixFGsL7mh65h5UynEtYjP9RkGShQVaCaMZ1+uP4p2po191PU5BpDEDtMPMoXbco8lg7c0tNc4SE3AZQVSYIcG1meW3UKK/aSgQ2iEgRVTSEW5RRplm5zp7Js50PTBggqKsQ65ip2oWJipFKFYqTB+xlLCYjke9E1ZmDKMfkPZBtFFGdu/v8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/74_brefJaiFaitUneSoireeDeguiseePartie4/24.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Ok, tu me remets un, s'il te plaît. Non, mais tu es sérieux ?",
+    "end": 54,
+    "index": 27,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=52s"
+  },
+  "thumbnail": {
+    "hash": "6b3ad8319b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXBbW+aQAAAYGZF7jgOeZF3T0CsgoqCVGlRsqC2ZHOZjZti023Zh25ZtmZL+gOW/fQ9D5VjphCYnQreauBDG34k8NiBRxseHO7g8+WV2HUhkum7wPg8tg+XJrXXwZnApQKuDL4k6HnE/R6jT332Xb+VaNzrAY69RtQTX/Jg39fnGqZOHfSeoJHC/Vg4cx3vCLy3wS1hz4G8NlFiwdABRaI/htbS4Fy+QcmAtuBF4bS+xyRSEKpfeIp47agLhR1ghvDsiEj3mbkhfGbiREPUrGs9FbOpDBYK0iG98oxzGmx9y28CVKthph6aQtxprkw4lhq9ZoPKA/fvcVN6rS6oeTw4JpfrQTtztdAQEkOcqrzZhHFbKh0cyowKaUqF9d1A+3faVkM9J8J+6qau7rVw1BYLR7p1pNwR73xjQ/BEolXmFSUw9cIWn7aLaj646Si5q6W2avJwRkQisEXPeF72975aeq0qsqvrEYUZOlLZqcFvh042dB826c832bd551dqv6z8LxNyintfs+Gf9aSK3epm/B9f6EEB5uqjsgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/27.png",
+    "width": 1920
+  }
+}

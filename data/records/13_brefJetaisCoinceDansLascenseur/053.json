@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Il a dit: J'arrive dans trois heures. Vous rigolez ?",
+    "end": 55,
+    "index": 26,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=53s"
+  },
+  "thumbnail": {
+    "hash": "b70db9383d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nBXMO2sUQRwA8JGw8/jPzM7s7GNmdnN768a8zigYo0FJgsZwUYwaguZ1jYQD46tJFhQLjSSFghZiIyIiFlr4DSztLKz9BH4Puf7HDwlgSvA4lGmkBLDJln9xuzs3VgGjkjMOVAKLlTRSOB2OugQBY1LwUIAWeKpw8xP1/e7c2SqnNOCcAlBgVMvBaHVYpRoB5zgYSky0uLq7fXWlf/lcf/HCTN3GBAMwxpgEiFXokrhI49omaOgYGpmc6T//dvDj34Pm9UkrFzonSptiQgihhBAppTHGO1f4vOVz5MvxZx9/Nx/+PHz7c3lrz+isGulkrsA4wBgDQLtohUpb5zNbpDZHy5vN4fe/m/tf7zx+d/7SetmeKquJ1BY4CAKMOcBoVYdKpZlPrc9sjtZ23+y9/3Xt7qtu7+DWztHpU/PepEJFeOAJxljKUCkVJ1kSW5vlaHv/U6/53JldWdp4cr33dPrMleM6As4pHWhCiBJSCmkiE0dJ7obRVvPl5s7LujO7cOPe0tqj6Yurw4JrzgQjBGMBUForOU+0Njpy1v8HBI1BYKKgOM4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/26.png",
+    "width": 1920
+  }
+}

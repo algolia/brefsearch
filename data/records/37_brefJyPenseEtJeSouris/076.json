@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "name": "J'y pense et je souris.",
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U"
+  },
+  "line": {
+    "content": "Bref, des fois, j'y pense et je souris.",
+    "end": 80,
+    "index": 26,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=76s"
+  },
+  "thumbnail": {
+    "hash": "eb6277a1e2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvklEQVR4nGOwNLIR4BUOCg/MLijyDkyw9og09Ui2DikzDao08S208EyxtHYwNtSWlZVVUFCUk1NgEBGQUFZWCgiJCg1KyCts9U/p0XApLi7tCo0utvBKVzQOVjX2NTGzV1BQlpKWlZWRY+Dk4jU1s3RxD4uJSKsvq5swcW5Xx4R5/R1p0VFBEZnmbknpuSXFlfU6Rlbm5jZK8goMGnpmBgbGZub2CQmZ6Rnl2XmNM/t7SrKz0mOimkuK2utrKgrSw4J8VBUV4qNjbMxMGRTVdE1tPexc/ePT8kpLy/p7uiZ11EUFeOenp/W1deQlx7laGS6eP3vOzGkRgd5RPs4MjAxMksoGzr7RMZGRtbVVzbXFq+Z1T+6q2b975/27D1YsW5YYEz5/zuyG2ipvB9M4L2sGZiZWBgYGNg4eDTX1pOiguvKsSe1li+b1379/9+uXzxu27+2dNi86qcRQT89UV8PTzpyBiZGFmYmNiZGZgYGBm5vHyty8oaHpxKmD+w7s2Hv6QueUBSV1fdmljQG+bnYWhq72ViANIMTEyswM1SYsppBV0Nw+aUZJQ01+aXV6dmV0fJ6vd6CjhYGrrTkA15WQ36dinSsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/26.png",
+    "width": 1920
+  }
+}

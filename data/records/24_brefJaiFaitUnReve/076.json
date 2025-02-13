@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "name": "J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4"
+  },
+  "line": {
+    "content": "Et là, mon frère est arrivé et m'a dit que mon costume était bizarre.",
+    "end": 78,
+    "index": 24,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=76s"
+  },
+  "thumbnail": {
+    "hash": "406584275a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADE0MU9NSDg9URMsPkRfakl2qDZooClUhV9JVS9IbTxrkTViiEVka0pbRD5SQkRRPgBfYExsblpjbGJVa1uAmJF4napVmr8qWIBpNjJTXnQ7d6onZo5vhG1VYzRmbkJbXzcAZ2ZScXZiZHNkYXZoe4h6gZiORWp2HSw7OCcwLzlCU3iPf6Ohk510Vnt5boB5XG9wAHl5Xn6EaWx/ZVZqVX51ZXVnXDEnJhMNExoaJgEAA0xMUt3j4o+vsnydpn2Wl2GGkgC8taLJxLDJxrHHvqjLnoW2bVwrHSEUFRwZFRoJCA5OTE7U19G8x8Gyua2psqiUpJ4Ax7yu2M/B4dnK5dnF58aX2pqBKBkeEREWFxQZCQcNV1JQ49jI4NXG1si11su9x7utAL62p87GudTNu9vRv97RsefZwWtcWQgHDhkVGgwJD4yDeObbyNPJuca5p8K5q62ilAC0rKHCvbnNx8DW0svZ08zr5dmclIwfGRw9LC5WQUCyqpzd08HLwbHCtKWzppaej30AnpWKrKSbt6+nwLmxxr6wzsW6eG5obFdTTUA9X1RPpZuOy8Gxua6fsKGRn5B+iHZjK3TTuOPY5skAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/24.png",
+    "width": 1920
+  }
+}

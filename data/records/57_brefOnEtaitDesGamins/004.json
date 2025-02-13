@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "name": "On était des gamins.",
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY"
+  },
+  "line": {
+    "content": "Un jour, elle m'a dit: Tu fais quoi ce soir ?",
+    "end": 5,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=4s"
+  },
+  "thumbnail": {
+    "hash": "aebda57750",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXBy2/ScAAA4B/0lcqjL1pKYZZQYRullNF1KxY6OnnYZVAmsrWMTA3Jsk0zh8vYovPoYQkJelBvu3vwYLIYE28e9nf5fQCHglgwgCGoJgkFSeRYfjmvVDW1mk3IDNZapBwlmSECVyfD+/t/F6dHAINhDIERBBXpcCrORQnGUOU1HpcpVOUj7QJ/5pZ3ZOHj6avff/8cj/oAgaEwjkksaa9re30/HIqauaRCou8cfX6y69vll03leq96+3X28+5Xt90ECAQtcvRBfbVSLFi1Fssw2gJjidSnUXv+Zjjd77SV1PsXT759uZnPZ1uNOsBhuJpkJzstJS0gCCZwcT1FNtLkbOzeXo0nz+rrydDlwHDMEhNjBZ4DWYHtyJmLgbOpFQIARAjaEIjVGDxplT+/9rrqgi1Rl88Nf3MFBQCHgsBvVM69zlGvUcmJMAArXKSXDlsPHzhL/EhPNyVi35Su/dqPm8n57saHoQWmQ+fM2x7YupOK6gnCzZB9Ed9aolUa3hBC28uxXikxtrLf33odo9g182B64I6emjWRcyjIfsQfNjU/H3/MoCaDGgTi5mhvTWykycNS8tguIhD0H21dXVyoV+F/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/02.png",
+    "width": 1920
+  }
+}

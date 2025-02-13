@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "name": "J'ai déménagé.",
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE"
+  },
+  "line": {
+    "content": "J'ai fait mes cartons. Ça m'a pris trois semaines.",
+    "end": 47,
+    "index": 20,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=42s"
+  },
+  "thumbnail": {
+    "hash": "97c2981105",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AHdscn5zeYh9g4yCiXhhYIRpZ6Cana2mp66oqrCprK6nqaeho56VmJGGjIN4f3pvdQCHfIKQhYubkZeIfYNXNjF8S0WejI20sbO1sLG5tLS3sbGupqinn6GflZiTiI2HfIEAlouRnJGXoJWbnJCWXkNBWzMwmYWEuri6urS0v7q5u7W0c2lnYFVUZFlYY1hXXVJRAJ2SmKGWnJ+UmqiepHNfXzUaF5aJicC8vr24t8G9vL+7unFoZlRJR1lPTVdLSU5DQQChlpyhlpytoafDu8C1qa2ch4e2pqm/ur7FwL/Nx8XIwsF8dHNcUlJjWVhnXV1kWloAn5SapJmgwrrAvKqyro2buKKxtqGutZ6qpaKqiJCbr7C0jIOCYlhZbmRkXU9OVEI+AJuQl5eJjquZm6OSmZGAi62lqqGbo6icppuNlVRZbZykr4V9eyogIT8yMTknJD4sKQCPh42Fc3aAU0yYgYSmnaSdmp9/g5F+cnl5ZWhDTmCXoayGe3g0JyVLPz5iVlRtYmAAfnd9cGJkbklFjn2Atauwo56mhYiYfG94a1VWanSAkpWahHd1a2Bed21rdGlnbmNhRm/hJDc36AUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/20.png",
+    "width": 1920
+  }
+}

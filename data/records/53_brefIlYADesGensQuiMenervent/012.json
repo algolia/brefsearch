@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "name": "Il y a des gens qui m'énervent.",
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc"
+  },
+  "line": {
+    "content": "Et quand tu leur racontes un truc pas marrant, ils disent: Ouais, c'est moi.",
+    "end": 15,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=12s"
+  },
+  "thumbnail": {
+    "hash": "ea43a85887",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nAXBWXOaQAAAYKaJnMsuLLssIMcKonigYqiCZBqatEl1MqZHHrQz6UOPhx7pTKfTh/6B/u5+n+Aj08e0HfJ3ZXb7dFkQlioASrqlwhdZ+Oe+fdw3X3fVj5f5v0P1d7sQ9BNReiKZsr4vxg/Pm7IbUQWuAv9wttjNRt92m2OTv11li9Cpeu4m9gTQUZEMVVEvQv7lur3J8w+r5UMx/dnWh/XydTWrkrBK/E0alaGbEVNQOxqSUe0HTZwcz6vH64vP5/Ul58fp6P263Jazus/ngXc56VexP6BYUDoAieAu7h3Ks4t+8utqM+lGiUW3adoORgPHy73uxPVWSTR2WICQIJ8qQ+q8Snpv5vNPdfH75lmAHaJbnHg9FjBkp9QZUDayWWrREBnCxCb7aXZfzNcR/1gtvl81oWEHpm0jm0LGkEt0GmPKDeJqyNWgEGI8tNnY8SJMx8yteGwDzHQcGoQAywIEqRaSDY4w1Ylp+oJ8IimniiYCpEAoQ6IYTMNIhi4wXN2EsgFEpInQkIALDAzZfwDlPJSwiVrNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/05.png",
+    "width": 1920
+  }
+}

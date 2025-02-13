@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "name": "J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y"
+  },
+  "line": {
+    "content": "Je l'ai pas retrouvée. Putain.",
+    "end": 99,
+    "index": 39,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=96s"
+  },
+  "thumbnail": {
+    "hash": "d511509fd9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFpLTH14cJCVmbOwsnJeWrqgldG5obyfiHxZToBlXmxTRZJ/dZmTkTEODzgiGENMLwBdTEvDvLft5eHn5eR7ZGHBpZ6+qJZ8ZVWFZVKlhHtiS0KYgX60oJw8FBc/JhlOWDcAa1dX1M7Jyb21ysTDalROtqKZU0E3CwMCFxMHfmQ8YzsvkX1vl4R7NwoMQiYeSk01AHRgX9nSz7+xrca9uFM7Nr+qpGBEOg8GBAwIBJZ/aaNvXrGlpLOrqTYJC0AoHUNPMAB5ZGLCxMaioKKEenQoCwh5X1mMal0vHhgSDApUQkCDYFlZS0t8cnA9ERRVPDGIjXAAdGBgxL23kntxd2JaVDw4d2poNichJx4bFA4KDwoHIhsYXlBLhW1iLAEDc0xHzrKiAGZTVObj4nxzd2hbV1E7NXxwbREKCBMNCxEMChEMCQQAAGJYVZiJgiUBAHFNRcOnmABaSEjY2dulmaCPeXNhTkkyKScPCQgSDQ0QCwsSDQsHAwBEOzh8cW4fDQZgU0efl4YASTc4w8HBkYF9Xj83NyckFQ8NFA4NEQwLDwoJEg0MAgAAVU5MfXJvGAAAKx0aJisshaqb7Qlawc0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/39.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Du coup, j'étais obligé de travailler.",
+    "end": 7,
+    "index": 1,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=6s"
+  },
+  "thumbnail": {
+    "hash": "b690df5675",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFFKTYeAhMrCxrKvvKyswLa4y6OitIuCh87FzLOqr9LK0KWTlsC2u9PL0tDIztHJzwBQSk2Gf4TLwcV7hqhWbp5veqJbbZeDfIPMwsiwqKzNxcp1TUOmkJTDwM+6s8G6sL0ATEZJh3+DyL/EiIieVENNj4KUhISWg3uAyL/Fsqitpp+iTjQwdGNlo52ntqu2rqi2AElDRoh+g8W6wYJ9j1xARmdfdGpngoN7gcvCx5WNjzgxLxsTFy0jIjwwL5qOl7q0uwBHQEOHfoPEub92bnYnHiEmHR1ZWF+EfIDPxMhoXF0nHx0iGxsrIx8tIyCUiJS3r7kARj9Chn6CxLm+XmJ4HytKNkRlRlVmgXp8vK2wRzMwIx4bHRcWLSMfKSEddmt6q6OxAEI7PYh/hL6yt6CgsZeduJ+lwX+DnYF4fMG5voZ9fzgxLxMODiwjICohHpWLkcC5wgA9NjiKgIW6sbi3r7LAtrfLwcKpnZ6BeHvCub+Yj5IxKigSDg4oIB0tJSK0q67NxcoASEBDi4SKtLG7mpehq6Stw77GmpaeeHF2ubK5mY6RMCsrDw0OHhQUaVBPw7vBu7W8NWPWoaNbpwoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/01.png",
+    "width": 1920
+  }
+}

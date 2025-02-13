@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "name": "J'ai pris le métro.",
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0"
+  },
+  "line": {
+    "content": "Parce qu'avant, les pauvres gens dormaient dans le métro.",
+    "end": 26,
+    "index": 8,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=24s"
+  },
+  "thumbnail": {
+    "hash": "457c79831b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsUlEQVR4nE3KzU/TYBzA8f5tJkYJMEHGgpB48mRQE1+wA0ESbXRsC51wQMMOYEhAopkyNovYp936dC19+bV9yma4yFZZ1vbxsuwPICQeTD6H7+HLRGEch3Hci6NeHPcoDSmN/v6H0ojGIb16IjoYDBhbh39OHDBc1yTEbhJoEWj50Lxq+9SzCBiuY3rdoMsoYh0jpSE3NFnT64aBLbsBjuaB7oLugOaA5toaGNg0sBmcBwxGCkYK/2h2aWLkxcQoOz48lxh6NnI9nbixfHuYm0xkpm6tjN/8lM244AfnHUaVVVVS+McPHwxdY1Nj6ZlUenpy/k7y5UxqaTr59t7dxeTom6mx/XzOscifdodpSOqPUnm3UHg9e7/IcR9z2Z1cdo9f3eP57ZXM/vpagX3+boEtfXivirWL4IJRjmW5eqyL9cUnT3eLW/gISYcCKgvoUJAqRzpSeI7Lv+KMmqqietAOGCypGGEsKsvs/NZGUfharXw+qH4pC6WK8K2Kvoub6xtr+VXXIgT8OKQMmARMYmpO7Sc2NMc68WyDgOmD6bt204PWqXcGFjn79bvT7vb7/Uu+6TKpFzX9KQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/08.png",
+    "width": 1920
+  }
+}

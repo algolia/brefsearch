@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "name": "Je suis en couple.",
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg"
+  },
+  "line": {
+    "content": "Marty. Marty.",
+    "end": 96,
+    "index": 41,
+    "start": 94,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=94s"
+  },
+  "thumbnail": {
+    "hash": "a70b1a5c26",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nAXBCW+aYAAAULSCgC3WDUQuP/m4lEsQBbk86MSjNXFZa7e0TdzZpVmWLNmyZL9+7yH5AIyhOASCKfGBIq88V6WokH6d6ZpEXGiXLVvgj8vpbeo/5MOZDpC1BwtXjfswUGFuqI/zvPD9m2m0HvkSSs5l8OUqez68+bbJXrbTlQmRY7ksfGcfjU+BteXoGZQ/WfAQTxLLhufUsMOu7f7X7eJUpj92ydpSkHwcJrZ5n0RPgbuhLw8C/U99ldFUDSVHmhxbpiPL5cQKB4ohCr4kIC2y0SQaeJ0UUWzBcTtXe9RBLPL4GWb1QO5ZuyT8mAY/V5MREOoogVSrGI5fcAxrt5plh0k4poTy+2l461qpoY5kKTeNXFf9Lm922kiljlSqGFrDrwbGjW2s1F7UVXyWswXh+fr6c548RR5gGIdnFbZdqZEYSiAUSTYJIlW7xQAGQAR8b6wovQ63d+DvbVDowBWFtxZ852gUcd7AG8jDwrvL3L/3xfd97svgDrQ/ZP3YkWeacCrcP8flr8P8ZRNHgDur1lEU/w9plUof4OgHuAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/52_brefJeSuisEnCouple/41.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "name": "Mon père veut être jeune.",
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM"
+  },
+  "line": {
+    "content": "Je vais prendre le foie gras.",
+    "end": 49,
+    "index": 24,
+    "start": 48,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=48s"
+  },
+  "thumbnail": {
+    "hash": "9926bd7a7c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nC3Qy26iUAAA0JtpV1VhBBQIUMpDUSkVBK54Ua/vB1UepdjFzLTJNCFtumm67H5Ws50PnkwyH3A2B2x8Kwr6++HNDlo7aKXjgd9RdYHNsP8jmj8dV8/pdnzdFimiI3JBrwMyDI/h4ICcaGQnobOD1652Gbav/Jb8M16W+f61iDaeJVGkxtLDrgFOS5RhmEy8A3Jy7M1s43Hm//p+HKpijOwyW5d36wNylEZdZSnzUgCnVZjPg3QKD8jJJu7tqP8ez34/JuUC5lP35X77dtqflqMrpq40KUsW/4MMw2hk303cKLDCrvqnLO6htfPN13z9nCyebnFfEXSW9gwdxGM3HrsZHkaB7Xc0uclwRPWz2CBdanGNdOp/26KHBXRUUeeaXUkAUfDv5zD27JZSJ0ieZgyB+zjOEs8kKlWeoY+on00cQ2RlhpIZGsgsbSlSsUDFCpuaSpFkSxQ+4sVDOGBpunJRWbq9HHuop0t1UuObAICzsy/nMs++nbKXIq1dVCjy6941B7pcq1TbIj+3jbndxjctjWs0idpfKMVXwvUrwFMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/24.png",
+    "width": 1920
+  }
+}

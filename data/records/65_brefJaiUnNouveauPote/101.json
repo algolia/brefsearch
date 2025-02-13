@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "name": "J'ai un nouveau pote.",
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A"
+  },
+  "line": {
+    "content": "Ouais, désolé.",
+    "end": 104,
+    "index": 45,
+    "start": 101,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=101s"
+  },
+  "thumbnail": {
+    "hash": "651530ff11",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnklEQVR4nBXLW2+aYBgA4BcUrEdQBIShHKSfKNACKs5ptVSo2zzUqUzaXjSZTZtmqUuWbL9/2XP/QGiqS9fY+HY88h6DIeIEErI45CmSrmRoEitIBVotUTZf1UrFHH4GS68df3Iepv5TePW6ipBQZzLFxEHHgbVuNdhsyRQkk6shpqrT5SJRgO3g4vF6cJxPX1fz992dpyGb41dtbWHo04bUE4WRol1pTU8U6/kCTZYgHnlP4fhlGf3crn4dvj9PP94heaHLu46+MbS40+zyIp+rCPkKlc4RQMLD9eD45eZtszgd4t+H+O/nUdg2N0Yz7uiJdf52M44cz9XOHbXZVdWuqkB0aS79/nY82gezH2Fwmg0nhuVwtbnciDT5eTa5D2Yvi6/vu/Vpv/qTrKHF12xJdhTd1drJsL+/QAyQUpayq+wly9oMXcUIhcy7XG1umUkw+R8sqd7T9H4T3XcNT+AwIMR0zucqLkO5DMVhJA3pMkADx2/bCJQyg3jBlBoWX1sisVVhzoBgINVj6W+tDz5XLgPOQorBUiUANUP8A6PoSGlukKKFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/45.png",
+    "width": 1280
+  }
+}

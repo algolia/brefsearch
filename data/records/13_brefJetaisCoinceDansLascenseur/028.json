@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "name": "J'étais coincé dans l'ascenseur.",
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI"
+  },
+  "line": {
+    "content": "Je me suis dit qu'il pouvait pas m'arriver pire.",
+    "end": 29,
+    "index": 14,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=28s"
+  },
+  "thumbnail": {
+    "hash": "8fc87aecea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgUlEQVR4nB3MTY7TMBiAYUvEf/HnL47tOInTNk3TNp0pzTAF1AHxU1QJIbEbDUhsEeIKHGC2rNmwgTNwBw7AFbgIGt71o5e03kAqSmvW03o/9I/OV30Mpxevbq4/vHl29frw4Go8W89i9HntcoeKaCUQJCo5Lf3l0A2z2Gj27ubTt19/v/78/fJwGLvYT+rSZhZBSU6CTrWSoKQzel77RQxN4Zy1j5+/vf3x5/OX74tYxMIaBNRQIJAK5dzrOtcWFUI6DS4UATSAVk+P1+8/3p6PB4tyGvI25KXRRDCeKekx9ahmPp84QylljFHGFSXH/cPlaldgWltts7sjaS20TnstG5ctS38n/8cZu5fQtjATqw3IyqgiUyYVJKEJZ1RwhiBUKhijnHMheI5gEboq7OaNM4CQcs6ShJIkSTjnGiA3qLWSUiglhRDOYGnN6WJzHM+qIgTnNCjOOQEF3rlJbPq26+f9arEe+mGz2myH7bi5f9pfPtldbJfbxayLVe1y+w8G/y2ub5hOogAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/14.png",
+    "width": 1920
+  }
+}

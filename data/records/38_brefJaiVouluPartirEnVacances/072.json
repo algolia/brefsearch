@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "name": "J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc"
+  },
+  "line": {
+    "content": "à défaire alors que je suis pas parti. Bref, j'ai voulu partir en.",
+    "end": 74,
+    "index": 31,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=72s"
+  },
+  "thumbnail": {
+    "hash": "6399f0feb2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXBTW+TYAAAYH6AXvSq2U/woH/Bu1518aLJPCxRD9NEE7LErTaLc846p6kVbeuKZawCowUp5X3L9+cL5aPA6JYdjP6MPQ+2dPXS0pXLN65fu33r5oM7d189eUbsNwVWdEyEvEQHNv21vY3X1l/Unq6sPby3gj26v9x4u8vRQ2MaxKiqyn9n1f/T6u+iPJ+ni3m6cK1o+Fto7RF1fPv56kus16ZNPfHsfBacpdF56J14VqZDV+BlRVKp3oDsHnZaPzmK+/G5Xce3sG+fOqqCHDOHvMT1uT7J07+GZGcwODwGsi4JAMq6AR1NsSRO6hEH2JcPLaiEhpYoo6nAKOJQ10CA3DLyiyjIkqiIUe47saUFquKMGBnb2Xw/Fp2J7EEYmUbqWfPQLWN0GqNFjE5iVEV+6VmZpcVg7DG0jNXxLfZIGfGaPPHBdGYac8cuHDd33cJ3Ct/OHSMz1UQDoXCskV0G21h/RzQpipRZ1hoJaDxJoVaoZmZYmW0ktp6Y6mw6CUReo3r8fqOFrT5ee/O68XH3gCB4sg8Z1hbESAYzBYYQICC7f4Y6Q4+734/2dpobeO0CImQvTE8Rze4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/31.png",
+    "width": 1920
+  }
+}

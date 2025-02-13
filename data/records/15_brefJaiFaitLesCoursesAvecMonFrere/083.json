@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "name": "J'ai fait les courses avec mon frère.",
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog"
+  },
+  "line": {
+    "content": "Bref, je suis allé faire les courses avec mon frère.",
+    "end": 89,
+    "index": 41,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=83s"
+  },
+  "thumbnail": {
+    "hash": "e7a3903a42",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ALmhpbO12aupz7280sbG3ZmTqkErJTkmICgdGjkvK4l/f5KIjY6Gi5KJj5aOkpKIigBxYmZvbIba3+Xj6Ozy9v99dIFxQy6gcmNqUEogGhhORz06MitFPzQ1LiVMSEFJQjwAamRpUkhkkYeS4OXpy87dY1lmY0AzgFxQellOSTg1ZFtKKSIUTEUrRzwfVFVBdG5sAFFKVHhtf5WNl8O/zX11j3xvenVOQZ9zZZVuXXhhXpiQkYqDh5CKiImJg4aFfo2GiABjXmWKiKPBwdKWkbaAcXqcmp1HMC1vTENkS0JDNCxhWlBRTUJXT02EcW2HfX9vZVwAcWFihnyRsKe1ZEpVSj9CUk1ROSkpQC0ob1ZPPzIvRUE6VVE5V0Qrf0gfUzQklIqLAIdzdKqft6earCsRFRMNEAoFCSwZFl9BOo1oXiEYHxcSHSIdJUI1MY1pSZhyUXt0bACKgH2+t8tmYWwHBAkVDhQOCQ5JLiyEV0xxU1MVERobFR4eFyMRCxliV2OsnpteWjsAc2lsnJScEQwQDQcMEAkODQgOTzU0elVSTEJREg0UGBIaGRIfFhEdHBMYWU9PioJ0bRWiBKRMlnUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/41.png",
+    "width": 1920
+  }
+}
