@@ -22,10 +22,10 @@ await pMap(
     progress.tick(episode.episode.name);
 
     await pMap(episode.lines, async (line, lineIndex) => {
-      const paddedIndex = _.padStart(lineIndex, 2, '0');
+      const paddedIndex = _.padStart(line.start, 3, '0');
       const thumbnailBasename = `${basename}/${paddedIndex}.png`;
       const thumbnailPath = absolute(
-        `<gitRoot>/data/thumbnails/${thumbnailBasename}`,
+        `<gitRoot>/../brefsearch-images/images/${thumbnailBasename}`,
       );
 
       const start = line.start;
