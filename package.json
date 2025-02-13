@@ -15,7 +15,9 @@
   },
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
-    "aberlaas": "2.13.0"
+    "aberlaas": "2.13.0",
+    "eslint-plugin-react": "7.37.4",
+    "globals": "15.15.0"
   },
   "scripts": {
     "update-episode-lines": "node ./modules/lib/scripts/update-episode-lines.js",
