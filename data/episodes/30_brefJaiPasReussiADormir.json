@@ -10,12 +10,12 @@
   },
   "lines": [
     {
-      "content": "Bref, toute la journée, j'ai dit à tout le monde: Ce soir, je me couche tôt.",
+      "content": "Bref, toute la journée, j'ai dit à tout\nle monde: Ce soir, je me couche tôt.",
       "end": 4,
       "start": 2
     },
     {
-      "content": "Ce soir, je me couche tôt. Ce soir, je me couche tôt.",
+      "content": "Ce soir, je me couche tôt.\nCe soir, je me couche tôt.",
       "end": 6,
       "start": 4
     },
@@ -30,12 +30,12 @@
       "start": 9
     },
     {
-      "content": "J'ai passé la soirée sur Facebook à regarder des trucs qui servaient à rien.",
+      "content": "J'ai passé la soirée sur Facebook à\nregarder des trucs qui servaient à rien.",
       "end": 13,
       "start": 10
     },
     {
-      "content": "J'ai maté un documentaire sur la reproduction humaine\net je me suis couché. Non.",
+      "content": "J'ai maté un documentaire\nsur la reproduction humaine\net je me suis couché.\nNon.",
       "end": 16,
       "start": 13
     },
@@ -45,7 +45,7 @@
       "start": 17
     },
     {
-      "content": "J'ai mis huit épisodes de 52 minutes à me rendre compte que je l'aimais\npas trop et je me suis couché.",
+      "content": "J'ai mis huit épisodes de 52 minutes\nà me rendre compte que je l'aimais\npas trop et je me suis couché.",
       "end": 23,
       "start": 17
     },
@@ -55,17 +55,17 @@
       "start": 24
     },
     {
-      "content": "J'ai pensé à ma mère qui m'a dit qu'il fallait\nque je me mette les pieds en l'air. Ça marchait pas.",
+      "content": "J'ai pensé à ma mère\nqui m'a dit qu'il fallait\nque je me mette les pieds en l'air.\nÇa marchait pas.",
       "end": 27,
       "start": 24
     },
     {
-      "content": "J'ai essayé d'autres positions, ça marchait pas.",
+      "content": "J'ai essayé d'autres positions,\nça marchait pas.",
       "end": 28,
       "start": 27
     },
     {
-      "content": "J'ai mis un pied dehors, un pied dedans pour avoir à la fois chaud et pas chaud.",
+      "content": "J'ai mis un pied dehors, un pied dedans\npour avoir à la fois chaud et pas chaud.",
       "end": 32,
       "start": 28
     },
@@ -75,22 +75,22 @@
       "start": 32
     },
     {
-      "content": "J'ai cherché des conseils pour dormir sur Internet.",
+      "content": "J'ai cherché des conseils\npour dormir sur Internet.",
       "end": 35,
       "start": 33
     },
     {
-      "content": "Ils conseillaient de ne pas aller sur Internet.",
+      "content": "Ils conseillaient de ne\npas aller sur Internet.",
       "end": 36,
       "start": 35
     },
     {
-      "content": "Je me suis recouché, je me suis pas endormi, je me suis fait chier.",
+      "content": "Je me suis recouché, je me suis pas\nendormi, je me suis fait chier.",
       "end": 37,
       "start": 36
     },
     {
-      "content": "J'ai appelé des gens, ils répondaient pas, sauf un, mais ils m'ont engueulé.",
+      "content": "J'ai appelé des gens, ils répondaient\npas, sauf un, mais ils m'ont engueulé.",
       "end": 39,
       "start": 37
     },
@@ -100,12 +100,12 @@
       "start": 39
     },
     {
-      "content": "Le zèbre cour de toutes ses forces, c'est là le prix de sa liberté.",
+      "content": "Le zèbre cour de toutes ses forces,\nc'est là le prix de sa liberté.",
       "end": 46,
       "start": 40
     },
     {
-      "content": "J'ai lu un livre, j'ai lu sept fois la même ligne en boucle, j'ai abandonné.",
+      "content": "J'ai lu un livre, j'ai lu sept fois\nla même ligne en boucle, j'ai abandonné.",
       "end": 48,
       "start": 46
     },
@@ -115,17 +115,17 @@
       "start": 49
     },
     {
-      "content": "J'ai essayé de les compter et de détecter des formes dedans.",
+      "content": "J'ai essayé de les compter\net de détecter des formes dedans.",
       "end": 51,
       "start": 49
     },
     {
-      "content": "J'ai fait un peu de sport, j'ai rien fait, j'ai pensé des trucs cool, je suis allé\nsur Twitter, personne twittait, j'ai twitté, personne m'a répondu.",
+      "content": "J'ai fait un peu de sport, j'ai rien fait,\nj'ai pensé des trucs cool, je suis allé\nsur Twitter, personne twittait,\nj'ai twitté, personne m'a répondu.",
       "end": 56,
       "start": 51
     },
     {
-      "content": "J'ai compté dans ma tête pour savoir si j'étais calé avec le réveil.",
+      "content": "J'ai compté dans ma tête pour savoir\nsi j'étais calé avec le réveil.",
       "end": 60,
       "start": 56
     },
@@ -140,7 +140,7 @@
       "start": 62
     },
     {
-      "content": "À un moment, je me suis endormi, mais je me suis réveillé quatre minutes après.",
+      "content": "À un moment, je me suis endormi, mais\nje me suis réveillé quatre minutes après.",
       "end": 65,
       "start": 63
     },
@@ -150,17 +150,17 @@
       "start": 65
     },
     {
-      "content": "J'ai fait bouger ma lampe de chevet en fermant un œil, puis l'autre, un œil,\npuis l'autre, un œil, puis l'autre.",
+      "content": "J'ai fait bouger ma lampe de chevet\nen fermant un œil, puis l'autre, un œil,\npuis l'autre, un œil, puis l'autre.",
       "end": 70,
       "start": 66
     },
     {
-      "content": "J'ai pensé à tout ce que je ferais si je gagnais au loto.",
+      "content": "J'ai pensé à tout ce que\nje ferais si je gagnais au loto.",
       "end": 71,
       "start": 70
     },
     {
-      "content": "Claquer toute ma thune à Las Vegas, m'éclater avec les filles d'Energies\n3, demander cette fille en mariage, voir de l'eau de la lune.",
+      "content": "Claquer toute ma thune à Las Vegas,\nm'éclater avec les filles d'Energies\n3, demander cette fille en mariage,\nvoir de l'eau de la lune.",
       "end": 74,
       "start": 71
     },
@@ -180,7 +180,7 @@
       "start": 82
     },
     {
-      "content": "Et là, le zèbre, il court. Mais pas...",
+      "content": "Et là, le zèbre, il court.\nMais pas...",
       "end": 89,
       "start": 85
     },

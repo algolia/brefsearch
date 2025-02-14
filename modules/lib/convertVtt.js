@@ -33,7 +33,11 @@ export async function convertVtt(filepath) {
     .slice(1)
     .map((paragraph) => {
       const firstLine = _.chain(paragraph).split('\n').first().value();
-      const content = _.chain(paragraph).split('\n').slice(1).join(' ').value();
+      const content = _.chain(paragraph)
+        .split('\n')
+        .slice(1)
+        .join('\n')
+        .value();
 
       const start = _.chain(firstLine)
         .split(' --> ')
@@ -65,6 +69,7 @@ export async function convertVtt(filepath) {
 
     if (
       _.endsWith(line.content, '.') ||
+      _.endsWith(line.content, ':') ||
       _.endsWith(line.content, '?') ||
       _.endsWith(line.content, '!')
     ) {
@@ -73,6 +78,9 @@ export async function convertVtt(filepath) {
     }
 
     const next = firstPass[index + 1];
+    if (!next) {
+      return;
+    }
     skipNext = true;
 
     const start = line.start;

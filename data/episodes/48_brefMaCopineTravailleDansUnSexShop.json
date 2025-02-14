@@ -10,12 +10,12 @@
   },
   "lines": [
     {
-      "content": "Bref, ce soir-là, j'ai été aller chercher ma copine à son travail.",
+      "content": "Bref, ce soir-là, j'ai été\naller chercher ma copine à son travail.",
       "end": 2,
       "start": 0
     },
     {
-      "content": "Elle était caissière. Dans un sex shop.",
+      "content": "Elle était caissière.\nDans un sex shop.",
       "end": 3,
       "start": 2
     },
@@ -25,37 +25,37 @@
       "start": 3
     },
     {
-      "content": "Elle m'a dit qu'elle arrivait dans dix minutes.",
+      "content": "Elle m'a dit qu'elle\narrivait dans dix minutes.",
       "end": 5,
       "start": 4
     },
     {
-      "content": "Du coup, pendant dix minutes, je me suis justifié auprès de tout le monde.",
+      "content": "Du coup, pendant dix minutes, je\nme suis justifié auprès de tout le monde.",
       "end": 7,
       "start": 5
     },
     {
-      "content": "J'attends ma copine. J'attends ma copine.",
+      "content": "J'attends ma copine.\nJ'attends ma copine.",
       "end": 9,
       "start": 7
     },
     {
-      "content": "J'attends ma copine. Moi, j'ai trouvé la mienne.",
+      "content": "J'attends ma copine.\nMoi, j'ai trouvé la mienne.",
       "end": 11,
       "start": 9
     },
     {
-      "content": "Quand je l'ai rencontrée, elle m'a dit... Du coup, j'ai plein d'échantillons.",
+      "content": "Quand je l'ai rencontrée, elle m'a dit...\nDu coup, j'ai plein d'échantillons.",
       "end": 14,
       "start": 11
     },
     {
-      "content": "Elle m'avait menti. Elle avait énormément d'échantillons.",
+      "content": "Elle m'avait menti.\nElle avait énormément d'échantillons.",
       "end": 16,
       "start": 14
     },
     {
-      "content": "Elle m'a montré des trucs que je connaissais, des trucs\nque je connaissais pas. C'est pour homme.",
+      "content": "Elle m'a montré des trucs\nque je connaissais, des trucs\nque je connaissais pas.\nC'est pour homme.",
       "end": 19,
       "start": 16
     },
@@ -65,7 +65,7 @@
       "start": 19
     },
     {
-      "content": "Son travail me saoulait, mais il y avait des avantages.",
+      "content": "Son travail me saoulait,\nmais il y avait des avantages.",
       "end": 23,
       "start": 21
     },
@@ -85,22 +85,22 @@
       "start": 30
     },
     {
-      "content": "C'était le mec qui était sur toutes les photos Facebook de ma copine.",
+      "content": "C'était le mec qui était sur toutes\nles photos Facebook de ma copine.",
       "end": 34,
       "start": 32
     },
     {
-      "content": "J'ai cru que c'était son ex, je l'ai esquivé.",
+      "content": "J'ai cru que c'était son ex,\nje l'ai esquivé.",
       "end": 35,
       "start": 34
     },
     {
-      "content": "Salut. En fait, c'était son collègue.",
+      "content": "Salut.\nEn fait, c'était son collègue.",
       "end": 37,
       "start": 35
     },
     {
-      "content": "Il voulait absolument me vendre des trucs, mais il me mettait mal à l'aise.",
+      "content": "Il voulait absolument me vendre des trucs,\nmais il me mettait mal à l'aise.",
       "end": 39,
       "start": 37
     },
@@ -110,7 +110,7 @@
       "start": 39
     },
     {
-      "content": "Ce qui compte, c'est qu'il tourne équilibre.",
+      "content": "Ce qui compte,\nc'est qu'il tourne équilibre.",
       "end": 43,
       "start": 40
     },
@@ -120,42 +120,42 @@
       "start": 44
     },
     {
-      "content": "Tu savais que 9 fois sur 10, les mecs recherchent leur mère\ndans les actrices pornos ? On se dit la prochaine fois.",
+      "content": "Tu savais que 9 fois sur 10,\nles mecs recherchent leur mère\ndans les actrices pornos ?\nOn se dit la prochaine fois.",
       "end": 49,
       "start": 45
     },
     {
-      "content": "Trop mal à l'aise. Quand il m'a dit: Tu connais pas ça ?",
+      "content": "Trop mal à l'aise.\nQuand il m'a dit: Tu connais pas ça ?",
       "end": 51,
       "start": 49
     },
     {
-      "content": "En fait, la fille met l'œuf et avec la télécommande,\nle mec peut l'activer à distance. J'ai compris certains trucs.",
+      "content": "En fait, la fille met l'œuf\net avec la télécommande,\nle mec peut l'activer à distance.\nJ'ai compris certains trucs.",
       "end": 55,
       "start": 51
     },
     {
-      "content": "Pourquoi Steve m'avait dit ? Appuie là.",
+      "content": "Pourquoi Steve m'avait dit ?\nAppuie là.",
       "end": 57,
       "start": 55
     },
     {
-      "content": "Ou encore: Pourquoi ma mère m'avait engueulé ?",
+      "content": "Ou encore: Pourquoi ma\nmère m'avait engueulé ?",
       "end": 58,
       "start": 57
     },
     {
-      "content": "Touche pas à ça. Il m'a dit: J'ai dit...",
+      "content": "Touche pas à ça.\nIl m'a dit: J'ai dit...",
       "end": 61,
       "start": 58
     },
     {
-      "content": "T'en veux un ? J'ai dit: J'attends ma copine.",
+      "content": "T'en veux un ?\nJ'ai dit: J'attends ma copine.",
       "end": 63,
       "start": 61
     },
     {
-      "content": "Il a dit: C'était pour toi le Bamboo 3000 ?",
+      "content": "Il a dit: C'était\npour toi le Bamboo 3000 ?",
       "end": 65,
       "start": 63
     },
@@ -165,12 +165,12 @@
       "start": 65
     },
     {
-      "content": "Je me suis dit: Si je lui dis oui, il va croire que je suis impuissant.",
+      "content": "Je me suis dit: Si je lui dis oui,\nil va croire que je suis impuissant.",
       "end": 71,
       "start": 69
     },
     {
-      "content": "Si je lui dis non, il va croire que ma copine me trompe avec un impuissant.",
+      "content": "Si je lui dis non, il va croire que\nma copine me trompe avec un impuissant.",
       "end": 73,
       "start": 71
     },
@@ -190,7 +190,7 @@
       "start": 79
     },
     {
-      "content": "Bref, ma copine travaille dans un sex shop.",
+      "content": "Bref, ma copine travaille\ndans un sex shop.",
       "end": 85,
       "start": 81
     },

@@ -15,32 +15,32 @@
       "start": 1
     },
     {
-      "content": "Un mec jouait de la guitare dans une chambre.",
+      "content": "Un mec jouait de la guitare\ndans une chambre.",
       "end": 5,
       "start": 3
     },
     {
-      "content": "Tu joues trop bien.",
+      "content": "— Wow, tu joues trop bien.",
       "end": 6,
       "start": 5
     },
     {
-      "content": "Je me suis dit qu'à moi aussi, je voulais qu'on dise.",
+      "content": "Je me suis dit qu'à moi aussi,\nje voulais qu'on dise:",
       "end": 8,
       "start": 6
     },
     {
-      "content": "Tu joues trop bien. J'ai emprunté une guitare à Ben.",
+      "content": "— Wow, tu joues trop bien.\nJ'ai emprunté une guitare à Ben.",
       "end": 11,
       "start": 8
     },
     {
-      "content": "Il m'a dit qu'il manquait une corde, mais qu'elle servait à rien.",
+      "content": "Il m'a dit qu'il manquait une corde,\nmais qu'elle servait à rien.",
       "end": 12,
       "start": 11
     },
     {
-      "content": "Il manque une corde, mais elle sert à rien.",
+      "content": "— Bha, il manque une corde,\nmais elle sert à rien.",
       "end": 14,
       "start": 12
     },
@@ -50,7 +50,7 @@
       "start": 14
     },
     {
-      "content": "J'ai commencé à apprendre en regardant des vidéos sur Internet,\nmais j'allais souvent sur des vidéos qui avaient aucun rapport.",
+      "content": "J'ai commencé à apprendre\nen regardant des vidéos sur Internet,\nmais j'allais souvent sur des vidéos\nqui avaient aucun rapport.",
       "end": 19,
       "start": 15
     },
@@ -75,52 +75,52 @@
       "start": 23
     },
     {
-      "content": "En y réfléchissant, j'ai repensé à toutes les fois où Ben m'a dit\nqu'un truc servait à rien.",
+      "content": "En y réfléchissant, j'ai repensé\nà toutes les fois où Ben m'a dit\nqu'un truc servait à rien.",
       "end": 29,
       "start": 25
     },
     {
-      "content": "Avise un aux États-Unis.",
+      "content": "— Un Visa pour les États-Unis?",
       "end": 30,
       "start": 29
     },
     {
-      "content": "Ça sert à rien. Tiens, pour mon vélo.",
+      "content": "— Ça sert à rien.\n— Tiens, prends mon vélo.",
       "end": 33,
       "start": 30
     },
     {
-      "content": "Il n'y a plus de frein, mais ça sert à rien.",
+      "content": "— Bon, y a plus de freins,\nmais ça sert à rien.",
       "end": 34,
       "start": 33
     },
     {
-      "content": "Un bouton sur la paupière.",
+      "content": "— Un bouton sur la paupière?",
       "end": 36,
       "start": 34
     },
     {
-      "content": "On va pas avoir un médecin pour ça.",
+      "content": "— Va pas voir un médecin pour ça.",
       "end": 37,
       "start": 36
     },
     {
-      "content": "Ça sert à rien.",
+      "content": "— Ça sert à rien.",
       "end": 38,
       "start": 37
     },
     {
-      "content": "Après être allé me faire enlever mon kyste à l'œil, je me suis dit\nque j'allais racheter une corde.",
+      "content": "Après être allé me faire enlever\nmon kyste à l'œil, je me suis dit\nque j'allais racheter une corde.",
       "end": 42,
       "start": 38
     },
     {
-      "content": "C'était mieux, mais j'ai dû tout réapprendre.",
+      "content": "C'était mieux, mais j'ai\ndû tout réapprendre.",
       "end": 43,
       "start": 42
     },
     {
-      "content": "Un jour, je suis allé sur des forums, j'ai appris qu'on pouvait serrer\ndes meufs avec seulement quatre accords: le do, le sol, le la et enfin le mi.",
+      "content": "Un jour, je suis allé sur des forums,\nj'ai appris qu'on pouvait serrer\ndes meufs avec seulement quatre accords:\nle Do, le Sol, le La et enfin le Mi.",
       "end": 49,
       "start": 43
     },
@@ -130,22 +130,22 @@
       "start": 49
     },
     {
-      "content": "J'ai essayé de chanter en même temps, c'était super dur.",
+      "content": "J'ai essayé de chanter\nen même temps, c'était super dur.",
       "end": 55,
       "start": 52
     },
     {
-      "content": "J'avais l'impression d'essayer de me branler avec des gants de box\nen récitant l'alphabet à l'envers.",
+      "content": "J'avais l'impression d'essayer\nde me branler avec des gants de boxe\nen récitant l'alphabet à l'envers.",
       "end": 59,
       "start": 55
     },
     {
-      "content": "X, Y, W. Putain, j'arrive pas.",
+      "content": "— X, Y, W. Putain, j'y arrive pas !",
       "end": 62,
       "start": 59
     },
     {
-      "content": "Putain, j'arrive pas.",
+      "content": "— Putain, j'y arrive pas.",
       "end": 64,
       "start": 62
     },
@@ -155,12 +155,12 @@
       "start": 64
     },
     {
-      "content": "Et puis, mon cœur est\nsi gris quand il pleut.",
+      "content": "Et puis...\n— Mon cœur est\nsi gris quand il pleut.",
       "end": 85,
-      "start": 69
+      "start": 78
     },
     {
-      "content": "Tu joues trop bien.",
+      "content": "— Wow, tu joues trop bien.",
       "end": 89,
       "start": 86
     },
@@ -170,7 +170,7 @@
       "start": 89
     },
     {
-      "content": "Tout ça à cause d'un putain de qui se ta l'œil.",
+      "content": "— Tout ça à cause d'un\nputain de kyste à l'œil.",
       "end": 98,
       "start": 92
     },

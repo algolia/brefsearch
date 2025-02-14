@@ -10,12 +10,12 @@
   },
   "lines": [
     {
-      "content": "Bref, j'avais réussi à obtenir un dîner avec cette fille.",
+      "content": "Bref, j'avais réussi à obtenir\nun dîner avec cette fille.",
       "end": 3,
       "start": 1
     },
     {
-      "content": "Elle s'est assise, je me suis assis et là, on a commencé une partie du jeu\nle plus compliqué du monde.",
+      "content": "Elle s'est assise, je me suis assis\net là, on a commencé une partie du jeu\nle plus compliqué du monde.",
       "end": 10,
       "start": 3
     },
@@ -25,7 +25,7 @@
       "start": 10
     },
     {
-      "content": "Elle a sorti ses cartes. Je raconte ma vie.",
+      "content": "Elle a sorti ses cartes.\nJe raconte ma vie.",
       "end": 13,
       "start": 11
     },
@@ -35,27 +35,27 @@
       "start": 13
     },
     {
-      "content": "Elle a dit: J'ai une petite nièce, elle s'appelle Chloé.",
+      "content": "Elle a dit: J'ai une petite\nnièce, elle s'appelle Chloé.",
       "end": 16,
       "start": 13
     },
     {
-      "content": "Elle est trop choute. Elle adore la musique.",
+      "content": "Elle est trop choute.\nElle adore la musique.",
       "end": 19,
       "start": 16
     },
     {
-      "content": "Chloé, nièce trop choute. Musique, OK.",
+      "content": "Chloé, nièce trop choute.\nMusique, OK.",
       "end": 21,
       "start": 19
     },
     {
-      "content": "Par contre, ma tante, depuis qu'elle est avec Thierry, elle va pas bien.",
+      "content": "Par contre, ma tante, depuis qu'elle est\navec Thierry, elle va pas bien.",
       "end": 24,
       "start": 21
     },
     {
-      "content": "Tante mariage relou avec Thierry, OK. J'ai essayé de tout bien retenir.",
+      "content": "Tante mariage relou avec Thierry, OK.\nJ'ai essayé de tout bien retenir.",
       "end": 26,
       "start": 24
     },
@@ -65,7 +65,7 @@
       "start": 26
     },
     {
-      "content": "J'ai posé deux cartes. Argument.",
+      "content": "J'ai posé deux cartes.\nArgument.",
       "end": 29,
       "start": 28
     },
@@ -80,12 +80,17 @@
       "start": 30
     },
     {
-      "content": "Un moment, le serveur est arrivé et il a posé une carte:\nJe sais faire des cocktails.",
-      "end": 38,
+      "content": "Un moment, le serveur est arrivé\net il a posé une carte:",
+      "end": 37,
       "start": 32
     },
     {
-      "content": "J'ai sorti ma carte: Mec, t'es qu'un serveur, en disant: On pourrait\navoir du pain, s'il vous plaît ?",
+      "content": "Je sais faire des cocktails.",
+      "end": 38,
+      "start": 37
+    },
+    {
+      "content": "J'ai sorti ma carte: Mec, t'es\nqu'un serveur, en disant: On pourrait\navoir du pain, s'il vous plaît ?",
       "end": 42,
       "start": 38
     },
@@ -95,32 +100,32 @@
       "start": 45
     },
     {
-      "content": "Retournez à la case cuisine et ne touchez pas de pourboire.",
+      "content": "Retournez à la case cuisine\net ne touchez pas de pourboire.",
       "end": 47,
       "start": 47
     },
     {
-      "content": "Il est parti. Qu'est-ce que tu aimes comme musique ?",
+      "content": "Il est parti.\nQu'est-ce que tu aimes comme musique ?",
       "end": 49,
       "start": 47
     },
     {
-      "content": "J'ai lancé les dés. Carbone cable-argue ?",
+      "content": "J'ai lancé les dés.\nCarbone cable-argue ?",
       "end": 51,
       "start": 49
     },
     {
-      "content": "J'adore. C'est vrai ?",
+      "content": "J'adore.\nC'est vrai ?",
       "end": 53,
       "start": 51
     },
     {
-      "content": "Ouais. Et j'ai rajouté: J'adore la musique.",
+      "content": "Ouais.\nEt j'ai rajouté: J'adore la musique.",
       "end": 55,
       "start": 53
     },
     {
-      "content": "Pas comme ta petite Yes, Chloé. J'étais trop fort.",
+      "content": "Pas comme ta petite Yes, Chloé.\nJ'étais trop fort.",
       "end": 57,
       "start": 55
     },
@@ -130,7 +135,7 @@
       "start": 57
     },
     {
-      "content": "Quand je suis revenu, elle avait repris un verre, moins sept points de sobriété.",
+      "content": "Quand je suis revenu, elle avait repris\nun verre, moins sept points de sobriété.",
       "end": 60,
       "start": 58
     },
@@ -150,7 +155,7 @@
       "start": 63
     },
     {
-      "content": "Je n'avais plus qu'à jouer le dernier verre chez moi.",
+      "content": "Je n'avais plus qu'à jouer\nle dernier verre chez moi.",
       "end": 65,
       "start": 64
     },
@@ -170,7 +175,7 @@
       "start": 68
     },
     {
-      "content": "En y réfléchissant, j'ai compris qu'il jouait depuis le début.",
+      "content": "En y réfléchissant, j'ai compris\nqu'il jouait depuis le début.",
       "end": 74,
       "start": 69
     },
@@ -180,7 +185,7 @@
       "start": 74
     },
     {
-      "content": "Regarde en coin, le verre, c'était lui pendant que j'étais aux toilettes.",
+      "content": "Regarde en coin, le verre, c'était\nlui pendant que j'étais aux toilettes.",
       "end": 78,
       "start": 76
     },
@@ -190,17 +195,17 @@
       "start": 78
     },
     {
-      "content": "Je connais Carbon Kevlar, il mixe dans une heure.",
+      "content": "Je connais Carbon Kevlar,\nil mixe dans une heure.",
       "end": 82,
       "start": 79
     },
     {
-      "content": "Salut. Il avait gagné, j'avais perdu.",
+      "content": "Salut.\nIl avait gagné, j'avais perdu.",
       "end": 84,
       "start": 82
     },
     {
-      "content": "Salut. Ils sont partis ensemble.",
+      "content": "Salut.\nIls sont partis ensemble.",
       "end": 87,
       "start": 84
     },

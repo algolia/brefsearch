@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "Je suis aberré. T'es mort de chien.",
+      "content": "Je suis aberré.\nT'es mort de chien.",
       "end": 2,
       "start": 0
     },
@@ -20,17 +20,17 @@
       "start": 2
     },
     {
-      "content": "Bref, j'ai recroisé Emilie, la fille dont j'étais amoureux quand j'avais 15 ans.",
+      "content": "Bref, j'ai recroisé Emilie, la fille dont\nj'étais amoureux quand j'avais 15 ans.",
       "end": 6,
       "start": 3
     },
     {
-      "content": "Je lui ai dit: Elle m'a pas reconnu. J'ai dit: C'est moi ?",
+      "content": "Je lui ai dit: Elle m'a pas reconnu.\nJ'ai dit: C'est moi ?",
       "end": 8,
       "start": 6
     },
     {
-      "content": "Elle m'a pas reconnu. Je lui ai donné mon nom.",
+      "content": "Elle m'a pas reconnu.\nJe lui ai donné mon nom.",
       "end": 10,
       "start": 8
     },
@@ -55,12 +55,12 @@
       "start": 14
     },
     {
-      "content": "Puis elle a dit: Ajoute-moi sur Facebook. Ce que j'ai fait.",
+      "content": "Puis elle a dit: Ajoute-moi sur Facebook.\nCe que j'ai fait.",
       "end": 17,
       "start": 15
     },
     {
-      "content": "Avant d'appuyer sur le bouton Ajouter, j'ai repensé à ce qu'elle m'avait dit\nquand j'avais 15 ans.",
+      "content": "Avant d'appuyer sur le bouton Ajouter,\nj'ai repensé à ce qu'elle m'avait dit\nquand j'avais 15 ans.",
       "end": 21,
       "start": 17
     },
@@ -75,7 +75,7 @@
       "start": 24
     },
     {
-      "content": "Jamais, jamais, jamais, jamais, jamais,Jamais, jamais,\njamais, jamais, jamais, jamais. J'ai appuyé cinq fois sur Ajouter.",
+      "content": "Jamais, jamais, jamais,\njamais, jamais,Jamais, jamais,\njamais, jamais, jamais, jamais.\nJ'ai appuyé cinq fois sur Ajouter.",
       "end": 37,
       "start": 26
     },
@@ -100,7 +100,7 @@
       "start": 42
     },
     {
-      "content": "Elle a vu une photo de moi avec Carbon Kevlar.",
+      "content": "Elle a vu une photo\nde moi avec Carbon Kevlar.",
       "end": 44,
       "start": 43
     },
@@ -110,12 +110,12 @@
       "start": 44
     },
     {
-      "content": "Non. J'ai dit: Carrément, on est potes.",
+      "content": "Non.\nJ'ai dit: Carrément, on est potes.",
       "end": 48,
       "start": 46
     },
     {
-      "content": "On s'est revu, on a pris un verre, on a comparé nos vies.",
+      "content": "On s'est revu, on a pris\nun verre, on a comparé nos vies.",
       "end": 50,
       "start": 48
     },
@@ -125,27 +125,27 @@
       "start": 50
     },
     {
-      "content": "Elle a dit: Là, je travaille dans un magasin de fringues.",
+      "content": "Elle a dit: Là, je travaille\ndans un magasin de fringues.",
       "end": 55,
       "start": 52
     },
     {
-      "content": "Ce n'est pas top ? J'ai dit: Moi, j'adore mon taf.",
+      "content": "Ce n'est pas top ?\nJ'ai dit: Moi, j'adore mon taf.",
       "end": 59,
       "start": 55
     },
     {
-      "content": "C'était C'est pas vrai, mais 1 à 0 pour moi.",
+      "content": "C'était C'est pas vrai,\nmais 1 à 0 pour moi.",
       "end": 61,
       "start": 59
     },
     {
-      "content": "Je viens de me faire larguer. Merde.",
+      "content": "Je viens de me faire larguer.\nMerde.",
       "end": 64,
       "start": 61
     },
     {
-      "content": "Moi, c'est cool. Je vois des filles, je papillonne.",
+      "content": "Moi, c'est cool.\nJe vois des filles, je papillonne.",
       "end": 66,
       "start": 64
     },
@@ -155,12 +155,12 @@
       "start": 66
     },
     {
-      "content": "Je fais de la guitare, tête plongeante, 3-0.",
+      "content": "Je fais de la guitare,\ntête plongeante, 3-0.",
       "end": 70,
       "start": 67
     },
     {
-      "content": "C'est exactement ce que le caravan qui est là.",
+      "content": "C'est exactement ce\nque le caravan qui est là.",
       "end": 71,
       "start": 70
     },
@@ -175,17 +175,17 @@
       "start": 72
     },
     {
-      "content": "On est allé chez moi. Bienvenue chez moi.",
+      "content": "On est allé chez moi.\nBienvenue chez moi.",
       "end": 77,
       "start": 74
     },
     {
-      "content": "Sur son profil, j'avais analysé des trucs qu'elle aimait bien, alors j'ai disposé\ndes objets l'air de rien sur mon lit.",
+      "content": "Sur son profil, j'avais analysé des trucs\nqu'elle aimait bien, alors j'ai disposé\ndes objets l'air de rien sur mon lit.",
       "end": 81,
       "start": 77
     },
     {
-      "content": "Toi aussi, tu aimes bien ? Quoi ?",
+      "content": "Toi aussi, tu aimes bien ?\nQuoi ?",
       "end": 83,
       "start": 81
     },
@@ -205,12 +205,12 @@
       "start": 89
     },
     {
-      "content": "Pendant qu'on faisait l'amour, j'ai dit: jamais, jamais, jamais, jamais.",
+      "content": "Pendant qu'on faisait l'amour,\nj'ai dit: jamais, jamais, jamais, jamais.",
       "end": 95,
       "start": 90
     },
     {
-      "content": "De quoi ? Non, rien, j'aime, j'aime, j'aime.",
+      "content": "De quoi ?\nNon, rien, j'aime, j'aime, j'aime.",
       "end": 98,
       "start": 95
     },
@@ -220,12 +220,12 @@
       "start": 98
     },
     {
-      "content": "Je l'ai raccompagnée à ma porte, elle m'a dit: On se revoit ?",
+      "content": "Je l'ai raccompagnée à ma porte,\nelle m'a dit: On se revoit ?",
       "end": 102,
       "start": 100
     },
     {
-      "content": "J'ai dit: Absolument. Pas.",
+      "content": "J'ai dit: Absolument.\nPas.",
       "end": 104,
       "start": 102
     },
@@ -235,7 +235,7 @@
       "start": 104
     },
     {
-      "content": "Quand j'ai fermé la porte, je me suis checké moi quand j'avais 15 ans.",
+      "content": "Quand j'ai fermé la porte, je\nme suis checké moi quand j'avais 15 ans.",
       "end": 107,
       "start": 105
     },
@@ -245,7 +245,7 @@
       "start": 107
     },
     {
-      "content": "Jamais, jamais, jamais, jamais, jamais. C'est stylé Facebook.",
+      "content": "Jamais, jamais, jamais, jamais, jamais.\nC'est stylé Facebook.",
       "end": 111,
       "start": 108
     },

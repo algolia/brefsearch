@@ -15,7 +15,7 @@
       "start": 0
     },
     {
-      "content": "Bref, j'avais rendez-vous au café avec Ben.",
+      "content": "Bref, j'avais rendez-vous\nau café avec Ben.",
       "end": 2,
       "start": 0
     },
@@ -25,57 +25,62 @@
       "start": 2
     },
     {
-      "content": "J'avais une bonne nouvelle, j'allais lui dire.",
+      "content": "J'avais une bonne nouvelle,\nj'allais lui dire.",
       "end": 4,
       "start": 2
     },
     {
-      "content": "Je suis amoureux.",
+      "content": "— Je suis amoureux.",
       "end": 4,
       "start": 4
     },
     {
-      "content": "Mais c'est lui qui a dit: Je l'avais déjà vu sept fois\nà la même place pour les mêmes conneries.",
-      "end": 8,
+      "content": "Mais c'est lui qui a dit:\n— Cathy m'a larguée !",
+      "end": 7,
       "start": 4
     },
     {
-      "content": "C'est fini.",
+      "content": "Je l'avais déjà vu sept fois\nà la même place pour les mêmes conneries.",
+      "end": 8,
+      "start": 7
+    },
+    {
+      "content": "— C'est fini.\n— C'est fini.\n— C'est fini.",
       "end": 9,
       "start": 8
     },
     {
-      "content": "Du coup, je m'en battais les couilles. C'est pas vrai.",
+      "content": "Du coup, je m'en battais les couilles.\n— C'est pas vrai.",
       "end": 13,
-      "start": 9
+      "start": 12
     },
     {
-      "content": "C'est bien parler.",
+      "content": "Il s'est mis à parler.",
       "end": 14,
       "start": 13
     },
     {
-      "content": "J'ai pioché des phrases type: Une de perdue décide de retrouvées.",
+      "content": "J'ai pioché des phrases type:\n— Une de perdue décide de retrouvées.",
       "end": 16,
       "start": 14
     },
     {
-      "content": "T'as raison. C'est un tant pis pour un tant mieux.",
+      "content": "— T'as raison.\n— C'est un tant pis pour un tant mieux.",
       "end": 19,
       "start": 16
     },
     {
-      "content": "T'as raison. Elle est jeune.",
+      "content": "— T'as raison.\n— T'es jeune.",
       "end": 20,
       "start": 19
     },
     {
-      "content": "T'es encore toute ta vie. T'as raison.",
+      "content": "— T'as encore toute ta vie.\n— T'as raison.",
       "end": 22,
       "start": 20
     },
     {
-      "content": "Pendant tout ce temps, il arrêtait pas de tapoter sur la table.",
+      "content": "Pendant tout ce temps,\nil arrêtait pas de tapoter sur la table.",
       "end": 24,
       "start": 22
     },
@@ -85,22 +90,17 @@
       "start": 24
     },
     {
-      "content": "Je crois vraiment que le garçon faisait exprès de faire 10 000 chocolats chauds\nà deux mètres de mon oreille. Je lui ai dit: Il va revenir, tu crois ?",
+      "content": "Je crois vraiment que le garçon faisait\nexprès de faire 10 000 chocolats chauds\nà deux mètres de mon oreille.\nJe lui ai dit:\n— Elle va revenir\n— Tu crois ? Pourquoi ?",
       "end": 28,
       "start": 24
     },
     {
-      "content": "Pourquoi ?",
-      "end": 29,
+      "content": "\nParce qu'elle est moisie\net qu'elle trouvera personne d'autre.",
+      "end": 31,
       "start": 28
     },
     {
-      "content": "Parce qu'elle est moisie et qu'elle trouvera personne d'autre.",
-      "end": 31,
-      "start": 29
-    },
-    {
-      "content": "Elle tient, toi ? T'es pas à l'aise, oncle.",
+      "content": "— Elle tient à toi.\n— T'as raison !",
       "end": 32,
       "start": 31
     },
@@ -110,27 +110,27 @@
       "start": 32
     },
     {
-      "content": "J'avais envie de sortir une machette et de lui couper la main.",
+      "content": "J'avais envie de sortir une machette\net de lui couper la main.",
       "end": 35,
       "start": 33
     },
     {
-      "content": "Il a dit: C'est terminé.",
+      "content": "Il a dit:\n— C'est terminé.\nTrois fois.",
       "end": 36,
       "start": 35
     },
     {
-      "content": "J'ai eu l'impression d'être dans un film français.",
+      "content": "J'ai eu l'impression d'être\ndans un film français.",
       "end": 39,
       "start": 36
     },
     {
-      "content": "Tu penses à elle, tu sais.",
+      "content": "— Je penses à elle, tu sais.",
       "end": 41,
       "start": 39
     },
     {
-      "content": "Tu penses à toi un peu.",
+      "content": "— Tu penses à toi un peu ?",
       "end": 44,
       "start": 42
     },
@@ -140,97 +140,77 @@
       "start": 47
     },
     {
-      "content": "Lui et Cathy, c'était le couple gênant, le genre de couple qui crée\ndes silences dans les dîners.",
+      "content": "Lui et Cathy, c'était le couple\ngênant, le genre de couple qui crée\ndes silences dans les dîners.",
       "end": 52,
       "start": 49
     },
     {
-      "content": "Ok, tu me remets un, s'il te plaît. Non, mais tu es sérieux ?",
+      "content": "— Ok, tu me remets un, s'il te plaît.\n— Non, mais t'es sérieux ?",
       "end": 54,
       "start": 52
     },
     {
-      "content": "Tu vas reprendre un verre, là ?",
+      "content": "— Tu vas reprendre un verre, là ?",
       "end": 57,
       "start": 54
     },
     {
-      "content": "Pourquoi je me prends le nez ?",
+      "content": "— Moi j'vais prendre les profiterolles s'il vous plait.",
       "end": 59,
       "start": 58
     },
     {
-      "content": "Profite-ra, s'il vous plaît.",
-      "end": 61,
-      "start": 59
-    },
-    {
-      "content": "Tu es sûr que tu veux prendre un dessert ?",
+      "content": "— Tu es sûr que tu veux prendre un dessert ?",
       "end": 63,
       "start": 61
     },
     {
-      "content": "Je vais prendre une tarte aux pommes. Quetsch ?",
+      "content": "— Je vais prendre une tarte aux pommes.\n— Quetsch. Tarte aux quetsch.",
       "end": 66,
       "start": 64
     },
     {
-      "content": "Tarte quetsch.",
-      "end": 67,
-      "start": 66
-    },
-    {
-      "content": "Moi, monsieur, il est trop fatigué pour me faire l'amour.",
+      "content": "— Et ben moi monsieur il est trop fatigué\npour me faire l'amour.",
       "end": 71,
       "start": 67
     },
     {
-      "content": "Ben touillait son café depuis 20 minutes en faisant bien à la cuillère.",
+      "content": "Ben touillait son café depuis 20 minutes\nen faisant bien grincer la cuillère.",
       "end": 75,
-      "start": 72
+      "start": 73
     },
     {
-      "content": "Il avait même pas mis de sucre. Pourquoi ?",
+      "content": "Il avait même pas mis de sucre.\n— Pourquoi ?",
       "end": 77,
       "start": 75
     },
     {
-      "content": "T'es malade. T'es malade, lui, ça touche pas à moi.",
-      "end": 79,
-      "start": 77
-    },
-    {
-      "content": "Je pense qu'elle est à l'autre côté.",
-      "end": 81,
-      "start": 79
-    },
-    {
-      "content": "Je suis amoureux, connard.",
+      "content": "— Je suis amoureux, connard.",
       "end": 89,
       "start": 81
     },
     {
-      "content": "Et toi alors ?",
+      "content": "— Et toi alors ?",
       "end": 91,
       "start": 89
     },
     {
-      "content": "Quoi de neuf ?",
+      "content": "— Quoi de neuf ?",
       "end": 92,
       "start": 91
     },
     {
-      "content": "Figure-toi que je suis amoureux.",
+      "content": "— Figure-toi que...",
       "end": 93,
       "start": 92
     },
     {
-      "content": "Il a reçu un texto. C'est Cathy.",
+      "content": "Il a reçu un texto.\n— C'est Cathy.",
       "end": 96,
       "start": 93
     },
     {
-      "content": "Elle me laisse une chance. Il est parti en courant.",
+      "content": "— Elle me laisse une chance.\nIl est parti en courant.",
       "end": 97,
       "start": 96
     },
@@ -245,12 +225,12 @@
       "start": 99
     },
     {
-      "content": "Vous acceptez la carte deux ?",
+      "content": "— Vous acceptez la carte bleue ?",
       "end": 107,
-      "start": 101
+      "start": 106
     },
     {
-      "content": "Non, c'est à partir de 15 €.",
+      "content": "— Oh ben non hein, c'est à partir de 15 €.",
       "end": 110,
       "start": 108
     }

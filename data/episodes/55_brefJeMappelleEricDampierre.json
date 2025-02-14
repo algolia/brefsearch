@@ -15,17 +15,17 @@
       "start": 0
     },
     {
-      "content": "Mon nom à moi, c'est Eric Dampierre. Lui, c'est Eric Dampierre.",
+      "content": "Mon nom à moi, c'est Eric Dampierre.\nLui, c'est Eric Dampierre.",
       "end": 4,
       "start": 1
     },
     {
-      "content": "Lui, c'est Eric Dampierre. Et lui, c'est Eric Dampierre.",
+      "content": "Lui, c'est Eric Dampierre.\nEt lui, c'est Eric Dampierre.",
       "end": 6,
       "start": 4
     },
     {
-      "content": "Eric Dampierre, à l'appareil de Télécom 3 000.",
+      "content": "Eric Dampierre,\nà l'appareil de Télécom 3 000.",
       "end": 7,
       "start": 6
     },
@@ -35,7 +35,7 @@
       "start": 7
     },
     {
-      "content": "Parmi les tafs de merde que j'ai pu avoir, il y a eu le télémarketing.",
+      "content": "Parmi les tafs de merde que j'ai pu\navoir, il y a eu le télémarketing.",
       "end": 10,
       "start": 8
     },
@@ -45,17 +45,17 @@
       "start": 10
     },
     {
-      "content": "Comme ça, quand quelqu'un nous rappelait en nous disant: Bonjour,\nj'aimerais parler à monsieur Eric Dampierre, s'il vous plaît.",
+      "content": "Comme ça, quand quelqu'un nous rappelait\nen nous disant: Bonjour,\nj'aimerais parler à monsieur Eric\nDampierre, s'il vous plaît.",
       "end": 15,
       "start": 11
     },
     {
-      "content": "N'importe qui pouvait répondre. Oui, c'est moi.",
+      "content": "N'importe qui pouvait répondre.\nOui, c'est moi.",
       "end": 16,
       "start": 15
     },
     {
-      "content": "Oui, c'est moi. Oui, c'est moi.",
+      "content": "Oui, c'est moi.\nOui, c'est moi.",
       "end": 18,
       "start": 16
     },
@@ -75,27 +75,27 @@
       "start": 20
     },
     {
-      "content": "Vous avez réfléchi à la proposition d'hier ?",
+      "content": "Vous avez réfléchi\nà la proposition d'hier ?",
       "end": 23,
       "start": 21
     },
     {
-      "content": "Oui. En fait, je n'en ai pas vraiment besoin.",
+      "content": "Oui.\nEn fait, je n'en ai pas vraiment besoin.",
       "end": 26,
       "start": 23
     },
     {
-      "content": "Maintenant que je suis à la retraite et que mon mari n'est plus là.",
+      "content": "Maintenant que je suis à la retraite\net que mon mari n'est plus là.",
       "end": 28,
       "start": 26
     },
     {
-      "content": "On avait réponse à tout grâce au script d'appel.",
+      "content": "On avait réponse à tout\ngrâce au script d'appel.",
       "end": 29,
       "start": 28
     },
     {
-      "content": "Le C'est un crypte d'appel, c'est un arbre avec toutes les possibilités de réponses.",
+      "content": "Le C'est un crypte d'appel, c'est un arbre\navec toutes les possibilités de réponses.",
       "end": 31,
       "start": 29
     },
@@ -105,57 +105,57 @@
       "start": 31
     },
     {
-      "content": "On avait dix coups d'avance préparés par des mecs en costard dans des bureaux.",
+      "content": "On avait dix coups d'avance préparés\npar des mecs en costard dans des bureaux.",
       "end": 35,
       "start": 32
     },
     {
-      "content": "Du coup, cette donnée. Je peux pas me le permettre.",
+      "content": "Du coup, cette donnée.\nJe peux pas me le permettre.",
       "end": 38,
       "start": 36
     },
     {
-      "content": "Oui, mais... C'est vrai, mec.",
+      "content": "Oui, mais...\nC'est vrai, mec.",
       "end": 40,
       "start": 38
     },
     {
-      "content": "Vous savez... Oui, car...",
+      "content": "Vous savez...\nOui, car...",
       "end": 42,
       "start": 40
     },
     {
-      "content": "Parfait. Alors...",
+      "content": "Parfait.\nAlors...",
       "end": 43,
       "start": 42
     },
     {
-      "content": "Et la date d'expiration de votre carte. You win.",
+      "content": "Et la date d'expiration de votre carte.\nYou win.",
       "end": 46,
       "start": 43
     },
     {
-      "content": "Merci, passez une excellente journée, au revoir.",
+      "content": "Merci, passez une excellente\njournée, au revoir.",
       "end": 48,
       "start": 46
     },
     {
-      "content": "Si je rackettais cette petite vieille au téléphone, c'est parce qu'au-dessus\nde tous les Eric dans Pierre, il y avait l'écran d'objectif.",
+      "content": "Si je rackettais cette petite vieille\nau téléphone, c'est parce qu'au-dessus\nde tous les Eric dans Pierre,\nil y avait l'écran d'objectif.",
       "end": 51,
       "start": 48
     },
     {
-      "content": "Si j'atteignais pas mon objectif, mon salaire de merde devenait\nun salaire de grosse merde.",
+      "content": "Si j'atteignais pas mon objectif,\nmon salaire de merde devenait\nun salaire de grosse merde.",
       "end": 54,
       "start": 51
     },
     {
-      "content": "Mon objectif était calculé pour être 20% supérieur à l'objectif\nque j'avais atteint le mois précédent.",
+      "content": "Mon objectif était calculé\npour être 20% supérieur à l'objectif\nque j'avais atteint le mois précédent.",
       "end": 57,
       "start": 54
     },
     {
-      "content": "En gros, travailler plus pour gagner pareil.",
+      "content": "En gros, travailler\nplus pour gagner pareil.",
       "end": 58,
       "start": 57
     },
@@ -170,32 +170,32 @@
       "start": 61
     },
     {
-      "content": "Je viens d'écouter ta conversation, ça va pas du tout.",
+      "content": "Je viens d'écouter\nta conversation, ça va pas du tout.",
       "end": 65,
       "start": 62
     },
     {
-      "content": "Tu fais beaucoup trop d'interro négatives. Lui, c'est Stanley.",
+      "content": "Tu fais beaucoup trop d'interro négatives.\nLui, c'est Stanley.",
       "end": 67,
       "start": 65
     },
     {
-      "content": "Il utilise des mots que celle des mecs de Sarah se comprennent.",
+      "content": "Il utilise des mots que celle\ndes mecs de Sarah se comprennent.",
       "end": 68,
       "start": 67
     },
     {
-      "content": "Déjà que le prestat qui outsource nous a sous-taffé.",
+      "content": "Déjà que le prestat\nqui outsource nous a sous-taffé.",
       "end": 70,
       "start": 68
     },
     {
-      "content": "On est overkill à cause d'un match coding mal foutu, tu peux pas te permettre ça.",
+      "content": "On est overkill à cause d'un match coding\nmal foutu, tu peux pas te permettre ça.",
       "end": 73,
       "start": 70
     },
     {
-      "content": "Regarde Mamadou, lui, c'est un bon Éric Dampierre.",
+      "content": "Regarde Mamadou, lui,\nc'est un bon Éric Dampierre.",
       "end": 76,
       "start": 73
     },
@@ -205,32 +205,32 @@
       "start": 76
     },
     {
-      "content": "Je détestais ce taf de merde, mais il y avait des bons côtés.",
+      "content": "Je détestais ce taf de merde,\nmais il y avait des bons côtés.",
       "end": 79,
       "start": 77
     },
     {
-      "content": "Non. Non, je suis pas dans le délire.",
+      "content": "Non.\nNon, je suis pas dans le délire.",
       "end": 82,
       "start": 79
     },
     {
-      "content": "C'est vrai, mais... Tu sais ?",
+      "content": "C'est vrai, mais...\nTu sais ?",
       "end": 85,
       "start": 82
     },
     {
-      "content": "Ah bon ? Oui, carrément.",
+      "content": "Ah bon ?\nOui, carrément.",
       "end": 86,
       "start": 85
     },
     {
-      "content": "Parfait. You win perfect.",
+      "content": "Parfait.\nYou win perfect.",
       "end": 90,
       "start": 86
     },
     {
-      "content": "Bref, je m'appelle Éric Dampierre. Oui.",
+      "content": "Bref, je m'appelle Éric Dampierre.\nOui.",
       "end": 94,
       "start": 90
     },
@@ -240,7 +240,7 @@
       "start": 94
     },
     {
-      "content": "Je vous appelle à propos de votre abonnement.",
+      "content": "Je vous appelle à propos\nde votre abonnement.",
       "end": 97,
       "start": 95
     },
@@ -250,17 +250,17 @@
       "start": 97
     },
     {
-      "content": "Je ne souhaite pas répondre à vos questions.",
+      "content": "Je ne souhaite pas\nrépondre à vos questions.",
       "end": 100,
       "start": 98
     },
     {
-      "content": "Ah bon ? Pourquoi ?",
+      "content": "Ah bon ?\nPourquoi ?",
       "end": 101,
       "start": 100
     },
     {
-      "content": "Ceci est une question, je ne souhaite pas y répondre.",
+      "content": "Ceci est une question,\nje ne souhaite pas y répondre.",
       "end": 103,
       "start": 101
     },

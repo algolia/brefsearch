@@ -10,57 +10,57 @@
   },
   "lines": [
     {
-      "content": "Bref, moi, je suis le mec que personne ne connaît dans les soirées.",
+      "content": "Bref, moi, je suis le mec\nque personne ne connaît dans les soirées.",
       "end": 5,
       "start": 3
     },
     {
-      "content": "Quand je sors du taf, je rentre dans un immeuble si j'entends du bruit.",
+      "content": "Quand je sors du taf, je rentre\ndans un immeuble si j'entends du bruit.",
       "end": 8,
       "start": 5
     },
     {
-      "content": "Je sonne. Salut.",
+      "content": "Je sonne.\nSalut.",
       "end": 9,
       "start": 8
     },
     {
-      "content": "Et je réponds toujours la même chose. C'est qui ?",
+      "content": "Et je réponds toujours la même chose.\nC'est qui ?",
       "end": 10,
       "start": 9
     },
     {
-      "content": "La plupart du temps, il y a au moins un Benjamin dans une soirée.",
+      "content": "La plupart du temps, il y a\nau moins un Benjamin dans une soirée.",
       "end": 12,
       "start": 10
     },
     {
-      "content": "Quand c'est pas le cas, il y a au moins un Benoît.",
+      "content": "Quand c'est pas le cas,\nil y a au moins un Benoît.",
       "end": 13,
       "start": 12
     },
     {
-      "content": "Alors je réponds toujours. Je suis le pote de Ben.",
+      "content": "Alors je réponds toujours.\nJe suis le pote de Ben.",
       "end": 15,
       "start": 13
     },
     {
-      "content": "Cool. T'es déguisé en quoi ?",
+      "content": "Cool.\nT'es déguisé en quoi ?",
       "end": 18,
       "start": 15
     },
     {
-      "content": "En man, même. En quoi ?",
+      "content": "En man, même.\nEn quoi ?",
       "end": 19,
       "start": 18
     },
     {
-      "content": "Ce qui est vachement bien quand personne te connaît, c'est\nque tu peux faire des conneries et personne ne saura que c'est toi.",
+      "content": "Ce qui est vachement bien\nquand personne te connaît, c'est\nque tu peux faire des conneries\net personne ne saura que c'est toi.",
       "end": 23,
       "start": 19
     },
     {
-      "content": "J'ai renversé mon coca, j'ai nettoyé avec mon pied, du coup, le sol collait\net j'ai trouvé ça marrant.",
+      "content": "J'ai renversé mon coca, j'ai nettoyé\navec mon pied, du coup, le sol collait\net j'ai trouvé ça marrant.",
       "end": 27,
       "start": 23
     },
@@ -75,12 +75,12 @@
       "start": 29
     },
     {
-      "content": "Alors, j'ai fait boire des shots à Einstein.",
+      "content": "Alors, j'ai fait boire\ndes shots à Einstein.",
       "end": 33,
       "start": 32
     },
     {
-      "content": "Einstein, j'ai une nouvelle formule pour toi.",
+      "content": "Einstein, j'ai une nouvelle\nformule pour toi.",
       "end": 37,
       "start": 33
     },
@@ -95,17 +95,17 @@
       "start": 39
     },
     {
-      "content": "Je suis le pote de Seb. Ça marche aussi avec Seb.",
+      "content": "Je suis le pote de Seb.\nÇa marche aussi avec Seb.",
       "end": 42,
       "start": 40
     },
     {
-      "content": "T'es déguisé en quoi ? On parle d'Estaun.",
+      "content": "T'es déguisé en quoi ?\nOn parle d'Estaun.",
       "end": 44,
       "start": 42
     },
     {
-      "content": "Soudap. Après, je me suis fait chier.",
+      "content": "Soudap.\nAprès, je me suis fait chier.",
       "end": 47,
       "start": 44
     },
@@ -140,7 +140,7 @@
       "start": 63
     },
     {
-      "content": "Après, j'ai bousculé une meuf déguisée comme dans Pulp fiction.",
+      "content": "Après, j'ai bousculé une meuf déguisée\ncomme dans Pulp fiction.",
       "end": 69,
       "start": 65
     },
@@ -155,7 +155,7 @@
       "start": 71
     },
     {
-      "content": "Bref, quand ce mec que je connaissais pas Je lui ai demandé si ça allait,\nj'ai commencé à pleurer. Il m'a fait une blague.",
+      "content": "Bref, quand ce mec que je connaissais pas\nJe lui ai demandé si ça allait,\nj'ai commencé à pleurer.\nIl m'a fait une blague.",
       "end": 77,
       "start": 73
     },
@@ -170,7 +170,7 @@
       "start": 79
     },
     {
-      "content": "J'ai rigolé. Ensuite, on est sortis, on a discuté.",
+      "content": "J'ai rigolé.\nEnsuite, on est sortis, on a discuté.",
       "end": 85,
       "start": 81
     },
@@ -180,12 +180,12 @@
       "start": 85
     },
     {
-      "content": "Bref, quand cette meuf m'a embrassé, je me suis dit que c'était une bonne soirée.",
+      "content": "Bref, quand cette meuf m'a embrassé, je\nme suis dit que c'était une bonne soirée.",
       "end": 92,
       "start": 89
     },
     {
-      "content": "Je suis allé ailleurs. Sur le chemin, j'ai bousculé un mec.",
+      "content": "Je suis allé ailleurs.\nSur le chemin, j'ai bousculé un mec.",
       "end": 93,
       "start": 92
     },
@@ -205,7 +205,7 @@
       "start": 96
     },
     {
-      "content": "Bref, quand ce mec m'a demandé ce que c'était mon problème, j'ai répondu...",
+      "content": "Bref, quand ce mec m'a demandé ce\nque c'était mon problème, j'ai répondu...",
       "end": 101,
       "start": 97
     },
@@ -230,7 +230,7 @@
       "start": 106
     },
     {
-      "content": "Et là, j'ai vraiment pas envie d'en parler.",
+      "content": "Et là, j'ai vraiment\npas envie d'en parler.",
       "end": 113,
       "start": 110
     },
@@ -255,7 +255,7 @@
       "start": 125
     },
     {
-      "content": "Attention au changement d'heure. Soixante-douze euros.",
+      "content": "Attention au changement d'heure.\nSoixante-douze euros.",
       "end": 132,
       "start": 130
     }

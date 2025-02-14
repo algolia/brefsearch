@@ -10,12 +10,12 @@
   },
   "lines": [
     {
-      "content": "Quand je dois prendre rendez-vous avec une fille, j'attends toujours trois jours\navant de lui envoyer un texto pour montrer que je suis un gars détaché.",
+      "content": "Bref. Quand je dois prendre rendez-vous avec\nune fille, j'attends toujours trois jours\navant de lui envoyer un texto\npour montrer que je suis un gars détaché.",
       "end": 7,
       "start": 2
     },
     {
-      "content": "Entre temps, je tape son nom et son prénom dans Google et j'apprends\nqu'elle était en seconde B au lycée Clemenceau, à Reims.",
+      "content": "Entre temps, je tape son nom\net son prénom dans Google et j'apprends\nqu'elle était en seconde B\nau lycée Clemenceau, à Reims.",
       "end": 12,
       "start": 7
     },
@@ -25,97 +25,97 @@
       "start": 12
     },
     {
-      "content": "À chaque fois que je me prépare pour un rendez-vous, je prends une douche,\ndeux fois, pour être bien propre.",
+      "content": "À chaque fois que je me prépare pour\nun rendez-vous, je prends une douche,\ndeux fois, pour être bien propre.",
       "end": 16,
       "start": 13
     },
     {
-      "content": "Après, pendant une heure, je m'occupe de ma barbe pour avoir l'air d'un mec\nqui s'occupe pas de sa barbe.",
+      "content": "Après, pendant une heure, je m'occupe\nde ma barbe pour avoir l'air d'un mec\nqui s'occupe pas de sa barbe.",
       "end": 19,
       "start": 16
     },
     {
-      "content": "Je teste une tenue 1, une tenue 2, une tenue 3, une tenue 4.",
+      "content": "Je teste une tenue 1, une tenue 2,\nune tenue 3, une tenue 4.",
       "end": 22,
       "start": 19
     },
     {
-      "content": "Je reviens à la tenue 1, je vérifie si j'ai pas de crotte de nez, je vérifie\nsi ma braguette est pas ouverte.",
+      "content": "Je reviens à la tenue 1, je vérifie\nsi j'ai pas de crotte de nez, je vérifie\nsi ma braguette est pas ouverte.",
       "end": 26,
       "start": 22
     },
     {
-      "content": "Je me mets du parfum, j'oublie, j'en remets, je réoublie,\nje sens trop le parfum, je reprends une douche et je remets du parfum.",
+      "content": "Je me mets du parfum, j'oublie,\nj'en remets, je réoublie,\nje sens trop le parfum, je reprends\nune douche et je remets du parfum.",
       "end": 31,
       "start": 26
     },
     {
-      "content": "Je répète mes phrases d'accroche. Salut.",
+      "content": "Je répète mes phrases d'accroche.\n— Salut.",
       "end": 33,
       "start": 31
     },
     {
-      "content": "Salut. Salut.",
+      "content": "— Salut.\n— Salut.",
       "end": 34,
       "start": 33
     },
     {
-      "content": "Comment tu vas ? Ça va ?",
+      "content": "— Oh, comment tu vas ?\n— Ça va ?",
       "end": 36,
       "start": 34
     },
     {
-      "content": "Excuse-moi, je suis en retard. Je bosse également mon regard.",
+      "content": "— Excuse-moi, je suis en retard, je...\nJe bosse également mon regard.",
       "end": 39,
       "start": 36
     },
     {
-      "content": "Je suis un homme, mais j'ai des félures.",
-      "end": 45,
+      "content": "\"Je suis un homme, mais j'ai des félures.\"\nJ'accorde ma guitare et je la mets bien\nen évidence dans ma chambre",
+      "end": 47,
       "start": 39
     },
     {
-      "content": "J'accorde ma guitare et je la mets bien en évidence dans ma chambre\nau cas où je la ramène chez moi.",
+      "content": "au cas où je la ramène chez moi.",
       "end": 48,
-      "start": 45
+      "start": 48
     },
     {
-      "content": "Je range ma chambre au cas où je la ramène chez moi.",
+      "content": "Je range ma chambre au cas\noù je la ramène chez moi.",
       "end": 50,
       "start": 48
     },
     {
-      "content": "J'enlève le sopalin d'à côté de mon lit au cas où je la ramène chez moi.",
+      "content": "J'enlève le sopalin d'à côté de mon lit\nau cas où je la ramène chez moi.",
       "end": 52,
       "start": 50
     },
     {
-      "content": "Entre temps, je me suis habitué à mon parfum, alors je me demande si\nj'en ai mis assez et je remets du parfum.",
+      "content": "Entre temps, je me suis habitué\nà mon parfum, alors je me demande si\nj'en ai mis assez et je remets du parfum.",
       "end": 55,
       "start": 52
     },
     {
-      "content": "Je regarde si j'ai encore des préservatifs depuis la dernière fois.",
+      "content": "Je regarde si j'ai encore\ndes préservatifs depuis la dernière fois.",
       "end": 58,
       "start": 55
     },
     {
-      "content": "Mais vu qu'elle n'est pas venue la dernière fois, j'en ai encore.",
+      "content": "Mais vu qu'elle n'est pas venue\nla dernière fois, j'en ai encore.",
       "end": 59,
       "start": 58
     },
     {
-      "content": "Je place derrière mon coussin pour pouvoir faire genre.",
+      "content": "Je les place derrière mon coussin\npour pouvoir faire genre.",
       "end": 64,
       "start": 59
     },
     {
-      "content": "Mais que voilà !",
+      "content": "— Hey, mais que voilà !",
       "end": 67,
       "start": 64
     },
     {
-      "content": "Je regarde si je suis musclé, je suis pas musclé, je fais des pompes,\nje suis toujours pas musclé, mais j'ai transpiré, alors je reprends",
+      "content": "Je regarde si je suis musclé,\nje suis pas musclé, je fais des pompes,\nje suis toujours pas musclé,\nmais j'ai transpiré, alors je reprends",
       "end": 71,
       "start": 67
     },
@@ -125,12 +125,12 @@
       "start": 71
     },
     {
-      "content": "Je prépare une playlist au cas où je la ramène chez moi.",
+      "content": "Je prépare une playlist\nau cas où je la ramène chez moi.",
       "end": 75,
       "start": 73
     },
     {
-      "content": "Je me sens prêt, mais comme le rendez-vous est dans deux heures, j'attends.",
+      "content": "Je me sens prêt, mais comme le rendez-vous\nest dans deux heures, j'attends.",
       "end": 79,
       "start": 75
     },
@@ -140,24 +140,24 @@
       "start": 79
     },
     {
-      "content": "Je me réveille en retard, je cours, je transpire, je reprends pas\nde douche, je remets pas de parfum, j'accorde pas ma guitare, je range pas",
+      "content": "Je me réveille en retard, je cours,\nje transpire, je reprends pas\nde douche, je remets pas de parfum,\nj'accorde pas ma guitare, je range pas",
       "end": 85,
       "start": 81
     },
     {
-      "content": "le sopalin, je vérifie pas ma braguette et j'ai une crotte de nez.",
+      "content": "le sopalin, je vérifie pas\nma braguette et j'ai une crotte de nez.",
       "end": 88,
       "start": 85
     },
     {
-      "content": "Bref, je me suis préparé pour un rendez-vous.",
+      "content": "Bref, je me suis préparé\npour un rendez-vous.",
       "end": 93,
       "start": 88
     },
     {
-      "content": "Mais que voilà.",
+      "content": "— Hey, mais que voilà !",
       "end": 100,
-      "start": 94
+      "start": 97
     }
   ],
   "video": {
