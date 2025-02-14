@@ -12,8 +12,8 @@ const progress = spinner(episodes.length);
  * Loop through all episode metadata, and for each line of the episode, create
  * a new record on disk, that includes hard-coded LQIP for the thumbnail image
  **/
-const concurrencyEpisodes = 1;
-const concurrencyLines = 4;
+const concurrencyEpisodes = 4;
+const concurrencyLines = 1;
 await pMap(
   episodes,
   async (episodePath) => {
