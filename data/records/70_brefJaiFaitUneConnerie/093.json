@@ -8,13 +8,14 @@
     "videoId": "hpCO1AIWo60"
   },
   "line": {
-    "content": "En rentrant le soir, je me suis dit que je devais lui avouer.",
+    "content": "En rentrant le soir, je me suis dit\nque je devais lui avouer.",
     "end": 96,
     "index": 39,
     "start": 93,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=93s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/gif/093.gif",
     "hash": "46c7251e1c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwdzG1P2kAAwPG+Fnp3fbhee722By19oFAoZGSC4OaYIyjKFjfQGIRGRF3spjPGfYQlS/YN9lmX+eb/6pe/sPv2EBSlEg83t89X1z8uN4/z083D8+9ff/4uv5x1u8NF9n2V5cssX6zy2fxSiKttRnngxe+G0/u7p3X29erm6S7/md88XhxOZtu95cfTbH2frR/6vf3x+LNAsM1M37aCwWC0t3f0fjgdjz41k8603joKo21W6qXd88XtRfbt4MP0TX9fkJChYYfSIAjaJvUbaf9kctKMGgnWQ4ObdmTZ0WQyn81Wx8dnO72hAERZQhoQFQnpBin7QRpXaqZu1bjvMU/XuWMF7dZOM053B6NOpy8UtgB80YpkMNP13LrnNm0e15hraRYh3LZ8v5KUS9W08TqpvxLEAgSiIksG0WzHDjmPHSduVFt+KdQJJ9gimDlOxFjglqOKVxUQVCFQFNlQFUo026QupW4S1LnJIVRBEWGFMuq97ComdQQoSoUtICMCRRWIMoL/q5EyQoaMNAliCWkQ4GIB6YRhVf8HqxBO99XapAgAAAAASUVORK5CYII=",

@@ -8,13 +8,14 @@
     "videoId": "FThJiyU25jc"
   },
   "line": {
-    "content": "J'ai trouvé un billet à 300 € pour le Mexique,\nmais le décollage était dans 8 h.",
+    "content": "J'ai trouvé un billet\nà 300 € pour le Mexique,\nmais le décollage était dans 8 h.",
     "end": 20,
     "index": 9,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=17s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/gif/017.gif",
     "hash": "b4fdcd9b00",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBlX2BuaGqYkZWclZelm56dlphdT01+X1iUhX95bmCLgoOLe3CIcmCTiolgU15LQEoAWVRWgXp+l5CTmJCTjoWIfnR2XkI7o3Fkpo6Ca2BJmY6OinNfhWZIp5uWbV9qWElWAHZxdY6JjZmUmYZ/g5KNlIx8fYhgVZVsYJB8c2VbQ2BbX1tMQGlSO4J7fYyEho+GiACEgYeQio+yrrS+ucLNyd62rb1kR0CifXC8rKVSSkAcHCMjJS4pLDQtLjUyMjgvLjIAhIKJjIiOsq62wrrDwrvOv7zTe2dmk3Rr2tHdd3V8GBgfKSkxJyguKCguHh0jIB0gAIKCi4iDiXtmY5JtYrWVjpSKkIxvZoR1f5iNm01HTB8gKDAxOTEyOjQ0PCQkKiwnKQBRTE5STU9MOzl4V06HYlWKaWBvXmCSi5Cum44lICRSV2J2fYtscn9TTVgvLTYnICEAJyMlMC0uVE5QkH16e1lQh21nd2Znm4J6dGFaLC00RUZPRUdRMzU8Hx0jFxUYFxUXABoXGSMhJUA9Q2RaWltLTGZWVmNRT0s+Py8qLjIzOzMzOzEyOS0tNBsbIDEuMUA7PKraqPNck/6sAAAAAElFTkSuQmCC",

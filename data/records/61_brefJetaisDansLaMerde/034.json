@@ -8,13 +8,14 @@
     "videoId": "I4-bhdkKSfU"
   },
   "line": {
-    "content": "Plus tard, je lui ai demandé pourquoi il l'avait envoyée chez moi.",
+    "content": "Plus tard, je lui ai demandé\npourquoi il l'avait envoyée chez moi.",
     "end": 36,
     "index": 13,
     "start": 34,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=34s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/gif/034.gif",
     "hash": "55d92ffb26",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBGLiY6IBUwGhMrEQiNhIN2dng4Kid3XFV6XVV7XlZ+Y1t4YVo8LisjGxtUUFFra2wASC4kPyIWMxsTLhMJl46MgoOGQDAsUDw4WUI9dFdOTTk0dF9aSDk2IBkZXVpabm9vAE4xJEEiFTgeFDIVCpiPjYWDhWNLRXJWUGpOSX9lXlhDPntlX2hWUykgH2ppaXNzdABPMSRCIxU5HhY1FwyPhYGoq6+IdnJ/X1eAYlqVf3qFZ1+SeXKEbGdUSEd8fH51dHUATC8hQSIUOB0UNBYKin56sre9mZKTc1dQaU1FclpThGliinRtZlhUeXh6f3+BdHR0AEorHDodETIZEDIUCIh8d6mssaimqnJcVmJAO2A/O31nYINybXp4eYODhXh3eHNzcwBIKh04Gw80GxIxEwaHe3assLSvr7NxXFZrTkdzVlB1YFqNe3aRj5F/foF1dXZtbW0AQyccNRkOOB4WMxcKeGpkgoaMe3Z4dF1YXEdCXUhCcFlTkXpzi316eHh6b29vZWVlAD4iFzEXDjYdFTYZDUEzLkZITl5YWW9ZVWpUT2hSTXJbVX5pZGZaWF9fY2trbmNkZKWglSbwIwTlAAAAAElFTkSuQmCC",

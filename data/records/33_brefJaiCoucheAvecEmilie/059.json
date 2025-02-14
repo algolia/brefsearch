@@ -8,13 +8,14 @@
     "videoId": "mEu0q3Slzj0"
   },
   "line": {
-    "content": "C'était C'est pas vrai, mais 1 à 0 pour moi.",
+    "content": "C'était C'est pas vrai,\nmais 1 à 0 pour moi.",
     "end": 61,
     "index": 25,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=59s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/gif/059.gif",
     "hash": "071ac6fcaf",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBiV1ZuY2B4a2dJPjocFxQkHxtANTA8MCsbFxc7LyiAZllWRD5FOjeck4x7b2pqXVcAcGZkgXZyi396U0dECwkGGBQRNy0qJiAdFBISHhwccldNeVBETzIropyaiH57W09LAH50cpGIhJeOiV9VUUQ+PU1HRTkxLhoWExcVFBoYGFFBPWlDOXVpbK6+yH93dGZbWACKgn+dlpGUjYphVlSPh4ejnp41LS0SDw4XFRQXFRc9NTQ/LCyEmKqlxtpyd4FdVVUAkImFo5yXkYuHVUdFjoWFsayqiYF8R0RBEg8RISIqKCIjSURMlK7BeI2pa3SGRT4+AI+IhZ+YlJKMiXdubI2FgIh7d5OKhi8rKg8NDxkXGhkTFF1peY2pwm9+mGFodysoKQCFfXqQiYWLg4B6b2toXVllWlg2LS0bFxckHh4kGho1MzdufpB2g5VndIxQVWEjHh8AdGtrbGJgW05MT0I/UklJYltcWlRUhoJ+fH+BbWRjY1dZfmJfWj89XGl+OzxFEw0OAFdPT0E3NUE1MltSUXhxcpCIiaiin6WXj4l4dXhpZmtIP1xAPFJYaFhidSUhJAsICBC/l4MC7XdUAAAAAElFTkSuQmCC",

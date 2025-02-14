@@ -8,13 +8,14 @@
     "videoId": "Z_Iqj4P90Qg"
   },
   "line": {
-    "content": "D'accord, j'arrive tout de suite. Ensuite, il me dit: Enfin...",
+    "content": "D'accord, j'arrive tout de suite.\nEnsuite, il me dit: Enfin...",
     "end": 17,
     "index": 9,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=15s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/gif/015.gif",
     "hash": "67a7efce38",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAlHx46NDRGMi1ELyhCMy8yJiM6LCdTQjlCPDkSEQ4nOS42QDiXkpOWjo90bW9STFEAJB0dKyQlNyYiRjMsQjUzJxcTQDAsSz89JyQgMComUEdBg11RWD85WlVdSUxkKzVZADEnJRgSEjctKj4vKzorKTUfHDgsK0A2NxcSEVZIQZl1bIdTRXNIPby0tZ+isFhfdQBDODReUU1qWleWhoSTf3mWfnVEPT1kV1VfUUpELilTPzp0Sz6GYUyknJnCvb6spqcASzs4V0ZAQjc3XFZbZFVUZVFPQzo6RkNDSkY8FA0QNzEioodSpJFfJyEdYlhah3+AAD4wLExARTk0PDkwLSMfIiIeJEE3Nkk+OyMaGQQAAEk/KtDEe4d/WwsECTUtLXNpaAAYFBQdGiAfHSlPRktALi0WDxQvJyqGeHBKPzpCNzdFPC2/t3tEOywKAwcaExROQkEAFRAPHBgcIh4tLSktNB0cJhcaMSYmX1ZRfnFoa15YLSMdnoZiJhsZDwoNFA4QNSspAComITYvLC8pJkA4MywnJCghHkg/O1BGQGpcVFVHQRsSEVc2MCobGhINDycfHzAlJN5rb/+Fe0LJAAAAAElFTkSuQmCC",

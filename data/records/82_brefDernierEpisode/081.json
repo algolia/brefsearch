@@ -8,13 +8,14 @@
     "videoId": "1cZ_H0rgwCU"
   },
   "line": {
-    "content": "J'ai regardé les gens dans le parc, il y avait des joggers.",
+    "content": "J'ai regardé les gens dans le parc,\nil y avait des joggers.",
     "end": 86,
     "index": 32,
     "start": 81,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=81s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/gif/081.gif",
     "hash": "3ce07d0d99",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVUylPTSdXVChdVjZZVTdgWz5lYEFqYT1SSzQ7OCY4NiRGQjJJQzAvLB8lJBodHBQAX1k4Z2BBb2xAXFwqRUUeVFMrTE0hW1UwZFM9UlAoTEwmTEslV1UvW1otTk0mRkUhAGJfTVxbTlJRQ0NBJ0RCHEE/HEhJIV1SPG9XTVNSMTUzG0dGJE5NIURCHD47HkNCHABWVUVRUk07Pjw6PC41NSEuLxmVk4jg29zRy8nMycZQUEE3OCJNTixMTS48OyRAPx0AS0k2Wl5US2d8TGuBP2B4Y3uOta2ttaahw7q4yLq1jZ2pQWR8UG+EWnmRRlZcLisQADs3KEhFOlhkbEJVYjFGUjxNU1lkcT9GVE5YZ32DjEpQVDNGTzNJVTpLVjU+OiopEgBkVEdpZWNscHJWYWlKWV04PkIZHy0UFyIXGyciKTZETVNPWlxJWWJUXmJPVVlHPzIAj3tlkYJvnpB+aGNfjoR5WlZWNDI2qpV+XVVQMTE4pJiIqJuLcGpkkod6no9+lYJtAJSBa5R/aZmDbGpeU31rWkhAPT05OaWNdUtEQkQ/P5mDa5B7ZWdbT4p2YpiDbJeDbdZektm66fotAAAAAElFTkSuQmCC",

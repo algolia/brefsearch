@@ -8,13 +8,14 @@
     "videoId": "YFLtnewtqAE"
   },
   "line": {
-    "content": "Et celui qui dit: Ça passera pas. Celui qui mesure tout.",
+    "content": "Et celui qui dit: Ça passera pas.\nCelui qui mesure tout.",
     "end": 57,
     "index": 24,
     "start": 54,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=54s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/gif/054.gif",
     "hash": "f83f47958b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4a2WUh4LNyMbBubfMxsTOycjGvry6sa6yp6OpnZmjlpKajYmRg36Fd3J2amZoXVgAjX95q56Z2tfVzsfF3trYq5WN0szJvamjp5eSqJOLk354raGeopWQmo2IjoF8fHFsAJ6Ph7erpeTi4d7Z19XU1nNnaYqFh3lrZlJHREo/QjUsMo6DgKqdl52PipWHgYt/egCpmZC8r6nh3dzm4+DR09hcV19PR0hVRDlKMScoJC0kHSZzXlabjYaXiICVh4CNgHoArZuSvK2m3NjV4d3b5+jpTUtRZFxcVUlHPS0rQDQ5KCMsfWtjl4iAmImCmoyEjn94AKmXjbmpoNfQzOHc2eLi4m1wdoyIil1ZYVJOVFJGRyMhKYBwaZiGf5WFfpqKg5iKgwCaioGhj4fEuLPXzsnb19SpqKe4t7WRkJV9eYBlWlgvKy9yYVuMeHCLeXGJeG+Nf3kAblJFfVM4sIFZzJ5tv555lIFwm4V2dWFabllSZk5FOCwtVzksbEc0Z0U1ZEAvaUo7AHtPL5tpP65+UMCPXLeRbKicmLKopK+imcK0qLutoKqbj459c4RuZHlmXWZKPFg3KK7t5HnQKfaVAAAAAElFTkSuQmCC",

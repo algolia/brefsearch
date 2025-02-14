@@ -8,13 +8,14 @@
     "videoId": "5U0CfNpXdEc"
   },
   "line": {
-    "content": "T'as bien dormi ? Ouais.",
+    "content": "T'as bien dormi ?\nOuais.",
     "end": 7,
     "index": 2,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=6s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/gif/006.gif",
     "hash": "8499fe3b46",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwVy1tv0mAAANA+mGgvX79bW2C4zA2cF6gV1jEVaFmpdFBWaANhhYG4OJUZDcY9mIwtTkgwWeKLPgyTmah/1Oy8H0ZXs+wNlgpIBkS4CbZS6kHT79frB0Gw5+yoa/cUpAAOCqwosqLIQWb+ddaq7KRW76oriYKqbSTWq/liz3Feeg0zm4O3RAlQKhDCY8Kh6/DrcnE1n7fLtp5Mfu7uDV334WqimdsMS2bHcYoZHXJQBlJElImAKSDM4sfPP9PpxfhjjCiVjWy/vvsosR5aVsey9mu1ruvGaFQSaBQpFBAJUOby9OxqcvpvNmtZtqFpRVWr5gsno9H+rtc0jIHnJeIrkIVEIEQgFFDm4v2Hxcnk73Q6OTws63rDMF75/sB1h16jV6217OcxGkU8wQLGPMYCYcZh7/un499fzmfvjtp2+XW7PQrDzQdpe+tJ3SwVHmciWIYcEnkEOURFyrSM0vGg/218dP72RadsDRvNwK7kM7rvVGuGaWYza0vLIgcxwCIHIY+YkpoOik/H3eDsTf9ZKh0nS8tS/E7ktpa8729v27mcgigFsgIVxF+f/7saYHMH2ooqAAAAAElFTkSuQmCC",

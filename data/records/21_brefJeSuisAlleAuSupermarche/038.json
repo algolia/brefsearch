@@ -8,13 +8,14 @@
     "videoId": "onb8vNaHYB4"
   },
   "line": {
-    "content": "Le MRC 3000, la boisson des vrais bonhommes.",
+    "content": "Le MRC 3000, la boisson\ndes vrais bonhommes.",
     "end": 42,
     "index": 20,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=38s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/gif/038.gif",
     "hash": "180d51a6f0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAWOlskTk47YVBSe4lOgZ5Kfp9Jc49bYWhdgZlcka+Qo6WBmKJhfop5f2xyeWJyclYAHkoyOWVNMlBFQkVCX4KGYaCyRlFVpF8/iH95cqS4g6u3bI+eSDgwSkArkY5qo5RpACtdTTZqVScpKJFONYZ2Y1GcpGV/fqVjR4+OgpjMxrTAt4GOjUMkHCcfIZqVd5WQbgAoZD0UTjQdHBeXVDp2WEFoeWyhloeVYkq9mH+8t6HAl3iUd2Q4HRQLDhN3h4Bsj5YASHRSQkkqJR8USSUZMyEaiV9JxINkt35jzJBw0pNywIdoa0M0NR4XMCMjeIN4bKKlANDIs9SWdJlSNTUkHTsiG4dUQL2JbbaDaLB8YY5cRaRyWZ1nTmw+LXBTSbiqmMTOwQDQyLbGmnikX0BBLCRAIBhhLR2eblbKlXamc1l0Szqff2lyPCk8GhF/V0TRxLLTybkAv7CZs4Rjk1I2MhoTTyofZTAeilpEu4drv4hqsI53yLupgUs0RCIWjmhU0Mi2wbmpAL+2pa+ZiIFMN08nGm47KIFJM41eSKZ0W8GLbbmQdsm+ro9aQnM+KoxvXsbAsLarmfNqusWZI+0/AAAAAElFTkSuQmCC",

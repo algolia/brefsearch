@@ -8,13 +8,14 @@
     "videoId": "OmEx0mpHFG4"
   },
   "line": {
-    "content": "On m'en a reproposé. J'ai dit oui.",
+    "content": "On m'en a reproposé.\nJ'ai dit oui.",
     "end": 64,
     "index": 29,
     "start": 63,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=63s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/gif/063.gif",
     "hash": "6644c9020d",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAiEAocEAsVCgc9KyWRfXSSgXecd2mOXU1tTEFxWU93XVN+Y1iFZ1uBYlZ6W1BxVEkAJBQOJxgSGw0IW0Q7mod9fGher4h5k2BQakQ5cVlPe2BVg2dciWxgh2xfg2dadlpQACIUETAgGSMRDG9VTJF+c5J4a6d9boteT3FGOnRXTXZcUn5iWINpXndRSHBPRnxiVwAWDQsvHxgtHRdgS0KcjIesmJOziXqRX1BfOC54YlyCbmdzWlB4Y1eHTEhXLSh9ZlwAEgkIIxQPMiAZiXl2vbO1oJSUpIqDcUg7TDEpbFpXjn15emhiUEA3cExFSSkicVlPAAsHCA0EAygcGLGmqaqcm5KBfaSSjnhaU2dQS3hmY5WFgZiLiF1JQj0yITcpGVM7MgAFBgcMBgRtWlWWhoOcj5CfkZCKenptYF1lTVSLdnmckI6plJCJbGFKQiU9NBNdSkAABAUFGhANc0g8dlRKnpGSjXh5aVFUIyEcOy0vjXt+cWRgonVoflpLPTYbNiwJVkE1AAcGByQXEW5MP62Dc4VtZ0QuK0kwK2haVWRZVndlY2ZGPYVbUGZJOmRQO1Q8J045LsAolE4/Yf9gAAAAAElFTkSuQmCC",

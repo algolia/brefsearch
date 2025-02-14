@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "name": "J'ai dîné avec cette fille.",
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY"
+  },
+  "line": {
+    "content": "Je sais faire des cocktails.",
+    "end": 38,
+    "index": 15,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=37s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/gif/037.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/037.png"
+  }
+}

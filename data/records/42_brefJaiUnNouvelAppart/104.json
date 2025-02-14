@@ -8,13 +8,14 @@
     "videoId": "c-51sCEAiCg"
   },
   "line": {
-    "content": "Vous le payiez juste le joint, ça m'a pris dix minutes.",
+    "content": "Vous le payiez juste le joint,\nça m'a pris dix minutes.",
     "end": 106,
-    "index": 32,
+    "index": 33,
     "start": 104,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=104s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/104.gif",
     "hash": "2dd160269c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwVlv0gAAAOA+mZjo4sx0kMHWGbArpXQrYE9aSg8YPblsoWW1ATrGFitgsmTJYpwumngmRn0biSQzPpn5C/0+oCFSdo09Db1/14vlzy/L75+X377qCTDSzJs/vy8vLs5dn7h9t0UVeoYU9h3A1cq+Ibydjm6uF5ZAng/1xbtDLZ4clIUPsyEHxe3dgri6HqrKiWdNAhfo1ehA5y7nR3+XV2fDrslAn6ZsYyMpovlao+X5PpTBudW1vsQPHWNyYANvooOgTr6KwrP59GTgty115taN9Ri7gytB5Jy+f8Co8NrDDpP3DGHs6MCspygE3LOq42eebzc1kenKnLoJxrcy/vFLvTtYyTLprZRdpjqq4KkcMLJ1ReRkGhs8NV4cH7VVWaMwJpGAi/zrjz+YqnkfLW2nUadCuJasCyRAs0yeIkKFet7ZjybjplaVCIzKQSyO/LpapPboFRCiEdgWSbvOK/QuQONIIft4rpZG1RLF82kUhREok968cwvIZXcwktlOp2pI6tCq9FWuJbNAYApBveTs8xKF34vHNh6BMTD5pIibjaam62anXSnmfGavRaIqi0sk9h9wXn9Ey0GFHwAAAABJRU5ErkJggg==",

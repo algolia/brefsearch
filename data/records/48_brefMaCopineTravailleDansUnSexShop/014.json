@@ -8,13 +8,14 @@
     "videoId": "vrbqkwd6Zi8"
   },
   "line": {
-    "content": "Elle m'avait menti. Elle avait énormément d'échantillons.",
+    "content": "Elle m'avait menti.\nElle avait énormément d'échantillons.",
     "end": 16,
     "index": 8,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=14s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/48_brefMaCopineTravailleDansUnSexShop/gif/014.gif",
     "hash": "d0cf6c7855",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAGAwQIBQcfFBQgExRBIx6OTD1bMiskGRx6a3eShJiMe4+Hc31yVVdnLylFHh0iExMATEJCSEJFNyAfIRISdUI1smFKklBFNiImXlJZnpGkkoKajXqGb1JTg0U4ZSsnPB0cAKKYlnpxdS8YFyMUE0goJIJFOGY5MzonLGheZp2QnZeHmVBDS0IkH55WRnUzLVImIwCgoqhXT1IUBwUyHBuRTj6jWUeIS0FOLi5PR0+ck5+Hd4EfGBsxGxmRUUJzNi5jMSoAkZqlOS4xDQUFLRgWo1ZDk0c7bDIuPyQlMSQnjlJVbklKNSQlTSkmZTgwe0A0hEc4AE1FSSQTExUMDRILDHtDNqFSQX5BPh8aHzgSE3UcG14yLlAqKFYvMEInJ2g6MY5OPgAvHh4SCQkZDg4RCwtfMyp5QTVZMCwmERNdFRdeJCVFMTQ5IyY5GRshERM5IR97QzcAIxUWFwwLHBAQEwsLXjIpdjwxWy8sZjU2cCsqUisrIBcbJxsfPRocIg0OFw8PRCkoABIKCRQMCxUMDA0ICDAZFmw1LWw2LW5AOHhLQopMPWVBQCQaIDgXGSgPERIPEx4ZIC2GacTfss9wAAAAAElFTkSuQmCC",

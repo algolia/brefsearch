@@ -8,13 +8,14 @@
     "videoId": "1x3P61ck0QI"
   },
   "line": {
-    "content": "Je suis un homme, mais j'ai des filures.",
-    "end": 45,
+    "content": "\"Je suis un homme, mais j'ai des félures.\"\nJ'accorde ma guitare et je la mets bien\nen évidence dans ma chambre",
+    "end": 47,
     "index": 12,
     "start": 39,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=39s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/gif/039.gif",
     "hash": "d0584ef0c7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBqSzQ6KR9JMCV9VUWXblx7VUYzJR4vJR9KOC9uRTqbd2zHsaNnXW5dZJy0sbmyqKUAaUkyNykgVTsxl2hXmWxcimBQVj4yTjswWkg+mnZprot+zKyaaVxsP0t0bnaTh42nAGhON1hEMnJQRJVnWJFjVpFmWHJOPohhUWlNQHVbT4ptX35fSz5DWzdGZDc9RzlAeABQQzhcRS+MeXCKY1aBXU6KZVeIZ1lzT0CFXE56Wk4tIBknIR4rM2odHT4oLU8oLHoAQjo1W0QuopyZpId+iGJRdlZHiGZXlnRnfFZKeVdLEQ4RFx0yHCBEIyhIND9pLTNUADk0MmNLNaijosW+voJdTJBtXo9pWZFtXqJ8bFQ+OAgNGR8iNCYrKDM8QykwXSQoMwA7MixFNSiDfn/b3eORf3qCXUx+XU95WElpSjwWExcXHCkdHygkJjQjI1MYGEgcHCkAMikjNigdFxUZdXl8SlV5VUBDbEw7eldIgFxMIBodExcjGhoqICA1GhpQFhc1HBosACUgIDEkGwYECSstMyssRGZJRF1EN4hjVJZpV1I7Mw8SICgrLCYmKRUWKBgYHyQoQH/fhzLJIyb/AAAAAElFTkSuQmCC",

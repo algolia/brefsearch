@@ -8,13 +8,14 @@
     "videoId": "94NzqAY2Yhk"
   },
   "line": {
-    "content": "En y réfléchissant, je me Je me suis dit que c'était un peu pourri.",
+    "content": "En y réfléchissant, je me Je me suis dit\nque c'était un peu pourri.",
     "end": 30,
     "index": 12,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=28s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/gif/028.gif",
     "hash": "6ff06ae38b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBTT09qZ2ivq61pZ2mqp6ppEx9xAA53EBx9HCiCIy+HKzmAIS16GiZuDhpkBRBhBQ8AqKWlvby/2dndtbW33tzgfiQxfBIfk0JOk0NOkz9Kn1VekTxHlURPkT9LehsnZwcSAKmnqcXEyaKipYyMj7i1uXwgLIcqN55ZZJhLVplMV5VET5hKVJVFUZVFUpFBTWoBDwCBf4OIh4qHhYiHhoqjoaSCLzmaOUWfTFagS1WhTViRMz+WPkmYQk2XP0uYQkyIKDMAz87S0M/U5eXquLi8s7G1mztHnDRArVhhplJckig0ewMQjCQwpVZgnENOnUhShhonAGtqbGloa6uqrsXFybSzt7FyfJRDT5VFUJRGUZJDTpFAS48+SpFFUZFEUJBDT4o8RwDCwcPFxcnY2d3l5enp6u7w8/js7PHr6+/r6vDs7PLt7vLs7fLq6/Dq6/Dq6/Df3uEA1tLS6efq7e3y7u/07u/07e7z7u3z7e3z7e3z7e3z7u3z7e3x7O3x6urv4+Hj0czLAMS8uM3HxdjV1uDf4uXk5+bl6eXl6ubm6+bl6+Xl6uXl6ePi5t/d4NjU1c3HxcS8uW7n/JDVIpAlAAAAAElFTkSuQmCC",

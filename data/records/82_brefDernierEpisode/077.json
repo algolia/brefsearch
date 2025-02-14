@@ -8,13 +8,14 @@
     "videoId": "1cZ_H0rgwCU"
   },
   "line": {
-    "content": "À chaque fois que je suis en retard, je me fais la liste des raisons de ce retard.",
+    "content": "À chaque fois que je suis en retard, je me\nfais la liste des raisons de ce retard.",
     "end": 79,
     "index": 30,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=77s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/gif/077.gif",
     "hash": "691b6e1c70",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAPEQkPEQkODwYUFQsQEAk6Ny5fV0pWRz5GNy5/dGqfi38/Ni4BBAIICggaGRMJCgcAFBYLEhQJERMIDhAJBwkDQD41XktBXUE2jGZWWEI5hm5hOTQvAAADBgQIHRsVCQkHABUYChIUCQ8TCQ0RCRIUCxkcEldCNqd0YKx5Y2hLP3dkWEI+OQABAwcICCAeFgsMCAANEAgQFAsNDwoGDAoTFQ8WGhBTRTWdblmRY1FmTTw5OSwfIRcFCgcKDggkIRoTFQ8AExYKHB4QGRwPCA4JODk3VFNVTkpMmnRml2xbZmFgJyolICMaDRMQBw0LJCIaGx0XABsbER8fFCAfEi8wKlZVWUpITExMUnBqbYF5e4+SnEVDRlNRVT48MTs4JDYxJTczIgBYSz1YSzxcVExoZ2pLSk5GRUhXVlpdX2WcoKyYmqRAPkBGRExNSzdZVyQ9OCdLSCQAbmBRXldRXFxfWlldSEdKaWluzc/YpZaSv7i9p6q0PTo+NDI2Q0E2XVkzQDwrTUsnAH9xYkZDQzc2OTk2OTAtMEdGSIuKjoVlWbGKf42ChDIxNiYkJTo1NHJlVkY+MlpTQq/+aGEaKxY0AAAAAElFTkSuQmCC",

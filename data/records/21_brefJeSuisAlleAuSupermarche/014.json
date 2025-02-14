@@ -8,13 +8,14 @@
     "videoId": "onb8vNaHYB4"
   },
   "line": {
-    "content": "J'ai aussi pris de la salade et des frites.",
+    "content": "J'ai aussi pris de la\nsalade et des frites.",
     "end": 15,
     "index": 7,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=14s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/gif/014.gif",
     "hash": "18869da87a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCZjZWWh4Gek5SekpWSiXKdfmiumYe5qaK8ppi1o4qqk4iXhYKIeHh+cG59emtoYlsAqZ6lmoyHm496loyCopmJqpeQxLitupmJr5J8wrqqt6WYoJGNmIuOgXhliZJBkoxcAKebmYJ3ZIl9fKqalbusk7mnn7ignlVBWk43UK6cm8W4oKaRioiBgmpiZ3hthnNocACtnI+/tZuspZispZS/sqXMvaebYmJsTll2YnmNXGHFu6WnlISulYqkj4iOhat3aGoAwbS/kol8rqiIta+Vv7Kbxrqxqm9is4FYoHhpmFpWzbajppCGsZmVxqF/rH9dsZudAJuLis3CwsiwsLOloLekjNzQxpaIjhgNJBsJH5yJjNC8sKGMiquQi4t4erKck7mYiQCzoqi+tcHGuL28q7S7qZjazcCJg4oTECUZFyyXkpbVycKjkI2yl5ONfX1JQ0ygmKcAnpSks6m4oI2Yt6qtw7qy3dLNmI+QQDxHQjxHjIKE39PMwLa4o4qIonl2hHmAd2RfAIh2aJiGkJyNm6WUi7mtrM/DwI2DhHx0eIqBgn10ds7AuruurZuRlZR1c4lkZ56Kg1bX9fIo8HIaAAAAAElFTkSuQmCC",

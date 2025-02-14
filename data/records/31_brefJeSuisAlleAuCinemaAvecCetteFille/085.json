@@ -8,13 +8,14 @@
     "videoId": "r-cbMtBLY0g"
   },
   "line": {
-    "content": "Je me suis demandé si je devais l'embrasser.",
+    "content": "Je me suis demandé si je\ndevais l'embrasser.",
     "end": 87,
     "index": 38,
     "start": 85,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=85s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/gif/085.gif",
     "hash": "3dd897a015",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBHOzEtIxoRDAowJhxlW1lLQz5pSz6seW2CWk8fGhgRDQssJR8oIBYXEQyihnWzmIgAOCwlKR8WFw8GGhMFJiAVQjUotoV5v4Z4e1RHHxkTFxAKLCQgLCQhKR8ZyK2Q1b2oAHBMQDcnHiEYDCEZDRELATcnGJVtY4ZcUXtQQDsoHk4wIjsnHS0gEywcD7GlkP/x1QCQYFBeOSklGQ43JxgqGgorHAtvTkJ6WE6fbFxpRDR3SDZBLCEtGwgzHQl8a1+fj4EAbUg6bkMzLRoONicZPigTMB0IfFNDnWxilWJTYz4sbUMxTDEnMiESQSUPQDMpWkpAAH1NPYBLNysWDR8WDkItGDEdBjcrLFxDPGJENkUtH1k4KHZHNSsjIy0lKSkjJDIqGwBqPzJeNCMdEAsNCAQ2JxxFPUxHR2tFOkYiGBInHA5fPS1uRjMuJytHQU9LRlxEPk8AXD8wQyYXEgoGDwcCLSk9Pz9kWVNpLy1EGxkoSTUqdUs2XkEyLiw4PjdGY1poNjFFAF1CNTUgFBUOCRcPCy4sRjw5U0U/UDk1TTQxRzMoOYdcU008QzAuRDMuQkQ9TisnORcLaBp30P9UAAAAAElFTkSuQmCC",

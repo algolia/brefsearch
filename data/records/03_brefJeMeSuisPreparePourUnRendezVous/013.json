@@ -8,13 +8,14 @@
     "videoId": "1x3P61ck0QI"
   },
   "line": {
-    "content": "À chaque fois que je me prépare pour un rendez-vous, je prends une douche,\ndeux fois, pour être bien propre.",
+    "content": "À chaque fois que je me prépare pour\nun rendez-vous, je prends une douche,\ndeux fois, pour être bien propre.",
     "end": 16,
     "index": 3,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=13s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/gif/013.gif",
     "hash": "7b135c8a24",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCRf3WcioOYiYWTiIalm5rCt7W7tLVrWE+heWa3n5fZ09NybGsUEA9CPDprY16ShX8An42HrZ6apJmXopqcvba32dPTtqupako4l3Npt6Oo0MrKU09OERANFBIQCQcFEQ4LALirqMO4tqykpaqjpMjEyM/O1ZGBgY5mUIppYKuZnsrFxjEuLBQSEBcUEhMPDg4MDAB+dHGtpaSakpGQjJBOUWk8QV8+OD5jQzF3VUyuoai3tLccGBgWExETEA4PDQ4NCw0AQzs2UUtJk4yLamhwJSk3ICM8KCUtMyMfQDM3SU11RElpGBQQFBIQEQ8MDwwLDQsKAD02MUlDQJWOjlRTYiQqNyktPhkaLDAyUB4lSBQePBcaMxYSDRYUEhIPDA4LCA0LCQA2LyplXliAeXpGR1QoLDkmKjcgJjsWHzo6NkhoU1UmIScZFhIZFRMSDw0KCQkIBwgAIRsYTEVBXFVUMDA6OTxLOzNDWEhKX0Y8aUg7aEc5Jh4ZHxkXGhYTExAODQsMCQgJACQeGkM6NjcvKyooKDIuLEEzK0YxJjssJB4XFxMPEB0XFSIcGSIcGR4ZFhsXFBsXFC3agY26+JXfAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "5pr4Q09-16k"
   },
   "line": {
-    "content": "À personne. Allez, viens.",
+    "content": "À personne.\nAllez, viens.",
     "end": 68,
     "index": 25,
     "start": 66,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=66s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/gif/066.gif",
     "hash": "0e2283bf4a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXZj5kclCGkIqJk457iXFsflBsflBtf1Juf1NtflJte1JueFJqc09RUkJxY1VzYlQAYHBEfYZ/eX2IdG9yf3x+eIlhdIdXd4pZdYlZdIhZdIhYc4dVcINQRk47Z1pQaVlKAGZ0UGBeW21WSotrW3psW3eLYXmMYniMZHmNYHmMXHmMXXiLX3aKZWh3XDk6OSUkIwBfcmRjWlSgemeng3GFe21whHNlfmxifG1nfmZ2h1x1h1xvglxfdmZDTVEoLzUQGBwAeYKBnJqXfWhdeGFVkI6Ji5F8i5J3iZB4jpN/nZ+Lo6SRpaeQgIN0LzU6HiQpHyUqAEVMVWxwc4eJi4CDhEZNVmZscLOzqre4q7W2qrq7rrW1qMHBs4KEgCUqMRcdIRkeIwAwOEEwNz9UWFtOU1c4QEkzPEhscHPPybbOyLfQybnQybjVz71rbGkjKjEZHyMOFBgAISgvISgwIyoyLjdAO0NNNT1HUlpgnKWglqGckJuXhZKOgY6KQEVIJCovEBUZCQ4SABkfIyUsMjE5QTQ8RSoxOiUsNTxFTk9iZU5iY0leX0FZWUVZWycuMg8TGAwSFgkNEtQOqSawz05CAAAAAElFTkSuQmCC",

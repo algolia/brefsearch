@@ -8,13 +8,14 @@
     "videoId": "DwfwmxOF_3E"
   },
   "line": {
-    "content": "Je me suis dit que ça passerait avec la nuit.",
+    "content": "Je me suis dit que ça\npasserait avec la nuit.",
     "end": 14,
     "index": 5,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=13s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/80_brefJaiFaitUneDepression/gif/013.gif",
     "hash": "8abc358306",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATxJREFUeJw1kMtOwzAQRbOCJp5HPB7HSdrEdZq0IB4CicICARskJBaw5f+/BLmI5SzuvedMoQAK0BJGoVEwCq4ZA8GaMDI5Ax3DpDQpbQV7hsIDBITB4k5p5zk6bBFSTcfW/hzaC8dQmmhpVpo9jZaKBiEQjIKL58XzKOgREuOV46+5eVpLtaqSo8XzTW9v+roIBC1BlFyw5A5UgGTp2NmXwX1MXoyZlC4C32/s26J5oSOI7oSkNJwcJktPnXxOzfc+BITkaN/wwygvsxYKGWmwmFw2GwU7Ag+wCL9v9XWrgWD22eFuY49RCi6NVLCxmJTSKdAgOAOz8PMg16FWyIbrOj/wsq2L1VmFpTndFIUaBCqNWRmuTHI01Cj5sznwR1GIMR5NS9nEVqY8z/nM/T+4UzoEvu3ru4193MovIJ4kvw3tegcAAAAASUVORK5CYII=",

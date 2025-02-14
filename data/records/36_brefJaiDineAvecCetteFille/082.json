@@ -8,13 +8,14 @@
     "videoId": "6dyIHnUE5FY"
   },
   "line": {
-    "content": "Salut. Il avait gagné, j'avais perdu.",
+    "content": "Salut.\nIl avait gagné, j'avais perdu.",
     "end": 84,
-    "index": 37,
+    "index": 38,
     "start": 82,
     "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=82s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/gif/082.gif",
     "hash": "254cd3e525",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwdtummAAAGC2tKhFHJSTIMqPQCmCgOIAD7WiMGt1c7ouNT3EratlzRKXxZhdLLs0vVyWLFmWXu+q77AX2AvscfZ9kCMLx25F4TmJpZeTwepl77xlXof+vGNfB+aZbzhK0RS4kb0XWqqAoVBVzg5qWpGleBKLB4fL0cEiqq2mYdx3bzrlL+Ne0zJqecrN4cF+wWB2IU9lI1NWeVZmqalnXAWV2yN//br/4bj5sPn67+H3ZjE/NQt1Dm8rvJejoQMt7wi0QO2eWNLMUaY2uAqq62k3jtw/3+7+3v/4FZ/FdVXFEYPCnjIEJFFPDJ6xgRgWs4uuO2vYoQ76htwtiZeH/s/lzffL8TsH6GRGxhA3R0McumMV+FJOsfLixN6fNR0XMNjWVpHA4MePdD57G/mBxAaAjABZYQmIRVIYnMhiWYkSGjRx4hnvO5WxJU8s8ZmlNSSub2rrV8OgrFRpHCApKA3DO9vJdCINCPptt7558/zufPB52Pp01Fq9aN9/vNjMTy/azrCq6QyRgRMQjSRTcCKdTLEZ1AS8CfI9XfIUISiBEs+4e4VRWanlSE/kAI6i2/B/Ep1YYVb8j7wAAAAASUVORK5CYII=",

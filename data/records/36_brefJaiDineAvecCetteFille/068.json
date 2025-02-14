@@ -10,11 +10,12 @@
   "line": {
     "content": "Le serveur est arrivé.",
     "end": 69,
-    "index": 31,
+    "index": 32,
     "start": 68,
     "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=68s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/gif/068.gif",
     "hash": "c899f63c14",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwVzU1v0mAAAODeyIB+0O+38BbavhRoaUtL6cfabXxvBnUbG0gMg6CJMRqdMZsaP+IPMNlRj148efLixXjw4sWj3v0txucPPFgDgpYK06bqIvnFyPt5Mf/1ZvP57vVbu40o4fYCsOyaJ3411iSVpdh8Fgt1Zdyu3wiMGMlX0+T32zt/3z3682r5ZOT1e+VJAmehNqzDFhTkAkHnstjAMSahOW/rz4ady3F4Oeh8ezx7vxge2IpviYexcpbWjlytLjAyTbL5HAZZpuegdWpdTfd+XNz+cv/4w2K0DIxtFdaK/HGEFiE68RRL4hSGEkkcgwX8KDaHTuO8734/P/20mXx9MP24uiYQeL0MppHe1aVYAW6JRxwDKAJrQtS1I7dinHrV1/vBuome993VtlfIg0Grtuk1E61oiIwpsoij/w8ypyuCHSPLg/y91H458A9tVKRhhTdnO7sP94NYlRoCg7hCmSYFAsdkVlNFM0TWqAYNwAeKBGlG5vWW5s/T5CwxnSKrslSJIgQ8T2e3MMgqDAEUDqwi6+k4Xu/4CMgcKXpV52annWhShSZLFM7lc/hWJpfJ/APEfVe1r3hbDgAAAABJRU5ErkJggg==",

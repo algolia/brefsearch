@@ -8,13 +8,14 @@
     "videoId": "94NzqAY2Yhk"
   },
   "line": {
-    "content": "J'ai ajouté avec des potes pour lui montrer que j'avais une vie.",
+    "content": "J'ai ajouté avec des potes\npour lui montrer que j'avais une vie.",
     "end": 62,
     "index": 32,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=61s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/gif/061.gif",
     "hash": "f3dc9f99f1",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB1IUiBJFGNJ1mRKluYLF6dLWCiLmajL2egLmOfLmKdLGGcK2GVKl+JJ1Z+JE12IUgAgCJOlSpdoDBloi9lpDBnpjJoqzRsqzZtqDJppS5mpjBnqTRrqS9nnSxhjyhZgSRQAJg2Zak2bKw0bKs2bqg0bagzbLE9c7A6cKs2bq9Feao7crE3bptBeKM0bKQvZpMoXAC6epu7YIvLg6TTnLbAb5a/apPYpb3UmbTRlrLUnrnPmLTMbJJoWZObT4LNgaLCkKoAt2yQtFGAz5GvxXqduVyIt1iFw3acxXqfxnyfxXqdyISlxGePgUaAn0J2yn+gyZqyAJswYrNOfqk2brJNfKw8cLxkjrJLfak3bqw7cao3bKk2baYvaa47ca0+cqs9caE4aQC4kabPpry1UYDarsTEep3Cc5jQlLHarMPYqb/ZrMHPk6+vRXnDd53OlLDQqL2cRW4AkERqqVd/pzttuWOMskx8rDpwtEt8vmSOvWONvmaQwGyTtlaDrkZ2r1qDolR6hixXAIQ/YZFCaJ9Xepo5aKE7bK9Ygq5OfLBRfq5LeqIuZK9XgaZJdp5DbppRdYk7YYQ+YPQA1aEafA3lAAAAAElFTkSuQmCC",

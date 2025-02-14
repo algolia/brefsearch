@@ -8,13 +8,14 @@
     "videoId": "46O65gqs03c"
   },
   "line": {
-    "content": "Mon coloc ne m'a pas aidé. Il était occupé.",
+    "content": "Mon coloc ne m'a pas aidé.\nIl était occupé.",
     "end": 45,
     "index": 19,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=41s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/gif/041.gif",
     "hash": "b4fb07d945",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBkWFR2aWiKe3q3q6zZ0dPJvb+uoaGLfXtqW1iSg4GdjoyUhYKNfnuDdXJ9cG58cG8AcmRhinx6mo2Mw7i64dvc187RrKKktKKeVEpKhH2Ar56cn5COnI2KlYaDk4WCmIqKAHlqZpiKiYl4cauZkb60tY99d4h3c7Coq1FUX46Gh8CxsKWXlKGSj6KTkK2enKiamQB+cGyYioigkY3EtrW+tLOPeXF+bmiNhohgX2eXjpDPwsKrnZqXiISBdHKhlZSrn6AAaFdWa2dgdXRpyry+zsXFs6ShkIF/iHp3SEpQdGJfqZSOr6GgoZKNPjUxJSAdRD07AH5kVHtlV3tqYIh7eZeMjGFZV3dZUCwQBx4jJYFoXnphV39zcIp9eTUuKyAaFzEoJQCQeWqdg29yXUpxW0x5YlRBNzRbPzQpHxkuKSZ6Wk5zUkNJNygzKCElHxw2LChDNjIAQC8oLR4YKRgOfFY5dWFTU0M5p4JkQDIoHx0bZ0Qwe0svaD8lX0IxRzYsMCUgIxwcACQXESkWDWNBJWNOOT40M4BUNLp5RkMtHxoXFVY7K2ZCLmA/MFg8L0EpHSgcFwsJBhUityprZkqSAAAAAElFTkSuQmCC",

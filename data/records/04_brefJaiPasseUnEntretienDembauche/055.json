@@ -8,13 +8,14 @@
     "videoId": "7_VQCD863CU"
   },
   "line": {
-    "content": "parce que je suis un vrai déglingo. Ça m'a fait rigoler.",
+    "content": "parce que je suis un vrai déglingo.\nÇa m'a fait rigoler.",
     "end": 57,
-    "index": 19,
+    "index": 20,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=55s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/gif/055.gif",
     "hash": "724344f042",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAJBwkMDg4QFBQQExEsLCuVkpSfnKCgnaKnpKuloql9eHuUkZqMjZypmZLdyMHQu7EACQEECgcIDAwNDRAQIiEflpKTpqOnrquvvLnBaWJkKRwVYVVVhoeTtaej59XQ2MS5AAgABAkEBgkKCxAODUE1MJiVlqajp4OAhG5na0k2MVU3K15EPFRPUpeJhL2on7ujkwAIAAMIAAMJCQobExJQPjiWkZCFgoI2Li0yJyYyJSJDKSAvIR4sJCNORUBNQTxQQToACAEECgUGGRYUOCsmUEQ+lpGPfHl4JR0cLCMhLyUiMicjHxgWIRkXeHJ0npuhjYmQAAkBBAsHBzMsKUY0LVVOSo+NiXVxbyMbGhYPDSQcGVJAOSkgHRIMDDYuLpuXnJ6bogAJAQQHAQMYFxpOSktwb2yDgX5dWFYkGxoTDQ4LCAhKOzQsHxs6NTMkHRtiXF6dnKMACQMFCwoLAwgINT09d318d3x6VllYKCIhJRwcQS0nclNIPTIvMCwuV05LiG5olYqLAAkFBgoLDAsQEAkRDyw0M4eLlaenuGdobyMmJEg1LXVZUpSVooiGkHFlYXJVToZ7h4FNgnQH0YzRAAAAAElFTkSuQmCC",

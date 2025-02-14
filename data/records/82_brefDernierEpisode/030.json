@@ -8,13 +8,14 @@
     "videoId": "1cZ_H0rgwCU"
   },
   "line": {
-    "content": "En plus, j'avais plus de batterie dans mon lecteur MP3.",
+    "content": "En plus, j'avais plus\nde batterie dans mon lecteur MP3.",
     "end": 32,
     "index": 14,
     "start": 30,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=30s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/gif/030.gif",
     "hash": "f6d28adc2b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA9OB8xLxkhIBAbGQ0gHg8gHhFGRCBTTSZANCg/OyEsKhQfHQ0lIxEgHw0cGwsWFQcAT0crNS8eDAoFJCAXWlFDIx8TOTkYYU4ui11MVUknOzodLCkVFRQHIiERJSMSHRgNAFlPLFBGNlZMN2ddQ2pgSVdPNEI7I2peSotqXFZKJU1JHVlRIV9TIFNNFVJKGFNKGgBnXzN8c0fJtZvWw6rXw6q+q5MtJSI6NTdyc3koISQ6NR5XVD9MTEVQTR9QQyg6LSAAa2k1qJZ02cWu2cWu5dG6tqaTJB0YJx8bWlRWIhwZNi4mWE1ES0QuY1s7XU5ERTk0AIR3Ucavl9PAp9bDq+bSupuMexsVESsjICkiHh0XEzcuJ7ihh7mfgId0XmRQQGlMPACynYTHs5vTwavYxrDs28WIe24uJSAvJyMVDwxOQzlMQTrArJTWwKO5o4mYgmtyWkcAtaKNwKyWy7mk0L6n4c+6cmddOTArLSUiFxEOQzkwZlpQnIt20bqew66UuqSKrJZ9AKyZhLWjjr6sl8Kwm8y7ppiFd1ZKQCkiHxIMCUA2LpqCcKGLd7+rkrGdhKuXf6WPdw4ynkoIpYZZAAAAAElFTkSuQmCC",

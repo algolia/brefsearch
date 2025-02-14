@@ -8,13 +8,14 @@
     "videoId": "UO8tcf3U0dY"
   },
   "line": {
-    "content": "Non, je lui ai dit que ma mère était malade.",
+    "content": "— Non, euh\nJe lui ai dit que ma mère était malade.",
     "end": 53,
     "index": 25,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=51s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/gif/051.gif",
     "hash": "9f2afd8099",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3YkwtKygqKigqHRkrGxchFhNkPC59TT0kGhdWTEmhlJNkWFdHOjZqWFJXOjFYLSUAt6J+qaiYeXlxLxwWMSAaLh0ZlFlDmVxHVj89XlhWf3NwEw4MAgQDGxgXWjsxe0U2ALSpj7C8sWRjXS8ZEi8fGhUPDlQzKGY8Li4gHWliYG9kYhAMCjIgG0MpInVJOI5SQACvr6CevLxJR0QhEAwZEhAlGBRyRTWQWURdOjFFOzl/cmwxJSJcMilrPzV8Tz2JUT4AtcO6dZqeLygkEQsKDgwLMyAagkw6dkU2QCsmPCEdZzo0RC4oWDAoXDQtZzwxaD8xAJ3Jylx/gyUSDRwUEgwLCxoSEHZENXxEODsoJUoYFlAkH0AqJDUiH0AgHlMkIEkuJgCOr65CPTofEAwbEhEPDQ0TDw5TMid0SDlbMSxqLSlBJSI2KCQtJiUpFhU3ExIzHxoAfm9hLBgTIBURFxANEA0MHxUTPSMdRyskSzIqY0M4VDQqQzEuJyAgLhkYOBwbLRYUAGZLOiASEBcQDBUPDQ4MCiMXE3FCM4FMOmpDNWhCNH9LOYdaSykkJCIUFDEdHC4SEnlhaMx/8ni6AAAAAElFTkSuQmCC",

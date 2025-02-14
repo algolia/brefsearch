@@ -8,13 +8,14 @@
     "videoId": "OmEx0mpHFG4"
   },
   "line": {
-    "content": "Et au fait, c'est toujours cool pour le loyer.",
+    "content": "Et au fait, c'est\ntoujours cool pour le loyer.",
     "end": 99,
     "index": 42,
     "start": 96,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=96s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/gif/096.gif",
     "hash": "778d5e9441",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKhnSys6G8u6LGw4vIw37Du3zVzpzb1cPg39GgloUdFRQfHR8dGBkPCwwSDxBIQUMAYGRuf4ubh5KgjpqriJaqVEpLrH9foXNWaGBckYaIPiwoFxcZFRIUCggKFA0OT0dIAGVrfICOq4WTrYuasoiTqlpEQYJWQ3dOPXJveIeEjkoxKikcGDMkIBoPDikdHFhQUABmbHx+jKaCjaaAjaaGkq1vYmWBUz5pRDiBf4x3eIZ0aWmRjpOdnKOIjZh3f4tucXsAY2h3d4SfeISejJesoq2+bWpuOBsSPS4tk5upu8LNvsvYuMzdrcTWqL7RpLrOlqq+AGFkcWx4k4+Zq6+3wJ2osmVqc2lnbLC5xbvK2LbI17DD062/0Kq8zaS4yZ6xxJSmugBYW2Zrdo2TnqmIk52GkZuHlKCou8yww9Ssv8+sv9CsvtCqvc6nusugtMeWq76Fmq4ATE5XbXF+g4mRT1xqZXJ+hZqshZ+2ma7Bn7PForbJorfJoLXIm7DEkKe8gJetbYOaAENDSGBRUH5eVktLT1xmcXKNpmiDnXiRp4aftI6mupGpvo2luoKar3WNo2V7k1VqgVI23l9E4Cl5AAAAAElFTkSuQmCC",

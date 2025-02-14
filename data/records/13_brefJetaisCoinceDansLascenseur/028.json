@@ -8,13 +8,14 @@
     "videoId": "l4Dz4EKZExI"
   },
   "line": {
-    "content": "Je me suis dit qu'il pouvait pas m'arriver pire.",
+    "content": "Je me suis dit qu'il\npouvait pas m'arriver pire.",
     "end": 29,
     "index": 14,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=28s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/gif/028.gif",
     "hash": "baf887419a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYtJREFUeJwdzEtu00AAAFAvwPGMZzw/j+fnT+0wSWsH4zQBVw1tRRCVIqhUVV11UbX7suAGHACWrBG7noErcAFOwDmQun96gXcZxajUae/3NkN3suq7prg4393e3F+dby/fHW/Hw97XtVWVyQynAU+QIJgT7Eu7GdpXvq45vLt9+Pn734/HP7uzs7FtFtOq1KkSjOA4cBxzgijBRvJ55dq6aJwxSp9+uP7++PfL119t7WqnpaCCU5eyoBB4bniZcZVSwZIXucmtY4xxzt/vbu4/f1u+PtUp8bmeFarIWBADIBJkRWIF8U5NjYyiCAAQAUjAs49vN91iZVNSKa6fxsAr6jU3HDdaLEoDwRMHAED4PIy8lVPNM4pLSa0gMomDyWQCoghBwElMkxiCCEKI4jgTTAm2X7k388ZKJiiGEIThJAjDEELIGM0kZ4wgFCcJRggZKQojL46Wu/GwyvPcaEYJhDBghFqtp3XTzQ4W87bv+qEbli+X62E9DutPJ8fb8Wjdr7rZQV3t6Uz9B8LtN3WG+n2hAAAAAElFTkSuQmCC",

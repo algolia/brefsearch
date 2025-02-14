@@ -8,13 +8,14 @@
     "videoId": "DUDE5JWW-q8"
   },
   "line": {
-    "content": "Vous avez entendu ce que j'ai dit, Jean-Louis ?",
+    "content": "— Vous avez entendu ce\nque j'ai dit, Jean-Louis ?",
     "end": 43,
     "index": 20,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=42s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/042.gif",
     "hash": "f1c0f79f55",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gByb3Nua3FcWWRubHNvbG8/OkApHRQlGhQnGhQ7LiluYV91aWdsYV94bWpTSUZsX10AZmV0YGBzWFZld3eFZ2JmMSMdNSIbKh0XIhcRLiIcXlZUd3BuaWJfaGJfUkxJWFFOADM5ZCYsUzEzVEJIcDU7ZG9VWJNnWU82LjgmHz0pIh8dGT48Ojk3NDAtKiQiHh8cGQAuN2gkK1YxM1lCSXs1P3RiUmN5U0d2UklwTUNgQDckIh49OTQ+OzY1MS4zMSwtKiUAT05fTk1eU1BeW1poXFpjYVlZbkxDfVdMfldKjoSIgYyYYmFhWVZUQzw3R0E8TEZCAI+MnnFxil1dd3p4f2FfaGNbWGtTUGJDOGxfX5ivxJ6zxpirv4+juGxzf1NKSn1vbwC0r7WKiZZzcYF9e4JSUFyJf4Gbl6NmVltqZHOqwtOqusWer7+QoraGl6paW2B2Z2YAqqWrfHmFb26Bb215QkBNfHVzl6a1emNxcmRxrsPRqrrHi5yve4yeeIiYaXN9gHJyAGtpeXFyh1FWeS82Xzg1QHt5eJamtmMuPIB0ga/F06GxwXWGm2h6jHaGlnF9ilpXWkQypxmPRXFNAAAAAElFTkSuQmCC",

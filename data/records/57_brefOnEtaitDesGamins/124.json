@@ -8,13 +8,14 @@
     "videoId": "LI0mfa3sqWY"
   },
   "line": {
-    "content": "T'es vraiment gamin des fois, putain. Ça va, c'est...",
+    "content": "T'es vraiment gamin des fois, putain.\nÇa va, c'est...",
     "end": 128,
     "index": 36,
     "start": 124,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=124s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/gif/124.gif",
     "hash": "400a25fe9c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gD09vbZ4OH///+qqqoqJiQiIB8qFBogAw9ALDE8OjgXFRY2JyE1KiZNS0hXVFFhXlwA7/DwxMjG8vX2RkNDZkw/ZlBDHhUUKhEXU0pJExQWAQIGFBESHxoaGBcYQT46W1pXAObq6sLGxNPX2CojImBJPndbSjMkHCoZGjAmJgAECAQFCQIECQkLDw8QFDk0MFpZVQDk6OjFy8ri4d8jHRxNOTF6WkcwIhsiFxQ1KSYNDA8HBwoCAwgFBgoKCw9BQ0MzO0AA6O3txs7O4uLhPjUxKR8dWz8wTTYoRzIpWEQ5MiQiKRkYAwQHAgUJERETSkZGZWdqAJ99Y5BxYcjEv2NTSjAfGl9HO2BKQFY/M29VQzYoJDUjICwhIBwXGDMlHk5HQ25wcwBlLSZdJCNiPTNQQDVALyp6W0tiST4/JiBlSjhPQz0kHhw3KSQ6KiVFOzhUV1xcX2IAQBodOw8SNhcSRjMqOCYhQS4nbFNCXTspUUdFdHZ8WFtgPzc2Rjw7VlldWV1iVFZZAB4GBycFBkAqIjooITshHSUeHi0hHWhQQ2toaV1hZ1hfZU82Mk8aElZRVVZcYVFSVc8jfGpXmJ5KAAAAAElFTkSuQmCC",

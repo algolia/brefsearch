@@ -8,13 +8,14 @@
     "videoId": "Z_Iqj4P90Qg"
   },
   "line": {
-    "content": "Julien, lui, il finissait toujours ses phrases par...",
+    "content": "Julien, lui, il finissait\ntoujours ses phrases par...",
     "end": 10,
     "index": 5,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=8s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/gif/008.gif",
     "hash": "53c7ee1ee1",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAoIB8tJSOUjo+3tLS4s7LAu7rAu7q9uLe/u7mgmZdGOTcoHx1BOjmYj4qTiYSLgXwAIxwcGhMSaGFgxcHAw769xsPBxL+/wry8vru5gm5psYFvqntrdlRLf3Zxo5uUkYeCAB0WFRcQD0E5N7q1tMTCwMPCv8K+vr+6uby4t5F2bo1hU6BtXXRNQoZ2b6ujm5iOhwAbFBMbFBItJiWuqKfFw8HBv77AvLvFv77DwcCeh4KdbFyUaFt/W1Gxo5ypoZmbkYkAHRYUHxcWLSUkq6Sjw8C/v728wb+9npiXW1ZcYEdNnW1fg1hNYEhFkouHqqGYm5KLACEWEyAVE0I5N7m0tL67usHAwIeChjgpOCQYKUs0QoFXS1g4MiIWIV5XWJKJhY6BeQBiQDkzHhlcTkq9uLi8urq5t7hkYGU5LzsqHiwvKDRYOztUODkXDhtpY2VwaGlxWE4Aa0M7LBsWfnRybGJgU0Q/ZFhWYV1iR0NIFhIVJyYnIxwiJBohFxMXIR4fPDg7XlFNAEkqIzcnImxSSD0rIyQVEDQoJVVRV0VBRhwVG0RARENBQhsTHCQaJCIfIEA8P1VOTh1+sZ3cPURVAAAAAElFTkSuQmCC",

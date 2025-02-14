@@ -8,13 +8,14 @@
     "videoId": "r7LVaWeM_bg"
   },
   "line": {
-    "content": "Je lui ai dit que c'était le nom de mes poissons.",
+    "content": "Je lui ai dit que c'était\nle nom de mes poissons.",
     "end": 62,
-    "index": 25,
+    "index": 27,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=61s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/061.gif",
     "hash": "98f7c2c82b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4X1dlTUxkSTw2KyxlTkSScF1aQDZTRUOyp6e2rKy6rq1uZWYqISUeGyMZFx8UFB0A1cLAr5uXIRofMCQls4Bk36N/xYpoOychgXl/v7jCxbu6mYqHZUQ8Kx8jGRcgExIcAIOEl2hldBwWG0s2MK18ZH1YSoRbSEAtKT8vLHFoa5aQknFpaWNEPVM0LisjJxQSHABKRUJkUT4hGRt9V0aufGSOZ1WjeGFFMCwoGRZ9cHG3srePgoB9WU5gOzNEMS8jHSMARE5pbnaJMiEdZkY6r3phq3dgoG1ZTDMuGxIUn5OW18/Vtqmmgl9Ta0U7Vjs2OS0uAKOhr7awu05CQUUxLZpqVpNkVndMRCQZGigeH5eMh6GZjYV3a29USWxIP21ORl9IRADDuLihl5d+Zl6CXk+GW0qGXU5UOjQVEBY3JSBeRiiKdz97WClYQztrT0iCYVZ4WlEAdmRfWFFQuoZpnW1XhFtMVzs1Eg0VDQsVNycjXT4xkHNJt5Z0f3BvRTMvfF1RhWRWAGhXU1JDPsKOc7aFcJxuXnFORR4XHBMPGCkdHi4bFXdgVs7CwJuNiUY5NmJIQItoWNBSnUBYW2tuAAAAAElFTkSuQmCC",

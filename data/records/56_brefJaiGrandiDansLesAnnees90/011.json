@@ -8,13 +8,14 @@
     "videoId": "HO2SLJQShJ8"
   },
   "line": {
-    "content": "J'ai attendu des heures près du téléphone pour qu'on m'appelle.",
+    "content": "J'ai attendu des heures\nprès du téléphone pour qu'on m'appelle.",
     "end": 15,
     "index": 4,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=11s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/gif/011.gif",
     "hash": "fd9ef2c6a5",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwWlvmgAAAFA+bq0VEeTw4PBGiyIF8UKrIsoZPCribOeWIW3TrXVrmyVNluz44XsPQE7ep+MxAoJO30UQEIKjUAKE4Ehk1hWf9qvAM/1Jz+sKC0UYS6zCZQEsepaMx5NIIhGDKTyVS5MZjMAhWChmX8Kbuw+L423w5+3Xt7VjyOywlgVoGCITCIGgCAjFIrEMisvVCsfQeQL74s1D3w23q3+//z4s7e1QVPkcwFEpBseg02g5neJoUi7lryeKXC5UyFSwNsOVGbqTaa2ol6nvnmXKLNCrlc4ZqoSjM5F/9pzjlfXqu6E7u7yoHXx372iva+vteqlXc8eF7o+bQPTkDAEhBidG9eonTdmNOi8b58fGVbvtflOu0JTGl35+XN/a6mE2+Gz2gSRKSA2JRNF2gbGl+rLVeFoaj8FBmziDvi4LHT5LDuvlbV+8N0Z3iykwEC/m1ryay7NYfMSVQ2N43O8evz5vlv7OuznnFIbmzF7LaHJGgw0cFYBBWBakjtgqYUinyHhq153q+sS2NMvQbDrDjgfa9HJcyxfqJGG3+f9RcWESnbGJJgAAAABJRU5ErkJggg==",

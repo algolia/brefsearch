@@ -8,13 +8,14 @@
     "videoId": "00r3RKxAExo"
   },
   "line": {
-    "content": "Ce soir-là, il y avait Carbone Keblar au Platin.",
+    "content": "Ce soir-là, il y avait\nCarbone Keblar au Platin.",
     "end": 4,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=3s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/gif/003.gif",
     "hash": "93ea2f924b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCEe3iQhoObkY2jmZSroJuxp6G2qKG3qqGQfneEZFuNdm+bkIuil5Kaj4uSioqJf3sAmI6LppyYrqOfsaahtKqlua+qvK+osqafhmpgrn1wu5iRl4yHrqSeq6OfpI96iF0pAKqgnK+lobGno7SqpbitqbuwrMK2rse5spR3cIJbUaeCe6+dlrWuqqmTe49jLIRvXgConpuso5+3rqm4rqq8sq3DubOqn5plX11mT0qLYViOb2hGQEF6dHauln6UhX2UgnYAdWlldmpmjYSAppqXsKWgv7SwUktLCAcKHRYWi2ZflHl1ExESIyMshnZnkWg3jVsbAIuAfX1vbYZ4dXlua4+FgpWLhyknKW5pdYF8i5+SnoV3fhUREjQxNm5gV551QaONeQCQiIVzaGVoVVFvXlyjmZSklYx4X1qQhY+ZiZWbjJlrYWoMCQmhf3nOtrCooaGqoqIAjIWEk4mHopqYmZCOsaWdrJaNkmthfF5abU9KjGlkqo2MZFRUjmtkuJqTraOdmo6KAJiRkKCamqympKukonJwdHBna1g+Okk1MhwWFjsoJWhPS4tyb493dHBgYGhkZ4J5eEW42l7+NZwFAAAAAElFTkSuQmCC",

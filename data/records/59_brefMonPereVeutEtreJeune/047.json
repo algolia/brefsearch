@@ -8,13 +8,14 @@
     "videoId": "7Ry1eljBOvM"
   },
   "line": {
-    "content": "Oui, je comprends que tu aies envie de parler.",
+    "content": "Oui, je comprends que tu\naies envie de parler.",
     "end": 48,
     "index": 23,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=47s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/gif/047.gif",
     "hash": "4e42043897",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwVzdtummAAAGAiBzn+QFFBAQ/1MJQOreJkiilQXRWrGK3MhnbdwaXZdOc2y+57sWTZLna/q2XvsMdb9r3ABxWlRBrQ7Xzmsde+8vubwLteDl+H4zfr6ZlrBba5cDoXIzs8tgK76VsGlE0Jh5Wi29CeTvq+ZTwZ2bvQf3c+vb06e7kY+d3WZj7czAfRib10OrPeIVTNZqZ2uyxLvmU8rOQj19quxm/PZ7fPVh+iuS6L4aC3C/3opL/yrHHHgFIsUBM8gcclgRdZVlPEy4l3t3v+ajX5/GLd0Upey9gE/4d7ssRgcUgBzD4PKILgAYNjeM/Qv91s//759ePL+5to0a4U9ELu2DTcpl5XRDOXhsqpPZUDKIoBmuIoUlPlu4+73z+/f/209eo1eY9PC4laTpkfPbh0Wr6pQ3gcAyQZi8E4ikqAJhFU5dn1oH/abaY4AAgyyXE1NX3aKM+s+85BCYJhGENRgaHMUraez9BxnESxg7xSy0o8RWZYkKCpopQc6vtOtfCooUEIgiAwbFWL18FAAEwMRhAExRCUwgmWJHMCJzJUEjCNUmHpdi/GR/8AqXNRuXXPSmoAAAAASUVORK5CYII=",

@@ -8,13 +8,14 @@
     "videoId": "OmEx0mpHFG4"
   },
   "line": {
-    "content": "Trois. Je suis comme ça, je ne sais pas dire non.",
+    "content": "Trois.\nJe suis comme ça, je ne sais pas dire non.",
     "end": 15,
     "index": 7,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=13s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/gif/013.gif",
     "hash": "e1e00175f8",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCDfHuOi46NZGCBDg6BHR2plZKnpqOspJqclIyJgX12amKbjnuak2+ThlaZkUqMgmIAmo2NmH2BXyUkTB4bcVlKt7Kzw7urvrafxsK4l3xyVj49joBzp5qCd2VVkYI3jno6AJWCgZxtc2VWUVhCOqF4aruwsamgmJuRh4h/e4RoYI1qYZ6Pg56VdUk8OXBmSa2ngQCvrq+0rbK/u8GOhJJpV2GWmKampKKimIqNg3qKgXKDeXtGP0Y8MzklHSJWSU62pZkAgH10lI2Hx8jW2tznqKe2ra25xcKvtq+UubKcu7Wmcm52DQUMKSAkNCw4RDpHkIZ/ALGuoru4vMbG1dDR2+Xo8sfDuaScfKSckK+jl52UiVBLUgwDCishJDYrNE03RY9iWwCQh3SgnKXCwc+7uMK6rbC2pKW9rarBvJ6bg247LS0wKjQOBQ0gFxo5MjhAIzGLNjIAXFBBjoeDt7bEppqjp3xwmoR4n394tp2Ho5dxZ1dKGxQbBgEFHhcbiYF6iIF8mZCHAGlhT4Z9d56bp5yNlKJzaLOZg6yNdqVxcI5SUIBXWjMxNwAAACwjJ6ymm6Wglo6KhHig0TTEe2TOAAAAAElFTkSuQmCC",

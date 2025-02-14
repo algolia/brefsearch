@@ -8,13 +8,14 @@
     "videoId": "_AH6uf2dTLg"
   },
   "line": {
-    "content": "Quoi ? Attends, je vais aller.",
+    "content": "Quoi ?\nAttends, je vais aller.",
     "end": 61,
     "index": 26,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=59s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/gif/059.gif",
     "hash": "4fedcb3f36",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXVJREFUeJwdy81umzAAAGAOk6qSYAy2sfE/tiFAGjANWqKqU9p106ZqLzD1tDeodtmp50l76mn77l/y8On1fH6Zwxr9Ett1CccY1papXri+bgTAxVWWv7vStLu7vB7Xl2QZLwc7Hsw4+zmGGMN6251cJXVZWVRXm+J/uK626P7p193lZ7JX3cHuexlGvYs+zi4u7WoQ56CwiNUA0U3BNpmi3cdvfz58fksG1Y165yvhqY5+ntxhdpPICU2zegPqbW7KSuXlGNbHr28Pz7+TQLWrpEG0IWKQ3dTc9MK3Ikz7+9FNXnYsBTLHBmHL3Pvzj0RCwrOCbYCEpGVmkMHheqf7y9P39fbRMWNLGqiSEAtYKkQTvoXVNWhq7+vGEbHjjSlJw9Tp9GV0g4bIE25LylJgEDWYJyovLdHH5dlgqSFumbGIqqzodXcT9hYxBREHhYTY12qwbUJTIP4dbhHTOXZEKIhVmrdMBSYVxLogqqw810EYS8VfBq84X5hNV6QAAAAASUVORK5CYII=",

@@ -8,13 +8,14 @@
     "videoId": "ZbGrzgcO68A"
   },
   "line": {
-    "content": "C'était pourri, mais on avait des nouvelles phrases.",
+    "content": "C'était pourri, mais on avait\ndes nouvelles phrases.",
     "end": 57,
     "index": 24,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=55s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/gif/055.gif",
     "hash": "9e5f85f48e",
     "height": 720,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAShJREFUeJw1kdtqwzAQRGd1XUmWZNmOLcfOhaQlIX3rY///w4odAgcGlpl9mAEgAA0wwe80QDbhZvODqCdEQiB4gAEDSOziPjDBCTSETFSI4vuILfDGAWBJHrDBdef1xbZoGfu8Wl3YlJJXZzvAEgzt7+AhsytzrrW7/Dz/Lql2Nt9Or9G2axzvt9/H8pzIFC6DZEsMhgo89Ok45Pl0fBxjHZu5Hu5ruZzzvNTv6/S1mFhdVyRL4WFhtEiSQpvW5MbMQ5vPzEPqn7Vcl3yc27XzdVBNUtHKFgrewHsRikqD8JNw99AbVYrtF9VMMhyEL9At2RYmbg1tJTRAFJQtOYaaJCsKgUKCCTANdIRuoD20gsK+g/xMEQU4QAt4BdbQGsZuaA1Fm038AzwNEVfn+yDwAAAAAElFTkSuQmCC",

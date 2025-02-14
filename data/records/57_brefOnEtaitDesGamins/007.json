@@ -8,13 +8,14 @@
     "videoId": "LI0mfa3sqWY"
   },
   "line": {
-    "content": "J'ai dit: On le fait ensemble ? Elle m'a dit: OK.",
+    "content": "J'ai dit: On le fait ensemble ?\nElle m'a dit: OK.",
     "end": 9,
     "index": 4,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=7s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/gif/007.gif",
     "hash": "213fc14961",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBxaGKDgX5kZGSEYU9dKRBLNixWRDxCNC1fKBCRTy6+jGqed1tYOCQxGAghCwMkEQgAaUw8bks4eFhFZ0IwKRoVlnRhlmxUZkAsXycOfUIlZkUzXT4pNx0KLhUGIwwDHwoDAHVPOpFNKptTL3RAJj8xKqF+a6h/aYdcRGQnDFsrFSkbFkIoFT0jDzcdDCwUBi0UBgBjRjRoLA1tJAFyPCJ9ZFWKbFuDX010STNhIQSAPh18VT9KMRw9IxA5IA4zGgk2Hg4AfVQ/fjkZVyoWUEA3gGdZqoVwnnhjhlc9XSkTbTUgdE02RSwYMhoLPSMQMxoILxYHADMqJXI+M1E0MUhHRWxSRYhqWYZcSFEtGjYkG08aEFAzIDgeDTMaCzohDy4VBi8VBgBBGxWHRz5dKyQuJid8bGJiSz1mQzFGMyg9IRpcGQ1PLBo8JBI6IA41HAovFwgsFAcAXiMblUo+SDMyERAWiYJ/jHpxhW1famdnMx0gZzMpVTIfNR0LNx0MOyANOx8LNhoKAGomHoMuIz8wMRUVGYN0bKOdmqWhn5WOjB4gJ0M5OVg2JEAlEU0uG0MlEEwsFlMvGwfRbMbpKJ4SAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "7Ry1eljBOvM"
   },
   "line": {
-    "content": "Il faisait son regard: Je suis un homme et j'ai une voiture.",
+    "content": "Il faisait son regard: Je suis\nun homme et j'ai une voiture.",
     "end": 45,
     "index": 20,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=42s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/gif/042.gif",
     "hash": "cc8591bb00",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwVymlvmmAAAOA3rgoIQumY4BBbj7ZaYToPrNJ5ELzqCVZR1CBKtYvrTE1auzTb52XZj172fH6ANVTtyXAz1bdzY3WndqXMolsX47FMLJqJXuYFXkoI49vaoK505FLtpgCWI21t/N+P5my3NN++fTW6bQon+WDwUyh0zrKnNN1T5MbNtSREy3wEDKrytNNcj4ffF/P9/fJ5bYvxKxLF/B+8Qjh0yXHBj36eY7RSTklc5M+8oJQU+nLR0nrbubG3rZeNnY3HfITnNnU1KKTPWZbzMgJNHEzNbkrTdgOstM6oLs96rafV4vBwv7PMcjaT5BizmP6lN1tpPkAzEZ9vVMx2k+Fy7BT8fn78c9jtlzO1qoiJFEXSBIK2PkcXFfFNb0xKuWP8xIO/xxEsTGLXgRPwMFJ/rM2/r0/N4hfIhb1zQA7gzEUCZkX8OWknQmcQhOEogSAexAmTMAxGddlSWy/2fGsMaYqGnG4AjiI0talJupSCIdSDEh6UgCEUd+N+igJ31Uq7WOiXpXFD4RgWciIOhyseCL32FT2fRGAMdeNuGHMdwQiEUvjxP4dTXcv9cy2uAAAAAElFTkSuQmCC",

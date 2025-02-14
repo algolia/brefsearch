@@ -8,13 +8,14 @@
     "videoId": "4tdCI0GUy7w"
   },
   "line": {
-    "content": "Si. Je n'arrive pas à rentrer chez moi.",
+    "content": "Ah si.\n— J'arrive pas à rentrer chez moi.",
     "end": 7,
     "index": 2,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=4s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/gif/004.gif",
     "hash": "d29960e749",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCEdWeMfXCgkoSckIKUioBMSkgjIyIlJSVBQkWOhX2Zj4ZuZl58cWaUhHWDdGV7a1sAYVJNVUpGal5ZS0ZENDY6P0FGODk7HR0cGxsaKSgnIiIhDxAQHR0cWVNMkYJ1j39wADsuKkA0LzktKVpMSEVFSjxCSkpRWj8+QBsaGA8ODBgWEhoWEScoKC8wNXVsZKOQfgAtIR0vJB87LShHNC5TS0tZaHVMV2A7NjYlJSQcHBswKSYuIxwzMjI5Oz80MjGKfG8AJhwXKx8aYUA6YEM6U0dEP0ZOODo9KCcnICAfHR0cHR0cIyIgLSopKCgpFxYVKSgoACkeGTwqI2o+OXZTS3VcUzozMCIjJR4fHiIjIh4dHD8/Po+Oj1JTVBkYGSAgHywsLQBELCJHLiRpPzZqRT2Qc2G1qYt0bFkpIR0lICAhIiN9cW27oJpbUU8mKSoqKioxMTIAq5CImIF4h2ddUjIpalE+0cup39m2pZqAYk8/S0RARzs3qY6FmoF5Ojg5KywuISEhAM3Dv9jPy9fMx6+gmJ2KfNjQwt3b0OPg0tbNwNDFvsSup8GlncGgl2dUTS8wMScmJxQLit+jTUgEAAAAAElFTkSuQmCC",

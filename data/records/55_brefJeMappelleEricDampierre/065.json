@@ -8,13 +8,14 @@
     "videoId": "tkOuQiO-Vzg"
   },
   "line": {
-    "content": "Tu fais beaucoup trop d'interro négatives. Lui, c'est Stanley.",
+    "content": "Tu fais beaucoup trop d'interro négatives.\nLui, c'est Stanley.",
     "end": 67,
     "index": 33,
     "start": 65,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=65s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/gif/065.gif",
     "hash": "cb1ea2c0ec",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gASDhIAAAEBAQQDBAsBAgcAAAMKCRArIiYsJy4iJi8bJjFEUF45RFErNkIeKTQQFR8AUllkEw8UBAIJBQYMCAgPBwcOLCcrVUpQbWBnbmdsTFVhYnGBR1RiHSYxCQ4XDxAbAHeIl2JncDcsLzQrLjAnKjUrL09ESmldY25gZ4B1fFJZZDVFUys5RhUhLggTHg0RHAB1hZSFl6dybnZQQkMxKS0pJStUS1A/NzxURkxUTFMpMj0cKjgWIzAUIzAUIi8WIS0Ac4OQgpOigpCeUVRdJCMsHx4lZVlfZllfbmJobGNrRlJePk1bHy06Ii88Hyw5ERsnAGh2g3qLmISXp2BgbC0WHzU1PVhLUV1PVV5RV29rck1YZURRXiYzPzNATEhXZFZkcgBgbHlzgY+BlKNscX8uDRUwJzE1NDpNP0ZSQklgW2Z0hJRjcYBse4qImamVpreKm6oARk9bX2p2d4aUdIGONBcgKRIbIicwIyEoMjE5Qyk0e3eHnbLFl6m6h5inS1djGyQuACw1PklRXWRyf0tHUiYFDSgIEDcvOiwvOAwQGCoXIDUQGltPW3uJl2Nwfg0SGwADDH7OeGOZdcIdAAAAAElFTkSuQmCC",

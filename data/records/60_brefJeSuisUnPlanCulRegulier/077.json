@@ -8,13 +8,14 @@
     "videoId": "5rKgC34qhFI"
   },
   "line": {
-    "content": "J'ai voulu le quitter, mais on n'était pas ensemble.",
+    "content": "J'ai voulu le quitter,\nmais on n'était pas ensemble.",
     "end": 80,
-    "index": 32,
+    "index": 33,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=77s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/gif/077.gif",
     "hash": "4b40172f89",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwXtT0gAAAPB9gLrTM8+6Kws9NepQuHjMig3WvMFGMphjD9gIeYw92FCBYIjtBrEDm3hkdKflP13f098PaDR67bY1GExGw+tL90/3tBN4sULD/rHGtnisL/P24MJQNV3RDKlczjNAv+/Y9pXjzKfTheveUgfw3vOluM9TozH3onl/9W3hOrqsqKUjlUcEAgRsezZ2fk0uf89v/hU54c3TxztrS95ny6nIa52K/bSaP4bntfznOhuX2bjMwIA9nNnWdNAbdM86aSS6/eTR/uYauL4swgGnkr373m/KtSrzScujlSNY5VHg9Eu+TuEiGs6FNjKhbXBjNRvxcuCOjoN3Pf3/yPx6zJZziMJCUi52dpwCWsWUgIGtZLBDhLLBLcizIsb8AuQTId+4yrhi8lrOVpkDGovIHHpSxADHrOp8okOE7w2ukQind9dJ/8sSvKsgewoaNA/3FwrVFKmGQOl8QqFhYHouNQVcQ/1/DcbOxTU0UHj3Svm4dRL3csHNOvR2VsINCulwCauUMQsEoBbwdpWkA56bGtkloyPq/VDMWFJ5YqgVImoegvNaWiOhNpucaqKEf3gAfZia5WOKJkIAAAAASUVORK5CYII=",

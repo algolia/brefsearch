@@ -8,13 +8,14 @@
     "videoId": "br82-adJ0FU"
   },
   "line": {
-    "content": "À 15h33, il m'a envoyé un message: C'est le jeu au mec.",
+    "content": "À 15h33, il m'a envoyé\nun message:\n— C'est le jeu, mec !",
     "end": 59,
-    "index": 27,
+    "index": 26,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=57s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/gif/057.gif",
     "hash": "171aa3e496",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwdz71r1FAAAPD3V7g4qbPQSaVgEcXFj6FDXSourUgdxEnxAxwOQZyqiw69lrZH/aBnbYXD1nLJJS/v5SXvK6F3ibmUXD7uSO68Foq04iR2+e0/cH3swpWzp0sPHj69d/f+tdHn05PnTp0cvzg6devyi9snpm6ceXRnYmbi5qWxkfGr5x9PT4LXz0qvnpTWFjdWF78tvy9/XlmvzH1ZeDs//65S+1SplJerHzZXV2ofl2pL5bXqQhVsfkVICUwYczvnIpey8Lzfvnfoe0et1l+v9cfzDn3/qLVz0JR7nPSAUfcZ6brOnmWmsBEi2LFIZpH0v2bC7J5gBWcFpwUlmY0SoGw1TZS6zj5BHaTtamoAtQBqbb0RaKqPjci2MpukjhxK3mekCywj5lZPimFz58B1fklRSDHkLBeskGIgxZCxAWcDTvuC5hRnAKshxalguSP3KYvrilS2fai1MdxFeohRglFqwNhECSddS4+A+l0iJaA4dVjflQNd82EjtI8DJu4QnGEjQXpk6pENI1z3wI91Q60xUw3evJydmy0TI0FaaDTaBMWSFpx0GU5tGBH1J9p24Rb9B8HsP1J5ViB8AAAAAElFTkSuQmCC",

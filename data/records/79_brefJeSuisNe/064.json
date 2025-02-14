@@ -8,13 +8,14 @@
     "videoId": "lGBPAoLUn-0"
   },
   "line": {
-    "content": "Je suis arrivé devant l'ovule, elle était magnifique.",
+    "content": "Je suis arrivé devant l'ovule,\nelle était magnifique.",
     "end": 66,
     "index": 36,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=64s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/gif/064.gif",
     "hash": "6533f0f050",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB9O1SWRmGpVGzBd4LNkpLMk5XWn53WnpvPlZXPk5LGgYnBc4C5YHSwVmyrT2ifQ18AhD9amEhkr15zy4uR2qel3Kun1qqq3bGv4rWxz56fuYmTvXeFu2h5tWZ5tWt9tGx+AIZCX5tNabVqfc+XnNmrq96wruW3s8yhpM+pq9aiotGhpNqvsdSoq9OnqtOpqtGmpwCKRmWaUnCwbILGipXQnqLUqKnbsrDHmJ3Dk5ndsrHny8jnzcnjxcLYq63Lj5bIipEAiUtsn199tXeNvoGSxYiWy5OcxZSc0pqf2amr5szJ5svH4ry626qr0ZObxoCNwnmIAIBIa5JXeqVohbFzi7p8kMSDlL5+jsWbot69vejNyuG7utqoqdaaoM6Gk8h5isJuggCCTG+OVHmWW36fY4Grb4i0d46xdorRsbPkyMXhvbvYpafTlp3Ri5fLfY7FcobBanwAfEZqgkxwiVF2j1Z5lVp6mlx6rHOI2ba34Ly61KGkzIqSynuJyHeIxXKFwGl8vGF0AHA+X3VCZHpGaX9Kbn9JbIFGZ59je9Wpq9KgosOAib9vfsFoesBleL1idblccLRXawP+BHkyTxdTAAAAAElFTkSuQmCC",

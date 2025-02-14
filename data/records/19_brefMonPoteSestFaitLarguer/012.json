@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Du coup, je m'en battais les couilles.\n— C'est pas vrai.",
+    "end": 13,
+    "index": 8,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=12s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/012.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/012.png"
+  }
+}

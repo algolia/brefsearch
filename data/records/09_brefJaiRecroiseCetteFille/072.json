@@ -8,13 +8,14 @@
     "videoId": "r7LVaWeM_bg"
   },
   "line": {
-    "content": "Elle m'a demandé: Tu t'appelles Vincent comment déjà ?",
+    "content": "Elle m'a demandé:\n— Tu t'appelles\nVincent comment déjà ?",
     "end": 74,
-    "index": 34,
+    "index": 35,
     "start": 72,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=72s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/072.gif",
     "hash": "cc64e486cb",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCDZE99ZFJ9XkKFY0RuXE1pV01lVjdjUzR4ZERpWT5ZQTeIXU11YVaWalGWblSVcloAQDEpTz0zd2RTjn9viHlwj3xxjX51lIV8i4J4dmRYtYNqwZB4fF9PjH9xn4uCnIiDAFxLQVRCOE4/N4R4dbOutsO+yqGSh6WYj6Sip4JiVbB2XMeOdKN8a6iot8fAytG/vQBKOTBDNS1hSj0mGRJZTUamjXuFaU57YkuJb1iGXkttQjOHV0aMa12io625p6bBmoYALCAaIhkUPCsjMiEbY0xBmoZ4mYV5lX9yoIp2jGVPjl5NlWVSpY1+sqmrvbC0tqOjACAYFRURDi0fGXBIOqh6Z66ci6eYh6eXhLyuiGRINmA8LmhNSIqDdtPGtszGy8XBzQAbFRIPDQpELiaMWkuleGKymoWPdpwvMTdJSjY1MDdAOkRHTWQsND5kY0xsX25oXGkAGRIPEAwKWTowdks+cmFRnoqicVCrIiI+AQ8UND1UTFRwWWB8Iis5AAoLNi9ZgWmmABkSEBIOC1M1Ko5aSn1oVoRwj1g7jConRgYTFUJJXlpfe11jfykyQAMREjEqTntbrPitqXmAN14uAAAAAElFTkSuQmCC",

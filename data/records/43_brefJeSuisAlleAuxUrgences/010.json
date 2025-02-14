@@ -8,13 +8,14 @@
     "videoId": "1tZiw9KR6Jk"
   },
   "line": {
-    "content": "Kheiron m'a dit: Un truc dégueulasse. Julien m'a dit: Mange de la mie de pain.",
+    "content": "Kheiron m'a dit: Un truc dégueulasse.\nJulien m'a dit: Mange de la mie de pain.",
     "end": 12,
     "index": 8,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=10s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/gif/010.gif",
     "hash": "caa6edead5",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATpJREFUeJxVjk1KA0EQhedSbryIB9G9h3ApCIJLV+6iCwmIaHQhwRgxEPM3nZnpdE26e6bt/5JOSNDHx6uiqEdV5pxHxBjj1sOWEON/jzEaY5zzWVkWvc71YvJNoeGitTsZk1xrvemTrLWImL089Y4OD56790LZsqwYg7quAYBSyhijVcX5GgAYY1rrFOBrMZsX48H7dPhR1T8VFUpppbSUrZStMc66sCM9nwWfSr9z2724Gi/Y12hClrQogRR1XqyhbjZIBpILlQLOOUTs3Nydn10uCB1+jnJSkSWdk9UsBwZplYFcMclFu7kQAiIupnn/bQDAi4ISUgFwLtVaqLbVe5TSMWJmrfMRY0Tng7HOOe99iJsJIoYQvQ970oWHx9fTk+PZnMxyOs+pEJJz3jRN2yohhDEm5f7oF2Kck1y6fd06AAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "4tdCI0GUy7w"
   },
   "line": {
-    "content": "Je ne suis pas bourré. Parce que j'ai dit: Qu'est-ce qu'il y a ?",
+    "content": "— Hey, j'suis pas bourré.\nParce que j'ai dit:\n— Qu'est-ce qu'il y a ?",
     "end": 15,
     "index": 7,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=13s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/gif/013.gif",
     "hash": "0d8810526c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYtJREFUeJwVyztz0zAAAGDRV2Jiy5YtWw9LlmzZkezEThO3haRkaMuVcnQojzvu4FhYYGFhYmHjjv/Af+A/cnz7BzDK1oL+eHPz89PDRdfnubVmedqYrlSacxTG3hSGEPl+CP3o68e3AKP4eVv++fb+7+/vvz7cGeVsPbRm3hZSURIjzAn3vNB7HIED78V+B5IIF2nyqqu+XPaft73TrhJzmUmRsSJNIURJlJ5M4GQKD4/8se9BJ8uOps9q9USLu0U9NIuCaIaIylgvWBKiBc3gLDo8DsIgGUwDTLE4V+LG6lurX6/dxvVFpljMKyb7nPI4GQWjUfzoKIBBbMsSGFFvK2lJupHMZpnKa00UTzinCkHkz6BjxNIsjXBrTGcMuBqX+65ZlYrGuFXy6vzsf8CS0RJFxJ+FjpF1TgeZrzvXqAK8u96t5mZs7f3+aV3Il7txKGuSKE5NzowmbJT8TPA0QDjONOPgcmlvL1ZG8kZJLfjGzXtVMeaoOEWxLBK81ULj9OB4djIJvGnwD/UqOPEvUx4yAAAAAElFTkSuQmCC",

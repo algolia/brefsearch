@@ -8,13 +8,14 @@
     "videoId": "YFLtnewtqAE"
   },
   "line": {
-    "content": "Un jour, j'ai voulu prendre du dentifrice. Baptiste a dit.",
+    "content": "Un jour, j'ai voulu prendre du dentifrice.\nBaptiste a dit.",
     "end": 6,
     "index": 2,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=4s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/gif/004.gif",
     "hash": "c93d23aaf0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxj4GLncLN3XjBj5tZ165fMX3Zgz8HC3AIeVvaijNzW6sb22pba4orUiMj4wMCizLzUmCQGDlZ2L2eP2uLypqq6utLKaR3dUYHBwryCWfFJ0cHxSXH5Fdm5mdHRmTGxDWU1ualZDJxs7Ppq6rZGpq5WtrYm1hEe3i6m5iGurt729g7mdk5WLknhEaW5JYlB/hVp8cXZRQy6SooGquoC3PxyEtJK0vJOVo5uVvZeto4Olg4eNrZBzo5R/gFOVnZKMso2xuYxjrYMZhpq5lqa0iIiFtrabtZ26TGJOXExRemp3c0d2XEJiUHBwR7eRupaKlLSphoaDiryDIZKsi4mhk5GBm5mJgEuLnlpmRV5ednxCXFBIcHO9t52tpYGRoqSkqayki6GOjZGJgy6kkK6MhKaEsLyAjw8TIyczCwC3NxqUpKW+vpORoaRtpahRlo2ihIawvxaMlIakhIMVooidqoSTtoKdrpaET7+ke4efta2AU7OmbGxEbbWIVLCkbLCwVJCpmJC8uJiYuzsDBaKwnY6qt6OzkmRSclxefHhKbG+gSkhwRlhIWmhwTFODkEGuj6a6u6G+k6mxoaqygCwfHOURhNyAwAAAABJRU5ErkJggg==",

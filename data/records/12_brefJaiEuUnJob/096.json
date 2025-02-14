@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "name": "J'ai eu un job.",
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8"
+  },
+  "line": {
+    "content": "— Vous avez bien entendu, Jean-Louis ?\n— C'est sûr ?",
+    "end": 97,
+    "index": 43,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=96s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/096.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/096.png"
+  }
+}

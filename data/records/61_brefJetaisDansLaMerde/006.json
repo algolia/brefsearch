@@ -8,13 +8,14 @@
     "videoId": "I4-bhdkKSfU"
   },
   "line": {
-    "content": "Tu attendais quelqu'un ? Non.",
+    "content": "Tu attendais quelqu'un ?\nNon.",
     "end": 8,
     "index": 2,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=6s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/gif/006.gif",
     "hash": "2ccf5b2d72",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwVzOtuk1AAAGB+mlSzAodz4JzDbcCBcaeDbrB27WjXS+Z6cW2zzE6rxiaLNXFZog9g/Ok7G78H+DjIC4AXMYQKRESCZRSUcTTudN5NJpFmhKqZGFYokzKIQ4X6ROfEIx4BSJAiS8jEpPC9xLE349Gy35/l6W4yWPe6KSZuU3B44CkqJ4P/t6PpRIKMUpuqbc95mI4X1fnhZvh7/+nv8/fddJKo+glU2kHMyQAw02wH/rEiM0o1hEanSRWFV6G/uTj7sVn9OTztF/PcYo4AXBlzBMI6z3pZxCjRIIxNfdSKE12bFdltVW2Hg8P6blnXEVHtpmA0AecQfJUGhceohCyML4KTjscumX3fKV82qy/X9a/tw8vHD/3iPFSoK1NOF8WCWTbGFkL5sVF6roOpj/FtK/08rN+2sqfFbL+cezJxATIkxNkyjHTaDf2uH5waBsO08aqBeTEzzflZcV+VX6eTb+u7Ve8yxBoWIBdrtLCMWZHljoMF1HyjvG5gcCQhHniqfp0m22H9/Pj+5+6xmw9Mmv8DMlBPChqwp/0AAAAASUVORK5CYII=",

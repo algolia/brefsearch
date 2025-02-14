@@ -8,13 +8,14 @@
     "videoId": "94NzqAY2Yhk"
   },
   "line": {
-    "content": "Un smiley qui tire la langue, ça marchait pas.",
+    "content": "Un smiley qui tire la langue,\nça marchait pas.",
     "end": 44,
     "index": 21,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=42s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/gif/042.gif",
     "hash": "77dd078f73",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYdJREFUeJwV0dtumzAAAFC+gCzFxmB8wRgMuGSQUEKXqNtep02Tur1MWlqaNJemhEYpqzT166t+wXk4hg0GLhwSFwjqRj5NJddRkCmZqUCHIhZMco95CCMLgQG0TMOBHyiGknuxYJmSearG50mh40LHeaoyJVPpK0EFdbFj2WBgEAdIhs8jcZFnVT6aleNZmV/V1ee6+lQWl2U+GWkdiohjQZGLzgxBUMRxoeP+qXvu2vVd09w2p3Z/fNxv75rVzd/Nsrn+8U2HLGQOw8AIKFI+zlP1cjr23aFZLJb3m75rVzeL06F93Ny3u82f39eFDiVF3IMG9+yIu6NEPqyXry/9//503O/+HZ8Ou233sGu369Xt4tfP7+XHRBD7XcCOFVAUC1IV2Xw6mU/LL7P6qq6+zi9n1aSe5NNiNB1naUg5Bq49NBAYeI7lU0cyrDhJJE9DoSORhn4q/ThgEce+BxkGGJ3ZlmlAy3yvsIcUQ8Gc0PdiQZOAxgFRgkiGOUHEBQ4cQsuElvkGrZNRFAVSKdEAAAAASUVORK5CYII=",

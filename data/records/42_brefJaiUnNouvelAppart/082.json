@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "name": "J'ai un nouvel appart.",
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg"
+  },
+  "line": {
+    "content": "Je sais pas, moi, parce que je t'aime.\nOuais, bah...",
+    "end": 89,
+    "index": 29,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=82s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/082.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/082.png"
+  }
+}

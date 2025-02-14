@@ -8,13 +8,14 @@
     "videoId": "-tInLKCRUrs"
   },
   "line": {
-    "content": "Il m'avait déjà dit qu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler. Ouais, j'en ai déjà entendu parler.",
+    "content": "Il m'avait déjà dit\nqu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler.\nOuais, j'en ai déjà entendu parler.",
     "end": 71,
     "index": 35,
     "start": 68,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=68s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/gif/068.gif",
     "hash": "6541a771ff",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKf3eQhXuYi4CFeXI2Li0dGBknICGCdnOYjYmQhICDY1V4U0N4UUFtTEFdQjpjQzgAlYh+opKFq5qNRz48KR4gZElGOiclTkRBpJiSlImFk3BelGhQkGZQh19MhF5Me1pIAKWUh8S5sNDHwEQ8PD0tLXhUT2dCPU87OIt3cpeLhpCEf41/e4t9eYd6dYFzbnhqZgC4qJrYz8no4NqejopkSEVpSENhQDwxHx9WOTaNfHeQhoKOhYKKgH5/dXR6cG53bWsAw7On9+7o+fLsz8XAWUNBTy8sbU1HeWZea1JPcVlXdmBegXJuem1qcWNgbmBea11cAKiXjIyGhGxnZ3FdWk02NDYfHzMkJUI6OUc8PEE0NUw3N21UUnJZV2RTUGhaV2RVUwArJCYLCA0ODRFOPDxfQT4hGx0NCxAGAwoGAwkLCA4OCxBAMDJnT08pISRGPT5hU1AADgoQFxMYGhcbMy4xOTIzJSElEw8UEQ0SEAwREAwQDgsQDgwRFA8TFAkPSSEhYC4sAAkFCg4KDw8LEB4aHSckJxQQFQwIDQ0JDg4JDi0SFEocG08fHlkiIV8jIGAhHVwdGeXDi7IgFaGDAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "gYSzEUcLIZ4"
   },
   "line": {
-    "content": "Je me suis mis à courir dans un couloir sans fin en canard.",
+    "content": "Je me suis mis à courir\ndans un couloir sans fin en canard.",
     "end": 31,
     "index": 7,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=29s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/gif/029.gif",
     "hash": "3b02d1cdee",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAASdJREFUeJwlkMuqFEEQRHs1XZWPqnx2dffMRUeUi4+V3oW6FvwD//9TpGbgLAIyggxiWS9QV4TCDTV022IP2zPOMW5ju4080oc2Z+i1UFlhKSvWtUFpCMKoBE7gzNE4e0sEQ1BGIxAorVxwgcJYhVDnDe3hcMJAMJft9f7xNq4uiaA0kQVrR5DOTtOtTwgdQVO3P28//v399fv7J5dg1DRbEORZBqs+9QOlWcNe9v3t2/3DyzgzGaRTX6DMD4QKdcaErKExGpNDlTPPn1+/pOkwJxCGvtSVoHRC7ejR7NAYEtlDOGqV98f187v7CB/uAJ2gLXPWwoSq5Ifl4WOf7Cpb4xQOhr65hSoUnrM+AgiVo1t0kxbWt4gz89pbMrk0J2CsVFZcL/AfDLccDYhAycIAAAAASUVORK5CYII=",

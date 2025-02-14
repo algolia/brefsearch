@@ -8,13 +8,14 @@
     "videoId": "Z_Iqj4P90Qg"
   },
   "line": {
-    "content": "Tu vas dormir à la maison quand tu veux, enfin.",
+    "content": "Tu vas dormir à la maison\nquand tu veux, enfin.",
     "end": 49,
     "index": 26,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=46s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/26_brefJaiUnPoteAConditionsGenerales/gif/046.gif",
     "hash": "7f53288521",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAdFBEaDw5BNTKzrKmqn5e1qJq5r6Sxpp+2rqvPysmsk4pkQzqGeXamnpplV1FjV1IAHRMRKBsZLiAdo5qWz8rIy8fH0MzM083M1tHPua2pm3Fjj19QYkY8lo6Kem1mal1YAB4UEiocGTQjHpyRjMjDwMS/vcjCwMfBv8zIxr6tp550ZnhQRGI+NKOVjrmvpKKNhQAaDgxHJyFMLiadkIvJxMLGwL7NyMbTzsvOy8qwo6CUa2BnPjOXeXHAt62vopGtmZEAHgsIWC4mYUI4sKeiy8bEy8fEvbe3jIGGZltfQzY7Y0U9SiohZlhWn5aQaVlPaFtVACUQDEwmH2dFOoBzb66op6qjpFtOWDkrNDEjKCQbIDsoJVY1KiAREDMoKXFkYGRUSwA+JR5MLSVYPDIlFxhSSEtXSlQyJS44LDQ+MDgyJisxIydJMi8vIyckGBtMQUKjnJgAVDYsWzwxRi8mLSEjPzM+NysyIxkeJh0jPTA6NykvMiYrLCEmMCQnLSIkIxgae3NyADEhHiscGTIkIj8yNzouOCkfJCgfIiceIzUqNDMnLjEkKjIlKi4iJiQaHSAXGzEnKY/CobemB8KOAAAAAElFTkSuQmCC",

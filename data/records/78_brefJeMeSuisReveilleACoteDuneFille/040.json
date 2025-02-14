@@ -8,13 +8,14 @@
     "videoId": "9UEJzfo0_m4"
   },
   "line": {
-    "content": "Papa ? Maman ?",
+    "content": "Papa ?\nMaman ?",
     "end": 42,
     "index": 12,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=40s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/78_brefJeMeSuisReveilleACoteDuneFille/gif/040.gif",
     "hash": "76fabf7370",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwd0NlP03AAAOCfxra/XmPiWNd2PdZzHbq4wQ7KhHUUN1pbN1dGB90qKGAk8YiLGhJejBqPxMRnH/hXTXj/nj6Ao0QWElkULqFQEZWKVX2wWntYbYq8zOdZy6yu1e3GeqfV3K7VbH6FARmcFiEpYoSAQlNSy4YlC2KGzBSX7wWd3sTb32g53a09Z9trt7p8ngVZDFcgqUBKgkRZUk3dEDmBhKTKsOeTk6+ffvbdp4EXB/601wvFAg/uolDDaQ2nS5CoyLqh6pogyXl2TTP9zs7idLE/fvHEi8MgCYKZLpbAMgJ1nFYhpZKZ+7olFJhGuTIPD+PH4aBhn0Vpv7FxNJy9TN9Fo2NdkAGPU6vkkgopiaCVoqhxnLfpTL2oU62PuoOz8fzA9b9c/v39/frq858kOgEsRhgEVcKplduIynDO+uZF+ma3vdWrN9Nn8yQ8fHv68de3f8dHr5P4le8OQQ7BZAwXMJi7gxqccOBP0tFsfkOnQRwNxpeLHx8urqyiXFFMLksD5iaUQZAcxNq1VrgTNs1y4HjJcLZru67dO3/+fu9RvwBuiZAsUOR/8a1WbKHeOMUAAAAASUVORK5CYII=",

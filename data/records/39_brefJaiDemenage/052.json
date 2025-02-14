@@ -8,13 +8,14 @@
     "videoId": "YFLtnewtqAE"
   },
   "line": {
-    "content": "Sans le trois. Un mec qui dit: Ça passera.",
+    "content": "Sans le trois.\nUn mec qui dit: Ça passera.",
     "end": 54,
     "index": 23,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=52s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/gif/052.gif",
     "hash": "2e5247cf82",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB6bWmViobNyMfCurnOyMfUz87Kw8HAt7W4ramxpaCqnJegk46Qgn1uW1RyZmNoXFoAjoF9rKGd29fXz8nI2tfV4d/d19PRzMTCwbe1uq+stKikraCbno+Jc1hOgHJue29tAJ+RjbitquXj4tzZ2OXj49/c29jT0tDJx8W8ur2zsreurLGmoqeZlIFnW4h4c4t/fACom5W8sKzi39/j4eHi3t7u7u7m5OTSzczGvry+tLC3q6ayqaawpKGMc2ePgHqShoIAqpuXuq2p3tnY4uPlnZOQtaehv7Gru6mhkH96pZeNtaSZiHBok4N9l4BzmImDk4aDAKWUjrenotbR0LLAzYB5e2VJQJl8b5l9bW9WTIhwZY11aUM0MDAoL1FBPJ6PiYyAfACUhH6fjYfBt7WsqKuReG2hjYLLtKWjiHeLcGGEal1/ZltmVk8wJygPCQ1vXlhwYV0AaE5EelA3sIBYm31pppCDuKGRspyNrJSEp419noFxhmtfVjw4JBQWMR8aSi8jRy4kAHlNMJhmPqx7T6FySJBoSIl8do+DfpaHfZKAdpaBcsCrkZmDbFA4LVM/NUQwKEgsIMl29Km1JbbDAAAAAElFTkSuQmCC",

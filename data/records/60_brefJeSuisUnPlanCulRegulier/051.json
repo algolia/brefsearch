@@ -8,13 +8,14 @@
     "videoId": "5rKgC34qhFI"
   },
   "line": {
-    "content": "Vas-y, je t'emmerde, toi. Non, c'est pas grave.",
+    "content": "Vas-y, je t'emmerde, toi.\nNon, c'est pas grave.",
     "end": 54,
-    "index": 21,
+    "index": 22,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=51s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/gif/051.gif",
     "hash": "d4db1bba21",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCEeGx6bmKGd2p2aFp/cmaWin6tnpCpnI+glIirn5OSintcXkJtcFF/g2N9gGGFh2gAin90lYuAoJOGsKSXq6ihq6WdqJyRp5yRpJmNuLCnnpmOW1hBbGpQgHReZWdKXmBDAIl+cZqPhZyQhKKaj4x6bo+Eeri2sLy3sbGqpLWxrpKJg4dqWm1jWEQ8NyYhGk9JOQCelImYkId4d2ucWlB8PC12U0SlnZyAh4OAfXpoZmU4MzMtHxwZFBY4NjlnZWd7eHUAc2pjSUhDa1VLvktCr2ten1VHfkM8V1lTbmVbgXduc25pCgQJEQ4SvMTM1Nvjur/FAImMj0BCQlQ2MJ9YTLGMd5RQQpteU2xkXGVeV5ONhoWCgAwGCjk2O9Te6M7X4cbM1ADe6PKMjpE+LCqFQDSfgl+sXkx7VUpLRT14bmi2sKpye4ExNzx5f4bZ4u3P1uDIzNEAwsPHlJiZRCEhbDkwppuHqXdlZyYfbGRbpZuRmpiUTVNYaG9ym6Wu2uLsy9PcxcnNAHZ0dUxKRyYUEygeIHuMm1VMS5NiVqOZj6SbkqigmnZ0c4KJjaqyudTa48nP18HDxdwd0b8eHR3zAAAAAElFTkSuQmCC",

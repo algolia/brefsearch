@@ -10,11 +10,12 @@
   "line": {
     "content": "Je lui ai pas répondu.",
     "end": 42,
-    "index": 22,
+    "index": 21,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=41s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/gif/041.gif",
     "hash": "11cd883a0d",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYdJREFUeJwlyttO2zAAAND8/F72wjQJqe1gkyKQmFJBtq4lTcnVsR3biR3n0guw3pImY+2WDn5gEkjn8Sgf3p2cvj/tnXxWO19Hfe9uEAV3M+1i3Pt48aWjUbThZEeDNfEesJUHJleuzjT90jCuoW8W2F/FtJZiD8HKtWbQW7Bwy0hJ4YoESwpWoTNTTB0Bs2Bwo10FqgpVFX068zpdp9N1uj33/NwLcZUmB86amOwoWCnQvo9JzVkzuRWe+wiDLUZ1iGuMdhjvSNiMh2xw7TmTXPI9Q1sFOo8UVxiuXSuPSEXwhkd1RMtE/J5Nn4vsGHgL357y+EnyfYxLxTZkYN9DfwmcxbR4keLwJpV/s7TN0jbP/k2Ll0y2In6KUKlYP2JgzZG39J15kT+/jmOWHd92lra2mSLwU4o/UVgRf6ncXBrDPrjVw8koztNWJodUtpls01cyOVhGApy5YL9YsCbuXDF1YA3I+AYZOuZhFeEypo2gjWANp00UVs5YmN+p+Q0P++5Is/4DHSpTxGJ86x4AAAAASUVORK5CYII=",

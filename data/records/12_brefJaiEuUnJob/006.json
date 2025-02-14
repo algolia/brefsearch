@@ -8,13 +8,14 @@
     "videoId": "DUDE5JWW-q8"
   },
   "line": {
-    "content": "Do you speak English ? Yes.",
+    "content": "— Do you speak English ?\n— Yes.",
     "end": 8,
     "index": 1,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=6s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/006.gif",
     "hash": "cb0af5ab26",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDd2N/m4ejDu76PgIDSzNSsoaaaiYnBucHg2uKWlK18e5QoISFGQEgTFRReWle8sq8A4Nvi6+juysLGjX9+X1hbQy0ncEY2elpSzsbLiIinhYGZJR8cPDhAAgMDUExKsKajAODa4ezp78zGyn1vcCogHkEwK3VRR1Q1K6eWlWhqgm9tgWBYWGxkal9bXYmCgJ+VkgDd193t6/HIwcaKgINeQTtgQjt3U0dkPTGKc25iZYRWV3V0amxkWmFIQUWEe3yXjYoA3Nbb6+nuycLIfHJ0hnRyakg+YUU8VDMqc2FfVFh1ZmaElo6Sr6SwHhwhRkNBmI2KANnT2uro8MO9wntucbGzv3VudTIfGjMkIYR6e0lMamxsjo+GiryyvjY0OU1JR5OIhACWiI7TxM21q7KZm6hygplrfpdDSlpxa3OpoahMSlp3Z3Z6bG+bi5UxLTNNSUaPhIAAZVdno4aaw7/KkZ+yZ3aMX2yATFZqTEFKtrC5m5GWVz87bVVTemRoKiguTklGioF9AFRPYIeSuaevvnOBlGBug1tnek5VZB4RGJGKlLivvTwrK25OR31lZjQwNVlRToR8eNEG0Q4+gMr2AAAAAElFTkSuQmCC",

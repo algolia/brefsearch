@@ -8,13 +8,14 @@
     "videoId": "00r3RKxAExo"
   },
   "line": {
-    "content": "Il y avait mon père aussi qui squattait chez moi depuis son divorce avec ma mère.",
+    "content": "Il y avait mon père aussi qui squattait\nchez moi depuis son divorce avec ma mère.",
     "end": 58,
     "index": 20,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=55s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/gif/055.gif",
     "hash": "3547ab8f2e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gClko+vnJi3pKG9qqjDsrGWhIFPPj06LC5qWlu8qafArau5pqa0oaGrmZifjo2TgoIAvqunxbKuxrOvy7q5s5eNWTkrHhAQHBIWCgMJWEtNyba0v62tvauruaens6GhqJeWAMy5tMy5tMy6tse1sqZ7YX1YRlc8NTUkJhELEg4IC6SUlMq5uL6urryqq7imprOiowDRvrnQvbnWw8C7qKOYblaHYlF/WlJcSE8aExoFAQSShITQwMDBsbHArq67qqu2p6gA1MG81cK91sbBzLauroFpiGdagWRjfmlwNiszHRUZuaupzr++x7W1w7Kyu6ussaKmANXDvdXEvNnJwsiwpY9lT29TTm5WVZN3c1ZDSG1dXNfJxcy+vcu6ucCwsbChpaucogDOurHZx73XxbrdzMSFaFs5JCJiRTuXcmR2Xl6KfInKv8TRw8HMvby7rK6yo6euoKYAr5iN3sy+2ce65dPKlIF7OCkngV5MuJ2Zq6nJi5LGr6i728zHzL69vK2wtaWpqZugAI11bc+8r9TBtNfFvdC+uL+tqr+yvrq74LCuzqqmxJmVts7Bws2/vbWlqaiZnZuNkgcK/pQATcEiAAAAAElFTkSuQmCC",

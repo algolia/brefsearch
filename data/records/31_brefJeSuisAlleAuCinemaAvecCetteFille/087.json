@@ -8,13 +8,14 @@
     "videoId": "r-cbMtBLY0g"
   },
   "line": {
-    "content": "Il y a mon bus, il y en a un toutes les dessous de 45 minutes.",
+    "content": "Il y a mon bus, il y en a\nun toutes les dessous de 45 minutes.",
     "end": 90,
     "index": 39,
     "start": 87,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=87s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/gif/087.gif",
     "hash": "eee9f0cc00",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwUtv0gAAAOCekE4oUBjrVmhL309aCqUFCh0FVkaFlcHcWJggyQxED9MYl2jmgfhIdt1hyYwXPXrUxN9hvPpDvOn3AV5N6jpMz5auH09vn0xPG5VkPBa/DwrwBhYL93uJkohoJIVtRudD7/e3T8CoUz30Kq8mwfer15+XZ2NTxVIxDklQW3EEurcTDb29uFpfXlMYdrd++uvnFyBo5weeenHUuxwPV3v19dhzxdy5rZRpNBkJZWFw2Ors2S0iFb959/zf3z+AqRFOQxw1C2+O+h9nk7vzk1lVftkxyjRKp8EimZAysIKlmRS4PPF/fL0BGmrOsriDmvrheHC7XLwfe8clbuXk+xqDp2MaAWvZSBEF9Z2wq3PTB23A5FHHlkwuVWez82Zj5pi7LHqQJ1+0dAXHBFpWGN3gJYtKsSikCgggZuBakbAKiqV1u6UKjcDMFhQU2Ge7mpDNWbob7C/8zrxWdAV8k9hOAggU5knS0EeeuxDZemQjgSehwwI5KUsiKcuc9bB/NvIfabJbUkQqAwPRcCiHmxLf3m8GhtbimSqVUZat5qo7UARHFV3H8u2yL/ONoqQ7hvQfM75knoBJTnYAAAAASUVORK5CYII=",

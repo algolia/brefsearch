@@ -8,13 +8,14 @@
     "videoId": "Htm39YuNOog"
   },
   "line": {
-    "content": "C'était sale, mais bien joué. Elle l'a pas cru, elle est partie.",
+    "content": "C'était sale, mais bien joué.\nElle l'a pas cru, elle est partie.",
     "end": 80,
-    "index": 39,
+    "index": 38,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=77s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/gif/077.gif",
     "hash": "c50342ede7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCqo9C4tNzEwt/f4vLCtb9nR0BLPjpXTEpTSkVmX1Z1YVNiRzw9KSQ0HxkwGxUgDw4AfHDFTTqyalq+t6/klI+xVUE7j2pgb1VSVkk/pJyIjHhtfmdfTDc0HQ0JHQ4MEwcHALSjwK+q47q148zI7nZxikYuKKF6cqSCe2FQUpSMnI6AfoBuaW1PTDsiHhsNCxkLCAB1aIJ2cZWrqK/0+P+urbBaPDiQa2ChfndwXVp7dHFeUEFPPTFXOzRnRUI9JyMbDQoAZ2B/YFFrkYmP5/P9q6u7ZUxNcU5FgmJeq5yjtq+8cmpkZltZWkE6XT05UTUxKxkWAF9YeINrfLqmpsekq4JoilpPXUwzLWlSUmRaaoZ8i5CHlpCInHBaWlAyK0AmIjskIABmX3t6c5SOboKDNUNNM0FKOj9WPTlyW1ohGCEtJi1QR0FaUUNWPzlVOzVFKydEKiUAbV93fXWQb2d+JCAuGBUfVjs6hmBeW0NHGBQlKCEyLCQxSkE/aFBBVzw1Ry0nRy0nAJyPq3hrf0xATRAMFyEcKW1QVX1aWzEmMxcTIyUfLSEbLCYfLIR1eWhQTEIoIUswK4kaoTf26Yq/AAAAAElFTkSuQmCC",

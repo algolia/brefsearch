@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "— Vous acceptez la carte bleue ?",
+    "end": 107,
+    "index": 43,
+    "start": 106,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=106s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/106.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/106.png"
+  }
+}

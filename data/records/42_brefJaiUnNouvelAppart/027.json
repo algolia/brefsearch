@@ -8,13 +8,14 @@
     "videoId": "c-51sCEAiCg"
   },
   "line": {
-    "content": "dit: Franchement, vous habitez ensemble ? On ensemble.",
+    "content": "dit: Franchement, vous habitez ensemble ?\nOn ensemble.",
     "end": 29,
     "index": 10,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=27s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/027.gif",
     "hash": "1e1904f590",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBGOC5TQjZ2YlJnW05MRkFaVVFcWlhcWVdTTkxIPzwpJSQjHxxPPTB6ZVhkUUR7Z1cARzguZVNFk3trUUU/AgUIWFxhxMvUusHJv8bOwsnSz9fgS01SOi8lgm9fZlRHg3BgADwwKFBBN3VfUUg9Nx4iJoSFh/////v7+/////39/P///4iHfysUDWpUSVtLQXVjWQAvJiAiGxY4LCQ/OTbIys3j4uLx8PD5+fr////9/Pz///+qr68vFxRZRTtjU0d0YFIAOjMuOzc2LiciMCsp6ers8vT7+fr89PX23eDj3uDj////3d3fJSIeSTwxNiwmKyIcAEpNTVRXWTYyLyciH6eprKmrsK2xtYKGijw9QD1ARp2gpImMjyEdGkI1LC8mISghHQBQR0NTS0lMQj4kHhsODxAXFRQSERATEhIaGhoWFhcICAkHBwgcFRI4KCA6KiE8KyIAZUs6Zkw9UzstKiMgGxoaHhwbHRoZGhcWFxQUFhMTGxgXGhgYHBgWPCohVjsqVzwrAGpGLm1IL2xJMFI4KE01Jk00JUwzJU01Jkw0JUsyI00zI000JEoyJFE3J1g7KVI3J2gZnYbWjOZLAAAAAElFTkSuQmCC",

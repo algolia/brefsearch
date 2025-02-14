@@ -8,13 +8,14 @@
     "videoId": "JmghDKkeiik"
   },
   "line": {
-    "content": "Quand je veux me désabonner d'un truc, s'il y a plus\nde deux étapes, appuyez sur trois.",
+    "content": "Quand je veux me désabonner\nd'un truc, s'il y a plus\nde deux étapes...\n— Appuyez sur trois.",
     "end": 31,
     "index": 9,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=26s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/gif/026.gif",
     "hash": "d0fd542471",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBqYlyEeXBuanEPFzgOGD4RIlAWHjJTVWizrKppX1gfFxQoIB1ZUk5XU05LSEUnJSYAeG9pnZGKhn+AFRowGBktFB9EFRoqUlRlrqioQTcxakg8elNHUkhCVVFMS0hEIB4gAHpwarKln52Tkh8kPBgXJBcYJhcZJVJTYK+qqWlYUG9KPX9XSmNWT05LR0VCPx4dHAB4bWe5rKaqnpkuLDESEBQZFxgWFRlUVF6fmZhKQz5mRjx3UURfT0hHRUE+PDkSEBIAeW9ouKqls6ehOzc2DQsLGBYTEhETWFZegX19EhQUNSolakk9UD44LC4sMjEvDgwQAH5za6qembqtp0pFQwgHCBgVEhIQElRTWHx3dxgYFysqKmFbWiQjIycmJh8fHyIeHwB9cWqckYu9r6pWUE4HBgcUExIQDxJUUldzbW0ZGRlOSklvVk8/Mi8gIiIaGhoxLSwAd21lkYaBs6WcXVVSBgUJFhMTEA4OUlFTeG1qGhoYT0lGcks8XkI4JSIgFhcYPTk2AHVtZn91cKaZj2xiXBcSFBgTFBgUE3p2c498dyspHyI2JC8lGDsqI1I6MT8uKEI+Ofh+e3D9Z6CJAAAAAElFTkSuQmCC",

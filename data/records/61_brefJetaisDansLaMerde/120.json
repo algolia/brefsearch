@@ -8,13 +8,14 @@
     "videoId": "I4-bhdkKSfU"
   },
   "line": {
-    "content": "Je crois que j'ai envoyé ton plan cul directement chez ta copine.",
+    "content": "Je crois que j'ai envoyé ton plan cul\ndirectement chez ta copine.",
     "end": 126,
     "index": 50,
     "start": 120,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=120s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/gif/120.gif",
     "hash": "d0edc23e1b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjMJQUVhUV4eTkY2ViUVVStTY28TQzKogO7ynJK09NKkmOtzW3DA4JCwkJt7G21tHQZNAV43dWFJcUlZYUl/OxNAyyNYt0d07wdOkvyStJiuusLC1Jio8I8PcPDHGwtdPX1mYwkhTxVZVwVJaWl1V11FWPd7Gsio+siAqe01y7emr/kolddTmZEaERgUFhTg4ORrq6DJbykh6KohG6Mu7qsnbaylaaagVhAWk+bg3pyQu7W+d2NmcmJccnpkRExro4OZvo6zPoiQs5yAh6qEiEGijZq8lxsXMFOtpl+7g3J8VPa6iqyc2Mj4tLTEqNio53dXEBaTCUEtEXF5ARlZSWUjZRlJUUErE2MIjzcGnPzy5PTwGZHJMVE5scF5/g7upqrKfHIM7LJ8Qnwi8gKiWppKlkaqjlFuXpaWtk6GJjGx0U0FVX5+VVaWae5Omd6OLkZqSrxcDOxs3LIyQvo6+t6aurG66tHerlHJ0Tn1iYmjqpvT0zrdXKttDcMlvfKElXL1hfx55BSEBaQ9XV0CjG1DzNxDTZ2Dje0DjJ1i7Lz7fUzb3YzCrP3CrL1DzNwChORz9SSyccABHTc+GQQ+sZAAAAAElFTkSuQmCC",

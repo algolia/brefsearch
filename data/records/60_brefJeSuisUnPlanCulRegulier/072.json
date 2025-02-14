@@ -8,13 +8,14 @@
     "videoId": "5rKgC34qhFI"
   },
   "line": {
-    "content": "Il a dit: Tu vas faire quoi ? Je lui ai dit: Je déconne.",
+    "content": "Il a dit: Tu vas faire quoi ?\nJe lui ai dit: Je déconne.",
     "end": 74,
-    "index": 29,
+    "index": 30,
     "start": 72,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=72s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/gif/072.gif",
     "hash": "1b661bfa20",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBubXl1dYF8e4eCgY2HhpKPj5tSRUA3IRNiSzqKdWR8alyJdmSCd3NnYWFhVk1aSjgAenqGgYGOh4eSioqWkZKgbGZqLRsRKxoSPSoeaFdIcmFTsKOXloqBZlpPZVU/Y1A6AICBjoWGlIaGkoWEjISDjEk+OyUTCSQSDC4cE1Y8LF1BL5iBcXNnXmlZRGpZQWNSPgB5doB6bGttYV5kUUVaQTNPNSkyHhM9IxZFKBpoRjaQc2edgHVxXlRmWENuXEJoVkAAdWRXbFVDVT8yZD8wWzIfRigbPSYaUzYnUzEhZEI0mXhwmG9ikmpTZVU+Wkg0bFpEAIJzXoN0X2ZUQ2xDMINVQFQ0JEcpHFo8LU8tHl07K3lWSYJUQJlrVG9fVmVZT25cSACUhm2ThW53ZlJoQS6ZaVFzSjZWNCVZNiVlPCluQCtiOyljOiiSYkp0V0d0W0p3W0kAV0FBjX5pg3JdXDYllWdPe1A8Zjsmb0MubkQydks4Xj8wbkUxlGVOc1VEe11NiGhaABgDE2xZR3prVk8vIZFjS41pV4VoYJ2OlJ+bq56YpnRhVHtSPJZpUmpKOXZYSYZoXn9Rmno4Jz2bAAAAAElFTkSuQmCC",

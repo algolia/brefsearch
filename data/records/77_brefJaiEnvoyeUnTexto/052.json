@@ -8,13 +8,14 @@
     "videoId": "94NzqAY2Yhk"
   },
   "line": {
-    "content": "Je me suis dit qu'un truc, ça faisait trop faux.",
+    "content": "Je me suis dit qu'un truc,\nça faisait trop faux.",
     "end": 54,
     "index": 27,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=52s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/gif/052.gif",
     "hash": "76ca7e93cd",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY1JREFUeJwtxNlymlAAAFD+/xM6qdGAVpDlwgUimwsuoCamKsgiV4kpE6gYQNI8d6bTmTMHw5sES3NaX7Nni+3Lznf9KIhQiI6H48E/eI63WW/sma0pOtvj8CaBCQAu5osYxck5yZK0uJZ1WX/Vf/79dSuq8lq+/3p/Pb6u7JUAIDabzMgOyVGMtVwr1nqk6lNzOjZGk5Gpq/rz8slQjcloQpN0X+o/LZ+x7csWAvj9212j0aI5URYkqku18fZQHwocDwG8v2tQP0hzON7v9r7rYyhEHbwDAQQsYKmeDGUZSj2SkgRxPBgbqs6zfK9LpUlaF3XohVgURIqsqH1V5CHewlv3LeKB0BSNoRgJSoAFWl99lB4918uz3N26mD1fdNtdURDZHtN+IOaTeZ5d6rKuPqrP6rP6qG5FdStul/SCQjSfWhjkRXNoOhsHhegtfsuz6/X3f3mW51meJun5dPYcz5raEIgY3iQAwxvaYGWvnI0T7AMUohjFp+iEQhTsg93P3dJaGtqAowHeJP4CwZRRiYZpCFAAAAAASUVORK5CYII=",

@@ -8,13 +8,14 @@
     "videoId": "UURXmjwlcDI"
   },
   "line": {
-    "content": "Je ne sais pas, moi, tu n'as qu'à demander à Steve.",
+    "content": "Je ne sais pas, moi,\ntu n'as qu'à demander à Steve.",
     "end": 42,
     "index": 13,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=40s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/gif/040.gif",
     "hash": "a5fca9642b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwVy+1TmnAAAGBuZ2u3u0onJjpvuTvpnGteaOOKhVEIQvx4Ud6SCmFoJZJOZVha+WG72+qv3u35/kCNY1Kga0K9pjRoSwF+1x0HN+HQX8wmN17HBJzfc5dPi+jnJAiCbq8PiQylgoYu8ZYCXLM1HVzPw9HjbPJwF37XFeeEMHjm5eXP8/PfeTQIPBlSecZSpQtVdAzZa6sT/2oejubT0e+n+9Cz3QZt8Ywo8IuHZejLP84KkMYxtqnYqujosms0hz33bhwso/EiGvdNtU3uy/t7FvgfRj0FkB+hJk1d6vJlC9gqcDR54Nm3157bsaskVdurfC2iZHnHkMBwGj2GVxkEhoRD4kKT2iJnAvZc5i3A1pn6ejYfS2ymkNxaEqmUdykcLx3U7sPbrVwaojFMEzmNP+4abJMlJYZCy9irDTgWT20VSuk8msjkOqdcqYrrp6yKvIVwdJulvnkG/2vmOE2SOSKyheJKHI4lNisFtJTLvnmHMMTBh+3P0gmlYUVoB3lP4hWFJc+EI/5wl6h+WU9lX2/AsUQay+c/JZMr8dRqMr0KZ4DS6vv+PwnRfFHvo3zsAAAAAElFTkSuQmCC",

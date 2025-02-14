@@ -8,13 +8,14 @@
     "videoId": "ZQHDDjV-KgQ"
   },
   "line": {
-    "content": "Pour manger, j'ai appris à inventer des plats avec ce qui reste.",
+    "content": "Pour manger, j'ai appris à inventer\ndes plats avec ce qui reste.",
     "end": 30,
     "index": 11,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=27s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/gif/027.gif",
     "hash": "23a4b6399e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCtrr+ytMW2uMq+wNK8vc5/f4+Nj5+/wdO8vM27vc6QjJeCeH6Mho2ZlZ+UkJqNh5AAn5yroqCuq6i2mpekMS85LyUpRzo+cWx3oJ2pgnuEdVdTsJWWkoiRoJ6rnpqlko6YAJuYpp6bqq2ruW1ocRoRFXNaWYlqZoZ4f5KQnWJVWmpMSK2TlKKWn6KgrqKeq5WRngCcmKanpLOqqbeDe4VqTUmEZmJyVFGPh5GJhY90YWNfREKZgoS6qbCvrLyQi5ZoXWIAg4OUhIWWiomYf3eAcVVRgF9ZfF5bmZWhfniDgnd/XkE+o4aGrJ6nfHqHZFxjVUtPAE1UalBWa0xTaVxUX21PSV5HRpeKkaWisJCLlaGcqDwrLnFbXGheZjMsNkM9SFhVYgBGTWJSWnJaWGhXVmZsWVxoVliZl6afmaSQi5VLSVMlHSM0Lzc0MTspIikyLTdRTlwAbGx7dXeJamBpcV1gZFVZdFdUaVxifHN8YlJUUEFERTo/U0RIVUNEUkFFPTlCTEBFAH98iYKAjXt3g2tgZ2dWWXpkZW1eYnxvdX91fm9lbVtQVHxoaoRsbH1vdXFuemVdZYYXyBBiXVogAAAAAElFTkSuQmCC",

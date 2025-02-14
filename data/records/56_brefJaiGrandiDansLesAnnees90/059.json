@@ -8,13 +8,14 @@
     "videoId": "HO2SLJQShJ8"
   },
   "line": {
-    "content": "Mais où sont nos copains ? C'est pas une copine.",
+    "content": "Mais où sont nos copains ?\nC'est pas une copine.",
     "end": 60,
     "index": 20,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=59s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/gif/059.gif",
     "hash": "61ea850069",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwdlv0nAAAOAmRBPFdclGxNoIa9ksFFagx2+U0vs+6NoBpaBFTsOGaTweePF1L07ffPKv9fsgsaeLQEVK6BXWmIwyz45tI5wkq4UT5JaauYGhDQEr1S8pXQks0YRMxceRagEqIPB5lq7icDb0xvP57uditpbBTqCW08UNUOkmCzrCgBMhusWePCsWCy9porVe7KPhNPST+XR1yNaG4AYUHTsx39NBhyeqxAX6HkJPz+HnJ5Wz0kRgHjZ7x7pzzChNlpbk22ri6GkPmP2extVJovyGbnQgn6fgwotI7OYu82OzsK1RHyjCjSoDDZB0l2S3k/HSVduVSgU+JSs16PsHA4PhpcnlHvNtFjnO2FQDuW8QZXRvD57W4d/7+N8+vHdlnWH4Ngc9HoZ6DUkB8WAzx9QOvViRHN8Z4e/qO0f6nVkaCo+u8WOsPX75vFY56Cm/Tdha1Kr+2odffW6bfGSZoTwwcIxqlctbmf6TKpt2WcSxO0HaCU0o6HWPqWRdInnIW+TVJ9nwBmHnmn9dwpiz4qHzaqv1x0xDrb1VmtRt8+I/UJNsE8DkpO0AAAAASUVORK5CYII=",

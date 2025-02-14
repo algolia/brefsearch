@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "La demander en mariage. Acheter\nune maison avec elle. Lui demander:",
+    "end": 54,
+    "index": 21,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=53s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/053.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/053.png"
+  }
+}

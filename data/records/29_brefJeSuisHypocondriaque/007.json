@@ -8,13 +8,14 @@
     "videoId": "_AH6uf2dTLg"
   },
   "line": {
-    "content": "J'ai dit: Non. Je fais juste attention.",
+    "content": "J'ai dit: Non.\nJe fais juste attention.",
     "end": 10,
     "index": 2,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=7s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/29_brefJeSuisHypocondriaque/gif/007.gif",
     "hash": "0b842b094a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAeFBMSCgpqXFmpnJevoJmHd3B8bmi/r6bJt6zLua3DtKu6sKuzqaaqoqCgmZmRi4sAIBQTFAsLdmdiuKmhiHlyTjgyXj0zp5OK2ci718S2z7+0yLq0vLGsu7Kvt7GwrKanADgrKS0jIo17dMGuo39uaFtAOYlaS56Fe3xzcnVraYuBf4B6e3ZydIB6fJuXmZuXmwBnXFx5a2mBcm6JeHKRe3J7XFFrRTuliXw9NTgUDhUyLjQxMzlMTFM6OT09PEFCQkgADQgKFA8RFQ8SGRIVKCAhemJaSy4mW0tGLSUnIRoeLCgrKSoxMC82JCEjKycpKikvACMcHSIcHhcSFBcSFBsWGJiLi6mTjy8qKw4JChQQERQQEhkXHB4cIi0mJj40NCEiKQAmHh8kHB4bFhgVEBIVDxFMSExraW05MzUTDQ4tIyJFOTVGOTVCNjRGOzo2Li5QQUAAJBscGxQXGRMVFA8RGxYZIR8kDwwOFxQVHBcZQDQxemdhkX55k4B6pZSLopKLe2JZABkTFRgSFRcRExQPECQfIyAeIRIQEBQSExUTFBIQEiEcHjozNGVYV4l5dX5uajwuLClPhmxjGd3gAAAAAElFTkSuQmCC",

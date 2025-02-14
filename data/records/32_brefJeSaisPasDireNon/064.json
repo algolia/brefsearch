@@ -8,13 +8,14 @@
     "videoId": "OmEx0mpHFG4"
   },
   "line": {
-    "content": "Avec plaisir. Je trouve tout ce que mes potes créent.",
+    "content": "Avec plaisir.\nJe trouve tout ce que mes potes créent.",
     "end": 66,
     "index": 30,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=64s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/gif/064.gif",
     "hash": "ffa99054bc",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gALBwYcDgoeDwoRCAYkFxN8aWGXhn5UQThROzFiTENwV01zWlB6XlR9X1V4WE5xUkgACwYGJBMNNiYfHRIOQjEqlYJ5cmJaa0c8WTUrQi4lbVdNeV5UgGRZgWVafl9VdVlPAAcGBh0QDDopIR8SDWBORpeEe35lW7V/boVPQGA+M2lTSnhfVX5kWX5kWnpgVXdcUgAGBQYVDAkpGRMkFhBbRz6Rf3ehfnKfbl5qOy1iQzhwW1FyWlBxW1B9XlVbLChrU0kACwYGFwwJJhgSNCQdh3h0qJuZr5mTpXJjdEY5YkY+f29rf2tkUT40lHhuXiYkYUtCAAgGBxAKCREFAVdIQ8O3uJaHgpOCfn9dU0EiGFlHQXtsaY+Bfk8+N1g9NEIsIkkzKgAGBgYHBgYSCgh4bGmKeneBbmmMfXmGd3NqVVB3Y2KLfXqLfnpvX1pONywxLRdAMiQACAgHAgIDOiolhXFsk4J+sJ6ahmxpYFZTPzYzqp+kuLGyhHp1jYSAcWdWPDMMNyoUAAkIBwMFBDYhGnlOQZBzbJiLimlNSVpQTSMfGoiDg7avr4N3cYF1cFlPPTgtFTAjEf04h4BBvAcBAAAAAElFTkSuQmCC",

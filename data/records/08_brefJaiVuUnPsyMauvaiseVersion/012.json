@@ -8,13 +8,14 @@
     "videoId": "xHTx3mYfGUQ"
   },
   "line": {
-    "content": "À la 22ème séance, je lui ai dit: J'ai rencontré une fille.",
+    "content": "À la 22ème séance, je lui ai\ndit:\n— J'ai rencontré une fille.",
     "end": 15,
     "index": 3,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=12s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/08_brefJaiVuUnPsyMauvaiseVersion/gif/012.gif",
     "hash": "2a031c3768",
     "height": 720,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCRj4ubmZaWjHekm4WnlnyRfmqSblmminbBwsTDx9DBxcy/w8q7v8a2uL6rrbCYl5YApKSjr66spJqEq6GHpo1uhnJkkmlUlG1Yube5xszVw8bNwsXNwMPLwMTMuLq/o6OjALS0uLm5vKukkq2ijaKReWpXSFw/L11EOKaem7amnsHEy7/Dyr/Ey7e3t7OyrqinpgC6vMG/wcikn5lsYk9XTjpPQS0kFxEYFxNpWEqYc2G9v8TBxs61tbeJgG+gm4+rrKoAur7Fx8zVioiESD0nSEArT0IsZ0ArRTQkOzIidVdFop+dxcvUsbGxiIFxbl5SdGBSAMDEzKmqrFNMPE5GNEM8KkY8KHJLM1pELzMvITcsHl1VRK2vsrCwrWNVSDIQBU4iBAC2ucBxbGBORTBJQzNdTjyKaFRtSDRQPi02MB82MCwwLTRtaWOno5g9Jh43FglYLxAAmpydS0M1S0MzRjssclFAdlVEYUIxVkU3RD4nLClBExhtVV5oX1VMIgEAOBYLUykLAIB4cFI9MkcsIkcrIVMwJEcjF2lLPXxpW11JOU0/Szo8c2RiZUo9MzgfFjklG0IpFguQwYJQG55kAAAAAElFTkSuQmCC",

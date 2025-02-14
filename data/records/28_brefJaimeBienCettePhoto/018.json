@@ -8,13 +8,14 @@
     "videoId": "00r3RKxAExo"
   },
   "line": {
-    "content": "Parce que... Bref.",
+    "content": "Parce que...\nBref.",
     "end": 20,
     "index": 8,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=18s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/gif/018.gif",
     "hash": "93a6270b3e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCQZVCRZU+KX0mGXUqBWUmCW0qPZVOYbFqab16ZblyBXlJtT0dYPzpPODdCKytJMzEAlWlRhl5IjGRRgFlKck5AY0M0a0o3elVClmtYm3BecFBHVTs3aU1Gf2BYVz49Qy0sAJltVLeIc7WFcJptVYZdRnBLN25LOItiTrGBbaR3Y2RHQGpMRnFRRl9BO002NUApKQCzhG2tf2l/VkBeOyxJLCY4HRxPLiKWa1PPnofDkXiAW01XQD5QOz03IiQ8KCo5JCUApHddd1A7Ti8lXkA3Vjs2QSUhVjQnmm5Uw5B2yJJ5sn5peFZKblFHbU5CYUZAOiQlAJhqTYtgR5VqUZJoToFaQHNONXZROKx8ZL6JcMGMb8CKcKp3YndTRnpYSZJqWmBDPQCseV6rd12ib1WXaE2PYEeNYEigcFm7hW7CjXXJlnzBi3G3f2iicV2GX1CQZ1iJY1YApnJar3pis31lsHliq3Zep3NdqHNdpnJarntjwI12u4Vsv4hyvIZxmm1ceVZLfFhMAJRlT6NxWrF9ZreBaqx3YKJvWZFjS4FWP7F9Zb2Gb72JccSRe7GBbpFoWWJEPVo9NseLsQ89+RrUAAAAAElFTkSuQmCC",

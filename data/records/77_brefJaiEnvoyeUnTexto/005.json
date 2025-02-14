@@ -8,13 +8,14 @@
     "videoId": "94NzqAY2Yhk"
   },
   "line": {
-    "content": "Au début, j'ai écrit: Tu voudrais pas qu'on se voit ?",
+    "content": "Au début, j'ai écrit:\nTu voudrais pas qu'on se voit ?",
     "end": 7,
     "index": 1,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=5s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/gif/005.gif",
     "hash": "e75a6c0e20",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBDLCFDLCJFLSNJMihMNStNNClSOS5XQDROOTBdRjpnUUVwWEp4YlOBbWCDbl+Ba1wASzMoTTUrSjQpSzUrSzMpUjsvW0Q4WUU7XV9qUFBbW0xFdVxKfWVWh3Nkh3NjiHRjAFI6LlI6LVM6LVpDN3lfU4xwZnlYT3JcWcfR4brE1n5rY3pgTn9nV4x4aIt3aIx4aQBbRz5cSkRURUNoV1SJamJtS0U9FA9xY2rN2u2ioquWenKYgXR8ZleOemuTf2+LeGoAVk1SOTA2LiYtMiUpVTMtUy8oSSIcVU5Ug46hf3mApZCGm4Z8g29ii3lslYJzkX5vAD0zOiogJh0TGR8UG1Q2MVw5MWNBOUosJzQfHkc3N2ZZW31wbol2aot5bY98cJSCdAAxKjQyKzMrHyExIyNeRzx4XUx5Y1V6YFRfRT80KS1GPkRoYmmDdW2Mem6Mem6PfnIAKCMsKiUwRzk4dVxLfWNPgWdUfGZXhXJkYFJNOzI3UklOZmBmgHRvjHxxkoJ3i3txACIeKC0nMSkkLkg7OXxiUIFnVIJrW4ZyZWpbVVJKTmJbYWhiaH10cop6b5B/c4l6b8AwmLPbPo+9AAAAAElFTkSuQmCC",

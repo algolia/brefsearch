@@ -8,13 +8,14 @@
     "videoId": "yC7LPgNlD9M"
   },
   "line": {
-    "content": "Excusez Pourquoi ? J'ai dit: Mon père a fait.",
+    "content": "J'ai dit:\n— Pourquoi ?\nMon père a fait...\n— Hein?",
     "end": 47,
-    "index": 24,
+    "index": 20,
     "start": 44,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=44s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/gif/044.gif",
     "hash": "695bd30d88",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwU1v0mAAAOAmwoSNtrC+Lbz9gPG2tIxJS+lYB4Na6Gg3IBBsmE5hGRBFjcs0IZkfyaZLlngxHhYPaqJXd1niZXc9+Lt8HiwQDAeCi2QoovGJHA8NJDy8q/VqxqBu7m1vda2NbtUYedW9hllS0kxkCQsuRBZCOMBJNcWLAt+tlSZu6bDTONi13u23Xg1avmP17bJb0kQGiEwMC4SI8CLJ4OQdASIOWrn0sF6Y9t3xTvX708HXmd/b1PJiel3JZGB8jaOwW2GCxGMrFKULoCwlLBEM7cITf/dlz37drhxtG54mczQtCnxRERUWYMEwCchlRNM8TSVpKg2ifiX/7H5n6piPa/oLp2hLbIoCiONySRYlGOz2UgyQMcTQLACIhQyBT93Nmy+n58NOQ+K7eqapJNFydOpWzia+Jq1gBAGoKFAlZKzKiGWravbm88m/b6efxu2+ipoy70J6i6OOvPW/l2/nD1oYBzmOFcrq2j3Hyma1s3H/z+XJ9fvZ3NNbEuWK0GFBPQkOTPnn8f71h+cYjMMUnzILRV2RNxR0dXH8+3z2683kYrTj59n2qmDLoJmNj0zl4yPvx/zwP8C5XY17kgtPAAAAAElFTkSuQmCC",

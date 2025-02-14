@@ -8,13 +8,14 @@
     "videoId": "ZQHDDjV-KgQ"
   },
   "line": {
-    "content": "Quand j'ai plus de lessive, je lave mes fringues à l'adoucissant.",
+    "content": "Quand j'ai plus de lessive,\nje lave mes fringues à l'adoucissant.",
     "end": 15,
     "index": 5,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=13s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/gif/013.gif",
     "hash": "daaa761bfc",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBbXGtKUGVhVVpgRj9gV1+Ym6WUi5RnSkhhT1CDeYGEgoyQkJp9eYJXQDtRUV9MR0UAdHaEUVFgak5EZUQ7QSUgUDgzfnR1emFaZ1NXc2huc2pvT0NIQCYeUT07Uk1WLCQtAHxxdVtca3RKL2FCOUcsKFNDSH17dlJCPC4ZGiwZGBwJCTMZEVAxIk5ESj00OiYdIgB4WklhYXFnX2ZhRT5UNjFzdXxmano/LjEsFA0xGhQ/IhldNyJXPTUzLDUqIigjHSMAfGZce3mEfYeYn6KtoaSvlKS0hIqYfF9lcTU1YjghaT0jc0QoSDk8LicvIBsiHBkgAICImZ6jsKqyv6ivvaOsupucqo10eIVkZJRsbnxKNn5FH2ZBLislLSAbIRkYHhcVGwB/iZuSk56mr7ufpLCbn6uRj5qAY2V7XmCIbnKCZWZ0TTk6KSkbGSEXFRsZFx0WFRsAi5epj5Gemp+tlJajkZKfjo+baVlhZFRcbVhghGptaWVxIx0lGRQZFRMZFxUbFhMZAI6drpGZqJCUoYqMmYiLmIuPnoOFk2dcZFlHTWdMTWJIRygeIhIOExMQFRMRFxMQF+81mBDgw4ILAAAAAElFTkSuQmCC",

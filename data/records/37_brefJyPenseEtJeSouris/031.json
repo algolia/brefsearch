@@ -8,13 +8,14 @@
     "videoId": "O1BZzYB3X6U"
   },
   "line": {
-    "content": "Pendant ce temps, Thomas Edison, propre sur lui et bien rasé,\ninvente la lampe électrique.",
+    "content": "Pendant ce temps, Thomas\nEdison, propre sur lui et bien rasé,\ninvente la lampe électrique.",
     "end": 35,
     "index": 11,
     "start": 31,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=31s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/37_brefJyPenseEtJeSouris/gif/031.gif",
     "hash": "0f9b022dcf",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxjUJSVlpeRkhQV4eXiMjXQ1dfSEOHnszQy0FBS4OXi5OHk4mTjYGNhZWVmZmFmZmNhZbA2MTDUUrcy0pMUFfFzd64vLzTU0bQ2NfJ0shfm5xMVEhDg5eXm4GRhBkE2VlaG2LAgIx1NV1srVTlZXk4OWzOTtPio6BB/O3MTCVFhaXExKTFREX4+NhZWRkZGJmYmhpSYiABPl2AfN101FXZmRgMtjcaqsuqiPGcbSwVpSV11NTUFOSkRYV5OLhFBQQ52dgY3exsTPW0/Nyd9TTVBXp6Opto71y+fOXFkz/bNs6ZM6GyuN9TWkJcQ52JnFxUUFBUQYJASExHk49NRU1GWlZYUES7ITF2/csnVS+euXTr3+MHdMyeOuNhayYmL6aqp6GmoGWipM/Dz8HKyc0iLi8mKi4oI8Hs52xdkJHU01ixfOOfW9Ssvnj5qrC6XFBI0M9CzMNQ31dNh4OPm4WBj5+fhFeLjExcWMtTSNNbVdrO3yU9PbK6tWDh7ek5asgAvLw8nFx83SA0DFwcnGwsrGysbBys7Lze3qKCgmJCQkqy0ka4WDycHNzs7KxMTGwsLJzs7NycnDycnANZ6VuRhY+XDAAAAAElFTkSuQmCC",

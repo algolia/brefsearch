@@ -8,13 +8,14 @@
     "videoId": "hpCO1AIWo60"
   },
   "line": {
-    "content": "Vous avez trompé votre copine. Pardon ?",
+    "content": "Vous avez trompé votre copine.\nPardon ?",
     "end": 19,
     "index": 9,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=16s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/gif/016.gif",
     "hash": "7d7eac2fdd",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwVy113kmAAAGDum4rE4IWXr3QyDBA/Wzp1wmESTNCUaaKzGXlqZu54css2165Wu6hzuuzndnruHwQKWZqVu5Z7vb5drbdqtlxtnFh2v/167Pvjrt0ZDd6G4XzzdXtzc79YrBCaUylec73B9vvD7z9/j191imXTMLxg+G41m//8vGybrWyh/vj4a/PtPnz/CSGhRHKZw6PWfHG9uX3wuqOm0+8PZ2eTi+Vk+uNy5eq2opS+XN2tr+6m4fx/wECS5mTDntje1OvNToNFqzM9qDoD21sOR+Hp+GW+IqRyhtU/doYIl8zRvMwISs18Y1iB3gw8/0PhoLkTJcpa8TI4axk2QfBRlAKMVKq4CMVKgNmn2LSwl5e12r5cyeR1yIo7EfxF6nmvpnMUH0FBNEo8iZJqwURiGB2LAwxnIa9KyiEUFMjLMRSgKOnuUj5g4hE8EiMBFAkqlSmaCE4lSJgEjAgYiWLTGCFwiQwBEvhT+tzxe3U7jgIhqRll/ajeSRcdBNvlCZgioIiRAk4n4wRPQpF7pqqi9nF0US01eEHO5Wpmoy3Vzvdy1j/9o2Q0Rbs3wQAAAABJRU5ErkJggg==",

@@ -8,13 +8,14 @@
     "videoId": "41X9gwbeMxQ"
   },
   "line": {
-    "content": "Trois jours après, je suis allé chercher mes résultats.",
+    "content": "Trois jours après, je suis allé\nchercher mes résultats.",
     "end": 84,
     "index": 30,
     "start": 78,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=78s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/gif/078.gif",
     "hash": "cec464291e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzX1VlUUxmTkSag2q2qp2RiYdoW1d0Z2WNioyblZWAdnRxZ2dvZWJxZWB2a2pXTDkAi3dqjHRjbF9eoI14x7ytjYaGdlpcmoF/kYWFl4yOaV5fNCcpPTIwdmtkeG5rTkIxAIRyZoNwal5VX3xyaaaknJ2VlYJtf6ydp4d8gXBob35zdntocH1qZYV3bYJ3cGJWUgAsLz4yOEsuO1NQQ0l0RDt8SUN3anubh4txS0uOipKMhYmId3mjkoVpX1tqYV5uY14AGyAvJy9BUTE2aBYKaRMHYxEGZT5De0A7hBgEiT4xKyUsPDY6d29wJyIrIB0lTUA9ACIiLE0/QlovLkUdH2QcE2YcFFYdG3cgFIMjE4ohDCoUFRESHCAbJiEeJRoYHSsnKgAzKzBGMzEsHR09P0lIIyBLGRU4ICdWIyNxHxaLKxhNLSYSFB0eGyAgISIbGhgfHBUALigtRi8sQhsKUSwbOygjMCMiMxoaQRwdTh8iiWlvbFhQFhUZGBgVHB0XFRUSOTQfABsUFkw3NEcuJz8kFz8qIzssKy4cHD0UEDgQDmJMS0k4MxIMChMQCxkYEhMRDh0VEpIifzLid7EIAAAAAElFTkSuQmCC",

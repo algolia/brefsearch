@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "name": "J'ai perdu mes cheveux.",
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk"
+  },
+  "line": {
+    "content": "C'est pas grave ont des cheveux.\nC'est pas grave.",
+    "end": 37,
+    "index": 13,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=34s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/gif/034.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/034.png"
+  }
+}

@@ -8,13 +8,14 @@
     "videoId": "K0XI5d8080Q"
   },
   "line": {
-    "content": "Je lui ai dit que je cherchais quelqu'un, il m'a demandé si je consommais.",
+    "content": "Je lui ai dit que je cherchais quelqu'un,\nil m'a demandé si je consommais.",
     "end": 67,
     "index": 32,
     "start": 65,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=65s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/gif/065.gif",
     "hash": "be83ea56fb",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAREAwVDg1cSDN5ZEJ2alF8bFRSLSiKc2amlIejmpYoHx0ZEhEKCAcjICGsoaZtZ2IAHRoZDAwOOzIqm4lsoZmFqp6OZzs0mHpqz76weG5lXz41iVdNVDYuEw0MQj84gntrABkWFRQTEg8ODWBRPo+DaZKDcGY3MZh1YrCah1tJQYtaTpdeUYVSRigZFignJH12ZwAUExMUEhALCgtLPSWci2aTe1xcKSKMZ1KXfWZsU0mWXVKLVEiTVEUwHho2MihqZ0gAEQ8REhIRBwgIcmVQ0MOot6iTYjArfVpCkHNadF5MgFdMhFNIWDguHRQRQDovcG9AABESEhARETMfHpF6Wt7Vwd/Y1Wo8OnBLL3hdPot2Z4trZWVKQV49N1NFQUA6LVdSMgAOEBAXEhJgNjNzXDymmnanl4JWJSBtSzGah3bRxsu/lpKpbmWncmqyoKR2amhYTUoACAkJIhcVXDQ0aU8ukoJYjntfc0xJxre849nn4tjl1MPKvpCNvKOnqp+mpJidlYmLABAPDiobGUIrKXdfNp+QbbOsqMa6xNzT4tLH1M/E0ci/zL60vrGosaeco6CVm5OHitOPpiSfPvwHAAAAAElFTkSuQmCC",

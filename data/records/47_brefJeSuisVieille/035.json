@@ -8,13 +8,14 @@
     "videoId": "5pr4Q09-16k"
   },
   "line": {
-    "content": "Par contre, je sais plus si j'ai mis du parfum.",
+    "content": "Par contre, je sais plus\nsi j'ai mis du parfum.",
     "end": 37,
     "index": 10,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=35s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/gif/035.gif",
     "hash": "1c21d00347",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwdy1tP2lAAAOA+bL2dtoqp6FBBRF3sLgwFKtQC57SsIKUF2tmBQ2TAVrm4CeJiZJAMH2bii/94cd/7h1WL+Ua50LZLgy8ndU3p2kbbyI1bNUWMLXu8ajoPJVUI7SxzCzzLMSSNOYbp2gW3otfUtGsb8+vufHgx7TeRGF1gPFBSs7K6veHnWc4DOJoAmGWejprOn6HbNvK3nbP7ce/h7upxcnWSg8RLsP/mQJPRrt+/CFiGZCmcxiyoXZ6WH6ej+bA767f+jnvTwbfZj+8XtRK/6IkIH1AyFfStcTRHkyz5HKKRjp59uPv5dD+ZDTq/G6Vfjnbj5G7PTD1zJMcSUJQ2VnwMxVIEIAmAfc7AClQm/a/up3JNgecf5V5OnFS1FoyYchIdqWpCXuO9JA4oAhA4jZkpZCHlxtGseBgJgp2SirFw4f12NiwcvEtk0haS1L3NICAZAqefQ6NknevHowoc26h5rFy364O6FQ0FNl9tbQX3d0LxQ7GowIp3aRV/Qf4PdrVuljN7QSvx9tJC2WTcu8QzJMPQHt9KKLAuvN6VDkV9fTVA44DCwT/mW2e/JNDTcAAAAABJRU5ErkJggg==",

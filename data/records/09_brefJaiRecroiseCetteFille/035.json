@@ -8,13 +8,14 @@
     "videoId": "r7LVaWeM_bg"
   },
   "line": {
-    "content": "Elle me dit ça, il ne faut pas le manger, c'est bourré de trucs mauvais et tout.",
+    "content": "— Elle me dit ça, il faut pas le manger,\nc'est bourré de trucs mauvais et tout.",
     "end": 38,
     "index": 14,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=35s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/035.gif",
     "hash": "9b729702c7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCMalNyXF2hb0yJbWM9MC54WUmgeGFPNy88LSqjlpXDubyroaE6MzcgHCMZFyETEx0AzsDEzsLHxbnElI6aQTArvoVl1pp5oW1UKBgXY1ZVtqyuqp+eeF1WPykpGhcgFRQeAIyIj1haal1idUNCTV1ANY5lVYVbTXVQRDUkIjwsKIiAgJKNjmJQTWA7NDgnKRgXHwB5b2xeV02Jd2taT0x1U0atfWihdF5mSEA2JCMmGRaQhITBubt9Z2J1S0FMLywwJioAVE9VVmyQmntpeXN4XUlGsnlhmGpYd05BMyMkEAcKhnl33tbYkX93flVJWDYwUDs4AL64v8O+x8rAysPB1Ix9gJNiUXlQTFAzLxgSGRQME2FRRYl5ZGJPRXJSSWVDO3NWTgCwoJ2voZ+KiJGrkom4iXSaaViHWk4qGx4OCxQxIyNUPSqKYzRrUkdYRUN3V0yDYlcAp3FPkG9fTUdHu5B3wYtxkmJVYD86DwsUGhQbPiskZEQ2imVQxbWwZlhVUDs0iWZYAMSKaWhTTUw9O8eSecWSfK54ZWZFPhgTGCseHTglH18+L3BQQJeFgIt3b0MzLnlaTU/tpcVADosBAAAAAElFTkSuQmCC",

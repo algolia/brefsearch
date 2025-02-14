@@ -8,13 +8,14 @@
     "videoId": "Htm39YuNOog"
   },
   "line": {
-    "content": "J'ai compris pourquoi elle disait que je l'ignorais.",
+    "content": "J'ai compris pourquoi\nelle disait que je l'ignorais.",
     "end": 62,
-    "index": 32,
+    "index": 31,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=61s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/gif/061.gif",
     "hash": "c5e5e93b64",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBcWE+UlZqRgoiipazGzM7e2tXi3dnS0M6nqKWdnpW+vLaQiIBxaF5gVU5HOzUvJh8Ah3doqqefoJGEq5eNyMPAz8/N4t/cvry6jpWcenl7r6mji4aFenJsdGZdXlJQRzw2AJyOfq+omZmLeq+Wgriyq7e0s9LR0a6trY2Qk6Kkrqyoood/fKltQpZkP1FBOUk4LQCIemupqq2Hg4aQiYempJuYl5estcCwrbCHkpN7emSnnpubkoi0kHSTfXVnYGZgXWkAhXp4jImSg4KMfn1+aWZohH+CprG8rqusfJOeoqWWsqWheYp6UXlZX3ZoV2plTl9ZAJB1eJiUl5iUl5GJg4d+dbu0r8rDvLu4tXuOr215m5+Zk1d7XB9hGy1qMi1RNhk+EQCPcGObkIufn6W3sazDurDJwLjNxr/Au7ekrbd+iqCdlZU9djgQZQsYWxYWWBgQNhEAkntmr6aev7iwzMO2ysG3zcS70cnBzcW+u6uhtq+vr6ymZYl3Fm0eEW4ODV0KCS4GAKCdnr+2rce9sci/tM3EudTLwdfOxdTNxMm8r6KmrbCtrJSulVCTWUB9UDZhPixVNn7T7G6PV6bsAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "8matlnmBY98"
   },
   "line": {
-    "content": "J'ai compris qu'on était piégé. J'ai décidé d'attendre qu'il me rappelle.",
+    "content": "J'ai compris qu'on était piégé.\nJ'ai décidé d'attendre qu'il me rappelle.",
     "end": 25,
     "index": 11,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=22s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/gif/022.gif",
     "hash": "d971573e91",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwW1T0gAAAOB96Dr7FFHplScaDRBRnBtIMBlug8m223DAGNtuN0gZAjIYVMhLOBCzOk9PLs/6UP+j68/1PICailKhTT7ovZCZ+5rW5pMfdaGrsvYR+6WWO69k2hJl5ugmk3jzcml9zQ1YKlNOxsrojsWR5zLfFZl5r3JZl6et1nzcf/h8/GtozKSDHoMq74IitAGM9MMLmR8J1LTI3VUUnUmm9rGGxI2Mk6nZmn+zf9/f2gX6Kkf02HiHigJZNDQQ2ewu3EknhjkGCu48d/lAT8BQip8ataFZHzeMahq3MwkNReTINoB4wYmSiXlBHt6CQO/TRdcrl2dpbZ3nhdvJ4MEyjHjYv7KqxpAYCNLQFoD4/SeSUBKFqlIocWkagbbdILIRUGhs1sj3BaJFxsnNAL8X+vuj2VdIgNxFmu+1r/bg5mpyc1o+44gqHtVJ9NrM/ft5+l0iOtjepMjlo7ClMXoqBGQPiLZRmp1ZgyNNTKDdNMaFoDyBXrcKf8aayWIfmNRhBAFX3y44lp3O1wAVDR8r4qVVV2PhsM8n7aOo14MHA6ZEiXjE7XLjMPxo4ZnjxbJzceXxE8d/RySHEwAGtSgAAAAASUVORK5CYII=",

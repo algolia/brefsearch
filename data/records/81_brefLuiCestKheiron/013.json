@@ -8,13 +8,14 @@
     "videoId": "z5tHQfjXtwc"
   },
   "line": {
-    "content": "Et le pire dans cette technique, c'est qu'elle marche.",
+    "content": "Et le pire dans cette technique,\nc'est qu'elle marche.",
     "end": 15,
     "index": 4,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=13s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/gif/013.gif",
     "hash": "d018fe6c85",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwWtvmlAAAFB+RLNma2K6NWpTakEELC8fgCKtghahReCCXhn1vRZtN/eo7kMTM/dhi82S/tqdg7BS8jj35pw5LJBHefp9TjhMneyfMe/kBlZQToRqKhi2Ir/ZLRMynzWAitiBQhQSIpdBD/aBwlaq2Ifknh1cDu+AA1WlSXqzueV0bf6UIim2YSMPy9sbv7z+sRDx9CrQh72WVGH+7DYv/3avr1sQXil+XLOgxJ+jdAGTDWSzfZ58u3/a7mKv7WqKAWBbV6IwCCFcrZfuMMo3Q67WzuBk/tLGRR258gMp/Frurabj2Xgw4a+nNImTWfSMyOICjxalojXIslLtQhdNmKZLSIqkiLrHGSPRnsidKV510iRHcXmcYflqhZLkem9Ol1QX9ItNJ0lLyGR+7y9+YgqgRU1QTUa90Szn0whORtHT98eHx3jQhwJXwCkhJ7d4rYN8hCCAULP8oHXhaYprmdEgiuPZ8svi1/P65e/vzecxR+b23iYSSfRabyB+4N5GsGYC0QzN7rjdvzMcr9tzgW/bnbZar5Sk8sHRKZWnCJLKZLD/W1SHTOhNnlMAAAAASUVORK5CYII=",

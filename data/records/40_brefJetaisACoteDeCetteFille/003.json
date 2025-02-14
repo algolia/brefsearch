@@ -8,13 +8,14 @@
     "videoId": "DOMouPqhIus"
   },
   "line": {
-    "content": "Elle avait pris mon numéro, mais c'était pour Steve, son potomo.",
+    "content": "Elle avait pris mon numéro,\nmais c'était pour Steve, son potomo.",
     "end": 5,
     "index": 2,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=3s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/gif/003.gif",
     "hash": "f2528572d1",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBuUkAqHxkUCgstGRSBTTp4RzgkEhA/MjGZjIWViIKaiYKZhHqPenOAbmdtQThiMCcAknJZWUI0BQABb0IywXZXpWJJaEA5LiIjkIV/m5CLh3h0PjEvOC0rZ1ZSfExAajUrALCSdTopIgwDA2o+MXtJOW8/MFM3NCYZGXBkYJ+Ujk1BPwYAABYKChIKDHBBNYhNPACxmHsfFRMPBgeGUT6UW0WLUj96Sj0gEhFQRUKYjodCOTgrFBJ0PjVCJSRbOC+iY0sAi3JdGhAQDAUHdkY2p2NKcjwxZzoxGAoJVE9Mk5CJXEZDUiolbjo0PCclMCAdj1dDAGpVSCoYFhoNDDYeGYpOPXk9M0clIQ4GBmdNSoZCP2s2MEgsKE0nJGEjIjoZGlg6MwBPOzMfDw0YDAsTCQlgNyx1QTJIMS1TUE99LCtmERFVNC5FLSwyHB1rGxtaJCQrJSoAJRYTIA8OGg4MEwgJPyIccj4wZj01c1ROfj83cTkzQSspOyoqLhsbNxYXMSMnJSAmABYKCRwODBIIBhIJCScTEnlFNpVXQXBEN4NWRKBlTlxBPRoUGCgdIDAmKiYhJh8bH055bLcaH+x1AAAAAElFTkSuQmCC",

@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "— Putain...",
+    "end": 98,
+    "index": 43,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=96s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/096.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/096.png"
+  }
+}

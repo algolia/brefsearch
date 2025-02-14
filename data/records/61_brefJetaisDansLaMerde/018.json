@@ -8,13 +8,14 @@
     "videoId": "I4-bhdkKSfU"
   },
   "line": {
-    "content": "Ma copine m'a appelé. Je suis allé voir.",
+    "content": "Ma copine m'a appelé.\nJe suis allé voir.",
     "end": 21,
     "index": 8,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=18s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/61_brefJetaisDansLaMerde/gif/018.gif",
     "hash": "ff6c610d6b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZNJREFUeJwFwU1zmkAAAFCmzbQWUZYFCV8BYRdBQHBXUFEMISY1TmNTJiXGWjtOD5320nN/ft9jroBo8NAAoilIBhAVju9BBYoaD+R2R+xbKHCHoevTcJTIlw9hxJiwZwLRhJIBJI2HaocXeJnrygKQuY7k2INpTG6CYTYMI164kWRG46HUBpAFSb/vq7rEdj1dnzhXxNQVQZq7+H46KSnJPT/hQCWIzIeL1ru3LPeen3mep5s2y+0nKHP0VBOxyC9g+yEZ/tiWn1MStzqPssL0uj2s2YocamrWxwV16Y6OV5TGhu7q5pxkx3Xxa5sfFjS4aH0PIwa24TpbNbvXgpYDM3JN/25VvTzvj6+n5vnw5++/8/FcjbyGBIh5c57OGIJH6YBk/riIU4KDAEXLvPq4qZfF/Wx6XdeH+uvp0655KtfkUi8xZizZRKoTWkHUD1zD+/J0ar79rl9+bh73QTzfJtkmXeXZ7TKriE9cAzGAhQrQLMWxVVwGkzyMEfKwjZHlaKpF6bJcbK7pbYzGI0RCZ/wffNtHp4CQ6r0AAAAASUVORK5CYII=",

@@ -8,13 +8,14 @@
     "videoId": "9u9X-FzVWZ0"
   },
   "line": {
-    "content": "Au revoir. Oui, à bientôt.",
+    "content": "Au revoir.\nOui, à bientôt.",
     "end": 95,
     "index": 35,
     "start": 92,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=92s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/gif/092.gif",
     "hash": "f46f11acab",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZxJREFUeJwlkV1P2mAAhd+3b2XYQu0HyEpTCzgQWtuitEJDEYoxNtASFBDBxq/N4EeW7WJeuMRl2RKv9cLE+GsN9bk4yTmX5wEIYTiOEMIAhFjIvGBhRXNgOAGIIJwnkNU+TSUSNGtVnEJWcSrGVbdx2Kg0SjldElvraj69zNNkJhkTOGqFI4BlXyeZzxzFeo5vlWtBu34/cB6mw18HvYltTLbLbzeeW+QtbdNUqlpBAWv51hJBxEnaUTVvU7vt2P+D3uNFMOu4s93mYU15velON1K6XM1n1KxYALrc4ig6GomVmFh3TfgT+M+zo5fLk/t9/2u7eWJvHdfLpzblmhkhtfpFksFGTkxSdHSBiEVJbTX7EPjfdsy//c6VXXNV5a7njuuVkbXsbhVEPpdOpMB2kRdYiiVJhiT2DPXpejzzW3enZ7/PL36ORv+GbtCsjoyip0uyJOR5DohsnIuTyTjBkItHTeNH3zmol7ttb+BPv48nk5q+Z5peKbsjLkkpJs1R4ON6DEM4jn+KRBCGIMQgADAERwtzF6GcD94BN+NJBLI4nc8AAAAASUVORK5CYII=",

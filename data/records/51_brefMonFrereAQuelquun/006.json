@@ -8,13 +8,14 @@
     "videoId": "m5Ezt99WggY"
   },
   "line": {
-    "content": "Ouais, il m'a quitté. J'arrive.",
+    "content": "Ouais, il m'a quitté.\nJ'arrive.",
     "end": 7,
     "index": 2,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=6s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/gif/006.gif",
     "hash": "d61c31cbc3",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA8QE1ITFlNUV5TVV1kaXRxd4ZyeYh1dYCPdXI4NjcODg4rKitISE1JSk85OkAqKjAAPUBMS1BdYGVza3B+e4KSg4udgo2ghomYVENBPT0/Pz4/JCMjEhEROTo8QkNJMTE3AEhNW1ZbaGZseHV8jIGKm4KKm56UnGlobiwnKmRRT2ReXkpJSzY0NE5HR1BRWDw9QgBNUWBeZXZpcYN3f5J5gpSKj5x0X10zJyZyWFS6kYhwVlI8OjyfhoCbdG1SUlk8PkQARUlXVltqbHOGe4KXgImfgG9yTURIQztFlXBrh2djSz5BST49uo6CgGlnTlNbQkFHAEtRX1xjdHF4jHyDmH2FmEhDR39gYnZnbVpGRE5GVjg3SUk3M8CYjYJwclheaUhIUABGTFtbYnNnboF3f5NjZ3IVFRQyJihmYlxreW1DRE8sHh+Sb2fOsKd8cHVVWmdLTVgAPUFQSE1cWF5vZm1/Ymd0PT5CGRwdFhgYQEdDYllXrJaRx7CpuJePb2BkTVNgS01YADQ4Rj1BUElOXVJWZF1icWFgaT4uLR8fIFJGRrSalLWgm6WJhIVaUlNGS0RJVj9ATV1SngwbaPsUAAAAAElFTkSuQmCC",

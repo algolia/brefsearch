@@ -8,13 +8,14 @@
     "videoId": "46O65gqs03c"
   },
   "line": {
-    "content": "J'ai regardé l'étape 9 pendant environ 20 minutes.",
+    "content": "J'ai regardé l'étape 9\npendant environ 20 minutes.",
     "end": 64,
     "index": 25,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=62s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/gif/062.gif",
     "hash": "9b1cfb07e5",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBgVlRyZ2aHeXi1qqvY0dPHu768rq+ilJR4bmyBdXSdjo2XiYiNf3+EdnZ8b256b24Ab2Nghnl5lomJwLa44Nvd0crN0MXImo+Pk4eHcGZlo5WUp5iXno+OlIaGkYSElYiJAHhqZ5WHiIZ2cKmXkLyztIV1b6+fnpmQkYp4eWJTU6idnZ+SkZyOjaWXl6SWlY6BfwB/cnCTiIedj43CtLW+s7OEb2eqmpihmJmxqKmmnqCTgoBeR0GPgX6HfHuTh4eCdHMAcmFecW1ke3pvybq+zMTDrZ+dqJaVfHBusqmsqZGPb1hRfmhipJeSPjcyIh0aQTk3AFJBO1VKQllOR4p9e5iMi1ZUVYlWR10iDjw9P0IzLV5IQH91couAfDIsKBwXEzQsKABMRURUTUooHhksJCFmVVBFPDdySjlvRTNdRDcvKSY/LSRROyoxKCAdGBYvJiNDNjIANCgkKSAcHxkWPjAnsYNem3xkqIhvjW5Wc1hLPDItSjIiZkQvTDYpKRsTMScjIxwbACAVERYQDCkgG5ZlPsKNWldJP1Q/MopWMVc7KyskIFo6KGNDM10/MEAmGCkdFwoIBkFitGsPnPpvAAAAAElFTkSuQmCC",

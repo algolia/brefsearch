@@ -8,13 +8,14 @@
     "videoId": "z5tHQfjXtwc"
   },
   "line": {
-    "content": "C'est qui cette fille avec qui tu es allé au cinéma hier ?",
+    "content": "C'est qui cette fille avec qui\ntu es allé au cinéma hier ?",
     "end": 55,
     "index": 17,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=53s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/gif/053.gif",
     "hash": "2b4ad2fa83",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwdtumgAAAFAeuxeb1U5a2QiCIG0diRMpd8VpQVQQqUK1UGoVL2xdO5slyxrTp7lm6+KWbMmSJbukH9pzgHHbGljtApUlUTSTQpFtMOjYl+Oz66u3x4a+6LfDZnU+GTmm7nftDxcR0LcUnd/HnkJgPM6QeJfLdbWDMDj1eyfz3uH9Yn59ZM68vntouW3Dc11Akkp+ry9Se0qeihqVgcJamma17Hqt8fMqupv4YU3pmDbPFHA0RWZIICcoBU5eXYR/bt5Flk7CEElkCjTdMcxPw/4y6HZFmqHZvWwOT+NoCgPGnk8RRE3gPr8eOSUOgaCyJEThdHX7bdCs+aV9TZJFhpGZfDIJPYlvAgorVAUJg1P5HZLP7iTBxPlo+P/3/fe7H57raZUDLzhvNUyRpkgMReBnwC6G8y/ol5yII+hWAny0tubYzt9f/758/DobvToNpsd+1DsKtHKpJPJFUQDAzURuN2tW1DLLbye21mMxIk2sblfLm6Vju52OP53Mx8OoVderilKUJCANI8/xjFxgVbGIwch6LLbxeONy9mbxflHXmqpqGIajqYZWVRVZkHnuAYDSeX/TFV/5AAAAAElFTkSuQmCC",

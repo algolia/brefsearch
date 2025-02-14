@@ -8,13 +8,14 @@
     "videoId": "gYSzEUcLIZ4"
   },
   "line": {
-    "content": "Et là, je sais pas pourquoi, je me suis dit qu'il fallait que j'achète des pâtes.",
+    "content": "Et là, je sais pas pourquoi, je me suis\ndit qu'il fallait que j'achète des pâtes.",
     "end": 51,
     "index": 13,
     "start": 48,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=48s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/gif/048.gif",
     "hash": "95b718744d",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCHgYqRjZOWkpWVk5Weh36pjnG1qZLExMC9u7yugnyfgW6qloNuZm2Zna2wsrympKsAaVk6fG5ViXxti4N1n5OCuqaDwrSb1NTOa1lSclA/wZt538atYE1FeXl/19rdwsDDAKGTZZyBUamYeK6pi7aqmbikfsy+oqWmpGBMSHNJOY9iTK2PfX9lWp2Vl+Hm6K2tswCtnmmnkmi0qIqzsJGzqJm7pYDPwaaFgH5NMy6TY06ceWa1lX6zkHqui4jN0t6LepEAs66mxcG5uLm4npubpZmKvaiCy76ikYuGQSQcUTQrg1hMq4dximdYkFVbrK3Fd2p8AMPFyaOUlnhGPJZoVrCVgbqpgsy1l4yKiSIdIjMpHlc2LFI4NIVxYnBtUU9MUGZgWwBqVEdTIRKFKAm4fVyxjH28m3emgWovKzAMCw0nIhIwIxdJNy1pX0JYVS8ZFhw9ODkAfWUya0grdUAurZSBpoqDo15KSSwnAAAGGxcVQz8qMi8aQj8kWFYuSEUqEQ8VERAXAIZwPnBUNop8c5qYmo+AfqaMcSwYGAABByklH2tmXHBsW1dSNVlWLzw5Iw0MEQ4NEnnHxUZmL/FHAAAAAElFTkSuQmCC",

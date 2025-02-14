@@ -15,6 +15,7 @@
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=78s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/gif/078.gif",
     "hash": "6092d5b27e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCqp6u2s7fAvcDKyMra2tvd3d3Qz9DOzs/b2tva2drW1dbQz9DJx8m/vMC7ub1ya28Avbq+ysjK1tXV2traoZmbvru91NLTz8nK4+Pj6urq5+fn5OTk3d3d09HS1NLWdWdqAMzKzNfW1ujp6crExTglKEQ2O3Rsc6iipeno6evr6+vr6+vr6+jo6OHg4d/e36OanADU09Tf39/s7e3NysxCMjQuICcUEBsaFx2cmp36+vro6Ojr6+vr6+vo6Ojj4uPFw8YA19bW4uLi6Ojoz87PSUdNDQwaDQ4VHBshPDg/xMPF8fHx6unq6+vr5+fn7u/ukI6QANTT1ODf3+np6cvJyzAuMgIDCTEiJkAyNxwbJHl3fPT08+np6evr6+bn5+rq6ltZXADMyczW1dbr6+txbnISDxUSEhggFRknHSKKio7m5ebr6+vr6+vo6Ojj4+PY19g2NDgAvLm80M/QsK2vVk9TZGJnCwoOCwoOExEXubi69vf25eXl5OTk3d3c19XXxsPGJCImAKuoq7e0t7i2ubu4u2FeYwIBBRcTGRcTG5COkuXk5NPS09DP0MnHycPAxK+ssBkXG1VfHCyTuo0hAAAAAElFTkSuQmCC",

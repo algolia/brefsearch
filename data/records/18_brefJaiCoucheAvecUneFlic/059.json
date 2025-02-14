@@ -8,13 +8,14 @@
     "videoId": "if3EipAM2WQ"
   },
   "line": {
-    "content": "Elle s'est rhabillée. J'ai trouvé ça triste.",
+    "content": "Elle s'est rhabillée.\nJ'ai trouvé ça triste.",
     "end": 61,
     "index": 26,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=59s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/gif/059.gif",
     "hash": "b7bb075829",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBcTEN6XU97WkuMfne2rbG4sb64s8OyqrWPeGiymIGwmIS5oo3Cq5u0rLfDu8fAussAYFNLiG5ilG5dsJ2UxL2/vbW7sKWolYF2l3lhkW9bonFhpHhmqY12uaCOwaeSvquhAKmdmJqHf4pkVJ2AcqaUiaKLfJl9ZIJkTntSQqhuXaRzYrh7aZFrV6yQeKeNfLKTegCbjol6aGF7WUqadGSEZFGDY0p+X0VyTTt/TT+gZ1TCg26dZVF6XEq0ln2oj3+GeHsAdF5UXD8xZUIxjmdWlXBhck87VjsoVjcqlmNQpGxYvntjWjgqXEg6uZqDspV9oIRxAFc1JFw6KV1AMHpYSIdiUmdCMGpEMkwxJF49LH9RPoNSRHJNQ5FzW6aKda+Rep5/aAB1YldrTz1iRjV8W0qBW0psRzaHV0akbFibYEtwRzV3WUWbdlyohGmiinykh3GSeWgAbllMYkc4aEc3d1NDclBAcE08f1ZEkWBMmmBLfU05f1lCnHheqIZsrpB2rY5zknJZAF81I2tCL3NHNlMzJ1k/MXRSQoNcSo1kUp9yYK17aad5aItoVZp7ZJt9Z410YW5XSvMcw5HUCLxAAAAAAElFTkSuQmCC",

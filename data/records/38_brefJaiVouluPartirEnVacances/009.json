@@ -8,13 +8,14 @@
     "videoId": "FThJiyU25jc"
   },
   "line": {
-    "content": "Le lendemain, je lui ai dit: Je pars en vacances.",
+    "content": "Le lendemain, je lui ai\ndit: Je pars en vacances.",
     "end": 11,
     "index": 6,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=9s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/gif/009.gif",
     "hash": "2d03521a5d",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCIZ02IdWkoISAmHBkpHxwjGRYlGxdjWlqWiorIwbvSzMjGv7rCubGRiIAWEBEOCgsAl3FVm4Z5LiYhQyohcUk+MCIaJx0XZFpal4yMy8S+2tbR0svG1czEmYh9HxYUFA8OAKJ5W6iSgywkH0orIZNdTzMiGSUaFGRZWZiMjbuxpLSkkcS8tayimpqIfVJBOxwRDwCnfF6pk4VGPTlbTUeIbGJaTkUtIRuMhoi1r7TOxcKKh35aYFielI2uppqAal9FJB0ApHpcrZiKXllcamRma2RnamFiNywpbFhSs6Gi09HRycfDuLWyv7itfnhkc2NZXzcvAJpxVLShlWJfZVFITGJbXmJbX0A3NWhWUYx7ecC6tt3Z1t7Z15iMhZSDeJCGgFA1LQCSbVKpinlqW1xHQUZaU1dcVVlHQUJwaWiFfH3AubXa2NXSzsvFvrnAtq60qIhuXUwAeVxIiW9lcldQSERIYVldY1xgPTMxXFBNh3x9wLq219PQ0czJzMbCvratraKVk4Z8AFtDNVlUWFNJSDw1Ol9ZXHhxc05EQFFHRH91db64tdnW08vGw7+4tKyjnZmPiIh9dTq6yD1cYmK/AAAAAElFTkSuQmCC",

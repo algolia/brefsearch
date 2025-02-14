@@ -8,13 +8,14 @@
     "videoId": "7Ry1eljBOvM"
   },
   "line": {
-    "content": "Il avait un iPad qu'il utilisait à 1% de ses capacités.",
+    "content": "Il avait un iPad qu'il utilisait\nà 1% de ses capacités.",
     "end": 18,
     "index": 7,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=16s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/gif/016.gif",
     "hash": "6c2c465607",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwUlz0mAAANAcPfXmxRKSQLYvSb8AaeKIQUlpITRILVB0GAS6IAWJ2WgoSaXtiB5aHKG4dLw4Hhz/pu8hO1IsTT0o6vzWoSYX1exjRZPgblnXehpr8/xEoA+S1B4ELmBtViwnkHQGFRpYbUcyuQ21ijMGU6jB/FvumcOJE1EIIGNtAAsKZzDmgEILIviIFkZcIfswh68dZND8RNx3U7qXLo4362ebYCZV8tHtJ2ukD9gx1HbXETygiJBBfRbvUOyIe+1lLo/3Pnerfr9aDhTWSZRrW4v7mX5r0A6X0lGEOKejH9lEh91WeLXNvWqlukfqwMo9n2RfOg1JVmr50t3q12z1EzZTsXoMIQIKvaLlPvTaleW0eeO/IEOauQTyxVNv+qfeGBw1T0rlbvPEyvjZiIkhmEdhIRWxmWRbSQw1+F4mbkH8micvgNLPVVod440rHhoRk34U4mhAIesVDDsmjVGyFBCSzVBjBlzR/DkNrtn4FKdPCfJdkvkQ33fVej8tWRwSteOYS3p26d/cuf8yXM57i3lvtTS/r+xvX827xWC5OA2Gxt8fN78/hVVX+w/x5YJz42njEQAAAABJRU5ErkJggg==",

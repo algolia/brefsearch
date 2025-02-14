@@ -8,13 +8,14 @@
     "videoId": "K0XI5d8080Q"
   },
   "line": {
-    "content": "Je l'ai regardé, j'ai regardé ses chiens, je lui ai dit: Je lui ai\ndit: Achète un traîneau. Ça l'a pas fait rire.",
+    "content": "Je l'ai regardé, j'ai regardé\nses chiens, je lui ai dit: Je lui ai\ndit: Achète un traîneau.\nÇa l'a pas fait rire.",
     "end": 23,
     "index": 9,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=18s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/gif/018.gif",
     "hash": "e1cb316ad1",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCUj6GQjJ6XkKOWkaWwrMGlnq5VT1BxaWRzaWRKPTJVRzhFOC1NPTBDNSo8NS9kVUkAmJKlnpeqo5yxh4CPlXZ0aFFIPicfRzs2Z2BcYEs6aVRBRDYrKyMbIh0WOTIsU0hAAJqTpq6ovb+60o+ImItlW3dYTTUqJi0kIjMyMlpLP2FQQy0mISMdFxUSDhgYFjw3MwCinbKzrMLOyeGyrsR+X1iPZlgzLi4vLS0sKisoKCpJQj1hSTVbRDIwKCIRERA0MC0Au7bOxcDY0szkwb3VeGdlhF9TTDw4HiAjJycoGBkaRjUpY0g0W0c2PTMqIiEfJSQgAMG91NHL49HL48bB2WhjamtQRU49OCEjJykpLS4sKlhDM2FHM008LSclIB0dGx4eGgCuqsG/utLGwdnTzud2dIMwJyNIODMeHiAlJCMXGBgpJyRIOi81LSUVFBIcHBwbGxwAlJCknJitmpirqqa7bGx7MyonaU9JFRUVPDg2JSMiFRUVGxwdICAfIh8dISAgGhsbACcqLygtMigtMiovNB8mKzYqKGJIQhAPDiwrLDUxLjIvKiQkIxoaGhobGx8fHyEhIJNFjRXwBAXFAAAAAElFTkSuQmCC",

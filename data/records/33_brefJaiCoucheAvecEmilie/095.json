@@ -8,13 +8,14 @@
     "videoId": "mEu0q3Slzj0"
   },
   "line": {
-    "content": "De quoi ? Non, rien, j'aime, j'aime, j'aime.",
+    "content": "De quoi ?\nNon, rien, j'aime, j'aime, j'aime.",
     "end": 98,
     "index": 40,
     "start": 95,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=95s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/gif/095.gif",
     "hash": "a6528cd204",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCBc2uLe3OVhXuejIKjkIamk4qWgXaoeGZ2TD50YVmdjYSTg3uNfnaDdW52aWNqXlkAk4N6n46FppWMrJmOrZqQppaNn4Bzsn9sgFBBYElAnI6FnIyClod+kYN7hnlyeWxmAKKSiaybkq6dk6+ek6+ek6uakLyRgZ9tXV86Lm5VTKOVjJ2PhpmLg5eJgZCCe4V4cwCvnZW1o5u0o5uzoZixoJasnZWviXuKWUxjPTKVfnSklIuejIKaioGZi4KVh4CMf3oAw7atxrmwv7Kot6eftKKYw62ft5F/aEA1Wj0zfmVZRS8kSzguSzMneGNYm4+JkIN+ANjRytrTzc7FvdK6q9asl9qumNKkj3tTRWtGOXBLPm1KPVA6MjQeFWpRRYp9dox/egDb1dDn497Z0cnmw6/RoInDlIGsgHGXbF6Talx9WEyOZFV3VUobDw5QPTV9bmaBdG8Aint1wry43c7D1aqVo3VkxJeFm3FjfVhMqX9wmXFjg1tNgl5SGA8NNSclcWRed2tmAEw2L1ZEP5R0aLeCbm5GOpNpXHhVSmBCOJlxZH1ZTnRPRIxnWiIVEx0UE1pOSmpeWv7m1TOKvnenAAAAAElFTkSuQmCC",

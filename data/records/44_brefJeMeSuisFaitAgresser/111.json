@@ -8,13 +8,14 @@
     "videoId": "yQbvhuSlOt8"
   },
   "line": {
-    "content": "Bonne journée. Bonne journée..",
+    "content": "Bonne journée.\nBonne journée..",
     "end": 111,
     "index": 37,
     "start": 111,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=111s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/gif/111.gif",
     "hash": "0be2958298",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwFwVtv0lAAAOC+qg8yjDNMRR1bp2ODucGMOCfuxUkQEmPYgJZyTlt6Pb0dCodS2o5ABUHjg0t88rf6fZTCNQ3YPCseZZ6lT3L7p1labVxOTfAzcpcT+/dsuIrcHzdDHysyd2UjibJEZqSBj8Vc+tFmIZ+tZp7r5UKM4d/FuC93FK6B+HY0sv/9WUyJ4WKTImp3agkXp0cPNzay9HZ1K6WdHX/H8DayHJkTIeuPB8s4vF1HYxeBTouaILBwpU/vCg8SiYPdF18eb/Fvc6vA1DotBbTi5SwMRh7WfNfwhk7fVKkbE/4ao8/nb5L3E692t89f7gnVi3UcFE9K9Vp9Pg8CYkXEDonjmoql8FRA7FUcXpZL9+7c3ad3DvOvWdAlBNM7e/VKZT3zI2JPBpZryBJkRcBSyDL90GfbV5vJ5JNUij44hgLUFaFUrkPYm45sDyMPI1sVIdMETJMSJdnCzoC4+dxhJv209P4DkkBfBarUI9gkttY3ZEcTXQeZuiJ0GYqDgtDrqbr+tVYx+Ou5Z2GNV0C7/a1myBDJPNdqiIBRdd2wHQGw/wG1UZ4sXG/2nwAAAABJRU5ErkJggg==",

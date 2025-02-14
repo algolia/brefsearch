@@ -8,13 +8,14 @@
     "videoId": "rOI3TXz-igs"
   },
   "line": {
-    "content": "Toutes les boutiques étaient fermées, mais j'avais promis de me déguiser.",
+    "content": "Toutes les boutiques étaient fermées,\nmais j'avais promis de me déguiser.",
     "end": 27,
     "index": 13,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=25s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/71_brefJaiFaitUneSoireeDeguiseePartie1/gif/025.gif",
     "hash": "c35ae485a0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAiJzwgJDofIzQaJjMcKTchLDojLTwkJjIoKTYpMUU5QFo9RWAfJz4EDiMaIzsoMUoAJyxDJChAHiM1HCg2His5ICw7KDE/WUhTJCY7LTNGRU1oRk5rKzNKFx0vGiM7JTBLADA1TSowSiAmPRonNRwpNx0qOB8lNHBbZUlGXx4fMSkrP0JJYzNBYR4tTBkoRx8wUAA8QFk0OE8jJzkYJDEYJTMaJDMZGCsoIDAkIDAECh0FCh4vOFEwPl0PGC8LFSsPGS4AUVNoRkhfR0lfOztMGiEuHCQxKCI2FhQnCQscExcuAQgdIi1HKjZTAgMOAAILAAEKAHN4iU5LXldQXGJUV0o+PiciLhwaLx8bLxQTJRAVLAAFFxojPSkyTAABCwECDAMCDABoZG1pXV98bGhbUlNnUVFxVlouJDEKCRsIBRRBNUQHDiQaITkxNUwAAAoBBA4BAw0AgG5tqJuVsbOyrqeju5eOsoeDe11lYF1sdHB5fWt4HR0xISQ1KSw+AAALAgQPAQUQAJ6SsH6Rn2aYnWeWnGWLlFteZoR3e5aVnp2cpExPYRcdNCAoQA8WKAAACwQCDQMFEZmVYQVhcGTzAAAAAElFTkSuQmCC",

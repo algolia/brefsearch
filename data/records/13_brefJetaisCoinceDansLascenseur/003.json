@@ -8,13 +8,14 @@
     "videoId": "l4Dz4EKZExI"
   },
   "line": {
-    "content": "La fille dont je suis amoureux m'a proposé un verre sur Facebook.",
+    "content": "La fille dont je suis amoureux\nm'a proposé un verre sur Facebook.",
     "end": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=3s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/gif/003.gif",
     "hash": "cd78ac4fe2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwVy81r01AAAPAHJUntkvUlLy/JmiZt89GkSZMldq5Lk5q26dZZ0VadSncYWiaizo+LIA5BDyIevIgKgjc9iwpKZQeV3fyrxN/9Bwr5FZ4VRA7xUFCx5KiyZxh6WSuLiq/XW4aGIZZ4WUSyxKtqyQKFPC7SDKRpray6um5VVEc3rYpmVKwzrWC8arpW0KwHumLrqqMp7v9QFrGMWU2WZBELHL/u+Wk7Ctwwi3trprV76/n+wTO75ja0plVrgAIlYMgihpF5JHGshFDW2ZhNJ2nSz8az0G9Prt55+PRd2jkdWA3PqIMCiVeQIIm10LbXHKvje7vpxk5y8kI3GTh+X1G67d7dm/e31luuVvVME5A5zqpUL46y+c7k5ZNH+1cuDYbjxw8OZ6PBqKllbv36+fHhjb359OxkezsKA0ARPFuE1ZI4jKOD+d61y9P57XvHv/8eH33/9OHFx/dvfn75tvi6+LX48+Pz4u2r14AiuGUIEX2CpZc4hkMQn2q6q7Zp60a/Ew+7SS+Oz21uDrvJVtrLogiQBIsgVyouQ5opMpAi8iKHRIQAABiyeZIEANBUnsjlmMJSaNv/AIRlVfkKqF2vAAAAAElFTkSuQmCC",

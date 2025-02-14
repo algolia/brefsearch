@@ -8,13 +8,14 @@
     "videoId": "WRXsFwhVzTs"
   },
   "line": {
-    "content": "La plupart du temps, il y a au moins un Benjamin dans une soirée.",
+    "content": "La plupart du temps, il y a\nau moins un Benjamin dans une soirée.",
     "end": 12,
     "index": 4,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=10s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/73_brefJaiFaitUneSoireeDeguiseePartie3/gif/010.gif",
     "hash": "7da99afca9",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwU9v0lAAAPBnloipg7aM0mdb1j/vtbS0YyODLS2sPAYDNtkoZCp0wCDKJhoNiwedifGkBw8zMcZ40exkjAevfoUdjF9hX8XfD7R0PNa1S38ttEz+Nmsn4FbpbHhx3X7+txX+6Q5+Hb66Kq7W1wXBFiQlzoEgrc9M/ZPrHNsm4sSjLd9z3ODt1fD19aPwsld79vDsN4aymoAmFFESgp5jdUTJibItDUEmacuGJSrF7tfJ/N+4POnYpc8XP1aQwUeXLCFlQBF0zHSVh12k1LFRxkbFtEuqHPiT/uDbfYdMMoXD8Ze21yikJJkTpHgSbCvKm7z98169b+KmprYtq+/Y583WePRhdnf20tsZDt8Nyzsn+azEcDGKBlWMT5D8vbQ6sgxfUaaFtdHGxpRUx93HYf04dJuzoxdPCJlv5tIcpCkGbOs4UNUDZTkSiTUzmffB7l42m2ShwsuuVegV98LKYJDPnzfIfnYldisKCMY1DSWiLLgRWZfVjw+CipVZpJgYRQtxftN0i2Zh19RPiTdvkDLSQBHhnJiiblILCxGGok99D/HCIkXDJTXJ3pGhllt2CNIJUqfEfVrz/wMCYmJrM5S5JgAAAABJRU5ErkJggg==",

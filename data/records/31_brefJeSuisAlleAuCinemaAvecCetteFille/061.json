@@ -8,13 +8,14 @@
     "videoId": "r-cbMtBLY0g"
   },
   "line": {
-    "content": "Je déteste parler du film juste après le film.",
+    "content": "Je déteste parler du film\njuste après le film.",
     "end": 63,
     "index": 27,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=61s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/gif/061.gif",
     "hash": "b14a1bb4c0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX1JREFUeJwFwYlyojAAAFBGkVuURCAkJCCXgoaiFIR6Ve26th07Ozuz//8r+56gibo8VPwpQsYMigoUVcdEp5f98/h8vH09+s8qrVesIBYeS4YuqgLQLG0gYcOiY+iOtAjgIlhtks2v7uvn9OdcHXKar1kRQB+oU30oCwz4M9m0RRlJ2mwgFTi9Ndf9y/upem/zLvGyJU5KumCmA5SJIarCHEUM+FQz3ZHuDuVg4t5er38v/+7t72t92/MDZ0tOM181nZGmiKqAAYtJUaVNZBF7MIoh6dddX/Q8LI/loYxKAgiPeADIdCAj0xaIHcWApBbJLBxM2BxXCc4O/LCNNznNfUA9HXAvXDoMSXqKqBCiRQTC0K2I3SC7D3AfebEHKIEMGjb1moR0bEwCRQ8kJXGJ4MEFclqC+ir/uLTPZnXr+KXO2+2y3ix2xDsSfHHtJsS70PTm0BUsMwNWyePm+/jzeHved4+U1nm03+Zn361sWM2DO/PPrv2KwJoB9B9R7TiYWk5Y9gAAAABJRU5ErkJggg==",

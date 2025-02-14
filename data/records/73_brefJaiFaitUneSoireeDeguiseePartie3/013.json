@@ -8,13 +8,14 @@
     "videoId": "WRXsFwhVzTs"
   },
   "line": {
-    "content": "Alors je réponds toujours. Je suis le pote de Ben.",
+    "content": "Alors je réponds toujours.\nJe suis le pote de Ben.",
     "end": 15,
     "index": 6,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=13s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/73_brefJaiFaitUneSoireeDeguiseePartie3/gif/013.gif",
     "hash": "c41f776cb3",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwVzV1v0lAAANDGld7e3nsLVchqmimraxlrOxgTgVI6KKBk3SzTDXRlG2ZszcBEw+ZXhtH5YHCL0z0YH41Z4u80/ICTQzmGXtGTingbQ7KRy3TKhReO+SSbLs7G3eXUl5e987evPga7r7e9/qPSlqZQkhAThRiPIoQlrWI2aJT3q/aBbb576GRE8fla4/py/O14MAo6b7yar6tUBEcELHAsjiC+XcwOVqvekjGsO589t60l+p57/WN8dTo8Pzn61Ha7hkpxLEYsQZDwLFlN64Fb3bYeNPWFE8c+Nu+Pdp79+3X5++zDz9Hwq9/sGQrFAcyEIGA4EILmnLxXKx3WraBS8FPaQcbo5LKng/7f7+M/F2cXe5u9yQAwBIgFiAN4UZL8lUK3bLYsMz9zZy0+c1RaiUfFTGJ+92nz/XptX1cojkGYJZOEhoU5ecexluSEdlctJRdtWdkyy9PhKKI5imKWBf4wlaToKQAYDjKIhKCzoG5auSgfnQ7H/MZGq/Z4PV8hgMSwQIeQweOupk4APcXyLBZx2FLkekq/yd8iXNhO51VpNinJmMEC5G/QUCfYn7/3HxFqWbniR4hmAAAAAElFTkSuQmCC",

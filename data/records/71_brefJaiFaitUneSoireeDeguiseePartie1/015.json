@@ -8,13 +8,14 @@
     "videoId": "rOI3TXz-igs"
   },
   "line": {
-    "content": "Ensuite, on a discuté. Ah bon ?",
+    "content": "Ensuite, on a discuté.\nAh bon ?",
     "end": 16,
     "index": 8,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=15s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/71_brefJaiFaitUneSoireeDeguiseePartie1/gif/015.gif",
     "hash": "7681909134",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAGDRUMExsTFyAWGCAZHikjKzcJEx0AChU/Nz16YWF9aGg+PEUrNUI/RlNTWGViZ3QADREZJCEpHyAoNDhDP0VTW2Fxa3B9QkRPhmxrqoqHwKCbhXJzNTxKS1NjWF5sZmp4ADorLzsqLlZVX3Z4hYCCh42NkIOFkWNbYWdTVJF0c5N4dm5gYm9xflBWZUdOXF9kcgBWPkBkV1uSk5xOU2AiKzgrMz4RHCteUFSXenmLcHB/aGiFb3B2eIZKU2MgKjgUHikAVkdLmJagkpaiMTlIFyIxEhsqCxUlWEpPhmhokHRzrYyHiHyBaHeJcHyMam99KjJAACAjLVthcDM8SygxQR4mNhwiMRIaKjIvN3VVVn1eX21bXkhPXn2DkFpdaSwzRSMtPwACCRYEDxwXHy8eJDQZHy8TGSgUGSoOFiRFOj9aSk4SFyMfJTY3PEkjLDwfLD4YIjMAICItBQ4bERYkFBkpGB0tFx0sHiIzDRUlGx4pICEsAwsYEBUkHig6Mz1NUllnZmt3ABgaIwcOGhUaKRkeLA0TIhQZKR0iMhYcLBgdLQ4UIwYNGQYNGVhcao6QmpeYoZqbpJ3udhVXLKm7AAAAAElFTkSuQmCC",

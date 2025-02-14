@@ -8,13 +8,14 @@
     "videoId": "5pr4Q09-16k"
   },
   "line": {
-    "content": "Parce que j'ai plus toute ma tête, mais j'ai encore tout mon cœur.",
+    "content": "Parce que j'ai plus toute ma tête,\nmais j'ai encore tout mon cœur.",
     "end": 35,
     "index": 9,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=32s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/47_brefJeSuisVieille/gif/032.gif",
     "hash": "61f0b77f4b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwVy+tT0gAAAPAVsAcjQHAGKAccuIQNhUbEY2xDbjzGmFeM8cyRjBCYtku42mGXWanXh/7mju+/H/BRbg5ajcu+PO+1tTPhvFa5lMUrtR8OHDwDLCmCYvOnSTyejMVCe7tBbBfQOq2JVNfOhC5XWmujXzeLH/pkqkh+LwZa4cQhWcoy6fhxJBDAXG4HjAJjpfN9Ob4edWbvxT9r/fHb5yfTWGkDv3fP+hwM+sN0lsmQKb8HcyIOBESBoVD/+WX6aBrmJ/XemP1e6Q9fjTtDS0RCFgvsw/bLeSadIDGXxwE7EAgF5Nzr26X6737zd3OzmalX/bb4hvpQr5hDcdFucVSafUsn8bjXuYNA6DZIRWbeb98utWH11BjKmiQwOF46Olp16w9qQ+HylSJLRnGn3YlAKAyhQJMuL97VJtUiHYuN+PKgwsoMrQ87elds5rIFqtBg+UQkisJbDYF2oFetzUVuLXMqX7weKXfG1FyOL2QhQxDh0MkxUWBy5UyScqFu0IZsw4XS41NEI3U4F+lziT+Jv3rp3vGhqO+FK+iPetz70TDJ0U0fdmCzQqDN/h/RGGcfaVqZFgAAAABJRU5ErkJggg==",

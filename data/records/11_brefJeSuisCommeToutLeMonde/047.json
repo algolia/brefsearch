@@ -8,13 +8,14 @@
     "videoId": "tkMoSaUMsiM"
   },
   "line": {
-    "content": "C'est Seb. Ok, cool.",
+    "content": "— Ah c'est Seb ! Ok, cool.",
     "end": 49,
-    "index": 22,
+    "index": 21,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=47s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/gif/047.gif",
     "hash": "ef237fdd5f",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCXiYWGdW58aWFgU0+Da16VgXmmmJW+sbCtoaChlJK8sbG1qqqvo6OrnpyjlZOWiYYAk4aBgXFrcWBYXUxGclpLfGpio5WTxbm4k3dtMyEchXx7xby8wre3ua+us6imqZyaAJmMiol8eX5wbn5va4Z5doN1cJSGgrirqrCGd2tJPHleVWVWU4R8fL2yssS6ur6zsgCWiouOgoSelZ+lmqG1qaqdkI2Yioa4rKxxXllwSj2GXlESCwoHBAWDenm4pqKJa2EAkoWGmYiEkoKBm4+Tr6WqlomHl4qHsaWkNS8wOS8ue1tQKBwZAwMGXlFNm4F4cE1CAGpeXGFPRVNBNz8vKoB0c4Z5eYJxbaeUkV5HPzMrLY1zbnRSRVQ7M2M6L4BgVoJfVABFOz0OBAETFRgaFxdcTkdwZGGBZ199XFM5JyE1KytMQ0VsT0RzSDlJFg5fPjJjRTkAOzEwGBAOKTI5KzA0Rzo2Xk1HZF5ZKiknEhUXHR8fGRsdOjk4alpURi0oUzgtSzMpACceHRALCx8ZGB4WFDQeFlFCO0tLRxQWFxAVFwkMDh8iJDtCRE1RT0A9OUoxKE03Lgojp6z6AuRoAAAAAElFTkSuQmCC",

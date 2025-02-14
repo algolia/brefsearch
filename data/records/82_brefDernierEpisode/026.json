@@ -8,13 +8,14 @@
     "videoId": "1cZ_H0rgwCU"
   },
   "line": {
-    "content": "Je rentre dans le bureau de mon boss et je lui dis c'est fini.",
+    "content": "Je rentre dans le bureau de mon boss\net je lui dis c'est fini.",
     "end": 28,
     "index": 11,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=26s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/gif/026.gif",
     "hash": "04194357ac",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwdz8tP03AAwPGyPn6vPtbSdivrg5autBt2D4ZsBsd0ug3HsgFDAc3MZiJBmK94EjWYGG/GmMhBL15NSPgP/N8MHD/J9/KlyvlUOTTLgZN1TNcylgK3shSUcr6V1tZXyycPe3f8uQVVZhjA0IBOAKrXKLXr4aATd1v55dg+fLp/ODro1ErdZrS3VTsatNuRk08pPEA0DSALqZvFoigItqnZlgoBgJDIkqKKkmkop693hvXKqpNec40wpRAAMyJPLbrmcjw/3q9Hvt2oroyG/Sc7/el479Pb48vf3zYKwYO814sXbhizGk8W1SQ17KwcjdqPBrcD12yuVY8nB9Nnj0+nk38Xfy5+fV/Pha1oflDwI13WBaLzmDp7NRnfq1WsdNYx3798/vHNi8DzNFX/8fnd3/OzDyfdRs6tehlLFnmIAQuorU7zVuTFlpFJp3Y3W9sb90M/CwFuVIvnX/o/vxZ27xZ0SYIcZK6mEcXQgGERy2GC+USCnZlhIcA8ETkWz8qSPadosoIA4VgMOAw4RAlEJJAgQAgmBPEECeiaGPLXES8KSUlIXpFBHIP+A3uOSMSXHEkwAAAAAElFTkSuQmCC",

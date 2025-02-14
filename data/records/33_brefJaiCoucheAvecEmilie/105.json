@@ -8,13 +8,14 @@
     "videoId": "mEu0q3Slzj0"
   },
   "line": {
-    "content": "Quand j'ai fermé la porte, je me suis checké moi quand j'avais 15 ans.",
+    "content": "Quand j'ai fermé la porte, je\nme suis checké moi quand j'avais 15 ans.",
     "end": 107,
     "index": 45,
     "start": 105,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=105s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/gif/105.gif",
     "hash": "faa9693ff2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBSRkRLPjsYEhM9KiOOdWQsIh9NR0LQwrdtWVFfTEVyVkttWVCFd3GonJW6sqyrpKAAXlFOOy4rCgUHOywoo4l3KB0ZR0E9yK2di2dYRDAqPSsmOSkkWUtHqJyVxry2v7WxAFxOSTYsNR8YIzAlIqWOfS0hHlhKRLSmm4dmWHhOPiocFywcFi8dF4Z5c8W6tNLIwwBIOTYsJDAhGiQeFhWZhXc2KydSRD+ci4NhTUWVZ1JkSEJNQ1JZS1yPgX7KvrbSycUAT0A9LCMuIRojEAoLgnFnQDAqTT85mYmAYk5FcmBgdWuFaWF/VE5rgG5uuaaXq5+dAEo9Oi4lMiUdKAoDBWJVTz0xLUAyLZmIf2hVTmphd2xlhFpRa1BIYWpXVrSciKydlgA7MDIvJzclHSgQCQtFOzY9MzBIPDeWhXxqWVZeVWlZUGhTSmRORl1PPUG6pJS+s60AOzI2JR0sHxghFQ4QMCYiMyknVkhDloV7aVlXWFBgQjlMTkVZRz9SQzQ7qpiNnZKOADsxMhwVIR4XIBUOESUaFiwiHkM2MpB/dmpcX1VMXD00RTkwPUI5Sz4yOZWFfnpubEQrkYlJVA2kAAAAAElFTkSuQmCC",

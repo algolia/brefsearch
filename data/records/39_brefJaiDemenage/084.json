@@ -8,13 +8,14 @@
     "videoId": "YFLtnewtqAE"
   },
   "line": {
-    "content": "Salut, je suis Charles, je suis le nouveau coloc.",
+    "content": "Salut, je suis Charles,\nje suis le nouveau coloc.",
     "end": 85,
     "index": 37,
     "start": 84,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=84s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/gif/084.gif",
     "hash": "9b92c07156",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBHS15SWW9td4xFV4Gvr6mYlYpsaV5lX1JCPUMrJTo1M0hKXos5R21db5xIUW5ZWWsAS01bVl95eoWYTmSPa2lpKSUjPi8qZFpPQT5IJiE2NDVOTWGPP053XXGfQEhkd3aJAFRUW1Ncen+Km05olR0dJ0EvKpFjV2lUSj88RCYgNDc5U0ldikBRfkhfkTxCXZ+esgBUUVJMVnN/iZhXcp8vMT5kTEWug3eObWJPSEUqIzM2Pl1EVoJEVoRNZpozN0xoZG8AlpWQY2l/aXB+XHqkNThIl2tcsIZ5jG1jWFBJRD09SU1qRVR8SlyGT2CILS5AU05TAKyqoGZodF5ib159pjI6TnxWSYlfVEI4M1ZQSlhQSk9Ub1RbfUxeikFPdDIyPzk0PgCjoJSEhIlkZ3Rlg6gzPlUhGhwsIiYxKypSTUZPSENCTnBHUXRLXopBS2l3W1NZRUcAuLmzlpeZVldkaYSlNUNcIBgaFxMaLyorRz85QDk1Qk9yOklwRVqHPUFYe1lOSUdaAJ2cl42OjUxMWGJ6mDVFYBwVFxkWHCsmJychIRkXHTxJbjpGaUtXeS4vQR4eKyszTk1GldrQMYPIAAAAAElFTkSuQmCC",

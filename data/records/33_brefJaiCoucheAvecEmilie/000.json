@@ -8,13 +8,14 @@
     "videoId": "mEu0q3Slzj0"
   },
   "line": {
-    "content": "Je suis aberré. T'es mort de chien.",
+    "content": "Je suis aberré.\nT'es mort de chien.",
     "end": 2,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=0s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/33_brefJaiCoucheAvecEmilie/gif/000.gif",
     "hash": "c6c75372eb",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBZTjSooIyCeWpQSDdmYzJUVgSppzlWSTRaSD9OPDhbUSt0dRtvZCZ0bSdIShBZWhAATz83y8C6qJ+YeG5mp5+SgnhbgnhcDggKGBERIhkYKR4doZxLtKZVlYRSl4pJiYE1AEQ2L8W6sdTOyW9nXY6Hd7Gqnci+tygbFRURERcTEiUbGoR7RJGMVZqOaqiZdJiJZgB3Z1/89vK8tK5VSTyMg2rAua/t5eB5WEwpFxEzIx1KNSxaTj1PTzhgYEVaWj1lZTAAvaqi7+rmpZyWW08/tauO083C4tvYf2FVYEtEd2djhXd2fnpyaGNRUk03T0s2SUc1ANHHwezk4MW7s11TSuXf3uTc2LivrGtna25vdXF0fnt+ipiYoJuZnYyJg2xlWlFHNwC/sazX0cWSg3lOPDW9t7GhoqJxcXVtbnVram9sanBwcHiFhY2AgYyHlJ2WaniPQEgAdSAyjVlZZFxNay4xby87a1dfaWBmaGRpZmRpZGRoZ2htbW53cm95dV1oYyAycxAoAGQGH3YNJ3JMTWIpK2YBEXoNInkUKHUbLHYfMXMjM3UmN3YlN3cbLWYMHiweLzYYJv+cta23QQBIAAAAAElFTkSuQmCC",

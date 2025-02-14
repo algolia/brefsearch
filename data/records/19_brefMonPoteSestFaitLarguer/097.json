@@ -10,11 +10,12 @@
   "line": {
     "content": "Il a pas payé, 14 €.",
     "end": 98,
-    "index": 45,
+    "index": 41,
     "start": 97,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=97s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/097.gif",
     "hash": "754e5bf58a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxj4GZj42VnE+Jg52VjVRHj15MX1Zbnt9YUcNAVtddX8rbQCrTSiLVTLPaSKfNTMNPVYOBiY+NhY+VnZxXj5ZYWFtBRkNSTE7FRFw82lm8ItFxfHJHrYxNhK98Rpdgeo2Gmq8nAzcbKw8oiyMkuK8yvLilspiSlKy2sKS7gY6hUHWgzOzu4OcotwVEt2U4qxkbWQEGKgZuNjZ+dVZCDzUxO3FJZWpSDXZyTQ1tK2FlXoTbYoS3GY1VJTKmPsTwngxofh7+uLkQDmzw/t7+Ooru+ijAHhxgXp42xdqCFVoWvzYLcsIkpfr2lGd11VT7m+k6KCgwSQgJivFx2KlIBuko+xmraMqIBjmbpkd5BTqbRltoZvrZVgVa75kw6evj0xjWbWstrGRRlpOQlRPx0lSJN1Q1lhLRkxZLCvZLDvX2dLS015WIcDauCbBdM6Jk7fcb8mXO3bTrCICchriijoCUvb6QgLivIa6mvUZAeO6mrvbO5SVFa0kRL2Vhbo6KkZNakyb3tXauXbGeQEBCWEZOQExdRlZPU1VDRU1dKjAyb2jdh0dwFGipKGqrKmqoq6fGRva1tNaXFyxZuAgD9emh5UjU1nwAAAABJRU5ErkJggg==",

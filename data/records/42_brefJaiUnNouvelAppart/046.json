@@ -8,13 +8,14 @@
     "videoId": "c-51sCEAiCg"
   },
   "line": {
-    "content": "Le robinet qui fuit et que je lui ai promis de réparer parce que\nje suis un mec, alors que je ne sais pas le faire parce que je suis un mec.",
+    "content": "Le robinet qui fuit et que\nje lui ai promis de réparer parce que\nje suis un mec, alors que je ne sais\npas le faire parce que je suis un mec.",
     "end": 50,
     "index": 17,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=46s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/046.gif",
     "hash": "3bdfc9cd6f",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwVwjlv01AAAGD/GYYuSAxVSxRSxVUSp3nPfj7iMz7iI77i2PHVJjZxQim0XRjaCpaqElRCSMDE0g1G/hXi04cNj16hXlcAhD5GjizMFOnu8n1hGu29ZxMK1GVZF8VZmqXhfO5YCoswNDgWAKEiaItcoE+W7uzpx8/Smh4934st87yuz6uqLsvVcllGoSkJmAgIEQ5laqQgOB4R19vm26ePZGufOHjhGVoaxWdZUZ+u1lm6TuLA0DGId1R04vLkFPYimfv7+8/Xu9tYlVHn5Tryt1mc+27iufOpnvuuJfGY1GtNQdcmu2r/sLKVp8fPv748NsmC6rS8MSotOZRol0czDgQSo5F9bOMwO/f/jUOvTPTWV77ffLi/uvR4FrYPApGtfW0T6E2gNb6S6zRW2cwuEC4i6d1CfhMIW1+4Tu2Hi+1VlrgsuVCE1565C/VdqDa+nKsk5iB8zg9jGWQqVRrsqTnODaYwuMrgM4lJRCbkyJAZGSd4INMa7GGj9j6Dt0SiowLcoomQB4lCL1UuEoANcRPiFuqbiNCpwYQcoOP2P5w9pn9KVcYvAAAAAElFTkSuQmCC",

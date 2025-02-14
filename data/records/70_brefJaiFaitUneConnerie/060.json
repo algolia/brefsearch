@@ -8,13 +8,14 @@
     "videoId": "hpCO1AIWo60"
   },
   "line": {
-    "content": "J'ai eu le droit aux chaussures de la honte.",
+    "content": "J'ai eu le droit\naux chaussures de la honte.",
     "end": 62,
     "index": 32,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=60s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/gif/060.gif",
     "hash": "f1969faf69",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwVy9tummAAAGDuZpxDlAlFEPEAcqjBA4qWv5yRk6CFrTXtamWdLu2Sbcl2s5s1e4E987Lv/oMUgXMW09i2nEvDMy3rAmjK/On63Z+n0/ebfLNUNZ6rV6psZ6CrYDFWIRrHPKBlvh3YbrQKPMNc6cYhTb7k28/rcNLtaiI/ICmFFx1gARVANIYF2vwmjTdxsonWkbvyDetn8fByenwMvUxb3trmkuO82SKwA1d3IIFqBpaxv3vI06ss2UaOF1ruy/Pz3x/f3l9qO13b6UCTxMQNszgP7RCSmoSrWx+LY77JruLEN62RJH9Ikt/FPpsr9lD0J6MeSXXb7Gw0j70EmjFkYhhFcUqjdeT5Ql9AEWzI8r+K+6/bJJyOzxkGQ9DSq0q5VAlXKdQhiQtFLQ6f1kHsmg5LMe0zGq02zvusMZIZDG818A5BITAKv66zXRGiW4Qsyfv9MXb9nalupyJWwxH4bQ1GJ/2+MhgASSIxolKuVSv/D9Tr0TwrXAf+PRgegZiNOQanGrUzBEZNhjnIksF0yqU3BNZsEe16tfEPblVeVNxqokcAAAAASUVORK5CYII=",

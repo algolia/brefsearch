@@ -8,13 +8,14 @@
     "videoId": "tkMoSaUMsiM"
   },
   "line": {
-    "content": "J'ai chez moi des chargeurs de portables inutiles.",
+    "content": "J'ai chez moi des chargeurs\nde portables inutiles.",
     "end": 35,
-    "index": 15,
+    "index": 14,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=33s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/gif/033.gif",
     "hash": "f4165bc761",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVFJREFUeJxdittq20AURSfSzDlz13WMxiPJjl05sRLbUayYkNa4bvsQAn0stP//I6V+CDSbBXvDXgT+DyLGcewrP2uaKIoQ8YNA2KXYOwwoY5Qxdjkug707gEAUouRCIU+FVICpVC7NMm0koOaiTBIrpATkgALQCk008ETpUptKGSd156efd9tl5XMKdZINN93+tlt5bykkQpbGEo28tHZidEHjStvHfrPv+yYvPMM7748P918fd+NyEYRct/l1lRDJ0CAPefn8dDoMLw/r9Zf9uF2samGGtj6sl4fVYtPWHkWwPOSKSEAJfDccz99//Xj9fT59G7e3bz//jMNT3y02n+rt3M+8m4fgOFrkJGNQADaZm+p0nrmuCtdGDf1w2I+beViW5czoxug6sZ4LB0hyynIaZ9FVFkdpdFXEkYtpmxdhUrZaOcocwIT9owKsAP8CSmwh0nlYARUAAAAASUVORK5CYII=",

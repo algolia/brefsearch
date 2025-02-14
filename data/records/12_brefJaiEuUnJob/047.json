@@ -8,13 +8,14 @@
     "videoId": "DUDE5JWW-q8"
   },
   "line": {
-    "content": "Oui.",
+    "content": "— Oui.",
     "end": 48,
     "index": 23,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=47s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/047.gif",
     "hash": "b09dcd26d0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAkIR0wJiEcGhdZUkeYjoNjWVc9NTNKPzlBMCliRjyAX1M1KiQ/ODSCdnCIe3V9cWsANSgjbEQ8JRoWPTQsh3tzWlJRRT8+b1pRqnlnpnZkoXZmd11SJSIeZl5ahnl1f3JvACMTEWQ7NVM5MTwvJpWGgHNra3NtbpV9dZFnWIFcUG9RR5h0ZllCOm5kYIZ+fYF3dQAbCgpNKSVoRTtaRDpuYltFRUZCRUZXTkmfdWeZc2WTbF6Wbl95WU1BPDsuMjQwMjMAJBMRMhcUQyYhXEU6RTgwFBkbEBYaHSAioHpskW5he1pOjGdYalFHFxscFxoaGBsbAC0aFTcgGzojHko3LlBEPUZHREtMR0RJRWdaUpRsXnRTSWZLP3dnY3Z/i0pNTENFQQArHR4/Jx9DLSY+LiZoW1Zzbm99d3dnYmNSTk+HdXBxX1VTT06Nm7CiuNOSpbyKmawAIyc5MiYqOicgNCYfeWtnkomMlIiKjIWJoKSxpLjNc2V0fHaJor3YobPJqLnOrb/UAB0jNSAlNycmNCQiKXJrbI6EhpSOk6m3ybbH26W80mZBWFI0SZixyam5zai5zae3y3ecm7Oqo4aTAAAAAElFTkSuQmCC",

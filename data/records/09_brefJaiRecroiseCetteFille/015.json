@@ -8,13 +8,14 @@
     "videoId": "r7LVaWeM_bg"
   },
   "line": {
-    "content": "Elle m'a dit: Je m'appelle pas Vincent. J'ai rien dit.",
+    "content": "Elle m'a dit:\n— Hey, Vincent.\nJe m'appelle pas Vincent. J'ai rien dit.",
     "end": 17,
     "index": 6,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=15s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/015.gif",
     "hash": "16aac254b5",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCNC1QQTlRQTloUT+FZkduWkVmU0NrWEV5ZU5/YU+Yb1xROS+IY1h/a2V6ZE2GZlEAOC0nUUE4UkM7VUE2fW1joJmarqOko5uZkX9yxYxy6a+TiGZXeHN0t6morKKdqaKiAB0WFDAjHj0wKj0rInhpZMXByrqxtp2Ken1gSYZYRpdrWX9aS7CdmeXS0KusurK1xQAbFxYlGhcqHhoeEw5vYFmtloWYfWaCalWKZ1Keb12mdWGpemeQdWGehmudlZW9qqYADxESIRsZJR0ZJhkVd2JXoY5/pJKGrZ6WnoZzbkg7kGBQjXFhoZqVqqOotKywurW9AAUHCxISEiAZFi0cFZh7cLWjjKiSgpeNb5iKZFA1KlY9M2VZXJ2VgeDTx9XR1dnLzAAJCwsTExMYExEzIBqaeF+0nIx9ZZ4pLC4yNy86NkFRTVpLUmxGSUR6dVVhVm66jo8ABgYGDg4PEg8ONSEco4x3koCWX0SVExgqCRUeQ0piVVx4UllxDxokAQ4OQzRvjW6vAAQEBAYHBw0JB1Y8NayYfXRfdEYydhwfMxQfJVVbc15kflVccxEcJAQRFEQ2aWtMnyJfo0LoJxMiAAAAAElFTkSuQmCC",

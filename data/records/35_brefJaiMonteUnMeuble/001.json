@@ -8,13 +8,14 @@
     "videoId": "46O65gqs03c"
   },
   "line": {
-    "content": "Bref, ça faisait déjà quelques mois qu'il me fallait une vraie armoire.",
+    "content": "Bref, ça faisait déjà quelques mois\nqu'il me fallait une vraie armoire.",
     "end": 3,
     "index": 0,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=1s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/gif/001.gif",
     "hash": "599cc67b54",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAzO0ljWFM2KyOrpKVYUlIAAABXVFfSycmHe3dEPjyJemvBpYa5m3mEcV9TSUVaT0gATS0eclA5aVxQwLm7R0E+AAAAQT4/3tjZX1laDQ0RUEpJdGhhk35ni3dkX1RQZ1xVAF88KmdDLZSDc8vFx1dRTwAAACQhI8K9v0VCRSgnK19XVDItL25gUYl3ZWZcVXFmXgByVkk+GweekIX//f97dncAAAALCwo1NTwiIiY0MTRIQD8pJipqXE58a11qYVp6cGcAjXVpKhEEdmpgvrm5VVddAgAADgsMFhYaHRsdLCouOTMzPDtAWE1GcGJXbGJaioB5AFhMSR0YGkc8NFZJGFVGGAsQEwkJDQoHCyclKCspLRcUEychIW5eUHBjWWpfWJmQigAlLkAVFRo+NC1jUjKlXSyReCpTXCFHNhErLTMnJisTDQwfFRNjU0VqXldtYlqon5sAIik6FRcgMisnU0M2GREQZlcfhoM/W107MDE6GxsfIRkYLSIfUUM7YlZRbmRerqemAB0kMhIWIDEzOk09LwAAABMUJBkYGkQ+PTk5QwwKDAYEBWpaSX1rWU9GQ25lYKmiolopf/qw73z2AAAAAElFTkSuQmCC",

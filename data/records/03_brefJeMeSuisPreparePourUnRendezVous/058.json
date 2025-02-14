@@ -8,13 +8,14 @@
     "videoId": "1x3P61ck0QI"
   },
   "line": {
-    "content": "Mais vu qu'elle n'est pas venue la dernière fois, j'en ai encore.",
+    "content": "Mais vu qu'elle n'est pas venue\nla dernière fois, j'en ai encore.",
     "end": 59,
     "index": 18,
     "start": 58,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=58s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/gif/058.gif",
     "hash": "21a9c43ae7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4Zl9sVkmUgXe2r6vT1d3OztXIx8y7uLe5trW+vLq0s7MzMzceGyUXFTMYEyQgHSUAfmFXfWlfdWZitrCuwsDDv72/uLOysq6rvLu5r6ejdmFbKyYwGxkoGRUsGRQcHBgeAFtQVmNNRVJPTbKsqbSxsLGsqqijoKmmo4R1c1w+OFpDPUE6OyAdHxwaJRgTGRQOIwApICRQKytUMzKAcWqPhoazrayopKGjn5tfR0pEKi2no5+MiIUfHCkWESsVDxwWEiUAdmddeV1YhGNdcV1VUDQ0nIyHo5+bo52XaFBOSzAwnZSNmJSRJSErFhEjGBEXFxMiAL2ulbyxnb2zoLesn6+ilqydjouCem1pZ2dGO1MzKW9rbGRiYyEeIBoUHxYOGhIKIQCZgmCgjHClk3usnIaejXZ5ZEx2Yk88NC4wIyBNNCsoJjYiIjAWEiIMBiETCxYcExsAg2c9hWxJiHNTnYdolIFqZlE7b19Te3BqPzw9GBQWIR4hIR4iMyckSjUrZ0orj3RRAHNaOXteN3tfN4ZrQ4BuWnJjVZaLgayjnJaMhmBXUHlrWodwU4FgOIBZLY1pO5p7UB7GpzRgBYBgAAAAAElFTkSuQmCC",

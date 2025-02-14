@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "name": "Je suis un plan cul régulier.",
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI"
+  },
+  "line": {
+    "content": "Je t'aime pas,Ouais, c'est cool.\nJe crois qu'il s'en fout.",
+    "end": 32,
+    "index": 11,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=28s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/gif/028.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/028.png"
+  }
+}

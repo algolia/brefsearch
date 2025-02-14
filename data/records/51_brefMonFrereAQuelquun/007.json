@@ -8,13 +8,14 @@
     "videoId": "m5Ezt99WggY"
   },
   "line": {
-    "content": "J'ai eu mon permis. J'arrive.",
+    "content": "J'ai eu mon permis.\nJ'arrive.",
     "end": 9,
     "index": 3,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=7s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/gif/007.gif",
     "hash": "fd761f3455",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA8NidJQDFPRThTSzR0aUOCdVSciW+9qZiAbleShFuBdlRxaU1iXEZdV0NTSzVJRCwAfGldZ1lLZFdHWk5Bjn9tr5mFzrKhtZ6PX1JFkYNmkoVoj4FmdWJVbV1PUEc2QDouAH1nXHdiW4JsY3lkXbWWiMCcid/EtaOHflAwKK+gmt7Oycmyp7uZjK2YkpOAepqHfgCYhn+RgXqci4SJenbNt7HFr6fOu7a8joSLVkiJenmqn6B2bGyIcm+Ja2VlVlZ5aGUAYVtaXVZVWlRTamNkiYGEnJSXopSTeVVNXDgxOy4sODY4U1VXd2BgWS0rIxsdPi8wABgXGCooKSAeH0E8PFpXWHJmZVVLSxMSFVNDQSMeIRAPExoaHUoqKkwlJCsXFzUgIAAoJScyKys0MzU6PD88PT8vLC4aFhkNDA1FQ0YZGRwODQ4SEhQfGRodFhcRDQ4NCwwACAYGIhYUWDAtVDAvQisrCwoMFBIUFBMVNjI0HBkaJiMkGRYZFRQWCgoLHhsbGBUVAAQGBiMgIDwgHEspJk0lIhIODiEfIhARFWVLR35WTRMSFSQgIDIqKiAdHiUhIyUhIo4Jh0CWg/z/AAAAAElFTkSuQmCC",

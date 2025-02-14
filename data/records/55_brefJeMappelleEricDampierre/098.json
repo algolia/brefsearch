@@ -8,13 +8,14 @@
     "videoId": "tkOuQiO-Vzg"
   },
   "line": {
-    "content": "Je ne souhaite pas répondre à vos questions.",
+    "content": "Je ne souhaite pas\nrépondre à vos questions.",
     "end": 100,
     "index": 48,
     "start": 98,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=98s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/gif/098.gif",
     "hash": "ceb283e982",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAcBQxORUNZVFFYUk9ZUk5gWld7eHmJh4iFg4RsZmdycHKanaCXmp2JjZJ+gol3eX8AHQUNVUtKZWBdZ2BcZ2FdbWZjiISGmJaXioeIbFdVTzs5dnl8tLm/mZiSh39ueXFlACAHD1pRT3BqZ25nZG5lY3FpZ4aDg5qYmpGLjGhUUlJEQldVVaSosH9zXXJbMlFEMwAjBxFdU1JybWpuZ2VtZGJwZ2aFhIWho6WDd3dXQD9XREN1b2+do6lyZVU7MiUvLCUAJAcRXFBPcmxpa2Ria2Nhb2dlhnp8bmFmVk1OMiQkSDo6e2ZmmZSZh4Z/Gx4gWEsuACEEDlJERWxmY2tgW2hhXGdVVmEvMxwTGQ8YHhYbIU4rL0cVF2I7P394dyIkI3RkQAAZAAg8MDF3cmyYjHxxY1NkP0BNLjM0PkUxNz8sMzhRLTFSGh5LHCBgPz5QJiJhMyMAFAAFKRwedW9pfXJnZ1RHZzg7LiMiJi0sQi4uLR0YTiMmUBseSBcaVzIxVTQuWCAYABIABB8TFT85NzUnI0IpJ1EiJyIaGSIkIi8UFyIWFEYgJEERFDgIC11JTHd8f2lmZ4FLiwbPcqSyAAAAAElFTkSuQmCC",

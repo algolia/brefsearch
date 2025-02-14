@@ -8,13 +8,14 @@
     "videoId": "94NzqAY2Yhk"
   },
   "line": {
-    "content": "Mais elle risquait de me demander quelle expo et je n'en connaissais aucune.",
+    "content": "Mais elle risquait de me demander quelle\nexpo et je n'en connaissais aucune.",
     "end": 60,
     "index": 30,
     "start": 58,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=58s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/77_brefJaiEnvoyeUnTexto/gif/058.gif",
     "hash": "3a2875c673",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4IUmBJVGLKFaUKVubLGCfLWKiLmSjLmWjLWSiLWSfLWKaK1+UKVuLJ1eAJFB4IkoAhCVSkCRXnCZdpC5lpy5mqTFpqTNqqDJpqTNqqTNqqTJpqy9mpC5mnithkipbgiJQAI8iVatGdbRQf6gyaq5Edqk2baYvaKk2bKcyaakxaKI2bZdAd6swaKg0a58nX5c2ZACcK2DMianCdJnQl7PMi6m5XorJg6XPlLDOkq/Zm7SdVodlV5DHZIzQnLfDdprBjqgArEt4xn2gr0R2y4iow3WatVSC0JSxwnOYxXqeyn+hoEV5gEV+wFuG1KO8y4mpwYOhAJ8zZa09crBIerpgi6k3bbRRgKk1bLNNfao4br1nkLJKe605bqo6cLFIeao2bJolWwC4jqTJl7DYqsDaq8HarcLcsca0UoHcs8fEeZzFeJzPk6/YqsDZq8HVo7vDgqKaPGgAkEVqmj5pqkx4uGCKt1eDvWONrj5zvmeQs0x9rDpvskl7u2GLuF+Jsl+GpVp+kEVpAH0uVIYzW59ef6ZZfqhPeq1TfrdljKo/cao/crNahatLeadLd51AbYomVY5FaIE4W3GF1haHBcw5AAAAAElFTkSuQmCC",

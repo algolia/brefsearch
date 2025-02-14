@@ -8,13 +8,14 @@
     "videoId": "KtLp-gLL0Aw"
   },
   "line": {
-    "content": "Yes. Elle est venue chez moi.",
+    "content": "Yes.\nElle est venue chez moi.",
     "end": 24,
     "index": 11,
     "start": 23,
     "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=23s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/gif/023.gif",
     "hash": "5b71dcf358",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCzraG2sJi9tZ7FvanQzKfOzJfGxINxWjg5FgVMKhZtRjNoQzJqUDCDeVhoZDhkYykAtrKTzcmnvLmSvLib8vDg3t3Du7mZaks0TCMOmWhUvId1jmBNWjonp5mCo5aBlIZ1AKmxaLC5bqGsYYaRU5mmVpSgVY6LTlk2Gm9HNIZeTqN0YoRZSW9OObSgh6uYh4+BewB6gFmBjUt7hUt1eFOSkWagmXWjjnOQaVeTYE+jbluygG21fGqYcVmfjH+Lfnd/cmsApJyQv7Wdw7Wkr5+R0cCvubONsZ98u5KBiV9PjFdGjFdIqHVitqKVqJyXoJSPlomEAJWQl6yrl5KfV4GPSZSfWZmmX6eWabSHeoRuXn5RP5peUKmEdLeuqbOmoaygm6CTjwBQTkRkZ1uGjkyKkU99ikWSn3Wal4yuhnejf291UD2LXkmsemS+pZmtop6ilZCViYUAYFlKc2pqy7in2Me32s3BvrzPnp2xsIt8qI2Fg3l8moR/tZyYs5uVtq6zqqarjIKAAJOBdI19cbanlsa4pca8saqrupeUobiLe6WUkqGjsqipt6equZKHjKajr6WktJyZoyOY6NU6VgehAAAAAElFTkSuQmCC",

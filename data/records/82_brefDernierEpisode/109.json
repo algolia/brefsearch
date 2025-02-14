@@ -8,13 +8,14 @@
     "videoId": "1cZ_H0rgwCU"
   },
   "line": {
-    "content": "Ouais, t'inquiète, j'arrive au cinéma. À tout de suite.",
+    "content": "Ouais, t'inquiète, j'arrive au cinéma.\nÀ tout de suite.",
     "end": 113,
     "index": 36,
     "start": 109,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=109s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/gif/109.gif",
     "hash": "325751a005",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwVy1tP2lAAAOD+jT3MbA8sE51cW2htOeeU0h5KT1tu5SIFaalYCJlmzmCim3ODTGGLJkvmm06yaZzZyHzy35l97x91sPfmePTubDo6/fq5pPNZEO61NJ5+Ti8/9Z0SHQwYZNHrJNfqsVYz0WlD6tfN9f2/v/P57c317O726mJ6cHc8tPWUyAUNHMuiJdt+5TrxnBJUMs8kcYH6fvFz9nv+4+ry/d7Ww8P9n/OTL05+vON1bdS2kb+ZsyrM8uITEQbU7EssByjb9Uha/LA/nF2en04++vWKLQkGZCe7bn/DUUtNvdaRcgXVzJtlCxNCEd2QOeZof3g2HW/W1Hr3CKiuwixZWFhlYlBvyeWugIu8nIeKlhAQte74GTZ+Mjr0qibhw/VSxbPbhAthNiQmwhKp4lqPxxavFJJIZQSJImVXhqmBu6aw4Wo25RaU106DABrRKzARAZKqFNeRVgZqic/o/0N0JdooaL12NZ2MNggsmpbhjAlgYCKCWHpn4HZ7fYCLnKjx6RwjyFQmGdnqb/hu05RBQwOS5kH7m4oAH3qB4eqnXW9yOHi77eEcSQIlzqFHFz6T+2PaUusAAAAASUVORK5CYII=",

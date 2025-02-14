@@ -8,13 +8,14 @@
     "videoId": "1cZ_H0rgwCU"
   },
   "line": {
-    "content": "Cette fille arrivée, je me suis dit qu'elle allait lui jouer\nmon morceau: Special Meuf.",
+    "content": "Cette fille arrivée, je me suis dit\nqu'elle allait lui jouer\nmon morceau: Special Meuf.",
     "end": 37,
     "index": 16,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=35s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/gif/035.gif",
     "hash": "d258ad3a12",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxj4OdllRLjlZHgkxDlEhXhVJTj93LWdLbTc7fRV5YTMTIU9fSQc3WVMTIUNTNW1FATYdBSlzHSUdFSk9BQEVeQFXC20spNcEwNsA200LLXljUxErO0EHGwFzXQE3SyVbG2lGEoL3arLPGrrfRoqw9sqvLNT7YpSnNcVh3bEukYYaWWHW4eG64XHSoXG6Lp46Hg4SbIUFRiWV1t19jk1NzqMrk3tK3BrbzQMSXIPsHJIM5GrSc78OS22duXdvc35TaURqbHWTEUF1tVV9vX1dvX19s2NjjO6I+oKXc30lWRFxcKs1KvCLNcP7tk27LGCQ1xG2Y0XNi1mCE336y0zKayyraqxra8yrqtxbWhNFhNXlJOTFBfXTHQSqunxKul1D3OT68k023tvFqGtHSjPJAe67IKq4oq25o624w0M2VpMRUZMU0lWTsTrbYir96qgJosl7JUu+p0Z4akRKO0VOPsbJPcXLP8AouqavvocDN1eRlVeUklaTEzPc3ocKP8bLOcVKucZOv8RFuGmEjdhFiDxDiDpDjD9GTjrHRTFxtdHWUFHVV5NQVpTUV5Yx25mHDdxpK46T2Vk9vLAKqwhTP42JAfAAAAAElFTkSuQmCC",

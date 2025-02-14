@@ -8,13 +8,14 @@
     "videoId": "lrWa9VYEb78"
   },
   "line": {
-    "content": "Salut, c'est Baptiste. Salut, c'est Baptiste.",
+    "content": "Salut, c'est Baptiste.\nSalut, c'est Baptiste.",
     "end": 70,
     "index": 31,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=69s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/gif/069.gif",
     "hash": "8c0f743766",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB/dHWCd3iJf3+Ng4OWjY6DdXNOPjxsYGJ9cnWVjI6Rh4p+c3NtXl5fUE9OQEA1KiwAgXZ2ioGAlYuLnJGRpp6fh3VyTy0mTDw7ZFZXnZOUnpWYi4CAeGlnZVVTUUA+Qi8sAId8e5KHh5uQkaCVlqykpZx8dHNANmtGQmNUVKOanKKYmpSHhoBwbm5eW1VEQUgyLACLgICXjY2fk5OgmZqde3SHTT1qSEdkUVFlV1iSiIuimZuOgoGAcGxzYV1NPj4wHx0AjIGBmY6OoJWVo5mbhmhnbWBgqqGgi39/W01OaVdXnYqGnZORhHVxdmRgSTs6MSQfAIqAgJmOjp6Sk56Wmo97eV9CPX5ua3FjZYR8f5B4creek+Tf16SWkX5uaVRCQEAyMAB8cXSCen9/eH59eIF/U1JfMCtLQEFZTFCDcXOYfXfEw7eorZ+ajIV7amRHLi0yHB0AW1NcaENIbkBEYFdfbUFFbTk5WVBPXE1PY0tKfW92hn16oJiQhnh6f2pYa10zRTotAExARmohInkVFXIiImEqLFY0Nj43Pi0mNEA5R2FUXF9LSn1nYWtbW2FUSm5mOV1WLkVVt0bEyLM9AAAAAElFTkSuQmCC",

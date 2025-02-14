@@ -8,13 +8,14 @@
     "videoId": "00r3RKxAExo"
   },
   "line": {
-    "content": "Derrière elle, il y avait cette fille dont j'étais amoureux parce que...",
+    "content": "Derrière elle, il y avait cette fille\ndont j'étais amoureux parce que...",
     "end": 17,
     "index": 6,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=15s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/28_brefJaimeBienCettePhoto/gif/015.gif",
     "hash": "7addad1182",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3P1eQUXK0apK7kqe6rK6+opTGr6WnlJXLwMnEub+/q6q0rbetoKajlJeEdHljVVsAgVFmjF5zoGyCyqGwuKWmto6BqZCOr56drJmYq5aNsohlmoJ+uq2wq5mXl356Y1JYAEAmLpFwf3Rrh2tfhYV1hKN+c3JodXZiXZ6EgMWllKF+bXdylpCKpJJxYpaAfaadsABoTj+aelxnYYo9R41DS2evssc3THmCfYu0lYfQvbmaj5ZiZJCYhpW7mYiOeXWsobAAWT0zc041UDYqERs+DShZtcjqd4mvubzX1MTG0MjZoZyuODxPlEdSs0pOtqKfk4OSAC0gHTAiHCseFwYOKg4jTbjF6ZKYso+PqrvJ77/J7oN6hRMTEoonLa0qPFFJVTxDbQAEBAYaFRcWEREDCCJiWGK3rb+ptNCefpq0hLDFj72LaGcpHyRqSUlsOzAIBBEQDBkACQUGGhAQHg8NDAcOKyY0oLDhpbzjmE1mphhSrCVgnF1VYEUmPCkmPCocEgwTFBEaAAMDAwECAggDAwYDAgECFHKAsEpYfGA4P4YhRoMdS4paP4VcK0InDj4mExsTEgoKEzrdt/FIy//rAAAAAElFTkSuQmCC",

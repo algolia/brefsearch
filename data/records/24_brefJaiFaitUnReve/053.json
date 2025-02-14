@@ -8,13 +8,14 @@
     "videoId": "gYSzEUcLIZ4"
   },
   "line": {
-    "content": "Non, c'est pas celle de la merde. J'ai reposé le paquet.",
+    "content": "Non, c'est pas celle de la merde.\nJ'ai reposé le paquet.",
     "end": 55,
     "index": 15,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=53s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/gif/053.gif",
     "hash": "d24e29d045",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCUkoqGhHthYV51W0qhdGKFWUqPZFVyZWZrbmqurJWVjliMh1iIg02Mh1WKhlhzbDkArayiV1dLGRMKaVBBaEo/ckk8XUQ9iHh7Oi8ofnpHo5hOradunJNHjoRAkYlMhX5CALq5rn59aFRKLZZ2YIJeU4dbTnZRRZ1/e3NgSo2NTamnXq6ra5mSPo+FO5yVVIuCQADCwrWwqpSLfk6lf2mcb2FsSUCGVEaigXGIhEyef0WjazqsmFqVgTOahESmlFaPgDsAvLywzca3v7ami3hsZUQ6Ty0pWjkwlol62NzDuquqn05EpTsjoCUTojIgnz8jkywXAMbFt52emVdYUHRiTkgzK0wyK0g1L1xVSmppZ5yXm6lmWKIwIKUoHqEnG5oxHo8WDQCLioQkIyY0Mx1kVzlJNy8lGhJLNS9vY0IWFgJdV16za12jNCSmOTGfLCGaSECMNC0AfHl4CQkMEREQKywVJyMRQjgsTEM6XFtFT1BBfnFyuGxeoCgOnSoRkykdjCsegSIVAIJsW0E9QQABAiUjFGRjWa2urLy9usC/vMTJyLmVkKAxIJtEMI5BGYlHMIRAM3QpEOE5rR7EhtpkAAAAAElFTkSuQmCC",

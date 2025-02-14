@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "name": "Je suis allé à ce mariage.",
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw"
+  },
+  "line": {
+    "content": "— Les mariés s'embrassent\net là, je crie:\n— À poil ! Ah c'était un bon mariage.",
+    "end": 97,
+    "index": 36,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=90s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/gif/090.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/17_brefJeSuisAlleACeMariage/090.png"
+  }
+}

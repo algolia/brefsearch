@@ -8,13 +8,14 @@
     "videoId": "8matlnmBY98"
   },
   "line": {
-    "content": "J'ai raccroché, mon téléphone a sonné. Allô ?",
+    "content": "J'ai raccroché, mon téléphone a sonné.\nAllô ?",
     "end": 32,
     "index": 15,
     "start": 30,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=30s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/gif/030.gif",
     "hash": "1c476c096a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwf1T0mAAAOD3l+48O8HhiA18RdimG8hkNINNXeNDIHCMD0UCNh0gJisjjrBCFDuRPM++fujsH+jv7HnAoRjoK/KNXppUFT2++VEvfDlSi2t0r6kPTo1J8+CHWetmt0shH25FZ57MgZbEXR1k/pj6bT3/Yf/Vfa9xd1bXItyo2/l7O/z3uX1Tzx9HhTfyRppl+KUloIvBlixc7GVOki8vm+Xv/ebvQeM4Gvnaf//r+vybpg6y8qEQGuXkTjxc4vxgvJea1nKPpv7QqkSe89sRoV1WOumtce/ddNgzdxM/29W719l7TTEkPsexwIyLJ1FxUlVNJelYpjHCDwmfwnMPn7qPl/2psT/OxYb55LkaL4dDMR8DYvSKFg4ZUoQmGUj6IcE4IEUT9EUhPcqnfG6iyAevd+XThLhJ05zHCwSSzHDsOrX6FMFRO8QhiRMMtRZ8m5LVEGtDMA8Gr4o7hQ3O/cwV9noBarHjqHNuHrPYnAv4Muam0EUCulcmjcogt6Ou+41s8uxIC3hIiSJq4QAAYHZmdsFqxRA7nHdAK4Jb7NAJibosGImtSlzi2Re4c9WGuPyuxXSA+Q+SpXOVxuj4IQAAAABJRU5ErkJggg==",

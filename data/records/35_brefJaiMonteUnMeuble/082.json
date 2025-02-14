@@ -8,13 +8,14 @@
     "videoId": "46O65gqs03c"
   },
   "line": {
-    "content": "J'ai tout démonté, j'ai tout remonté dans ma chambre.",
+    "content": "J'ai tout démonté, j'ai\ntout remonté dans ma chambre.",
     "end": 83,
     "index": 33,
     "start": 82,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=82s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/gif/082.gif",
     "hash": "c658953cea",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBlWld3ammLfXu5ra7c1tnLwcKvoaGOgoFyaGdiWFiDdnSUhYKHeHV9b212aGZ2amkAdWdljH18nZCQuaytv7CtzcHBU0pIGxoYDg0NGBYWdmpqpZaVloeDj4B9jH58kYSDAHxua5uNi4x8da+clpWBfINvZzYvLRYWGBcWFhoZGXhtbKOUkpeIhZ2NipmKh4p8eQB+cG2ajYyhkIywmJGwpaWOe3ZGPDgfHBodGxoWFRRyaGaej4qEdXF1aGV7bmt9b20AbVxZbmphenlsvaurbGdognZ0S0NBEA8NHBkYEA8MW09MoZKPlIWBOTAtHBgWOzMyAFxJQHRiWHFjXH9ybywtLz46OjgyMAkJChEQDxAPDjovKXhpZH1wbSchHhwXFDIqJgBnW1deU08xJSAjGRY9NjQ3LikmHRoHCAgNCwoNDQoyJR07KyMgGxcVEQ80KyhOQT4ANSchJhwXKRYOd08wZVBAUDgoTDQiBggLCAkKCAkIMx8UQicYLBoRJRYPMCYjKSAgACAVDyoYD1s4IbJ7SraBUKluPaBnOXBGKUYtHCgaEj8nGlc5KU0xIjkhFC0fGQsIBZS3jJG9E21sAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "J9EL_bGpdP4"
   },
   "line": {
-    "content": "Tu es sûr que tu veux prendre un dessert ?",
+    "content": "— Tu es sûr que tu veux prendre un dessert ?",
     "end": 63,
-    "index": 31,
+    "index": 30,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=61s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/061.gif",
     "hash": "1f52f39a81",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwVzv1u0kAAAPAmynrjrtdjpb0rLV8tH1fK7AolDBA2GB1zG1NxyMJUxBncomZxWwyL/rsoL+Bz+IjG3xP8hLEBJyY6S6KzNDrKxMa2vOB4XpBmeWmWQ1NLOvc2hoF60eTLfuVzwxGmaXjJ8Z1PnmXIouWccPrVk5cBud5C3+vqPEhVGBpXzbtu+U0lu2/FhVlB/rKlXJTJnqXed0vHRXaShYuy/OmJfFVl7z29QMTdHLtuF3tp7MahQCFQQcRVoj5Fx3a8xpCfiG1biaFnHxX1HQNyAg64PnK0gUV8CgUp8ojr2sNsOOSspaPNDbB83n7dcBtZrZPTc/K6DsV6SgkzuGOipoEELEZCbvy5fPUw6X2rJ5sUvN3mh152kqcvXNNPKptGrJ/XXhZjNRbNYCDIQLSlyG0n//fX7Wq6dz/a7XOjSaW+SYK0UmKyqxOP4VNHrWpAFR8LGKwlEPhQTV6Fwc/Rzs2g1kkSLw7LFJcY4ZpE4ZpL8buaPalaA278L9F1EDDpaQIeWuQgLfVSmKEoxbCd0+ct5yb0V5Pu7/PB6uPpj3H4DxbPTdcCgEzzAAAAAElFTkSuQmCC",

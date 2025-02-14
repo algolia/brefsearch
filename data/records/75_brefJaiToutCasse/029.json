@@ -8,13 +8,14 @@
     "videoId": "9u9X-FzVWZ0"
   },
   "line": {
-    "content": "C'est pas possible. J'avais dit: Ça suffit maintenant.",
+    "content": "C'est pas possible.\nJ'avais dit: Ça suffit maintenant.",
     "end": 32,
     "index": 12,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=29s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/gif/029.gif",
     "hash": "86f883bb99",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVxJREFUeJwVy0lynDAUAFAu4KENjYb/JTQgNLQYbdoN5bKdLKgcIamKD5H7b1Lev1c402igWWHHaw+1OJdPDydSVuXD6fHxXFeMlORjsl/HuFhqaVkAKuD47JqvY/r3ez8W2yIxArOz3lpGgFRkNuTXLN4TvEUsola5az/n8Pdn+vMjHatfvBpDe7zv13lCJhqO28V8zj5r9BKKNdqk8TWqNTQIgMhaLRtkUiJwJGfOCXBKyydyf1/e3Z0Kb51FMhiIGgQQ2zCvudcsaJ6MCA2PijtBLdQtEDxXBavqpOXolGQktNpI7iT3DYsGeyuzgWTQNxiUTK3xUhTzJc7DpXcqK7wNaR/TNsZtTNsQb7m79f566Z6DXWK7RJe1KOY+rVPe57z13T6GydslubUPL318GdIYvt01td8tdotTRTC6dzo7HRrsJCpOLVCLTANXwCVjglFJaqhrpExR8h+dJj1cO+0a2AAAAABJRU5ErkJggg==",

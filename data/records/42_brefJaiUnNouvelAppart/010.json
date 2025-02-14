@@ -8,13 +8,14 @@
     "videoId": "c-51sCEAiCg"
   },
   "line": {
-    "content": "Du coup, ça a changé beaucoup de choses dans ma vie.",
+    "content": "Du coup, ça a changé beaucoup\nde choses dans ma vie.",
     "end": 12,
     "index": 3,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=10s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/010.gif",
     "hash": "667b2df4f2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwelu0gAAAOC+jH8004VoAAsbUDs6pFgqGDp6CUhhQ5gcImCIQZAOhSJjPTBba8vhrm4pSFxifDa/D6jmDsgQ9iG/f658FY8+Vwvva7ksQ1Ib9x7aHj91gR6f3eWw2YefKpNOVWiUAArHIec2jqCdRq3fbrt9B6UE85pmN+/bHM4tjwcGn4BbDleRwspkiMN3AZpkIi8Jjsu9y+/nkuGdbcS2YXfa3cFwNIBiaDjiQ4JwIJROviEwDPH6ADyWoNOHseRhCN112h5tPnCgCA7DL8JYLBSN4TEyEqcJkkF83ucQGHzmBSDQ7fdAiBfaQ+FCKgH7aTpKJKlMPsOlEixNxbMptsCxWepVNLgTCSCA+VNczn+s5pO7K800Tivlnh9hyj3JujCWxol5JtycCQuxKzSLtQzzlooA1kz5e2P8s2Z3l2qz1vBA8b105Yus99r8ei79OZfXi7GlD8xTfjpqHreKgC5+M7Xxciatf8mDTosluG69pCkng4Ggj4+W0++r6dDSB7dafyF1Zb4OKP32VB5eqeK1OrqY8Eq3aoxa15p8qY71ce/3XFzNRFMVjOOOxH/s1gv/AXMbv0qdtzxzAAAAAElFTkSuQmCC",

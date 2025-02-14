@@ -8,13 +8,14 @@
     "videoId": "LI0mfa3sqWY"
   },
   "line": {
-    "content": "En fait, dans ma tête, des fois, il y a une voix qui va vite.",
+    "content": "En fait, dans ma tête, des fois,\nil y a une voix qui va vite.",
     "end": 24,
     "index": 11,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=20s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/gif/020.gif",
     "hash": "cce0920ad2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwVz9tumgAAAFCSblnTqrUDFLkIAgrIzQvgBazFCojFWJOlhVTbDa2NddvL1qRzNdtjkyWm++Nl5w8OgCb3Vfz4oklNz7gbtzwfiPdD5TFqbSJjPZJXY+3zRHu4qH0cyPFQ6Ss4wCEpg818sOjYF2OH7zAglXi7HEi/Z83YZCTwUKfAzcz6ddffLp2ZWwFUErQlLDwtLnwxMhls/w32bu+slHkO9bnJjktZj4W/eOrztPvydfRjMQLqBdhV8UDDx3reokERPNDgxFWViHvCpUZbePq8lF2dlKcG82cdvHy7BgwW6fK5Lp9zFcLnkSdHCkTihHq/dNV7vx6phEdDYZVyafDh3HjdfAIabNaWCL9WCAzGoqFVu+hLpHC4F7X5uS2HIurS8CkFNdHUdUfcPS2BBovYEuFWKK9CsnCyV4Ba6JEMHoQa7RURHUubFFTPJCa1wt/H293P1f9DR8AcJT+s5MN2KSjnWmiqgR/HptAiwSqWlrPJLgNPNHr3/Xa3XQNVEmqyiEnDNodctrk7X+8JuIamBkKuzyE6duQIqK8QjohtF+PX7foftGdfjATJy04AAAAASUVORK5CYII=",

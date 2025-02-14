@@ -8,13 +8,14 @@
     "videoId": "JmghDKkeiik"
   },
   "line": {
-    "content": "Regarde, demain soir, voir Sophie.",
+    "content": "— Regarde, demain soir, voir Sophie.",
     "end": 92,
     "index": 34,
     "start": 90,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=90s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/gif/090.gif",
     "hash": "456a4a32d6",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCunpWShH+ilIzApYjDrpbHtJ/DuK3Hwb+soZiKh4azsrSzrKm8tLLLxcK+tLC3qqQAcl5YkoB7pJaQwKaLw62UyLOcybyxvbe1nI+JmpaXcVxWSTMrQDItj4eFycC9uKunAGhALWlMQpyOib2ihr+liLObhGpaUm5fW4eAf5V+dptkU11FPS8lIEg9OKWbl5iKhgBuQi1mSDyUh4axkXesjHCTdGBqRjiQaVmVjo2Md3GFWUt4WU9HNjJYSUiTiop5aGAAckMuY0I2j4KCmHdjp4VumXtpTzMpiGJQqZ6anZGQelJGj2RXX0pCXE1SR0VXdWllAG8/KmpLPo+CgpaGgm9hXkhJTiIpNGlaU4B1c0VBUVk7M3JSR66Rhq+MeU5EU0hLawBsPShiQzaLfn6wo6NiSkFDOj40PFM2PFQ8PlkgITcXFBluVU7DoJRzZG1JTXI5PWUAazwnX0A0fW9rdGdgcEAzcjgvKChCJSdHIyVCLi5HFRYpXktJtpSIREVmIyZLOTxbAGg6J2ZAMFQ7MFQ5K281KW0+OTM0QSQmPSwwRS0wUSgpQ1RMTp99bUc9UCkuVicpSFC/tEwO/+igAAAAAElFTkSuQmCC",

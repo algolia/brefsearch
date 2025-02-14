@@ -8,13 +8,14 @@
     "videoId": "m5Ezt99WggY"
   },
   "line": {
-    "content": "Sauf que mon frère avait la tête de quelqu'un qui avait rencontré quelqu'un.",
+    "content": "Sauf que mon frère avait la tête de\nquelqu'un qui avait rencontré quelqu'un.",
     "end": 67,
     "index": 29,
     "start": 65,
     "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=65s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/gif/065.gif",
     "hash": "cab4c7502c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjsNFU97S0dTMx8TLUygr0qI4PrUkIa8tObE6LactKbMtNacxMLIsPT/dzD7cz97M0YTBWkHMy0NdTVfU2M6pLCO3JS2pKje4tTO9IiZiYnzKjpmRqVWFXQXptUmR2kGesmz2DmpSEnpKCubqqh6l+qp+rm7WVhqKyhLCIn4XxrPLs2riQptjgrtyU3sL0+uTIkgh/hiRbQ1NtXW1lVVMNZV1FOUtFKXkREQYGBlttrapgdy9NRTcV6QkFaQvKsyYF2pYGezCEGalrSEtoSInbGOhE2RgH6KrICAsL8Ql6G+vHWOgaS4pG2Rhn+Li0xgfvrkgM0Vdl0JQU42Rn15KWsNBW99ZX05SVjbSziLbQjTLXTbQ1NlCUjzbX0RcXdlSRvbd1VmNyKIOhuho7G5uQoJCctIy8jIyynEKZj0OChY6PjnKWm62CjJyhory1qqKtkmSCv7uDkR6DqaYGDzeXgICAuKiYhJiEqoJipIm2r5ZiorVegJE2Px+/k7ZKfaB1rr2Ws4qErowEg76qCi83Nx8fH7+AoJqsdG10YJazRaihcp6LkamSrLGsRLGrUX2gVZyZqqWChJWyDACcv2rV+x5nBgAAAABJRU5ErkJggg==",

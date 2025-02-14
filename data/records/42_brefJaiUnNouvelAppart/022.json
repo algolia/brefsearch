@@ -8,13 +8,14 @@
     "videoId": "c-51sCEAiCg"
   },
   "line": {
-    "content": "J'ai voulu lui dire: On habite pas ensemble ?",
+    "content": "J'ai voulu lui dire: On\nhabite pas ensemble ?",
     "end": 23,
     "index": 8,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=22s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/022.gif",
     "hash": "8d0cdb42fc",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwVtP2mAAANA+LHOIwYF1jlXqapGACL3MwteWXqBXabvKRRRWBGQ1MuLoJAYwRM2W8LItS5b94J0D5fZQ4j1q5bGJxc4a+sRRGoDMIG8TsajNFX/ejf8t538W80Wv3dNEkMIgkEwwWHzq8D8u3aBmfbHMjsQ32Q9trfL3Yf77frqazn7Nl6tR/9kzA1eAAI7Q6M7cFRZNc2SZbVn5WCwOFPnrqbW89p9u72Y3wb0fPHTPHjvGxClBGBxLRDeZfaQJqOoxReCZoSZ3ZdGhybooXtW7XsXyHXdS07/VtPMSA72JRDZD4dCLNQyGxcN0lSlaTIHBD9Q8yR+mG5LZU5Tvo+HToD40VRcwEByObLwModEIwOIsjrD4rkGkqnTGJI+kPFEXlcfP3dXtdXBa6ZTlFkdC4bVX8MZ6cvt1Jr61txUrZ/FZ07jSRIehxrbuyfzMO3v2P41OhFap0C8fQ9wu4mX3tSSa3NmOrIdUIjey7XNZrbGcr1c6PD9QKkND7pdBm89fSBxkpykvhY+z8Rs6bx6kcsg7CwgGw4s5usZJOlnQKOAW6BZLXKqCCYT/tEVweyFcvH4AAAAASUVORK5CYII=",

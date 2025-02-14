@@ -8,13 +8,14 @@
     "videoId": "2u0BYLUyyBI"
   },
   "line": {
-    "content": "La deuxième fois, ils ont rien fait. Ils ont regardé un film.",
+    "content": "La deuxième fois, ils ont rien fait.\nIls ont regardé un film.",
     "end": 13,
     "index": 5,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=11s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/gif/011.gif",
     "hash": "d4a63b084e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWZJREFUeJw1y1tv0zAUAOA8NZnS+nJ87MTxcW6O03RlJZS2tN2q8TIJkGCAxP//K9Me+N6/RJtOyAoUcV7mGRNLAKYt0ufj90/7F1S9gCBwBOgQHNEmQd0yXkp4D3XRRjdYUSIzm+3tdP5poJXMiZVVgoxp6vpDYkzHRAWqFsIS+rZoSXuRyyEeztdXLTspOgk9QlPZ0HVzYm1UWAM2GpzXtZGuUsRziOPxfH1F3oilk7xBDOTGEPYJ0UQ0mqIHVg5VCFUg9IaZ9fTl8vjbYAAVQPYo67bZxnhIvJ+ovrd2wCU4dA49MsPuxDRdLtdfyBsJA6ioOIXuYRxPiad1b6hfsTpfGlmsckBWALeb+6fH2591mFE0QgZg/8PIRX+XFmmqF2mtyaCXKxXah93u69Pzv8Pp2zrsFCe5rIb+Y4zHJGRZmWYqTdViUebMF53Kcs3MvH+53v4eTj/m+Tm2WyPc0M9DPL4BnZAxS+eIntcAAAAASUVORK5CYII=",

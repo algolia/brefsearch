@@ -8,13 +8,14 @@
     "videoId": "KtLp-gLL0Aw"
   },
   "line": {
-    "content": "Ça va pas, je me casse. J'en ai même écrit une chanson triste.",
+    "content": "Ça va pas, je me casse.\nJ'en ai même écrit une chanson triste.",
     "end": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=3s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/27_brefJaiRecoucheAvecMonEx/gif/003.gif",
     "hash": "4504416755",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gChlpOmnJisoZ23q6bCtrCto516a2S/r6bi2NHAuri5tbTYzcfJv7q+s66xp6Kmm5cAfXVujXx9fGFkno6L183FqZaOd0k7spiO/PPti4uNipKZppKGlIJ41cvGvrKvtqyrAGplW3traGZWT6CTi9nPy8iqop97b8q9t/ru6a+0uZCTlksuGlE5KMGtprWim6GQjQBMRzh3cGW3rKbXysXt5+ixpKiShYXi2NTx5+T27erg1tF+XU1gPi11XFPHt7KllYsAfnZsa2VXXFhJnZOMyLSvmIWFiHh35NrV+vHt9u3p//v4xK6ojlZJcGBh49nXzMG9AFFMPmdfVz85JIN8b7GJfJ2Ih52SkqqgmuHY1LetqI2DfGxmZVIwK6iJgeDZ1s/EwQBUTUJgXFFaRzaJWDiZdGOXgoGbjYx6b2qbj311a18fGRRPSEEzKSyEXlTVycbLwL8ARj83RkI1OzEgaD4fc15RZ1RUVk9TY1NGQDAkTkQ8OjMuTkZAMCsxSS8rh3h0opiWAB0bECEhEisjEz8rGGVXUFI/PxQWHGJTQDgtJx4bFjEpIz02MDQ7SDwvMkM0LTszLy4X26sBDZx3AAAAAElFTkSuQmCC",

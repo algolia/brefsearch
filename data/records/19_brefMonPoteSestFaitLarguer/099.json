@@ -10,11 +10,12 @@
   "line": {
     "content": "Bref, mon pote s'est fait larguer.",
     "end": 101,
-    "index": 46,
+    "index": 42,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=99s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/099.gif",
     "hash": "3715eb67dd",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwVtv0lAAAOC+QUuLtD30ck5LKW0pbWmog7mOAUkLcRuLLmVjsi2zXraBU9GoQRJ9JiaLi4lxGuXFmanZm9Ef6Pdh8ZplM9T32dnlh88HO7ePd289bJgbjlgvCl8+nV2cz69+/3z1eNDO8fHNleloH7sf1cogcxXf/ffs6WT04O/X2cV48CiouBIbRd29bmv2dvzyeL8N2X5job/exAYdx2Mzs9eT06PDd89H36bDYbvaXyrJdHrZhEdr/p2gEndrmwr0EIcAja26co3P/rn88Wt+/nEyfrMdHrZr0Q2zgoCfB1tBdXt1edOv+IoopQmAJ7DQVELbmJ++Pxm+eLIVxSvlk85Cb9EMrGIRIUdHjqt7VsFA2RxDQQrHpvf6vY0D12lJQn5vvdNbLPkG9A0ZAUGVFE9TXMTYmqSCayKZ5IgEttOsBuGuV76uIVFTNI1najpSsxkuTcuc6OlmvQCqCiOSBE8kODyJ+bbdbIXFgqoiCbIinyZzLJ0TBEWQc4Jk6ZYt83kahxTBp5ISmcRcq171GhAAyAoiAxgiydNsSTdNzSzmDbe0VIBISCWyKQJlSInC/wNGJ17qQ9HiFAAAAABJRU5ErkJggg==",

@@ -8,13 +8,14 @@
     "videoId": "onb8vNaHYB4"
   },
   "line": {
-    "content": "J'ai pensé à ma vie affective et j'ai racheté d'autres trucs.",
+    "content": "J'ai pensé à ma vie affective\net j'ai racheté d'autres trucs.",
     "end": 34,
     "index": 18,
     "start": 31,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=31s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/gif/031.gif",
     "hash": "e737147100",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCgkZyUgoCgkIyhiH6um5imm5qIdHKmk5fNy93Pzd7LxtfGv8/Btsa4q7mpm6diUFgAq5+toZKQrJ6WqpGCwbaxloyMhWFdonNrvK+52d7z1NTn0dDjz8zfwrzNrqW0ZFRcALewv6uipLOppK2elJ6WkXZcWItiXpVpYrirt+Hn/9DS5tPW7MC/y7Sxt7OuvGVXXwC/vc69vMp7dXJZUUZSSkBDNC5XPDpiRUJ8eHqsrLfT1+zJzN+Oi4mWkpKtrLlkW2MAzM3ipaazTEU8TUY8T0g+UTszHBQWHRsbPTctTEU7s7XE0NPol5WVY1dVY01GVTwyAKqquVJNSUhDPUhDPUE/NlY/NFY4MDg1LkpGQEpFPVpXU52dpH13dSsTDEcjDk0mDgBcWFhGQjtGQz5PR0F8Y113VExVOi9dSD5tT1IwME89OT1DPjNDNDEtFA9NKxpPKRMAOTIzQTw6OjMvXEE9j2VhbEtHVkdEVEI5ZklZGR9/RE92TE9OIwoGLhUPSCgYTSkVAE04PkcuMkEnKVAxMlw2Nl5CQXlnaFRCQVE/STg3c1RQaE9ITDcnKTcpKj0rKT0pJaznvTgh5BHUAAAAAElFTkSuQmCC",

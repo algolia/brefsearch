@@ -8,13 +8,14 @@
     "videoId": "tjRXxJaupoc"
   },
   "line": {
-    "content": "Quand vous partez aux États-Unis, je sais pas trop parce que...",
+    "content": "Quand vous partez aux États-Unis,\nje sais pas trop parce que...",
     "end": 89,
     "index": 36,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=86s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/gif/086.gif",
     "hash": "9c2fd61408",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjkBCU5OUQ4GDl4ebgZ2JgKyupPH7szJ59R6dPmlaVFJ3iYh3mYJUTHeRkrCPGyyfMxcPAzy3Mxc7Hyc7HxyvCxswdEhB+6tS5Y6cuLp86uSEiINnW1EtXLS8qwNPKSEpASIKPn4GPW4iHU4CHW1hQQIKTlTc+KuHixWvnLl6f01qf7+UcZGbkrqOeG+7ra2siIygsLSAEsoGHW4SXR1RIUEqYjbepsvbW3cdHDh5dUFdWFuwdZKLvZ6CVH+Lpa2MsIyQqIyTMwAPXwC+pxCvY3dh88+7jTXNnFni7RJia+BlqO+vpJYaFeVqZyouIyQgKM8gKK/JyifByC0sJSqkJis6ZOv3w8fOtlQ2FAV6eBvrGiooa8qpq6qYmRrb62qbSgiIMhgomSuLq0gLimpJSevKKM6fNq6ho9/FPLoiIDDc3MJSVlZdRk5PV0te1NDBy1VbVZbBWtzaQN9aR1lEQFPN0dC4pb/fwjAjzj8rx83bV1bFTVVWU11JVNdFSN9bWMNZUN2EwV7UxVjDRlTWQElAwVTdztwmyt/LO9POMtDLV0bbWVNaTlFBRUbOQl9dTVtSRl9MFAFfua3vlPgJXAAAAAElFTkSuQmCC",

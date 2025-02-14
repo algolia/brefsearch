@@ -8,13 +8,14 @@
     "videoId": "YFLtnewtqAE"
   },
   "line": {
-    "content": "Baptiste foutait jamais rien, sauf le bordel.",
+    "content": "Baptiste foutait jamais\nrien, sauf le bordel.",
     "end": 4,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=2s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/gif/002.gif",
     "hash": "4437c6ef80",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCblJOno6V1bHKgmpvd2tfSz86moqWNg4XDwcA4NjgLBggPCgwgGh1kWV9eVFlWTlMAhn+BmpSWgHd8k4uNvrq3ure2m5GRo4F7dFNPHhoaDwoMCwcJKiQnbmNpZ1xiYVdcAHducX11eHdudHVrcnpwdY6GiYdsaIddV2pFPyYcHhkUFw0JCjcxNHNoblhNUUg9PwAwJy0oHyUxKC89MTk1KjIiGSF0VVOHX1lcOzgsISc2LDFaSkhdTk5TRkksHyA1KCgAST9IPDM7PTQ8PjI7RTlCRD5EYkxLaURASzQzNSwzIBgdSjo8ZVFOV0VDNCYmJBwaADIpMEA1PjQqMjgvNXZxdm5nbWBQUlQ2Mkg5PUtDSkY9Qy8kKFhFQ1xJR1lJRyUgHgAaEhYgFxwkGh9gWF5gV11FPUJZUFZRQEVHO0VFPEJEO0E5LjJQPz1YRkRUREIiHhwADAkMDgkNKiMnVU1SNSwyNS0yRDtBQTlAQjpARDtANy4zOjE2UUFAWUlHSDo5HBgWAAcHBwQDBB8aHDwzOS4mKzkwNU1DSkxCSEM6QD82PDUsMTAoLUU5O08/Pkc4OB8ZFwc7eyaVD/qXAAAAAElFTkSuQmCC",

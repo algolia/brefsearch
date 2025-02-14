@@ -8,13 +8,14 @@
     "videoId": "-tInLKCRUrs"
   },
   "line": {
-    "content": "C'est toi qui... Ou tu te...",
+    "content": "C'est toi qui...\nOu tu te...",
     "end": 49,
     "index": 25,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=46s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/66_brefMonFrereEstGay/gif/046.gif",
     "hash": "bb2893b0cd",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gArChMzDhhDER5WHS1UKDdgKztyNkdoRkpoTk5WSk6/vcXW1dzMy9LFw8rBv8asqrEAMw8aOBIdURooXSIzWSw7ZTBBiVVhl3VycVJRIRcadnd96+nw2djg2Nbe0tHZuri/ADoUHzsWIVcfLVshMVUpOGUwQX1MV21ST2BIRzclJ3VrcOXk7N3c5N/d5dva4cXDywA7FSE6FyFcITBaITFQJzReKTmGUFppS0pvT01LMzOglJjm5e3f3uXh4Ojf3ubPztYAMBYgMxYfVyIxUB8uRCEsUCAvZTM+ZUZGSjQ0QDM1tbK4z83Uz83V2Nbe1dTbtbO6ABQRFhoWGyEbICAbICIcIS8oLjgwNko8PywiJTwtL0xESEpHTERART46PzIvNCMgJQANDBEREBYUExgXFRo9Oj9PTFFIRkxZVlxUTVJORktLSE9TUFhTUFc9OkAQDhQPDRIACQcNDw4TDw4TJiMpSkZMSUZLTEhRS0dVTUpYU1FcW1dgVVJaTElQSEVMIB4kBwYLAAQDBwcGCwkHDTQxN0dESk9MUjw4SzItRDQvRTUwRkZDTD07QTMxNyUkKhoZHgMCBlldkQsLDjqMAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "BJoEGR47rk0"
   },
   "line": {
-    "content": "Elle a dit: Arrêtez si tu veux. J'avais une panne.",
+    "content": "Elle a dit: Arrêtez si tu veux.\nJ'avais une panne.",
     "end": 8,
     "index": 3,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=5s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/gif/005.gif",
     "hash": "44960d9cf8",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAT5JREFUeJw9kMlOw0AQRH2IPZ6lZ+8Z2+MldkwCSUBsAYSExIH//ybkWIrU6kt1vS5VVhYgGFKiKFFFzosN46UFFkgOJBdFzkku1qFEoZkykvOyEGQRODDvVA8creoF9ZQowfxVXQ3SmzErNqzYLBhKdLDzaf4b23dgaGQneWVlLyiSHIqFKyt/WD6sAGAY7NxVT7vuU0MjeZQiGmidHoxsgaHXw8P0m13xQHIuqAtmdmoIdje2F2e2SlTLndqimVBPbXych+/VsEbUqMfK3wd7NzSvaCYFNSsNMESzS+E8dV+H8Se7lcBKraBGPaEZUzineAIeJQ9eb1N87JuXsfvYtpfs2oO8eTQkLZomHIPdaUjR7VM8t9VT3zwP6a3Gh0yJmpWWU7cWDwydGlI81f4+un0TTk04X/exxqNTwz8f7iAlZ2C4BwAAAABJRU5ErkJggg==",

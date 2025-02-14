@@ -8,13 +8,14 @@
     "videoId": "FThJiyU25jc"
   },
   "line": {
-    "content": "J'ai dit non à l'assurance et j'ai fait mon sac.",
+    "content": "J'ai dit non à l'assurance\net j'ai fait mon sac.",
     "end": 29,
     "index": 12,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=24s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/gif/024.gif",
     "hash": "4418e1e8e7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXUVN3cHSXkJSdlZefl5qooKJ5c3RhTEp8Z15yZlePh4mJdGKIcFuSiYpURlVSSFAAXFdbh4GFjYaKiIGFfHV4hn6AVEVDe1BFpX5teW1bk4mJfWVQiG1Vp5yba11naVxlAH15fpWPlKeiqYyFiKCaoZyTnYFjW4lhV4lnVG9iTU5KUjw1M1NIQWdkaHhydYF6fAB+e4GVkJW1tLvCv8fKxdnIxd17ZGRsRDmolI1nWlYiISglJzEnKjQoKTEqKjEkIicAgoCJlpKYqqCku620wL3UvLnRk4mRhnh73tvme3d7HBwjJiYuJiYuJycuHhwiIR4hAHBudXRwdHtaUaJ4a5iOm5earJueq7SywbapsF9YWSMlLkZHUUVIUUVDTTEwOSUiJAA6NTU6ODlRREKeeW+LhZCEhZd8gI+dkZCNbmU1LjBPU1x3fothaHNEPkgrKTAiHR4AHhwdLy4xPjk7eltUf2ZmallfclpWdVlRYUpFLS41OjpCOTpCMjM6Hx8lFxYYGhcZABgVFiMgIickLUk/RElAREU/Rk9ERjQsLScjJjM0PDU1PTAxOCssMhwbIDo2OUpFRoT2puWK+Y5eAAAAAElFTkSuQmCC",

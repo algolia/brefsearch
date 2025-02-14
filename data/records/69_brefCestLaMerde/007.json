@@ -8,13 +8,14 @@
     "videoId": "5U0CfNpXdEc"
   },
   "line": {
-    "content": "Ils sont où les Chocapic ? Je sais pas.",
+    "content": "Ils sont où les Chocapic ?\nJe sais pas.",
     "end": 10,
     "index": 3,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=7s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/gif/007.gif",
     "hash": "826297ba94",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVpJREFUeJxNkGtLwnAYxYW2/20XN2eKTE1RWomX0HSmiblpDTe7eAEtL5kDX/UqpaK+QNCbvnE0lwjnzQPn93DO8QAKAwojwCBAICAIMtQeDPiD027XVMuDauW2kG/nsomALLESj7weQGFIEwQY6AAbYcj4WZ9AhLAUvCsVbeNqojWSoTACjAfSjgOxCLoMAIQgNiyFBCImQvKyYy57vdX4oXycZjDv2b7cRNqeQe8+C3n1KLW+Hz33+9/rVV/Ta6m0C+y6AY15xhsLyBzi1UNlojVep+Ofz493e2EbhgtshQChKCR5fcOmrkRimUh0VDt/sszV/PFr9aIVVbcD+e+AAKEpJHLi4toatVqpaKyezbUrlZllvdl2XD74WwnQmMHcDoBFTpy1jXnH1AunmXjysliaWebYuJI40QGcZbepaBoLrDDUtUHj4qZabebz9WzGPCvrJzlVUX4BTeQ5H4bSl4oAAAAASUVORK5CYII=",

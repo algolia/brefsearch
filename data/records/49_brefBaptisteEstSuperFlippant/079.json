@@ -8,13 +8,14 @@
     "videoId": "lrWa9VYEb78"
   },
   "line": {
-    "content": "Super flippant. Forcément, elle l'a quitté.",
+    "content": "Super flippant.\nForcément, elle l'a quitté.",
     "end": 82,
     "index": 36,
     "start": 79,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=79s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/gif/079.gif",
     "hash": "b7e292801c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBOWGRMVmFTXGpYYXFja4ByepFxeZBveI97g5t6g5pveZBoc4lUYG1KVV4/SlQ0PkkAUVtoUlxoXGZ3Zm+EgoqgkJeueYGYfoadl5+3nqW+kZmyfoihYm2AVWJuSVVfO0ZQAFdicFZib2VvhIOLopietZWbtYKLpYePqZ2kvrC10K20zpOctnR/mGZxiFJeakJNVwBbZ3deanx4gZmepcKhrtCXrcqbstCZtNCvv9/Ey+rIzummrciBjKVue5RdaXpKV2IAW2d6Y3CIkJauoafGmbHWo8Xgss/os8/pxtf33OH94eT7usDgi5i5coCcYW2GUV1tAIWPtJqkx8zP5NXa8MzY79jk9eDp+ebq/Ozv/fX1/vb2/uPm+sHQ7KnA2YulvnGMogCKk7myt9TZ2uvS2ezX4PLm6/rt8f7t7/zw8v339//29v7u7/3J1u6rwtiOqL9zkKUAWWBtj46akJGgdn2Tf4mkjpm4oazMq7TVvMTmzdLwxsvpwsXfj5WuZnCIVF5vRlBcAGlrdIaDimZpdFZdaHB3h32Dl4CIn46WrqGow5qjwoqUsZCTpIuLll9lc05YYz5IUY3tByK7XPF4AAAAAElFTkSuQmCC",

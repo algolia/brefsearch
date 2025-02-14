@@ -8,13 +8,14 @@
     "videoId": "41X9gwbeMxQ"
   },
   "line": {
-    "content": "Attendez, vous comptez un, deux et à trois, vous piquez ou vous comptez\nun, deux, trois et vous piquez ? Elle m'a piqué.",
+    "content": "Attendez, vous comptez un, deux\net à trois, vous piquez ou vous comptez\nun, deux, trois et vous piquez ?\nElle m'a piqué.",
     "end": 48,
     "index": 17,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=42s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/gif/042.gif",
     "hash": "b05ea73d5f",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVVV5bWmRgXmlgX2pWT1RiTEpbSUhgXWdta3dsaHRyb3xoVVVBLCgSDAsTDw0RDgwAXFpkYV9qaGZyVFJbiWFZxZOKq3huW0ZFaWl1cm56eHWDdmFjUTcyKBoYHRYVGRQTAF9eaWVjbm9tek9KUn5YUa19dZJoYEIxMGVkb3NwfHd0gnltdWBGQTcnJSEZGRwVFABiYG1lY25lZHBiV11fREBxUU1aQDw5KylmYmtraXVqaXVubHldTU9GMy8iGxkdFxUAZWNvYF1mUUtSYFlhhF9ZkGhhc1BKX0tLZmZyYF9sYmJvXlxoW1NaSDo6JR0dW1RbAGNhbWdlcGVia2JhbF1MTVY6N0ArKD41OF9falxcZ2Bfa11bZllTW0I9Q4F9h8bAzQBgXmhnZXFwcIJzdpM8Njw/LSgvIR8tKjNnaoVnZ3leXmxXV2JZVV+Wk6DX0d3Xz9kAXFxqfX6benycWl97Pj9eLyk2HBsuUlNrY2R/dHeUsa/BjImXnpup4Nrk19DazcbQAGZnf3+BoXh6mENHYD5IdzQ+bCo1aXl8mqKgsMO/0N/W4NfQ2tDK1c3G0MbBy8O9x9dcq2yagRE6AAAAAElFTkSuQmCC",

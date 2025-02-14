@@ -8,13 +8,14 @@
     "videoId": "if3EipAM2WQ"
   },
   "line": {
-    "content": "On aurait pu s'enrouler.",
+    "content": "— On aurait pu s'en rouler un.",
     "end": 38,
     "index": 16,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=37s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/18_brefJaiCoucheAvecUneFlic/gif/037.gif",
     "hash": "a130f292d5",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAFBAMTEA2Sk5aEgYCQjY7NztSlpad0dXOQkJKMiYjc4+q3s7BVPi9jSDZeRTQ8Kh8AAQEBFBEPiIiMiIWJp5OFmX9sb1RDlYqDlJSeh4OHpqWtjISFVEE1XkQzbVE/UzwtAD42MS4oJS4pKVVKRaOFb3FSP1YzH21RP2ZcXWJaYkE6PToyL0U1Kkw2J29SQGRJOABgU0k6NDQ0LzB5ZViVc1xrSzhiQjBdPSh4ZmJNRkxAOTdsY2lYTk5BMCRnTDpwU0EASUA9RkBCVE1Qg2xeaEgzZkMvZUIvYkAqTjwwPjc2YFdaWlFVPTY2MScgWEIxc1dEACgiHSUgHCIbF19PQ3RVQGJBLWE/K25SQIN6dkM/QDApJSMeGBYRDCEVEUwvJWRBMQAnIR4fGRVKR0mXkZaDbF1+b2trWE5uWUyemqGdmaMyLCoYFA80HxxNHR5VGBpAEhEAGRURJB8dnZmojoeNhH2Ah4GIgHh7hX18hoCEg3t+SkNAJyAcMyQgMhkWJgsLEAUEAEY+NU9KSoyFknlxdYiCiIJ7gYB5f394fHBoaVRLSDQsJyIdGBcVEAcIBgIEAwQFBI76ihPC0I0EAAAAAElFTkSuQmCC",

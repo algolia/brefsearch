@@ -8,13 +8,14 @@
     "videoId": "7_VQCD863CU"
   },
   "line": {
-    "content": "Il m'a demandé: Do you speak English ? J'ai dit: Yes.",
+    "content": "Il m'a demandé:\n— Do you speak English?\nJ'ai dit:\n— Yes.",
     "end": 61,
-    "index": 21,
+    "index": 22,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=59s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/gif/059.gif",
     "hash": "a6473274c9",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAODQsLCwkQERAWGBYRFBJfXFykn6Kgm5+loqidmqF4bm+KhYicna6MgoPXwrnTvrUACAIECQMFCgoKDxAQCw4MRENBp6Gkp6Ont7W8loWEfVpNfGdhlpiokIeI49DM2sa/AAkCBQgBBAoHCQwNDhQRDlpTUaqnqp+doIOAhW9aVWJCNWBLRV1aX4F3dsq3scWvowAJBAYHAAMIBAYMDQ0qGxZsYFymo6NmYGA0KioqHxw/KyQoHRslHRxFPTlTR0BURD0ADAgICQIFDAoKJR8dOikkb2VgoJycT0hHJh4cLSUjMCYiJB0bIBcWWlNUlI+Ugn6DAAoCBQoEBh0ZF0g5M0EyLHVwbZCMij42NhMMCxYQDjwuKTgsKBMMCyceHZCKj6SgqAAJAQQIAAMMCww8NjdPSER/fXlxbWorIiAdFRUiGRmLZlpNNi8cGBcmHxxBOjqYlp4ACAIECgcIBwgIFhwdbnR0eX58Y2ZjHRwcGBQTHBYUWD42OyojHRgXSEFBaVZSl4eGAAgDBQkJCQwODggPDiIsKXV8gKCisoGDjjxDQDdAOz9HRHJ0eoB/iXNqaXdcUoNqbDOpfL2p/6cxAAAAAElFTkSuQmCC",

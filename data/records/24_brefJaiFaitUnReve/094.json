@@ -8,13 +8,14 @@
     "videoId": "gYSzEUcLIZ4"
   },
   "line": {
-    "content": "J'ai disparu et ma voix est devenue celle de Bruce Willis.",
+    "content": "J'ai disparu et ma voix\nest devenue celle de Bruce Willis.",
     "end": 97,
     "index": 31,
     "start": 94,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=94s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/gif/094.gif",
     "hash": "e552aa6d0c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAABNJREFUeJxjYCMRMIxqIALQXgMAusEKIQrhazUAAAAASUVORK5CYII=",

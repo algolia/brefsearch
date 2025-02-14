@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "Le directeur m'a appelé.",
+    "end": 48,
+    "index": 17,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=46s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/gif/046.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/046.png"
+  }
+}

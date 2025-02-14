@@ -8,13 +8,14 @@
     "videoId": "7Ry1eljBOvM"
   },
   "line": {
-    "content": "Il avait réservé une chambre d'hôtel pour deux en plein après-midi.",
+    "content": "Il avait réservé une chambre d'hôtel\npour deux en plein après-midi.",
     "end": 57,
     "index": 29,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=55s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/gif/055.gif",
     "hash": "a7985984a5",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwVzVtv0lAAAOA+uEFbeqG25/Rwels3mOvYUoiVDhnX0tEBlZUBU+YcwWmCxphoYuJMZiCZicaExARjsh9r9va9fcT89tdk2LvseSPfnUS1bq3QOXRfdv2B/3QY1IdhMAiP9VTKwFp+d9fOmMTP5Wp61h+3K2Ht4OJZvZzbiYrO6vv11SCImuVxFI56nU1V0xHOZ/eqxQNi+ffu47vZuHs0GYTPw1ZYevI6qM4/zCKvHNZLr0bRabd1P6QUFeFHaYtYru5+//m3WNxenJ9bO5YGYb/knDQaedu5PBtOX5z2260NjLEIoAgQxMR88ePmZj578xYBmaFoKEIMUQoiBanbZtrayqR1U5GRhvCWvmEgRPQDf9D2nf09nuWQhKAo0yRFxUgqTt5jLSYkGAUABYBNVTOwQoRHfserpw2TS/BiUhC4JBUjBU4QOAE8BOQ6aWezzUrVMnSWonXVJDrNRrXoyhJEElJknGR4mqR4lmPpBEszdDzh5uz3V9NvX68f27nYgzXCOyyV3QKWEc9yWFaUlCkJMMlySYYDggREnMnsVwrOl0+fA68ZX4//B/bVV5/jFGWqAAAAAElFTkSuQmCC",

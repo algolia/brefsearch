@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "name": "J'ai dragué cette fille.",
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY"
+  },
+  "line": {
+    "content": "Ah le con.",
+    "end": 101,
+    "index": 41,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=99s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/gif/099.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/099.png"
+  }
+}

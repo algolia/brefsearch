@@ -8,13 +8,14 @@
     "videoId": "6dyIHnUE5FY"
   },
   "line": {
-    "content": "Chloé, nièce trop choute. Musique, OK.",
+    "content": "Chloé, nièce trop choute.\nMusique, OK.",
     "end": 21,
     "index": 7,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=19s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/gif/019.gif",
     "hash": "c38b1f433c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwetPEgEAAPD72tbWWn1xk2VLndXWqq1ZfFAWSx2PikCJQHBdJ9wR7o57g/cGGdxT7sEhD5XSALfm+gv7/YDDjxECzHJVqIlDfo3wGdLKpxvJ2MbT5cDdO8FHi5ngGzgaLkbDhe3N+PpLgDmCTJH16pTLkANJ+GXql3qnh5a93C6VTR/EI++WApvLS/lQsPJpp7C1AUxPnT5L+7I0breGTdlmyZEinnHspSLd9nvzU12nsNDztWcP7oVWHifXXwFeq3Mu8mOWcmjCIdARX/Pr9LAh/XG6Ll+3KOyipVybKpJKvAgsrD28DwhYta+as456JXAzy5h6tsFQrsB5Atdl6YmmXlnGTc/763ttuPj6ySLQoFlVPJEFXJGO5q59OxpODE0jMF/iLYYanjRnnnsuijZyKMDfICgKCAShMDhdyeB4hqRKo3bj33Awd7oTXZ063UGNvsBR4+cBW80KDCjlvgBIPoX+SB5j+8f495Xg6t7XD2caP3PtG1P7zRBjvNwmwRaHuCQiJeLl6A6wGwnD+ykSzKHJxF7kbakQk7mizMM+iTpEqVNDPKbiF0Eytg19jqW33v8HNV/Bb83+zXQAAAAASUVORK5CYII=",

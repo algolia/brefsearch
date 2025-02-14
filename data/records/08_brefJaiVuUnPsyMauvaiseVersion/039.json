@@ -8,13 +8,14 @@
     "videoId": "xHTx3mYfGUQ"
   },
   "line": {
-    "content": "Il m'a regardé, je l'ai regardé, il m'a regardé.",
+    "content": "Il m'a regardé, je l'ai\nregardé, il m'a regardé.",
     "end": 41,
     "index": 16,
     "start": 39,
     "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=39s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/08_brefJaiVuUnPsyMauvaiseVersion/gif/039.gif",
     "hash": "8963a9ba44",
     "height": 720,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gACAQUBAwgBCQwDDg8ADg05NSt5X0loW0zI0dC5wsJ+aVqYjX+ss7KlrbCLjIVLQzYAAQAFAQYLAQ0QAhETBRETRjswb1dGWUxAtLy6YVlQRDAimI5+r7SzrbS3jYyFVUs8AAQEBwACCAEMEAAQFBcaF2BFNnVVPm1ROn56cV5FM3NqYbm/ur3Fxra9wZ2fnIWCdwANEA8DCw0bHRokJB5BNituVUB/Y0l1XkhxZlhnRjG7opGgq66Bio2dpKSYmpaMiH8AMCkfTj4wXks7XUw8VUU3XVxPZ2peYmZZWlJEUzclf2BOmo6DYVBHRUc3kpyYk4uDACIfHT81LlJFOF5MPW1lV3+GfWNrYGNqXWdoWmFIN15BLl9NPx4bGi8xKo6Rjn90aAAAAw0ABRAACBECCxIuNjVobmZtbmBqaVtlYlSKhoSmo6BFTU4PExAkKCMnLis2OTUAAgQMAQcQAAgRAAgSAAQOBA0RP0E7W1lNUk5Cb2BUqqCWlpqXKywnAxEQGiUkISknAAEBCAEDCwEFDQAGDwEJEgAIEwEFDwAKESosJlhHNX1oWD89NScuLA8VFAwZFhAcGV04faJfl4CDAAAAAElFTkSuQmCC",

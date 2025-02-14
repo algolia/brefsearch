@@ -8,13 +8,14 @@
     "videoId": "r-cbMtBLY0g"
   },
   "line": {
-    "content": "Elle a dit: La vendeuse m'a dit: Vous voulez du popcorn ?",
+    "content": "Elle a dit: La vendeuse m'a\ndit: Vous voulez du popcorn ?",
     "end": 27,
     "index": 9,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=25s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/31_brefJeSuisAlleAuCinemaAvecCetteFille/gif/025.gif",
     "hash": "5aff156431",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYdJREFUeJwVzltu00AUgGELMufMzJnx3ZP6QqiTOLabuHYaJxG0EkqjUrVUIITUp0rwwhtSuwE2gJDYCLsAiW2hLOD/9FvyORDDI8flwCVyjnyTZ98/7j+ft1ngN+NxOS5+/vjV1rUh5UuyxDPQwLMgEMDpEMDXN/3vx4ent9tx6BVpslmu/vz9tz5tfESNaEXadgWNoohQEAIJuGnLL+ft9TyfRN4kPtrOy/urXRmbKo1dDlZuwkDpLIiUIN+2bZLXTfFtv/60qus4qF+kH/r5rhqtp8dVOrRhYGlkhmTi+STI147ifOiou65apSZUapbE77qiHcWZq0KJGgYWAQsR4gNNjlBJGDV1X2b5JHRdHW6r8mKaGIkBZy4yhcyyObiIgZSSSy2oKbrXZ7vpy07LMDXHt317GnsesujAM8nAUjAgQAe5Ru4rXeWLYrRYLi5Opn0zW++X3cIoI3GouAYgBoclzpgjsDJBGfkn+byrtzeXd7f7969Wl5vZ7CxxCuPFShjikrH/svoxTYaeIF4AAAAASUVORK5CYII=",

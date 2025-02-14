@@ -8,13 +8,14 @@
     "videoId": "JmghDKkeiik"
   },
   "line": {
-    "content": "Je me suis dit que j'étais trop con.",
+    "content": "Je me suis dit que j'étais trop con.\n— Qu'est-ce que je suis con, merde !",
     "end": 52,
     "index": 18,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=51s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/gif/051.gif",
     "hash": "7efd8fa10d",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBaSkQuIBsnGxZEOjdgWVuik421q6iBg4dhYmVUUVA0MTRcVFp0ZmOMfXmShIGHdGoALyIcJBsWLSAaOSYfLycicmpohX+BYmJlmJacx76+RUJHYFddRTk3PzYzbWFdkYJ/AEg2MDclH1c3LmZDOCMhHystLzQ1OBIXHVRWWpOPk1BOWk1FTko2MGNUTmVaV4Z4dgBrTDZkQTBdOS5TOjJnU0xMODEdHBouKiYrLi4lJy1cWWOQi5F3a2hdTkgrJyNBNjIAck8vc1M1eFs+dFlEj2pYOighNi0poXhpMyciLS4wvre6wsTOsrjKXlxhJSAcZ1xZAHVQMXVRMnVVNnNXOW9WOldKNzw1MYhiVSohIjxQTJuxr3RzfWdodH53eX90cKiamABpRytjQihVOiNONiBHMR5KNSJNRTOHYlU9PDYtV0umuby8uL2TjY/IwsTIu7mGeHMAUzghTTQdTDQfQS4dRTAdOCcXTz4rhF1PTVtNcpeO19PW3+Xt09HWwLe5xbm3WFBNAEIrGTsnFzooGDMkFi8gEy4gEzstHlY8MWFZU7G1u8S+r8C6sMG2t72tqLuvrTItLv4YnDU5IAy+AAAAAElFTkSuQmCC",

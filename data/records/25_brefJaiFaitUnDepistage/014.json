@@ -8,13 +8,14 @@
     "videoId": "41X9gwbeMxQ"
   },
   "line": {
-    "content": "Dans la salle d'attente, j'ai essayé de deviner qui pouvait avoir le sida.",
+    "content": "Dans la salle d'attente, j'ai essayé\nde deviner qui pouvait avoir le sida.",
     "end": 18,
     "index": 6,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=14s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/25_brefJaiFaitUnDepistage/gif/014.gif",
     "hash": "da057fd028",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC+k0nEmE7AsK3NlDG1jzOjp5i8mkHcsW3WwK7XmBrLqnbFqYTMhwaxm4q6h0t0QQMAqo9rp4xlq5JvsIpKoYtdk56mqpx7vJtsvKKAvJxrvqB1uZpqsYtLtJFfpX1GVDIeAH5/m15TYGhfb36AoH2AnH1rcXtqc4+Qp3p0g1ZNWY+Mn4F9kV9ZbKmfpnJ1gkIWKAB4ephiWmxUT15pbId/f5hjX3JiXm+IiJ5wZndqUVh+epGBdoFZRUdtcINqYmxgGCEAZmqFiIyeS1FnYThCaEtdSld1TVhyakNUSzZLVk5bZEpaZVVcLDNALTVCUzw+ZhMgAFdbaura1YuJkU4pMlE4QEk1PlJAR1UuOj0hLi0sNjUxOyInNB0mNCAoM0AlKWUOHwB3ZGOXcnKSamaGW1aJYVpmGCBoHClaOUFALDY1KjYUHy4VGiosLjgkKTIqDhtiCx8AlHhnjHJukXNwlHl9pI+Om4F5lXdlVUFAKCs5His6GxAgJRonJCo0FhokMQgXYAseAIZpVZB0XpN3Y5Z+cJiBdpV8a5x8Y0A4PB4cKlAUIGATI00MGzIbJhcdJzwJGlgKHN6npikX7dB9AAAAAElFTkSuQmCC",

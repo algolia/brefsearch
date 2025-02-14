@@ -8,13 +8,14 @@
     "videoId": "HO2SLJQShJ8"
   },
   "line": {
-    "content": "J'ai guetté le générique Joyeux anniversaire de Dorothée, le jour\nde mon anniversaire, et j'y étais pas.",
+    "content": "J'ai guetté le générique\nJoyeux anniversaire de Dorothée, le jour\nde mon anniversaire, et j'y étais pas.",
     "end": 42,
     "index": 15,
     "start": 39,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=39s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/56_brefJaiGrandiDansLesAnnees90/gif/039.gif",
     "hash": "505e7cefda",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwd0E97knAAwPEfiE4iAubGREURWaCAIIJiDkQxmW3+ebBWPObjnmdtubJsJw8dOuzp1KHn6Q106Nq919C76sn793P5AoUmXFUad55UOXZYV6aOPe8aC9+c9+1PDhMonJDLy3wJS+IAxABAQEdgZr2TxXnQVitutSLmMjqf7xlq6Nl3odmvK1k6U8rmSJwCIA6gONAZauS576LnpsDrufS5Jk6M8pkhDczqsKmdNVQxwxTT6QMyBWAUQHtAymYstba5XFy9Xl6Hkyu7vAy6A9v2LTNoaGGnqQsCd0QfkvsxBAMQCrY3y/WL0c2ri/E4uryIItcaup5tuZvb99+/3t+tbmX+OE/TB49IJL4Ds97JNBhamtWqWWP/6ZvoZb/tiLw0m69+/Py92nyWigKTOqRwIhbbAYo6Yjm5UKgoojIdBOFp4FpNTZK3X779+vP34/a+mGUpYh9DcRh+AKAkQFGCIGlT0Zq69czrjny/pRsNVX97vV6vPkwGQZ5hcYxIJjAITv4fhcCJVIrxWk6jZpe4x+XjMssUrGr91On0apW2JlMkje49TCC7GiD/AB9GUpeadDrQAAAAAElFTkSuQmCC",

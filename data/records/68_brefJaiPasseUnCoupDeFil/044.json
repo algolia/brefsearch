@@ -8,13 +8,14 @@
     "videoId": "8matlnmBY98"
   },
   "line": {
-    "content": "Il y a Baptiste qui essayait de le joindre.",
+    "content": "Il y a Baptiste\nqui essayait de le joindre.",
     "end": 45,
     "index": 25,
     "start": 44,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=44s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/gif/044.gif",
     "hash": "18f493e240",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwFwVtvmmAAAFD20myJjbGCCsgHCMrNglINooACVUEtthItMrNaXWwya5e2W7IlZm2ypX3pXvd7dw5UoWn6CDY41hG5a5CLSWx+Iq26rRAjrCw275thRz+tV5USHwfe7jqCHKV8xtPLdm1iatu6FDfVf9vFzrdDjPTy1M2k9+tyuHE0PJVx9Mb+bg1dtaqfTvip6z6sFq+b6b1vvi3DfTSa4tQQsH/W4d+o+3tiR1rlqtN4ur+BOlK5xis1xVx4/ec4+Oq1f45PHb3RBOy4wL8+3r6Eztu893xu/wic/e0KIlAmi0muoj4O9O3AtriiKQhIns3TfJMunRut777xMusudPVu2H7araFB05iNzjaBtx33FgO/RPOpQ4QlWY7hqkVOBeSsrsR6xZOFpWuOLAt6iCefR91VvzN27I8XF1VRJhH0mGaYHG7I5W9R4GhGhRG/+G1d1RCEgkpYnkwjrixpRVYkAJ8nBIIUAcVkctaxGPZ6hYJKAakiKKkjInGIQgfvDrBkWsRxnSuWUFwkQEvgaizLZLIyCTCYTMM0DINkEk0kMu8/wP8BW3FjSSJ9TYcAAAAASUVORK5CYII=",

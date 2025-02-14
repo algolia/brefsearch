@@ -8,13 +8,14 @@
     "videoId": "LZQUFY0W_lY"
   },
   "line": {
-    "content": "Ça, c'est un dessin que j'ai fait quand j'avais six ans.",
+    "content": "Ça, c'est un dessin que j'ai fait\nquand j'avais six ans.",
     "end": 3,
     "index": 0,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=1s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/64_brefJaiFaitUnDessin/gif/001.gif",
     "hash": "f292c03d98",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBaTk5eT011ZmZ7YWGRd3V+YGJWJSpeQUHIwcff3uTq6u/a19tRKjA7IyVVT09FPUAAWFFYZFlagHd4mJSTmZeWcUpObkZEhWdjurK44N/l7u/y2dTYUCMpQSYoWVJRQDY4ADg5WU9ITjMpKTYwME80NUwWG2VLSls4OUssMElBQ0tCRD81NjkaHkYwNF1SUUg8PQAqIiYuJSUhGh8WFhxAGR1GFxlTPkNWQEZJJypbNjhlQ0IZEBInKDMrKzkwIyQxJycAHRYYHRYYFhIVEhYeRictZzg7ZUtJZFZXhH6DeF1jdUY6LyQmHR8tHRogHBgdKiMmABYQFBUPEhQPEAoGCC4qNDk4RBAOFRUTGyMmMiwoMycZGR4XGhoUF2RRSm1eXGFTUwASDRASDhAZExUUDhETEBQgICsUEhkSCwwpHyMnIiYGBgcAAAEUDg4zKCMhHiBcTEkAEQ0OCQgJCwgKBgQGBAIDEBAaT0JAeF1TcFNLeltRSDUvDQsMKSAgSzw2SUE9XUxIABwWFxoUFikhIjMpKj8zM0s/RGxXUoJrYGBGP2lJQW5OQzkqK0k+P0s9PkQ6PFVEP7SnbG1NZCXKAAAAAElFTkSuQmCC",

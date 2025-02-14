@@ -8,13 +8,14 @@
     "videoId": "r7LVaWeM_bg"
   },
   "line": {
-    "content": "On se demande comment on va les appeler.",
+    "content": "Qu'on se demande comment on va les appeler.",
     "end": 57,
-    "index": 22,
+    "index": 24,
     "start": 56,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=56s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/056.gif",
     "hash": "f5df6920a2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCDcFqUg2mhkXWun4GrnH1gUkI5KiJwYU+6r46soH2klHGbiWiQfl9/bFFtWkJlUj0Al4ZsqZl7s6aHvK+OTkE1PygeqoBkZ0s8jYJoyb6Ttad/rJx2opFukX5ffmtQdmNJAKWVeLKkh7ywkbOmhzcoIHZUP86ihIdnVVxVSY2OfJePc6aYdaWVcJqIZYl1V39sUQComXy0qIu7sJGwooJEMCZ+W0XNn4SGZlUmIyVDT1c9R0xXXl1YWVRVUUxhV0yDb1QAqpt9t6qKuq6Op5N0TDUpWDssr4VuRjIpHxscRktOND1BOEJIRlNZU1JVmXlmjnhbAFhKPV1RQ3hjTY1kRUkvJFk+MHpYQyMXEy0nJ0VFRx4hJQoNEBUZHUU7OZp6ZV5NPQAhFhUdFBVILyN/VDlELCJWOy6MZEyefWpCOjlDQ0YoJysMDRIPDhIpJSczJyMiGBYAIBgVHxkXQy4jc0w0Ry8lOSQaiGRPs5B8SDQsRDQtWUg/GRYYJiEiMSsqIBcUIRkXABMODRYRETIiGmtGMDckHU0yJINeR1E7MUcwJjcnIIBaQnZQOXJRPjkqJBcSERcRD80DleF7ABYKAAAAAElFTkSuQmCC",

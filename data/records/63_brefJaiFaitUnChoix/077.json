@@ -8,13 +8,14 @@
     "videoId": "UNbu1DM-jk0"
   },
   "line": {
-    "content": "Non, parce qu'en fait, je digère pas bien les saucisses et...",
+    "content": "Non, parce qu'en fait, je digère\npas bien les saucisses et...",
     "end": 80,
     "index": 30,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=77s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/gif/077.gif",
     "hash": "3bd4a4020c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwUtv0gAAAOAmjj7oa+VNS8ssU2hpYR2lWIRBSQTWljoIg6UD4thDMyIEwYvbsjgXozt40uhRd1JPHvQH+M/2fUB9I/VEEfJrjIjAJkN1JP4RS4sYlkSxwZY6Nsu7Fa1dUlPhUNAD+SEYcFShkk608nJbEYaafFhWrvuN/ZyUQpBl23gztI9tY9SsSNFwFISDEAzUc2lTy4zNyqRTf+XaO1qmpyRP62WFFRdd8/qkfTZyZrvNHMtwEEIjXiDNxSWWURPxTZ7Tk/zmuhhAVwX6fu5BoZrVjUyyKj8siuvpUHAN9jKwFwihXnxlxQ8jHE7ESWJPV7Vs0XGGWV7u6sUoTgQQNIRiMZxIUBRPkoAPxcMEQUDQaCN1buqzRqFnGJbtiqwwtapyjGYpHx+JMH4/TZIMSQBcOMozsSCxOnFq3y4Xg1J+YRtHO63lsD/vWqd73VbN4CJ0gKBwCCYhEMBA0IcgbqN09bz3af7ssln40Kn+vDj63av9Oj++OHEH29bTkr6VlUgIxEAPAN8DDyz99v3i4+vZ8nBwNu7/uXn59+vbH1P3/5f5v8/zm+n+uxfu96vJgf0Y9XjuANx+YHC7m+bDAAAAAElFTkSuQmCC",

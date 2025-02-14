@@ -8,13 +8,14 @@
     "videoId": "J9EL_bGpdP4"
   },
   "line": {
-    "content": "T'as raison. Elle est jeune.",
+    "content": "— T'as raison.\n— T'es jeune.",
     "end": 20,
-    "index": 11,
+    "index": 12,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=19s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/019.gif",
     "hash": "e0061810be",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAKBggNBwcSCAcRCQchFQ46JhgwIw84KQ09JxZGMCVaPS1UPC1fQCN2TR17UiE8MCoACwYGDgcFEgoHGxENHxYRKB8YLCAUQSsXYDoklV9EunxfXUQ2XkMliVohi18nOjAqAAwHBg8IBhEIBi8bFTgkGzklGzgkGUcwIlI2JXNMOJVmTXpUQnFOLHZNHnZQJTAjGwALBgYRCQcbDQpULyRLMSUeDgweDgscDQtXNyaTZE+VZU2ocVhwSS0pEgIrEgpSLzEAGxQQFgsIOyEZWjQoUjYpEwQFHxAOPSwkTjMlf1RBj2NLiGZTqJuWgnVyRi0kSycnAB8YGCEXFV03Kl45KjwlGiwbFltJO2BRQUw6LVg7LFpCMZpyXsrBwrm1ubu2wG1aXwAeFBUhGB86JiVAKB8/LCRqXE1XTEFkV0w9Mys7KB5oRTGMcWWTi4eJgYC9ucazrsMAIRkYJBwfJB0bKyQiNjAtYVpVf3h1vre3VU9NGxMPLyQeSkRBdGlgdG1opZ6muLDLABgRFxcPESEZFC0oIiwnICgiJkE8Q6CZnGBaWRsWEyIfHjcvKl1RSFVMRYyEhbavyYfzbSsNEUIEAAAAAElFTkSuQmCC",

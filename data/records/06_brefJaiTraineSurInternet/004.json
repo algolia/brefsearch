@@ -8,13 +8,14 @@
     "videoId": "br82-adJ0FU"
   },
   "line": {
-    "content": "Donc, j'ai fait comme tous ceux qui n'ont rien à faire, je suis allé sur Internet.",
+    "content": "Donc, j'ai fait comme tous ceux qui n'ont\nrien à faire, je suis allé sur Internet.",
     "end": 7,
     "index": 1,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=4s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/gif/004.gif",
     "hash": "70fcba33b6",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB7YUyEdXGMf3yUhoWajo+lmpyUi42LdW6pmJmroaVMR0dRS0pyaGaNgHydjoqjk44AgGJDj4F+m5COo5iaraSsuLC6dmVhgWBdt6a1qKClKyopGhwcFRgYFRkZLy4uVU5PAJd8Zqedo5uOjIV6dLSss7y0v49zbIxub6+dsZSKlh8gHxwfHhAVFQIHCQAAAAAAAQCGfIHEweOtp7x/cmyspLawr9qJdHqRcnHLxOh+eooJDQwOExYTFxkuLjBOS1UTERUAMC0rsavHv7nOnJWnr63gm46rlHd0koCUwbriY2JvAAAAEhEUJiEaYllZhYSXKScrAB4eHJ2as720yJuMn5R+i3liYV1UZ2FgfX9zgjs7RAUFCGNgbHh1fVNMS2dkcDExNAA3My+vrcilkpp0Tz52YFVPSUU2MzdBPT5dT0obGhwMDA+no7fFyOxXVVpIREYnJScAHh4alZCej36CaFFJZFtaOjk8PS8fOzAbW1FOExQUCAoLmJSktbbSVlNXNDIvEhQRABEREBUUEhYVExoZFx0cGR8gIlVXXVRRVV9ZWzg2OC0pJpuUoLKwyldUWTY0MlBNR+gLp5H4kZP8AAAAAElFTkSuQmCC",

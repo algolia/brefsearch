@@ -8,13 +8,14 @@
     "videoId": "UNbu1DM-jk0"
   },
   "line": {
-    "content": "Ouais, et toi, trois fois, c'est le nombre de fois où tu as pris 20 kilos ?",
+    "content": "Ouais, et toi, trois fois, c'est le nombre\nde fois où tu as pris 20 kilos ?",
     "end": 56,
     "index": 21,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=52s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/gif/052.gif",
     "hash": "456c8b0a2f",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBcV1lgWFtIMTY9MjQjHB8yJiZBLiw+MTCDe32Oi5RNSlMsKTFKR05GQkg5Nz9cUU4AZWBia2VoXkNHQzIxJh0elnZrkWdaQComhHd2nZukUk9XHhsiSEVNR0RLOzhBaFxXAFJNUFdTVm1hYTcmJkk2MZx5bXhYTzslIXRiXp6cpmhlbxQRGD47QlFOVUZDS2ZbWABZTk1SSElRPzw1IyE9KSajeW2acmY9JB9/aWKfnKV0cnwoJCssKTBZVVxMSVBdUlEAYVdVYVRRPiooNSMhKhkYeFNKfFRNMR0al3hqnZeca2p0MS42FhQcQT5FVFJbXlRTAEI5O1E8OFw+Nk83MjAdGy8ZFyMaGi0aGItqXWRbXhsZIigkKkc8PDczOEdDSk5AQAAkGx5WOjOxiHaNZVY1HxsqGBcXDxBRMyyIbmWFg4piXWRtUkycg3ecdWmYOjKEPjYAIxocTTIrkWtct417c1JHPyooGw4OcE5Ch3VvhoOKlJKcempvQz1CiWVgnC4jhS8nAEIyMT8pJm1MQaB6a6qBcYFnXykdHlw+NH5uanVwc3VvcnRwdG5pbGlkZmRDQmI5Nry/h5OB7XntAAAAAElFTkSuQmCC",

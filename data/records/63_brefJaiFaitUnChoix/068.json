@@ -8,13 +8,14 @@
     "videoId": "UNbu1DM-jk0"
   },
   "line": {
-    "content": "J'ai eu le temps de me faire un thé, de jouer à la play, de manger\ndes Knacki, jusqu'au moment où elles ont dit la pire phrase possible.",
+    "content": "J'ai eu le temps de me faire\nun thé, de jouer à la play, de manger\ndes Knacki, jusqu'au moment\noù elles ont dit la pire phrase possible.",
     "end": 71,
     "index": 26,
     "start": 68,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=68s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/gif/068.gif",
     "hash": "ae0374d984",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0dHd5eXx2eHtkOzZyPzNgREg+ERpMEx2Qd3vTzsnf29jfy8XNW0bNaz3KhlTIvaEAdHR2dXR3enp8gXp6kImFaEpQa0RBZj43mIKF6efk9vbz8tvV1llA4F8w15Bs0beSAH5/goWFiJCQk4N+gGVgXlNCUFtFVVI7O0lAU5ePkK2hnbSUi+JXNOVrReGwk9uvkwBsaWl0cXGAfn59eXk+MTFLOkRFOU1DOE80JjxELCkiExJ+MCPUSCnHinLTp468inUAVlFOYVxZc29ufn18dFlSjWxid2ZkWURGXEZCU0ZBQyckpzUim0w8tJiKso5/j25gAFFMSlpVU21oZoGAgGdSS3hhX1tXV0Q8OmVfXmRWVYMxJWsgFntdTqB+bHxkWm1dVwBDOzpKQ0JlX11wbGt9cmyJe3ReVVJdTUZ5a2N6VEyEWFBbRkCCYU+DYU0+KSEoHR0AHhcXFQ4PUUtJZmJgbmRfYlFAYVFCYVFDb15RZlRFWEtAY0w/flpHUTgsOikiKBoXACkhICsiIzw0NE9KSV5XVE5BPl1XV1tWVlBIR0pAPkxFREw6NE8yKCcZGDQoIjssJyBdqJK2hC1iAAAAAElFTkSuQmCC",

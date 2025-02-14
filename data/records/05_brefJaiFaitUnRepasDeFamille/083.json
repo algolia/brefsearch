@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "name": "J'ai fait un repas de famille.",
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M"
+  },
+  "line": {
+    "content": "Il l'avait mal compris.",
+    "end": 85,
+    "index": 32,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=83s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/gif/083.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/083.png"
+  }
+}

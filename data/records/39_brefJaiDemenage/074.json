@@ -8,13 +8,14 @@
     "videoId": "YFLtnewtqAE"
   },
   "line": {
-    "content": "Ça faisait trop de ouais pour une bonne nouvelle.",
+    "content": "Ça faisait trop de ouais\npour une bonne nouvelle.",
     "end": 76,
     "index": 32,
     "start": 74,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=74s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/gif/074.gif",
     "hash": "df522086c2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzU06Dbm66tLi8tbjBu73CvL/Bu7/EvsHGwcSwpadkQz5FLy06KCcrHx4fFRRHPDsAcVVSe25vsKqwv7m+xb/DubS4urS5v7m9v7zBs6KhqXNnqXdvVzo4IxscHRMTUEM+AGNMSXZsbYyAhZCGi7Sus8C6vbq0uLKts7Wrrp94b5VoYJdrZIFWTkkvLVU1M2dYUgB8bWpxXl2IW1Z3T0uFfIG9t7y4sLS4tLqymJV4TEKjdG2pdGmyf3KicGNCKSc0MUAAY1JRVkREk2ViiF5bWkZGj4iOsqqvuLW6u5uVq3drgldVonJnuox9j2BTWTw6RUVhAEIqKBILD3FQToJZVlo9OiMbIVdRWZ2QlKmFem1UU2VRVb2UhJ1vYmlEPVxRZU9QbgBgVFgpIygtIiZSNzUmGx0YFRtCPU+FZWNlT0wlJ0KFdoCgdGZILiw/Ok1QU3RNTGUAnJWcgXZ4ODI1ODE5NC00HBogUk9nenCENjRKNzpanYSGelRJLys9T1J0TUxpRkNcAIF4f391eVRJSUUyMDUlJBoWGzIwQ05RcF1aboV/iaSEfXpWTDY2TFBScj08VTk3TrYLs1I2uD6aAAAAAElFTkSuQmCC",

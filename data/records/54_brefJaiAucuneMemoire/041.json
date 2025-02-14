@@ -8,13 +8,14 @@
     "videoId": "elOH0CasAPw"
   },
   "line": {
-    "content": "C'est quoi ton nom déjà ? Fred.",
+    "content": "C'est quoi ton nom déjà ?\nFred.",
     "end": 43,
     "index": 16,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=41s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/54_brefJaiAucuneMemoire/gif/041.gif",
     "hash": "c963b196f7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwU1vmmAAAOC3U9iKilCwVhHBL0RoES3iR5yCs7BWG6KBaNP1w7ZSUbNuh+6wNXVb1yzZbckOu+yy07I/sL+35wEVhtOlusqXCXh9WJHdF7Wz5+JJWzmxXe/0zdXYNbcFnSZzYTTwBAr5INDMy6ba3Su3CD98KGbm3d2ZWfRMeTKa3cw/Ly/fjdv6hcpaAoNDMBGAgC5Vh8axpQ0qW4Rdylk7mfNmoS8x9w+/7r/+XV6vlvbRvMVPVL6WpMI+COwpnW5zsJNTDI5ddHbdljTTitOOtLr7/uHhz+v54/WRd9GQFprsanKVJoCSV3B4HQG+JIpdNSSvJY1LnF1iJue371e/velH7/LOqdcnNd4ppw0uCjgqvwYADgfVJD0sZq0CbYtsm4lYvVfffvy7uf25mD06B2cGx1gi00lHQQyLx5BQLZbsCdljVdBT8X0+IWySmQjdVPTp9NPM/XI6ettrmP0C2y+kQIaI8+SWGGMSgVAjRe0LaZ7cwJ4iNB6Jhck8Ge02eiPLcwxnoBRfClmQwDapIE6hOPksGPLDuM+PrsEbEJJCMRoJs0gwi5FaxWxuF6u5bJmh/wOX5l9El6g3jQAAAABJRU5ErkJggg==",

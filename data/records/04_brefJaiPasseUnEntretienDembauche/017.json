@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "name": "J'ai passé un entretien d'embauche.",
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU"
+  },
+  "line": {
+    "content": "Ça serait un véritable honneur\nd'intégrer votre équipe.",
+    "end": 19,
+    "index": 6,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=17s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/gif/017.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/04_brefJaiPasseUnEntretienDembauche/017.png"
+  }
+}

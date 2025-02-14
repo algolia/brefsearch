@@ -8,13 +8,14 @@
     "videoId": "cDWcCpqFh_M"
   },
   "line": {
-    "content": "Alors j'ai dit: Je ne peux pas vous parler directement.",
+    "content": "Alors j'ai dit:\n— Franchement, vous pouvez pas vous parler directement.",
     "end": 86,
     "index": 40,
     "start": 82,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=82s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/gif/082.gif",
     "hash": "ab7aea4bfc",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBOSEVBOTVuaXGtsMKsr8FNR0onIh8hHx8eGxogHRsoIiBiYGWXl5+OjJSKiJCCf4YATUZETERBdG91qau9sLbLl46aOTAuIiAgHRocGRcWHRkWYV1gj46VjouTj4yTiYaMAFZPTlVNSnBrb52cr66zyLqsul1OTiYhHx8bGxgWFBYSEFFOT4mHjYmGjY+Mk42KkgBZUlFWT01ybXOgoLOvs8e2o66VeXxrUVEkHx4dGxkaFhRUUVKEgYeFgoiLiI6LiI8AWFJTVExKd3J7p6i9sbbKopKdiWxtgWJiNy4tGBYTGRYTWFVXfnuAgH2ChoOJh4OJAFhTVVJLSHZyeaeovbO3zaChtHZlaZZ1dWZPS0U9Qj06QVZTVHp3fHx5fYN+hYR+hQBWUVNRS0lwbHOkpLiwsseprcNhYHGXeX6LcXd2dppLRUhhXVt0cnV5dXp+eX5+eH4AT0pMTkdGZ2JnlZSmpae+pqi8cnGEh2tzpqDIX2B6SkE7Vk9NbGlqdnB1d3B1cm1yAEE9P0E7O1lUVnx4gpycspyesmJaZJOFno+WxFVPUl5XWEtERFxVVWplaGdhZGJdYGgRteqvu/Q+AAAAAElFTkSuQmCC",

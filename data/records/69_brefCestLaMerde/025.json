@@ -8,13 +8,14 @@
     "videoId": "5U0CfNpXdEc"
   },
   "line": {
-    "content": "Tu m'aimes ? Je sais pas.",
+    "content": "Tu m'aimes ?\nJe sais pas.",
     "end": 27,
     "index": 10,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=25s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/gif/025.gif",
     "hash": "346a38e466",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwVtv0lAAAOA+GYchLZMaWNgm28QUC+sFKBR6euE00JZu4Gkp98uAuW5hVxtNCJpoXPTJxX+x5yU++tv8Pux0cVe3vFIZqpIuAamqw6peV4A29YZIg80cb+c4NZ2Ob5LECwIP4dh69dM8GhBE7LhccqAqa0rNsIqCuBnCt4goKgkfhyP/PdqPbxPhSGgjjP3+9Qc5I2p3ryOJY71arog10yqLFTIcze7u9RTlot39cRM0ysDOl+IREvv7+HjrL1X6HRJ4jXqrcLys6DmugG/gaoY5gdoSofvbYH1xueqPt1/GsH9PTw/rL/r+gVvMeQy3hEbT9CAwkrFEeisxANKsYV2PJt/vPn+9DqIEiT18uw8WZ8f5wkRVzivKXDdm/emg2R4ZhpBKmTm+BUCvbtxM5qvLAA9HsE8f/JnbZXd22rrpqHWBzh7VWm2r4yPUgTCbPACHbBPIV8PJwus/fxbCfAed9cbyIWtWzQInUolkkRGBoE5ta2rbhlAUqbSrKL7jOjJ4Tb7Cxi10NT+fuT2zIrM0n0nRHM1n3lBdqLmqiqRKo5CXaRoyjM4yOsf+B3TsdGuyJNW0AAAAAElFTkSuQmCC",

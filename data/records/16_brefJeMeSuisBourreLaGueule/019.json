@@ -8,13 +8,14 @@
     "videoId": "4tdCI0GUy7w"
   },
   "line": {
-    "content": "J'ai respiré dans mon T-shirt pour ne pas vomir.",
+    "content": "J'ai respiré dans mon\nT-shirt pour ne pas vomir.",
     "end": 20,
     "index": 10,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=19s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/gif/019.gif",
     "hash": "b056ab0716",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwty22PkgAAAGC2Wu3Wqt3qdi9errPzlgqiIIfp8eoh4BmKIByCHiBMUTPvkPRi89bVamv1Q/qXra3n+wOcY2BgKIvR+PX+SwbN0Qgo4MXOORk61u/l4vvm2+1NOPWDVfSlDGfyJ0eATGOhY8yG7vHhLnScfPTwwfMnW692tu908U9kz/u9+3izDtd38Q8ag/F8BjAFIhqanmmkDnbKb1P720+fbT0+PUlNLpiVWPlk91fXN5+jOF5/pTGYQCCg36CWbs/WlDeJPYmlRIrksAKRTXGFjE8hniqP7at1GEfhhipBVAkCHKn20bYCb6opV4P+1OyNZv4HRzcaDGV3Wu0606qRE28SLmISBf8FV5Gs3li/DLr6SNN8TXU7bUvvOq7lD82BInIkApq6tZjfkihIY3mgJTbfS5asOJI8EBs6z6uC0GXYZrXCUAQrskw68UKW1Fmw/B8q5SrPK42LS0FQeV7luDbDNgmSRxEcAgslGFbq9PVsOfbmRDF3VoSAo2QSx4lKtXZG1AmSf1dh8FMCRcq5LHiYOEjs7Xq6/PP+l2W4WC6NZNN/AW4sfcySrdOHAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "Htm39YuNOog"
   },
   "line": {
-    "content": "Il est arrivé. J'arrivais.",
+    "content": "Il est arrivé.\n— Je suis arrivé.",
     "end": 25,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=24s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/gif/024.gif",
     "hash": "62723bc95c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJxjkBERlReXsFKVdZLhcNeWXTl7YriH08wp84rTM601VVwNNA3lpTwsjTPCgxKC/OMDfBm42dj5ODg1ZGXtFYSCjZVifN30ZCW6Gpod9LW0pcWVRIWleHn0FGQKE6Ly4mOyY6MYhPmElaSUhXn5xfj4fY3V/W1M9SWFemurMzxtDGXF5IUFRbg4dEEaootT4ktSEhm0lc30NWx15OQlebnEBIW1ZKW9tWSnt7dNzQz115ZVExcSYGM10VApSY4tSootS0tiUJJUV1c0sdA0dFPgFeHh5ufik+bj6aipnZQb0xZu76GrqCrI5aKvXpIUU5KSANKgo6yjIqOrLqftpchrLCMsIyYhKSTS09rVXVFUF2zVEe2S5WIUbakRYKmdG+FVkZbAoCQlpyytISMi66IkaCwrKisuISss1lHXvGbp6uKogBk5QTURjuG2mh6GskGWKik+VgziAsJyYkriglI28oJ6shLSouKK4jJN5TUblq8uTUvOC7GPcdIOtVHzM1dy15dz1pZmEOUTkBCUFuIV0ZAQUhIXFRfkV5WWr8otWD53flFccIqXUZCVqo+JgpOWlK26hKGMMAB7RGWA0Ln+HwAAAABJRU5ErkJggg==",

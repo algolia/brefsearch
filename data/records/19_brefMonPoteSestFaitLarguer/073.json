@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "name": "Mon pote s'est fait larguer.",
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4"
+  },
+  "line": {
+    "content": "Ben touillait son café depuis 20 minutes\nen faisant bien grincer la cuillère.",
+    "end": 75,
+    "index": 33,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=73s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/073.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/073.png"
+  }
+}

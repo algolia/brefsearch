@@ -8,13 +8,14 @@
     "videoId": "K0XI5d8080Q"
   },
   "line": {
-    "content": "Il culpabilise, il essaie de se suicider, qu'il se rafle,\nqu'il tue sa mère par erreur.",
+    "content": "Il culpabilise, il essaie\nde se suicider, qu'il se rafle,\nqu'il tue sa mère par erreur.",
     "end": 75,
     "index": 36,
     "start": 73,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=73s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/20_brefJaiEu47MinutesDeRetard/gif/073.gif",
     "hash": "2302ff1a19",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA/QkgYGR1bRD6meGlXQD5dREB2U0sbFxlGSlBna3FhZGliW11ZW2BQVVxKTlVGSlAAS1FZUENEp3xum3dtmW9mrHtuc1VPHhsdICUsJCQqN0ZROIeuWGp2Xl9lU1hgSU1UAFheZVpbYMCVh9urntOjl69/c4tjWmdQSZF3bYNlWSQhJARKcTpETU5MUFNZYVFWXQBYXWVHT1ePbWS3g3fAlo2icWaZZVrKmH3807vxvZ+JZFMbFRc9NDUoJioeKDJES1MAP0hTGyQvNCkosoR6nGpnaUpGQC0qrYBs2KqQvpWDu413cVRMQDc4My0vKi0zHiUsACkyPA8WHhwZG5d3cpVuZkEzMx0YGLKHddCegtmqj9Ggh5JlVTUuLyEgI15IRZpzaAAMERgHCQ0DBwpdUlWTcWtfS0gVExetf2fHkn2+jH3AiXFXPjgwKiw8MzVSPTuUbWQABAUIBAQGAwUGDxojLTA3HSEmCAkNPycmo3ZqxZSHlG5iSjg2HxweNC0uPi8vb09LAAMDAgUEBQUGCAwTGgwXHwoVHRkZGk4qLxoMEkU6NldDQTMoKQ8OEhgVFyMdH1VAPjEViToa4YRMAAAAAElFTkSuQmCC",

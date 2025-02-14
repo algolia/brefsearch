@@ -8,13 +8,14 @@
     "videoId": "UNbu1DM-jk0"
   },
   "line": {
-    "content": "Ce n'est pas parce que tu l'as redoublée trois fois que tu peux la ramener.",
+    "content": "Ce n'est pas parce que tu l'as redoublée\ntrois fois que tu peux la ramener.",
     "end": 49,
     "index": 19,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=45s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/63_brefJaiFaitUnChoix/gif/045.gif",
     "hash": "df20d48f8b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwX1T0nAAAOB9BSvyhINrCG4JeAYKQzZGo5uwIXPsx4C9aGODMSHvEIho0tCLOt3VRd55Rd1l/lPXp+x5oGgwlIvHifhObjcJmIOWrNB4tk6lrQr7UuCbbMFiqHaZ1spMKZ1CHqxAqN+/6Q/gW9uZDeSQyJrqkako09djvcLr1dp7254btUVPHdQ41x7FAgEoBsNhrzcb2STWw/vwuiXJXXDotOXTcsmS1ZsLezkwbgfmVOF/XDl4EoNgz2P8KVrE0kQkSiOoKYB+Uzee4xqzb0iK22/9mVj3k+7iRP754e0xECDUu5bfivLYHmBYS9dbstrvWJ8+XjvTmSOCzw12rnC3J8rZAbmc9ce9DrQThBksJZFEIZmWKMoSq5Ph+fLu331b+4X4bsi4SWNTIS8mkKue/GXUhXZDIZ4uSoJoAHGBZ0aycnn99bth/Eb972Dv6V5qwJLnIP+GIx2Nc00VSm6EGzwwmyZfqmDbKZUpf6uDZSw48z3UPSs0xUr1pq3wl43CsMG61RKUgJ9wZO6YB5k4tvrIJ+L4X5ZaJKKdNY/xLDJ/pV8Mz8aKMKq80Io5t0D9B2vvjYwSZsF3AAAAAElFTkSuQmCC",

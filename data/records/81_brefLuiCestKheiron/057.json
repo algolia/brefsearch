@@ -8,13 +8,14 @@
     "videoId": "z5tHQfjXtwc"
   },
   "line": {
-    "content": "Aline, ma sœur. Ça vient de lui.",
+    "content": "Aline, ma sœur.\nÇa vient de lui.",
     "end": 59,
     "index": 19,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=57s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/81_brefLuiCestKheiron/gif/057.gif",
     "hash": "891bc07f72",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwdtu0mAAAOA+hBfG68WYuAwHyGFBiBudtFu7AuXQlpbSAz3+pS0tPUEHbJOYTGKWTQ3RiFfeeeUD+n2QIQ4nmqzqhm2oniEBXfEmum8KS6edmjCQKD+c+fxJJNddhbdVAfL1ka3zhi0mFrZx6qlxdm3UHqPqj3nld1oSW9nGeLoLS08+PAkTzxxDpq1/8asP7rtvbiVki3s79zcqPyq5rVic9wtf5YInk3uQ2yxkfLVrTRaQ64HvUu6nWPwlVz71CgGW39HHf9iMg2Qj7Pif+GZLlZ7oPLjdKMt7yU8gcFVjaNoaNJcXRzGaITC0KQG3/jq4fLvvHT40D3n8rFbMc346X67WUw0CIueka2v1UZr6eHxvhAv2eotPb2ZJMgOypKkYzb149vx9ubwOLM+UIZljgMDGlrqIvCAObgNwF1p3c28dO6vI/nwTDvqdVwcvs0cZWxmZIgtdoQhJ4HS3M2L6Gs+YEm8poqtJvqlYY14d0k200UJguFppXyACRUKN09PLc5hAkS6BU22C7ZI81RUYajxk5eFAYhmu12F7ZL9F4I1zAvnwH1Xbpotyn5q+AAAAAElFTkSuQmCC",

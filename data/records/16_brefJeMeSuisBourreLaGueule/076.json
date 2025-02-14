@@ -8,13 +8,14 @@
     "videoId": "4tdCI0GUy7w"
   },
   "line": {
-    "content": "Je suis pas chez moi.",
+    "content": "— Mais, j'suis pas chez moi.",
     "end": 78,
     "index": 34,
     "start": 76,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=76s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/gif/076.gif",
     "hash": "f81614f2b8",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCEfYBqY2ZgTkuHXFGbbWKYaF6IWEtIKiFKJhxjOydaNiJeOSVfOSRcOCRSMB9QMB8AenF0RTs4TT02VzUrYTw0SS4limBTdEk+aTYtZj8qYz4qZkAra0QvaEEsZD8qY0EvAKieoa2lqKSTkohfVpJoYIVaUZ5zaXNGOZx1bqiKf6GDd4JfTWhELm5MOG5INGxINAC+tbjCur6zoJ5qQzlsRDyRYld4Sz1rRDasiH61mJG7pKK7op99WUdqRC9rRjFwSzcAuq+ysJWSkGhdTigcRh4WWDMlRCQWd1BErIJ1n3lsqouDvKinrpONcks3aEErc005ALeioKiDenVJPEciFkYkGjcaEDYYDoFVSJZrX41jVXpRQaWHfrymo6WEeHFJNXRMOQC9p6i9pKGCXFBJIxhDHxU3FAlOJhlrQTZySj5rQzQ+GgyBXE6ujoS2loqUbFtvSDUAtqChu6anrI+JWTIlNxQLPxsUTikiTCceUy8gXjwtfFlOcEo6hFxNqod8pH1xbEY2AKSOjKuWlZZ1a3ZRPXNVOnteP2BELFAvHHRRRa2Qi72hoKB1a2dBLnpRQn5VRl85LAbypTwWMOe0AAAAAElFTkSuQmCC",

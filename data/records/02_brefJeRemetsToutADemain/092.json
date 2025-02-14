@@ -8,13 +8,14 @@
     "videoId": "JmghDKkeiik"
   },
   "line": {
-    "content": "C'est cool. Je t'embrasse.",
+    "content": "— C'est cool.\nJe t'embrasse.",
     "end": 95,
     "index": 35,
     "start": 92,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=92s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/gif/092.gif",
     "hash": "2a31649874",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCikIiJfHi4nIS+pInGsZvGtqfEvbq/trCVjoegn6PCvbyrpKLIwb/LxMG+tK+4qqQAk4F8lIiJtJyFwaiNxa+Zy7qpzsnGq6Cbm5SRl46QjmpdRzIrUEZCtq+sx7+7u6+qAGVENY19ebOZgb2ihMKoj5WDdW9lYoV7eJiRkJ13bal2aF5LRC4hG2thXrGno5CFggBgPS2Gd3Wrjnivj3Kmh29sTkB2Tj6NenObmJqBYlmSaFtqUktGMzB2a2iUh4F4amcAXzkogXFvmXpqnnddrYx2b1BCdE09o4uArKqth2hgkWRWfl9VZFNOUk5ec2tteWphAGU/L39vbZSAeXhjXGxjYi8yOUU6OZuEdl9icEk+RFo8MZp9c8WllGpUU0JFZYB6iABjPS15aGWrm5tyYFs2LjI2QFM2PlNNTWEtLkscGypBMzC2lIefhIFVUW1ITnktMV8AWjUmd2ZignNubk9EeD0vPTBCJSlJKCtMLC5KISI5LCUus5GDdmp6IilTOj1eNDdeAGM7K2BHPk84LGI2Knk6MD0xOiEkPSUmPSsuSCwuUDQzPo91aHVdXiYqUSwuUDs/ZOuXuqE4D909AAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "c-51sCEAiCg"
   },
   "line": {
-    "content": "Bah, moi aussi. Le charme du quartier.",
+    "content": "Bah, moi aussi.\nLe charme du quartier.",
     "end": 94,
-    "index": 29,
+    "index": 30,
     "start": 89,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=89s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/089.gif",
     "hash": "d56940ff8c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwVtP2lAAAODDYkx82PPCYhxL1IGb5aYwGJee9oAMKFKhtAiDWgrSFUpdW4qsJAMTnKLZXHRZpmTZy173NJP9O78PZD3rLwHgo56T96Vxk7ZqmU4uqu7BcWN3VM/0WdSjY518vJl5s08G8mE3qEQ8PgBk6L8y+EulrBSRnie6uMvkkpNGrs8SOgO1ElKZRDsHKygEOqnXQRvoxbw3A+Giy06E/EmVOiKxYRl9OnjbL+E6g+scqRUCchoTkAsMCkR8waYGnNdGZSbT59LeMQ0VuHnapCZCymShVsQNjlSp1eKWvY2eAquE0KJNwVa+68zvSe3PmSgSfolwfG74xnXCqiYMBh5XkjzaSHuXj6hVMKTxzJJNcz35+619P5f+3R7+MJNXMjYTHTPRJWe3m6nQx1o6G3CWoysG7QQfMuHdJTCNrP3/Jc9n/M/T+t2keKElzruha9WtFbz7MGhWs1n/ejXm6FEvQIvcQgtgLu3cz8X5tHxpcVN1ZyihYSvyVcGmgudd3CcXU9yGvfr8cfmVHbAhLLz46AtP3lroZpAYtaKjQ2iK0YEQPBOcFuOuQZ/CUgfENrv5jHYtPwDGn5CzNAcRlAAAAABJRU5ErkJggg==",

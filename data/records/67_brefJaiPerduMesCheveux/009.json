@@ -8,13 +8,14 @@
     "videoId": "akriQ9yTodk"
   },
   "line": {
-    "content": "Entre les deux, il s'est passé plein de choses.",
+    "content": "Entre les deux, il s'est\npassé plein de choses.",
     "end": 10,
     "index": 3,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=9s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/gif/009.gif",
     "hash": "af30817816",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwcty0lAAAND8gjMudOiDAgGCvKGhwAi20IIgKZVAINzkkgelKakkJeGGd63poFQXbBxX7h3/wW/zHEzl2jJNDVr1ViFXOzm+ymfL6eMzMpEJh1JEIHLkwV8deh2uvZd7USJqr9fYkKVVlh6BFnxfoPPZZjEPM0kxErzE8aQLJ33+0KHH73AfvHgtsNz2ycY0yOiQ1QBzTZXa5+/04tuHeNjyexHhbbnw8IGbJAJ+x9FJKL77/vywmGOmBAyxO+YYpVGD5cI6EZq6nfNIcJZK3kdCpNOdfhOMe3yq3P+521mmgVkDYSIBg2NG3ebgqrqKBcV95xMU/v39s65Wi4TvgkxcpMgvi8U320bmGLNuxInMm7CDJB7WK2bp1Kao1Z3+e7P5WirA8zNQKymg83m5fFwujHsN00VgSjwSeavfEy4r/UrxRzr2q5DZxggrHp4q8mo0fJxZyDBmaHJ3q2BDwAw7tCHwpsgrzfp1k1JOsygaQKk4Au3NDG3nlqVrn1RVU4ew08b4+gepQekCpwJG73V1jpEblPSRGss9GxnPi6mNDK0vi10W0HQ5l/sP6aGS6csPUBsAAAAASUVORK5CYII=",

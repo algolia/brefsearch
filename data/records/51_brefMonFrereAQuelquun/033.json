@@ -8,13 +8,14 @@
     "videoId": "m5Ezt99WggY"
   },
   "line": {
-    "content": "Elle dit pardon de la façon la plus énervante du monde.",
+    "content": "Elle dit pardon de la façon\nla plus énervante du monde.",
     "end": 34,
     "index": 15,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=33s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/gif/033.gif",
     "hash": "a2aef8ef68",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjYGXnkBYSMJSVkhIWlhISKg5w7c+OmVFZMK22orepLyEqIyowysUrUVXLyt3UqDUtikFCWFhZXERaVISfl1+MX6DEw2p2YcL8+tIlHU0T26ZU5TekxOd6uYc5WbsmeTp1ZcUxKIqLG8hJ8/DwOajJRxqq1XhbTUgPW9hYvrynfWrf0pS0ZhfXUDNLT0tTxxx/1ymFyQzyoiK2muoBFkaZdobZVtptAXYTUkNmVRVWxEaUhodH+IYLiSlrqGhbGZiXhHrPKU9n0FKQdzLSrwhwync0NpWV1JeTdDXWK/Bz8dDTDNCWz7ZStdRU19QyM1DTao4PAWnQVlQS4BcRFxbVkpXi4+Xj4OJmYWUPtTUPNtWzlJPMttIo9TQXEZEXExCvCveeXZbGICQoKsAnzMfLz8fHz8UNAqxs7A56Wsm2xgGaciE6Cp2hNgZKinycAqWBrpNyYxkE+ET4eAR4efh4eHhFBfgFebmZ2dhVpSQijDWj9ZU1RATTrTRzXU1FeIVSXSwborwY+HkFebn5ubm52Tk4xAT4hfl4uLm4fIy1Iy0MbBWkpAUEnBQl630svPQ1gkz18r3sALwVZHouOaqYAAAAAElFTkSuQmCC",

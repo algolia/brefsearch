@@ -8,13 +8,14 @@
     "videoId": "m5Ezt99WggY"
   },
   "line": {
-    "content": "Lui, c'est mon frère. Il a toujours été là pour moi.",
+    "content": "Lui, c'est mon frère.\nIl a toujours été là pour moi.",
     "end": 6,
     "index": 1,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=4s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/51_brefMonFrereAQuelquun/gif/004.gif",
     "hash": "c505f851fa",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwVlvmnAAAHCeumTL7MqpMqAcwh8qHoAKUqwiCqVWPFOrxNQFd8Z1TdN0SZO6ZdnTku1p1/O+QD/ifj/IMywJJpg9LDC0udcsMDSD43upZ6bErU7cqe8mo+hqGjUOwM7OIx5DobZuynCahbHosL59Ef95u/h3+ybQC88x9KIfXM5Gf+/vviRLK8fmyWwgi1B05JVQkkrBFpCXXfduEnxfn2/jQZnnllH4btz/dXv90nddRTxRQZNjoEUYaShF7yJFlruZTX5vVg+fLh8+f7iPh7PjdjLsf32djE29xFAdWbRZGloOJspTnHiSgh+nVoF31XN/vpr9WJ/PfffsuPM+nm/GA4OleQKv8/unRQVany06ed23DltGLbLMhVNN2vXNqbcIuw3THHf9qiSSCMwSuCPyUTkPbW8+1oFaFRUpywy0wtSuOCL77WJ8PRzYqj7tRU6lRqJILpM5ksWeCqCOVgV4NrMLUzBucXxsaUOtOK3U5pXGyLDzXE4VQBkUm6oSllQxTUKOkHMEgcPSSoYyGL4FFFtQWlIhVA1AsSiC0CS3T4EiyzEYgcPp/yr5ZEFhmmEsAAAAAElFTkSuQmCC",

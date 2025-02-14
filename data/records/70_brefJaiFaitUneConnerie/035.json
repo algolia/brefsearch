@@ -8,13 +8,14 @@
     "videoId": "hpCO1AIWo60"
   },
   "line": {
-    "content": "En fait, je suis restée devant la porte pendant 5 minutes sans oser l'ouvrir.",
+    "content": "En fait, je suis restée devant la porte\npendant 5 minutes sans oser l'ouvrir.",
     "end": 38,
     "index": 19,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=35s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/70_brefJaiFaitUneConnerie/gif/035.gif",
     "hash": "62449b7711",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ1JREFUeJwtzWt3kmAAAGA+dc5ahIhyeXGATsW8DHAyQQZzoLR0qyPg4OWmTKmdynP6BX2oP96Xnj/wIF+P34q8yKIk8nz/8XEmXdmGAX0/D6MDDA9pFm+je10HBIO9rVbRGlIWLy95kcMk2YaO5TAYNZXVIsv3EL7m6c9j+ef335Xjnr9BmSpF4SSyT5JdBNMQ5oEP5zpVAYvR4HvwFHveAYansvz149SgeBKnpa7IEjRSJHH2vI02nju7dYajT3e2q2qT5uUXd7ELNqfyOGh/oHDAkhc9oSXyLSQL/Hjz+WnpdDmxjrH6UBk0+wRKG4qyCzamqglASJ+hKHRG7XaL5RDv48J/cG1N4yiexgFHClxdIFBq0h/M1evae7KI00OS6WPVmlw36gBZz63VnXk/nYp8p44xAt3ssp0GcTFsXTYZTulfve73/nptG+bC0Nk6QBztxtFuNEkCBCAr/weO5BicnMmKretpELimuTSt5e2MIWjEkEeGLMm9HiCYd2cEelbDzmtUheQp1hzL4/7QWz1okmypqqNNGYL+BzcbXm87APtcAAAAAElFTkSuQmCC",

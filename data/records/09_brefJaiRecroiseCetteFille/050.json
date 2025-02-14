@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "name": "J'ai recroisé cette fille.",
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg"
+  },
+  "line": {
+    "content": "S'allonger dans l'herbe. Lui présenter ma famille.",
+    "end": 51,
+    "index": 19,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=50s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/050.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/050.png"
+  }
+}

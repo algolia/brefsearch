@@ -8,13 +8,14 @@
     "videoId": "7Ry1eljBOvM"
   },
   "line": {
-    "content": "À partir du jour où mon père a quitté ma mère, il a tout fait pour être jeune.",
+    "content": "À partir du jour où mon père a quitté\nma mère, il a tout fait pour être jeune.",
     "end": 4,
     "index": 1,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=1s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/59_brefMonPereVeutEtreJeune/gif/001.gif",
     "hash": "f490d35121",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwdtu0mAAAODeTOhh4JwUN1oOhUJLepD+FGz7Fwr0BOU0x8oGrkx0xGh0ixoTl+xCE6MXJl4ZfQvjjb6EiQ/hi/h9yABwSwt8PJ98uVw8GxkzTbAFRqZJbGuLz6QPG/y4VuiIpbHCune5sKchT7zG9ZH56/vVv7+/328Ou1y2V831ypTNM1U6fWwIM1DY2EpkcL7CL12IwDL94dT+8fniz89v85YCaNLhcxee9iqAJp8/MeWJlB2K9ECgD4xa5JtIOoG3KtnLkXHm3vOEQrdMvwng1/X0bQCHUnHSFBZtcGKpS1uPPLjyTQSP3UhtY3U2V9gj+f3UUGTWUH7eAa/dpsVSoJQNGuKR1XjgGJEPV/02sreTTOJxFI0RGJrEUCZ1cyyXDkTGq1AkgXKZO5bMDXUl7GqnfivqWwi1u5NK4EQ8hsbitxPE1Gyu2yCssV5lHzC0zhU7Mj/QajOruXDgqm8hqW2cJLBdAtP5UqDK754+vJ77jzRhxGVWbuu+BnoS56jSxFTnPT3sakj2VrJZzjtA7CuCI3EvjqefzsOXrrqB4tVZ+HjiG2y+XqT0anEM605d/A/5rWNzINvQYAAAAABJRU5ErkJggg==",

@@ -8,13 +8,14 @@
     "videoId": "4tdCI0GUy7w"
   },
   "line": {
-    "content": "Et ça ? Ça, c'est à moi.",
+    "content": "Et ça ?\n— Ça, c'est à moi.",
     "end": 76,
     "index": 33,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=71s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/gif/071.gif",
     "hash": "728ac40b68",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBbOV9uW4leR2VqUnByWXl2XH1nTFlcLzeTSqF8SLdONF0kHBYpFyp3I6qlCaiiCnoAeVqBkYrAWz9ZcFVzjXmljHagUTQzbDYycjZgRiFSJhsiGA0OHBMOZSiTpx3JqxqCAIZojouCoksgJndieWpkbWNWYk8rJmc1KkklMkwhdhcMFhAHChgSCU8dapEt13c9VwCEZI5xaIclDRA/MUFbSFN7XWqEV06ibV2GV1pYK4oNBgsMBQcVDAwkFRxxL5xbK0wAXTREHw4NBQAAGREZcllyimd/iltQeU9GglVLZC2UORZ1DwkGCwQIFg0MbCqdXSSLAF43QlI9WgcBAhoOFHppkJaGt4VSSH1OQoBSRIVC0UwkmhQNBRAJCwIABFwZrEspYwBjPltpVIQTCg8MAwQVDBJjVHJjPkBbLiBjNSxaNWgkGzodFBEgFhUZChBQLVAtIS0ATCY4SjZKEgsOCQIECAEEGBAZSC0qXDcuWDIsRi1QOCRFEgsMGRAPIhIbSTFGIxkgADkdKTQlLhMLDgcBBAcDBgsGDhIKDhYNDSYSD1gnvVcVyA0HCxIKCRAHEicWJyYXIVYwbdqO+u3xAAAAAElFTkSuQmCC",

@@ -10,11 +10,12 @@
   "line": {
     "content": "Je crois que ça fait son effet.",
     "end": 37,
-    "index": 13,
+    "index": 14,
     "start": 36,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=36s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/gif/036.gif",
     "hash": "ac5f8a7397",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBHR01dX2pzeYmBiZyOmbBaWFw6LSVkSD5kVExiWVVVS0RfWFVoZGNKRUVMS1JcXGgAUE9UZGZwfoaXmKK7kp+3ZlZTaVFIaUxAYUpBbWdpXVNQcmxrgH6EWVVZVVJXZmVxAFZWXWlqdYCHmXR8kE5SXIZuZ4lpXmlHPFJBOUtGQkI6M0U8N0tEPklCPlpVV21rdgBYWGBnaHNRVF4iIiMVEhFdRz8/KiFJNCxranF8gY5mZWpbV1hdWFhiX2JbWFtwb3gAV1ZfU1JbLy80IyMkEhASGhMRCgQDLCotcmltjpi1kJy4iZGngoeZcnN/XltfeXiEAFdWXD4+RCMiJSIhIhIPEBEPEQMCBjEmI25QQYOFloGKn4GJmoaNoXuAkVxbX19DPQBCPjwzMzkkIyUkJCYTExUrKCwRDQ1ELiRyaW1xdIEdFxU6NzlRTlJZWF9JQ0FDODQALCsvKSktISAiJSEiLiMfMSMeQisgWEdDe4WYXF5oGAoEGhIOGAkDIhQONi0qTk5VACYmLR0cHhgYGh4XFV5FOVI4LEUsISskIiwuMi4sLSMbGCEbGTQxLCcgHS8fGHhhWJi4gUVMQSgpAAAAAElFTkSuQmCC",

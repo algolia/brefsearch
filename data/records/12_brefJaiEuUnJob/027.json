@@ -8,13 +8,14 @@
     "videoId": "DUDE5JWW-q8"
   },
   "line": {
-    "content": "J'ai fait semblant de taper des trucs compliqués.",
+    "content": "J'ai fait semblant de taper\ndes trucs compliqués.",
     "end": 28,
     "index": 12,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=27s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/027.gif",
     "hash": "65b678ed4c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYWVg0NjoxOEZ1eYuQiI98dHpXTk56cXGto6S5sLK3rK/Fur7Vys6cj5VhXWhSUlwAHiElCgsMICQrbG+BkYeLaltbZElGRTY1f3t9t6emqIuEf3N2x7/DrqWveXuRZ2l7AB8gJBAREhgbIGBhbqSgpIF+hnZPSW1UVXSIoImCiJZzbI12dr+usJaMj1ZYYklKTgAgISQREhIPEBFRVWORnrFKVWdWOzhaVmNSbItkY3GLZl6gi42urLekk5dqRkpkPUEAHyEkExQTCwoIOkFNfYugYGp9RD9NNzJARlhucH+VT0BBeIGRh6PBqLXIoY2hmHmNACEhIBgXFAwLCCQoMHh9i2FlbyIJET8vPWZ8lH6UrUhOYEhFVmZ9mJyxxY13hW45RQAYEhAYEhEQDQkVFxtwdHyLjpNNOT9ydIhedZBkeZFhan87Lj5fdY+svtNvdoMrIisAEQ0OFxASIxYPDw4PVUxMl4mIsKu3noyRhXJ4X2BtS0RNSjU9Q0pXdnqEXmRxEx4nAB4cGSkkJB4YFRYQDj84NXpsaK6ptZWAgpBnYp53boBeV4tqY0s6NQ8OEDExLxgdIQX9obhr62LUAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "QJEyHT7IU5M"
   },
   "line": {
-    "content": "Un bouton sur la paupière.",
+    "content": "— Un bouton sur la paupière?",
     "end": 36,
     "index": 17,
     "start": 34,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=34s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/gif/034.gif",
     "hash": "6e2435368c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA3LCd5a2BxYVl2Z2F9a2V7Z2BzW1OUhn55kHqhoZx2a2dWTEd/aWJ/YlhPPjZmYFYAPjAqTkVCY19eU0xITz83nHNmqHhnjWdaaW9xlpWVODMuLSwnMS4oODIsNS8qJSQgAFJFQI2KjKOnrlJNSy0gGIFaTHhWSWhJPWBaWIyFhhgbFxQYFR4gHRkeGxofHCQmIQBuaWiZnaXCx9ObjI1nQjWFX1FwTkJ5V01fYWV3dXctKiUgHhoPEhALDw8KDQ0ZGRYAVlRSIyssKDAwOTo3Z0o/XEI3a0o9alFKmZujs7G4aFlUXkM5NSokBwsLCQwMDBEPAIB4coJ8d5aPirCRgnFPQzQpIkMxKG1aU5qVmKimqn9wbFtCOWpQRzUtJxwYEjYsJwCBfXyYlZesnZeziXp4VUhKNStEODFnYV9jXFqFgoOysLJMQzxPOjGCYlZlTkhHREgAj4qKoZeWenJwfm9rf2NaYkg+TkZBXlpXXllWYl5cnp6ijYyPXlZRdVlPVVFlLTxiAI+Df3NpZm5mY2NdW1tVUlhQS1NOS1lUUVtWU1BLR399fqeho66mqFdXWDdDWztHfb6vmOC4xKBzAAAAAElFTkSuQmCC",

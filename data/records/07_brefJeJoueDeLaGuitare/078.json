@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "name": "Je joue de la guitare.",
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M"
+  },
+  "line": {
+    "content": "Et puis...\n— Mon cœur est\nsi gris quand il pleut.",
+    "end": 85,
+    "index": 29,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=78s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/gif/078.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/07_brefJeJoueDeLaGuitare/078.png"
+  }
+}

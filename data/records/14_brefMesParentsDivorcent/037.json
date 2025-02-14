@@ -8,13 +8,14 @@
     "videoId": "cDWcCpqFh_M"
   },
   "line": {
-    "content": "Tout le monde s'en fout que tes parents divorcent quand tu as 30 ans.",
+    "content": "Tout le monde s'en fout que tes parents\ndivorcent quand tu as 30 ans.",
     "end": 38,
     "index": 18,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=37s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/gif/037.gif",
     "hash": "8b2dcf66fe",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCOhpZdVm5OTXQ7OltVQ0hfV3paVoiCgKrHxN/Ev9jEwNfFwNWAeIBlY4l6c4iblKkAoJywbGJ0TExyMi9MkWhcdWeIXluPhIGuxsPdjoiXqqW6z8vliYGJbW+biISgpp+zAK6rwWhfbzIxRiMfK2paZD86TVBLdYaFtbi0zYx/iJyUp8vJ5JGJlXF2qI+Nsa2nvAC1sstDQVQlIjE6LjU9OEUrJi0+OlqFhrqinrN6cHmAbHq8psCYk6F3eqmQjbGuqL0Asq/GMjNDJyMvNioyTUtiUUhSNzVUeHqulY+lYFtrTEVJiFtrhXF2fHF6iX+LpZ+0AI6IlkdBTRIUIhgVHiklMSokLEA/aWNlmFZPVi4qL1FLU41zjIJzgoZ9jJOMnp2WrwBlXmU+PEgTFSUiHylDOj85MDw/PmJFRWt8d3hxbWpsaWeNjqGNjausqci1scmfmbIAbWVqMTA6FBUiIyAoHxsiODE7RUJQP0Fle3V6f3pmVU4xeneJhoi2tLDHxcHNsay/AFlSUignLxESHRoXHRIRGCMgJDczNUBCYFpPVEtNZl5db2tnfHVxiaijtbSvuaWhsWMavGSPzXHyAAAAAElFTkSuQmCC",

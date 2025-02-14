@@ -8,13 +8,14 @@
     "videoId": "9u9X-FzVWZ0"
   },
   "line": {
-    "content": "Je suis passé devant le banc où je l'avais rencontré pour la première fois.",
+    "content": "Je suis passé devant le banc où je\nl'avais rencontré pour la première fois.",
     "end": 29,
     "index": 11,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=27s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/75_brefJaiToutCasse/gif/027.gif",
     "hash": "51fc4b9b9a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXVJREFUeJwFwYlumzAAAFA0ZYl2AQFzGIxvsLlsLzRrQFuSpWmqbpNWaZW2//+SveddRn41YmmwyEANk0XTDpeD5Oddb2jpajHVRMIMJYlj6MlJ79HKl/v+ZmWLMg7T4yCcIIPkcyt2kiymXTqpECR57nh17pl3bPHzpJ5cbUjB8uygmRWkF2xuxUGzm6vnBt9JrBB0rLoa4V0H+mcZf++1pSXNs1nzveJOyZNVSyd2Ag9lNqJM5qmE6aPh3g9L/30bXuduxLmi9Odp2TdsqOUyqoPmVjUoK8GnsIiipshevmjvZtjf4+fXxYwohTEwgk011YzeKTHV1NUcw/LNyk9CIIv8ahuvK9OLbX7tO5qALNhKmPaktLQcSaEQvBclS9PNu2i9CWEEzgP3iigkSTwJZHDxtRWXUZ4H+WCbB6tOY/PdqFNfB3682gSOVUdNPBxv8zBAINIo5zlscaURivwEbFOwTbY+CD5Gb9fBau1/eB9WIP4PtS8+Hi+hwAIAAAAASUVORK5CYII=",

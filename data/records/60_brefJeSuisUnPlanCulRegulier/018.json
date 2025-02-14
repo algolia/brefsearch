@@ -8,13 +8,14 @@
     "videoId": "5rKgC34qhFI"
   },
   "line": {
-    "content": "En fait, il y a que chez lui que j'arrive à dormir.",
+    "content": "En fait, il y a que chez lui\nque j'arrive à dormir.",
     "end": 20,
     "index": 6,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=18s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/gif/018.gif",
     "hash": "72b64a5962",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBqZmlwbnBeVVNbSkN/fIWOjJqbnLCXmalpZ2CIi5KSlJqGhomPkphrZ2hYVFNHREMAdXN3gYCDalhRUzMmhoKMlJSkn6G3l5urhISFk5ageXV2gn+BZ2ZpWlNNVE1IUEtKAH59gnV2gEZEUDovMYWEkpeXp5+iupqdrWZjXF9iZHNzdYiLjpOWnFpWUz8wKklDRAB3eYgsPXAqMFEiKkgxPF6Qkqajp7+epLZ3fYZ4f4hycWxkZWh4fI5tamtHQj9EPjgAXWJ+LTFTPi8tICpLHitRgoegqa7HmqCymJ+tk5ilZl1egYKGb3F0bW5yWlhVVVNOAGJZXjgmIRcgPRotXiovS4aBjqesx5uhtJGZppOcqpKaqpSZmJSYlpSaqHp7fmxhXQBnYWZCP0YcL2YvNFNWR0B3Zlp+eXqHi5WYnaeSk5eWl5mam56fo6aTj4xlTj5LLx4AYF9oRUVQITBbZmNqpJyRpKanoqSln6CigWdWgFxDg2NLiWtUjnpqdFdDYj8qdllIAG1teG5wd4yPk6irraaqraqtsaajn5qHdZBsUJZyWJNxV49rUXZROH5gTmNMQ1g9L9xjwMWi72GyAAAAAElFTkSuQmCC",

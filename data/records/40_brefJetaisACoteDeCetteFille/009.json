@@ -8,13 +8,14 @@
     "videoId": "DOMouPqhIus"
   },
   "line": {
-    "content": "Je lui ai dit que je m'appelais Vincent Dubois et que j'avais\ndeux poissons clowns. C'était pas vrai et c'était pas vrai.",
+    "content": "Je lui ai dit que je m'appelais\nVincent Dubois et que j'avais\ndeux poissons clowns.\nC'était pas vrai et c'était pas vrai.",
     "end": 12,
     "index": 5,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=9s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/gif/009.gif",
     "hash": "7bfed1ad20",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBWSzlvWDB9aT99bT+Ldjx4aEN3ZkR3a0aHfE59dU2wkWashGN7W0lzZVxqXURsWEAAQjQsUkE3X09CmZOHqqiepKKas6+jpaCQmpmHo45/xpVs262FfWBQgHpysKmZlJGIAEQ1K1RCNk89L3luZLa7vcHBvry6rqOXapqPV6KHc5NlTptxXHpZSbWmk7a6t6GprAA3KSI8LCI/LiNVQTObkXqypnaik1yQgU2JekmVc1qtf2XCkXCieWSei2KcnIq2q5gAJhkXNCMbMSAZNyQcmIpzrqODpZuBqqGKta2Kg2pScEY8jWNSmotyr66isayotbSyACMYFjAgGy0eGyobFaqYe7esgbmqfJKMa7rFdoh5T1M0K21RSHJrY8TOj+HjzM/GuwAaERAsHhsqHRsmFhGeilW5rnW0oalPQWFGTihDOztQPkdgVmdAPVd6gEuBh1V9YG0AFAwLJBgVIBUULRsWloZnq6SMhWmpQjFeDAsNMzBDTU1qWlt4QT9SGRYZGBYaWkJ9AA8JCCAVEhwRDysbF5WIYaaVbWJFgjsrUBUUE0E/UVlYc19eej88TRMQExcUG000aQwVrYg4Pe5sAAAAAElFTkSuQmCC",

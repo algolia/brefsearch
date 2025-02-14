@@ -8,13 +8,14 @@
     "videoId": "4tdCI0GUy7w"
   },
   "line": {
-    "content": "J'ai fait du café.",
+    "content": "— J'ai fait du café.",
     "end": 80,
     "index": 35,
     "start": 78,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=78s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/16_brefJeMeSuisBourreLaGueule/gif/078.gif",
     "hash": "f79f8257b6",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA6GBAnFAtLKBxtPS9+UEaMZVt8XlKUgW+xnomynoqwnYmXiX2cinqZhnSIdWOCb1wASCMYWjAibTsqbDstbUE1eE5DgFlNo456taGMpJF/cWZdQkFDcWhhpJGBnYt6moh2AF0xI3ZCM1wxJF01KG1CNWpAM4RjU4x9b3BkWmdfWyYkIxoYFTMyM4J2a62aipiGdgBwPSxyQTJHJhs4HRNYMiZdOzB0aWU9OjctLC4vLzE9PT4gHxwSEQ4sKCVDPDgpJSEAaDgockAxZDgrazwuUzInd2dSTkpEEA8OLSwuNzY4NzY3OTc2FhMQCQcEBQUDCggGAE8qHlwzJk4qHWg7L3NSP76shLytiVpQPTIxLkxOUjAxMzc2NiUgHTY5PDcuKCgbEwAmEgs/HhQyEwxVNy6DYE6TdF+0loHWv66zmpGCZ2JeV1gpKSkoJSMtLi8kHxscFhEAMh4VQSgdXkExh2ZTdFRDWjorSiwhZkM6g11TaEE4iGFWNC0mCwwLEA8LFBIQIyEfAGdLPGFJL2hOMmNIKnZePY97W6KRcJF+XW5UOmFCLm5KOq6cfEhAMiwoJjQzMi0rKzbqgSDagT3cAAAAAElFTkSuQmCC",

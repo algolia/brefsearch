@@ -8,13 +8,14 @@
     "videoId": "-KG96E4nu-s"
   },
   "line": {
-    "content": "Je m'étais déguisé en Charlie Chaplin. J'avais perdu mon chapeau.",
+    "content": "Je m'étais déguisé en Charlie Chaplin.\nJ'avais perdu mon chapeau.",
     "end": 8,
     "index": 5,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=6s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/50_brefJaiFeteLeNouvelAn/gif/006.gif",
     "hash": "8a1f1dfcf6",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBNYoJic41idZFSZol9hZiVoK6Zo7OcpracpbWeqLicprdsfZtVao5baYNYaIRQZYYAtbi3mpSMoY2GlY2Dt7e0wsTHwcLFxMbJvsHFzc/T3N3g29vd1tfYzc7QwsTGsbS1ALy/waedlJp1cIlzbcLBvN7f4tjZ29jZ3Nvd3+Hi5OHi5eDh5N3e4dbX2s3N0Ly+wQDFxsiCe3ZrVVOwj4jKv7rS1dnDxcjGycvIyczNz9Ha3N/c3eHf4OPe3+LT1NevsbMAvb7BDQ8RAAIDLSUloJOR3N/gy8rK0NDR0tPU2NjZ19ja19jZ2tvd3+Dhz9HTeWxpALy+wDxBRTc9QTI2Op2ZmdPQwsbDuMvQ1s3Q1MzQ09PV193e3tXV0s3LwsrKw4iFhADBw8WorLCVl5uys7TW09DRy7nGwK/Hxr/LyL7IxsDRzcLWz8PQyLfGwKu+u7CqqakAtLi6lJibjo2OoqGgwcHBwcG/0dLP19bS2NfU19bU1NPR0M7JyMTBxcTBtre2bmtqAKmsr2ltbnhybXx4dpiam25oZrS4vcDFysTHycfKzcvN0MbJzMDDxrm8v7O3uqOoq6GtKr1OXID+AAAAAElFTkSuQmCC",

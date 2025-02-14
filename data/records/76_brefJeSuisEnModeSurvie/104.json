@@ -8,13 +8,14 @@
     "videoId": "ZQHDDjV-KgQ"
   },
   "line": {
-    "content": "J'enlève l'étiquette orange pour pas me faire griller.",
+    "content": "J'enlève l'étiquette orange\npour pas me faire griller.",
     "end": 105,
     "index": 38,
     "start": 104,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=104s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/76_brefJeSuisEnModeSurvie/gif/104.gif",
     "hash": "24b5019a7a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwU1P02AAAOD+DC8e/AEejBejBkED0YMSNVEOHjh4Aj0QSUj0gJPpdIVuIXSN/Vq7tmvX8r79etuua7uWrWMbToYzZjEc/Cs+D7a0+GRxeW3p/ot32yWlAQIU+jbygOXqwFQMQzEkpl4pEdUK92Fnb+8jgb3ZKhU/H/UGF+PTH70ki1AQOUHstkOnHbohgp4mqrWDQ6JMfdol8DKLcc0sz0fT81+D/lk/yU/ivBudmCpo1eVjRVd4RWIVgWLwYrVUJElSww5pD1rx7PffyeTPIJ+4ANmGbWsAyLqpQQSRCz1dUqulCv6NbkgBtr7+Ht/nf07ncTz0nDiwwzaK0qjf7WRxO3GPXVXQoGrQVbJywKp6gt26ufBo5floPBsOL0bD80HvLIn6HS/WBaVVlxVGlFnZUKFIMV929/GvNHbv9vLVK9d0w5/P/2XpCGpWkxWNRhM2dRc4vuWbKuBIXqRYulDgd7awhTsPN1YfszgxnV2myalvhyGKQtTxIbJlDbCcTn1vsYLMMLXtjfKrZ9iDuytHr9ferj6Nu+M0HYdB5mimKUgmx1mCCAVerwsyK/A1urC5+fLG9f+ZWA5XEOIazAAAAABJRU5ErkJggg==",

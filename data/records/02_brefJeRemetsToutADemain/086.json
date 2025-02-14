@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 2,
+    "name": "Je remets tout à demain.",
+    "slug": "brefJeRemetsToutADemain",
+    "videoId": "JmghDKkeiik"
+  },
+  "line": {
+    "content": "— Mais carrément, on se\nvoit demain soir, Sophie.",
+    "end": 88,
+    "index": 32,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=86s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/gif/086.gif",
+    "url": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/086.png"
+  }
+}

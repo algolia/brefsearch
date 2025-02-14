@@ -8,13 +8,14 @@
     "videoId": "8matlnmBY98"
   },
   "line": {
-    "content": "J'ai appelé Ben pour savoir quel film on allait voir.",
+    "content": "J'ai appelé Ben pour savoir\nquel film on allait voir.",
     "end": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=3s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/gif/003.gif",
     "hash": "4fba7e0d6a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwVtP2lAAAOCzMJfZrlRO7+e09CqXDKxOoN5WJqidgMLsQCTcHGvYhc2ZMJkmS3hYYpC4xIf9BX/nvg8cZFP1gvOxuuvEzWbu5bTh3QfNf186Q8/9cVa+GZx8Ku1kKXaf5l+RkH1CgHrB+do4GPerR449Kub67sZdvz6ueqNycXbRvbvs3bRK2yzyeXlrSZCf0cDNrl8H7+ej9jcvP6m4l5XCrHMy/9C8/9y+/d57mAR/An8PqV2s51lskgzYzjqDd97D8Gza8n/XvHn7+LZde/w5DA73bHvttOyNW+WSpg9kY5eX42EeWFZCl9W/5/71aa37euN8M9Nz1ifH+9m0zekJZKXSKfuNogdR0+XkZJgHL1gsCHjWqVz5RxlNK9srV6ViddOR1LiRtBUzidR4UrW2VC0tKjEogecks0jAi0p+2mmsmctvV1eKqzZCKs0gAemibGAzuRxLWZKicRhHBABCFEXCX/5hI7+zQDAaUrGohaEEeYXDBh+1RCMRVWMai/ASzxIREAqRDBRKuQwWFfA0TFAcxyksH2WwHuEVCkoUlCBEIs3BRZpaoP4D2wpc4itkN/wAAAAASUVORK5CYII=",

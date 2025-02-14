@@ -8,13 +8,14 @@
     "videoId": "tjRXxJaupoc"
   },
   "line": {
-    "content": "Quand une fille me dit: J'ai 30 ans passé. Moi, j'entends.",
+    "content": "Quand une fille me dit: J'ai 30 ans passé.\nMoi, j'entends.",
     "end": 106,
     "index": 43,
     "start": 103,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=103s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/53_brefIlYADesGensQuiMenervent/gif/103.gif",
     "hash": "dc65666d30",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCJiI2Oj5lnY2JycW59f4VucHeLjJJwbGpMTkVcXFdcXFQ+QTgwMSoqLSUsLSUuKyQAk5GXmJmkYF5eNDIrMi8sLSkmg4SES1BMOjo9RTs8OjQ0Nzk0NjczKSklJyUhIyAdAKOfpKOkr2RjZTEsKjktMGNEQ3lxc1ReXmlZWj0sLxgVHDpBSEFEQSstJysrKC4rKwCioKqpqrhTVWAXGSdBLzF2TEY6KS4lLDxlXF5uS0lRPUFTZ4Zfb4osMj8fIywzNTsAaHeMlZy0V1hnGhgnXkxPPC0xMS0xHR4lPkJBgntXUlRbUWWHUWSBMz9TCw0YPj4sAEFMWJKNjFBOWCgkMmBLTCUhK1lcYnJ4WiAjKoGHWlpteEddg0VZdi46TCMlMVVWQQBcUVJcUUshIi8LDRoFBxAaGiQiJzVxc3FTU1VvcWY/TVs9Vns6TmtETF19gJRoa3cAb2VlbGVmTURGPTMzOTEzLSgtKCkxQkFMhWRmhGloUEZPVFNjMD1SIiYzLS88Pj5HAHFnaHtydXZoZnRhWXViWXBdVnhqaHNnZ3dlZHBcWW1SSmxMQ1FFSgQGDgAAABMUHGKihOq77+HaAAAAAElFTkSuQmCC",

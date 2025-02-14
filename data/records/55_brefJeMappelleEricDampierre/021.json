@@ -8,13 +8,14 @@
     "videoId": "tkOuQiO-Vzg"
   },
   "line": {
-    "content": "Vous avez réfléchi à la proposition d'hier ?",
+    "content": "Vous avez réfléchi\nà la proposition d'hier ?",
     "end": 23,
     "index": 13,
     "start": 21,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=21s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/gif/021.gif",
     "hash": "ded0001fdb",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZpJREFUeJwlzFtvmlAAAGB+7pb0YcmSbtqmiTFV09l5oy1OFBrBqoc7nANWkEsRoaBFS4Fsf2ZZlnzPH/b1c+X87LL66Xv96rbTowiKJ+dwstQnS51cIIJVcJq/GbIXTfxb7eeXahO7PLu4rvf6jEQwCgM9YMXcJubthN/suU0CzNeZEQzbZL9PtSeg1iGx6x8EMeGeoDczAtE+SJuD7B3VbSY7KWfGkndUvJMIt6xsk8Ian0pYt0dNuWfRTkQv1YJMdlMtLGBYaNsMWDHvHmBY6FHJmQkt25RoYqxiS1a8MALBTfXXUgsyJchgVCD/XXTeeOegBR/If4fbjPdPU9XBaMkCZrRcR5J/QnG52v/5z0h+o6jQdh//FjMRZsZsLEyAgd2zyqNoPSFfdFMU5npUorBAYanvcrTLYZjDXa66xzlvjjrUHcVjzQF9Q7D3M5VRnbm+BWYsOan8clKcN9HaC04KrJiBL2NhfTeHrYcpVmkMqo1B7fZXC3/sURw+lUlgjMFqBFajpTFcoC7Ntx6Yq/aw0hic17t/AaJNKG/e/TYBAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "2u0BYLUyyBI"
   },
   "line": {
-    "content": "Ils ont pas dormi, moi non plus. Et le lendemain...",
+    "content": "Ils ont pas dormi, moi non plus.\nEt le lendemain...",
     "end": 89,
     "index": 37,
     "start": 85,
     "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=85s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/23_brefMonColocAFaitLamour/gif/085.gif",
     "hash": "09fafc168e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWxJREFUeJwVzllu2kAAAFB/x4sSYBZ7PPvmAa9gCBBCQhQ3TdSqUqV+9gC9/wUqH+BJL8rSEiwNXBkMHSUbwTtBayk6rfdCDFV4qYdf2pxZ2ZCiSWIQpQlGwBeoKnBQonfu6Oze2j0ntRLb8fL3afrn/VnKHecjzocoS3MMK0o2nLZKbL07hOqk9U6xtq1v4+nPePy9rt+MPSt9gWg9gwIHThvJey1GwbrFQoKVXjxwCDzCTdN/1t13V70Z/45wG2VZUeDAykaJwerRmkew0nFcInIo+NP9ohXmFjbvLkwmfJX8PIMcB0Y7KQZjDt6fnD0kGV+RXrtniHttX6r6y/jJrn9KO80lBKuStJz1Uu6MOUq5TRKCYNDqWeqrsVfjJ+W+af9hwo8ZAOAwmg1jW853tGzSBKcJze4DwHsuTkK/cnVj6lVXn1GW0uXSAOAxXud5TUiPURXfwfguT1L1sGwpe2TywuSVyatyH/8BzuE9XXFwcLIAAAAASUVORK5CYII=",

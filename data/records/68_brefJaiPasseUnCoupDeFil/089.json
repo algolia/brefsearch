@@ -8,13 +8,14 @@
     "videoId": "8matlnmBY98"
   },
   "line": {
-    "content": "Rappelle-moi, Je n'arrive pas à te joindre.",
+    "content": "Rappelle-moi,\nJe n'arrive pas à te joindre.",
     "end": 91,
     "index": 51,
     "start": 89,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=89s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/68_brefJaiPasseUnCoupDeFil/gif/089.gif",
     "hash": "43d9cabf08",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwe9z2WAAAOD3S107RKMJ8iZZQ1Kp0FZSglG/1lpU0CCIKqr6Eztzm9a2m65f1tru9ifs2+72X+55wLWWGRtKKxWal5KLRuFnv/5BzYa2vH01WXuXng5aw3a18jbxvlO9a5WN4zSYX2hfLrS7fPzmMPbYKE7Lyo2SOc/Gvw20ai49OW++XBlVKfD1tvs0vRy3T8Dz5Oz3oDnLp/sHoe919aFWfOnVP+qF67ZeOcqMGuWnpjpM7i9uu8vP48XoDMxOy8uuPsxl7vOpH23tz+Ry2dODvCAHxRMlN2vV1LB8FNwThd2QmEhEDoASCT13dI6gMr7tTkSalXLamyh0vE4RMC+JAV6kaD9N+yl6h4D+DYwD8d3Av/tRIRaDOGxG9o1EVBICcJNfnjYmxZIdY10Ez3FhhgniuIckBXClZH/1Dd7NvbI5Zd6nSJLb7SWZ7b+P856qmRGSof0cJ1OUH0U3HQ4veKgWcmEZrCAmCwadlM/DW1DCjpGf0rHolrBmdXqZHZaVCSggNhq1M6CZiOIYBCbbyiqKrLvW7RCxQ6eLrrCs1UaYzA4Uc29gHitCmi3E6hr+H/y5aQYvTmNyAAAAAElFTkSuQmCC",

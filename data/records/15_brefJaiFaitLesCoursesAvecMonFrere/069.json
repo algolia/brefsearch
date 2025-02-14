@@ -8,13 +8,14 @@
     "videoId": "Htm39YuNOog"
   },
   "line": {
-    "content": "Il a dit: Si.",
+    "content": "Il a dit:\n— Si.",
     "end": 71,
-    "index": 37,
+    "index": 36,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=69s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/15_brefJaiFaitLesCoursesAvecMonFrere/gif/069.gif",
     "hash": "040b8142e0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC1st+Qhs56bMKTic7PzO12bXU4KSQ/NDJOREBTRz5VQTcnGRUiFBAwHBc7Jh40HxkAu5ywm4vNaFrEfW/Ok427ZEtHmHBlgGRfNisshn95cV9UNyUgMh0YMhwWKRUQJhQPAJ1waKeUp66r1dvb7MDA0VQ9O5NvZpd4c1hFRnBndnNiXUMvKC4bFhwMCRcJBxUIBgCXkpZpYYBSR2+JgIjk6PKAameIYlmxjoh9ZVx0a1+XjIRMNS0bCwgVCQcXCggUBwcAg3l7aGKDdmaBsp6d4er5dmlzYURAfmNffnJ0qqG1qKGydmJjNhwZIBANGQwJFwoHAH94eF1Vc3pznKWMnql9fl9PZEc1M25ZVmpXXTQoK2leX2xfXFE3MjcfHCQTEBoNCQChl5xpYX56dJt+boEvDxctIShdQj+KamdBMzsdGCY4MDlQRUBbSj1HMCk5Ih4qGBQAin13gXKRaWB/LScwERMjOCowgVxWcVNUHBclJB4uJh8yMykwZ1lTb1xWQyggOSEbAHBmYaqju3BebyEWGxANGkU6T3dfaz4zQhYSICIdLCAbLSohJlxRV5ePpoh7jFI8PAMblVXsvHusAAAAAElFTkSuQmCC",

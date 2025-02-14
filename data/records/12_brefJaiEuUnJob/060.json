@@ -8,13 +8,14 @@
     "videoId": "DUDE5JWW-q8"
   },
   "line": {
-    "content": "Jean-michel, c'est la graffeuse. On le trouve jamais.",
+    "content": "Jean-michel, c'est l'agraffeuse.\nOn le trouve jamais.",
     "end": 63,
     "index": 28,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=60s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/060.gif",
     "hash": "329cb9050c",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwYlu0mAAAOC+x0yMiWKWLVvEMIvDXbDYHYzIRAElEMIcJkZ0ISgwEC26Vgp/73Pd35ZylAznRFy8MNEX8/sQQAitI4Gl1Ai2NXN5KrZ6O7vtJzMxai8qv0jXk+H9rQBPcobSPZHaptpH2IbCNmRd6mTjyTuzro1b7puuq0HPfC7ojyyhiYDvMJMWaKiyhsaZx4KFAFLmKFWXOpWD8ibqzmDLq3PXA/PTeDKSCvhq8e3mq9cCYygsVDlL4yyEpXQeQIW3GRqG7m4m1tDUmjf/YMfBi9zTeDO9e1SscbQlAigxlghMRINnamfMwLN34mAj+BBzz4a97rBv4WVkB0/cqyXv05TMA4MDhkCbfMtABOfHR3NU14YF0F0JpTzTroVrV25cmsLmZh4ve/ZicQA/dfpjVeoJtCEAE1FOf1V5pwjsctN4U3mv4hWtVowuolm/L7rifV6qV/n+yfB778uk3RuLjIUQqkPboxIwpfrbic4NAaGXDvZD2DrqyeXLVRaWWlBzxr2vf5yLf4PzCZInVGCPDkm58Gi3+6E6ZEg292R9celZpUEeOwVCwEUbnl60P/+0z38Pvv39D93K0YkNOXQ2AAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "cDWcCpqFh_M"
   },
   "line": {
-    "content": "Il a dit: Quelle facture ?",
+    "content": "Il a dit:\n— Quelle facture ?",
     "end": 82,
     "index": 39,
     "start": 81,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=81s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/14_brefMesParentsDivorcent/gif/081.gif",
     "hash": "5d1d2defca",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB+eoOMiJOjn6i1s8ChnKN8dXMfGhcMCggRDwwSDw0YFRNMRDxUSz9HPzM8NSgzLCEAgXuBl5Ocg3x+gnx/gXt+cGlnGRUSDQoLEg4MExAOHhkXQzkxNi0mODEpKSEaJh8ZAHtzccTBz2JcXhkRCVFBPE9DPRcRDw0LDhANDhMRDhoUEkkzLEYxKUtCP09EQTcwKwBKQ0BzbnJZU1JKQ0BnXl1WTEkdFxMMCgoRDQ0dGBUpGhRhUEx7a2lsX11lWlhIPzsAIRsXKiQhQjs2c21xl5GacV9bKyEdGRQRKB4ZNCQcW01KlIiPfHBxZ05GXU5KQTk1ACMbFjItKkA5OVRPUJ2YpFxWWhQQDB4aFzAoJE07NGtiY5SKlHNjYWJMRVpIQkA4NQA/OTdcVlllYWVLRkc6NDMcFxMeGRclHxwhHRswKidLQ0GRiZJ4Y2JYSEJaUlBJPzwAcWlmt7S/dHB2Ih0bFhMPFxQSFhIQIx4bIRsYLykmODAuiYOOjH6DVktGVk5MRj46AE1DOUY/PRQOCxsVER8ZFBwWEiAaFxYSDxMQDi4nJCYgHDArKVhOTVJHQ0xEQkE2MqiNcFMJFFP/AAAAAElFTkSuQmCC",

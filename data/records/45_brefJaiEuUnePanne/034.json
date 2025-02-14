@@ -8,13 +8,14 @@
     "videoId": "BJoEGR47rk0"
   },
   "line": {
-    "content": "Ça marchait pas. Il est devenu tout beau.",
+    "content": "Ça marchait pas.\nIl est devenu tout beau.",
     "end": 39,
     "index": 17,
     "start": 34,
     "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=34s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/45_brefJaiEuUnePanne/gif/034.gif",
     "hash": "25f2b4e55e",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBvY193a2dpXVtURkYsIyQdHSBDPEAuICc9NTsNDBE1IhuZeWNsXVQMBwoIBAcHBAYAbWFfWEtLU0VFZVdXLCQmICIkSEJGLyEnKyIoEw0Omm5Xyp1+tpN6TD87DwsREQ0RAGVcXGphZIB1doZ7ezQsLiIkJ0lESC4gJiskKioeHrqMcNCihbeSdpR8aSchJB0aIABqYWKQb2Kmd2BmUFAgFxonKSxMR0stICYvJy4hGx60gWnPjXCmgmm/o4dPRD8HBAoAaFpawYxo67yTp2pOHg0PKy8zU0xPIxggcEs9rWtJyH1X15Jq1qV+wpZ2dWRZCQYLAGtbWb2EYN+1ju23ioxVPSUhJj05PyMbI62EbN+IWdqAUtuZbd2ofdGYc2NORhUTGQBpVVG1dVS7eVbeqX3koXVVMik7JiVoQzrZwajjwKLhwqTbso7KkGrLj2s8KioRDxUAUzcyrWxQVTUxun9d4JxvvHZTuW5OtGVG0I1i472U3r2Z0aSAblNGrnVYOSMfExMZAHFGNnRHNw8LFXRYTbx+XMmMZsV7XLdrScuDWM6Xb8eWcm5NPQoIEIldSVEzKQUFDYgon7qixzO6AAAAAElFTkSuQmCC",

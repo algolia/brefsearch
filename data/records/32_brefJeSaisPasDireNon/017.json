@@ -8,13 +8,14 @@
     "videoId": "OmEx0mpHFG4"
   },
   "line": {
-    "content": "J'ai aidé un mec à déménager, je ne le connaissais même pas.",
+    "content": "J'ai aidé un mec à déménager,\nje ne le connaissais même pas.",
     "end": 19,
     "index": 9,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=17s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/gif/017.gif",
     "hash": "ef3877282a",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWpJREFUeJxti81OwkAYAHtwv2+722JbIHQtIISqILT8RCiooFU0SNEUlEA08QDh6MWL8WZMjBfDu/iGBo7EyRxnJIWAQcDVWT3ODyPyDsU4oomYjyp9N+UfJDp2rFdINCz1NGeEzT0pBmCrtBZlZZ3lOBUUE4hCxrzB+461byi2CotG5iOon+zq915GcnXWFko9zvMqTcur1KSYZHgYVW7d5JGphgXxPWwtn7peShs4ppSO0DOhVHSeYdSS0d6W4xQFQsHgYTl1nNSea9nf14fPUbsSw4mXlQiA4Jjl1KSYkKmlMo6oEdiPyMNy0jG1gZv+efTnjdzNnj67aUgAsEWAAOBaspYBZDgNHSsopRa++xq05peVt3Hza95dDQibUAKCQlgUYbN87/vT4K7XPnuZ9Jcvw9WwAQGIKcwgZFSyRp5bLdYG51e3/vXgInifjf8bCNE4iwKMHGt6UjmuNvudy26rc+G1x73eH8MjOUfyWPOqAAAAAElFTkSuQmCC",

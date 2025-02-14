@@ -8,13 +8,14 @@
     "videoId": "c-51sCEAiCg"
   },
   "line": {
-    "content": "Pas grand-chose. Dix, ça va.",
+    "content": "Pas grand-chose.\nDix, ça va.",
     "end": 109,
-    "index": 33,
+    "index": 34,
     "start": 106,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=106s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/106.gif",
     "hash": "ed0c61da24",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBOQDVrXFKnmpWqnJajlpGhko5UJSlhPD7e1tedlpNYPT0+DhNWOzZhVUpwZmFYTUYAV0c7fGpepJiSXExCkXlioY1zUCAiaEFF5dvcbVREHwgFShUbZ0pFdmVZf3VxcmVcAFpIOoBtYquemHZeUlhBKJF2OlAeHXJLT+DZ3IdqW01DPzQWHGRHQXluZoyCfnNmXgBcSDh6amF4cW5kWlVLQjqGYjxHFxd3T1GcqrOcjYpgfYogNEFbPjZ5bWSLfnd1Z10ASzorZFdOZmBcVU5JPDMreV9XShocc0xQX3eFsbC4RVZhFSw2VUpEa2BYdWZaYFBEAEA8N0U6MGNWT21oZUQ6M2VZUE0iI2E9QT5RXa2qsUBITgMXIEE/PXZnXmVbUyUgGgA2OzhcRDpuU0hrZmRJQDpEODBKPDZXQTdKU1mtrbRJUloNGB1IREFwYVZXS0ItKCEAGR8bc0U5fE9COzs2IyUiOTw5Qj85PzQqGiEjbXR7OkdPIRsXZk09aFRFXU5EUDsvAE83LVFANzUzMAsWFQsRDw4SDTMvK0hJSEBDQztFRzg9PD0sJFY8MEs5Lkc6MDYmHKuLjdMcaXkgAAAAAElFTkSuQmCC",

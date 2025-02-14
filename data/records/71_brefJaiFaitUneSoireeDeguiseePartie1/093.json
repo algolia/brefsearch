@@ -8,13 +8,14 @@
     "videoId": "rOI3TXz-igs"
   },
   "line": {
-    "content": "J'ai dit: Fais gaffe, merde. Ça va, tranquille.",
+    "content": "J'ai dit: Fais gaffe, merde.\nÇa va, tranquille.",
     "end": 94,
     "index": 44,
     "start": 93,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=93s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/71_brefJaiFaitUneSoireeDeguiseePartie1/gif/093.gif",
     "hash": "03cc5e06c9",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJxjkBcU1RWT1hOTsZKSizF3LghIWdy6tDquLNzEJMvZId7K2l1N313TJMXFP9HFL97Fl0GUU0CBX0xZUMJcQibDwb8+tmTj5G3NGU0e6pqhBoZhBiZpVvYOchrpbkHZ3uHJLv4M/Ky8Iuz84lyChqKyuR6RrQnlm6bumFjQkWXvUOblWebjXefpm2juUBQQVxwQm+MVxsDHyiPBJagnIRupZVDgHdORXLlr7qG+rCYfRbUUM/M6X58Mc1sfHfOq8NSmlILiwHiQBlEOAR8VjSpH15qQ9J6Muv7CXjcDu0ANnWQzs2ANXQ9lTQdV3UR730Q772QHsB9EOQTcZORrnD1K/BMcNE0VBCSUBMTt5NW0hCVt5JRc1TRtVXXctUyUeUX9NE0ZxDgF1QQkonX0siyd7dSNxTgFZPjEpHhErORUfLX1wkzMpHiFVUVlXTWNZfjENIVkGIRYeDyU1BMNTRJsPFVF5cS4BGX5xfnZ+PnZ+RWFJIQ4+DkYOWV5xbz0zHWllMW5BBnslNSjDYyclDR8jGzEuYXFuATFuYV4WXh4WHi4mLl5WHl4WLhVhKVtlHWMpFU0RGQBqdVflxM+IjMAAAAASUVORK5CYII=",

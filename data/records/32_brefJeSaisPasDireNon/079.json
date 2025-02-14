@@ -8,13 +8,14 @@
     "videoId": "OmEx0mpHFG4"
   },
   "line": {
-    "content": "Ils s'appellent Euphorie, ils sont norvégiens.",
+    "content": "Ils s'appellent Euphorie,\nils sont norvégiens.",
     "end": 83,
     "index": 36,
     "start": 79,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=79s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/32_brefJeSaisPasDireNon/gif/079.gif",
     "hash": "953b82d70b",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBucoBqbHlaWmR7gI1xc31vanBSPjxuZWOytK/O0crN0crJzMXDxcC3ubSrral2dHUAdnmGfYGObG13k5mlkpijS0ZLHxQTOCEeYE9Px8nF09jQz9PMztHKx8nDvcC7h4aGAFpZZFFQWUxKUmJjb1taZCIaGysbGWA+Nn1iXsPEwNLWzs/Sy83QyczPyMrNxpOSkABZUlVYUFNWTVBpZGljW18vIiJWNzFhOzRzW1jLzsjR1s/P0svO0svO0crS1c+fnZwAXD5DX0FGakhPcFFZiHR2a2ZrWjw1WC0mlX552d/XztHKztLKzNDI2dzUlJWSPDtCAIh2hINve45+i4eKlYCbrGeJpVdMUVtISZqotMnSzszPycnMyMnMx9rd12VkZAAAAAB0WWVyV2KJnaqSuciPsbxyl69SYHVicohwm7iMq7uQlZ+bmZKMjJGKiZM8Oj8JCAsASAcQVSgxi6myfJ2zg6S4jLC/R0RUYWqAe5+0eZ6ygI+chG1TdGttZGJwJSInCAcJADEVGlJSXHybqmqHnHGSqYqvvVFFWWRleHmfs3OWrXN9iF8zKGJWW1pZZRcVGAcHCDyG2ACq6VaLAAAAAElFTkSuQmCC",

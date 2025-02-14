@@ -8,13 +8,14 @@
     "videoId": "r7LVaWeM_bg"
   },
   "line": {
-    "content": "Elle me dit: Tu vas d'accord ?",
+    "content": "Elle me dit:\n— T'es pas d'accord ?",
     "end": 59,
-    "index": 23,
+    "index": 25,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=57s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/057.gif",
     "hash": "6487057144",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB7ZVeLdmSWgmydiHKkjnWKdF4pHBcxHxlaPjFcQzhFLiVjSz1yW0pZQjZEMCenm5UAjntpnox4qZaBrJuEuKSJdGJRIhMQf1M9wY1v2raieF9RWkAzclZFY0s+SjMopZuVAJuJdqmYhLGijbOkjrqojmpWRh8RDW1JN6JzWbCPe8uunl5AMmhNPl9HO041KZqQigChkH2snomzppK2p5O4qJCHcFw5JR9LLyKriHbZt6TKpI9gQzVxUkFlTD5NNSmJfHYAnYx6qZqGsKKOsqWQt6iRkHlkNB4YMhwVlGdRzKKQt4huXj0ueFNBb1A/SzUqc2RcAJSCcaGQfKiYhKubhq+dhZF8ZXNfST84LDEaEa99Z5lyXjUgGFA1KYFZRW5PP008NgCJdWWVg3ChkHyqmoa3q5bBsqm7oamfh5gmGhZFKx5kPy0tHBYmGBRHKx93WktqX14AeWJVh3JghG1ai3hnrJK3oHi5jmaojV6jWj1VOCIUWTcpRy0jNSMdVDYpdlVEjoSFAGNOQ21WSWFJN1U9KG1OX5lvtJZwq46ApoNnlVg5OVk4Jj8sJTAfGVE1KF8/MHFgXb6ysQNErasfAAAAAElFTkSuQmCC",

@@ -8,13 +8,14 @@
     "videoId": "JmghDKkeiik"
   },
   "line": {
-    "content": "J'ai le droit aux allocations. J'ai mis mon nom, mon prénom.",
+    "content": "J'ai le droit aux allocations.\nJ'ai mis mon nom, mon prénom.",
     "end": 59,
     "index": 22,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=57s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/gif/057.gif",
     "hash": "920d2539a2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAIBgVCQEGLiYpRSUCdm5bV19ze5+rExcrFxclCQkILCAkRDw15cW+uoJ+olpaNf30ACggHNjU4cWdlb0c2loV+sbS5rrW2vLu/uLe6Nzg5CQgICQgGeXBymJuRc4NpS1FIAAcGBzg1NpiUlIVjVKCJgpibpn1/ipGPmoKAiEdDRCIeHykkH4F4fIKUgCRXIio9LwBLQTuZjYjDury9ra2vp6eooKFiYXI1NUNBOT1sUUY4MC5dUEllXV1XU1EqSCUmOC0Ainhvj313xsLDs7awmoaAmYZ1PTc4IiEjWlxoSkZLYGRyQkJJJiEdKyEfIiobJDAlAIBxa2JQSY17cmFbP15AMGdHOh4VETw+SYuHk3RkZWtbXmRcYjQwMScgGiIgGyUsIgB5aF5VPytVOyhINCpQSTdiV1JgXWB8cG1pYWNISE0vLzFDRkxWYmxRU1RpXVZJPzYAemFNYkUnKy0yMDdELSYkJyw4R05fjIWCXHKEP1JhHSQpGyQrIiozNDs9U0hBTzwxAEk4Lkg4LyQiIxcdJg0PERMYIRcbIyYkJlFdZTU/RRYWGBYUFA8PEBwgIislITYoHunSkWdkFcDaAAAAAElFTkSuQmCC",

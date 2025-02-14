@@ -8,13 +8,14 @@
     "videoId": "DOMouPqhIus"
   },
   "line": {
-    "content": "J'ai voulu manger avec elle, mais j'ai eu 47 minutes de retard.",
+    "content": "J'ai voulu manger avec elle,\nmais j'ai eu 47 minutes de retard.",
     "end": 16,
     "index": 8,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=14s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/40_brefJetaisACoteDeCetteFille/gif/014.gif",
     "hash": "f2b5b59fa7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCakJDGwsXMxsbl4uKwoaCsm5qgj4+mlZOqmJaol5eklJOdjYyXiIZ2bGxpYGB8bmsAoZWWuLGywLe4zMbIsKKifm5roY+OsaCetqakoYuGoIuIrpydpZOSjYB/Z1dZj3t6AJaKjIJ6f46EiZWPmpCDhEctJIZ2dLanprmsrIJoX4BpZa2enWxfQ3hlSpN8faOIiQClmJmkmpy3rKuzrbWRdW1IKBxpXFzDsrF5bW4YExcWEhdsYWGFdmFxYESmj4ijj4kAn4+MiXd0bGJjV1FWal9gbldTdltRYVRSIBsgFA8UFxEWJh4iPjg5Qzo5ZFdUfW1qAGRXVhwUFBsVFgkFCDk3Q19VXHBbVyYdHhsVFywjJCsgISwiIwwKDhoVFw4KDEM5OQBMQ0QVERMdFxgWEBEvHxxVOSwvJikjISYlHx8PDRMMCQ8NDBISDxQbFRcSDA5BOTsAUkpOEg8QFQ8RGxcYOjg9OzI0TTw0SzkvcVE/PCsmQS8nRDEpGRIUEw4RDQkLNS4wAEM8QBINEAYEBU9DQJaLjoJtZsOXeqN5X4ZiUHBPPqd5XbmGZlI7MQUEBw0JCiojJDTUm2EKu7DfAAAAAElFTkSuQmCC",

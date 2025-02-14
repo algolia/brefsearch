@@ -8,13 +8,14 @@
     "videoId": "lrWa9VYEb78"
   },
   "line": {
-    "content": "Il peut multiplier la valeur des cadeaux par 1 000.",
+    "content": "Il peut multiplier la valeur\ndes cadeaux par 1 000.",
     "end": 37,
     "index": 19,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=35s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/49_brefBaptisteEstSuperFlippant/gif/035.gif",
     "hash": "4c627e04f0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAOEBkMDRYNDxcYHiQ6Njg0MTEMDhcMDhcVGiEqMzszPUchKjQMDxcLDRULEBkNEhwACQ0VCAoSEBMbMjk/eF5XaUtBJSIjDhEYGiAmLzc+RE9XMzxGDhEZCw4XDRIcDRIcABUTGxgPFRciKFBWWHtkXIVjVjg0MyMnKxwhJy41Ol9nbEpTWRYcIw8UHAoMFAsOFwBYNTuCSUdqQUKCPT57ODaEXVNDQ0I7RUU0PD8sMjZVWl1hZWgjKSwPExsODxcOERkAUjc9mkZDdSkpbiEjfi4vcE5OcUdEfVhTUFZWXmNnc3Z5iImMRUlLFRgfDg8XFBkiACU3R0xJVUE9Rj5CS0lMUWZudY6Lkc+ztMqwsMvEy726wKOjqH9/gWNnbDI5QhkiLgAtMzk4Pj4YHiEiJyopLS5RUlKipazOzdTWxsrf1+DNu8DAs7e8v8ipqLFFSk8RFx8AOjc1Ix4aEQwJHhgVHRgVNTMxbm5xe32EnqCpi42Vj4CFs5SWs7C1iIeLMjQ2EBQaAE5LRxUTERkWFB8aFxoXFCoqKjU2ODc4PU1UWzo9QSgpK0Y2NXloZlNUVCAgIhQWHCv/d2K98P1BAAAAAElFTkSuQmCC",

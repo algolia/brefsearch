@@ -8,13 +8,14 @@
     "videoId": "WRXsFwhVzTs"
   },
   "line": {
-    "content": "Attention au changement d'heure. Soixante-douze euros.",
+    "content": "Attention au changement d'heure.\nSoixante-douze euros.",
     "end": 132,
     "index": 49,
     "start": 130,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=130s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/73_brefJaiFaitUneSoireeDeguiseePartie3/gif/130.gif",
     "hash": "50eb7a0efa",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJw9y21TmgAAAGB+xfahrbvUzdVMVlkpapkaHm29bF4dOxSdeikCapq8JYogiojyNmPr1+5Dd3u+PwBx3yDqjRZJ03i+iJzULtJc9U5Tp7pm6DN9OlFlaTwciE+8wDz2ew9doFknuu0Ox7A8gZeQzBy/XTbL3m/PW7+4putY9sow5jNNVSbDgcgxLECTlMALqqKKVKlyHhvkLwT0mqoWNUV5dj3XdhzLtlbmcmG8HqBDt2Vp3MBR+GgnCwbOwdDxdnDf/wa7hr31n9fgWLZtWtp0Jg1HQO+hO5HlHPQlEtxIgf77bOx7NBwP+1J7HySB++u92Kb1PyiSBHB9rkuRiV1fLOSDdrc6XxPsTSp9EDz8tIkkD5bzuWM75nJlLlfqRNWmGsD0GOzHN2hnMxry7X98V0lH+penmfAWEgWruXirhj+7a1NfGPpiLMlCswbQBHV5Fj/cfp8EA4VMbFRGldJtAT6p5m9EkpRHijY1BIZ/YnmW5evwMVBG0avkUcz/FgpsoNBeIRn5haTFFt2v11o41sbufp5F4XAAyyYqV7ki9PkfE7qsDxheE9IAAAAASUVORK5CYII=",

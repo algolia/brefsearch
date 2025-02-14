@@ -8,13 +8,14 @@
     "videoId": "lGBPAoLUn-0"
   },
   "line": {
-    "content": "Il y a des mecs payés pour faire ce dessin ?",
+    "content": "Il y a des mecs payés\npour faire ce dessin ?",
     "end": 19,
     "index": 11,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=17s"
   },
   "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/79_brefJeSuisNe/gif/017.gif",
     "hash": "0282053153",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwX1zknAAAGC+YX9417Uua64lebWXtJE7vZ0nvoWiIkPR2XC6KZqbMsZvgICQskZDY2pLd7c+S88DZRJhLBbaR3a24HeID87EI3Qxn8OTWAo9pgtsq0YU8Hw6eVQ55Lh2u3MK5fE4nol/q1Kddr1xxrTYBnd1cS1d9vqdGlMFsgAGoM2efj9nT1r1ntCD2E5DknhBvLweAGkoT+eTxXJm3I5Gv8y72WSxWkzmU16VgCIqujzQJUhUABgAdTS8f3Ae/60sxzYnluXYi8c/s79zeTRUxro2HirGoMdf4BQBAVW8sX+unpb2bDq2b2+mlvPgzJdz6YcGNFkzDd3U+4ArVmmyVChXKEhWRUEWZEPVTMP6bdn3d0AVu3zvSuQlBZz3O9RRKUPmSmXyKxb7sv8Zoqo0kU03W3V9rHW5LnN2wnabzWaNzGIpLJFIoeRhFkUPEMS/sbnhhd9Cx0yFYcpZAk9nsRyBF+lCmSai6AESDMTQcDQaQgLb669eejzu3Y9eH7wOJRORveBeKByMRkLxaNjv34bhzU87PiTwYXfL+9q9tvbcBXvcvveeN+4XLtez/9xxDY33xBSOAAAAAElFTkSuQmCC",
