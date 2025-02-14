@@ -22,6 +22,7 @@
   "scripts": {
     "update-episode-lines": "node ./modules/lib/scripts/update-episode-lines.js",
     "update-episode-thumbnails": "node ./modules/lib/scripts/update-episode-thumbnails.js",
+    "update-episode-gifs": "node ./modules/lib/scripts/update-episode-gifs.js",
     "update-episode-records": "node ./modules/lib/scripts/update-episode-records.js",
     "deploy-data-algolia": "node ./modules/lib/scripts/deploy-data-algolia.js",
     "ci": "./scripts/ci",

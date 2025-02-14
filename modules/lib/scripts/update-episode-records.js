@@ -33,7 +33,8 @@ await pMap(
         const start = line.start;
         const paddedStart = _.padStart(start, 3, '0');
         const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
-        const thumbnailUrl = `https://assets.pixelastic.com/brefsearch/${thumbnailBasename}`;
+        const thumbnailUrl = `https://assets.pixelastic.com/brefsearch/${basename}/${paddedIndex}.png`;
+        const gifUrl = `https://assets.pixelastic.com/brefsearch/${basename}/gif/${paddedIndex}.gif`;
 
         const { hash, height, lqip, width } = await imoen(thumbnailPath);
 
@@ -59,6 +60,7 @@ await pMap(
             lqip,
             width,
             url: thumbnailUrl,
+            gifUrl,
           },
         };
 
