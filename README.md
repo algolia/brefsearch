@@ -52,7 +52,6 @@ convert the initial metadata into records suitable for Algolia.
 
 ### Frontend
 - Play the video when clicked on it
-- Play an animated version on hover
 - Make it a great experience on mobile
 - Add lazylading of images below the fold
 - Warm the Cloudinary cache of the images, so they load faster
