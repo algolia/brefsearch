@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 431,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 38,
+    "likeCount": 96820,
     "name": "Bref. J'ai voulu partir en vacances.",
     "slug": "brefJaiVouluPartirEnVacances",
     "videoId": "FThJiyU25jc",
-    "viewcount": 8200000
+    "viewCount": 8214486
   },
   "line": {
     "content": "Je Je l'ai frappé.\nJ'ai dit.",
     "end": 45,
+    "heatValue": 11,
     "index": 21,
     "start": 43,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=43s"

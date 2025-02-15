@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "3:02",
     "durationInSeconds": 182,
     "index": 74,
+    "likeCount": 73509,
     "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
     "videoId": "UDko2X994U4",
-    "viewcount": 4700000
+    "viewCount": 4770369
   },
   "line": {
     "content": "À part faire des photos, les mettre\nsur Facebook et dire: J'ai\ndes amis, j'ai des amis.\nPersonne n'a d'amis ici.",
     "end": 44,
+    "heatValue": 21,
     "index": 14,
     "start": 39,
     "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=39s"

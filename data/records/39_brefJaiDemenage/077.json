@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Je garde l'appart.",
     "end": 80,
+    "heatValue": 12,
     "index": 34,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=77s"

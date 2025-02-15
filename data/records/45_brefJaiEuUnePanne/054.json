@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 548,
     "durationHuman": "1:53",
     "durationInSeconds": 113,
     "index": 45,
+    "likeCount": 51384,
     "name": "Bref. J'ai eu une panne.",
     "slug": "brefJaiEuUnePanne",
     "videoId": "BJoEGR47rk0",
-    "viewcount": 3600000
+    "viewCount": 3643369
   },
   "line": {
     "content": "Je savais qu'elle allait dire\nque c'était pas grave.",
     "end": 56,
+    "heatValue": null,
     "index": 21,
     "start": 54,
     "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=54s"

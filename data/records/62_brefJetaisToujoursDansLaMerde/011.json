@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 211,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 62,
+    "likeCount": 66207,
     "name": "Bref. J'étais toujours dans la merde.",
     "slug": "brefJetaisToujoursDansLaMerde",
     "videoId": "KM1Rsc4JyxA",
-    "viewcount": 5100000
+    "viewCount": 5199983
   },
   "line": {
     "content": "Je me metste au sport.\nIl faut que je me mette au sport.",
     "end": 12,
+    "heatValue": 57,
     "index": 3,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=11s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 55,
+    "likeCount": 132781,
     "name": "Bref. Je m'appelle Eric Dampierre.",
     "slug": "brefJeMappelleEricDampierre",
     "videoId": "tkOuQiO-Vzg",
-    "viewcount": 9400000
+    "viewCount": 9414768
   },
   "line": {
     "content": "Si je rackettais cette petite vieille\nau téléphone, c'est parce qu'au-dessus\nde tous les Eric dans Pierre,\nil y avait l'écran d'objectif.",
     "end": 51,
+    "heatValue": 3,
     "index": 26,
     "start": 48,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=48s"

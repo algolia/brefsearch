@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "Et là, j'ai croisé cette fille.",
     "end": 12,
+    "heatValue": 33,
     "index": 3,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=11s"

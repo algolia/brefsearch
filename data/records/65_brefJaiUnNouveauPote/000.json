@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "Il perd de l'ose.",
     "end": 2,
+    "heatValue": 71,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=0s"

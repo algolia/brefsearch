@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "Putain de sa mère de qui j'ai\ntouché, c'était tellement bon.",
     "end": 62,
+    "heatValue": 14,
     "index": 24,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=61s"

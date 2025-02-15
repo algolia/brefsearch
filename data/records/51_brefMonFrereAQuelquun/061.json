@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 472,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 51,
+    "likeCount": 95130,
     "name": "Bref. Mon frère a quelqu'un.",
     "slug": "brefMonFrereAQuelquun",
     "videoId": "m5Ezt99WggY",
-    "viewcount": 7300000
+    "viewCount": 7361073
   },
   "line": {
     "content": "Ouais, Maud, ça te dirait\nde passer à la maison ?",
     "end": 63,
+    "heatValue": 8,
     "index": 27,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=61s"

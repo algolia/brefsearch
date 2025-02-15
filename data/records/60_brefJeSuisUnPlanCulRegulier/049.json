@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Des fois, j'ai l'impression\nqu'il y a que nous deux sur Terre.",
     "end": 51,
+    "heatValue": 26,
     "index": 21,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=49s"

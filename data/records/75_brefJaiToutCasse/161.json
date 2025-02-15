@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 861,
     "durationHuman": "2:52",
     "durationInSeconds": 172,
     "index": 75,
+    "likeCount": 89384,
     "name": "Bref. J'ai tout cassé.",
     "slug": "brefJaiToutCasse",
     "videoId": "9u9X-FzVWZ0",
-    "viewcount": 7000000
+    "viewCount": 7053468
   },
   "line": {
     "content": "Je m'appelle Marla.",
     "end": 162,
+    "heatValue": 15,
     "index": 57,
     "start": 161,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=161s"

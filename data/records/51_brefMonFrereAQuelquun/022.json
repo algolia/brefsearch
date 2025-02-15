@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 472,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 51,
+    "likeCount": 95130,
     "name": "Bref. Mon frère a quelqu'un.",
     "slug": "brefMonFrereAQuelquun",
     "videoId": "m5Ezt99WggY",
-    "viewcount": 7300000
+    "viewCount": 7361073
   },
   "line": {
     "content": "Maud, c'est le genre de meuf qui organise\ndes soirées pour pouvoir dire: C'est\nma soirée, c'est pas ma soirée.",
     "end": 25,
+    "heatValue": 23,
     "index": 9,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=22s"

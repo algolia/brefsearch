@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 56,
+    "likeCount": 113908,
     "name": "Bref. J'ai grandi dans les années 90.",
     "slug": "brefJaiGrandiDansLesAnnees90",
     "videoId": "HO2SLJQShJ8",
-    "viewcount": 8800000
+    "viewCount": 8859528
   },
   "line": {
     "content": "Dans mon portefeuille à scratch,\nil y avait une carte téléphonique,\nune carte de détective Mickey Mystère\net un permis de conduire spécimen.",
     "end": 32,
+    "heatValue": 21,
     "index": 12,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=28s"

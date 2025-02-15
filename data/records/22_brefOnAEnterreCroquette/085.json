@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 585,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 22,
+    "likeCount": 85441,
     "name": "Bref. On a enterré croquette.",
     "slug": "brefOnAEnterreCroquette",
     "videoId": "LRzOCN7zths",
-    "viewcount": 6000000
+    "viewCount": 6068571
   },
   "line": {
     "content": "T'es qu'un con.\nBref, on a enterré Crockett.",
     "end": 88,
+    "heatValue": 45,
     "index": 27,
     "start": 85,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=85s"

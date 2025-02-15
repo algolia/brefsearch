@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 680,
     "durationHuman": "1:16",
     "durationInSeconds": 76,
     "index": 18,
+    "likeCount": 99938,
     "name": "Bref. J'ai couché avec une flic.",
     "slug": "brefJaiCoucheAvecUneFlic",
     "videoId": "if3EipAM2WQ",
-    "viewcount": 8000000
+    "viewCount": 8008914
   },
   "line": {
     "content": "Elle s'est mis à l'aise.",
     "end": 34,
+    "heatValue": 74,
     "index": 13,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=33s"

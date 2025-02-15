@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 525,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 7,
+    "likeCount": 88753,
     "name": "Bref. Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare",
     "videoId": "QJEyHT7IU5M",
-    "viewcount": 6600000
+    "viewCount": 6698014
   },
   "line": {
     "content": "Je me suis dit qu'à moi aussi,\nje voulais qu'on dise:",
     "end": 8,
+    "heatValue": 39,
     "index": 3,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=6s"

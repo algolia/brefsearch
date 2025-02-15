@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 684,
     "durationHuman": "1:23",
     "durationInSeconds": 83,
     "index": 37,
+    "likeCount": 84798,
     "name": "Bref. J'y pense et je souris.",
     "slug": "brefJyPenseEtJeSouris",
     "videoId": "O1BZzYB3X6U",
-    "viewcount": 5100000
+    "viewCount": 5141702
   },
   "line": {
     "content": "Bref, des fois, j'y pense et je souris.",
     "end": 80,
+    "heatValue": 3,
     "index": 26,
     "start": 76,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=76s"

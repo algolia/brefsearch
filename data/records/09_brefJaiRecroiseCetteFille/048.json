@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "Qu'elle me demande si c'est sérieux\nentre nous. Mmanger des glaces avec elle.",
     "end": 50,
+    "heatValue": 91,
     "index": 18,
     "start": 48,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=48s"

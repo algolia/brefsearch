@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 716,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 67,
+    "likeCount": 87826,
     "name": "Bref. J'ai perdu mes cheveux.",
     "slug": "brefJaiPerduMesCheveux",
     "videoId": "akriQ9yTodk",
-    "viewcount": 7300000
+    "viewCount": 7385243
   },
   "line": {
     "content": "Quand je croisais un autre chauve,\non s'est changé un regard de compassion.",
     "end": 45,
+    "heatValue": 39,
     "index": 16,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=42s"

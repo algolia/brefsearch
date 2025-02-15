@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 347,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 72,
+    "likeCount": 69621,
     "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
     "videoId": "m7Y624w6MFU",
-    "viewcount": 5600000
+    "viewCount": 5660756
   },
   "line": {
     "content": "J'ai voulu lui dire: Il faut\nqu'on parle, mais il a fait comme\ns'il avait reçu un texto, alors\nje lui ai fait le coup de la cigarette.",
     "end": 61,
+    "heatValue": 8,
     "index": 24,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=57s"

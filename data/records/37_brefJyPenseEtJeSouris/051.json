@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 684,
     "durationHuman": "1:23",
     "durationInSeconds": 83,
     "index": 37,
+    "likeCount": 84798,
     "name": "Bref. J'y pense et je souris.",
     "slug": "brefJyPenseEtJeSouris",
     "videoId": "O1BZzYB3X6U",
-    "viewcount": 5100000
+    "viewCount": 5141702
   },
   "line": {
     "content": "Tôt le soir, il fait déjà nuit noire.\nIl y a des voitures partout.",
     "end": 53,
+    "heatValue": 3,
     "index": 18,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=51s"

@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "— Mais carrément, on se\nvoit demain soir, Sophie.",
     "end": 88,
+    "heatValue": 17,
     "index": 32,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=86s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/gif/086.gif",
-    "hash": "a5bf5ad6a6",
+    "hash": "659a643370",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAoElEQVR4nIXR3QqDMAwFYJNKGpT6U9O0xgvx/V9yUBlssM7vOiHnkK77BgD45pxDxO6/vu+JaJqmeZ699865hwUAGIYhVuM4eu+fL5RS9n1X1eu6RKQ5SkQhhGVZUiUiqrquazMVM2/bJiKllJSSqpqZqjIzAPxYQMQQgoiklGKMZnae53EcRNSsy9XdOOdsZjlnEWlWR0QAcNX9h9tnpBfGswqQ7XERMAAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAALJJREFUeJyFkdGKhTAMRLtNtQlqxcaE2ILg///kggWvvQ+785TCHGaSup9e3vsQAgC0wXv/ZXDdw7lhGMZxTCmt64qIIYS/gJYwTRMz55zneY4x/pMQQjCz4zhU9bouEXGu9zzWGGNKads2vbXvu6rmnAHgzXwAImJmETEzEVHVUoqqEtF79Q8KAMuyyC1mLqWc51lr/Vqj64eIRJRvmVmttaUh4tOqA57zt68AgDa/K/0C3tYLzkQbffYAAAAASUVORK5CYII=",
     "url": "https://assets.pixelastic.com/brefsearch/02_brefJeRemetsToutADemain/086.png",
     "width": 1920
   }

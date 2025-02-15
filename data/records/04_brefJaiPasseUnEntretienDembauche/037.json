@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "À côté de moi, il y avait ce mec.\nJe l'ai trouvé bizarre.",
     "end": 39,
+    "heatValue": 26,
     "index": 14,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=37s"

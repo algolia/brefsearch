@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 431,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 38,
+    "likeCount": 96820,
     "name": "Bref. J'ai voulu partir en vacances.",
     "slug": "brefJaiVouluPartirEnVacances",
     "videoId": "FThJiyU25jc",
-    "viewcount": 8200000
+    "viewCount": 8214486
   },
   "line": {
     "content": "J'ai dit non à l'assurance\net j'ai fait mon sac.",
     "end": 29,
+    "heatValue": 16,
     "index": 12,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=24s"

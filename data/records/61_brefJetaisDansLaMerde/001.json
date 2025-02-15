@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 569,
     "durationHuman": "2:23",
     "durationInSeconds": 143,
     "index": 61,
+    "likeCount": 120051,
     "name": "Bref. J'étais dans la merde.",
     "slug": "brefJetaisDansLaMerde",
     "videoId": "I4-bhdkKSfU",
-    "viewcount": 9800000
+    "viewCount": 9827505
   },
   "line": {
     "content": "Bref, on était en train de faire des trucs\nde couple quand ça a sonné à la porte.",
     "end": 5,
+    "heatValue": 51,
     "index": 0,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=1s"

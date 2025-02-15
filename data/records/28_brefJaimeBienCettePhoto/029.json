@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "Une une autre chaise et un beau black\nécrasé par un bouchon de champagne géant.",
     "end": 32,
+    "heatValue": 47,
     "index": 12,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=29s"

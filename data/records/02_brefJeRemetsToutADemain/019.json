@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "Un jour, j'ai décidé de les trier,\nj'ai répondu à quatre emails et j'en\nai mis 280 dans un dossier à répondre.",
     "end": 23,
+    "heatValue": 25,
     "index": 7,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=19s"

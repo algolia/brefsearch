@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 211,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 62,
+    "likeCount": 66207,
     "name": "Bref. J'étais toujours dans la merde.",
     "slug": "brefJetaisToujoursDansLaMerde",
     "videoId": "KM1Rsc4JyxA",
-    "viewcount": 5100000
+    "viewCount": 5199983
   },
   "line": {
     "content": "J'ai acheté des magazines\nparce qu'il y avait un nombre précis\nde conseils pour devenir musclé.",
     "end": 21,
+    "heatValue": 29,
     "index": 7,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=18s"

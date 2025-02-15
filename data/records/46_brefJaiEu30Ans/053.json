@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 805,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 46,
+    "likeCount": 79231,
     "name": "Bref. J'ai eu 30 ans.",
     "slug": "brefJaiEu30Ans",
     "videoId": "Xi-oROsTsG8",
-    "viewcount": 6300000
+    "viewCount": 6367294
   },
   "line": {
     "content": "Je suis pas assez jeune\npour la carte 12,25 et pas\nassez vieux pour la carte senior.\nJ'ai acheté des boîtes pour ranger.",
     "end": 57,
+    "heatValue": 29,
     "index": 23,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=53s"

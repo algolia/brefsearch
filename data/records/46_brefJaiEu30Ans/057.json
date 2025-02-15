@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 805,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 46,
+    "likeCount": 79231,
     "name": "Bref. J'ai eu 30 ans.",
     "slug": "brefJaiEu30Ans",
     "videoId": "Xi-oROsTsG8",
-    "viewcount": 6300000
+    "viewCount": 6367294
   },
   "line": {
     "content": "Je mélange plus les couleurs\nquand je fais une machine et\nje comprends l'étiquette de mes pulls.",
     "end": 59,
+    "heatValue": 28,
     "index": 24,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=57s"

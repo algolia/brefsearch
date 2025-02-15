@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 514,
     "durationHuman": "2:01",
     "durationInSeconds": 121,
     "index": 42,
+    "likeCount": 91912,
     "name": "Bref. J'ai un nouvel appart.",
     "slug": "brefJaiUnNouvelAppart",
     "videoId": "c-51sCEAiCg",
-    "viewcount": 7700000
+    "viewCount": 7721508
   },
   "line": {
     "content": "Je vivais chez mon père,\nelle vivait chez elle.",
     "end": 13,
+    "heatValue": 43,
     "index": 4,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=12s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "Deux semaines après,\nje l'avais toujours pas rempli.",
     "end": 88,
+    "heatValue": 6,
     "index": 36,
     "start": 87,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=87s"

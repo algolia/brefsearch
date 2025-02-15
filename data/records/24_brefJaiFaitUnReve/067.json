@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "J'ai reçu un texto de Kheiron\nqui me disait: C'est qui ces deux meufs ?",
     "end": 69,
+    "heatValue": 18,
     "index": 21,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=67s"

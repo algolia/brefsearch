@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 586,
     "durationHuman": "1:43",
     "durationInSeconds": 103,
     "index": 52,
+    "likeCount": 94368,
     "name": "Bref. Je suis en couple.",
     "slug": "brefJeSuisEnCouple",
     "videoId": "1m-zfWkcgrg",
-    "viewcount": 7400000
+    "viewCount": 7464792
   },
   "line": {
     "content": "Beaucoup trop.\nCool.",
     "end": 47,
+    "heatValue": 12,
     "index": 22,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=46s"

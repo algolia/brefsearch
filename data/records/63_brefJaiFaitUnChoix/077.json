@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:17",
     "durationInSeconds": 137,
     "index": 63,
+    "likeCount": 105080,
     "name": "Bref. J'ai fait un choix.",
     "slug": "brefJaiFaitUnChoix",
     "videoId": "UNbu1DM-jk0",
-    "viewcount": 8800000
+    "viewCount": 8818396
   },
   "line": {
     "content": "Non, parce qu'en fait, je digère\npas bien les saucisses et...",
     "end": 80,
+    "heatValue": 17,
     "index": 30,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=77s"

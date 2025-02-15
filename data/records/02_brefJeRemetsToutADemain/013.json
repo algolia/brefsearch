@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "Pareil pour le Tupperware rempli\nde moisi sur ma table de nuit.",
     "end": 15,
+    "heatValue": 38,
     "index": 3,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=13s"

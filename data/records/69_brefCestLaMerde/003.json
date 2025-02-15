@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 415,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
+    "likeCount": 80337,
     "name": "Bref. C'est la merde.",
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewcount": 6000000
+    "viewCount": 6082963
   },
   "line": {
     "content": "Quand t'es amoureux, tous les matins, il\ny a une chorégraphie qui se met en place.",
     "end": 6,
+    "heatValue": 59,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=3s"

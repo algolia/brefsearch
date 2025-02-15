@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 415,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
+    "likeCount": 80337,
     "name": "Bref. C'est la merde.",
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewcount": 6000000
+    "viewCount": 6082963
   },
   "line": {
     "content": "Ouais.\nMais c'était pas elle.",
     "end": 83,
+    "heatValue": 27,
     "index": 32,
     "start": 79,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=79s"

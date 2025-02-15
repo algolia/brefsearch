@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 560,
     "durationHuman": "1:31",
     "durationInSeconds": 91,
     "index": 11,
+    "likeCount": 108927,
     "name": "Bref. Je suis comme tout le monde.",
     "slug": "brefJeSuisCommeToutLeMonde",
     "videoId": "tkMoSaUMsiM",
-    "viewcount": 8200000
+    "viewCount": 8286572
   },
   "line": {
     "content": "J'ai toujours gardé mes reçus\nde carte bleue pour pas qu'on me vole\nmon numéro, mais j'ai jamais vérifié\ns'il y avait le numéro sur les reçus.",
     "end": 60,
+    "heatValue": 21,
     "index": 25,
     "start": 56,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=56s"

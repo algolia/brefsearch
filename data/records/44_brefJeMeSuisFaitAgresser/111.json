@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 301,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 44,
+    "likeCount": 56431,
     "name": "Bref. Je me suis fait agresser.",
     "slug": "brefJeMeSuisFaitAgresser",
     "videoId": "yQbvhuSlOt8",
-    "viewcount": 3600000
+    "viewCount": 3657673
   },
   "line": {
     "content": "Bonne journée.\nBonne journée..",
     "end": 111,
+    "heatValue": 49,
     "index": 37,
     "start": 111,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=111s"

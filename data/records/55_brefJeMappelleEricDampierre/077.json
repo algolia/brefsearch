@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 55,
+    "likeCount": 132781,
     "name": "Bref. Je m'appelle Eric Dampierre.",
     "slug": "brefJeMappelleEricDampierre",
     "videoId": "tkOuQiO-Vzg",
-    "viewcount": 9400000
+    "viewCount": 9414768
   },
   "line": {
     "content": "Je détestais ce taf de merde,\nmais il y avait des bons côtés.",
     "end": 79,
+    "heatValue": 39,
     "index": 39,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=77s"

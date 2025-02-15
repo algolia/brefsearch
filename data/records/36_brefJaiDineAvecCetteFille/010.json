@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 614,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 36,
+    "likeCount": 96372,
     "name": "Bref. J'ai dîné avec cette fille.",
     "slug": "brefJaiDineAvecCetteFille",
     "videoId": "6dyIHnUE5FY",
-    "viewcount": 8700000
+    "viewCount": 8801399
   },
   "line": {
     "content": "Fais chaud, moi, si tu peux.",
     "end": 11,
+    "heatValue": 30,
     "index": 2,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=10s"

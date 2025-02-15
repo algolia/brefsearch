@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 20,
+    "likeCount": 86290,
     "name": "Bref. J'ai eu 47 minutes de retard.",
     "slug": "brefJaiEu47MinutesDeRetard",
     "videoId": "K0XI5d8080Q",
-    "viewcount": 7200000
+    "viewCount": 7270328
   },
   "line": {
     "content": "Bref, ce jour-là, j'avais\nrendez-vous à midi avec cette fille\nque je draguais depuis un moment.\nMes yeux se sont ouverts à 10h00.",
     "end": 4,
+    "heatValue": 64,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=0s"

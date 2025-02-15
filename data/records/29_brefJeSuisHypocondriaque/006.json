@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 392,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 29,
+    "likeCount": 67863,
     "name": "Bref. Je suis hypocondriaque.",
     "slug": "brefJeSuisHypocondriaque",
     "videoId": "_AH6uf2dTLg",
-    "viewcount": 4100000
+    "viewCount": 4199001
   },
   "line": {
     "content": "Mon frère m'a dit: Tu es\nvraiment hippocondriac.",
     "end": 7,
+    "heatValue": 27,
     "index": 1,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=6s"

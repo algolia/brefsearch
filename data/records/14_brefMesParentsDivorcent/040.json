@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 336,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 14,
+    "likeCount": 84145,
     "name": "Bref. Mes parents divorcent.",
     "slug": "brefMesParentsDivorcent",
     "videoId": "cDWcCpqFh_M",
-    "viewcount": 6600000
+    "viewCount": 6682867
   },
   "line": {
     "content": "— C'est parce que j'ai mes parents qui\ndivorcent en ce moment et c'est chaud.",
     "end": 44,
+    "heatValue": 11,
     "index": 20,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=40s"

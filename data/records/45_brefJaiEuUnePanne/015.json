@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 548,
     "durationHuman": "1:53",
     "durationInSeconds": 113,
     "index": 45,
+    "likeCount": 51384,
     "name": "Bref. J'ai eu une panne.",
     "slug": "brefJaiEuUnePanne",
     "videoId": "BJoEGR47rk0",
-    "viewcount": 3600000
+    "viewCount": 3643369
   },
   "line": {
     "content": "Mademoiselle Chiff dans le Petit Spirou.",
     "end": 16,
+    "heatValue": null,
     "index": 8,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=15s"

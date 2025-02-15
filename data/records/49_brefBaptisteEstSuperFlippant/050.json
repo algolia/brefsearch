@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 490,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 49,
+    "likeCount": 93351,
     "name": "Bref. Baptiste est Super Flippant.",
     "slug": "brefBaptisteEstSuperFlippant",
     "videoId": "lrWa9VYEb78",
-    "viewcount": 7500000
+    "viewCount": 7580349
   },
   "line": {
     "content": "Super flippant.\nIl envoie des e-cards.",
     "end": 52,
+    "heatValue": 19,
     "index": 23,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=50s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Bref, j'avais beau avoir\ndu mal à oublier mon ex,\nça m'empêchait pas de voir ce mec.",
     "end": 6,
+    "heatValue": 38,
     "index": 0,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=2s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 56,
+    "likeCount": 113908,
     "name": "Bref. J'ai grandi dans les années 90.",
     "slug": "brefJaiGrandiDansLesAnnees90",
     "videoId": "HO2SLJQShJ8",
-    "viewcount": 8800000
+    "viewCount": 8859528
   },
   "line": {
     "content": "Allô ?\nEt finalement, c'était pour ma mère.",
     "end": 17,
+    "heatValue": 51,
     "index": 5,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=15s"

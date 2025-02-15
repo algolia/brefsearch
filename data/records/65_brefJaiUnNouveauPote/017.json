@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "On s'est envoyé des textos pour parler\nde gens qui étaient juste à côté de nous.",
     "end": 20,
+    "heatValue": 62,
     "index": 7,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=17s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 199,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 71,
+    "likeCount": 56247,
     "name": "Bref. J'ai fait une soirée déguisée (Partie 1).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
     "videoId": "rOI3TXz-igs",
-    "viewcount": 4900000
+    "viewCount": 4927821
   },
   "line": {
     "content": "À la fin des cinq petites\nminutes, il était 22h00.",
     "end": 25,
+    "heatValue": 4,
     "index": 12,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=22s"

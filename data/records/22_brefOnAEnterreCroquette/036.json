@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 585,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 22,
+    "likeCount": 85441,
     "name": "Bref. On a enterré croquette.",
     "slug": "brefOnAEnterreCroquette",
     "videoId": "LRzOCN7zths",
-    "viewcount": 6000000
+    "viewCount": 6068571
   },
   "line": {
     "content": "Elle était vraiment triste.",
     "end": 37,
+    "heatValue": 13,
     "index": 16,
     "start": 36,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=36s"

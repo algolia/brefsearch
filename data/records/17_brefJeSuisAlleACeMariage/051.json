@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1100,
     "durationHuman": "1:41",
     "durationInSeconds": 101,
     "index": 17,
+    "likeCount": 118681,
     "name": "Bref. Je suis allé à ce mariage.",
     "slug": "brefJeSuisAlleACeMariage",
     "videoId": "gx9ph_0tzRw",
-    "viewcount": 11000000
+    "viewCount": 11162618
   },
   "line": {
     "content": "Le seul truc bon, c'était\nles mousses au chocolat.",
     "end": 53,
+    "heatValue": 23,
     "index": 19,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=51s"

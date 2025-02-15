@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "On se vend un resto ?\nJ'ai pas faim.",
     "end": 87,
+    "heatValue": 30,
     "index": 30,
     "start": 85,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=85s"

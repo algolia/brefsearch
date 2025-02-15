@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 56,
+    "likeCount": 113908,
     "name": "Bref. J'ai grandi dans les années 90.",
     "slug": "brefJaiGrandiDansLesAnnees90",
     "videoId": "HO2SLJQShJ8",
-    "viewcount": 8800000
+    "viewCount": 8859528
   },
   "line": {
     "content": "Du coup, je rembobinais mes cassettes\navec un crayon pour pas user les piles\nde mon Wackman Auto Reverse, passeboost.",
     "end": 9,
+    "heatValue": 58,
     "index": 1,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=5s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "Et puis un jour, il m'a appelé\net il m'a dit: On peut se voir là ?",
     "end": 95,
+    "heatValue": 18,
     "index": 41,
     "start": 92,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=92s"

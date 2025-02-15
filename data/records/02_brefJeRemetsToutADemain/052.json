@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "C'était il y a un an.",
     "end": 54,
+    "heatValue": 29,
     "index": 19,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=52s"

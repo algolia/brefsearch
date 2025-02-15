@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 512,
     "durationHuman": "1:39",
     "durationInSeconds": 99,
     "index": 6,
+    "likeCount": 70060,
     "name": "Bref. J'ai traîné sur internet.",
     "slug": "brefJaiTraineSurInternet",
     "videoId": "br82-adJ0FU",
-    "viewcount": 5700000
+    "viewCount": 5741554
   },
   "line": {
     "content": "Un tweet:\n— Tu vas la baiser ?\nJ'ai reçu un texto:\n— Tu vas la baiser ?",
     "end": 48,
+    "heatValue": null,
     "index": 23,
     "start": 44,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=44s"

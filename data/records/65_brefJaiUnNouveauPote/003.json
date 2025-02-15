@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "Il adore se déguiser dans les soirées\ndéguisées, jouer à la console\ndans les soirées console\net chanter dans les karaokés.",
     "end": 7,
+    "heatValue": 45,
     "index": 2,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=3s"

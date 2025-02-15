@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 559,
     "durationHuman": "1:44",
     "durationInSeconds": 104,
     "index": 15,
+    "likeCount": 109536,
     "name": "Bref. J'ai fait les courses avec mon frère.",
     "slug": "brefJaiFaitLesCoursesAvecMonFrere",
     "videoId": "Htm39YuNOog",
-    "viewcount": 8900000
+    "viewCount": 8961396
   },
   "line": {
     "content": "Mon frère m'a dit: Ça va passer.",
     "end": 83,
+    "heatValue": 38,
     "index": 39,
     "start": 81,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=81s"

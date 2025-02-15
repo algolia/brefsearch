@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 526,
     "durationHuman": "2:10",
     "durationInSeconds": 130,
     "index": 58,
+    "likeCount": 81033,
     "name": "Bref. C'était sa chanson préférée.",
     "slug": "brefCetaitSaChansonPreferee",
     "videoId": "UURXmjwlcDI",
-    "viewcount": 6200000
+    "viewCount": 6245023
   },
   "line": {
     "content": "J'avais décidé d'être un homme et de\nlui faire un cadeau tellement puissant\nque je n'aurais plus besoin de rien\nlui offrir pendant au moins six mois.",
     "end": 34,
+    "heatValue": 4,
     "index": 9,
     "start": 30,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=30s"

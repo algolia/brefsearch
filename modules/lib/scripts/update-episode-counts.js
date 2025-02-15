@@ -12,7 +12,7 @@ import {
 import { _, pMap } from 'golgoth';
 import { convertCounts } from '../convertCounts.js';
 
-const episodes = await glob('08*.json', {
+const episodes = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
 });
 const episodeCount = episodes.length;
@@ -51,21 +51,17 @@ await pMap(
     }
 
     progress.tick(
-      `[${episodeIndex}/${episodeCount}] ${episodeSlug} / Extracting metadata`,
+      `[${episodeIndex}/${episodeCount}] Counts: ${episodeSlug} / Extracting metadata`,
     );
 
     await mkdirp(path.dirname(countPath));
 
     const counts = await convertCounts(countPath);
-    console.info(counts);
-    // 08
-    // 57
 
     delete episode.video.viewcount;
     episode.video.viewCount = counts.viewCount;
     episode.video.likeCount = counts.likeCount;
     episode.video.commentCount = counts.commentCount;
-    episode.video.isAgeRestricted = counts.isAgeRestricted;
 
     _.each(episode.lines, (line) => {
       line.heatValue = findHeatValue(counts.heatmap, line);
@@ -75,7 +71,7 @@ await pMap(
   },
   { concurrency },
 );
-progress.success('All popularity metrics extracted');
+progress.success('All count metrics extracted');
 
 /**
  * Return a score between 1 and 100 for a given line

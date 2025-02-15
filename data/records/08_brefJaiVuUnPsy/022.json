@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 145,
     "durationHuman": "1:09",
     "durationInSeconds": 69,
     "index": 8,
+    "likeCount": 24402,
     "name": "Bref. J'ai vu un psy.",
     "slug": "brefJaiVuUnPsy",
     "videoId": "xHTx3mYfGUQ",
-    "viewcount": 2500000
+    "viewCount": 2511951
   },
   "line": {
     "content": "26ème:\n— J'ai rencontré une autre fille.",
     "end": 24,
+    "heatValue": null,
     "index": 9,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=22s"

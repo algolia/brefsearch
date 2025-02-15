@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 33,
+    "likeCount": 166814,
     "name": "Bref. J'ai couché avec Émilie.",
     "slug": "brefJaiCoucheAvecEmilie",
     "videoId": "mEu0q3Slzj0",
-    "viewcount": 15000000
+    "viewCount": 15359989
   },
   "line": {
     "content": "Bref, j'ai recroisé Emilie, la fille dont\nj'étais amoureux quand j'avais 15 ans.",
     "end": 6,
+    "heatValue": null,
     "index": 2,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=3s"

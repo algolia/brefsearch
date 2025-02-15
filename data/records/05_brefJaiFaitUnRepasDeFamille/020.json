@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "Et comme d'hab, ils parlaient politique\nparce que l'apéro avait duré\n2 bouteilles et 34 verres.\n— Tu peux pas dire ça.",
     "end": 24,
+    "heatValue": 11,
     "index": 10,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=20s"

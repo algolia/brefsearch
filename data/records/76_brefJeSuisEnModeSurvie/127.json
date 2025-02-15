@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Je vais montrer nos Guy Valgaré.",
     "end": 128,
+    "heatValue": 12,
     "index": 46,
     "start": 127,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=127s"

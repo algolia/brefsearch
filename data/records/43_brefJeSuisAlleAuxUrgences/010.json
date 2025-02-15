@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 43,
+    "likeCount": 138987,
     "name": "Bref. Je suis allé aux urgences.",
     "slug": "brefJeSuisAlleAuxUrgences",
     "videoId": "1tZiw9KR6Jk",
-    "viewcount": 11000000
+    "viewCount": 11560525
   },
   "line": {
     "content": "Kheiron m'a dit: Un truc dégueulasse.\nJulien m'a dit: Mange de la mie de pain.",
     "end": 12,
+    "heatValue": 86,
     "index": 8,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=10s"

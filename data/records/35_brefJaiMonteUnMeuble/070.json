@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "Je suis retourné en arrière, j'ai fait\nl'étape 9, je suis revenu à l'étape 14.",
     "end": 72,
+    "heatValue": 10,
     "index": 29,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=70s"

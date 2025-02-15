@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 525,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 7,
+    "likeCount": 88753,
     "name": "Bref. Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare",
     "videoId": "QJEyHT7IU5M",
-    "viewcount": 6600000
+    "viewCount": 6698014
   },
   "line": {
     "content": "En y réfléchissant, j'ai repensé\nà toutes les fois où Ben m'a dit\nqu'un truc servait à rien.",
     "end": 29,
+    "heatValue": 34,
     "index": 13,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=25s"

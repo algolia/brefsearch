@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 336,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 14,
+    "likeCount": 84145,
     "name": "Bref. Mes parents divorcent.",
     "slug": "brefMesParentsDivorcent",
     "videoId": "cDWcCpqFh_M",
-    "viewcount": 6600000
+    "viewCount": 6682867
   },
   "line": {
     "content": "— La mauvaise, c'est\nque je pars de chez toi.",
     "end": 65,
+    "heatValue": 14,
     "index": 31,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=64s"

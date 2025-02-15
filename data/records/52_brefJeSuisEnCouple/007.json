@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 586,
     "durationHuman": "1:43",
     "durationInSeconds": 103,
     "index": 52,
+    "likeCount": 94368,
     "name": "Bref. Je suis en couple.",
     "slug": "brefJeSuisEnCouple",
     "videoId": "1m-zfWkcgrg",
-    "viewcount": 7400000
+    "viewCount": 7464792
   },
   "line": {
     "content": "Lui, c'est ma liberté.",
     "end": 8,
+    "heatValue": 13,
     "index": 4,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=7s"

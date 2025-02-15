@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 512,
     "durationHuman": "1:39",
     "durationInSeconds": 99,
     "index": 6,
+    "likeCount": 70060,
     "name": "Bref. J'ai traîné sur internet.",
     "slug": "brefJaiTraineSurInternet",
     "videoId": "br82-adJ0FU",
-    "viewcount": 5700000
+    "viewCount": 5741554
   },
   "line": {
     "content": "Je suis allé sur son profil,\nj'ai cherché ses photos, j'ai cherché\nun album Été 2011, rien.\nÉté 2010, rien.",
     "end": 31,
+    "heatValue": null,
     "index": 14,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=26s"

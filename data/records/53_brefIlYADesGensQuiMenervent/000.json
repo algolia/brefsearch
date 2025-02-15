@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2900,
     "durationHuman": "2:19",
     "durationInSeconds": 139,
     "index": 53,
+    "likeCount": 209093,
     "name": "Bref. Il y a des gens qui m'énervent.",
     "slug": "brefIlYADesGensQuiMenervent",
     "videoId": "tjRXxJaupoc",
-    "viewcount": 11000000
+    "viewCount": 11882596
   },
   "line": {
     "content": "Putain, j'ai perdu mes clés.",
     "end": 1,
+    "heatValue": 35,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=0s"

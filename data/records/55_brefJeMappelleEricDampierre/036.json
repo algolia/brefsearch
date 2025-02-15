@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 55,
+    "likeCount": 132781,
     "name": "Bref. Je m'appelle Eric Dampierre.",
     "slug": "brefJeMappelleEricDampierre",
     "videoId": "tkOuQiO-Vzg",
-    "viewcount": 9400000
+    "viewCount": 9414768
   },
   "line": {
     "content": "Du coup, cette donnée.\nJe peux pas me le permettre.",
     "end": 38,
+    "heatValue": 15,
     "index": 20,
     "start": 36,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=36s"

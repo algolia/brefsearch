@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "J'avais plus d'appart, plus de coloc.\nMon lit était en bas de l'immeuble.",
     "end": 91,
+    "heatValue": 16,
     "index": 40,
     "start": 89,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=89s"

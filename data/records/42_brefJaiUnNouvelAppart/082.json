@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 514,
     "durationHuman": "2:01",
     "durationInSeconds": 121,
     "index": 42,
+    "likeCount": 91912,
     "name": "Bref. J'ai un nouvel appart.",
     "slug": "brefJaiUnNouvelAppart",
     "videoId": "c-51sCEAiCg",
-    "viewcount": 7700000
+    "viewCount": 7721508
   },
   "line": {
     "content": "Je sais pas, moi, parce que je t'aime.\nOuais, bah...",
     "end": 89,
+    "heatValue": 11,
     "index": 29,
     "start": 82,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=82s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/gif/082.gif",
-    "hash": "4b5da653c9",
+    "hash": "ef10e4bee5",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AB8ODR8AAF8+M4t2Yo53Y25VSDoYFH5iU4NnVX5hT4FmVHVaSGhOPmFIPVVBOEk3LwAoFRMgAABpRDiji3VhTkVmSkZOLSFlSDmKbVmDY06JalZ6XEdwVEJtUT5eQSpONR8AMhwaIwAAcEc6rpV9YEpFclNQVy4gaEIxjGxSi2pPi2tQf2BIc1dFc1Q8SC4UUjMQADslIyYAAHVJPbSdh4FfUnFQS0soH3NPPZ99YIxpS3RTPWBDM2dLPGlQQUIvG2REHwBFLy8pAAFlODC5pomqjXR5VU9LJyFxTzqhh2aLZ0h1Vj9aPjJbQjddRTtOJQ9jORwATDg5MwwNm39kuKd9tJ10dlZBSiYXY0Ebbk4bhWhHel9QZU1AXkQ4bVRMZzkrXi0fAEs8P1c8NLajeJaAVohwR3NXLGdJHWpOIXJTIn5hO1VGRlNDQ3dcUolyaoh0bnFdWQBDKSxxVT2hh1RyZUVuYkRuWTZfSypbSCZvVih7XCovHRYnGR1fRj2WfnWfioFxX1sAOwkHc1E3hG9BiXZRbGBFXkwuXEwtU0YpalErXz8gJBUVHxARFwsLNigmaFhTVkVDkS2INL5Op3EAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAnEhEnAQJpRjuWgWyYgW13XlFDHxqIbV2Ncl+IbFmLcF+AZFNzWEhrU0dgS0JUQTkAMRoYKQABcks/rJaAa1dOcFVPWTYpb1BClHdkjW5ZknVhhWdSel9NeFxIaUwzWT8nADsjICwAAXlOQrWfiGlVTnxfWWI4KHJMOpV3XJV1WpV1W4lqUn5hT31gRlI1G107FgBFLCovAQJ+UEO7p5GKa1t6W1NVMiZ8WUeniGuVdFZ+XkhqTTxxVUZ0WktMOCNuTycATzc3MwMEb0A2wK6TsZd/gmBZVTApelhCqI9ulHJTf2BKZUg7ZkxAaE5FWS0VbEQiAFZBQT0REaOFbMCuh7umgH9hS1UvHm5LInhZI49yUIRpW3BYSmhOQXdfV3FCMmg0JQBWRkhfQTi+q4KgimKRelF9YjRzVCV1WCp8XSqIbURgUE9eTUyBZ12SfHWRfnl8aGMATjI0elxEqZFfe25PeWxOeWM/alYzZlIvemAyhWczNyQdMCEiaFBGn4h/qZOLfGllAEUOC31ZP494S5N/W3dqT2hXN2dWN15RM3RcNGlIKCwcGicXFh8PED4uLHJgW2FOTONZl7P5wLsoAAAAAElFTkSuQmCC",
     "url": "https://assets.pixelastic.com/brefsearch/42_brefJaiUnNouvelAppart/082.png",
     "width": 1920
   }

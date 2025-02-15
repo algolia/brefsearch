@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 199,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 71,
+    "likeCount": 56247,
     "name": "Bref. J'ai fait une soirée déguisée (Partie 1).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
     "videoId": "rOI3TXz-igs",
-    "viewcount": 4900000
+    "viewCount": 4927821
   },
   "line": {
     "content": "C'était vraiment la pire soirée de ma vie.",
     "end": 89,
+    "heatValue": 1,
     "index": 41,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=86s"

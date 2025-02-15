@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Bref, je voulais arrêter la coloc.",
     "end": 2,
+    "heatValue": 63,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=0s"

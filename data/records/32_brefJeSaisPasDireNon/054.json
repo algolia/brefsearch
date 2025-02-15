@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 699,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 32,
+    "likeCount": 94559,
     "name": "Bref. Je sais pas dire non.",
     "slug": "brefJeSaisPasDireNon",
     "videoId": "OmEx0mpHFG4",
-    "viewcount": 7900000
+    "viewCount": 7987391
   },
   "line": {
     "content": "Un jour, j'en ai parlé\nà Baptiste, il m'a dit: En fait,\nje peux pas payer le loyer ce mois-ci.",
     "end": 58,
+    "heatValue": 10,
     "index": 25,
     "start": 54,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=54s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 145,
     "durationHuman": "1:09",
     "durationInSeconds": 69,
     "index": 8,
+    "likeCount": 24402,
     "name": "Bref. J'ai vu un psy.",
     "slug": "brefJaiVuUnPsy",
     "videoId": "xHTx3mYfGUQ",
-    "viewcount": 2500000
+    "viewCount": 2511951
   },
   "line": {
     "content": "On était passé à l'heure d'été,\nj'étais arrivé une heure en retard.",
     "end": 54,
+    "heatValue": null,
     "index": 21,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=51s"

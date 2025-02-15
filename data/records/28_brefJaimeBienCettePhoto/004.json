@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "Avec ma main droite, je faisais\nun deux et j'avais les lèvres retroussées\npour faire comme tous les mecs cool\nsur les photos des années 2010.",
     "end": 9,
+    "heatValue": 45,
     "index": 2,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=4s"

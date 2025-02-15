@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2900,
     "durationHuman": "2:19",
     "durationInSeconds": 139,
     "index": 53,
+    "likeCount": 209093,
     "name": "Bref. Il y a des gens qui m'énervent.",
     "slug": "brefIlYADesGensQuiMenervent",
     "videoId": "tjRXxJaupoc",
-    "viewcount": 11000000
+    "viewCount": 11882596
   },
   "line": {
     "content": "Il faudra un shampoing\naux extraits naturels de couettes.",
     "end": 20,
+    "heatValue": 25,
     "index": 7,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=17s"

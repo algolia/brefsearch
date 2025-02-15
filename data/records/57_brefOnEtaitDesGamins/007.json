@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 57,
+    "likeCount": 112972,
     "name": "Bref. On était des gamins.",
     "slug": "brefOnEtaitDesGamins",
     "videoId": "LI0mfa3sqWY",
-    "viewcount": 6300000
+    "viewCount": 6343137
   },
   "line": {
     "content": "J'ai dit: On le fait ensemble ?\nElle m'a dit: OK.",
     "end": 9,
+    "heatValue": null,
     "index": 4,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=7s"

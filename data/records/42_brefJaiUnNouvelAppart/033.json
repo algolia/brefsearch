@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 514,
     "durationHuman": "2:01",
     "durationInSeconds": 121,
     "index": 42,
+    "likeCount": 91912,
     "name": "Bref. J'ai un nouvel appart.",
     "slug": "brefJaiUnNouvelAppart",
     "videoId": "c-51sCEAiCg",
-    "viewcount": 7700000
+    "viewCount": 7721508
   },
   "line": {
     "content": "Le lendemain matin,\nelle est partie au boulot.",
     "end": 37,
+    "heatValue": 6,
     "index": 12,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=33s"

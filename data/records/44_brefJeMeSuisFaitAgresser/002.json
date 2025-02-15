@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 301,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 44,
+    "likeCount": 56431,
     "name": "Bref. Je me suis fait agresser.",
     "slug": "brefJeMeSuisFaitAgresser",
     "videoId": "yQbvhuSlOt8",
-    "viewcount": 3600000
+    "viewCount": 3657673
   },
   "line": {
     "content": "Un mec qui voulait me voler\nmon portable m'avait mis\nune claque et comme un grelash,\nje lui avais répondu: Bonne journée.",
     "end": 5,
+    "heatValue": 70,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=2s"

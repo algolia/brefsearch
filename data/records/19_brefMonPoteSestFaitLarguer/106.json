@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 305,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 19,
+    "likeCount": 76028,
     "name": "Bref. Mon pote s'est fait larguer.",
     "slug": "brefMonPoteSestFaitLarguer",
     "videoId": "J9EL_bGpdP4",
-    "viewcount": 6200000
+    "viewCount": 6265057
   },
   "line": {
     "content": "— Vous acceptez la carte bleue ?",
     "end": 107,
+    "heatValue": 17,
     "index": 43,
     "start": 106,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=106s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/106.gif",
-    "hash": "82c8b3183b",
+    "hash": "d32e91ed42",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nBXQf2sSYRwA8IPnvs/dc/fcL32807vTzp11k52ZZkJjaeRCXdOwArdoP9LNaJXpHxvMigIHxaDFKCqCFRVBvYDe39gr+MCHWyjOlkM/bWlpJgem3L4aDNrzH/c2vr7ofZv0P20tP7me3bxZmGw09u7Xxveucb4Tm02ZWVe/kNDmHK3kGaPujb/vhr8OHp/sb3/pd6atK81ccry6OO03drsVTsa8xCNXJ2dCQgtdtbdU/n2w8+9wdPJ85Vk193AhuJ13poPW8bDzer3GCQhEBBoGS8KuKvgxOTDJq17z/4fR8WbraSX/tlN80y7+nKx9Ht853KpzBAFBQAGiBMdEcBQhqaDG5ezOSndYn39Qzt4K44uF4MfL9e+7d48e1TmKQQZQMRgCRERgIqQUPnRYwkqXZuJ5N5qJyhaLr7Wqf/Y7R9s1zpBFQ8K6iA0B6xgMDA7lc0nLNm0mCRaVkgb1vfP+zKX+cvV9r8IxRdQJVjBowBsYmAAZDfIusw1VlykViK7qjuuZzPe9wqBZOlsiPJJ5RHmkY4gIEEbJRVuLUKpJVBHpuZTn2Jm45Tq2vVqdOwVVP1EgvJTT4wAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwVzltP01AAAOA+bD09vayntTfObF0vY9A2jpJtNsi8EI1sJE2kCxsK4bIoyDZGFIljL4uIhgRJvESI0aghhhgSo+/+OMMv+D7i3vXgVtEb1WUX83kdNabGtubvfBms/9hvn+51vnbrz6vjG9HEq4148CjqL00TnpUOspfHbSVvygVLLo9oveWZP+9fnB9t/3y5+a3z4LBxIy45u83o7WZtsDpN8BTgQdJROBejsYxUsqR27eb50fbfD7unvdWdarF1Nz9/zT7s1j/3Fg6eRASTAEwSSBAYKWiLtJ9GgZ5604r/nfRPWnM7ldK7h+WDxuSv/bXv/cWP3VmCJQGbBAgAzMI0A0yBHhbJ+5PBs+ZKL55aux3UCpmZ8OrZ6/WzweLx01kCXZSAAIFKUxpDYZbKCqBo44w+UnaN0NH8oZSBjcdz1d97C8fdiFB5RklBiYEqpBRIqRDYiCxldTN9BfO0IXK2gvxh3/PCdr3yqVMhhgRW5igRkhJJqvBC8CUYOthURQUhgWFlQXbMnI5dz53YissETyU5MsGTCUQmZAA0GhQxF5qyhtAlThAZlHNylulndNs2rWal8B9tSFzYghy7fgAAAABJRU5ErkJggg==",
     "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/106.png",
     "width": 1920
   }

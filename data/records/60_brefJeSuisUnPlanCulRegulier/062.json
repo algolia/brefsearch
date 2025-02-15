@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Un jour, Marie m'a dit: Dis-lui que tu es\nenceinte, tu verras si je t'aime.",
     "end": 68,
+    "heatValue": 59,
     "index": 27,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=62s"

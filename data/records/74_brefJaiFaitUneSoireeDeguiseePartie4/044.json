@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "3:02",
     "durationInSeconds": 182,
     "index": 74,
+    "likeCount": 73509,
     "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
     "videoId": "UDko2X994U4",
-    "viewcount": 4700000
+    "viewCount": 4770369
   },
   "line": {
     "content": "Maud, t'as pas T'es un ami.\nTu crois quoi ?",
     "end": 46,
+    "heatValue": 27,
     "index": 15,
     "start": 44,
     "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=44s"

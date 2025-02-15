@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 590,
     "durationHuman": "1:49",
     "durationInSeconds": 109,
     "index": 25,
+    "likeCount": 79173,
     "name": "Bref. J'ai fait un dépistage.",
     "slug": "brefJaiFaitUnDepistage",
     "videoId": "41X9gwbeMxQ",
-    "viewcount": 6800000
+    "viewCount": 6825279
   },
   "line": {
     "content": "J'avais pas pincé le réservoir.\nMarla m'a demandé d'aller faire un test.",
     "end": 14,
+    "heatValue": 62,
     "index": 5,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=12s"

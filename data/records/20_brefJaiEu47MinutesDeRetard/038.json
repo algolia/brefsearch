@@ -1,17 +1,20 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 20,
+    "likeCount": 86290,
     "name": "Bref. J'ai eu 47 minutes de retard.",
     "slug": "brefJaiEu47MinutesDeRetard",
     "videoId": "K0XI5d8080Q",
-    "viewcount": 7200000
+    "viewCount": 7270328
   },
   "line": {
-    "content": "J'ai entendu: Fils de pute.",
+    "content": "J'ai entendu:\n— Fils de pute, va.",
     "end": 39,
-    "index": 19,
+    "heatValue": 18,
+    "index": 21,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=38s"
   },

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 299,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 73,
+    "likeCount": 62306,
     "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
     "videoId": "WRXsFwhVzTs",
-    "viewcount": 4900000
+    "viewCount": 5001029
   },
   "line": {
     "content": "Je suis allé ailleurs.",
     "end": 48,
+    "heatValue": 4,
     "index": 20,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=47s"

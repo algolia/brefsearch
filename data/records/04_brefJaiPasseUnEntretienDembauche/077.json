@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "Il m'a dit:\n— kayak de mer\nou kayak d'eau vive ?",
     "end": 78,
+    "heatValue": 27,
     "index": 28,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=77s"

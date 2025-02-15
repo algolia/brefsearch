@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "Et pour que ça parte en couille,\nil faut une bonne équipe.",
     "end": 3,
+    "heatValue": 57,
     "index": 1,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=1s"

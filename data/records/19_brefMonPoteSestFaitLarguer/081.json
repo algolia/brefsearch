@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 305,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 19,
+    "likeCount": 76028,
     "name": "Bref. Mon pote s'est fait larguer.",
     "slug": "brefMonPoteSestFaitLarguer",
     "videoId": "J9EL_bGpdP4",
-    "viewcount": 6200000
+    "viewCount": 6265057
   },
   "line": {
     "content": "— Je suis amoureux, connard.",
     "end": 89,
+    "heatValue": 35,
     "index": 35,
     "start": 81,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=81s"

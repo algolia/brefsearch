@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 295,
     "durationHuman": "2:00",
     "durationInSeconds": 120,
     "index": 34,
+    "likeCount": 65615,
     "name": "Bref. J'ai fait un concert.",
     "slug": "brefJaiFaitUnConcert",
     "videoId": "04gASg8-J3Y",
-    "viewcount": 5200000
+    "viewCount": 5216215
   },
   "line": {
     "content": "Mes potes sont venus en retard.",
     "end": 19,
+    "heatValue": 32,
     "index": 6,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=18s"

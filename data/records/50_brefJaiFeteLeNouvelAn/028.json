@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 520,
     "durationHuman": "1:57",
     "durationInSeconds": 117,
     "index": 50,
+    "likeCount": 76148,
     "name": "Bref. J'ai fêté le nouvel an.",
     "slug": "brefJaiFeteLeNouvelAn",
     "videoId": "-KG96E4nu-s",
-    "viewcount": 6100000
+    "viewCount": 6184265
   },
   "line": {
     "content": "En 42ème position des Le plus\nmarrant, le chat qui tousse\navec du chocolat en poudre.",
     "end": 32,
+    "heatValue": 17,
     "index": 14,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=28s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "Je me suis demandé si un jour,\nil était vraiment entré dans une boutique\net qu'il avait dit:\n— Bonjour madame, je voudrais une cravate dingo",
     "end": 55,
+    "heatValue": 27,
     "index": 19,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=51s"

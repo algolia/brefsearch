@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "J'étais dans la pub Energy 3000\navec le costard que je mets\nau mariage, aux enterrements\net aux entretiens d'embauche.",
     "end": 74,
+    "heatValue": 10,
     "index": 22,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=69s"

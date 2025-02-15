@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2900,
     "durationHuman": "2:19",
     "durationInSeconds": 139,
     "index": 53,
+    "likeCount": 209093,
     "name": "Bref. Il y a des gens qui m'énervent.",
     "slug": "brefIlYADesGensQuiMenervent",
     "videoId": "tjRXxJaupoc",
-    "viewcount": 11000000
+    "viewCount": 11882596
   },
   "line": {
     "content": "Un autre truc qui m'énerve,\nc'est les mecs qui passent toute\nleur soirée au téléphone.",
     "end": 59,
+    "heatValue": 22,
     "index": 25,
     "start": 56,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=56s"

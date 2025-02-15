@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 520,
     "durationHuman": "1:57",
     "durationInSeconds": 117,
     "index": 50,
+    "likeCount": 76148,
     "name": "Bref. J'ai fêté le nouvel an.",
     "slug": "brefJaiFeteLeNouvelAn",
     "videoId": "-KG96E4nu-s",
-    "viewcount": 6100000
+    "viewCount": 6184265
   },
   "line": {
     "content": "Non, merci.",
     "end": 109,
+    "heatValue": 10,
     "index": 41,
     "start": 108,
     "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=108s"

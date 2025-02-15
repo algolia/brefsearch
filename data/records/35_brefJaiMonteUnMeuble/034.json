@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "Sur la notice, ils indiquaient qu'il\nfallait être deux pour monter ce meuble.",
     "end": 38,
+    "heatValue": 11,
     "index": 16,
     "start": 34,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=34s"

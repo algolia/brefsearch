@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "2:31",
     "durationInSeconds": 151,
     "index": 80,
+    "likeCount": 164024,
     "name": "Bref. J'ai fait une dépression.",
     "slug": "brefJaiFaitUneDepression",
     "videoId": "DwfwmxOF_3E",
-    "viewcount": 9200000
+    "viewCount": 9241801
   },
   "line": {
     "content": "Tu me dis que si un jour,\ntu n'es vraiment pas bien, OK ?",
     "end": 71,
+    "heatValue": 12,
     "index": 24,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=67s"

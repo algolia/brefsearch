@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 543,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 12,
+    "likeCount": 114614,
     "name": "Bref. J'ai eu un job.",
     "slug": "brefJaiEuUnJob",
     "videoId": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "viewCount": 9722385
   },
   "line": {
     "content": "Il m'a dit:\n— Vous aurez rien, hein.\nJ'ai dit:\n— C'est pas un problème.",
     "end": 84,
+    "heatValue": 16,
     "index": 37,
     "start": 82,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=82s"

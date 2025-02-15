@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 490,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 49,
+    "likeCount": 93351,
     "name": "Bref. Baptiste est Super Flippant.",
     "slug": "brefBaptisteEstSuperFlippant",
     "videoId": "lrWa9VYEb78",
-    "viewcount": 7500000
+    "viewCount": 7580349
   },
   "line": {
     "content": "Il peut multiplier la valeur\ndes cadeaux par 1 000.",
     "end": 37,
+    "heatValue": 12,
     "index": 19,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=35s"

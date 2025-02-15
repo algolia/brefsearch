@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1100,
     "durationHuman": "1:41",
     "durationInSeconds": 101,
     "index": 17,
+    "likeCount": 118681,
     "name": "Bref. Je suis allé à ce mariage.",
     "slug": "brefJeSuisAlleACeMariage",
     "videoId": "gx9ph_0tzRw",
-    "viewcount": 11000000
+    "viewCount": 11162618
   },
   "line": {
     "content": "Ils avaient mis qu'un S.\nEn même temps, je m'appelle pas Jessica.",
     "end": 35,
+    "heatValue": 11,
     "index": 16,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=32s"

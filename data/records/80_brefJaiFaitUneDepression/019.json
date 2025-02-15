@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "2:31",
     "durationInSeconds": 151,
     "index": 80,
+    "likeCount": 164024,
     "name": "Bref. J'ai fait une dépression.",
     "slug": "brefJaiFaitUneDepression",
     "videoId": "DwfwmxOF_3E",
-    "viewcount": 9200000
+    "viewCount": 9241801
   },
   "line": {
     "content": "Je me suis dit que non,\nje devais être fatigué parce que c'était\nl'hiver et que ça faisait trois semaines\nque j'étais resté enfermé chez moi à rien",
     "end": 23,
+    "heatValue": 10,
     "index": 8,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=19s"

@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 716,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 67,
+    "likeCount": 87826,
     "name": "Bref. J'ai perdu mes cheveux.",
     "slug": "brefJaiPerduMesCheveux",
     "videoId": "akriQ9yTodk",
-    "viewcount": 7300000
+    "viewCount": 7385243
   },
   "line": {
     "content": "C'est pas grave ont des cheveux.\nC'est pas grave.",
     "end": 37,
+    "heatValue": 34,
     "index": 13,
     "start": 34,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=34s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/gif/034.gif",
-    "hash": "63cd786162",
+    "hash": "534562a7fa",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXBW2/SUAAA4C50tLOXlfac9rQVWGk7bgOEMCQTBgN1UESQS2CjUhe5GIabVF0Mm09mxuzF7GHvZr/U78MID6762KyhnPV693//Xc7mq5ljt/sH8cR+2JgN2nfrL+70fSmXtvtWcT+B4RubPooyED8f9h/uH6/d7ydvrd/uzxvH/lQrHWWSf25Wk+EAskImHDxIRzACJzialRhq1Hp3d/vgLpYf+t313F22GpNapZZN/5qMR42GsA2TejCfMjEvTnIUvRfauZief1tdn43sHyeD9fTzebs1OCosXh1Od81jLYSArACkyTKGe0iWJMu53OvDSsYw7eSzq3zh9uLrZbez6jZOUzELCs6uVtR1lhEABzHPBiFSTFRVGPLJm6C+isVHmjEsvRxXyvVsKg9hUxI7ivgxqgNOpCgOY3Ai7OMEipYZ/irz3NH1nt+vQ3XPjCqClAXisQiaEnB0vw7RJsFgkNxKqQjHyXrQWEZidRF2NC2i7mzRAs8CSzOqEFgisAPKi8BTj5fBEioyEYhs84tovK3IZd5XRahZqhbLNVFQC3KgLqGxFjr1y1ZA8RL0f5TRWaHkYSe3AAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwe1PEnEAAOBbIeBdeBxwh3e/ewWC7oUQGG+pmLEbeokWB4agRxCHiA7QhQ49o+XgU5ut+aHV5ue2/smeB4JtzgDhyyuhU8P48+vvZHRuDfvmQbOQSudjyqhVf5hdW8Pedj7XPdS31tKQ/YnTj7qjLHnebj7+/jezvn6qVe9v5/P+8YWuaauZn7ObQbvN4ORqNKLm4hC8ABOoh/VhZr3x8OPx9vPV6ceju4vry/r+oLxTXs99H/Q61SqF0xkpUkjHIOfCMwLFUlJkMhxPb+ZnZvdbp3U3uhw3Dlpv1fHu9jCm7IkiR/EBihM5HrLbEC/i0jY29oraK1kxs9npG/V+8mViHFnGfieTrADyJCqqkuzzUBQOINtTGKBYIih4XUt6RLKSqa4ot7Wdk5JWyWc2AfjAMgbPnMVlEqfdKAFhDmSFwEk3xmLEdP11X5aboZAMhFQ0zlPMGkWXAagxoC+HRcDBsAcCiCsrsA478i6sXCUSOkMfiuJK4MUSRvo9ZEVWdgFVocFxWCiEgo5FDEoH2ShDvfQujxPJBs9py/4Sx9WKpeLWe5oU1EBQZ9meJJkhQX8uIIvu/4eaZu1Znc/vAAAAAElFTkSuQmCC",
     "url": "https://assets.pixelastic.com/brefsearch/67_brefJaiPerduMesCheveux/034.png",
     "width": 1920
   }

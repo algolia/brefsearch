@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 710,
     "durationHuman": "2:08",
     "durationInSeconds": 128,
     "index": 59,
+    "likeCount": 84316,
     "name": "Bref. Mon père veut être jeune.",
     "slug": "brefMonPereVeutEtreJeune",
     "videoId": "7Ry1eljBOvM",
-    "viewcount": 6900000
+    "viewCount": 6922744
   },
   "line": {
     "content": "La fille qui m'attend là-haut,\nc'est ça mon truc important.",
     "end": 100,
+    "heatValue": 25,
     "index": 45,
     "start": 97,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=97s"

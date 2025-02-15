@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Un mec qui dit: Un, deux.",
     "end": 52,
+    "heatValue": 18,
     "index": 22,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=50s"

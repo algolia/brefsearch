@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 805,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 46,
+    "likeCount": 79231,
     "name": "Bref. J'ai eu 30 ans.",
     "slug": "brefJaiEu30Ans",
     "videoId": "Xi-oROsTsG8",
-    "viewcount": 6300000
+    "viewCount": 6367294
   },
   "line": {
     "content": "One more time des à 11 ans, Jurassic Park\nà 19 ans et Les Simpson en 23 ans.",
     "end": 32,
+    "heatValue": 52,
     "index": 11,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=29s"

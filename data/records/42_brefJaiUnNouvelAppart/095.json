@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 514,
     "durationHuman": "2:01",
     "durationInSeconds": 121,
     "index": 42,
+    "likeCount": 91912,
     "name": "Bref. J'ai un nouvel appart.",
     "slug": "brefJaiUnNouvelAppart",
     "videoId": "c-51sCEAiCg",
-    "viewcount": 7700000
+    "viewCount": 7721508
   },
   "line": {
     "content": "Bref, je vis avec cette fille.",
     "end": 101,
+    "heatValue": 15,
     "index": 31,
     "start": 95,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=95s"

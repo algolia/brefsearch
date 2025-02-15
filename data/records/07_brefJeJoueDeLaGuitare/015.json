@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 525,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 7,
+    "likeCount": 88753,
     "name": "Bref. Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare",
     "videoId": "QJEyHT7IU5M",
-    "viewcount": 6600000
+    "viewCount": 6698014
   },
   "line": {
     "content": "J'ai commencé à apprendre\nen regardant des vidéos sur Internet,\nmais j'allais souvent sur des vidéos\nqui avaient aucun rapport.",
     "end": 19,
+    "heatValue": 46,
     "index": 8,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=15s"

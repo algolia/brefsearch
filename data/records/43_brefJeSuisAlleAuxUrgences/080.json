@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 43,
+    "likeCount": 138987,
     "name": "Bref. Je suis allé aux urgences.",
     "slug": "brefJeSuisAlleAuxUrgences",
     "videoId": "1tZiw9KR6Jk",
-    "viewcount": 11000000
+    "viewCount": 11560525
   },
   "line": {
     "content": "Il m'a dit qu'il allait revenir\nle temps que ça fasse effet.",
     "end": 84,
+    "heatValue": 13,
     "index": 40,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=80s"

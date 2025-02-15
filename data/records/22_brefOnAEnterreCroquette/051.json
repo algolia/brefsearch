@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 585,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 22,
+    "likeCount": 85441,
     "name": "Bref. On a enterré croquette.",
     "slug": "brefOnAEnterreCroquette",
     "videoId": "LRzOCN7zths",
-    "viewcount": 6000000
+    "viewCount": 6068571
   },
   "line": {
     "content": "Croquettes, tu vas nous manquer.",
     "end": 58,
+    "heatValue": 10,
     "index": 21,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=51s"

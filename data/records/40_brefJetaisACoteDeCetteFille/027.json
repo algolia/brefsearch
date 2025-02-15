@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 646,
     "durationHuman": "1:16",
     "durationInSeconds": 76,
     "index": 40,
+    "likeCount": 63125,
     "name": "Bref. J'étais à côté de cette fille.",
     "slug": "brefJetaisACoteDeCetteFille",
     "videoId": "DOMouPqhIus",
-    "viewcount": 5500000
+    "viewCount": 5561842
   },
   "line": {
     "content": "Je n'avais plus d'appart,\nelle m'a dit: Passe.",
     "end": 29,
+    "heatValue": 17,
     "index": 16,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=27s"

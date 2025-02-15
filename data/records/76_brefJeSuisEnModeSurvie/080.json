@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Moins il y a de thé,\nplus je mets de sucre.",
     "end": 81,
+    "heatValue": 48,
     "index": 26,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=80s"

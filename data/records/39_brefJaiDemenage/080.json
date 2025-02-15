@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Du coup, je pouvais plus\nrécupérer son appart, je devais\nretourner chez Baptiste.",
     "end": 82,
+    "heatValue": 13,
     "index": 35,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=80s"

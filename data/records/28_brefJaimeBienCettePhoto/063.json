@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "À mes pieds, il y avait\nBaptiste, mon coloc.",
     "end": 65,
+    "heatValue": 15,
     "index": 23,
     "start": 63,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=63s"

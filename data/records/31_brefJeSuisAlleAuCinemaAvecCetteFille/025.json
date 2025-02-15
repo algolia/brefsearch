@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 327,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 31,
+    "likeCount": 84322,
     "name": "Bref. Je suis allé au cinéma avec cette fille.",
     "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
     "videoId": "r-cbMtBLY0g",
-    "viewcount": 7100000
+    "viewCount": 7193082
   },
   "line": {
     "content": "Elle a dit: La vendeuse m'a\ndit: Vous voulez du popcorn ?",
     "end": 27,
+    "heatValue": 20,
     "index": 9,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=25s"

@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 543,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 12,
+    "likeCount": 114614,
     "name": "Bref. J'ai eu un job.",
     "slug": "brefJaiEuUnJob",
     "videoId": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "viewCount": 9722385
   },
   "line": {
     "content": "— Vous avez bien entendu, Jean-Louis ?\n— C'est sûr ?",
     "end": 97,
+    "heatValue": 10,
     "index": 43,
     "start": 96,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=96s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/096.gif",
-    "hash": "e744b516ce",
+    "hash": "cb687d6e3b",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nAXBbVPSAAAA4P0Or7crX+gidbDBJQwYODYGc++wAWtpkBtbwKpbdHmIqUl1kdWdhClIxyaRXHd+zM/d9bN6HsC5+veifYyCvgIKJcEFFvZsxqEqHrRptClRdZ40uExru219mWx1Jz+v/gL7n44zWgv0IxsJMBte8i/cpvye51SkRoZFBKYi4eYjSTdfK83uR+fy6OIPMOns7R4cQglWjftNHFZiEAt59GTIYghhxWdLTMcsc0qNq72rtk8+fHeBLSF9qKu6VufiiJV+8CQByfBcORbcUQsNkXqrCraq0qWX5vvT5sHnae8r8Kakqiu+fespv0YbZDgP39VYstOwW8WcgUdailAsbPC1XdPe3lvPHjWeAVVxTadJnYjqeTly704lx4zPp78vLuuSmEUgObVKyBpdsjSOZJZnX0k0UMajGolKgcU6Sz9WHk7Gv/q9Pg4HwGsz3pszHu9igGByJFFOwFIUrmRQAPfOx2ZvYHO3KigyPhk4o/NiVgwtg/QqRmBYihWyPCMH7yfnr4uhJT4EAiov6uulTTm/Y+hTx/kxGJz2eu5w6A7P3LOBOxr1v3WNHC+k0lI6xWDYf3m7ovzDjkBgAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCtws5+kqFLPTtmSz9QOjBbPjFxTT14UkKAWkuIY1h6XVV2XFeJipF8m7CHoLGxwcsAjZijV3KJOz5FbUw8YUY5PS8rVzwxfVdJeVRHX0c/V0hFiWpjc3eEaIifl626nrTAALGXj4yQmj5NW2pLPndRP2hKPVw+MXRQRXxbU19EPIBiW5h3cFxoeV16kniSpZSkrgCEXlWYdGlyc3pdTEd8VUNxTT1lPi5wS0CLa2WCYFePal6AampaboF3k6eHkJu1oZ0Ai25oaUU8jnt3XVhadVRHZD8ycVpTl4J+imdhdlJIimhfZ2VtXnmNdn+JjGthnoJ8AHlgWXNYU3NSSXJkY0g1LXNfWLGwtLa0uXliXWFHPWRST1NkclptfXJbVVs6LoJiWQBvUUhzVEtjQTd5XldsZmeysLOloaVQPTw7JSI2JyIxNDhAUFxgVFNvTT9jSD51V0wAUTUvSi0lTy8nc05Fr6anrqywZl5eRTg4WU1OUk1PU1hfYFpbY0E3US8lYEQ5XUQ8AGhcXXJqa3BiYYl1cbStraumqKaioq6qqq6pqa6oqK+sraegoHRgW11RUmFTUVpNTZiQsxXxVWrNAAAAAElFTkSuQmCC",
     "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/096.png",
     "width": 1920
   }

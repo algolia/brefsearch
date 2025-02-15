@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 560,
     "durationHuman": "1:31",
     "durationInSeconds": 91,
     "index": 11,
+    "likeCount": 108927,
     "name": "Bref. Je suis comme tout le monde.",
     "slug": "brefJeSuisCommeToutLeMonde",
     "videoId": "tkMoSaUMsiM",
-    "viewcount": 8200000
+    "viewCount": 8286572
   },
   "line": {
     "content": "Je galère toujours pour mettre\nune housse de couette.",
     "end": 19,
+    "heatValue": 26,
     "index": 6,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=17s"

@@ -19,7 +19,7 @@ await pMap(
     const basename = path.basename(episodePath, '.json');
     const videoPath = absolute(`<gitRoot>/tmp/mp4/${basename}.mp4`);
     const lines = episode.lines;
-    progress.tick(episode.episode.name);
+    progress.tick(`Thumbnails: ${episode.episode.name}`);
 
     await pMap(
       lines,

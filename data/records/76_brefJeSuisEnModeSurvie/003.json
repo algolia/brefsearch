@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Alors comme souvent,\nje me suis mis en mode survie.",
     "end": 5,
+    "heatValue": 57,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=3s"

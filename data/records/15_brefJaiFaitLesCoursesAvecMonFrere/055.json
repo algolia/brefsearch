@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 559,
     "durationHuman": "1:44",
     "durationInSeconds": 104,
     "index": 15,
+    "likeCount": 109536,
     "name": "Bref. J'ai fait les courses avec mon frère.",
     "slug": "brefJaiFaitLesCoursesAvecMonFrere",
     "videoId": "Htm39YuNOog",
-    "viewcount": 8900000
+    "viewCount": 8961396
   },
   "line": {
     "content": "— C'est pour ça qu'ils ont\nmis un italien dessus.",
     "end": 57,
+    "heatValue": 26,
     "index": 28,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=55s"

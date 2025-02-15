@@ -29,7 +29,7 @@ await pMap(
     const episode = await readJson(episodePath);
     const videoId = episode.video.id;
     const episodeName = episode.episode.name;
-    progress.tick(episodeName);
+    progress.tick(`Records: ${episodeName}`);
 
     const episodeSlug = path.basename(episodePath, '.json');
     await pMap(
@@ -37,9 +37,6 @@ await pMap(
       async (line, lineIndex) => {
         const start = line.start;
         const lineSlug = _.padStart(start, 3, '0');
-        if (lineSlug != '099') {
-          return;
-        }
 
         const thumbnailPath = absolute(
           `<gitRoot>/../brefsearch-images/images/${episodeSlug}/${lineSlug}.png`,
@@ -78,7 +75,7 @@ await pMap(
         const newRecord = {
           episode: {
             videoId: episode.video.id,
-            viewcount: episode.video.viewCount,
+            viewCount: episode.video.viewCount,
             likeCount: episode.video.likeCount,
             commentCount: episode.video.commentCount,
 

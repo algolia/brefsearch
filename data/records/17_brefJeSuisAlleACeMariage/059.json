@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1100,
     "durationHuman": "1:41",
     "durationInSeconds": 101,
     "index": 17,
+    "likeCount": 118681,
     "name": "Bref. Je suis allé à ce mariage.",
     "slug": "brefJeSuisAlleACeMariage",
     "videoId": "gx9ph_0tzRw",
-    "viewcount": 11000000
+    "viewCount": 11162618
   },
   "line": {
     "content": "Sur le chemin, il y Il y a\nla fille au bouquet de fleurs\nqui m'a dit:\n— Tu viens danser ?\nJ'ai dit:\n— Non.",
     "end": 62,
+    "heatValue": 28,
     "index": 22,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=59s"

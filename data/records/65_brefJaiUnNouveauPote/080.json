@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "Il m'a regardé.\nBref.",
     "end": 82,
+    "heatValue": 9,
     "index": 35,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=80s"

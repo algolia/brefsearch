@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 3400,
     "durationHuman": "2:00",
     "durationInSeconds": 120,
     "index": 47,
+    "likeCount": 195186,
     "name": "Bref. Je suis vieille.",
     "slug": "brefJeSuisVieille",
     "videoId": "5pr4Q09-16k",
-    "viewcount": 8100000
+    "viewCount": 8192406
   },
   "line": {
     "content": "Parce que j'ai plus toute ma tête,\nmais j'ai encore tout mon cœur.",
     "end": 35,
+    "heatValue": 38,
     "index": 9,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=32s"

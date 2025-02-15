@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 415,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
+    "likeCount": 80337,
     "name": "Bref. C'est la merde.",
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewcount": 6000000
+    "viewCount": 6082963
   },
   "line": {
     "content": "Je tenais à elle, comme je tenais à ma\nvieille paire de pommes que je ne m'étais\nplus, mes DVD que je ne regardais jamais\net ma Nintendo qui prenait la poussière.",
     "end": 55,
+    "heatValue": 21,
     "index": 21,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=50s"

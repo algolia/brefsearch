@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 569,
     "durationHuman": "2:23",
     "durationInSeconds": 143,
     "index": 61,
+    "likeCount": 120051,
     "name": "Bref. J'étais dans la merde.",
     "slug": "brefJetaisDansLaMerde",
     "videoId": "I4-bhdkKSfU",
-    "viewcount": 9800000
+    "viewCount": 9827505
   },
   "line": {
     "content": "C'était ça mon meilleur score.\nBéatrice ?",
     "end": 90,
+    "heatValue": 28,
     "index": 37,
     "start": 88,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=88s"

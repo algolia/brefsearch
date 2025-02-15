@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 55,
+    "likeCount": 132781,
     "name": "Bref. Je m'appelle Eric Dampierre.",
     "slug": "brefJeMappelleEricDampierre",
     "videoId": "tkOuQiO-Vzg",
-    "viewcount": 9400000
+    "viewCount": 9414768
   },
   "line": {
     "content": "On s'appelait tous Eric Dampierre.",
     "end": 11,
+    "heatValue": 44,
     "index": 6,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=10s"

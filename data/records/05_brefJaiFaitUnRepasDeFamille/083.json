@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "Il l'avait mal compris.",
     "end": 85,
+    "heatValue": 40,
     "index": 32,
     "start": 83,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=83s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/gif/083.gif",
-    "hash": "7cdb814d81",
+    "hash": "83edbfb229",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nGMQFBSUFJcwUFUojAyc0tDQX1O3oG9KS2m1q6FOXmRkb3VNZ2lRc25mbVp8aXxYRpAnA5+gCLeACAMre1Jo6KpZi+ZPmDmvd3Ksq6Obrkayr39PZWVvRVlbYW5LfnZjdmpZfBgDKxcfO48gAwuHhanF3I7OaU3NE+uboxxtQ62tCsMjJlRV9lVW9FVW9FaUNeakVyZFMjBz8LBy8zOwcupoaU+orZnS1Dp/4ixva3NDRYWmrOy+6ur+6ureqsq2wtzajMTypCgGFg4eVi4+BhYOc0PjKa2d3ZU1hWEBHnoqnoY6ddFhbanxnXl5LTnZdVkZ5YlRBVHBMA3M7A6W1r3VtVE2himOJkWBXhVhAXURAZXBHnURIXl+/lVpKaWJMXlhPiANLCAb2ANcnCrS0qyUJXO9HcvDg3J8XWsiAnJ83eOcbNO9PMpTEotiIwItjRiY2bhZOXkZWLhjAgIrMzK0JIWddVTDrU0CTHV9TPTstDUibM1SPN3zo6NiXZ3sDfQYmFk4Wdh5GFg4ldUMQlxdjZXldOSk7bVUnPU0LdWUDVWUfU30IuxtnfR1XYwMrI0MAKRtggDouN/LAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjEBcTl5eVt9TRqEqKmdvVNaOtfcWMub11zQFWZpUpydNa2yfX1/ZWFLcVZDVkJhbHhDCIiEnxi0qycPJkxcZuWrx6xcyFy6fNSff3CjAzyI2ImNbcPK2pob+6vK+qrLusoCEzkYGNT5hTUIyBg9fOxn7ZpMnze3pndfakeLvFuTpXJyXNaGmZ3tw0vblpWlNDd3lhc24KAwu3IBufCAMnn5G+0ay2trk9/StmLQ5xdrDS0ugtLZ3e2jqjrXV6S/OE6or2opymnFQGNh5BNl5hkA2W1vP7J09tbq1OiAo21w22MulITZhQkDWpoqKvvLSjtKgxJ7U6NRakgZ1PmIGNx93ReXpre4qbVZ63XU1MaHNidEdydEtsSHtSfFlUREthXkN2WkVCOAMbtwArrzAjB0+kj3dTfr6LtmJ5qHdTUmx5uH9bcnRZWGCGj1thaFBjfk5telKMszUDKycfO7cgE6dgakRUS2GhiYKUj6luopttlL1ZmK25u4lhspt9fnBgZVpKur+Pl6U5AwsbDxsnPwM7n4aOebyfn422qqmqopexjp+FkbO+tpWOVrideZKnm4+FmZ+1pauVJQAaopBhIqucDAAAAABJRU5ErkJggg==",
     "url": "https://assets.pixelastic.com/brefsearch/05_brefJaiFaitUnRepasDeFamille/083.png",
     "width": 1920
   }

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "Il l'avait déjà repéré.\nAttends.",
     "end": 72,
+    "heatValue": 19,
     "index": 28,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=70s"

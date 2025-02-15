@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "Je suis tombé direct\nsur mon lit et j'ai dormi.",
     "end": 17,
+    "heatValue": 31,
     "index": 3,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=7s"

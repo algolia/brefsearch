@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 468,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 64,
+    "likeCount": 87383,
     "name": "Bref. J'ai fait un dessin.",
     "slug": "brefJaiFaitUnDessin",
     "videoId": "LZQUFY0W_lY",
-    "viewcount": 5800000
+    "viewCount": 5904585
   },
   "line": {
     "content": "On n'avait pas de cheminée,\nmais comme je savais faire\ndes cheminées, j'ai fait une cheminée.\nDehors, c'était une belle journée.",
     "end": 15,
+    "heatValue": 23,
     "index": 6,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=12s"

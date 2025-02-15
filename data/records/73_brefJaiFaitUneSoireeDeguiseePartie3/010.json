@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 299,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 73,
+    "likeCount": 62306,
     "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
     "videoId": "WRXsFwhVzTs",
-    "viewcount": 4900000
+    "viewCount": 5001029
   },
   "line": {
     "content": "La plupart du temps, il y a\nau moins un Benjamin dans une soirée.",
     "end": 12,
+    "heatValue": 35,
     "index": 4,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=10s"

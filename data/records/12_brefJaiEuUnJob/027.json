@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 543,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 12,
+    "likeCount": 114614,
     "name": "Bref. J'ai eu un job.",
     "slug": "brefJaiEuUnJob",
     "videoId": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "viewCount": 9722385
   },
   "line": {
     "content": "J'ai fait semblant de taper\ndes trucs compliqués.",
     "end": 28,
+    "heatValue": 41,
     "index": 12,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=27s"

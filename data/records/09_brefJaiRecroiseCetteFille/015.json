@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "Elle m'a dit:\n— Hey, Vincent.\nJe m'appelle pas Vincent. J'ai rien dit.",
     "end": 17,
+    "heatValue": 40,
     "index": 6,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=15s"

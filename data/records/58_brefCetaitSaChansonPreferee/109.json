@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 526,
     "durationHuman": "2:10",
     "durationInSeconds": 130,
     "index": 58,
+    "likeCount": 81033,
     "name": "Bref. C'était sa chanson préférée.",
     "slug": "brefCetaitSaChansonPreferee",
     "videoId": "UURXmjwlcDI",
-    "viewcount": 6200000
+    "viewCount": 6245023
   },
   "line": {
     "content": "Bref, c'était sa chanson préférée.",
     "end": 114,
+    "heatValue": 14,
     "index": 36,
     "start": 109,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=109s"

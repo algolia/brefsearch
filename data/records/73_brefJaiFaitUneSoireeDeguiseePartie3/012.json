@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 299,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 73,
+    "likeCount": 62306,
     "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
     "videoId": "WRXsFwhVzTs",
-    "viewcount": 4900000
+    "viewCount": 5001029
   },
   "line": {
     "content": "Quand c'est pas le cas,\nil y a au moins un Benoît.",
     "end": 13,
+    "heatValue": 37,
     "index": 5,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=12s"

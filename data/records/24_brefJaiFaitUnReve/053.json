@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "Non, c'est pas celle de la merde.\nJ'ai reposé le paquet.",
     "end": 55,
+    "heatValue": 15,
     "index": 15,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=53s"

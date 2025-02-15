@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "2:31",
     "durationInSeconds": 151,
     "index": 80,
+    "likeCount": 164024,
     "name": "Bref. J'ai fait une dépression.",
     "slug": "brefJaiFaitUneDepression",
     "videoId": "DwfwmxOF_3E",
-    "viewcount": 9200000
+    "viewCount": 9241801
   },
   "line": {
     "content": "J'ai essayé de le frapper, mais à\nchaque fois, il me tapait deux fois plus.",
     "end": 125,
+    "heatValue": 28,
     "index": 44,
     "start": 120,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=120s"

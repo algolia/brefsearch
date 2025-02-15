@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 585,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 22,
+    "likeCount": 85441,
     "name": "Bref. On a enterré croquette.",
     "slug": "brefOnAEnterreCroquette",
     "videoId": "LRzOCN7zths",
-    "viewcount": 6000000
+    "viewCount": 6068571
   },
   "line": {
-    "content": "Putain, il m'a griffé ton chat.\nCroquette.",
+    "content": "— Oh putain, il m'a griffé ton chat.\n— Oh, Croquette.",
     "end": 19,
+    "heatValue": 31,
     "index": 7,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=17s"

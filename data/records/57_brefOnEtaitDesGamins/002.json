@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 57,
+    "likeCount": 112972,
     "name": "Bref. On était des gamins.",
     "slug": "brefOnEtaitDesGamins",
     "videoId": "LI0mfa3sqWY",
-    "viewcount": 6300000
+    "viewCount": 6343137
   },
   "line": {
     "content": "La première fois que j'ai vraiment été\nen couple, c'était avec mon ex.",
     "end": 4,
+    "heatValue": null,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=2s"

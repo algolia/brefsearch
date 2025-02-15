@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 33,
+    "likeCount": 166814,
     "name": "Bref. J'ai couché avec Émilie.",
     "slug": "brefJaiCoucheAvecEmilie",
     "videoId": "mEu0q3Slzj0",
-    "viewcount": 15000000
+    "viewCount": 15359989
   },
   "line": {
     "content": "Sur son profil, j'avais analysé des trucs\nqu'elle aimait bien, alors j'ai disposé\ndes objets l'air de rien sur mon lit.",
     "end": 81,
+    "heatValue": null,
     "index": 34,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=77s"

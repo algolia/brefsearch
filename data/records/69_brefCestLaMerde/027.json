@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 415,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
+    "likeCount": 80337,
     "name": "Bref. C'est la merde.",
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewcount": 6000000
+    "viewCount": 6082963
   },
   "line": {
     "content": "J'ai ronflé ?\nOu autant que moi.",
     "end": 28,
+    "heatValue": 33,
     "index": 11,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=27s"

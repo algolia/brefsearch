@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 526,
     "durationHuman": "2:10",
     "durationInSeconds": 130,
     "index": 58,
+    "likeCount": 81033,
     "name": "Bref. C'était sa chanson préférée.",
     "slug": "brefCetaitSaChansonPreferee",
     "videoId": "UURXmjwlcDI",
-    "viewcount": 6200000
+    "viewCount": 6245023
   },
   "line": {
     "content": "Je ne sais pas, moi,\ntu n'as qu'à demander à Steve.",
     "end": 42,
+    "heatValue": 3,
     "index": 13,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=40s"

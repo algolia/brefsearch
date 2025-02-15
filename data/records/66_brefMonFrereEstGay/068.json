@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2000,
     "durationHuman": "1:34",
     "durationInSeconds": 94,
     "index": 66,
+    "likeCount": 134319,
     "name": "Bref. Mon frère est gay.",
     "slug": "brefMonFrereEstGay",
     "videoId": "-tInLKCRUrs",
-    "viewcount": 8400000
+    "viewCount": 8408820
   },
   "line": {
     "content": "Il m'avait déjà dit\nqu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler.\nOuais, j'en ai déjà entendu parler.",
     "end": 71,
+    "heatValue": 10,
     "index": 35,
     "start": 68,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=68s"

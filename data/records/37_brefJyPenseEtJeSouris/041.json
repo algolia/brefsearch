@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 684,
     "durationHuman": "1:23",
     "durationInSeconds": 83,
     "index": 37,
+    "likeCount": 84798,
     "name": "Bref. J'y pense et je souris.",
     "slug": "brefJyPenseEtJeSouris",
     "videoId": "O1BZzYB3X6U",
-    "viewcount": 5100000
+    "viewCount": 5141702
   },
   "line": {
     "content": "Dans les années 80, mon père,\ndans sa période moustache, convaincu par\nles publicités dans leur période cocaïne\nà gogo, achète une voiture pour aller",
     "end": 46,
+    "heatValue": 4,
     "index": 14,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=41s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Des fois, j'ai envie de lui dire\nque je l'aime, alors je lui dis:",
     "end": 28,
+    "heatValue": 11,
     "index": 10,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=26s"

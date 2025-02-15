@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 520,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 78,
+    "likeCount": 97525,
     "name": "Bref. Je me suis réveillé à côté d'une fille.",
     "slug": "brefJeMeSuisReveilleACoteDuneFille",
     "videoId": "9UEJzfo0_m4",
-    "viewcount": 8500000
+    "viewCount": 8534561
   },
   "line": {
     "content": "J'ai trouvé ça sale, mais rassurant.",
     "end": 81,
+    "heatValue": 20,
     "index": 31,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=80s"

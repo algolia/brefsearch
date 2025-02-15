@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 57,
+    "likeCount": 112972,
     "name": "Bref. On était des gamins.",
     "slug": "brefOnEtaitDesGamins",
     "videoId": "LI0mfa3sqWY",
-    "viewcount": 6300000
+    "viewCount": 6343137
   },
   "line": {
     "content": "Oui, j'arriverai à 8h00\nsamedi, c'est pas très grave.",
     "end": 63,
+    "heatValue": null,
     "index": 24,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=60s"

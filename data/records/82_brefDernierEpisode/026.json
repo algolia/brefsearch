@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 3900,
     "durationHuman": "1:58",
     "durationInSeconds": 118,
     "index": 82,
+    "likeCount": 156445,
     "name": "Bref. Dernier épisode.",
     "slug": "brefDernierEpisode",
     "videoId": "1cZ_H0rgwCU",
-    "viewcount": 7100000
+    "viewCount": 7205429
   },
   "line": {
     "content": "Je rentre dans le bureau de mon boss\net je lui dis c'est fini.",
     "end": 28,
+    "heatValue": 12,
     "index": 11,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=26s"

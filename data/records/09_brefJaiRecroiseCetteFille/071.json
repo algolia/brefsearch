@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "Mon corps envoyait des signaux pressants.",
     "end": 72,
+    "heatValue": 28,
     "index": 34,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=71s"

@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Je t'aime pas,Ouais, c'est cool.\nJe crois qu'il s'en fout.",
     "end": 32,
+    "heatValue": 10,
     "index": 11,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=28s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/gif/028.gif",
-    "hash": "8bba0d3550",
+    "hash": "51a07f5527",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nAXBbXOSAAAAYH7BrnVtC+cOcigIKK+CqExAMRkiAg4msmm6rrqbLted6Vpdd9vd1m3z2l2d17quT33t+ok9D0BCawIa13nEKhF7GhvVxZdu5cipVJhEW6WCirivlxw1H+4qPc/2LRvQJEHj0jXumVXE2yrtlklX5aocmtvekPG4CD8NJFbCEI1NvQnM414IRHvtfhB4NUXnEDm9mdl8RIArOLgiIGCdx3Q8MdDLfiFfwrdGkTM/fgX098NhtxvajecFmoXXqdiqCK9nY6t5eO1IEwvbcacouBJr5NDvF6f317fAi07YbVlNVTJ3+BwSZ8DHNoN5VLKBgicK3comDhXRZ+CRIy+vpneXF0DkOm6tbEqskSFkEJKhJ2oy1uHxoYS9r7OLjjKts3OD+jF2fi8+3F3fA4Ys1miynkItHLdSnL6FeDzSLzNNDlPTUINCTnZLy8nh35uzfw9XD8s/QB6GmulMJMgtkhqIco9Wxjumz4hGNukUOZ0hDqqlX58nPz+dfvs4/nL5FVAQ9LVSndn+UCpPTTvKFQesbBGoXyDfuurtqLc8fzfrtiaesTifnc1v/gP6SnlZSeFlJAAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwdtummAAAGDeYUu7LG1XbWdZRQVhKPCLIAJliFjxAAijWvEw7ZptSe2qyRrW1Sxpk7nFNl2ypqbZ7nq37Pn2fRAZWeESm6VMzBQJrwA6Zf7QKR46RY2Oemq6qXH7uuSovF9R+67VNG1Iy2U1gO1mtk0R91Ta3SFdFRSZBBtdk/ANHl5rCYyARjUm/qFZO+q3oZ7nvWm13JKiA0ROhsnwErH+GH/2iEPWDRbViRfDkrIncFLy+XHHOTt6Bw322wd+x7fr5TzNwKtUeJmHV1Oh5Ry88rbACdGwLbKNHG1k0dvLyc/ZHBq2/U7DtApCTWazyAYdemIzqEvFa2joWKWs1HZX4TwK/thQ7r6dzi8uoa7ruCWlKgCDJORQZCfytBALtzLJAwELDHDtq6cG+FxOL0bun/n51ewGqsj8Lk2UE2g9iZtxoG8iLhsbKLQFMBXbqlGxk6p4d9L7Oz/7t5jd3z5AAhwxMbLLSfbL9JCX+/SrkVJp0tlKKt4Qgc7gPV36/XV8P538+jL6cXEDqUjivaIF1t4wr3yqWh02PwBinUg0BXLsFK5G/cV0EvjW+LVxPQ3Og+//AbUxiUWFPJvkAAAAAElFTkSuQmCC",
     "url": "https://assets.pixelastic.com/brefsearch/60_brefJeSuisUnPlanCulRegulier/028.png",
     "width": 1920
   }

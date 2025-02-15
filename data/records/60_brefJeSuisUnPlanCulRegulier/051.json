@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Vas-y, je t'emmerde, toi.\nNon, c'est pas grave.",
     "end": 54,
+    "heatValue": 40,
     "index": 22,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=51s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1100,
     "durationHuman": "1:41",
     "durationInSeconds": 101,
     "index": 17,
+    "likeCount": 118681,
     "name": "Bref. Je suis allé à ce mariage.",
     "slug": "brefJeSuisAlleACeMariage",
     "videoId": "gx9ph_0tzRw",
-    "viewcount": 11000000
+    "viewCount": 11162618
   },
   "line": {
     "content": "En sortant des toilettes,\nj'ai entendu du bruit.",
     "end": 70,
+    "heatValue": 83,
     "index": 26,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=67s"

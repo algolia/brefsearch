@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 56,
+    "likeCount": 113908,
     "name": "Bref. J'ai grandi dans les années 90.",
     "slug": "brefJaiGrandiDansLesAnnees90",
     "videoId": "HO2SLJQShJ8",
-    "viewcount": 8800000
+    "viewCount": 8859528
   },
   "line": {
     "content": "Pendant toute ma sixième, j'ai fait toutes\nles répliques de la cité de la peur.",
     "end": 22,
+    "heatValue": 60,
     "index": 8,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=20s"

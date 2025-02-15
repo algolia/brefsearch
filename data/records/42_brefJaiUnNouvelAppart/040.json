@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 514,
     "durationHuman": "2:01",
     "durationInSeconds": 121,
     "index": 42,
+    "likeCount": 91912,
     "name": "Bref. J'ai un nouvel appart.",
     "slug": "brefJaiUnNouvelAppart",
     "videoId": "c-51sCEAiCg",
-    "viewcount": 7700000
+    "viewCount": 7721508
   },
   "line": {
     "content": "Le train de touriste qui passait\nen bas en disant la même chose\ntoutes les deux heures.\nChambre du quartier.",
     "end": 44,
+    "heatValue": 7,
     "index": 15,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=40s"

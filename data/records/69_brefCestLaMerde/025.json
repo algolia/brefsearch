@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 415,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
+    "likeCount": 80337,
     "name": "Bref. C'est la merde.",
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewcount": 6000000
+    "viewCount": 6082963
   },
   "line": {
     "content": "Tu m'aimes ?\nJe sais pas.",
     "end": 27,
+    "heatValue": 33,
     "index": 10,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=25s"

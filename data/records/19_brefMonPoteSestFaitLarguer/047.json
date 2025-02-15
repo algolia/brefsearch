@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 305,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 19,
+    "likeCount": 76028,
     "name": "Bref. Mon pote s'est fait larguer.",
     "slug": "brefMonPoteSestFaitLarguer",
     "videoId": "J9EL_bGpdP4",
-    "viewcount": 6200000
+    "viewCount": 6265057
   },
   "line": {
     "content": "Mais je fume pas.",
     "end": 49,
+    "heatValue": 40,
     "index": 25,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=47s"

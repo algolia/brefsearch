@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2900,
     "durationHuman": "2:19",
     "durationInSeconds": 139,
     "index": 53,
+    "likeCount": 209093,
     "name": "Bref. Il y a des gens qui m'énervent.",
     "slug": "brefIlYADesGensQuiMenervent",
     "videoId": "tjRXxJaupoc",
-    "viewcount": 11000000
+    "viewCount": 11882596
   },
   "line": {
     "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent: Ouais, c'est moi.",
     "end": 15,
+    "heatValue": 22,
     "index": 5,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=12s"

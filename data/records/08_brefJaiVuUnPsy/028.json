@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 145,
     "durationHuman": "1:09",
     "durationInSeconds": 69,
     "index": 8,
+    "likeCount": 24402,
     "name": "Bref. J'ai vu un psy.",
     "slug": "brefJaiVuUnPsy",
     "videoId": "xHTx3mYfGUQ",
-    "viewcount": 2500000
+    "viewCount": 2511951
   },
   "line": {
     "content": "À la 34ème séance, je lui ai dit:\n— Vous croyez\nque je vais finir seul comme mon père ?",
     "end": 33,
+    "heatValue": null,
     "index": 13,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=28s"

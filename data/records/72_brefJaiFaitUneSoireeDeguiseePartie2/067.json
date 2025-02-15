@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 347,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 72,
+    "likeCount": 69621,
     "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
     "videoId": "m7Y624w6MFU",
-    "viewcount": 5600000
+    "viewCount": 5660756
   },
   "line": {
     "content": "J'ai bousculé ce mec,\nil m'a dit: Et après...",
     "end": 71,
+    "heatValue": 24,
     "index": 28,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=67s"

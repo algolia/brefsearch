@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 301,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 44,
+    "likeCount": 56431,
     "name": "Bref. Je me suis fait agresser.",
     "slug": "brefJeMeSuisFaitAgresser",
     "videoId": "yQbvhuSlOt8",
-    "viewcount": 3600000
+    "viewCount": 3657673
   },
   "line": {
     "content": "Il m'a demandé: Sur place ou emporté ?\nVas-y, fais le chant en italien !",
     "end": 86,
+    "heatValue": 10,
     "index": 31,
     "start": 84,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=84s"

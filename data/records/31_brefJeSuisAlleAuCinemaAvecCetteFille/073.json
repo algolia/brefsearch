@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 327,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 31,
+    "likeCount": 84322,
     "name": "Bref. Je suis allé au cinéma avec cette fille.",
     "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
     "videoId": "r-cbMtBLY0g",
-    "viewcount": 7100000
+    "viewCount": 7193082
   },
   "line": {
     "content": "Je crois qu'il y a plus de métro.",
     "end": 74,
+    "heatValue": 13,
     "index": 33,
     "start": 73,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=73s"

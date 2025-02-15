@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 520,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 78,
+    "likeCount": 97525,
     "name": "Bref. Je me suis réveillé à côté d'une fille.",
     "slug": "brefJeMeSuisReveilleACoteDuneFille",
     "videoId": "9UEJzfo0_m4",
-    "viewcount": 8500000
+    "viewCount": 8534561
   },
   "line": {
     "content": "Vu la façon dont le soleil entrait\ndans la pièce par la fenêtre\nqui tenait plein sud et vu qu'on était\nen octobre, on devait être environ 8h30.",
     "end": 58,
+    "heatValue": 39,
     "index": 20,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=53s"

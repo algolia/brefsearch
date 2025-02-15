@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "Je me suis pincé, ça m'a fait mal.",
     "end": 92,
+    "heatValue": 21,
     "index": 29,
     "start": 90,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=90s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 684,
     "durationHuman": "1:23",
     "durationInSeconds": 83,
     "index": 37,
+    "likeCount": 84798,
     "name": "Bref. J'y pense et je souris.",
     "slug": "brefJyPenseEtJeSouris",
     "videoId": "O1BZzYB3X6U",
-    "viewcount": 5100000
+    "viewCount": 5141702
   },
   "line": {
     "content": "Pendant ce temps, en Pennsylvania,\nEdwin Drake, d'armée moustache,\nfort imput de pétrole et provoque\nla naissance de l'industrie pétrolière.",
     "end": 12,
+    "heatValue": 62,
     "index": 2,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=7s"

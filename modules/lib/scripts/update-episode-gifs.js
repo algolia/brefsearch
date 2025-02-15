@@ -11,7 +11,7 @@ const episodeCount = episodes.length;
  * Read through all the episode metadata, and their lines and generate a small
  * animated gif for each line of the transcript
  **/
-const progress = spinner(episodeCount);
+const progress = spinner();
 const concurrency = 1;
 await pMap(
   episodes,
@@ -68,7 +68,7 @@ await pMap(
         }
 
         progress.tick(
-          `[${episodeIndex}/${episodeCount}] ${episodeName} (line ${lineIndex}/${lineCount})`,
+          `[${episodeIndex}/${episodeCount}] Gif: ${episodeName} (line ${lineIndex}/${lineCount})`,
         );
       },
       { concurrency },

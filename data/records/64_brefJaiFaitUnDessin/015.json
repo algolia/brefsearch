@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 468,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 64,
+    "likeCount": 87383,
     "name": "Bref. J'ai fait un dessin.",
     "slug": "brefJaiFaitUnDessin",
     "videoId": "LZQUFY0W_lY",
-    "viewcount": 5800000
+    "viewCount": 5904585
   },
   "line": {
     "content": "Il y avait un soleil dans le coin\navec un grand rayon, un petit rayon,\nun petit rayon, un grand rayon,\net un petit rayon et un petit rayon",
     "end": 19,
+    "heatValue": 18,
     "index": 7,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=15s"

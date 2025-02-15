@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 520,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 78,
+    "likeCount": 97525,
     "name": "Bref. Je me suis réveillé à côté d'une fille.",
     "slug": "brefJeMeSuisReveilleACoteDuneFille",
     "videoId": "9UEJzfo0_m4",
-    "viewcount": 8500000
+    "viewCount": 8534561
   },
   "line": {
     "content": "Et t'avais un bras en moins et tu avais\nun bras enais que t'étais gay.",
     "end": 107,
+    "heatValue": 22,
     "index": 39,
     "start": 104,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=104s"

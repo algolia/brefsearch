@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 327,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 31,
+    "likeCount": 84322,
     "name": "Bref. Je suis allé au cinéma avec cette fille.",
     "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
     "videoId": "r-cbMtBLY0g",
-    "viewcount": 7100000
+    "viewCount": 7193082
   },
   "line": {
     "content": "Je me suis rendu compte\nque du coup, elle balançait la fin\nà ceux qui faisaient la queue.\nOn a marché.",
     "end": 70,
+    "heatValue": 17,
     "index": 30,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=67s"

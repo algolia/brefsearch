@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 590,
     "durationHuman": "1:49",
     "durationInSeconds": 109,
     "index": 25,
+    "likeCount": 79173,
     "name": "Bref. J'ai fait un dépistage.",
     "slug": "brefJaiFaitUnDepistage",
     "videoId": "41X9gwbeMxQ",
-    "viewcount": 6800000
+    "viewCount": 6825279
   },
   "line": {
     "content": "Ensuite, j'ai entendu un couple essayer\nde deviner si j'avais le sida.",
     "end": 23,
+    "heatValue": 35,
     "index": 8,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=20s"

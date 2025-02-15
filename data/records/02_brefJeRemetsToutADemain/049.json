@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "J'ai jamais fait de sauvegarde dessus.\nJ'ai perdu mes données.",
     "end": 51,
+    "heatValue": 26,
     "index": 17,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=49s"

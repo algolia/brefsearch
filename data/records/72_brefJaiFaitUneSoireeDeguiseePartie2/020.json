@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 347,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 72,
+    "likeCount": 69621,
     "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
     "videoId": "m7Y624w6MFU",
-    "viewcount": 5600000
+    "viewCount": 5660756
   },
   "line": {
     "content": "Je me suis habillée comme\nMia Wallace dans Pulp Fiction.",
     "end": 22,
+    "heatValue": 38,
     "index": 8,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=20s"

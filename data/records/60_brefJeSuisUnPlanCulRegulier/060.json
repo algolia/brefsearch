@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Parfois, on fait l'amour.",
     "end": 62,
+    "heatValue": 94,
     "index": 26,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=60s"

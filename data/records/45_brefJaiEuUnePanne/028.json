@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 548,
     "durationHuman": "1:53",
     "durationInSeconds": 113,
     "index": 45,
+    "likeCount": 51384,
     "name": "Bref. J'ai eu une panne.",
     "slug": "brefJaiEuUnePanne",
     "videoId": "BJoEGR47rk0",
-    "viewcount": 3600000
+    "viewCount": 3643369
   },
   "line": {
     "content": "J'ai aussi essayé de penser\nà Marla et moi dans un plan à quatre\navec les flics d'Energies 3 bien.\nÇa marchait pas.",
     "end": 32,
+    "heatValue": null,
     "index": 15,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=28s"

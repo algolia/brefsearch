@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 299,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 73,
+    "likeCount": 62306,
     "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
     "videoId": "WRXsFwhVzTs",
-    "viewcount": 4900000
+    "viewCount": 5001029
   },
   "line": {
     "content": "Ce qui est vachement bien\nquand personne te connaît, c'est\nque tu peux faire des conneries\net personne ne saura que c'est toi.",
     "end": 23,
+    "heatValue": 20,
     "index": 9,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=19s"

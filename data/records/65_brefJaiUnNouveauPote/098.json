@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "Non, je n'ai pas le temps, mon pote.\nAh bon ?",
     "end": 101,
+    "heatValue": 29,
     "index": 44,
     "start": 98,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=98s"

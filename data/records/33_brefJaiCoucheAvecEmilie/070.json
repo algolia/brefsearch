@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 33,
+    "likeCount": 166814,
     "name": "Bref. J'ai couché avec Émilie.",
     "slug": "brefJaiCoucheAvecEmilie",
     "videoId": "mEu0q3Slzj0",
-    "viewcount": 15000000
+    "viewCount": 15359989
   },
   "line": {
     "content": "C'est exactement ce\nque le caravan qui est là.",
     "end": 71,
+    "heatValue": null,
     "index": 30,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=70s"

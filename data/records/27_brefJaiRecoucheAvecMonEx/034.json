@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 351,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 27,
+    "likeCount": 59466,
     "name": "Bref. J'ai recouché avec mon ex.",
     "slug": "brefJaiRecoucheAvecMonEx",
     "videoId": "KtLp-gLL0Aw",
-    "viewcount": 4200000
+    "viewCount": 4228008
   },
   "line": {
     "content": "Cool.\nL'informatique, c'est sa grande passion.",
     "end": 36,
+    "heatValue": null,
     "index": 17,
     "start": 34,
     "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=34s"

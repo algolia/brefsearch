@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "Il faut un père qui n'aime plus\nsa femme et qui fait avec.",
     "end": 5,
+    "heatValue": 45,
     "index": 2,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=3s"

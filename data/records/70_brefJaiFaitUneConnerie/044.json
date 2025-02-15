@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 646,
     "durationHuman": "2:07",
     "durationInSeconds": 127,
     "index": 70,
+    "likeCount": 95974,
     "name": "Bref. J'ai fait une connerie.",
     "slug": "brefJaiFaitUneConnerie",
     "videoId": "hpCO1AIWo60",
-    "viewcount": 7700000
+    "viewCount": 7801971
   },
   "line": {
     "content": "Je lui avais dit que je Je\nt'aide à dormir chez Ben.",
     "end": 45,
+    "heatValue": 9,
     "index": 24,
     "start": 44,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=44s"

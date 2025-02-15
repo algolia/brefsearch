@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "Il y a cette fille\nqui s'est bien me parler.",
     "end": 56,
+    "heatValue": 16,
     "index": 16,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=55s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 590,
     "durationHuman": "1:49",
     "durationInSeconds": 109,
     "index": 25,
+    "likeCount": 79173,
     "name": "Bref. J'ai fait un dépistage.",
     "slug": "brefJaiFaitUnDepistage",
     "videoId": "41X9gwbeMxQ",
-    "viewcount": 6800000
+    "viewCount": 6825279
   },
   "line": {
     "content": "Il m'a giflé, il m'a pris dans ses bras.\nJ'ai filmé mes dernières volontés.",
     "end": 71,
+    "heatValue": 29,
     "index": 27,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=70s"

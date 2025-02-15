@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 43,
+    "likeCount": 138987,
     "name": "Bref. Je suis allé aux urgences.",
     "slug": "brefJeSuisAlleAuxUrgences",
     "videoId": "1tZiw9KR6Jk",
-    "viewcount": 11000000
+    "viewCount": 11560525
   },
   "line": {
     "content": "Après, il m'a mis\nde l'anesthésiant dans la bouche.",
     "end": 80,
+    "heatValue": 15,
     "index": 39,
     "start": 79,
     "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=79s"

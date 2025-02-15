@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 699,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 32,
+    "likeCount": 94559,
     "name": "Bref. Je sais pas dire non.",
     "slug": "brefJeSaisPasDireNon",
     "videoId": "OmEx0mpHFG4",
-    "viewcount": 7900000
+    "viewCount": 7987391
   },
   "line": {
     "content": "Je donne à toutes les ONG\nqui viennent me demander, même celles\navec lesquelles je suis pas d'accord.",
     "end": 31,
+    "heatValue": 43,
     "index": 14,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=28s"

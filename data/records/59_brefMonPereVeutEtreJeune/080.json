@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 710,
     "durationHuman": "2:08",
     "durationInSeconds": 128,
     "index": 59,
+    "likeCount": 84316,
     "name": "Bref. Mon père veut être jeune.",
     "slug": "brefMonPereVeutEtreJeune",
     "videoId": "7Ry1eljBOvM",
-    "viewcount": 6900000
+    "viewCount": 6922744
   },
   "line": {
     "content": "Je lui ai offert des trucs de merde\nqui avaient plus de valeur que ce que\nj'ai pu lui offrir avec de l'argent.",
     "end": 84,
+    "heatValue": 22,
     "index": 39,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=80s"

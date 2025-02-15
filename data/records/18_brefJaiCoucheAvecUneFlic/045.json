@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 680,
     "durationHuman": "1:16",
     "durationInSeconds": 76,
     "index": 18,
+    "likeCount": 99938,
     "name": "Bref. J'ai couché avec une flic.",
     "slug": "brefJaiCoucheAvecUneFlic",
     "videoId": "if3EipAM2WQ",
-    "viewcount": 8000000
+    "viewCount": 8008914
   },
   "line": {
     "content": "Elle m'a déssapé, on a commencé,\nj'ai pensé à Joey Starr.",
     "end": 47,
+    "heatValue": 70,
     "index": 20,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=45s"

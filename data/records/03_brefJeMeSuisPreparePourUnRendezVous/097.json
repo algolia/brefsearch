@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 521,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 3,
+    "likeCount": 93483,
     "name": "Bref. Je me suis préparé pour un rendez-vous.",
     "slug": "brefJeMeSuisPreparePourUnRendezVous",
     "videoId": "1x3P61ck0QI",
-    "viewcount": 7200000
+    "viewCount": 7259855
   },
   "line": {
     "content": "— Hey, mais que voilà !",
     "end": 100,
+    "heatValue": 8,
     "index": 29,
     "start": 97,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=97s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/gif/097.gif",
-    "hash": "8396e23164",
+    "hash": "e4df305e2c",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABr0lEQVR4nAXBW2/SUAAA4L5UoNB17aG0pRxoOW1pe6BcehAot9GJTOqyyXTWB+bEiDG6OFnCXjRGHzSZW0yMT/5av48Kev26pVVgDpdhzdDb2Ow3nXHbDbu1Sa8R+Ljlln1stWyEddUzS9RwuNdwMcwjpLuoTJwK8VyfeCRot54O2kOzVJGFsaF2sUEcvWlplGniLMhzuwUIbUnSAECWUUe6V5LR+553OSGbkGw7zhEurCISh02KplPJZFoSi6KgyorN7eQStAD4YkHMnwfe79Ppqw4+wfpq4HxbR19XD6l0mlHzqpSFANTYTF7JifuBvzmPvn84ut08+3v94vbq+a9Pi7uLg+3ywXI+oMAu4Hkpwyk0naki+Hkd/fsS/9me3nw8/vluev1y9uPN3uVJ52zWXIbOIjApbofLpFlNzs671lU8urs4uHk7Xj8ZHQ5arwd2TMyzUWXRM8ZNa+7DviVSQACBqy0nTjxygip6RLSwXqwqQuTqM1SsCVwV8EFZeuzDsCrdRzzFsVxBBCyTStA0k7ynsIwtcP2S3FJzBs9CloEZRkkl7EJu1m1MCf4PjglT0hAI6PAAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwVtv0lAAAOC+ES4WoXT0AqWUtkAPhV7OymjhyKXlbjaY9RKCBmYikC1OM6ObzowXTeaDJiNZTPbmH/X7MLft1coFTUpDRbRKRQRVzzYGCD5tVUftmuuYjg4asFzXASwKB6qM9XvDmgGlLABFEwCka6hqNlANuag+76FuWda4ZB/k2hAgvWhXCpiqQobi90hBFHUunacpUC4dAMWSM8qFW70aoesxumkZr8zcqd9Yjm0sGIhEwlGOlVlK4DNagkhHwhRNSTk2u+lYfxdHmyacw/ypp//64N+eTbAojgu8kGYkmrYIIsun2GHTuVz7t59e7r69edi+3V0vdl/n95+nN+8OV34Xo0g6SXIEkQkGY6Yi/jj3//08edgu7i5nfy6OtpvJ7/Ph1evWemKvxvrcVTGSIB9H4zJHHz9Rv58M7r8c330cvp/1XnjOWddYInXd12YddWBX/LrkVViMoZiOWViNjGVfd/fB1CkMLQlmks+M4rQkWQy5z5AdJf28Lo0h11SSWCKWEBg69igSCgTwcCgbw3WK8PKZupAqJWNiHBfjOI+HNCE1adUOG+Z/qcNhfZawFLYAAAAASUVORK5CYII=",
     "url": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/097.png",
     "width": 1920
   }

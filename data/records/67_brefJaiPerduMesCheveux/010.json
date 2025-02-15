@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 716,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 67,
+    "likeCount": 87826,
     "name": "Bref. J'ai perdu mes cheveux.",
     "slug": "brefJaiPerduMesCheveux",
     "videoId": "akriQ9yTodk",
-    "viewcount": 7300000
+    "viewCount": 7385243
   },
   "line": {
     "content": "Quand j'ai commencé à perdre\nmes cheveux, je me suis pas rendu compte\nque je perdais mes cheveux.",
     "end": 13,
+    "heatValue": 33,
     "index": 4,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=10s"

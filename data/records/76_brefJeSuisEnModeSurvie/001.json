@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Comme souvent, j'avais 20 €\nen poche alors que c'était le 5 du mois.",
     "end": 3,
+    "heatValue": 71,
     "index": 0,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=1s"

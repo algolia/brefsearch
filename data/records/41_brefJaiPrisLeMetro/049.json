@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 41,
+    "likeCount": 98202,
     "name": "Bref. J'ai pris le métro.",
     "slug": "brefJaiPrisLeMetro",
     "videoId": "aqrab4lKVm0",
-    "viewcount": 7600000
+    "viewCount": 7606246
   },
   "line": {
     "content": "Mes trois enfants sont morts.",
     "end": 51,
+    "heatValue": 37,
     "index": 18,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=49s"

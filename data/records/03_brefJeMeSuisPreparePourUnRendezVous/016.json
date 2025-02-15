@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 521,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 3,
+    "likeCount": 93483,
     "name": "Bref. Je me suis préparé pour un rendez-vous.",
     "slug": "brefJeMeSuisPreparePourUnRendezVous",
     "videoId": "1x3P61ck0QI",
-    "viewcount": 7200000
+    "viewCount": 7259855
   },
   "line": {
     "content": "Après, pendant une heure, je m'occupe\nde ma barbe pour avoir l'air d'un mec\nqui s'occupe pas de sa barbe.",
     "end": 19,
+    "heatValue": 31,
     "index": 4,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=16s"

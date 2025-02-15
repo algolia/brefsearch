@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 336,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 14,
+    "likeCount": 84145,
     "name": "Bref. Mes parents divorcent.",
     "slug": "brefMesParentsDivorcent",
     "videoId": "cDWcCpqFh_M",
-    "viewcount": 6600000
+    "viewCount": 6682867
   },
   "line": {
     "content": "— Je m'en fous.",
     "end": 13,
+    "heatValue": 30,
     "index": 6,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=11s"

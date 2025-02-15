@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "J'avais fini mon meuble quand Baptiste a\ndit: Passera pas la porte ton meuble.",
     "end": 75,
+    "heatValue": 11,
     "index": 30,
     "start": 72,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=72s"

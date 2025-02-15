@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 3400,
     "durationHuman": "2:00",
     "durationInSeconds": 120,
     "index": 47,
+    "likeCount": 195186,
     "name": "Bref. Je suis vieille.",
     "slug": "brefJeSuisVieille",
     "videoId": "5pr4Q09-16k",
-    "viewcount": 8100000
+    "viewCount": 8192406
   },
   "line": {
     "content": "Bon, alors, pour résumer, je suis vieille.",
     "end": 100,
+    "heatValue": 37,
     "index": 39,
     "start": 97,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=97s"

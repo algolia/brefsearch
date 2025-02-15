@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:17",
     "durationInSeconds": 137,
     "index": 63,
+    "likeCount": 105080,
     "name": "Bref. J'ai fait un choix.",
     "slug": "brefJaiFaitUnChoix",
     "videoId": "UNbu1DM-jk0",
-    "viewcount": 8800000
+    "viewCount": 8818396
   },
   "line": {
     "content": "Elles se sont mises à se disputer\npour savoir laquelle était\nla meilleure pour moi alors\nque je n'en méritais aucune des deux.",
     "end": 40,
+    "heatValue": 8,
     "index": 15,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=37s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "Ma mère a dit:\n— Une petite *gros mots*\nMon père a dit:\n— Je l'aime, elle me comprend.",
     "end": 63,
+    "heatValue": 34,
     "index": 26,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=59s"

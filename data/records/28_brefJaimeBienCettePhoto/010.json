@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "Sous le bras, j'avais Marla, mon plan\ncul, qui est en train de me dire: T'es\nqu'un con, j'aime pas les photos.",
     "end": 13,
+    "heatValue": 38,
     "index": 4,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=10s"

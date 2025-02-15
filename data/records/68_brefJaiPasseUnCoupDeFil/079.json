@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 348,
     "durationHuman": "2:01",
     "durationInSeconds": 121,
     "index": 68,
+    "likeCount": 76290,
     "name": "Bref. J'ai passé un coup de fil.",
     "slug": "brefJaiPasseUnCoupDeFil",
     "videoId": "8matlnmBY98",
-    "viewcount": 5000000
+    "viewCount": 5070086
   },
   "line": {
     "content": "J'ai voulu lui dire qu'il ne pouvait\npas l'appeler vu que c'est lui qui avait\nson portable, mais il avait raccroché.",
     "end": 82,
+    "heatValue": 3,
     "index": 46,
     "start": 79,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=79s"

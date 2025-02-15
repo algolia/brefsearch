@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 145,
     "durationHuman": "1:09",
     "durationInSeconds": 69,
     "index": 8,
+    "likeCount": 24402,
     "name": "Bref. J'ai vu un psy.",
     "slug": "brefJaiVuUnPsy",
     "videoId": "xHTx3mYfGUQ",
-    "viewcount": 2500000
+    "viewCount": 2511951
   },
   "line": {
     "content": "Les 19 séances suivantes,\nil a dit:\n— Ah. Et ?",
     "end": 9,
+    "heatValue": null,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=2s"

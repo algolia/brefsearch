@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 512,
     "durationHuman": "1:39",
     "durationInSeconds": 99,
     "index": 6,
+    "likeCount": 70060,
     "name": "Bref. J'ai traîné sur internet.",
     "slug": "brefJaiTraineSurInternet",
     "videoId": "br82-adJ0FU",
-    "viewcount": 5700000
+    "viewCount": 5741554
   },
   "line": {
     "content": "J'ai été content parce que moi aussi,\nj'aime les Simpson et les Daft Punk.",
     "end": 37,
+    "heatValue": null,
     "index": 17,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=35s"

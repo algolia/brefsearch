@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 526,
     "durationHuman": "2:10",
     "durationInSeconds": 130,
     "index": 58,
+    "likeCount": 81033,
     "name": "Bref. C'était sa chanson préférée.",
     "slug": "brefCetaitSaChansonPreferee",
     "videoId": "UURXmjwlcDI",
-    "viewcount": 6200000
+    "viewCount": 6245023
   },
   "line": {
     "content": "Des coquillettes avec beaucoup\nde gruyère et des macarons de la boutique\nqui étaient toujours fermés\nquand on y allait.",
     "end": 65,
+    "heatValue": 9,
     "index": 21,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=62s"

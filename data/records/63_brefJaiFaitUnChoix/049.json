@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:17",
     "durationInSeconds": 137,
     "index": 63,
+    "likeCount": 105080,
     "name": "Bref. J'ai fait un choix.",
     "slug": "brefJaiFaitUnChoix",
     "videoId": "UNbu1DM-jk0",
-    "viewcount": 8800000
+    "viewCount": 8818396
   },
   "line": {
     "content": "Et toi, trois fois, c'est le nombre\nde fois où tu as mangé dans ta vie, non ?",
     "end": 52,
+    "heatValue": 1,
     "index": 20,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=49s"

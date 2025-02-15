@@ -1,17 +1,20 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 20,
+    "likeCount": 86290,
     "name": "Bref. J'ai eu 47 minutes de retard.",
     "slug": "brefJaiEu47MinutesDeRetard",
     "videoId": "K0XI5d8080Q",
-    "viewcount": 7200000
+    "viewCount": 7270328
   },
   "line": {
-    "content": "Bien fait !",
+    "content": "— Bien fait !",
     "end": 55,
-    "index": 25,
+    "heatValue": 15,
+    "index": 27,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=51s"
   },

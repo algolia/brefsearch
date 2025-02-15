@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 543,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 12,
+    "likeCount": 114614,
     "name": "Bref. J'ai eu un job.",
     "slug": "brefJaiEuUnJob",
     "videoId": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "viewCount": 9722385
   },
   "line": {
     "content": "Un jour, Fabien m'a dit:\n— C'est les chiffres, putain,\nça marche plus, regarde.",
     "end": 27,
+    "heatValue": 40,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=24s"

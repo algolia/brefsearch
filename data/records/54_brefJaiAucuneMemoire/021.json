@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 617,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 54,
+    "likeCount": 110917,
     "name": "Bref. J'ai aucune mémoire.",
     "slug": "brefJaiAucuneMemoire",
     "videoId": "elOH0CasAPw",
-    "viewcount": 7700000
+    "viewCount": 7767366
   },
   "line": {
     "content": "Quand je vais à une soirée,\nj'oublie l'étage, alors je monte\nen écoutant à toutes les portes.",
     "end": 23,
+    "heatValue": 25,
     "index": 9,
     "start": 21,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=21s"

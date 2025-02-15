@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 548,
     "durationHuman": "1:53",
     "durationInSeconds": 113,
     "index": 45,
+    "likeCount": 51384,
     "name": "Bref. J'ai eu une panne.",
     "slug": "brefJaiEuUnePanne",
     "videoId": "BJoEGR47rk0",
-    "viewcount": 3600000
+    "viewCount": 3643369
   },
   "line": {
     "content": "Elle ne m'avait jamais dit:\nFais des pâtes, c'est pas grave.",
     "end": 62,
+    "heatValue": null,
     "index": 24,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=60s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 380,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 13,
+    "likeCount": 79046,
     "name": "Bref. J'étais coincé dans l'ascenseur.",
     "slug": "brefJetaisCoinceDansLascenseur",
     "videoId": "l4Dz4EKZExI",
-    "viewcount": 6200000
+    "viewCount": 6207773
   },
   "line": {
     "content": "— J'en parlerai pas à votre patron.\n— À dans trois heures.",
     "end": 62,
+    "heatValue": 18,
     "index": 29,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=59s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "Bref, c'était un soir\noù je me sentais fièvreux.",
     "end": 3,
+    "heatValue": 62,
     "index": 0,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=1s"

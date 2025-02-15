@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "Je me suis senti triste.\nJ'ai crié.",
     "end": 34,
+    "heatValue": 10,
     "index": 15,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=32s"

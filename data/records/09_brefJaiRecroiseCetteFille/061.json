@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "Je lui ai dit que c'était\nle nom de mes poissons.",
     "end": 62,
+    "heatValue": 15,
     "index": 27,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=61s"

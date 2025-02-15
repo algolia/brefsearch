@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 468,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 64,
+    "likeCount": 87383,
     "name": "Bref. J'ai fait un dessin.",
     "slug": "brefJaiFaitUnDessin",
     "videoId": "LZQUFY0W_lY",
-    "viewcount": 5800000
+    "viewCount": 5904585
   },
   "line": {
     "content": "Bref, je crois que j'ai un secret.",
     "end": 74,
+    "heatValue": 46,
     "index": 32,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=69s"

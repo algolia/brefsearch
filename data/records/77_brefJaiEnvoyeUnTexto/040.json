@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 566,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 77,
+    "likeCount": 85617,
     "name": "Bref. J'ai envoyé un texto.",
     "slug": "brefJaiEnvoyeUnTexto",
     "videoId": "94NzqAY2Yhk",
-    "viewcount": 7500000
+    "viewCount": 7559587
   },
   "line": {
     "content": "Ma blague passait pas bien.",
     "end": 41,
+    "heatValue": 3,
     "index": 19,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=40s"

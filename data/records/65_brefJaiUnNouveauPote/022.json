@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "Quand j'oubliais mon portable,\nil twitte à ma place et on a pissé\nd'un balcon, mais on était bourré.\nPardon madame.",
     "end": 27,
+    "heatValue": 39,
     "index": 9,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=22s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 211,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 62,
+    "likeCount": 66207,
     "name": "Bref. J'étais toujours dans la merde.",
     "slug": "brefJetaisToujoursDansLaMerde",
     "videoId": "KM1Rsc4JyxA",
-    "viewcount": 5100000
+    "viewCount": 5199983
   },
   "line": {
     "content": "Quand je dis Attends, tu vas voir,\nelle est trop marrante cette vidéo et que\nje la trouve pas pendant une heure.",
     "end": 76,
+    "heatValue": 20,
     "index": 31,
     "start": 73,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=73s"

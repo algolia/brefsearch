@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 521,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 3,
+    "likeCount": 93483,
     "name": "Bref. Je me suis préparé pour un rendez-vous.",
     "slug": "brefJeMeSuisPreparePourUnRendezVous",
     "videoId": "1x3P61ck0QI",
-    "viewcount": 7200000
+    "viewCount": 7259855
   },
   "line": {
     "content": "Je regarde si j'ai encore\ndes préservatifs depuis la dernière fois.",
     "end": 58,
+    "heatValue": 8,
     "index": 17,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=55s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "Dans la case loisirs, j'avais mis\nque j'aimais bien le kayak.",
     "end": 31,
+    "heatValue": 25,
     "index": 11,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=29s"

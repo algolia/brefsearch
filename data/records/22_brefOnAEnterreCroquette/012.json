@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 585,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 22,
+    "likeCount": 85441,
     "name": "Bref. On a enterré croquette.",
     "slug": "brefOnAEnterreCroquette",
     "videoId": "LRzOCN7zths",
-    "viewcount": 6000000
+    "viewCount": 6068571
   },
   "line": {
-    "content": "J'ai dit: Putain, j'ai eu peur.\nElle a dit: T'es qu'un con.",
+    "content": "J'ai dit:\n— Ah putain, j'ai eu peur.\nElle a dit:\n— T'es qu'un con.",
     "end": 15,
+    "heatValue": 40,
     "index": 5,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=12s"

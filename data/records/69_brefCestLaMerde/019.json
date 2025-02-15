@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 415,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
+    "likeCount": 80337,
     "name": "Bref. C'est la merde.",
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewcount": 6000000
+    "viewCount": 6082963
   },
   "line": {
     "content": "Et puis, un jour, tu sais pas\npourquoi, tout se décale.",
     "end": 23,
+    "heatValue": 32,
     "index": 8,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=19s"

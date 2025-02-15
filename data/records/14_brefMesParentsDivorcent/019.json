@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 336,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 14,
+    "likeCount": 84145,
     "name": "Bref. Mes parents divorcent.",
     "slug": "brefMesParentsDivorcent",
     "videoId": "cDWcCpqFh_M",
-    "viewcount": 6600000
+    "viewCount": 6682867
   },
   "line": {
     "content": "J'essayais d'arrondir les angles.\n— Elle pense à toi.",
     "end": 20,
+    "heatValue": 22,
     "index": 10,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=19s"

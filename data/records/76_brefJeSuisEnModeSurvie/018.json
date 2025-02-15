@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Je cherche de l'argent dans\nle canapé, dans toutes mes poches.",
     "end": 21,
+    "heatValue": 13,
     "index": 7,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=18s"

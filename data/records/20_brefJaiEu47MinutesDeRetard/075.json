@@ -1,17 +1,20 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 20,
+    "likeCount": 86290,
     "name": "Bref. J'ai eu 47 minutes de retard.",
     "slug": "brefJaiEu47MinutesDeRetard",
     "videoId": "K0XI5d8080Q",
-    "viewcount": 7200000
+    "viewCount": 7270328
   },
   "line": {
-    "content": "Au cimetière, son père lui dit\nqu'il était pas son vrai père,\nque son vrai père, c'était lui.\nJe lui ai répondu, non ?",
+    "content": "qu'au cimetière, son père lui dise\nqu'il était pas son vrai père,\nque son vrai père, c'était lui.\nJe lui ai répondu:\n— Non.",
     "end": 81,
-    "index": 37,
+    "heatValue": 29,
+    "index": 39,
     "start": 75,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=75s"
   },

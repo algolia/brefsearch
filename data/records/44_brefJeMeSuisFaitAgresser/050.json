@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 301,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 44,
+    "likeCount": 56431,
     "name": "Bref. Je me suis fait agresser.",
     "slug": "brefJeMeSuisFaitAgresser",
     "videoId": "yQbvhuSlOt8",
-    "viewcount": 3600000
+    "viewCount": 3657673
   },
   "line": {
     "content": "Au moment où il m'a dit: Fils de pute.",
     "end": 52,
+    "heatValue": 9,
     "index": 19,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=50s"

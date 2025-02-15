@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 199,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 71,
+    "likeCount": 56247,
     "name": "Bref. J'ai fait une soirée déguisée (Partie 1).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
     "videoId": "rOI3TXz-igs",
-    "viewcount": 4900000
+    "viewCount": 4927821
   },
   "line": {
     "content": "J'allais sortir du taf, mon boss m'a\ndit: Tu peux me classer les devis, là,\nil y en a pour cinq petites minutes.\nJ'ai dit: En fait, je dois y aller.",
     "end": 15,
+    "heatValue": 5,
     "index": 7,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=10s"

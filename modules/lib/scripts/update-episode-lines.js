@@ -23,7 +23,7 @@ await pMap(
     const lines = await convertVtt(vttPath);
 
     episode.lines = lines;
-    progress.tick(basename);
+    progress.tick(`Lines: ${basename}`);
 
     await writeJson(episode, episodePath);
   },

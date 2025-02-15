@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2000,
     "durationHuman": "1:34",
     "durationInSeconds": 94,
     "index": 66,
+    "likeCount": 134319,
     "name": "Bref. Mon frère est gay.",
     "slug": "brefMonFrereEstGay",
     "videoId": "-tInLKCRUrs",
-    "viewcount": 8400000
+    "viewCount": 8408820
   },
   "line": {
     "content": "Du coup, je l'ai observé pour savoir quoi\nen penser et j'ai remarqué qu'il toussait\nquand il mangeait du tiramisou à cause du\nchocolat en poudre, qui m'avait envoyé un",
     "end": 59,
+    "heatValue": 16,
     "index": 29,
     "start": 54,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=54s"

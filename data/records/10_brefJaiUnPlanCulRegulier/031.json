@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 10,
+    "likeCount": 49496,
     "name": "Bref. J'ai un plan cul régulier.",
     "slug": "brefJaiUnPlanCulRegulier",
     "videoId": "9zk0TrOU_cI",
-    "viewcount": 3700000
+    "viewCount": 3714683
   },
   "line": {
     "content": "Je crois qu'elle m'aime bien.",
     "end": 32,
+    "heatValue": null,
     "index": 14,
     "start": 31,
     "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=31s"

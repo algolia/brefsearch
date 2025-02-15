@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 780,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 79,
+    "likeCount": 101475,
     "name": "Bref. Je suis né.",
     "slug": "brefJeSuisNe",
     "videoId": "lGBPAoLUn-0",
-    "viewcount": 6600000
+    "viewCount": 6614179
   },
   "line": {
     "content": "Je l'ai regardé, elle m'a\nregardé, je l'ai regardé.",
     "end": 67,
+    "heatValue": 20,
     "index": 37,
     "start": 66,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=66s"

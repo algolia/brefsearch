@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 646,
     "durationHuman": "2:07",
     "durationInSeconds": 127,
     "index": 70,
+    "likeCount": 95974,
     "name": "Bref. J'ai fait une connerie.",
     "slug": "brefJaiFaitUneConnerie",
     "videoId": "hpCO1AIWo60",
-    "viewcount": 7700000
+    "viewCount": 7801971
   },
   "line": {
     "content": "Le matin, je suis parti et c'était\ncomme quand tu vas dans un sex shop.",
     "end": 12,
+    "heatValue": 53,
     "index": 5,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=9s"

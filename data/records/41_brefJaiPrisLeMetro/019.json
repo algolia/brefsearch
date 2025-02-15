@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 41,
+    "likeCount": 98202,
     "name": "Bref. J'ai pris le métro.",
     "slug": "brefJaiPrisLeMetro",
     "videoId": "aqrab4lKVm0",
-    "viewcount": 7600000
+    "viewCount": 7606246
   },
   "line": {
     "content": "Dans le métro, il y a\ndes bancs spécialement conçus\npar des mecs dans des bureaux\npour qu'on puisse pas s'allonger dessus.",
     "end": 24,
+    "heatValue": 19,
     "index": 7,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=19s"

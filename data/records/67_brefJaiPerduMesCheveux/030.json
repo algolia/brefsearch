@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 716,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 67,
+    "likeCount": 87826,
     "name": "Bref. J'ai perdu mes cheveux.",
     "slug": "brefJaiPerduMesCheveux",
     "videoId": "akriQ9yTodk",
-    "viewcount": 7300000
+    "viewCount": 7385243
   },
   "line": {
     "content": "Et j'ai arrêté.",
     "end": 31,
+    "heatValue": 30,
     "index": 10,
     "start": 30,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=30s"

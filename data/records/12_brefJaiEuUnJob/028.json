@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 543,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 12,
+    "likeCount": 114614,
     "name": "Bref. J'ai eu un job.",
     "slug": "brefJaiEuUnJob",
     "videoId": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "viewCount": 9722385
   },
   "line": {
     "content": "J'ai pas utilisé la souris\npour faire américain et à un moment,\nj'ai juste appuyé sur \"vernum\".\nJ'ai dit:\n— C'est réparé.",
     "end": 34,
+    "heatValue": 43,
     "index": 13,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=28s"

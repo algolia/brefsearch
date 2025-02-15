@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "On a tapé un fou rire\ndans l'escalier en portant mon lit.",
     "end": 63,
+    "heatValue": 15,
     "index": 27,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=60s"

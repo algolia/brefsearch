@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "3:02",
     "durationInSeconds": 182,
     "index": 74,
+    "likeCount": 73509,
     "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
     "videoId": "UDko2X994U4",
-    "viewcount": 4700000
+    "viewCount": 4770369
   },
   "line": {
     "content": "Bref, j'étais dans cette soirée\nde merde quand ce mec\nque je connaissais pas m'a demandé.\nC'est quoi ton problème ?",
     "end": 4,
+    "heatValue": 36,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=0s"

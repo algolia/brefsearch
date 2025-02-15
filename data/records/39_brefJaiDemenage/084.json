@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Salut, je suis Charles,\nje suis le nouveau coloc.",
     "end": 85,
+    "heatValue": 16,
     "index": 37,
     "start": 84,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=84s"

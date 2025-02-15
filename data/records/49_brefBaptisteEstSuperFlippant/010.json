@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 490,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 49,
+    "likeCount": 93351,
     "name": "Bref. Baptiste est Super Flippant.",
     "slug": "brefBaptisteEstSuperFlippant",
     "videoId": "lrWa9VYEb78",
-    "viewcount": 7500000
+    "viewCount": 7580349
   },
   "line": {
     "content": "Elle se rend compte qu'il prend trop\nde place, alors elle le crève.",
     "end": 13,
+    "heatValue": 42,
     "index": 6,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=10s"

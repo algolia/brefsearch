@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 526,
     "durationHuman": "2:10",
     "durationInSeconds": 130,
     "index": 58,
+    "likeCount": 81033,
     "name": "Bref. C'était sa chanson préférée.",
     "slug": "brefCetaitSaChansonPreferee",
     "videoId": "UURXmjwlcDI",
-    "viewcount": 6200000
+    "viewCount": 6245023
   },
   "line": {
     "content": "Ça allait aussi allumer le mixeur,\nrelier à des ficelles, elle-même relier\nà des poulies qui allaient\nrévéler ses plats préférés.",
     "end": 58,
+    "heatValue": 7,
     "index": 19,
     "start": 54,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=54s"

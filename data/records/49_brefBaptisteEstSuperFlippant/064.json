@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 490,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 49,
+    "likeCount": 93351,
     "name": "Bref. Baptiste est Super Flippant.",
     "slug": "brefBaptisteEstSuperFlippant",
     "videoId": "lrWa9VYEb78",
-    "viewcount": 7500000
+    "viewCount": 7580349
   },
   "line": {
     "content": "Ça me ferait trop plaisir qu'on se voit.\nJ'ai trop dit trop.",
     "end": 69,
+    "heatValue": 0,
     "index": 30,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=64s"

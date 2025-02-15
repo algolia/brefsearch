@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 359,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 21,
+    "likeCount": 82145,
     "name": "Bref. Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche",
     "videoId": "onb8vNaHYB4",
-    "viewcount": 6800000
+    "viewCount": 6898714
   },
   "line": {
     "content": "Je n'avais pas envie de me détester.\nJe suis allé en acheter au supermarché.",
     "end": 5,
+    "heatValue": 39,
     "index": 2,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=3s"

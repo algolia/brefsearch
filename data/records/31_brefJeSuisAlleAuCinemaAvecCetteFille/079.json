@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 327,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 31,
+    "likeCount": 84322,
     "name": "Bref. Je suis allé au cinéma avec cette fille.",
     "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
     "videoId": "r-cbMtBLY0g",
-    "viewcount": 7100000
+    "viewCount": 7193082
   },
   "line": {
     "content": "J'ai dit oui, j'habitais à l'opposé.",
     "end": 80,
+    "heatValue": 11,
     "index": 36,
     "start": 79,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=79s"

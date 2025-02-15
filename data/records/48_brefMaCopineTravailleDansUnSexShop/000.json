@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 48,
+    "likeCount": 63867,
     "name": "Bref. Ma copine travaille dans un sex-shop.",
     "slug": "brefMaCopineTravailleDansUnSexShop",
     "videoId": "vrbqkwd6Zi8",
-    "viewcount": 3400000
+    "viewCount": 3454073
   },
   "line": {
     "content": "Bref, ce soir-là, j'ai été\naller chercher ma copine à son travail.",
     "end": 2,
+    "heatValue": null,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=0s"

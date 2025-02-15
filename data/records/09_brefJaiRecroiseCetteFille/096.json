@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "— Putain...",
     "end": 98,
+    "heatValue": 13,
     "index": 43,
     "start": 96,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=96s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/096.gif",
-    "hash": "f9a4a140b9",
+    "hash": "14dd9a154a",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAkMCicgHDAlIiQfHBkeJCMeHi8fGzUkHjsoITsoITYkHiseGh0XFRwaHhoeJhcZIAAKDQstJSE1KCQnJCIfJjMiICUtIBs4JyE+KSI8KSMsIBwrIB0lHhwXGR0ZHSMaHSUACw8LLCckLSckJigkKis2IyQrKB4bKR8bMyMfLCEdJB8bMyYiJiEfFRscGB0hHyMrAA8RDSwrKTItKzIvKy8rMB8lKy0lJC4jIS8lIi0jHy8lITMoJCEjHxkgHh4iJB4iJwArJCAyMi1DR0E8QjwmKiggIyElIiAtJCEvJiQuJiQrIyEsJSImJyEoKiUlKCQpKScAOy4pXmBWbnRnUldNU1NNX1lPXllOZmhjcXVwUk5FW1dQZmJaVVBIa2pfamxiNDEsACcdGISAd7SilK6Wi3p4a4WGd5iXhbOzqcrJxLSzo7y/sNvZ0tfSzruzqZmOgIuBdwAVDw0/PDh6bmmGfHhORz5pYViNhH2qpJ29trGnnpaXjIGUiYB2aGBVRz5CNClNPTEACwgHAwQFAgIEBQcIDxAQEA8QERITExQVFBUVEhEREA4PDgsLCQYGBwUFCAYFBgQDDxZlQ6S0NyYAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAMDw0vJyM7LSotJiQgJSwrJiY4KCI+LCZFMClFMClALSY0JiIlHxsjIiUiJS4eISgADhEPNS0oPzAsMCwrJy88KyktNigjQi8pSDIqRzIrNSgkNCgkLiYjHiEkICQrIiYuAA8TDjQwLDcvLC8wLTM1PywtNDAmIzEnIzwrJjUpJC0nIz0vKi4pJhwiIyAkKSYrNAATFhE1NDE7NzU7ODQ4NDkoLTM2Lis3LCk4LSo2Kyc4LCk8MC0pKicgKCYlKiwlKjAAMislOzw3TlJLR01GMDIxKCwqLisoNywqOTAtNy8sNSwpNy8rLzAqMjMtLzEsMjIwAEI2MGdoX3l+cV1hV11dVmljWGhhV3Bwa3p+eFxYUGVgWXBrZF5aUnRzaXN0az46NQAuJB+Kh368q520npKEf3WPj4GhnpC7urDQz8m7uKzDxbnf3djc19PCurGhmIqTi4AAHBUSRUI/gndwjYR/V05IcWpilY2Gsaulwry3raSdnpSJnJGIfnFoXk9GTDwyVkY7AA4LCgYGCAUGBwkKCxITExITFBUWFxcYGhgZGhUVFhMTExEQEA4KCgsICAsJCAoHBtfdcjwCPVOCAAAAAElFTkSuQmCC",
     "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/096.png",
     "width": 1920
   }

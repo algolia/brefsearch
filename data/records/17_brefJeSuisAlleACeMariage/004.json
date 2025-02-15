@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1100,
     "durationHuman": "1:41",
     "durationInSeconds": 101,
     "index": 17,
+    "likeCount": 118681,
     "name": "Bref. Je suis allé à ce mariage.",
     "slug": "brefJeSuisAlleACeMariage",
     "videoId": "gx9ph_0tzRw",
-    "viewcount": 11000000
+    "viewCount": 11162618
   },
   "line": {
     "content": "Le costume que j'avais mis était\nle même que je mettais toujours\naux entretiens d'embauche,\naux enterrements et aux mariages.",
     "end": 9,
+    "heatValue": 31,
     "index": 2,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=4s"

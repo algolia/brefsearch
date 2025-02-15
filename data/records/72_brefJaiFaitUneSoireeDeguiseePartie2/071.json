@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 347,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 72,
+    "likeCount": 69621,
     "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
     "videoId": "m7Y624w6MFU",
-    "viewcount": 5600000
+    "viewCount": 5660756
   },
   "line": {
     "content": "Je n'ai pas envie d'en parler.",
     "end": 74,
+    "heatValue": 29,
     "index": 29,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=71s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 48,
+    "likeCount": 63867,
     "name": "Bref. Ma copine travaille dans un sex-shop.",
     "slug": "brefMaCopineTravailleDansUnSexShop",
     "videoId": "vrbqkwd6Zi8",
-    "viewcount": 3400000
+    "viewCount": 3454073
   },
   "line": {
     "content": "Ce qui compte,\nc'est qu'il tourne équilibre.",
     "end": 43,
+    "heatValue": null,
     "index": 20,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=40s"

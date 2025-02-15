@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "2:31",
     "durationInSeconds": 151,
     "index": 80,
+    "likeCount": 164024,
     "name": "Bref. J'ai fait une dépression.",
     "slug": "brefJaiFaitUneDepression",
     "videoId": "DwfwmxOF_3E",
-    "viewcount": 9200000
+    "viewCount": 9241801
   },
   "line": {
     "content": "J'ai avancé vers lui.\nIl a avancé vers moi.",
     "end": 130,
+    "heatValue": 17,
     "index": 47,
     "start": 128,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=128s"

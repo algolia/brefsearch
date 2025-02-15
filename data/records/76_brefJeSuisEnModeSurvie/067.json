@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Et en guise de pain, les croûtes de pizza.",
     "end": 71,
+    "heatValue": 18,
     "index": 22,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=67s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "J'ai dit: Je m'en fous.\nJe pars demain.",
     "end": 42,
+    "heatValue": 64,
     "index": 19,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=41s"

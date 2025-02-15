@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 10,
+    "likeCount": 49496,
     "name": "Bref. J'ai un plan cul régulier.",
     "slug": "brefJaiUnPlanCulRegulier",
     "videoId": "9zk0TrOU_cI",
-    "viewcount": 3700000
+    "viewCount": 3714683
   },
   "line": {
     "content": "Quand elle repart pas, elle dort.",
     "end": 16,
+    "heatValue": null,
     "index": 5,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=14s"

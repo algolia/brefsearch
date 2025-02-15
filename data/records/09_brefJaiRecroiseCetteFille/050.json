@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "S'allonger dans l'herbe. Lui présenter ma famille.",
     "end": 51,
+    "heatValue": 78,
     "index": 19,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=50s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/gif/050.gif",
-    "hash": "b17ed1c165",
+    "hash": "21e0fdfc78",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABRklEQVR4nAXB63raMAwA0Lz/22zE8UWWZNlyLgXWhCZAaPvR/lr3FjuniUwo5NG1wVAiRMmiPsSAAOx+G2u88WRbZ3+ZrjWu4RwDORPayJBTKUm3ZZ2GIyIiASIFAKRAiNYCADYWOhs6TC4CtAd7n+ef7+/P/REcECMyUoo+ekZyNsSIjQMbEfpK4DyGuM+v+7I81o0xiTAnJGZkSikRETM3PjoRGaoGB32Sz/XyvN2+3j+KqDBXFS2iqqUUIiSixgRXVdf5lWLyFq7Hl+d1+/n7r9dxKHmouVfpNWvJiIBEzcHaqvp+3V60mtZl4ss07m9vp3FSkeM4jH0d+6JFYvQ+hKbtTF/Lx3q5n88Jk+1C5TTm8twfRfJ5Goa+VhWRFACs943xVgT37Xabl1MdXQcE/Gc6fd335XjKiUWYCGOMbecOxv4HEWVHq2NimKIAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATtJREFUeJwljclyo0AQRPn/P7LUW3VtdEELaWQswCCNl8vYP+HAk5GHPLwX2SARCSWMLjkSQpRWSwJMCEDxyQUXfaJwDOHJ+aMLDSsC7TQyqLRFy3ybhjogIhIQIUD+P0LIOWMTwHnwKBFzPh7COj5/fX6+bVuKmXg/J8GUIxOHALsQc8gInTEkQMBtfF5vL/d5ZhRVYSFmIiYR4d80KUcVrWYp5l7073R7W18/Ho+ipsydqRU1K6WU3SRqfIpWbBpHRk4Blsvwvszf/747q7W0tWt722ulJcpI1Bx96Io9lvlknXOxJXk51W2aLqehUz3XvvZWu2JFIacE0By876w8pttyvQpJ8MlEalvet3uR9s+vYEVVJQGElBoXvSrdl+V1HM99jR4o83U4f6zreLm0wq0yMWbMzseDCz/PYVGcull6CgAAAABJRU5ErkJggg==",
     "url": "https://assets.pixelastic.com/brefsearch/09_brefJaiRecroiseCetteFille/050.png",
     "width": 1920
   }

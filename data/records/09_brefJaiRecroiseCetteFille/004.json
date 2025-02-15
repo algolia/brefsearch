@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 477,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 9,
+    "likeCount": 90777,
     "name": "Bref. J'ai recroisé cette fille.",
     "slug": "brefJaiRecroiseCetteFille",
     "videoId": "r7LVaWeM_bg",
-    "viewcount": 9000000
+    "viewCount": 9033652
   },
   "line": {
     "content": "Juste à temps, je me suis rendu compte\nqu'il y avait plus de papier toilette,\nplus de sopalin, plus de Kleenex\net j'avais pas encore fini ce magazine.",
     "end": 9,
+    "heatValue": 28,
     "index": 1,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=4s"

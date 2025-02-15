@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2000,
     "durationHuman": "1:34",
     "durationInSeconds": 94,
     "index": 66,
+    "likeCount": 134319,
     "name": "Bref. Mon frère est gay.",
     "slug": "brefMonFrereEstGay",
     "videoId": "-tInLKCRUrs",
-    "viewcount": 8400000
+    "viewCount": 8408820
   },
   "line": {
     "content": "C'est toi qui...\nOu tu te...",
     "end": 49,
+    "heatValue": 14,
     "index": 25,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=46s"

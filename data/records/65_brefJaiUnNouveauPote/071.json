@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "La meuf, ça fait 15 fois que je la vois.",
     "end": 73,
+    "heatValue": 7,
     "index": 30,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=71s"

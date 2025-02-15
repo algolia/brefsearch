@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Mais comme j'ai pas envie\nde retomber amoureuse, j'hésite\npendant trois mois, je finis par craquer,\non couche ensemble et je repars.",
     "end": 13,
+    "heatValue": 23,
     "index": 2,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=8s"

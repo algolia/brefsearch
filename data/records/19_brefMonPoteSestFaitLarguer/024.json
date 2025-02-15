@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 305,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 19,
+    "likeCount": 76028,
     "name": "Bref. Mon pote s'est fait larguer.",
     "slug": "brefMonPoteSestFaitLarguer",
     "videoId": "J9EL_bGpdP4",
-    "viewcount": 6200000
+    "viewCount": 6265057
   },
   "line": {
     "content": "Je crois vraiment que le garçon faisait\nexprès de faire 10 000 chocolats chauds\nà deux mètres de mon oreille.\nJe lui ai dit:\n— Elle va revenir\n— Tu crois ? Pourquoi ?",
     "end": 28,
+    "heatValue": 17,
     "index": 16,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=24s"

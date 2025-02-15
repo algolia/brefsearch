@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Tu as pas dit que t'étais un pote ?\nIl fallait que je parte.",
     "end": 24,
+    "heatValue": 49,
     "index": 10,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=22s"

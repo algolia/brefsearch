@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 560,
     "durationHuman": "1:31",
     "durationInSeconds": 91,
     "index": 11,
+    "likeCount": 108927,
     "name": "Bref. Je suis comme tout le monde.",
     "slug": "brefJeSuisCommeToutLeMonde",
     "videoId": "tkMoSaUMsiM",
-    "viewcount": 8200000
+    "viewCount": 8286572
   },
   "line": {
     "content": "J'ai déjà tapé mes poches\nen disant:\n— Désolé, je n'ai pas d'argent.",
     "end": 15,
+    "heatValue": 34,
     "index": 4,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=14s"

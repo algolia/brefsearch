@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 468,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 64,
+    "likeCount": 87383,
     "name": "Bref. J'ai fait un dessin.",
     "slug": "brefJaiFaitUnDessin",
     "videoId": "LZQUFY0W_lY",
-    "viewcount": 5800000
+    "viewCount": 5904585
   },
   "line": {
     "content": "Et après, je me suis rendu compte que\nsi je mettais quatre pattes et deux yeux\nà un nuage, ça faisait un mouton.\nJ'ai fait un mouton.",
     "end": 27,
+    "heatValue": 16,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=24s"

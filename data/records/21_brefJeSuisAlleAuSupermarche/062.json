@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 359,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 21,
+    "likeCount": 82145,
     "name": "Bref. Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche",
     "videoId": "onb8vNaHYB4",
-    "viewcount": 6800000
+    "viewCount": 6898714
   },
   "line": {
-    "content": "Bonjour.\nC'était mon tour.",
+    "content": "— Bonjour.\nC'était mon tour.",
     "end": 63,
+    "heatValue": 13,
     "index": 27,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=62s"

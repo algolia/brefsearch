@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 295,
     "durationHuman": "2:00",
     "durationInSeconds": 120,
     "index": 34,
+    "likeCount": 65615,
     "name": "Bref. J'ai fait un concert.",
     "slug": "brefJaiFaitUnConcert",
     "videoId": "04gASg8-J3Y",
-    "viewcount": 5200000
+    "viewCount": 5216215
   },
   "line": {
     "content": "J'ai dit: Elle m'a dit: J'ai\ndit: Elle m'a dit: Comme ça,\ntu me referais un autre jour.",
     "end": 94,
+    "heatValue": 24,
     "index": 37,
     "start": 88,
     "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=88s"

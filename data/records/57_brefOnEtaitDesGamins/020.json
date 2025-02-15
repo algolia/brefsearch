@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "2:16",
     "durationInSeconds": 136,
     "index": 57,
+    "likeCount": 112972,
     "name": "Bref. On était des gamins.",
     "slug": "brefOnEtaitDesGamins",
     "videoId": "LI0mfa3sqWY",
-    "viewcount": 6300000
+    "viewCount": 6343137
   },
   "line": {
     "content": "En fait, dans ma tête, des fois,\nil y a une voix qui va vite.",
     "end": 24,
+    "heatValue": null,
     "index": 11,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=20s"

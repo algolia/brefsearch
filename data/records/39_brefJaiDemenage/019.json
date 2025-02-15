@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Tu peux les prendre si tu veux.",
     "end": 20,
+    "heatValue": 38,
     "index": 8,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=19s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 347,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 72,
+    "likeCount": 69621,
     "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
     "videoId": "m7Y624w6MFU",
-    "viewcount": 5600000
+    "viewCount": 5660756
   },
   "line": {
     "content": "Il m'a demandé.\nQu'est-ce que tu fais là ?",
     "end": 56,
+    "heatValue": 4,
     "index": 23,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=55s"

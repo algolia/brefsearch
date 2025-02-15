@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 376,
     "durationHuman": "1:27",
     "durationInSeconds": 87,
     "index": 26,
+    "likeCount": 90190,
     "name": "Bref. J'ai un pote à conditions générales.",
     "slug": "brefJaiUnPoteAConditionsGenerales",
     "videoId": "Z_Iqj4P90Qg",
-    "viewcount": 6300000
+    "viewCount": 6382304
   },
   "line": {
     "content": "On a tous dans son entourage,\nquelqu'un qui finit ses phrases par...",
     "end": 5,
+    "heatValue": 37,
     "index": 2,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=3s"

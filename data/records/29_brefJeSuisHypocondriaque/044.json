@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 392,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 29,
+    "likeCount": 67863,
     "name": "Bref. Je suis hypocondriaque.",
     "slug": "brefJeSuisHypocondriaque",
     "videoId": "_AH6uf2dTLg",
-    "viewcount": 4100000
+    "viewCount": 4199001
   },
   "line": {
     "content": "Je ne touche aucune poignée.",
     "end": 45,
+    "heatValue": 19,
     "index": 19,
     "start": 44,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=44s"

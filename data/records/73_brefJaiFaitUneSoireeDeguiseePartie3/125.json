@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 299,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 73,
+    "likeCount": 62306,
     "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
     "videoId": "WRXsFwhVzTs",
-    "viewcount": 4900000
+    "viewCount": 5001029
   },
   "line": {
     "content": "On se revoit la semaine prochaine.",
     "end": 129,
+    "heatValue": 27,
     "index": 48,
     "start": 125,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=125s"

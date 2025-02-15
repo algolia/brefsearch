@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 543,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 12,
+    "likeCount": 114614,
     "name": "Bref. J'ai eu un job.",
     "slug": "brefJaiEuUnJob",
     "videoId": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "viewCount": 9722385
   },
   "line": {
     "content": "— Merde.",
     "end": 22,
+    "heatValue": 43,
     "index": 9,
     "start": 21,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=21s"

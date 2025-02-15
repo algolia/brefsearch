@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 614,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 36,
+    "likeCount": 96372,
     "name": "Bref. J'ai dîné avec cette fille.",
     "slug": "brefJaiDineAvecCetteFille",
     "videoId": "6dyIHnUE5FY",
-    "viewcount": 8700000
+    "viewCount": 8801399
   },
   "line": {
     "content": "Je sais faire des cocktails.",
     "end": 38,
+    "heatValue": 30,
     "index": 15,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=37s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/gif/037.gif",
-    "hash": "79350887cf",
+    "hash": "e5d8ab37f1",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtElEQVR4nAXBXVeaYAAAYK5X5AcdmmK5abpprFU2a4k7KmeIezNFFIhl6kTiQwSbLDu5pbjE5v0u91v3PNB+LHb4JpE7/sDkC3hklzo+lHmJvJhQzKxVqzx1IhNu70F4Xcyd76Xq8WQBOsHfASKLoVvR0Pbwq3jXaoOKDRozil12r+p/5FeLZmLSOSKBnSmoB+k6hCJIIhKtf6Z4umTynFBVScYp83NQd6zr00dpd9qONvkmWXUK52OC4KAYFuhWGU24lCqVha7b3/QWPwDMPWBGD118frNjt1Kg9rPEzvLA7jACFPDA8cAWHt6xxEv3+8hRlSftZqpoZttQhZohfhIaMt1YFFmHrWr9Bgtt+33o+guGOPs3vvsrcitNc01z2dfdgf67PxxLVluwAPOD/GJbV92LbAYKejdCPk8cC5ZSR+P0wULpTYbGrSI9W8OVpS8N1dXkqaLdXiumwKcTSSjo92E+T9C7sQmvvUSQk2QyT5yKXO15NLfVXzPDdg3jsddzB/0mTWf230MY4kfW1wJeT3jTH0Z8KAyjMPw2hJWzuTIw7mV9NehMe6JIFTM4Tn88+w/pFIPXZ5HxcwAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwW1TmgAAAGD+wRYpMm8leM5WK3WNLJubbVDtarjUA19ARLRMw0ReBLFC543NA6dp+7yv+5l7HmD/zfZBJPolmSydne++3ky/P5CqHbJoZ1inWS7OxK0fVcyubWbPaexDJfqOBFIYliOOAy/8Gwjar9eHzRZVsijeueAW7avyUtqaXe/a4mGato5JJXFUAfwQFA1vsGS68i1j8JzAyCTrFoQpXXHN60+T253JzXZDuEozLln4fnLCAztI4KZQVHihnS/MNPVB1JpVg2bGeebeFuNTOTxsJanyz1zF+UpZIlMDEA8YCaxjr0KGIDzeP7iKPFO7E1k1Wj1ZYPT6aY3vZPl5lnO5ktrjykAIhtbAZwz++d949PeSX6rK3DAXmrYwtGlvMLo1W0KfZockZZmNdoHAAcS7GvJ5I0ggc5gYpRJzWbIHxp3cWZp3T31toStzVZrI6qDZNarVj7G3AOqDgj5PEPK8BFcCMJyKxc6IozrPLqzflvLL0a25rk860qOhNzJZPB4HgjDsX3mOej1hvy8MQ+ur4BoIxlCUIk7ztD7u6n/6oiNd1i4yBLaXw/H//SmS2bXbGvEAAAAASUVORK5CYII=",
     "url": "https://assets.pixelastic.com/brefsearch/36_brefJaiDineAvecCetteFille/037.png",
     "width": 1920
   }

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "En plus, depuis son divorce,\nmon père habitait en France.",
     "end": 22,
+    "heatValue": 42,
     "index": 9,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=20s"

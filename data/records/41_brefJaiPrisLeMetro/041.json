@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 41,
+    "likeCount": 98202,
     "name": "Bref. J'ai pris le métro.",
     "slug": "brefJaiPrisLeMetro",
     "videoId": "aqrab4lKVm0",
-    "viewcount": 7600000
+    "viewCount": 7606246
   },
   "line": {
     "content": "super contentes de s'endetter\n20 ans pour une machine à laver.",
     "end": 43,
+    "heatValue": 20,
     "index": 14,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=41s"

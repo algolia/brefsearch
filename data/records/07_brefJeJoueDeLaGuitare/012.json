@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 525,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 7,
+    "likeCount": 88753,
     "name": "Bref. Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare",
     "videoId": "QJEyHT7IU5M",
-    "viewcount": 6600000
+    "viewCount": 6698014
   },
   "line": {
     "content": "— Bha, il manque une corde,\nmais elle sert à rien.",
     "end": 14,
+    "heatValue": 40,
     "index": 6,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=12s"

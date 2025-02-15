@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 560,
     "durationHuman": "1:31",
     "durationInSeconds": 91,
     "index": 11,
+    "likeCount": 108927,
     "name": "Bref. Je suis comme tout le monde.",
     "slug": "brefJeSuisCommeToutLeMonde",
     "videoId": "tkMoSaUMsiM",
-    "viewcount": 8200000
+    "viewCount": 8286572
   },
   "line": {
     "content": "Je l'ai remise à bouillir.\nJe l'ai oubliée.",
     "end": 27,
+    "heatValue": 14,
     "index": 10,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=26s"

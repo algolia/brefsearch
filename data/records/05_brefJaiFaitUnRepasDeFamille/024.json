@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "Mon oncle dit vraiment trop de gros mots.\nMais qu'elle aille se faire *gros mots*.",
     "end": 26,
+    "heatValue": 9,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=24s"

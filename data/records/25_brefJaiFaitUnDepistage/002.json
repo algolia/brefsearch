@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 590,
     "durationHuman": "1:49",
     "durationInSeconds": 109,
     "index": 25,
+    "likeCount": 79173,
     "name": "Bref. J'ai fait un dépistage.",
     "slug": "brefJaiFaitUnDepistage",
     "videoId": "41X9gwbeMxQ",
-    "viewcount": 6800000
+    "viewCount": 6825279
   },
   "line": {
     "content": "Bref, c'était un soir\navec Marla, je me suis arrêté.",
     "end": 4,
+    "heatValue": 87,
     "index": 0,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=2s"

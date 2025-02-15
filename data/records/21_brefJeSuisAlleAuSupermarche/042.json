@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 359,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 21,
+    "likeCount": 82145,
     "name": "Bref. Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche",
     "videoId": "onb8vNaHYB4",
-    "viewcount": 6800000
+    "viewCount": 6898714
   },
   "line": {
     "content": "Du coup, j'ai pris conscience que la\nsociété de consommation m'avait rattrapé.",
     "end": 46,
+    "heatValue": 24,
     "index": 21,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=42s"

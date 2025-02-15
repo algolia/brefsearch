@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Quand je suis en mode survie, je regarde\nles tickets de jeux déjà grattés par\nterre en espérant qu'ils soient gagnants.",
     "end": 9,
+    "heatValue": 38,
     "index": 2,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=5s"

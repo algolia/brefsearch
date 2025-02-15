@@ -1,17 +1,20 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 20,
+    "likeCount": 86290,
     "name": "Bref. J'ai eu 47 minutes de retard.",
     "slug": "brefJaiEu47MinutesDeRetard",
     "videoId": "K0XI5d8080Q",
-    "viewcount": 7200000
+    "viewCount": 7270328
   },
   "line": {
     "content": "Pendant que ce mec que je ne connais pas\nme fouillait, je me suis dit que c'était\nquand même une bonne journée de merde.",
     "end": 49,
-    "index": 23,
+    "heatValue": 12,
+    "index": 25,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=46s"
   },

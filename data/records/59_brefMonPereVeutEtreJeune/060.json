@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 710,
     "durationHuman": "2:08",
     "durationInSeconds": 128,
     "index": 59,
+    "likeCount": 84316,
     "name": "Bref. Mon père veut être jeune.",
     "slug": "brefMonPereVeutEtreJeune",
     "videoId": "7Ry1eljBOvM",
-    "viewcount": 6900000
+    "viewCount": 6922744
   },
   "line": {
     "content": "J'ai dit: C'est ça ton truc important ?",
     "end": 62,
+    "heatValue": 12,
     "index": 32,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=60s"

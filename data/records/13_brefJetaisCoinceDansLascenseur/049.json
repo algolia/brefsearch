@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 380,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 13,
+    "likeCount": 79046,
     "name": "Bref. J'étais coincé dans l'ascenseur.",
     "slug": "brefJetaisCoinceDansLascenseur",
     "videoId": "l4Dz4EKZExI",
-    "viewcount": 6200000
+    "viewCount": 6207773
   },
   "line": {
     "content": "J'ai dit:\n— Allô, je suis bloqué.\nIl m'entendait pas.",
     "end": 50,
+    "heatValue": 22,
     "index": 24,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=49s"

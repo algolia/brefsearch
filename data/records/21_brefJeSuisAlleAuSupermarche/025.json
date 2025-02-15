@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 359,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 21,
+    "likeCount": 82145,
     "name": "Bref. Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche",
     "videoId": "onb8vNaHYB4",
-    "viewcount": 6800000
+    "viewCount": 6898714
   },
   "line": {
     "content": "J'ai aussi pris du Energy\n3000 pour aucune raison.",
     "end": 27,
+    "heatValue": 37,
     "index": 15,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=25s"

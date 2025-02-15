@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 548,
     "durationHuman": "1:53",
     "durationInSeconds": 113,
     "index": 45,
+    "likeCount": 51384,
     "name": "Bref. J'ai eu une panne.",
     "slug": "brefJaiEuUnePanne",
     "videoId": "BJoEGR47rk0",
-    "viewcount": 3600000
+    "viewCount": 3643369
   },
   "line": {
     "content": "Les filles de l'énergie 3.",
     "end": 15,
+    "heatValue": null,
     "index": 7,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=14s"

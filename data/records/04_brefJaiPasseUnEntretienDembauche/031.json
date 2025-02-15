@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "Je n'avais jamais fait de kayak,\nmais j'aimais bien les mots\nqui se lisent dans les deux sens.",
     "end": 34,
+    "heatValue": 25,
     "index": 12,
     "start": 31,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=31s"

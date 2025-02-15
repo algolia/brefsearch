@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 347,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 72,
+    "likeCount": 69621,
     "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
     "videoId": "m7Y624w6MFU",
-    "viewcount": 5600000
+    "viewCount": 5660756
   },
   "line": {
     "content": "Je pense que je viendrai\npas à la soirée de Maud.",
     "end": 9,
+    "heatValue": 30,
     "index": 3,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=7s"

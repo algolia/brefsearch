@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 710,
     "durationHuman": "2:08",
     "durationInSeconds": 128,
     "index": 59,
+    "likeCount": 84316,
     "name": "Bref. Mon père veut être jeune.",
     "slug": "brefMonPereVeutEtreJeune",
     "videoId": "7Ry1eljBOvM",
-    "viewcount": 6900000
+    "viewCount": 6922744
   },
   "line": {
     "content": "Il essayait d'utiliser des expressions\nde John, mais il y arrivait pas.",
     "end": 35,
+    "heatValue": 17,
     "index": 16,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=33s"

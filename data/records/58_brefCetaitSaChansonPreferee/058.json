@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 526,
     "durationHuman": "2:10",
     "durationInSeconds": 130,
     "index": 58,
+    "likeCount": 81033,
     "name": "Bref. C'était sa chanson préférée.",
     "slug": "brefCetaitSaChansonPreferee",
     "videoId": "UURXmjwlcDI",
-    "viewcount": 6200000
+    "viewCount": 6245023
   },
   "line": {
     "content": "Le poulet croustillant du chef\nde chez des L'Elle Chouanne\nqui n'existent pas en portée,\nles que j'avais réussi à récupérer.",
     "end": 62,
+    "heatValue": 9,
     "index": 20,
     "start": 58,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=58s"

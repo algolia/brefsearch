@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 543,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 12,
+    "likeCount": 114614,
     "name": "Bref. J'ai eu un job.",
     "slug": "brefJaiEuUnJob",
     "videoId": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "viewCount": 9722385
   },
   "line": {
     "content": "Le scotch m'a dit:\n— Vous êtes sûr ?\nJ'ai dit:\n— Oui.",
     "end": 82,
+    "heatValue": 16,
     "index": 36,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=80s"

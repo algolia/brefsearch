@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 521,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 3,
+    "likeCount": 93483,
     "name": "Bref. Je me suis préparé pour un rendez-vous.",
     "slug": "brefJeMeSuisPreparePourUnRendezVous",
     "videoId": "1x3P61ck0QI",
-    "viewcount": 7200000
+    "viewCount": 7259855
   },
   "line": {
     "content": "Je me sens prêt, mais comme le rendez-vous\nest dans deux heures, j'attends.",
     "end": 79,
+    "heatValue": 7,
     "index": 24,
     "start": 75,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=75s"

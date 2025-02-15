@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "Merde, il faut que je\nfasse un coup de fil.",
     "end": 86,
+    "heatValue": 38,
     "index": 32,
     "start": 84,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=84s"

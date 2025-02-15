@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "Je me suis rendu compte que\nj'avais confondu la la planche B\navec la planche H, qui est pareil,\nmais avec deux autres trous sur le côté.",
     "end": 32,
+    "heatValue": 8,
     "index": 14,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=28s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 431,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 38,
+    "likeCount": 96820,
     "name": "Bref. J'ai voulu partir en vacances.",
     "slug": "brefJaiVouluPartirEnVacances",
     "videoId": "FThJiyU25jc",
-    "viewcount": 8200000
+    "viewCount": 8214486
   },
   "line": {
     "content": "Vu que j'avais le droit\nà 500 € de découverte, j'ai béni\nle monde moderne qui permet\nà un homme qui a 0 € de voyager.",
     "end": 17,
+    "heatValue": 31,
     "index": 8,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=13s"

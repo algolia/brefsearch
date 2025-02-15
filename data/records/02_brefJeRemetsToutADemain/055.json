@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "J'ai commencé 12 livres,\nj'en ai fini aucun.",
     "end": 57,
+    "heatValue": 30,
     "index": 21,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=55s"

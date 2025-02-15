@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "Depuis deux ans, je dois résilier\nl'abonnement internet de mon ancien\nappartement, je le remets à demain.",
     "end": 13,
+    "heatValue": 44,
     "index": 2,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=9s"

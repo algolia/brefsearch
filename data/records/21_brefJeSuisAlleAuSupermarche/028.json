@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 359,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 21,
+    "likeCount": 82145,
     "name": "Bref. Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche",
     "videoId": "onb8vNaHYB4",
-    "viewcount": 6800000
+    "viewCount": 6898714
   },
   "line": {
-    "content": "J'ai pensé à mon site qui m'a dit: Vous\ncherchez à combler la vie d'affective.",
+    "content": "J'ai pensé à mon psy qui m'a dit:\n— Vous cherchez à combler un vide affectif.",
     "end": 31,
+    "heatValue": 52,
     "index": 17,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=28s"

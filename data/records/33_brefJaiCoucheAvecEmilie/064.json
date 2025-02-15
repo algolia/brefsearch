@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 33,
+    "likeCount": 166814,
     "name": "Bref. J'ai couché avec Émilie.",
     "slug": "brefJaiCoucheAvecEmilie",
     "videoId": "mEu0q3Slzj0",
-    "viewcount": 15000000
+    "viewCount": 15359989
   },
   "line": {
     "content": "Moi, c'est cool.\nJe vois des filles, je papillonne.",
     "end": 66,
+    "heatValue": null,
     "index": 27,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=64s"

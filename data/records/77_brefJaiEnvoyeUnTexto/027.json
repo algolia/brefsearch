@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 566,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 77,
+    "likeCount": 85617,
     "name": "Bref. J'ai envoyé un texto.",
     "slug": "brefJaiEnvoyeUnTexto",
     "videoId": "94NzqAY2Yhk",
-    "viewcount": 7500000
+    "viewCount": 7559587
   },
   "line": {
     "content": "J'ai pas répondu.\nJe suis retourné à mon texto.",
     "end": 28,
+    "heatValue": 11,
     "index": 11,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=27s"

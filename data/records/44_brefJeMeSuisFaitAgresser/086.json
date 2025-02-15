@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 301,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 44,
+    "likeCount": 56431,
     "name": "Bref. Je me suis fait agresser.",
     "slug": "brefJeMeSuisFaitAgresser",
     "videoId": "yQbvhuSlOt8",
-    "viewcount": 3600000
+    "viewCount": 3657673
   },
   "line": {
     "content": "J'ai dit: A emporté.",
     "end": 96,
+    "heatValue": 14,
     "index": 32,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=86s"

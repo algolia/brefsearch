@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 805,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 46,
+    "likeCount": 79231,
     "name": "Bref. J'ai eu 30 ans.",
     "slug": "brefJaiEu30Ans",
     "videoId": "Xi-oROsTsG8",
-    "viewcount": 6300000
+    "viewCount": 6367294
   },
   "line": {
     "content": "J'ai acheté une théière et j'ai\nune marque de thé préférée.",
     "end": 53,
+    "heatValue": 31,
     "index": 22,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=52s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "Malheureusement, la fille au bout de cette\ncigarette, c'est Maud, la copine de\nmon frère, et au bout de ce canapé, c'est\nmon frère, donc il y avait pas moyen.",
     "end": 52,
+    "heatValue": 20,
     "index": 17,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=46s"

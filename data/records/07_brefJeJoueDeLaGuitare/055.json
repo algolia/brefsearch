@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 525,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 7,
+    "likeCount": 88753,
     "name": "Bref. Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare",
     "videoId": "QJEyHT7IU5M",
-    "viewcount": 6600000
+    "viewCount": 6698014
   },
   "line": {
     "content": "J'avais l'impression d'essayer\nde me branler avec des gants de boxe\nen récitant l'alphabet à l'envers.",
     "end": 59,
+    "heatValue": 22,
     "index": 25,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=55s"

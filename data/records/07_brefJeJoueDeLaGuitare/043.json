@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 525,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 7,
+    "likeCount": 88753,
     "name": "Bref. Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare",
     "videoId": "QJEyHT7IU5M",
-    "viewcount": 6600000
+    "viewCount": 6698014
   },
   "line": {
     "content": "Un jour, je suis allé sur des forums,\nj'ai appris qu'on pouvait serrer\ndes meufs avec seulement quatre accords:\nle Do, le Sol, le La et enfin le Mi.",
     "end": 49,
+    "heatValue": 25,
     "index": 22,
     "start": 43,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=43s"

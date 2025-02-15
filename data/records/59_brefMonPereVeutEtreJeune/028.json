@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 710,
     "durationHuman": "2:08",
     "durationInSeconds": 128,
     "index": 59,
+    "likeCount": 84316,
     "name": "Bref. Mon père veut être jeune.",
     "slug": "brefMonPereVeutEtreJeune",
     "videoId": "7Ry1eljBOvM",
-    "viewcount": 6900000
+    "viewCount": 6922744
   },
   "line": {
     "content": "Quand je partais, il me disait: Tu vas en\nQuand je revenais, il me disait: Alors ?",
     "end": 32,
+    "heatValue": 18,
     "index": 14,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=28s"

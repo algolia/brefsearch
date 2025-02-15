@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 3400,
     "durationHuman": "2:00",
     "durationInSeconds": 120,
     "index": 47,
+    "likeCount": 195186,
     "name": "Bref. Je suis vieille.",
     "slug": "brefJeSuisVieille",
     "videoId": "5pr4Q09-16k",
-    "viewcount": 8100000
+    "viewCount": 8192406
   },
   "line": {
     "content": "Pour résumer, à chaque fois\nque je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
     "end": 12,
+    "heatValue": 55,
     "index": 2,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=7s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 805,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 46,
+    "likeCount": 79231,
     "name": "Bref. J'ai eu 30 ans.",
     "slug": "brefJaiEu30Ans",
     "videoId": "Xi-oROsTsG8",
-    "viewcount": 6300000
+    "viewCount": 6367294
   },
   "line": {
     "content": "J'ai entendu des jeunes parler entre eux.\nTrop de swag.",
     "end": 41,
+    "heatValue": 83,
     "index": 16,
     "start": 39,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=39s"

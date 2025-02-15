@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 585,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 22,
+    "likeCount": 85441,
     "name": "Bref. On a enterré croquette.",
     "slug": "brefOnAEnterreCroquette",
     "videoId": "LRzOCN7zths",
-    "viewcount": 6000000
+    "viewCount": 6068571
   },
   "line": {
-    "content": "J'ai dit: On peut se\nvoir demain, si tu veux.",
+    "content": "J'ai dit:\n— On peut se voir demain, si tu veux.",
     "end": 22,
+    "heatValue": 25,
     "index": 9,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=20s"

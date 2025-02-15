@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "J'ai dû pousser le canapé, déplacer\nla table basse, rouler le tapis.",
     "end": 14,
+    "heatValue": 14,
     "index": 6,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=12s"

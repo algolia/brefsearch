@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2000,
     "durationHuman": "1:34",
     "durationInSeconds": 94,
     "index": 66,
+    "likeCount": 134319,
     "name": "Bref. Mon frère est gay.",
     "slug": "brefMonFrereEstGay",
     "videoId": "-tInLKCRUrs",
-    "viewcount": 8400000
+    "viewCount": 8408820
   },
   "line": {
     "content": "Il sait jamais sur quel bouton\nappuyer sur l'interphone, alors\nil appuie sur tous les boutons.",
     "end": 73,
+    "heatValue": 11,
     "index": 36,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=71s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 699,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 32,
+    "likeCount": 94559,
     "name": "Bref. Je sais pas dire non.",
     "slug": "brefJeSaisPasDireNon",
     "videoId": "OmEx0mpHFG4",
-    "viewcount": 7900000
+    "viewCount": 7987391
   },
   "line": {
     "content": "Quand quelqu'un me marche\nsur le pied, je dis pardon.",
     "end": 22,
+    "heatValue": 68,
     "index": 10,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=19s"

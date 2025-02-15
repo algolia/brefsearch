@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "J'hésitais entre timide,\nmaniaque, obsessionnel, lâche,\ndépressif, feignant, menteur.\nJ'ai répondu:\n— Perfectioniste?",
     "end": 73,
+    "heatValue": 42,
     "index": 25,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=70s"

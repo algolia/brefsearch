@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 617,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 54,
+    "likeCount": 110917,
     "name": "Bref. J'ai aucune mémoire.",
     "slug": "brefJaiAucuneMemoire",
     "videoId": "elOH0CasAPw",
-    "viewcount": 7700000
+    "viewCount": 7767366
   },
   "line": {
     "content": "Bref, j'ai aucune mémoire.",
     "end": 89,
+    "heatValue": 4,
     "index": 34,
     "start": 87,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=87s"

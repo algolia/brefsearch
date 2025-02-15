@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 199,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 71,
+    "likeCount": 56247,
     "name": "Bref. J'ai fait une soirée déguisée (Partie 1).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
     "videoId": "rOI3TXz-igs",
-    "viewcount": 4900000
+    "viewCount": 4927821
   },
   "line": {
     "content": "Promis.\nPromis, promis.",
     "end": 7,
+    "heatValue": 9,
     "index": 3,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=6s"

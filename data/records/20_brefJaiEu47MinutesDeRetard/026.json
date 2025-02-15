@@ -1,17 +1,20 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 20,
+    "likeCount": 86290,
     "name": "Bref. J'ai eu 47 minutes de retard.",
     "slug": "brefJaiEu47MinutesDeRetard",
     "videoId": "K0XI5d8080Q",
-    "viewcount": 7200000
+    "viewCount": 7270328
   },
   "line": {
-    "content": "Juste après, un mec m'a\ndemandé: Excuse-moi, tu peux\nme prêter ton portable ?\nJ'ai entendu Excuse-moi.",
-    "end": 30,
-    "index": 13,
+    "content": "Juste après, un mec m'a\ndemandé:",
+    "end": 28,
+    "heatValue": 24,
+    "index": 14,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=26s"
   },

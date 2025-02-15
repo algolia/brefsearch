@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 521,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 3,
+    "likeCount": 93483,
     "name": "Bref. Je me suis préparé pour un rendez-vous.",
     "slug": "brefJeMeSuisPreparePourUnRendezVous",
     "videoId": "1x3P61ck0QI",
-    "viewcount": 7200000
+    "viewCount": 7259855
   },
   "line": {
     "content": "— Excuse-moi, je suis en retard, je...\nJe bosse également mon regard.",
     "end": 39,
+    "heatValue": 19,
     "index": 11,
     "start": 36,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=36s"

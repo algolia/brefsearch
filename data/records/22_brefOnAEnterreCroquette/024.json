@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 585,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 22,
+    "likeCount": 85441,
     "name": "Bref. On a enterré croquette.",
     "slug": "brefOnAEnterreCroquette",
     "videoId": "LRzOCN7zths",
-    "viewcount": 6000000
+    "viewCount": 6068571
   },
   "line": {
-    "content": "Pour l'enterrement.\nElle a accroché.",
+    "content": "— Pour l'enterrement ?\nElle a raccroché.",
     "end": 26,
+    "heatValue": 13,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=24s"

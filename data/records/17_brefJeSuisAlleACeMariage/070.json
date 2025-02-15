@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1100,
     "durationHuman": "1:41",
     "durationInSeconds": 101,
     "index": 17,
+    "likeCount": 118681,
     "name": "Bref. Je suis allé à ce mariage.",
     "slug": "brefJeSuisAlleACeMariage",
     "videoId": "gx9ph_0tzRw",
-    "viewcount": 11000000
+    "viewCount": 11162618
   },
   "line": {
     "content": "J'ai compris que c'était les mariés.",
     "end": 71,
+    "heatValue": 92,
     "index": 27,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=70s"

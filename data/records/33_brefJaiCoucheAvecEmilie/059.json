@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1900,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 33,
+    "likeCount": 166814,
     "name": "Bref. J'ai couché avec Émilie.",
     "slug": "brefJaiCoucheAvecEmilie",
     "videoId": "mEu0q3Slzj0",
-    "viewcount": 15000000
+    "viewCount": 15359989
   },
   "line": {
     "content": "C'était C'est pas vrai,\nmais 1 à 0 pour moi.",
     "end": 61,
+    "heatValue": null,
     "index": 25,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=59s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 646,
     "durationHuman": "2:07",
     "durationInSeconds": 127,
     "index": 70,
+    "likeCount": 95974,
     "name": "Bref. J'ai fait une connerie.",
     "slug": "brefJaiFaitUneConnerie",
     "videoId": "hpCO1AIWo60",
-    "viewcount": 7700000
+    "viewCount": 7801971
   },
   "line": {
     "content": "Vous avez trompé votre copine.\nPardon ?",
     "end": 19,
+    "heatValue": 33,
     "index": 9,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=16s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 495,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
+    "likeCount": 89012,
     "name": "Bref. J'aime bien cette photo.",
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewcount": 7000000
+    "viewCount": 7007993
   },
   "line": {
     "content": "De son côté, Ben aussi passait\nune soirée pourrie avec Cathy,\nsa copine relou, qui lui reprochait\nd'avoir encore perdu ses clopes.",
     "end": 37,
+    "heatValue": 26,
     "index": 13,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=32s"

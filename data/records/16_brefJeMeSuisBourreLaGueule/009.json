@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 954,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 16,
+    "likeCount": 112535,
     "name": "Bref. Je me suis bourré la gueule.",
     "slug": "brefJeMeSuisBourreLaGueule",
     "videoId": "4tdCI0GUy7w",
-    "viewcount": 10000000
+    "viewCount": 10683117
   },
   "line": {
     "content": "— T'es bourré !\nJ'étais bourré.",
     "end": 10,
+    "heatValue": 11,
     "index": 4,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=9s"

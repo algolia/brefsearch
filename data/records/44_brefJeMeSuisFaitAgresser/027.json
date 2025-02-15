@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 301,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 44,
+    "likeCount": 56431,
     "name": "Bref. Je me suis fait agresser.",
     "slug": "brefJeMeSuisFaitAgresser",
     "videoId": "yQbvhuSlOt8",
-    "viewcount": 3600000
+    "viewCount": 3657673
   },
   "line": {
     "content": "J'aurais dû lui dire: Je m'appelle pas Eh.",
     "end": 29,
+    "heatValue": 33,
     "index": 10,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=27s"

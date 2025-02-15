@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "C'était soit une maladie vénérienne,\nsoit une branche de l'ONU, soit des mecs\nqui louent des photocopieuses.\nDes mecs qui louent des photocopieuses.",
     "end": 27,
+    "heatValue": 31,
     "index": 9,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=22s"

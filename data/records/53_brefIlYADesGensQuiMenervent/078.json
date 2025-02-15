@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 2900,
     "durationHuman": "2:19",
     "durationInSeconds": 139,
     "index": 53,
+    "likeCount": 209093,
     "name": "Bref. Il y a des gens qui m'énervent.",
     "slug": "brefIlYADesGensQuiMenervent",
     "videoId": "tjRXxJaupoc",
-    "viewcount": 11000000
+    "viewCount": 11882596
   },
   "line": {
     "content": "Vous pouvez le mettre où vous voulez, dans\nla rue, à la campagne, même dans un lac.",
     "end": 82,
+    "heatValue": 13,
     "index": 33,
     "start": 78,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=78s"

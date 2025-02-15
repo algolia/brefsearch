@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1500,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 81,
+    "likeCount": 128353,
     "name": "Bref. Lui c'est Kheiron.",
     "slug": "brefLuiCestKheiron",
     "videoId": "z5tHQfjXtwc",
-    "viewcount": 10000000
+    "viewCount": 10107687
   },
   "line": {
     "content": "Bref, en fait, Kheiron,\nc'est un mec dans ma tête.",
     "end": 109,
+    "heatValue": 27,
     "index": 33,
     "start": 89,
     "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=89s"

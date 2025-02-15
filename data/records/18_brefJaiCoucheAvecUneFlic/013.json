@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 680,
     "durationHuman": "1:16",
     "durationInSeconds": 76,
     "index": 18,
+    "likeCount": 99938,
     "name": "Bref. J'ai couché avec une flic.",
     "slug": "brefJaiCoucheAvecUneFlic",
     "videoId": "if3EipAM2WQ",
-    "viewcount": 8000000
+    "viewCount": 8008914
   },
   "line": {
     "content": "Le lendemain, à 18h00, très précisément,\nelle m'a envoyé un texto me demandant\nmon adresse, mon code et mon étage.",
     "end": 17,
+    "heatValue": 52,
     "index": 5,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=13s"

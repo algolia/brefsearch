@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 468,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 64,
+    "likeCount": 87383,
     "name": "Bref. J'ai fait un dessin.",
     "slug": "brefJaiFaitUnDessin",
     "videoId": "LZQUFY0W_lY",
-    "viewcount": 5800000
+    "viewCount": 5904585
   },
   "line": {
     "content": "Qu'est-ce que tu fais ?",
     "end": 75,
+    "heatValue": 38,
     "index": 33,
     "start": 74,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=74s"

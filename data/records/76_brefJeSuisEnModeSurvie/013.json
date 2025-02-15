@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Quand j'ai plus de lessive,\nje lave mes fringues à l'adoucissant.",
     "end": 15,
+    "heatValue": 16,
     "index": 5,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=13s"

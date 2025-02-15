@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Baptiste foutait jamais\nrien, sauf le bordel.",
     "end": 4,
+    "heatValue": 54,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=2s"

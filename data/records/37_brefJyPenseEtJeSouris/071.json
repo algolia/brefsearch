@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 684,
     "durationHuman": "1:23",
     "durationInSeconds": 83,
     "index": 37,
+    "likeCount": 84798,
     "name": "Bref. J'y pense et je souris.",
     "slug": "brefJyPenseEtJeSouris",
     "videoId": "O1BZzYB3X6U",
-    "viewcount": 5100000
+    "viewCount": 5141702
   },
   "line": {
     "content": "Il pleuvait.\nJ'ai posé ma tête contre la vitre.",
     "end": 74,
+    "heatValue": 4,
     "index": 24,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=71s"

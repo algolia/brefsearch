@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 780,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 79,
+    "likeCount": 101475,
     "name": "Bref. Je suis né.",
     "slug": "brefJeSuisNe",
     "videoId": "lGBPAoLUn-0",
-    "viewcount": 6600000
+    "viewCount": 6614179
   },
   "line": {
     "content": "Je suis arrivé devant l'ovule,\nelle était magnifique.",
     "end": 66,
+    "heatValue": 19,
     "index": 36,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=64s"

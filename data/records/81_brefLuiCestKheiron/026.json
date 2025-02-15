@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1500,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 81,
+    "likeCount": 128353,
     "name": "Bref. Lui c'est Kheiron.",
     "slug": "brefLuiCestKheiron",
     "videoId": "z5tHQfjXtwc",
-    "viewcount": 10000000
+    "viewCount": 10107687
   },
   "line": {
     "content": "J'étais pas bien.",
     "end": 27,
+    "heatValue": 27,
     "index": 8,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=26s"

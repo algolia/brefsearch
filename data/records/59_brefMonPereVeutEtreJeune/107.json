@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 710,
     "durationHuman": "2:08",
     "durationInSeconds": 128,
     "index": 59,
+    "likeCount": 84316,
     "name": "Bref. Mon père veut être jeune.",
     "slug": "brefMonPereVeutEtreJeune",
     "videoId": "7Ry1eljBOvM",
-    "viewcount": 6900000
+    "viewCount": 6922744
   },
   "line": {
     "content": "Les deux Allemands ont\ndit: Was ist denn los ?",
     "end": 108,
+    "heatValue": 53,
     "index": 49,
     "start": 107,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=107s"

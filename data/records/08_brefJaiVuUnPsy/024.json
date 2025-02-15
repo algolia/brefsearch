@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 145,
     "durationHuman": "1:09",
     "durationInSeconds": 69,
     "index": 8,
+    "likeCount": 24402,
     "name": "Bref. J'ai vu un psy.",
     "slug": "brefJaiVuUnPsy",
     "videoId": "xHTx3mYfGUQ",
-    "viewcount": 2500000
+    "viewCount": 2511951
   },
   "line": {
     "content": "27ème:\n— C'est vraiment une salope.\n28ème:\n— Je crois que je l'aime bien.",
     "end": 26,
+    "heatValue": null,
     "index": 10,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=24s"

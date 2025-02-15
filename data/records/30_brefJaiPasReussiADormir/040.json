@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 557,
     "durationHuman": "1:42",
     "durationInSeconds": 102,
     "index": 30,
+    "likeCount": 81978,
     "name": "Bref. J'ai pas réussi à dormir.",
     "slug": "brefJaiPasReussiADormir",
     "videoId": "vxJ3BL7-IhM",
-    "viewcount": 4900000
+    "viewCount": 4963838
   },
   "line": {
     "content": "Le zèbre cour de toutes ses forces,\nc'est là le prix de sa liberté.",
     "end": 46,
+    "heatValue": 30,
     "index": 18,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=40s"

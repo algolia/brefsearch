@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 431,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 38,
+    "likeCount": 96820,
     "name": "Bref. J'ai voulu partir en vacances.",
     "slug": "brefJaiVouluPartirEnVacances",
     "videoId": "FThJiyU25jc",
-    "viewcount": 8200000
+    "viewCount": 8214486
   },
   "line": {
     "content": "Ce courrier, c'était 197 €.",
     "end": 56,
+    "heatValue": 16,
     "index": 24,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=53s"

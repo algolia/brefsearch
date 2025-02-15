@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 586,
     "durationHuman": "1:43",
     "durationInSeconds": 103,
     "index": 52,
+    "likeCount": 94368,
     "name": "Bref. Je suis en couple.",
     "slug": "brefJeSuisEnCouple",
     "videoId": "1m-zfWkcgrg",
-    "viewcount": 7400000
+    "viewCount": 7464792
   },
   "line": {
     "content": "Ouais, non, mais profite,\nsi t'es avec tes copines.",
     "end": 84,
+    "heatValue": 14,
     "index": 37,
     "start": 83,
     "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=83s"

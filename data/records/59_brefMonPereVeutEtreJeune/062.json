@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 710,
     "durationHuman": "2:08",
     "durationInSeconds": 128,
     "index": 59,
+    "likeCount": 84316,
     "name": "Bref. Mon père veut être jeune.",
     "slug": "brefMonPereVeutEtreJeune",
     "videoId": "7Ry1eljBOvM",
-    "viewcount": 6900000
+    "viewCount": 6922744
   },
   "line": {
     "content": "Qu'est-ce que tu fous là, toi ?\nOn s'est engueulé.",
     "end": 64,
+    "heatValue": 13,
     "index": 33,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=62s"

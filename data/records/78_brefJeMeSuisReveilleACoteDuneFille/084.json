@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 520,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 78,
+    "likeCount": 97525,
     "name": "Bref. Je me suis réveillé à côté d'une fille.",
     "slug": "brefJeMeSuisReveilleACoteDuneFille",
     "videoId": "9UEJzfo0_m4",
-    "viewcount": 8500000
+    "viewCount": 8534561
   },
   "line": {
     "content": "C'était un placard.\nJ'ai ouvert l'autre porte.",
     "end": 89,
+    "heatValue": 27,
     "index": 34,
     "start": 84,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=84s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 761,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 23,
+    "likeCount": 138299,
     "name": "Bref. Mon coloc' a fait l'amour.",
     "slug": "brefMonColocAFaitLamour",
     "videoId": "2u0BYLUyyBI",
-    "viewcount": 11000000
+    "viewCount": 11899469
   },
   "line": {
     "content": "Puis, il m'a habilement fait comprendre\nqu'il voulait que j'y aille avec lui.",
     "end": 54,
+    "heatValue": 27,
     "index": 25,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=52s"

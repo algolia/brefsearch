@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 716,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 67,
+    "likeCount": 87826,
     "name": "Bref. J'ai perdu mes cheveux.",
     "slug": "brefJaiPerduMesCheveux",
     "videoId": "akriQ9yTodk",
-    "viewcount": 7300000
+    "viewCount": 7385243
   },
   "line": {
     "content": "Des mots qui servent à rien,\nmais qui rapportent beaucoup d'argent\nà des mecs avec des blouses.",
     "end": 56,
+    "heatValue": 20,
     "index": 19,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=53s"

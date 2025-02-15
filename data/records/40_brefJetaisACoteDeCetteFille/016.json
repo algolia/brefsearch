@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 646,
     "durationHuman": "1:16",
     "durationInSeconds": 76,
     "index": 40,
+    "likeCount": 63125,
     "name": "Bref. J'étais à côté de cette fille.",
     "slug": "brefJetaisACoteDeCetteFille",
     "videoId": "DOMouPqhIus",
-    "viewcount": 5500000
+    "viewCount": 5561842
   },
   "line": {
     "content": "Elle m'obsédait, je rêvais d'elle.",
     "end": 17,
+    "heatValue": 6,
     "index": 9,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=16s"

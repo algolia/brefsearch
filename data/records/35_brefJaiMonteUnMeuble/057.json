@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 393,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
+    "likeCount": 84499,
     "name": "Bref. J'ai monté un meuble.",
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewcount": 6800000
+    "viewCount": 6829749
   },
   "line": {
     "content": "J'ai marché pied nu sur une vis C2.\nJ'ai dit les gros mots.",
     "end": 60,
+    "heatValue": 13,
     "index": 23,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=57s"

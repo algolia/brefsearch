@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 359,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 21,
+    "likeCount": 82145,
     "name": "Bref. Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche",
     "videoId": "onb8vNaHYB4",
-    "viewcount": 6800000
+    "viewCount": 6898714
   },
   "line": {
     "content": "Bref, ce jour-là, je n'avais plus de déo.",
     "end": 2,
+    "heatValue": 58,
     "index": 0,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=1s"

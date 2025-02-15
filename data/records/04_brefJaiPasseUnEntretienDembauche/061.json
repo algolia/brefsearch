@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 497,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
+    "likeCount": 91737,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewcount": 7100000
+    "viewCount": 7182602
   },
   "line": {
     "content": "Après, il a dit:\n— Where are you from?\nJ'ai répondu:\n— Yes.",
     "end": 64,
+    "heatValue": 42,
     "index": 23,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=61s"

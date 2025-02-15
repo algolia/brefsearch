@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "— Elle, elle me comprend.",
     "end": 78,
+    "heatValue": 41,
     "index": 31,
     "start": 76,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=76s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 637,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
+    "likeCount": 100059,
     "name": "Bref. J'ai fait un repas de famille.",
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewcount": 8200000
+    "viewCount": 8221984
   },
   "line": {
     "content": "C'était ma mère avec 35 ans\nde moins, 15 kilos de moins\net trois tailles de bonnet en plus.\nElle était bonne, bonne et bonne.",
     "end": 75,
+    "heatValue": 70,
     "index": 29,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=69s"

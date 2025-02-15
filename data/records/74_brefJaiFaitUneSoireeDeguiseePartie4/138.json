@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "3:02",
     "durationInSeconds": 182,
     "index": 74,
+    "likeCount": 73509,
     "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
     "videoId": "UDko2X994U4",
-    "viewcount": 4700000
+    "viewCount": 4770369
   },
   "line": {
     "content": "De toute façon, je te quitte.\nC'est fini, Sarah.",
     "end": 145,
+    "heatValue": 73,
     "index": 46,
     "start": 138,
     "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=138s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 474,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
+    "likeCount": 64483,
     "name": "Bref. Je suis un plan cul régulier.",
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewcount": 4200000
+    "viewCount": 4289685
   },
   "line": {
     "content": "Ce mec, c'est un garçon que je vois.",
     "end": 8,
+    "heatValue": 31,
     "index": 1,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=6s"

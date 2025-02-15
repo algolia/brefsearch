@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "2:31",
     "durationInSeconds": 151,
     "index": 80,
+    "likeCount": 164024,
     "name": "Bref. J'ai fait une dépression.",
     "slug": "brefJaiFaitUneDepression",
     "videoId": "DwfwmxOF_3E",
-    "viewcount": 9200000
+    "viewCount": 9241801
   },
   "line": {
     "content": "Je me suis battu contre les mecs\nqui voulaient pas être mes copains\net tous les adultes qui avaient raison\nparce que j'avais tort.",
     "end": 96,
+    "heatValue": 11,
     "index": 31,
     "start": 91,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=91s"

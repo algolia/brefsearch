@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewCount": 6811734
   },
   "line": {
     "content": "J'ai essayé de le tuer\n27 fois, il voulait pas mourir.",
     "end": 29,
+    "heatValue": 27,
     "index": 6,
     "start": 21,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=21s"

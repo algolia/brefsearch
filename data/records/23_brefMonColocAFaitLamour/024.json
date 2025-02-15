@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 761,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 23,
+    "likeCount": 138299,
     "name": "Bref. Mon coloc' a fait l'amour.",
     "slug": "brefMonColocAFaitLamour",
     "videoId": "2u0BYLUyyBI",
-    "viewcount": 11000000
+    "viewCount": 11899469
   },
   "line": {
     "content": "Bref, il faisait beaucoup de sport\net utilisait beaucoup de bande passée.",
     "end": 26,
+    "heatValue": 17,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=24s"

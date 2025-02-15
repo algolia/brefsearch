@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1400,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 1,
+    "likeCount": 127391,
     "name": "Bref. J'ai dragué cette fille.",
     "slug": "brefJaiDragueCetteFille",
     "videoId": "UO8tcf3U0dY",
-    "viewcount": 10000000
+    "viewCount": 10798834
   },
   "line": {
     "content": "J'ai demandé à Keyvan,\nil m'a dit:\n— Je sais pas.",
     "end": 13,
+    "heatValue": 42,
     "index": 4,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=11s"

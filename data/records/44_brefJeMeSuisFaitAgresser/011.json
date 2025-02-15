@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 301,
     "durationHuman": "2:02",
     "durationInSeconds": 122,
     "index": 44,
+    "likeCount": 56431,
     "name": "Bref. Je me suis fait agresser.",
     "slug": "brefJeMeSuisFaitAgresser",
     "videoId": "yQbvhuSlOt8",
-    "viewcount": 3600000
+    "viewCount": 3657673
   },
   "line": {
     "content": "Pendant les trois jours\nqui ont suivi, ça m'a pas lâché.",
     "end": 12,
+    "heatValue": 63,
     "index": 4,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=11s"

@@ -1,17 +1,20 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:38",
     "durationInSeconds": 98,
     "index": 20,
+    "likeCount": 86290,
     "name": "Bref. J'ai eu 47 minutes de retard.",
     "slug": "brefJaiEu47MinutesDeRetard",
     "videoId": "K0XI5d8080Q",
-    "viewcount": 7200000
+    "viewCount": 7270328
   },
   "line": {
-    "content": "J'ai eu envie qu'il perde son boulot,\nqu'il perde sa femme, qu'il obtienne\nla garde de son enfant, ni\nqu'il le perd dans un accident.",
+    "content": "J'ai eu envie qu'il perde son boulot,\nqu'il perde sa femme, qu'il obtienne\nla garde de son enfant, mais\nqu'il le perde dans un accident,",
     "end": 73,
-    "index": 35,
+    "heatValue": 39,
+    "index": 37,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=70s"
   },

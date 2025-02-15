@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 48,
+    "likeCount": 63867,
     "name": "Bref. Ma copine travaille dans un sex-shop.",
     "slug": "brefMaCopineTravailleDansUnSexShop",
     "videoId": "vrbqkwd6Zi8",
-    "viewcount": 3400000
+    "viewCount": 3454073
   },
   "line": {
     "content": "Du coup, pendant dix minutes, je\nme suis justifié auprès de tout le monde.",
     "end": 7,
+    "heatValue": null,
     "index": 4,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=5s"

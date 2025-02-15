@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 359,
     "durationHuman": "1:20",
     "durationInSeconds": 80,
     "index": 21,
+    "likeCount": 82145,
     "name": "Bref. Je suis allé au supermarché.",
     "slug": "brefJeSuisAlleAuSupermarche",
     "videoId": "onb8vNaHYB4",
-    "viewcount": 6800000
+    "viewCount": 6898714
   },
   "line": {
     "content": "Je me suis dit que ça faisait longtemps\nque je ne m'étais pas fait\nun vrai hamburger.",
     "end": 10,
+    "heatValue": 28,
     "index": 4,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=8s"

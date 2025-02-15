@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1800,
     "durationHuman": "2:31",
     "durationInSeconds": 151,
     "index": 80,
+    "likeCount": 164024,
     "name": "Bref. J'ai fait une dépression.",
     "slug": "brefJaiFaitUneDepression",
     "videoId": "DwfwmxOF_3E",
-    "viewcount": 9200000
+    "viewCount": 9241801
   },
   "line": {
     "content": "Je suis tombé sur un mot qu'elle\nm'avait écrit un jour en disant: Tiens.",
     "end": 65,
+    "heatValue": 7,
     "index": 22,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=61s"

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 3400,
     "durationHuman": "2:00",
     "durationInSeconds": 120,
     "index": 47,
+    "likeCount": 195186,
     "name": "Bref. Je suis vieille.",
     "slug": "brefJeSuisVieille",
     "videoId": "5pr4Q09-16k",
-    "viewcount": 8100000
+    "viewCount": 8192406
   },
   "line": {
     "content": "Je n'en sais rien, je ne sais pas,\nj'ai pas la solution, c'est ma maman.",
     "end": 86,
+    "heatValue": 31,
     "index": 33,
     "start": 84,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=84s"

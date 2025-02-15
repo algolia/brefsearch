@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewCount": 11710298
   },
   "line": {
     "content": "Pour manger, j'ai appris à inventer\ndes plats avec ce qui reste.",
     "end": 30,
+    "heatValue": 9,
     "index": 11,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=27s"

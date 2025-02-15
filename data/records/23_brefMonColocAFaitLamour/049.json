@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 761,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 23,
+    "likeCount": 138299,
     "name": "Bref. Mon coloc' a fait l'amour.",
     "slug": "brefMonColocAFaitLamour",
     "videoId": "2u0BYLUyyBI",
-    "viewcount": 11000000
+    "viewCount": 11899469
   },
   "line": {
     "content": "J'ai compris que c'était pas sa taille.\nIl m'a dit qu'il osait pas en acheter.",
     "end": 51,
+    "heatValue": 16,
     "index": 23,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=49s"

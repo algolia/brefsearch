@@ -1,25 +1,28 @@
 {
   "episode": {
+    "commentCount": 305,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 19,
+    "likeCount": 76028,
     "name": "Bref. Mon pote s'est fait larguer.",
     "slug": "brefMonPoteSestFaitLarguer",
     "videoId": "J9EL_bGpdP4",
-    "viewcount": 6200000
+    "viewCount": 6265057
   },
   "line": {
     "content": "Je l'avais déjà vu sept fois\nà la même place pour les mêmes conneries.",
     "end": 8,
+    "heatValue": 28,
     "index": 6,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=7s"
   },
   "thumbnail": {
     "gifUrl": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/gif/007.gif",
-    "hash": "4787ee3b72",
+    "hash": "3664f62082",
     "height": 1080,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFJAQY6Ahko7OTcsJ0UrIXBKN0EiFVBFOZOHjJGDhnFwU0cyHD0lIDUoHiocEysZDwBWJyWnXFplSUQ/Rj2FY1a9hnBuRC9xNC6WPEF8RDaGaVhMNCY4KB83KiAmGREcDwoAQSQgdVBLZE1IX1lPf1pKelVFWTYnUykiejEvUy4gRTspXD4rQy4jNikfLR8WHRELAD0qK390aW9YVJZ3b5xuW4xdSXVLOz0jFzklF0czJT8rH2xIN2o8LzAdFiccEx4SDQBKMyl+bm5CNEJMPj2IYEx4TTxLKiIwGhIfEw4sKiAgHBVcQTJuNik+HhQpHxgiFxAAOS88MCs3NDRBMSMjY0c2UzcpRCceIBUUHhEPJxgPHBUQTTgreEMwaDkjNiIVIxUMACQfMCUgIysoKhgODUYwJDAfFiATEBwUGh8VHSYSCiYQAjYkGopqWrSShYdza29hXAAeGRwlIiAcFhwOCAkTCQceDwshGhoVEBAZEhdiXF5hUEiek5Oxq66dmJqblJWKgH8AGBIZIBsfGxYZEw4LDgcGEgsMGRQVODM0iIKHwLq/s62xqaSmjYSDaFxWdGxogHh16RttRXZrL30AAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBbSEeWio1TREBBMy5OMih5VEFLKhxZTT+ajpCZjIx6eV5ROyRHLyc/MSUzIxk0HxUAXy8rr2djb1JMS09Hjm1exZF7eU45ej03nEZJhE1Bj3JhVz4tQzEnQTMoLyAWIxQOAEsrJX5cVW5WUGlgV4hkU4JeT2NAL1wyKoI6OF03KU9EMWdHNE03Kz8yJzYnHSUXEABGMjKIf3R4YludgXejeGaTZ1N+VURIKx1DLR5RPC5JNCd1UUB0Rjc6JRwwIxomGBIAUjkvhnd3Sz9JVUdGkWpWglhGVTMpOCEYJhgTNTInKSQcZUo7eD4ySCUbMSYeKx0VAEM4RDo0Pz4+SjgpKG1QP15AMk4vJSgcGSYXEzAeFCUbFlZANIJNOnNCLUAqHSwbEgAtJzgtJyo0LzIeEhFQOCw6Jx0nGRUjGyEmHCQwGhEvFgg/LCGTdGS7mo6QfHR4amQAJx8kLiknJBwiFAsMGQ0KJhUQKSAhHRUXIRgea2NlalhPpZmauLK2paCio56ek4uJACAYHigiJiMcIBkRDxQKCRkPECEaG0E6OpCKjcjBxrq1ubGsrpaOjHNoYX92coqCfxDLevcERsnCAAAAAElFTkSuQmCC",
     "url": "https://assets.pixelastic.com/brefsearch/19_brefMonPoteSestFaitLarguer/007.png",
     "width": 1920
   }

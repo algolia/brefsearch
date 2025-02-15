@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 617,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 54,
+    "likeCount": 110917,
     "name": "Bref. J'ai aucune mémoire.",
     "slug": "brefJaiAucuneMemoire",
     "videoId": "elOH0CasAPw",
-    "viewcount": 7700000
+    "viewCount": 7767366
   },
   "line": {
     "content": "Le problème, c'est que c'est Fred\nBlanchard qui m'a appris cette technique.",
     "end": 49,
+    "heatValue": 73,
     "index": 18,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=45s"

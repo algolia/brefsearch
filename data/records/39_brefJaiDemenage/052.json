@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 325,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 39,
+    "likeCount": 90460,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
     "videoId": "YFLtnewtqAE",
-    "viewcount": 7900000
+    "viewCount": 7948865
   },
   "line": {
     "content": "Sans le trois.\nUn mec qui dit: Ça passera.",
     "end": 54,
+    "heatValue": 18,
     "index": 23,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=52s"

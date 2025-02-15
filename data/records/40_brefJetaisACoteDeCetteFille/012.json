@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 646,
     "durationHuman": "1:16",
     "durationInSeconds": 76,
     "index": 40,
+    "likeCount": 63125,
     "name": "Bref. J'étais à côté de cette fille.",
     "slug": "brefJetaisACoteDeCetteFille",
     "videoId": "DOMouPqhIus",
-    "viewcount": 5500000
+    "viewCount": 5561842
   },
   "line": {
     "content": "Ensuite, je l'ai invitée au cinéma, mais\nje suis resté coincé dans l'ascenseur.",
     "end": 13,
+    "heatValue": 4,
     "index": 6,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=12s"

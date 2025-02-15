@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 299,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 73,
+    "likeCount": 62306,
     "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
     "videoId": "WRXsFwhVzTs",
-    "viewcount": 4900000
+    "viewCount": 5001029
   },
   "line": {
     "content": "Bref, moi, je suis le mec\nque personne ne connaît dans les soirées.",
     "end": 5,
+    "heatValue": 26,
     "index": 0,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=3s"

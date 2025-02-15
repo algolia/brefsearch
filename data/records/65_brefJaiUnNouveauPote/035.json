@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:06",
     "durationInSeconds": 126,
     "index": 65,
+    "likeCount": 117672,
     "name": "Bref. J'ai un nouveau pote.",
     "slug": "brefJaiUnNouveauPote",
     "videoId": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "viewCount": 8812723
   },
   "line": {
     "content": "Tu ne sais donc pas que\nce n'est pas bien d'être raciste.",
     "end": 36,
+    "heatValue": 14,
     "index": 13,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=35s"

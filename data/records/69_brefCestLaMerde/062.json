@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 415,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
+    "likeCount": 80337,
     "name": "Bref. C'est la merde.",
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewcount": 6000000
+    "viewCount": 6082963
   },
   "line": {
     "content": "Ben, dis-moi, tu te bourres la gueule\nquel soir pour oublier tes problèmes\navec ta meuf cette semaine ?",
     "end": 66,
+    "heatValue": 14,
     "index": 24,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=62s"

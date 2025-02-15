@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 699,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 32,
+    "likeCount": 94559,
     "name": "Bref. Je sais pas dire non.",
     "slug": "brefJeSaisPasDireNon",
     "videoId": "OmEx0mpHFG4",
-    "viewcount": 7900000
+    "viewCount": 7987391
   },
   "line": {
     "content": "J'ai aidé un mec à déménager,\nje ne le connaissais même pas.",
     "end": 19,
+    "heatValue": 94,
     "index": 9,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=17s"

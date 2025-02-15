@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 590,
     "durationHuman": "1:49",
     "durationInSeconds": 109,
     "index": 25,
+    "likeCount": 79173,
     "name": "Bref. J'ai fait un dépistage.",
     "slug": "brefJaiFaitUnDepistage",
     "videoId": "41X9gwbeMxQ",
-    "viewcount": 6800000
+    "viewCount": 6825279
   },
   "line": {
     "content": "Bref, j'ai fait un dépistage.\nCadeau.",
     "end": 96,
+    "heatValue": 11,
     "index": 33,
     "start": 93,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=93s"

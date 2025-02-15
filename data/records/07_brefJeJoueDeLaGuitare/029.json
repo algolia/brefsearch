@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 525,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 7,
+    "likeCount": 88753,
     "name": "Bref. Je joue de la guitare.",
     "slug": "brefJeJoueDeLaGuitare",
     "videoId": "QJEyHT7IU5M",
-    "viewcount": 6600000
+    "viewCount": 6698014
   },
   "line": {
     "content": "— Un Visa pour les États-Unis?",
     "end": 30,
+    "heatValue": 38,
     "index": 14,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=29s"

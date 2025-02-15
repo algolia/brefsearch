@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 343,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 48,
+    "likeCount": 63867,
     "name": "Bref. Ma copine travaille dans un sex-shop.",
     "slug": "brefMaCopineTravailleDansUnSexShop",
     "videoId": "vrbqkwd6Zi8",
-    "viewcount": 3400000
+    "viewCount": 3454073
   },
   "line": {
     "content": "Pourquoi Steve m'avait dit ?\nAppuie là.",
     "end": 57,
+    "heatValue": null,
     "index": 25,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=55s"

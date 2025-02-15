@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 431,
     "durationHuman": "1:29",
     "durationInSeconds": 89,
     "index": 38,
+    "likeCount": 96820,
     "name": "Bref. J'ai voulu partir en vacances.",
     "slug": "brefJaiVouluPartirEnVacances",
     "videoId": "FThJiyU25jc",
-    "viewcount": 8200000
+    "viewCount": 8214486
   },
   "line": {
     "content": "Du coup, je suis pas parti,\nj'ai perdu 300 €, j'ai annulé\nmon billet, ils m'ont rien remboursé,\nje suis à découvert, j'ai une valise",
     "end": 72,
+    "heatValue": 12,
     "index": 30,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=67s"

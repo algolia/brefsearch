@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 336,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 14,
+    "likeCount": 84145,
     "name": "Bref. Mes parents divorcent.",
     "slug": "brefMesParentsDivorcent",
     "videoId": "cDWcCpqFh_M",
-    "viewcount": 6600000
+    "viewCount": 6682867
   },
   "line": {
     "content": "Tout le monde s'en fout que tes parents\ndivorcent quand tu as 30 ans.",
     "end": 38,
+    "heatValue": 15,
     "index": 18,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=37s"

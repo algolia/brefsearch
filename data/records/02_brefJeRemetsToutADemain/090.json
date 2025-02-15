@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 638,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
+    "likeCount": 106679,
     "name": "Bref. Je remets tout à demain.",
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewcount": 8500000
+    "viewCount": 8541792
   },
   "line": {
     "content": "— Regarde, demain soir, voir Sophie.",
     "end": 92,
+    "heatValue": 12,
     "index": 34,
     "start": 90,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=90s"
