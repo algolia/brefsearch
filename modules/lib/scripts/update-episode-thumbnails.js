@@ -1,5 +1,5 @@
 import path from 'node:path';
-import { absolute, glob, mkdirp, readJson, run, spinner } from 'firost';
+import { absolute, exists, glob, mkdirp, readJson, run, spinner } from 'firost';
 import { _, pMap } from 'golgoth';
 
 const episodes = await glob('*.json', {
@@ -29,6 +29,9 @@ await pMap(
         const thumbnailPath = absolute(
           `<gitRoot>/../brefsearch-images/images/${basename}/${paddedIndex}.png`,
         );
+        if (await exists(thumbnailPath)) {
+          return;
+        }
         await mkdirp(path.dirname(thumbnailPath));
         const command = [
           'ffmpeg',

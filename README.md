@@ -5,9 +5,7 @@ TODO:
 
 ### Data
 - Proofread the .vtt files (currently 19/80)
-- Generate an animated gif for each line (in progress)
 - Make a "no result" page that displays the best punchlines
-- Get video popularity from YouTube as a metrics (number of views)
 
 ### Frontend
 - Play the video when clicked on it

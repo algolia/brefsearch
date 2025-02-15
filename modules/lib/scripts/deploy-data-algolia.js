@@ -16,11 +16,7 @@ import config from '../config.js';
       'episode.index',
       'episode.videoId',
     ],
-    customRanking: [
-      'desc(episode.viewcount)',
-      'asc(episode.index)',
-      'asc(line.index)',
-    ],
+    customRanking: ['asc(episode.index)', 'asc(line.index)'],
     attributeForDistinct: 'episode.videoId',
     distinct: true,
   };
@@ -31,7 +27,7 @@ import config from '../config.js';
   });
 
   const files = await glob('**/*.json', {
-    cwd: absolute('<packageRoot>/data/records'),
+    cwd: absolute('<gitRoot>/data/records'),
   });
   const data = await pMap(files, async (filepath) => {
     return await readJson(filepath);

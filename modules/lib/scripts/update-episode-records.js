@@ -1,5 +1,13 @@
 import path from 'node:path';
-import { absolute, glob, readJson, spinner, writeJson } from 'firost';
+import {
+  absolute,
+  exists,
+  error as firostError,
+  glob,
+  readJson,
+  spinner,
+  writeJson,
+} from 'firost';
 import { _, pMap } from 'golgoth';
 import imoen from 'imoen';
 
@@ -12,15 +20,16 @@ const progress = spinner(episodes.length);
  * Loop through all episode metadata, and for each line of the episode, create
  * a new record on disk, that includes hard-coded LQIP for the thumbnail image
  **/
-const concurrencyEpisodes = 4;
-const concurrencyLines = 2;
+const concurrencyEpisodes = 8;
+const concurrencyLines = 1;
 await pMap(
   episodes,
   async (episodePath) => {
     const episode = await readJson(episodePath);
     const basename = path.basename(episodePath, '.json');
     const videoId = episode.video.id;
-    progress.tick(episode.episode.name);
+    const episodeName = episode.episode.name;
+    progress.tick(episodeName);
 
     await pMap(
       episode.lines,
@@ -36,6 +45,12 @@ await pMap(
         const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
         const thumbnailUrl = `https://assets.pixelastic.com/brefsearch/${basename}/${paddedIndex}.png`;
         const gifUrl = `https://assets.pixelastic.com/brefsearch/${basename}/gif/${paddedIndex}.gif`;
+        if (!(await exists(thumbnailPath))) {
+          throw firostError(
+            'BREF_UPDATE_RECORDS_NO_THUMBNAIL',
+            `Could not find a thumbnail for ${episodeName}, ${paddedIndex}s`,
+          );
+        }
 
         const { hash, height, lqip, width } = await imoen(thumbnailPath);
 
