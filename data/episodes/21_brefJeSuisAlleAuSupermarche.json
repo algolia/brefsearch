@@ -35,7 +35,7 @@
       "start": 8
     },
     {
-      "content": "Je n'en voulais qu'un, mais\nils n'en vendaient que par 10.",
+      "content": "Je n'en voulais qu'un, mais\nils en vendaient que par 10.",
       "end": 11,
       "start": 10
     },
@@ -80,7 +80,7 @@
       "start": 20
     },
     {
-      "content": "Perdu pour perdu,\nj'ai aussi pris des pannes.",
+      "content": "Perdu pour perdu,\nj'ai aussi pris des pattes.",
       "end": 25,
       "start": 23
     },
@@ -95,7 +95,7 @@
       "start": 27
     },
     {
-      "content": "J'ai pensé à mon site qui m'a dit: Vous\ncherchez à combler la vie d'affective.",
+      "content": "J'ai pensé à mon psy qui m'a dit:\n— Vous cherchez à combler un vide affectif.",
       "end": 31,
       "start": 28
     },
@@ -105,12 +105,12 @@
       "start": 31
     },
     {
-      "content": "En y réfléchissant, j'ai compris\npourquoi j'ai acheté le Energy 3000.",
+      "content": "En y réfléchissant, j'ai compris\npourquoi j'ai acheté de l'Energy 3000.",
       "end": 38,
       "start": 34
     },
     {
-      "content": "Le MRC 3000, la boisson\ndes vrais bonhommes.",
+      "content": "Energy 3000, la boisson\ndes vrais bonhommes.",
       "end": 42,
       "start": 38
     },
@@ -125,12 +125,12 @@
       "start": 46
     },
     {
-      "content": "J'ai repris du surrhumine.",
+      "content": "J'ai repris du surimi.",
       "end": 54,
-      "start": 48
+      "start": 54
     },
     {
-      "content": "J'ai dit bonjour à la qu'il me dit.\nBonjour.",
+      "content": "J'ai dit bonjour à la caissière:\n— Bonjour.",
       "end": 58,
       "start": 54
     },
@@ -140,12 +140,12 @@
       "start": 59
     },
     {
-      "content": "J'ai attendu, j'ai redit bonjour.\nBonjour.",
+      "content": "J'ai attendu, j'ai redit bonjour.\n— Bonjour.",
       "end": 62,
       "start": 60
     },
     {
-      "content": "Bonjour.\nC'était mon tour.",
+      "content": "— Bonjour.\nC'était mon tour.",
       "end": 63,
       "start": 62
     },
@@ -156,11 +156,11 @@
     },
     {
       "content": "Bref, je suis allé au supermarché.",
-      "end": 70,
+      "end": 65,
       "start": 65
     },
     {
-      "content": "Inerci 3000,\nla boisson des vrais bonhommes.",
+      "content": "— Energy 3000, la boisson des vrais bonhommes.",
       "end": 73,
       "start": 70
     }

@@ -25,17 +25,17 @@
       "start": 5
     },
     {
-      "content": "J'ai dit: Elle a dit...\nNon, il est mort.",
+      "content": "J'ai dit:\n— Ça va ?\nElle a dit:\n— Non, il est mort.",
       "end": 10,
       "start": 7
     },
     {
-      "content": "J'ai dit: Merde, qui ?\nElle a dit: Croquette, mon chat.",
+      "content": "J'ai dit:\n— Ah merde, qui ?\nElle a dit:\n— Croquette, mon chat.",
       "end": 12,
       "start": 10
     },
     {
-      "content": "J'ai dit: Putain, j'ai eu peur.\nElle a dit: T'es qu'un con.",
+      "content": "J'ai dit:\n— Ah putain, j'ai eu peur.\nElle a dit:\n— T'es qu'un con.",
       "end": 15,
       "start": 12
     },
@@ -45,27 +45,27 @@
       "start": 15
     },
     {
-      "content": "Putain, il m'a griffé ton chat.\nCroquette.",
+      "content": "— Oh putain, il m'a griffé ton chat.\n— Oh, Croquette.",
       "end": 19,
       "start": 17
     },
     {
-      "content": "Un con.",
+      "content": "— Rha, le con.",
       "end": 20,
       "start": 19
     },
     {
-      "content": "J'ai dit: On peut se\nvoir demain, si tu veux.",
+      "content": "J'ai dit:\n— On peut se voir demain, si tu veux.",
       "end": 22,
       "start": 20
     },
     {
-      "content": "Elle a dit: OK.\nPour l'enterrement.",
+      "content": "Elle a dit:\n— OK. Pour l'enterrement.",
       "end": 24,
       "start": 22
     },
     {
-      "content": "Pour l'enterrement.\nElle a accroché.",
+      "content": "— Pour l'enterrement ?\nElle a raccroché.",
       "end": 26,
       "start": 24
     },
