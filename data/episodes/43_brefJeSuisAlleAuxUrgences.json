@@ -12,261 +12,315 @@
     {
       "content": "Ce n'est pas normal.",
       "end": 2,
+      "heatValue": 71,
       "start": 0
     },
     {
       "content": "Il était 2h00 du matin, je regardais\nun truc marrant en mangeant du poisson.",
       "end": 4,
+      "heatValue": 71,
       "start": 2
     },
     {
       "content": "J'ai rigolé.",
       "end": 4,
+      "heatValue": 67,
       "start": 4
     },
     {
       "content": "J'ai avalé une arête,\nça m'a fait super mal.",
       "end": 5,
+      "heatValue": 67,
       "start": 4
     },
     {
       "content": "J'avais dû me la respirer.",
       "end": 6,
+      "heatValue": 73,
       "start": 5
     },
     {
       "content": "Alors j'ai fait ce\nque n'importe qui aurait fait.",
       "end": 7,
+      "heatValue": 76,
       "start": 6
     },
     {
       "content": "Je l'ai dit sur Facebook.\nBaptiste m'a dit: Lol.",
       "end": 9,
+      "heatValue": 79,
       "start": 7
     },
     {
       "content": "Mon ex m'a dit: Bien fait.",
       "end": 10,
+      "heatValue": 83,
       "start": 9
     },
     {
       "content": "Kheiron m'a dit: Un truc dégueulasse.\nJulien m'a dit: Mange de la mie de pain.",
       "end": 12,
+      "heatValue": 86,
       "start": 10
     },
     {
       "content": "Enfin, je n'avais pas de mie de pain.",
       "end": 13,
+      "heatValue": 83,
       "start": 12
     },
     {
       "content": "Je suis allé sur un forum, un mec disait\nà un autre qu'un mec qu'il connaissait\nétait mort à cause d'une arête.",
       "end": 18,
+      "heatValue": 56,
       "start": 13
     },
     {
       "content": "Je ne voulais pas mourir,\nje suis allé aux urgences.",
       "end": 19,
+      "heatValue": 27,
       "start": 18
     },
     {
       "content": "Vous avez besoin d'un bilan complet.",
       "end": 21,
+      "heatValue": 21,
       "start": 19
     },
     {
       "content": "Coac, chimie, yono.",
       "end": 22,
+      "heatValue": 18,
       "start": 21
     },
     {
       "content": "On est en train de perdre.",
       "end": 24,
+      "heatValue": 16,
       "start": 22
     },
     {
       "content": "Allez, on passe au bloc,\non y va, on y va, on y va.",
       "end": 28,
+      "heatValue": 15,
       "start": 24
     },
     {
       "content": "J'ai attendu 20 minutes.",
       "end": 30,
+      "heatValue": 18,
       "start": 28
     },
     {
       "content": "Il y avait un mec bourré\nqui s'était pété l'arcade.",
       "end": 31,
+      "heatValue": 20,
       "start": 30
     },
     {
       "content": "Il était bourré\nparce qu'il arrêtait pas de répéter.",
       "end": 33,
+      "heatValue": 22,
       "start": 31
     },
     {
       "content": "Je suis pas bourré, moi.",
       "end": 34,
+      "heatValue": 25,
       "start": 33
     },
     {
       "content": "Il y avait une vieille\nqui arrêtait pas de gémir.",
       "end": 35,
+      "heatValue": 27,
       "start": 34
     },
     {
       "content": "Un mec bizarre s'est approché et m'a\ndit: J'ai un bébé mort dans le ventre.",
       "end": 39,
+      "heatValue": 27,
       "start": 35
     },
     {
       "content": "J'ai dit: D'accord.",
       "end": 41,
+      "heatValue": 25,
       "start": 39
     },
     {
       "content": "Il m'a proposé du chocolat.",
       "end": 43,
+      "heatValue": 20,
       "start": 41
     },
     {
       "content": "J'ai dit: Non, merci.\nAprès, il a chanté.",
       "end": 45,
+      "heatValue": 16,
       "start": 43
     },
     {
       "content": "Colombia.",
       "end": 51,
+      "heatValue": 13,
       "start": 45
     },
     {
       "content": "Personne s'occupait de moi.",
       "end": 53,
+      "heatValue": 15,
       "start": 51
     },
     {
       "content": "Ça faisait 45 minutes,\nje me suis bien paniqué.",
       "end": 54,
+      "heatValue": 19,
       "start": 53
     },
     {
       "content": "Il y a personne qui s'occupe de moi ?\nQu'est-ce qui se passe ?",
       "end": 56,
+      "heatValue": 22,
       "start": 54
     },
     {
       "content": "J'ai une arête coincée dans la gorge.",
       "end": 57,
+      "heatValue": 27,
       "start": 56
     },
     {
       "content": "Ok, moi, j'ai un enfant de huit ans\nqui vient de tomber du biais\nde tesAllez, on fait quoi ?",
       "end": 61,
+      "heatValue": 30,
       "start": 57
     },
     {
       "content": "Occupez-vous de lui.",
       "end": 64,
+      "heatValue": 28,
       "start": 63
     },
     {
       "content": "Allez, merci.",
       "end": 66,
+      "heatValue": 24,
       "start": 65
     },
     {
       "content": "J'ai reattendu 20 minutes.\nUn interne est arrivé.",
       "end": 68,
+      "heatValue": 22,
       "start": 66
     },
     {
       "content": "Il avait un jean trop court\net les pompes à scratch.",
       "end": 69,
+      "heatValue": 21,
       "start": 68
     },
     {
       "content": "Il m'a demandé: Est-ce\nque vous avez des antécédents ?",
       "end": 71,
+      "heatValue": 20,
       "start": 69
     },
     {
       "content": "J'ai dit que j'étais allergique\nau vinèvre, que je m'étais foulé\nle gros entail gauche en 2001,\nque j'étais anégatif et que",
       "end": 75,
+      "heatValue": 18,
       "start": 71
     },
     {
       "content": "je supportais ma léparastamol.",
       "end": 77,
+      "heatValue": 17,
       "start": 75
     },
     {
       "content": "Il a noté: Hypocondriaque.",
       "end": 79,
+      "heatValue": 16,
       "start": 77
     },
     {
       "content": "Après, il m'a mis\nde l'anesthésiant dans la bouche.",
       "end": 80,
+      "heatValue": 15,
       "start": 79
     },
     {
       "content": "Il m'a dit qu'il allait revenir\nle temps que ça fasse effet.",
       "end": 84,
+      "heatValue": 13,
       "start": 80
     },
     {
       "content": "Ça faisait pas effet.",
       "end": 87,
+      "heatValue": 12,
       "start": 86
     },
     {
       "content": "Chocolat, chocolat.",
       "end": 90,
+      "heatValue": 13,
       "start": 87
     },
     {
       "content": "Je suis pas bourré.",
       "end": 92,
+      "heatValue": 17,
       "start": 90
     },
     {
       "content": "Il est revenu, il m'a\ndemandé si ça faisait effet.",
       "end": 95,
+      "heatValue": 25,
       "start": 92
     },
     {
       "content": "J'ai voulu lui dire\nque ça faisait pas effet.",
       "end": 97,
+      "heatValue": 40,
       "start": 96
     },
     {
       "content": "Ça faisait effet.\nIl m'a demandé d'ouvrir la bouche.",
       "end": 99,
+      "heatValue": 46,
       "start": 97
     },
     {
       "content": "Il a retiré l'arrête.\nJ'ai dit merci.",
       "end": 100,
+      "heatValue": 52,
       "start": 99
     },
     {
       "content": "Merci.\nJ'ai bavé sur ses pompes à scratch.",
       "end": 104,
+      "heatValue": 47,
       "start": 100
     },
     {
       "content": "Bref, je suis allé aux urgences.",
       "end": 109,
+      "heatValue": 32,
       "start": 105
     },
     {
       "content": "Non, non, non, non, non.",
       "end": 112,
+      "heatValue": 27,
       "start": 109
     }
   ],
   "video": {
+    "commentCount": 1000,
     "id": "1tZiw9KR6Jk",
-    "viewcount": 11000000
+    "isAgeRestricted": false,
+    "likeCount": 138987,
+    "viewCount": 11560525
   }
 }

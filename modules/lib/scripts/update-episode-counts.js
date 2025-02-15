@@ -12,7 +12,7 @@ import {
 import { _, pMap } from 'golgoth';
 import { convertCounts } from '../convertCounts.js';
 
-const episodes = await glob('01*.json', {
+const episodes = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
 });
 const episodeCount = episodes.length;
@@ -42,9 +42,13 @@ await pMap(
 
       await mkdirp(path.dirname(rawCountPath));
 
-      const downloadCommand = ['yt-dlp -j', videoUrl, `> ${rawCountPath}`].join(
-        ' ',
-      );
+      const downloadCommand = [
+        'yt-dlp',
+        '--cookies-from-browser firefox',
+        '-j',
+        videoUrl,
+        `> ${rawCountPath}`,
+      ].join(' ');
       await run(downloadCommand, { shell: true });
     }
 

@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1200,
     "durationHuman": "3:02",
     "durationInSeconds": 182,
     "index": 74,
+    "likeCount": 73509,
     "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
     "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
     "videoId": "UDko2X994U4",
-    "viewcount": 4700000
+    "viewcount": 4770369
   },
   "line": {
     "content": "Tout le monde t'aime.\nToi, t'es parfait, toi.",
     "end": 102,
+    "heatValue": 18,
     "index": 34,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=99s"

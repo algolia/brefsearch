@@ -12,236 +12,285 @@
     {
       "content": "Bref, j'avais passé un entretien\nd'embauche que je pensais avoir raté.",
       "end": 6,
+      "heatValue": 45,
       "start": 3
     },
     {
       "content": "— Do you speak English ?\n— Yes.",
       "end": 8,
+      "heatValue": 45,
       "start": 6
     },
     {
       "content": "— Where are you from ?",
       "end": 8,
+      "heatValue": 43,
       "start": 8
     },
     {
       "content": "— Yes.\nMais ils m'ont engagé,\nà l'intendance.",
       "end": 10,
+      "heatValue": 44,
       "start": 8
     },
     {
       "content": "Ils m'ont dit que je ferais tout et rien.\n— Vous ferez tout et rien.",
       "end": 11,
+      "heatValue": 45,
       "start": 10
     },
     {
       "content": "Je me suis rendu compte que je faisais\ntout, eux, ils faisaient rien.",
       "end": 15,
+      "heatValue": 44,
       "start": 11
     },
     {
       "content": "En y repensant, j'ai compris\npourquoi ils m'avaient pris.",
       "end": 17,
+      "heatValue": 42,
       "start": 15
     },
     {
       "content": "— Vous demandez quoi en termes de salaire ?",
       "end": 18,
+      "heatValue": 41,
       "start": 17
     },
     {
       "content": "— De l'argent.",
       "end": 21,
+      "heatValue": 42,
       "start": 20
     },
     {
       "content": "— Merde.",
       "end": 22,
+      "heatValue": 43,
       "start": 21
     },
     {
       "content": "Je faisais du café,\nje rechargeais les photocopieuses.",
       "end": 24,
+      "heatValue": 41,
       "start": 22
     },
     {
       "content": "Un jour, Fabien m'a dit:\n— C'est les chiffres, putain,\nça marche plus, regarde.",
       "end": 27,
+      "heatValue": 40,
       "start": 24
     },
     {
       "content": "J'ai fait semblant de taper\ndes trucs compliqués.",
       "end": 28,
+      "heatValue": 41,
       "start": 27
     },
     {
       "content": "J'ai pas utilisé la souris\npour faire américain et à un moment,\nj'ai juste appuyé sur \"vernum\".\nJ'ai dit:\n— C'est réparé.",
       "end": 34,
+      "heatValue": 43,
       "start": 28
     },
     {
       "content": "Il m'a dit:\n— T'es un génie.",
       "end": 35,
+      "heatValue": 46,
       "start": 34
     },
     {
       "content": "J'ai pensé: T'es un couillon.\n— De rien.",
       "end": 37,
+      "heatValue": 45,
       "start": 35
     },
     {
       "content": "Au bout d'un mois, j'ai compris\npourquoi un bureau s'appelait un bureau.",
       "end": 39,
+      "heatValue": 41,
       "start": 37
     },
     {
       "content": "Jean-louis est à le trombone.",
       "end": 40,
+      "heatValue": 38,
       "start": 39
     },
     {
       "content": "Tout le monde le pliait\ndans tous les sens.",
       "end": 41,
+      "heatValue": 36,
       "start": 40
     },
     {
       "content": "Il reprendra jamais sa forme initiale.",
       "end": 42,
+      "heatValue": 35,
       "start": 41
     },
     {
       "content": "— Vous avez entendu ce\nque j'ai dit, Jean-Louis ?",
       "end": 43,
+      "heatValue": 34,
       "start": 42
     },
     {
       "content": "— Oui.\nFrancis, c'est le scotch, il te lâche pas.",
       "end": 46,
+      "heatValue": 34,
       "start": 43
     },
     {
       "content": "— Vous êtes sûr ?",
       "end": 47,
+      "heatValue": 35,
       "start": 46
     },
     {
       "content": "— Oui.",
       "end": 48,
+      "heatValue": 35,
       "start": 47
     },
     {
       "content": "Elle, c'est la colle.\nElle sent bon, mais elle est saoulante.",
       "end": 50,
+      "heatValue": 38,
       "start": 48
     },
     {
       "content": "— Je t'ai pas raconté mon week-end.",
       "end": 52,
+      "heatValue": 43,
       "start": 50
     },
     {
       "content": "— Comme il faisait beau avec mon mari,\nChristian, on est allé à la campagne\nprès d'un lac, on a fait du pédalo.\nJe m'en bats les steaks.",
       "end": 58,
+      "heatValue": 53,
       "start": 52
     },
     {
       "content": "— C'est incroyable.",
       "end": 60,
+      "heatValue": 62,
       "start": 58
     },
     {
       "content": "Jean-michel, c'est l'agraffeuse.\nOn le trouve jamais.",
       "end": 63,
+      "heatValue": 58,
       "start": 60
     },
     {
       "content": "Et Fabien, c'est le post-it.",
       "end": 64,
+      "heatValue": 52,
       "start": 63
     },
     {
       "content": "Il est voyant, collant\net il s'affiche partout.",
       "end": 66,
+      "heatValue": 50,
       "start": 64
     },
     {
       "content": "— Elle a un cul. Elle me dit oui, je lui dis pas prout, hein !",
       "end": 67,
+      "heatValue": 48,
       "start": 66
     },
     {
       "content": "Je me suis demandé si j'étais aussi\nune fourniture de bureau.",
       "end": 70,
+      "heatValue": 38,
       "start": 67
     },
     {
       "content": "J'ai compris que j'étais la poubelle.",
       "end": 71,
+      "heatValue": 29,
       "start": 70
     },
     {
       "content": "À leurs pieds, à les débarrasser\nde ce qu'ils voulaient pas.",
       "end": 75,
+      "heatValue": 21,
       "start": 71
     },
     {
       "content": "J'ai tout jeté, j'ai dit:\n— Je pars.",
       "end": 78,
+      "heatValue": 16,
       "start": 75
     },
     {
       "content": "Le scotch m'a dit:\n— Vous êtes sûr ?\nJ'ai dit:\n— Oui.",
       "end": 82,
+      "heatValue": 16,
       "start": 80
     },
     {
       "content": "Il m'a dit:\n— Vous aurez rien, hein.\nJ'ai dit:\n— C'est pas un problème.",
       "end": 84,
+      "heatValue": 16,
       "start": 82
     },
     {
       "content": "C'était un problème.\n— Vous êtes sûr ?",
       "end": 85,
+      "heatValue": 17,
       "start": 84
     },
     {
       "content": "Non.",
       "end": 86,
+      "heatValue": 17,
       "start": 85
     },
     {
       "content": "— Oui.",
       "end": 88,
+      "heatValue": 16,
       "start": 87
     },
     {
       "content": "En partant, je lui aurais dit\nd'aller bien se faire foutre.",
       "end": 91,
+      "heatValue": 13,
       "start": 89
     },
     {
       "content": "— Au revoir.\nBref, j'ai eu un job.",
       "end": 94,
+      "heatValue": 12,
       "start": 91
     },
     {
       "content": "— Vous avez bien entendu, Jean-Louis ?\n— C'est sûr ?",
       "end": 97,
+      "heatValue": 10,
       "start": 96
     },
     {
       "content": "— J'ai pas entendu, c'est sûr ?",
       "end": 100,
+      "heatValue": 9,
       "start": 97
     },
     {
       "content": "— Vous êtes sûr ?",
       "end": 103,
+      "heatValue": 7,
       "start": 100
     }
   ],
   "video": {
+    "commentCount": 543,
     "id": "DUDE5JWW-q8",
-    "viewcount": 9700000
+    "isAgeRestricted": false,
+    "likeCount": 114614,
+    "viewCount": 9722385
   }
 }

@@ -12,216 +12,261 @@
     {
       "content": "Bref, j'avais réussi à obtenir\nun dîner avec cette fille.",
       "end": 3,
+      "heatValue": 49,
       "start": 1
     },
     {
       "content": "Elle s'est assise, je me suis assis\net là, on a commencé une partie du jeu\nle plus compliqué du monde.",
       "end": 10,
+      "heatValue": 33,
       "start": 3
     },
     {
       "content": "Fais chaud, moi, si tu peux.",
       "end": 11,
+      "heatValue": 30,
       "start": 10
     },
     {
       "content": "Elle a sorti ses cartes.\nJe raconte ma vie.",
       "end": 13,
+      "heatValue": 31,
       "start": 11
     },
     {
       "content": "J'étais super concentré.",
       "end": 13,
+      "heatValue": 31,
       "start": 13
     },
     {
       "content": "Elle a dit: J'ai une petite\nnièce, elle s'appelle Chloé.",
       "end": 16,
+      "heatValue": 26,
       "start": 13
     },
     {
       "content": "Elle est trop choute.\nElle adore la musique.",
       "end": 19,
+      "heatValue": 18,
       "start": 16
     },
     {
       "content": "Chloé, nièce trop choute.\nMusique, OK.",
       "end": 21,
+      "heatValue": 14,
       "start": 19
     },
     {
       "content": "Par contre, ma tante, depuis qu'elle est\navec Thierry, elle va pas bien.",
       "end": 24,
+      "heatValue": 13,
       "start": 21
     },
     {
       "content": "Tante mariage relou avec Thierry, OK.\nJ'ai essayé de tout bien retenir.",
       "end": 26,
+      "heatValue": 14,
       "start": 24
     },
     {
       "content": "Je relance de sept et je recule.",
       "end": 28,
+      "heatValue": 17,
       "start": 26
     },
     {
       "content": "J'ai posé deux cartes.\nArgument.",
       "end": 29,
+      "heatValue": 19,
       "start": 28
     },
     {
       "content": "J'avais Je suis mes parents.",
       "end": 30,
+      "heatValue": 21,
       "start": 29
     },
     {
       "content": "Je joue de la guitare.",
       "end": 32,
+      "heatValue": 22,
       "start": 30
     },
     {
       "content": "Un moment, le serveur est arrivé\net il a posé une carte:",
       "end": 37,
+      "heatValue": 27,
       "start": 32
     },
     {
       "content": "Je sais faire des cocktails.",
       "end": 38,
+      "heatValue": 30,
       "start": 37
     },
     {
       "content": "J'ai sorti ma carte: Mec, t'es\nqu'un serveur, en disant: On pourrait\navoir du pain, s'il vous plaît ?",
       "end": 42,
+      "heatValue": 31,
       "start": 38
     },
     {
       "content": "Mais bien sûr.",
       "end": 46,
+      "heatValue": 24,
       "start": 45
     },
     {
       "content": "Retournez à la case cuisine\net ne touchez pas de pourboire.",
       "end": 47,
+      "heatValue": 21,
       "start": 47
     },
     {
       "content": "Il est parti.\nQu'est-ce que tu aimes comme musique ?",
       "end": 49,
+      "heatValue": 19,
       "start": 47
     },
     {
       "content": "J'ai lancé les dés.\nCarbone cable-argue ?",
       "end": 51,
+      "heatValue": 18,
       "start": 49
     },
     {
       "content": "J'adore.\nC'est vrai ?",
       "end": 53,
+      "heatValue": 18,
       "start": 51
     },
     {
       "content": "Ouais.\nEt j'ai rajouté: J'adore la musique.",
       "end": 55,
+      "heatValue": 17,
       "start": 53
     },
     {
       "content": "Pas comme ta petite Yes, Chloé.\nJ'étais trop fort.",
       "end": 57,
+      "heatValue": 16,
       "start": 55
     },
     {
       "content": "Ensuite, je suis allé aux toilettes.",
       "end": 58,
+      "heatValue": 15,
       "start": 57
     },
     {
       "content": "Quand je suis revenu, elle avait repris\nun verre, moins sept points de sobriété.",
       "end": 60,
+      "heatValue": 14,
       "start": 58
     },
     {
       "content": "Yes.",
       "end": 62,
+      "heatValue": 13,
       "start": 60
     },
     {
       "content": "J'ai joué tous mes billets sur l'addition.",
       "end": 63,
+      "heatValue": 13,
       "start": 62
     },
     {
       "content": "J'ai marqué 19 points, j'avais gagné.",
       "end": 64,
+      "heatValue": 12,
       "start": 63
     },
     {
       "content": "Je n'avais plus qu'à jouer\nle dernier verre chez moi.",
       "end": 65,
+      "heatValue": 12,
       "start": 64
     },
     {
       "content": "Elle m'a dit: Je vais y aller.",
       "end": 67,
+      "heatValue": 12,
       "start": 65
     },
     {
       "content": "Hein ?",
       "end": 68,
+      "heatValue": 12,
       "start": 67
     },
     {
       "content": "Le serveur est arrivé.",
       "end": 69,
+      "heatValue": 11,
       "start": 68
     },
     {
       "content": "En y réfléchissant, j'ai compris\nqu'il jouait depuis le début.",
       "end": 74,
+      "heatValue": 10,
       "start": 69
     },
     {
       "content": "Il avait utilisé ses cartes.",
       "end": 76,
+      "heatValue": 10,
       "start": 74
     },
     {
       "content": "Regarde en coin, le verre, c'était\nlui pendant que j'étais aux toilettes.",
       "end": 78,
+      "heatValue": 11,
       "start": 76
     },
     {
       "content": "Et pire, il lui avait laissé la carte.",
       "end": 79,
+      "heatValue": 12,
       "start": 78
     },
     {
       "content": "Je connais Carbon Kevlar,\nil mixe dans une heure.",
       "end": 82,
+      "heatValue": 12,
       "start": 79
     },
     {
       "content": "Salut.\nIl avait gagné, j'avais perdu.",
       "end": 84,
+      "heatValue": 13,
       "start": 82
     },
     {
       "content": "Salut.\nIls sont partis ensemble.",
       "end": 87,
+      "heatValue": 11,
       "start": 84
     },
     {
       "content": "Bref, j'ai dîné avec cette fille.",
       "end": 89,
+      "heatValue": 9,
       "start": 88
     },
     {
       "content": "Je choisis le serveur\nparce qu'il connaît Carbon Kevlar.",
       "end": 100,
+      "heatValue": 8,
       "start": 89
     }
   ],
   "video": {
+    "commentCount": 614,
     "id": "6dyIHnUE5FY",
-    "viewcount": 8700000
+    "isAgeRestricted": false,
+    "likeCount": 96372,
+    "viewCount": 8801399
   }
 }

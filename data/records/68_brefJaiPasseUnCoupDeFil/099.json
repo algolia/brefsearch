@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 348,
     "durationHuman": "2:01",
     "durationInSeconds": 121,
     "index": 68,
+    "likeCount": 76290,
     "name": "Bref. J'ai passé un coup de fil.",
     "slug": "brefJaiPasseUnCoupDeFil",
     "videoId": "8matlnmBY98",
-    "viewcount": 5000000
+    "viewcount": 5070086
   },
   "line": {
     "content": "Ouais, Julien me l'a dit.\nJe l'appelle.",
     "end": 101,
+    "heatValue": 4,
     "index": 57,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=99s"

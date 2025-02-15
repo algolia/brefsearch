@@ -12,256 +12,309 @@
     {
       "content": "Bref, moi, je suis le mec\nque personne ne connaît dans les soirées.",
       "end": 5,
+      "heatValue": 26,
       "start": 3
     },
     {
       "content": "Quand je sors du taf, je rentre\ndans un immeuble si j'entends du bruit.",
       "end": 8,
+      "heatValue": 27,
       "start": 5
     },
     {
       "content": "Je sonne.\nSalut.",
       "end": 9,
+      "heatValue": 31,
       "start": 8
     },
     {
       "content": "Et je réponds toujours la même chose.\nC'est qui ?",
       "end": 10,
+      "heatValue": 32,
       "start": 9
     },
     {
       "content": "La plupart du temps, il y a\nau moins un Benjamin dans une soirée.",
       "end": 12,
+      "heatValue": 35,
       "start": 10
     },
     {
       "content": "Quand c'est pas le cas,\nil y a au moins un Benoît.",
       "end": 13,
+      "heatValue": 37,
       "start": 12
     },
     {
       "content": "Alors je réponds toujours.\nJe suis le pote de Ben.",
       "end": 15,
+      "heatValue": 38,
       "start": 13
     },
     {
       "content": "Cool.\nT'es déguisé en quoi ?",
       "end": 18,
+      "heatValue": 33,
       "start": 15
     },
     {
       "content": "En man, même.\nEn quoi ?",
       "end": 19,
+      "heatValue": 30,
       "start": 18
     },
     {
       "content": "Ce qui est vachement bien\nquand personne te connaît, c'est\nque tu peux faire des conneries\net personne ne saura que c'est toi.",
       "end": 23,
+      "heatValue": 20,
       "start": 19
     },
     {
       "content": "J'ai renversé mon coca, j'ai nettoyé\navec mon pied, du coup, le sol collait\net j'ai trouvé ça marrant.",
       "end": 27,
+      "heatValue": 9,
       "start": 23
     },
     {
       "content": "Alors, je l'ai fait pendant une heure.",
       "end": 29,
+      "heatValue": 6,
       "start": 27
     },
     {
       "content": "Après, je me suis fait chier.",
       "end": 32,
+      "heatValue": 5,
       "start": 29
     },
     {
       "content": "Alors, j'ai fait boire\ndes shots à Einstein.",
       "end": 33,
+      "heatValue": 4,
       "start": 32
     },
     {
       "content": "Einstein, j'ai une nouvelle\nformule pour toi.",
       "end": 37,
+      "heatValue": 4,
       "start": 33
     },
     {
       "content": "Cool.",
       "end": 39,
+      "heatValue": 3,
       "start": 37
     },
     {
       "content": "T'es qui ?",
       "end": 40,
+      "heatValue": 2,
       "start": 39
     },
     {
       "content": "Je suis le pote de Seb.\nÇa marche aussi avec Seb.",
       "end": 42,
+      "heatValue": 3,
       "start": 40
     },
     {
       "content": "T'es déguisé en quoi ?\nOn parle d'Estaun.",
       "end": 44,
+      "heatValue": 4,
       "start": 42
     },
     {
       "content": "Soudap.\nAprès, je me suis fait chier.",
       "end": 47,
+      "heatValue": 5,
       "start": 44
     },
     {
       "content": "Je suis allé ailleurs.",
       "end": 48,
+      "heatValue": 4,
       "start": 47
     },
     {
       "content": "Tiens, prends un saut quand même.",
       "end": 51,
+      "heatValue": 2,
       "start": 48
     },
     {
       "content": "À un moment, j'ai fait un discours.",
       "end": 53,
+      "heatValue": 1,
       "start": 51
     },
     {
       "content": "Qu'est-ce que je voulais raconter ?",
       "end": 55,
+      "heatValue": 1,
       "start": 53
     },
     {
       "content": "Je voyais le deux anniversaires à\nla reine de la soirée.",
       "end": 63,
+      "heatValue": 2,
       "start": 55
     },
     {
       "content": "C'est pas ma soirée !",
       "end": 65,
+      "heatValue": 5,
       "start": 63
     },
     {
       "content": "Après, j'ai bousculé une meuf déguisée\ncomme dans Pulp fiction.",
       "end": 69,
+      "heatValue": 6,
       "start": 65
     },
     {
       "content": "Ça va ?",
       "end": 71,
+      "heatValue": 8,
       "start": 69
     },
     {
       "content": "Ouh là, t'as pas l'air bien.",
       "end": 73,
+      "heatValue": 9,
       "start": 71
     },
     {
       "content": "Bref, quand ce mec que je connaissais pas\nJe lui ai demandé si ça allait,\nj'ai commencé à pleurer.\nIl m'a fait une blague.",
       "end": 77,
+      "heatValue": 12,
       "start": 73
     },
     {
       "content": "Tu me reconnais pas ?",
       "end": 79,
+      "heatValue": 14,
       "start": 77
     },
     {
       "content": "Je suis en Vincent Vega.",
       "end": 81,
+      "heatValue": 18,
       "start": 79
     },
     {
       "content": "J'ai rigolé.\nEnsuite, on est sortis, on a discuté.",
       "end": 85,
+      "heatValue": 21,
       "start": 81
     },
     {
       "content": "Je l'ai embrassé.",
       "end": 89,
+      "heatValue": 23,
       "start": 85
     },
     {
       "content": "Bref, quand cette meuf m'a embrassé, je\nme suis dit que c'était une bonne soirée.",
       "end": 92,
+      "heatValue": 21,
       "start": 89
     },
     {
       "content": "Je suis allé ailleurs.\nSur le chemin, j'ai bousculé un mec.",
       "end": 93,
+      "heatValue": 16,
       "start": 92
     },
     {
       "content": "Il m'a dit: Putain, fais gaffe, merde.",
       "end": 95,
+      "heatValue": 13,
       "start": 93
     },
     {
       "content": "Alors j'ai dit: Ça va, tranquille.",
       "end": 96,
+      "heatValue": 9,
       "start": 95
     },
     {
       "content": "C'est quoi ton problème ?",
       "end": 97,
+      "heatValue": 8,
       "start": 96
     },
     {
       "content": "Bref, quand ce mec m'a demandé ce\nque c'était mon problème, j'ai répondu...",
       "end": 101,
+      "heatValue": 6,
       "start": 97
     },
     {
       "content": "Rien.",
       "end": 102,
+      "heatValue": 5,
       "start": 101
     },
     {
       "content": "Voilà.",
       "end": 103,
+      "heatValue": 5,
       "start": 102
     },
     {
       "content": "Tiens, prends ça.",
       "end": 105,
+      "heatValue": 4,
       "start": 103
     },
     {
       "content": "Je suis allé m'asseoir et...",
       "end": 110,
+      "heatValue": 3,
       "start": 106
     },
     {
       "content": "Et là, j'ai vraiment\npas envie d'en parler.",
       "end": 113,
+      "heatValue": 4,
       "start": 110
     },
     {
       "content": "Bref, j'ai fait une soirée déguisée.",
       "end": 117,
+      "heatValue": 7,
       "start": 113
     },
     {
       "content": "Tu vois, j'ai envie de...",
       "end": 120,
+      "heatValue": 12,
       "start": 117
     },
     {
       "content": "En parler.",
       "end": 125,
+      "heatValue": 14,
       "start": 120
     },
     {
       "content": "On se revoit la semaine prochaine.",
       "end": 129,
+      "heatValue": 27,
       "start": 125
     },
     {
       "content": "Attention au changement d'heure.\nSoixante-douze euros.",
       "end": 132,
+      "heatValue": 37,
       "start": 130
     }
   ],
   "video": {
+    "commentCount": 299,
     "id": "WRXsFwhVzTs",
-    "viewcount": 4900000
+    "isAgeRestricted": false,
+    "likeCount": 62306,
+    "viewCount": 5001029
   }
 }

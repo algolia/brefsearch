@@ -78,10 +78,14 @@ await pMap(
         const newRecord = {
           episode: {
             videoId: episode.video.id,
-            viewcount: episode.video.viewcount,
+            viewcount: episode.video.viewCount,
+            likeCount: episode.video.likeCount,
+            commentCount: episode.video.commentCount,
+
             name: episode.episode.name,
             index: episode.episode.index,
             slug: episode.episode.slug,
+
             durationHuman: episode.duration.human,
             durationInSeconds: episode.duration.inSeconds,
           },
@@ -90,6 +94,7 @@ await pMap(
             start: line.start,
             end: line.end,
             content: line.content,
+            heatValue: line.heatValue,
             url: videoUrl,
           },
           thumbnail: thumbnailData,

@@ -12,231 +12,279 @@
     {
       "content": "Mais non.\nBref, lui, c'est Baptiste.",
       "end": 1,
+      "heatValue": 81,
       "start": 0
     },
     {
       "content": "Ouais, c'est vrai, et toi ?\nNon.",
       "end": 4,
+      "heatValue": 70,
       "start": 1
     },
     {
       "content": "Et ça, c'est son cœur.",
       "end": 5,
+      "heatValue": 64,
       "start": 4
     },
     {
       "content": "À chaque fois qu'il se met avec une fille,\nil lui donne beaucoup trop de tout.",
       "end": 7,
+      "heatValue": 62,
       "start": 5
     },
     {
       "content": "Tiens, tiens, je t'aime.",
       "end": 9,
+      "heatValue": 56,
       "start": 7
     },
     {
       "content": "Du coup, elle joue avec.",
       "end": 10,
+      "heatValue": 52,
       "start": 9
     },
     {
       "content": "Elle se rend compte qu'il prend trop\nde place, alors elle le crève.",
       "end": 13,
+      "heatValue": 42,
       "start": 10
     },
     {
       "content": "La dernière en date,\nc'était Anne-Charlotte.",
       "end": 15,
+      "heatValue": 31,
       "start": 13
     },
     {
       "content": "Il est tombé amoureux et il est devenu...",
       "end": 16,
+      "heatValue": 25,
       "start": 15
     },
     {
       "content": "Super flippant.",
       "end": 18,
+      "heatValue": 20,
       "start": 16
     },
     {
       "content": "Grâce à ses yeux embués d'amour, il peut\ntraduire les textos les plus banals.",
       "end": 21,
+      "heatValue": 16,
       "start": 18
     },
     {
       "content": "Tu as vu ce qu'elle met ?\nJe préfère qu'on se voit demain.",
       "end": 23,
+      "heatValue": 12,
       "start": 21
     },
     {
       "content": "Ce soir, je suis fatigué.",
       "end": 25,
+      "heatValue": 10,
       "start": 23
     },
     {
       "content": "À ton avis, ça veut dire quoi ?",
       "end": 26,
+      "heatValue": 10,
       "start": 25
     },
     {
       "content": "Qu'elle préfère te voir demain\nparce qu'elle est fatiguée ?",
       "end": 28,
+      "heatValue": 10,
       "start": 26
     },
     {
       "content": "Non.",
       "end": 30,
+      "heatValue": 10,
       "start": 28
     },
     {
       "content": "Ça veut dire j'ai trop\nde sentiments pour toi.",
       "end": 32,
+      "heatValue": 11,
       "start": 30
     },
     {
       "content": "J'ai peur.",
       "end": 33,
+      "heatValue": 11,
       "start": 32
     },
     {
       "content": "Super flippant.",
       "end": 35,
+      "heatValue": 12,
       "start": 33
     },
     {
       "content": "Il peut multiplier la valeur\ndes cadeaux par 1 000.",
       "end": 37,
+      "heatValue": 12,
       "start": 35
     },
     {
       "content": "La dernière fois que tu m'as offert\nce T-shirt, ça m'a fait super\nplaisir, alors du coup...",
       "end": 43,
+      "heatValue": 16,
       "start": 37
     },
     {
       "content": "Surprise.\nSuperc'est super flippant.",
       "end": 46,
+      "heatValue": 19,
       "start": 44
     },
     {
       "content": "Grâce à son cœur qui bat\n100 fois plus vite, il peut accélérer\nune vie de couple et présenter\nses parents au bout de huit jours.",
       "end": 50,
+      "heatValue": 16,
       "start": 46
     },
     {
       "content": "Super flippant.\nIl envoie des e-cards.",
       "end": 52,
+      "heatValue": 19,
       "start": 50
     },
     {
       "content": "Je t'aime plus que ma mère.\nSuper flippant.",
       "end": 54,
+      "heatValue": 19,
       "start": 52
     },
     {
       "content": "Il met plusieurs heures à laisser\nun message de 10 secondes.",
       "end": 56,
+      "heatValue": 8,
       "start": 54
     },
     {
       "content": "Pour modifier votre message, tapez étoile.",
       "end": 58,
+      "heatValue": 5,
       "start": 56
     },
     {
       "content": "Salut, salut, salut,\nSalut, c'est Baptiste.",
       "end": 61,
+      "heatValue": 3,
       "start": 58
     },
     {
       "content": "Ça te dit qu'on se voit ce soir ?\nTrop classique.",
       "end": 63,
+      "heatValue": 1,
       "start": 61
     },
     {
       "content": "Ouais, salut, c'est Baptiste.",
       "end": 64,
+      "heatValue": 1,
       "start": 63
     },
     {
       "content": "Ça me ferait trop plaisir qu'on se voit.\nJ'ai trop dit trop.",
       "end": 69,
+      "heatValue": 0,
       "start": 64
     },
     {
       "content": "Salut, c'est Baptiste.\nSalut, c'est Baptiste.",
       "end": 70,
+      "heatValue": 0,
       "start": 69
     },
     {
       "content": "Ouais, salut, c'est moi, c'est Batou.",
       "end": 71,
+      "heatValue": 1,
       "start": 70
     },
     {
       "content": "Salut, c'est Baptiste, il est 23h00.",
       "end": 74,
+      "heatValue": 2,
       "start": 71
     },
     {
       "content": "Ça fait un peu tard pour qu'on se voit.",
       "end": 78,
+      "heatValue": 8,
       "start": 74
     },
     {
       "content": "À plus, bisous.",
       "end": 79,
+      "heatValue": 18,
       "start": 78
     },
     {
       "content": "Super flippant.\nForcément, elle l'a quitté.",
       "end": 82,
+      "heatValue": 28,
       "start": 79
     },
     {
       "content": "Du coup, il a débarqué chez moi.\nÇa, c'est moi et ça, c'est mes couilles.",
       "end": 84,
+      "heatValue": 46,
       "start": 82
     },
     {
       "content": "Et Baptiste est\ndevenuSuper casse-couilles.",
       "end": 86,
+      "heatValue": 63,
       "start": 84
     },
     {
       "content": "Ça va ?\nNon, ça ne va pas.",
       "end": 88,
+      "heatValue": 73,
       "start": 86
     },
     {
       "content": "Pourquoi il l'a quitté ?",
       "end": 90,
+      "heatValue": 80,
       "start": 88
     },
     {
       "content": "Bref, Baptiste est super flippant.",
       "end": 96,
+      "heatValue": 71,
       "start": 92
     },
     {
       "content": "Non, tu ne vois pas tes copains ce soir ?",
       "end": 99,
+      "heatValue": 71,
       "start": 96
     },
     {
       "content": "D'accord.",
       "end": 101,
+      "heatValue": 76,
       "start": 100
     },
     {
       "content": "Ouais.",
       "end": 101,
+      "heatValue": 76,
       "start": 101
     }
   ],
   "video": {
+    "commentCount": 490,
     "id": "lrWa9VYEb78",
-    "viewcount": 7500000
+    "isAgeRestricted": false,
+    "likeCount": 93351,
+    "viewCount": 7580349
   }
 }

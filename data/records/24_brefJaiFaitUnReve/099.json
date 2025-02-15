@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 597,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 24,
+    "likeCount": 91536,
     "name": "Bref. J'ai fait un rêve.",
     "slug": "brefJaiFaitUnReve",
     "videoId": "gYSzEUcLIZ4",
-    "viewcount": 6800000
+    "viewcount": 6811734
   },
   "line": {
     "content": "Et là, je me suis réveillé.",
     "end": 102,
+    "heatValue": 24,
     "index": 33,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=99s"

@@ -23,7 +23,6 @@ export async function convertCounts(filepath) {
     viewCount: raw.view_count,
     likeCount: raw.like_count,
     commentCount: raw.comment_count,
-    isAgeRestricted: raw.age_limit != 0,
     heatmap,
   };
 

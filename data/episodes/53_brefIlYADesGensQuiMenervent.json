@@ -12,271 +12,327 @@
     {
       "content": "Putain, j'ai perdu mes clés.",
       "end": 1,
+      "heatValue": 35,
       "start": 0
     },
     {
       "content": "Bref, s'il y a un truc qui m'énerve encore\nplus que perdre mes clés, c'est les mecs\nqui me donnent des conseils pourris.\nT'as regardé dans ton autre poche ?",
       "end": 6,
+      "heatValue": 25,
       "start": 1
     },
     {
       "content": "Et qui ont raison.",
       "end": 7,
+      "heatValue": 19,
       "start": 6
     },
     {
       "content": "Je suis comme ça, il y a\ndes gens qui m'énervent.",
       "end": 9,
+      "heatValue": 19,
       "start": 7
     },
     {
       "content": "Il y a les gens, quand tu leur racontes\nun truc marrant, au lieu de rigoler,\nils disent: Ouais, c'est moi.",
       "end": 12,
+      "heatValue": 20,
       "start": 9
     },
     {
       "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent: Ouais, c'est moi.",
       "end": 15,
+      "heatValue": 22,
       "start": 12
     },
     {
       "content": "Il y a les filles qui te parlent\npendant des heures de trucs\nqui t'intéressent pas.",
       "end": 17,
+      "heatValue": 22,
       "start": 15
     },
     {
       "content": "Il faudra un shampoing\naux extraits naturels de couettes.",
       "end": 20,
+      "heatValue": 25,
       "start": 17
     },
     {
       "content": "J'ai pas de cheveux.",
       "end": 21,
+      "heatValue": 26,
       "start": 20
     },
     {
       "content": "C'est bien une réponse de mec, ça.",
       "end": 22,
+      "heatValue": 27,
       "start": 21
     },
     {
       "content": "Les mecs qui ont toujours\nplus de classe que moi.",
       "end": 24,
+      "heatValue": 27,
       "start": 22
     },
     {
       "content": "Moi, franchement,\nça me fait un petit style.",
       "end": 25,
+      "heatValue": 25,
       "start": 24
     },
     {
       "content": "Même avec des pompes de bowling.\nJe suis à Châtelet, gros bordel.",
       "end": 28,
+      "heatValue": 21,
       "start": 25
     },
     {
       "content": "Les mecs qui te coupent\ndans ton histoire pour te Je vais\nte raconter une autre histoire.\nNon, on dit au Châtelet.",
       "end": 32,
+      "heatValue": 14,
       "start": 28
     },
     {
       "content": "Excuse-moi de te reprendre.\nOn dit pas à Châtelet, on dit au Châtelet.",
       "end": 33,
+      "heatValue": 8,
       "start": 32
     },
     {
       "content": "Parce qu'avant d'être une station\nde métro, le Châtelet, c'était\nune petite forteresse qui a permis\naux Parisiens de résister face",
       "end": 38,
+      "heatValue": 7,
       "start": 33
     },
     {
       "content": "à la grande invasion des Vikings en 885.",
       "end": 40,
+      "heatValue": 8,
       "start": 38
     },
     {
       "content": "Vas-y, je t'en prie,\nc'est quoi ton histoire ?",
       "end": 42,
+      "heatValue": 8,
       "start": 40
     },
     {
       "content": "Mec me bouscule et me dit pas pardon.",
       "end": 45,
+      "heatValue": 10,
       "start": 42
     },
     {
       "content": "Ça m'étonne pas.",
       "end": 48,
+      "heatValue": 15,
       "start": 46
     },
     {
       "content": "Les mecs qui t'offrent un truc\nparce qu'ils l'ont déjà en double.",
       "end": 50,
+      "heatValue": 17,
       "start": 48
     },
     {
       "content": "C'est un super passe-papier.",
       "end": 52,
+      "heatValue": 20,
       "start": 50
     },
     {
       "content": "Du coup, leur fille à quelqu'un.\nTiens, c'est un super passe-papier.",
       "end": 54,
+      "heatValue": 21,
       "start": 52
     },
     {
       "content": "Et je suis sûr qu'il va\nle remettre à quelqu'un d'autre.",
       "end": 55,
+      "heatValue": 21,
       "start": 54
     },
     {
       "content": "On va bien faire.",
       "end": 56,
+      "heatValue": 21,
       "start": 55
     },
     {
       "content": "Un autre truc qui m'énerve,\nc'est les mecs qui passent toute\nleur soirée au téléphone.",
       "end": 59,
+      "heatValue": 22,
       "start": 56
     },
     {
       "content": "Et les mecs qui se déguisent pas\ndans les soirées déguisées.",
       "end": 60,
+      "heatValue": 23,
       "start": 59
     },
     {
       "content": "T'es pas déguisé ?",
       "end": 62,
+      "heatValue": 22,
       "start": 60
     },
     {
       "content": "Je suis le roi.",
       "end": 68,
+      "heatValue": 17,
       "start": 66
     },
     {
       "content": "Tu viens de la prendre sur la galette.",
       "end": 72,
+      "heatValue": 20,
       "start": 69
     },
     {
       "content": "C'est pas pour.",
       "end": 74,
+      "heatValue": 21,
       "start": 72
     },
     {
       "content": "Les mecs qui font\ndes fausses petites annonces.",
       "end": 76,
+      "heatValue": 19,
       "start": 74
     },
     {
       "content": "Vous aviez dit vélo tout terrain.\nC'est en tout terrain.",
       "end": 78,
+      "heatValue": 17,
       "start": 76
     },
     {
       "content": "Vous pouvez le mettre où vous voulez, dans\nla rue, à la campagne, même dans un lac.",
       "end": 82,
+      "heatValue": 13,
       "start": 78
     },
     {
       "content": "C'est bon, tu le prends ?",
       "end": 84,
+      "heatValue": 11,
       "start": 82
     },
     {
       "content": "Les mecs qui bougent les lèvres en\nmême temps que toi pendant que tu parles.",
       "end": 86,
+      "heatValue": 11,
       "start": 84
     },
     {
       "content": "Quand vous partez aux États-Unis,\nje sais pas trop parce que...",
       "end": 89,
+      "heatValue": 12,
       "start": 86
     },
     {
       "content": "Ça va ?",
       "end": 91,
+      "heatValue": 17,
       "start": 89
     },
     {
       "content": "Ouais.",
       "end": 91,
+      "heatValue": 18,
       "start": 91
     },
     {
       "content": "Les mecs qui posent des questions\nqui ne servent à rien.",
       "end": 93,
+      "heatValue": 20,
       "start": 91
     },
     {
       "content": "Dis donc, pourquoi est-ce\nque la fille monte dans le sucre ?",
       "end": 96,
+      "heatValue": 27,
       "start": 93
     },
     {
       "content": "Et les mecs qui ont la réponse.\nC'est de la capillarité.",
       "end": 98,
+      "heatValue": 34,
       "start": 96
     },
     {
       "content": "C'est des molécules d'eau\nqui sont attirées par les molécules\ndu sucre et ça remonte.",
       "end": 102,
+      "heatValue": 44,
       "start": 98
     },
     {
       "content": "Quand une fille me dit: J'ai 30 ans passé.\nMoi, j'entends.",
       "end": 106,
+      "heatValue": 71,
       "start": 103
     },
     {
       "content": "Je suis bientôt 40.\nEt ça m'énerve.",
       "end": 108,
+      "heatValue": 92,
       "start": 106
     },
     {
       "content": "Par contre, quand une fille me dit...\nJ'ai 40 ans.",
       "end": 109,
+      "heatValue": 96,
       "start": 108
     },
     {
       "content": "Moi, j'entends.\nJe suis très bien.",
       "end": 111,
+      "heatValue": 97,
       "start": 109
     },
     {
       "content": "Et j'aime bien.",
       "end": 112,
+      "heatValue": 89,
       "start": 111
     },
     {
       "content": "Ça m'énerve les gens qui disent:\nQuand ils n'ont rien à dire.",
       "end": 115,
+      "heatValue": 73,
       "start": 112
     },
     {
       "content": "Par contre, je ne sais pas\npourquoi, j'aime bien les gens\nqui disent: Bref, bref.\nBref, il y a des gens qui m'énervent.",
       "end": 124,
+      "heatValue": 36,
       "start": 115
     },
     {
       "content": "Excusez-moi.\nOui.",
       "end": 127,
+      "heatValue": 29,
       "start": 126
     },
     {
       "content": "Vous êtes Chantal Lomi ?",
       "end": 128,
+      "heatValue": 31,
       "start": 127
     },
     {
       "content": "Non, je suis le pape et j'attends ma sœur.\nBref !",
       "end": 130,
+      "heatValue": 32,
       "start": 128
     }
   ],
   "video": {
+    "commentCount": 2900,
     "id": "tjRXxJaupoc",
-    "viewcount": 11000000
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "viewCount": 11882596
   }
 }

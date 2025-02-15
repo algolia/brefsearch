@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 305,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 19,
+    "likeCount": 76028,
     "name": "Bref. Mon pote s'est fait larguer.",
     "slug": "brefMonPoteSestFaitLarguer",
     "videoId": "J9EL_bGpdP4",
-    "viewcount": 6200000
+    "viewcount": 6265057
   },
   "line": {
     "content": "Bref, mon pote s'est fait larguer.",
     "end": 101,
+    "heatValue": 18,
     "index": 42,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=99s"

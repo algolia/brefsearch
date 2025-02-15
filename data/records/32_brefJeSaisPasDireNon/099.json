@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 699,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 32,
+    "likeCount": 94559,
     "name": "Bref. Je sais pas dire non.",
     "slug": "brefJeSaisPasDireNon",
     "videoId": "OmEx0mpHFG4",
-    "viewcount": 7900000
+    "viewcount": 7987391
   },
   "line": {
     "content": "Ouais.",
     "end": 99,
+    "heatValue": 7,
     "index": 43,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=99s"

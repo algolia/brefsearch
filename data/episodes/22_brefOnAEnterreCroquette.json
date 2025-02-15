@@ -12,161 +12,195 @@
     {
       "content": "Bref, ce jour-là, Marla m'a appelé.\nC'est rare qu'elle m'appelle.",
       "end": 4,
+      "heatValue": 74,
       "start": 2
     },
     {
       "content": "D'habitude, elle débarque à l'improviste.",
       "end": 5,
+      "heatValue": 69,
       "start": 4
     },
     {
       "content": "On couche ensemble et puis elle s'en va.\nAlors j'ai décroché.",
       "end": 7,
+      "heatValue": 64,
       "start": 5
     },
     {
       "content": "J'ai dit:\n— Ça va ?\nElle a dit:\n— Non, il est mort.",
       "end": 10,
+      "heatValue": 51,
       "start": 7
     },
     {
       "content": "J'ai dit:\n— Ah merde, qui ?\nElle a dit:\n— Croquette, mon chat.",
       "end": 12,
+      "heatValue": 43,
       "start": 10
     },
     {
       "content": "J'ai dit:\n— Ah putain, j'ai eu peur.\nElle a dit:\n— T'es qu'un con.",
       "end": 15,
+      "heatValue": 40,
       "start": 12
     },
     {
       "content": "J'ai pas su quoi dire.\nJe détestais son chat.",
       "end": 17,
+      "heatValue": 33,
       "start": 15
     },
     {
       "content": "— Oh putain, il m'a griffé ton chat.\n— Oh, Croquette.",
       "end": 19,
+      "heatValue": 31,
       "start": 17
     },
     {
       "content": "— Rha, le con.",
       "end": 20,
+      "heatValue": 28,
       "start": 19
     },
     {
       "content": "J'ai dit:\n— On peut se voir demain, si tu veux.",
       "end": 22,
+      "heatValue": 25,
       "start": 20
     },
     {
       "content": "Elle a dit:\n— OK. Pour l'enterrement.",
       "end": 24,
+      "heatValue": 17,
       "start": 22
     },
     {
       "content": "— Pour l'enterrement ?\nElle a raccroché.",
       "end": 26,
+      "heatValue": 13,
       "start": 24
     },
     {
       "content": "J'y suis allé.\nOn était deux au fond de son jardin.",
       "end": 29,
+      "heatValue": 11,
       "start": 26
     },
     {
       "content": "Je m'étais jamais Je lui ai demandé\nsi elle avait d'autres amis.",
       "end": 31,
+      "heatValue": 10,
       "start": 29
     },
     {
       "content": "J'avais la costarde que je mets\nau mariage, aux entretiens d'embauche\net aux enterrements.",
       "end": 34,
+      "heatValue": 11,
       "start": 31
     },
     {
       "content": "Croquette était dans un sac plastique.",
       "end": 36,
+      "heatValue": 12,
       "start": 34
     },
     {
       "content": "Elle était vraiment triste.",
       "end": 37,
+      "heatValue": 13,
       "start": 36
     },
     {
       "content": "J'ai dit: Anne perdue.",
       "end": 38,
+      "heatValue": 13,
       "start": 37
     },
     {
       "content": "Elle a dit: Arrête de parler.",
       "end": 41,
+      "heatValue": 14,
       "start": 38
     },
     {
       "content": "J'ai arrêté de parler.\nArrête de penser.",
       "end": 43,
+      "heatValue": 15,
       "start": 41
     },
     {
       "content": "C'était long.\nArrête de penser, jeudi.",
       "end": 48,
+      "heatValue": 12,
       "start": 46
     },
     {
       "content": "Croquettes, tu vas nous manquer.",
       "end": 58,
+      "heatValue": 10,
       "start": 51
     },
     {
       "content": "Toi et tes petites patounettes.",
       "end": 70,
+      "heatValue": 23,
       "start": 59
     },
     {
       "content": "J'ai ri intérieurement, elle m'a\nregardé, j'ai arrêté de rire.",
       "end": 74,
+      "heatValue": 53,
       "start": 70
     },
     {
       "content": "Elle me connaissait bien,\nje Je me suis dit que ça allait\nêtre compliqué de coucher avec elle.\nElle a dit: Je peux venir chez toi ?",
       "end": 77,
+      "heatValue": 78,
       "start": 74
     },
     {
       "content": "Non.\nOn a couché ensemble, elle m'a dit: Merci.",
       "end": 82,
+      "heatValue": 85,
       "start": 77
     },
     {
       "content": "J'ai dit: Pas de quoi.",
       "end": 85,
+      "heatValue": 69,
       "start": 82
     },
     {
       "content": "T'es qu'un con.\nBref, on a enterré Crockett.",
       "end": 88,
+      "heatValue": 45,
       "start": 85
     },
     {
       "content": "Crockett, tu vas nous manquer.",
       "end": 94,
+      "heatValue": 20,
       "start": 88
     },
     {
       "content": "Toi et tes petits œufs de poulette.",
       "end": 102,
+      "heatValue": 15,
       "start": 95
     },
     {
       "content": "T'es qu'un con.",
       "end": 102,
+      "heatValue": 18,
       "start": 102
     }
   ],
   "video": {
+    "commentCount": 585,
     "id": "LRzOCN7zths",
-    "viewcount": 6000000
+    "isAgeRestricted": false,
+    "likeCount": 85441,
+    "viewCount": 6068571
   }
 }

@@ -12,181 +12,219 @@
     {
       "content": "Il faut qu'on parle.",
       "end": 1,
+      "heatValue": 71,
       "start": 0
     },
     {
       "content": "Bref, ça faisait quelques semaines\nque ça se passait pas super bien\navec mon copain, alors j'ai décidé\nde lui faire une surprise.",
       "end": 5,
+      "heatValue": 57,
       "start": 1
     },
     {
       "content": "Je lui ai fait croire que\nje venais pas à la soirée de Maud.",
       "end": 7,
+      "heatValue": 38,
       "start": 5
     },
     {
       "content": "Je pense que je viendrai\npas à la soirée de Maud.",
       "end": 9,
+      "heatValue": 30,
       "start": 7
     },
     {
       "content": "Et j'ai demandé à Maud\nde s'assurer qu'il vienne.",
       "end": 10,
+      "heatValue": 30,
       "start": 9
     },
     {
       "content": "Promis, promis ?\nPromis, promis.",
       "end": 12,
+      "heatValue": 34,
       "start": 10
     },
     {
       "content": "Il a promis trois fois.",
       "end": 16,
+      "heatValue": 41,
       "start": 12
     },
     {
       "content": "J'ai voulu m'habiller en Lara\nCroft, mais il me manquait un accessoire.",
       "end": 20,
+      "heatValue": 45,
       "start": 16
     },
     {
       "content": "Je me suis habillée comme\nMia Wallace dans Pulp Fiction.",
       "end": 22,
+      "heatValue": 38,
       "start": 20
     },
     {
       "content": "Il est fan.",
       "end": 22,
+      "heatValue": 32,
       "start": 22
     },
     {
       "content": "En plus, je pourrais lui faire\nle coup du regard avec la cigarette.",
       "end": 24,
+      "heatValue": 31,
       "start": 22
     },
     {
       "content": "Ça faisait un peu pute,\nmais c'était une soirée déguisée.",
       "end": 26,
+      "heatValue": 32,
       "start": 24
     },
     {
       "content": "En arrivant, mon copain était pas là.",
       "end": 28,
+      "heatValue": 33,
       "start": 26
     },
     {
       "content": "Le sol collait et il y avait tout ce\nque j'adorais dans les soirées déguisées.",
       "end": 30,
+      "heatValue": 35,
       "start": 28
     },
     {
       "content": "Batman qui roulait enfin des pelles\nà Robin, même si Catwoman était vénère.",
       "end": 33,
+      "heatValue": 38,
       "start": 30
     },
     {
       "content": "Einstein qui vomissait\nà la vitesse de la lumière\net des gens déguisés n'importe comment.",
       "end": 36,
+      "heatValue": 29,
       "start": 33
     },
     {
       "content": "Mais si, je suis déguisé\nen DDo, le prince des ténèbres.",
       "end": 40,
+      "heatValue": 13,
       "start": 36
     },
     {
       "content": "Cool.\nJe ne connaissais pas.",
       "end": 43,
+      "heatValue": 5,
       "start": 41
     },
     {
       "content": "C'était cool, mais j'étais quand même\ndans une soirée sans mon copain avec\ndes gens que je connaissais pas trop.",
       "end": 46,
+      "heatValue": 3,
       "start": 43
     },
     {
       "content": "Mon copain est arrivé, il m'a vu.",
       "end": 48,
+      "heatValue": 3,
       "start": 46
     },
     {
       "content": "J'ai vu qu'il m'avait vue,\nmais il n'est pas venu me voir.",
       "end": 50,
+      "heatValue": 3,
       "start": 48
     },
     {
       "content": "Alors j'y suis allé.",
       "end": 52,
+      "heatValue": 11,
       "start": 50
     },
     {
       "content": "Je lui ai fait une blague,\nil a pas rigolé.",
       "end": 55,
+      "heatValue": 12,
       "start": 52
     },
     {
       "content": "Il m'a demandé.\nQu'est-ce que tu fais là ?",
       "end": 56,
+      "heatValue": 4,
       "start": 55
     },
     {
       "content": "J'ai voulu lui dire: Il faut\nqu'on parle, mais il a fait comme\ns'il avait reçu un texto, alors\nje lui ai fait le coup de la cigarette.",
       "end": 61,
+      "heatValue": 8,
       "start": 57
     },
     {
       "content": "Je lui ai dit: J'ai fumé.",
       "end": 63,
+      "heatValue": 11,
       "start": 61
     },
     {
       "content": "Tu me lèves ?\nIl m'a dit: Non.",
       "end": 65,
+      "heatValue": 12,
       "start": 64
     },
     {
       "content": "J'ai eu envie de pleurer.\nJe suis partie.",
       "end": 67,
+      "heatValue": 16,
       "start": 65
     },
     {
       "content": "J'ai bousculé ce mec,\nil m'a dit: Et après...",
       "end": 71,
+      "heatValue": 24,
       "start": 67
     },
     {
       "content": "Je n'ai pas envie d'en parler.",
       "end": 74,
+      "heatValue": 29,
       "start": 71
     },
     {
       "content": "Bref, j'ai fait une soirée déguisée.",
       "end": 77,
+      "heatValue": 27,
       "start": 74
     },
     {
       "content": "Mais si, Dédot, Dédot,\nle prince des ténèbres.",
       "end": 81,
+      "heatValue": 18,
       "start": 77
     },
     {
       "content": "Et tout à l'heure: Tu t'es pas\nrend, tu t'es pas rend.",
       "end": 87,
+      "heatValue": 23,
       "start": 81
     },
     {
       "content": "Non, je connais pas.",
       "end": 89,
+      "heatValue": 35,
       "start": 88
     },
     {
       "content": "Mais si, Tu peux me tenir ça toute ta vie.",
       "end": 92,
+      "heatValue": 52,
       "start": 89
     }
   ],
   "video": {
+    "commentCount": 347,
     "id": "m7Y624w6MFU",
-    "viewcount": 5600000
+    "isAgeRestricted": false,
+    "likeCount": 69621,
+    "viewCount": 5660756
   }
 }

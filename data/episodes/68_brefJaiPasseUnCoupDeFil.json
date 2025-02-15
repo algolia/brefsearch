@@ -12,311 +12,375 @@
     {
       "content": "Bref, ce soir-là,\non devait aller au cinéma.",
       "end": 3,
+      "heatValue": 45,
       "start": 2
     },
     {
       "content": "J'ai appelé Ben pour savoir\nquel film on allait voir.",
       "end": 5,
+      "heatValue": 31,
       "start": 3
     },
     {
       "content": "Je suis tombé sur sa messagerie,\nje lui ai laissé un message.",
       "end": 7,
+      "heatValue": 26,
       "start": 5
     },
     {
       "content": "Ben, dis-moi, je voulais savoir\nquel film on allait...",
       "end": 9,
+      "heatValue": 24,
       "start": 7
     },
     {
       "content": "Attends, c'est toi qui me rappelle.",
       "end": 10,
+      "heatValue": 21,
       "start": 9
     },
     {
       "content": "J'ai voulu prendre l'appel,\nmais comme d'hab, ça marchait pas.",
       "end": 12,
+      "heatValue": 20,
       "start": 10
     },
     {
       "content": "J'ai rappuyé, j'ai dit:\nIl avait raccroché.",
       "end": 14,
+      "heatValue": 17,
       "start": 12
     },
     {
       "content": "J'ai rappelé: Je suis\ntombé sur sa messagerie.",
       "end": 17,
+      "heatValue": 15,
       "start": 14
     },
     {
       "content": "Rappelle-moi,\nje n'arrive pas à se joindre.",
       "end": 19,
+      "heatValue": 12,
       "start": 17
     },
     {
       "content": "J'ai écouté ma messagerie.",
       "end": 21,
+      "heatValue": 10,
       "start": 19
     },
     {
       "content": "Rappelle-moi,\nje n'arrive pas à se joindre.",
       "end": 22,
+      "heatValue": 9,
       "start": 21
     },
     {
       "content": "J'ai compris qu'on était piégé.\nJ'ai décidé d'attendre qu'il me rappelle.",
       "end": 25,
+      "heatValue": 8,
       "start": 22
     },
     {
       "content": "Je me suis dit qu'il devait faire\nla même chose, alors je l'ai rappelé.",
       "end": 27,
+      "heatValue": 7,
       "start": 25
     },
     {
       "content": "Je suis tombé sur sa messagerie.",
       "end": 29,
+      "heatValue": 6,
       "start": 27
     },
     {
       "content": "Je suis retour de Ben,\nc'est mon message, ciao.",
       "end": 30,
+      "heatValue": 5,
       "start": 29
     },
     {
       "content": "J'ai raccroché, mon téléphone a sonné.\nAllô ?",
       "end": 32,
+      "heatValue": 5,
       "start": 30
     },
     {
       "content": "Ouais.",
       "end": 32,
+      "heatValue": 5,
       "start": 32
     },
     {
       "content": "C'était Baptiste qui me disait\nqu'il arrivait pas à joindre Ben.",
       "end": 34,
+      "heatValue": 5,
       "start": 32
     },
     {
       "content": "Je n'arrive pas à joindre Ben.",
       "end": 35,
+      "heatValue": 4,
       "start": 34
     },
     {
       "content": "Pendant que je parle avec lui,\nBen m'a rappelé.",
       "end": 36,
+      "heatValue": 4,
       "start": 35
     },
     {
       "content": "Attends, il m'appelle.\nCool.",
       "end": 37,
+      "heatValue": 4,
       "start": 36
     },
     {
       "content": "Dis-lui que j'essaie de le joindre.",
       "end": 39,
+      "heatValue": 4,
       "start": 37
     },
     {
       "content": "J'ai mis Baptiste en attente.\nAllô ?",
       "end": 40,
+      "heatValue": 4,
       "start": 39
     },
     {
       "content": "Ouais, c'était pour savoir quelle fille...\nAttends, il y a Julien qui m'appelle.",
       "end": 42,
+      "heatValue": 4,
       "start": 40
     },
     {
       "content": "Il m'a mis en attente.\nOuais, Julien.",
       "end": 44,
+      "heatValue": 4,
       "start": 42
     },
     {
       "content": "Il y a Baptiste\nqui essayait de le joindre.",
       "end": 45,
+      "heatValue": 4,
       "start": 44
     },
     {
       "content": "J'ai repris Baptiste.\nTu m'as dit que j'essaie de le joindre.",
       "end": 47,
+      "heatValue": 4,
       "start": 45
     },
     {
       "content": "Je lui ai dit que je n'avais pas eu\nle temps vu que Julien l'avait appelé.",
       "end": 49,
+      "heatValue": 5,
       "start": 47
     },
     {
       "content": "Mon téléphone fixe a sonné.",
       "end": 50,
+      "heatValue": 5,
       "start": 49
     },
     {
       "content": "Il y a mon téléphone fixe\nqui sonne, c'est chelou.",
       "end": 51,
+      "heatValue": 5,
       "start": 50
     },
     {
       "content": "C'est qui ?\nAllô ?",
       "end": 54,
+      "heatValue": 6,
       "start": 51
     },
     {
       "content": "C'était Charles, il appelait d'une cabine.\nOuais, c'est Charles.",
       "end": 56,
+      "heatValue": 6,
       "start": 54
     },
     {
       "content": "Putain, j'ai perdu mon portable\net tu es le seul qui est dans l'annuaire.",
       "end": 58,
+      "heatValue": 6,
       "start": 56
     },
     {
       "content": "Ouais, ouais.\nOui, oui.",
       "end": 59,
+      "heatValue": 6,
       "start": 59
     },
     {
       "content": "Oui, oui.\nOui, oui.",
       "end": 59,
+      "heatValue": 6,
       "start": 59
     },
     {
       "content": "Oui, oui.\nOui, C'est qui ?",
       "end": 60,
+      "heatValue": 7,
       "start": 59
     },
     {
       "content": "J'ai eu un double appel de Xavier.\nChristophe, c'est Xavier.",
       "end": 62,
+      "heatValue": 13,
       "start": 60
     },
     {
       "content": "Je ne connaissais pas de Xavier\net je ne m'appelais pas Christophe,\nalors j'ai dit: Désolé, c'est une erreur.",
       "end": 65,
+      "heatValue": 14,
       "start": 62
     },
     {
       "content": "Charles a dit: Tu peux dire\nà Baptiste que je vais être en retard ?",
       "end": 67,
+      "heatValue": 14,
       "start": 65
     },
     {
       "content": "Charles sera en retard.",
       "end": 69,
+      "heatValue": 7,
       "start": 67
     },
     {
       "content": "C'est qui Charles ?\nCharles a dit merci et a raccroché.",
       "end": 72,
+      "heatValue": 7,
       "start": 69
     },
     {
       "content": "Pendant ce temps,\nBen avait fini avec Julien.",
       "end": 73,
+      "heatValue": 7,
       "start": 72
     },
     {
       "content": "J'ai raccroché avec Xavier\net j'ai récupéré Baptiste.",
       "end": 74,
+      "heatValue": 6,
       "start": 73
     },
     {
       "content": "C'est qui ?\nC'était Charles.",
       "end": 76,
+      "heatValue": 5,
       "start": 74
     },
     {
       "content": "Dis-lui que c'est moi qui ai son portable.\nIl a raccroché.",
       "end": 78,
+      "heatValue": 4,
       "start": 76
     },
     {
       "content": "Je l'appelle.",
       "end": 79,
+      "heatValue": 3,
       "start": 78
     },
     {
       "content": "J'ai voulu lui dire qu'il ne pouvait\npas l'appeler vu que c'est lui qui avait\nson portable, mais il avait raccroché.",
       "end": 82,
+      "heatValue": 3,
       "start": 79
     },
     {
       "content": "Pendant ce temps, Ben essayait\nde me reprendre, mais il entendait rien.",
       "end": 84,
+      "heatValue": 2,
       "start": 82
     },
     {
       "content": "Il a raccroché.\nDu coup, j'ai voulu le reprendre.",
       "end": 85,
+      "heatValue": 1,
       "start": 84
     },
     {
       "content": "Ben ?\nIl n'y avait plus personne au bout du fil.",
       "end": 87,
+      "heatValue": 1,
       "start": 85
     },
     {
       "content": "Alors j'ai rappelé Ben,\nje suis tombé sur sa messagerie.",
       "end": 89,
+      "heatValue": 0,
       "start": 87
     },
     {
       "content": "Rappelle-moi,\nJe n'arrive pas à te joindre.",
       "end": 91,
+      "heatValue": 0,
       "start": 89
     },
     {
       "content": "Putain, j'ai compris qu'on était repiégé.",
       "end": 92,
+      "heatValue": 0,
       "start": 91
     },
     {
       "content": "J'ai décidé d'attendre qu'il me rappelle.",
       "end": 93,
+      "heatValue": 0,
       "start": 92
     },
     {
       "content": "Je me suis dit qu'il devait refaire la\nmême chose, alors je l'ai rappelé vite.",
       "end": 96,
+      "heatValue": 1,
       "start": 93
     },
     {
       "content": "Allô ?\nYes.",
       "end": 97,
+      "heatValue": 1,
       "start": 96
     },
     {
       "content": "C'est pour te dire, il y a Baptiste\nqui essaite de te joindre.",
       "end": 99,
+      "heatValue": 2,
       "start": 97
     },
     {
       "content": "Ouais, Julien me l'a dit.\nJe l'appelle.",
       "end": 101,
+      "heatValue": 4,
       "start": 99
     },
     {
       "content": "Cool, à tout à l'heure.",
       "end": 103,
+      "heatValue": 5,
       "start": 101
     },
     {
       "content": "J'ai raccroché et je ne savais\ntoujours pas quel film on allait voir.",
       "end": 106,
+      "heatValue": 10,
       "start": 103
     },
     {
       "content": "Bref, j'ai passé un coup de fil..",
       "end": 108,
+      "heatValue": 18,
       "start": 106
     }
   ],
   "video": {
+    "commentCount": 348,
     "id": "8matlnmBY98",
-    "viewcount": 5000000
+    "isAgeRestricted": false,
+    "likeCount": 76290,
+    "viewCount": 5070086
   }
 }

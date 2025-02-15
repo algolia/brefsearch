@@ -12,256 +12,309 @@
     {
       "content": "Il perd de l'ose.",
       "end": 2,
+      "heatValue": 71,
       "start": 0
     },
     {
       "content": "Donne mal à de mal à de mal.\nBref, lui, c'est Charles.",
       "end": 3,
+      "heatValue": 65,
       "start": 2
     },
     {
       "content": "Il adore se déguiser dans les soirées\ndéguisées, jouer à la console\ndans les soirées console\net chanter dans les karaokés.",
       "end": 7,
+      "heatValue": 45,
       "start": 3
     },
     {
       "content": "Il voit toujours le bon côté des choses.",
       "end": 9,
+      "heatValue": 36,
       "start": 7
     },
     {
       "content": "Oui, j'ai un peu la chasse,\nmais c'est bien, ça me purge.",
       "end": 13,
+      "heatValue": 38,
       "start": 9
     },
     {
       "content": "Au début, c'était juste un pote.",
       "end": 15,
+      "heatValue": 44,
       "start": 13
     },
     {
       "content": "Et comme tous les potes,\non a pissé dans la mer.",
       "end": 17,
+      "heatValue": 56,
       "start": 15
     },
     {
       "content": "On s'est envoyé des textos pour parler\nde gens qui étaient juste à côté de nous.",
       "end": 20,
+      "heatValue": 62,
       "start": 17
     },
     {
       "content": "On a pissé dans la neige.",
       "end": 22,
+      "heatValue": 61,
       "start": 20
     },
     {
       "content": "Quand j'oubliais mon portable,\nil twitte à ma place et on a pissé\nd'un balcon, mais on était bourré.\nPardon madame.",
       "end": 27,
+      "heatValue": 39,
       "start": 22
     },
     {
       "content": "Pardon.\nC'est pas contre vous.",
       "end": 30,
+      "heatValue": 16,
       "start": 27
     },
     {
       "content": "Un soir, il est resté dormir à la maison.\nOn a parlé jusqu'à 4h00 du matin.",
       "end": 34,
+      "heatValue": 13,
       "start": 30
     },
     {
       "content": "On s'est fait des répliques de film.",
       "end": 35,
+      "heatValue": 14,
       "start": 34
     },
     {
       "content": "Tu ne sais donc pas que\nce n'est pas bien d'être raciste.",
       "end": 36,
+      "heatValue": 14,
       "start": 35
     },
     {
       "content": "Si tu vomis, vomis là-dedans.",
       "end": 39,
+      "heatValue": 16,
       "start": 36
     },
     {
       "content": "Netsu kaw !",
       "end": 40,
+      "heatValue": 20,
       "start": 39
     },
     {
       "content": "Netsu kaw !",
       "end": 41,
+      "heatValue": 20,
       "start": 40
     },
     {
       "content": "Le lendemain, c'était un ami.",
       "end": 43,
+      "heatValue": 20,
       "start": 41
     },
     {
       "content": "On s'est et je t'aime\ncomme des vrais mecs.",
       "end": 46,
+      "heatValue": 19,
       "start": 43
     },
     {
       "content": "Bâtard, va !\nSalent de cuir.",
       "end": 47,
+      "heatValue": 17,
       "start": 46
     },
     {
       "content": "On s'est recommandé des capotes.",
       "end": 48,
+      "heatValue": 16,
       "start": 47
     },
     {
       "content": "Elles sont tellement bien que des fois,\nje les utilise tout seuls.",
       "end": 50,
+      "heatValue": 15,
       "start": 48
     },
     {
       "content": "On avait usé toutes nos répliques\nde films, du coup, on est allé au cinéma.",
       "end": 53,
+      "heatValue": 13,
       "start": 50
     },
     {
       "content": "Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
       "end": 55,
+      "heatValue": 13,
       "start": 53
     },
     {
       "content": "C'était pourri, mais on avait\ndes nouvelles phrases.",
       "end": 57,
+      "heatValue": 13,
       "start": 55
     },
     {
       "content": "Capitaine, capitaine,\nvous n'êtes pas le capitaine.",
       "end": 59,
+      "heatValue": 14,
       "start": 57
     },
     {
       "content": "Quand je passais une journée\navec lui, j'avais l'impression\nqu'elle durait cinq secondes.",
       "end": 63,
+      "heatValue": 12,
       "start": 59
     },
     {
       "content": "Je vais chez la meuf, je sonne\nune fois, deux fois, trois fois.",
       "end": 66,
+      "heatValue": 10,
       "start": 63
     },
     {
       "content": "Elle me fait: C'est qui ?\nJe fais: C'est Charles.",
       "end": 69,
+      "heatValue": 9,
       "start": 67
     },
     {
       "content": "Attends, elle me reconnaît pas.",
       "end": 71,
+      "heatValue": 8,
       "start": 69
     },
     {
       "content": "La meuf, ça fait 15 fois que je la vois.",
       "end": 73,
+      "heatValue": 7,
       "start": 71
     },
     {
       "content": "Je dis: Vas-y, rentre.",
       "end": 75,
+      "heatValue": 7,
       "start": 73
     },
     {
       "content": "Ok, je rentre.",
       "end": 77,
+      "heatValue": 6,
       "start": 75
     },
     {
       "content": "Il y en a là, sur qui il fonde.\nIl me fonde le mec.",
       "end": 79,
+      "heatValue": 7,
       "start": 77
     },
     {
       "content": "Le mec, il m'a regardé.",
       "end": 80,
+      "heatValue": 8,
       "start": 79
     },
     {
       "content": "Il m'a regardé.\nBref.",
       "end": 82,
+      "heatValue": 9,
       "start": 80
     },
     {
       "content": "J'aimais bien sa façon de parler.",
       "end": 83,
+      "heatValue": 10,
       "start": 82
     },
     {
       "content": "Mais au bout d'un moment,\nje me suis rendu compte d'un truc.",
       "end": 85,
+      "heatValue": 11,
       "start": 83
     },
     {
       "content": "Capitaine, capitaine,\nvous êtes pas la capitaine.",
       "end": 88,
+      "heatValue": 12,
       "start": 85
     },
     {
       "content": "Il faisait la même chose\navec tout le monde.",
       "end": 90,
+      "heatValue": 14,
       "start": 88
     },
     {
       "content": "En fait, c'était juste un pote.",
       "end": 92,
+      "heatValue": 15,
       "start": 90
     },
     {
       "content": "Et puis un jour, il m'a appelé\net il m'a dit: On peut se voir là ?",
       "end": 95,
+      "heatValue": 18,
       "start": 92
     },
     {
       "content": "Je n'ai pas trop le moral en ce moment.",
       "end": 97,
+      "heatValue": 20,
       "start": 95
     },
     {
       "content": "J'ai trouvé ça un peu facile,\nalors je lui ai répondu.",
       "end": 98,
+      "heatValue": 25,
       "start": 97
     },
     {
       "content": "Non, je n'ai pas le temps, mon pote.\nAh bon ?",
       "end": 101,
+      "heatValue": 29,
       "start": 98
     },
     {
       "content": "Ouais, désolé.",
       "end": 104,
+      "heatValue": 35,
       "start": 101
     },
     {
       "content": "Salut.\nBref, j'ai juste un pote.",
       "end": 109,
+      "heatValue": 27,
       "start": 106
     },
     {
       "content": "Capitaine, capitaine,\nn'êtes-ce pas le capitaine ?",
       "end": 113,
+      "heatValue": 22,
       "start": 109
     },
     {
       "content": "Ça te fait rire, ça ?",
       "end": 115,
+      "heatValue": 19,
       "start": 114
     },
     {
       "content": "Ouais..",
       "end": 118,
+      "heatValue": 14,
       "start": 116
     }
   ],
   "video": {
+    "commentCount": 1000,
     "id": "ZbGrzgcO68A",
-    "viewcount": 8800000
+    "isAgeRestricted": false,
+    "likeCount": 117672,
+    "viewCount": 8812723
   }
 }

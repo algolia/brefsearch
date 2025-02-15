@@ -1,16 +1,19 @@
 {
   "episode": {
+    "commentCount": 1000,
     "durationHuman": "2:13",
     "durationInSeconds": 133,
     "index": 76,
+    "likeCount": 133758,
     "name": "Bref. Je suis en mode survie.",
     "slug": "brefJeSuisEnModeSurvie",
     "videoId": "ZQHDDjV-KgQ",
-    "viewcount": 11000000
+    "viewcount": 11710298
   },
   "line": {
     "content": "Après, pendant deux semaines, je mange\ndes chips, des cacahuètes et des olives.",
     "end": 101,
+    "heatValue": 34,
     "index": 36,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=99s"

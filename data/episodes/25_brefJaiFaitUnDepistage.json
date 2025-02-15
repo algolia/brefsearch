@@ -12,176 +12,213 @@
     {
       "content": "Bref, c'était un soir\navec Marla, je me suis arrêté.",
       "end": 4,
+      "heatValue": 87,
       "start": 2
     },
     {
       "content": "Elle m'a dit: Je lui ai dit que c'était\ntrop agréable pour pas être un problème.",
       "end": 7,
+      "heatValue": 86,
       "start": 4
     },
     {
       "content": "La capote avait craqué,\nMarla avait craqué.",
       "end": 9,
+      "heatValue": 81,
       "start": 7
     },
     {
       "content": "T'es qu'un con !\nJ'ai craqué.",
       "end": 10,
+      "heatValue": 75,
       "start": 9
     },
     {
       "content": "T'as pas pincé le réservoir ?\nSi, si, j'ai pincé le réservoir.",
       "end": 12,
+      "heatValue": 69,
       "start": 10
     },
     {
       "content": "J'avais pas pincé le réservoir.\nMarla m'a demandé d'aller faire un test.",
       "end": 14,
+      "heatValue": 62,
       "start": 12
     },
     {
       "content": "Dans la salle d'attente, j'ai essayé\nde deviner qui pouvait avoir le sida.",
       "end": 18,
+      "heatValue": 48,
       "start": 14
     },
     {
       "content": "J'ai trouvé ça méchant, mais marrant.",
       "end": 20,
+      "heatValue": 35,
       "start": 19
     },
     {
       "content": "Ensuite, j'ai entendu un couple essayer\nde deviner si j'avais le sida.",
       "end": 23,
+      "heatValue": 35,
       "start": 20
     },
     {
       "content": "Lui, j'ai sûr, il...",
       "end": 24,
+      "heatValue": 34,
       "start": 23
     },
     {
       "content": "J'ai trouvé ça méchant et pas marrant.",
       "end": 26,
+      "heatValue": 38,
       "start": 24
     },
     {
       "content": "Pour me changer les idées,\nj'ai regardé les affiches.",
       "end": 30,
+      "heatValue": 41,
       "start": 26
     },
     {
       "content": "Numéro 19.",
       "end": 34,
+      "heatValue": 37,
       "start": 30
     },
     {
       "content": "Ça ne m'a pas changé les idées.\nJ'y suis allé.",
       "end": 36,
+      "heatValue": 28,
       "start": 34
     },
     {
       "content": "J'ai peur des aiguilles.\nL'infirmière m'a dit: On y va ?",
       "end": 38,
+      "heatValue": 20,
       "start": 36
     },
     {
       "content": "J'ai entendu.\nOn y va ?",
       "end": 40,
+      "heatValue": 16,
       "start": 38
     },
     {
       "content": "Elle a dit: Je pique à trois.\nUn, deux.",
       "end": 42,
+      "heatValue": 13,
       "start": 40
     },
     {
       "content": "Attendez, vous comptez un, deux\net à trois, vous piquez ou vous comptez\nun, deux, trois et vous piquez ?\nElle m'a piqué.",
       "end": 48,
+      "heatValue": 11,
       "start": 42
     },
     {
       "content": "Connaisse.",
       "end": 49,
+      "heatValue": 11,
       "start": 48
     },
     {
       "content": "Quand on se fait dépister,\nle pire, c'est l'attente.",
       "end": 51,
+      "heatValue": 9,
       "start": 49
     },
     {
       "content": "L'attente, c'est un mec tout\nle temps à côté de toi qui fait...",
       "end": 52,
+      "heatValue": 8,
       "start": 51
     },
     {
       "content": "Tic toc, tic toc.",
       "end": 57,
+      "heatValue": 6,
       "start": 52
     },
     {
       "content": "J'ai vécu ces 72 heures comme\nsi c'était les dernières.",
       "end": 59,
+      "heatValue": 6,
       "start": 57
     },
     {
       "content": "J'ai bu un café 23h00.",
       "end": 59,
+      "heatValue": 6,
       "start": 59
     },
     {
       "content": "Je me suis vidé une bonbonne\nde crème chantilly dans la bouche.",
       "end": 61,
+      "heatValue": 7,
       "start": 59
     },
     {
       "content": "J'ai regardé des vidéos\nque j'avais jamais osé regarder.",
       "end": 65,
+      "heatValue": 21,
       "start": 61
     },
     {
       "content": "J'ai avoué à mon frère\nque j'avais pété sa Game Boy.",
       "end": 70,
+      "heatValue": 30,
       "start": 68
     },
     {
       "content": "Il m'a giflé, il m'a pris dans ses bras.\nJ'ai filmé mes dernières volontés.",
       "end": 71,
+      "heatValue": 29,
       "start": 70
     },
     {
       "content": "J'espère que quelqu'un va pas C'est\nun plan de soie, mais poisson clown.",
       "end": 77,
+      "heatValue": 25,
       "start": 71
     },
     {
       "content": "Gregor et Julie.\nJ'ai écrit une chanson super émouvante.",
       "end": 78,
+      "heatValue": 21,
       "start": 77
     },
     {
       "content": "Trois jours après, je suis allé\nchercher mes résultats.",
       "end": 84,
+      "heatValue": 17,
       "start": 78
     },
     {
       "content": "C'était négatif, donc positif.\nYes.",
       "end": 87,
+      "heatValue": 16,
       "start": 84
     },
     {
       "content": "Tu peux partir.",
       "end": 90,
+      "heatValue": 19,
       "start": 88
     },
     {
       "content": "Bref, j'ai fait un dépistage.\nCadeau.",
       "end": 96,
+      "heatValue": 11,
       "start": 93
     }
   ],
   "video": {
+    "commentCount": 590,
     "id": "41X9gwbeMxQ",
-    "viewcount": 6800000
+    "isAgeRestricted": false,
+    "likeCount": 79173,
+    "viewCount": 6825279
   }
 }
