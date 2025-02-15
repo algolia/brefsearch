@@ -1,7 +1,7 @@
 'use client';
 
 import { searchClient } from '@/app/utils/algolia';
-import { InstantSearch } from 'react-instantsearch';
+import { Configure, InstantSearch } from 'react-instantsearch';
 import CustomHits from './hits';
 import CustomSearchbox from './searchbox';
 
@@ -12,6 +12,7 @@ const Search = () => {
         searchClient={searchClient}
         indexName={process.env.NEXT_PUBLIC_ALG_INDEX_NAME!}
       >
+        <Configure hitsPerPage={18} />
         <CustomSearchbox />
         <CustomHits />
       </InstantSearch>

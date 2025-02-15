@@ -24,4 +24,30 @@ export type BrefHit = {
     width: number;
   };
   objectID: string;
+
+  _snippetResult: SnippetType;
+  _highlightResult: HighlightType;
+};
+
+export type SnippetType = {
+  line: {
+    content: {
+      matchLevel: string;
+      matchedWords: string[];
+      value: string;
+    };
+  };
+};
+
+export type HighlightType = {
+  episode: {
+    name: {
+      value: string;
+    };
+  };
+  line: {
+    content: {
+      value: string;
+    };
+  };
 };

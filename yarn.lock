@@ -2743,6 +2743,7 @@ __metadata:
   resolution: "brefsearch@workspace:."
   dependencies:
     aberlaas: "npm:2.13.0"
+    classnames: "npm:2.5.1"
     eslint-plugin-react: "npm:7.37.4"
     globals: "npm:15.15.0"
   languageName: unknown
@@ -2975,6 +2976,13 @@ __metadata:
   version: 4.1.0
   resolution: "ci-info@npm:4.1.0"
   checksum: 10c0/0f969ce32a974c542bc8abe4454b220d9d9323bb9415054c92a900faa5fdda0bb222eda68c490127c1d78503510d46b6aca614ecaba5a60515b8ac7e170119e6
+  languageName: node
+  linkType: hard
+
+"classnames@npm:2.5.1":
+  version: 2.5.1
+  resolution: "classnames@npm:2.5.1"
+  checksum: 10c0/afff4f77e62cea2d79c39962980bf316bacb0d7c49e13a21adaadb9221e1c6b9d3cdb829d8bb1b23c406f4e740507f37e1dcf506f7e3b7113d17c5bab787aa69
   languageName: node
   linkType: hard
 
