@@ -1,0 +1,9 @@
+#!/usr/bin/env zsh
+
+yarn run update-episode-lines
+yarn run update-episode-thumbnails
+yarn run update-episode-gifs
+yarn run update-episode-records
+
+yarn run deploy-data-assets
+yarn run deploy-data-algolia

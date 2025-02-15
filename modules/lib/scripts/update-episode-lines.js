@@ -29,4 +29,4 @@ await pMap(
   },
   { concurrency },
 );
-progress.success('Done');
+progress.success('Added all lines to episodes');

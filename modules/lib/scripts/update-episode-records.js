@@ -106,7 +106,7 @@ await pMap(
   },
   { concurrency: concurrencyEpisodes },
 );
-progress.success('Done');
+progress.success('All records generated');
 
 /**
  * Read a JSON record file. Returns {} if file does not exist or is not JSON

@@ -55,4 +55,4 @@ await pMap(
   },
   { concurrency },
 );
-progress.success('Finally!');
+progress.success('All thumbnails generated');

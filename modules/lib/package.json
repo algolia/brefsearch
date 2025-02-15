@@ -26,6 +26,7 @@
     "update-episode-records": "node ./scripts/update-episode-records.js",
     "deploy-data-algolia": "node ./scripts/deploy-data-algolia.js",
     "deploy-data-assets": "cd ../../ && ./scripts/deploy",
+    "update-and-deploy": "cd ../../ && ./scripts/update-and-deploy",
     "compress": "../../scripts/compress",
     "lint": "../../scripts/lint",
     "lint:fix": "../../scripts/lint-fix",

@@ -11,7 +11,7 @@ const episodeCount = episodes.length;
  * Read through all the episode metadata, and their lines and generate a small
  * animated gif for each line of the transcript
  **/
-const progress = spinner();
+const progress = spinner(episodeCount);
 const concurrency = 1;
 await pMap(
   episodes,
@@ -76,4 +76,4 @@ await pMap(
   },
   { concurrency },
 );
-progress.success('Finally!');
+progress.success('All gif generated!');
