@@ -22,7 +22,10 @@ await pMap(
     const vttPath = absolute(`<gitRoot>/data/vtts/${basename}.vtt`);
     const lines = await convertVtt(vttPath);
 
-    episode.lines = lines;
+    episode.lines = {
+      ...episode.lines,
+      ...lines,
+    };
     progress.tick(basename);
 
     await writeJson(episode, episodePath);
