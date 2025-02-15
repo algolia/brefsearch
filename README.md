@@ -42,6 +42,10 @@ convert the initial metadata into records suitable for Algolia.
 ## TODO
 
 ### Data
+- Mark videos as ageRestricted
+- Add like count
+- Add comment count
+- Add heatmap data
 - Proofread the .vtt files (currently 19/80)
 - Make a "no result" page that displays the best punchlines
     - Capitaine, Capitaine, vous n'êtes pas le capitaine

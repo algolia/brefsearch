@@ -21,6 +21,7 @@
   },
   "scripts": {
     "update-episode-lines": "node ./scripts/update-episode-lines.js",
+    "update-episode-counts": "node ./scripts/update-episode-counts.js",
     "update-episode-thumbnails": "node ./scripts/update-episode-thumbnails.js",
     "update-episode-gifs": "node ./scripts/update-episode-gifs.js",
     "update-episode-records": "node ./scripts/update-episode-records.js",
