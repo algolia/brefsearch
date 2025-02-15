@@ -1,6 +1,16 @@
 import path from 'node:path';
-import { absolute, exists, glob, mkdirp, readJson, run, spinner } from 'firost';
-import { pMap } from 'golgoth';
+import {
+  absolute,
+  exists,
+  glob,
+  mkdirp,
+  readJson,
+  run,
+  spinner,
+  writeJson,
+} from 'firost';
+import { _, pMap } from 'golgoth';
+import { convertCounts } from '../convertCounts.js';
 
 const episodes = await glob('01*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
@@ -38,13 +48,48 @@ await pMap(
       await run(downloadCommand, { shell: true });
     }
 
-    // On regarde chaque épisode
-    // On trouve l'id de la video
-    // On appelle yt-dlp pour avoir toutes les data
-    // On extraie ce qui nous intéresse, et on le store sur disque, de manière
-    // brute
-    // On ajoute aux épisodes
+    const countPath = absolute(`<gitRoot>/data/counts/${episodeSlug}.json`);
+    if (!(await exists(countPath))) {
+      progress.tick(
+        `[${episodeIndex}/${episodeCount}] ${episodeSlug} / Extracting metadata`,
+      );
+
+      await mkdirp(path.dirname(countPath));
+
+      const counts = await convertCounts(rawCountPath);
+
+      delete episode.video.viewcount;
+      episode.video.viewCount = counts.viewCount;
+      episode.video.likeCount = counts.likeCount;
+      episode.video.commentCount = counts.commentCount;
+      episode.video.isAgeRestricted = counts.isAgeRestricted;
+
+      _.each(episode.lines, (line) => {
+        line.heatValue = findHeatValue(counts.heatmap, line);
+      });
+
+      await writeJson(episode, episodePath);
+    }
   },
   { concurrency },
 );
 progress.success('All popularity metrics extracted');
+
+/**
+ * Return a score between 1 and 100 for a given line
+ * @param {Array} heatmap Array of heatmap
+ * @param {object} line Line object
+ * @returns {number} Number between 1 and 100
+ */
+function findHeatValue(heatmap, line) {
+  return _.chain(heatmap)
+    .filter((item) => {
+      const hasBeginning = line.start >= item.start && line.start <= item.end;
+      const hasEnding = line.end >= item.start && line.end <= item.end;
+      return hasBeginning || hasEnding;
+    })
+    .map('value')
+    .mean()
+    .round()
+    .value();
+}
