@@ -13,7 +13,7 @@ const progress = spinner(episodes.length);
  * a new record on disk, that includes hard-coded LQIP for the thumbnail image
  **/
 const concurrencyEpisodes = 4;
-const concurrencyLines = 1;
+const concurrencyLines = 2;
 await pMap(
   episodes,
   async (episodePath) => {
@@ -42,6 +42,7 @@ await pMap(
         const record = {
           episode: {
             videoId: episode.video.id,
+            viewcount: episode.video.viewcount,
             name: episode.episode.name,
             index: episode.episode.index,
             slug: episode.episode.slug,

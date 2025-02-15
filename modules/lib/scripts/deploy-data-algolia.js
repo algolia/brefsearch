@@ -16,7 +16,11 @@ import config from '../config.js';
       'episode.index',
       'episode.videoId',
     ],
-    customRanking: ['asc(episode.index)', 'asc(line.index)'],
+    customRanking: [
+      'desc(episode.viewcount)',
+      'asc(episode.index)',
+      'asc(line.index)',
+    ],
     attributeForDistinct: 'episode.videoId',
     distinct: true,
   };
