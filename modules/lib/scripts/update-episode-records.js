@@ -37,6 +37,9 @@ await pMap(
       async (line, lineIndex) => {
         const start = line.start;
         const lineSlug = _.padStart(start, 3, '0');
+        if (lineSlug != '099') {
+          return;
+        }
 
         const thumbnailPath = absolute(
           `<gitRoot>/../brefsearch-images/images/${episodeSlug}/${lineSlug}.png`,
@@ -52,12 +55,10 @@ await pMap(
         const recordFilepath = absolute(
           `<gitRoot>/data/records/${episodeSlug}/${lineSlug}.json`,
         );
-        const existingRecord = (await exists(recordFilepath))
-          ? await readJson(recordFilepath)
-          : {};
+        const existingRecord = await readRecord(recordFilepath);
 
         // Update thumbnail data if thumbnail image is updated
-        const thumbnailData = _.get(existingRecord, 'thumbnail', {});
+        const thumbnailData = { ...existingRecord?.thumbnail };
         const existingThumbnailHash = thumbnailData.hash;
         const newThumbnailHash = await hash(thumbnailPath);
         if (existingThumbnailHash != newThumbnailHash) {
@@ -74,7 +75,7 @@ await pMap(
 
         const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
 
-        const record = {
+        const newRecord = {
           episode: {
             videoId: episode.video.id,
             viewcount: episode.video.viewcount,
@@ -94,7 +95,11 @@ await pMap(
           thumbnail: thumbnailData,
         };
 
-        await writeJson(record, recordFilepath);
+        if (_.isEqual(existingRecord, newRecord)) {
+          return;
+        }
+
+        await writeJson(newRecord, recordFilepath);
       },
       { concurrency: concurrencyLines },
     );
@@ -102,3 +107,20 @@ await pMap(
   { concurrency: concurrencyEpisodes },
 );
 progress.success('Done');
+
+/**
+ * Read a JSON record file. Returns {} if file does not exist or is not JSON
+ * @param {string} recordPath Path to the record fileo
+ * @returns {object} Record object
+ */
+async function readRecord(recordPath) {
+  if (!(await exists(recordPath))) {
+    return {};
+  }
+
+  try {
+    return await readJson(recordPath);
+  } catch (_err) {
+    return {};
+  }
+}
