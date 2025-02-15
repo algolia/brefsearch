@@ -12,7 +12,7 @@ import {
 import { _, pMap } from 'golgoth';
 import { convertCounts } from '../convertCounts.js';
 
-const episodes = await glob('*.json', {
+const episodes = await glob('08*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
 });
 const episodeCount = episodes.length;
@@ -31,49 +31,44 @@ await pMap(
     const videoUrl = `https://www.youtube.com/watch?v=${videoId}`;
     const episodeSlug = path.basename(episodePath, '.json');
 
-    const rawCountPath = absolute(
-      `<gitRoot>/data/counts/raw/${episodeSlug}.json`,
-    );
+    const countPath = absolute(`<gitRoot>/data/counts/${episodeSlug}.json`);
 
-    if (!(await exists(rawCountPath))) {
+    if (!(await exists(countPath))) {
       progress.tick(
         `[${episodeIndex}/${episodeCount}] ${episodeSlug} / Downloading metadata`,
       );
 
-      await mkdirp(path.dirname(rawCountPath));
+      await mkdirp(path.dirname(countPath));
 
       const downloadCommand = [
         'yt-dlp',
         '--cookies-from-browser firefox',
         '-j',
         videoUrl,
-        `> ${rawCountPath}`,
+        `> ${countPath}`,
       ].join(' ');
       await run(downloadCommand, { shell: true });
     }
 
-    const countPath = absolute(`<gitRoot>/data/counts/${episodeSlug}.json`);
-    if (!(await exists(countPath))) {
-      progress.tick(
-        `[${episodeIndex}/${episodeCount}] ${episodeSlug} / Extracting metadata`,
-      );
+    progress.tick(
+      `[${episodeIndex}/${episodeCount}] ${episodeSlug} / Extracting metadata`,
+    );
 
-      await mkdirp(path.dirname(countPath));
+    await mkdirp(path.dirname(countPath));
 
-      const counts = await convertCounts(rawCountPath);
+    const counts = await convertCounts(countPath);
 
-      delete episode.video.viewcount;
-      episode.video.viewCount = counts.viewCount;
-      episode.video.likeCount = counts.likeCount;
-      episode.video.commentCount = counts.commentCount;
-      episode.video.isAgeRestricted = counts.isAgeRestricted;
+    delete episode.video.viewcount;
+    episode.video.viewCount = counts.viewCount;
+    episode.video.likeCount = counts.likeCount;
+    episode.video.commentCount = counts.commentCount;
+    episode.video.isAgeRestricted = counts.isAgeRestricted;
 
-      _.each(episode.lines, (line) => {
-        line.heatValue = findHeatValue(counts.heatmap, line);
-      });
+    _.each(episode.lines, (line) => {
+      line.heatValue = findHeatValue(counts.heatmap, line);
+    });
 
-      await writeJson(episode, episodePath);
-    }
+    await writeJson(episode, episodePath);
   },
   { concurrency },
 );
