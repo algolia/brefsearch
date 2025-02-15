@@ -31,7 +31,6 @@ await pMap(
         const duration = 2;
         const fps = 12;
         const scale = 320;
-        // const maxColors = 256;
 
         const palettePath = absolute(
           `<gitRoot>/../brefsearch-images/images/${basename}/gif/palettes/${paddedIndex}.png`,

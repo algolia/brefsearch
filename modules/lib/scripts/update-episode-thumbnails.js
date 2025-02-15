@@ -33,7 +33,9 @@ await pMap(
           return;
         }
         await mkdirp(path.dirname(thumbnailPath));
-        const command = [
+
+        // Extract thumbnail
+        const extractCommand = [
           'ffmpeg',
           '-y -loglevel error',
           `-ss "${timestamp}"`,
@@ -42,8 +44,11 @@ await pMap(
           '-q:v 2',
           `"${thumbnailPath}"`,
         ].join(' ');
+        await run(extractCommand, { shell: true });
 
-        await run(command, { shell: true });
+        // Compress thumbnail
+        const compressCommand = ['img-min', `"${thumbnailPath}"`].join(' ');
+        await run(compressCommand, { shell: true });
       },
       { concurrency },
     );
