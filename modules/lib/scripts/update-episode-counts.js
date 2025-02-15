@@ -57,6 +57,9 @@ await pMap(
     await mkdirp(path.dirname(countPath));
 
     const counts = await convertCounts(countPath);
+    console.info(counts);
+    // 08
+    // 57
 
     delete episode.video.viewcount;
     episode.video.viewCount = counts.viewCount;
