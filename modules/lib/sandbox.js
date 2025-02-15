@@ -17,32 +17,26 @@ const list = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes/'),
 });
 
+const viewcountRaw = await read('<gitRoot>/tmp/viewcount.txt');
+const viewcount = {};
+_.chain(viewcountRaw)
+  .split('\n')
+  .each((line) => {
+    const [id, count] = line.split('▮');
+    viewcount[id] = count;
+  })
+  .value();
+console.info(viewcount);
+
 const concurrency = 1;
 await pMap(
   list,
   async (filepath) => {
     const item = await readJson(filepath);
     const basename = path.basename(filepath, '.json');
-
-    await pMap(
-      item.lines,
-      async (line, lineIndex) => {
-        const paddedIndex = _.padStart(lineIndex, 2, '0');
-        const start = _.padStart(line.start, 3, '0');
-        const thumbnailFilepath = absolute(
-          `<gitRoot>/../brefsearch-images/pictures/${basename}/${paddedIndex}.png`,
-        );
-        if (!(await exists(thumbnailFilepath))) {
-          console.info({ thumbnailFilepath });
-          return;
-        }
-        const newFilepath = absolute(
-          `<gitRoot>/../brefsearch-images/pictures/${basename}/${start}.png`,
-        );
-        await move(thumbnailFilepath, newFilepath);
-      },
-      { concurrency },
-    );
+    item.video.viewcount = _.parseInt(viewcount[item.video.id]);
+    await writeJson(item, filepath);
+    console.info(item);
   },
   { concurrency },
 );
