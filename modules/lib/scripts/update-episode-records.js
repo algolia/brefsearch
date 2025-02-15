@@ -9,7 +9,7 @@ import {
   writeJson,
 } from 'firost';
 import { _, pMap } from 'golgoth';
-import imoen from 'imoen';
+import { dimensions, hash, lqip } from 'imoen';
 
 const episodes = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
@@ -22,37 +22,58 @@ const progress = spinner(episodes.length);
  **/
 const concurrencyEpisodes = 8;
 const concurrencyLines = 1;
+
 await pMap(
   episodes,
   async (episodePath) => {
     const episode = await readJson(episodePath);
-    const basename = path.basename(episodePath, '.json');
     const videoId = episode.video.id;
     const episodeName = episode.episode.name;
     progress.tick(episodeName);
 
+    const episodeSlug = path.basename(episodePath, '.json');
     await pMap(
       episode.lines,
       async (line, lineIndex) => {
-        const paddedIndex = _.padStart(line.start, 3, '0');
-        const thumbnailBasename = `${basename}/${paddedIndex}.png`;
+        const start = line.start;
+        const lineSlug = _.padStart(start, 3, '0');
+        // const thumbnailBasename = `${basename}/${paddedIndex}.png`;
+
         const thumbnailPath = absolute(
-          `<gitRoot>/../brefsearch-images/images/${thumbnailBasename}`,
+          `<gitRoot>/../brefsearch-images/images/${episodeSlug}/${lineSlug}`,
         );
 
-        const start = line.start;
-        const paddedStart = _.padStart(start, 3, '0');
-        const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
-        const thumbnailUrl = `https://assets.pixelastic.com/brefsearch/${basename}/${paddedIndex}.png`;
-        const gifUrl = `https://assets.pixelastic.com/brefsearch/${basename}/gif/${paddedIndex}.gif`;
         if (!(await exists(thumbnailPath))) {
           throw firostError(
             'BREF_UPDATE_RECORDS_NO_THUMBNAIL',
-            `Could not find a thumbnail for ${episodeName}, ${paddedIndex}s`,
+            `Could not find a thumbnail for ${episodeSlug}/${lineSlug}`,
           );
         }
 
-        const { hash, height, lqip, width } = await imoen(thumbnailPath);
+        const recordFilepath = absolute(
+          `<gitRoot>/data/records/${episodeSlug}/${lineSlug}.json`,
+        );
+        const existingRecord = (await exists(recordFilepath))
+          ? await readJson(recordFilepath)
+          : {};
+
+        // Update thumbnail data if thumbnail image is updated
+        const thumbnailData = _.get(existingRecord, 'thumbnail', {});
+        const existingThumbnailHash = thumbnailData.hash;
+        const newThumbnailHash = await hash(thumbnailPath);
+        if (existingThumbnailHash != newThumbnailHash) {
+          const { width, height } = await dimensions(thumbnailPath);
+          const thumbnailLqip = await lqip(thumbnailPath);
+
+          thumbnailData.hash = newThumbnailHash;
+          thumbnailData.width = width;
+          thumbnailData.height = height;
+          thumbnailData.lqip = thumbnailLqip;
+        }
+        thumbnailData.url = `https://assets.pixelastic.com/brefsearch/${episodeSlug}/${lineSlug}.png`;
+        thumbnailData.gifUrl = `https://assets.pixelastic.com/brefsearch/${episodeSlug}/gif/${lineSlug}.gif`;
+
+        const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
 
         const record = {
           episode: {
@@ -71,19 +92,8 @@ await pMap(
             content: line.content,
             url: videoUrl,
           },
-          thumbnail: {
-            hash,
-            height,
-            lqip,
-            width,
-            url: thumbnailUrl,
-            gifUrl,
-          },
+          thumbnail: {},
         };
-
-        const recordFilepath = absolute(
-          `<gitRoot>/data/records/${basename}/${paddedStart}.json`,
-        );
 
         await writeJson(record, recordFilepath);
       },

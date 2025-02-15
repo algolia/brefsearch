@@ -10,13 +10,13 @@ import config from '../config.js';
     apiKey: config.adminApiKey,
   };
   const settings = {
-    searchableAttributes: ['line.content', 'episode.name'],
+    searchableAttributes: ['unordered(line.content)', 'episode.name'],
+    customRanking: ['asc(episode.index)', 'asc(line.index)'],
     attributesForFaceting: [
       'searchable(episode.name)',
       'episode.index',
       'episode.videoId',
     ],
-    customRanking: ['asc(episode.index)', 'asc(line.index)'],
     attributeForDistinct: 'episode.videoId',
     distinct: true,
   };

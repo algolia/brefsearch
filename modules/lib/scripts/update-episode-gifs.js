@@ -71,17 +71,6 @@ await pMap(
         progress.tick(
           `[${episodeIndex}/${episodeCount}] ${episodeName} (line ${lineIndex}/${lineCount})`,
         );
-
-        // const command = [
-        //   'ffmpeg',
-        //   '-y -loglevel error',
-        //   `-ss ${line.start}`,
-        //   `-i "${videoPath}"`,
-        //   `-t ${duration}`,
-        //   `-vf "fps=${fps},scale=${scale}:-1:flags=lanczos,split[s0][s1];[s0]palettegen=max_colors=${maxColors}:stats_mode=single[p];[s1][p]paletteuse=dither=none"`,
-        //   `"${gifPath}"`,
-        // ].join(' ');
-        // await run(command, { shell: true });
       },
       { concurrency },
     );

@@ -25,6 +25,7 @@
     "update-episode-gifs": "node ./modules/lib/scripts/update-episode-gifs.js",
     "update-episode-records": "node ./modules/lib/scripts/update-episode-records.js",
     "deploy-data-algolia": "node ./modules/lib/scripts/deploy-data-algolia.js",
+    "deploy-data-assets": "./scripts/deploy",
     "ci": "./scripts/ci",
     "compress": "./scripts/compress",
     "lint": "./scripts/lint",
