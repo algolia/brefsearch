@@ -37,16 +37,15 @@ await pMap(
       async (line, lineIndex) => {
         const start = line.start;
         const lineSlug = _.padStart(start, 3, '0');
-        // const thumbnailBasename = `${basename}/${paddedIndex}.png`;
 
         const thumbnailPath = absolute(
-          `<gitRoot>/../brefsearch-images/images/${episodeSlug}/${lineSlug}`,
+          `<gitRoot>/../brefsearch-images/images/${episodeSlug}/${lineSlug}.png`,
         );
 
         if (!(await exists(thumbnailPath))) {
           throw firostError(
             'BREF_UPDATE_RECORDS_NO_THUMBNAIL',
-            `Could not find a thumbnail for ${episodeSlug}/${lineSlug}`,
+            `Could not find a thumbnail for ${episodeSlug}/${lineSlug}.png`,
           );
         }
 
@@ -92,7 +91,7 @@ await pMap(
             content: line.content,
             url: videoUrl,
           },
-          thumbnail: {},
+          thumbnail: thumbnailData,
         };
 
         await writeJson(record, recordFilepath);
