@@ -32,6 +32,7 @@
     "lint": "../../scripts/lint",
     "lint:fix": "../../scripts/lint-fix",
     "test": "../../scripts/test",
-    "test:watch": "../../scripts/test-watch"
+    "test:watch": "../../scripts/test-watch",
+    "dev": "cd ../website && yarn run dev"
   }
 }

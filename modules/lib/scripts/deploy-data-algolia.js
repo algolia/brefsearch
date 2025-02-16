@@ -13,7 +13,7 @@ import config from '../config.js';
     searchableAttributes: ['unordered(line.content)', 'episode.name'],
     customRanking: [
       'asc(episode.index)',
-      'asc(line.heatValue)',
+      'desc(line.heatValue)',
       'asc(line.index)',
     ],
     attributesForFaceting: [

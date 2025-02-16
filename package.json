@@ -34,7 +34,7 @@
     "lint:fix": "./scripts/lint-fix",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch",
-    "deploy": "./scripts/deploy"
+    "dev": "cd ./modules/website && yarn run dev"
   },
   "dependencies": {
     "classnames": "2.5.1",

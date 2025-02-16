@@ -5,6 +5,7 @@ import {
   error as firostError,
   glob,
   readJson,
+  remove,
   spinner,
   writeJson,
 } from 'firost';
@@ -15,6 +16,10 @@ const episodes = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
 });
 const progress = spinner(episodes.length);
+const existingRecords = await glob('**/*.json', {
+  cwd: absolute('<gitRoot>/data/records'),
+});
+const newRecords = [];
 
 /**
  * Loop through all episode metadata, and for each line of the episode, create
@@ -97,6 +102,10 @@ await pMap(
           thumbnail: thumbnailData,
         };
 
+        // Keep track of the record, so we can delete any old record, no longer
+        // needed
+        newRecords.push(recordFilepath);
+
         if (_.isEqual(existingRecord, newRecord)) {
           return;
         }
@@ -108,6 +117,11 @@ await pMap(
   },
   { concurrency: concurrencyEpisodes },
 );
+
+// Delete old records that are no longer needed
+const recordsToDelete = _.difference(existingRecords, newRecords);
+await pMap(recordsToDelete, remove);
+
 progress.success('All records generated');
 
 /**
