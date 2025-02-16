@@ -83,6 +83,7 @@ await pMap(
             viewCount: episode.video.viewCount,
             likeCount: episode.video.likeCount,
             commentCount: episode.video.commentCount,
+            isAgeRestricted: episode.video.isAgeRestricted,
 
             name: episode.episode.name,
             index: episode.episode.index,
