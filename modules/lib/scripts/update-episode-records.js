@@ -59,19 +59,19 @@ await pMap(
         );
         const existingRecord = await readRecord(recordFilepath);
 
-        // Update thumbnail data if thumbnail image is updated
+        // Generate all image metadata
+        // As this takes a lot of time, we skip it if it seems it's already
+        // generated
         const thumbnailData = { ...existingRecord?.thumbnail };
-        const existingThumbnailHash = thumbnailData.hash;
-        const newThumbnailHash = await hash(thumbnailPath);
-        if (existingThumbnailHash != newThumbnailHash) {
-          const { width, height } = await dimensions(thumbnailPath);
-          const thumbnailLqip = await lqip(thumbnailPath);
+        if (!thumbnailData.lqip) {
+          thumbnailData.hash = await hash(thumbnailPath);
+          thumbnailData.lqip = await lqip(thumbnailPath);
 
-          thumbnailData.hash = newThumbnailHash;
+          const { width, height } = await dimensions(thumbnailPath);
           thumbnailData.width = width;
           thumbnailData.height = height;
-          thumbnailData.lqip = thumbnailLqip;
         }
+
         thumbnailData.url = `https://assets.pixelastic.com/brefsearch/${episodeSlug}/${lineSlug}.png`;
         thumbnailData.gifUrl = `https://assets.pixelastic.com/brefsearch/${episodeSlug}/gif/${lineSlug}.gif`;
 
@@ -120,7 +120,7 @@ await pMap(
 
 // Delete old records that are no longer needed
 const recordsToDelete = _.difference(existingRecords, newRecords);
-await pMap(recordsToDelete, remove);
+// await pMap(recordsToDelete, remove);
 
 progress.success('All records generated');
 
