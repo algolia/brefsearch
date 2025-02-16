@@ -120,7 +120,7 @@ await pMap(
 
 // Delete old records that are no longer needed
 const recordsToDelete = _.difference(existingRecords, newRecords);
-// await pMap(recordsToDelete, remove);
+await pMap(recordsToDelete, remove);
 
 progress.success('All records generated');
 
