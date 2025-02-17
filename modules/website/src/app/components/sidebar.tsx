@@ -1,6 +1,5 @@
 import { BrefHit } from '../types';
 import { youtubeGivenTimeUrl } from '../utils/functions';
-import YoutubePlayer from './youtubePlayer';
 
 const Sidebar = ({
   selectedVideo,
@@ -13,7 +12,9 @@ const Sidebar = ({
     <div className="bg-slate-900 sticky top-0 h-screen rounded-lg">
       <header>
         <div className="flex justify-between items-center p-4">
-          <h2 className="text-lg font-bold text-white">Détails de l'épisode</h2>
+          <h2 className="text-lg font-bold text-white">
+            Détails de l&apos;épisode
+          </h2>
           <button
             className="text-white hover:text-blue-500"
             onClick={() => setSelectedVideo(null)}
@@ -40,7 +41,6 @@ const Sidebar = ({
               src={youtubeGivenTimeUrl(
                 selectedVideo.line.url,
                 selectedVideo.line.start,
-                selectedVideo.line.end,
               )}
               allowFullScreen
             ></iframe>

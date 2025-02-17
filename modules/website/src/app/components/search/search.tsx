@@ -7,8 +7,6 @@ import CustomHits from './hits';
 import CustomSearchbox from './searchbox';
 import { useState } from 'react';
 import { BrefHit } from '@/app/types';
-import YoutubePlayer from '../youtubePlayer';
-import { youtubeGivenTimeUrl } from '@/app/utils/functions';
 import Sidebar from '../sidebar';
 
 const Search = () => {
