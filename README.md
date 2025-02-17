@@ -42,8 +42,8 @@ convert the initial metadata into records suitable for Algolia.
 ## TODO
 
 ### Data
-- Proofread the .vtt files (currently 19/80)
-- Make a "no result" page that displays the best punchlines
+- Proofread the .vtt files (currently 52/80)
+- Make an empty quer page, or a query suggestion, that displays the best punchlines
     - Capitaine, Capitaine, vous n'êtes pas le capitaine
     - Energy 3000, la boisson des vrais bonhommes
     - Ah parce que t'es parfait toi peut-être ?
@@ -60,3 +60,7 @@ convert the initial metadata into records suitable for Algolia.
 - Make it a great experience on mobile
 - Add lazylading of images below the fold
 - Warm the Cloudinary cache of the images, so they load faster
+- Maybe force the width with Cloudinary
+- Make the searchbar full  static on top
+- Add a powered by logo
+- Make the video play en entier
