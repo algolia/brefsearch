@@ -71,20 +71,6 @@ const CustomHit = ({
       key={hit.objectID}
       className="relative w-full bg-slate-900 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-xl"
     >
-      <div className="p-4">
-        <h2 className="font-bold text-lg mb-2 text-white dark:text-gray-200 line-clamp-2">
-          {hit.episode.index}. {hit.episode.name}
-        </h2>
-        <div className="flex items-center text-sm text-white dark:text-gray-400">
-          <Clock className="w-4 h-4 mr-1" />
-          <span>{hit.episode.durationHuman}</span>
-          <Eye className="w-4 h-4 ml-4 mr-1" />
-          <span>
-            {hit.episode.viewcount && hit.episode.viewcount.toLocaleString()}{' '}
-            vues
-          </span>
-        </div>
-      </div>
       <div
         role="button"
         className="clip block relative aspect-video"
@@ -129,6 +115,20 @@ const CustomHit = ({
           <Subtitle hit={hit} />
 
           {/* <YoutubePlayer videoId={hit.episode.videoId} /> */}
+        </div>
+      </div>
+      <div className="p-4">
+        <h2 className="font-bold text-lg mb-2 text-white dark:text-gray-200 line-clamp-2">
+          {hit.episode.index}. {hit.episode.name}
+        </h2>
+        <div className="flex items-center text-sm text-white dark:text-gray-400">
+          <Clock className="w-4 h-4 mr-1" />
+          <span>{hit.episode.durationHuman}</span>
+          <Eye className="w-4 h-4 ml-4 mr-1" />
+          <span>
+            {hit.episode.viewcount && hit.episode.viewCount.toLocaleString()}{' '}
+            vues
+          </span>
         </div>
       </div>
     </div>
