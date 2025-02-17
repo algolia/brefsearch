@@ -45,19 +45,19 @@ const CustomHit = ({
       if (!ref.current) return;
       if (isMouseNear) return;
 
-        const { clientX, clientY } = event;
-        const hitElement = ref.current.getBoundingClientRect();
-        const buffer = 100; // Buffer in px around the element
+      const { clientX, clientY } = event;
+      const hitElement = ref.current.getBoundingClientRect();
+      const buffer = 100; // Buffer in px around the element
 
-        const isNear =
-          clientX > hitElement.left - buffer &&
-          clientX < hitElement.right + buffer &&
-          clientY > hitElement.top - buffer &&
-          clientY < hitElement.bottom + buffer;
+      const isNear =
+        clientX > hitElement.left - buffer &&
+        clientX < hitElement.right + buffer &&
+        clientY > hitElement.top - buffer &&
+        clientY < hitElement.bottom + buffer;
 
-        if (isNear) {
-          setIsMouseNear(true);
-        }
+      if (isNear) {
+        setIsMouseNear(true);
+      }
     };
 
     document.addEventListener('mousemove', handleMouseMove);
@@ -76,11 +76,7 @@ const CustomHit = ({
       >
         <div ref={ref} className="relative w-full h-full group">
           {/* Hover GIF */}
-          {isMouseNear && (
-            <AnimatedPreview
-              hit={hit}
-            />
-          )}
+          {isMouseNear && <AnimatedPreview hit={hit} />}
 
           {/* Static Thumbnail (Lazy-loaded below the fold) */}
           {true && hit.thumbnail.url && (
@@ -112,7 +108,7 @@ const CustomHit = ({
           <span>{hit.episode.durationHuman}</span>
           <Eye className="w-4 h-4 ml-4 mr-1" />
           <span>
-            {hit.episode.viewCount && hit.episode.viewCount.toLocaleString()}{' '}
+            {hit.episode.viewcount && hit.episode.viewcount.toLocaleString()}{' '}
             vues
           </span>
         </div>
