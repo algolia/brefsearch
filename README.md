@@ -48,6 +48,8 @@ convert the initial metadata into records suitable for Algolia.
     - Energy 3000, la boisson des vrais bonhommes
     - Ah parce que t'es parfait toi peut-être ?
     - Do you speak english?
+    - Croquette, tu va nous manquer.
+    - Le zèbre court de toutes ses forces; c'est là le prix de sa liberté.
 
 
 ### Frontend
