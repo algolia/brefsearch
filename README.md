@@ -50,6 +50,9 @@ convert the initial metadata into records suitable for Algolia.
     - Do you speak english?
     - Croquette, tu va nous manquer.
     - Le zèbre court de toutes ses forces; c'est là le prix de sa liberté.
+    - Le charme du quartier.
+    - Je m'appelle pas Hey
+    - J'ai plus toute ma tête mais j'ai encore tout mon coeur.
 
 
 ### Frontend
