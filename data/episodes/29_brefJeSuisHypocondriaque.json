@@ -16,13 +16,13 @@
       "start": 4
     },
     {
-      "content": "Mon frère m'a dit: Tu es\nvraiment hippocondriac.",
+      "content": "Mon frère m'a dit:\n— T'es vraiment hypocondriaque.",
       "end": 7,
       "heatValue": 27,
       "start": 6
     },
     {
-      "content": "J'ai dit: Non.\nJe fais juste attention.",
+      "content": "J'ai dit:\n— Non. Je fais juste attention.",
       "end": 10,
       "heatValue": 25,
       "start": 7
@@ -52,25 +52,25 @@
       "start": 15
     },
     {
-      "content": "Faut que je puisse m'en sortir.\nFief, tout.",
+      "content": "— Vomissements de sang.\n— Fièvre.",
       "end": 20,
       "heatValue": 35,
       "start": 17
     },
     {
-      "content": "Fief, tout.",
+      "content": "— Toux.\n— Fièvre, toux.",
       "end": 22,
       "heatValue": 34,
       "start": 20
     },
     {
-      "content": "C'est sûr, je l'ai.",
+      "content": "— C'est sûr, je l'ai.",
       "end": 23,
       "heatValue": 31,
       "start": 22
     },
     {
-      "content": "Si quelqu'un me dit\nque j'ai l'air fatigué.",
+      "content": "Si quelqu'un me dit\nque j'ai l'air fatigué.\n— T'as l'ai fatigué.",
       "end": 24,
       "heatValue": 28,
       "start": 23
@@ -100,7 +100,7 @@
       "start": 30
     },
     {
-      "content": "Dès qu'un pote a besoin\nd'un médicament, il passe chez moi\navant de passer à la pharmacie.\nTu veux du 500 milligrammes ou du 1 000 ?",
+      "content": "Dès qu'un pote a besoin\nd'un médicament, il passe chez moi\navant de passer à la pharmacie.\n— Tu veux du 500 milligrammes ou du 1 000 ?",
       "end": 36,
       "heatValue": 19,
       "start": 33
@@ -112,7 +112,7 @@
       "start": 36
     },
     {
-      "content": "Si quelqu'un est tardu, je le hais.",
+      "content": "Si quelqu'un éternu, je le hais.",
       "end": 41,
       "heatValue": 22,
       "start": 37
@@ -166,13 +166,13 @@
       "start": 57
     },
     {
-      "content": "Quoi ?\nAttends, je vais aller.",
+      "content": "— Quoi ?\n— Attends, je vérifie.",
       "end": 61,
       "heatValue": 41,
       "start": 59
     },
     {
-      "content": "C'est bon.",
+      "content": "— C'est bon.",
       "end": 64,
       "heatValue": 38,
       "start": 61
@@ -184,7 +184,7 @@
       "start": 64
     },
     {
-      "content": "Qu'est-ce que tu fous ?\nJ'arrive.",
+      "content": "— Qu'est-ce que tu fous ?\n— J'arrive.",
       "end": 66,
       "heatValue": 31,
       "start": 65
@@ -196,25 +196,25 @@
       "start": 66
     },
     {
-      "content": "De toute façon, pour reconnaître\nun hippocondriaque, c'est simple.",
+      "content": "De toute façon, pour reconnaître\nun hypocondriaque, c'est simple.",
       "end": 75,
       "heatValue": 21,
       "start": 72
     },
     {
-      "content": "Il suffit de lui dire:\nT'es hippocondriaque.",
+      "content": "Il suffit de lui dire:\n— T'es hypocondriaque.",
       "end": 77,
       "heatValue": 17,
       "start": 75
     },
     {
-      "content": "Il vous répondra: Non.\nJe fais juste attention.",
+      "content": "Il vous répondra:\n— Non. Je fais juste attention.",
       "end": 79,
       "heatValue": 14,
       "start": 77
     },
     {
-      "content": "Bref, je suis hippocondriaque..",
+      "content": "Bref, je suis hypocondriaque.",
       "end": 81,
       "heatValue": 19,
       "start": 79

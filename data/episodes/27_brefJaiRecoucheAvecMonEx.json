@@ -16,7 +16,7 @@
       "start": 1
     },
     {
-      "content": "Ça va pas, je me casse.\nJ'en ai même écrit une chanson triste.",
+      "content": "— Si ça te va pas, je me casse.\nJ'en ai même écrit une chanson triste.\n— Je suis pas là quand tu es là.",
       "end": 5,
       "heatValue": null,
       "start": 3
@@ -34,7 +34,7 @@
       "start": 11
     },
     {
-      "content": "Je connaissais son numéro par cœur.\nMaman ?",
+      "content": "Je connaissais son numéro par cœur.\n— Maman ?",
       "end": 14,
       "heatValue": null,
       "start": 12
@@ -58,7 +58,7 @@
       "start": 17
     },
     {
-      "content": "Je me suis dit: Si elle demande\npourquoi je l'appelle, c'est\nqu'elle veut qu'on se revoit.\nPourquoi tu m'appelles ?",
+      "content": "Je me suis dit: Si elle demande\npourquoi je l'appelle, c'est\nqu'elle veut qu'on se revoit.\n— Pourquoi tu m'appelles ?",
       "end": 21,
       "heatValue": null,
       "start": 18
@@ -70,7 +70,7 @@
       "start": 21
     },
     {
-      "content": "Ensuite, elle m'a dit: OK,\nmais juste un café.",
+      "content": "Ensuite, elle m'a dit:\n— OK, mais juste un café.",
       "end": 23,
       "heatValue": null,
       "start": 21
@@ -88,43 +88,43 @@
       "start": 24
     },
     {
-      "content": "Je l'ai dit à ma cousine,\nt'es pas du tout d'accord.",
+      "content": "— Du coup, je l'ai dit à ma cousine,\nelle était pas du tout d'accord.",
       "end": 28,
       "heatValue": null,
       "start": 25
     },
     {
-      "content": "Et puis, elle a fini par un...\nVoilà, voilà.",
+      "content": "Et puis, elle a fini par un...\n— Voilà, voilà.",
       "end": 31,
       "heatValue": null,
       "start": 28
     },
     {
-      "content": "Elle a rajouté: J'ai un mec.",
+      "content": "Elle a rajouté:\n— J'ai un mec.",
       "end": 32,
       "heatValue": null,
       "start": 31
     },
     {
-      "content": "Il est très gentil.",
+      "content": "— Ah.\n— Il est très gentil.",
       "end": 34,
       "heatValue": null,
       "start": 32
     },
     {
-      "content": "Cool.\nL'informatique, c'est sa grande passion.",
+      "content": "— Cool.\n— L'informatique, c'est sa grande passion.",
       "end": 36,
       "heatValue": null,
       "start": 34
     },
     {
-      "content": "Elle a redit: J'ai dit.",
+      "content": "Elle a redit:\n— Voilà.\nJ'ai dit:",
       "end": 38,
       "heatValue": null,
       "start": 36
     },
     {
-      "content": "Voilà.\nElle a dit: Voilà, voilà.",
+      "content": "— Voilà.\nElle a dit:\n— Voilà, voilà.",
       "end": 43,
       "heatValue": null,
       "start": 38
@@ -178,16 +178,10 @@
       "start": 70
     },
     {
-      "content": "On a rediscuté.\nElle a dit: J'ai dit...",
-      "end": 74,
-      "heatValue": null,
-      "start": 71
-    },
-    {
-      "content": "Elle a redit: Voilà, voilà.",
+      "content": "On a rediscuté.\nElle a dit:\n— Voilà.\nJ'ai dit:\n— Voila\nElle a redit:\n— Voilà, voilà.",
       "end": 75,
       "heatValue": null,
-      "start": 74
+      "start": 71
     },
     {
       "content": "Elle est partie.",
@@ -202,19 +196,19 @@
       "start": 76
     },
     {
-      "content": "Le mec a dit: L'informatique,\nc'est ma grande passion.",
+      "content": "Le mec a dit:\n— L'informatique, c'est ma grande passion.",
       "end": 82,
       "heatValue": null,
       "start": 78
     },
     {
-      "content": "Puis, je vous le facture pas.\nC'était trois fois rien.",
+      "content": "— Puis, je vous le facture pas.\nC'était trois fois rien.",
       "end": 83,
       "heatValue": null,
       "start": 82
     },
     {
-      "content": "Il était gentil.\nC'est vraiment gentil.",
+      "content": "Il était gentil.\n— C'est vraiment gentil.",
       "end": 85,
       "heatValue": null,
       "start": 83
@@ -226,7 +220,7 @@
       "start": 85
     },
     {
-      "content": "Figurez-vous que là,\nj'ai composé le numéro de ma mère.",
+      "content": "— Figurez-vous que là,\nj'ai composé le numéro de ma mère.",
       "end": 92,
       "heatValue": null,
       "start": 89

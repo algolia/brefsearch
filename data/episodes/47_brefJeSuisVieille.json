@@ -22,7 +22,7 @@
       "start": 3
     },
     {
-      "content": "Pour résumer, à chaque fois\nque je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
+      "content": "Bon, alors, pour résumer, à chaque fois\nque je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
       "end": 12,
       "heatValue": 55,
       "start": 7
@@ -46,13 +46,13 @@
       "start": 21
     },
     {
-      "content": "Lui, c'est la solitude.\nIl m'a copaqué partout.",
+      "content": "Lui, c'est la solitude.\nIl m'accompagne partout.",
       "end": 29,
       "heatValue": 40,
       "start": 27
     },
     {
-      "content": "Je Je le vois tous les jours\ndepuis que Paul est parti.",
+      "content": "Je le vois tous les jours\ndepuis que Paul est parti.",
       "end": 31,
       "heatValue": 39,
       "start": 29
@@ -88,7 +88,7 @@
       "start": 39
     },
     {
-      "content": "Il fait pas très beau aujourd'hui.",
+      "content": "— Il fait pas très beau aujourd'hui.",
       "end": 42,
       "heatValue": 25,
       "start": 41
@@ -100,7 +100,7 @@
       "start": 42
     },
     {
-      "content": "Je Il fait très beau aujourd'hui.",
+      "content": "— Il fait pas très beau aujourd'hui.",
       "end": 46,
       "heatValue": 21,
       "start": 44
@@ -112,19 +112,19 @@
       "start": 46
     },
     {
-      "content": "Il fait pas très beau.",
+      "content": "— Il fait pas très beau, hein ?",
       "end": 50,
       "heatValue": 19,
       "start": 48
     },
     {
-      "content": "Oui, avancez, madame.",
+      "content": "— Oui, oui, avancez, madame.",
       "end": 52,
       "heatValue": 20,
       "start": 50
     },
     {
-      "content": "Ils n'ont pas le temps.",
+      "content": "Mais ils n'ont pas le temps.",
       "end": 53,
       "heatValue": 22,
       "start": 52
@@ -142,25 +142,25 @@
       "start": 56
     },
     {
-      "content": "Mamie, tu me regardes !",
+      "content": "— Mamie, tu me regardes !",
       "end": 59,
       "heatValue": 28,
       "start": 57
     },
     {
-      "content": "On était tous Oui.",
+      "content": "— Oui, oui.\n— Aïe.",
       "end": 61,
       "heatValue": 32,
       "start": 59
     },
     {
-      "content": "Et des fois, il me\ndemande: À qui tu parles ?",
+      "content": "Et des fois, il me demande:\n— À qui tu parles ?",
       "end": 66,
       "heatValue": 30,
       "start": 61
     },
     {
-      "content": "À personne.\nAllez, viens.",
+      "content": "— À personne. Allez, viens.",
       "end": 68,
       "heatValue": 25,
       "start": 66
@@ -208,7 +208,7 @@
       "start": 80
     },
     {
-      "content": "Je n'en sais rien, je ne sais pas,\nj'ai pas la solution, c'est ma maman.",
+      "content": "— Je n'en sais rien, je ne sais pas,\nj'ai pas la solution. Ça va, maman ?",
       "end": 86,
       "heatValue": 31,
       "start": 84
@@ -220,25 +220,25 @@
       "start": 86
     },
     {
-      "content": "Je n'ai pas le temps, je suis mal garé.\nOn se voit demain.",
+      "content": "— Salut, mamie !\n— Oh, j'ai pas le temps, là, je suis mal garé. On se voit demain, hein.",
       "end": 90,
       "heatValue": 46,
       "start": 87
     },
     {
-      "content": "À demain.",
+      "content": "— À demain.",
       "end": 91,
       "heatValue": 62,
       "start": 90
     },
     {
-      "content": "Tiens, tu es là, toi ?",
+      "content": "— Tiens, tu es là, toi ?",
       "end": 95,
       "heatValue": 60,
       "start": 93
     },
     {
-      "content": "Viens, on va regarder la télé.",
+      "content": "— Viens, on va regarder la télé.",
       "end": 97,
       "heatValue": 47,
       "start": 95
@@ -250,19 +250,19 @@
       "start": 97
     },
     {
-      "content": "Bonjour.",
+      "content": "— Bonjour.",
       "end": 105,
-      "heatValue": 26,
-      "start": 100
+      "heatValue": 20,
+      "start": 104
     },
     {
-      "content": "Bonjour.",
+      "content": "— Bonjour.",
       "end": 108,
       "heatValue": 13,
       "start": 107
     },
     {
-      "content": "Il ne fait pas très beau aujourd'hui.\nOuais.",
+      "content": "— Il ne fait pas très beau aujourd'hui, hein ?\n— Ouais.",
       "end": 111,
       "heatValue": 11,
       "start": 108

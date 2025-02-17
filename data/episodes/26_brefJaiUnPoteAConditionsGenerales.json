@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "J'aime bien quand c'est côtelé.",
+      "content": "— J'aime bien quand c'est côtelé. Enfin...",
       "end": 1,
       "heatValue": 66,
       "start": 0
@@ -28,13 +28,13 @@
       "start": 3
     },
     {
-      "content": "Je te jure.\nOu encore...",
+      "content": "— Je te jure.\n— Je te jure.\n— Je te jure.\nOu encore...",
       "end": 7,
       "heatValue": 28,
       "start": 5
     },
     {
-      "content": "Tu vois ?",
+      "content": "— Tu vois ?\n— Tu vois ?\n— Tu vois ?",
       "end": 8,
       "heatValue": 24,
       "start": 7
@@ -46,31 +46,25 @@
       "start": 8
     },
     {
-      "content": "Enfin...\nEnfin.",
+      "content": "— Enfin...\n— Enfin...\n— Enfin...",
       "end": 11,
       "heatValue": 18,
       "start": 10
     },
     {
-      "content": "Et puis un jour, j'ai trouvé\nune explication à touser enfin.",
-      "end": 13,
-      "heatValue": 16,
+      "content": "Et puis un jour, j'ai trouvé\nune explication à tout ces \"Enfin\"\nPar exemple, quand je l'appelle et que\nje suis en galère, d'abord, il me dit.",
+      "end": 15,
+      "heatValue": 19,
       "start": 11
     },
     {
-      "content": "Par exemple, quand je l'appelle et que\nje suis en galère, d'abord, il me dit.",
-      "end": 15,
-      "heatValue": 17,
-      "start": 13
-    },
-    {
-      "content": "D'accord, j'arrive tout de suite.\nEnsuite, il me dit: Enfin...",
+      "content": "— D'accord, bha, j'arrive tout de suite.\nEnsuite, il me dit:\n— Enfin...",
       "end": 17,
       "heatValue": 21,
       "start": 15
     },
     {
-      "content": "Là, je suis en week-end,\nmais lundi, je suis là.",
+      "content": "— Là, je suis en week-end,\nmais lundi, je suis là.",
       "end": 18,
       "heatValue": 24,
       "start": 17
@@ -82,7 +76,7 @@
       "start": 18
     },
     {
-      "content": "D'accord, j'arrive tout de suite.\nEnfin...",
+      "content": "— D'accord, j'arrive tout de suite. Enfin...",
       "end": 22,
       "heatValue": 38,
       "start": 20
@@ -94,19 +88,19 @@
       "start": 22
     },
     {
-      "content": "Quand il dit: Tu n'es pas une fille bien ?",
+      "content": "Quand il dit:\n— Tu connais pas une fille bien ?",
       "end": 25,
       "heatValue": 45,
       "start": 23
     },
     {
-      "content": "Parce que moi, vraiment,\nj'ai de l'amour à revendre.",
+      "content": "— Parce que moi, vraiment,\nj'ai de l'amour à revendre.",
       "end": 27,
       "heatValue": 34,
       "start": 25
     },
     {
-      "content": "Enfin...",
+      "content": "— Enfin...",
       "end": 27,
       "heatValue": 28,
       "start": 27
@@ -118,7 +112,7 @@
       "start": 27
     },
     {
-      "content": "Quand il dit: Toi et moi,\nc'est à la vie, à la mort.",
+      "content": "Quand il dit:\n— Toi et moi, c'est à la vie, à la mort.",
       "end": 33,
       "heatValue": 18,
       "start": 29
@@ -130,19 +124,19 @@
       "start": 33
     },
     {
-      "content": "Tu peux garder mon chien\njuste pour ce soir ?",
+      "content": "— Tu peux garder mon chien\njuste pour ce soir ?",
       "end": 36,
       "heatValue": 14,
       "start": 34
     },
     {
-      "content": "Ouais.",
+      "content": "— Ouais.\n— Enfin...",
       "end": 37,
       "heatValue": 13,
       "start": 36
     },
     {
-      "content": "Reconductible automatiquement\nsur une durée indéterminée.",
+      "content": "Offre reconductible automatiquement\nsur une durée indéterminée.",
       "end": 39,
       "heatValue": 12,
       "start": 37
@@ -154,7 +148,7 @@
       "start": 39
     },
     {
-      "content": "Attends, jamais je touche avec de tes ex.",
+      "content": "— Attends, mais jamais je touche avec de tes ex. Enfin...",
       "end": 45,
       "heatValue": 11,
       "start": 43
@@ -166,34 +160,40 @@
       "start": 45
     },
     {
-      "content": "Tu vas dormir à la maison\nquand tu veux, enfin.",
+      "content": "— Nan mais tu viens dormir à la maison\nquand tu veux. Enfin...",
       "end": 49,
       "heatValue": 21,
       "start": 46
     },
     {
-      "content": "Lits non fournis.\nMerci, c'est cool.",
+      "content": "Lits non fournis.\n— Merci, c'est cool.",
       "end": 52,
       "heatValue": 30,
       "start": 49
     },
     {
-      "content": "De rien.\nT'aurais pas un oreiller ?",
+      "content": "— De rien.\n— T'aurais pas un oreiller ?",
       "end": 53,
       "heatValue": 22,
       "start": 52
     },
     {
-      "content": "Bien sûr, je te file ça tout de suite.\nLivraison sous deux semaines.",
+      "content": "— Bien sûr, je te file ça tout de suite. Enfin...\nLivraison sous deux semaines.",
       "end": 56,
       "heatValue": 21,
       "start": 53
     },
     {
-      "content": "J'ai jamais eu d'oreiller,\npar contre, il m'a dit: Regarde\nla fille que je me suis tapée.",
-      "end": 58,
-      "heatValue": 31,
+      "content": "J'ai jamais eu d'oreiller,\npar contre, il m'a dit:",
+      "end": 57,
+      "heatValue": 30,
       "start": 56
+    },
+    {
+      "content": "— Regarde la fille que je me suis tapée. Enfin...",
+      "end": 58,
+      "heatValue": 34,
+      "start": 57
     },
     {
       "content": "Photo non contractuelle.",
@@ -208,7 +208,7 @@
       "start": 60
     },
     {
-      "content": "Et puis, quand mon ex m'a\nquitté, il a dit: C'est la vie.",
+      "content": "Et puis, quand mon ex m'a\nquitté, il a dit:\n— C'est la vie. Enfin...",
       "end": 66,
       "heatValue": 67,
       "start": 62
@@ -226,28 +226,22 @@
       "start": 71
     },
     {
-      "content": "On va boire un verre ?",
+      "content": "— On va boire un verre ?",
       "end": 74,
       "heatValue": 45,
       "start": 72
     },
     {
-      "content": "Ouais.\nBref, j'ai un pote à condition générale.",
+      "content": "— Ouais.\nBref, j'ai un pote à condition générale.",
       "end": 79,
       "heatValue": 31,
       "start": 74
     },
     {
-      "content": "T'as vu ça ?",
+      "content": "— T'as vu ça ?",
       "end": 80,
       "heatValue": 16,
       "start": 79
-    },
-    {
-      "content": "Écris crédit facile,\nil y a au moins 25 conditions.",
-      "end": 82,
-      "heatValue": 13,
-      "start": 80
     }
   ],
   "video": {

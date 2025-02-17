@@ -10,31 +10,25 @@
   },
   "lines": [
     {
-      "content": "Mais non.\nBref, lui, c'est Baptiste.",
+      "content": "Bref, lui, c'est Baptiste.",
       "end": 1,
       "heatValue": 81,
       "start": 0
     },
     {
-      "content": "Ouais, c'est vrai, et toi ?\nNon.",
-      "end": 4,
-      "heatValue": 70,
+      "content": "— Ça va ?\n— Ouais, ça va et toi ?\n— Non\nEt ça, c'est son cœur.",
+      "end": 5,
+      "heatValue": 71,
       "start": 1
     },
     {
-      "content": "Et ça, c'est son cœur.",
-      "end": 5,
-      "heatValue": 64,
-      "start": 4
-    },
-    {
-      "content": "À chaque fois qu'il se met avec une fille,\nil lui donne beaucoup trop de tout.",
+      "content": "À chaque fois qu'il se met avec une fille,\nil lui donne beaucoup trop tôt.",
       "end": 7,
       "heatValue": 62,
       "start": 5
     },
     {
-      "content": "Tiens, tiens, je t'aime.",
+      "content": "— Tiens.\n— Tiens.\n— Je t'aime.",
       "end": 9,
       "heatValue": 56,
       "start": 7
@@ -64,7 +58,7 @@
       "start": 15
     },
     {
-      "content": "Super flippant.",
+      "content": "Super Flippant.",
       "end": 18,
       "heatValue": 20,
       "start": 16
@@ -76,49 +70,43 @@
       "start": 18
     },
     {
-      "content": "Tu as vu ce qu'elle met ?\nJe préfère qu'on se voit demain.",
+      "content": "— Tu as vu ce qu'elle met ?\n\"Je préfère qu'on se voit demain.",
       "end": 23,
       "heatValue": 12,
       "start": 21
     },
     {
-      "content": "Ce soir, je suis fatigué.",
-      "end": 25,
+      "content": "Ce soir, je suis fatiguée.\"\n— À ton avis, ça veut dire quoi ?",
+      "end": 26,
       "heatValue": 10,
       "start": 23
     },
     {
-      "content": "À ton avis, ça veut dire quoi ?",
-      "end": 26,
-      "heatValue": 10,
-      "start": 25
-    },
-    {
-      "content": "Qu'elle préfère te voir demain\nparce qu'elle est fatiguée ?",
+      "content": "— Bha, qu'elle préfère te voir demain\nparce qu'elle est fatiguée ?",
       "end": 28,
       "heatValue": 10,
       "start": 26
     },
     {
-      "content": "Non.",
+      "content": "— Non.",
       "end": 30,
       "heatValue": 10,
       "start": 28
     },
     {
-      "content": "Ça veut dire j'ai trop\nde sentiments pour toi.",
+      "content": "— Ça veut dire j'ai trop\nde sentiments pour toi.",
       "end": 32,
       "heatValue": 11,
       "start": 30
     },
     {
-      "content": "J'ai peur.",
+      "content": "— J'ai peur.",
       "end": 33,
       "heatValue": 11,
       "start": 32
     },
     {
-      "content": "Super flippant.",
+      "content": "Super Flippant.",
       "end": 35,
       "heatValue": 12,
       "start": 33
@@ -130,13 +118,13 @@
       "start": 35
     },
     {
-      "content": "La dernière fois que tu m'as offert\nce T-shirt, ça m'a fait super\nplaisir, alors du coup...",
+      "content": "— La dernière fois que tu m'as offert\nce T-shirt, ça m'a fait super\nplaisir, alors du coup...",
       "end": 43,
       "heatValue": 16,
       "start": 37
     },
     {
-      "content": "Surprise.\nSuperc'est super flippant.",
+      "content": "— Surprise.\nSuper Flippant.",
       "end": 46,
       "heatValue": 19,
       "start": 44
@@ -148,13 +136,13 @@
       "start": 46
     },
     {
-      "content": "Super flippant.\nIl envoie des e-cards.",
+      "content": "Super Flippant.\nIl envoie des e-cards.",
       "end": 52,
       "heatValue": 19,
       "start": 50
     },
     {
-      "content": "Je t'aime plus que ma mère.\nSuper flippant.",
+      "content": "— \"Je t'aime plus que ma mère.\"\nSuper Flippant.",
       "end": 54,
       "heatValue": 19,
       "start": 52
@@ -166,67 +154,67 @@
       "start": 54
     },
     {
-      "content": "Pour modifier votre message, tapez étoile.",
+      "content": "— Pour modifier votre message, tapez étoile.",
       "end": 58,
       "heatValue": 5,
       "start": 56
     },
     {
-      "content": "Salut, salut, salut,\nSalut, c'est Baptiste.",
+      "content": "— Salut.\n— Salut.\n— Salut. C'est Baptiste.",
       "end": 61,
       "heatValue": 3,
       "start": 58
     },
     {
-      "content": "Ça te dit qu'on se voit ce soir ?\nTrop classique.",
+      "content": "— Ça te dit qu'on se voit ce soir ?\nTrop classique.",
       "end": 63,
       "heatValue": 1,
       "start": 61
     },
     {
-      "content": "Ouais, salut, c'est Baptiste.",
+      "content": "— Ouais, salut, c'est Baptiste.",
       "end": 64,
       "heatValue": 1,
       "start": 63
     },
     {
-      "content": "Ça me ferait trop plaisir qu'on se voit.\nJ'ai trop dit trop.",
+      "content": "— Ça me ferait trop trop trop trop plaisir qu'on se voit.\n— J'ai trop dit trop trop là.",
       "end": 69,
       "heatValue": 0,
       "start": 64
     },
     {
-      "content": "Salut, c'est Baptiste.\nSalut, c'est Baptiste.",
+      "content": "— Salut, c'est Baptiste.\n— Salut, c'est Baptiste.",
       "end": 70,
       "heatValue": 0,
       "start": 69
     },
     {
-      "content": "Ouais, salut, c'est moi, c'est Batou.",
+      "content": "— Ouais, salut, c'est moi, c'est Batou.",
       "end": 71,
       "heatValue": 1,
       "start": 70
     },
     {
-      "content": "Salut, c'est Baptiste, il est 23h00.",
+      "content": "— Salut, c'est Baptiste, il est 23h00.",
       "end": 74,
       "heatValue": 2,
       "start": 71
     },
     {
-      "content": "Ça fait un peu tard pour qu'on se voit.",
+      "content": "— Ça fait un peu tard pour qu'on se voit.",
       "end": 78,
       "heatValue": 8,
       "start": 74
     },
     {
-      "content": "À plus, bisous.",
+      "content": "— À plus, bisous.",
       "end": 79,
       "heatValue": 18,
       "start": 78
     },
     {
-      "content": "Super flippant.\nForcément, elle l'a quitté.",
+      "content": "Super Flippant.\nForcément, elle l'a quitté.",
       "end": 82,
       "heatValue": 28,
       "start": 79
@@ -238,19 +226,19 @@
       "start": 82
     },
     {
-      "content": "Et Baptiste est\ndevenuSuper casse-couilles.",
+      "content": "Et Baptiste est devenu\nSuper Casse-Couilles.",
       "end": 86,
       "heatValue": 63,
       "start": 84
     },
     {
-      "content": "Ça va ?\nNon, ça ne va pas.",
+      "content": "— Ça va ?\n— Non, ça va pas.",
       "end": 88,
       "heatValue": 73,
       "start": 86
     },
     {
-      "content": "Pourquoi il l'a quitté ?",
+      "content": "— Pourquoi elle m'a quitté ?",
       "end": 90,
       "heatValue": 80,
       "start": 88
@@ -262,22 +250,10 @@
       "start": 92
     },
     {
-      "content": "Non, tu ne vois pas tes copains ce soir ?",
-      "end": 99,
-      "heatValue": 71,
+      "content": "— Oh non, tu vois pas tes copains ce soir\n— D'accord.\n— Ouais ?\n— Ouais",
+      "end": 101,
+      "heatValue": 70,
       "start": 96
-    },
-    {
-      "content": "D'accord.",
-      "end": 101,
-      "heatValue": 76,
-      "start": 100
-    },
-    {
-      "content": "Ouais.",
-      "end": 101,
-      "heatValue": 76,
-      "start": 101
     }
   ],
   "video": {

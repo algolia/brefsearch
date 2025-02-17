@@ -16,19 +16,19 @@
       "start": 0
     },
     {
-      "content": "Baptiste, mon coloc, est entré\net il a dit: On va faire l'amour.",
+      "content": "Baptiste, mon coloc, est entré\net il a dit:\n— On va faire l'amour.",
       "end": 4,
       "heatValue": 68,
       "start": 2
     },
     {
-      "content": "J'ai remonté mon pantalon.\nNon, pas avec toi, avec Anna.",
+      "content": "J'ai remonté mon pantalon.\n— Mais non, pas avec toi, avec Anna.",
       "end": 7,
       "heatValue": 54,
       "start": 4
     },
     {
-      "content": "J'ai renlevé mon pantalon.\nIl it avec Anna depuis un mois.",
+      "content": "J'ai renlevé mon pantalon.\nIl sortait avec Anna depuis un mois.",
       "end": 9,
       "heatValue": 40,
       "start": 7
@@ -76,19 +76,19 @@
       "start": 23
     },
     {
-      "content": "Bref, il faisait beaucoup de sport\net utilisait beaucoup de bande passée.",
+      "content": "Bref, il faisait beaucoup de sport\net utilisait beaucoup de bande passante.",
       "end": 26,
       "heatValue": 17,
       "start": 24
     },
     {
-      "content": "Tiens, Baptiste, c'est toi qui télécharge.\nAttends, attends.",
+      "content": "— Putain Baptiste, c'est toi qui télécharge ?\n— Attends, attends !",
       "end": 28,
       "heatValue": 19,
       "start": 26
     },
     {
-      "content": "On trouve pas, on trouve pas.",
+      "content": "— Entre pas, entre pas, entre pas !",
       "end": 29,
       "heatValue": 19,
       "start": 28
@@ -100,7 +100,7 @@
       "start": 29
     },
     {
-      "content": "Il m'a répondu.\nC'est cool.",
+      "content": "Il m'a répondu.\n— Ouais, c'est cool.",
       "end": 32,
       "heatValue": 15,
       "start": 30
@@ -118,7 +118,7 @@
       "start": 33
     },
     {
-      "content": "Putain, Baptiste !\nTrop peur !",
+      "content": "— Putain, Baptiste !\n— Entre pas, entre pas !",
       "end": 37,
       "heatValue": 6,
       "start": 35
@@ -130,13 +130,13 @@
       "start": 37
     },
     {
-      "content": "Et aujourd'hui, c'est le grand jour.\nIl me faut des capotes.",
+      "content": "Et aujourd'hui, c'est le grand jour.\n— Il me faut des capotes.",
       "end": 43,
       "heatValue": 1,
       "start": 42
     },
     {
-      "content": "Je lui ai dit: Prends la mienne.\nIl a baissé la tête.",
+      "content": "Je lui ai dit:\n— Bha, prends la mienne.\nIl a baissé la tête.",
       "end": 45,
       "heatValue": 1,
       "start": 43
@@ -154,7 +154,7 @@
       "start": 49
     },
     {
-      "content": "Je suis pas allé en acheter.",
+      "content": "— J'ose pas aller en acheter.",
       "end": 52,
       "heatValue": 21,
       "start": 51
@@ -166,55 +166,55 @@
       "start": 52
     },
     {
-      "content": "S'il te plaît !\nFaut que je baise !",
+      "content": "— S'te plait ! Faut qu'je baise !",
       "end": 55,
       "heatValue": 33,
       "start": 54
     },
     {
-      "content": "On est allé à la pharmacie.\nBonjour.",
+      "content": "On est allé à la pharmacie.\n— Bonjour.",
       "end": 59,
       "heatValue": 34,
       "start": 55
     },
     {
-      "content": "Bonjour.",
+      "content": "— Bonjour.",
       "end": 59,
       "heatValue": 32,
       "start": 59
     },
     {
-      "content": "Vous voudrez une Je vais te faire une\npause de préservatrice, s'il vous plaît.",
+      "content": "— Je voudrai une boite de préservatifs s'il vous plait.",
       "end": 61,
       "heatValue": 33,
       "start": 59
     },
     {
-      "content": "Oui.\nXl.",
+      "content": "— Oui.\n— Xl.",
       "end": 63,
       "heatValue": 38,
       "start": 61
     },
     {
-      "content": "Ah.",
+      "content": "— Ah.",
       "end": 68,
       "heatValue": 38,
       "start": 63
     },
     {
-      "content": "Ah.",
+      "content": "— Ah.",
       "end": 71,
       "heatValue": 41,
       "start": 69
     },
     {
-      "content": "Non.",
+      "content": "— Ah. Non non non.",
       "end": 73,
       "heatValue": 49,
       "start": 72
     },
     {
-      "content": "Oh.",
+      "content": "— Oh.\n— Oh.",
       "end": 75,
       "heatValue": 51,
       "start": 73
@@ -222,8 +222,8 @@
     {
       "content": "La nuit est passée.",
       "end": 84,
-      "heatValue": 33,
-      "start": 79
+      "heatValue": 20,
+      "start": 83
     },
     {
       "content": "Ils ont mis de la musique\njusqu'à 5h00 du matin.",
@@ -238,46 +238,34 @@
       "start": 85
     },
     {
-      "content": "Bref, mon coloc a fait l'amour.\nBonjour.",
+      "content": "Bref, mon coloc a fait l'amour.",
       "end": 98,
       "heatValue": 23,
       "start": 92
     },
     {
-      "content": "Bonjour.",
+      "content": "— Bonjour.\n— Bonjour.",
       "end": 98,
       "heatValue": 22,
       "start": 98
     },
     {
-      "content": "Je voudrais une boîte\nde préservatifs, s'il vous plaît.",
+      "content": "— Je voudrais une boîte\nde préservatifs, s'il vous plaît.",
       "end": 100,
       "heatValue": 23,
       "start": 98
     },
     {
-      "content": "Dixel.\nNon.",
+      "content": "— XL ?\n— Non.",
       "end": 100,
       "heatValue": 24,
       "start": 100
     },
     {
-      "content": "A.\nC'est pas...",
+      "content": "— Ah.",
       "end": 100,
       "heatValue": 24,
       "start": 100
-    },
-    {
-      "content": "El.\nNon.",
-      "end": 102,
-      "heatValue": 25,
-      "start": 100
-    },
-    {
-      "content": "Ah.",
-      "end": 102,
-      "heatValue": 27,
-      "start": 102
     }
   ],
   "video": {

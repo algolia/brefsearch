@@ -22,16 +22,10 @@
       "start": 3
     },
     {
-      "content": "Fais chaud, moi, si tu peux.",
-      "end": 11,
-      "heatValue": 30,
-      "start": 10
-    },
-    {
-      "content": "Elle a sorti ses cartes.\nJe raconte ma vie.",
+      "content": "\"Pécho moi si tu peux\"\nElle a sorti ses cartes \"Je raconte ma vie\".",
       "end": 13,
       "heatValue": 31,
-      "start": 11
+      "start": 10
     },
     {
       "content": "J'étais super concentré.",
@@ -40,13 +34,13 @@
       "start": 13
     },
     {
-      "content": "Elle a dit: J'ai une petite\nnièce, elle s'appelle Chloé.",
+      "content": "Elle a dit:\n— J'ai une petite nièce, elle s'appelle Chloé.",
       "end": 16,
       "heatValue": 26,
       "start": 13
     },
     {
-      "content": "Elle est trop choute.\nElle adore la musique.",
+      "content": "— Elle est trop choute.\n— Elle adore la musique.",
       "end": 19,
       "heatValue": 18,
       "start": 16
@@ -58,7 +52,7 @@
       "start": 19
     },
     {
-      "content": "Par contre, ma tante, depuis qu'elle est\navec Thierry, elle va pas bien.",
+      "content": "— Par contre, ma tante, depuis qu'elle est\navec Thierry, elle va pas bien.",
       "end": 24,
       "heatValue": 13,
       "start": 21
@@ -76,19 +70,19 @@
       "start": 26
     },
     {
-      "content": "J'ai posé deux cartes.\nArgument.",
+      "content": "J'ai posé deux cartes \"Argument\".",
       "end": 29,
       "heatValue": 19,
       "start": 28
     },
     {
-      "content": "J'avais Je suis mes parents.",
+      "content": "— J'habite plus chez mes parents.",
       "end": 30,
       "heatValue": 21,
       "start": 29
     },
     {
-      "content": "Je joue de la guitare.",
+      "content": "— Et je joue de la guitare.",
       "end": 32,
       "heatValue": 22,
       "start": 30
@@ -96,23 +90,23 @@
     {
       "content": "Un moment, le serveur est arrivé\net il a posé une carte:",
       "end": 37,
-      "heatValue": 27,
-      "start": 32
+      "heatValue": 29,
+      "start": 35
     },
     {
-      "content": "Je sais faire des cocktails.",
-      "end": 38,
-      "heatValue": 30,
+      "content": "\"Je sais faire des cocktails.\"\nJ'ai sorti ma carte: \"Mec, t'es\nqu'un serveur\", en disant:",
+      "end": 41,
+      "heatValue": 31,
       "start": 37
     },
     {
-      "content": "J'ai sorti ma carte: Mec, t'es\nqu'un serveur, en disant: On pourrait\navoir du pain, s'il vous plaît ?",
+      "content": "— On pourrait avoir du pain,\ns'il vous plaît ?",
       "end": 42,
-      "heatValue": 31,
-      "start": 38
+      "heatValue": 32,
+      "start": 41
     },
     {
-      "content": "Mais bien sûr.",
+      "content": "— Mais bien sûr.",
       "end": 46,
       "heatValue": 24,
       "start": 45
@@ -124,31 +118,31 @@
       "start": 47
     },
     {
-      "content": "Il est parti.\nQu'est-ce que tu aimes comme musique ?",
+      "content": "Il est parti.\n— Qu'est-ce que t'aimes comme musique ?",
       "end": 49,
       "heatValue": 19,
       "start": 47
     },
     {
-      "content": "J'ai lancé les dés.\nCarbone cable-argue ?",
+      "content": "J'ai lancé les dés.\n— Carbon Kevlar ?",
       "end": 51,
       "heatValue": 18,
       "start": 49
     },
     {
-      "content": "J'adore.\nC'est vrai ?",
+      "content": "— Oh. J'adore.\n— C'est vrai ?",
       "end": 53,
       "heatValue": 18,
       "start": 51
     },
     {
-      "content": "Ouais.\nEt j'ai rajouté: J'adore la musique.",
+      "content": "— Ouais.\nEt j'ai rajouté:\n— J'adore la musique.",
       "end": 55,
       "heatValue": 17,
       "start": 53
     },
     {
-      "content": "Pas comme ta petite Yes, Chloé.\nJ'étais trop fort.",
+      "content": "— Un peu comme ta petite nièce, Chloé.\nJ'étais trop fort.",
       "end": 57,
       "heatValue": 16,
       "start": 55
@@ -178,7 +172,7 @@
       "start": 62
     },
     {
-      "content": "J'ai marqué 19 points, j'avais gagné.",
+      "content": "J'ai marqué 19 points, j'allais gagné.",
       "end": 64,
       "heatValue": 12,
       "start": 63
@@ -190,13 +184,13 @@
       "start": 64
     },
     {
-      "content": "Elle m'a dit: Je vais y aller.",
+      "content": "Elle m'a dit:\n— Bon, bha, je vais y aller.",
       "end": 67,
       "heatValue": 12,
       "start": 65
     },
     {
-      "content": "Hein ?",
+      "content": "Hein ?\n— Hein ?",
       "end": 68,
       "heatValue": 12,
       "start": 67
@@ -214,37 +208,25 @@
       "start": 69
     },
     {
-      "content": "Il avait utilisé ses cartes.",
-      "end": 76,
-      "heatValue": 10,
+      "content": "Il avait utilisé ses cartes \"Regard en coin\",\nLe verre, c'était\nlui pendant que j'étais aux toilettes.",
+      "end": 78,
+      "heatValue": 11,
       "start": 74
     },
     {
-      "content": "Regarde en coin, le verre, c'était\nlui pendant que j'étais aux toilettes.",
-      "end": 78,
-      "heatValue": 11,
-      "start": 76
-    },
-    {
-      "content": "Et pire, il lui avait laissé la carte.",
-      "end": 79,
-      "heatValue": 12,
+      "content": "Et pire, il lui avait laissé la carte\n\"Je connais Carbon Kevlar,\nil mixe dans une heure.\"",
+      "end": 82,
+      "heatValue": 13,
       "start": 78
     },
     {
-      "content": "Je connais Carbon Kevlar,\nil mixe dans une heure.",
-      "end": 82,
-      "heatValue": 12,
-      "start": 79
-    },
-    {
-      "content": "Salut.\nIl avait gagné, j'avais perdu.",
+      "content": "— Salut.\nIl avait gagné, j'avais perdu.",
       "end": 84,
       "heatValue": 13,
       "start": 82
     },
     {
-      "content": "Salut.\nIls sont partis ensemble.",
+      "content": "— Salut.\nIls sont partis ensemble.",
       "end": 87,
       "heatValue": 11,
       "start": 84
@@ -256,10 +238,10 @@
       "start": 88
     },
     {
-      "content": "Je choisis le serveur\nparce qu'il connaît Carbon Kevlar.",
+      "content": "— Je choisis le serveur\n— Parce qu'il connaît Carbon Kevlar.",
       "end": 100,
       "heatValue": 8,
-      "start": 89
+      "start": 97
     }
   ],
   "video": {

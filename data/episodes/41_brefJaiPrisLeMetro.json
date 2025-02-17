@@ -46,7 +46,7 @@
       "start": 14
     },
     {
-      "content": "Et il n'y a pas de lavabo.",
+      "content": "Et y a pas de lavabo.",
       "end": 18,
       "heatValue": 20,
       "start": 16
@@ -76,7 +76,7 @@
       "start": 27
     },
     {
-      "content": "La vue, l'odorat, le toucher, l'ouï.",
+      "content": "La vue, l'odorat, le toucher, l'ouïe.",
       "end": 32,
       "heatValue": 23,
       "start": 29
@@ -88,25 +88,31 @@
       "start": 32
     },
     {
-      "content": "Dans le métro, il y a des pubs\navec des mecs super contents de parler\nanglais, des enfants super heureux\nde faire leurs devoirs et des familles",
-      "end": 41,
+      "content": "Dans le métro, il y a des pubs\navec des mecs super contents de parler anglais.",
+      "end": 39,
       "heatValue": 20,
       "start": 36
     },
     {
-      "content": "super contentes de s'endetter\n20 ans pour une machine à laver.",
+      "content": "Des enfants super heureux\nde faire leurs devoirs.",
+      "end": 41,
+      "heatValue": 19,
+      "start": 39
+    },
+    {
+      "content": "Et des familles super contentes de s'endetter\n20 ans pour une machine à laver.",
       "end": 43,
       "heatValue": 20,
       "start": 41
     },
     {
-      "content": "Sur ma ligne, il y a un mec,\nça fait six mois qui s'est fait virer\nla semaine dernière.",
+      "content": "Sur ma ligne, il y a un mec,\nça fait six mois qu'il s'est fait virer\nla semaine dernière.",
       "end": 46,
       "heatValue": 28,
       "start": 43
     },
     {
-      "content": "Ayant perdu mon emploi\nla semaine dernière.",
+      "content": "— Ayant perdu mon emploi\nla semaine dernière.",
       "end": 48,
       "heatValue": 33,
       "start": 46
@@ -118,13 +124,13 @@
       "start": 48
     },
     {
-      "content": "Mes trois enfants sont morts.",
+      "content": "— Mes trois enfants sont morts.",
       "end": 51,
       "heatValue": 37,
       "start": 49
     },
     {
-      "content": "Car je ne sais pas lire.",
+      "content": "— Car je ne sais pas lire.",
       "end": 52,
       "heatValue": 39,
       "start": 51
@@ -132,14 +138,14 @@
     {
       "content": "Je me suis dit que ça ferait\nun super tube de l'été.",
       "end": 60,
-      "heatValue": 35,
-      "start": 52
+      "heatValue": 34,
+      "start": 54
     },
     {
       "content": "Quand je m'ennuie, je m'amuse à bailler\net compter les gens que je fais bailler.",
       "end": 68,
-      "heatValue": 21,
-      "start": 60
+      "heatValue": 17,
+      "start": 64
     },
     {
       "content": "Un, deux, trois, quatre, cinq, six, sept.",
@@ -166,25 +172,25 @@
       "start": 80
     },
     {
-      "content": "Merci d'attendre.\nAu cas où...",
+      "content": "— Merci d'attendre.\nAu cas où...",
       "end": 85,
       "heatValue": 7,
       "start": 82
     },
     {
-      "content": "Non, moi, j'attends pas ici.",
+      "content": "— Ah nan, hein. Moi, j'attends pas ici.",
       "end": 89,
       "heatValue": 7,
       "start": 85
     },
     {
-      "content": "Allez, salut !",
+      "content": "— Allez, salut !",
       "end": 92,
       "heatValue": 7,
       "start": 89
     },
     {
-      "content": "Cool, des rats.",
+      "content": "— Oh, cool, des rats.",
       "end": 94,
       "heatValue": 7,
       "start": 93

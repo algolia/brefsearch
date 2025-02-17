@@ -28,13 +28,13 @@
       "start": 4
     },
     {
-      "content": "Mec, t'as du courrier.",
+      "content": "— Hey mec, t'as du courrier.",
       "end": 7,
       "heatValue": 86,
       "start": 6
     },
     {
-      "content": "Putain, mes fins !\nPardon.",
+      "content": "— Ah putain, mais frappe !\n— Haha, pardon.",
       "end": 9,
       "heatValue": 80,
       "start": 7
@@ -46,7 +46,7 @@
       "start": 9
     },
     {
-      "content": "Le lendemain, je lui ai\ndit: Je pars en vacances.",
+      "content": "Le lendemain, je lui ai\ndit:\n— Je pars en vacances.",
       "end": 11,
       "heatValue": 67,
       "start": 9
@@ -58,7 +58,7 @@
       "start": 11
     },
     {
-      "content": "Vu que j'avais le droit\nà 500 € de découverte, j'ai béni\nle monde moderne qui permet\nà un homme qui a 0 € de voyager.",
+      "content": "Vu que j'avais le droit\nà 500 € de découvert, j'ai béni\nle monde moderne qui permet\nà un homme qui a 0 € de voyager.",
       "end": 17,
       "heatValue": 31,
       "start": 13
@@ -84,11 +84,11 @@
     {
       "content": "J'ai dit non à l'assurance\net j'ai fait mon sac.",
       "end": 29,
-      "heatValue": 16,
-      "start": 24
+      "heatValue": 15,
+      "start": 26
     },
     {
-      "content": "J'ai rempli mon sac de: On sait jamais.\nUn kawaii parce qu'on sait jamais.",
+      "content": "J'ai rempli mon sac de \"On sait jamais\".\nUn K-way parce qu'on sait jamais.",
       "end": 31,
       "heatValue": 13,
       "start": 29
@@ -106,7 +106,7 @@
       "start": 32
     },
     {
-      "content": "J'allais fermer mon sac et\nje me suis dit que je prenais\nbeaucoup de trucs on sait jamais\npour un mec qui prend pas d'assurance",
+      "content": "J'allais fermer mon sac et\nje me suis dit que je prenais\nbeaucoup de trucs \"on sait jamais\"\npour un mec qui prend pas d'assurance",
       "end": 37,
       "heatValue": 9,
       "start": 34
@@ -118,37 +118,37 @@
       "start": 37
     },
     {
-      "content": "Baptiste l'a frappé, j'ai dit.\nIl l'a frappé, j'ai dit.",
+      "content": "Baptiste a frappé, j'ai dit: — Ouais.\nIl a frappé, j'ai dit: — Ouais.",
       "end": 41,
       "heatValue": 9,
       "start": 38
     },
     {
-      "content": "Il l'a frappé, j'ai dit.",
+      "content": "Il a frappé, j'ai dit: — Ouais.",
       "end": 42,
       "heatValue": 9,
       "start": 41
     },
     {
-      "content": "Il m'a dit.\nSalut.",
+      "content": "Il m'a dit.\n— T'as vu. J'ai frappé.",
       "end": 43,
       "heatValue": 10,
       "start": 42
     },
     {
-      "content": "Je Je l'ai frappé.\nJ'ai dit.",
+      "content": "J'ai dit:\n— Ouais.",
       "end": 45,
       "heatValue": 11,
       "start": 43
     },
     {
-      "content": "Ouais.\nIl m'a dit.",
+      "content": "Il m'a dit:",
       "end": 47,
       "heatValue": 12,
       "start": 45
     },
     {
-      "content": "Tiens, c'est le courrier\nque je t'ai pas donné hier\nparce que t'avais les mains prises.",
+      "content": "— Tiens, c'est le courrier\nque je t'ai pas donné hier\nparce que t'avais les mains prises.",
       "end": 50,
       "heatValue": 13,
       "start": 47
@@ -166,16 +166,10 @@
       "start": 56
     },
     {
-      "content": "Brico 3000 ?",
-      "end": 58,
-      "heatValue": 19,
-      "start": 57
-    },
-    {
-      "content": "Parce qu'on sait jamais.",
+      "content": "Brico 30\nParce qu'on sait jamais !",
       "end": 61,
-      "heatValue": 20,
-      "start": 58
+      "heatValue": 18,
+      "start": 57
     },
     {
       "content": "J'ai fait le calcul, il me restait 200 €.",
@@ -196,7 +190,7 @@
       "start": 67
     },
     {
-      "content": "à défaire alors que je suis pas parti.\nBref, j'ai voulu partir en.",
+      "content": "à défaire alors que je suis pas parti.\nBref, j'ai voulu partir en vacances.",
       "end": 74,
       "heatValue": 11,
       "start": 72

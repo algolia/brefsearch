@@ -22,19 +22,19 @@
       "start": 3
     },
     {
-      "content": "Ça va ?\nJ'ai répondu.",
+      "content": "— Ça va ?\nJ'ai répondu:\n— Oui, oui.",
       "end": 5,
       "heatValue": null,
       "start": 4
     },
     {
-      "content": "Elle a dit: Arrêtez si tu veux.\nJ'avais une panne.",
+      "content": "Elle a dit:\n— On peut arrêter si tu veux.\nJ'avais une panne.",
       "end": 8,
       "heatValue": null,
       "start": 5
     },
     {
-      "content": "Je sentais que ça ne voulait pas repartir.\nJe n'avais pas envie d'arrêter.",
+      "content": "Je sentais que ça voulait pas repartir.\nJ'avais pas envie d'arrêter.",
       "end": 10,
       "heatValue": null,
       "start": 8
@@ -52,19 +52,19 @@
       "start": 12
     },
     {
-      "content": "Les filles de l'énergie 3.",
+      "content": "Les filles de la pub Energ 3000.",
       "end": 15,
       "heatValue": null,
       "start": 14
     },
     {
-      "content": "Mademoiselle Chiff dans le Petit Spirou.",
+      "content": "Mademoiselle Chiffre dans le Petit Spirou.",
       "end": 16,
       "heatValue": null,
       "start": 15
     },
     {
-      "content": "Les vidéos de Nina Roberts,\nde Lee Golden, Katsuni.",
+      "content": "Les vidéos de Nina Roberts,\nde Dolly Golden, Katsuni.",
       "end": 19,
       "heatValue": null,
       "start": 16
@@ -76,56 +76,56 @@
       "start": 19
     },
     {
-      "content": "Et alors là, il est devenu tomon.",
+      "content": "— Et alors là, il est devenu tout mou !",
       "end": 24,
       "heatValue": null,
       "start": 20
     },
     {
-      "content": "J'ai réussi à m'exciter.",
+      "content": "J'ai re-essayé de m'excité.",
       "end": 25,
       "heatValue": null,
       "start": 24
     },
     {
-      "content": "Venez les filles, on s'embrasse.",
+      "content": "— Venez les filles, on s'embrasse.",
       "end": 26,
       "heatValue": null,
       "start": 25
     },
     {
-      "content": "Oui, quelle bonne idée.",
+      "content": "— Oh, oui, quelle bonne idée.",
       "end": 28,
       "heatValue": null,
       "start": 26
     },
     {
-      "content": "J'ai aussi essayé de penser\nà Marla et moi dans un plan à quatre\navec les flics d'Energies 3 bien.\nÇa marchait pas.",
+      "content": "J'ai aussi essayé de penser\nà Marla et moi dans un plan à quatre\navec les flics d'Energy 3000.\nÇa marchait pas.",
       "end": 32,
       "heatValue": null,
       "start": 28
     },
     {
-      "content": "Moi qui suis le seul homme\nsur Terre et qui dois choisir\nentre Nina Roberts, de L.\nGolden, Kapsuni.",
+      "content": "Moi qui suis le seul homme\nsur Terre et qui dois choisir\nentre Nina Roberts, Dolly\nGolden et Kaptsuni.",
       "end": 34,
       "heatValue": null,
       "start": 32
     },
     {
-      "content": "Ça marchait pas.\nIl est devenu tout beau.",
+      "content": "Ça marchait pas.\n— Il est devenu tout mou !",
       "end": 39,
       "heatValue": null,
-      "start": 34
+      "start": 36
     },
     {
-      "content": "Elle a dit: Attends, je suis sur toi.",
+      "content": "Elle a dit:\n— Attends, attends, je viens sur toi.",
       "end": 42,
       "heatValue": null,
       "start": 39
     },
     {
-      "content": "J'ai pensé à tous mes ancêtres\nque j'étais en train de de voir.",
-      "end": 51,
+      "content": "J'ai pensé à tous mes ancêtres\nque j'étais en train de décevoir.",
+      "end": 46,
       "heatValue": null,
       "start": 42
     },
@@ -142,7 +142,7 @@
       "start": 54
     },
     {
-      "content": "C'était pas grave.\nC'était grave.",
+      "content": "— C'est pas grave, hein.\nC'était grave.",
       "end": 58,
       "heatValue": null,
       "start": 56
@@ -154,25 +154,25 @@
       "start": 58
     },
     {
-      "content": "Elle ne m'avait jamais dit:\nFais des pâtes, c'est pas grave.",
+      "content": "Elle ne m'avait jamais dit:\n— Tu fais des pâtes, c'est pas grave.",
       "end": 62,
       "heatValue": null,
       "start": 60
     },
     {
-      "content": "Ni: Tu bois de l'eau, c'est pas grave.",
+      "content": "Ni:\n— Tu bois de l'eau, c'est pas grave.",
       "end": 64,
       "heatValue": null,
       "start": 62
     },
     {
-      "content": "Ou encore: Tu respires de l'oxygène\net tu recraches du dioxyde de carbone.",
+      "content": "Ou encore:\n— Tu respires de l'oxygène\net tu recraches du dioxyde de carbone.",
       "end": 67,
       "heatValue": null,
       "start": 64
     },
     {
-      "content": "C'est pas grave.",
+      "content": "— C'est pas grave.",
       "end": 68,
       "heatValue": null,
       "start": 67
@@ -190,7 +190,7 @@
       "start": 69
     },
     {
-      "content": "D'ailleurs, dans pas longtemps,\nelle allait me demander\nsi c'était de sa faute.\nTu fais quelque chose qui ne venait pas.",
+      "content": "D'ailleurs, dans pas longtemps,\nelle allait me demander\nsi c'était de sa faute.\n— J'ai fais quelque chose qu'il fallait pas ?",
       "end": 73,
       "heatValue": null,
       "start": 70
@@ -202,7 +202,7 @@
       "start": 73
     },
     {
-      "content": "Après, on a discuté 25 minutes\ndans le noir alors que\nje n'avais pas envie de parler.",
+      "content": "Après, on a discuté 25 minutes\ndans le noir alors que\nj'avais pas envie de parler.",
       "end": 76,
       "heatValue": null,
       "start": 74
@@ -214,7 +214,7 @@
       "start": 76
     },
     {
-      "content": "Tu arrives, tu sais.",
+      "content": "— Ça arrives, tu sais.",
       "end": 79,
       "heatValue": null,
       "start": 78
@@ -224,12 +224,6 @@
       "end": 81,
       "heatValue": null,
       "start": 79
-    },
-    {
-      "content": "Il est devenu tout beau.",
-      "end": 85,
-      "heatValue": null,
-      "start": 81
     },
     {
       "content": "J'ai fini par m'endormir et tout\nd'un coup, au milieu de la nuit.",
@@ -244,13 +238,13 @@
       "start": 95
     },
     {
-      "content": "Non.\nCe soir, je peux pas.",
+      "content": "— Non. Ce soir, je peux pas.",
       "end": 102,
       "heatValue": null,
       "start": 100
     },
     {
-      "content": "J'ai mes problèmes de vie.\n'est pas grave.",
+      "content": "— J'ai mes problèmes de fille.\n— C'est pas grave.",
       "end": 107,
       "heatValue": null,
       "start": 102

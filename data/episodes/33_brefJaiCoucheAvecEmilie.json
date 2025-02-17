@@ -10,13 +10,7 @@
   },
   "lines": [
     {
-      "content": "Je suis aberré.\nT'es mort de chien.",
-      "end": 2,
-      "heatValue": null,
-      "start": 0
-    },
-    {
-      "content": "Attends, attends.",
+      "content": "— Attends, attends.",
       "end": 3,
       "heatValue": null,
       "start": 2
@@ -28,7 +22,7 @@
       "start": 3
     },
     {
-      "content": "Je lui ai dit: Elle m'a pas reconnu.\nJ'ai dit: C'est moi ?",
+      "content": "Je lui ai dit:\n— Hey !\nElle m'a pas reconnu.\nJ'ai dit:\n— C'est moi.",
       "end": 8,
       "heatValue": null,
       "start": 6
@@ -46,13 +40,13 @@
       "start": 10
     },
     {
-      "content": "J'ai rajouté: Avec la Morvonnais.",
+      "content": "J'ai rajouté:\n— Avec la morve au nez.",
       "end": 12,
       "heatValue": null,
       "start": 11
     },
     {
-      "content": "Morvonnais, lol.",
+      "content": "— Oh, Morve-au-nez, lol !",
       "end": 14,
       "heatValue": null,
       "start": 13
@@ -64,7 +58,7 @@
       "start": 14
     },
     {
-      "content": "Puis elle a dit: Ajoute-moi sur Facebook.\nCe que j'ai fait.",
+      "content": "Puis elle a dit:\n— Ajoute-moi sur Facebook.\nCe que j'ai fait.",
       "end": 17,
       "heatValue": null,
       "start": 15
@@ -76,25 +70,31 @@
       "start": 17
     },
     {
-      "content": "Émilie, tu veux sortir avec moi ?",
+      "content": "— Émilie, tu veux sortir avec moi ?",
       "end": 24,
       "heatValue": null,
       "start": 21
     },
     {
-      "content": "Jamais sortir avec toi.",
+      "content": "— Jamais je sortirai avec toi.",
       "end": 26,
       "heatValue": null,
       "start": 24
     },
     {
-      "content": "Jamais, jamais, jamais,\njamais, jamais,Jamais, jamais,\njamais, jamais, jamais, jamais.\nJ'ai appuyé cinq fois sur Ajouter.",
-      "end": 37,
+      "content": "— Jamais, jamais, jamais,\njamais, jamais.",
+      "end": 33,
       "heatValue": null,
       "start": 26
     },
     {
-      "content": "Jamais, jamais, jamais, jamais, jamais.",
+      "content": "J'ai appuyé cinq fois sur Ajouter.",
+      "end": 37,
+      "heatValue": null,
+      "start": 33
+    },
+    {
+      "content": "— Jamais, jamais, jamais, jamais, jamais.",
       "end": 39,
       "heatValue": null,
       "start": 37
@@ -112,7 +112,7 @@
       "start": 40
     },
     {
-      "content": "Sur le chat, elle m'a dit: Salut.",
+      "content": "Sur le chat, elle m'a dit:\n— Salut.",
       "end": 43,
       "heatValue": null,
       "start": 42
@@ -124,13 +124,13 @@
       "start": 43
     },
     {
-      "content": "Elle m'a demandé: Tu les connais ?",
+      "content": "Elle m'a demandé:\n— Tu les connais ?",
       "end": 46,
       "heatValue": null,
       "start": 44
     },
     {
-      "content": "Non.\nJ'ai dit: Carrément, on est potes.",
+      "content": "Non.\nJ'ai dit:\n— Carrément, on est potes.",
       "end": 48,
       "heatValue": null,
       "start": 46
@@ -148,31 +148,31 @@
       "start": 50
     },
     {
-      "content": "Elle a dit: Là, je travaille\ndans un magasin de fringues.",
+      "content": "Elle a dit:\n— Là, je travaille\ndans un magasin de fringues.",
       "end": 55,
       "heatValue": null,
       "start": 52
     },
     {
-      "content": "Ce n'est pas top ?\nJ'ai dit: Moi, j'adore mon taf.",
+      "content": "— Ce n'est pas top.\nJ'ai dit:\n— Moi, j'adore mon taf.",
       "end": 59,
       "heatValue": null,
       "start": 55
     },
     {
-      "content": "C'était C'est pas vrai,\nmais 1 à 0 pour moi.",
+      "content": "C'était pas vrai,\nmais 1 à 0 pour moi.",
       "end": 61,
       "heatValue": null,
       "start": 59
     },
     {
-      "content": "Je viens de me faire larguer.\nMerde.",
+      "content": "— Je viens de me faire larguer.\n— Ah, merde.",
       "end": 64,
       "heatValue": null,
       "start": 61
     },
     {
-      "content": "Moi, c'est cool.\nJe vois des filles, je papillonne.",
+      "content": "— Ah moi, c'est cool. Je vois\ndes filles, je papillonne.",
       "end": 66,
       "heatValue": null,
       "start": 64
@@ -184,13 +184,13 @@
       "start": 66
     },
     {
-      "content": "Je fais de la guitare,\ntête plongeante, 3-0.",
+      "content": "— Je fais de la guitare.\nTête plongeante, 3-0.",
       "end": 70,
       "heatValue": null,
       "start": 67
     },
     {
-      "content": "C'est exactement ce\nque le caravan qui est là.",
+      "content": "— C'est exactement ce\nque dit Carbon Kevlar.",
       "end": 71,
       "heatValue": null,
       "start": 70
@@ -202,13 +202,13 @@
       "start": 71
     },
     {
-      "content": "Alors j'ai dit: On va chez moi ?",
+      "content": "Alors j'ai dit:\n— On va chez moi ?",
       "end": 74,
       "heatValue": null,
       "start": 72
     },
     {
-      "content": "On est allé chez moi.\nBienvenue chez moi.",
+      "content": "On est allé chez moi.\n— Bienvenue chez moi.",
       "end": 77,
       "heatValue": null,
       "start": 74
@@ -220,7 +220,7 @@
       "start": 77
     },
     {
-      "content": "Toi aussi, tu aimes bien ?\nQuoi ?",
+      "content": "— Toi aussi, tu aimes bien ?\n— Quoi ?",
       "end": 83,
       "heatValue": null,
       "start": 81
@@ -244,13 +244,13 @@
       "start": 89
     },
     {
-      "content": "Pendant qu'on faisait l'amour,\nj'ai dit: jamais, jamais, jamais, jamais.",
+      "content": "Pendant qu'on faisait l'amour,\nj'ai dit:\n— jamais, jamais, jamais, jamais.",
       "end": 95,
       "heatValue": null,
       "start": 90
     },
     {
-      "content": "De quoi ?\nNon, rien, j'aime, j'aime, j'aime.",
+      "content": "— De quoi ?\n— Non, rien, j'aime, j'aime, j'aime.",
       "end": 98,
       "heatValue": null,
       "start": 95
@@ -262,13 +262,13 @@
       "start": 98
     },
     {
-      "content": "Je l'ai raccompagnée à ma porte,\nelle m'a dit: On se revoit ?",
+      "content": "Je l'ai raccompagnée à ma porte,\nelle m'a dit:\n— On se revoit ?",
       "end": 102,
       "heatValue": null,
       "start": 100
     },
     {
-      "content": "J'ai dit: Absolument.\nPas.",
+      "content": "J'ai dit:\n— Absolument.\nPas.",
       "end": 104,
       "heatValue": null,
       "start": 102
@@ -292,19 +292,19 @@
       "start": 107
     },
     {
-      "content": "Jamais, jamais, jamais, jamais, jamais.\nC'est stylé Facebook.",
+      "content": "Jamais, jamais, jamais, jamais, jamais.\n— Wow, c'est stylé Facebook.",
       "end": 111,
       "heatValue": null,
       "start": 108
     },
     {
-      "content": "Quand est-ce qu'ils vont inventer ça ?",
+      "content": "— Quand est-ce qu'ils vont inventer ça ?",
       "end": 113,
       "heatValue": null,
       "start": 111
     },
     {
-      "content": "T'inquiètes.",
+      "content": "— T'inquiètes.",
       "end": 114,
       "heatValue": null,
       "start": 114

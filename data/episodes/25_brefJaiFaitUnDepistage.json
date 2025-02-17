@@ -16,7 +16,7 @@
       "start": 2
     },
     {
-      "content": "Elle m'a dit: Je lui ai dit que c'était\ntrop agréable pour pas être un problème.",
+      "content": "Elle m'a dit:\n— Quoi ?\nJe lui ai dit que c'était\ntrop agréable pour pas être un problème.",
       "end": 7,
       "heatValue": 86,
       "start": 4
@@ -28,13 +28,13 @@
       "start": 7
     },
     {
-      "content": "T'es qu'un con !\nJ'ai craqué.",
+      "content": "— T'es qu'un con !\nJ'ai craqué.\n— C'est pas de ma faute.",
       "end": 10,
       "heatValue": 75,
       "start": 9
     },
     {
-      "content": "T'as pas pincé le réservoir ?\nSi, si, j'ai pincé le réservoir.",
+      "content": "— T'as pas pincé le réservoir ?\n— Si, si, j'ai pincé le réservoir.",
       "end": 12,
       "heatValue": 69,
       "start": 10
@@ -64,7 +64,7 @@
       "start": 20
     },
     {
-      "content": "Lui, j'ai sûr, il...",
+      "content": "— Lui, c'est sûr, il l'a...",
       "end": 24,
       "heatValue": 34,
       "start": 23
@@ -82,10 +82,10 @@
       "start": 26
     },
     {
-      "content": "Numéro 19.",
+      "content": "— Numéro 19.",
       "end": 34,
-      "heatValue": 37,
-      "start": 30
+      "heatValue": 32,
+      "start": 33
     },
     {
       "content": "Ça ne m'a pas changé les idées.\nJ'y suis allé.",
@@ -94,31 +94,31 @@
       "start": 34
     },
     {
-      "content": "J'ai peur des aiguilles.\nL'infirmière m'a dit: On y va ?",
+      "content": "J'ai peur des aiguilles.\nL'infirmière m'a dit:\n— On y va ?",
       "end": 38,
       "heatValue": 20,
       "start": 36
     },
     {
-      "content": "J'ai entendu.\nOn y va ?",
+      "content": "J'ai entendu.\n— On y va ?",
       "end": 40,
       "heatValue": 16,
       "start": 38
     },
     {
-      "content": "Elle a dit: Je pique à trois.\nUn, deux.",
+      "content": "Elle a dit:\n— Je pique à trois. Un, deux.",
       "end": 42,
       "heatValue": 13,
       "start": 40
     },
     {
-      "content": "Attendez, vous comptez un, deux\net à trois, vous piquez ou vous comptez\nun, deux, trois et vous piquez ?\nElle m'a piqué.",
+      "content": "— Attendez, attendes, vous comptez un, deux\net à trois, vous piquez ou vous comptez\nun, deux, trois et vous *grrmbl*.\nElle m'a piqué.",
       "end": 48,
       "heatValue": 11,
       "start": 42
     },
     {
-      "content": "Connaisse.",
+      "content": "Connasse.",
       "end": 49,
       "heatValue": 11,
       "start": 48
@@ -136,14 +136,14 @@
       "start": 51
     },
     {
-      "content": "Tic toc, tic toc.",
+      "content": "— Tic toc, tic toc.",
       "end": 57,
       "heatValue": 6,
       "start": 52
     },
     {
       "content": "J'ai vécu ces 72 heures comme\nsi c'était les dernières.",
-      "end": 59,
+      "end": 58,
       "heatValue": 6,
       "start": 57
     },
@@ -151,7 +151,7 @@
       "content": "J'ai bu un café 23h00.",
       "end": 59,
       "heatValue": 6,
-      "start": 59
+      "start": 58
     },
     {
       "content": "Je me suis vidé une bonbonne\nde crème chantilly dans la bouche.",
@@ -178,13 +178,13 @@
       "start": 70
     },
     {
-      "content": "J'espère que quelqu'un va pas C'est\nun plan de soie, mais poisson clown.",
+      "content": "— J'espère que quelqu'un va bien prendre\nsoin de mes poissons clowns. Grégoire et Julie.",
       "end": 77,
       "heatValue": 25,
       "start": 71
     },
     {
-      "content": "Gregor et Julie.\nJ'ai écrit une chanson super émouvante.",
+      "content": "J'ai écrit une chanson super émouvante.\n— Voir la vie, voir les gens.",
       "end": 78,
       "heatValue": 21,
       "start": 77
@@ -208,10 +208,16 @@
       "start": 88
     },
     {
-      "content": "Bref, j'ai fait un dépistage.\nCadeau.",
+      "content": "Bref, j'ai fait un dépistage.",
       "end": 96,
       "heatValue": 11,
       "start": 93
+    },
+    {
+      "content": "— Cadeau.",
+      "end": 100,
+      "heatValue": 6,
+      "start": 96
     }
   ],
   "video": {

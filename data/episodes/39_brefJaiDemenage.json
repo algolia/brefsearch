@@ -22,55 +22,43 @@
       "start": 2
     },
     {
-      "content": "Un jour, j'ai voulu prendre du dentifrice.\nBaptiste a dit.",
+      "content": "Un jour, j'ai voulu prendre du dentifrice.\nBaptiste a dit:\n— Y en a plus.",
       "end": 6,
       "heatValue": 38,
       "start": 4
     },
     {
-      "content": "J'ai voulu prendre des céréales.\nBaptiste a dit.",
+      "content": "J'ai voulu prendre des céréales.\nBaptiste a dit:\n— Y en a plus.",
       "end": 9,
       "heatValue": 31,
       "start": 6
     },
     {
-      "content": "J'ai voulu mettre du parfum.\nBaptiste a dit.",
+      "content": "J'ai voulu mettre du parfum.\nBaptiste a dit:\n— Y en a plus.",
       "end": 10,
       "heatValue": 27,
       "start": 9
     },
     {
-      "content": "Ça n'a plus.\nC'était le mien.",
+      "content": "— Mais c'était le mien.\n— Bha y en a plus.",
       "end": 12,
       "heatValue": 25,
       "start": 10
     },
     {
-      "content": "Ça n'a plus.",
-      "end": 14,
-      "heatValue": 24,
-      "start": 12
-    },
-    {
-      "content": "C'est mon caleçon, ça.\nJe sais, mais les miens sont sales.",
+      "content": "— C'est mon caleçon, ça.\n— Ouais, je sais, mais les miens sont\nsales. Mais tu peux les prendre si tu veux.",
       "end": 19,
       "heatValue": 31,
       "start": 15
     },
     {
-      "content": "Tu peux les prendre si tu veux.",
-      "end": 20,
-      "heatValue": 38,
-      "start": 19
-    },
-    {
-      "content": "En plus, depuis son divorce,\nmon père habitait en France.",
+      "content": "En plus, depuis son divorce,\nmon père habitait en face.",
       "end": 22,
       "heatValue": 42,
       "start": 20
     },
     {
-      "content": "Tu as pas dit que t'étais un pote ?\nIl fallait que je parte.",
+      "content": "— T'as pas des capotes ?\nIl fallait que je parte.",
       "end": 24,
       "heatValue": 49,
       "start": 22
@@ -82,31 +70,31 @@
       "start": 24
     },
     {
-      "content": "Il m'a dit: C'est la fin de ma vie.",
+      "content": "Il m'a dit:\n— C'est la femme de ma vie.",
       "end": 28,
       "heatValue": 53,
       "start": 26
     },
     {
-      "content": "C'est 300 € en moins sur le loyer.",
+      "content": "— C'est 300 € en moins sur le loyer.",
       "end": 29,
       "heatValue": 53,
       "start": 28
     },
     {
-      "content": "Du coup, je pouvais récupérer son appart.\nJ'ai dit à Baptiste.",
+      "content": "Du coup, je pouvais récupérer son appart.\nJ'ai dit à Baptiste:",
       "end": 31,
       "heatValue": 50,
       "start": 29
     },
     {
-      "content": "Je pars.\nBaptiste a dit: À tout à l'heure.",
+      "content": "— Je pars.\nBaptiste a dit:\n— À tout à l'heure.",
       "end": 32,
       "heatValue": 49,
       "start": 31
     },
     {
-      "content": "J'ai dit: Non, je pars vraiment.",
+      "content": "J'ai dit:\n— Non, je pars vraiment.",
       "end": 35,
       "heatValue": 48,
       "start": 32
@@ -118,13 +106,13 @@
       "start": 35
     },
     {
-      "content": "Ça m'a touché.\nIl a dit: Qui va payer le loyer ?",
+      "content": "Ça m'a touché.\nIl a dit:\n— Qui va payer le loyer ?",
       "end": 41,
       "heatValue": 62,
       "start": 38
     },
     {
-      "content": "J'ai dit: Je m'en fous.\nJe pars demain.",
+      "content": "J'ai dit:\n— Je m'en fous. Je pars demain.",
       "end": 42,
       "heatValue": 64,
       "start": 41
@@ -142,25 +130,25 @@
       "start": 47
     },
     {
-      "content": "Un mec qui dit: Un, deux.",
+      "content": "Un mec qui dit:\n— Un, deux.\nSans le trois.",
       "end": 52,
       "heatValue": 18,
       "start": 50
     },
     {
-      "content": "Sans le trois.\nUn mec qui dit: Ça passera.",
+      "content": "Un mec qui dit:\n— Ça passera.",
       "end": 54,
       "heatValue": 18,
       "start": 52
     },
     {
-      "content": "Et celui qui dit: Ça passera pas.\nCelui qui mesure tout.",
+      "content": "Et celui qui dit:\n— Ça passera pas.\nCelui qui mesure tout.",
       "end": 57,
       "heatValue": 19,
       "start": 54
     },
     {
-      "content": "Tu peux m'aider là ?\nJe peux pas, je mesure.",
+      "content": "Tu peux m'aider là ?\n— Je peux pas, je mesure.",
       "end": 59,
       "heatValue": 18,
       "start": 57
@@ -178,25 +166,19 @@
       "start": 60
     },
     {
-      "content": "Ouais ?",
-      "end": 63,
-      "heatValue": 13,
-      "start": 63
-    },
-    {
-      "content": "Quand mon frère a répondu\nau téléphone, il a dit: Ouais ?",
+      "content": "Quand mon frère a répondu\nau téléphone, il a dit:\n— Ouais ?",
       "end": 66,
       "heatValue": 11,
       "start": 63
     },
     {
-      "content": "Après, il a dit: Ouais ?",
+      "content": "Après, il a dit:\n— Ouais ?",
       "end": 67,
       "heatValue": 8,
       "start": 66
     },
     {
-      "content": "Et enfin, il a dit: Ouais ?",
+      "content": "Et enfin, il a dit:\n— Ouais ?",
       "end": 73,
       "heatValue": 9,
       "start": 67
@@ -208,7 +190,7 @@
       "start": 74
     },
     {
-      "content": "Il a dit: C'est fini avec Maud.",
+      "content": "Il a dit:\n— C'est fini avec Maud.",
       "end": 77,
       "heatValue": 11,
       "start": 76
@@ -232,19 +214,19 @@
       "start": 82
     },
     {
-      "content": "Salut, je suis Charles,\nje suis le nouveau coloc.",
+      "content": "— Salut, je suis Charles,\nje suis le nouveau coloc.",
       "end": 85,
       "heatValue": 16,
       "start": 84
     },
     {
-      "content": "Mes potes m'ont dit.",
+      "content": "Mes potes m'ont dit.\n— Faut qu'on y aille.",
       "end": 86,
       "heatValue": 17,
       "start": 85
     },
     {
-      "content": "Mon père leur a demandé:\nVous avez pas des capotes ?",
+      "content": "Mon père leur a demandé:\n— Hey, vous avez pas des capotes ?",
       "end": 89,
       "heatValue": 18,
       "start": 86
@@ -262,19 +244,19 @@
       "start": 91
     },
     {
-      "content": "Bref, j'ai déménagé chez mon père.",
+      "content": "Bref, j'ai déménagé. Chez mon père.",
       "end": 98,
       "heatValue": 14,
       "start": 92
     },
     {
-      "content": "C'est mon caleçon, ça.",
+      "content": "— Hey, mais c'est mon caleçon, ça.",
       "end": 100,
       "heatValue": 14,
       "start": 98
     },
     {
-      "content": "Oui, mais je suis ton père.",
+      "content": "— Ouais, mais je suis ton père.",
       "end": 101,
       "heatValue": 15,
       "start": 100

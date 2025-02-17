@@ -16,7 +16,7 @@
       "start": 0
     },
     {
-      "content": "Elle était caissière.\nDans un sex shop.",
+      "content": "Elle était caissière.\n— Dans un sex shop.",
       "end": 3,
       "heatValue": null,
       "start": 2
@@ -40,19 +40,19 @@
       "start": 5
     },
     {
-      "content": "J'attends ma copine.\nJ'attends ma copine.",
+      "content": "— J'attends ma copine.\n— J'attends ma copine.",
       "end": 9,
       "heatValue": null,
       "start": 7
     },
     {
-      "content": "J'attends ma copine.\nMoi, j'ai trouvé la mienne.",
+      "content": "— J'attends ma copine.\n— Moi, j'ai trouvé la mienne.",
       "end": 11,
       "heatValue": null,
       "start": 9
     },
     {
-      "content": "Quand je l'ai rencontrée, elle m'a dit...\nDu coup, j'ai plein d'échantillons.",
+      "content": "Quand je l'ai rencontrée, elle m'a dit:\n— Du coup, j'ai plein d'échantillons.",
       "end": 14,
       "heatValue": null,
       "start": 11
@@ -64,7 +64,7 @@
       "start": 14
     },
     {
-      "content": "Elle m'a montré des trucs\nque je connaissais, des trucs\nque je connaissais pas.\nC'est pour homme.",
+      "content": "Elle m'a montré des trucs\nque je connaissais, des trucs\nque je connaissais pas.\n— C'est pour homme.",
       "end": 19,
       "heatValue": null,
       "start": 16
@@ -82,13 +82,13 @@
       "start": 21
     },
     {
-      "content": "Un point juste là.",
+      "content": "— Y a un point juste là.",
       "end": 27,
       "heatValue": null,
       "start": 23
     },
     {
-      "content": "Oh, J'ai traîné dans les rayons.",
+      "content": "J'ai traîné dans les rayons.",
       "end": 30,
       "heatValue": null,
       "start": 27
@@ -112,7 +112,7 @@
       "start": 34
     },
     {
-      "content": "Salut.\nEn fait, c'était son collègue.",
+      "content": "— Salut.\nEn fait, c'était son collègue.",
       "end": 37,
       "heatValue": null,
       "start": 35
@@ -124,13 +124,13 @@
       "start": 37
     },
     {
-      "content": "C'est pas la taille qui compte.",
+      "content": "— C'est pas la taille qui compte.",
       "end": 40,
       "heatValue": null,
       "start": 39
     },
     {
-      "content": "Ce qui compte,\nc'est qu'il tourne équilibre.",
+      "content": "— Ce qui compte, c'est qu'il tourne et qu'il vibre.",
       "end": 43,
       "heatValue": null,
       "start": 40
@@ -142,13 +142,13 @@
       "start": 44
     },
     {
-      "content": "Tu savais que 9 fois sur 10,\nles mecs recherchent leur mère\ndans les actrices pornos ?\nOn se dit la prochaine fois.",
+      "content": "— Tu savais que 9 fois sur 10,\nles mecs recherchent leur mère\ndans les actrices pornos ?\nPense-y la prochaine fois.",
       "end": 49,
       "heatValue": null,
       "start": 45
     },
     {
-      "content": "Trop mal à l'aise.\nQuand il m'a dit: Tu connais pas ça ?",
+      "content": "Trop mal à l'aise.\nQuand il m'a dit:\n— Tu connais pas ça ?",
       "end": 51,
       "heatValue": null,
       "start": 49
@@ -160,31 +160,31 @@
       "start": 51
     },
     {
-      "content": "Pourquoi Steve m'avait dit ?\nAppuie là.",
+      "content": "Pourquoi Steve m'avait dit ?\n— Appuie là.",
       "end": 57,
       "heatValue": null,
       "start": 55
     },
     {
-      "content": "Ou encore: Pourquoi ma\nmère m'avait engueulé ?",
+      "content": "Ou encore pourquoi ma\nmère m'avait engueulé ?",
       "end": 58,
       "heatValue": null,
       "start": 57
     },
     {
-      "content": "Touche pas à ça.\nIl m'a dit: J'ai dit...",
+      "content": "— Touche pas à ça.\nIl m'a dit:\n— T'en veux un ?",
       "end": 61,
       "heatValue": null,
       "start": 58
     },
     {
-      "content": "T'en veux un ?\nJ'ai dit: J'attends ma copine.",
+      "content": "J'ai dit:\n— Nan, moi, j'attends ma copine.",
       "end": 63,
       "heatValue": null,
       "start": 61
     },
     {
-      "content": "Il a dit: C'était\npour toi le Bamboo 3000 ?",
+      "content": "Il a dit:\n— Ah, c'était pour toi le Bamboo 3000 ?",
       "end": 65,
       "heatValue": null,
       "start": 63
@@ -208,13 +208,13 @@
       "start": 71
     },
     {
-      "content": "Alors j'ai dit: Ouais, enfin non.",
+      "content": "Alors j'ai dit:\n— Ouais, enfin non.",
       "end": 75,
       "heatValue": null,
       "start": 73
     },
     {
-      "content": "En fait, c'était comme mon père.",
+      "content": "— En fait, c'était pour mon père.",
       "end": 79,
       "heatValue": null,
       "start": 75
@@ -232,28 +232,22 @@
       "start": 81
     },
     {
-      "content": "Appuie là.",
+      "content": "— Appuie là.",
       "end": 87,
       "heatValue": null,
       "start": 85
     },
     {
-      "content": "Hein ?",
+      "content": "— Non.",
       "end": 88,
       "heatValue": null,
       "start": 87
     },
     {
-      "content": "Contente-toi de me regarder, Ouais.",
+      "content": "— Bha, contente-toi de me regarder alors.",
       "end": 96,
       "heatValue": null,
       "start": 89
-    },
-    {
-      "content": "Super.",
-      "end": 102,
-      "heatValue": null,
-      "start": 101
     }
   ],
   "video": {

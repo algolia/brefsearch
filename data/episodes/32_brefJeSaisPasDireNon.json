@@ -16,25 +16,25 @@
       "start": 1
     },
     {
-      "content": "J'ai dit: Non.\nElle m'a dit: C'est gratuit ?",
+      "content": "J'ai dit:\n— Non.\nElle m'a dit:\n— C'est gratuit.",
       "end": 5,
       "heatValue": 33,
       "start": 3
     },
     {
-      "content": "J'ai dit: Oui.",
+      "content": "J'ai dit:\n— Oui.",
       "end": 6,
       "heatValue": 32,
       "start": 5
     },
     {
-      "content": "Elle m'a demandé: C'est bon ?\nJ'ai répondu: Oui.",
+      "content": "Elle m'a demandé:\n— C'est bon ?\nJ'ai répondu:\n— Oui.",
       "end": 8,
       "heatValue": 33,
       "start": 6
     },
     {
-      "content": "Elle m'a dit: Vous voulez en acheter ?\nJ'ai dit: Non.",
+      "content": "Elle m'a dit:\n— Vous voulez en acheter ?\nJ'ai dit:\n— Non.",
       "end": 10,
       "heatValue": 48,
       "start": 8
@@ -58,25 +58,25 @@
       "start": 13
     },
     {
-      "content": "J'ai couché trois fois de suite\navec une fille parce que je ne sais pas\nlui dire qu'elle me faisait pas.",
+      "content": "J'ai couché trois fois de suite\navec une fille parce que j'osais pas\nlui dire qu'elle me plaisait pas.",
       "end": 17,
       "heatValue": 94,
       "start": 15
     },
     {
-      "content": "J'ai aidé un mec à déménager,\nje ne le connaissais même pas.",
+      "content": "J'ai aidé un mec à déménager,\nje le connaissais même pas.",
       "end": 19,
       "heatValue": 94,
       "start": 17
     },
     {
-      "content": "Quand quelqu'un me marche\nsur le pied, je dis pardon.",
+      "content": "Quand quelqu'un me marche\nsur le pied...\n— Hey !",
       "end": 22,
       "heatValue": 68,
       "start": 19
     },
     {
-      "content": "Pardon ?",
+      "content": "Je dis pardon.\n— Pardon.",
       "end": 23,
       "heatValue": 44,
       "start": 22
@@ -112,43 +112,49 @@
       "start": 33
     },
     {
-      "content": "C'est clair, moi, je voulais partir aussi.",
+      "content": "— C'est clair, moi, je voulais partir aussi.",
       "end": 41,
       "heatValue": 16,
       "start": 38
     },
     {
-      "content": "Je fais attention à le Mexique.",
+      "content": "— Attends, c'est le Mexique ?",
       "end": 44,
       "heatValue": 16,
       "start": 41
     },
     {
-      "content": "J'en ai parlé à mon psy, il m'a\ndit: Je propose qu'on se voit\ndeux fois par semaine.\nJ'avais pas les moyens.",
-      "end": 47,
+      "content": "J'en ai parlé à mon psy, il m'a\ndit:",
+      "end": 45,
       "heatValue": 17,
       "start": 44
     },
     {
-      "content": "J'ai dit: D'accord.",
+      "content": "— Je propose qu'on se voit deux fois par semaine.\nJ'avais pas les moyens.",
+      "end": 47,
+      "heatValue": 17,
+      "start": 45
+    },
+    {
+      "content": "J'ai dit:\n— D'accord.",
       "end": 47,
       "heatValue": 17,
       "start": 47
     },
     {
-      "content": "Une copine m'a recommandé\nun livre, savoir dire non.",
+      "content": "Une copine m'a recommandé\nun livre: \"Savoir dire non\".",
       "end": 49,
       "heatValue": 16,
       "start": 47
     },
     {
-      "content": "Je l'ai lu, j'ai pas aimé,\nelle m'a demandé.",
+      "content": "Je l'ai lu, j'ai pas aimé,\nelle m'a demandé:",
       "end": 51,
       "heatValue": 15,
       "start": 49
     },
     {
-      "content": "T'as aimé ?\nJ'ai dit: Oui.",
+      "content": "— T'as aimé ?\nJ'ai dit:\n— Oui.",
       "end": 52,
       "heatValue": 14,
       "start": 51
@@ -160,19 +166,25 @@
       "start": 52
     },
     {
-      "content": "Un jour, j'en ai parlé\nà Baptiste, il m'a dit: En fait,\nje peux pas payer le loyer ce mois-ci.",
-      "end": 58,
-      "heatValue": 10,
+      "content": "Un jour, j'en ai parlé\nà Baptiste, il m'a dit:",
+      "end": 55,
+      "heatValue": 11,
       "start": 54
     },
     {
-      "content": "Ça t'embête ou pas ?\nÇa m'embêtait.",
+      "content": "— Tiens au fait, je peux pas payer le loyer ce mois-ci.",
+      "end": 58,
+      "heatValue": 10,
+      "start": 55
+    },
+    {
+      "content": "— Ça t'embête ou pas ?\nÇa m'embêtait.",
       "end": 60,
       "heatValue": 10,
       "start": 58
     },
     {
-      "content": "J'ai dit non.",
+      "content": "J'ai dit:\n— Non.",
       "end": 61,
       "heatValue": 12,
       "start": 60
@@ -190,55 +202,55 @@
       "start": 63
     },
     {
-      "content": "Avec plaisir.\nJe trouve tout ce que mes potes créent.",
+      "content": "— Bha, avec plaisir.\nJe trouve tout ce que mes potes créent:",
       "end": 66,
       "heatValue": 15,
       "start": 64
     },
     {
-      "content": "T'es pas mal.\nSuper.",
+      "content": "— Pas mal.\n— Super.",
       "end": 67,
       "heatValue": 15,
       "start": 66
     },
     {
-      "content": "Excellent.",
+      "content": "— Excellent.",
       "end": 68,
       "heatValue": 16,
       "start": 67
     },
     {
-      "content": "Un jour, Fabien m'a dit: Ça te dérange pas\nsi j'écoute de la musique ?",
+      "content": "Un jour, Fabien m'a dit:\n— Ça te dérange pas si j'écoute de la musique ?",
       "end": 72,
       "heatValue": 19,
       "start": 68
     },
     {
-      "content": "Non.",
+      "content": "— Non.",
       "end": 73,
       "heatValue": 21,
       "start": 72
     },
     {
-      "content": "Cool.",
+      "content": "— Cool.",
       "end": 79,
       "heatValue": 27,
       "start": 75
     },
     {
-      "content": "Ils s'appellent Euphorie,\nils sont norvégiens.",
+      "content": "— Ils s'appellent Euforik, ils sont Norvégiens.",
       "end": 83,
-      "heatValue": 34,
-      "start": 79
+      "heatValue": 36,
+      "start": 81
     },
     {
-      "content": "18 kilos de son, mon pote.",
+      "content": "— 18 kilos de son, mon pote !",
       "end": 84,
       "heatValue": 37,
       "start": 83
     },
     {
-      "content": "Écoute la basse, écoute la basse.",
+      "content": "— Écoute la basse, écoute la basse.",
       "end": 86,
       "heatValue": 38,
       "start": 84
@@ -246,29 +258,29 @@
     {
       "content": "Bref, je sais pas dire non.",
       "end": 89,
-      "heatValue": 35,
-      "start": 86
+      "heatValue": 34,
+      "start": 88
     },
     {
-      "content": "Ai pas les moyens ce mois-ci.",
+      "content": "— Non. Non je peux pas, j'ai pas les moyens ce mois-ci.",
       "end": 94,
       "heatValue": 24,
       "start": 89
     },
     {
-      "content": "Non, non.",
+      "content": "— Non, non.",
       "end": 96,
       "heatValue": 10,
       "start": 94
     },
     {
-      "content": "Et au fait, c'est\ntoujours cool pour le loyer.",
+      "content": "— Et au fait, c'est\ntoujours cool pour le loyer ?",
       "end": 99,
       "heatValue": 8,
       "start": 96
     },
     {
-      "content": "Ouais.",
+      "content": "— Euh, ouais.",
       "end": 99,
       "heatValue": 7,
       "start": 99

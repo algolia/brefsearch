@@ -16,7 +16,7 @@
       "start": 1
     },
     {
-      "content": "J'avais du mal à tenir debout mon cœur.\nJ'avais du mal à tenir debout mon cœur.",
+      "content": "J'avais du mal à tenir debout.\nJ'avais mal au cœur.",
       "end": 4,
       "heatValue": 49,
       "start": 3
@@ -34,7 +34,7 @@
       "start": 7
     },
     {
-      "content": "Je suis bloqué, connard.",
+      "content": "— Je suis bloqué, connard.",
       "end": 18,
       "heatValue": 22,
       "start": 17
@@ -55,7 +55,7 @@
       "content": "Je me suis mis à courir\ndans un couloir sans fin en canard.",
       "end": 31,
       "heatValue": 26,
-      "start": 29
+      "start": 30
     },
     {
       "content": "À un moment, j'ai eu l'impression qu'on\nme filmait, mais quand j'ai voulu arrêter\nla caméra, il y a eu un générique.",
@@ -66,8 +66,8 @@
     {
       "content": "Tout d'un coup, j'étais\nà mon ancien travail.",
       "end": 40,
-      "heatValue": 26,
-      "start": 34
+      "heatValue": 30,
+      "start": 38
     },
     {
       "content": "Il y avait cette fille dont je suis\namoureux qui photocopiait un chinois.",
@@ -76,7 +76,7 @@
       "start": 40
     },
     {
-      "content": "J'essayais de parler à cette fille, mais\nelle soufflait sa s'il y aurait sur moi.",
+      "content": "J'essayais de parler à cette fille, mais\nelle soufflait sa fumée de cigarette sur moi.",
       "end": 45,
       "heatValue": 20,
       "start": 43
@@ -100,13 +100,13 @@
       "start": 51
     },
     {
-      "content": "Non, c'est pas celle de la merde.\nJ'ai reposé le paquet.",
+      "content": "— Ah non, prends pas ces pâtes c'est de la merde.\nJ'ai reposé le paquet.",
       "end": 55,
       "heatValue": 15,
       "start": 53
     },
     {
-      "content": "Il y a cette fille\nqui s'est bien me parler.",
+      "content": "Il y a cette fille\nqui s'est mis à me parler.",
       "end": 56,
       "heatValue": 16,
       "start": 55
@@ -124,13 +124,7 @@
       "start": 57
     },
     {
-      "content": "Non, putain.",
-      "end": 61,
-      "heatValue": 20,
-      "start": 59
-    },
-    {
-      "content": "T'es qu'un con.",
+      "content": "— T'es qu'un con.",
       "end": 67,
       "heatValue": 21,
       "start": 61
@@ -142,7 +136,7 @@
       "start": 67
     },
     {
-      "content": "J'étais dans la pub Energy 3000\navec le costard que je mets\nau mariage, aux enterrements\net aux entretiens d'embauche.",
+      "content": "J'étais dans la pub Energy 3000\navec le costard que je mets\naux mariages, aux enterrements\net aux entretiens d'embauche.",
       "end": 74,
       "heatValue": 10,
       "start": 69
@@ -160,7 +154,7 @@
       "start": 76
     },
     {
-      "content": "Il est bizarre ton costume.",
+      "content": "— Il est bizarre ton costume.",
       "end": 80,
       "heatValue": 7,
       "start": 78
@@ -202,7 +196,7 @@
       "start": 94
     },
     {
-      "content": "Alors j'ai dit: Youpi guy, pauvre con.",
+      "content": "Alors j'ai dit: Youpi-kay, pauvre con.",
       "end": 99,
       "heatValue": 42,
       "start": 97
@@ -220,13 +214,13 @@
       "start": 102
     },
     {
-      "content": "On peut de la suite, on va dire:,\npas deux fois.",
+      "content": "— Ah non, non, non hein. Pas deux fois.",
       "end": 110,
-      "heatValue": 15,
-      "start": 103
+      "heatValue": 11,
+      "start": 107
     },
     {
-      "content": "Youpi guy, pauvre con.",
+      "content": "Youpi-kay, pauvre con.",
       "end": 116,
       "heatValue": 4,
       "start": 112

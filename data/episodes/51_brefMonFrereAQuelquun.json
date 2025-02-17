@@ -10,31 +10,31 @@
   },
   "lines": [
     {
-      "content": "La télé Pushkar,\nle sud de l'Inde, le Kerala, etc.",
+      "content": "— Tu sais les pushcar, le Sud de l'Inde,\nle Kerala...",
       "end": 4,
       "heatValue": 56,
       "start": 0
     },
     {
-      "content": "Lui, c'est mon frère.\nIl a toujours été là pour moi.",
+      "content": "Bref. Lui, c'est mon frère.\nIl a toujours été là pour moi.",
       "end": 6,
       "heatValue": 37,
       "start": 4
     },
     {
-      "content": "Ouais, il m'a quitté.\nJ'arrive.",
+      "content": "— Ouais ?\n— Elle m'a quitté.\n— J'arrive.",
       "end": 7,
       "heatValue": 28,
       "start": 6
     },
     {
-      "content": "J'ai eu mon permis.\nJ'arrive.",
+      "content": "— Ouais ?\n— J'ai eu mon permis.\n— J'arrive.",
       "end": 9,
       "heatValue": 25,
       "start": 7
     },
     {
-      "content": "J'arrive.",
+      "content": "— J'arrive.\n— J'arrive.",
       "end": 10,
       "heatValue": 22,
       "start": 9
@@ -52,7 +52,7 @@
       "start": 12
     },
     {
-      "content": "T'étais pas bien, je t'ai fait une patate\navec des bras, mais je galérais.",
+      "content": "— Vu que t'es pas bien, je t'ai fait une patate\navec des bras\nMais je galérais.",
       "end": 17,
       "heatValue": 19,
       "start": 13
@@ -64,13 +64,19 @@
       "start": 19
     },
     {
-      "content": "Maud, c'est le genre de meuf qui organise\ndes soirées pour pouvoir dire: C'est\nma soirée, c'est pas ma soirée.",
-      "end": 25,
+      "content": "Maud, c'est le genre de meuf qui organise\ndes soirées pour pouvoir dire:",
+      "end": 24,
       "heatValue": 23,
       "start": 22
     },
     {
-      "content": "Quand elle organise une soirée,\nelle organise une soirée.",
+      "content": "— C'est ma soirée, ou c'est pas ma soirée.",
+      "end": 25,
+      "heatValue": 23,
+      "start": 24
+    },
+    {
+      "content": "Quand elle organise une soirée,\nelle ORGANISE une soirée.",
       "end": 27,
       "heatValue": 22,
       "start": 25
@@ -82,7 +88,7 @@
       "start": 27
     },
     {
-      "content": "Toi, tu es là.\nElle crie: Ouais.",
+      "content": "— Toi, t'es là.\nElle crie:\n— Ouaaaaais.",
       "end": 30,
       "heatValue": 20,
       "start": 28
@@ -94,7 +100,7 @@
       "start": 30
     },
     {
-      "content": "Non, je sais pas, je suis débordée.",
+      "content": "— Non, je sais pas, je suis débordée.",
       "end": 33,
       "heatValue": 18,
       "start": 32
@@ -106,7 +112,7 @@
       "start": 33
     },
     {
-      "content": "Pardon.\nElle crie ouais.",
+      "content": "— Pardon.\nElle crie ouais.\n— Ouaaaaais.",
       "end": 35,
       "heatValue": 17,
       "start": 34
@@ -124,37 +130,37 @@
       "start": 39
     },
     {
-      "content": "Moi, je pars du principe que...\nElle fait des cacos d'olive.",
+      "content": "— Moi, je pars du principe que...\nElle fait des cakes aux olives.",
       "end": 44,
       "heatValue": 13,
       "start": 43
     },
     {
-      "content": "Elle crie ouais.\nElle range alors qu'on est encore là.",
+      "content": "Elle crie ouais.\n— Ouaaaaais.\nElle range alors qu'on est encore là.",
       "end": 47,
       "heatValue": 12,
       "start": 44
     },
     {
-      "content": "Pardon.",
+      "content": "— Pardon.",
       "end": 49,
       "heatValue": 10,
       "start": 47
     },
     {
-      "content": "À la fin, elle dit toujours: C'est\nla dernière fois que je fais une soirée.",
+      "content": "À la fin, elle dit toujours:\n— C'est la dernière fois que je fais une soirée.",
       "end": 52,
       "heatValue": 8,
       "start": 49
     },
     {
-      "content": "Je suis crevée.",
+      "content": "— Je suis crevée.",
       "end": 53,
       "heatValue": 8,
       "start": 52
     },
     {
-      "content": "Et la semaine d'après,\nelle refait une soirée.",
+      "content": "Et la semaine d'après :\n— Ouaaaaais.\nElle refait une soirée.",
       "end": 56,
       "heatValue": 7,
       "start": 53
@@ -166,19 +172,19 @@
       "start": 56
     },
     {
-      "content": "Mon frère était là et dans 15 minutes,\nMode allait arriver par hasard.",
+      "content": "Mon frère était là et dans 15 minutes,\nMaud allait arriver par hasard.",
       "end": 61,
       "heatValue": 7,
       "start": 58
     },
     {
-      "content": "Ouais, Maud, ça te dirait\nde passer à la maison ?",
+      "content": "— Ouais, Maud, ça te dirait\nde passer à la maison ?",
       "end": 63,
       "heatValue": 8,
       "start": 61
     },
     {
-      "content": "On pourrait parler de ta dernière soirée.",
+      "content": "— On pourrait parler de ta dernière soirée.",
       "end": 65,
       "heatValue": 9,
       "start": 63
@@ -190,19 +196,19 @@
       "start": 65
     },
     {
-      "content": "J'ai dit: T'as rencontré quelqu'un ?\nIl m'a dit: Non.",
+      "content": "J'ai dit:\n— T'as rencontré quelqu'un ?\nIl m'a dit:\n— Non.",
       "end": 69,
       "heatValue": 12,
       "start": 67
     },
     {
-      "content": "J'ai dit: T'as rencontré quelqu'un ?\nIl m'a dit: Oui.",
+      "content": "J'ai dit:\n— T'as rencontré quelqu'un ?\nIl m'a dit:\n— Oui.",
       "end": 71,
       "heatValue": 12,
       "start": 69
     },
     {
-      "content": "J'ai dit: C'est Maud ?\nIl m'a dit: Non.",
+      "content": "J'ai dit:\n— C'est Maud ?\nIl m'a dit:\n— Bha, non.",
       "end": 73,
       "heatValue": 13,
       "start": 71
@@ -220,58 +226,52 @@
       "start": 74
     },
     {
-      "content": "Elle est brune ?\nNon.",
+      "content": "— Elle est brune ?\n— Non.",
       "end": 78,
       "heatValue": 14,
       "start": 76
     },
     {
-      "content": "Elle a un rire énervant ?\nNon.",
+      "content": "— Elle a un rire énervant ?\n— Non.",
       "end": 80,
       "heatValue": 15,
       "start": 78
     },
     {
-      "content": "Elle dit l'ol dans la vraie vie ?\nNon.",
+      "content": "— Elle dit lol dans la vraie vie ?\n— Non.",
       "end": 81,
       "heatValue": 16,
       "start": 80
     },
     {
-      "content": "Grande, petite, chelou, alcoolique ?\nNon.",
+      "content": "— Grande ?\n— Petite ?\n— Cheloue ?\n— Alcolique ?",
       "end": 84,
       "heatValue": 18,
       "start": 81
     },
     {
-      "content": "Non.\nAlors, ça peut être que...",
+      "content": "— Non.\n— Non.\n— Non.\n— Non.",
       "end": 88,
       "heatValue": 24,
       "start": 84
     },
     {
-      "content": "Salut mon homme, salut.",
+      "content": "Alors, ça peut être que...",
       "end": 95,
       "heatValue": 23,
       "start": 89
     },
     {
-      "content": "C'est cool que tu sois là.",
+      "content": "— Hey salut Maud.\n— Salut.\n— C'est cool que tu sois là.",
       "end": 96,
       "heatValue": 22,
       "start": 95
     },
     {
-      "content": "Justement, il y a Keyvan qui est passé.",
+      "content": "— Justement, il y a Keyvan qui est passé. Entre.",
       "end": 97,
       "heatValue": 22,
       "start": 96
-    },
-    {
-      "content": "Entre.",
-      "end": 102,
-      "heatValue": 19,
-      "start": 97
     },
     {
       "content": "Bref, mon frère a quelqu'un.",
@@ -280,13 +280,13 @@
       "start": 102
     },
     {
-      "content": "Il était à quoi ce cake\nsalé la dernière fois ?",
+      "content": "— Il était à quoi alors ce cake\nsalé la dernière fois ?",
       "end": 112,
       "heatValue": 24,
       "start": 109
     },
     {
-      "content": "Aux olives.\nAux olives..",
+      "content": "— Aux olives.\n— Aux olives.",
       "end": 114,
       "heatValue": 25,
       "start": 112

@@ -23,18 +23,18 @@
     },
     {
       "content": "Un film suffisamment intéressant\npour qu'elle soit contente de le voir,\nmais suffisamment moyen pour qu'elle\nme jette pas si j'essayais un truc.",
-      "end": 13,
-      "heatValue": 45,
-      "start": 8
+      "end": 14,
+      "heatValue": 47,
+      "start": 10
     },
     {
-      "content": "Je crois que j'ai un cancer.",
+      "content": "— Je crois que j'ai un cancer.",
       "end": 15,
-      "heatValue": 41,
-      "start": 13
+      "heatValue": 39,
+      "start": 14
     },
     {
-      "content": "Mon Dieu !\nMon Dieu !",
+      "content": "— Mon Dieu ! Mon Dieu !",
       "end": 17,
       "heatValue": 34,
       "start": 16
@@ -46,43 +46,43 @@
       "start": 17
     },
     {
-      "content": "Pendant qu'on faisait la queue,\ndes gens ient de la salle\net racontaient la fin du film.",
+      "content": "Pendant qu'on faisait la queue,\ndes gens sortaient de la salle\net racontaient la fin du film.",
       "end": 21,
       "heatValue": 24,
       "start": 19
     },
     {
-      "content": "J'aurais jamais cru que\nc'était le frère, le tueur.",
+      "content": "— J'aurais jamais cru que\nc'était le frère, le tueur, en fait.",
       "end": 23,
       "heatValue": 21,
       "start": 21
     },
     {
-      "content": "Ça m'a énervé.\nJ'ai dit: Tu veux du popcorn ?",
+      "content": "Ça m'a énervé.\nJ'ai dit:\n— Tu veux du popcorn ?",
       "end": 25,
       "heatValue": 20,
       "start": 24
     },
     {
-      "content": "Elle a dit: La vendeuse m'a\ndit: Vous voulez du popcorn ?",
+      "content": "Elle a dit:\n— Ouais.\nLa vendeuse m'a dit:\n— Vous voulez du popcorn ?",
       "end": 27,
       "heatValue": 20,
       "start": 25
     },
     {
-      "content": "J'ai dit: Elle a dit: 8h00.",
+      "content": "J'ai dit:\n— Oui.\nElle a dit:\n— 8 Euros.",
       "end": 29,
       "heatValue": 22,
       "start": 27
     },
     {
-      "content": "J'ai entendu: 1 000 $.",
+      "content": "J'ai entendu:\n— 1000 Dollars.",
       "end": 30,
       "heatValue": 23,
       "start": 29
     },
     {
-      "content": "J'ai aussi acheté de l'énergie\n3000, je sais pas pourquoi.",
+      "content": "J'ai aussi acheté de l'Energy 3000,\nje sais pas pourquoi.",
       "end": 32,
       "heatValue": 23,
       "start": 30
@@ -94,7 +94,7 @@
       "start": 32
     },
     {
-      "content": "Énergie 3000,\nla boisson des frais de bonhomme.",
+      "content": "— Énergy 3000,\nla boisson des vrais bonhommes.",
       "end": 36,
       "heatValue": 18,
       "start": 34
@@ -106,19 +106,19 @@
       "start": 36
     },
     {
-      "content": "Vas-y.\nSi tu m'aimais vraiment, on regarderait.",
+      "content": "— Vas-y.\n— Si tu m'aimais vraiment, tu me regarderai.",
       "end": 42,
       "heatValue": 14,
       "start": 40
     },
     {
-      "content": "Oui, je t'aime.\nOui, dis-lui.",
+      "content": "— Oui. Oui. Dis-lui.",
       "end": 44,
       "heatValue": 14,
       "start": 42
     },
     {
-      "content": "Alors, regarde Dis-lui que je t'aime.\nJ'ai trouvé ça mignon.",
+      "content": "J'ai trouvé ça mignon.",
       "end": 46,
       "heatValue": 16,
       "start": 44
@@ -136,7 +136,7 @@
       "start": 48
     },
     {
-      "content": "Vas-y, vas-y.\nOui, oui, oui.",
+      "content": "— Vas-y, vas-y. Oui, oui, oui.",
       "end": 52,
       "heatValue": 30,
       "start": 49
@@ -184,7 +184,7 @@
       "start": 63
     },
     {
-      "content": "Depuis le début, il a jamais eu le cancer.\nC'est fou.",
+      "content": "— Depuis le début, il a jamais eu\nle cancer, c'est fou.",
       "end": 67,
       "heatValue": 21,
       "start": 64
@@ -208,19 +208,19 @@
       "start": 72
     },
     {
-      "content": "Je crois qu'il y a plus de métro.",
+      "content": "— Je crois qu'il y a plus de métro.",
       "end": 74,
       "heatValue": 13,
       "start": 73
     },
     {
-      "content": "J'ai Je me suis dit que mon courage de\ndemain, je lui ai dit: Tu veux que je...",
+      "content": "Alors j'ai pris mon courage à deux mains et\nje lui ai dit:\n— Tu veux que je...",
       "end": 76,
       "heatValue": 13,
       "start": 74
     },
     {
-      "content": "Tu me raccompagnes au bus de nuit ?\nC'est sur ton chemin.",
+      "content": "— Tu me raccompagnes au bus de nuit ? C'est sur ton chemin.",
       "end": 78,
       "heatValue": 13,
       "start": 76
@@ -244,13 +244,13 @@
       "start": 85
     },
     {
-      "content": "Il y a mon bus, il y en a\nun toutes les dessous de 45 minutes.",
+      "content": "— Y a mon bus, il y en a\nun toutes les 45 minutes.",
       "end": 90,
       "heatValue": 11,
       "start": 87
     },
     {
-      "content": "Je suis désolée, je dois le prendre.",
+      "content": "— Je suis désolée, je dois le prendre.",
       "end": 96,
       "heatValue": 12,
       "start": 90

@@ -10,13 +10,13 @@
   },
   "lines": [
     {
-      "content": "Excuse-moi.\nC'était un jour de merde.",
+      "content": "— Excuse-moi.\nC'était un jour de merde.",
       "end": 2,
       "heatValue": 73,
       "start": 1
     },
     {
-      "content": "Un mec qui voulait me voler\nmon portable m'avait mis\nune claque et comme un grelash,\nje lui avais répondu: Bonne journée.",
+      "content": "Un mec qui voulait me voler\nmon portable m'avait mis\nune claque et comme un gros lache,\nje lui avais répondu:\n— Bonne journée.",
       "end": 5,
       "heatValue": 70,
       "start": 2
@@ -28,7 +28,7 @@
       "start": 5
     },
     {
-      "content": "Personne n'a répondu, à part Kheiron\nqui a dit: Je suis sûr que tu lui as dit\nbonne journée et qui a mis: J'aime.",
+      "content": "Personne n'a répondu, à part Kheiron\nqui a dit:\n— Je suis sûr que tu lui as dit\nbonne journée.\nEt qui a mis: J'aime.",
       "end": 11,
       "heatValue": 66,
       "start": 8
@@ -52,7 +52,7 @@
       "start": 19
     },
     {
-      "content": "Quand on couchait ensemble,\nje me disais toujours: Fils de pute, va.",
+      "content": "Quand on couchait ensemble,\nje me disais toujours:\n— Fils de pute, va.",
       "end": 24,
       "heatValue": 52,
       "start": 20
@@ -64,13 +64,13 @@
       "start": 24
     },
     {
-      "content": "Et c'est là qu'a commencé\nle festival du J'aurais dû.",
+      "content": "Et c'est là qu'a commencé\nle festival du \"J'aurais dû\".",
       "end": 27,
       "heatValue": 46,
       "start": 24
     },
     {
-      "content": "J'aurais dû lui dire: Je m'appelle pas Eh.",
+      "content": "J'aurais dû lui dire:\n— Je m'appelle pas Hey!",
       "end": 29,
       "heatValue": 33,
       "start": 27
@@ -82,31 +82,31 @@
       "start": 29
     },
     {
-      "content": "Chante la comima, buvon.",
+      "content": "— Chante !\n— La comimaaa\n— Plus fort !",
       "end": 36,
       "heatValue": 29,
       "start": 33
     },
     {
-      "content": "Au lieu de ça, j'ai dit: Bonne journée.\nMerde.",
+      "content": "Au lieu de ça, j'ai dit:\n— Bonne journée.\nMerde.",
       "end": 39,
       "heatValue": 25,
       "start": 36
     },
     {
-      "content": "Ou alors j'aurais dû lui\ndire: Je m'appelle pas Eh.",
+      "content": "Ou alors j'aurais dû lui\ndire:\n— Hey, Je m'appelle pas Hey !",
       "end": 41,
       "heatValue": 17,
       "start": 39
     },
     {
-      "content": "Et puisque tu crois\nque je fais mon prénom.",
+      "content": "— Et puisque tu crois\nque c'est mon prénom...",
       "end": 43,
       "heatValue": 15,
       "start": 41
     },
     {
-      "content": "Je l'aurais mis à genou,\nje l'aurais gravé: Eh pour\nfaire bouge sur son enfant.",
+      "content": "Je l'aurais mis à genou,\net je lui aurai gravé: \"Hey\"\nau fer rouge sur son front.",
       "end": 45,
       "heatValue": 14,
       "start": 43
@@ -118,13 +118,13 @@
       "start": 45
     },
     {
-      "content": "Au lieu de ça, j'ai dit: Bonne journée.\nMerde.",
+      "content": "Au lieu de ça, j'ai dit:\n— Bonne journée.\nMerde.",
       "end": 50,
       "heatValue": 12,
       "start": 47
     },
     {
-      "content": "Au moment où il m'a dit: Fils de pute.",
+      "content": "Au moment où il m'a dit:\n— Fils de pute.",
       "end": 52,
       "heatValue": 9,
       "start": 50
@@ -136,73 +136,67 @@
       "start": 53
     },
     {
-      "content": "Il t'a dit quoi ?",
+      "content": "— Il t'a dit quoi ?",
       "end": 56,
       "heatValue": 7,
       "start": 55
     },
     {
-      "content": "Il vient de parler de ta mère.",
+      "content": "— Il vient de parler de ta mère.",
       "end": 57,
       "heatValue": 7,
       "start": 56
     },
     {
-      "content": "Il t'a mis une claque,\ntu vas pas rester T'as pas mal.",
+      "content": "— Il t'a mis une claque,\ntu vas pas rester là ?\n— Non !\n— T'as pas mal !\n— Non !",
       "end": 60,
       "heatValue": 9,
       "start": 57
     },
     {
-      "content": "Le stade aurait crié mon nom.",
+      "content": "Le stade aurait crié mon nom.\n— Hey!\n— Hey!",
       "end": 71,
-      "heatValue": 12,
-      "start": 60
+      "heatValue": 15,
+      "start": 69
     },
     {
       "content": "J'avais tourné la page et un midi,\nje suis arrivé dans un fast-food.",
       "end": 75,
-      "heatValue": 13,
-      "start": 71
+      "heatValue": 12,
+      "start": 73
     },
     {
-      "content": "C'était lui.\nBonjour.",
+      "content": "C'était lui.\n— Bonjour.",
       "end": 77,
       "heatValue": 13,
       "start": 75
     },
     {
-      "content": "C'était le moment que j'avais attendu.\nIl m'a demandé: Frite ou potatoes ?",
+      "content": "C'était le moment que j'avais attendu.\nIl m'a demandé:\n— Frite ou potatoes ?",
       "end": 79,
       "heatValue": 13,
       "start": 77
     },
     {
-      "content": "Vas-y, bonhomme, grave-lui !",
-      "end": 80,
-      "heatValue": 13,
+      "content": "— Vas-y, bonhomme, grave-lui \"Hey\"\n— au fer rouge, sur son front !",
+      "end": 82,
+      "heatValue": 12,
       "start": 79
     },
     {
-      "content": "Hé, au fer rouge, sur son front !",
-      "end": 82,
-      "heatValue": 11,
-      "start": 80
-    },
-    {
-      "content": "J'ai dit: potatoes ?",
+      "content": "J'ai dit:\n— Potatoes.",
       "end": 84,
       "heatValue": 10,
       "start": 82
     },
     {
-      "content": "Il m'a demandé: Sur place ou emporté ?\nVas-y, fais le chant en italien !",
+      "content": "Il m'a demandé:\n— Sur place ou à emporter ?\n— Vas-y, fais le chanter en italien !",
       "end": 86,
       "heatValue": 10,
       "start": 84
     },
     {
-      "content": "J'ai dit: A emporté.",
+      "content": "J'ai dit:\n— À emporter !",
       "end": 96,
       "heatValue": 14,
       "start": 86
@@ -214,7 +208,7 @@
       "start": 97
     },
     {
-      "content": "Je voulais vraiment pas en rester\nlà, alors j'ai dit: Bonne journée.",
+      "content": "Je voulais vraiment pas en rester\nlà, alors j'ai dit:\n— Bonne journée.",
       "end": 102,
       "heatValue": 18,
       "start": 99
@@ -226,16 +220,10 @@
       "start": 102
     },
     {
-      "content": "'Est pas grave.",
+      "content": "— Aïe\n— Pardon\n— Ben, c'est pas grave\n— Bonne journée.\n— Bonne journée.",
       "end": 111,
       "heatValue": 50,
       "start": 110
-    },
-    {
-      "content": "Bonne journée.\nBonne journée..",
-      "end": 111,
-      "heatValue": 49,
-      "start": 111
     }
   ],
   "video": {

@@ -76,13 +76,13 @@
       "start": 22
     },
     {
-      "content": "— Pour l'enterrement ?\nElle a raccroché.",
+      "content": "— Pour l'enterrement ?\nElle a raccroché. J'y suis allé.",
       "end": 26,
       "heatValue": 13,
       "start": 24
     },
     {
-      "content": "J'y suis allé.\nOn était deux au fond de son jardin.",
+      "content": "On était deux au fond de son jardin.",
       "end": 29,
       "heatValue": 11,
       "start": 26
@@ -94,7 +94,7 @@
       "start": 29
     },
     {
-      "content": "J'avais la costarde que je mets\nau mariage, aux entretiens d'embauche\net aux enterrements.",
+      "content": "J'avais le costard que je mets\naux mariages, aux entretiens d'embauche\net aux enterrements.",
       "end": 34,
       "heatValue": 11,
       "start": 31
@@ -112,37 +112,37 @@
       "start": 36
     },
     {
-      "content": "J'ai dit: Anne perdue.",
+      "content": "J'ai dit:\n— Un de perdu...",
       "end": 38,
       "heatValue": 13,
       "start": 37
     },
     {
-      "content": "Elle a dit: Arrête de parler.",
+      "content": "Elle a dit:\n— Arrête de parler.",
       "end": 41,
       "heatValue": 14,
       "start": 38
     },
     {
-      "content": "J'ai arrêté de parler.\nArrête de penser.",
+      "content": "J'ai arrêté de parler.\n— Arrête de penser.",
       "end": 43,
       "heatValue": 15,
       "start": 41
     },
     {
-      "content": "C'était long.\nArrête de penser, jeudi.",
+      "content": "C'était long.\n— Arrête de penser, j'ai dis.",
       "end": 48,
       "heatValue": 12,
       "start": 46
     },
     {
-      "content": "Croquettes, tu vas nous manquer.",
+      "content": "— Croquette, tu vas nous manquer.",
       "end": 58,
       "heatValue": 10,
       "start": 51
     },
     {
-      "content": "Toi et tes petites patounettes.",
+      "content": "— Toi et tes petites patounettes.",
       "end": 70,
       "heatValue": 23,
       "start": 59
@@ -154,43 +154,43 @@
       "start": 70
     },
     {
-      "content": "Elle me connaissait bien,\nje Je me suis dit que ça allait\nêtre compliqué de coucher avec elle.\nElle a dit: Je peux venir chez toi ?",
+      "content": "Elle me connaissait bien,\nje Je me suis dit que ça allait\nêtre compliqué de coucher avec elle.\nElle a dit:\n— Je peux venir chez toi ?",
       "end": 77,
       "heatValue": 78,
       "start": 74
     },
     {
-      "content": "Non.\nOn a couché ensemble, elle m'a dit: Merci.",
+      "content": "Ah, non.\nOn a couché ensemble, elle m'a dit:\n— Merci.",
       "end": 82,
       "heatValue": 85,
       "start": 77
     },
     {
-      "content": "J'ai dit: Pas de quoi.",
+      "content": "J'ai dit:\n— Pas de quoi.",
       "end": 85,
       "heatValue": 69,
       "start": 82
     },
     {
-      "content": "T'es qu'un con.\nBref, on a enterré Crockett.",
+      "content": "— T'es qu'un con.\nBref, on a enterré Croquette.",
       "end": 88,
       "heatValue": 45,
       "start": 85
     },
     {
-      "content": "Crockett, tu vas nous manquer.",
+      "content": "— Croquette, tu va nous manquer.",
       "end": 94,
       "heatValue": 20,
       "start": 88
     },
     {
-      "content": "Toi et tes petits œufs de poulette.",
+      "content": "— Toi et tes petites patounettes.",
       "end": 102,
       "heatValue": 15,
       "start": 95
     },
     {
-      "content": "T'es qu'un con.",
+      "content": "— T'es qu'un con.",
       "end": 102,
       "heatValue": 18,
       "start": 102

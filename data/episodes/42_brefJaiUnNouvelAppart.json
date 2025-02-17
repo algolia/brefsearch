@@ -22,7 +22,7 @@
       "start": 5
     },
     {
-      "content": "que j'ai fait du vélo sans les rouler.",
+      "content": "que j'ai fait du vélo sans les roulettes.",
       "end": 10,
       "heatValue": 76,
       "start": 9
@@ -46,7 +46,7 @@
       "start": 13
     },
     {
-      "content": "Au bout de trois mois, elle m'a dit:\nJe suis contente qu'on habite ensemble.",
+      "content": "Au bout de trois mois, elle m'a dit:\n— Je suis contente qu'on habite ensemble.",
       "end": 21,
       "heatValue": 20,
       "start": 16
@@ -58,25 +58,25 @@
       "start": 21
     },
     {
-      "content": "J'ai voulu lui dire: On\nhabite pas ensemble ?",
+      "content": "J'ai voulu lui dire:\n— Mais, on habite pas ensemble.",
       "end": 23,
       "heatValue": 13,
       "start": 22
     },
     {
-      "content": "Mes chaussettes en train de sécher ont dit\nsi, ma brosse à dents et mon fil dentaire\nont dit si, et mon ordinateur\nvidé de ses 240 films pornos a",
+      "content": "Mes chaussettes en train de sécher ont dit: — Si.\nMa brosse à dents et mon fil dentaire\nont dit: — Si.\nEt mon ordinateur vidé de ses 240 films pornos a",
       "end": 27,
       "heatValue": 12,
       "start": 23
     },
     {
-      "content": "dit: Franchement, vous habitez ensemble ?\nOn ensemble.",
+      "content": "dit: Franchement, vous habitez ensemble.\nOn habitait ensemble.",
       "end": 29,
       "heatValue": 12,
       "start": 27
     },
     {
-      "content": "Alors j'ai dit: Moi aussi,\nje suis content.",
+      "content": "Alors j'ai dit:\n— Moi aussi, je suis content.",
       "end": 33,
       "heatValue": 8,
       "start": 29
@@ -124,13 +124,13 @@
       "start": 50
     },
     {
-      "content": "Sans culture, recette.",
+      "content": "— Sans culture...",
       "end": 57,
       "heatValue": 5,
       "start": 53
     },
     {
-      "content": "Première bafrika.",
+      "content": "— Proverbe africain.",
       "end": 59,
       "heatValue": 4,
       "start": 57
@@ -142,37 +142,37 @@
       "start": 59
     },
     {
-      "content": "Elle est arrivée, elle m'a dit.\nÇa va ?",
+      "content": "Elle est arrivée, elle m'a dit.\n— Ça va ?",
       "end": 63,
       "heatValue": 3,
       "start": 61
     },
     {
-      "content": "Tu as l'air bizarre.\nJ'ai dit.",
+      "content": "Tu as l'air bizarre.\nJ'ai dit :",
       "end": 64,
       "heatValue": 3,
       "start": 63
     },
     {
-      "content": "Ouais, ça va.",
+      "content": "— Ouais, ça va.",
       "end": 74,
       "heatValue": 4,
       "start": 64
     },
     {
-      "content": "Je me sens pas chez moi, ici,\nil y a rien qui est à moi.",
+      "content": "— Je me sens pas chez moi, ici,\nil y a rien qui est à moi.",
       "end": 77,
       "heatValue": 6,
       "start": 74
     },
     {
-      "content": "Quoi ?",
+      "content": "— Quoi ?",
       "end": 78,
       "heatValue": 7,
       "start": 77
     },
     {
-      "content": "Qu'est-ce qui se passe ?\nJ'ai bien rien fait d'ici.",
+      "content": "— Qu'est-ce qui se passe ?\n— J'ai jamais rien choisi ici.",
       "end": 79,
       "heatValue": 8,
       "start": 78
@@ -184,55 +184,55 @@
       "start": 79
     },
     {
-      "content": "Je sais pas, moi, parce que je t'aime.\nOuais, bah...",
+      "content": "— Bha je sais pas, moi, parce que je t'aime !\n— Ouais, bah...",
       "end": 89,
       "heatValue": 11,
       "start": 82
     },
     {
-      "content": "Bah, moi aussi.\nLe charme du quartier.",
+      "content": "— Bah, moi aussi.\nLe charme du quartier.",
       "end": 94,
       "heatValue": 12,
       "start": 89
     },
     {
       "content": "Bref, je vis avec cette fille.",
-      "end": 101,
-      "heatValue": 15,
+      "end": 96,
+      "heatValue": 13,
       "start": 95
     },
     {
-      "content": "Bon, bah, voilà.",
+      "content": "— Bon, bah, voilà.",
       "end": 104,
       "heatValue": 20,
       "start": 102
     },
     {
-      "content": "Vous le payiez juste le joint,\nça m'a pris dix minutes.",
+      "content": "— Vous me payez juste le joint,\nça m'a pris dix minutes, c'est pas grand chose.",
       "end": 106,
       "heatValue": 20,
       "start": 104
     },
     {
-      "content": "Pas grand-chose.\nDix, ça va.",
+      "content": "— Dix, ça va ?",
       "end": 109,
       "heatValue": 19,
       "start": 106
     },
     {
-      "content": "Le charme du quartier.\nOuais.",
+      "content": "— Ouais.",
       "end": 111,
       "heatValue": 17,
       "start": 109
     },
     {
-      "content": "Allez, merci.\nMerci à vous.",
+      "content": "— Allez, merci.\n— Merci à vous.",
       "end": 113,
       "heatValue": 14,
       "start": 111
     },
     {
-      "content": "Au revoir.\nAu revoir..",
+      "content": "— Au revoir.\n— Au revoir.",
       "end": 113,
       "heatValue": 13,
       "start": 113

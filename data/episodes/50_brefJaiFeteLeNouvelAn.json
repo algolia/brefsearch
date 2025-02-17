@@ -22,7 +22,7 @@
       "start": 2
     },
     {
-      "content": "On m'avait proposé dix soirées.\nJe n'avais pas laquelle choisir.",
+      "content": "On m'avait proposé dix soirées.\nJe savais pas laquelle choisir.",
       "end": 4,
       "heatValue": 49,
       "start": 3
@@ -52,7 +52,7 @@
       "start": 8
     },
     {
-      "content": "Et l'organisateur m'a demandé de partir.\nÇa ne va pas le faire là.",
+      "content": "Et l'organisateur m'a demandé de partir.\n— Va falloir y aller, ça va pas le faire là.",
       "end": 14,
       "heatValue": 58,
       "start": 10
@@ -64,22 +64,16 @@
       "start": 14
     },
     {
-      "content": "Le petit jeune, j'étais\nà deux doigts de le juger.",
+      "content": "— Le petit jeune, j'étais à deux doigts\nde le sucer.",
       "end": 20,
       "heatValue": 54,
       "start": 16
     },
     {
-      "content": "Il fallait y aller.",
+      "content": "— Oh ben, fallait y aller, moi j'hésite pas !",
       "end": 21,
       "heatValue": 50,
       "start": 20
-    },
-    {
-      "content": "Moi, je n'hésite pas.",
-      "end": 23,
-      "heatValue": 46,
-      "start": 22
     },
     {
       "content": "Je suis parti.",
@@ -94,13 +88,13 @@
       "start": 26
     },
     {
-      "content": "En 42ème position des Le plus\nmarrant, le chat qui tousse\navec du chocolat en poudre.",
-      "end": 32,
-      "heatValue": 17,
+      "content": "En 42ème position des 100 chats les plus\nmarrants le chat qui tousse avec\ndu chocolat en poudre.",
+      "end": 31,
+      "heatValue": 18,
       "start": 28
     },
     {
-      "content": "Le petit chat.",
+      "content": "— Haha, le petit chat.",
       "end": 34,
       "heatValue": 14,
       "start": 32
@@ -109,7 +103,7 @@
       "content": "La soirée jeu de société.",
       "end": 37,
       "heatValue": 19,
-      "start": 35
+      "start": 36
     },
     {
       "content": "D'après Philippe Soupeau,\nquel est le pire ennemi de l'amitié ?",
@@ -118,19 +112,19 @@
       "start": 37
     },
     {
-      "content": "Ennui.\nNon, c'était l'ambition.",
+      "content": "— L'ennui ?\n— Mais non, c'était l'ambition. J'le savais moi.",
       "end": 43,
       "heatValue": 28,
       "start": 41
     },
     {
-      "content": "Je le savais, moi.\nIls ont rigolé.",
+      "content": "Ils ont rigolé.\nJe suis parti.",
       "end": 46,
       "heatValue": 31,
       "start": 43
     },
     {
-      "content": "Je suis parti.\nSix.",
+      "content": "Six.",
       "end": 48,
       "heatValue": 34,
       "start": 46
@@ -142,7 +136,7 @@
       "start": 48
     },
     {
-      "content": "Quatre.",
+      "content": "Cinq.",
       "end": 53,
       "heatValue": 30,
       "start": 52
@@ -154,37 +148,31 @@
       "start": 53
     },
     {
-      "content": "Barrez-vous, barrez-vous.\nJe me suis barré.",
+      "content": "— Barrez-vous, barrez-vous.\nJe me suis barré.",
       "end": 58,
       "heatValue": 29,
       "start": 55
     },
     {
-      "content": "Quatre.\nLa soirée Annuler.",
+      "content": "Quatre.\nLa soirée... annulée.",
       "end": 62,
       "heatValue": 32,
       "start": 58
     },
     {
-      "content": "La soirée à problèmes.\nPourquoi tu me fais ça ?",
+      "content": "La soirée à problèmes.\n— Pourquoi tu me parles ?\n— Putain !",
       "end": 66,
       "heatValue": 41,
       "start": 62
     },
     {
-      "content": "Tiens.\nLa soirée à thèmes.",
-      "end": 70,
-      "heatValue": 61,
-      "start": 66
-    },
-    {
-      "content": "Pourquoi vous mettez des baches ?\nOu tu n'es pas d'accord avec le thème.",
+      "content": "La soirée à thèmes.\n— Pourquoi vous mettez des baches ?\nOù t'es pas d'accord avec le thème.",
       "end": 72,
       "heatValue": 84,
       "start": 70
     },
     {
-      "content": "C'est une soirée héroïophilie.",
+      "content": "— Bha c'est une soirée urophilie.",
       "end": 74,
       "heatValue": 94,
       "start": 72
@@ -196,13 +184,13 @@
       "start": 74
     },
     {
-      "content": "Chéri, tu es où ?\nC'est à la soirée de The Nine.",
+      "content": "— Ouais chéri, t'es où ? J'suis à\nla soirée The Name.",
       "end": 78,
       "heatValue": 51,
       "start": 77
     },
     {
-      "content": "Il y a tout le monde, c'est génial.\nCool, j'arrive.",
+      "content": "— Y a tout le monde, c'est génial.\n— Cool, j'arrive.",
       "end": 80,
       "heatValue": 27,
       "start": 78
@@ -214,19 +202,19 @@
       "start": 80
     },
     {
-      "content": "Tu es venu venir ?",
+      "content": "— T'as pu venir !",
       "end": 85,
       "heatValue": 9,
       "start": 81
     },
     {
-      "content": "Bonne Bonne année, mec.",
+      "content": "— Bonne année, mec.",
       "end": 91,
       "heatValue": 7,
       "start": 85
     },
     {
-      "content": "Bonne année.",
+      "content": "— Bonne année.",
       "end": 94,
       "heatValue": 6,
       "start": 92
@@ -238,25 +226,19 @@
       "start": 94
     },
     {
-      "content": "Là, c'est la tente.",
+      "content": "— Merci d'attendre.",
       "end": 100,
       "heatValue": 10,
       "start": 99
     },
     {
-      "content": "Elle a perdu mon emploi la semaine\ndernière.",
-      "end": 105,
-      "heatValue": 15,
-      "start": 100
-    },
-    {
-      "content": "Là, elle est tombée.\nTu veux boire un coup ?",
+      "content": "— Hey, tu veux boire un coup ?",
       "end": 108,
       "heatValue": 15,
       "start": 105
     },
     {
-      "content": "Non, merci.",
+      "content": "— Non, merci.",
       "end": 109,
       "heatValue": 10,
       "start": 108

@@ -10,7 +10,7 @@
   },
   "lines": [
     {
-      "content": "Ce n'est pas normal.",
+      "content": "— Ce n'est pas normal.",
       "end": 2,
       "heatValue": 71,
       "start": 0
@@ -46,25 +46,25 @@
       "start": 6
     },
     {
-      "content": "Je l'ai dit sur Facebook.\nBaptiste m'a dit: Lol.",
+      "content": "Je l'ai dit sur Facebook.\nBaptiste m'a dit:\nÈ Lol.",
       "end": 9,
       "heatValue": 79,
       "start": 7
     },
     {
-      "content": "Mon ex m'a dit: Bien fait.",
+      "content": "Mon ex m'a dit:\n— Bien fait.",
       "end": 10,
       "heatValue": 83,
       "start": 9
     },
     {
-      "content": "Kheiron m'a dit: Un truc dégueulasse.\nJulien m'a dit: Mange de la mie de pain.",
+      "content": "Kheiron m'a dit un truc dégueulasse.\nJulien m'a dit: Mange de la mie de pain. Enfin...",
       "end": 12,
       "heatValue": 86,
       "start": 10
     },
     {
-      "content": "Enfin, je n'avais pas de mie de pain.",
+      "content": "J'avais pas de mie de pain.",
       "end": 13,
       "heatValue": 83,
       "start": 12
@@ -82,25 +82,25 @@
       "start": 18
     },
     {
-      "content": "Vous avez besoin d'un bilan complet.",
+      "content": "— J'ai besoin d'un bilan complet.",
       "end": 21,
       "heatValue": 21,
       "start": 19
     },
     {
-      "content": "Coac, chimie, yono.",
+      "content": "— Coag, chimie, iono.",
       "end": 22,
       "heatValue": 18,
       "start": 21
     },
     {
-      "content": "On est en train de perdre.",
+      "content": "— On est en train de perdre.",
       "end": 24,
       "heatValue": 16,
       "start": 22
     },
     {
-      "content": "Allez, on passe au bloc,\non y va, on y va, on y va.",
+      "content": "— Allez, on passe au bloc,\non y va, on y va, on y va.",
       "end": 28,
       "heatValue": 15,
       "start": 24
@@ -136,13 +136,13 @@
       "start": 34
     },
     {
-      "content": "Un mec bizarre s'est approché et m'a\ndit: J'ai un bébé mort dans le ventre.",
+      "content": "Un mec bizarre s'est approché et m'a\ndit:\n— J'ai un bébé mort dans le ventre.",
       "end": 39,
       "heatValue": 27,
       "start": 35
     },
     {
-      "content": "J'ai dit: D'accord.",
+      "content": "J'ai dit:\n— D'accord.",
       "end": 41,
       "heatValue": 25,
       "start": 39
@@ -154,13 +154,13 @@
       "start": 41
     },
     {
-      "content": "J'ai dit: Non, merci.\nAprès, il a chanté.",
+      "content": "J'ai dit:\n— Non, merci.\nAprès, il a chanté.",
       "end": 45,
       "heatValue": 16,
       "start": 43
     },
     {
-      "content": "Colombia.",
+      "content": "— Chocooolaaat.",
       "end": 51,
       "heatValue": 13,
       "start": 45
@@ -178,31 +178,37 @@
       "start": 53
     },
     {
-      "content": "Il y a personne qui s'occupe de moi ?\nQu'est-ce qui se passe ?",
+      "content": "— Il y a personne qui s'occupe de moi ?\n— Qu'est-ce qui se passe ?",
       "end": 56,
       "heatValue": 22,
       "start": 54
     },
     {
-      "content": "J'ai une arête coincée dans la gorge.",
+      "content": "— J'ai une arête coincée dans la gorge.",
       "end": 57,
       "heatValue": 27,
       "start": 56
     },
     {
-      "content": "Ok, moi, j'ai un enfant de huit ans\nqui vient de tomber du biais\nde tesAllez, on fait quoi ?",
-      "end": 61,
-      "heatValue": 30,
+      "content": "— Ok, moi, j'ai un enfant de huit ans\nqui vient de tomber du 8e étage.",
+      "end": 59,
+      "heatValue": 29,
       "start": 57
     },
     {
-      "content": "Occupez-vous de lui.",
+      "content": "— On fait quoi ?",
+      "end": 61,
+      "heatValue": 32,
+      "start": 59
+    },
+    {
+      "content": "— Occupez-vous de lui.",
       "end": 64,
       "heatValue": 28,
       "start": 63
     },
     {
-      "content": "Allez, merci.",
+      "content": "— Ouais, merci.",
       "end": 66,
       "heatValue": 24,
       "start": 65
@@ -214,25 +220,25 @@
       "start": 66
     },
     {
-      "content": "Il avait un jean trop court\net les pompes à scratch.",
+      "content": "Il avait un jean trop court\net des pompes à scratch.",
       "end": 69,
       "heatValue": 21,
       "start": 68
     },
     {
-      "content": "Il m'a demandé: Est-ce\nque vous avez des antécédents ?",
+      "content": "Il m'a demandé:\n— Est-ce que vous avez des antécédents ?",
       "end": 71,
       "heatValue": 20,
       "start": 69
     },
     {
-      "content": "J'ai dit que j'étais allergique\nau vinèvre, que je m'étais foulé\nle gros entail gauche en 2001,\nque j'étais anégatif et que",
+      "content": "J'ai dit que j'étais allergique\nau vinaigre, que je m'étais foulé\nle gros orteille gauche en 2001,\nque j'étais A négatif et que",
       "end": 75,
       "heatValue": 18,
       "start": 71
     },
     {
-      "content": "je supportais ma léparastamol.",
+      "content": "je supportais mal le paracetamol.",
       "end": 77,
       "heatValue": 17,
       "start": 75
@@ -262,13 +268,13 @@
       "start": 86
     },
     {
-      "content": "Chocolat, chocolat.",
+      "content": "— Chocolat, chocolat.",
       "end": 90,
       "heatValue": 13,
       "start": 87
     },
     {
-      "content": "Je suis pas bourré.",
+      "content": "— Je suis pas bourré.",
       "end": 92,
       "heatValue": 17,
       "start": 90
@@ -298,7 +304,7 @@
       "start": 99
     },
     {
-      "content": "Merci.\nJ'ai bavé sur ses pompes à scratch.",
+      "content": "— Merci.\nJ'ai bavé sur ses pompes à scratch.",
       "end": 104,
       "heatValue": 47,
       "start": 100
@@ -310,7 +316,7 @@
       "start": 105
     },
     {
-      "content": "Non, non, non, non, non.",
+      "content": "— Ah non, non, non, non,\nnon. Sortez monsieur, moi les mecs bourrés,\nje prends pas.",
       "end": 112,
       "heatValue": 27,
       "start": 109
