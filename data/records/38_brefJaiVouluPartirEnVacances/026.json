@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 431,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "isAgeRestricted": false,
+    "likeCount": 96820,
+    "name": "Bref. J'ai voulu partir en vacances.",
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc",
+    "viewCount": 8214486
+  },
+  "line": {
+    "content": "J'ai dit non à l'assurance\net j'ai fait mon sac.",
+    "end": 29,
+    "heatValue": 15,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=26s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/gif/026.gif",
+    "hash": "7188675285",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBeVl5yanGYkJSBh5xHYY5Sa5hcc55kfadrgql1jLF7kLKBlbaEl7aBlLKAj6uPlKYATVVyX19zpJudm6Cxa4CoaH2laIGtdHuUrYFwfX6Rh5/Ei5/BjqPFlKjIm6vEoKm7AFNkh296l4iQqYqJkIF8eIKUsnWSun96h7l4WpmRmpWszaizyLXB0r7I1cHBxsTGywBiaHVsgaV4jK14eYhzcXeUorqPo79nYG2GVECwn6PDx8y/w8zCyNLS193M0tq+x9MAaF5Vfnh/jGFdoGJdkH+EoJufeF16TS9KhVthiVuDmn+iyc3QzNLWwsPGysnKx8rPAKGAZsClibqdhLWXf8OnjJd2bFcySXFCa3lNendQgH9Qf5B7d6OXiKupnaKjmJiXjQC9n4bBq5K2iHrDi3yikXyBU0ZlQkVXLUt6UX12THlzTmy2mYi8noXErprEsZ2nlYIAwKiPyrOYy6qQ0KmPu6SLjm9agV9iYD9ne013d06BkWVto35np4NuxaeMvKCGsJV/AK2Xgr2ljdC7n9nEpt/GqN/Gpn9haFg3WnBDZnNEbp5/e6KGb7eeh8aulLKbhZ+HdE3T8tg+P1aEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/38_brefJaiVouluPartirEnVacances/026.png",
+    "width": 1920
+  }
+}

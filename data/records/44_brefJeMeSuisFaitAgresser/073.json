@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 301,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "isAgeRestricted": false,
+    "likeCount": 56431,
+    "name": "Bref. Je me suis fait agresser.",
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8",
+    "viewCount": 3657673
+  },
+  "line": {
+    "content": "J'avais tourné la page et un midi,\nje suis arrivé dans un fast-food.",
+    "end": 75,
+    "heatValue": 12,
+    "index": 25,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=73s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/gif/073.gif",
+    "hash": "c471aa330f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAANhJREFUeJxtj2tOwzAQhHOAeh9+tSH2xk1oSFErAeL+Z0NrE4KqSvvD1s43M9shF3ITxzd3euewkL/Y45XDAiwGk6FsKNvjGtMXudng0AFlIEF7JjeTmzksaAtyAVsU2KYJDKau/oc6CXgEEmDx/Y3jqvZVXU1z0zSgRutCNM1NtZv6bYBUQN8b0EL9K5BoY/lGezaglg0w+Azw/T2kzzB8+P7+Zwk0Au/3NCAb1NOBRxtXG9cWVUvnqv6FHxIKh+UAL0DCCuyi/7MDwOL6G4eLoYxuAh6fAj8XYCNt2Xr07gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/44_brefJeMeSuisFaitAgresser/073.png",
+    "width": 1920
+  }
+}

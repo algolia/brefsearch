@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "Elle m'a dit:\n— Bha si, comme ça,\ntu m'en offrira un un autre jour.",
+    "end": 94,
+    "heatValue": 24,
+    "index": 38,
+    "start": 92,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=92s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/gif/092.gif",
+    "hash": "170867da49",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBjQi1VQTpaRz9/W0Z5VEJCKiBhQDJTMiRUPTVQNSlUOixqRjtDHxkeFBEaExAXEQ8AcEsxcFZLf2FQiF5DXz8ugFdGoGpUe008TzInYTgcXjMWh2BSczwzLxkUIhkVGhIPAH9QJ31NKIxbMoFWPE0yKI1gTXJNPodeTVo7MFYyHk4kGJBlVHtGPFIuJTQmIR0UEQCATyN8SiGLWC1yTDg4HxardmCbalaQYlB7UUBDKiEdDwxuT0OJXU6YbFxYPjQwIRsAeksie0cchFMvYj8uOh8WomxXnWhTckY7Zj4yQy0kLSAdZktAd1REsYJufllJPCokAFQyHGU6HXFIMW1FMiUVD2M9LqJtV4dYRlo5LTYgGGFMRpF6c2tRSJNmVWdMQyIaGQA4HxdJLCJ6TzpuRzVaOClfNyhzSTdhQDEnFhBQKx11TDu0p6XQx8lQPDUkGxoWEhAAGwoGWTstY0o/NiciXj0tcEUzaEIxRSofHg8LXTcodUQxt6ajkoqLIhoYGRMSFhMRADcXEXdLO1o4KxcTEzAiHGdCMm5GNlEyJR8OCksuIWE/MVxLRiIYFhsUEhgTERMRDwXzdJlVytVdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/34_brefJaiFaitUnConcert/092.png",
+    "width": 1920
+  }
+}

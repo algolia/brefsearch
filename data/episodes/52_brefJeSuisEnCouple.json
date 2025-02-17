@@ -10,31 +10,31 @@
   },
   "lines": [
     {
-      "content": "Viens, on va draguer des filles.",
+      "content": "— Viens, on va draguer des filles.",
       "end": 1,
       "heatValue": 30,
       "start": 0
     },
     {
-      "content": "Ou on va à la carte\nacheter des Transformers.",
+      "content": "— Où on n'a qu'à acheter des Transformers.",
       "end": 3,
       "heatValue": 25,
       "start": 1
     },
     {
-      "content": "Ou alors, on se balade\njuste pour se balader.",
+      "content": "— Ou alors, on se balade\njuste pour se balader.",
       "end": 5,
       "heatValue": 19,
       "start": 3
     },
     {
-      "content": "Ou non, viens, on mate les trois\nen retour vers le futur en slip.",
+      "content": "— Ou non, viens, on mate les trois\nRetour vers le Futur en slip.",
       "end": 7,
       "heatValue": 15,
       "start": 5
     },
     {
-      "content": "Lui, c'est ma liberté.",
+      "content": "Bref. Lui, c'est ma liberté.",
       "end": 8,
       "heatValue": 13,
       "start": 7
@@ -46,43 +46,43 @@
       "start": 8
     },
     {
-      "content": "Venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
+      "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
       "end": 13,
       "heatValue": 11,
       "start": 10
     },
     {
-      "content": "Quand je suis bourré, il me dit: Bois.\nJe bois.",
+      "content": "Quand je suis bourré, il me dit:\n— Bois.\nJe bois.",
       "end": 19,
-      "heatValue": 8,
-      "start": 13
+      "heatValue": 7,
+      "start": 16
     },
     {
-      "content": "Plus.\nJe bois plus.",
+      "content": "— Plus.\nJe bois plus.",
       "end": 20,
       "heatValue": 5,
       "start": 19
     },
     {
-      "content": "Bois où tu veux.",
+      "content": "— Vomis où tu veux.",
       "end": 22,
       "heatValue": 5,
       "start": 20
     },
     {
-      "content": "Après, il me dit: Tu devrais dire\nà tous ces gens que tu les aimes.",
+      "content": "Après, il me dit:\n— Hey, tu devrais dire\nà tous ces gens que tu les aimes.",
       "end": 25,
       "heatValue": 9,
       "start": 22
     },
     {
-      "content": "Monte ton cul, après.",
+      "content": "— Ah et, montre ton cul, après.",
       "end": 26,
       "heatValue": 15,
       "start": 25
     },
     {
-      "content": "Montre mon cul !",
+      "content": "— Hey, je vais vous montrer mon cul.",
       "end": 27,
       "heatValue": 19,
       "start": 26
@@ -94,13 +94,13 @@
       "start": 27
     },
     {
-      "content": "Ça, c'est à faire avant le moins de matin.",
+      "content": "— Ça, c'est à faire avant demain matin.",
       "end": 34,
       "heatValue": 23,
       "start": 30
     },
     {
-      "content": "D'accord.",
+      "content": "— D'accord.",
       "end": 36,
       "heatValue": 20,
       "start": 35
@@ -118,13 +118,13 @@
       "start": 38
     },
     {
-      "content": "Et puis, petit à petit...\nT'as pas fait la vaisselle ?",
+      "content": "Et puis, petit à petit...\n— T'as pas fait la vaisselle ?",
       "end": 42,
       "heatValue": 14,
       "start": 40
     },
     {
-      "content": "Il s'éloigne.\nTu pourras virer tes trucs périmés ?",
+      "content": "Il s'éloigne.\n— Tu pourras virer tes trucs périmés, là ?",
       "end": 43,
       "heatValue": 14,
       "start": 42
@@ -136,13 +136,13 @@
       "start": 43
     },
     {
-      "content": "Au fait, on Je vais pas\nchez mes parents ce week-end.",
+      "content": "— Au fait, on va chez mes parents ce week-end.",
       "end": 46,
       "heatValue": 12,
       "start": 44
     },
     {
-      "content": "Beaucoup trop.\nCool.",
+      "content": "Beaucoup trop.\n— Cool.",
       "end": 47,
       "heatValue": 12,
       "start": 46
@@ -154,13 +154,13 @@
       "start": 48
     },
     {
-      "content": "Venez les mecs, on s'en bat\nles couilles, on part à la mer.",
+      "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
       "end": 52,
       "heatValue": 13,
       "start": 49
     },
     {
-      "content": "Non, j'ai pas pris mon\nproduit à l'entilles.",
+      "content": "— Ah non, j'ai pas pris mon\nproduit à lentilles.",
       "end": 56,
       "heatValue": 17,
       "start": 52
@@ -172,13 +172,13 @@
       "start": 56
     },
     {
-      "content": "Elle le remplace.\nDu coup, elle le remplace.",
+      "content": "Du coup, elle le remplace.",
       "end": 62,
       "heatValue": 24,
       "start": 60
     },
     {
-      "content": "Des fois, c'est chiant.\nNon, on boit pas.",
+      "content": "Des fois, c'est chiant.\n— Nan, bois pas.",
       "end": 63,
       "heatValue": 29,
       "start": 62
@@ -196,25 +196,25 @@
       "start": 67
     },
     {
-      "content": "Non, ça me dit pas trop.\nDésolé, les gars.",
+      "content": "— Non, ça me dit pas trop. Désolé, les gars.",
       "end": 71,
       "heatValue": 48,
       "start": 68
     },
     {
-      "content": "Ouais, passez une bonne soirée.",
+      "content": "— Ouais, passez une bonne soirée.",
       "end": 72,
       "heatValue": 53,
       "start": 71
     },
     {
-      "content": "Salut.",
+      "content": "— Salut.",
       "end": 74,
       "heatValue": 66,
       "start": 72
     },
     {
-      "content": "C'était qui ?\nC'était personne.",
+      "content": "— C'était qui ?\n— C'était personne.",
       "end": 76,
       "heatValue": 77,
       "start": 75
@@ -226,40 +226,28 @@
       "start": 76
     },
     {
-      "content": "Bref, je suis en couple.\nOuais, ma chérie.",
+      "content": "Bref, je suis en couple.",
       "end": 82,
       "heatValue": 42,
       "start": 78
     },
     {
-      "content": "Ouais, non, mais profite,\nsi t'es avec tes copines.",
+      "content": "— Ouais, ma chérie. Ouais, non, mais profite,\nsi t'es avec tes copines.",
       "end": 84,
       "heatValue": 14,
       "start": 83
     },
     {
-      "content": "T'es libre ?\nJe t'embrasse.",
+      "content": "— T'es libre. Je t'embrasse.",
       "end": 89,
       "heatValue": 9,
       "start": 84
     },
     {
-      "content": "Transformation.\nMais regarde.",
+      "content": "— Transformation.",
       "end": 91,
       "heatValue": 6,
       "start": 89
-    },
-    {
-      "content": "Il a rien fait bien.",
-      "end": 93,
-      "heatValue": 6,
-      "start": 91
-    },
-    {
-      "content": "Marty.\nMarty.",
-      "end": 96,
-      "heatValue": 6,
-      "start": 94
     }
   ],
   "video": {

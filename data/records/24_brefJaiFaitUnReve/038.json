@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 597,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "isAgeRestricted": false,
+    "likeCount": 91536,
+    "name": "Bref. J'ai fait un rêve.",
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4",
+    "viewCount": 6811734
+  },
+  "line": {
+    "content": "Tout d'un coup, j'étais\nà mon ancien travail.",
+    "end": 40,
+    "heatValue": 30,
+    "index": 9,
+    "start": 38,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=38s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/gif/038.gif",
+    "hash": "61c422e469",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAH5JREFUeJzFzrEKwzAMRdEMVv0kgeQUQ7zYJvX//2NJDO1USKbeUXAkLY+bLX8C4ewqAGBm7g7gEjCznPO2be5ORD8BnYUQRMTMVdXMAMz5Rx6AiJiRPM1PVFWOFICqMrOIMPMXxBhTSmOMWmtrrZQyVzLzvr9qrb33dX3OI2/MWQ4NAbnFJAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/24_brefJaiFaitUnReve/038.png",
+    "width": 1920
+  }
+}
