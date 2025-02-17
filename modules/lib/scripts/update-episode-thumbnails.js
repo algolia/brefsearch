@@ -47,7 +47,7 @@ await pMap(
         await run(extractCommand, { shell: true });
 
         // Compress thumbnail
-        const compressCommand = ['img-min', `"${thumbnailPath}"`].join(' ');
+        const compressCommand = ['imgmin', `"${thumbnailPath}"`].join(' ');
         await run(compressCommand, { shell: true });
       },
       { concurrency },
