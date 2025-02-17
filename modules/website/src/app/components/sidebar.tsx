@@ -46,18 +46,6 @@ const Sidebar = ({
             ></iframe>
           </div>
         </div>
-
-        <div className="mt-8">
-          <h3>Voir l'épisode en entier</h3>
-          <div
-            className="w-full h-[400px] relative p-2"
-            style={{
-              background: `url(${selectedVideo.thumbnail.lqip})no-repeat center / cover`,
-            }}
-          >
-            <YoutubePlayer videoId={selectedVideo.episode.videoId} />
-          </div>
-        </div>
       </div>
     </div>
   );
