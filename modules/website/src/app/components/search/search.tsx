@@ -8,13 +8,14 @@ import CustomSearchbox from './searchbox';
 import { useState } from 'react';
 import { BrefHit } from '@/app/types';
 import Sidebar from '../sidebar';
+import { Algoliasearch } from 'algoliasearch';
 
 const Search = () => {
   const [selectedVideo, setSelectedVideo] = useState<BrefHit | null>(null);
   return (
     <div className="grid p-8">
       <InstantSearch
-        searchClient={searchClient}
+        searchClient={searchClient as Algoliasearch}
         indexName={process.env.NEXT_PUBLIC_ALG_INDEX_NAME!}
       >
         <Configure hitsPerPage={18} />
