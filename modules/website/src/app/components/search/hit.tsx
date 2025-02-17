@@ -1,26 +1,23 @@
-import cx from 'classnames';
 import { Clock, Eye } from 'lucide-react';
-import Link from 'next/link';
 import { useState, useRef, useEffect } from 'react';
 import Subtitle from '../subtitles';
+import AnimatedPreview from './animatedPreview';
 import Image from 'next/image';
 
 // Types
 import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
 import { BrefHit } from '@/app/types';
-import YoutubePlayer from '../youtubePlayer';
 
 const CustomHit = ({
   hit,
   setSelectedVideo,
-  selectedVideo,
 }: {
   hit: AlgoliaHit<BrefHit>;
   setSelectedVideo: (value: BrefHit) => void;
   selectedVideo: boolean;
 }) => {
   const [isInView, setIsInView] = useState(false);
-  const [isGifPreloaded, setIsGifPreloaded] = useState(false);
+  const [isMouseNear, setIsMouseNear] = useState(false);
   const ref = useRef<HTMLDivElement | null>(null);
 
   // Observer for lazy loading below the fold
@@ -42,13 +39,15 @@ const CustomHit = ({
     return () => observer.disconnect();
   }, []);
 
-  // Global Mouse Movement Listener to Preload GIF
+  // Check if mouse is near the hit
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
-      if (!isGifPreloaded && ref.current) {
+      if (!ref.current) return;
+      if (isMouseNear) return;
+
         const { clientX, clientY } = event;
         const hitElement = ref.current.getBoundingClientRect();
-        const buffer = 100; // Preload when cursor is within 100px
+        const buffer = 100; // Buffer in px around the element
 
         const isNear =
           clientX > hitElement.left - buffer &&
@@ -57,14 +56,13 @@ const CustomHit = ({
           clientY < hitElement.bottom + buffer;
 
         if (isNear) {
-          setIsGifPreloaded(true);
+          setIsMouseNear(true);
         }
-      }
     };
 
     document.addEventListener('mousemove', handleMouseMove);
     return () => document.removeEventListener('mousemove', handleMouseMove);
-  }, [isGifPreloaded]);
+  }, [isMouseNear]);
 
   return (
     <div
@@ -77,25 +75,15 @@ const CustomHit = ({
         onClick={() => setSelectedVideo(hit)}
       >
         <div ref={ref} className="relative w-full h-full group">
-          {/* Hover GIF (Preloads before hover) */}
-          {hit.thumbnail.gifUrl && isGifPreloaded && (
-            <Image
-              src={hit.thumbnail.gifUrl || '/placeholder.svg'}
-              alt={hit.episode.name}
-              fill
-              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-              className="object-cover hidden group-hover:block absolute z-10"
-              placeholder="blur"
-              blurDataURL={hit.thumbnail.lqip}
-              priority={false}
-              loader={({ src }) =>
-                `https://res.cloudinary.com/det9vl8xp/image/fetch/f_auto/q_auto/${src}`
-              }
+          {/* Hover GIF */}
+          {isMouseNear && (
+            <AnimatedPreview
+              hit={hit}
             />
           )}
 
           {/* Static Thumbnail (Lazy-loaded below the fold) */}
-          {hit.thumbnail.url && (
+          {true && hit.thumbnail.url && (
             <Image
               src={hit.thumbnail.url || '/placeholder.svg'}
               alt={hit.episode.name}
@@ -113,8 +101,6 @@ const CustomHit = ({
           )}
 
           <Subtitle hit={hit} />
-
-          {/* <YoutubePlayer videoId={hit.episode.videoId} /> */}
         </div>
       </div>
       <div className="p-4">
@@ -126,7 +112,7 @@ const CustomHit = ({
           <span>{hit.episode.durationHuman}</span>
           <Eye className="w-4 h-4 ml-4 mr-1" />
           <span>
-            {hit.episode.viewcount && hit.episode.viewCount.toLocaleString()}{' '}
+            {hit.episode.viewCount && hit.episode.viewCount.toLocaleString()}{' '}
             vues
           </span>
         </div>
