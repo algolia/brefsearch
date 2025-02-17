@@ -108,7 +108,7 @@ const CustomHit = ({
           <span>{hit.episode.durationHuman}</span>
           <Eye className="w-4 h-4 ml-4 mr-1" />
           <span>
-            {hit.episode.viewcount && hit.episode.viewcount.toLocaleString()}{' '}
+            {hit.episode.viewCount && hit.episode.viewCount.toLocaleString()}{' '}
             vues
           </span>
         </div>

@@ -6,7 +6,7 @@ export type BrefHit = {
     name: string;
     slug: string;
     videoId: string;
-    viewcount: number;
+    viewCount: number;
   };
   line: {
     content: string;
