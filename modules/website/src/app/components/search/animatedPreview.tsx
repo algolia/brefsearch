@@ -54,12 +54,12 @@ const AnimatedPreview = ({
   const [gifSrc, setGifSrc] = useState(transparentGif);
   const onMouseEnter = () => {
     if (!gifBlob.current) return;
+    URL.revokeObjectURL(gifSrc);
     setGifSrc(URL.createObjectURL(gifBlob.current));
   }
   const onMouseLeave = () => {
     if (!gifBlob.current) return;
     setGifSrc(transparentGif);
-    URL.revokeObjectURL(gifSrc);
   }
 
   return (
