@@ -53,6 +53,7 @@ convert the initial metadata into records suitable for Algolia.
     - Le charme du quartier.
     - Je m'appelle pas Hey
     - J'ai plus toute ma tête mais j'ai encore tout mon coeur.
+    - Alors, c'est ma soirée ou c'est pas ma soirée ?
 
 
 ### Frontend
