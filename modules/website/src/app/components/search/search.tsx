@@ -5,12 +5,20 @@ import { searchClient } from '@/app/utils/algolia';
 import { Configure, InstantSearch } from 'react-instantsearch';
 import CustomHits from './hits';
 import CustomSearchbox from './searchbox';
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { BrefHit } from '@/app/types';
 import Sidebar from '../sidebar';
 
 const Search = () => {
   const [selectedVideo, setSelectedVideo] = useState<BrefHit | null>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    if (!selectedVideo) {
+      inputRef.current?.focus();
+    }
+  }, [selectedVideo]);
+
   return (
     <div className="grid p-8">
       <InstantSearch
@@ -18,7 +26,7 @@ const Search = () => {
         indexName={process.env.NEXT_PUBLIC_ALG_INDEX_NAME!}
       >
         <Configure hitsPerPage={18} />
-        <CustomSearchbox />
+        <CustomSearchbox inputRef={inputRef} />
         <div
           className={cx('grid gap-4', {
             'grid-cols-1': !selectedVideo,

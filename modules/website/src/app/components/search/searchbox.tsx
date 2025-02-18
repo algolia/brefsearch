@@ -1,11 +1,14 @@
-import { useRef, useState } from 'react';
+import { RefObject, useState } from 'react';
 import { useInstantSearch, useSearchBox } from 'react-instantsearch';
 
-const CustomSearchbox = () => {
+type CustomSearchboxProps = {
+  inputRef: RefObject<HTMLInputElement | null>;
+};
+
+const CustomSearchbox = ({ inputRef }: CustomSearchboxProps) => {
   const { query, refine } = useSearchBox();
   const { status } = useInstantSearch();
   const [inputValue, setInputValue] = useState(query);
-  const inputRef = useRef(null);
 
   const isSearchStalled = status === 'stalled';
 
@@ -26,9 +29,7 @@ const CustomSearchbox = () => {
           event.preventDefault();
           event.stopPropagation();
 
-          if (inputRef.current) {
-            (inputRef.current as HTMLInputElement).blur();
-          }
+          inputRef.current?.blur();
         }}
         onReset={(event) => {
           event.preventDefault();
@@ -36,9 +37,7 @@ const CustomSearchbox = () => {
 
           setQuery('');
 
-          if (inputRef.current) {
-            (inputRef.current as HTMLInputElement).focus();
-          }
+          inputRef.current?.focus();
         }}
       >
         <input
