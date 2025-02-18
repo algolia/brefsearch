@@ -12,7 +12,7 @@ import {
 import { _, pMap } from 'golgoth';
 import { convertCounts } from '../convertCounts.js';
 
-const episodes = await glob('*.json', {
+const episodes = await glob('01*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
 });
 const episodeCount = episodes.length;
@@ -64,8 +64,10 @@ await pMap(
     episode.video.commentCount = counts.commentCount;
 
     _.each(episode.lines, (line) => {
-      line.heatValue = findHeatValue(counts.heatmap, line);
+      line.heatValue = getHeatValue(counts.heatmap, line);
     });
+
+    episode.lines = setHeatBuckets(episode.lines, 5);
 
     await writeJson(episode, episodePath);
   },
@@ -79,7 +81,7 @@ progress.success('All count metrics extracted');
  * @param {object} line Line object
  * @returns {number} Number between 1 and 100
  */
-function findHeatValue(heatmap, line) {
+function getHeatValue(heatmap, line) {
   return _.chain(heatmap)
     .filter((item) => {
       const hasBeginning = line.start >= item.start && line.start <= item.end;
@@ -90,4 +92,41 @@ function findHeatValue(heatmap, line) {
     .mean()
     .round()
     .value();
+}
+
+/**
+ * Add a heatBucket key to each line.
+ * We split the lines into {bucketCount} buckets of equal size.
+ * Lines in bucket one are the most replayed, then bucket two slightly less
+ * replayed, etc, up until the last bucket
+ * @param {string} lines All lines of the episode
+ * @param {number} bucketCount The number of bucket to split it into
+ * @returns {number} A bucket number. The higher the value, the most replayed
+ * the line is
+ **/
+function setHeatBuckets(lines, bucketCount) {
+  const heatValues = _.chain(lines).map('heatValue').sort().value();
+
+  const thresholds = _.chain(_.range(1, bucketCount))
+    .map((index) => {
+      const multiplier = Math.floor((index * 100) / bucketCount) / 100;
+      const upperLimit = heatValues[Math.floor(multiplier * lines.length)];
+      return {
+        index,
+        upperLimit,
+      };
+    })
+    .concat([{ index: bucketCount, upperLimit: 100 }])
+    .value();
+
+  const updatedLines = _.map(lines, (line) => {
+    const heatValue = line.heatValue;
+    const bucketNumber = _.find(thresholds, ({ upperLimit }) => {
+      return heatValue <= upperLimit;
+    });
+    line.heatBucket = bucketNumber.index;
+    return line;
+  });
+
+  return updatedLines;
 }

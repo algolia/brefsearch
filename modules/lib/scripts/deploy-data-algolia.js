@@ -11,11 +11,7 @@ import config from '../config.js';
   };
   const settings = {
     searchableAttributes: ['unordered(line.content)', 'episode.name'],
-    customRanking: [
-      'asc(episode.index)',
-      'desc(line.heatValue)',
-      'asc(line.index)',
-    ],
+    customRanking: ['asc(episode.index)', 'asc(line.index)'],
     attributesForFaceting: [
       'searchable(episode.name)',
       'episode.isAgeRestricted',
@@ -24,6 +20,15 @@ import config from '../config.js';
     ],
     attributeForDistinct: 'episode.videoId',
     distinct: true,
+    replicas: {
+      popularity: {
+        customRanking: [
+          'desc(episode.viewCount)',
+          'desc(line.heatBucket)',
+          'desc(line.index)',
+        ],
+      },
+    },
   };
 
   indexing.verbose();
