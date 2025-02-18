@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis habillé.",
     "end": 83,
-    "heatValue": 20,
+    "heatBucket": 1,
     "index": 32,
     "start": 81,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=81s"

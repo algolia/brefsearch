@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai dit:\n— Est-ce que je peux avoir\nune bière, s'il vous plaît ?",
     "end": 58,
-    "heatValue": 33,
+    "heatBucket": 3,
     "index": 20,
     "start": 56,
     "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=56s"

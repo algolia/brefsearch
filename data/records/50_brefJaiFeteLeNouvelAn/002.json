@@ -14,7 +14,7 @@
   "line": {
     "content": "Je voulais passer un bon réveillon.",
     "end": 3,
-    "heatValue": 55,
+    "heatBucket": 5,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=2s"

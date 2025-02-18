@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis toujours dit\nque si j'en attrapais un,\nje raterais pas la poubelle.\nÀ un moment, on a arrêté de parler.",
     "end": 15,
-    "heatValue": 25,
+    "heatBucket": 5,
     "index": 5,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=11s"

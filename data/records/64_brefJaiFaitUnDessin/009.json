@@ -14,8 +14,8 @@
   "line": {
     "content": "Mais comme c'était pas logique,\nune maison avec des cheveux,\nje lui ai rajouté des oreilles.",
     "end": 12,
-    "heatValue": 30,
-    "index": 5,
+    "heatBucket": 3,
+    "index": 4,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=9s"
   },

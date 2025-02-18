@@ -12,9 +12,9 @@
     "viewCount": 4289685
   },
   "line": {
-    "content": "Je t'aime pas,Ouais, c'est cool.\nJe crois qu'il s'en fout.",
+    "content": "— Je t'aime pas, hein.\n— Ouais, c'est cool.\nJe crois qu'il s'en fout.",
     "end": 32,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 11,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=28s"

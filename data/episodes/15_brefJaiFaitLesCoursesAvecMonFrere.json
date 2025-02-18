@@ -12,258 +12,301 @@
     {
       "content": "Bref, ça, c'est mon frère.",
       "end": 3,
+      "heatBucket": 5,
       "heatValue": 62,
       "start": 2
     },
     {
       "content": "Il a toujours été là pour moi.",
       "end": 5,
+      "heatBucket": 4,
       "heatValue": 51,
       "start": 3
     },
     {
       "content": "— Ouais ?\n— Ouais, j'ai eu mon permis !\n— J'arrive.",
       "end": 8,
+      "heatBucket": 4,
       "heatValue": 52,
       "start": 5
     },
     {
       "content": "— Ouais, j'ai un bouton chelou sur la...\n— J'arrive.",
       "end": 11,
+      "heatBucket": 4,
       "heatValue": 53,
       "start": 8
     },
     {
       "content": "— Ouais, ça y est,\nje vais coucher avec elle.",
       "end": 12,
+      "heatBucket": 5,
       "heatValue": 54,
       "start": 11
     },
     {
       "content": "— J'arrive.\n— Bha non.\n— T'as des capotes ?",
       "end": 15,
+      "heatBucket": 4,
       "heatValue": 51,
       "start": 12
     },
     {
       "content": "— Euh non.\n— J'arrive.\n— Ouais ?",
       "end": 16,
+      "heatBucket": 4,
       "heatValue": 47,
       "start": 15
     },
     {
       "content": "Et cette fois, je lui\navais dit:\n— Elle m'a quitté.",
       "end": 18,
+      "heatBucket": 4,
       "heatValue": 43,
       "start": 16
     },
     {
       "content": "— J'arrive.\nC'était l'époque où mon ex m'avait quitté.",
       "end": 19,
+      "heatBucket": 4,
       "heatValue": 40,
       "start": 18
     },
     {
       "content": "— Si ça te va pas, je me casse.\nMon frère est comme un supermarché.",
       "end": 21,
+      "heatBucket": 3,
       "heatValue": 38,
       "start": 19
     },
     {
       "content": "Il est organisé, il présente bien\net il a toujours ce dont j'ai besoin.",
       "end": 24,
+      "heatBucket": 3,
       "heatValue": 35,
       "start": 21
     },
     {
       "content": "Il est arrivé.\n— Je suis arrivé.",
       "end": 25,
+      "heatBucket": 3,
       "heatValue": 33,
       "start": 24
     },
     {
       "content": "Mon frère s'aime beaucoup.",
       "end": 26,
+      "heatBucket": 3,
       "heatValue": 32,
       "start": 25
     },
     {
       "content": "Mon frère est un supermarché,\nil aime donc beaucoup les supermarchés.",
       "end": 28,
+      "heatBucket": 3,
       "heatValue": 30,
       "start": 26
     },
     {
       "content": "On est allé au supermarché.",
       "end": 29,
+      "heatBucket": 2,
       "heatValue": 28,
       "start": 28
     },
     {
       "content": "— Il faut te reprendre en main.",
       "end": 30,
+      "heatBucket": 2,
       "heatValue": 26,
       "start": 29
     },
     {
       "content": "Je peux deviner ce que va dire mon frère\nà la tête qu'il fait juste avant.",
       "end": 32,
+      "heatBucket": 2,
       "heatValue": 23,
       "start": 30
     },
     {
       "content": "— Ce resto est vraiment...\nDégueulasse.\n— Dégueulasse.",
       "end": 35,
+      "heatBucket": 2,
       "heatValue": 22,
       "start": 32
     },
     {
       "content": "— Prends ceux-là.",
       "end": 37,
+      "heatBucket": 2,
       "heatValue": 21,
       "start": 35
     },
     {
       "content": "C'est mieux pour toi.\n— C'est mieux pour toi.",
       "end": 38,
+      "heatBucket": 2,
       "heatValue": 20,
       "start": 37
     },
     {
       "content": "— La fille de hier soir\nétait vraiment très...",
       "end": 41,
+      "heatBucket": 1,
       "heatValue": 19,
       "start": 38
     },
     {
       "content": "Bonne.\n— Intéressante.",
       "end": 42,
+      "heatBucket": 1,
       "heatValue": 19,
       "start": 41
     },
     {
       "content": "Il voulait dire bonne.\nIl m'a dit:\n— Prends des capotes.",
       "end": 44,
+      "heatBucket": 1,
       "heatValue": 18,
       "start": 42
     },
     {
       "content": "Mon ex m'a envoyé un texto.\nIl m'a dit:\n— Regarde pas.",
       "end": 46,
+      "heatBucket": 1,
       "heatValue": 17,
       "start": 44
     },
     {
       "content": "J'ai regardé, elle me demandait\npourquoi tu m'ignores.",
       "end": 48,
+      "heatBucket": 1,
       "heatValue": 15,
       "start": 46
     },
     {
       "content": "J'ai voulu répondre: Je t'ignore pas.\nFinalement, je l'ai ignorée.",
       "end": 50,
+      "heatBucket": 1,
       "heatValue": 16,
       "start": 48
     },
     {
       "content": "Il m'a dit:\n— Franchement.\nC'était le mieux à faire.\n— C'était le mieux à faire.",
       "end": 51,
+      "heatBucket": 1,
       "heatValue": 17,
       "start": 50
     },
     {
       "content": "J'allais prendre des pâtes \"Ma che pasta!\"\nIl m'a dit:\n— Ah non, prends pas ces pâtes c'est de la merde.",
       "end": 55,
+      "heatBucket": 2,
       "heatValue": 22,
       "start": 51
     },
     {
       "content": "— C'est pour ça qu'ils ont\nmis un italien dessus.",
       "end": 57,
+      "heatBucket": 2,
       "heatValue": 26,
       "start": 55
     },
     {
       "content": "J'ai pris un autre paquet de pâtes.",
       "end": 58,
+      "heatBucket": 3,
       "heatValue": 29,
       "start": 57
     },
     {
       "content": "J'ai revu mon ex. J'ai remis le paquet.",
       "end": 61,
+      "heatBucket": 3,
       "heatValue": 34,
       "start": 58
     },
     {
       "content": "J'ai compris pourquoi\nelle disait que je l'ignorais.",
       "end": 62,
+      "heatBucket": 4,
       "heatValue": 39,
       "start": 61
     },
     {
       "content": "Elle est venue.\n— Hey\nElle a vu les préservatifs.",
       "end": 64,
+      "heatBucket": 4,
       "heatValue": 44,
       "start": 62
     },
     {
       "content": "Elle a dit:\n— Et ben ça va, tu perds pas de temps.\nJ'ai paniqué.",
       "end": 66,
+      "heatBucket": 4,
       "heatValue": 53,
       "start": 64
     },
     {
       "content": "J'ai dit que c'était pour Keyvan.",
       "end": 68,
+      "heatBucket": 5,
       "heatValue": 63,
       "start": 66
     },
     {
       "content": "Elle a dit:\n— T'es plus avec ta copine ?",
       "end": 69,
+      "heatBucket": 5,
       "heatValue": 69,
       "start": 68
     },
     {
       "content": "Il a dit:\n— Si.",
       "end": 71,
+      "heatBucket": 5,
       "heatValue": 73,
       "start": 69
     },
     {
       "content": "Elle m'a regardé, je l'ai\nregardée, il m'a regardé, elle l'a\nregardé, elle m'a regardée.\nIl a dit:\n— Elle a ses règles.",
       "end": 77,
+      "heatBucket": 5,
       "heatValue": 71,
       "start": 71
     },
     {
       "content": "C'était sale, mais bien joué.\nElle l'a pas cru, elle est partie.",
       "end": 80,
+      "heatBucket": 5,
       "heatValue": 56,
       "start": 77
     },
     {
       "content": "Mon frère m'a dit: Ça va passer.",
       "end": 83,
+      "heatBucket": 3,
       "heatValue": 38,
       "start": 81
     },
     {
       "content": "Bref, je suis allé faire\nles courses avec mon frère.",
       "end": 89,
+      "heatBucket": 2,
       "heatValue": 25,
       "start": 83
     },
     {
       "content": "— J'arrive.",
       "end": 96,
+      "heatBucket": 1,
       "heatValue": 17,
       "start": 95
     },
     {
       "content": "— Ok.",
       "end": 97,
+      "heatBucket": 1,
       "heatValue": 14,
       "start": 97
     }

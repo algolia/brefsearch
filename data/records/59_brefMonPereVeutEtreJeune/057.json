@@ -14,8 +14,8 @@
   "line": {
     "content": "Ça m'a énervé.\nJe l'ai attendu.",
     "end": 59,
-    "heatValue": 12,
-    "index": 30,
+    "heatBucket": 1,
+    "index": 28,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=57s"
   },

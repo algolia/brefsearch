@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai lu un livre, j'ai lu sept fois\nla même ligne en boucle, j'ai abandonné.",
     "end": 48,
-    "heatValue": 39,
+    "heatBucket": 3,
     "index": 19,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=46s"

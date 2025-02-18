@@ -14,8 +14,8 @@
   "line": {
     "content": "Et derrière l'avion, il y avait\nun nuage, un autre nuage.",
     "end": 24,
-    "heatValue": 15,
-    "index": 10,
+    "heatBucket": 1,
+    "index": 9,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=22s"
   },

@@ -14,7 +14,7 @@
   "line": {
     "content": "Elle m'a dit: Je ne\nsupporte pas la cigarette.",
     "end": 80,
-    "heatValue": 3,
+    "heatBucket": 1,
     "index": 37,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=77s"

@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Et la date d'expiration de votre carte.\nYou win.",
+    "content": "— Et la date d'expiration de votre carte.\nYou win.",
     "end": 46,
-    "heatValue": 2,
-    "index": 24,
+    "heatBucket": 1,
+    "index": 25,
     "start": 43,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=43s"
   },

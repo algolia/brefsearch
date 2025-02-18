@@ -14,7 +14,7 @@
   "line": {
     "content": "J'en ai mangé quatre.\nLe champagne aussi était bon.",
     "end": 56,
-    "heatValue": 18,
+    "heatBucket": 1,
     "index": 20,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=53s"

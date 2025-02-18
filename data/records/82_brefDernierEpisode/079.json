@@ -14,7 +14,7 @@
   "line": {
     "content": "Les gens sont trop pressés.",
     "end": 81,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 31,
     "start": 79,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=79s"

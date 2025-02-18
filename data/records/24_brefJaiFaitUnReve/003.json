@@ -14,7 +14,7 @@
   "line": {
     "content": "J'avais du mal à tenir debout.\nJ'avais mal au cœur.",
     "end": 4,
-    "heatValue": 49,
+    "heatBucket": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=3s"

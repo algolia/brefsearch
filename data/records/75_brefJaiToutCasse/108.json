@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai traversé la cour\noù on enterrait Crockette.",
     "end": 109,
-    "heatValue": 12,
+    "heatBucket": 1,
     "index": 42,
     "start": 108,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=108s"

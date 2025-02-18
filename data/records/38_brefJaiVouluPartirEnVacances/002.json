@@ -14,7 +14,7 @@
   "line": {
     "content": "Ça faisait deux mois que\nje passais la même journée.",
     "end": 4,
-    "heatValue": 78,
+    "heatBucket": 4,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=2s"

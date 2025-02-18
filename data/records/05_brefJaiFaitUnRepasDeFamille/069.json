@@ -14,7 +14,7 @@
   "line": {
     "content": "C'était ma mère avec 35 ans\nde moins, 15 kilos de moins\net trois tailles de bonnet en plus.\nElle était bonne, bonne et bonne.",
     "end": 75,
-    "heatValue": 70,
+    "heatBucket": 5,
     "index": 29,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=69s"

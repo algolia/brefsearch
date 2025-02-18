@@ -12,9 +12,9 @@
     "viewCount": 11882596
   },
   "line": {
-    "content": "Il y a les gens, quand tu leur racontes\nun truc marrant, au lieu de rigoler,\nils disent: Ouais, c'est moi.",
+    "content": "Il y a les gens, quand tu leur racontes\nun truc marrant, au lieu de rigoler,\nils disent:\n— Ouais, c'est marrant.",
     "end": 12,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 4,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=9s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Au bout d'un quart d'heure,\nj'ai décidé de partir.",
     "end": 91,
-    "heatValue": 1,
+    "heatBucket": 1,
     "index": 42,
     "start": 89,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=89s"

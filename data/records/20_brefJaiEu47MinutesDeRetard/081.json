@@ -14,7 +14,7 @@
   "line": {
     "content": "— Au revoir.\nBref, je suis arrivé avec 47 minutes en retard.",
     "end": 87,
-    "heatValue": 24,
+    "heatBucket": 3,
     "index": 40,
     "start": 81,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=81s"

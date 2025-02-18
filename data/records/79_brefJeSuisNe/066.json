@@ -14,7 +14,7 @@
   "line": {
     "content": "Je l'ai regardé, elle m'a\nregardé, je l'ai regardé.",
     "end": 67,
-    "heatValue": 20,
+    "heatBucket": 3,
     "index": 37,
     "start": 66,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=66s"

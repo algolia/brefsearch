@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis déguisé toute l'année\nen chien-chien au boulot,\nje me suis déguisé avec vous,\nje me suis déguisé avec toi, là.",
     "end": 60,
-    "heatValue": 14,
+    "heatBucket": 1,
     "index": 20,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=55s"

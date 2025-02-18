@@ -14,7 +14,7 @@
   "line": {
     "content": "Je suis allé au taf.",
     "end": 14,
-    "heatValue": 42,
+    "heatBucket": 3,
     "index": 7,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=13s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai fait... Mon père a fait...\nJ'ai fait...",
     "end": 49,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 21,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=47s"

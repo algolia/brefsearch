@@ -14,7 +14,7 @@
   "line": {
     "content": "Et dedans, il y avait toute\nma fortune, deux billets de 20 francs.",
     "end": 39,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 14,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=35s"

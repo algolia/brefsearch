@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai arrêté de parler.\n— Arrête de penser.",
     "end": 43,
-    "heatValue": 15,
+    "heatBucket": 2,
     "index": 19,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=41s"

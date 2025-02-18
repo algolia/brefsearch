@@ -14,7 +14,7 @@
   "line": {
     "content": "Une tante qui s'excuse.\n— Excusez-le.",
     "end": 14,
-    "heatValue": 30,
+    "heatBucket": 3,
     "index": 7,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=12s"

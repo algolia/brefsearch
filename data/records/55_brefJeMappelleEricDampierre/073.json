@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Regarde Mamadou, lui,\nc'est un bon Éric Dampierre.",
+    "content": "— Regarde Mamadou, lui,\nc'est un bon Éric Dampierre.",
     "end": 76,
-    "heatValue": 30,
-    "index": 37,
+    "heatBucket": 2,
+    "index": 38,
     "start": 73,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=73s"
   },

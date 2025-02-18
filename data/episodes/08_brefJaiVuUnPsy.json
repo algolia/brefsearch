@@ -12,145 +12,169 @@
     {
       "content": "J'ai pleuré.",
       "end": 2,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 0
     },
     {
       "content": "Les 19 séances suivantes,\nil a dit:\n— Ah. Et ?",
       "end": 9,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 2
     },
     {
       "content": "— Hmm. Et ? Et ? Ah. Hmm. Pourquoi ?\n— Donc. Ah. Hein? Hein? Mais ? Pourquoi ?\n— Soixante-douze euros.",
       "end": 12,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 9
     },
     {
       "content": "À la 22ème séance, je lui ai\ndit:\n— J'ai rencontré une fille.",
       "end": 15,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 12
     },
     {
       "content": "À la 23ème:\n— Comment elle a pu me faire ça ?",
       "end": 16,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 15
     },
     {
       "content": "— C'est vraiment une salope.",
       "end": 17,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 16
     },
     {
       "content": "À la 24ème:\n— Ce n'est pas\ndu tout ce que je croyais.",
       "end": 19,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 17
     },
     {
       "content": "— Je crois que je l'aime bien.",
       "end": 20,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 19
     },
     {
       "content": "25ème:\n— Non, je crois\nque je vais laisser tomber.",
       "end": 22,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 20
     },
     {
       "content": "26ème:\n— J'ai rencontré une autre fille.",
       "end": 24,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 22
     },
     {
       "content": "27ème:\n— C'est vraiment une salope.\n28ème:\n— Je crois que je l'aime bien.",
       "end": 26,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 24
     },
     {
       "content": "29:\n— Je crois que je vais laisser tomber.\n— Une fille.\n— Salope.",
       "end": 28,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 26
     },
     {
       "content": "— Bien.\n— Tomber.",
       "end": 28,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 28
     },
     {
       "content": "À la 34ème séance, je lui ai dit:\n— Vous croyez\nque je vais finir seul comme mon père ?",
       "end": 33,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 28
     },
     {
       "content": "— On se revoit la semaine prochaine. 72 €.",
       "end": 35,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 33
     },
     {
       "content": "À la 35ème séance, j'ai surpris\nmon psy en slip avec un chat.",
       "end": 39,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 35
     },
     {
       "content": "Il m'a regardé, je l'ai\nregardé, il m'a regardé.",
       "end": 41,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 39
     },
     {
       "content": "J'ai regardé le chat, le chat m'a\nregardé, il a regardé le chat.",
       "end": 43,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 41
     },
     {
       "content": "Le mec qui filmait nous a regardé.",
       "end": 47,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 43
     },
     {
       "content": "J'ai regardé Christine.",
       "end": 49,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 47
     },
     {
       "content": "Christine m'a regardé.",
       "end": 51,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 50
     },
     {
       "content": "On était passé à l'heure d'été,\nj'étais arrivé une heure en retard.",
       "end": 54,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 51
     },
     {
       "content": "Bref, j'ai vu un psy.",
       "end": 56,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 54
     },
     {
       "content": "— Pan, dans ta face !",
       "end": 60,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 58
     }
   ],

@@ -14,7 +14,7 @@
   "line": {
     "content": "Du coup, je l'ai invitée au cinéma, j'ai\nvoulu l'embrasser, mais elle est partie.",
     "end": 23,
-    "heatValue": 4,
+    "heatBucket": 1,
     "index": 12,
     "start": 21,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=21s"

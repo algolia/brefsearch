@@ -14,7 +14,7 @@
   "line": {
     "content": "Vu la façon dont le soleil entrait\ndans la pièce par la fenêtre\nqui tenait plein sud et vu qu'on était\nen octobre, on devait être environ 8h30.",
     "end": 58,
-    "heatValue": 39,
+    "heatBucket": 3,
     "index": 20,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=53s"

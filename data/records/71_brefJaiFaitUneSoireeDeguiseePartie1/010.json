@@ -14,7 +14,7 @@
   "line": {
     "content": "J'allais sortir du taf, mon boss m'a\ndit: Tu peux me classer les devis, là,\nil y en a pour cinq petites minutes.\nJ'ai dit: En fait, je dois y aller.",
     "end": 15,
-    "heatValue": 5,
+    "heatBucket": 1,
     "index": 7,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=10s"

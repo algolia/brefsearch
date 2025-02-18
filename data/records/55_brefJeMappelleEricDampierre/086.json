@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Parfait.\nYou win perfect.",
+    "content": "— Parfait, alors.\nYou win! Perfect.",
     "end": 90,
-    "heatValue": 75,
-    "index": 43,
+    "heatBucket": 4,
+    "index": 44,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=86s"
   },

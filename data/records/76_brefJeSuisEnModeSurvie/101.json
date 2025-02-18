@@ -14,7 +14,7 @@
   "line": {
     "content": "Quand je suis invité à une soirée,\nje prends une bouteille à 2 €\navec un nom de millionnaire dessus.",
     "end": 104,
-    "heatValue": 33,
+    "heatBucket": 3,
     "index": 37,
     "start": 101,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=101s"

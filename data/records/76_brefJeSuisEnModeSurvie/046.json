@@ -14,7 +14,7 @@
   "line": {
     "content": "Et attention de bien respecter\nle temps de cuisson de chaque pâte.",
     "end": 51,
-    "heatValue": 2,
+    "heatBucket": 1,
     "index": 18,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=46s"

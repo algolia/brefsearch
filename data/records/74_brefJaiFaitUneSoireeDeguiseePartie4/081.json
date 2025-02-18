@@ -14,7 +14,7 @@
   "line": {
     "content": "Ça va, je te regarde, je compare,\nje me rappelle, c'est cool.",
     "end": 84,
-    "heatValue": 25,
+    "heatBucket": 3,
     "index": 29,
     "start": 81,
     "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=81s"

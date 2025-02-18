@@ -14,7 +14,7 @@
   "line": {
     "content": "Je suis allé ailleurs.",
     "end": 48,
-    "heatValue": 4,
+    "heatBucket": 3,
     "index": 20,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=47s"

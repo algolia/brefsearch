@@ -14,7 +14,7 @@
   "line": {
     "content": "Quand j'ai mal à la tête, j'ai une tumeur.\nQuand j'ai mal au ventre, j'ai une tumeur.",
     "end": 48,
-    "heatValue": 20,
+    "heatBucket": 1,
     "index": 20,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=45s"

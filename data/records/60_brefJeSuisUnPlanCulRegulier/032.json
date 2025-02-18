@@ -14,7 +14,7 @@
   "line": {
     "content": "Du coup, j'essaie de lui dire autrement.",
     "end": 35,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 12,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=32s"

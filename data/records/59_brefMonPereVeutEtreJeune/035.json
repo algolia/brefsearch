@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "C'est trop de la boule, ça.",
+    "content": "— C'est trop de la boule, ça.",
     "end": 37,
-    "heatValue": 17,
-    "index": 17,
+    "heatBucket": 1,
+    "index": 16,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=35s"
   },

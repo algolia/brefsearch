@@ -14,8 +14,8 @@
   "line": {
     "content": "Il y a un autre truc\nque j'oublie à chaque cette fois,\nmais j'ai oublié ce que c'est.",
     "end": 62,
-    "heatValue": 22,
-    "index": 23,
+    "heatBucket": 2,
+    "index": 24,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=59s"
   },

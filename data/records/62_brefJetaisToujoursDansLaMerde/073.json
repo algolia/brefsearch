@@ -12,9 +12,9 @@
     "viewCount": 5199983
   },
   "line": {
-    "content": "Quand je dis Attends, tu vas voir,\nelle est trop marrante cette vidéo et que\nje la trouve pas pendant une heure.",
+    "content": "Quand je dis \"attends, tu vas voir,\nelle est trop marrante cette vidéo\" et que\nje la trouve pas pendant une heure.",
     "end": 76,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 31,
     "start": 73,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=73s"

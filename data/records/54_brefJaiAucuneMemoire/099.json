@@ -12,10 +12,10 @@
     "viewCount": 7767366
   },
   "line": {
-    "content": "Putain, tu es Fred Blanchard.",
+    "content": "— Putain, t'es Fred Blanchard.",
     "end": 101,
-    "heatValue": 12,
-    "index": 38,
+    "heatBucket": 1,
+    "index": 39,
     "start": 99,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=99s"
   },

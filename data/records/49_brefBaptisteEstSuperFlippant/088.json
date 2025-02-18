@@ -14,7 +14,7 @@
   "line": {
     "content": "— Pourquoi elle m'a quitté ?",
     "end": 90,
-    "heatValue": 80,
+    "heatBucket": 5,
     "index": 38,
     "start": 88,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=88s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "À un moment, ils ont tout arrêté\npour passer une vidéo.",
     "end": 39,
-    "heatValue": 8,
+    "heatBucket": 1,
     "index": 17,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=35s"

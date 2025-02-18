@@ -14,8 +14,8 @@
   "line": {
     "content": "Marla, c'est un bon coup.",
     "end": 95,
-    "heatValue": 25,
-    "index": 38,
+    "heatBucket": 4,
+    "index": 37,
     "start": 94,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=94s"
   },

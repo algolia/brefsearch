@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis demandé si je voulais\nvraiment entendre ça pendant des mois.",
     "end": 61,
-    "heatValue": 3,
+    "heatBucket": 1,
     "index": 21,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=59s"

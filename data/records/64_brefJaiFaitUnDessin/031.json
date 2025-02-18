@@ -14,8 +14,8 @@
   "line": {
     "content": "Il n'avait pas de chaussures parce\nqu'il les avait oubliées à la maison.",
     "end": 33,
-    "heatValue": 23,
-    "index": 14,
+    "heatBucket": 2,
+    "index": 13,
     "start": 31,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=31s"
   },

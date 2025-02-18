@@ -14,8 +14,8 @@
   "line": {
     "content": "Et surtout, ça allait allumer la chaîne\nHi-Fi et lancer sa chanson préférée.",
     "end": 68,
-    "heatValue": 5,
-    "index": 23,
+    "heatBucket": 1,
+    "index": 24,
     "start": 66,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=66s"
   },

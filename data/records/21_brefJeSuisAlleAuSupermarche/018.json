@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai voulu surfer sur mon caddie,\nmais il partait sur la droite.",
     "end": 20,
-    "heatValue": 18,
+    "heatBucket": 2,
     "index": 11,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=18s"

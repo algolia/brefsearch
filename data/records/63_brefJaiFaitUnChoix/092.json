@@ -14,8 +14,8 @@
   "line": {
     "content": "Ma copine, elle est mignonne et marrante\net j'ai pas envie de déménager.",
     "end": 94,
-    "heatValue": 20,
-    "index": 37,
+    "heatBucket": 4,
+    "index": 36,
     "start": 92,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=92s"
   },

@@ -14,8 +14,8 @@
   "line": {
     "content": "Dehors, il y avait un chemin avec de\nl'herbe en M. Il y avait aussi un dragon.",
     "end": 50,
-    "heatValue": 52,
-    "index": 23,
+    "heatBucket": 4,
+    "index": 22,
     "start": 48,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=48s"
   },

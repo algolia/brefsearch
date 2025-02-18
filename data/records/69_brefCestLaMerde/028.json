@@ -14,7 +14,7 @@
   "line": {
     "content": "Grave.\nBon, J'y vais.",
     "end": 30,
-    "heatValue": 30,
+    "heatBucket": 3,
     "index": 12,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=28s"

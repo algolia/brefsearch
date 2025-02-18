@@ -14,7 +14,7 @@
   "line": {
     "content": "Je dois résilier ma carte de cinéma\nparce que j'y vais plus depuis des mois\net quand je vais au cinéma,\nje retrouve plus ma carte.",
     "end": 42,
-    "heatValue": 23,
+    "heatBucket": 2,
     "index": 12,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=38s"

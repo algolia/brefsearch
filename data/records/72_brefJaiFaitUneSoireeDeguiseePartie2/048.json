@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai vu qu'il m'avait vue,\nmais il n'est pas venu me voir.",
     "end": 50,
-    "heatValue": 3,
+    "heatBucket": 1,
     "index": 20,
     "start": 48,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=48s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Ils m'ont tous dit, lui dit\npas, lui dit pas, lui dit pas.",
     "end": 30,
-    "heatValue": 25,
+    "heatBucket": 2,
     "index": 15,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=28s"

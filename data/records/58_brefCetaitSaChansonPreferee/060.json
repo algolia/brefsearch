@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 526,
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "isAgeRestricted": false,
+    "likeCount": 81033,
+    "name": "Bref. C'était sa chanson préférée.",
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI",
+    "viewCount": 6245023
+  },
+  "line": {
+    "content": "qui n'existait pas à emporter,\nmais que j'avais réussi à récupérer.",
+    "end": 62,
+    "heatBucket": 1,
+    "index": 21,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=60s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/gif/060.gif",
+    "hash": "54b0c35eae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJxjYGJiYmZmZmFhYWZmZmJiZGJkYmJiYmRkZGBg4GRjUxQR4mRlrQjy7U6Oyw/wNlaSZWBkBClhY2NlYWFlZ2WREOJnYGBgYmAQ4GCRFeRSFuHSluTPdLcr8XUrD/LsTIhkAJvGCDFSV14iyds+xtWyPNiuJyeqOy2wN82vKsCsxNuo2Me0LMhuQlo8AwMjMwcHm4a0cG1+1vy+1qr8uIoYj+owm56S5PIIl7aitCUTu6ZXZrYle9XF+0zJSmYwluYN0BHrL069fORgY1Kgi55oqrNGppu2n5l8eoBFvpfBjNL4pRPbewsTGuJ9ZuZlMERr8iXoCmR5Wk0qz2hND0200WoOsmgOs01wM56c7rOwIHhNT8Xyie19uZEVYQ65HlYMwUrscVo8IVrCAWbaTSkhHdnRrekRE0rSppRlTihImlSVP7mxui4lvCnaqTrSOcvblCFMhTNajbPQVt5VU9pZWy7Z2SjP16Yk1LU00rsozDPbzyHJ2TjTTb8kwDLbyyTJSY+h0km80o6nwU2qxEMnzEw10Egp2EQ5ykoj3l43xdkg28OoyNekNMgmx9s81dUw2dkAAJo9eCSyfzGVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/58_brefCetaitSaChansonPreferee/060.png",
+    "width": 1920
+  }
+}

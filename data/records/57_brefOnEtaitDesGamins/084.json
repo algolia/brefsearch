@@ -12,10 +12,10 @@
     "viewCount": 6343137
   },
   "line": {
-    "content": "Attends, c'est pas ce que je voulais dire.",
+    "content": "— Attends, c'est pas ce que je voulais dire.",
     "end": 87,
-    "heatValue": null,
-    "index": 32,
+    "heatBucket": 1,
+    "index": 31,
     "start": 84,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=84s"
   },

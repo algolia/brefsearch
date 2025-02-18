@@ -14,8 +14,8 @@
   "line": {
     "content": "Tout l'argent que j'avais gagné\npendant trois mois de télémarketing\nétait passé là-dedans.\nJ'ai attendu.",
     "end": 75,
-    "heatValue": 3,
-    "index": 25,
+    "heatBucket": 1,
+    "index": 26,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=71s"
   },

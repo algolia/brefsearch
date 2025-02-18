@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me dis que je dois avoir au moins\n100 € en centime, alors je les trie,\nmais j'ai que sept euros.",
     "end": 27,
-    "heatValue": 12,
+    "heatBucket": 1,
     "index": 10,
     "start": 23,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=23s"

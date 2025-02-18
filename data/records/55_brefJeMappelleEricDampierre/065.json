@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Tu fais beaucoup trop d'interro négatives.\nLui, c'est Stanley.",
+    "content": "— Tu fais beaucoup trop d'interro négatives.\nLui, c'est Stanley.",
     "end": 67,
-    "heatValue": 12,
-    "index": 33,
+    "heatBucket": 1,
+    "index": 34,
     "start": 65,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=65s"
   },

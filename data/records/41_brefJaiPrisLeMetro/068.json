@@ -14,7 +14,7 @@
   "line": {
     "content": "Un, deux, trois, quatre, cinq, six, sept.",
     "end": 75,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 23,
     "start": 68,
     "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=68s"

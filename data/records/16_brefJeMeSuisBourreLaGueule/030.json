@@ -14,7 +14,7 @@
   "line": {
     "content": "Pour vous donner une idée,\nMarla vaut 6 500 points.",
     "end": 32,
-    "heatValue": 80,
+    "heatBucket": 5,
     "index": 16,
     "start": 30,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=30s"

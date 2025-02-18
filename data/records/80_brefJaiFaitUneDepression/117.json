@@ -14,7 +14,7 @@
   "line": {
     "content": "Je suis arrivé dans la\nsalle du boss final.",
     "end": 119,
-    "heatValue": 67,
+    "heatBucket": 5,
     "index": 42,
     "start": 117,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=117s"

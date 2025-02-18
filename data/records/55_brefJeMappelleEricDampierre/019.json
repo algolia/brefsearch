@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Bonjour madame Dubreuil.",
+    "content": "— Bonjour Madame Dubreuil.",
     "end": 20,
-    "heatValue": 83,
-    "index": 11,
+    "heatBucket": 5,
+    "index": 12,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=19s"
   },

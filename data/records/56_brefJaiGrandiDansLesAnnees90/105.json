@@ -12,9 +12,9 @@
     "viewCount": 8859528
   },
   "line": {
-    "content": "Oh, oh, papa, gauche, droite,\ngauche, droite, dès un start.",
+    "content": "— Haut, Haut, Bas, Bas, Gauche, Droite,\nGauche, Droite, B, A, Start.",
     "end": 108,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 36,
     "start": 105,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=105s"

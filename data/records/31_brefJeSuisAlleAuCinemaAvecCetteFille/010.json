@@ -14,7 +14,7 @@
   "line": {
     "content": "Un film suffisamment intéressant\npour qu'elle soit contente de le voir,\nmais suffisamment moyen pour qu'elle\nme jette pas si j'essayais un truc.",
     "end": 14,
-    "heatValue": 47,
+    "heatBucket": 5,
     "index": 2,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=10s"

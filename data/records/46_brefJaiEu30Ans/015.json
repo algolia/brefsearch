@@ -14,7 +14,7 @@
   "line": {
     "content": "Je suis rentré chez moi, j'ai pris un bain\net en plus, j'ai mis de la mousse.",
     "end": 18,
-    "heatValue": 45,
+    "heatBucket": 3,
     "index": 7,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=15s"

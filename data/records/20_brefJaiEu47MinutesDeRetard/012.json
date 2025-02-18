@@ -14,7 +14,7 @@
   "line": {
     "content": "J'y suis allé.\nJ'avais 13 minutes de retard.",
     "end": 13,
-    "heatValue": 24,
+    "heatBucket": 3,
     "index": 5,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=12s"

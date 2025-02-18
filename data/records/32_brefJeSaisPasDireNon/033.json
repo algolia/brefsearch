@@ -14,7 +14,7 @@
   "line": {
     "content": "À chaque fois qu'un vendeur fait\npitié, je lui achète une rose.",
     "end": 37,
-    "heatValue": 31,
+    "heatBucket": 3,
     "index": 16,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=33s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai joué à la console un jour,\ndeux semaines, trois mois.",
     "end": 52,
-    "heatValue": 5,
+    "heatBucket": 1,
     "index": 18,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=49s"

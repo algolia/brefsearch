@@ -14,7 +14,7 @@
   "line": {
     "content": "En arrivant, j'ai vu qu'ils faisaient\ndes promotions sur les pains à hamburger.",
     "end": 8,
-    "heatValue": 30,
+    "heatBucket": 4,
     "index": 3,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=5s"

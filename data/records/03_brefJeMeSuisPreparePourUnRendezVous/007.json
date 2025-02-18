@@ -14,7 +14,7 @@
   "line": {
     "content": "Entre temps, je tape son nom\net son prénom dans Google et j'apprends\nqu'elle était en seconde B\nau lycée Clemenceau, à Reims.",
     "end": 12,
-    "heatValue": 48,
+    "heatBucket": 3,
     "index": 1,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=7s"

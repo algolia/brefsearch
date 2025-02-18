@@ -12,9 +12,9 @@
     "viewCount": 4289685
   },
   "line": {
-    "content": "Vas-y, je t'emmerde, toi.\nNon, c'est pas grave.",
+    "content": "— Hey, les bouffons !\n— Hey, vas-y, je t'emmerde, toi.\n— Non, non, c'est pas grave.",
     "end": 54,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 22,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=51s"

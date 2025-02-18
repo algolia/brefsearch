@@ -14,7 +14,7 @@
   "line": {
     "content": "Je l'ai recroisé au supermarché.\nElle se souvenait plus de mon nom.",
     "end": 9,
-    "heatValue": 9,
+    "heatBucket": 1,
     "index": 4,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=7s"

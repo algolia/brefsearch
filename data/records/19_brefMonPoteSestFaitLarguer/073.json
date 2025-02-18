@@ -14,7 +14,7 @@
   "line": {
     "content": "Ben touillait son café depuis 20 minutes\nen faisant bien grincer la cuillère.",
     "end": 75,
-    "heatValue": 25,
+    "heatBucket": 3,
     "index": 33,
     "start": 73,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=73s"

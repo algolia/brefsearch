@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai marché sur un truc,\nc'était une capote.",
     "end": 80,
-    "heatValue": 20,
+    "heatBucket": 1,
     "index": 30,
     "start": 78,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=78s"

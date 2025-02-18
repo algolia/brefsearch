@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai repris l'ascenseur,\nc'était celui de ma vie.",
     "end": 133,
-    "heatValue": 20,
+    "heatBucket": 3,
     "index": 49,
     "start": 131,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=131s"

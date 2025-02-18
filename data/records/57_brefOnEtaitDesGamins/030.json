@@ -12,9 +12,9 @@
     "viewCount": 6343137
   },
   "line": {
-    "content": "Bonjour madame, c'est très beau chez vous.",
+    "content": "— Bonjour Madame, c'est très beau chez vous.",
     "end": 34,
-    "heatValue": null,
+    "heatBucket": 1,
     "index": 15,
     "start": 30,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=30s"

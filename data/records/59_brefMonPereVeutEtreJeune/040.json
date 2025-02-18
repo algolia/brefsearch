@@ -14,8 +14,8 @@
   "line": {
     "content": "Il faisait du charme aux serveuses\ndans les petits restaurants.",
     "end": 42,
-    "heatValue": 20,
-    "index": 19,
+    "heatBucket": 2,
+    "index": 18,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=40s"
   },

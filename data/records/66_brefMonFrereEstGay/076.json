@@ -14,7 +14,7 @@
   "line": {
     "content": "Bref, mon frère est comme tout le monde.",
     "end": 81,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 38,
     "start": 76,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=76s"

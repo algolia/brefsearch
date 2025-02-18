@@ -14,7 +14,7 @@
   "line": {
     "content": "J'allais prendre des pâtes \"Ma che pasta!\"\nIl m'a dit:\n— Ah non, prends pas ces pâtes c'est de la merde.",
     "end": 55,
-    "heatValue": 22,
+    "heatBucket": 2,
     "index": 27,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=51s"

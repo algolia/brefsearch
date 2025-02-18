@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis rendu compte que\nj'avais confondu la planche B\navec la planche H, qui est pareil,\nmais avec deux autres trous sur le côté.",
     "end": 32,
-    "heatValue": 8,
+    "heatBucket": 1,
     "index": 14,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=28s"

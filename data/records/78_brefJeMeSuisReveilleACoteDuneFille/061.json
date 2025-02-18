@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai libéré mon bras.\nJe me suis levé.",
     "end": 64,
-    "heatValue": 51,
+    "heatBucket": 5,
     "index": 23,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=61s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai dit:\n— Ça va ?\nElle a dit:\n— Non, il est mort.",
     "end": 10,
-    "heatValue": 51,
+    "heatBucket": 4,
     "index": 3,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=7s"

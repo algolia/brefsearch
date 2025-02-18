@@ -14,7 +14,7 @@
   "line": {
     "content": "— Pour modifier votre message, tapez étoile.",
     "end": 58,
-    "heatValue": 5,
+    "heatBucket": 1,
     "index": 24,
     "start": 56,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=56s"

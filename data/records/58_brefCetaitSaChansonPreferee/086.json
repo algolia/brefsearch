@@ -12,10 +12,10 @@
     "viewCount": 6245023
   },
   "line": {
-    "content": "La ficelle a cassé.\nElle a dit: C'est ça Angèle ?",
+    "content": "La ficelle a cassé.\nElle a dit:\n— C'est ça que t'appeller ranger, là ?",
     "end": 89,
-    "heatValue": 16,
-    "index": 30,
+    "heatBucket": 1,
+    "index": 31,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=86s"
   },

@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis mis à dormir là-bas\nune nuit par semaine, sept nuits\npar semaine, quatre semaines par mois.",
     "end": 16,
-    "heatValue": 34,
+    "heatBucket": 5,
     "index": 5,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=13s"

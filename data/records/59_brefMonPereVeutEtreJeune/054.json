@@ -14,8 +14,8 @@
   "line": {
     "content": "Du coup, j'ai regardé dans l'historique.",
     "end": 55,
-    "heatValue": 14,
-    "index": 28,
+    "heatBucket": 1,
+    "index": 26,
     "start": 54,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=54s"
   },

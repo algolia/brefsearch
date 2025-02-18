@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai entendu une voix.\n— Monsieur ?",
     "end": 47,
-    "heatValue": 28,
+    "heatBucket": 3,
     "index": 22,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=45s"

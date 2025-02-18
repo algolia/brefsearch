@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai raccroché.",
     "end": 20,
-    "heatValue": 30,
+    "heatBucket": 2,
     "index": 7,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=19s"

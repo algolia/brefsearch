@@ -14,7 +14,7 @@
   "line": {
     "content": "Quand je suis célibataire,\nil traîne tout le temps avec moi.",
     "end": 10,
-    "heatValue": 12,
+    "heatBucket": 1,
     "index": 5,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=8s"

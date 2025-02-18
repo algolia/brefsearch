@@ -12,9 +12,9 @@
     "viewCount": 6245023
   },
   "line": {
-    "content": "Alors que moi, je galérais un peu plus.\nTiens, c'est...",
+    "content": "Alors que moi, je galérais un peu plus.\n— Tiens, c'est...",
     "end": 20,
-    "heatValue": 50,
+    "heatBucket": 4,
     "index": 5,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=16s"

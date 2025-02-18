@@ -14,7 +14,7 @@
   "line": {
     "content": "Ensuite, je l'ai invitée au cinéma, mais\nje suis resté coincé dans l'ascenseur.",
     "end": 13,
-    "heatValue": 4,
+    "heatBucket": 1,
     "index": 6,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=12s"

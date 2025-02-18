@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai décidé de lui laisser une chance.\n— J'habite juste à côté.",
     "end": 41,
-    "heatValue": 42,
+    "heatBucket": 5,
     "index": 20,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=38s"

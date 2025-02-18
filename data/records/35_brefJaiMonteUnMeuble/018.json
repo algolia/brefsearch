@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai voulu enfoncer un truc avec ma main.\nJe me suis fait mal.",
     "end": 20,
-    "heatValue": 11,
+    "heatBucket": 1,
     "index": 10,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=18s"

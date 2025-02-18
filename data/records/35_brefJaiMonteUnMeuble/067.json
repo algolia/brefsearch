@@ -14,7 +14,7 @@
   "line": {
     "content": "Arrivé à l'étape 14, j'ai compris\nà quoi servait l'étape 9.",
     "end": 70,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 28,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=67s"

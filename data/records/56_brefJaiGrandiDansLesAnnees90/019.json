@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai payé Internet à la minute.",
     "end": 20,
-    "heatValue": 60,
+    "heatBucket": 5,
     "index": 7,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=19s"

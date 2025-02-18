@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis senti triste.\nJ'ai crié.",
     "end": 34,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 15,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=32s"

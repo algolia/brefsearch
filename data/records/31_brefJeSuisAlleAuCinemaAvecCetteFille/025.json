@@ -14,7 +14,7 @@
   "line": {
     "content": "Elle a dit:\n— Ouais.\nLa vendeuse m'a dit:\n— Vous voulez du popcorn ?",
     "end": 27,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 9,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=25s"

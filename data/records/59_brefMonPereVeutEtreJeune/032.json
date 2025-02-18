@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "T'étais en discothèque ?",
+    "content": "— Alors ? T'étais en discothèque ?",
     "end": 33,
-    "heatValue": 15,
-    "index": 15,
+    "heatBucket": 1,
+    "index": 14,
     "start": 32,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=32s"
   },

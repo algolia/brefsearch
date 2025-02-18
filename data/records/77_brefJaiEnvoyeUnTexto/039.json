@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai mis: Bonjour,\nun demi, s'il vous plaît.",
     "end": 40,
-    "heatValue": 3,
+    "heatBucket": 2,
     "index": 18,
     "start": 39,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=39s"

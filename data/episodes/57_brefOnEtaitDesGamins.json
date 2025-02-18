@@ -10,244 +10,263 @@
   },
   "lines": [
     {
-      "content": "C'est une sacrée histoire aussi.",
+      "content": "— C'est une sacrée histoire aussi, ça.",
       "end": 2,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 0
     },
     {
       "content": "La première fois que j'ai vraiment été\nen couple, c'était avec mon ex.",
       "end": 4,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 2
     },
     {
-      "content": "Un jour, elle m'a dit:\nTu fais quoi ce soir ?",
+      "content": "Un jour, elle m'a dit:\n— Tu fais quoi ce soir ?",
       "end": 5,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 4
     },
     {
-      "content": "J'ai dit: Rien.\nElle m'a dit: Moi non plus.",
+      "content": "J'ai dit: — Rien.\nElle m'a dit: — Moi non plus.",
       "end": 7,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 5
     },
     {
-      "content": "J'ai dit: On le fait ensemble ?\nElle m'a dit: OK.",
+      "content": "J'ai dit: — On le fait ensemble ?\nElle m'a dit: — OK.",
       "end": 9,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 7
     },
     {
       "content": "Voilà.",
       "end": 9,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 9
     },
     {
       "content": "Être en couple, pour moi, c'est pas\nse marier, emménager ensemble\nou changer de statut Facebook.",
       "end": 12,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 9
     },
     {
       "content": "C'est de décider que quand on n'a\nrien à faire, on le fait à deux.",
       "end": 14,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 12
     },
     {
       "content": "La première fois qu'on n'a\nrien fait ensemble, on n'a rien fait.",
       "end": 17,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 14
     },
     {
       "content": "Mais c'était bien parce\nqu'on était amoureux.",
       "end": 19,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 17
     },
     {
       "content": "Les dix fois suivantes,\non s'est avoué des trucs.",
       "end": 20,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 19
     },
     {
-      "content": "En fait, dans ma tête, des fois,\nil y a une voix qui va vite.",
+      "content": "— En fait, dans ma tête, des fois,\nil y a une voix qui va vite.",
       "end": 24,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 20
     },
     {
       "content": "La 11ᵉ fois, on a rigolé.",
       "end": 25,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 24
     },
     {
-      "content": "Et puis un jour,\nviens, on fait une cabane.",
+      "content": "Et puis un jour:\n— Viens, on fait une cabane.",
       "end": 28,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 25
     },
     {
-      "content": "Oui.\nOn a fait gamins.",
+      "content": "— Oui.\nOn a fait les gamins.",
       "end": 30,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 28
     },
     {
-      "content": "Bonjour madame, c'est très beau chez vous.",
+      "content": "— Bonjour Madame, c'est très beau chez vous.",
       "end": 34,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 30
     },
     {
-      "content": "Ce n'est pas chez moi, c'est chez l'ours.",
+      "content": "— Ce n'est pas chez moi, c'est chez l'ours.\n— Chut.",
       "end": 38,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 34
     },
     {
-      "content": "Quand tu es en couple,\ntu retombes en enfance.",
+      "content": "Quand t'es en couple,\ntu retombes en enfance.",
       "end": 42,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 40
     },
     {
       "content": "On passait nos journées à jouer.",
       "end": 44,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 42
     },
     {
-      "content": "On joue avec la nourriture.\nJe vais appeler l'ours.",
+      "content": "On jouait avec la nourriture.\n— Je vais appeler l'ours.",
       "end": 50,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 44
     },
     {
-      "content": "On regarde des films qui font peur\nen mangeant des bonbons.",
+      "content": "On regardait des films qui font peur\nen mangeant des bonbons.",
       "end": 53,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 50
     },
     {
-      "content": "On joue à chat, à la barbichette\net à n'importe quoi.",
+      "content": "On jouait à chat, à la barbichette\net à n'importe quoi.",
       "end": 56,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 53
     },
     {
-      "content": "Attends.",
+      "content": "— Attends.",
       "end": 59,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 56
     },
     {
-      "content": "Allez, Oui.",
+      "content": "— Allô, oui ?",
       "end": 60,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 59
     },
     {
-      "content": "Oui, j'arriverai à 8h00\nsamedi, c'est pas très grave.",
+      "content": "— Oui, j'arriverai à 8h00\nsamedi, c'est pas très grave.",
       "end": 63,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 60
     },
     {
-      "content": "Mais arrête !",
+      "content": "— Mais arrête !",
       "end": 65,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 63
     },
     {
-      "content": "Oui, voilà.\nAu revoir.",
+      "content": "— Oui, voilà. Au revoir.",
       "end": 67,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 65
     },
     {
-      "content": "Tu m'as embêté, je vais appeler l'ours.",
+      "content": "— Tu m'as embêté, je vais appeler l'ours.",
       "end": 69,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 67
     },
     {
       "content": "C'était les meilleurs moments.",
       "end": 70,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 69
     },
     {
       "content": "Et puis un jour,\non a trop fait les adultes.",
       "end": 74,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 70
     },
     {
-      "content": "Putain, mais grand T'es gentil, quoi.\nTu sais quoi ?",
+      "content": "— Putain, mais grandi quoi !\n— Tu sais quoi ? Je t'ai jamais aimé.",
       "end": 74,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 74
     },
     {
-      "content": "Je t'ai jamais aimé.",
-      "end": 77,
-      "heatValue": null,
-      "start": 74
-    },
-    {
-      "content": "Attends, c'est pas ce que je voulais dire.",
+      "content": "— Attends, c'est pas ce que je voulais dire.",
       "end": 87,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 84
     },
     {
-      "content": "Allez, viens.",
+      "content": "— Allez, viens.",
       "end": 112,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 105
     },
     {
-      "content": "Bref, on est à Dégama.",
+      "content": "Bref, on était des gamins.",
       "end": 119,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 112
     },
     {
-      "content": "Putain, mais t'es con.",
+      "content": "— Putain, mais t'es con.",
       "end": 124,
-      "heatValue": null,
-      "start": 119
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 122
     },
     {
-      "content": "T'es vraiment gamin des fois, putain.\nÇa va, c'est...",
+      "content": "— T'es vraiment un gamin des fois, putain.\n— Ça va, c'est...",
       "end": 128,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 124
     },
     {
-      "content": "Je l'aime pas trop, elle.",
+      "content": "— Je l'aime pas trop, elle.",
       "end": 133,
-      "heatValue": null,
+      "heatBucket": 1,
+      "heatValue": 0,
       "start": 129
-    },
-    {
-      "content": "Putain.\nÇa va, si.",
-      "end": 134,
-      "heatValue": null,
-      "start": 133
-    },
-    {
-      "content": "Elle me patroler.",
-      "end": 134,
-      "heatValue": null,
-      "start": 134
     }
   ],
   "video": {

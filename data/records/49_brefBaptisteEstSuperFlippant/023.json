@@ -14,7 +14,7 @@
   "line": {
     "content": "Ce soir, je suis fatiguée.\"\n— À ton avis, ça veut dire quoi ?",
     "end": 26,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 11,
     "start": 23,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=23s"

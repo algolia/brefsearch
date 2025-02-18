@@ -14,7 +14,7 @@
   "line": {
     "content": "Bref, j'étais au mariage de mon cousin\nque j'avais dû voir trois fois\ndans ma vie à des mariages.",
     "end": 4,
-    "heatValue": 45,
+    "heatBucket": 3,
     "index": 1,
     "start": 2,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=2s"

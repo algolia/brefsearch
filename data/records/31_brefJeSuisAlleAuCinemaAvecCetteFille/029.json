@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai entendu:\n— 1000 Dollars.",
     "end": 30,
-    "heatValue": 23,
+    "heatBucket": 3,
     "index": 11,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=29s"

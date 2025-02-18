@@ -14,7 +14,7 @@
   "line": {
     "content": "Des mots qui servent à rien,\nmais qui rapportent beaucoup d'argent\nà des mecs avec des blouses.",
     "end": 56,
-    "heatValue": 20,
+    "heatBucket": 1,
     "index": 19,
     "start": 53,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=53s"

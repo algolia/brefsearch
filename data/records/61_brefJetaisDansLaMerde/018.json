@@ -14,7 +14,7 @@
   "line": {
     "content": "Ma copine m'a appelé.\nJe suis allé voir.",
     "end": 21,
-    "heatValue": 23,
+    "heatBucket": 2,
     "index": 8,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=18s"

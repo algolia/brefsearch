@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai ajouté un smiley,\nclin d'œil, ça marchait pas.",
     "end": 42,
-    "heatValue": 3,
+    "heatBucket": 2,
     "index": 20,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=41s"

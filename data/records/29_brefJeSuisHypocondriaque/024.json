@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me sens fatigué.",
     "end": 26,
-    "heatValue": 26,
+    "heatBucket": 3,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=24s"

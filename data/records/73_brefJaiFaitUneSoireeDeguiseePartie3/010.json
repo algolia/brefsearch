@@ -14,7 +14,7 @@
   "line": {
     "content": "La plupart du temps, il y a\nau moins un Benjamin dans une soirée.",
     "end": 12,
-    "heatValue": 35,
+    "heatBucket": 5,
     "index": 4,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=10s"

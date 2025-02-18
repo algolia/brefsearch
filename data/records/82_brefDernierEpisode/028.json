@@ -14,7 +14,7 @@
   "line": {
     "content": "Je démissionne.\nJe veux plus être un mec dans un bureau.",
     "end": 29,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 12,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=28s"

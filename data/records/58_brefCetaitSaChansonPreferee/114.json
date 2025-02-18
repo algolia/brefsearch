@@ -12,10 +12,10 @@
     "viewCount": 6245023
   },
   "line": {
-    "content": "Ça, c'est la constellation\nde la petite tuyère.",
+    "content": "— Et ça, c'est la constellation\nde la petite cuillère.",
     "end": 119,
-    "heatValue": 9,
-    "index": 37,
+    "heatBucket": 1,
+    "index": 38,
     "start": 114,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=114s"
   },

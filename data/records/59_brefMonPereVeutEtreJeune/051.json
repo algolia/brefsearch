@@ -14,8 +14,8 @@
   "line": {
     "content": "Il m'a dit qu'il avait\nun truc plus important à faire.",
     "end": 53,
-    "heatValue": 20,
-    "index": 26,
+    "heatBucket": 2,
+    "index": 24,
     "start": 51,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=51s"
   },

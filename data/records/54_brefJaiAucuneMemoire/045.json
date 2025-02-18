@@ -14,8 +14,8 @@
   "line": {
     "content": "Le problème, c'est que c'est Fred\nBlanchard qui m'a appris cette technique.",
     "end": 49,
-    "heatValue": 73,
-    "index": 18,
+    "heatBucket": 5,
+    "index": 19,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=45s"
   },

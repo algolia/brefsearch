@@ -14,7 +14,7 @@
   "line": {
     "content": "En jouant souvent à la console,\nelle tourne la manette à droite\npour faire tourner son personnage.",
     "end": 40,
-    "heatValue": null,
+    "heatBucket": 1,
     "index": 17,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=37s"

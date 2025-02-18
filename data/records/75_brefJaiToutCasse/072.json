@@ -14,7 +14,7 @@
   "line": {
     "content": "Du coup, j'ai pris des fleurs à la ville.",
     "end": 74,
-    "heatValue": 3,
+    "heatBucket": 1,
     "index": 27,
     "start": 72,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=72s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Il m'a dit.\n— T'as vu. J'ai frappé.",
     "end": 43,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 20,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=42s"

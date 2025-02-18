@@ -14,7 +14,7 @@
   "line": {
     "content": "Dans la salle d'attente, j'ai essayé\nde deviner qui pouvait avoir le sida.",
     "end": 18,
-    "heatValue": 48,
+    "heatBucket": 3,
     "index": 6,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=14s"

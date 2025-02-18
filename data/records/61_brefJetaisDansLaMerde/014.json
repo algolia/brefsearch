@@ -12,9 +12,9 @@
     "viewCount": 9827505
   },
   "line": {
-    "content": "Puis, j'ai reçu un texto\nde Baptiste qui disait: Désolé.",
+    "content": "Puis, j'ai reçu un texto\nde Baptiste qui disait:\n— Désolé.",
     "end": 17,
-    "heatValue": 27,
+    "heatBucket": 2,
     "index": 6,
     "start": 14,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=14s"

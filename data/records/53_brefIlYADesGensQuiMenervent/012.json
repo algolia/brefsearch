@@ -12,9 +12,9 @@
     "viewCount": 11882596
   },
   "line": {
-    "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent: Ouais, c'est moi.",
+    "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent:\n— Ouais, c'est marrant.",
     "end": 15,
-    "heatValue": 22,
+    "heatBucket": 3,
     "index": 5,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=12s"

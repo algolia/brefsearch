@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis déjà demandé\ns'il y avait une caméra\ndans les toilettes chez les autres.",
     "end": 62,
-    "heatValue": 20,
+    "heatBucket": 4,
     "index": 26,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=60s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Un soir, j'ai craqué.",
     "end": 9,
-    "heatValue": 60,
+    "heatBucket": 5,
     "index": 1,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=8s"

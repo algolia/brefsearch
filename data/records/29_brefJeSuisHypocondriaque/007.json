@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai dit:\n— Non. Je fais juste attention.",
     "end": 10,
-    "heatValue": 25,
+    "heatBucket": 3,
     "index": 2,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=7s"

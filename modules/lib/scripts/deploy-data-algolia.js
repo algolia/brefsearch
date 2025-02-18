@@ -11,6 +11,7 @@ import config from '../config.js';
   };
   const settings = {
     searchableAttributes: ['unordered(line.content)', 'episode.name'],
+    // By default, sort chronologically
     customRanking: ['asc(episode.index)', 'asc(line.index)'],
     attributesForFaceting: [
       'searchable(episode.name)',

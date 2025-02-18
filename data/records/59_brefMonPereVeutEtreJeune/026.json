@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "C'est n'importe quoi ce truc.",
+    "content": "— C'est n'importe quoi ce truc.",
     "end": 28,
-    "heatValue": 24,
-    "index": 13,
+    "heatBucket": 3,
+    "index": 12,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=26s"
   },

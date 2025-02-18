@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis dit qu'il devait faire\nla même chose, alors je l'ai rappelé.",
     "end": 27,
-    "heatValue": 7,
+    "heatBucket": 1,
     "index": 12,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=25s"

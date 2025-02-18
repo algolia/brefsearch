@@ -14,7 +14,7 @@
   "line": {
     "content": "Tout d'un coup, j'étais\nà mon ancien travail.",
     "end": 40,
-    "heatValue": 30,
+    "heatBucket": 4,
     "index": 9,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=38s"

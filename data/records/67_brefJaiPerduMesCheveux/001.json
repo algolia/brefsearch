@@ -14,7 +14,7 @@
   "line": {
     "content": "Cette journée a l'air normale,\nmais en vérité, c'est le dernier jour\nde ma vie où j'avais tous mes cheveux.",
     "end": 6,
-    "heatValue": 69,
+    "heatBucket": 5,
     "index": 1,
     "start": 1,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=1s"

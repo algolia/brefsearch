@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "Les deux Allemands ont\ndit: Was ist denn los ?",
+    "content": "Les deux Allemands ont dit:\n— Was ist denn los ?",
     "end": 108,
-    "heatValue": 53,
-    "index": 49,
+    "heatBucket": 5,
+    "index": 47,
     "start": 107,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=107s"
   },

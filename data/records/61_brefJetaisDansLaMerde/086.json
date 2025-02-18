@@ -14,7 +14,7 @@
   "line": {
     "content": "Quatre mensonges en trois secondes.",
     "end": 88,
-    "heatValue": 30,
+    "heatBucket": 3,
     "index": 36,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=86s"

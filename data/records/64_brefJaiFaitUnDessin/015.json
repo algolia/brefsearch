@@ -12,10 +12,10 @@
     "viewCount": 5904585
   },
   "line": {
-    "content": "Il y avait un soleil dans le coin\navec un grand rayon, un petit rayon,\nun petit rayon, un grand rayon,\net un petit rayon et un petit rayon",
+    "content": "Il y avait un soleil dans le coin\navec un grand rayon, un petit rayon,\nun grand rayon, un petit rayon, un grand rayon,\net un petit rayon.",
     "end": 19,
-    "heatValue": 18,
-    "index": 7,
+    "heatBucket": 1,
+    "index": 6,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=15s"
   },

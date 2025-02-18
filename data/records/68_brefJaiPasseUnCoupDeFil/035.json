@@ -14,7 +14,7 @@
   "line": {
     "content": "Pendant que je parle avec lui,\nBen m'a rappelé.",
     "end": 36,
-    "heatValue": 4,
+    "heatBucket": 1,
     "index": 19,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=35s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Elle est passée à -1000,\nalors je me suis mis à boire.\nVoilà pourquoi j'avais bu.",
     "end": 61,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 27,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=52s"

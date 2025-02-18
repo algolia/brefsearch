@@ -14,7 +14,7 @@
   "line": {
     "content": "Bref, j'ai fait une dépression.",
     "end": 137,
-    "heatValue": 42,
+    "heatBucket": 5,
     "index": 50,
     "start": 133,
     "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=133s"

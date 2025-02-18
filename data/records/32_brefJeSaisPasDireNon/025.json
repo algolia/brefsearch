@@ -14,7 +14,7 @@
   "line": {
     "content": "Je laisse régulièrement un pourboire\nà un serveur que je déteste.",
     "end": 28,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 13,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=25s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Je suis arrivé devant\nsa porte, j'ai sonné.",
     "end": 111,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 43,
     "start": 109,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=109s"

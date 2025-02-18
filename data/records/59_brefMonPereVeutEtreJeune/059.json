@@ -14,8 +14,8 @@
   "line": {
     "content": "Il est arrivé, je suis allé le voir.",
     "end": 60,
-    "heatValue": 11,
-    "index": 31,
+    "heatBucket": 1,
+    "index": 29,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=59s"
   },

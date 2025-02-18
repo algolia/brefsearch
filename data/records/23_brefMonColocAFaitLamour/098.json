@@ -14,7 +14,7 @@
   "line": {
     "content": "— Je voudrais une boîte\nde préservatifs, s'il vous plaît.",
     "end": 100,
-    "heatValue": 23,
+    "heatBucket": 3,
     "index": 40,
     "start": 98,
     "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=98s"

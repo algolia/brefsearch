@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis dit qu'à tous\nles coups, c'était le steak haché\nque j'avais mangé dans le bar\noù j'ai bu douze shots de téquila.",
     "end": 7,
-    "heatValue": 47,
+    "heatBucket": 5,
     "index": 2,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=4s"

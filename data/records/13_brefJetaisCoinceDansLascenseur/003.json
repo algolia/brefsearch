@@ -14,7 +14,7 @@
   "line": {
     "content": "La fille dont je suis amoureux\nm'a proposé un verre sur Facebook.",
     "end": 5,
-    "heatValue": 64,
+    "heatBucket": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=3s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai essayé de chanter\nen même temps, c'était super dur.",
     "end": 55,
-    "heatValue": 20,
+    "heatBucket": 1,
     "index": 24,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=52s"

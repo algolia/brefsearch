@@ -14,8 +14,8 @@
   "line": {
     "content": "Mais vu que je savais pas dessiner\nles dragons, je l'ai fait très loin.",
     "end": 52,
-    "heatValue": 60,
-    "index": 24,
+    "heatBucket": 5,
+    "index": 23,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=50s"
   },

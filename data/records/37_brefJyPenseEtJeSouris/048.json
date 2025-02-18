@@ -14,7 +14,7 @@
   "line": {
     "content": "La rotation de la terre sur son axe\nfait alterner la nuit et le jour.",
     "end": 50,
-    "heatValue": 3,
+    "heatBucket": 1,
     "index": 16,
     "start": 48,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=48s"

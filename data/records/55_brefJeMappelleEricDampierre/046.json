@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Merci, passez une excellente\njournée, au revoir.",
+    "content": "— Merci, passez une excellente\njournée, au revoir.",
     "end": 48,
-    "heatValue": 2,
-    "index": 25,
+    "heatBucket": 1,
+    "index": 26,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=46s"
   },

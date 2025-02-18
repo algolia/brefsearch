@@ -12,10 +12,10 @@
     "viewCount": 8818396
   },
   "line": {
-    "content": "Ma copine J'habite chez elle\net j'ai pas envie de déménager.",
+    "content": "Ma copine:\nJ'habite chez elle et j'ai pas envie de déménager.",
     "end": 92,
-    "heatValue": 12,
-    "index": 35,
+    "heatBucket": 1,
+    "index": 34,
     "start": 90,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=90s"
   },

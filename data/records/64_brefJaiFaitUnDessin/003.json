@@ -12,9 +12,9 @@
     "viewCount": 5904585
   },
   "line": {
-    "content": "Ma mère m'avait dit: Va\nlà-haut faire un dessin.",
-    "end": 5,
-    "heatValue": 54,
+    "content": "Ma mère m'avait dit: \"Va\nlà-haut faire un dessin.\"\nAlors, je me suis dessiné\nen haut en train de faire un dessin.",
+    "end": 6,
+    "heatBucket": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=3s"

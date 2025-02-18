@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai raccroché et je ne savais\ntoujours pas quel film on allait voir.",
     "end": 106,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 59,
     "start": 103,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=103s"

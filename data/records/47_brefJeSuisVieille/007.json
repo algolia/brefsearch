@@ -14,7 +14,7 @@
   "line": {
     "content": "Bon, alors, pour résumer, à chaque fois\nque je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
     "end": 12,
-    "heatValue": 55,
+    "heatBucket": 5,
     "index": 2,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=7s"

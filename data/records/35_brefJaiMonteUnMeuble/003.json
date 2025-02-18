@@ -14,7 +14,7 @@
   "line": {
     "content": "J'en ai acheté une.",
     "end": 4,
-    "heatValue": 42,
+    "heatBucket": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=3s"

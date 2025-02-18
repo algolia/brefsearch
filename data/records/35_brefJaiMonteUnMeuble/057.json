@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai marché pied nu sur une vis C2.\nJ'ai dit des gros mots.",
     "end": 60,
-    "heatValue": 13,
+    "heatBucket": 3,
     "index": 23,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=57s"

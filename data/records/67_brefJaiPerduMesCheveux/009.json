@@ -14,7 +14,7 @@
   "line": {
     "content": "Entre les deux, il s'est\npassé plein de choses.",
     "end": 10,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 3,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=9s"

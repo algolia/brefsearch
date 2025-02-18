@@ -14,7 +14,7 @@
   "line": {
     "content": "— Bon, bah, voilà.",
     "end": 104,
-    "heatValue": 20,
+    "heatBucket": 5,
     "index": 32,
     "start": 102,
     "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=102s"

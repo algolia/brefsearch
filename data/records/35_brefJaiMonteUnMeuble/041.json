@@ -14,7 +14,7 @@
   "line": {
     "content": "Mon coloc m'a pas aidé.\nIl était occupé.",
     "end": 45,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 19,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=41s"

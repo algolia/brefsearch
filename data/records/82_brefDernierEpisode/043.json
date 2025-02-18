@@ -14,7 +14,7 @@
   "line": {
     "content": "Et puis j'ai vu ce panneau: interdit\nde marcher sur la pelouse.",
     "end": 45,
-    "heatValue": 4,
+    "heatBucket": 1,
     "index": 20,
     "start": 43,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=43s"

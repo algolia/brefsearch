@@ -14,7 +14,7 @@
   "line": {
     "content": "Je déteste parler du film\njuste après le film.",
     "end": 63,
-    "heatValue": 35,
+    "heatBucket": 4,
     "index": 27,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=61s"

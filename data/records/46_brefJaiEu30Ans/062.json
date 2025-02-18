@@ -14,7 +14,7 @@
   "line": {
     "content": "Une bougie est restée allumée.\nJ'hésitais à la souffler.",
     "end": 64,
-    "heatValue": 26,
+    "heatBucket": 1,
     "index": 28,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=62s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Je suis dégoûté quand Windows\nme demande si je veux redémarrer\nsix fois pendant un film.",
     "end": 73,
-    "heatValue": 30,
+    "heatBucket": 3,
     "index": 30,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=71s"

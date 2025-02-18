@@ -14,7 +14,7 @@
   "line": {
     "content": "L'interrupteur allait déclencher\nune lumière qui allait projeter\nla constellation de la petite cuillère\nque j'avais inventée quand",
     "end": 48,
-    "heatValue": 3,
+    "heatBucket": 1,
     "index": 15,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=45s"

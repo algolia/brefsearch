@@ -14,7 +14,7 @@
   "line": {
     "content": "Il est arrivé.\n— Je suis arrivé.",
     "end": 25,
-    "heatValue": 33,
+    "heatBucket": 3,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=24s"

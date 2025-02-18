@@ -14,8 +14,8 @@
   "line": {
     "content": "Dans la maison, il y avait ma mère.\nElle s'était faite belle.",
     "end": 42,
-    "heatValue": 26,
-    "index": 19,
+    "heatBucket": 2,
+    "index": 18,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=40s"
   },

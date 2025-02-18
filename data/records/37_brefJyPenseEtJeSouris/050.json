@@ -14,7 +14,7 @@
   "line": {
     "content": "En hiver, les nuits sont plus longues.",
     "end": 51,
-    "heatValue": 3,
+    "heatBucket": 1,
     "index": 17,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=50s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis senti excité.\nJ'ai raté 10 minutes du film.",
     "end": 54,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 22,
     "start": 52,
     "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=52s"

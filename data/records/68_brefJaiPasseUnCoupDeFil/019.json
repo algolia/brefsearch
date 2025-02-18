@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai écouté ma messagerie.",
     "end": 21,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 9,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=19s"

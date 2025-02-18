@@ -14,7 +14,7 @@
   "line": {
     "content": "— Du coup, j'ai plein d'échantillons.\nC'était très intéressant.",
     "end": 42,
-    "heatValue": 30,
+    "heatBucket": 4,
     "index": 20,
     "start": 40,
     "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=40s"

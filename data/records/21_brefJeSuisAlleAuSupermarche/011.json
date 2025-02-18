@@ -14,7 +14,7 @@
   "line": {
     "content": "Du coup, j'ai pris des steak\npar 10, du fromage par 10, des oignons\npar 10, des tomates par 10.",
     "end": 14,
-    "heatValue": 24,
+    "heatBucket": 3,
     "index": 6,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=11s"

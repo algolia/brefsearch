@@ -14,7 +14,7 @@
   "line": {
     "content": "— Oh ben, fallait y aller, moi j'hésite pas !",
     "end": 21,
-    "heatValue": 50,
+    "heatBucket": 3,
     "index": 10,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=20s"

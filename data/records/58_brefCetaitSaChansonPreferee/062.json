@@ -12,10 +12,10 @@
     "viewCount": 6245023
   },
   "line": {
-    "content": "Des coquillettes avec beaucoup\nde gruyère et des macarons de la boutique\nqui étaient toujours fermés\nquand on y allait.",
+    "content": "Des coquillettes avec beaucoup\nde gruyère et des macarons de la boutique\nqui étaient toujours fermée\nquand on y allait.",
     "end": 65,
-    "heatValue": 9,
-    "index": 21,
+    "heatBucket": 1,
+    "index": 22,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=62s"
   },

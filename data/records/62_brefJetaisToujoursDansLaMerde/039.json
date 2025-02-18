@@ -14,7 +14,7 @@
   "line": {
     "content": "Et quand il faisait chaud\nà l'extérieur, il faisait\nencore plus chaud à l'intérieur.",
     "end": 40,
-    "heatValue": 16,
+    "heatBucket": 1,
     "index": 14,
     "start": 39,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=39s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Je pense que je viendrai\npas à la soirée de Maud.",
     "end": 9,
-    "heatValue": 30,
+    "heatBucket": 3,
     "index": 3,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=7s"

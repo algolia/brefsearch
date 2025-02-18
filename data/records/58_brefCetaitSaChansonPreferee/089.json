@@ -12,10 +12,10 @@
     "viewCount": 6245023
   },
   "line": {
-    "content": "Je commence par ranger la chaise.",
+    "content": "— Commence par ranger la chaise.",
     "end": 91,
-    "heatValue": 22,
-    "index": 31,
+    "heatBucket": 1,
+    "index": 32,
     "start": 89,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=89s"
   },

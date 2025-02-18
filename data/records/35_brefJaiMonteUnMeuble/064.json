@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai sauté l'étape 9.\nLe meuble commençait à avoir de la gueule.",
     "end": 65,
-    "heatValue": 12,
+    "heatBucket": 2,
     "index": 26,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=64s"

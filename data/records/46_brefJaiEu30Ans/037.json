@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai dit:\n— Wow, ça monte.\nEssoufflé, dans une rue qui montait.",
     "end": 39,
-    "heatValue": 75,
+    "heatBucket": 5,
     "index": 16,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=37s"

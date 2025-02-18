@@ -12,10 +12,10 @@
     "viewCount": 7767366
   },
   "line": {
-    "content": "Je sais Fred, mais Fred comment ?\nBlanchard.",
+    "content": "— Je sais Fred, mais Fred comment ?\n— Blanchard.",
     "end": 44,
-    "heatValue": 75,
-    "index": 17,
+    "heatBucket": 5,
+    "index": 18,
     "start": 43,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=43s"
   },

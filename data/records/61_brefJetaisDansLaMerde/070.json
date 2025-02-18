@@ -12,9 +12,9 @@
     "viewCount": 9827505
   },
   "line": {
-    "content": "J'ai dit: Béatrice.",
+    "content": "J'ai dit:\n— Béatrice.",
     "end": 73,
-    "heatValue": 8,
+    "heatBucket": 1,
     "index": 30,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=70s"

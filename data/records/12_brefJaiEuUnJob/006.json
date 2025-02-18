@@ -14,7 +14,7 @@
   "line": {
     "content": "— Do you speak English ?\n— Yes.",
     "end": 8,
-    "heatValue": 45,
+    "heatBucket": 4,
     "index": 1,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=6s"

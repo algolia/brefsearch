@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai peur des aiguilles.\nL'infirmière m'a dit:\n— On y va ?",
     "end": 38,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 14,
     "start": 36,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=36s"

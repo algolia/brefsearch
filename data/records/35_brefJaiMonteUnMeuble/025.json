@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai essayé de fixer la planche B\nà la planche D avec la vis\nB5, mais ça marchait pas.",
     "end": 28,
-    "heatValue": 8,
+    "heatBucket": 1,
     "index": 13,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=25s"

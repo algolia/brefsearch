@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai bu un café 23h00.",
     "end": 59,
-    "heatValue": 6,
+    "heatBucket": 1,
     "index": 23,
     "start": 58,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=58s"

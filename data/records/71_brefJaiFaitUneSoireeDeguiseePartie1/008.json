@@ -14,7 +14,7 @@
   "line": {
     "content": "Je n'avais pas envie d'y aller,\nmais j'avais promis trois fois.",
     "end": 9,
-    "heatValue": 8,
+    "heatBucket": 1,
     "index": 5,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=8s"

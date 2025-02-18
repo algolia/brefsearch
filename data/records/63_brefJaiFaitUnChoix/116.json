@@ -14,8 +14,8 @@
   "line": {
     "content": "Bref, j'ai fait un choix.",
     "end": 119,
-    "heatValue": 42,
-    "index": 43,
+    "heatBucket": 4,
+    "index": 42,
     "start": 116,
     "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=116s"
   },

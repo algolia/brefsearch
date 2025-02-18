@@ -12,10 +12,10 @@
     "viewCount": 7767366
   },
   "line": {
-    "content": "Je ne sais pas ce que j'ai.",
+    "content": "— Je sais pas ce que j'ai.",
     "end": 30,
-    "heatValue": 21,
-    "index": 12,
+    "heatBucket": 1,
+    "index": 13,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=28s"
   },

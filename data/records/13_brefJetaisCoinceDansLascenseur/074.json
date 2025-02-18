@@ -14,7 +14,7 @@
   "line": {
     "content": "Il m'a fait comprendre qu'il voulait un pourboire.",
     "end": 75,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 33,
     "start": 74,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=74s"

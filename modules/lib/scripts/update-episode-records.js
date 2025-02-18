@@ -97,7 +97,7 @@ await pMap(
             start: line.start,
             end: line.end,
             content: line.content,
-            heatValue: line.heatValue,
+            heatBucket: line.heatBucket,
             url: videoUrl,
           },
           thumbnail: thumbnailData,

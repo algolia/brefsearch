@@ -14,8 +14,8 @@
   "line": {
     "content": "Sur le toit, il y avait des tuiles,\nmais c'était trop relou à faire.",
     "end": 8,
-    "heatValue": 45,
-    "index": 3,
+    "heatBucket": 4,
+    "index": 2,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=6s"
   },

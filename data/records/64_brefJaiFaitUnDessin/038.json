@@ -14,8 +14,8 @@
   "line": {
     "content": "D'ailleurs, aux fenêtres de la maison,\nil y avait des rideaux en B.",
     "end": 40,
-    "heatValue": 25,
-    "index": 18,
+    "heatBucket": 2,
+    "index": 17,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=38s"
   },

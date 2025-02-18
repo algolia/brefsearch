@@ -14,7 +14,7 @@
   "line": {
     "content": "Parce qu'avant, les pauvres gens\ndormaient dans le métro.",
     "end": 26,
-    "heatValue": 20,
+    "heatBucket": 1,
     "index": 8,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=24s"

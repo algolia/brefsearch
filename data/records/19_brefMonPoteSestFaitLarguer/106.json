@@ -14,7 +14,7 @@
   "line": {
     "content": "— Vous acceptez la carte bleue ?",
     "end": 107,
-    "heatValue": 17,
+    "heatBucket": 1,
     "index": 43,
     "start": 106,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=106s"

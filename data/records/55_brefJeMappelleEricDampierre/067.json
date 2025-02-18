@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Il utilise des mots que celle\ndes mecs de Sarah se comprennent.",
+    "content": "Il utilise des mots que seuls\nles mecs de sa race comprennent.",
     "end": 68,
-    "heatValue": 15,
-    "index": 34,
+    "heatBucket": 1,
+    "index": 35,
     "start": 67,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=67s"
   },

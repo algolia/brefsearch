@@ -14,7 +14,7 @@
   "line": {
     "content": "— Bonjour.\nJe l'ai prise dans tout mon appartement.",
     "end": 59,
-    "heatValue": null,
+    "heatBucket": 1,
     "index": 25,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=55s"

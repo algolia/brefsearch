@@ -14,7 +14,7 @@
   "line": {
     "content": "C'était la première fois\nque je trompais quelqu'un.",
     "end": 9,
-    "heatValue": 64,
+    "heatBucket": 5,
     "index": 4,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=8s"

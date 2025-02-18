@@ -14,8 +14,8 @@
   "line": {
     "content": "Elle est redescendue, Steve est entré.\nIl a allumé la lumière.",
     "end": 95,
-    "heatValue": 24,
-    "index": 33,
+    "heatBucket": 4,
+    "index": 34,
     "start": 93,
     "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=93s"
   },

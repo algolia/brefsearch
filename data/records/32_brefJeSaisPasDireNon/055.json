@@ -14,7 +14,7 @@
   "line": {
     "content": "— Tiens au fait, je peux pas payer le loyer ce mois-ci.",
     "end": 58,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 27,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=55s"

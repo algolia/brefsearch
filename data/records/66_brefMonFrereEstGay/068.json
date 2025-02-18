@@ -14,7 +14,7 @@
   "line": {
     "content": "Il m'avait déjà dit\nqu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler.\nOuais, j'en ai déjà entendu parler.",
     "end": 71,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 35,
     "start": 68,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=68s"

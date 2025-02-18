@@ -14,7 +14,7 @@
   "line": {
     "content": "— Bha, il manque une corde,\nmais elle sert à rien.",
     "end": 14,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 6,
     "start": 12,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=12s"

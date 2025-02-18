@@ -12,246 +12,287 @@
     {
       "content": "Presque ce matin-là,\nje me suis réveillé à côté d'une fille.",
       "end": 3,
+      "heatBucket": 5,
       "heatValue": 53,
       "start": 1
     },
     {
       "content": "Je n'avais pas envie de rester.",
       "end": 4,
+      "heatBucket": 3,
       "heatValue": 38,
       "start": 3
     },
     {
       "content": "Je me suis demandé ce que je pouvais\nlui dire si elle se réveillait.",
       "end": 7,
+      "heatBucket": 3,
       "heatValue": 38,
       "start": 4
     },
     {
       "content": "Comment tu t'appelles déjà ?",
       "end": 11,
+      "heatBucket": 3,
       "heatValue": 40,
       "start": 9
     },
     {
       "content": "On ne se reverra jamais.",
       "end": 14,
+      "heatBucket": 4,
       "heatValue": 42,
       "start": 11
     },
     {
       "content": "Je suis qui ?",
       "end": 17,
+      "heatBucket": 3,
       "heatValue": 36,
       "start": 14
     },
     {
       "content": "J'ai donc décidé d'agir comme un homme\net de partir avant qu'elle se réveille.",
       "end": 20,
+      "heatBucket": 2,
       "heatValue": 28,
       "start": 17
     },
     {
       "content": "Mais mon bras était coincé\nsous-sel, ce qui me laissait\ntrois possibilités: le retirer d'un coup.",
       "end": 25,
+      "heatBucket": 2,
       "heatValue": 28,
       "start": 20
     },
     {
       "content": "Non, le laisser là.\nImpossible.",
       "end": 31,
+      "heatBucket": 2,
       "heatValue": 27,
       "start": 25
     },
     {
       "content": "Ou alors saisir mon téléphone,\nposer sur la table de chevet,\nrégler l'alarme pendant 10 minutes,\nattendre tranquillement qu'il sonne.",
       "end": 37,
+      "heatBucket": 1,
       "heatValue": 8,
       "start": 31
     },
     {
       "content": "Décrocher, dire.\nAllô ?",
       "end": 39,
+      "heatBucket": 1,
       "heatValue": 1,
       "start": 37
     },
     {
       "content": "Quoi ?",
       "end": 40,
+      "heatBucket": 1,
       "heatValue": 1,
       "start": 39
     },
     {
       "content": "Papa ?\nMaman ?",
       "end": 42,
+      "heatBucket": 1,
       "heatValue": 2,
       "start": 40
     },
     {
       "content": "J'arrive, je t'expliquerai.",
       "end": 44,
+      "heatBucket": 1,
       "heatValue": 4,
       "start": 42
     },
     {
       "content": "Partir en courant et jamais lui expliqué.",
       "end": 45,
+      "heatBucket": 1,
       "heatValue": 5,
       "start": 44
     },
     {
       "content": "Je me suis dit que ça pouvait marcher.",
       "end": 47,
+      "heatBucket": 1,
       "heatValue": 9,
       "start": 45
     },
     {
       "content": "Alors j'ai attrapé mon portable.",
       "end": 48,
+      "heatBucket": 1,
       "heatValue": 13,
       "start": 47
     },
     {
       "content": "Il était déchargé.",
       "end": 49,
+      "heatBucket": 1,
       "heatValue": 19,
       "start": 48
     },
     {
       "content": "Du coup, j'ai dû enlever\nmon bras un centimètre par minute.",
       "end": 52,
+      "heatBucket": 2,
       "heatValue": 29,
       "start": 49
     },
     {
       "content": "Je me suis demandé dans combien de temps\nelle allait se réveiller.",
       "end": 53,
+      "heatBucket": 3,
       "heatValue": 36,
       "start": 52
     },
     {
       "content": "Vu la façon dont le soleil entrait\ndans la pièce par la fenêtre\nqui tenait plein sud et vu qu'on était\nen octobre, on devait être environ 8h30.",
       "end": 58,
+      "heatBucket": 3,
       "heatValue": 39,
       "start": 53
     },
     {
       "content": "J'étais large.",
       "end": 58,
+      "heatBucket": 4,
       "heatValue": 41,
       "start": 58
     },
     {
       "content": "Après, j'ai arrêté le\nréveil Il était 13h17.",
       "end": 61,
+      "heatBucket": 4,
       "heatValue": 44,
       "start": 58
     },
     {
       "content": "J'ai libéré mon bras.\nJe me suis levé.",
       "end": 64,
+      "heatBucket": 5,
       "heatValue": 51,
       "start": 61
     },
     {
       "content": "Je me suis appuyé sur le mur.\nMon bras marchait plus.",
       "end": 65,
+      "heatBucket": 5,
       "heatValue": 53,
       "start": 64
     },
     {
       "content": "Je suis tombé.",
       "end": 67,
+      "heatBucket": 5,
       "heatValue": 55,
       "start": 65
     },
     {
       "content": "Elle a dit: Je me suis relevé.",
       "end": 70,
+      "heatBucket": 5,
       "heatValue": 55,
       "start": 67
     },
     {
       "content": "Je me suis giflé avec mon bras mort.",
       "end": 71,
+      "heatBucket": 4,
       "heatValue": 48,
       "start": 70
     },
     {
       "content": "J'ai attendu.",
       "end": 74,
+      "heatBucket": 3,
       "heatValue": 40,
       "start": 71
     },
     {
       "content": "Elle n'a rien dit d'autre.",
       "end": 78,
+      "heatBucket": 2,
       "heatValue": 26,
       "start": 74
     },
     {
       "content": "J'ai marché sur un truc,\nc'était une capote.",
       "end": 80,
+      "heatBucket": 1,
       "heatValue": 20,
       "start": 78
     },
     {
       "content": "J'ai trouvé ça sale, mais rassurant.",
       "end": 81,
+      "heatBucket": 1,
       "heatValue": 20,
       "start": 80
     },
     {
       "content": "Je me suis habillé.",
       "end": 83,
+      "heatBucket": 1,
       "heatValue": 20,
       "start": 81
     },
     {
       "content": "J'ai ouvert la porte, j'étais libre.",
       "end": 84,
+      "heatBucket": 1,
       "heatValue": 19,
       "start": 83
     },
     {
       "content": "C'était un placard.\nJ'ai ouvert l'autre porte.",
       "end": 89,
+      "heatBucket": 2,
       "heatValue": 27,
       "start": 84
     },
     {
       "content": "Elle a dit: Tu peux partir quand tu veux.",
       "end": 92,
+      "heatBucket": 4,
       "heatValue": 41,
       "start": 89
     },
     {
       "content": "Alors, je suis resté.",
       "end": 95,
+      "heatBucket": 4,
       "heatValue": 45,
       "start": 93
     },
     {
       "content": "Bref, je me suis réveillé\nà côté d'une fille.",
       "end": 99,
+      "heatBucket": 4,
       "heatValue": 41,
       "start": 95
     },
     {
       "content": "J'ai rêvé que ton père t'appelait\nparce que ta mère avait un problème.",
       "end": 102,
+      "heatBucket": 3,
       "heatValue": 35,
       "start": 99
     },
     {
       "content": "Et t'avais un bras en moins et tu avais\nun bras en moins, et tu me disais que t'étais gay.",
       "end": 107,
+      "heatBucket": 2,
       "heatValue": 22,
       "start": 104
     },
     {
       "content": "Et après, il y avait une girafe.\nChut.",
       "end": 113,
+      "heatBucket": 1,
       "heatValue": 13,
       "start": 107
     }

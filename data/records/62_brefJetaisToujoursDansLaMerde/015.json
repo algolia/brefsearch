@@ -14,7 +14,7 @@
   "line": {
     "content": "Je me suis déjà renseigné sur les clubs\nde sport pas trop loin de chez moi parce\nque je voulais pas me fatiguer à y aller.",
     "end": 18,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 6,
     "start": 15,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=15s"

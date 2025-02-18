@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai voulu mettre du parfum.\nBaptiste a dit:\n— Y en a plus.",
     "end": 10,
-    "heatValue": 27,
+    "heatBucket": 3,
     "index": 4,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=9s"

@@ -14,8 +14,8 @@
   "line": {
     "content": "Il avait réservé une chambre d'hôtel\npour deux en plein après-midi.",
     "end": 57,
-    "heatValue": 13,
-    "index": 29,
+    "heatBucket": 1,
+    "index": 27,
     "start": 55,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=55s"
   },

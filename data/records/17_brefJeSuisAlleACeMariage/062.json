@@ -14,7 +14,7 @@
   "line": {
     "content": "Elle a dit:\n— Moi, c'est Jessica.\nJ'ai dit:\n— Non, c'est moi.",
     "end": 65,
-    "heatValue": 45,
+    "heatBucket": 3,
     "index": 23,
     "start": 62,
     "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=62s"

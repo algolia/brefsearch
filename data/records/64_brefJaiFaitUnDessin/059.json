@@ -14,8 +14,8 @@
   "line": {
     "content": "Attends.",
     "end": 60,
-    "heatValue": 50,
-    "index": 29,
+    "heatBucket": 4,
+    "index": 28,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=59s"
   },

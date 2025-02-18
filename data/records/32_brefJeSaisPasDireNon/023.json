@@ -14,7 +14,7 @@
   "line": {
     "content": "Je fais souvent\ndes heures sup pas payées parce que\nmon boss doit partir en week-end.",
     "end": 25,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 12,
     "start": 23,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=23s"

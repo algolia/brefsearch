@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai attendu 20 minutes.",
     "end": 30,
-    "heatValue": 18,
+    "heatBucket": 2,
     "index": 16,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=28s"

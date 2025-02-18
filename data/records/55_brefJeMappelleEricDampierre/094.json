@@ -12,10 +12,10 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Bonjour, Bruno Dussalier.",
+    "content": "— Oui.\n— Bonjour, Bruno Dussellier.",
     "end": 95,
-    "heatValue": 59,
-    "index": 45,
+    "heatBucket": 4,
+    "index": 46,
     "start": 94,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=94s"
   },

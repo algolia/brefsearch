@@ -14,7 +14,7 @@
   "line": {
     "content": "Mon frère s'aime beaucoup.",
     "end": 26,
-    "heatValue": 32,
+    "heatBucket": 3,
     "index": 12,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=25s"

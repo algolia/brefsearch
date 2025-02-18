@@ -14,8 +14,8 @@
   "line": {
     "content": "J'ai rien dit, je l'ai\nregardé, il m'a regardé.",
     "end": 105,
-    "heatValue": 45,
-    "index": 47,
+    "heatBucket": 5,
+    "index": 45,
     "start": 104,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=104s"
   },

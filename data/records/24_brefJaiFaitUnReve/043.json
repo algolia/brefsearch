@@ -14,7 +14,7 @@
   "line": {
     "content": "J'essayais de parler à cette fille, mais\nelle soufflait sa fumée de cigarette sur moi.",
     "end": 45,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 11,
     "start": 43,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=43s"

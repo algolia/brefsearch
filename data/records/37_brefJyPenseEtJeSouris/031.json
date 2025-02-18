@@ -14,7 +14,7 @@
   "line": {
     "content": "Pendant ce temps, Thomas\nEdison, propre sur lui et bien rasé,\ninvente la lampe électrique.",
     "end": 35,
-    "heatValue": 4,
+    "heatBucket": 2,
     "index": 11,
     "start": 31,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=31s"

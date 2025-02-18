@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai pris l'ascenseur.\nL'ascenseur s'est bloqué.",
     "end": 17,
-    "heatValue": 24,
+    "heatBucket": 2,
     "index": 8,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=13s"

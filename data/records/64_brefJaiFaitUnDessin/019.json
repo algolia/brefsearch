@@ -14,8 +14,8 @@
   "line": {
     "content": "et un rectangle bleu pour faire le ciel.",
     "end": 20,
-    "heatValue": 16,
-    "index": 8,
+    "heatBucket": 1,
+    "index": 7,
     "start": 19,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=19s"
   },

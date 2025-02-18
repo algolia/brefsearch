@@ -14,7 +14,7 @@
   "line": {
     "content": "Offre reconductible automatiquement\nsur une durée indéterminée.",
     "end": 39,
-    "heatValue": 12,
+    "heatBucket": 1,
     "index": 21,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=37s"

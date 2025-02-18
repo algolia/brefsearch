@@ -14,7 +14,7 @@
   "line": {
     "content": "Ça se passait bien.",
     "end": 5,
-    "heatValue": 45,
+    "heatBucket": 5,
     "index": 2,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=3s"

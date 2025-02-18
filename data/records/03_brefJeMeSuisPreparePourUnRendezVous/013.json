@@ -14,7 +14,7 @@
   "line": {
     "content": "À chaque fois que je me prépare pour\nun rendez-vous, je prends une douche,\ndeux fois, pour être bien propre.",
     "end": 16,
-    "heatValue": 39,
+    "heatBucket": 3,
     "index": 3,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=13s"

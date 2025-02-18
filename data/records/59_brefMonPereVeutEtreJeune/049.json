@@ -14,8 +14,8 @@
   "line": {
     "content": "Un jour, je lui ai demandé un service.",
     "end": 51,
-    "heatValue": 28,
-    "index": 25,
+    "heatBucket": 3,
+    "index": 23,
     "start": 49,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=49s"
   },

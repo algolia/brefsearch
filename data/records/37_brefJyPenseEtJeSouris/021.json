@@ -14,7 +14,7 @@
   "line": {
     "content": "L'humidité est un vrai fléau pour ma\nsalle de bains, mais depuis toujours,\ncelle qui s'évapore depuis\nles grandes étendues d'eau se refroidit",
     "end": 25,
-    "heatValue": 7,
+    "heatBucket": 5,
     "index": 7,
     "start": 21,
     "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=21s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai réutilisé le même sachet\nde thé pendant une semaine.",
     "end": 80,
-    "heatValue": 50,
+    "heatBucket": 5,
     "index": 25,
     "start": 78,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=78s"

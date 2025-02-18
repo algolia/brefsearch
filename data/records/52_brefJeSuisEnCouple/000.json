@@ -14,7 +14,7 @@
   "line": {
     "content": "— Viens, on va draguer des filles.",
     "end": 1,
-    "heatValue": 30,
+    "heatBucket": 4,
     "index": 0,
     "start": 0,
     "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=0s"

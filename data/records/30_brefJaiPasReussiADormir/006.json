@@ -14,7 +14,7 @@
   "line": {
     "content": "— Ce soir, je me couche tôt.",
     "end": 8,
-    "heatValue": 54,
+    "heatBucket": 4,
     "index": 2,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=6s"

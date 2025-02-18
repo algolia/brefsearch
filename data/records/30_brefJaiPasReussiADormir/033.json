@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai cherché des conseils\npour dormir sur Internet.",
     "end": 35,
-    "heatValue": 19,
+    "heatBucket": 1,
     "index": 13,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=33s"

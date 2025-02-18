@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai dîné avec elle, j'ai voulu\nl'embrasser, mais elle est partie.",
     "end": 27,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 14,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=25s"

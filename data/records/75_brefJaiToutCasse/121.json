@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai dit...",
     "end": 123,
-    "heatValue": 25,
+    "heatBucket": 3,
     "index": 49,
     "start": 121,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=121s"

@@ -12,10 +12,10 @@
     "viewCount": 7767366
   },
   "line": {
-    "content": "J'ai une liste de trucs à ne pas oublier,\nmais je vous dis de regarder la liste.",
+    "content": "J'ai une liste de trucs à ne pas oublier,\nmais j'oublie de regarder la liste.",
     "end": 21,
-    "heatValue": 26,
-    "index": 8,
+    "heatBucket": 3,
+    "index": 9,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=18s"
   },

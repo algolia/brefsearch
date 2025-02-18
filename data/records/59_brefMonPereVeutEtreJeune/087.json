@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "Une fois, j'ai écrit: Je t'aime\npar terre tous les trois mètres.",
+    "content": "— Une fois, j'ai écrit \"Je t'aime\"\npar terre tous les trois mètres.",
     "end": 89,
-    "heatValue": 21,
-    "index": 41,
+    "heatBucket": 2,
+    "index": 39,
     "start": 87,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=87s"
   },

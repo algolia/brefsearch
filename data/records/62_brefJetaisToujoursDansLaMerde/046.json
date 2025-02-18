@@ -14,7 +14,7 @@
   "line": {
     "content": "Je connaissais cette voiture par cœur.\nJ'ai dormi dans cette voiture.",
     "end": 50,
-    "heatValue": 21,
+    "heatBucket": 2,
     "index": 18,
     "start": 46,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=46s"

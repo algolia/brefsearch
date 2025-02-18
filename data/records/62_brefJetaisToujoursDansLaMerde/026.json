@@ -12,9 +12,9 @@
     "viewCount": 5199983
   },
   "line": {
-    "content": "Je l'ai regardé.\nTu réponds ?",
+    "content": "Je l'ai regardé.\n— Wow, tu réponds ?",
     "end": 30,
-    "heatValue": 21,
+    "heatBucket": 2,
     "index": 11,
     "start": 26,
     "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=26s"

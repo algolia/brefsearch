@@ -14,7 +14,7 @@
   "line": {
     "content": "Et j'ai arrêté.",
     "end": 31,
-    "heatValue": 30,
+    "heatBucket": 2,
     "index": 10,
     "start": 30,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=30s"

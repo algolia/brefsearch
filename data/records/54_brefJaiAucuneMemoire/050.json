@@ -14,8 +14,8 @@
   "line": {
     "content": "Dès qu'une dispute dure plus de dix\nminutes, j'oublie pourquoi je me dispute.",
     "end": 52,
-    "heatValue": 52,
-    "index": 19,
+    "heatBucket": 5,
+    "index": 20,
     "start": 50,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=50s"
   },

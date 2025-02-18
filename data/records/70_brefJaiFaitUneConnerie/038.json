@@ -14,7 +14,7 @@
   "line": {
     "content": "Puis, je suis rentrée.\nElle m'a dit: Avec un grand sourire.",
     "end": 40,
-    "heatValue": 8,
+    "heatBucket": 1,
     "index": 20,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=38s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Quand je suis en mode survie, je regarde\nles tickets de jeux déjà grattés par\nterre en espérant qu'ils soient gagnants.",
     "end": 9,
-    "heatValue": 38,
+    "heatBucket": 4,
     "index": 2,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=5s"

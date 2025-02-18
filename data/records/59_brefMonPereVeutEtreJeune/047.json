@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "Oui, je comprends que tu\naies envie de parler.",
+    "content": "— Oui, je comprends que tu\naies envie de parler.",
     "end": 48,
-    "heatValue": 30,
-    "index": 23,
+    "heatBucket": 4,
+    "index": 21,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=47s"
   },

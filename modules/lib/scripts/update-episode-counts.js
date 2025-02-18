@@ -12,7 +12,7 @@ import {
 import { _, pMap } from 'golgoth';
 import { convertCounts } from '../convertCounts.js';
 
-const episodes = await glob('01*.json', {
+const episodes = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
 });
 const episodeCount = episodes.length;
@@ -82,16 +82,18 @@ progress.success('All count metrics extracted');
  * @returns {number} Number between 1 and 100
  */
 function getHeatValue(heatmap, line) {
-  return _.chain(heatmap)
-    .filter((item) => {
-      const hasBeginning = line.start >= item.start && line.start <= item.end;
-      const hasEnding = line.end >= item.start && line.end <= item.end;
-      return hasBeginning || hasEnding;
-    })
-    .map('value')
-    .mean()
-    .round()
-    .value();
+  return (
+    _.chain(heatmap)
+      .filter((item) => {
+        const hasBeginning = line.start >= item.start && line.start <= item.end;
+        const hasEnding = line.end >= item.start && line.end <= item.end;
+        return hasBeginning || hasEnding;
+      })
+      .map('value')
+      .mean()
+      .round()
+      .value() || 0
+  );
 }
 
 /**
@@ -124,7 +126,7 @@ function setHeatBuckets(lines, bucketCount) {
     const bucketNumber = _.find(thresholds, ({ upperLimit }) => {
       return heatValue <= upperLimit;
     });
-    line.heatBucket = bucketNumber.index;
+    line.heatBucket = bucketNumber?.index;
     return line;
   });
 

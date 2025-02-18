@@ -12,288 +12,336 @@
     {
       "content": "Comme souvent, j'avais 20 €\nen poche alors que c'était le 5 du mois.",
       "end": 3,
+      "heatBucket": 5,
       "heatValue": 71,
       "start": 1
     },
     {
       "content": "Alors comme souvent,\nje me suis mis en mode survie.",
       "end": 5,
+      "heatBucket": 5,
       "heatValue": 57,
       "start": 3
     },
     {
       "content": "Quand je suis en mode survie, je regarde\nles tickets de jeux déjà grattés par\nterre en espérant qu'ils soient gagnants.",
       "end": 9,
+      "heatBucket": 4,
       "heatValue": 38,
       "start": 5
     },
     {
       "content": "Je mets de l'eau dans les bouteilles\nde shampoing vide pour les réutiliser.",
       "end": 11,
+      "heatBucket": 2,
       "heatValue": 23,
       "start": 9
     },
     {
       "content": "Pareil pour le liquide vaisselle\net je découpe le tube de dentifrice\npour pas le gâcher.",
       "end": 13,
+      "heatBucket": 2,
       "heatValue": 20,
       "start": 11
     },
     {
       "content": "Quand j'ai plus de lessive,\nje lave mes fringues à l'adoucissant.",
       "end": 15,
+      "heatBucket": 2,
       "heatValue": 16,
       "start": 13
     },
     {
       "content": "Quand j'ai plus d'adoucissant,\nje lave mes fringues au déodorant.",
       "end": 18,
+      "heatBucket": 1,
       "heatValue": 14,
       "start": 15
     },
     {
       "content": "Je cherche de l'argent dans\nle canapé, dans toutes mes poches.",
       "end": 21,
+      "heatBucket": 1,
       "heatValue": 13,
       "start": 18
     },
     {
       "content": "J'appelle les gens qui me doivent\nde l'argent, ils répondent pas.",
       "end": 22,
+      "heatBucket": 1,
       "heatValue": 14,
       "start": 21
     },
     {
       "content": "Je réponds pas aux gens\nà qui je dois de l'argent.",
       "end": 23,
+      "heatBucket": 1,
       "heatValue": 14,
       "start": 22
     },
     {
       "content": "Je me dis que je dois avoir au moins\n100 € en centime, alors je les trie,\nmais j'ai que sept euros.",
       "end": 27,
+      "heatBucket": 1,
       "heatValue": 12,
       "start": 23
     },
     {
       "content": "Pour manger, j'ai appris à inventer\ndes plats avec ce qui reste.",
       "end": 30,
+      "heatBucket": 1,
       "heatValue": 9,
       "start": 27
     },
     {
       "content": "Bonjour à tous.",
       "end": 33,
+      "heatBucket": 1,
       "heatValue": 7,
       "start": 30
     },
     {
       "content": "Bonjour.",
       "end": 34,
+      "heatBucket": 1,
       "heatValue": 5,
       "start": 33
     },
     {
       "content": "Alors, qu'est-ce qu'on mange aujourd'hui ?",
       "end": 35,
+      "heatBucket": 1,
       "heatValue": 5,
       "start": 34
     },
     {
       "content": "Alors, la fameuse farandole\nde pâtes qui restent.",
       "end": 39,
+      "heatBucket": 1,
       "heatValue": 4,
       "start": 35
     },
     {
       "content": "Et qu'est-ce qui reste ?",
       "end": 40,
+      "heatBucket": 1,
       "heatValue": 3,
       "start": 39
     },
     {
       "content": "Alors, on a 30 grammes de farfales,\n50 grammes de coquillettes\net 20 grammes de spaghettis.",
       "end": 46,
+      "heatBucket": 1,
       "heatValue": 3,
       "start": 40
     },
     {
       "content": "Et attention de bien respecter\nle temps de cuisson de chaque pâte.",
       "end": 51,
+      "heatBucket": 1,
       "heatValue": 2,
       "start": 46
     },
     {
       "content": "Et oui, sinon, ça serait trop facile.",
       "end": 61,
+      "heatBucket": 1,
       "heatValue": 1,
       "start": 54
     },
     {
       "content": "Ça a l'air fameux.",
       "end": 63,
+      "heatBucket": 1,
       "heatValue": 4,
       "start": 61
     },
     {
       "content": "On arrose le tout du ketchup du McDo\nqu'on a gardé il y a huit semaines.",
       "end": 67,
+      "heatBucket": 1,
       "heatValue": 6,
       "start": 63
     },
     {
       "content": "Et en guise de pain, les croûtes de pizza.",
       "end": 71,
+      "heatBucket": 2,
       "heatValue": 18,
       "start": 67
     },
     {
       "content": "C'est fameux.",
       "end": 75,
+      "heatBucket": 4,
       "heatValue": 38,
       "start": 71
     },
     {
       "content": "Bon appétit.\nJ'achète des sous de marque qui font peur.",
       "end": 77,
+      "heatBucket": 4,
       "heatValue": 48,
       "start": 75
     },
     {
       "content": "J'ai réutilisé le même sachet\nde thé pendant une semaine.",
       "end": 80,
+      "heatBucket": 5,
       "heatValue": 50,
       "start": 78
     },
     {
       "content": "Moins il y a de thé,\nplus je mets de sucre.",
       "end": 81,
+      "heatBucket": 4,
       "heatValue": 48,
       "start": 80
     },
     {
       "content": "Moi, j'ai d'argent.\nOn se commande un jap ?",
       "end": 82,
+      "heatBucket": 4,
       "heatValue": 41,
       "start": 81
     },
     {
       "content": "Moi, j'ai faim.\nJe suis pas fin.",
       "end": 84,
+      "heatBucket": 4,
       "heatValue": 39,
       "start": 82
     },
     {
       "content": "On commande une pizza ?\nJ'ai pas faim.",
       "end": 85,
+      "heatBucket": 3,
       "heatValue": 31,
       "start": 84
     },
     {
       "content": "On se vend un resto ?\nJ'ai pas faim.",
       "end": 87,
+      "heatBucket": 3,
       "heatValue": 30,
       "start": 85
     },
     {
       "content": "Je m'invite.\nUne entre-goutte, s'il vous plaît.",
       "end": 90,
+      "heatBucket": 2,
       "heatValue": 29,
       "start": 87
     },
     {
       "content": "Sur Internet, je clique\nsur des pubs gagnées 3 000 €\npar mois en restant chez vous.",
       "end": 92,
+      "heatBucket": 2,
       "heatValue": 29,
       "start": 90
     },
     {
       "content": "Puis j'achète 1 €, une méthode\nqui m'explique comment vendre\ncette méthode à 3 000 personnes.",
       "end": 95,
+      "heatBucket": 3,
       "heatValue": 30,
       "start": 92
     },
     {
       "content": "Je fais des soirées où je dis\naux gens de ramener des trucs à manger.",
       "end": 97,
+      "heatBucket": 3,
       "heatValue": 31,
       "start": 95
     },
     {
       "content": "Non, tu ramèneras rien.\nUn petit truc à manger, à la rigueur.",
       "end": 99,
+      "heatBucket": 3,
       "heatValue": 34,
       "start": 97
     },
     {
       "content": "Après, pendant deux semaines, je mange\ndes chips, des cacahuètes et des olives.",
       "end": 101,
+      "heatBucket": 3,
       "heatValue": 34,
       "start": 99
     },
     {
       "content": "Quand je suis invité à une soirée,\nje prends une bouteille à 2 €\navec un nom de millionnaire dessus.",
       "end": 104,
+      "heatBucket": 3,
       "heatValue": 33,
       "start": 101
     },
     {
       "content": "J'enlève l'étiquette orange\npour pas me faire griller.",
       "end": 105,
+      "heatBucket": 3,
       "heatValue": 34,
       "start": 104
     },
     {
       "content": "Quand j'arrive, on me dit: Je vais\nla mettre à la cuisine.",
       "end": 107,
+      "heatBucket": 3,
       "heatValue": 30,
       "start": 105
     },
     {
       "content": "C'est ce qu'il va dire.\nJe vais la mettre à la poubelle.",
       "end": 110,
+      "heatBucket": 2,
       "heatValue": 26,
       "start": 107
     },
     {
       "content": "Bref, je suis en mode survie.",
       "end": 112,
+      "heatBucket": 2,
       "heatValue": 22,
       "start": 110
     },
     {
       "content": "Et en dessert, le fameux doigt\ncollant au sucre vanillé.",
       "end": 119,
+      "heatBucket": 1,
       "heatValue": 11,
       "start": 112
     },
     {
       "content": "Irresistible.",
       "end": 124,
+      "heatBucket": 1,
       "heatValue": 9,
       "start": 122
     },
     {
       "content": "C'est le fameux.",
       "end": 125,
+      "heatBucket": 1,
       "heatValue": 11,
       "start": 124
     },
     {
       "content": "Je vous laisse.",
       "end": 127,
+      "heatBucket": 1,
       "heatValue": 12,
       "start": 125
     },
     {
       "content": "Je vais montrer nos Guy Valgaré.",
       "end": 128,
+      "heatBucket": 1,
       "heatValue": 12,
       "start": 127
     },
     {
       "content": "À bientôt.\nÇa, j'espère.",
       "end": 130,
+      "heatBucket": 1,
       "heatValue": 11,
       "start": 128
     }

@@ -14,7 +14,7 @@
   "line": {
     "content": "C'est Seb.\nCool.",
     "end": 66,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 33,
     "start": 65,
     "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=65s"

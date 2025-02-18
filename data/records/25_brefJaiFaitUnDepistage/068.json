@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai avoué à mon frère\nque j'avais pété sa Game Boy.",
     "end": 70,
-    "heatValue": 30,
+    "heatBucket": 2,
     "index": 26,
     "start": 68,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=68s"

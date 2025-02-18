@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "J'ai dit: C'est ça ton truc important ?",
+    "content": "J'ai dit:\n— C'est ça ton truc important ?",
     "end": 62,
-    "heatValue": 12,
-    "index": 32,
+    "heatBucket": 1,
+    "index": 30,
     "start": 60,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=60s"
   },

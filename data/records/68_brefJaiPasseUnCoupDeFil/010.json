@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai voulu prendre l'appel,\nmais comme d'hab, ça marchait pas.",
     "end": 12,
-    "heatValue": 20,
+    "heatBucket": 5,
     "index": 5,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=10s"

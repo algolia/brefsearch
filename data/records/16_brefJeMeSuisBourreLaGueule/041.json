@@ -14,7 +14,7 @@
   "line": {
     "content": "Plus 100 points.\n— J'ai déjà fait des plans à trois.",
     "end": 42,
-    "heatValue": 25,
+    "heatBucket": 5,
     "index": 21,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=41s"

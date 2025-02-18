@@ -12,9 +12,9 @@
     "viewCount": 11882596
   },
   "line": {
-    "content": "Vous aviez dit vélo tout terrain.\nC'est en tout terrain.",
+    "content": "— Mais vous aviez dit vélo tout terrain.\n— C'est un tout terrain.",
     "end": 78,
-    "heatValue": 17,
+    "heatBucket": 1,
     "index": 32,
     "start": 76,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=76s"

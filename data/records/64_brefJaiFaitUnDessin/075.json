@@ -12,10 +12,10 @@
     "viewCount": 5904585
   },
   "line": {
-    "content": "Ça, c'est un avion, ça,\nc'est le dragon et ça, c'est\ntoi qui tient la main du monsieur.\nJe vais le montrer à papa en rentrant.",
+    "content": "— Ça, c'est un avion, ça,\nc'est le dragon et ça, c'est\ntoi qui tient la main du monsieur.\n— Je vais le montrer à papa en rentrant.",
     "end": 81,
-    "heatValue": 37,
-    "index": 34,
+    "heatBucket": 3,
+    "index": 33,
     "start": 75,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=75s"
   },

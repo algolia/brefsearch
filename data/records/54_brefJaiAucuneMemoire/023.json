@@ -12,10 +12,10 @@
     "viewCount": 7767366
   },
   "line": {
-    "content": "J'achète un parapluie à chaque fois\nqu'il pleut, je l'oublie chez quelqu'un\nà chaque fois qu'il ne pleut plus.",
+    "content": "J'achète un parapluie à chaque fois\nqu'il pleut, je l'oublie chez quelqu'un\nà chaque fois qu'il pleut plus.",
     "end": 26,
-    "heatValue": 24,
-    "index": 10,
+    "heatBucket": 2,
+    "index": 11,
     "start": 23,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=23s"
   },

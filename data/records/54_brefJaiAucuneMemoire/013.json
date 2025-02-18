@@ -12,10 +12,10 @@
     "viewCount": 7767366
   },
   "line": {
-    "content": "Et de moi-même.\nDu coup,Merci.",
+    "content": "Et de moi-même.\nDu coup\n— Merci.",
     "end": 14,
-    "heatValue": 26,
-    "index": 5,
+    "heatBucket": 3,
+    "index": 6,
     "start": 13,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=13s"
   },

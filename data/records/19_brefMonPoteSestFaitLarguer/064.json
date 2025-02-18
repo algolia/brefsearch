@@ -14,7 +14,7 @@
   "line": {
     "content": "— Je vais prendre une tarte aux pommes.\n— Quetsch. Tarte aux quetsch.",
     "end": 66,
-    "heatValue": 42,
+    "heatBucket": 5,
     "index": 31,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=64s"

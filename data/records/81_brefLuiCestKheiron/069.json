@@ -14,7 +14,7 @@
   "line": {
     "content": "Ça, ça veut dire que c'est cool.",
     "end": 70,
-    "heatValue": 40,
+    "heatBucket": 3,
     "index": 24,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=z5tHQfjXtwc&t=69s"

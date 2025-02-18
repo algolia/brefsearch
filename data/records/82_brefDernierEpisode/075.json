@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai regardé ma montre, j'étais en retard.",
     "end": 77,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 29,
     "start": 75,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=75s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "Bref, j'aime bien cette photo.",
     "end": 87,
-    "heatValue": 32,
+    "heatBucket": 3,
     "index": 33,
     "start": 86,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=86s"

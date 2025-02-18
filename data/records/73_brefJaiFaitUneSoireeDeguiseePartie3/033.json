@@ -14,7 +14,7 @@
   "line": {
     "content": "Einstein, j'ai une nouvelle\nformule pour toi.",
     "end": 37,
-    "heatValue": 4,
+    "heatBucket": 3,
     "index": 14,
     "start": 33,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=33s"

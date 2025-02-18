@@ -12,9 +12,9 @@
     "viewCount": 8859528
   },
   "line": {
-    "content": "Je regardais mon âge\ndans le fond des verres du Ralex.",
+    "content": "Je regardais mon âge\ndans le fond des verres Duralex.",
     "end": 10,
-    "heatValue": 58,
+    "heatBucket": 5,
     "index": 2,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=9s"

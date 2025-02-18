@@ -14,8 +14,8 @@
   "line": {
     "content": "Elle avait deux cheveux, une jupe\nen triangle et des boucles d'oreilles\nplus grosses que sa tête.",
     "end": 45,
-    "heatValue": 32,
-    "index": 20,
+    "heatBucket": 3,
+    "index": 19,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=42s"
   },

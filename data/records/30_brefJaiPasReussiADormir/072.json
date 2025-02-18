@@ -14,7 +14,7 @@
   "line": {
     "content": "Claquer toute ma thune à Las Vegas,\nm'éclater avec les filles d'Energy 3000,\ndemander cette fille en mariage,\nboire de l'eau de la lune.",
     "end": 75,
-    "heatValue": 56,
+    "heatBucket": 5,
     "index": 30,
     "start": 72,
     "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=72s"

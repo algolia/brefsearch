@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai demandé à Maud\nsi elle avait un copain.",
     "end": 10,
-    "heatValue": 51,
+    "heatBucket": 5,
     "index": 2,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=9s"

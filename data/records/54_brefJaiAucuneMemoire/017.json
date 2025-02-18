@@ -12,10 +12,10 @@
     "viewCount": 7767366
   },
   "line": {
-    "content": "Tu es qui ?",
+    "content": "— C'est qui ?",
     "end": 18,
-    "heatValue": 26,
-    "index": 7,
+    "heatBucket": 3,
+    "index": 8,
     "start": 17,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=17s"
   },

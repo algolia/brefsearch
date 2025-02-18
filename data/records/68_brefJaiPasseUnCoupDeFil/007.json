@@ -14,7 +14,7 @@
   "line": {
     "content": "Ben, dis-moi, je voulais savoir\nquel film on allait...",
     "end": 9,
-    "heatValue": 24,
+    "heatBucket": 5,
     "index": 3,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=7s"

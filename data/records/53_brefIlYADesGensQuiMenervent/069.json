@@ -12,9 +12,9 @@
     "viewCount": 11882596
   },
   "line": {
-    "content": "Tu viens de la prendre sur la galette.",
+    "content": "— Tu viens de la prendre sur la galette.",
     "end": 72,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 29,
     "start": 69,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=69s"

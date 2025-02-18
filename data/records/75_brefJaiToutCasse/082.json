@@ -14,7 +14,7 @@
   "line": {
     "content": "Je suis arrivé devant la résidence,\nmais le code avait changé.",
     "end": 85,
-    "heatValue": 2,
+    "heatBucket": 1,
     "index": 32,
     "start": 82,
     "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=82s"

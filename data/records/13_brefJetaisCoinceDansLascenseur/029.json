@@ -14,7 +14,7 @@
   "line": {
     "content": "La lumière s'est éteinte.",
     "end": 31,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 15,
     "start": 29,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=29s"

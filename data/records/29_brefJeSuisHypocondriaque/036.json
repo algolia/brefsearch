@@ -14,7 +14,7 @@
   "line": {
     "content": "Si quelqu'un tousse, je m'éloigne.",
     "end": 37,
-    "heatValue": 19,
+    "heatBucket": 1,
     "index": 16,
     "start": 36,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=36s"

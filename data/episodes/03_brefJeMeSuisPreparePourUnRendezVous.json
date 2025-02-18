@@ -12,180 +12,210 @@
     {
       "content": "Bref. Quand je dois prendre rendez-vous avec\nune fille, j'attends toujours trois jours\navant de lui envoyer un texto\npour montrer que je suis un gars détaché.",
       "end": 7,
+      "heatBucket": 5,
       "heatValue": 56,
       "start": 2
     },
     {
       "content": "Entre temps, je tape son nom\net son prénom dans Google et j'apprends\nqu'elle était en seconde B\nau lycée Clemenceau, à Reims.",
       "end": 12,
+      "heatBucket": 3,
       "heatValue": 48,
       "start": 7
     },
     {
       "content": "Génial.",
       "end": 13,
+      "heatBucket": 3,
       "heatValue": 44,
       "start": 12
     },
     {
       "content": "À chaque fois que je me prépare pour\nun rendez-vous, je prends une douche,\ndeux fois, pour être bien propre.",
       "end": 16,
+      "heatBucket": 3,
       "heatValue": 39,
       "start": 13
     },
     {
       "content": "Après, pendant une heure, je m'occupe\nde ma barbe pour avoir l'air d'un mec\nqui s'occupe pas de sa barbe.",
       "end": 19,
+      "heatBucket": 3,
       "heatValue": 31,
       "start": 16
     },
     {
       "content": "Je teste une tenue 1, une tenue 2,\nune tenue 3, une tenue 4.",
       "end": 22,
+      "heatBucket": 3,
       "heatValue": 23,
       "start": 19
     },
     {
       "content": "Je reviens à la tenue 1, je vérifie\nsi j'ai pas de crotte de nez, je vérifie\nsi ma braguette est pas ouverte.",
       "end": 26,
+      "heatBucket": 2,
       "heatValue": 17,
       "start": 22
     },
     {
       "content": "Je me mets du parfum, j'oublie,\nj'en remets, je réoublie,\nje sens trop le parfum, je reprends\nune douche et je remets du parfum.",
       "end": 31,
+      "heatBucket": 2,
       "heatValue": 14,
       "start": 26
     },
     {
       "content": "Je répète mes phrases d'accroche.\n— Salut.",
       "end": 33,
+      "heatBucket": 2,
       "heatValue": 16,
       "start": 31
     },
     {
       "content": "— Salut.\n— Salut.",
       "end": 34,
+      "heatBucket": 2,
       "heatValue": 18,
       "start": 33
     },
     {
       "content": "— Oh, comment tu vas ?\n— Ça va ?",
       "end": 36,
+      "heatBucket": 2,
       "heatValue": 19,
       "start": 34
     },
     {
       "content": "— Excuse-moi, je suis en retard, je...\nJe bosse également mon regard.",
       "end": 39,
+      "heatBucket": 2,
       "heatValue": 19,
       "start": 36
     },
     {
       "content": "\"Je suis un homme, mais j'ai des félures.\"\nJ'accorde ma guitare et je la mets bien\nen évidence dans ma chambre",
       "end": 47,
+      "heatBucket": 2,
       "heatValue": 15,
       "start": 39
     },
     {
       "content": "au cas où je la ramène chez moi.",
       "end": 48,
+      "heatBucket": 1,
       "heatValue": 10,
       "start": 48
     },
     {
       "content": "Je range ma chambre au cas\noù je la ramène chez moi.",
       "end": 50,
+      "heatBucket": 1,
       "heatValue": 10,
       "start": 48
     },
     {
       "content": "J'enlève le sopalin d'à côté de mon lit\nau cas où je la ramène chez moi.",
       "end": 52,
+      "heatBucket": 1,
       "heatValue": 9,
       "start": 50
     },
     {
       "content": "Entre temps, je me suis habitué\nà mon parfum, alors je me demande si\nj'en ai mis assez et je remets du parfum.",
       "end": 55,
+      "heatBucket": 1,
       "heatValue": 8,
       "start": 52
     },
     {
       "content": "Je regarde si j'ai encore\ndes préservatifs depuis la dernière fois.",
       "end": 58,
+      "heatBucket": 1,
       "heatValue": 8,
       "start": 55
     },
     {
       "content": "Mais vu qu'elle n'est pas venue\nla dernière fois, j'en ai encore.",
       "end": 59,
+      "heatBucket": 1,
       "heatValue": 8,
       "start": 58
     },
     {
       "content": "Je les place derrière mon coussin\npour pouvoir faire genre.",
       "end": 64,
+      "heatBucket": 1,
       "heatValue": 9,
       "start": 59
     },
     {
       "content": "— Hey, mais que voilà !",
       "end": 67,
+      "heatBucket": 1,
       "heatValue": 10,
       "start": 64
     },
     {
       "content": "Je regarde si je suis musclé,\nje suis pas musclé, je fais des pompes,\nje suis toujours pas musclé,\nmais j'ai transpiré, alors je reprends",
       "end": 71,
+      "heatBucket": 1,
       "heatValue": 10,
       "start": 67
     },
     {
       "content": "une douche et je remets du parfum.",
       "end": 73,
+      "heatBucket": 1,
       "heatValue": 8,
       "start": 71
     },
     {
       "content": "Je prépare une playlist\nau cas où je la ramène chez moi.",
       "end": 75,
+      "heatBucket": 1,
       "heatValue": 7,
       "start": 73
     },
     {
       "content": "Je me sens prêt, mais comme le rendez-vous\nest dans deux heures, j'attends.",
       "end": 79,
+      "heatBucket": 1,
       "heatValue": 7,
       "start": 75
     },
     {
       "content": "Je m'endors.",
       "end": 81,
+      "heatBucket": 1,
       "heatValue": 8,
       "start": 79
     },
     {
       "content": "Je me réveille en retard, je cours,\nje transpire, je reprends pas\nde douche, je remets pas de parfum,\nj'accorde pas ma guitare, je range pas",
       "end": 85,
+      "heatBucket": 1,
       "heatValue": 11,
       "start": 81
     },
     {
       "content": "le sopalin, je vérifie pas\nma braguette et j'ai une crotte de nez.",
       "end": 88,
+      "heatBucket": 1,
       "heatValue": 13,
       "start": 85
     },
     {
       "content": "Bref, je me suis préparé\npour un rendez-vous.",
       "end": 93,
+      "heatBucket": 1,
       "heatValue": 11,
       "start": 88
     },
     {
       "content": "— Hey, mais que voilà !",
       "end": 100,
+      "heatBucket": 1,
       "heatValue": 8,
       "start": 97
     }

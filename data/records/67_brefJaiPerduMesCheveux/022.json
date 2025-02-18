@@ -14,7 +14,7 @@
   "line": {
     "content": "Quand je me coiffais, je faisais\nça, mais je voyais ça.",
     "end": 26,
-    "heatValue": 40,
+    "heatBucket": 4,
     "index": 8,
     "start": 22,
     "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=22s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai reçu un texto où il y avait écrit:\nLargue-la avec 8 A, très exactement.",
     "end": 75,
-    "heatValue": 4,
+    "heatBucket": 1,
     "index": 35,
     "start": 71,
     "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=71s"

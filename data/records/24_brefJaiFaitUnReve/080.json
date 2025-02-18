@@ -14,7 +14,7 @@
   "line": {
     "content": "Quand j'ai relevé la tête,\nj'étais en haut du Mont Blanc.",
     "end": 83,
-    "heatValue": 8,
+    "heatBucket": 1,
     "index": 25,
     "start": 80,
     "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=80s"

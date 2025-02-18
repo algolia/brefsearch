@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai regardé des vidéos\nque j'avais jamais osé regarder.",
     "end": 65,
-    "heatValue": 21,
+    "heatBucket": 2,
     "index": 25,
     "start": 61,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=61s"

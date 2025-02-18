@@ -14,7 +14,7 @@
   "line": {
     "content": "Puis j'achète 1 €, une méthode\nqui m'explique comment vendre\ncette méthode à 3 000 personnes.",
     "end": 95,
-    "heatValue": 30,
+    "heatBucket": 3,
     "index": 33,
     "start": 92,
     "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=92s"

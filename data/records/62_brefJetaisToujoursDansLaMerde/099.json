@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 211,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "isAgeRestricted": false,
+    "likeCount": 66207,
+    "name": "Bref. J'étais toujours dans la merde.",
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA",
+    "viewCount": 5199983
+  },
+  "line": {
+    "content": "— Des fois, il fait ça pendant des heures.",
+    "end": 101,
+    "heatBucket": 5,
+    "index": 35,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=99s"
+  },
+  "thumbnail": {
+    "gifUrl": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/gif/099.gif",
+    "hash": "6a613b254c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAiIysrKzNFQ0xYV2A4LjYaBxE3ICu/w8ZmaGweGx5EP0C0trSeoaRpZ2q8wL62u7oAKCgwGBkgPj1GY2JsOjA5HAgTNhwos7W4b19cNyopAwAFSklLm56gdXR3v8fKvcPFAC4tNhQVHjQzPGpoczsvOB8JFTAUIaKhpX5saF1GQyQcHA0LDV9VVYiHicrR1MnP0QAyMTojIyw6OkRpaHM5LTYfChUuER2FgIVzYF1mTUg5KikTEBEyJiaOi43d5ejc4+YANDQ8IiMrQUBKaGZyOCw1IAsWLQ4bZVtgaVVSWkE8JBsbFxIUPC8ujIuMw8nKu8LEADg4QCcnMDw7RWdlcDgsNBoFETgZI1A/Py4mJlQ+OiQbGxQPEUs9O56bmtne28fLygAqKjIZGiI+PUZkYmsyJS4qFRxsU1A2JiQfFBRfSEMwJCMYExUrHhtlWVe7vr60ubkALS01KSgwSEZPV1ZePC82a1JOdV5WKh0cLR8eYkpFMCIhFhARGhIQIxIQd29sr7OyAExKUVFOVlBNVEtHT15MSWNKQ1E3M0Q2OE9ERmJMRjorKREMDiAXFy4gHj4uKnh3ecmFhemmvH3eAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/62_brefJetaisToujoursDansLaMerde/099.png",
+    "width": 1920
+  }
+}

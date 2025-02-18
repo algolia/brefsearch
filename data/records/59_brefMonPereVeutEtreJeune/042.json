@@ -12,10 +12,10 @@
     "viewCount": 6922744
   },
   "line": {
-    "content": "Il faisait son regard: Je suis\nun homme et j'ai une voiture.",
-    "end": 45,
-    "heatValue": 24,
-    "index": 20,
+    "content": "Il faisait son regard: \"Je suis\nun homme et j'ai une voiture.\"\nIl laissait des pourboire.",
+    "end": 46,
+    "heatBucket": 3,
+    "index": 19,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=42s"
   },

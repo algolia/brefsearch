@@ -14,7 +14,7 @@
   "line": {
     "content": "Je n'ai pas trop le moral en ce moment.",
     "end": 97,
-    "heatValue": 20,
+    "heatBucket": 3,
     "index": 42,
     "start": 95,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=95s"

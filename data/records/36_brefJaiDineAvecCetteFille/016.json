@@ -14,7 +14,7 @@
   "line": {
     "content": "— Elle est trop choute.\n— Elle adore la musique.",
     "end": 19,
-    "heatValue": 18,
+    "heatBucket": 3,
     "index": 5,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=16s"

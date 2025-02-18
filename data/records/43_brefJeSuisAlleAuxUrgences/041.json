@@ -14,7 +14,7 @@
   "line": {
     "content": "Il m'a proposé du chocolat.",
     "end": 43,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 23,
     "start": 41,
     "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=41s"

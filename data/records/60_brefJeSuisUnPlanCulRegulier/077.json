@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai voulu le quitter,\nmais on n'était pas ensemble.",
     "end": 80,
-    "heatValue": 10,
+    "heatBucket": 1,
     "index": 33,
     "start": 77,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=77s"

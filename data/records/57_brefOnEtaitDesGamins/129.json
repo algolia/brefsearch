@@ -12,10 +12,10 @@
     "viewCount": 6343137
   },
   "line": {
-    "content": "Je l'aime pas trop, elle.",
+    "content": "— Je l'aime pas trop, elle.",
     "end": 133,
-    "heatValue": null,
-    "index": 37,
+    "heatBucket": 1,
+    "index": 36,
     "start": 129,
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=129s"
   },

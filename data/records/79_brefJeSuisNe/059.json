@@ -14,7 +14,7 @@
   "line": {
     "content": "Je t'aime.",
     "end": 60,
-    "heatValue": 15,
+    "heatBucket": 1,
     "index": 32,
     "start": 59,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=59s"

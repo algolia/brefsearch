@@ -14,7 +14,7 @@
   "line": {
     "content": "Un mec jouait de la guitare\ndans une chambre.",
     "end": 5,
-    "heatValue": 45,
+    "heatBucket": 5,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=3s"

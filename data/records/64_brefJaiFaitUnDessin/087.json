@@ -12,10 +12,10 @@
     "viewCount": 5904585
   },
   "line": {
-    "content": "Et on va t'acheter un vélo..",
+    "content": "— Et on va t'acheter un vélo.",
     "end": 89,
-    "heatValue": 17,
-    "index": 37,
+    "heatBucket": 1,
+    "index": 36,
     "start": 87,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=87s"
   },

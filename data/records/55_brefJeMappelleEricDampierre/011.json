@@ -12,9 +12,9 @@
     "viewCount": 9414768
   },
   "line": {
-    "content": "Comme ça, quand quelqu'un nous rappelait\nen nous disant: Bonjour,\nj'aimerais parler à monsieur Eric\nDampierre, s'il vous plaît.",
-    "end": 15,
-    "heatValue": 64,
+    "content": "Comme ça, quand quelqu'un nous rappelait\nen nous disant:",
+    "end": 13,
+    "heatBucket": 3,
     "index": 7,
     "start": 11,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=11s"

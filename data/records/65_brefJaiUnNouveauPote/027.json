@@ -14,7 +14,7 @@
   "line": {
     "content": "Pardon.\nC'est pas contre vous.",
     "end": 30,
-    "heatValue": 16,
+    "heatBucket": 2,
     "index": 10,
     "start": 27,
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=27s"

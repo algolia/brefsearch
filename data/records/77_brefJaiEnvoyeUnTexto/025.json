@@ -14,7 +14,7 @@
   "line": {
     "content": "Kheiron m'a envoyé un texto.",
     "end": 26,
-    "heatValue": 10,
+    "heatBucket": 4,
     "index": 9,
     "start": 25,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=25s"

@@ -14,7 +14,7 @@
   "line": {
     "content": "J'ai fait bouger ma lampe de chevet\nen fermant un œil, puis l'autre, un œil,\npuis l'autre, un œil, puis l'autre.",
     "end": 70,
-    "heatValue": 50,
+    "heatBucket": 4,
     "index": 28,
     "start": 66,
     "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=66s"

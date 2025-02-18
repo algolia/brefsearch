@@ -12,9 +12,9 @@
     "viewCount": 11882596
   },
   "line": {
-    "content": "Les mecs qui posent des questions\nqui ne servent à rien.",
+    "content": "Les mecs qui posent des questions\nqui servent à rien.",
     "end": 93,
-    "heatValue": 20,
+    "heatBucket": 2,
     "index": 39,
     "start": 91,
     "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=91s"

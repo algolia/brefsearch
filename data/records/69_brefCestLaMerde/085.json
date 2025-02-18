@@ -14,7 +14,7 @@
   "line": {
     "content": "Mon verre, il est complètement vide.\nArrête.",
     "end": 90,
-    "heatValue": 15,
+    "heatBucket": 1,
     "index": 34,
     "start": 85,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=85s"

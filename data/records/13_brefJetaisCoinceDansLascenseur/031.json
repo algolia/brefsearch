@@ -14,7 +14,7 @@
   "line": {
     "content": "Au bout de 10 minutes,\nelle s'est rallumée.",
     "end": 32,
-    "heatValue": 45,
+    "heatBucket": 4,
     "index": 16,
     "start": 31,
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=31s"
