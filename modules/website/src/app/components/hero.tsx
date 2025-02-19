@@ -13,7 +13,8 @@ const Hero = ({
 }) => {
   return (
     <div className="hero grid grid-cols-1 gap-4 md:grid-cols-12">
-      <div className="col-start-4 col-span-6 border border-red-300 flex items-center justify-center gap-4">
+      <div className="col-start-4 col-span-6 flex items-center justify-center gap-4">
+        <span className="sr-only">Bref.</span>
         <Image src="/Bref_logo.svg" alt="Bref logo" width={100} height={100} />
         <CustomSearchbox inputRef={inputRef} setCustomQuery={setCustomQuery} />
         <PoweredBy />

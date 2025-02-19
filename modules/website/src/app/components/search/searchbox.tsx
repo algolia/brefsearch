@@ -16,8 +16,6 @@ const CustomSearchbox = ({
   const { status } = useInstantSearch();
   const [inputValue, setInputValue] = useState(query);
 
-  const isSearchStalled = status === 'stalled';
-
   function setQuery(newQuery: string) {
     setInputValue(newQuery);
     setCustomQuery(newQuery);
@@ -52,7 +50,7 @@ const CustomSearchbox = ({
           autoCorrect="off"
           autoCapitalize="off"
           placeholder="j'ai cherché dans les épisodes…"
-          className="w-full rounded-md border-2 border-white/20 bg-black py-2 pl-4 pr-10 text-4xl leading-5 text-white transition-colors duration-200 ease-in-out focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 placeholder:hover:text-white"
+          className="w-full rounded-md border-2 border-white/20 bg-black py-2 px-4 text-3xl leading-5 text-white transition-colors duration-200 ease-in-out focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 placeholder:hover:text-white font-bold"
           spellCheck={false}
           maxLength={512}
           type="search"
