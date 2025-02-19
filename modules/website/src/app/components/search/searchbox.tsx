@@ -1,7 +1,5 @@
-import { Power } from 'lucide-react';
 import { RefObject, useState } from 'react';
-import { useInstantSearch, useSearchBox } from 'react-instantsearch';
-import PoweredBy from './poweredBy';
+import { useSearchBox } from 'react-instantsearch';
 
 type CustomSearchboxProps = {
   inputRef: RefObject<HTMLInputElement | null>;
@@ -13,7 +11,7 @@ const CustomSearchbox = ({
   setCustomQuery,
 }: CustomSearchboxProps) => {
   const { query, refine } = useSearchBox();
-  const { status } = useInstantSearch();
+
   const [inputValue, setInputValue] = useState(query);
 
   function setQuery(newQuery: string) {

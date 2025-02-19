@@ -2,13 +2,8 @@
 
 import cx from 'classnames';
 import { searchClient } from '@/app/utils/algolia';
-import {
-  Configure,
-  Index,
-  InstantSearch,
-} from 'react-instantsearch';
+import { Configure, Index, InstantSearch } from 'react-instantsearch';
 import CustomHits from './hits';
-import CustomSearchbox from './searchbox';
 import { useEffect, useRef, useState } from 'react';
 import { BrefHit } from '@/app/types';
 import Sidebar from '../sidebar';
