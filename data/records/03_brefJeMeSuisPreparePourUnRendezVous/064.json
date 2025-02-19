@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=64s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/03_brefJeMeSuisPreparePourUnRendezVous/064.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/gif/064.gif",
     "hash": "07466e75b4",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDIw8W8tLTAurng4+jd4Obg4+q6sK9rRTdhQDVUOTBqQTlgSD6diHq1p6DW1trU0dIAx8HDurKywLq53+Pp3N/l297kxsHBXUI4ZEI3aEc7aEc6Tjo1LjE4VVdeeHqGmZmjAMbAwrmwsL+5t97h59rd4tfY3dja3paCfVoyJWdHPEMuJSYeIysrNDY2PSotQjM0PADFv8G4r66+t7bd4OfW2d7V1tvQz9PBu7xpVE9BJhwiFBEcGSQqKy8lJS0gH0MlJDkAw7y/t66svbW029/l1tnd1tjdycfI0NDRxcLCfHBsOzY5FxUiIiMtISEyHx06LCwsAMO/wLWuq722tdvf5dbZ3tDS1MfGxsfGxsTDxNTT04uJixcVICorLB8eLiQkLSYkKwC9ra2ypaK5srDa3ubV2N7HyMTEwsTCwcC/vb3AvbyuqqsuLTAaFykaFzYiICkXFCUAgVxXmIF7tKyo1Nbd0dPay8vQvry8vbu5ure2wr68h4SBJygkGxsuIB4nHRweHBsaAIx2ZJJ9cLWsqsbFycbFyr67vbWysbaysbq1tKOfoTM0PBgUIhwaKxoXIxENHx0cHAfG5Ec5MWXQAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/03_brefJeMeSuisPreparePourUnRendezVous/064.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/03_brefJeMeSuisPreparePourUnRendezVous/064.png",
     "width": 1920
   }
 }

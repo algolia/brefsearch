@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=100s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/43_brefJeSuisAlleAuxUrgences/100.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/gif/100.gif",
     "hash": "d5e0ac3241",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAlSWpOXWxtd31mbXNpcXlufIdzgY2Dj5lwfop9iJBbb4EzV3dnc312fYRrcXhUWmMAMFd4W3CDi5WdhI6VdXyBanV7ZHF7gYuUbXmCaG9zYXmMO2SHb32JfoSJc3h+VlthADRkinKIm7G3vXZ6fjo1Njo3OFVbX1ZgZ2tjZCMaGCIuOk15nniHk4CGjHd9gmJmbAA2a5eCmKusq6wrKCkgHBwgGBhVWmBqbXJmU1BeSUYjHR4eKTZFTlh1fYSIkpdyfIYAQG+TiJilo6SpRTo6X0hFUT8+Z3B7dHJ1VERCVUZDPjU1CQkOCQkQKi0zjZSYd4CJAIqIdaarsba/zYWGkEw7OGVdXmpyeGh5h2twdzk1NRYVGxYZIRUXHxkaIXF1eXl+hAB+g4qKlaqZobKCkaVLVWF0f4hve4ZseINZYmpYVFYREBUQERgWFx8NDRQ2NjpHSk4AanOJeICTiZGkh4ycV2h6UV1qeWdld2RfamFiZ1VSCAUKDQwSFhUcCwwSGxYZMCoqAFNecGtzh3J6jnd8j19kblJHRmdTT0lMVVlVWTIpKQYGDAkIDhIRFwsLEQcEBzg1NvHRnbpMiQzHAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/43_brefJeSuisAlleAuxUrgences/100.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/43_brefJeSuisAlleAuxUrgences/100.png",
     "width": 1920
   }
 }

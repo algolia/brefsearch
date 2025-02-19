@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=2s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/65_brefJaiUnNouveauPote/002.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/gif/002.gif",
     "hash": "a490de8ea0",
     "height": 720,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwd1umgAYANAPFESgxSlFLSJIwWrUapmz/tSioE2kqxQ1usoqunVdbZbGLLtYshfpxZLuDZptF3um3fQNFnYOPD48/H1+Xr0e8YDEIdjZz2/ckZYRC5KysIdrd343GbVU9erC2Sy9+8UC/vz66fv+F3eZBTIF4bogzk3dzOXPDopGrVGWZLNScW1nNR59vl1vPtzA76cn3/e/rW4KCLVPs+38wfuzwaave8etoqSigG8TzNvp5VBvvxs7nzwPfnx//Of7X73rOicOB5PxhTvT9Wml1K02l71eLhrPkBGnXB02T2zTvLQsyKazrSO9rrVm9mzuvGk0Tu2Xh9PjZs84X9ca12npLiVcxdhJgjcySlGUgdniKodts+esz62P/W5VzbcUednv3J90V7uCtcW4XNxL7nYJUgtRDEZBofCqWKxLmZKaVo/kPTESS7MJV9NuJXlAb5skbYRpi2ZUjAwAgSME7LCpXLbM8yoXS0WoGEtFzaRgR7kORtZQvAzBEhJUkGAYQgEgUCAAJ17Q9E4yITEMpwt7doI38HATxcpIQAFEBhABIhBAIYQCDoD9B9vCXjdIH0ExAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/002.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/65_brefJaiUnNouveauPote/002.png",
     "width": 1280
   }
 }

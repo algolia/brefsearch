@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=11s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/01_brefJaiDragueCetteFille/011.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/gif/011.gif",
     "hash": "606f33e665",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwVtv0lAAAOCGCLTQCy0tUFrKaXvarqXtKYOWARLQQtGNuEu2sEjMALMlLq6bMfHBGG+JD/qg8cU3Nf5Tvw/bQ75vOV3XD2zX07R01P50OPzz9uTf++Xfd6e/7g6uZujmIPi6GV9Mg3QZYyIvNkXZAarVBD4A69D5OA9/vzn6kS5+pvvfrqa2XDmdDVcPOzxVFFkao2gONeTnu85AV+a2ft1rbfvuh4sprAmPuuaX1WjT877fbkdQ1oQSVyxgLFPet/SbXfsMGevuzquBeztGL5JOX6qeR3a6CBfIfBmHMZQCRWiwJBYBadO218icWc3rnvO671xGrUkLnrTN9HE0CfQQKtvQvq+KXp1rchQ2VuvPfDg3lT1Qf7KjrNpGEvmZfMEB4vkkSFxt5mhPERyDmlVhdJ7CNJ6LtTqSBLnMqgJ7mUTHcYhlsjRJtoBs1PiuKsdGoyOVrUrJEBiMoZhmmSEJAieKy6T3+ezB0NMz93JFogBqQpVl+i6cI4hEzqmyKkdiOI5nc3k8j2dzhVFg3R0OIlslCRzP4yxNV9jSxNN9pRoC0RM5yNP/AaxwUXKag9fDAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/01_brefJaiDragueCetteFille/011.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/01_brefJaiDragueCetteFille/011.png",
     "width": 1920
   }
 }

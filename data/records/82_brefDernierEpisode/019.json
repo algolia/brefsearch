@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=19s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/82_brefDernierEpisode/019.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/gif/019.gif",
     "hash": "a5ed25a0c2",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwW1TmgAAAGB+wna3LrPpVrYkPRMRwpeIIW8KYkr4hqiXqQg4OGWC5l1l1+lWq+2u25fdPu937nmARiGjltO6lvt2o3otrnMWU9JHloiL0KHZyn5/VFZ3lfX64m5VWYxKGo8BZQKr0Qmtx/x+nGhs0uFRV8BedUnFE2I29PLSvL7mZx5pGeT9FTfKw4CQgho0ZnT5B7tRjO398QY/RrVXs6qzSDbkW3kV2+ImNjt3y8+ObPAnQB6JyTiiFDC3T/GR4LPV/nerP12e6zSEftgettMXUuSLSXlzcePIOh0HqESkxkCDVsab5docUk4e/TLriwpBgwE4uCvS0KCfHZup5Y34YNNfZQqwG4ypF6d2fr0x7id65iC4bDJuKU2BgdDWuwQYVmVxPOJnLrtxyqtpB3iSPksVVR/2hr2+kqej/m2nzt0qLBM73Pdt5Um8QBJFivSm9ZkhNgUEuOz2WgNrNl+cJiECPo4F/NUCVTpFjz8GD3Z8RZpEoiAaDY+7QpWNC3gY6C5/jjZ/21daIryPw/Ho+51zhpBYAo9HYfBTLoX6375hcdjoMAIO5tC9/1VKh/ZH5HKmAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/82_brefDernierEpisode/019.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/82_brefDernierEpisode/019.png",
     "width": 1920
   }
 }

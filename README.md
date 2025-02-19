@@ -38,3 +38,10 @@ convert the initial metadata into records suitable for Algolia.
 - `yarn run deploy-data-algolia` will push the data into an index in Algolia
 - `yarn run deploy-data-assets` uploads the png and gif files to a public url
   (referenced in the records).
+
+
+### Thanks
+
+- @lukyvj for the front-end
+- @sarahdayan for the subtitle best practices
+- @fluf22 for the video compression tips

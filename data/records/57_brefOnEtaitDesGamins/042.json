@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=42s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/57_brefOnEtaitDesGamins/042.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/gif/042.gif",
     "hash": "e221145bd6",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCMkJKdpqmRmp5lam5YXF5QUVNkZmits7SvtbayuLqwt7iBfHZcUkuUlpSZnZ2Rk5MAeYaQnaWnkJibYGVpPT5CTj85Zmdnn6Slp6yup62sr7OxbFVIOB0Mc2lfnaGij5GRAGR4jJqfoJGZmy05REs/O2ZMP1lXV6KoqKyztJeanH1+f15JPkcqFVpMQpmcnI+QjwCIhoN9eXRSXmcFFCYiHR5mWFFqamqeo6SamJZOQ0NCMi9MQDo/LSQxJyuAgICPkY8AVlZYYlZRUz9DMy40MR8jaFZUfG5mdXh4h312fW1ialdMY15dLicuMSYrdXN0i31wABQYHjooKH5EQUAtMBQRG0xLTYuDeo2Oi42NiICCen2Cfn5/fTcwMisgJlJJSohfRQAJCA0ZGyIrLTYDBg8CAwkiIyVAQUJTU1R3cmyKZlmFTj9cSEMrJyoXEBYbFRlyYVcABwcMAwcQAAcSCw0WHCQuEhshFh4kFhodNDAxKRAPUS0kRzkyPDItNy4pLyopW0M0AAsLEBwZGhYcJBomMSc2Px4oLiYrL1RTUmppZkhKSTk4NDcrJDcnHjoqIDMkHEk4LH+LkjN5mGpkAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/57_brefOnEtaitDesGamins/042.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/57_brefOnEtaitDesGamins/042.png",
     "width": 1920
   }
 }

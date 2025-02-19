@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=90s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/65_brefJaiUnNouveauPote/090.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/gif/090.gif",
     "hash": "e5159b016c",
     "height": 720,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUhJREFUeJxN0EtPwlAQBeAzr3tbsC2IQYEo0IJWBN+KJL5RFurCjYnRxJ3s+P9bU0mMsz5fZuYAxZAylYQciwH9Vut9Nh2nndfj0efV5KS9FWi4WvIG6DINiBNJHDlmI46CsF2r3OT9xdPD4nl2ud3zliTeGwn/AgHMiUbGkcnGihNw7OQ863xMzl4OR9PhYNBKY1UukvIPOPHMzTgIVQOzp6Ph9/31/PH2azo77O5UDUy2BApYIFIvG4FroauGnkkuss7b8cH8/nJ2dpeng7ybifg/4LxoJSg2MkslcM3A9jbWn/d3J2l7nI+Gze5upR65ePm2AOpEYleAdZGhagNUT1bH/d5plp5kPS8+A3asVLVk2RIbc1m5DN4nOgDWwIBEvlQrx0amkE1QD9ii4qTfpohCpgZoG8iBGkShChawgzpoC9QFGsAPk3cc5wEMQuQAAAAASUVORK5CYII=",
-    "url": "https://assets.pixelastic.com/brefsearch/65_brefJaiUnNouveauPote/090.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/65_brefJaiUnNouveauPote/090.png",
     "width": 1280
   }
 }

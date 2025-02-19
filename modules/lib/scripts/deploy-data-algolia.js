@@ -22,6 +22,7 @@ import config from '../config.js';
     attributeForDistinct: 'episode.videoId',
     distinct: true,
     replicas: {
+      // Alternatively, search by popularity
       popularity: {
         customRanking: [
           'desc(episode.viewCount)',

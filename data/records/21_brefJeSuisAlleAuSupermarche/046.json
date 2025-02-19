@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=46s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/21_brefJeSuisAlleAuSupermarche/046.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/gif/046.gif",
     "hash": "141deee2d0",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCYjpKrnp+toZ2+squ+tK/BubSFdG5tW1iblpyvqKu6s6+kmJOjnJmclZWOiZB9e4sAmpGYv7rHpJqatq2uycfQx8LFoIBumG1anJCQrqOWq5Z6kYhRioVmfnlxn5udm5WiAJiUpqmpvbenncC3ucK7v6Sbn6R9aoxjV7qzvNXNzMm/v9LQrM6/qcG4wr++y7SwwACpoqbKv7bBuLHBtrmBa3kpKUhSQEo4LTUfIjiIc33EwMvV1+nGytrY1NrPyc+7tsAAlIiFi4B9jH5zlV5bRStCLTJQHBtAFxk6Eho5Ri4/0cHH1trmycnT08bC2NHQ0s7VAJ6UkpuVlZyTjoQ+Qj8eMTQ3VCciRiQjRSEmRUUXJ5l1fczM0tTLyszEtLeytr+lnAC/trXPyMTZ0Mx4Nj8pEyQuM00eHkAZHjwbIj87EyOWbXSTm6u5s7jKxsOzop+wg2wAsKamu7W0xry7gSw3NRsqJy1FFxs6Fhw6FSE9PQocp3J70NXbxbassqWir6Omq5WRAKSam62kpruytYhJVD8kMxohORMVNhMWNg8XMkgwQpB2h7q5yLmwtaebmJWKgpKMjCNZ5sLViWE7AAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/21_brefJeSuisAlleAuSupermarche/046.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/21_brefJeSuisAlleAuSupermarche/046.png",
     "width": 1920
   }
 }

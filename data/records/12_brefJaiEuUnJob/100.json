@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=100s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/12_brefJaiEuUnJob/100.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/gif/100.gif",
     "hash": "7ddf2a8622",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCluseOpbVIRkpkRztYQDZELydePzR7VESAWUl8Wk9nUUxsVE6AeHt1k6iNpbSsvskAlJieZn+TOklXYkY6b0w9TTw1RTEqdVFFfllMUTkxTD47jG1kdW1yV3SNiKGxl667ALOViqKcn0pfclxKQ3pSQHJQQWZFN2xJPIVkXXJUTIBgV5p2bGRmcVt3j3SOoaenqgCKZ12XcGSAgIZTUFR8V0ZyTj5nQjJpRTiKamSBX1eKZVuHa2ZZZ3dyjqOFfH2ggXcAjXNtbUpAkn57U1lia01BcU9DlImIi3NujGlkdlRMgl9VdGhoVW6BfXp+akg8cVJJAHpiW3VZU31bUV9ZXElAPp+Uk7u+xJWLimFIQlpEPVtHP19iaGllaXhURmFFOnFUSgBqS0F0VEpnQjl4YFyQkZS5t7t1a2ssExE1Hx06JiMhIiY5QEhyTEBgOzBrTkFvU0kARCgjQyUfTSsjiGdftbGzmpiZX1dWYFdXa2NkbWZnaGltbnF3gXh5bVxaZE5JW0hDAHJoaHNra31wbZyPjLOvr6unprCurbOvrrSvrrOvrbSvrbGvr6iqrZibnpCRlYiGh+NttmLhvtULAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/12_brefJaiEuUnJob/100.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/12_brefJaiEuUnJob/100.png",
     "width": 1920
   }
 }

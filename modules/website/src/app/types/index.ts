@@ -16,7 +16,7 @@ export type BrefHit = {
     url: string;
   };
   thumbnail: {
-    gifUrl: string;
+    animatedUrl: string;
     hash: string;
     height: number;
     lqip: string;

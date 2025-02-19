@@ -10,5 +10,6 @@ rsync \
 	--prune-empty-dirs \
 	--copy-links \
 	--compress \
-	../brefsearch-images/images/* \
+	../brefsearch-images/thumbnails \
+	../brefsearch-images/animated \
 	pixelastic:/var/www/assets.pixelastic.com/brefsearch
