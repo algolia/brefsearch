@@ -12,7 +12,7 @@ const PoweredBy = () => {
       >
         <span className="sr-only">Algolia</span>
         <Image
-          src="/algolia.svg"
+          src="/Algolia.svg"
           alt="Algolia"
           width={80}
           height={20}

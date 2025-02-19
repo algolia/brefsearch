@@ -22,11 +22,12 @@ const RenderHits = ({
     process.env.NEXT_PUBLIC_ALG_INDEX_NAME!,
   );
   useEffect(() => {
-    console.log('query', query);
     if (query !== '') {
       setCurrentIndexName(
         `${process.env.NEXT_PUBLIC_ALG_INDEX_NAME}_popularity`,
       );
+    } else {
+      setCurrentIndexName(process.env.NEXT_PUBLIC_ALG_INDEX_NAME!);
     }
   }, [query]);
 
