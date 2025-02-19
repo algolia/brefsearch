@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=1s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/11_brefJeSuisCommeToutLeMonde/001.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/gif/001.gif",
     "hash": "19e6d646d7",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAvHhZdQzlqTUFbQDNJMys7KydKNzNZQjpWPzdXQDhZQTlbQzpcQzpYPzZROS9FLycAWj80i2pao39sl3FcfFxNVj83WURAZ1FMYkxGXklEZU5HblJKcFNKcVRJbE9FXUM5AHlZSs+6r97UzqSAbIpnVVI8NFpDPWdNRFM/Ok0zLE0xKHZbU39fVnxcUnlZTnFTSABVPDGQem/EuLGOblx1VEJNOTEvJyQwHhg+HBBAHxRXLx6BWkWZdGKOb2JxT0haPTQAGg4KLhkPQysfWD82UTEkNiMcISQmMCQfUCobbD4qfEkymWlKvqGNspB+e1RENh8ZACUWEDAeFjsnHDkiGUEgFUwtH00xIk0yJW9NOI5bP3hDKrGPfN7Rz4RkVUonEyoWEAAkEw0yHhU8Jhs5IxhAKBxCKRw7JRlRNidzSTKGVjuWbFW0loawk4MxHBUpFhAiEg0AHxALLx0VPigbPCQXPSUZPCQYQSoeUjMjb0YueVA4jWpZoX1sSzYrCgIBHhENDwgIABgMCRgMCR8RDCwbEjMgFkMrHk4xIlQ0JGA+Kl08Kn5bSmVIPBsKBx0LCBsOCxMLCkLsdhG3XcthAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/11_brefJeSuisCommeToutLeMonde/001.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/11_brefJeSuisCommeToutLeMonde/001.png",
     "width": 1920
   }
 }

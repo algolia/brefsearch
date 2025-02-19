@@ -44,7 +44,7 @@ await pMap(
         const lineSlug = _.padStart(start, 3, '0');
 
         const thumbnailPath = absolute(
-          `<gitRoot>/../brefsearch-images/images/${episodeSlug}/${lineSlug}.png`,
+          `<gitRoot>/../brefsearch-images/thumbnails/${episodeSlug}/${lineSlug}.png`,
         );
 
         if (!(await exists(thumbnailPath))) {
@@ -72,7 +72,9 @@ await pMap(
           thumbnailData.height = height;
         }
 
-        thumbnailData.url = `https://assets.pixelastic.com/brefsearch/${episodeSlug}/${lineSlug}.png`;
+        thumbnailData.url = `https://assets.pixelastic.com/brefsearch/thumbnails/${episodeSlug}/${lineSlug}.png`;
+        thumbnailData.animatedUrl = `https://assets.pixelastic.com/brefsearch/animated/${episodeSlug}/${lineSlug}.mp4`;
+        // TODO: Remove this attribute
         thumbnailData.gifUrl = `https://assets.pixelastic.com/brefsearch/${episodeSlug}/gif/${lineSlug}.gif`;
 
         const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;

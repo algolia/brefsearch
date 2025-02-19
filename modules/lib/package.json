@@ -23,7 +23,7 @@
     "update-episode-lines": "node ./scripts/update-episode-lines.js",
     "update-episode-counts": "node ./scripts/update-episode-counts.js",
     "update-episode-thumbnails": "node ./scripts/update-episode-thumbnails.js",
-    "update-episode-gifs": "node ./scripts/update-episode-gifs.js",
+    "update-episode-animated": "node ./scripts/update-episode-animated.js",
     "update-episode-records": "node ./scripts/update-episode-records.js",
     "deploy-data-algolia": "node ./scripts/deploy-data-algolia.js",
     "deploy-data-assets": "cd ../../ && ./scripts/deploy",

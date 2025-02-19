@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=16s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/41_brefJaiPrisLeMetro/016.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/gif/016.gif",
     "hash": "fe9f790423",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWtJREFUeJwt0EtLI0EUhuH+eS4GwcGFIIrMZSOCuNGNRBBm6UoHXIxBk3iJdzGgzsQkxq7uupxLVXV1OkZ/zNCJ8G4fOOeLUDJJR9KxciSthzxQwco5CNYE1pk1wUHucVAGIcK0BKw8Kxeo6D31Wlf3uX0r3KB5+vLtZ3V5pb6+fr5VudnYuHhoyQhTKo1yVtsMQ2VtbXl+Tr6kAzfs/NPVg7+1w3aj1j2udxu1jujRBBCkZMHHz/0fszPfv06fVY8K/55hGIXhKBRv2WcefAQCJ4YVG2FWlxYWv0w9Xt/lNGBly1O1Z/35IaYU6dgYAZAgJuC0+/1re3V+tn3XyiCwJKt4zCwpi5JLoF6VjgFiAGFYcX1vd6ey2WpeesgwAUpxEqaACejYRElXyL7Sr8YIVH3V2Ns92d9v/jlwECBBSokks7QsrREQP4vIJITSliuZzAh4uLqN2/3eY6fw74GK8b6jcR9D/5Hb4X/7uERQ2ZMtNwAAAABJRU5ErkJggg==",
-    "url": "https://assets.pixelastic.com/brefsearch/41_brefJaiPrisLeMetro/016.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/41_brefJaiPrisLeMetro/016.png",
     "width": 1920
   }
 }

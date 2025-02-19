@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=10s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/69_brefCestLaMerde/010.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/gif/010.gif",
     "hash": "dd23dde3b6",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXlJREFUeJxj4GDn5mDn5uLg4eHk4+Tg4eHmZ2HllFdQ2Xlw3+Zd20rycguTkjOS0vJyitKSM7Kzihg42bkhiIuDh5Odm5uTl5WFQ05eac/RQ1t375hQUzWvpiLOyzMhIa2suLywoAKhgZeLD6KNlYlNVlZhy+6d67duKoiKTPB0dzczS4xOqKmqKyupYmBn4+Jg40LRwMwuJSlz6erlFy+e5YSFhlhbRbo415RU1lbXl5VWgzSA9IAcA3ISJwcPCzO7hLjUnoN7r16/6mtna6am6mRmHhOVUJRXVF4MtgGCIBo42LmZmdhkpOVmzZ0dFROnrqSmIicvLyUjJCQhJi7r4uwJ1cDGysXDxcsF1sDGyikiJGagbyIkKCEoJCEgKMovKCYrJScjJmmgoc3AzgrWALKBF2IDBzsXDxefsLC4kqqeupapuIy6qqqOqY6ujICwmKAoAxsLJ0QP1DNQ5/Hy8QrKyqurahipqekqiklI8AsJ8fDxcPIAAAsOUBDLRFySAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/69_brefCestLaMerde/010.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/69_brefCestLaMerde/010.png",
     "width": 1920
   }
 }

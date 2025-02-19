@@ -27,7 +27,7 @@ await pMap(
         const timestamp = line.start;
         const paddedIndex = _.padStart(timestamp, 3, '0');
         const thumbnailPath = absolute(
-          `<gitRoot>/../brefsearch-images/images/${basename}/${paddedIndex}.png`,
+          `<gitRoot>/../brefsearch-images/thumbnails/${basename}/${paddedIndex}.png`,
         );
         if (await exists(thumbnailPath)) {
           return;

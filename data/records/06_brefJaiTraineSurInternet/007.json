@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=7s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/06_brefJaiTraineSurInternet/007.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/gif/007.gif",
     "hash": "29eddf03bf",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUZJREFUeJwdkMlu3DAQRHUYsbu5NylSC0eUZpE9hzgaG/EhtyC3/P8PBZp3KlQB1Y1qgEgAjH1+u14OjQh4QJLWei7ToIwWSPDyScnG6IMYA7Pvc1rnM7O3znnvhz5Za9ZlXuvs2ZOkELj59XwKIQSiUNSPw/26lnN5vL8774+DRNv9Vg/n7eu5e/ZNDKE9nRBRAHjmGEMp0+e+T9PUggDElDpjzLbd9p8/rLVN27YAx9tCiJTS0GeSUluDdNAClGlKXTTOopSI2CCAczbGIBCnUoaclNGkFEpJSp0Aap3HIWvnpNYkZYOvGiDyzI/txuyNsySlQADCEMJ2uwTmEAMqCUQNe3ddahn7nFOfu3CEnHN6bPfLMl9ey3Zd5MAhcJmGY9b7unRd/Nw/1rWSVsrZoYy/v7/qXP79/VOXSt6i1THF7+fHf57tIBI4AFRDAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/06_brefJaiTraineSurInternet/007.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/06_brefJaiTraineSurInternet/007.png",
     "width": 1920
   }
 }

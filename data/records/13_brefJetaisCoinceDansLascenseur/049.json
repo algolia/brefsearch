@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=49s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/13_brefJetaisCoinceDansLascenseur/049.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/gif/049.gif",
     "hash": "8a2e54a835",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwUtrE0EAAOBpqJt13rMzOzP7SDa7pmyTpttHkramCRJFq6BBi029KPVxEeuDgvbSi7egUlAoeOjFHyBFUMGTv8Af4EHx4sVf4fcBTrDHiPaYlcJI7gseKVnU4uWs4jFCCRKU+IJaQa1kHiMAI0wpFhxLQa2vosBwgm/2u+8ebK/OJBCWrcdrVnWyuJ3GWjCAEKKUSilDo9qt1rm1XjurjvsrB9tXV+sJJdgIVlFivmKLahB5DEAICcbodLlY6Nzfe/1s8vHx5mj/xsbe6OJgLnchSkI7U4nWm/nabN6dXwIQIufU9HC0c/Tlz5uTX68+/b5398mluXSr146V9IQoZhuhDRby5lJzcX1wGTjTU/Vm9/Dk5/H3f7efH996etgoeqGx9Vo6VSoJxrOk5mttbWSDanqmAZwS2NjaPfr2d//t1+H1R2cvjI2JjDLahI7jlF2XC+Er39fWBlEUJwC7zs6L9y8//Lh252BlOO6d30yzhoGQIOi6rmTM45wzJj1pjAmiGNgw2Z18Hj+cpPlia3nQ6V9JKlkVIUlQ2XFCpawnJCWKC621Mfo/5MlKfAi3aoYAAAAASUVORK5CYII=",
-    "url": "https://assets.pixelastic.com/brefsearch/13_brefJetaisCoinceDansLascenseur/049.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/13_brefJetaisCoinceDansLascenseur/049.png",
     "width": 1920
   }
 }

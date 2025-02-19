@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=100s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/55_brefJeMappelleEricDampierre/100.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/gif/100.gif",
     "hash": "bfbb484b89",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAgBg8ZAgpKPD5hW1lfV1VdVlNgWFd5dXZsaGlTSkp3dniipqmZmp2PkZOEh4p7fYQAJAcSHAIMUUNGb2pnbGVia2RhbmRigH19b2ZnZk1KTkNDpKmtrbG0oKSokpORf3loACwNFyAED1dHSnhycHFpZ29nZG9lY4iDhHtvb2FLSWBZWkRJTkdGSJmcoXZxZm9XLAA0ER0kCBFYSEp3cm9vZ2VtZWNwaWeGgIBoVVRROzptXl13fIBUVFeUlZluZ11IOyYAOBMfJAcSU0JFdW9sa2RibmNia1FSSkJESz8/JhwdW0xMhm9xjIuPpKesi4eAKSsrADcSHiIED0o4O3BraWxkYGdCQ0chJwcPFhUcISAeJFw0NjUGCn9dYL7FypWWkyIjJAAyDhgdAgw4Jitybmqfk4dfMzY+MzoyPUUpMTg3MjhYICRHFxtTJSlUUFJeV1dIIyAALAoRGQEKJRMZamVgj313TiYqISMhMy8xNyUhMR0bVB4jSRgcShodJx0dSD06TS4sACgHDxUABhwLET46OEguLj8YHRoeGyofIScQES8dHkcZHTwPEzsRFSgfH1dVVnJ0d12hgqJIh7BmAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/55_brefJeMappelleEricDampierre/100.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/55_brefJeMappelleEricDampierre/100.png",
     "width": 1920
   }
 }

@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=15s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/35_brefJaiMonteUnMeuble/015.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/gif/015.gif",
     "hash": "ee8c831058",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBpXFl7bWyPgH66r6/a09bLwMK7ra21pqaxoqGpmJafjYuZiIWQgH2HeHWBcnB/cXAAeWtokYKBoZOSxry84dzd3dbZqpiUp5GOw7a3sqKhrJuZppSSoY+Nm4qHmImHnI6NAIJzb6GSkpB/eKqYkMG4uJyPjHFzfYeAgq6cnK2cnL+xsa+enaqamK+dnLSko7mrqwCHd3SekZCml5PEtrXCtrWZh4JfZW9zbnDa0dHNv7/Et7e/srGyo6KViIefkpG4rKwAdmRhdnFnfnxxz8DD0MfHuKupc2psSEE/x729t6CanIaAxLm5v7KxSD87Ix4bTEVDAFZCOmRTSWpbU4d5eJ+TkWZbWVpXWDwZDJlsXp6GfHJWTJ2RkqSXljgvKyQdGjkwLABhT0d4ZVw/MixcSD5cRTo+Lys+Pj9HJhpxQi55VERvSjldSDZCNi4fGBY+Mi9TRUEATDoyYko+c1hIXUAvXzghoWtFVElDVDorilU1gFA0dEctakMsSSwcLh4UQTUxKB8gADwpIUoyJ0wvIVQxHreAUcWIVHdTPHRJL4xdQn9UO3BIMnFNPGE/LkorGjgoIQwKB2jaxwJ5xHrOAAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/35_brefJaiMonteUnMeuble/015.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/35_brefJaiMonteUnMeuble/015.png",
     "width": 1920
   }
 }

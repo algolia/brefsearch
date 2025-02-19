@@ -20,11 +20,12 @@
     "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=22s"
   },
   "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/39_brefJaiDemenage/022.mp4",
     "gifUrl": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/gif/022.gif",
     "hash": "8f9a067381",
     "height": 1080,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwWlP2gAAANB+XbJk2RbUhrSoKaMcpZJaaEsXqQuVzQgDFOiRUq5mVCdXgKCtyBgyKBtGIctiwpLFub+59wBoHRRi0dll68d1bzWf/XtYPv26exgbVqM4rZe+6kpHSnE4hoD240g4yYaAN7CjqeSsy7rKc60j/r7fflx8W1zVrEbJapZHer4rp9IEbnv2nPF5KvEDgHC7Tb1w228n6RDvQW/q2mpq3HarVqMy0vNXZbEjpxMBLACCXgj+QJFAGMcNXTPPP2PbzkMu8rSc3Jv1eVuf1MoDTe4paUP+KPIcAcMkiga9GPAuSJ6KIuMP7CAu6ejw73L2c9CZNbXxWbFfkZrZuMLuVjMnPMVEQxTt8wEJbk8XxaDHb39tI1F0cXO9mn4ZnxWG1bxRFBrZeJIOZfiDGMPSPty3hQAxljlX1T0iCL60uWHH937392w41OR+WeopmYtCTuLCfngz6PUTqNcNbwFRiupU9SjNInbYsbY+aJ7+mY8GZcEsCV3lpKvm1GgkSZHv2bcY4nJCDiC8E2h/0vdJGne6Nl68qqny493ELGQv8tmWmKoLyXyMayu5RGTfCW1Caxv/AS0+jvIkbb64AAAAAElFTkSuQmCC",
-    "url": "https://assets.pixelastic.com/brefsearch/39_brefJaiDemenage/022.png",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/39_brefJaiDemenage/022.png",
     "width": 1920
   }
 }
