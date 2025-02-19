@@ -8,15 +8,18 @@ const AnimatedPreview = ({ hit }: { hit: AlgoliaHit<BrefHit> }) => {
   const videoRef = useRef<HTMLVideoElement | null>(null);
   const animatedUrl = hit.thumbnail.animatedUrl;
 
-  const onMouseEnter = () => {
+  const onMouseEnter = async () => {
     if (!videoRef.current) return;
 
-    videoRef.current.muted = true; // Ensures autoplay compliance
-    videoRef.current
-      .play()
-      .catch((err) => console.error('Video playback failed:', err));
+    /* eslint-disable @typescript-eslint/no-unused-vars */
+    try {
+      await videoRef.current.play();
+    } catch (err) {
+      // Ignore the error. It happens when trying to play two different videos
+      // at the same time.
+    }
+    /* eslint-enable @typescript-eslint/no-unused-vars */
   };
-
   const onMouseLeave = () => {
     if (!videoRef.current) return;
 
