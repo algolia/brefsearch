@@ -1,5 +1,7 @@
+import { Power } from 'lucide-react';
 import { RefObject, useState } from 'react';
 import { useInstantSearch, useSearchBox } from 'react-instantsearch';
+import PoweredBy from './poweredBy';
 
 type CustomSearchboxProps = {
   inputRef: RefObject<HTMLInputElement | null>;
@@ -27,7 +29,7 @@ const CustomSearchbox = ({
       <form
         action=""
         role="search"
-        className="w-full max-w-md"
+        className="w-full relative"
         noValidate
         onSubmit={(event) => {
           event.preventDefault();
@@ -49,8 +51,8 @@ const CustomSearchbox = ({
           autoComplete="off"
           autoCorrect="off"
           autoCapitalize="off"
-          placeholder="Bref, j'ai cherché dans les épisodes…"
-          className="w-full rounded-md border-2 border-white/20 bg-black py-2 pl-4 pr-10 text-xl leading-5 text-white transition-colors duration-200 ease-in-out focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
+          placeholder="j'ai cherché dans les épisodes…"
+          className="w-full rounded-md border-2 border-white/20 bg-black py-2 pl-4 pr-10 text-4xl leading-5 text-white transition-colors duration-200 ease-in-out focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 placeholder:hover:text-white"
           spellCheck={false}
           maxLength={512}
           type="search"
@@ -61,7 +63,7 @@ const CustomSearchbox = ({
           autoFocus
         />
 
-        <span hidden={!isSearchStalled}>Searching…</span>
+        {/* <span hidden={!isSearchStalled}>Searching…</span> */}
       </form>
     </div>
   );

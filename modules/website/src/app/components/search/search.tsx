@@ -13,6 +13,7 @@ import CustomSearchbox from './searchbox';
 import { useEffect, useRef, useState } from 'react';
 import { BrefHit } from '@/app/types';
 import Sidebar from '../sidebar';
+import Hero from '../hero';
 
 const RenderHits = ({
   selectedVideo,
@@ -80,7 +81,7 @@ const Search = () => {
     <div className="grid p-8">
       <InstantSearch searchClient={searchClient}>
         <Configure hitsPerPage={18} />
-        <CustomSearchbox inputRef={inputRef} setCustomQuery={setQuery} />
+        <Hero inputRef={inputRef} setCustomQuery={setQuery} query={query} />
         <RenderHits
           selectedVideo={selectedVideo}
           setSelectedVideo={setSelectedVideo}
