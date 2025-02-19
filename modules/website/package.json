@@ -13,7 +13,8 @@
     "next": "15.1.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-instantsearch": "7.15.3"
+    "react-instantsearch": "7.15.3",
+    "vaul": "1.1.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

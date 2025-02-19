@@ -67,7 +67,7 @@ const CustomHit = ({
   return (
     <div
       key={hit.objectID}
-      className="relative w-full bg-slate-900 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-xl"
+      className="relative w-full bg-slate-900 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-xl z-[1]"
     >
       <div
         role="button"

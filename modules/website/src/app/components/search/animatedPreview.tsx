@@ -35,7 +35,7 @@ const AnimatedPreview = ({ hit }: { hit: AlgoliaHit<BrefHit> }) => {
       muted
       width="100%"
       height="auto"
-      className="absolute z-10 opacity-0 transition-opacity group-hover:opacity-100"
+      className="absolute z-[8] opacity-0 transition-opacity group-hover:opacity-100 pointer-events-[all]"
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
     >

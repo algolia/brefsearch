@@ -34,8 +34,8 @@ const RenderHits = ({
   return (
     <div
       className={cx('grid gap-4', {
-        'grid-cols-1': !selectedVideo,
-        'grid-cols-3': selectedVideo,
+        'md:grid-cols-1': !selectedVideo,
+        'md:grid-cols-3': selectedVideo,
       })}
     >
       <Index indexName={currentIndexName}>
@@ -73,7 +73,7 @@ const Search = () => {
   }, [selectedVideo]);
 
   return (
-    <div className="grid p-8">
+    <div className="grid px-8">
       <InstantSearch searchClient={searchClient}>
         <Configure hitsPerPage={18} />
         <Hero inputRef={inputRef} setCustomQuery={setQuery} query={query} />
