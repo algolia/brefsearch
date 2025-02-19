@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const PoweredBy = () => {
   return (
-    <div className="text-center text-md text-white flex items-center justify-center mx-auto w-[300px]">
+    <div className="text-center text-md text-white flex items-center justify-center mx-auto w-[300px] gap-1">
       <span className="inline-block">Powered by</span>
       <a
         href="https://www.algolia.com/?utm_campaign=brefsearch&utm_source=brefsearch&utm_medium=referral&utm_content=powered_by"
