@@ -5,19 +5,20 @@ import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
 import { BrefHit } from '@/app/types';
 
 const AnimatedPreview = ({ hit }: { hit: AlgoliaHit<BrefHit> }) => {
-  const videoRef = useRef(null);
+  const videoRef = useRef<HTMLVideoElement | null>(null);
   const animatedUrl = hit.thumbnail.animatedUrl;
+  const videoElement = videoRef.current as HTMLVideoElement;
 
   const onMouseEnter = () => {
-    if (!videoRef.current) return;
+    if (!videoElement) return;
 
-    videoRef.current.play();
+    videoElement.play();
   };
   const onMouseLeave = () => {
-    if (!videoRef.current) return;
+    if (!videoElement) return;
 
-    videoRef.current.pause();
-    videoRef.current.currentTime = 0;
+    videoElement.pause();
+    videoElement.currentTime = 0;
   };
 
   return (
