@@ -3,9 +3,13 @@ import { useInstantSearch, useSearchBox } from 'react-instantsearch';
 
 type CustomSearchboxProps = {
   inputRef: RefObject<HTMLInputElement | null>;
+  setCustomQuery: (newQuery: string) => void;
 };
 
-const CustomSearchbox = ({ inputRef }: CustomSearchboxProps) => {
+const CustomSearchbox = ({
+  inputRef,
+  setCustomQuery,
+}: CustomSearchboxProps) => {
   const { query, refine } = useSearchBox();
   const { status } = useInstantSearch();
   const [inputValue, setInputValue] = useState(query);
@@ -14,7 +18,7 @@ const CustomSearchbox = ({ inputRef }: CustomSearchboxProps) => {
 
   function setQuery(newQuery: string) {
     setInputValue(newQuery);
-
+    setCustomQuery(newQuery);
     refine(newQuery);
   }
 
