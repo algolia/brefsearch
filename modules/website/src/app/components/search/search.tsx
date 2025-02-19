@@ -6,7 +6,6 @@ import {
   Configure,
   Index,
   InstantSearch,
-  useSearchBox,
 } from 'react-instantsearch';
 import CustomHits from './hits';
 import CustomSearchbox from './searchbox';
