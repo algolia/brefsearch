@@ -97,7 +97,7 @@ const Sidebar = ({
       </div>
     </Drawer.Root>
   ) : (
-    <div className="bg-slate-900 sticky top-0 h-screen rounded-lg">
+    <div className="bg-slate-900 sticky top-32 max-h-fit rounded-lg">
       {content}
     </div>
   );
