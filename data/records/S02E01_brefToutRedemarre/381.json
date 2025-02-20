@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Tu sais, il m'a monté la tête et...",
+    "end": 383,
+    "heatBucket": 1,
+    "index": 114,
+    "start": 381,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=381s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/381.mp4",
+    "hash": false,
+    "lqip": false,
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/381.png"
+  }
+}

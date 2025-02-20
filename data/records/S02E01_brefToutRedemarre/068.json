@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Ensuite, on change de soirée.\nEt si l'autre soirée est nulle...",
+    "end": 71,
+    "heatBucket": 5,
+    "index": 15,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=68s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/068.mp4",
+    "hash": "73d66b0fb5",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZVJREFUeJwljklLG2EAht/v+5xkzCyZzCSZzJIFsyhi4pLUWJfELMRYJcYV0WBpi2tvBQ9evAm9CIUKWgo9eRBBBREvgifxB5g/VCbCe3p5HnjAhnJdhSqbLDmbKnWN5Iluk4FhWiiT0QkM5WBEIKmwY7CiCFigUzNscYOtfmatbVqsk0QGVgrpMdraoZs7ZHYF8TS8IfgthJOI9gHJNDJ5TNYwXoUYhOiHYkAOIZ7BYgv9OXgN5+Qk8DJ8OsTZpY9//lUur+Zu7szGGgSVaiYUy5xprj48GrUGpCCRAnB74fE5gnu63v/zNH/+t3p9Ezs+gRYmPhNGsvjr7LD9lv1xBCFAPaoj8AqR/Z2k9Aenp9akhToN9ZBwL7VTpNrA1p4T9k6/T1TBjZflbwf8l3329TuWW7BT1EwQPcrsJJctECUEl9ShZTAB3T6oSxul2/uFp+f1l9fddrvy+wJ6jPgtZvaQYBSC1qEV8IqkmUzQAFlDJO4azEoTRf3TfLBSg8cLXiAemfACmBvMBeqiXLdpRzhe/A+tC0EQu33oJQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/068.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Elle s'installe, tu me la surveille.",
+    "end": 435,
+    "heatBucket": 1,
+    "index": 137,
+    "start": 433,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=433s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/433.mp4",
+    "hash": false,
+    "lqip": false,
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/433.png"
+  }
+}

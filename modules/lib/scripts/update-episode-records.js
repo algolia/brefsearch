@@ -74,8 +74,6 @@ await pMap(
 
         thumbnailData.url = `https://assets.pixelastic.com/brefsearch/thumbnails/${episodeSlug}/${lineSlug}.png`;
         thumbnailData.animatedUrl = `https://assets.pixelastic.com/brefsearch/animated/${episodeSlug}/${lineSlug}.mp4`;
-        // TODO: Remove this attribute
-        thumbnailData.gifUrl = `https://assets.pixelastic.com/brefsearch/${episodeSlug}/gif/${lineSlug}.gif`;
 
         const videoUrl = `https://www.youtube.com/watch?v=${videoId}&t=${start}s`;
 

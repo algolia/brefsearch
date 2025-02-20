@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "On se tape des barres tout le temps.",
+    "end": 53,
+    "heatBucket": 5,
+    "index": 9,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=50s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/050.mp4",
+    "hash": "b1ce21647c",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwV9Pm0AAAHCeWoHjjnIc3AEHWGBAYYVWV9ESnJ0yo01jGjOnS3WZMcuS/XvcErM9mDj9AHtbso+wr7jfT9C6HaXTMRWJa9DRYMrQttfLKcwZSkzoqhKR17DYUQFwuQc1XbCB4iBYuvosc1/k62+n4cM8vqn6ZyU/fcr2A1JQnBHkMxbkG9zxBCQCqig+htPYbsvgTR3dn6SnBT9KjE81r11tSHGiQ9ukiDgGkAQoyVgGez6el15bBhd1fLfMV5u8Dcndy/B8yDJDGxgq13o5QVCUBLAGmAyucnq53W8G/utp9HtV/L0cTz3c2GiRGqVFUl0lQM4wLEwkBKqya+OzxFyW7k7kHI/828P49ii7maWLkj9eN/dXu7GuVpb6oaCfR1TYs/EyNNuAVOt04psHA/6lCb8typ+vtn4tN/99PXxc7bR98n5ArhO9IlCobTwPzYljjC3jmUP2n7B3E+/7YvzjefxwPPxzMvpYhzMPN6xXcSuCUNDlrgUlXRYNWTSBSKHU10BkoFlqbfh4q49HDHpIJGI39lyqgP9K90aV5XJqNQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/050.png",
+    "width": 1280
+  }
+}

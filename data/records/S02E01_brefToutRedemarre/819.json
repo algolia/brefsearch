@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Il fallait que je comprenne où est-ce\nque j'ai fait de la merde.",
+    "end": 825,
+    "heatBucket": 5,
+    "index": 271,
+    "start": 819,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=819s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/819.mp4",
+    "hash": false,
+    "lqip": false,
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/819.png"
+  }
+}

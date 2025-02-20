@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "J'ai trop pleuré, j'ai envie\nde rire aujourd'hui, de t'oublier.",
+    "end": 1275,
+    "heatBucket": 5,
+    "index": 402,
+    "start": 1270,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1270s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1270.mp4",
+    "hash": false,
+    "lqip": false,
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1270.png"
+  }
+}

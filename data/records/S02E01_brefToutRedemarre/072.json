@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Elle change la soirée.",
+    "end": 74,
+    "heatBucket": 1,
+    "index": 17,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=72s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/072.mp4",
+    "hash": "17e42c7a96",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nAXBzW7TMAAAYNM2iWM7buKf2CZ24vy1o13ataRifxUMCcG0aQckJA7ALnDhsAMPwQvwDFx4Sr4PxCQRghmZoSggUZDGM0mhThPLcG2YoDhLcAJDjCCMwigMQNU2pTNdVQw2ediz0SWXrfx64f88lnc7f7UoNlYu8swZKTLCUwxO14veKcmz0ZNWon0lHo/+36/26b2535RvT8yulGudeatkRmSGQePMh1erT2/WXU7nGO8L+XRb/v3ZXNTCa3bdyjPLBp12pVac5jwB0xAd98vPN4PjlFOyVezHJf/9bfNx2zCaHJb2qlUrSdvSaEENTwCYRt6ZxuYIIQjjnWUHz8YX+nxpoxive/d6ZXtGvDNGUM0JgJiCSTSbwUmE+kLcjc35xoNn4SSAYBIdTruxMXWK7XOVp1gxDPq6MsaEiAQQH7fNl3fD99tBcZrlSqni5cJfn5gzx7RRXWkKSQEleE7JNAinsyBntNJpbRiOISE4QWiOoOVYUBgj5CtHSfwf9qAwOCtq5f8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/072.png",
+    "width": 1280
+  }
+}

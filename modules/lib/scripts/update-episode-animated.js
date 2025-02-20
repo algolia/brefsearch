@@ -12,7 +12,7 @@ const episodeCount = episodes.length;
  * video for each line of the transcript
  **/
 const progress = spinner();
-const concurrency = 1;
+const concurrency = 4;
 await pMap(
   episodes,
   async (episodePath, episodeIndex) => {

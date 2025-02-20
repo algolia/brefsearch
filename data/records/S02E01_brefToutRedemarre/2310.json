@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Là, je le sais pas encore, mais\nje vais rencontrer des gens,\ndes gens qui vont m'aider, des gens\nqui vont me soutenir, des gens bizarres.",
+    "end": 2314,
+    "heatBucket": 5,
+    "index": 739,
+    "start": 2310,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2310s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2310.mp4",
+    "hash": false,
+    "lqip": false,
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2310.png"
+  }
+}

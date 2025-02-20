@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je pensais qu'à 40 ans, j'aurais\ntout compris parce qu'on me disait tout\nle temps: Tu comprendras\nquand tu seras grand.",
+    "end": 810,
+    "heatBucket": 5,
+    "index": 267,
+    "start": 806,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=806s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/806.mp4",
+    "hash": false,
+    "lqip": false,
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/806.png"
+  }
+}
