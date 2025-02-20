@@ -11,13 +11,12 @@ const PoweredBy = () => {
       >
         <span className="sr-only">Algolia</span>
         <Image
-          src="/Algolia.svg"
+          src="/Algolia_3000_4.webp"
           alt="Algolia"
-          width={120}
-          height={20}
+          width={180}
+          height={30}
           layout="intrinsic" // 👈 Ensures it keeps its natural aspect ratio
         />
-        <span className="font-black block text-2xl italic">3000</span>
       </a>
     </div>
   );
