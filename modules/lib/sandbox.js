@@ -13,8 +13,8 @@ import {
 import { _, pMap } from 'golgoth';
 import { convertVtt } from './convertVtt.js';
 
-const list = await glob('*.json', {
-  cwd: absolute('<gitRoot>/data/episodes/'),
+const list = await glob('**/*.json', {
+  cwd: absolute('<gitRoot>/data/records/'),
 });
 
 const concurrency = 1;
@@ -24,7 +24,8 @@ await pMap(
     const item = await readJson(filepath);
     const basename = path.basename(filepath, '.json');
     const season = basename[2];
-    item.episode.season = _.parseInt(season);
+
+    delete item.thumbnail.gifUrl;
 
     await writeJson(item, filepath);
   },
