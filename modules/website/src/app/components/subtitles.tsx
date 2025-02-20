@@ -1,5 +1,5 @@
 import { BrefHit } from '../types';
-import { formatSubtitle } from '../utils/functions.ts';
+import { formatSubtitle } from '../utils/functions';
 
 const Subtitle = ({ hit }: { hit: BrefHit }) => {
   const value = formatSubtitle(hit._snippetResult.line.content.value);
