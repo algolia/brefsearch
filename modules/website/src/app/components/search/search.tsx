@@ -109,7 +109,7 @@ const Search = () => {
   }, [selectedVideo]);
 
   return (
-    <div className="grid px-8">
+    <div className="grid px-4 md:px-8">
       <InstantSearch
         searchClient={searchClient}
         indexName={process.env.NEXT_PUBLIC_ALG_INDEX_NAME!}
