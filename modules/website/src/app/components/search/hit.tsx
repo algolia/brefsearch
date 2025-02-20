@@ -10,34 +10,17 @@ import { BrefHit } from '@/app/types';
 
 const CustomHit = ({
   hit,
+  hitIndex,
   setSelectedVideo,
 }: {
   hit: AlgoliaHit<BrefHit>;
+  hitIndex: number,
   setSelectedVideo: (value: BrefHit) => void;
   selectedVideo: boolean;
 }) => {
-  const [isInView, setIsInView] = useState(false);
   const [isMouseNear, setIsMouseNear] = useState(false);
   const ref = useRef<HTMLDivElement | null>(null);
-
-  // Observer for lazy loading below the fold
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (entries[0].isIntersecting) {
-          setIsInView(true);
-          observer.disconnect();
-        }
-      },
-      { threshold: 0.1 },
-    );
-
-    if (ref.current) {
-      observer.observe(ref.current);
-    }
-
-    return () => observer.disconnect();
-  }, []);
+  const priority = hitIndex <= 6;
 
   // Check if mouse is near the hit
   useEffect(() => {
@@ -79,7 +62,7 @@ const CustomHit = ({
           {isMouseNear && <AnimatedPreview hit={hit} />}
 
           {/* Static Thumbnail (Lazy-loaded below the fold) */}
-          {true && hit.thumbnail.url && (
+          {hit.thumbnail.url && (
             <Image
               src={hit.thumbnail.url || '/placeholder.svg'}
               alt={hit.episode.name}
@@ -88,10 +71,9 @@ const CustomHit = ({
               className="object-cover"
               placeholder="blur"
               blurDataURL={hit.thumbnail.lqip}
-              priority={isInView}
-              loading={isInView ? undefined : 'lazy'}
+              priority={priority}
               loader={({ src }) =>
-                `https://res.cloudinary.com/det9vl8xp/image/fetch/f_auto/q_auto/${src}`
+                `https://res.cloudinary.com/det9vl8xp/image/fetch/f_auto/q_auto/w_900/${src}`
               }
             />
           )}
