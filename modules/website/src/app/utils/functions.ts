@@ -12,7 +12,7 @@ export const youtubeGivenTimeUrl = (url: string, start: number) => {
  * @param {string} rawSubtitle Input subtitle, can be very long
  * @returns {string} Subtitle ready for display
  */
-export function formatSubtitle(rawSubtitle) {
+export function formatSubtitle(rawSubtitle: string) {
   return rawSubtitle
     .replace(/\n/g, ' ')
     .replace(/— /g, '\n— ')
