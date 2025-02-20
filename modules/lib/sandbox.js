@@ -17,27 +17,14 @@ const list = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes/'),
 });
 
-const restrictedList = [
-  'br82-adJ0FU',
-  '9zk0TrOU_cI',
-  'KtLp-gLL0Aw',
-  'mEu0q3Slzj0',
-  'BJoEGR47rk0',
-  'vrbqkwd6Zi8',
-];
-
 const concurrency = 1;
 await pMap(
   list,
   async (filepath) => {
     const item = await readJson(filepath);
     const basename = path.basename(filepath, '.json');
-    const isAgeRestricted = _.includes(restrictedList, item.video.id);
-
-    item.video.isAgeRestricted = isAgeRestricted;
-    if (isAgeRestricted) {
-      console.info(item.episode);
-    }
+    const season = basename[2];
+    item.episode.season = _.parseInt(season);
 
     await writeJson(item, filepath);
   },

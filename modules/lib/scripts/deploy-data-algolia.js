@@ -12,7 +12,11 @@ import config from '../config.js';
   const settings = {
     searchableAttributes: ['unordered(line.content)', 'episode.name'],
     // By default, sort chronologically
-    customRanking: ['asc(episode.index)', 'asc(line.index)'],
+    customRanking: [
+      'desc(episode.season)',
+      'asc(episode.index)',
+      'asc(line.index)',
+    ],
     attributesForFaceting: [
       'searchable(episode.name)',
       'episode.isAgeRestricted',
@@ -26,6 +30,7 @@ import config from '../config.js';
       // Alternatively, search by popularity
       popularity: {
         customRanking: [
+          'desc(episode.season)',
           'desc(episode.viewCount)',
           'desc(line.heatBucket)',
           'desc(line.index)',

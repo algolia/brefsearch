@@ -58,7 +58,6 @@ await pMap(
 
     const counts = await convertCounts(countPath);
 
-    delete episode.video.viewcount;
     episode.video.viewCount = counts.viewCount;
     episode.video.likeCount = counts.likeCount;
     episode.video.commentCount = counts.commentCount;
