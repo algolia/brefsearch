@@ -1,3 +1,5 @@
+import cx from 'classnames';
+
 import { X } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { Drawer } from 'vaul';
@@ -27,14 +29,24 @@ const Sidebar = ({
 
   const content = (
     <>
-      <span className="h-[5px] w-12 bg-white/20 block rounded-md mx-auto border-b-[1px] border-white/40" />
+      <span
+        className={cx(
+          'h-[5px] w-12 bg-white/20 block rounded-md mx-auto border-b-[1px] border-white/40',
+          'md:hidden',
+        )}
+      />
 
       <div className="md:p-8">
-        <header className="py-2 w-full flex items-center justify-between  my-4">
+        <header
+          className={cx(
+            'py-2 w-full flex items-center justify-between my-4',
+            'md:py-0 md:my-0',
+          )}
+        >
           <h2 className="text-lg font-bold text-white">
             {selectedVideo.episode.index}. {selectedVideo.episode.name}
           </h2>
-          <span className="md:p-4 text-right">
+          <span className={cx('text-right', 'md:p-4')}>
             <button
               className="text-white/50 hover:text-blue-500"
               onClick={() => setSelectedVideo(null)}
