@@ -7,6 +7,7 @@
     "isAgeRestricted": false,
     "likeCount": 17174,
     "name": "Bref. Tout redémarre.",
+    "season": 2,
     "slug": "brefToutRedémarre",
     "videoId": "_OymDvz34Pc",
     "viewCount": 1072683
@@ -21,8 +22,10 @@
   },
   "thumbnail": {
     "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1794.mp4",
-    "hash": false,
-    "lqip": false,
-    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1794.png"
+    "hash": "fff1513bc7",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNg5eZh4+Hl5OPj5BcQEhGSlhSSkhSSlBQWEROQkhTiF+Tn5ONn5eYRFxf2sdfm5uZikFGUV1BVFJVXEFFQ1jbUtLfWsrTQcLJQT3HVtdJTlFVRkFZRVFWXS/RUXVlr7mQszaAqLa4hJy4iKysir6Ctr2ZjqaGno1DqpnOoJiDWVptXXFxFQ0FdTsRORzTJQdReS5hBXlBAQ4hfTE5eTFFJz0DdwUrDSE8x0li5O8axK8nV0URLUFZaQ05UQVJUkJdfQkCAQVFSVEVaQlReQVBBWc9Yw8FK3cVSLdFcrTPEdlV5sKeVHruwKB8vj7SYgLKkoJiIEIOXknCwmkiQpkiYrniMkZSXkWx1oMkEX9NgNfk0F4PWZNfOxuSUOG85aXEJIT4RISGGLFWeTGWuLFXuTFXuMCkuDzm+VDvtadHOoebqXsbqW+YUn9o/+eqFla0dRRw8vPz8/AzJKkKRcvzhsiDkLcnvIskf66A9J8s/L9xhRkfG1ZOzj+yadObk0ju3t0VF+vFwcTOo8XKo8rCr8nBo8LGr8XIo8HCoSwva6ihbGamH+FrFRbiEBTlGhXskJwU5OVpxsHMAAPrXWcvJDgbMAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1794.png",
+    "width": 1280
   }
 }

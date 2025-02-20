@@ -86,6 +86,7 @@ await pMap(
             isAgeRestricted: episode.video.isAgeRestricted,
 
             name: episode.episode.name,
+            season: episode.episode.season,
             index: episode.episode.index,
             slug: episode.episode.slug,
 

@@ -1,9 +1,13 @@
 export type BrefHit = {
   episode: {
+    commentCount: number;
     durationHuman: string;
     durationInSeconds: number;
     index: number;
+    isAgeRestricted: boolean;
+    likeCount: number;
     name: string;
+    season: number;
     slug: string;
     videoId: string;
     viewCount: number;
@@ -11,6 +15,7 @@ export type BrefHit = {
   line: {
     content: string;
     end: number;
+    heatBucket: number;
     index: number;
     start: number;
     url: string;
