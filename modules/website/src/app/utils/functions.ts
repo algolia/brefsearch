@@ -6,3 +6,11 @@ export const youtubeGivenTimeUrl = (url: string, start: number) => {
     `?&autoplay=1&start=${newstart}`
   );
 };
+
+export const slugifyCategory = (name: string): string => {
+  return name.split(' ').map(encodeURIComponent).join('-');
+};
+
+export const deslugifyCategory = (slug: string): string => {
+  return slug.split('-').map(decodeURIComponent).join(' ');
+};
