@@ -3,14 +3,13 @@
 import cx from 'classnames';
 import { searchClient } from '@/app/utils/algolia';
 import { Configure, Index, InstantSearch } from 'react-instantsearch';
-import { singleIndex } from 'instantsearch.js/es/lib/stateMappings';
 import CustomHits from './hits';
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { BrefHit } from '@/app/types';
 import Sidebar from '../sidebar';
 import Hero from '../hero';
-import { UiState, IndexUiState, StateMapping } from 'instantsearch.js';
+import { UiState, StateMapping } from 'instantsearch.js';
 
 import { history } from 'instantsearch.js/es/lib/routers';
 // Removed import for StateMapping as it is not exported from the module

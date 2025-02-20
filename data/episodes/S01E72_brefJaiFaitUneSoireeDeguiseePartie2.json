@@ -11,7 +11,7 @@
   },
   "lines": [
     {
-      "content": "Il faut qu'on parle.",
+      "content": "— Faut qu'on parle.",
       "end": 1,
       "heatBucket": 5,
       "heatValue": 71,
@@ -32,7 +32,7 @@
       "start": 5
     },
     {
-      "content": "Je pense que je viendrai\npas à la soirée de Maud.",
+      "content": "— Je pense que je viendrai\npas à la soirée de Maud.",
       "end": 9,
       "heatBucket": 3,
       "heatValue": 30,
@@ -46,14 +46,14 @@
       "start": 9
     },
     {
-      "content": "Promis, promis ?\nPromis, promis.",
+      "content": "— Promis, promis ?\n— Promis, promis.",
       "end": 12,
       "heatBucket": 3,
       "heatValue": 34,
       "start": 10
     },
     {
-      "content": "Il a promis trois fois.",
+      "content": "— Il a promis trois fois.",
       "end": 16,
       "heatBucket": 4,
       "heatValue": 41,
@@ -88,7 +88,7 @@
       "start": 22
     },
     {
-      "content": "Ça faisait un peu pute,\nmais c'était une soirée déguisée.",
+      "content": "Ça faisait un peu pute,\nmais bon, c'était une soirée déguisée.",
       "end": 26,
       "heatBucket": 3,
       "heatValue": 32,
@@ -123,14 +123,14 @@
       "start": 33
     },
     {
-      "content": "Mais si, je suis déguisé\nen DDo, le prince des ténèbres.",
+      "content": "Mais si, je suis déguisé\nen Dédo, le prince des ténèbres. Enfin...",
       "end": 40,
       "heatBucket": 1,
       "heatValue": 13,
       "start": 36
     },
     {
-      "content": "Cool.\nJe ne connaissais pas.",
+      "content": "— Ah, cool.\nJe connaissais pas.",
       "end": 43,
       "heatBucket": 1,
       "heatValue": 5,
@@ -172,28 +172,28 @@
       "start": 52
     },
     {
-      "content": "Il m'a demandé.\nQu'est-ce que tu fais là ?",
+      "content": "Il m'a demandé.\n— Mais qu'est-ce que tu fais là ?",
       "end": 56,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 55
     },
     {
-      "content": "J'ai voulu lui dire: Il faut\nqu'on parle, mais il a fait comme\ns'il avait reçu un texto, alors\nje lui ai fait le coup de la cigarette.",
+      "content": "J'ai voulu lui dire: \"Il faut qu'on parle\",\nmais il a fait comme\ns'il avait reçu un texto, alors\nje lui ai fait le coup de la cigarette.",
       "end": 61,
       "heatBucket": 1,
       "heatValue": 8,
       "start": 57
     },
     {
-      "content": "Je lui ai dit: J'ai fumé.",
+      "content": "Je lui ai dit:\n— Je vais fumer.",
       "end": 63,
       "heatBucket": 1,
       "heatValue": 11,
       "start": 61
     },
     {
-      "content": "Tu me lèves ?\nIl m'a dit: Non.",
+      "content": "— Tu viens ?\nIl m'a dit:\n— Non.",
       "end": 65,
       "heatBucket": 1,
       "heatValue": 12,
@@ -207,14 +207,14 @@
       "start": 65
     },
     {
-      "content": "J'ai bousculé ce mec,\nil m'a dit: Et après...",
+      "content": "J'ai bousculé ce mec,\nil m'a dit:\n— Hey...",
       "end": 71,
       "heatBucket": 3,
       "heatValue": 24,
       "start": 67
     },
     {
-      "content": "Je n'ai pas envie d'en parler.",
+      "content": "Et après...\nJ'ai pas envie d'en parler.",
       "end": 74,
       "heatBucket": 3,
       "heatValue": 29,
@@ -228,28 +228,28 @@
       "start": 74
     },
     {
-      "content": "Mais si, Dédot, Dédot,\nle prince des ténèbres.",
+      "content": "— Mais si, Dédo !\nDédo, le prince des ténèbres.",
       "end": 81,
       "heatBucket": 1,
       "heatValue": 18,
       "start": 77
     },
     {
-      "content": "Et tout à l'heure: Tu t'es pas\nrend, tu t'es pas rend.",
+      "content": "— Tue tes parents ! Tue tes parents !",
       "end": 87,
       "heatBucket": 1,
       "heatValue": 23,
       "start": 81
     },
     {
-      "content": "Non, je connais pas.",
+      "content": "— Non, je connais pas.",
       "end": 89,
       "heatBucket": 4,
       "heatValue": 35,
       "start": 88
     },
     {
-      "content": "Mais si, Tu peux me tenir ça toute ta vie.",
+      "content": "— Mais si.\n— Tu peux me tenir ça, toute ta vie ?",
       "end": 92,
       "heatBucket": 5,
       "heatValue": 52,

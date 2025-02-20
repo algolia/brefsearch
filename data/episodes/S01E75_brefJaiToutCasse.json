@@ -67,7 +67,7 @@
       "start": 17
     },
     {
-      "content": "En remontant, j'ai revu tous les MMS\nqu'elle m'avait envoyés, les photos\nqu'elle faisait avec ses doigts,\nun pigeon qui s'est tout à fait écrasé",
+      "content": "En remontant, j'ai revu tous les MMS\nqu'elle m'avait envoyés, les photos\nqu'elle faisait avec ses doigts,\nun pigeon qui s'était fait écraser",
       "end": 23,
       "heatBucket": 3,
       "heatValue": 24,
@@ -95,56 +95,56 @@
       "start": 27
     },
     {
-      "content": "C'est pas possible.\nJ'avais dit: Ça suffit maintenant.",
+      "content": "— Arrête !\nJ'avais dit:\n— Ça suffit maintenant.",
       "end": 32,
       "heatBucket": 3,
       "heatValue": 15,
       "start": 29
     },
     {
-      "content": "Ça va ?",
+      "content": "— Ça va, hein.\n— Ouais, ouais.",
       "end": 33,
       "heatBucket": 3,
       "heatValue": 16,
       "start": 33
     },
     {
-      "content": "Ouais.\nElle m'avait dit.",
+      "content": "Elle m'avait dit:",
       "end": 35,
       "heatBucket": 3,
       "heatValue": 16,
       "start": 33
     },
     {
-      "content": "Merci.",
+      "content": "— Merci, hein.",
       "end": 36,
       "heatBucket": 3,
       "heatValue": 15,
       "start": 35
     },
     {
-      "content": "Enfin, c'est plutôt elle qui a\ndit: Ça suffit maintenant.",
+      "content": "Enfin, c'est plutôt elle qui a\ndit:\n— Hey, ça suffit maintenant.",
       "end": 38,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 36
     },
     {
-      "content": "C'est bon.\nEt c'est moi qui lui avait dit.",
+      "content": "— Ça va, hein.\nEt c'est moi qui lui avait dit:",
       "end": 41,
       "heatBucket": 1,
       "heatValue": 11,
       "start": 38
     },
     {
-      "content": "Merci.",
+      "content": "— Merci.",
       "end": 42,
       "heatBucket": 1,
       "heatValue": 9,
       "start": 41
     },
     {
-      "content": "Je suis aussi passé devant le trottoir\nsur lequel on s'était la nuit.",
+      "content": "Je suis aussi passé devant le trottoir\nsur lequel on s'était endormis.",
       "end": 48,
       "heatBucket": 1,
       "heatValue": 5,
@@ -158,35 +158,35 @@
       "start": 48
     },
     {
-      "content": "Je me croyais à la fin\nd'une comédie romantique où le mec cour\nretrouvait la fille qu'il aime.",
+      "content": "Je me croyais à la fin\nd'une comédie romantique où le mec court\nretrouver la fille qu'il aime.",
       "end": 55,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 49
     },
     {
-      "content": "Morla.",
+      "content": "— Marla.",
       "end": 59,
       "heatBucket": 1,
       "heatValue": 7,
       "start": 55
     },
     {
-      "content": "Morla.",
+      "content": "— Marla.",
       "end": 60,
       "heatBucket": 1,
       "heatValue": 10,
       "start": 59
     },
     {
-      "content": "I'm back.",
+      "content": "— I'm back.",
       "end": 63,
       "heatBucket": 1,
       "heatValue": 11,
       "start": 60
     },
     {
-      "content": "You're such an asshole.",
+      "content": "— You're such an asshole.",
       "end": 67,
       "heatBucket": 1,
       "heatValue": 12,
@@ -249,14 +249,14 @@
       "start": 85
     },
     {
-      "content": "Marla, yeah, I'm coming\nto you doing OK, je vous attends.",
+      "content": "— Marla, yeah, I'm coming\nto you doing something romantic.",
       "end": 92,
       "heatBucket": 1,
       "heatValue": 3,
       "start": 87
     },
     {
-      "content": "Au revoir.\nOui, à bientôt.",
+      "content": "— OK, I'm waiting for you. Bye.\n— Yes, see you.",
       "end": 95,
       "heatBucket": 1,
       "heatValue": 3,
@@ -277,21 +277,21 @@
       "start": 97
     },
     {
-      "content": "Un mec est arrivé, il m'a\nregardé, je l'ai regardé,\nil m'a dit: Vous êtes travestie ?",
+      "content": "Un mec est arrivé, il m'a\nregardé, je l'ai regardé,\nil m'a dit:\n— Vous êtes travesti ?",
       "end": 103,
       "heatBucket": 1,
       "heatValue": 8,
       "start": 99
     },
     {
-      "content": "J'ai dit: Oui.",
+      "content": "J'ai dit:\n— Oui.",
       "end": 104,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 103
     },
     {
-      "content": "Il m'a dit: J'adore.",
+      "content": "Il m'a dit:\n— J'adore.",
       "end": 106,
       "heatBucket": 1,
       "heatValue": 14,
@@ -305,7 +305,7 @@
       "start": 106
     },
     {
-      "content": "J'ai traversé la cour\noù on enterrait Crockette.",
+      "content": "J'ai traversé la cour\noù on a enterré Croquette.",
       "end": 109,
       "heatBucket": 1,
       "heatValue": 12,
@@ -326,7 +326,7 @@
       "start": 111
     },
     {
-      "content": "Je n'ai jamais osé lui dire,\nmais j'aime Marla.",
+      "content": "Je n'ai jamais osé lui dire,\nmais j'aimais Marla.",
       "end": 114,
       "heatBucket": 1,
       "heatValue": 10,
@@ -340,42 +340,42 @@
       "start": 114
     },
     {
-      "content": "J'ai dit: Tu vas trouver\nça bête, mais je...",
+      "content": "J'ai dit:\n— Tu vas trouver ça bête, mais je...",
       "end": 119,
       "heatBucket": 3,
       "heatValue": 15,
       "start": 116
     },
     {
-      "content": "Un mec Il est arrivé, il a dit...\nC'est qui ?",
+      "content": "Un mec est arrivé, il a dit:\n— C'est qui ?",
       "end": 121,
       "heatBucket": 3,
       "heatValue": 20,
       "start": 119
     },
     {
-      "content": "J'ai dit...",
+      "content": "J'ai dit:",
       "end": 123,
       "heatBucket": 3,
       "heatValue": 25,
       "start": 121
     },
     {
-      "content": "J'ai dû me tromper de porte, désolé.",
+      "content": "— J'ai dû me tromper de porte, désolé.",
       "end": 126,
       "heatBucket": 4,
       "heatValue": 32,
       "start": 125
     },
     {
-      "content": "Il est bizarre, ce mec.",
+      "content": "— Il est bizarre, ce mec.",
       "end": 128,
       "heatBucket": 4,
       "heatValue": 34,
       "start": 127
     },
     {
-      "content": "Bouge pas, il a porté qui, toi ?",
+      "content": "— Ouvre pas à n'importe qui, toi.",
       "end": 130,
       "heatBucket": 4,
       "heatValue": 34,
@@ -389,67 +389,67 @@
       "start": 131
     },
     {
-      "content": "Bref, j'ai tout cassé.\nMerci.",
+      "content": "Bref, j'ai tout cassé.",
       "end": 156,
       "heatBucket": 3,
       "heatValue": 27,
       "start": 150
     },
     {
-      "content": "Tu veux t'asseoir ?",
+      "content": "— Merci. Tu veux t'asseoir ?",
       "end": 158,
       "heatBucket": 1,
       "heatValue": 13,
       "start": 157
     },
     {
-      "content": "Ouais.",
+      "content": "— Ouais.",
       "end": 159,
       "heatBucket": 1,
       "heatValue": 11,
       "start": 158
     },
     {
-      "content": "Je m'appelle Marla.",
+      "content": "— Je m'appelle Marla.",
       "end": 162,
       "heatBucket": 3,
       "heatValue": 15,
       "start": 161
     },
     {
-      "content": "Et toi ?",
+      "content": "— Et toi ?",
       "end": 163,
       "heatBucket": 3,
       "heatValue": 19,
       "start": 162
     },
     {
-      "content": "Je m'appelle...\nNon, attends.",
+      "content": "— Je m'appelle...\n— Non, attends, attends.",
       "end": 164,
       "heatBucket": 3,
       "heatValue": 24,
       "start": 164
     },
     {
-      "content": "Attends, ne me dis pas.",
+      "content": "— Me dis pas.",
       "end": 165,
       "heatBucket": 3,
       "heatValue": 25,
       "start": 164
     },
     {
-      "content": "Comme ça, tu es encore\nun inconnu que j'ai sauvé.",
+      "content": "— Comme ça, tu es encore\nun inconnu que j'ai sauvé.",
       "end": 167,
       "heatBucket": 3,
       "heatValue": 27,
       "start": 165
     },
     {
-      "content": "Tu es qu'un con.",
+      "content": "— T'es qu'un con.",
       "end": 170,
-      "heatBucket": 4,
-      "heatValue": 34,
-      "start": 167
+      "heatBucket": 5,
+      "heatValue": 35,
+      "start": 169
     }
   ],
   "video": {

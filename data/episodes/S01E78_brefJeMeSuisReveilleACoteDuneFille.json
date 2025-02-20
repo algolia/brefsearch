@@ -32,21 +32,21 @@
       "start": 4
     },
     {
-      "content": "Comment tu t'appelles déjà ?",
+      "content": "— Comment tu t'appelles déjà ?",
       "end": 11,
       "heatBucket": 3,
       "heatValue": 40,
       "start": 9
     },
     {
-      "content": "On ne se reverra jamais.",
+      "content": "— Heeey, on ne se reverra jamais.",
       "end": 14,
       "heatBucket": 4,
       "heatValue": 42,
       "start": 11
     },
     {
-      "content": "Je suis qui ?",
+      "content": "— Je suis gay.",
       "end": 17,
       "heatBucket": 3,
       "heatValue": 36,
@@ -60,7 +60,7 @@
       "start": 17
     },
     {
-      "content": "Mais mon bras était coincé\nsous-sel, ce qui me laissait\ntrois possibilités: le retirer d'un coup.",
+      "content": "Mais mon bras était coincé\nsous elle, ce qui me laissait\ntrois possibilités: le retirer d'un coup.",
       "end": 25,
       "heatBucket": 2,
       "heatValue": 28,
@@ -81,35 +81,35 @@
       "start": 31
     },
     {
-      "content": "Décrocher, dire.\nAllô ?",
+      "content": "Décrocher, dire.\n— Allô ?",
       "end": 39,
       "heatBucket": 1,
       "heatValue": 1,
       "start": 37
     },
     {
-      "content": "Quoi ?",
+      "content": "— Quoi ?",
       "end": 40,
       "heatBucket": 1,
       "heatValue": 1,
       "start": 39
     },
     {
-      "content": "Papa ?\nMaman ?",
+      "content": "— Papa ? Maman ?",
       "end": 42,
       "heatBucket": 1,
       "heatValue": 2,
       "start": 40
     },
     {
-      "content": "J'arrive, je t'expliquerai.",
+      "content": "— J'arrive, je t'expliquerai.",
       "end": 44,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 42
     },
     {
-      "content": "Partir en courant et jamais lui expliqué.",
+      "content": "Partir en courant et jamais lui expliquer.",
       "end": 45,
       "heatBucket": 1,
       "heatValue": 5,

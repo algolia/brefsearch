@@ -13,9 +13,9 @@
     "viewCount": 7559587
   },
   "line": {
-    "content": "Alors j'ai mis: J'ai un truc\nqui est tombé à l'eau ce soir.",
-    "end": 25,
-    "heatBucket": 4,
+    "content": "Alors j'ai mis: \"J'ai un truc\nqui est tombé à l'eau ce soir.\"\nKheiron m'a envoyé un texto.",
+    "end": 26,
+    "heatBucket": 3,
     "index": 8,
     "start": 23,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=23s"

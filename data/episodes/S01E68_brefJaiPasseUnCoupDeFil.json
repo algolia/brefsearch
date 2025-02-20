@@ -32,14 +32,14 @@
       "start": 5
     },
     {
-      "content": "Ben, dis-moi, je voulais savoir\nquel film on allait...",
+      "content": "— Ouais Ben, dis-moi, je voulais savoir\nquel film on allait...",
       "end": 9,
       "heatBucket": 5,
       "heatValue": 24,
       "start": 7
     },
     {
-      "content": "Attends, c'est toi qui me rappelle.",
+      "content": "— Ah attends, c'est toi qui me rappelle.",
       "end": 10,
       "heatBucket": 5,
       "heatValue": 21,
@@ -53,21 +53,21 @@
       "start": 10
     },
     {
-      "content": "J'ai rappuyé, j'ai dit:\nIl avait raccroché.",
+      "content": "J'ai rappuyé, j'ai dit:\n— Allô ?\nIl avait raccroché.",
       "end": 14,
       "heatBucket": 5,
       "heatValue": 17,
       "start": 12
     },
     {
-      "content": "J'ai rappelé: Je suis\ntombé sur sa messagerie.",
+      "content": "J'ai rappelé. Je suis\ntombé sur sa messagerie.",
       "end": 17,
       "heatBucket": 5,
       "heatValue": 15,
       "start": 14
     },
     {
-      "content": "Rappelle-moi,\nje n'arrive pas à se joindre.",
+      "content": "— Bon bha, rappelle-moi,\nj'arrive pas à te joindre.",
       "end": 19,
       "heatBucket": 1,
       "heatValue": 12,
@@ -81,7 +81,7 @@
       "start": 19
     },
     {
-      "content": "Rappelle-moi,\nje n'arrive pas à se joindre.",
+      "content": "— Bon bha, rappelle-moi,\nj'arrive pas à te joindre.",
       "end": 22,
       "heatBucket": 1,
       "heatValue": 9,
@@ -109,21 +109,21 @@
       "start": 27
     },
     {
-      "content": "Je suis retour de Ben,\nc'est mon message, ciao.",
+      "content": "— Vous êtes bien sur le répondeur de Ben,\nlaissez moi un message. Tchao.",
       "end": 30,
       "heatBucket": 1,
       "heatValue": 5,
       "start": 29
     },
     {
-      "content": "J'ai raccroché, mon téléphone a sonné.\nAllô ?",
+      "content": "J'ai raccroché, mon téléphone a sonné.\n— Allô ?",
       "end": 32,
       "heatBucket": 1,
       "heatValue": 5,
       "start": 30
     },
     {
-      "content": "Ouais.",
+      "content": "— Ouais.",
       "end": 32,
       "heatBucket": 1,
       "heatValue": 5,
@@ -137,7 +137,7 @@
       "start": 32
     },
     {
-      "content": "Je n'arrive pas à joindre Ben.",
+      "content": "— J'arrive pas à joindre Ben.",
       "end": 35,
       "heatBucket": 1,
       "heatValue": 4,
@@ -151,49 +151,49 @@
       "start": 35
     },
     {
-      "content": "Attends, il m'appelle.\nCool.",
+      "content": "— Attends, il m'appelle là.\n— Cool.",
       "end": 37,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 36
     },
     {
-      "content": "Dis-lui que j'essaie de le joindre.",
+      "content": "— Dis-lui que j'essaie de le joindre.",
       "end": 39,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 37
     },
     {
-      "content": "J'ai mis Baptiste en attente.\nAllô ?",
+      "content": "J'ai mis Baptiste en attente.\n— Allô ?",
       "end": 40,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 39
     },
     {
-      "content": "Ouais, c'était pour savoir quelle fille...\nAttends, il y a Julien qui m'appelle.",
+      "content": "— Ouais, c'était pour savoir quel film...\n— Attends, y a Julien qui m'appelle.",
       "end": 42,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 40
     },
     {
-      "content": "Il m'a mis en attente.\nOuais, Julien.",
+      "content": "Il m'a mis en attente.\n— Ouais, Julien.",
       "end": 44,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 42
     },
     {
-      "content": "Il y a Baptiste\nqui essayait de le joindre.",
+      "content": "— Ouais y a Baptiste qui essaye de te joindre.",
       "end": 45,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 44
     },
     {
-      "content": "J'ai repris Baptiste.\nTu m'as dit que j'essaie de le joindre.",
+      "content": "J'ai repris Baptiste.\n— Tu lui as dit que j'essaye de le joindre ?",
       "end": 47,
       "heatBucket": 1,
       "heatValue": 4,
@@ -214,7 +214,7 @@
       "start": 49
     },
     {
-      "content": "Il y a mon téléphone fixe\nqui sonne, c'est chelou.",
+      "content": "— Y a mon téléphone fixe\nqui sonne, c'est chelou.",
       "end": 51,
       "heatBucket": 1,
       "heatValue": 5,
@@ -228,70 +228,63 @@
       "start": 51
     },
     {
-      "content": "C'était Charles, il appelait d'une cabine.\nOuais, c'est Charles.",
+      "content": "C'était Charles, il appelait d'une cabine.\n— Ouais, c'est Charles.",
       "end": 56,
       "heatBucket": 1,
       "heatValue": 6,
       "start": 54
     },
     {
-      "content": "Putain, j'ai perdu mon portable\net tu es le seul qui est dans l'annuaire.",
+      "content": "— Putain, j'ai perdu mon portable\net t'es le seul qui est dans l'annuaire.",
       "end": 58,
       "heatBucket": 1,
       "heatValue": 6,
       "start": 56
     },
     {
-      "content": "Ouais, ouais.\nOui, oui.",
+      "content": "— Ouais, ouais.\n— Oui, oui.",
       "end": 59,
       "heatBucket": 1,
       "heatValue": 6,
       "start": 59
     },
     {
-      "content": "Oui, oui.\nOui, oui.",
-      "end": 59,
-      "heatBucket": 1,
-      "heatValue": 6,
-      "start": 59
-    },
-    {
-      "content": "Oui, oui.\nOui, C'est qui ?",
+      "content": "— Oui, oui.\n— Oui, C'est qui ?",
       "end": 60,
       "heatBucket": 1,
       "heatValue": 7,
       "start": 59
     },
     {
-      "content": "J'ai eu un double appel de Xavier.\nChristophe, c'est Xavier.",
+      "content": "J'ai eu un double appel de Xavier.\n— Ouais Christophe, c'est Xavier.",
       "end": 62,
       "heatBucket": 1,
       "heatValue": 13,
       "start": 60
     },
     {
-      "content": "Je ne connaissais pas de Xavier\net je ne m'appelais pas Christophe,\nalors j'ai dit: Désolé, c'est une erreur.",
+      "content": "Je ne connaissais pas de Xavier\net je m'appelais pas Christophe,\nalors j'ai dit:\n— Désolé, c'est une erreur.",
       "end": 65,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 62
     },
     {
-      "content": "Charles a dit: Tu peux dire\nà Baptiste que je vais être en retard ?",
+      "content": "Charles a dit:\n— Tu peux dire\nà Baptiste que je vais être en retard ?",
       "end": 67,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 65
     },
     {
-      "content": "Charles sera en retard.",
+      "content": "— Charles sera en retard.",
       "end": 69,
       "heatBucket": 1,
       "heatValue": 7,
       "start": 67
     },
     {
-      "content": "C'est qui Charles ?\nCharles a dit merci et a raccroché.",
+      "content": "— C'est qui Charles ?\nCharles a dit merci et a raccroché.",
       "end": 72,
       "heatBucket": 1,
       "heatValue": 7,
@@ -312,21 +305,21 @@
       "start": 73
     },
     {
-      "content": "C'est qui ?\nC'était Charles.",
+      "content": "— C'est qui ?\n— C'était Charles.",
       "end": 76,
       "heatBucket": 1,
       "heatValue": 5,
       "start": 74
     },
     {
-      "content": "Dis-lui que c'est moi qui ai son portable.\nIl a raccroché.",
+      "content": "— Dis-lui que c'est moi qui ai son portable.\n— Il a raccroché.",
       "end": 78,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 76
     },
     {
-      "content": "Je l'appelle.",
+      "content": "— Je l'appelle.",
       "end": 79,
       "heatBucket": 1,
       "heatValue": 3,
@@ -354,7 +347,7 @@
       "start": 84
     },
     {
-      "content": "Ben ?\nIl n'y avait plus personne au bout du fil.",
+      "content": "— Ben ?\nIl y avait plus personne au bout du fil.",
       "end": 87,
       "heatBucket": 1,
       "heatValue": 1,
@@ -368,7 +361,7 @@
       "start": 87
     },
     {
-      "content": "Rappelle-moi,\nJe n'arrive pas à te joindre.",
+      "content": "— Bon bha, rappelle-moi,\nj'arrive pas à te joindre.",
       "end": 91,
       "heatBucket": 1,
       "heatValue": 0,
@@ -396,42 +389,42 @@
       "start": 93
     },
     {
-      "content": "Allô ?\nYes.",
+      "content": "— Allô ?\nYes.",
       "end": 97,
       "heatBucket": 1,
       "heatValue": 1,
       "start": 96
     },
     {
-      "content": "C'est pour te dire, il y a Baptiste\nqui essaite de te joindre.",
+      "content": "C'est pour te dire, il y a Baptiste\nqui essaie de te joindre.",
       "end": 99,
       "heatBucket": 1,
       "heatValue": 2,
       "start": 97
     },
     {
-      "content": "Ouais, Julien me l'a dit.\nJe l'appelle.",
+      "content": "— Ouais, Julien me l'a dit.\n— Je l'appelle.",
       "end": 101,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 99
     },
     {
-      "content": "Cool, à tout à l'heure.",
+      "content": "— Cool, à tout à l'heure.",
       "end": 103,
       "heatBucket": 1,
       "heatValue": 5,
       "start": 101
     },
     {
-      "content": "J'ai raccroché et je ne savais\ntoujours pas quel film on allait voir.",
+      "content": "J'ai raccroché et je savais\ntoujours pas quel film on allait voir.",
       "end": 106,
       "heatBucket": 1,
       "heatValue": 10,
       "start": 103
     },
     {
-      "content": "Bref, j'ai passé un coup de fil..",
+      "content": "Bref, j'ai passé un coup de fil.",
       "end": 108,
       "heatBucket": 5,
       "heatValue": 18,

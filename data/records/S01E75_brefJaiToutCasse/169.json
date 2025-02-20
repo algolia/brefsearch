@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "— T'es qu'un con.",
+    "end": 170,
+    "heatBucket": 5,
+    "index": 62,
+    "start": 169,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=169s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/169.mp4",
+    "hash": "ad1e7ccb6e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBTW+aAAAAUC4DARXdjKuzH0adTlmpCQ4EawVUigJFEC2iNlOUtI3dnM2krj1syWKzLEsva9LDLtsv3XsABKI+yI8iQQhCQRB9jr2ocdLl3Ht8/GsNL6bOh9ViPeg78/lnvX0qigqAwAEYCqAIBvsCqfjOmdHdfP+1uL59evr36cp7+Lr5sVrfLb33vZFYazYaMgA+gyEQgSEkv7fnyLI3dTfffj7c3d9crb3LxcwwZ1p7qJwovGh1+h29BwT8oRCKUvlM54iZtKQL0/pjDrxCKZM6uHXPP1q2wrA8SRb26dHAPaSrgMzxxWzaqFfntul2tBuz97tI3efx3HbSlpoGWzE5TuXlrThuGpPXOznA0VRLqukcu5yMlmdW76T/jhBOY/FyECPzeIUg6FRa0LWsUGZkkSBZoCvW7OOGekhNDfnL+Xig6bEEiYW20/5Q0oeQkaiUyFKCgPOVknxM8y2gyTIKTXFvc9pR6Xo8XM3GqqhGXyYhJBxFgg0svBvZLRRFxXDrrWG76wBNhq6+yZSzKSqTtCW+25QoshTbSqD+MAwiWR8SCb/CiTLFt2lOI9n6fwE2bfrTbEiZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/169.png",
+    "width": 1920
+  }
+}

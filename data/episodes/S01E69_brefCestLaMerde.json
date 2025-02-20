@@ -25,42 +25,42 @@
       "start": 3
     },
     {
-      "content": "T'as bien dormi ?\nOuais.",
+      "content": "— T'as bien dormi ?\n— Ouais.",
       "end": 7,
       "heatBucket": 5,
       "heatValue": 59,
       "start": 6
     },
     {
-      "content": "Ils sont où les Chocapic ?\nJe sais pas.",
+      "content": "— Ils sont où les Chocapic ?\n— Je sais pas.",
       "end": 10,
       "heatBucket": 5,
       "heatValue": 56,
       "start": 7
     },
     {
-      "content": "J'ai ronflé ?\nNon.",
+      "content": "— J'ai ronflé ?\n— Non.",
       "end": 11,
       "heatBucket": 4,
       "heatValue": 54,
       "start": 10
     },
     {
-      "content": "Tu m'aimes ?\nGrave.",
+      "content": "— Tu m'aimes ?\n— Grave.",
       "end": 12,
       "heatBucket": 4,
       "heatValue": 54,
       "start": 11
     },
     {
-      "content": "Autant que moi.\nTant mieux.",
+      "content": "— Pas autant que moi.\n— Tant mieux.",
       "end": 14,
       "heatBucket": 4,
       "heatValue": 51,
       "start": 12
     },
     {
-      "content": "Bon, j'y vais.\nIls me baisent.",
+      "content": "— Bon bha, j'y vais.\n— Et mon bisou ?",
       "end": 17,
       "heatBucket": 4,
       "heatValue": 43,
@@ -74,35 +74,35 @@
       "start": 19
     },
     {
-      "content": "T'as bien dormi ?\nNon.",
+      "content": "— T'as bien dormi ?\n— Non.",
       "end": 25,
       "heatBucket": 4,
       "heatValue": 33,
       "start": 23
     },
     {
-      "content": "Tu m'aimes ?\nJe sais pas.",
+      "content": "— Tu m'aimes ?\n— Je sais pas.",
       "end": 27,
       "heatBucket": 4,
       "heatValue": 33,
       "start": 25
     },
     {
-      "content": "J'ai ronflé ?\nOu autant que moi.",
+      "content": "— J'ai ronflé ?\n— Pas autant que moi.",
       "end": 28,
       "heatBucket": 4,
       "heatValue": 33,
       "start": 27
     },
     {
-      "content": "Grave.\nBon, J'y vais.",
+      "content": "— Grave.\n— Bon bha, j'y vais.",
       "end": 30,
       "heatBucket": 3,
       "heatValue": 30,
       "start": 28
     },
     {
-      "content": "Tant mieux.\nEt mon bisou ?",
+      "content": "— Tant mieux.\n— Et mon bisou ?",
       "end": 34,
       "heatBucket": 3,
       "heatValue": 25,
@@ -130,7 +130,7 @@
       "start": 38
     },
     {
-      "content": "Ils m'ont répondu: Carrément.\nCarrément ?",
+      "content": "Ils m'ont répondu:\n— Carrément.\n— Carrément. Enfin...",
       "end": 42,
       "heatBucket": 1,
       "heatValue": 8,
@@ -151,21 +151,21 @@
       "start": 45
     },
     {
-      "content": "Charles m'a dit: Si tu te poses\nla question, c'est que tu t'es à elle.",
+      "content": "Charles m'a dit:\n— Si tu te poses la question, c'est que tu tiens à elle.",
       "end": 50,
       "heatBucket": 1,
       "heatValue": 16,
       "start": 48
     },
     {
-      "content": "Je tenais à elle, comme je tenais à ma\nvieille paire de pommes que je ne m'étais\nplus, mes DVD que je ne regardais jamais\net ma Nintendo qui prenait la poussière.",
+      "content": "Je tenais à elle, comme je tenais à ma\nvieille paire de pump que je mettais plus,\nmes DVD que je regardais jamais\net ma Nintendo qui prenait la poussière.",
       "end": 55,
       "heatBucket": 2,
       "heatValue": 21,
       "start": 50
     },
     {
-      "content": "Et puis mon frère a dit: Pour toi,\nla gueule ce soir, tu auras\nta réponse dans le matin.\nSon copain Marc a dit: Oh oui.",
+      "content": "Et puis mon frère a dit:\n— Bourre-toi la gueule ce soir,\nt'auras ta réponse demain matin.\nSon copain Marc a dit:\n— Oh oui.",
       "end": 60,
       "heatBucket": 2,
       "heatValue": 21,
@@ -179,21 +179,21 @@
       "start": 60
     },
     {
-      "content": "Ben, dis-moi, tu te bourres la gueule\nquel soir pour oublier tes problèmes\navec ta meuf cette semaine ?",
+      "content": "— Ouais Ben ? Dis-moi, tu te bourres la gueule\nquel soir pour oublier tes problèmes\navec ta meuf cette semaine ?",
       "end": 66,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 62
     },
     {
-      "content": "Ce soir ?",
+      "content": "— Ce soir ?",
       "end": 68,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 66
     },
     {
-      "content": "Ok, j'en suis.",
+      "content": "— Ok, j'en suis.",
       "end": 69,
       "heatBucket": 1,
       "heatValue": 16,
@@ -228,14 +228,14 @@
       "start": 75
     },
     {
-      "content": "J'ai dit: T'as bien dormi ?",
+      "content": "J'ai dit:\n— T'as bien dormi ?",
       "end": 79,
       "heatBucket": 3,
       "heatValue": 27,
       "start": 77
     },
     {
-      "content": "Ouais.\nMais c'était pas elle.",
+      "content": "— Ouais.\nMais c'était pas elle.",
       "end": 83,
       "heatBucket": 3,
       "heatValue": 27,
@@ -249,14 +249,14 @@
       "start": 83
     },
     {
-      "content": "Mon verre, il est complètement vide.\nArrête.",
+      "content": "— Mon verre, il est complètement vide.\n— Attends.",
       "end": 90,
       "heatBucket": 1,
-      "heatValue": 15,
-      "start": 85
+      "heatValue": 11,
+      "start": 88
     },
     {
-      "content": "Je te le transforme en complètement plein.",
+      "content": "— Je te le transforme en complètement plein.",
       "end": 93,
       "heatBucket": 1,
       "heatValue": 11,

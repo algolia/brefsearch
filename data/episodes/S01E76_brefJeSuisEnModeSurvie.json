@@ -27,28 +27,28 @@
     {
       "content": "Quand je suis en mode survie, je regarde\nles tickets de jeux déjà grattés par\nterre en espérant qu'ils soient gagnants.",
       "end": 9,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 38,
       "start": 5
     },
     {
       "content": "Je mets de l'eau dans les bouteilles\nde shampoing vide pour les réutiliser.",
       "end": 11,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 23,
       "start": 9
     },
     {
       "content": "Pareil pour le liquide vaisselle\net je découpe le tube de dentifrice\npour pas le gâcher.",
       "end": 13,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 20,
       "start": 11
     },
     {
       "content": "Quand j'ai plus de lessive,\nje lave mes fringues à l'adoucissant.",
       "end": 15,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 16,
       "start": 13
     },
@@ -95,98 +95,98 @@
       "start": 27
     },
     {
-      "content": "Bonjour à tous.",
+      "content": "— Bonjour à tous.",
       "end": 33,
       "heatBucket": 1,
       "heatValue": 7,
       "start": 30
     },
     {
-      "content": "Bonjour.",
+      "content": "— Bonjour.",
       "end": 34,
       "heatBucket": 1,
       "heatValue": 5,
       "start": 33
     },
     {
-      "content": "Alors, qu'est-ce qu'on mange aujourd'hui ?",
+      "content": "— Alors, qu'est-ce qu'on mange aujourd'hui ?",
       "end": 35,
       "heatBucket": 1,
       "heatValue": 5,
       "start": 34
     },
     {
-      "content": "Alors, la fameuse farandole\nde pâtes qui restent.",
+      "content": "— Alors, la fameuse farandole\nde pâtes qui restent.",
       "end": 39,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 35
     },
     {
-      "content": "Et qu'est-ce qui reste ?",
+      "content": "— Et qu'est-ce qui reste ?",
       "end": 40,
       "heatBucket": 1,
       "heatValue": 3,
       "start": 39
     },
     {
-      "content": "Alors, on a 30 grammes de farfales,\n50 grammes de coquillettes\net 20 grammes de spaghettis.",
+      "content": "— Alors, on a 30 grammes de farfales,\n50 grammes de coquillettes\net 20 grammes de spaghettis.",
       "end": 46,
       "heatBucket": 1,
       "heatValue": 3,
       "start": 40
     },
     {
-      "content": "Et attention de bien respecter\nle temps de cuisson de chaque pâte.",
+      "content": "— Et attention de bien respecter\nle temps de cuisson de chaque pâte.",
       "end": 51,
       "heatBucket": 1,
       "heatValue": 2,
       "start": 46
     },
     {
-      "content": "Et oui, sinon, ça serait trop facile.",
+      "content": "— Et oui, sinon, ça serait trop facile.",
       "end": 61,
       "heatBucket": 1,
       "heatValue": 1,
       "start": 54
     },
     {
-      "content": "Ça a l'air fameux.",
+      "content": "— Ah, ça a l'air fameux.",
       "end": 63,
       "heatBucket": 1,
       "heatValue": 4,
       "start": 61
     },
     {
-      "content": "On arrose le tout du ketchup du McDo\nqu'on a gardé il y a huit semaines.",
+      "content": "— On arrose le tout du ketchup du McDo\nqu'on a gardé il y a huit semaines.",
       "end": 67,
       "heatBucket": 1,
       "heatValue": 6,
       "start": 63
     },
     {
-      "content": "Et en guise de pain, les croûtes de pizza.",
+      "content": "— Et en guise de pain, les croûtes de pizza.",
       "end": 71,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 18,
       "start": 67
     },
     {
-      "content": "C'est fameux.",
+      "content": "— C'est fameux.",
       "end": 75,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 38,
       "start": 71
     },
     {
-      "content": "Bon appétit.\nJ'achète des sous de marque qui font peur.",
+      "content": "— Bon appétit.\nJ'achète des sous-marques qui font peur.",
       "end": 77,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 48,
       "start": 75
     },
     {
-      "content": "J'ai réutilisé le même sachet\nde thé pendant une semaine.",
+      "content": "Je réutilise le même sachet\nde thé pendant une semaine.",
       "end": 80,
       "heatBucket": 5,
       "heatValue": 50,
@@ -195,49 +195,49 @@
     {
       "content": "Moins il y a de thé,\nplus je mets de sucre.",
       "end": 81,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 48,
       "start": 80
     },
     {
-      "content": "Moi, j'ai d'argent.\nOn se commande un jap ?",
+      "content": "Moins j'ai d'argent...\n— On se commande un jap ?",
       "end": 82,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 41,
       "start": 81
     },
     {
-      "content": "Moi, j'ai faim.\nJe suis pas fin.",
+      "content": "...moins j'ai faim.\n— J'ai pas faim.",
       "end": 84,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 39,
       "start": 82
     },
     {
-      "content": "On commande une pizza ?\nJ'ai pas faim.",
+      "content": "— On commande une pizza ?\n— J'ai pas faim.",
       "end": 85,
       "heatBucket": 3,
       "heatValue": 31,
       "start": 84
     },
     {
-      "content": "On se vend un resto ?\nJ'ai pas faim.",
+      "content": "— On se fait un resto ?\n— J'ai pas faim.",
       "end": 87,
       "heatBucket": 3,
       "heatValue": 30,
       "start": 85
     },
     {
-      "content": "Je m'invite.\nUne entre-goutte, s'il vous plaît.",
+      "content": "— Je t'invite.\n— Une entrecôte, s'il vous plaît.",
       "end": 90,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 29,
       "start": 87
     },
     {
-      "content": "Sur Internet, je clique\nsur des pubs gagnées 3 000 €\npar mois en restant chez vous.",
+      "content": "Sur Internet, je clique\nsur des pubs \"Gagne 3000€\npar mois en restant chez vous.\"",
       "end": 92,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 29,
       "start": 90
     },
@@ -256,7 +256,7 @@
       "start": 95
     },
     {
-      "content": "Non, tu ramèneras rien.\nUn petit truc à manger, à la rigueur.",
+      "content": "— Non, tu ramèneras rien. Un petit truc à manger, à la rigueur.",
       "end": 99,
       "heatBucket": 3,
       "heatValue": 34,
@@ -284,23 +284,23 @@
       "start": 104
     },
     {
-      "content": "Quand j'arrive, on me dit: Je vais\nla mettre à la cuisine.",
+      "content": "Quand j'arrive, on me dit:\n— Je vais la mettre à la cuisine.",
       "end": 107,
       "heatBucket": 3,
       "heatValue": 30,
       "start": 105
     },
     {
-      "content": "C'est ce qu'il va dire.\nJe vais la mettre à la poubelle.",
+      "content": "C'est ce qui veut dire:\n— Je vais la mettre à la poubelle.",
       "end": 110,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 26,
       "start": 107
     },
     {
       "content": "Bref, je suis en mode survie.",
       "end": 112,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 22,
       "start": 110
     },
@@ -308,39 +308,39 @@
       "content": "Et en dessert, le fameux doigt\ncollant au sucre vanillé.",
       "end": 119,
       "heatBucket": 1,
-      "heatValue": 11,
-      "start": 112
+      "heatValue": 6,
+      "start": 116
     },
     {
-      "content": "Irresistible.",
+      "content": "— Hmmm. Irresistible.",
       "end": 124,
       "heatBucket": 1,
       "heatValue": 9,
       "start": 122
     },
     {
-      "content": "C'est le fameux.",
+      "content": "— C'est fameux.",
       "end": 125,
       "heatBucket": 1,
       "heatValue": 11,
       "start": 124
     },
     {
-      "content": "Je vous laisse.",
+      "content": "— Bon, je vous laisse.",
       "end": 127,
       "heatBucket": 1,
       "heatValue": 12,
       "start": 125
     },
     {
-      "content": "Je vais montrer nos Guy Valgaré.",
+      "content": "— J'ai mon traineau qui est mal garé.",
       "end": 128,
       "heatBucket": 1,
       "heatValue": 12,
       "start": 127
     },
     {
-      "content": "À bientôt.\nÇa, j'espère.",
+      "content": "— À bientôt.\n— Ça, j'espère.",
       "end": 130,
       "heatBucket": 1,
       "heatValue": 11,

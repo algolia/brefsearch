@@ -13,142 +13,128 @@
     {
       "content": "Bref, maintenant que j'étais\nseul, je voulais revoir la serveuse\navec qui j'avais couché récemment.\nJ'ai donc dû envoyer un texto.",
       "end": 5,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 52,
       "start": 1
     },
     {
-      "content": "Au début, j'ai écrit:\nTu voudrais pas qu'on se voit ?",
+      "content": "Au début, j'ai écrit:\n— Hey ! Tu voudrais pas qu'on se voie ?",
       "end": 7,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 36,
       "start": 5
     },
     {
       "content": "J'allais appuyer sur Envoyer,\nmais je me suis rendu compte\nque j'avais pas précisé quand.",
       "end": 9,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 27,
       "start": 7
     },
     {
-      "content": "J'ai écrit: Ce soir,\nmais ça faisait trop mort de fin.",
+      "content": "J'ai écrit: \",ce soir?\".\nMais ça faisait trop mort de faim.",
       "end": 11,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 24,
       "start": 9
     },
     {
-      "content": "J'ai mis Demain soir,\nmais je voulais l'avoir ce soir\nparce que j'étais mort de fin.",
+      "content": "J'ai mis \"Demain soir\",\nmais je voulais la voir ce soir\nparce que j'étais mort de faim.",
       "end": 14,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 20,
       "start": 11
     },
     {
-      "content": "J'ai remis: Ce soir, mais je me suis dit\nqu'il fallait faire genre j'étais occupé.",
+      "content": "J'ai remis: \",ce soir\", mais je me suis dit\nqu'il fallait faire genre j'étais occupé.",
       "end": 16,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 15,
       "start": 14
     },
     {
-      "content": "Alors j'ai ajouté: J'ai\nun truc qui s'est annulé ce soir.",
-      "end": 17,
-      "heatBucket": 4,
-      "heatValue": 11,
+      "content": "Alors j'ai ajouté: \"J'ai\nun truc qui s'est annulé ce soir.\"\nAprès, je me suis demandé si\nc'était annulé avec deux N, annulé avec",
+      "end": 20,
+      "heatBucket": 3,
+      "heatValue": 10,
       "start": 16
     },
     {
-      "content": "Après, je me suis demandé si\nc'était annulé avec deux N, annulé avec\nun seul N, annulé avec deux N et deux L,\nou annulé avec un seul N et un seul L.",
+      "content": "un seul N, annulé avec deux N et deux L,\nou annulé avec un seul N et un seul L.",
       "end": 23,
-      "heatBucket": 4,
-      "heatValue": 9,
-      "start": 17
+      "heatBucket": 3,
+      "heatValue": 8,
+      "start": 20
     },
     {
-      "content": "Alors j'ai mis: J'ai un truc\nqui est tombé à l'eau ce soir.",
-      "end": 25,
-      "heatBucket": 4,
+      "content": "Alors j'ai mis: \"J'ai un truc\nqui est tombé à l'eau ce soir.\"\nKheiron m'a envoyé un texto.",
+      "end": 26,
+      "heatBucket": 3,
       "heatValue": 9,
       "start": 23
     },
     {
-      "content": "Kheiron m'a envoyé un texto.",
-      "end": 26,
-      "heatBucket": 4,
-      "heatValue": 10,
-      "start": 25
-    },
-    {
       "content": "J'ai un plan, on va draguer\ndes meufs aux alcooliques anonymes.",
       "end": 27,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 11,
       "start": 26
     },
     {
       "content": "J'ai pas répondu.\nJe suis retourné à mon texto.",
       "end": 28,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 11,
       "start": 27
     },
     {
-      "content": "En y réfléchissant, je me Je me suis dit\nque c'était un peu pourri.",
+      "content": "En y réfléchissant, je me Je me suis dit\nque \"Hey,\" c'était un peu pourri.",
       "end": 30,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 10,
       "start": 28
     },
     {
       "content": "J'ai cherché autre chose.\nCoucou, pourri.",
       "end": 32,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 9,
       "start": 30
     },
     {
       "content": "Salut, pourri.\nJ'ai essayé d'autres trucs.",
       "end": 34,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 6,
       "start": 32
     },
     {
-      "content": "Salut à suivre.\nHi, bitch.",
+      "content": "Yo. Salutations. Hi. Biiitch. Trop de swag.",
       "end": 35,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 6,
       "start": 34
     },
     {
       "content": "Bref, je trouvais rien.",
       "end": 36,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 5,
       "start": 35
     },
     {
-      "content": "Je me suis dit que comme c'était\nune serveuse, je pouvais\nfaire une blague là-dessus.",
+      "content": "Alors, je me suis dit que comme c'était\nune serveuse, je pouvais\nfaire une blague là-dessus.",
       "end": 39,
       "heatBucket": 3,
       "heatValue": 4,
       "start": 36
     },
     {
-      "content": "J'ai mis: Bonjour,\nun demi, s'il vous plaît.",
-      "end": 40,
-      "heatBucket": 2,
-      "heatValue": 3,
-      "start": 39
-    },
-    {
-      "content": "Ma blague passait pas bien.",
+      "content": "J'ai mis: \"Bonjour,\nun demi, s'il vous plaît.\"\nMa blague passait pas bien.",
       "end": 41,
       "heatBucket": 2,
       "heatValue": 3,
-      "start": 40
+      "start": 39
     },
     {
       "content": "J'ai ajouté un smiley,\nclin d'œil, ça marchait pas.",
@@ -165,7 +151,7 @@
       "start": 42
     },
     {
-      "content": "Il était hors de questions que je mette.\nLol.",
+      "content": "Il était hors de questions que je mette \"lol\".",
       "end": 45,
       "heatBucket": 1,
       "heatValue": 2,
@@ -179,7 +165,7 @@
       "start": 45
     },
     {
-      "content": "Je l'ai enlevée.\nJ'ai remis: Hey, Kheiron m'a envoyé.",
+      "content": "Je l'ai enlevée.\nJ'ai remis: \"Hey,\". Kheiron m'a envoyé:",
       "end": 49,
       "heatBucket": 2,
       "heatValue": 3,
@@ -200,7 +186,7 @@
       "start": 51
     },
     {
-      "content": "Je me suis dit qu'un truc,\nça faisait trop faux.",
+      "content": "Je me suis dit que \"un truc\",\nça faisait trop faux.",
       "end": 54,
       "heatBucket": 3,
       "heatValue": 4,
@@ -209,19 +195,19 @@
     {
       "content": "J'ai mis: Un ciné.",
       "end": 54,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 5,
       "start": 54
     },
     {
-      "content": "Mais elle risquait de vouloir\naller au cinéma avec moi\net je n'avais pas les moyens.\nJ'ai mis: Une expo.",
+      "content": "Mais elle risquait de vouloir\naller au cinéma avec moi\net j'avais pas les moyens.\nJ'ai mis: Une expo.",
       "end": 58,
       "heatBucket": 2,
       "heatValue": 3,
       "start": 54
     },
     {
-      "content": "Mais elle risquait de me demander quelle\nexpo et je n'en connaissais aucune.",
+      "content": "Mais elle risquait de me demander quelle\nexpo et j'en connaissais aucune.",
       "end": 60,
       "heatBucket": 1,
       "heatValue": 1,
@@ -244,54 +230,54 @@
     {
       "content": "Mais je me suis rendu compte\nqu'elle pouvait comprendre\nque je l'invitais au resto.\nAlors j'ai ajouté: J'ai déjà mangé.",
       "end": 66,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 6,
       "start": 62
     },
     {
       "content": "Ça commençait à me saouler.",
       "end": 67,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 9,
       "start": 66
     },
     {
       "content": "Je me suis dit que je m'étais promis\nde ne plus mentir à une fille.",
       "end": 68,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 9,
       "start": 67
     },
     {
-      "content": "Je n'avais qu'à dire la vérité.\nJe n'ai pas dit la vérité.",
+      "content": "Je n'avais qu'à dire la vérité.\nJ'ai pas dit la vérité.",
       "end": 72,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 13,
       "start": 68
     },
     {
-      "content": "En retapant mon texto, je me suis\nrendu compte que j'avais utilisé\nune phrase interro négative\nau conditionnel avec tu voudrais pas.",
+      "content": "En retapant mon texto, je me suis\nrendu compte que j'avais utilisé\nune phrase interro négative\nau conditionnel avec \"tu voudrais pas\".",
       "end": 76,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 22,
       "start": 72
     },
     {
-      "content": "Au télémarketing, j'ai appris qu'utiliser\nune phrase interrogative au présent\naugmentait mes chances de 125%.\nJ'ai mis: Tu veux ?",
+      "content": "Au télémarketing, j'ai appris qu'utiliser\nune phrase interrogative au présent\naugmentait mes chances de 125%.\nJ'ai mis: \"Tu veux ?\"",
       "end": 81,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 44,
       "start": 76
     },
     {
       "content": "Pour donner un côté: J'en pense\nplus que je n'en dis.",
       "end": 82,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 58,
       "start": 81
     },
     {
-      "content": "J'ai voulu mettre trois,\nsix points après manger.",
+      "content": "J'ai voulu mettre trois petits points après \"manger\".",
       "end": 84,
       "heatBucket": 5,
       "heatValue": 61,
@@ -300,35 +286,35 @@
     {
       "content": "Mais je trouvais que ça\nfaisait: J'ai déjà mangé.",
       "end": 87,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 59,
       "start": 84
     },
     {
       "content": "Donc, un peu pervers.\nAlors, j'ai mis un point.",
       "end": 89,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 53,
       "start": 87
     },
     {
       "content": "Ça faisait: J'ai déjà mangé.\nDonc, un peu autoritaire.",
       "end": 90,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 53,
       "start": 89
     },
     {
       "content": "Dans le doute,\nj'ai mis deux petits points.",
       "end": 92,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 54,
       "start": 90
     },
     {
       "content": "Kheiron m'a envoyé: T'es encore\nen train de te branler ?",
       "end": 93,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 56,
       "start": 92
     },
@@ -342,28 +328,28 @@
     {
       "content": "Je l'ai envoyé.\nBref, j'ai envoyé un texto.",
       "end": 102,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 37,
       "start": 95
     },
     {
-      "content": "T'as un message ?\nC'est quoi ?",
+      "content": "— T'as un message ?\n— C'est quoi ?",
       "end": 105,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 15,
       "start": 102
     },
     {
-      "content": "C'est le mec de l'autre soir,\nil veut te revoir.",
+      "content": "— C'est le mec de l'autre soir,\nil veut te revoir.",
       "end": 109,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 25,
       "start": 106
     },
     {
-      "content": "Dis-lui OK.\nOk.",
+      "content": "— Dis-lui OK.\n— Ok.",
       "end": 113,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 31,
       "start": 110
     }

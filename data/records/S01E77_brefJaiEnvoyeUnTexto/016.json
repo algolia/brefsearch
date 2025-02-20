@@ -13,9 +13,9 @@
     "viewCount": 7559587
   },
   "line": {
-    "content": "Alors j'ai ajouté: J'ai\nun truc qui s'est annulé ce soir.",
-    "end": 17,
-    "heatBucket": 4,
+    "content": "Alors j'ai ajouté: \"J'ai\nun truc qui s'est annulé ce soir.\"\nAprès, je me suis demandé si\nc'était annulé avec deux N, annulé avec",
+    "end": 20,
+    "heatBucket": 3,
     "index": 6,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=16s"

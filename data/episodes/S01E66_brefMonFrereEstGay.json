@@ -11,56 +11,49 @@
   },
   "lines": [
     {
-      "content": "Je suis gay.",
+      "content": "— Je suis gay.",
       "end": 2,
       "heatBucket": 5,
       "heatValue": 77,
       "start": 2
     },
     {
-      "content": "Bref, comme mon frère a annoncé\nqu'il était gay, tout\nle monde a eu sa réaction.",
+      "content": "Bref, quand mon frère a annoncé\nqu'il était gay, tout\nle monde a eu sa réaction.",
       "end": 5,
       "heatBucket": 5,
       "heatValue": 79,
       "start": 2
     },
     {
-      "content": "Ma mère a dit: L'important,\nc'est qu'il soit heureux.",
+      "content": "Ma mère a dit:\n— L'important, c'est qu'il soit heureux.",
       "end": 6,
       "heatBucket": 5,
       "heatValue": 81,
       "start": 5
     },
     {
-      "content": "Mon père a dit: L'important,\nc'est qu'il soit actif.",
+      "content": "Mon père a dit:\n— L'important, c'est qu'il soit actif.",
       "end": 8,
       "heatBucket": 5,
       "heatValue": 82,
       "start": 6
     },
     {
-      "content": "Mon oncle a dit: S'il a envie\nde se prendre une bonne crampe.",
-      "end": 10,
+      "content": "Mon oncle a dit:\n— S'il a envie de se prendre une bonne\n*gros mots*\n*gros mots*",
+      "end": 11,
       "heatBucket": 5,
-      "heatValue": 83,
+      "heatValue": 81,
       "start": 8
     },
     {
-      "content": "Cromo.\nCromo.",
-      "end": 11,
-      "heatBucket": 5,
-      "heatValue": 80,
-      "start": 10
-    },
-    {
-      "content": "Franchement balai.\nGromo.",
+      "content": "— Moi, je m'n bats les *gros mots*.",
       "end": 12,
       "heatBucket": 5,
       "heatValue": 77,
       "start": 11
     },
     {
-      "content": "Ma tante s'est excusée.\nExcusez-le.",
+      "content": "Ma tante s'est excusée.\n— Excusez-le.",
       "end": 14,
       "heatBucket": 4,
       "heatValue": 68,
@@ -81,7 +74,7 @@
       "start": 15
     },
     {
-      "content": "Steve m'a dit.\nEt toi, du coup, ça t'as fait réfléchir ?",
+      "content": "Steve m'a dit.\n— Et toi, du coup, ça t'as fait réfléchir ?",
       "end": 19,
       "heatBucket": 4,
       "heatValue": 68,
@@ -90,47 +83,47 @@
     {
       "content": "Kheiron a ajouté tous\nses contacts fille sur Facebook.",
       "end": 21,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 70,
       "start": 19
     },
     {
-      "content": "Charles a dit.\nTu vois ça ?",
+      "content": "Charles a dit.\n— Tu vois ça ? Ben ça c'est un beau combat.",
       "end": 22,
       "heatBucket": 4,
       "heatValue": 69,
       "start": 21
     },
     {
-      "content": "Ça, c'est un beau combat.\nBen a dit.",
+      "content": "Ben a dit:",
       "end": 24,
       "heatBucket": 4,
       "heatValue": 64,
       "start": 22
     },
     {
-      "content": "Ah bon ?\nPourquoi ?",
+      "content": "— Ah bon ? Pourquoi ?",
       "end": 25,
       "heatBucket": 3,
       "heatValue": 59,
       "start": 24
     },
     {
-      "content": "Julien a dit.\nC'est pas de sa faute.",
+      "content": "Julien a dit:\n— C'est pas de sa faute.",
       "end": 25,
       "heatBucket": 3,
       "heatValue": 57,
       "start": 25
     },
     {
-      "content": "Maud a dit: Il se me fout.",
+      "content": "Maud a dit:\n— C'est de ma faute.",
       "end": 27,
       "heatBucket": 3,
       "heatValue": 54,
       "start": 25
     },
     {
-      "content": "Et moi, j'ai dit: Parce qu'en fait,\nje savais pas quoi en penser.",
+      "content": "Et moi, j'ai dit:\n— …\nParce qu'en fait, je savais pas quoi en penser.",
       "end": 31,
       "heatBucket": 3,
       "heatValue": 52,
@@ -144,35 +137,35 @@
       "start": 31
     },
     {
-      "content": "Salut les copains.",
+      "content": "— Salut les copains.",
       "end": 34,
-      "heatBucket": 3,
+      "heatBucket": 4,
       "heatValue": 62,
       "start": 33
     },
     {
-      "content": "La folle.\nSalut les copines.",
+      "content": "La folle.\n— Salut les copines.",
       "end": 35,
       "heatBucket": 4,
       "heatValue": 64,
       "start": 34
     },
     {
-      "content": "Et le parano.\nC'est parce que je suis gay, c'est ça ?",
+      "content": "Et le parano.\n— C'est parce que je suis gay, c'est ça ?",
       "end": 37,
       "heatBucket": 3,
       "heatValue": 61,
       "start": 35
     },
     {
-      "content": "Non, votre voiture est vraiment\nsur mon pied, monsieur.",
+      "content": "— Non, votre voiture est vraiment\nsur mon pied, monsieur.",
       "end": 40,
       "heatBucket": 3,
       "heatValue": 48,
       "start": 37
     },
     {
-      "content": "Mais comme mon frère a compris qu'il était\ngay, moi, j'ai compris que j'étais con.",
+      "content": "Mais quand mon frère a compris qu'il était\ngay, moi, j'ai compris que j'étais con.",
       "end": 45,
       "heatBucket": 2,
       "heatValue": 22,
@@ -186,77 +179,70 @@
       "start": 45
     },
     {
-      "content": "C'est toi qui...\nOu tu te...",
+      "content": "— C'est toi qui... Ou tu te...",
       "end": 49,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 46
     },
     {
-      "content": "Non, ne me dis pas.",
+      "content": "— Non, dis pas.",
       "end": 50,
       "heatBucket": 1,
       "heatValue": 12,
       "start": 49
     },
     {
-      "content": "Si, enfin...\nNon, tu sais quoi ?",
+      "content": "— Si, enfin... Non, tu sais quoi ? Oublie.",
       "end": 52,
       "heatBucket": 1,
       "heatValue": 12,
       "start": 51
     },
     {
-      "content": "Oublie.",
-      "end": 53,
-      "heatBucket": 1,
-      "heatValue": 12,
-      "start": 52
-    },
-    {
-      "content": "Du coup, je l'ai observé pour savoir quoi\nen penser et j'ai remarqué qu'il toussait\nquand il mangeait du tiramisou à cause du\nchocolat en poudre, qui m'avait envoyé un",
+      "content": "Du coup, je l'ai observé pour savoir quoi\nen penser et j'ai remarqué qu'il toussait\nquand il mangeait du tiramisu à cause du\nchocolat en poudre, qu'il m'avait envoyé un",
       "end": 59,
       "heatBucket": 2,
       "heatValue": 16,
       "start": 54
     },
     {
-      "content": "second mail avec qui est à l'intérieur.\nAvec la pièce jointe, c'est Mews.",
+      "content": "second mail avec marqué à l'intérieur\n\"Avec la pièce jointe, c'est mieux\".",
       "end": 61,
       "heatBucket": 2,
       "heatValue": 19,
       "start": 59
     },
     {
-      "content": "Il avait 15 Seb et 11 Nico,\nsans nom de famille dans son répertoire.",
+      "content": "Qu'il avait 15 Seb et 11 Nico\nsans nom de famille dans son répertoire.",
       "end": 63,
       "heatBucket": 2,
       "heatValue": 17,
       "start": 61
     },
     {
-      "content": "Nico, c'était pour savoir tu es qui, Nico.",
+      "content": "— Ouais Nico c'est pour savoir, t'es quel Nico?",
       "end": 65,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 63
     },
     {
-      "content": "C'est Seb.\nCool.",
+      "content": "— Ah, c'est Seb. Cool.",
       "end": 66,
       "heatBucket": 1,
       "heatValue": 10,
       "start": 65
     },
     {
-      "content": "On se voit ce soir ?",
+      "content": "— On se voit ce soir ?",
       "end": 68,
       "heatBucket": 1,
       "heatValue": 10,
       "start": 67
     },
     {
-      "content": "Il m'avait déjà dit\nqu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler.\nOuais, j'en ai déjà entendu parler.",
+      "content": "Il m'avait déjà dit\nqu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler.\n— Ouais, j'en ai déjà entendu parler.",
       "end": 71,
       "heatBucket": 1,
       "heatValue": 10,
@@ -284,7 +270,7 @@
       "start": 76
     },
     {
-      "content": "Désolé, parfois, je conduis\nvraiment comme un noir..",
+      "content": "— Ah désolé, parfois, je conduis\nvraiment comme un noir.",
       "end": 83,
       "heatBucket": 2,
       "heatValue": 24,

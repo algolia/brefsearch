@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "— Pourquoi tu crois qu'elle t'a invité ?\n— Pour que tu sois heureux ?",
+    "end": 92,
+    "heatBucket": 5,
+    "index": 33,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=90s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/090.mp4",
+    "hash": "511853da6e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nBXLS2sTURgA0Evnvr/7nvuYSWbSSZppWlNboxKrFloINivFfXFVBAXBVUFQBEHwb0vP/qAP+08pjF5bkOZiNjzsd/v1WnDltNNgz4fVulsEsI3xQSrHJbq/+xZ9D0JlX4rPX2+u3q5W3kYlLWfwYjy/mI1Jh6CMZrKWGv34/qvUE0ahy32pm+0wfzYctbFlFB7D8mw7nE5dqpWplS3aob8//5W6E0wKDhUWVnnBFEKkOiCMymXulmnqpPVgeh87V6PfD3+iK055Jc1Z9reLcjNL2z6eNq3ToQu5sVEJ7cBGHYoJ6PPdlxROmjifxG7T5nfzyeU0vunToo4abLaxddGDS6Y2YEFo9H73cTVsnGkFB0o4ofIAC4QIIfK4P37Sdq1LQYVoowEjGKBXT19fPb9uUo8rTjETTDLKSUUphd3m+vLwMNnUhiaaoIV+DC+nQ59nziSCOa4oo4JgRjDDmJ9045hKcSnbaISRDASV/wFXyioDQqIs4gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/090.png",
+    "width": 1920
+  }
+}

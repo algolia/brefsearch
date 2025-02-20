@@ -11,14 +11,14 @@
   },
   "lines": [
     {
-      "content": "Il perd de l'ose.",
+      "content": "— Une paire de eins de malade mental.",
       "end": 2,
       "heatBucket": 5,
       "heatValue": 71,
       "start": 0
     },
     {
-      "content": "Donne mal à de mal à de mal.\nBref, lui, c'est Charles.",
+      "content": "Bref, lui, c'est Charles.",
       "end": 3,
       "heatBucket": 5,
       "heatValue": 65,
@@ -39,7 +39,7 @@
       "start": 7
     },
     {
-      "content": "Oui, j'ai un peu la chasse,\nmais c'est bien, ça me purge.",
+      "content": "— Oui, oui j'ai un peu la chiasse,\nmais bon c'est bien, ça me purge.",
       "end": 13,
       "heatBucket": 4,
       "heatValue": 38,
@@ -62,7 +62,7 @@
     {
       "content": "On s'est envoyé des textos pour parler\nde gens qui étaient juste à côté de nous.",
       "end": 20,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 62,
       "start": 17
     },
@@ -74,14 +74,14 @@
       "start": 20
     },
     {
-      "content": "Quand j'oubliais mon portable,\nil twitte à ma place et on a pissé\nd'un balcon, mais on était bourré.\nPardon madame.",
+      "content": "Quand j'oubliais mon portable,\nil twitte à ma place et on a pissé\nd'un balcon, mais on était bourré.\n— Pardon madame.",
       "end": 27,
       "heatBucket": 4,
       "heatValue": 39,
       "start": 22
     },
     {
-      "content": "Pardon.\nC'est pas contre vous.",
+      "content": "— Pardon. C'est pas contre vous.",
       "end": 30,
       "heatBucket": 2,
       "heatValue": 16,
@@ -102,49 +102,35 @@
       "start": 34
     },
     {
-      "content": "Tu ne sais donc pas que\nce n'est pas bien d'être raciste.",
+      "content": "— Tu sais donc pas que c'est pas bien d'être raciste ?\n— Nom de Zeus, Marty !",
       "end": 36,
       "heatBucket": 1,
       "heatValue": 14,
       "start": 35
     },
     {
-      "content": "Si tu vomis, vomis là-dedans.",
+      "content": "— Si tu vomis, vomis là-dedans.",
       "end": 39,
       "heatBucket": 2,
       "heatValue": 16,
       "start": 36
     },
     {
-      "content": "Netsu kaw !",
-      "end": 40,
+      "content": "— Netsuko\n— Netsuko\nLe lendemain, c'était un ami.",
+      "end": 43,
       "heatBucket": 3,
-      "heatValue": 20,
+      "heatValue": 19,
       "start": 39
     },
     {
-      "content": "Netsu kaw !",
-      "end": 41,
-      "heatBucket": 3,
-      "heatValue": 20,
-      "start": 40
-    },
-    {
-      "content": "Le lendemain, c'était un ami.",
-      "end": 43,
-      "heatBucket": 3,
-      "heatValue": 20,
-      "start": 41
-    },
-    {
-      "content": "On s'est et je t'aime\ncomme des vrais mecs.",
+      "content": "On s'est dit \"Je t'aime\"\ncomme des vrais mecs.",
       "end": 46,
       "heatBucket": 3,
       "heatValue": 19,
       "start": 43
     },
     {
-      "content": "Bâtard, va !\nSalent de cuir.",
+      "content": "— Bâtard, va !\n— Sale enculé.",
       "end": 47,
       "heatBucket": 2,
       "heatValue": 17,
@@ -158,7 +144,7 @@
       "start": 47
     },
     {
-      "content": "Elles sont tellement bien que des fois,\nje les utilise tout seuls.",
+      "content": "— Elles sont tellement bien que des fois,\nje les utilise tout seuls.",
       "end": 50,
       "heatBucket": 2,
       "heatValue": 15,
@@ -172,7 +158,7 @@
       "start": 50
     },
     {
-      "content": "Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
+      "content": "— Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
       "end": 55,
       "heatBucket": 1,
       "heatValue": 13,
@@ -186,7 +172,7 @@
       "start": 55
     },
     {
-      "content": "Capitaine, capitaine,\nvous n'êtes pas le capitaine.",
+      "content": "— Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
       "end": 59,
       "heatBucket": 1,
       "heatValue": 14,
@@ -200,63 +186,56 @@
       "start": 59
     },
     {
-      "content": "Je vais chez la meuf, je sonne\nune fois, deux fois, trois fois.",
+      "content": "— Je vais chez la meuf, je sonne\nune fois, deux fois, trois fois.",
       "end": 66,
       "heatBucket": 1,
       "heatValue": 10,
       "start": 63
     },
     {
-      "content": "Elle me fait: C'est qui ?\nJe fais: C'est Charles.",
+      "content": "— Elle me fait: C'est qui ?\nJe fais: C'est Charles.",
       "end": 69,
       "heatBucket": 1,
       "heatValue": 9,
       "start": 67
     },
     {
-      "content": "Attends, elle me reconnaît pas.",
+      "content": "— Attends, elle me reconnaît pas.",
       "end": 71,
       "heatBucket": 1,
       "heatValue": 8,
       "start": 69
     },
     {
-      "content": "La meuf, ça fait 15 fois que je la vois.",
+      "content": "— La meuf, ça fait 15 fois que je la vois.",
       "end": 73,
       "heatBucket": 1,
       "heatValue": 7,
       "start": 71
     },
     {
-      "content": "Je dis: Vas-y, rentre.",
-      "end": 75,
-      "heatBucket": 1,
-      "heatValue": 7,
-      "start": 73
-    },
-    {
-      "content": "Ok, je rentre.",
+      "content": "— Elle me dit, \"Vas-y, rentre.\"\n— Ok, je rentre.",
       "end": 77,
       "heatBucket": 1,
       "heatValue": 6,
-      "start": 75
+      "start": 73
     },
     {
-      "content": "Il y en a là, sur qui il fonde.\nIl me fonde le mec.",
+      "content": "— Et là, sur qui je tombe ? Son mec.",
       "end": 79,
       "heatBucket": 1,
       "heatValue": 7,
       "start": 77
     },
     {
-      "content": "Le mec, il m'a regardé.",
+      "content": "— Le mec, il m'a regardé.",
       "end": 80,
       "heatBucket": 1,
       "heatValue": 8,
       "start": 79
     },
     {
-      "content": "Il m'a regardé.\nBref.",
+      "content": "— Je l'ai regardé. Il m'a regardé. Enfin bref.",
       "end": 82,
       "heatBucket": 1,
       "heatValue": 9,
@@ -277,7 +256,7 @@
       "start": 83
     },
     {
-      "content": "Capitaine, capitaine,\nvous êtes pas la capitaine.",
+      "content": "— Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
       "end": 88,
       "heatBucket": 1,
       "heatValue": 12,
@@ -298,14 +277,14 @@
       "start": 90
     },
     {
-      "content": "Et puis un jour, il m'a appelé\net il m'a dit: On peut se voir là ?",
+      "content": "Et puis un jour, il m'a appelé\net il m'a dit:\n— On peut se voir là ?",
       "end": 95,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 18,
       "start": 92
     },
     {
-      "content": "Je n'ai pas trop le moral en ce moment.",
+      "content": "— J'ai pas trop le moral en ce moment.",
       "end": 97,
       "heatBucket": 3,
       "heatValue": 20,
@@ -319,46 +298,39 @@
       "start": 97
     },
     {
-      "content": "Non, je n'ai pas le temps, mon pote.\nAh bon ?",
+      "content": "— Ouais nan j'ai pas le temps, mon pote.\n— Ah bon ?",
       "end": 101,
       "heatBucket": 3,
       "heatValue": 29,
       "start": 98
     },
     {
-      "content": "Ouais, désolé.",
+      "content": "— Ouais, désolé. Salut.",
       "end": 104,
       "heatBucket": 4,
       "heatValue": 35,
       "start": 101
     },
     {
-      "content": "Salut.\nBref, j'ai juste un pote.",
+      "content": "Bref, j'ai juste un pote.",
       "end": 109,
       "heatBucket": 3,
       "heatValue": 27,
       "start": 106
     },
     {
-      "content": "Capitaine, capitaine,\nn'êtes-ce pas le capitaine ?",
+      "content": "— Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
       "end": 113,
       "heatBucket": 3,
       "heatValue": 22,
       "start": 109
     },
     {
-      "content": "Ça te fait rire, ça ?",
+      "content": "— Ça te fait rire, ça ?",
       "end": 115,
       "heatBucket": 3,
       "heatValue": 19,
       "start": 114
-    },
-    {
-      "content": "Ouais..",
-      "end": 118,
-      "heatBucket": 1,
-      "heatValue": 14,
-      "start": 116
     }
   ],
   "video": {
