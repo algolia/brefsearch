@@ -13,7 +13,7 @@ import config from '../config.js';
     searchableAttributes: ['unordered(line.content)', 'episode.name'],
     // By default, sort chronologically
     customRanking: [
-      'desc(episode.season)',
+      'asc(episode.season)',
       'asc(episode.index)',
       'asc(line.index)',
     ],
@@ -30,7 +30,7 @@ import config from '../config.js';
       // Alternatively, search by popularity
       popularity: {
         customRanking: [
-          'desc(episode.season)',
+          'asc(episode.season)',
           'desc(episode.viewCount)',
           'desc(line.heatBucket)',
           'desc(line.index)',

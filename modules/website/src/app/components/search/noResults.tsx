@@ -1,6 +1,6 @@
 const NoResults = () => {
   return (
-    <div className="text-center p-4 text-gray-600 dark:text-gray-400">
+    <div className="text-center text-lg p-4 text-gray-600 dark:text-gray-400">
       <h2>Bref. J&apos;ai rien trouvé.</h2>
       <p>
         Mais peut-être que c&apos;est dans 
