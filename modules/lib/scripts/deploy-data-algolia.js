@@ -19,8 +19,9 @@ import config from '../config.js';
       'episode.index',
       'episode.videoId',
     ],
-    attributeForDistinct: 'episode.videoId',
     distinct: true,
+    attributeForDistinct: 'episode.videoId',
+    attributesToSnippet: ['line.content:15'],
     replicas: {
       // Alternatively, search by popularity
       popularity: {

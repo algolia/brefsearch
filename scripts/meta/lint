@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 set -e
 
-cd ./lib
-aberlaas test "$@"
+yarn run aberlaas lint "$@"

@@ -25,16 +25,14 @@
     "update-episode-thumbnails": "node ./modules/lib/scripts/update-episode-thumbnails.js",
     "update-episode-animated": "node ./modules/lib/scripts/update-episode-animated.js",
     "update-episode-records": "node ./modules/lib/scripts/update-episode-records.js",
+    "deploy-data-assets": "./scripts/deploy-data-assets",
     "deploy-data-algolia": "node ./modules/lib/scripts/deploy-data-algolia.js",
-    "deploy-data-assets": "./scripts/deploy",
     "update-and-deploy": "./scripts/update-and-deploy",
-    "ci": "./scripts/ci",
-    "compress": "./scripts/compress",
-    "lint": "./scripts/lint",
-    "lint:fix": "./scripts/lint-fix",
-    "test": "./scripts/test",
-    "test:watch": "./scripts/test-watch",
-    "dev": "cd ./modules/website && yarn run dev"
+    "dev": "cd ./modules/website && yarn run dev",
+    "lint": "./scripts/meta/lint",
+    "lint:fix": "./scripts/meta/lint-fix",
+    "test": "./scripts/meta/test",
+    "test:watch": "./scripts/meta/test-watch"
   },
   "dependencies": {
     "classnames": "2.5.1",
