@@ -3,11 +3,36 @@
 import cx from 'classnames';
 import { searchClient } from '@/app/utils/algolia';
 import { Configure, Index, InstantSearch } from 'react-instantsearch';
+import { singleIndex } from 'instantsearch.js/es/lib/stateMappings';
 import CustomHits from './hits';
 import { useEffect, useRef, useState } from 'react';
+import { useRouter } from 'next/navigation';
 import { BrefHit } from '@/app/types';
 import Sidebar from '../sidebar';
 import Hero from '../hero';
+import { UiState, IndexUiState, StateMapping } from 'instantsearch.js';
+
+import { history } from 'instantsearch.js/es/lib/routers';
+// Removed import for StateMapping as it is not exported from the module
+
+const stateMapping: StateMapping = {
+  stateToRoute(uiState: UiState) {
+    return {
+      [process.env.NEXT_PUBLIC_ALG_INDEX_NAME!]: {
+        query: uiState[process.env.NEXT_PUBLIC_ALG_INDEX_NAME!]?.query || '',
+      },
+      video: uiState.video || '',
+    };
+  },
+  routeToState(routeState: UiState) {
+    return {
+      [process.env.NEXT_PUBLIC_ALG_INDEX_NAME!]: {
+        query: routeState[process.env.NEXT_PUBLIC_ALG_INDEX_NAME!]?.query || '',
+      },
+      video: routeState.video || '',
+    };
+  },
+};
 
 const RenderHits = ({
   selectedVideo,
@@ -21,6 +46,7 @@ const RenderHits = ({
   const [currentIndexName, setCurrentIndexName] = useState<string>(
     process.env.NEXT_PUBLIC_ALG_INDEX_NAME!,
   );
+
   useEffect(() => {
     if (query !== '') {
       setCurrentIndexName(
@@ -65,6 +91,16 @@ const Search = () => {
   const [selectedVideo, setSelectedVideo] = useState<BrefHit | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const [query, setQuery] = useState('');
+  const router = useRouter();
+
+  // Sync selectedVideo with URL
+  useEffect(() => {
+    if (selectedVideo) {
+      router.push(`?video=${selectedVideo.objectID}`, { scroll: false });
+    } else {
+      router.push(`?`, { scroll: false });
+    }
+  }, [selectedVideo, router]);
 
   useEffect(() => {
     if (!selectedVideo) {
@@ -73,8 +109,15 @@ const Search = () => {
   }, [selectedVideo]);
 
   return (
-    <div className="grid px-8">
-      <InstantSearch searchClient={searchClient}>
+    <div className="grid px-4 md:px-8">
+      <InstantSearch
+        searchClient={searchClient}
+        indexName={process.env.NEXT_PUBLIC_ALG_INDEX_NAME!}
+        routing={{
+          router: history(),
+          stateMapping,
+        }}
+      >
         <Configure hitsPerPage={18} />
         <Hero inputRef={inputRef} setCustomQuery={setQuery} query={query} />
         <RenderHits

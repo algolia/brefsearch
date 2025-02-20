@@ -1,3 +1,9 @@
+/**
+ *
+ * @param url
+ * @param start
+ * @returns {string}
+ */
 export const youtubeGivenTimeUrl = (url: string, start: number) => {
   const newstart = start;
 
@@ -5,6 +11,24 @@ export const youtubeGivenTimeUrl = (url: string, start: number) => {
     url.replace('watch?v=', 'embed/').split('&t=')[0] +
     `?&autoplay=1&start=${newstart}`
   );
+};
+
+/**
+ *
+ * @param name
+ * @returns {string}
+ */
+export const slugifyCategory = (name: string): string => {
+  return name.split(' ').map(encodeURIComponent).join('-');
+};
+
+/**
+ *
+ * @param slug
+ * @returns {string}
+ */
+export const deslugifyCategory = (slug: string): string => {
+  return slug.split('-').map(decodeURIComponent).join(' ');
 };
 
 /**
@@ -21,4 +45,3 @@ export function formatSubtitle(rawSubtitle: string) {
     .replace(/ …/g, '…')
     .trim();
 }
-
