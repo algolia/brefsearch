@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 415,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "isAgeRestricted": false,
+    "likeCount": 80337,
+    "name": "Bref. C'est la merde.",
+    "season": 1,
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc",
+    "viewCount": 6082963
+  },
+  "line": {
+    "content": "C'était plus comme avant.\nC'était la merde.",
+    "end": 36,
+    "heatBucket": 1,
+    "index": 14,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=35s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E69_brefCestLaMerde/035.mp4",
+    "hash": "63850c2605",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCGhYmEgoaQjY6mpKh2b2tLPzdaSURhVFFoXlxpXltuZWSCgIV3eH12d3twcXRoaW0AkpCSkZCTm5iZtrS4c21sRTUxf2Fae2ReaF9cbGJgcWhmgoCDe3yAZ2hvaWltb25vAIt/eJ2cn6CeoLq5vX51dVdEQHRbV3tkYG9jYWxiYHBmZHdzdHhyc1hPS2JeXXReOQCLfnegn6KjoKK5ub2GfHxvVlB5W1aGbWh0aGZpX15uY2FuZmRvZ2eJaT5vVThuUSQAfGxmn56ioqCjxMTIj4iHUUA7Vj88cFtWcGZjbGJga2Ffa2JhZl9edWBSeGFQf2A1AIRrYqKeoaakp5KRlT47PlhJRltMSV5RT0M+QGVcW2xhX2pgX2hhYmJUUGVeX0hAQQB3VEirpKVOTlMIBgsBAAUjHSJKPj8qJSgNDBMdGyFVTk5tY2BkXFxLR0tSTk4+ODQAf29qhoSHCwsRDgwTGhohExUdDhAZDw8WGBcdDQ0UKygta2FfV01JTkNEW0c3dlQnAIBdT1ZOUQAABhgYHjc7RjE2QS0zQTAyOzw/SSYmLRQUGVRMS1hKREw7NEs+O1BAOdu2nqwx4RuNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E69_brefCestLaMerde/035.png",
+    "width": 1920
+  }
+}

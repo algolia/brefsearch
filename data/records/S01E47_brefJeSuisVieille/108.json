@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 3400,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 47,
+    "isAgeRestricted": false,
+    "likeCount": 195186,
+    "name": "Bref. Je suis vieille.",
+    "season": 1,
+    "slug": "brefJeSuisVieille",
+    "videoId": "5pr4Q09-16k",
+    "viewCount": 8192406
+  },
+  "line": {
+    "content": "— Il ne fait pas très beau aujourd'hui, hein ?\n— Ouais.",
+    "end": 111,
+    "heatBucket": 1,
+    "index": 42,
+    "start": 108,
+    "url": "https://www.youtube.com/watch?v=5pr4Q09-16k&t=108s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E47_brefJeSuisVieille/108.mp4",
+    "hash": "4016eb4b39",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwdlymlAAAFB+oS/NNG1HmxgBg4gii3rZL8sF2S6LuKCSTKIh0840yVOny/QD+s89h8iLrMixaajREq3KDOPED33LsQxoQcc2IIzjMEpC13c9DwIdEI6r20h3fDMInT/Px8dj5WfBfduW+zVKnaqO/p7rKNDiDUzXFio1QrUF3ZN8bJZ1+vup/n7eBZX/7+fbr5cHF4Oqyds1fmzqqE5hJK7ubaJHdvpkh5fZNA4OuroNfWCo+xK3pxMP5oqbOMVDuH3WlxuK64nqkOgxNGcZwLN1Zba7JtFMVAwTOKmL91661ZcVWn+1cGPEOyVOKJ4hulRvnucgjpoSv5r6ZukxY34yh6OFx4oqr3r79sfx9OoUdyBJvwxp4rp/NRAmApBemuztkH2rY5KieQWNgStpXrg7Z8UGI4RWdxpC1GRI3I5ZAdqGrWM4nQ46K1cU5IXmJpodzRQ7rg43nPDu46eRrMEIS6ZBCGx/zNzIHOnIA4m5skSaHrDiwpzw88v3H5gRz07lbufylp+x3Kj7+eI/rMJ1S/a81IEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E47_brefJeSuisVieille/108.png",
+    "width": 1920
+  }
+}

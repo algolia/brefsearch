@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 557,
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "isAgeRestricted": false,
+    "likeCount": 81978,
+    "name": "Bref. J'ai pas réussi à dormir.",
+    "season": 1,
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM",
+    "viewCount": 4963838
+  },
+  "line": {
+    "content": "J'ai passé la soirée sur Facebook à\nregarder des trucs qui servaient à rien.",
+    "end": 13,
+    "heatBucket": 5,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=10s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E30_brefJaiPasReussiADormir/010.mp4",
+    "hash": "80717fb827",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCTiHqFe2qGn8J+psVlfZZ3dXqgkn3DuKKnn46mnYuxpIqVhms3MS88LzEpIy16Tz8AbmJShnRik6fDQEVOFgwJHRQUWkU6tKeP1NG90s26zMu1o5yDWkdAWkVBNTRIalBSAD0zKqyfjHpxaREHBRMPEC4gHZpvXa+bhM7KudDLuMGhjLmVgltFQG9HNUQ2PGZSWABLPTOok4NCNi8LBQYaERFxTkKtf265hm3QyLTW2c2/i3utRy1oGBA0IyRPOzpGMDEAvayitaaUIxoXCAUIVzkvm2VTr31qv6KW1cbB2r+x2rmOq3lAaC4iMjI5GR4yNjxPAMnEuJaNghkPDQgFBy8fHGA/N1tANKp6ScWNS8ORV8eYX7SfY4qDcj05PTMoJmlcVgCxqpphVUwRBwctHDArHCg6JSpSM0axg0zJizC+kFDFqk/KtlHTwIN+c3ReUUt2amQAopqLW1FFHQ4cakR6ckuIOic+SCxMkGhYpH5Oong/0aZFxIk3v6V/waqbemVcgmphAIqCdl9XSz4kRW9MdnhYfHhQj21KiX9Xao9fRH5YPr2QRMeJTMyvhoRtaFpLRFdJS8fvtFVPl/gyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E30_brefJaiPasReussiADormir/010.png",
+    "width": 1920
+  }
+}

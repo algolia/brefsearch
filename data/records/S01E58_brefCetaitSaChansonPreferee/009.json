@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 526,
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "isAgeRestricted": false,
+    "likeCount": 81033,
+    "name": "Bref. C'était sa chanson préférée.",
+    "season": 1,
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI",
+    "viewCount": 6245023
+  },
+  "line": {
+    "content": "— C'est la vidéo où Fanny et Nadia étaient\nbourrées et où elles ont fait des trucs.",
+    "end": 14,
+    "heatBucket": 5,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=9s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E58_brefCetaitSaChansonPreferee/009.mp4",
+    "hash": "0288c43e77",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwV1XmmAAAGD62DlqbWrqCl1aEchSESRUwBcELES+1ClonVxqH9rpnVvt7K7a2cW62MV2drWzX9vzIMuroaWV0EogvLq20Tg2PxhNhqKrPMi/L0gsU2fyaGIr9Dq2vh4Vq/ziE0SWX61tRmLbm2gwuiUI4GrgcSVOFOSGXIe+AztHFWI3Eo4HgmEqV3h4ekSCgTcygTG7mY2371qqctZ1aYpWFa3v2DddY+5q9Ry+gyYj0XjHsX/9+YukYgk9l62SOImTs0EHVCrxBOr7p98gvPdtOZ8t41idpY8zqcfLye9//xEyiVpssUbl6uXDSc/lSqxhul8WX+9m88sG4LFMs5Q/MZSxKv38DH88PyOgQFaz+3g6ox0Wr/uuAuSBN4S3d/AGTnVFp0idORD2t9UicT70H56+I0dsgdrbIdJpvcJYkiCJAhDE8WhyC+/n04trRztv1noK79lWy3BGHydIU6rtJVEilQTFPEszHMtVypwhidPJ1Wy+GJ+ejXzP6/m9/olttU3TRTRNV1W9JgCtBmgCJzGMpmieOujY7cFw1Ol6ptlutRzLarcMy7LaL0mJayZZRUYBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E58_brefCetaitSaChansonPreferee/009.png",
+    "width": 1920
+  }
+}

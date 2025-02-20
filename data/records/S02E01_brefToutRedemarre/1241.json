@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Il avait besoin de s'asseoir 30 secondes.",
+    "end": 1244,
+    "heatBucket": 5,
+    "index": 394,
+    "start": 1241,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1241s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1241.mp4",
+    "hash": "4e095cc796",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nB3NXWvTUACA4aDN+c45Jzn5bD6aJk3SOJaupu3ameG82QaKOGZBmDhQhF04wVIQQd2VV/4G8cor/6RUeC7eu1eDes/m2CCIIcAgoBBQBHaNIEM6RQBDiCHAEABdv3e/p3kct4WfBipxxMDm8X8DR1S+fDVPTvf7icMDJTyLC4NhTDRO0KwMRqGd+XLki9wTI08UfdGm3suj6bPFpA6D2JGuyQVjhBDNEeSwDovYqyPVxGYT7bRDa54Fh/V03XWTMJAGsZWglOwOviSrvSiPvHGklrnZ5XKRyrM9u8vVgyS7XK22b04ftVnlEss0ECHafswX43AYOqUnlwmfx0YZGF0ub86r9fnx7Yf3f39/+/Pr+/pxYzNIDarNM9lW/chVlWOcVFbjkqlHZxF/92J2dXXx88en15vb51/uvn6+8QXmjGrtUBwUfuiqTLLEJJWJr2vrLDWfHLXd8cnTj9vx5i59u7nebppiIBjTHA4UxxQjAnSi9yTspRwGDKauSuIYHyzxZMHHTTJ5WJYFwegfWG86aqKZFAEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1241.png",
+    "width": 1280
+  }
+}

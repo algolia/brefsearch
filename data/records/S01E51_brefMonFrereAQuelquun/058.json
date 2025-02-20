@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 472,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "isAgeRestricted": false,
+    "likeCount": 95130,
+    "name": "Bref. Mon frère a quelqu'un.",
+    "season": 1,
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY",
+    "viewCount": 7361073
+  },
+  "line": {
+    "content": "Mon frère était là et dans 15 minutes,\nMaud allait arriver par hasard.",
+    "end": 61,
+    "heatBucket": 1,
+    "index": 27,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=58s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E51_brefMonFrereAQuelquun/058.mp4",
+    "hash": "7d7314025a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBqWVVtV1FUQTx0XVqAX1p8U0yoh4Cbf4BQIClBEBqAXGLf09TYy83d09bUyszUyswAeWdjb1xZWUZCkoN/W1BPSjItwbCrsJCSVh0pWiguck5Jn5KT/fHz+fDy5dzez8TGAH5zdkc5NzssKnBYWW5OSGE/NG1gXmRQUjUVG0orK3dQRGdRTaidn5KIiaCWmN3S1ABANjkYFBUyJCdzSlJIJygzHyATCgwaFRclJioxKSw3KCc4KywoISoAAAAqJyeyo6MAEQ4OEhARVDk+fVBYOyElNRwfZjAuMSQnMDI5LCoxISIpPTpCfWNhSDk1CAgKKyIiABARFBYTFC0jJkkyNV08O0QWFoRCPyUSEwoNEgsJDCEgJR0fJXlOQ2JKQikrMy0sMgAJCQ0FBgcNDhAJDA1LMy1rNzNHFRcoDxECCAwCAgYMDhMCAwYCAgMKDBEODxQNDREACAgKGhUTTT45S0JFVkRAcFRKUkM6XSkjWC0mUkU8T0E8RDgzQTMtOi8tSUBAKyYlAAoJCF1HPYFxcoN2gHtyf3hsc5d8cHs7Nmw6NIVpWnBWTXVgW2lTTHhgV3ViXIp3dF4Kf3gOszEWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E51_brefMonFrereAQuelquun/058.png",
+    "width": 1920
+  }
+}

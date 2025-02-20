@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Comment pourrais-je vivre encore\nsans toi à mes côtés ?",
+    "end": 1254,
+    "heatBucket": 5,
+    "index": 397,
+    "start": 1250,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1250s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1250.mp4",
+    "hash": "e495e8b88e",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgklEQVR4nAXBPW/TQBgA4FPu670734d9d44dx7hxkzqJHZrSRiLtUEr4EB060BYJIXVhYEAsLB0Y+Cn8VZ4HAcYcYwCRp8poJRh3lJQGKidyC1YxzAhmJGjghCxyiXLgKfDos4tuMm+KmOhjCYeZ/dqHtZdjLZqoopOz3IREfD6LqFLcchZTe9qGSbReyrmCl9P06bz68WE9VOY0h8bwV41tvLodPGqcMJw6Y/qj2E7zYVZcLsLToXv+cv7v793z4+bX++nPdy8ez7KTQn/qPRonkFBaerM7yV935X5ZXg/Fw3bysK1/3/Xfb45v+vB27W83fjM1V0cGOcEB02WpD328at0wTu435b4N9xf1n4+zN62TlMaEX6/8tjZdUEhQxjENWqwrW2eys3JZZHVw37bFbpEv6swCCwr283RVyMZJlAILwCoNy6gqK6LgI8KDkrnVCHMLfKLFKk12U3fZlV1IkKbYAU6BWI45wZJgSggaYTTCBBNOsOHEMuIFW7d1ncr/qOIsG/V5bXcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1250.png",
+    "width": 1280
+  }
+}

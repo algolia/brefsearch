@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je me suis dit que ça allait aller,\nque de toute façon, on vivait ensemble.",
+    "end": 221,
+    "heatBucket": 5,
+    "index": 61,
+    "start": 208,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=208s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/208.mp4",
+    "hash": "4a27f9d7df",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACUgFC0nGDMsGzkyHT42IDgxHiolFzgxHkI6Izs0Hz02IDcwHUE3ITsyHTYvGy8oGABbTjBoWjd4aD6KekmOfUuOfk2bi1Z+ckiNf0+Rg1KBc0mUg1GXhlCOe0qDckR3ZjwAV0stZFY0cmQ8iHpLiXtNi35PhnpNi39RhXlOjYBSkYRVgnVMjH9Pi3tMh3ZHc2U8AFtOMG5gOXttQ41/T4+CUop+UXRqR35yTIp+VIl9U5uOXZCDVZiKV4R2TIR2SnNmQABnWTV5akCKe0ubjViEeU+ll2OwomuNgVanmWa3qW+dkF+dj12ekF2LflF2akZoXkAAbV85fG5CiHpLnpBbm45bhHlTkIRYnZBgopVjoZRjopRih3xSb2ZGeG5MeG5MfHBKAFVLLkE7J3NoQo6CVpGGWqKUYot/Vo2DWJqNXqeaZqudaJ6RX5eKXpaKW5aHVYp7TABjVzZvYz2LfE2fkFyklmGwoWi6qm6ZjFypm2W5qm+zpGuyo2qsnWall2Chk2GOgFEAJiEVMCsbPzgiR0AnS0QqTEUsTUYtUUkvUUovT0guTkguTUYtSkMqR0ApTUg2PTYjOkOqH/ZV3g8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/208.png",
+    "width": 1280
+  }
+}

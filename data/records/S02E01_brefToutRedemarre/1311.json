@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je suis comme ça, je ne\nsais pas faire de choix.",
+    "end": 1313,
+    "heatBucket": 5,
+    "index": 417,
+    "start": 1311,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1311s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1311.mp4",
+    "hash": "a2b394dc0a",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGOQEWCRF2JVFmVVl2DVkmJTk2CXF2bTluEyUeIwUeIEkYocBvLs2tJsauKsCsKsDG5aXP6GXOFm3Am2fCkOgnZ6UvJCPH7Gog2h4nWh0vWhktVB4sXeIhnOgjFWvP763Az+hlwRFjwJ9gLZ7qI5HiK2etIiXOwWqiINUWoNkbLNMYoNkXIVQVJ5niJJ9vwhJtwMkVa8qU6C+V6iNWEyxb5SjrK8dopieX62Z3fNWNMe0pmg2Jmo3BglVxkkkesuGGfDzZDsJJDnJVIZLNUUJZ9tLREsw5Ppadae6HtkdfeH6xs2tIZ2JSm3xsrXhkoW+winOvIwZLkLF/uLNUTJpVtJhSgKxGqI+MnxZ1uoLa2K3zep+GhX9pw886Zo6dpQiRJfoWxXXoYsd5HiAPFyX3l/ZaEIdfFIdTFPOV5PGb7eMKv5qS519iq9kTp1EZKVQaIFXgJpLoIMBd7CVcHipU4Kfgr8cdrSZc5Sodrc0ZrikwJNdjWG9SUrt0aKt0aJ1gSLFAaoRNnJMhgqspupcBlJ8yrxsarys1oocsnyMOuK8VnJiYZYaboZCdlpcVmrc5gqc5nrKClKCAIA81Zqsp8y1dYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1311.png",
+    "width": 1280
+  }
+}

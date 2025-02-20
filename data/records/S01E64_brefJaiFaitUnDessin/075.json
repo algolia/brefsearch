@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 468,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "isAgeRestricted": false,
+    "likeCount": 87383,
+    "name": "Bref. J'ai fait un dessin.",
+    "season": 1,
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY",
+    "viewCount": 5904585
+  },
+  "line": {
+    "content": "— Ça, c'est un avion, ça,\nc'est le dragon et ça, c'est\ntoi qui tient la main du monsieur.\n— Je vais le montrer à papa en rentrant.",
+    "end": 81,
+    "heatBucket": 3,
+    "index": 33,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=75s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E64_brefJaiFaitUnDessin/075.mp4",
+    "hash": "2e77ac8359",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwW1T0gAAAOD9EiUpgmMhbIg4QaY5BcIINsYYmwwmAkYE223dbjpfJuHIidWgrKsU4bqoL/ih/Hk9DyBs51p5glkLwg9mQq6HMf98cgmiw3ActCOPbFEIVHla5WmpQDXpVA2PA2KBkrczBOLDfCARChAIRIZgKhJcdNjdszPLLge+GnonVIU8UUsnqi+igMxRGk+nFj0xCHz9fLUQgXG/e90LwnOzsN225HT45mzsepjBUBJd3tnCAKWUV4tUyu/KBL3cCiyTiYsGH/W6NzxOJrxAIRDy2F5JJ15ReJ3YYrAI0NuXv3XbfBSNeZxGhZ0cCz+MMwJnSs82J1qjvbdbzlLDjna5L6cXICKyAow+Dabj2/HngbxTTAahejZzaY30D79xvKhwrHbaN9XDK6lmSEIOeyrxHHDUalqdt9PxaDoeasrxQffm/fe/g+H90fntG/3KsCYHJ31BMVm2SgYC9QAESJVdJpkUy2X9xOxYfyrN04bc/Xh9f/H1zrr+Z365o9gmjsbQDTLhgXQfCIhslo1vlqh8vaULL0WJzRlS69z6afZ/nfWG1mDUU5VDntsT22vzfvmJ8z9vE6QeVhaH5AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E64_brefJaiFaitUnDessin/075.png",
+    "width": 1920
+  }
+}

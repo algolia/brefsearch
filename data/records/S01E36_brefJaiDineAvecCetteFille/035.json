@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 614,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "isAgeRestricted": false,
+    "likeCount": 96372,
+    "name": "Bref. J'ai dîné avec cette fille.",
+    "season": 1,
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY",
+    "viewCount": 8801399
+  },
+  "line": {
+    "content": "Un moment, le serveur est arrivé\net il a posé une carte:",
+    "end": 37,
+    "heatBucket": 4,
+    "index": 13,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=35s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E36_brefJaiDineAvecCetteFille/035.mp4",
+    "hash": "577fbffcd6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwW1T0nAAAPB9h7qzu0oj4zQ6kVmKhzlgk409/vcAY0+OAUNw0kakIzDzpORc2nHYhYdXl1Z3XfmiXtn17fr9oE4O+Bxxtln/8bKzZVG1DdqxSdemWp7QdEBfBN/89s/t7p/yzrPVNBy6De1nyQvP+/681dekg01mUCJHZebYBD2VCVzlqCIEWnYo5v/Wdn9b2701HrrSnLbB+jp+XqTGFugrlC8RTQZtcXhX4YKqGshrQx45K4rXr/1fLRd6mwf1BntqZi4dow7I5fBU5NZNbn62BfAtQL0oCF1L2+fRcyl5si4GpgjZNlHW0Y+51Mgxqjw9P3EjOX2nsDTncpmjpvd1MLocfOiVCp/yqZ0Ka1sUVCvhObAswg++6MShKeWWojw8YyCLnpB1ZfGks/eu2Rib9LGSaVS4jSIJWVq6qCCxR1PpmbsH7Mr7Ar7HJdt8ZlcBr2T6jUoOdbyOwgB70qjypoJDioIYGqJLicXYdHhyYjVyT45HPmOxMQqfYguDzEJ8dvJx9H5ZJ0paVqBWIBekNRlR5aeWiuS5OJJ4GJ0LHcKhf0jkCg4F8TBLxSsGocsYQyewFPwf1zeYcOQVAiAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E36_brefJaiDineAvecCetteFille/035.png",
+    "width": 1920
+  }
+}

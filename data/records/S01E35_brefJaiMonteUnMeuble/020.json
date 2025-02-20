@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 393,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "isAgeRestricted": false,
+    "likeCount": 84499,
+    "name": "Bref. J'ai monté un meuble.",
+    "season": 1,
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c",
+    "viewCount": 6829749
+  },
+  "line": {
+    "content": "Je me suis coupé avec une planche,\nj'ai remué la main.",
+    "end": 22,
+    "heatBucket": 1,
+    "index": 11,
+    "start": 20,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=20s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E35_brefJaiMonteUnMeuble/020.mp4",
+    "hash": "7450c02e1b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBpXVt6bmyPgYC7sLDb1NbMwcO/sbK4qaqypKSpm5ugkZCaiomRgoCHeXeBdHKCdnUAeWxqkYOCopSUx72+497g18/SzsPFyr/AvrCxtaamrZ6dp5eXoZKRmouJmImInI+OAIV3c6WWlpF/eaqZkcW8vY9+eKycmtTLzqiVmLCfosG1tLChoaydnK6enrKko7mtrQCNf32mmJiompbEt7XEurmPenKmlpPg2Nvc1NbTx8nNwsPCtraypaWTiIepnp7CuLgAfmxpfHhugoN20MLF0snItaekqZiVl4eF0cnKxK+rrZmVyb/BwbW0SkE9KCMgT0hGAFhEO2lXTW5fV4x+fJyPj15bW49fUHwcAKh8b3hycEM1MKGVlaabmj01MSchHTowLABhUEh7aGBDNzM9LipsVUxIPTdnPy52Mhp8Tz0+NC0YFRJJQT1DNzApIR5HOjdSRUEARDUvPzItLykmUUhFempjfmNRclA5YUQzblA/RjQpGBkYRDgyRSscKRkSNCkmKSAhABgOChsSDSciICslIi0qKUE3M2JHM5VgO3FSPyYmJjQgFFU4KlU6LUMnGC8hGwsJBiOnyEXxJlmzAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E35_brefJaiMonteUnMeuble/020.png",
+    "width": 1920
+  }
+}

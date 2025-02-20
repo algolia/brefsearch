@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 646,
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "isAgeRestricted": false,
+    "likeCount": 63125,
+    "name": "Bref. J'étais à côté de cette fille.",
+    "season": 1,
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus",
+    "viewCount": 5561842
+  },
+  "line": {
+    "content": "Je l'ai recroisé au supermarché.\nElle se souvenait plus de mon nom.",
+    "end": 9,
+    "heatBucket": 1,
+    "index": 4,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E40_brefJetaisACoteDeCetteFille/007.mp4",
+    "hash": "6dfe83d197",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJw9y81r02AAx/H8OXqY/4IIDhQ8KFqLyA4i+EJnijgUmcVe1LGbIHjQg9qqB5dmy7qls0trTede2Mbsy9KsbZInefI8eZ4nT7IFvQurDH6XD/y+wvnU80sTs5dvv0nde5/KfEiLhesPijeyX67cL1zLFNJiMT358erddxcnXp8Zz50++0i4lX0rPvuczc9NvVgQ8/LUS0XMy49fLd58+PXOtPRkZvHpbDmTk9KTn8YuzJw6lxMkpVHRdqqNlqZ36s2upndqza72s11v/qemtzW9XW20pKWN4reaQBBIYvo34ZxAikEcBklMj3gQh4gFHqcwDnESkT+HLIkIxa4AHJtgxBnd3FhXZPm7WllRVXVpud36XV2pqOXyvFQyewYjAfYhsC0B2BYNUEgD3wPAGlgH5uCgN+ybwB5C19nb2V6QS65jhTQI0HHQM7oIuiHBUUijkMacHcX8MApH5Ixg3+OMMIKhB0yjK2yur/VNA0GXEcxZcPIbbcTjCvT2O1u/1gSlVPqxWt3d3jKNfccaeK7jewBBF0HX94AHbHvY75tGa29Xr9eWFeUfdBlKoAC1QiUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E40_brefJetaisACoteDeCetteFille/007.png",
+    "width": 1920
+  }
+}

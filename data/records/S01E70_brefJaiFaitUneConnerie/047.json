@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 646,
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "isAgeRestricted": false,
+    "likeCount": 95974,
+    "name": "Bref. J'ai fait une connerie.",
+    "season": 1,
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60",
+    "viewCount": 7801971
+  },
+  "line": {
+    "content": "Ensuite, elle m'a embrassé.",
+    "end": 49,
+    "heatBucket": 1,
+    "index": 26,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=47s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E70_brefJaiFaitUneConnerie/047.mp4",
+    "hash": "15102ae38c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwFwdtummAAAGAutzgpR6VaiqiI4AEE9OcgJzkjIMSmy4xpWrd0SbNky+LudrEX2J553wfFFvANwzVt17CsNbCB4QLjpSreHupvx0OmKTrPkQgmTGYO2OoKgGJLT1039oPYD3Zb2ze3e9+/Pp9f6+IlCSWWNUVBoGlzuQqc0NFtyJiLRZyWaV6meez6oe01Sfb3189/1+9PgffoWMetYU2ney/Kgjx0QmgzE3Y6OJaHMs0TP4zsYCOpf96+Xk+PiSw1+iZTVzI3yYP8kDVFXEHeWvVUuYzCel86wBrSIxLtXOrq9/nUqEogLVRuDLcQFMZDPz99vEA7sI4McAiDpqz5IU/hFEX05mP+tSlrEywGgz5Oom2s9R5WZePL5QfkaoolzasoekiTSpuNegwGE0gb5+5ogWF6eGfUp7EbEmkTGEwGXgHtgLbixs5C+OwsL6Y46PZRmGi3EJFmckWOpSVL9VCk08VvMZgkMQryN5o65VWWPhuiJ05G/eF9957AujRKfmKZlL5rvfvAsdyE5TsYdYtT/wHPIFpfQVNMIwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E70_brefJaiFaitUneConnerie/047.png",
+    "width": 1920
+  }
+}

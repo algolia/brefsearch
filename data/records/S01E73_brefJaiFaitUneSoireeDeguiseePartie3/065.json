@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 299,
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 73,
+    "isAgeRestricted": false,
+    "likeCount": 62306,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
+    "videoId": "WRXsFwhVzTs",
+    "viewCount": 5001029
+  },
+  "line": {
+    "content": "Après, j'ai bousculé une meuf déguisée\ncomme dans Pulp fiction.",
+    "end": 69,
+    "heatBucket": 5,
+    "index": 26,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=65s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E73_brefJaiFaitUneSoireeDeguiseePartie3/065.mp4",
+    "hash": "fc8fe02c22",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAyHh8lFRc6HR5aMDFsR1B5V2duTVtcQU12VGSFXm+RZ3s4JjF/dIDAqbxzVmc0IywAJRcYGQ4RTycoTSQjaUJMhl9wPyw2HxkgQyw2i11whV5xHhYdtaK0yrLFRzM+FQkOAD0kJzgaG04nKT4pNnlUYoBbax8XHh4YHzslKm1GUjcoMkY3Q9G5ztC/0kUwOiITFwCMWlthNzljMTFyUW96YHx9VmIqGiEFBgw1ISUzHSAnHCWshJzGpri1k54/KTATCw4Ag1NSVUBRRDRJSzpVaVNwd1FeQikuXzg6SicqQCcumWuBt4ibhldZSSosJxkeGxASAEMmKj0rOBYlRyArTE08UjQjKxoTGGQ7PlMpKYdWY7F/mKFwdkMlJBoQFC4bG04vMQAsGB0wGiA8KjkuL0syJzYWERYKCg8kGB1TKyx/TVWxf5eJX2gnFxkSDREzHh02JCgAIxYaIxIZMhsfUTI8Ix0qDwwRDwsPFBEXPCIiWS8uom+CZkVPFQwOBgYLJxgYHxUWABwSFhwPEx0QFSgWHRURGA0KDgkHCxgUGyQYGUssL4lXZT0kKh4REx8RFCkZGyIXGeU/a/OsTAruAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E73_brefJaiFaitUneSoireeDeguiseePartie3/065.png",
+    "width": 1920
+  }
+}

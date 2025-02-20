@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 301,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "isAgeRestricted": false,
+    "likeCount": 56431,
+    "name": "Bref. Je me suis fait agresser.",
+    "season": 1,
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8",
+    "viewCount": 3657673
+  },
+  "line": {
+    "content": "Je l'aurais mis à genou,\net je lui aurai gravé: \"Hey\"\nau fer rouge sur son front.",
+    "end": 45,
+    "heatBucket": 2,
+    "index": 16,
+    "start": 43,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=43s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E44_brefJeMeSuisFaitAgresser/043.mp4",
+    "hash": "8fa223fe48",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVUUxkXlZ4cWWDeWqRiHeHfGqUiXWIf2+Ri4Cln5KinI+RhXFwcGY7ZHgiSFoZLzoAYFxVcGphi4J0k4d0npOAlIh1oZV/c2tdh3hsqJSEqaGSoZB5b3x0GV94DFZ2EVyAAGJfWH11antzZnpxYpqQfpGHdZ6Re1RFOodrXZ54ZYd6bGBdVUE/OhQSDhkxP0txiABzcmx1b2Z2bF57cWKVineVjHqbj36Nbl2Rbl19XU11bGEfISMNDhMHCA4ZGhssUV4Ac3JueXZwenJkjIJzvbmxyMnIx762iG5ebU4/dllMe3RoEBEUDxAUDQ4SCw0QL0VGAHVzbXt4coB8daOhnb2/wMHExb+4tHxlVzwsI3ZtZ4qKiA4PEgsNEQMDBiMvNmuPoABubGd0cmyEgHqWkIyenp2ysbGkpqSflpWPiYaRkIyVkpEsKCcOEBQICAwoKy5VW1wAZmRgbW1ocmJXbFlOlpWTZJuCSY5tYZmAf4+HXVlaMjIyHh0fFRUZERIWERAUEhATAGFhXWVgWmBIPGpfWZGUkzFyUyJwSiNoRyc3MB0aHhkZHBoYHBMTFhISFRYVGRUUGMRGpJ4j8pnHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E44_brefJeMeSuisFaitAgresser/043.png",
+    "width": 1920
+  }
+}

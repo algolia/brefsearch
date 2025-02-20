@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "On a tagué des messages\nd'amour et de liberté.",
+    "end": 147,
+    "heatBucket": 5,
+    "index": 46,
+    "start": 145,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=145s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/145.mp4",
+    "hash": "98aa8d9925",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGNQkRLSVhTRUxY1Vhc315Kw1JWy1pOy1Zd2MJRxNJKxMwCxrXQkjdXE1GUEZUV4GCIctdL89HJDDMpjTOoTzVrTrTqzbfvy7Hpy7SYWOcypdplc7NiVbVMZYxzvquFuKMsQ4aSZ7q+bG6JfFm1cEmFQFmlQE2/SW2AfZKOW5qQR5aTRmmHdm2tbGWOc5KHhaSzHkOihWxBmWBptXBFjXBisWxyqWxNjkBVsKCcp4a4lpynM25hqPb3cpSnZLNNX289cgSHVV780xqQqwaw0wqAgSKcy2rgj1czNVImRTVBHRT7FXnNOpcfUEofmVMssf20/CwWGNF+DqgTzqgSz4lD9wmCdpmSLGZWeJjrKjKx8NsZa1RE2m6dUTq4IKo00SPLU9DZVYMgIMCqPMyuLNskJ0C6NNFo7JfnUtkY5GSkNbcM5XVkdSSa5CQU5CcV+hqIRNsqW2jIM2SFmlQlW5TFmhcH62+fl/v+08eqJyby8fPYO9me2tsypcg3yzzDX942xUYxzNTBQkWLQURI31pAyVBU3VBWLCbKuLQ4J8bPi4+MREBaO8DWzMVBQ07SWFpPTlRc21lKREeEHAFTUffSS5dkZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/145.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 490,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "isAgeRestricted": false,
+    "likeCount": 93351,
+    "name": "Bref. Baptiste est Super Flippant.",
+    "season": 1,
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78",
+    "viewCount": 7580349
+  },
+  "line": {
+    "content": "— Ça fait un peu tard pour qu'on se voit.",
+    "end": 78,
+    "heatBucket": 1,
+    "index": 32,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=74s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E49_brefBaptisteEstSuperFlippant/074.mp4",
+    "hash": "ffa7d8c196",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwX1T0nAAAOB9hK6u6+r6o85LDGxNMI6lrsY0V8IcMOC3sSEbjG2MN8WhMTY36ECUE+uoc1Bep9Zd37LngczmvtNuDy1r3O835VJNFFuKdnrSG5nmFrIspZl9sSDEY5sRFIWRkO8l5LTbZ44zPTv3JpdFJpWP7RTohNUypt1jcWNVBRm7WpESdBqLbCBIaCkADS3r22h0PZ3ezmYaSO+RBPiwZQick6VVdNUuSXa9qoNsCkOjr5bWfM+hc9e9uri487y/8591gZd2KZGivohg0NAtXa9wwqFcruUAGvCHnz1+H1iExr2eN5nczWZ/5r+qAq8wiTrPnkrZI7Fw++N7q6zpOb65JxDh4NvX8PpKCBq7rnf59eZq/u/3jVmtqIDtNA4GdFyK4oltUs1yg5p8rJRIBE7iGE/FoU7ryDa6rmE5RrdTPzSUpmmc9OlkI/4JULTCMMOK+Lmc2/QvYDBMvEEhcQ0vkLuFTL7IFtVcqZpXRFBU3kXVRDJGkBmCsOXyxGYPtMgOsYL6/ZDy4KH26In8wsfhJEtxMWybp3mAfwwuIvfvPYV9wQrg8ilcl8N8ZnkdWfgPCzig2/2+5ygAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E49_brefBaptisteEstSuperFlippant/074.png",
+    "width": 1920
+  }
+}

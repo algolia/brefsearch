@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "You gave me your love.",
+    "end": 2223,
+    "heatBucket": 5,
+    "index": 730,
+    "start": 2219,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2219s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2219.mp4",
+    "hash": "b1ca7540a1",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAQklEQVR4nNXOMQrAMAxD0UjG0MGb8SB8/3sGOnSthyx5sz5orRuQfF4A/tcAqkpSd2fmtPkcuTwDICLMbBqQlOTuG0SrAfBR8t/EAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2219.png",
+    "width": 1280
+  }
+}

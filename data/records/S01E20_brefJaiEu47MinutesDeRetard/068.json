@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "— Vous consommez ou pas ?",
+    "end": 70,
+    "heatBucket": 5,
+    "index": 36,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=68s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/068.mp4",
+    "hash": "2ae9019b6d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAaFRI4IRtsVDRjUjJ4bVFjSjhePTeahnVSRj4GBgYLCwoICQd+eX64sLqQiopKRj0ADw8PGhMPi3RXnoxvqaOQjXRnbUA3q5WDPjYzZT81XD01KRkUKiYnwrrGkYqFaWNXABUUEwwMDkM3JZB+YZOKc4FoXHVEO4VuXEEwK5VjVaBmWGhCOBcSD2ZfYZCGhYJ9YgAUEQ8LCgosJRyCaD2gkW96Vz9qOC94X0tjQzqycWKPWEt5QzZbUE9WTk1NSDlwb0wAEhIRBgYFPTUpvKiCy8CnlndmYS8nhmhNcFVFkmFUhlFIVzYrc2xtUEZFRUAvd3dDAA0ODhgSE2dINMWxiOPc0byoplwsInRVMJB4Z45qYG1JQU42L4l/gjwzLkM7K2ViPgAHCgkwHR1qRDSRfUu3rZKOc2NUIhiZg2/TxMi9i4Sjal+ugX6omp5uYFxOQTo7Mi4ABQYGMB0bXz4ye2Q2lYVejXVhuaKq4tjk5Nvn1b7DzJ2bxrK5tqivt6qwnY6QY1lXABANDCUXFUw4LYpyPaSXf83G09nQ39TK19PJ1c7G0sS8x7qwubGlrKacopuPk4h8fkm2qr8wQrntAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/068.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 761,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "isAgeRestricted": false,
+    "likeCount": 138299,
+    "name": "Bref. Mon coloc' a fait l'amour.",
+    "season": 1,
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI",
+    "viewCount": 11899469
+  },
+  "line": {
+    "content": "J'ai renlevé mon pantalon.\nIl sortait avec Anna depuis un mois.",
+    "end": 9,
+    "heatBucket": 4,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E23_brefMonColocAFaitLamour/007.mp4",
+    "hash": "ba4e7ce40e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBtV0h2a2SBdm9gTUVcTklrYV+yqafDubesoZ+fk5CajomXioSQgn2MfnmCdnB4bWYAeGNVfXNsdmxmYUQ9altXeXBuq6Ker6ekp56dgXd4eG1td2xqfHFrgHJtiH14fHJsAIRzZ4Z9dVlMS0IuMGRSUoh9gL62tqykn52VlZiPkZSKinJnZYp8dYZ6dYuBf3JnZQBcVFSPhoByX1lGLi9wWFOMgYXTy8y8tLFpUEh1Y1/p5OLo4d6OgnqHfHiZjo13bWsAR0FEjoZ/eWljUUFDYVpffXFy0MnKn5aVWTkwdVRJzL+98+zr18/Imo+JmY6NgXZ0AEVAQ4iAeXRqZ2JhZmpvd11SUsXAw5iLimtPR4RdUIJyaYR2ctLIyK2gnY2DgXtwbwBAOzx+dG9sZmVaXGNiYmZgVE69sKZ/ZluRfG1HMysfFxEwJB91XFObe2+Bc25wZGEASkA8ZV5beXBrin1zloR1qJB7noFpZkY2hmdXknZqSDMqfmNXd1hMimlbb19UZVRKADYuLj03OpKDdbedhKeLc5ByXIlrVXhaSY9rXZ9+b15DM6yLfZZ4a39pXnNmXV1LPSkkyPKLcjgMAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E23_brefMonColocAFaitLamour/007.png",
+    "width": 1920
+  }
+}

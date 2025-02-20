@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "— ... de ruisseaux...",
+    "end": 111,
+    "heatBucket": 1,
+    "index": 43,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=109s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/109.mp4",
+    "hash": "5761f71a5b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBANDBmVFNjUUpVQzVRPjFQPjNNQT5ENjRBLywfFxYICQoMDAwHBQkGBQoHBgoHBwcAPDM1Rjw8U0lMSjw4RjYqUUM9U0hJTEFAYVNOPTArFxEQFBARBwUKCAYKCQgLCAYJAJaJgqKVjGFYYE1BP0Q1LFhLRVxRUUtAQE5DQzYqJy4dGSIXFxAPEhEPEQYGCRMRFADIv7rNvq6Rh4dLQURCNCtYSUNeUlNNQkNJP0AnISAnGRYbFBQZGBsgHR8JCQw7NTcAsqiiyLmlvK+lWU9UPS8qZFRKh3hvYFNQW05MNywqHRIPGBUWFxUZFhUZEA8RZVxgAJ2PgM/BrMi5qndvczouLUg6NKuai3BgV2JSS1tEPSQcGxwaHBoXGwoKDiUgIoJ+igCEc2i/sJ/TxbCZj4xGOjguIBp5a2OmloWSf22NfXAxKywdGxwUExcFBAdMRUmJiJcAi3twu6ubwbOplYiHcWZsQzAnNikkh3t4pJWObWBbHRkaHhsdDg4SEQ0PbmlyeniGAGleXFJLS11SXGVSVF1QVVI9MzUkHCQcHjMsMBEPEBgVFxwZHAUECSwnKnd1hFVRW3GteBGLt/DlAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/109.png",
+    "width": 1920
+  }
+}

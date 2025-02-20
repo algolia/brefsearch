@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Il a été promu quatre fois,\nil est au top et il est heureux.",
+    "end": 1468,
+    "heatBucket": 1,
+    "index": 476,
+    "start": 1465,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1465s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1465.mp4",
+    "hash": "8d3a0f5e2d",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nBXLW2vTUAAA4LyszT3nlpwkJ5fT20y2bCvp1lpNuzadtrMlHWywiei2MueLMlBU8GVQfVBBFLw8+Sj4B/T/id/7J0iSbGga1DWGDU403yhTtWwoiq7KKyWRyGVPKzEke6YR2sCjUMDEClyXu3Y34uM1NuTaBsOfHu//XT78shilPs6YMojobjPsNfntZk0AkFDLIphs1fzJOrvlKTdX2YfL6Z/lo9/P7g4atGNL3TqpcdOyYeCb/wPBJoI4rfvzlPcC8GK2/f5y9nlx580svd9kbSrFLlAJ1CwDUSQAiBFCBKJWIyjSSgLlo278/enB9WH2cd4aVmloKA0KSgApBNgUCAghBBElJFsLR3XaCeyit3Ux3jltb44adsuDbR/ecAA0kcPI3m5bwAhbmMQhe9BPstUKkfHrq7Pze51J5HcDejUMn2yT1AcO1Ytpf3n9XLAtK+L+eGc9T5N8kCW8MiuKn7++vTydL/azk2l/06GJbVS5++7tqx9fl4KqyCbQK45pqpq4IsZR1aXW5Ojg+HiapXGVM6ms6KIIoJEP+3me/QO+8koclrcy8gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1465.png",
+    "width": 1280
+  }
+}

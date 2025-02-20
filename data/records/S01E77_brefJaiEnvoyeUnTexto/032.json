@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 566,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "isAgeRestricted": false,
+    "likeCount": 85617,
+    "name": "Bref. J'ai envoyé un texto.",
+    "season": 1,
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk",
+    "viewCount": 7559587
+  },
+  "line": {
+    "content": "Salut, pourri.\nJ'ai essayé d'autres trucs.",
+    "end": 34,
+    "heatBucket": 4,
+    "index": 14,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=32s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E77_brefJaiEnvoyeUnTexto/032.mp4",
+    "hash": "7a6f6c05c9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZJJREFUeJwlkcFPE0EYxfcvNE0EPeHJAteKSmvYGntwt92dIiEQIB6MJw/Gi7GJB6IG6Xa37XRmd3ZLosYEOADdmW++ziJXs5D88k7vd3nPyvuVPFhQ4SMYrSJ9gqyOsY28iXETua1ZQ9MajFZkuJQH92fH9yw5eKjGK5rVMWnNhVtknkmJyUiZJR4KR8ctoOtyuJwHi5aKqprZmLoYe5j4wEmRkuspuT4hJtvUojsXHoqOTlxgG2r42FL0GQonH22d/uz9/fb+z+Cj5B+AvzX04GKydfR152bqo/C06EDiqPGapegLkznnR3u/wuB3r3cZ/biKD6/YJxl9Pgv3D7/s3Zz4KPxboa1o3VL0KQoXqH9+/O4i2IUJ0byLfLNIujP+hn3f/pd5KNqlEDtyvGbJqArMRuGa1DFZu5j6RUbuMKlvMoLCw8TViaMmGzKsWjJ4oKJloOvAWzp2UHTmwrvjttrWyWvNXyn6XEXVcqVZvyIHiyoqfwBaA9bQ3Nb8peZN4DawBtCaGq7KcEkGC7N+5T/kF0M9ClMmggAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E77_brefJaiEnvoyeUnTexto/032.png",
+    "width": 1920
+  }
+}

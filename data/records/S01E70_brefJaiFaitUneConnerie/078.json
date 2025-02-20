@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 646,
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "isAgeRestricted": false,
+    "likeCount": 95974,
+    "name": "Bref. J'ai fait une connerie.",
+    "season": 1,
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60",
+    "viewCount": 7801971
+  },
+  "line": {
+    "content": "J'ai pensé à tous mes potes qui vivaient\nsuper bien avec leur culpabilité.",
+    "end": 86,
+    "heatBucket": 1,
+    "index": 37,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=78s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E70_brefJaiFaitUneConnerie/078.mp4",
+    "hash": "52507f5836",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXVJREFUeJwFwctu00AUAFAvkgjbk/HceXjmzsuvsZ1QN1FDJRAVapFoFqiIVUFiwaKCSuxgx5Y/55zMkyoxYXLK1gQ2BDZbttnSNWHrkq0KsaGRakMUFMqLzkLMdlyeNMYtwJrAqrQ52wsvX1RsVWIOM/idbJAaVshGplb22cSlJ7DH9hiSzflI61c62BL4Zrvn/rVqJ/CaWlnKXqWGuYytizqHU5huxuXghkTUO4zHOjRE3bv0XrdYqo6aWMgO3Cgw0wUksNd+XES4i7sbO5yxO9fhluO/w/XDcHES4ZKhzAErN5gxawA7cJOMe+E/9ctjnH+F8RnbpzD8juMTth9t8qTWRAeeBp0yt60bsEmEUfi3cX5o5u8x/Zkuf15cPQ8v/w77NyqYgiO1HY8OQhYr0zCTuGuoXgTeY/zaTV9C/4HV32z3o5+vBPJCSmqQGlO5bCfDouLRdLOwI6kOhH028VaZu0o8cnMGfcBh1n0LHiunyvo/5fcykZt23wQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E70_brefJaiFaitUneConnerie/078.png",
+    "width": 1920
+  }
+}

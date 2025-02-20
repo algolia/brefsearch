@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "En remontant, j'ai revu tous les MMS\nqu'elle m'avait envoyés, les photos\nqu'elle faisait avec ses doigts,\nun pigeon qui s'est tout à fait écrasé",
+    "end": 23,
+    "heatBucket": 3,
+    "index": 8,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=19s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/019.mp4",
+    "hash": "091ca1416b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwdy1tP2lAAAOA+LFEEWuiN0nvP4Rwo0AultaVW7ps6FSKZtRA0qMRME/ewh+1p/8Aly/awPexH7Sct2/f+Ecctae5qc8eYOXDmoHMbH5vqG1NMAG9LtK9xXZXtqkxS4z2VwUKRmLlqGsB1D9/GjWWAlj66ckHm6gtLmWBxgMTI4EOd9xQmBnxS44h3AbhJ6qln/JjbXy/8jQ83IVp1QNYxUlc/b2vTuhIDyZF5S2R8jSHSED4MmwdY2vbDP98+/1yPHg/wNkIrz0gdsLDgaRsMkObIFchSKl0gsrh+N2zdD5qPw87Lx0+/ni+/nNjXnnEX1JYeXNjwrAVGWAs0AfEUX9wj0hhv+s33E+vlcv/3Zvz9enhqyX0o3Hhg1YEXNnz7P0R6FVfK5WKOWPRQFqPbvvk0trKuNkIVlSENlgw1boKlI1MZYrkHxMj4FzSGJM4CsIjQ+rDxNLU/TK2TtkLmd4RS3mCppki3RBpXSpbEWDJnVmnIUcRrV5/tw2XSuB+3n4/c7aHJU3s7u69oMieU8lRht1ouVEsFnaXEcoEp5v4CYl9TM1anhCoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/019.png",
+    "width": 1920
+  }
+}

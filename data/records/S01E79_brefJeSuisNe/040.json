@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 780,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "isAgeRestricted": false,
+    "likeCount": 101475,
+    "name": "Bref. Je suis né.",
+    "season": 1,
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0",
+    "viewCount": 6614179
+  },
+  "line": {
+    "content": "J'ai attendu.\nPuis, j'ai vu un mec chelou.",
+    "end": 42,
+    "heatBucket": 1,
+    "index": 22,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=40s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E79_brefJeSuisNe/040.mp4",
+    "hash": "056452704d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZNJREFUeJwVy9tS2kAAANB8hY4PlXIRDLkuS5LNPdnskhtd06SAJLWOgGNTijNYZ1p7+Yq+9HM7vpy3w6knJ/Ds7NXTU+f8vATyfUx2Md1GeKHBagqZojBZzgWBjHjKi5zxpmd3RlZnFHSHTBzXOtgFzsY17xDcueiTha4NvVQnTFQzQU0EwLl9iY71XHXeT+0bAz141h67beAcSHhMk8dk1hKyDaIlRJkAYh5wVEAMhguTrC18Z/sPnvvZs1vfe8rTl6r6uVr+aZq/z0/bkOYiTIUJl6luaZAVimrkbz28j8ghivZhdEzSY5Yf4uyQzluarHV7Lk4zAXI58F+DRW89+mWWPLOrlw+L38vVvx/ff9XNfRjtAtzoqJBAcqnEvMy903CFaKXhteFvPNyS2ddZ8phm31ixj9ONH9TIKiQlGfJkcElHAsf0qDJpAf1qYl/rdm1YN5Zza1ofDbMxzNVUy8cCHVzgXj/o9vy3fS4D7pWGGXQZQCsHMxkUslIqSinLhSTNeZ70e7jbwd1ONBjgi+F/aONweWN/8EQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E79_brefJeSuisNe/040.png",
+    "width": 1920
+  }
+}

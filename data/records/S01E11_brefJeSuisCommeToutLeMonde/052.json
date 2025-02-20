@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 560,
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "isAgeRestricted": false,
+    "likeCount": 108927,
+    "name": "Bref. Je suis comme tout le monde.",
+    "season": 1,
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM",
+    "viewCount": 8286572
+  },
+  "line": {
+    "content": "Je connais pas ma taille de pantalon.",
+    "end": 54,
+    "heatBucket": 4,
+    "index": 23,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=52s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E11_brefJeSuisCommeToutLeMonde/052.mp4",
+    "hash": "b5a58a8e33",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLPiw2MB5BQSA0NRglJxEfHxEcHg0vLxk1NxlgW0CYgXQ3LSVFOjCvl4ypj4OAb2cAJyQWKyQcJCQSLi8ZVUw+hXBjOCsgKysdJyoYZlREuo+FVEA7V01GgXNrhnVvYFpZAHBnYk5DQG1lZYaIj41wZINZToBfVlxTTFxaWl1LQ5hpWWpVT01OV2pgWXhsZ3JsaQBsYmJQRkVwZWZmYGNYPDJtRDWceGqHe396dH5ENjlHMyw6LzBAOj1HQTY3MiIvLBoAcGVkWk5NdWhlcWRkgWlieUs4jmlfkIeQNyw3IxoiICcwJB4nMCQvKSYrKCgmLywlAHhqaFxOTJJ/fqOQkLGPiJhnUqFzZHdiZCEYIC8lLigbISAXGiwiKiUgJCEjJCYlIgCSfXttXVuLe3ufg3+fdW20hHbIopZzY2cZEBgsISkmGyFDMUMtISweGBwfHx4hIiAAlICAk39+kH6Alnh0nH56uaOjsJCKcVlYFAwVGxQbJyEuNi9EHRUeIRogFxUVGBgYAI57e4t4eId2dpyEgqB6cYFZSnpVS0kxLkAvLiIXHiYhLiQhKxgSGiQbIxkXGhIRE+snhROo1f+tAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E11_brefJeSuisCommeToutLeMonde/052.png",
+    "width": 1920
+  }
+}

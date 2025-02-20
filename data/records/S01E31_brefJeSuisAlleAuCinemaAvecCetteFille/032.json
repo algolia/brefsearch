@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 327,
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "isAgeRestricted": false,
+    "likeCount": 84322,
+    "name": "Bref. Je suis allé au cinéma avec cette fille.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g",
+    "viewCount": 7193082
+  },
+  "line": {
+    "content": "On s'est assis, il y a eu des pubs.",
+    "end": 34,
+    "heatBucket": 3,
+    "index": 13,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=32s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/032.mp4",
+    "hash": "44da408c5e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwFwUmP0lAAAOAH9HVffLRAV7qktLyWGcoUbGmhlALjLC4hjskYnRhHE/XiQW9ePXgyJh7mF/hD/T6AxPgsKqv8fF9ePtu9WC+PSVQNaS5sd6aC8O243QyUtEVggtRb7TFBAhsSBkMbPItVxUZiqPU9UVAgFRJwHxi3T4qyi7I2PKHZSEInBAQ+STkc50LIEVCimdTSDYaRCKiBzsE3/B7yWtSyAyOxu4/ns4ENHNDGstxgPLGMhaMvHdOhaL4DmxHT+GhuyddYSkloi716uqpnObgvR8cyu7l4+rxutknyqkg2vjNE7N9P4p+73q/X5r8f/bc5cmW9TrK5HYLfH5cv63w1y65WdZNv3h+2d9vskODvl48ePgsPX6Sfb+RjERpmvF6sd8kZ+HoVVac4HU+TUTwLJthLTOQ8HroXAX+/4T80wk3avY09Q50Ui+rd9Q4EKopsJ7A8S9E1pMVupIjKxNSbsbIK2QpzmzGXmorAGYHj7+anYKgO7IHWk7qIF/uSbKtuX1KK0F/jYGQOkSCSkJJ4xDOcQLM8Tf8HxBpCRIRadIUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/032.png",
+    "width": 1920
+  }
+}

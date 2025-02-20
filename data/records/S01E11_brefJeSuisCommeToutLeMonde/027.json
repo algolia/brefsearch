@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 560,
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "isAgeRestricted": false,
+    "likeCount": 108927,
+    "name": "Bref. Je suis comme tout le monde.",
+    "season": 1,
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM",
+    "viewCount": 8286572
+  },
+  "line": {
+    "content": "Je l'ai re-remise à bouillir.\nJe me suis fait un thé avec.",
+    "end": 29,
+    "heatBucket": 2,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=27s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E11_brefJeSuisCommeToutLeMonde/027.mp4",
+    "hash": "31b0014bfd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxjaCgtqshOy4oNntJa52SgFWyq25cYOiUnfk5PU01+ZlZ8VH5ieLi7QUl6XE6kb4idEUNnbWV+Umx5dnp9WXmer3t1iGdpgGt9fFh7ZbGLnZWMnLyigoKygryehpqJroaFgQ5DW3lRdFCQo4OfuYWnq656qZ9zX1JoekBAfFyug421oqKinKycpISkpJiYuKiIsJAIQ3dLh421p6mpm6trWH5iqp+FkZuOsruds5d3pIaGtry8nJioqIiQiKiQsIiwsJiwCENaUra8oqGNtbuOjmVVZdfCOSsCfAKMjOwsLZxkZWS1tLTNTC1Mjc1Mjc2szCz1dfQZnOy9ddTM9QyddHVtE+Ly1q3a1d05PSAg3tLSRUxMzMfLr7qqqbCgIiwoMsY70MHOlUFeSdtJSs1UVldT2yQjvWLq5EVlJc02Np5aWqaysiBRfV0jJSUNcXFpQQERXl5BBgkZNSst05ak7KTElJDg5LravpSUEg0NUw0NQxUVZWUVFSkpaVFRcX4+QQ4OHl4eAQZHW/cAV+9NazZuXLmxqqwhJ7M0MjxZR9tEXU1LXV1dR1tLW1NdQ01VWUFBWlxSSlwKAERAdNXgTGdOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E11_brefJeSuisCommeToutLeMonde/027.png",
+    "width": 1920
+  }
+}

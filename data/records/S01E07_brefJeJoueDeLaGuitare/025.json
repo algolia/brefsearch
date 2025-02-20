@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 525,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "isAgeRestricted": false,
+    "likeCount": 88753,
+    "name": "Bref. Je joue de la guitare.",
+    "season": 1,
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M",
+    "viewCount": 6698014
+  },
+  "line": {
+    "content": "En y réfléchissant, j'ai repensé\nà toutes les fois où Ben m'a dit\nqu'un truc servait à rien.",
+    "end": 29,
+    "heatBucket": 3,
+    "index": 13,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=25s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E07_brefJeJoueDeLaGuitare/025.mp4",
+    "hash": "60f301f648",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA8OC9LQzlfWFF9dm14cGmIgHxfVUdXUTmDfHaEfXiGblSJb1aViYOZkZGXjYuTiYcAeHNtgn16gXp0bmddhoSHa2psW0Q3dmVXa2tqioeGlpSWmpidnJeanJWWm5STl46NAJqWlpyYmZWVnWtwfF5ldD5BR1k9LJqIhW5xd5KOjZeUlJiUlZ6YnJ+ZnJ6YmZuUlQCXlZeChZFzfJlJSVM9RE9KU2I0LCd/gpmSmapzbGOHgX6al5mdmJufmZ2fmJqYi40Al5GKZmZmcl9bgEsmXjsjT0RDKSosYGyFcHiQKyQbcGNTiIJ9mJOVn5uelIeIbUJDAJyPdFtIOFcqGIxrVqZvR25EJ1A3LUhKUlhgc2ptdnxtWYJ3a52YmJ6XmI6FgoV7dwB2aFE5Jh5YIQleNiJrWE5jRTJZPjNORj1HQDp4Z2KRfnRyY12MgYCinJyNhYJIODUAjn5jf3RhZU9ETjMpGxoYMCMjJiEhGCIhFRsaHR0YVlFRgHR3kYeLmJOTWE5FGhALAKmhl6mchMK5oKqijystKRsmKF9mbIWHjmBgXy00NCgwMa2rsaWhpHRsZUI5MDctJvMitdPzM+fmAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E07_brefJeJoueDeLaGuitare/025.png",
+    "width": 1920
+  }
+}

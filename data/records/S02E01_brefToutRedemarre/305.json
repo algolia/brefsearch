@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Tous les matins, il prend\nun chargeur en partant, tous\nles soirées, il vend son chargeur.",
+    "end": 308,
+    "heatBucket": 1,
+    "index": 84,
+    "start": 305,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=305s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/305.mp4",
+    "hash": "65e101a924",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwklEQVR4nGPQVJfR1pDV1pKTkBDR11cyMVUzMlbV05LWUhaWkxYUEBWUUZKVV1PQ1Ve2MlHU15JhyE51y8vwSk/xsrE3Ki8Lzc8Pyi8OK29KzcrxDfM3cPGzi8qODE4NyyqO7G0Mqi7wYMhIdC7I9klMcHNwMc/O8k+LdXV2MU2tSCvtLk8vS8yuTU8uSw5MDo3NCu1pjakt9WNIDDNOTXQIDHex97ANjPfXNdNXkheNiXVvndtWOaG2oK2osDq2ui6qvi60tyWiocKfwcNZJyTc2jXAyc7LIbMgLM1VPs9NOjPBrXVuR8PU+qLWwo6OuIWzM9ubQpvLvRorAxmsPOyTC6M8Axyc/Jxqi7zLfOXCjEWSwm2bZjY1Ta2r6CltaU+cMT2tstSrpSGitT6awcDO3NjRUkFLQ0pNXcfMQE5TQ0tLOSTAuqKnrHpCVW5DdkVNZG97TEG2c211UFNtOAOHsCSbsBSnqAyniBSrgDi3hByHqIxPuGdNf3lErG+AvV6aq0GKpWaYtVasj1VhugcDCwcXKyc3Cyc3MwcXCzsXCzsHAxObuIyklr6apCCvipiAsgi/shCfPD+firSslCA/AN1Gfp4BbyrjAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/305.png",
+    "width": 1280
+  }
+}

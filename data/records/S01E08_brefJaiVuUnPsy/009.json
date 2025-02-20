@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 145,
+    "durationHuman": "1:09",
+    "durationInSeconds": 69,
+    "index": 8,
+    "isAgeRestricted": false,
+    "likeCount": 24402,
+    "name": "Bref. J'ai vu un psy.",
+    "season": 1,
+    "slug": "brefJaiVuUnPsy",
+    "videoId": "xHTx3mYfGUQ",
+    "viewCount": 2511951
+  },
+  "line": {
+    "content": "— Hmm. Et ? Et ? Ah. Hmm. Pourquoi ?\n— Donc. Ah. Hein? Hein? Mais ? Pourquoi ?\n— Soixante-douze euros.",
+    "end": 12,
+    "heatBucket": 1,
+    "index": 2,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=9s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E08_brefJaiVuUnPsy/009.mp4",
+    "hash": "55e1444df9",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCAgYdza2J/dGiBcWR3YlNqVkl3X1CMh4iQlqSNkZ2LkJyHjJiBhpF7f4h1e4JAPjsAkpKZhHlvjH9yh29agnVqWUY8f1lHl31xkZajjZOejZKeio+bh4yYhYqVgYWPlZmZAJ6epY+EepSEdZSAbn1rX043LV5BM4dtYJOXpIuQm4uPmoiNmYiNmISJkIKHkZSSkgCgnqWSiICQg3h2ZVhaSz8jHBclHBhSQDWpmo6XlZmIjZeJjpdyc3NubWl9gIZDOzYAm5aWqKSnd2tlWUg7WktBFhQRFhEMaFE+s5BvrZuKh42WhomPYV9aUlBJeHl7XVpXAJ+amp6Xl1lJP04+M2lVR0c0Kj8sIYlsVZZ5X6eJbqGcmoaJkWFfWzotI3VUMYZiOwCemJWCcWdmT0BRQjhqVkhpRTZhPC6KaFKGaVN9YUudhXB2d3lDPTggDQNiNQhkNQYAfHJsWkk9ZFJFZFJGWEg+RyofeEs3gWBLl3tic2BZOjA5ZVlOJBsXHg4HTyoMTScJAGZaUjEhGTglHTYiGS4dFUg5MoRmVHpfTX1yZDs9UQUJPComKA0DABsMBjwcBjgUA/aaqbImviaCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E08_brefJaiVuUnPsy/009.png",
+    "width": 1280
+  }
+}

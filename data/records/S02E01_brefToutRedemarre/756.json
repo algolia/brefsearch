@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "En tout cas, ça fait\ndu bien de voir du monde.",
+    "end": 759,
+    "heatBucket": 1,
+    "index": 253,
+    "start": 756,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=756s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/756.mp4",
+    "hash": "6c93db49a3",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXBzW7TMAAAYCPWJI0TJ7Gd2EkcOz+kbZqfdmuKkBBI64GhqmQCMdYNceFPSCBxgAMXECfu8CRIiGfgAXbhCXgOvg+829hzeuBAHZrGdU0zoYFs03OgaRoWHCvPmGGtpvrc10usVUQD/75HzzsjY+5M+sNKCY6loGUWcY4Zw0NNf75t3vT+08bZ1+hZ64Crr8GrpVFJuq3CT3eLUlDGMA+8kJOAuo+Xwd8fm9dr/3zuPKmdy8YBV5/pvrVkQM/6bLvM4oDI2I9DEoVEhOThgv1+f/Rxkz6YeRedd9l64M8Hby0tcG18IySnhzkPiJQ8jv1Y+HniDw37tp3cnzFFrIsF3XcE/HpprwSKKN5W8W2BC8WShAkRiIRPMr5r2VkTnuT0uCDnh+xRx8CXY2OTkxc3VYYR89Akj5RkqeJC8mXJ79VB6MDUhUfK2XVsaCMwTN0m8pCFTG1cRrQoRJbFaS6yIllP+W5BhgUaVvH+zvSkz0/7FAS2gUwdHGhwNLLHuo2gjaCFLOTYzDUV0Ss+6lN8ay6nhVLM+w8X5EBNhmIuBwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/756.png",
+    "width": 1280
+  }
+}

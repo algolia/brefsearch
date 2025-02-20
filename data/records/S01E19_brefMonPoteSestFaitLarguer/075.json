@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 305,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "isAgeRestricted": false,
+    "likeCount": 76028,
+    "name": "Bref. Mon pote s'est fait larguer.",
+    "season": 1,
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4",
+    "viewCount": 6265057
+  },
+  "line": {
+    "content": "Il avait même pas mis de sucre.\n— Pourquoi ?",
+    "end": 77,
+    "heatBucket": 3,
+    "index": 34,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=75s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E19_brefMonPoteSestFaitLarguer/075.mp4",
+    "hash": "af0d4a7177",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB/bHCqmaBaTkhJQDo6IRZYOSg0HhBzYlaUfH+Ug3t8aFZLIh1iRz0/MycsIBYkFxAAdTw3sF9bbV1USU9Hg15Oo29YTTMflkJLrE1UiFRFimVfTiEcVDkvOS0iLSIYJhkRAFc7NHldV3BaUXNZTJp1ZIldSGM9K2M6MHxLQmdRQlo/ME0eGVUzJ1kzJjEgFycbEwBgSkuhlophUk2gdmWVbltrRzZMMCQzIRVLOSxYSjxNOzAtGxZUOCpoNiZFKx4oHRYAVkdMd253NzQ+imhXpHNdhVtJTTIoJRwdKR8YKSkgMy0lIhkUVDstf046ZkEuLRwQACkkMSIfIjUvMWtPP3VTQUUpHygaGB0XGjAiIDcgFDMnHxoPCjcjGI9oUZlwXXJbTwAmISAmHx4kHiUlGBQ4Jh0lGBIXEBUZEhcsIiU+JRQ0HA0rHxlsYVyso6CjmpeTiYUAIRodGxQVGBETGBIQEQkJHhobJR8mIRofHRYdNysog3h0raWlraemlIyJgHdyfXRtABsVFhgQFhkSFhcQDxYPESsnKi0pLSQfJFdSW6Odn7u1t6qko5iQjoyCf4Z8eHpwapesd3YUBKfNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E19_brefMonPoteSestFaitLarguer/075.png",
+    "width": 1920
+  }
+}

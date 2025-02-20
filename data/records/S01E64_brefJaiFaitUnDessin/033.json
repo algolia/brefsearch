@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 468,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "isAgeRestricted": false,
+    "likeCount": 87383,
+    "name": "Bref. J'ai fait un dessin.",
+    "season": 1,
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY",
+    "viewCount": 5904585
+  },
+  "line": {
+    "content": "Il y avait aussi trois bras parce qu'à\nl'époque, il avait demandé sa mutation.",
+    "end": 35,
+    "heatBucket": 1,
+    "index": 14,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=33s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E64_brefJaiFaitUnDessin/033.mp4",
+    "hash": "8eb36037f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYZJREFUeJwd0X1P00AAgPF+fP4UEwWjJipsmJEtOmZ1UDa7MraMvsCg17t27b315drrXcc3MDN58vsCj/Hj7O2gd/pnfO45V8Cbp+GKxX6ePvIkoMhNwRp4swf753xydtV/3z85Mq5Hn2+nw2Azy3dBzaEsU1nh9lAmq0yWac0hi33gze5vBuPeO8O5Hmz9JckiLahqclVzXef6IFc1U4IqwdoKVxREgb0wLwxvae7iJ1HRfVMoHO2VeNXNq272stQEahZ3DddN3grCksBbjI3txiIZaETeFViurdZ1Ooo6jDQKlGsr4HY162Sl67ykIFj9Nu5+9VHkVwVus2fFEw2fNEE69DsCuzzVPFEM6Yq0NeXp1r0zjenFqWtPchy22UtLoC6wLjJFoGKxYnGLQ7nbSo5KAuDjYnlzaZx/PJqNvgBvzpNAkFDyWBY7KchBjhoWCfLCYg+41r11OR1+Mobfjs3BB9vsec44Cv6m4ZrADUUPFG4wWCXPTuha7v8Pk+8no69v/gGwaWWBbOiKxQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E64_brefJaiFaitUnDessin/033.png",
+    "width": 1920
+  }
+}

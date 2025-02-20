@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 199,
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 71,
+    "isAgeRestricted": false,
+    "likeCount": 56247,
+    "name": "Bref. J'ai fait une soirée déguisée (Partie 1).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
+    "videoId": "rOI3TXz-igs",
+    "viewCount": 4927821
+  },
+  "line": {
+    "content": "Il y avait tout ce que je déteste\ndans les soirées déguisées.",
+    "end": 43,
+    "heatBucket": 1,
+    "index": 19,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=41s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E71_brefJaiFaitUneSoireeDeguiseePartie1/041.mp4",
+    "hash": "a7a88cb8dd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwVtP2mAAANBGEUbv/XqRQumNywdIoWWVtRiqUm2pgAJTgky0woBsZjPLlr0uPm0/e+cgdIp0Cnrc975cnw3N0sDUpy3Vh/Lc99bhSd+E64/9l6vW7Fi7tuu3gY9wKHUsiXHo/b4fbM7fX9Tl8EiKjMrQbs699rpr/LILOxU86My007A0HRFxuqeKq8vOn8ebbbdxZcHoSN51rYVrPp19mJblFY+9Ksw3FYzMUlCvIFmCNnkQ99pvy9HP08rcbVQF4aamB/Vyt6itXPhczcUiPdHEHtTHZg0JoTqxSt/vhv9W4x+OVuIFDqX4d2RDknVWcIrak9/cwMyzDU+q0CsVkcfA34XO1+H533i0tPRDHEgUSyUJU1Zq2ZxKs+YhN6vkXjT2k5LpqzIybDVvbSPudd4WwQDmQZrJYAx1gJcFMUcCPk25mrKtSDuF3chgUswjjiItw/DzePQatTtyhklSIEXgCYxI4GQCIw6IGgBbjY/zYJblCoKFXFrNhyhahMHcNao8SydJMoFh+yi2h6L76dQeWsaIRQ7MRfqU5Tja+A91BlIGOvRsCgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E71_brefJaiFaitUneSoireeDeguiseePartie1/041.png",
+    "width": 1920
+  }
+}

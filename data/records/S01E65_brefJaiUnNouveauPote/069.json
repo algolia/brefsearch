@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "isAgeRestricted": false,
+    "likeCount": 117672,
+    "name": "Bref. J'ai un nouveau pote.",
+    "season": 1,
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A",
+    "viewCount": 8812723
+  },
+  "line": {
+    "content": "Attends, elle me reconnaît pas.",
+    "end": 71,
+    "heatBucket": 1,
+    "index": 29,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=69s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E65_brefJaiUnNouveauPote/069.mp4",
+    "hash": "77724aa0da",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwdtu0mAAAOA/Gi8mAttYoZMW/uFKS0+UgxQGbemRdq10HN0orMONiRkhM/PCW+ONr6CJyS689cZHMDG+yOJr4PeBRCy2E4vxZP5uMTdkORpPrG7Wm83m38ODqnUkUSSyeB7HdhNoo1IdOxaA+yieSlVZZnp2Xq9LW5Htjnfy+89fTZJYmh05dq9ZgzD3LLKz6nc/LuaAJQgEQYt8We6cMtV2XTYnrv9rFnztHvOll3Zb7crSdDq/u1kvR72g3wemovquN3k9uZiF71e39/c/vi3efiHIn5qmFrhkhsBgnqsp/ii8ul7bbg+0xKPpcODqmsDyYrlS4rgrivlEsd8bDbdSe7qXfg5JstTMFxuWOxiMZ8CUVUvRPF33LUMsVymGvRSEzyT9IU+Nj1pxNJOGFAKZJKSLYtvzx0Bpybaqm5JqtCS2wFpWZ6kbt9ncm3TGpHkse7CLwuj+YQIjCbrSGwbAtRzfdvrHnqFonu28C2dDvwdTaQbPKc02zwn4IfMomoog2ReUMBwFQNMcyz7xuqOz4DKcL88vrsen4dY2Ek9idbFZ5AQEJ8DjKHgSTx8UvFeD/9n2a8BqN9H0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E65_brefJaiUnNouveauPote/069.png",
+    "width": 1280
+  }
+}

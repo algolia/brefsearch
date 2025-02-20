@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "isAgeRestricted": false,
+    "likeCount": 138987,
+    "name": "Bref. Je suis allé aux urgences.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk",
+    "viewCount": 11560525
+  },
+  "line": {
+    "content": "J'ai dit que j'étais allergique\nau vinaigre, que je m'étais foulé\nle gros orteille gauche en 2001,\nque j'étais A négatif et que",
+    "end": 75,
+    "heatBucket": 2,
+    "index": 37,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=71s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E43_brefJeSuisAlleAuxUrgences/071.mp4",
+    "hash": "694d56a9da",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAdR20aSHA8WnaIkJZtbnIyLi8mIiMZGBgLCwxOT1GLlJuIkJdbXWEODRAREBMSERQAH011HFF7O159lJqeb2JhNCwrXklFZE1IOCwpbG9yj52qh5GcRkVJGRgbFBMVEA8QACJTeyJZhTVbfJOboIh4d2hTT1tHQ15GQWlWUpeepJKbnI6Sljw5PRkZHBUVGRQTFgAdUn0VUYBFbY2OlJ96cnVtWFRZREBUPzpybm6eqa+Sm5+UnaRXUFFAMS8ZFxoTExYAQWyQc5GqnK2+jJWiT0NCTEA9Tjs3XEtGnJ6hqLC1nKq1m6WvYlVUa05IMygnDg8SAJ2msqGotJOesIOZsktQXDUrKT0uKkVMVrXAysjKzK61u62xtmJYVlxHQ0g4NRYVFgB3g5V9ipyDj6GFk6ZmfJY8QEsyLjBNb5C1wMrKztO/w8a/w8ViXFxBMzBdS0c8MS4AanWHdYGSfIiZg42ekZuraniKMDlGepKrxMnPtLzFtrzCxcnLhIWHOTEwTEA9LyYlAGNvgGl0hW96jWJvgWNvfYKMmj1QZYeUpLzBxqWuuaKqs7G2uaGnrDc4OwkHCgICBpFBsC9YSWKZAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E43_brefJeSuisAlleAuxUrgences/071.png",
+    "width": 1920
+  }
+}

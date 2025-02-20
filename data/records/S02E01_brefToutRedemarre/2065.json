@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je le prends pas mal, mais\nj'ai envie d'être un peu seul ce soir.",
+    "end": 2071,
+    "heatBucket": 1,
+    "index": 688,
+    "start": 2065,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2065s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2065.mp4",
+    "hash": "a176958e56",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABaElEQVR4nCXR2WoTURgA4JHmbP9yljmzZZkmzdhMkpJlMkZSDVi9CVawFG+LIn0IX19E+N7gS6ISI9bbu0mMXJRu04Q2E6SF18JKwUo4LcZOLis1EFIomexTOhX89f18PvJ3b/On+/Hv3jU514FuLDQBbwJeWv7ROYnkgk02AfsMuwjOmNTyeW6fl5SBDlpPyMwDrHN4XNL3jVWAzlOyDdBn9KGiDAENXGZ0WdinQ3zep4uIiwj7Cj439HK03ZStp2SXYp/ReYgzB44xZ+ym9s+36vVj/mVKDzP6NKNjjS9Hu6nZWk4OkQ4RTwW1HkAZJY0HrD3ucnMsTT+m/RAPE/p574cZeUvJ1uMtQ2uhsYDKCGkiYcmUMaQMucVlhg+3/HpOUwfMmKws7gK+i7R2GA28kXClSRtcl7QqeGSpq/hxZX+dwnhcxdQnhRGlkVEJLwcwGCRX4j/WokThlCD576GtTH19zQR/AUxNJ98b/nqcAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2065.png",
+    "width": 1280
+  }
+}

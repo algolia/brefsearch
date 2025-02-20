@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 699,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "isAgeRestricted": false,
+    "likeCount": 94559,
+    "name": "Bref. Je sais pas dire non.",
+    "season": 1,
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4",
+    "viewCount": 7987391
+  },
+  "line": {
+    "content": "— Écoute la basse, écoute la basse.",
+    "end": 86,
+    "heatBucket": 4,
+    "index": 40,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=84s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E32_brefJeSaisPasDireNon/084.mp4",
+    "hash": "fd9339ef9f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBFODY7Lyt4cXWNl6pjZXB7go16gY5gUlNyV0xRQT5xbWzDxcDDxsC2urSoqqeanJkASjw5QTMvenJzi5SkaWt2hIuWi5OgeWZmfVlNSzk1HxcYkI6L1tvVxsrEvL+6q66qAE9APUg5NmxjZFtfbUVCSVhZZVlaZG5ST3lUS1o7Nh8QEVtXV9PW0MzPycXIwbq8tgBYSEVSQz1qWlZXUFRQSEdgWFtkWVtkRD5oQztvSkMxHBp2dHPW2tTM0MrKzMbExsAAW0NBUSclcVNSY0dPZ0NLdV9nfn+JXVdeUDQvZkZCi4+YxdHP0dPLzM/Iy83HxsjCAFA1MkgJCYp2eYyBj4J1gYGbrHygsk1qhDk6S2Fjb4ayyo6ywrPJzsfMyMnMxsPGwQBLMzJADg15WFt1VmN9k598o7RsjKNaeJJDM0RUWmx8o7aPsbyUuMWducOIiZF+foYAOyUlPhYVWxseZUVSh7LBYX6UTWiDY4KYUCY1ZHKHcpGjiqizlbfBiKy6bX2KVFBaADMlJT0kHlc7PXmSoXqdsD5RZ09rhGyImmApOWZrgXCSpltvhGyDkm+MnWJ8kE9TXm2dyG69oeBHAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E32_brefJeSaisPasDireNon/084.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 468,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "isAgeRestricted": false,
+    "likeCount": 87383,
+    "name": "Bref. J'ai fait un dessin.",
+    "season": 1,
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY",
+    "viewCount": 5904585
+  },
+  "line": {
+    "content": "— Mais quel monsieur ? Il y a pas de monsieur.",
+    "end": 84,
+    "heatBucket": 3,
+    "index": 34,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=82s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E64_brefJaiFaitUnDessin/082.mp4",
+    "hash": "be6d015709",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB2Yl10YFp0WlFVPDQ3JSI9KidMNS9XPjZcNyhWMiNMLiJXQTtvWFF3YFhwW1JqVEwAeGNdeWNddllOTzYvYEY+Z0pAVTgvXEE4UDUsMyMgMyMiOCYkOysodV5WbVdQalNMAHpjXH9oYXdWTFI2Llk5LVk4LV48MV5DOj0pJS0eHj0rKDkpKCkcHFE9OVdAO1pEPgCAaWGAaWFzUkVTNCpuTUKQbmKObmNfOy9XNixYPTVALCckGRkiGBhVREBuWFJlT0gAgGhhinVujHJpYEc/a0tBjmZanYB3gXZ5XkZEmnNld1hOIhYVQi0onYF2c1xXSy8sAIx5dLWnpcG1tMCyr5B1bXJUS5uUmpShuGBjdF5UWkpFTzY2RHdpcJqDgGZQTFhGRQCKfHmsoJ63rKrHvLrAs7CtpKSQmayQnbSPm7F9iqJyfJN1fZJzf5VyfJJWTFNRNDQAcGFgcGRjin59lYiGhn+Ei5areoWbYmd3kp2zlKC2jpuyhpSrRUVSQj5KNzlHWCwtAIp9fIR6eXRoaGxhY2hfZZGGim1teWFeaIeTqpadr6uen5mSmHRtc3x/j05VZUYmKEZOpqWsXc0jAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E64_brefJaiFaitUnDessin/082.png",
+    "width": 1920
+  }
+}

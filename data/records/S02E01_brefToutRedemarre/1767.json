@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Il est à toi le fromage dans le frigo ?",
+    "end": 1769,
+    "heatBucket": 1,
+    "index": 584,
+    "start": 1767,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1767s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1767.mp4",
+    "hash": "12fd261cad",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nAXBzW/SUAAA8N5GwbbvvbaU0vL11vb1Y4V2DFdpA4lxGUxhyDZ1xosHBYTN+JGNaDSL2dTEuKjRTCOa7DSixsP0oAf/N38/6gyEcY5lIGAhx0AgS2hWhViBWIVaBiVFkICA4ThPlxoBpmmaatbTlp4LSwXNzGeJFi2STp20IqNTIxdD/XJk1hdI2ck+vU6mO359TqZG60ARkr4ICrPZtKEFZf1SVWsGWjsyLpQL/aozPO/5BaFKxOU5WMzx1J0lOK8KNQVUrKzv4kagt0NtJcDNxfzqucKane8uEJIRsIxUxCkiT23bsf0qehnCR178SZkdz4ONitoKtRfjzcnru71WeK1dI1jFEmukgSLxVL8I7pfQ2EN9wgxMOLKFNVfqXQlPp6/+/jr6fnL488e7nYc3WR5JAkpBjrrtooEDtmxwy+KHnjz0lPWSvL974/Ob3W/Hz79ODj59fPb+w56cEgGbkBCgeg7atuEDGw0MbmSiLZO/6ibvrQbHB73pl71/fya/T4/eHj62sKJlZDklUg6kPTTjo1gRzBRhzEO0IcRLKlw6a3VWos2NRre7XHF1mKBxPpdg2P+wPl/yRqYjYAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1767.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 638,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 2,
+    "isAgeRestricted": false,
+    "likeCount": 106679,
+    "name": "Bref. Je remets tout à demain.",
+    "season": 1,
+    "slug": "brefJeRemetsToutADemain",
+    "videoId": "JmghDKkeiik",
+    "viewCount": 8541792
+  },
+  "line": {
+    "content": "Je range chez moi que quand\nquelqu'un doit venir.",
+    "end": 44,
+    "heatBucket": 2,
+    "index": 13,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=42s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E02_brefJeRemetsToutADemain/042.mp4",
+    "hash": "f3b81be35b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCrn5q1q6ePg32QiIGikX6ynIK6qJOVe2OchnVLRkMyJR1PQjynoaCelpacko94bmoAsqeivLOxk4F0oYhqk3xmpoxxk3hji2pYpop4Uj81JBwYMCciiIKDjoeGnpeXfXVyALiuq7yzsYp9c31dTWtBLIhpUGtOPW9PPKiRgIZ4cls+L3lhVGl7m4CNo5iRkYN+fQCkmZbEvrt7c203O0ptTz+IZlNZNShUNCeAZFeVfHdxXl1Wap1ij8h2nMempa6vpqcAhGpjooR9d15WOjQyj3hpclRHUhIMRw4LTRgSeBgKXEx1R3rEZY3BcZfFlJ2up5ycAGk6L49iTJBlUIBpYFtEN0U7NikJB1cgGksmG1EeIDRLmUVut1iCvWePwJObq6OamwBFOzibhm2BblhmYWJWTEpBOjQsFRBLIx1XOCYsJkcuU64zUp1CZ6xchLiPk6Cdk5QARDo2knpilIBsamdoWVFOJiIgKB0ZNA0LRioePjdFRFWNITZxMk+XU3ivhYmVk4mKAIdsUpp6WWRSQCstLDw4NxAVHR0YGDAJBzgaE1w9Kkg3NBcqXS9JkUhqonl9iYZ+fZRPr0CR/E+NAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E02_brefJeRemetsToutADemain/042.png",
+    "width": 1920
+  }
+}

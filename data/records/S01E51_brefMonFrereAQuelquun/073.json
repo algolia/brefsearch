@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 472,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "isAgeRestricted": false,
+    "likeCount": 95130,
+    "name": "Bref. Mon frère a quelqu'un.",
+    "season": 1,
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY",
+    "viewCount": 7361073
+  },
+  "line": {
+    "content": "Merde.",
+    "end": 74,
+    "heatBucket": 1,
+    "index": 34,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=73s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E51_brefMonFrereAQuelquun/073.mp4",
+    "hash": "7568352c51",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gARCQwfEhU9KylFNTFUPztwTUGRY1GKX0+KZFemdWBIMCoKCQwmHh81LCopIyI9NTMAEwsNGg4RW0ZCfGNbLSAhOyQgjV5NTC0nUTo1lmdWXkE4AQIGNiwrMCkpJCIkPjk6ABYNDxQJDVE/PaaIfGBEPHRTSNGZgJJlVYhiU8iQdoBaTDchH09APDo1Ny4rLC8tMQAQCQsMAAU6Kimbe294U0qacmXco4e9hWy+h3DKkneLYE+EV0pSSUgkIiU5NDVAPD4ANSoqU0hIbWZnknZsdE9FcVFHmm5cqHFdsn1mp3RgfVZIcFdQKCkuOzc6YVpcW1RUAGteYIyChZiQlIBoY2lLQkgvKlU2MJJnV6p3YoNcTUAxLyspLSUjJ11XWWRdX1hUVgApHCAsHiM7JCNjRz9XQDtXNzFlPjd1TUFyUUVeQzxANjcwKy89ODtYU1VNSUxIRUgAHRIUGA4SMBsZZ0hATTw4STEtZ0U7cExBOSgma0xCUUBAKCUpJSIkListLysvNzQ3ABMNDxYPEisYGFs8NEs3MigcHDYlIi0eHkcxLH1VR04yNDwqMCcfIycjJiUiJScjJ0kudtmj1OY1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E51_brefMonFrereAQuelquun/073.png",
+    "width": 1920
+  }
+}

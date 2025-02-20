@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 954,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "isAgeRestricted": false,
+    "likeCount": 112535,
+    "name": "Bref. Je me suis bourré la gueule.",
+    "season": 1,
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w",
+    "viewCount": 10683117
+  },
+  "line": {
+    "content": "Donc 100 points, c'est pas top.",
+    "end": 37,
+    "heatBucket": 5,
+    "index": 18,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=36s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E16_brefJeMeSuisBourreLaGueule/036.mp4",
+    "hash": "9078ca75a0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVdJREFUeJw9kL9Lw1AQx+/uvbaJGOwvmjaNCQhJ27SpBE1tUBwEJ7H+oChCO9RBRBQnnZwUpNKCODk4uIqL9X9wEv8oeS+ltzzu3n2/d/cBRCQiQgQATVW32i2rVAIAQhFExBiT/9MU4gcRGWMN2+xEYcO25lVVaGQ3YwylHQAwxkRV5AiaqriF/HDQ665HSc6JiHOeSHBE5JzHc4RAeBMBoKYoVT0/Ou0fRmuxX7lc9n3fdd16vV6pVLyaJ6pEYlwxmw6XrKKaGmxG3aiVyWQBwDRNz/OCIDAMw7Ztx3FiAQHAhmOtLhYLc+pN9+Bz+PQ2fllIcUCxlUAiI74TAFFJJo7DWjWrldTkQ/9ofH111tnxzYJkNSMkQgoA9LTWa3nby7Xzk/7r4/Plxe3eSjOwdIllCio+Ol4HHD23H7j3d6Pvye/X5O/942e3HTaNnBDIphlcIvoHue4swckfqgAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E16_brefJeMeSuisBourreLaGueule/036.png",
+    "width": 1920
+  }
+}

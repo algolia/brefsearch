@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 559,
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "isAgeRestricted": false,
+    "likeCount": 109536,
+    "name": "Bref. J'ai fait les courses avec mon frère.",
+    "season": 1,
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog",
+    "viewCount": 8961396
+  },
+  "line": {
+    "content": "Et cette fois, je lui\navais dit:\n— Elle m'a quitté.",
+    "end": 18,
+    "heatBucket": 4,
+    "index": 7,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=16s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E15_brefJaiFaitLesCoursesAvecMonFrere/016.mp4",
+    "hash": "a414b36622",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAhIzIGBQYGBgYKCgolIyhpZ3d5fJB4e5B8fY2DhJR+fox2dYJnZnBXVV1KSVA0MjkAOSgoEA4RISAmIiIqNSgomHxymZaii4+jkpWnmJyvj5Chg4OQbWx3X11lT05WOjk/ADsqKBILDkg0OTUnLSMWGJR0Zr2ws5+gsaGlu6irwpSVpoyMmnp5hGlocVlYYUNBSQArMUMSCQxlREZQNj0YEBlSOjHFraXBu8OdoLSmqcCeoLSZm62IiJZwbnpaWWM/PUUASDo6FAkNVDQ3SzI7IyIyHhAQjW5i2tDRsq+7l5msmJqsmpyvi4ydcXF9VVRdPz5GAEM2OBILEjclMjMeKCIeLRwQEIJjV9XHxci8vpmWopKTpJSWqIaImm9vflpaaEJCTgA8MTMxIShUOktHTElCT0s0Jia0nZXMvby7opqblqCKi5yCgpJ5eotnZ3hWVmZFRVUALS48KRchRCIvMDg0JjIuQTEvr5KGyLi4vaaglI6YhIeZb259ZWV2WltsTU1eRUdZADI0RQ0NEQACAgYEBQAAAEY0LqWEdLekobObk3pyeGhpeV1calJSYUxOX0NFVT5AUQWUpTZNSUCYAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E15_brefJaiFaitLesCoursesAvecMonFrere/016.png",
+    "width": 1920
+  }
+}

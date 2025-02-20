@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 301,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "isAgeRestricted": false,
+    "likeCount": 56431,
+    "name": "Bref. Je me suis fait agresser.",
+    "season": 1,
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8",
+    "viewCount": 3657673
+  },
+  "line": {
+    "content": "Au lieu de ça, j'ai dit:\n— Bonne journée.\nMerde.",
+    "end": 39,
+    "heatBucket": 3,
+    "index": 13,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=36s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E44_brefJeMeSuisFaitAgresser/036.mp4",
+    "hash": "5d704ffb9e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBRPSkeFxU/MC17XE9lTkNzXFCTemp9YFJcRzpjVURpXE50aFsdOFEWLkYoMTofMUYAUjwiRDMmY01CjGxbbVNGX0o+cFlLgmVXclpLXk89a1xMeW9iUE9UdWJhZ1ZROTxDAH98e6GfnqmhnaOLfnlbS0YyJ0UzLEAxLFtKPmJRQGpdTHpnW4RdUItkV5ZwZGJJPwChp620ur6+xsq+wcOhl5FVRkA/LSFLOCZPRDlIRDxsV0lsST+AXFJ4V018VUleQjgAnqKnrbK1tbq9ub/CwcbKuLu9YFJFOysfOzUxPjs6XUM6Ri4ojWhcl25hbUtBJxwcAJqfpaarsK6zt7G0uLKzt8HDx6CjpyknLBoZHkY5NnlYTHdXTHBRRWtJP0oyKxcPEACQlpyeo6mkqa6pq7GurrOvr7TExsp7e34SDxQhGhtENC5QPDRKNCw6JiI2Ih8mHyAAfYWNkJWcm5+lnKCmoqWqqKmus7W5rKutPikpEA0REw4SLSEeRS0mNiMfLCoqPz0+AHB3fnqBiYqPl46TmZGWnJeboZ6hp6OnrEQ3OSsZGhoVGBURFR0WFxwVFjs4OD08OlY/pxofDWaKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E44_brefJeMeSuisFaitAgresser/036.png",
+    "width": 1920
+  }
+}

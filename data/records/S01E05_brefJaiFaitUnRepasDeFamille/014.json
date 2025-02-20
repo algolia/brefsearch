@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 637,
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "isAgeRestricted": false,
+    "likeCount": 100059,
+    "name": "Bref. J'ai fait un repas de famille.",
+    "season": 1,
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M",
+    "viewCount": 8221984
+  },
+  "line": {
+    "content": "Un frère complice.\nEt moi.",
+    "end": 16,
+    "heatBucket": 2,
+    "index": 8,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=14s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E05_brefJaiFaitUnRepasDeFamille/014.mp4",
+    "hash": "4193ff79b0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwVtP01AAAOC+kEBYPes57ell3alru3Patd2mbNSxW6bZxSlrBwEWNAEBJ1EmyqIx6NCoEUyID/jiK+oP8Cf6fdzc3AJa5H0Ec1i8sQjWQ+dD13yah9OWud8MNpcyvgJC3wsI6Xosvs24+fkE5sGSKtcyegqiqERfN8mGg3artE7TjYDdLeaW3awNxXG7EZcYB3gg8SBMa1UrnRKElmvsl7UBk6I8MSU06dc/jnqJBPAk/G54b9XTOQlABQg5GZeIpkPYyOodKpsSDHTccoxRtTAsezpCREJFQ2WqyOGkkIEwA6GBRILQatHuM9VNp/rU3F2m7weVF61CaJNbluW7+WzG5uSkYCFoIaRCRBDarhU2ijePN6PZVv9R2Tm4Q4cBqXns+8vDtXZHV1ROAkJWFCnGCoQmxuNOeHk4uj57dX2yfTqo9pha0dCz6P6/n5dXp28MNcVBACmWAk2RBUhleLHT+Xt29HVv7cmKO4tr0wf1nm2dH41/zd7+/vbJJgYnY8XAsqcpiE+uOOaPvYdXk8fH691J3I59Nu1VLnYGJ6Poy/ODP+efm579H/N5WYHUCgzLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E05_brefJaiFaitUnRepasDeFamille/014.png",
+    "width": 1920
+  }
+}

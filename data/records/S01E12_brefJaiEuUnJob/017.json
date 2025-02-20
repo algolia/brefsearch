@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 543,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "isAgeRestricted": false,
+    "likeCount": 114614,
+    "name": "Bref. J'ai eu un job.",
+    "season": 1,
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8",
+    "viewCount": 9722385
+  },
+  "line": {
+    "content": "— Vous demandez quoi en termes de salaire ?",
+    "end": 18,
+    "heatBucket": 3,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=17s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E12_brefJaiEuUnJob/017.mp4",
+    "hash": "7bfa3aaf6c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCPiZWRi5aVkpuamKGem6Sfm6SjoqyWgoJGKiFkRD1fOzI0HBZpTERmRz9LPj6lnq4AkouXlZKcmpihn5yloqCopKGopKOrtJWSs4qDnXhxiGNbZ0dAbUxEaUtDX0lIpZ2sAJSOmZmWn56bo6KgqaWjqqelrKinrpV1bqB2bUQtJ2VJQZ5zaYNfWHRTSnxaWKWdrQCVkJuamKGfnKWjoKmloqqnpa20tLyOenZlQzlePzxbPjloSUFeQjpcPTaJd3yvqrsAlJGbm5ihn5yloZ+oqKeuq6mwioePWU1NYEE3VTQuVTUtVTwzWUA3Qy0nGxMYV09XAJCNlpeUnp6bpKakrZCNk2FYXjwwNSUcHkAtKEIpIEkwJ0szKk00KzAfHQcABRcNEACNipKUkpuYlp9ya3FHO0FCNTo9MjUfGBsmGho8Jh06IxtEKiFIMCkaEBUTCxAeFRkAiIWLk5GZa2VrOi0xQTY6QDU5KiEjIBcaIBkdMR4bSiofUC8jLRsdEwwSHRQXHRQXAIB9goiGjFlSVzInKzYrLzcsLyQbHiYdHyceIhYNFDIYEioVExEJEhgRFB8WGRoRFN0HoJ7SkkgVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E12_brefJaiEuUnJob/017.png",
+    "width": 1920
+  }
+}

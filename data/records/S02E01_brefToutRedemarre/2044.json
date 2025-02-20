@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "À quelqu'un dont je me soucie pas\nde la qualité du sommeil.",
+    "end": 2046,
+    "heatBucket": 1,
+    "index": 682,
+    "start": 2044,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2044s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2044.mp4",
+    "hash": "2000c15b64",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABd0lEQVR4nE3KzUvCcBwG8N+/07lbL4egdFGYduw/6JotJ4gFdcqpW6a9eAgSU/NgREmXSFxQuN9cK122LcutzF40PK7MxZZW8OHh+zx8AYrZZw0oZkcd9lndTDd/2Du78QZamvqpqV+a2jLyS1Pb2mdb+/hP07Mzgue68tJQHl/l+rtSfZMrtbKkCLoHUZQFSRFFuSRUOsRKCUhPyvQ2nNo4P7yQGs2HM+6corOwSFOQgkX6lKEgDy8Elr3JG1gAy/e9i9keVyZwzDebcq5AH52k08cHiVRs/2gvm8twAlsoX15J3NWtDlTfKpmCkMrxcu1ert1xNxwsMgyfz1+zjHEwfB4WmV8A9fhdfmKBJDEv4fSSTt+KAycwL4nhenXgBLrsQz0+DCfmPH4H7gdENB5IJL2RmDsUdoc2u8Ku1XV8OxrcTZI7cTwSdQU3l8Jb82thYJqwIjbbsMUyYEb6TX/6RsxDY+OI1Wa22kYsE/0mBLFODiKj38wXI8hiDHWtAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2044.png",
+    "width": 1280
+  }
+}

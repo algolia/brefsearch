@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 614,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "isAgeRestricted": false,
+    "likeCount": 96372,
+    "name": "Bref. J'ai dîné avec cette fille.",
+    "season": 1,
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY",
+    "viewCount": 8801399
+  },
+  "line": {
+    "content": "Il avait utilisé ses cartes \"Regard en coin\",\nLe verre, c'était\nlui pendant que j'étais aux toilettes.",
+    "end": 78,
+    "heatBucket": 1,
+    "index": 33,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=74s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E36_brefJaiDineAvecCetteFille/074.mp4",
+    "hash": "52fbe9d9ec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwd1u0lAAAOBeglB+2tFD2/XntIUjtOuho7SUQmspsI2Jc+0GbiiLySJOY5zRkJglXs0sS/Qd9MJb730Mn8LX8PsIXQGtJhvZ2l4HjS3tYohHHXE+Nr9fPfdM7O60DChvlslmmRwP2qFZJ1oNxnNAz1BNSbzo6n9vXvz5uFhPnev5nm+1DwfBh0Vyu15tzmavnwxPQptwbSbwuDYUFFCJkfRrNfp3v/5x+fjl1O8i9c3i9Pe3u7Nh//3J5DodH1h1oos5F4v7kPXF6rGp3k47dwfufdo/8i1T5GdB/9l4uPDwpyQ+j1y9ShORLsUOSgzlVIfvBsbPZfwlbr8KcEPglrGzSR7NPbwe9/YxOo/9ya5BjDDqm3jSgL7MpYZ8addvhtbbvpl6O5/T4Ovq6GoaRk3NEDlLEbEiEA8FBIESKpy2VW4A+ikSbEDb5eKsCbtIxjLf4oFGl9UCCTPZ7UyWoMmKxMhtHtToUqVAhqq4K1QhQ0dN2KtLLFUCxYINWVQsoFwe5nJEKU9VKb62RVuA4srUNsW6EnAkJqzxbLlIPshTZF6rUCyZr2SzpUzmP+KBWogXm8ukAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E36_brefJaiDineAvecCetteFille/074.png",
+    "width": 1920
+  }
+}

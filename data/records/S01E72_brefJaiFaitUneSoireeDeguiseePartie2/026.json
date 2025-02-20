@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 347,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "isAgeRestricted": false,
+    "likeCount": 69621,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU",
+    "viewCount": 5660756
+  },
+  "line": {
+    "content": "En arrivant, mon copain était pas là.",
+    "end": 28,
+    "heatBucket": 3,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=26s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/026.mp4",
+    "hash": "263b00b93d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXhJREFUeJwVzslum0AAAFBa4dlgmA0D42HxACaAzVI7rlGcqlIvveQSdVESJaeq6v//QRXpfcBzGF8PVWm19ikVQigpORdztR1yQyFiHqEYexBhiBBEEEJHMDZWtkhin1IlpY4TnehzbctQUNcVEAYA+S7wXIgBRAg5PiZzXe1tQYNAKWnzbd8Ob9fjnd1QACSCDCDPfUcgwhg7wvdSJQdbUBooKZutvT8tX4bDpW+tNhysOIQCEbp6XxFCnLsmLyTTggeUSiH7urlOU1f3ZV4qLiRGCiPv44eQBoJxjJDz89yMedoXGSbkYLPf3+6P3eHzeGsiTX16k6Vdlp/66e/T67Hf61A5T5e6iqOxLiMpb4v45dI+LOfzcFqLsIqjnU4qvXl7fP73+uc6zYc0cX4tN5zgymzWAduFwfc2e1zmZfokuWp13KWmNHlf7mqTltpYvXF+LA3DOI9jDwAKVnMafx36/a7LTDEWWWtMGiVarrWKSmMqk/8HYzYvKMFP0KsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/026.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je sors du train, je fais tout.",
+    "end": 1222,
+    "heatBucket": 1,
+    "index": 387,
+    "start": 1221,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1221s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1221.mp4",
+    "hash": "57a877171c",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBS4/SQAAA4IbE0KVP2jKdttNOO9NOaUtBKI/lteK6LJAQDKvZRyBL3ATFxHjw4EUTb3vTi//AX+r3cTzPG6IgC5WU2RCoRlWygOKYKjKrQJNNQ4FAqemKVpVVVZJlgTMNfeTCPkWnw6zfpnmMhq1gWpBxJ3xaNh+7QU6cXpvmCU4iRHybo6Y2xbXdVedwP2kmXkrtXsMbNP1pEf79uvwyZSk0bje9q0laDx2CLS5zwQjXRjmN65hgsxmjbk6GLXI9Sf792B6H8RDDw8Ns/25cp8j3IDdo+P2MRiTImb/qezcj9+PK2V+ivN34fHO+YBbQdNV01sviw/vi7ZuUe91ls/PWYtxeTTqbWfZp7v7akfksKynwYpA+rgvo2C9U6EXk++nieFdwMXEJoSwKkeczHz/N/dN9ASNWEnWWxb+fjx4NBMtTTWv7Ktqtc86AyLaRAx3HhMCAz9/mf35udeiVqwDgYPdwrdmuhqkK0aIb7jcvOb4iCrIiiNKZIJ6JUuSByxwnCJTKlYqsIBfyolSWVV5SWlnEAvAftyJHpBcyCiUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1221.png",
+    "width": 1280
+  }
+}

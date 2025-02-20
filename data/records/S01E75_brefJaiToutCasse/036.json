@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "Enfin, c'est plutôt elle qui a\ndit: Ça suffit maintenant.",
+    "end": 38,
+    "heatBucket": 1,
+    "index": 16,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=36s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/036.mp4",
+    "hash": "f08d734302",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwW1TmgAAAGD+wna323lrbk493x0p0DRAARFLofCFoXEuEs00mijkhqSZs8Rqa/Zyfdr2U/c8ABKDECTZ7QzOJvZ+Q61WZXN0dXg0QEnWD2IIxvQH1vhsrusjVTW0EwOgSCaFU9b57dXkWuYrsvD5Yn4/NC+jIPLK4YyC0GKxenr8t1z8tu2Vrp0CDJ3bYrZ/LB7b8lfK7RPordHkZmTZyVTOHYjhqexseq0b1m5RLHDl6l4D2EymaYqpSc1AnHC+DWYjMFcUmTwfisDO9z5wA0vgZOhj7J3XH4zAcCIDfPCEcTSF0xWXZ33NFd0JrkNRGE4Q++WKwnP5wg6K4nSGYVmepvNxGANi8U0ISnjDkMsbf+nwod5IyBdmi7Xn5e2daQ4NK1Oo8KLCCQd9fXqifgdarR5J0HuSwu7W3zj9Dg90rE1Xqz8/v1lP44uby7vlr7/j2f10/jCbP5gjG1Ba/XZnKDX6XxoaRrAv3BulunasnScxRpQ6PWN+qFpye6i0T7vdYbPZAyTpSBAVelsgsiUI5zxg+hNZFGvNNJF/vRbAM7wgHhAMT+VKpXK9Ksr/ATTSkJaYT5hVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/036.png",
+    "width": 1920
+  }
+}

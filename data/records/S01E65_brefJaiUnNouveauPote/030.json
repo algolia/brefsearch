@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "isAgeRestricted": false,
+    "likeCount": 117672,
+    "name": "Bref. J'ai un nouveau pote.",
+    "season": 1,
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A",
+    "viewCount": 8812723
+  },
+  "line": {
+    "content": "Un soir, il est resté dormir à la maison.\nOn a parlé jusqu'à 4h00 du matin.",
+    "end": 34,
+    "heatBucket": 1,
+    "index": 11,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=30s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E65_brefJaiUnNouveauPote/030.mp4",
+    "hash": "9334524254",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwV0clu00AYAODf63j31LvHju2p18h1EmLjNmnoKqJWQq3aKnBAHBAHhLiiHhEHjhSuSLwFT4j4XuEDxIg8g1hAHIgMCCLD8SACyAASgNy4du/bmapowCJgESOAzksKryBWMZCOeMM33da3BRAlThJYqYuCPnSH0LV5wUOoNlSwEcr9sJ0k1PVSm1Th5GJKO9+lhkFN8ygh2ypdJSTHeCD+zDKB2tbRtDqdd31Bb9bDPEtX+/FllU00/TAh52X2qitXadS4zkD8pW/Bp7uL+7P194+vT6b064eHP09Px0WyndWhqtXO3klNt83+PPAyjDvXGUIPdkO+rvOrRVW6zs9vj39//xgScnzQnHd1is02Cg8nITWNSFUrjPvAgzEjq4rejvPd0P56/PzlzUMTOC+HxSyNLUnN9qzCwkSWXUHINK2zMASKcjbN3p4uRxrfPD/YbZbLIrken1lIxoJssqKnaLGmOxxX6mrO8xCpUk/jsUhKy3x/vbnbLN5dvRhL+v+C4WVgBeAUDrUO7nSJAPwD5Xw3oqdUnfoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E65_brefJaiUnNouveauPote/030.png",
+    "width": 1280
+  }
+}

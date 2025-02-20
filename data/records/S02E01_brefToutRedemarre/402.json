@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "J'ai pensé à ton problème de thune,\nj'ai trouvé une bête de solution.",
+    "end": 404,
+    "heatBucket": 1,
+    "index": 122,
+    "start": 402,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=402s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/402.mp4",
+    "hash": "9cd1e4fd86",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nBXC61PSAAAA8HXZZdAck90YsPfYxtjGHjzSFNglQx7jAKWyNLEEow10lZwTvOy0D/b40Kf+i/7Hrt/9gHxOzBp8gkRJGmO5OC8kJZksldScEMvSsEZBJgNr1P8GuyoRMDC/8WbXo8GwNRw1XLft+92rLwfff7qdIju2xOGWdFhm3ldT3rYQ9LPnPRXoH3Q+X41ni6OzaTuY9RfzvbsfI//ijYgiQdX8M+lWFaylx3sFYr/MuY00QEjpzYZValV6L61PfvcyeHFzO7j+elTi8MP1zN9vx3sVsZpBbAXb1hJNAweiJCEqnFHI1Nob45P6mecEF89H7m6Wo7oydTuom8V8LkM1TcKW0aaeAEyJcNbYd456sr/pDe3Tcf2j5/CScA/CinnVe9sJ4/wDhCQF0SqkiykU0Bm0pidfV1KTHf382Dod1SYfHJqlVuI0zCn+fLphP8ORlRCSXDckjiEALr5aSMVsDX9VZidtedo33IHFijyYYB/i6cu7xa/fgZSEo2hM49nmmgKAoeXo40cYFGJQUMIjOR55ouIQHFkKQ0tglJOlev0pGIHvL4dxkhYJ7B+G42VOqI5K7QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/402.png",
+    "width": 1280
+  }
+}

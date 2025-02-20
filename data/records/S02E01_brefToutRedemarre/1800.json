@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "sent le fromage de chef comme ton fromage\nde chef comme ta gueule qui pue la merde.",
+    "end": 1804,
+    "heatBucket": 1,
+    "index": 596,
+    "start": 1800,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1800s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1800.mp4",
+    "hash": "20ef11ec21",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAcGBg8OCwkNCxUSDUhFNlhYR01KO0VAL0Q+L0M8LkE7LS0kGQ0ODBocGS4pICoeGQAKCQooJBwdIx01LB90ZEyXjnTq7siupYC8uJbc3rze37p/cFQlJB4/Qzt0alRbPzMAFxEPNC0gHyccMiofb0s2YzYep6KMn5Z2r6uO4erN3+fGh3lbNzInQkM5b2dUV0E0ACkbEjApHCYsIjkuIodfR18vHol8aKebeaygf9nWtdPPr5WDXlZMNVFPPVNOO0s7LgAVDQo4MSQwMig5LiJeQTA2EwySiHLFuI/BtZD278j07sajkGdZTjRdW0RrZUtuZU8AGBAMQjcoWE87a1k/Z1I8UDQidWRNk4Bcx72X9PbS6+rFqJh0f3JYioFpl4hsinlgACMdFTAqH1lRQF5IMI93VJZ1SpxqO3VbOqGRbb62l7atkKaagJ2PdZKCaoBuV2tYQwAJDxESGBlIQDc7MSeDc1mwjFydWSSqlHWuo4irn4WlmH+ZjHSKemN2ZE9qV0ZKOy8ABgcICw0OGRYTFhQRIBwYPzAfRTEgU09DTUk+SkY7Qz41OjQsMiwkKSIbMSwoGRUTVNiX792dt3gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1800.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 543,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "isAgeRestricted": false,
+    "likeCount": 114614,
+    "name": "Bref. J'ai eu un job.",
+    "season": 1,
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8",
+    "viewCount": 9722385
+  },
+  "line": {
+    "content": "— Vous avez bien entendu, Jean-Louis ?\n— C'est sûr ?",
+    "end": 97,
+    "heatBucket": 1,
+    "index": 43,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=96s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E12_brefJaiEuUnJob/096.mp4",
+    "hash": "cb687d6e3b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCtws5+kqFLPTtmSz9QOjBbPjFxTT14UkKAWkuIY1h6XVV2XFeJipF8m7CHoLGxwcsAjZijV3KJOz5FbUw8YUY5PS8rVzwxfVdJeVRHX0c/V0hFiWpjc3eEaIifl626nrTAALGXj4yQmj5NW2pLPndRP2hKPVw+MXRQRXxbU19EPIBiW5h3cFxoeV16kniSpZSkrgCEXlWYdGlyc3pdTEd8VUNxTT1lPi5wS0CLa2WCYFePal6AampaboF3k6eHkJu1oZ0Ai25oaUU8jnt3XVhadVRHZD8ycVpTl4J+imdhdlJIimhfZ2VtXnmNdn+JjGthnoJ8AHlgWXNYU3NSSXJkY0g1LXNfWLGwtLa0uXliXWFHPWRST1NkclptfXJbVVs6LoJiWQBvUUhzVEtjQTd5XldsZmeysLOloaVQPTw7JSI2JyIxNDhAUFxgVFNvTT9jSD51V0wAUTUvSi0lTy8nc05Fr6anrqywZl5eRTg4WU1OUk1PU1hfYFpbY0E3US8lYEQ5XUQ8AGhcXXJqa3BiYYl1cbStraumqKaioq6qqq6pqa6oqK+sraegoHRgW11RUmFTUVpNTZiQsxXxVWrNAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E12_brefJaiEuUnJob/096.png",
+    "width": 1920
+  }
+}

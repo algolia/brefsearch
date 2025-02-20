@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 359,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "isAgeRestricted": false,
+    "likeCount": 82145,
+    "name": "Bref. Je suis allé au supermarché.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4",
+    "viewCount": 6898714
+  },
+  "line": {
+    "content": "Bref, ce jour-là, je n'avais plus de déo.",
+    "end": 2,
+    "heatBucket": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=1s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E21_brefJeSuisAlleAuSupermarche/001.mp4",
+    "hash": "de3275541e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBTTVdqaHx0cod3dYiBgJJsa3xIP0ZvYGeEgZReWExeWlp1coRvW1JwYmV1dItcUGYAWlRhZWBvbGl4bmt3YFxnUkhQQi8vq4yLm5aicGRfjn5+gn2KZE47cV5TgICVUUJeAF9caWxremVjb2JgbDc0OWpSVo1oa6SFh4J9iG9gYZ2DiJF9gm5RM3xoW4eHnV5RZwByc4R3dol/gpJ6d4SAbnV8X2JzUVGegoSbmqZVT0pNNTSfjZKHenaCeHyEg5SAfY4Ad3iJcnOGg4GToISJpIKGn4aLrKGkwbG0uKCmtJ+miW1vooyRl5akfHuKgX6LgH2PAH2AkmxugYF5ibmnrr+xttLP1tPK0KmXm2FKS4Bna49zeIFqa4J7hHl1f316hnt3iAB6fZBhYXJvaHetl52wnKKypaqSe4B7YGFuYVdgWE5fT0FoWVJsZGdsX2NmUVluaXkAbW+DQDxIQz1Ke1xdhWRleVtdfl5gd1xdiXJzi36AYVNKZFVLbFxRXUtDQzE3QjtGADEvPBoWHxYPGkIqMWhHR3VVVmpLTIx2eqWeqJ6eqouMmX98iXhwfFJGSh8SEyEQEZYVv8CRhxvsAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E21_brefJeSuisAlleAuSupermarche/001.png",
+    "width": 1920
+  }
+}

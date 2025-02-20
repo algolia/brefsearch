@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "Quand je suis rentré chez moi,\nj'ai regardé sur Facebook, personne\nn'avait rien mis, sauf la fille.\nElle avait mis: J'aime.",
+    "end": 103,
+    "heatBucket": 3,
+    "index": 41,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=99s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/099.mp4",
+    "hash": "8d12469af1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCMcF2vln+EbVSVeWmrlYaajYK5ppqqkH+EZ1V7amBFPzM0MzJZVVhNOzNTPDJWXm4AmIFvu6eTuK+axbuxwLKlnIp+p457v4t0XkIzfXdwSkU5ODg4ZWRrWkY8ZUs/VVNZAN7XzdPJu7amnqOPhWpPQkU/OXZmVodWQnJUQJKEdU9IOTEzNVRXYlA+NWpSR1FKSwCLfW6Me11/VUBaPjBROi5ZTklLPzpPNSlCLydQQj1BOi0+P0BNUVtJODBoUEVLSEsAb1xKqZV3p5F2UT80W0xDh3ZsLB0aPy8rOConJhkYMSkhVlZXd3eBUUA5Z05ESkdKAIRwX7GSeI52XSweGKiXjndnYBIGBDMnIy0gHRQLCikfGFdWWHh4g1hGPmRNRk9LTgBlU0dvXEoqHBF+bWTo1MlTRD01KSUtHxwxJSEiFxUkGhZmYWOBfoZQQDxzY15WUVQANikjDQUDRTcw38zBzrquUEA6UkQ+JhkWLiIfLiIeOCsmhXl1kIqOUUM/YFJQWGN3AAwGBS8lIIx6cNTCt6+ajl9OSFtMRh0RDiodGiYaFkQ2MIVzaY6GiEo9OlFGRUpXbqQSmFms6LKfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/099.png",
+    "width": 1920
+  }
+}

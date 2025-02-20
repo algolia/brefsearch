@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je suis Laisse-moi une chance !",
+    "end": 2132,
+    "heatBucket": 1,
+    "index": 702,
+    "start": 2128,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2128s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2128.mp4",
+    "hash": "ca8cad521e",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiklEQVR4nB2RPW/TQByHL/b57v7nO5997fkdp7YTJyZNSVJSFQfaBoJEK1QGBEIsMCBG3sTAF6BiY0CIjc+KjPQbnuXRM/yQZWOMMbJwqsjDhheaImS3KbQZJwQz5vSjPcB/Rh5QycFy2KaWv15E26kaYLrKxaZWccAr45bGrY07iuQklpNEIs6oC8zC7LQUN9dhV3sDh5Y+zDRvIvcwFrcjMU/lnVwucm9xSyFMGWMwsPvCzbNwfSA8zoaazxJxNt1b5uIocZeZOM7F3aE8KQOECacMkM0ejOS33d5xIbRguQ+VcRelejSPu3G4aePzeX6viWa5RrYDhPZCV8k3S28SQqwgUzzVfGTY+4+vvvz9+en39w9/fjx5+zIxCmHC+oJF1wfi81kw1BAF7jCASMFqKM4fr7vnV+9eby+fds3RtEg0wgRIL7DTyvu63c98MFoaCZUPq3r/og1PUnHdmt3U7GbZ/bFByMKWjdEAx4qsciYYBoKd/hscB3wcuYWGyCOxxw5HRZP5/wBl3y7uxOmRcgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2128.png",
+    "width": 1280
+  }
+}

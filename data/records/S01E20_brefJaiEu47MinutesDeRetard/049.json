@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "Il n'a pas trouvé de portable,\nil m'a dit au revoir.",
+    "end": 51,
+    "heatBucket": 1,
+    "index": 26,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=49s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/049.mp4",
+    "hash": "90e685423d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gArPUIpOzkpPTNLUER4VjRQOSJnSzyjcVuwe2W1gm6+jnq1g2+TalgmHBY9QUKBiZMAHyseFiYXJjouOUpFa1U4a0wtPzIqYUY6qHJcnW1ZcVZKc1tPoXZjTjoubV5atLTHABMfERQiEyY0Kjc+PmhSNXRTM11IO0w8MpVoVJNkUE9AOHthVLWHcndXR6aCere5zAAVIhETJBInNis+SUpeRzl3VTWXalWTY02vfmvHjXS5hnHMm4XJm4OOZlOpnaDDyuAAFCIRDh8MPUxBX2doXEY3dFU2j2ZSl2dUuIZ5wol1yJB4zJV8uohxd1hIZGNoz9PpAB0qHQ8gDT9OQ2VramFNMnZXNXRWRFtDN2RMQZNqWr2GcMePd6uAbRwUDTw9QNLT6QAXJBYQHw02RDpWaGZURix0WT5kVEpLNStiPjduTUGIZlWvg2+DaFo+NS9maG7Gyd4AEhsNDxsLGCkaPFFLeXh6rKq9a2NjWT4wckxDl2dYjGhWZ1NHfmVYwKOVvrvKq6/DABAZDRcgFVZeYaWowbCxzKaovnFnZ0ExJVhFOXJYSk4/NkI4MJZ2ZrGRg7izx7e2z3k4pMp2AM1PAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/049.png",
+    "width": 1920
+  }
+}

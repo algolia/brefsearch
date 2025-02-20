@@ -1,0 +1,287 @@
+{
+  "duration": {
+    "human": "1:47",
+    "inSeconds": 107
+  },
+  "episode": {
+    "index": 35,
+    "name": "Bref. J'ai monté un meuble.",
+    "season": 1,
+    "slug": "brefJaiMonteUnMeuble"
+  },
+  "lines": [
+    {
+      "content": "Bref, ça faisait déjà quelques mois\nqu'il me fallait une vraie armoire.",
+      "end": 3,
+      "heatBucket": 5,
+      "heatValue": 58,
+      "start": 1
+    },
+    {
+      "content": "J'en ai acheté une.",
+      "end": 4,
+      "heatBucket": 5,
+      "heatValue": 42,
+      "start": 3
+    },
+    {
+      "content": "Après avoir monté le meuble moi-même,\nil fallait que je le monte moi-même.",
+      "end": 6,
+      "heatBucket": 5,
+      "heatValue": 37,
+      "start": 4
+    },
+    {
+      "content": "Le plan du meuble était super\ncompliqué, mais il était à l'envers.",
+      "end": 8,
+      "heatBucket": 5,
+      "heatValue": 29,
+      "start": 6
+    },
+    {
+      "content": "Il était quand même compliqué.",
+      "end": 10,
+      "heatBucket": 5,
+      "heatValue": 23,
+      "start": 8
+    },
+    {
+      "content": "Il y avait pas assez de place\ndans ma chambre pour le monter,\nalors je l'ai monté dans mon salon.",
+      "end": 12,
+      "heatBucket": 5,
+      "heatValue": 18,
+      "start": 10
+    },
+    {
+      "content": "J'ai dû pousser le canapé, déplacer\nla table basse, rouler le tapis.",
+      "end": 14,
+      "heatBucket": 3,
+      "heatValue": 14,
+      "start": 12
+    },
+    {
+      "content": "J'en avais déjà marre.",
+      "end": 15,
+      "heatBucket": 3,
+      "heatValue": 13,
+      "start": 14
+    },
+    {
+      "content": "J'ai dit:\n— Il est où le tournevis ?\n23 fois.",
+      "end": 17,
+      "heatBucket": 2,
+      "heatValue": 12,
+      "start": 15
+    },
+    {
+      "content": "— Il est où ?\n— Il est où ?\n— Il est où ?",
+      "end": 18,
+      "heatBucket": 2,
+      "heatValue": 12,
+      "start": 17
+    },
+    {
+      "content": "J'ai voulu enfoncer un truc avec ma main.\nJe me suis fait mal.",
+      "end": 20,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 18
+    },
+    {
+      "content": "Je me suis coupé avec une planche,\nj'ai remué la main.",
+      "end": 22,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 20
+    },
+    {
+      "content": "Je me suis demandé pourquoi on remue\nla main quand on se coupe.",
+      "end": 25,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 22
+    },
+    {
+      "content": "J'ai essayé de fixer la planche B\nà la planche D avec la vis\nB5, mais ça marchait pas.",
+      "end": 28,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 25
+    },
+    {
+      "content": "Je me suis rendu compte que\nj'avais confondu la planche B\navec la planche H, qui est pareil,\nmais avec deux autres trous sur le côté.",
+      "end": 32,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 28
+    },
+    {
+      "content": "Je me suis senti triste.\nJ'ai crié.",
+      "end": 34,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 32
+    },
+    {
+      "content": "Sur la notice, ils indiquaient qu'il\nfallait être deux pour monter ce meuble.",
+      "end": 38,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 34
+    },
+    {
+      "content": "Je me suis dit que je me\ndébrouillerai tout seul.",
+      "end": 40,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 38
+    },
+    {
+      "content": "L'étape sept a été difficile.",
+      "end": 41,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 40
+    },
+    {
+      "content": "Mon coloc m'a pas aidé.\nIl était occupé.",
+      "end": 45,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 41
+    },
+    {
+      "content": "— Je suis occupé.",
+      "end": 46,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 45
+    },
+    {
+      "content": "— Tu le veux le petit Winnie ?",
+      "end": 52,
+      "heatBucket": 3,
+      "heatValue": 14,
+      "start": 49
+    },
+    {
+      "content": "— J'en veux pas, moi.",
+      "end": 54,
+      "heatBucket": 3,
+      "heatValue": 14,
+      "start": 52
+    },
+    {
+      "content": "J'ai marché pied nu sur une vis C2.\nJ'ai dit des gros mots.",
+      "end": 60,
+      "heatBucket": 3,
+      "heatValue": 13,
+      "start": 57
+    },
+    {
+      "content": "— Putain de sa mère qui suce des ...",
+      "end": 62,
+      "heatBucket": 3,
+      "heatValue": 14,
+      "start": 61
+    },
+    {
+      "content": "J'ai regardé l'étape 9\npendant environ 20 minutes.",
+      "end": 64,
+      "heatBucket": 3,
+      "heatValue": 13,
+      "start": 62
+    },
+    {
+      "content": "J'ai sauté l'étape 9.\nLe meuble commençait à avoir de la gueule.",
+      "end": 65,
+      "heatBucket": 2,
+      "heatValue": 12,
+      "start": 64
+    },
+    {
+      "content": "J'ai pris le temps de me dire\nque j'étais un putain de bonhomme.",
+      "end": 67,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 65
+    },
+    {
+      "content": "Arrivé à l'étape 14, j'ai compris\nà quoi servait l'étape 9.",
+      "end": 70,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 67
+    },
+    {
+      "content": "Je suis retourné en arrière, j'ai fait\nl'étape 9, je suis revenu à l'étape 14.",
+      "end": 72,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 70
+    },
+    {
+      "content": "J'avais fini mon meuble quand Baptiste a\ndit:\n— Il passera pas la porte, hein, ton meuble.",
+      "end": 75,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 72
+    },
+    {
+      "content": "Ah merde.\n— Ouais mais demande.",
+      "end": 79,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 75
+    },
+    {
+      "content": "— Tu demandes pas...",
+      "end": 82,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 80
+    },
+    {
+      "content": "J'ai tout démonté, j'ai\ntout remonté dans ma chambre.",
+      "end": 83,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 82
+    },
+    {
+      "content": "J'ai pas sauté l'étape 9.",
+      "end": 84,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 83
+    },
+    {
+      "content": "Je me suis dit que je rangerais\nmes affaires dedans demain\nparce que j'étais trop crevé.",
+      "end": 87,
+      "heatBucket": 1,
+      "heatValue": 6,
+      "start": 84
+    },
+    {
+      "content": "Deux semaines après,\nje l'avais toujours pas rempli.",
+      "end": 88,
+      "heatBucket": 1,
+      "heatValue": 6,
+      "start": 87
+    },
+    {
+      "content": "Bref, j'ai monté un meuble.",
+      "end": 91,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 88
+    }
+  ],
+  "video": {
+    "commentCount": 393,
+    "id": "46O65gqs03c",
+    "isAgeRestricted": false,
+    "likeCount": 84499,
+    "viewCount": 6829749
+  }
+}

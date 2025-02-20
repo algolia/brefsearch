@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 392,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg",
+    "viewCount": 4199001
+  },
+  "line": {
+    "content": "Il me suffit de lire\nles effets secondaires\ndes médicaments pour que je les ai.",
+    "end": 30,
+    "heatBucket": 2,
+    "index": 13,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=28s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E29_brefJeSuisHypocondriaque/028.mp4",
+    "hash": "78561808a1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0bG2JgIKckZWpn6Svp62jmp6AcnCOe3i3r7DBt7CyoZmqkISlg3SbfWmFcl90Z2YAi4KGnpWZp56hp5ydkIF8UEA4YToopGxVmHJclHNenXdmh19OrYd8s5d9lIFwhHVwAI58c5F6bZd+c5BxYWlKNkYrH147LI1eS6J0Y5t6aIRiR5hyZMaklrigf6eQdqCEZABxUD2Vbl6gdmWFYVBdQC5VNiZjPSx5TDufb1qypKG7rK6+mY2xjHTDrYW1lm23nXgAYkc1hWBSp39wkm9aa085VDklUTcpVDEhgWNaubG8zcvcwKuuoHlXzbiRuZ52t554AIxyVWxPOIBdT6V+cbCdnZSHhntsZnhwbaKgpMS8w8nFzsnAxrmZc8SrgriddrSadQCKcVeghmeRc1d8WEOWgoGgk5OWkI6wr7avs7WtoaLHwtTLw8jApHvApn60mHKegV8AhW1Un4VptZl4mHtehnJqkH90mIyJlY+Ql5WWpqOqx8LU1dXoybihvaZ8oIRihGdLAHBZRoZuV5Z7YJl9X3dbQoNwaH5xbJKKf56blqagqqOcqLm1ysG5vaKJZ5F4XXhgSrXd4kPuHyXxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E29_brefJeSuisHypocondriaque/028.png",
+    "width": 1920
+  }
+}

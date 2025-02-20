@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Et le César du meilleur\nfilm est attribué à...",
+    "end": 856,
+    "heatBucket": 1,
+    "index": 279,
+    "start": 852,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=852s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/852.mp4",
+    "hash": "0cb4e15ded",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEIfBkQfCi0YCSYXCSQVCCQWCR0SCR8SCBsSCSIVCSUWCTcdCikUCC8ZCCQVByEQBQCsZCF4PRVZMxVoQBdOLxROLxRVNRh/TS1NMBxPMRN4Rha1YRtwOBFpNxFTLQ9OJgsAnVseXjARfjwSXDQTQysTTS4RUjEUoF49Yj0hTzERWTMTYDUSWzAQdj4PXC8ORyMKAKdVGsJrI89yJGo+FVQ1Em1FHIlrS39PNm8/H1w0D1EvElowEHU+EGE0DU8qDFksCwDrmjvypEDfiy9eNhNMLwyih2Xx4saxiW7FgFyYdVZhNQtwOw+MSA9OKQw7HwxDIQkAwHws4po9xnAgWDEQWDoXuqiL7N6+1sOl2caql4x1azcOcjkMczkNUSkLSyYMUSgKAJ9iIrN0K5tTGFUxEFQ8IayXf9y+k9DClq2bf6CReWU8GU8nClcuDV8wDFMoCTocCQCfZyy3biqiYSiIWShJLRNtUjq9oXi6pXeValG1n4OJURtGKRFRLBFPKxBDKxkmFwoAOiIMSScQNB0OMB4OJxgLJRwSTUk5QzwvMSslPDQpJxYLHBIKIhIKHBIKJiIeEw0IrZJ3l3mL3kEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/852.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 638,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 2,
+    "isAgeRestricted": false,
+    "likeCount": 106679,
+    "name": "Bref. Je remets tout à demain.",
+    "season": 1,
+    "slug": "brefJeRemetsToutADemain",
+    "videoId": "JmghDKkeiik",
+    "viewCount": 8541792
+  },
+  "line": {
+    "content": "— Mais carrément, on se\nvoit demain soir, Sophie.",
+    "end": 88,
+    "heatBucket": 1,
+    "index": 32,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=86s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E02_brefJeRemetsToutADemain/086.mp4",
+    "hash": "659a643370",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAALJJREFUeJyFkdGKhTAMRLtNtQlqxcaE2ILg///kggWvvQ+785TCHGaSup9e3vsQAgC0wXv/ZXDdw7lhGMZxTCmt64qIIYS/gJYwTRMz55zneY4x/pMQQjCz4zhU9bouEXGu9zzWGGNKads2vbXvu6rmnAHgzXwAImJmETEzEVHVUoqqEtF79Q8KAMuyyC1mLqWc51lr/Vqj64eIRJRvmVmttaUh4tOqA57zt68AgDa/K/0C3tYLzkQbffYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E02_brefJeRemetsToutADemain/086.png",
+    "width": 1920
+  }
+}

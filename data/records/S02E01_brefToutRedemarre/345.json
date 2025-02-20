@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "se réconcilient, quittent leur appart,\nréaménagent ensemble, font un break,\ns'embrouillent, se séparent pour toujours,\ns'aiment à la folie,",
+    "end": 350,
+    "heatBucket": 1,
+    "index": 100,
+    "start": 345,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=345s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/345.mp4",
+    "hash": "4374dc4bc0",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACIZEjIyKElSPzpENUVHOGVgTWJhTWFfTE9UQkxZQSQuJA4TExsgGwAKDQobGxsqHwBbRzWFhGWjuJCLn32dqobV3LDLzpu6r3+ZlGWTnnwvSTsXJychLioFFyEQREhDZUwAj3VWkIlmkqaDiZt6lKR9eIRhdF06aEQKZEoTcl5CLy8nFR4cEh0hDR8oEDc6PFRCAIGAX3qCYo2ffYuefZurhVtSMjUkC0ZHEkhCD2BMLFhBOwEkJgwaIhM7PQ0gKCA1NwB2imZvgWCFlnOLnXyesoyXnXdJTjMzPhw2OBwzKRoPFxoQQT8ZKioJHicNHCgMHCgAfI1ncYJfiZx2j6F8laqHxeS4q6uMcC0mo29OfV0/UEMmPDkqPzEmDxUaChkkDBMdAIuddXqMZ4qcdYqgfZGXb66ob5+NZowkLIxJNGxNIHtVJkk4JBwcHRIWHAcPGBEcJQBzhGVWYUpra0qEgFaRfEukeTaQZTOoIzO0UzqAWyVyTSdbRi4SHCELEhkjLzQzU1kAEBMRERQSGhkUPzIeQzggSUMrPzIfTBEWWDEkSz4iMCMVHBMOCw8QBgoNJCgqFyUo9CmDFdewH5cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/345.png",
+    "width": 1280
+  }
+}

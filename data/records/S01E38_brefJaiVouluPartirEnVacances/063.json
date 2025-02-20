@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 431,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "isAgeRestricted": false,
+    "likeCount": 96820,
+    "name": "Bref. J'ai voulu partir en vacances.",
+    "season": 1,
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc",
+    "viewCount": 8214486
+  },
+  "line": {
+    "content": "Moins 197 €, il me restait 3 €.",
+    "end": 67,
+    "heatBucket": 2,
+    "index": 28,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=63s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E38_brefJaiVouluPartirEnVacances/063.mp4",
+    "hash": "28f037fea6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUSUpORUdsYl90Z2OajYedlo9mUEV0WkqXjoWblI6XhXJ0USxwQw9+Xjx8dHZtYV8AQDM0WU5OlIV5eWtjoJaOgnNuhldNw5CAmo+FopqSm4t6kGc5j25JkoBwjIOAe3BtAHlwb392cZaJfm1kYTQxNFxFQ59sXpt0aH12dJSMhZyTi5yUkJ2Xlp2Tj5WJhIZ7dwCck5CkmpaXjIA1MC8JCA9MOzp8WFA6Li85NTuPhYCdlIqbkYeckomckYuWi4WKf3oAmI+NppyXmZCKKCImFhMZcFlWkmlgQTExS0RHl42KmJCKnZSNm5KJmo+JlImDin55AJaPjaOamIl/fCciKC4kJ31cU49tZ2xeYK2qtYV1eJ+PlKaampKGfpSGfpCDfIh7dwCOhYSjk4eDcWMaFRkYERNNR0xsanODfIKtpq5sVld+WE9+ZlR6ZVR3YE1xXUx3aWIAhHBgi3ViNjAxJSgzISIsSElZMTA7Q0BJNzM7IBwiXk9KemJPd2BLbldEYUw8WUc9AHZiU3lmVz9BTldriEBScScuQxsgMBwlORohMhwnPoCOosbBva2moZSKiHtxcV5SUmMttVlqL7uPAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E38_brefJaiVouluPartirEnVacances/063.png",
+    "width": 1920
+  }
+}

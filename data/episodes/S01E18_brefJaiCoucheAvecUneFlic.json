@@ -1,0 +1,245 @@
+{
+  "duration": {
+    "human": "1:16",
+    "inSeconds": 76
+  },
+  "episode": {
+    "index": 18,
+    "name": "Bref. J'ai couché avec une flic.",
+    "season": 1,
+    "slug": "brefJaiCoucheAvecUneFlic"
+  },
+  "lines": [
+    {
+      "content": "Bref, j'avais accosté\ncette meuf dans la rue.",
+      "end": 4,
+      "heatBucket": 4,
+      "heatValue": 67,
+      "start": 3
+    },
+    {
+      "content": "Elle m'a dit :\n— Demain, OK.\nJ'ai dit :\n— Cool, 16h00.",
+      "end": 6,
+      "heatBucket": 3,
+      "heatValue": 64,
+      "start": 4
+    },
+    {
+      "content": "Elle a dit:\n— Je termine mon service à 18h00.\nJ'ai dit:\n— T'es serveuse ?",
+      "end": 9,
+      "heatBucket": 2,
+      "heatValue": 58,
+      "start": 6
+    },
+    {
+      "content": "Elle m'a dit:\n— Non.\n— Bon bha, à demain.",
+      "end": 12,
+      "heatBucket": 2,
+      "heatValue": 52,
+      "start": 9
+    },
+    {
+      "content": "— Salut.",
+      "end": 13,
+      "heatBucket": 2,
+      "heatValue": 53,
+      "start": 12
+    },
+    {
+      "content": "Le lendemain, à 18h00, très précisément,\nelle m'a envoyé un texto me demandant\nmon adresse, mon code et mon étage.",
+      "end": 17,
+      "heatBucket": 2,
+      "heatValue": 52,
+      "start": 13
+    },
+    {
+      "content": "J'ai répondu\n— Pourquoi ? T'es flic ?",
+      "end": 19,
+      "heatBucket": 1,
+      "heatValue": 45,
+      "start": 17
+    },
+    {
+      "content": "Elle a répondu:\n— Oui.\nElle était marrante.",
+      "end": 20,
+      "heatBucket": 1,
+      "heatValue": 42,
+      "start": 19
+    },
+    {
+      "content": "Elle était flic.",
+      "end": 22,
+      "heatBucket": 1,
+      "heatValue": 45,
+      "start": 20
+    },
+    {
+      "content": "Elle était flic et bonne.",
+      "end": 23,
+      "heatBucket": 1,
+      "heatValue": 47,
+      "start": 22
+    },
+    {
+      "content": "En y réfléchissant bien,\nj'ai repensé à tous les trucs illégaux\nque j'avais chez moi.",
+      "end": 26,
+      "heatBucket": 2,
+      "heatValue": 54,
+      "start": 23
+    },
+    {
+      "content": "Mon compteur EDF que j'avais bloqué\navec un fil de fer, ma beuh qui traînait\nsur la table basse et surtout\nles 584 téléchargements de série",
+      "end": 32,
+      "heatBucket": 3,
+      "heatValue": 65,
+      "start": 26
+    },
+    {
+      "content": "et MP3 en cours sur mon PC.",
+      "end": 33,
+      "heatBucket": 5,
+      "heatValue": 72,
+      "start": 32
+    },
+    {
+      "content": "Elle s'est mis à l'aise.",
+      "end": 34,
+      "heatBucket": 5,
+      "heatValue": 74,
+      "start": 33
+    },
+    {
+      "content": "Elle a vu ma beuh,\nj'ai dit:\n— C'est pas à moi.",
+      "end": 36,
+      "heatBucket": 4,
+      "heatValue": 70,
+      "start": 34
+    },
+    {
+      "content": "Elle a dit:\n— Dommage.\nJ'ai dit:\n— Pourquoi ?",
+      "end": 37,
+      "heatBucket": 3,
+      "heatValue": 64,
+      "start": 36
+    },
+    {
+      "content": "— On aurait pu s'en rouler un.",
+      "end": 38,
+      "heatBucket": 3,
+      "heatValue": 63,
+      "start": 37
+    },
+    {
+      "content": "J'ai dit:\n— C'est à moi.",
+      "end": 39,
+      "heatBucket": 3,
+      "heatValue": 64,
+      "start": 38
+    },
+    {
+      "content": "On est allé dans ma chambre,\nelle a continué à se mettre à l'aise.",
+      "end": 45,
+      "heatBucket": 4,
+      "heatValue": 69,
+      "start": 39
+    },
+    {
+      "content": "C'était cool.",
+      "end": 45,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 45
+    },
+    {
+      "content": "Elle m'a déssapé, on a commencé,\nj'ai pensé à Joey Starr.",
+      "end": 47,
+      "heatBucket": 4,
+      "heatValue": 70,
+      "start": 45
+    },
+    {
+      "content": "Nique la police.",
+      "end": 49,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 47
+    },
+    {
+      "content": "Elle m'a plaqué contre le lit, elle m'a\ndit:\n— Maintenant, tu t'appelles Sophie.",
+      "end": 52,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 49
+    },
+    {
+      "content": "J'ai dit:\n— Non.\nElle m'a mis une gifle.",
+      "end": 53,
+      "heatBucket": 4,
+      "heatValue": 68,
+      "start": 52
+    },
+    {
+      "content": "J'ai dit:\n— Sophie comment ?",
+      "end": 55,
+      "heatBucket": 4,
+      "heatValue": 67,
+      "start": 53
+    },
+    {
+      "content": "Je croyais qu'on avait fini\nquand elle a pris ses menottes\net elle m'a attaché à mon lit.\nJ'ai trouvé ça cool.",
+      "end": 59,
+      "heatBucket": 4,
+      "heatValue": 66,
+      "start": 56
+    },
+    {
+      "content": "Elle s'est rhabillée.\nJ'ai trouvé ça triste.",
+      "end": 61,
+      "heatBucket": 3,
+      "heatValue": 64,
+      "start": 59
+    },
+    {
+      "content": "Ensuite, elle m'a dit:\n— Je prends ta beuh.\nJ'ai dit:\n— Non, pourquoi ?",
+      "end": 63,
+      "heatBucket": 2,
+      "heatValue": 58,
+      "start": 61
+    },
+    {
+      "content": "Elle est partie.\nAlors j'ai dit:\n— Hé oh !",
+      "end": 65,
+      "heatBucket": 2,
+      "heatValue": 50,
+      "start": 63
+    },
+    {
+      "content": "Et encore.",
+      "end": 66,
+      "heatBucket": 1,
+      "heatValue": 40,
+      "start": 65
+    },
+    {
+      "content": "— Hé oh ?",
+      "end": 68,
+      "heatBucket": 1,
+      "heatValue": 32,
+      "start": 67
+    },
+    {
+      "content": "Bref, j'ai couché avec une flic.",
+      "end": 72,
+      "heatBucket": 1,
+      "heatValue": 18,
+      "start": 69
+    }
+  ],
+  "video": {
+    "commentCount": 680,
+    "id": "if3EipAM2WQ",
+    "isAgeRestricted": false,
+    "likeCount": 99938,
+    "viewCount": 8008914
+  }
+}

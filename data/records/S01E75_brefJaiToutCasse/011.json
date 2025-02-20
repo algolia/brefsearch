@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "J'avais personne à retrouver.\nSi, il y avait Marla.",
+    "end": 13,
+    "heatBucket": 4,
+    "index": 4,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=11s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/011.mp4",
+    "hash": "97833829ce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwly01P2mAAAOAeFkxp6Rf0bd/S2vLWFgtDOqSg2JGWrdsULYiRGZQQdFGmmW5jGwgxxCxedtiFZB/Zsiz7pcuyy3N7sG1bree1NQRLmrixBHuuebhmuIacFhIPdXDZcD9ddce95qD5uBus17Iq1irq3rJSRrJnaaWUtFs0n2SUY79YtZCL+HHb/zo5uzvvvDnYOg39IKdhjQIqp6R1XfYs5BqKa6oVBKcNd0WBLgLTg9rP2cXnYX/Sa75uP920EbaZUwuK4GiwoidtWeApJgX4iqEKNFc14OS5/+v21Xx8enPcen9Y31k1sKop2zIoqmI5JSkcR0ZpmmCoKC1xwE/L1/ve749XX6aD2Yu9UXen4aQxRxPzMigsiquLkKcYEv8XWJKNU9yGnhzte3/u3n6/uZid7I26YeiksSyMZ2HCToKcBCiCogg2ilMMyYpsIq9Ig8D+Nu7/uL2c9nc/HIVhycIMwGVgIpfklyEgcIom2P8COr4EhJPayvzd0fz6bNjZPm8FtYyGoQSL4owpcDLL4AsxAqfuRchIhIwRDB9jnj0wh+3gZcPrPCrXHeu+yPwFuMNbftUfGpMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/011.png",
+    "width": 1920
+  }
+}

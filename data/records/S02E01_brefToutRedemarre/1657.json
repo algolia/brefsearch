@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Sinon, il y a une solution,\nc'est si moi, je lui propose l'appart.",
+    "end": 1663,
+    "heatBucket": 1,
+    "index": 547,
+    "start": 1657,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1657s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1657.mp4",
+    "hash": "b5614393b4",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABeklEQVR4nBXLS2/TMAAAYD9iO36nTewmcZrWa/bo2rUJoE0oYwIO25hEYZq2w8Qf4MiFO/8c7bt/AEAEEQIQpRh5m8ZCxJzPDPOGrpyIhfSaWUEtJ7kkJMEAYooTilHSZmI884f97OWy/rF3FwXfVOp243fBnpdqW8o+qL5iAGCKEGEIR28+beurLh/X/t9D+60Rn4P4vp+dlaZz8rTgi0z+vpQAYIYxkQmOTt2sy02brcLk7/3qcSkOnX4elx/m5v1cn3ixduLhRACASJqQKUXjtnl61952eRemh93sbqljxnLJSsOGWvaVGmp1NOUAIlJxFp369eX8T1/3lfWZ7Epz1ZrFhE8EnUjWGPY1qo+NWjvxFsqUjNG+DuHp2B2FYu5tyHUzVZXhTvPKiJzTu2P9uuHX7VtIEaKa0LmRq8L2p/XPsbu+aKM3dSZCJksrCsGGWr8M1c3SAAgxgAkAGALEIM51uqt1yLiVqWSJTqmghBOsGFk0wQr2H91iKKBzqfPLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1657.png",
+    "width": 1280
+  }
+}

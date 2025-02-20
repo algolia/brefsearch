@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "isAgeRestricted": false,
+    "likeCount": 133758,
+    "name": "Bref. Je suis en mode survie.",
+    "season": 1,
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ",
+    "viewCount": 11710298
+  },
+  "line": {
+    "content": "Je me dis que je dois avoir au moins\n100 € en centime, alors je les trie,\nmais j'ai que sept euros.",
+    "end": 27,
+    "heatBucket": 1,
+    "index": 10,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=23s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E76_brefJeSuisEnModeSurvie/023.mp4",
+    "hash": "fc9a4aa43d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBnYmh1eIqFkKeXpbyisciouM6mtMqos8h5f4+HjqClrcKbobWVnLCaoLOSl6hdZHkAcm94gYmdkJy0nKi/oK7FprXMrbrRiZSpHBwjGhcZWFplk5iql52wmZ+xl52wb3WJAHhzeYOImZeiuaWyyae3zam1yqWuwVRZZjRDWykvQA0KCzQyOJyfsJeZqZGTpICFlwB1bnKAgI2Sma6fqsCputGUj5xtWl19dXhLSFFKVWovOU1VVl+ipbSamaeUkp2KiJMAc2tugX+Jj5WplJyzoqvBhoucODdEhYOMoaCnd3FqS0tUlJiom52tmZimlpOdjYmSAHBnZ3x4f4aHlZKasIJzfFFKUztIZTdpiYCksIuCe3VnbJaYqJOSoZORno6KkoeDigBrY2V2cXh+fIWSkqBPTlYnHiNcU2FIbohFXnBZSEttUVCLiJKOi5aJhY6EfYR9dXsAZ2BhcWpvenZ9d15hNyMjERASFhQWN0lONz9LVz4/YkRBgnV1mZKTjIOCiH58g3l4AGFWV2hhY3Jrb29kaE0tLTAYFxoTFSMeIVtNUHdfYGFKSYp/fZaKgZCDeJKFeI+Cc45vzyyEdzqUAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E76_brefJeSuisEnModeSurvie/023.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1100,
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "isAgeRestricted": false,
+    "likeCount": 118681,
+    "name": "Bref. Je suis allé à ce mariage.",
+    "season": 1,
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw",
+    "viewCount": 11162618
+  },
+  "line": {
+    "content": "Bref, j'étais au mariage de mon cousin\nque j'avais dû voir trois fois\ndans ma vie à des mariages.",
+    "end": 4,
+    "heatBucket": 3,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=2s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E17_brefJeSuisAlleACeMariage/002.mp4",
+    "hash": "45bfcd5f46",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAADRJREFUeJxjYCYRMFBHAxMYEKuBiYmJDQyw6mHAFGJkZOQFA0ZGRto4CQxYwIgEDTgByRoAia4FQzRa7A8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E17_brefJeSuisAlleACeMariage/002.png",
+    "width": 1920
+  }
+}

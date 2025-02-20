@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Tu veux que je bouge des trucs ?\nBah, oui, oui.",
+    "end": 1520,
+    "heatBucket": 1,
+    "index": 493,
+    "start": 1518,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1518s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1518.mp4",
+    "hash": "d0435c02d9",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAgHBw4KCAkHBxMRDEpCLE9HMVFJM1FJMlNKM1JMNUhCLUxFLjoxHjYuHTIpGjIqGgAcFBEhFxMjGBMcFBCKfFW8q3a1pnO6qXa1o3CJcU2WbUiGdE6Me02EcUd2Yjx2ZTwAEQ8OGhIPIxoUEg0Lb2NFtad2sKN1tKd4opNlYkMurnpXg2hKhnVKg3FHcmI8c2Q7ABURDxMRER4XFBMKCXZmRbmreLirerandryuenBSO7eFX7+fb5SDU4x5TnxqQnpqPwAeFRAJDhEnFg9qQCOQeU+2qHi6rX7CtH+KfVtBKyGZcUyYeVV3Xj+LeEt8akB9bUIAFA8NGRALa0cnkWo8mYhds6Rzva54eWhNMRwhe3RhuaqEkHxmLwUPZUIxgnFFfGxBACIdF3JdPpd0QXNZM5yQZK2gb5uMYR0MD0UyMJ+liqu2moqKdzMNFD8OF29TNnttQAAyKyGcnn+joH2WhlqllGK6qXJ6aksQAARfVEqUmoKCiXWlpYxHFx46ChVjRDWHeUoAFQ8MPT0xTVFES0s8SUUxUUkxLiYZBQABLSklRkk/QEM5TU9DHwoOGgYLNComOzQiiP2P2Ua4SCkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1518.png",
+    "width": 1280
+  }
+}

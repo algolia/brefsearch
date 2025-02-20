@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je vous vois.",
+    "end": 1057,
+    "heatBucket": 1,
+    "index": 337,
+    "start": 1055,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1055s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1055.mp4",
+    "hash": "452579cb05",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABohHSAnIiMpJCMrJiQsJyAmIiMqJCUuKTc/N0VEMz89LUZCMTgxIDI3LicvKyUsJwBDUklMXFFTY1hMXVMeJyYnIh9ROSxRVUmAloOYmHOAfFuhmnCCc0t2gW1ccWdZbGEARFNJS1pPU2VZOkU9BwgMOCUebj4oWzsqfpF+iYpraGRJmpNsfXBIcn1qWm5lV2pfAEdWTE5dU1NmW1tbTFc5K2hLNWI7KFg4J4aYhIqNbWhlSp+Yb4J1S3eDbl9zaVhtYgBIV01SY1dPYlhRTkKHYkh+WDxXLh5hU0OJoIyFhmdqZUyhmnGCdEt4hHFecmdOZlwAS1pQTVxTIi4uMyYgcVU8ZUMuSyYaXWFTiqCMdHVaZGBHoppwkItqiZWEdoJ0OUY/ADhFQBchJAEJECYmIkAwJCYYEzErJFxuYIOWgmBgS19cRZyVbJyghpiikX6GdTA4MwATHyMIERYHEBUVGhtPSjk7NCghJiNidGWIm4dXWEVjXkael26gpo2YopCFjn40PDcABQgKBAkLAwcJAwUIHx0WIh8XCgoKKDApO0Q7IiMcKCYcOTUoQkU8PEA5QkZBFxsZV/uEz8ldpg8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1055.png",
+    "width": 1280
+  }
+}

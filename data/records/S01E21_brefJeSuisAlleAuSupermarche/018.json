@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 359,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "isAgeRestricted": false,
+    "likeCount": 82145,
+    "name": "Bref. Je suis allé au supermarché.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4",
+    "viewCount": 6898714
+  },
+  "line": {
+    "content": "J'ai voulu surfer sur mon caddie,\nmais il partait sur la droite.",
+    "end": 20,
+    "heatBucket": 2,
+    "index": 11,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=18s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E21_brefJeSuisAlleAuSupermarche/018.mp4",
+    "hash": "5d4e912be7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUUVBOSUWAeXeQhXmsoJrEvb/j5Ozo7fPRtK62mYiRjJFxd495bnhoQjp7anB1coUAMisdYVtcmJKZppqRq5eMxruz4+Pp6u/40MzMt6ycq6OriH2FmHh1nYuVkIybgHqHAFdQS3dmTox9Z4d/eZqRjLKmnNfT0ujp8tDKyLyfi7yShZ+Jhpt8d2hRTYN/h5CJlABYSi9oYVeMfnR/bmCqnI+vpJnCuLTSx8zEt7molI+ik5WfhIWphYOlmqmkorOQiZEAkHxbaWNjeXN9hnN2o5SHpZqWwbe4vbO0j4iLiISKlpGXj4uUdnFtZWJlj4qQlI2WAGFSLm1hRm5venF1iKGZlbuzstnQzuLZ17atqYWBgYuHiqadnqabm5aWs5+crZCIkAB/ckqNgWyZl6WYlqLIv7fa0cbe1M7i2tja0MmzrKyHh5SjnKSRg3xbXGuXkp6BeYIAUElIZ2NvnpifvrWtzsW20si82tDJ3tTQ2tDK2tDEtrK+coC3hIirfoGegn6Mcmt4AFVSW3p2hKSUjbKjmbmtosK4rcvBu9DGwszCvMa8tMK3rZybtkBMel5TY4V7imFecCxX/ddoH0pAAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E21_brefJeSuisAlleAuSupermarche/018.png",
+    "width": 1920
+  }
+}

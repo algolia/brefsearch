@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "Du coup, j'ai pris des fleurs à la ville.",
+    "end": 74,
+    "heatBucket": 1,
+    "index": 27,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=72s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/072.mp4",
+    "hash": "e722a2b5c3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwtkUtv00AAhNe7Jg5OU68de10/Yhs3dZzY8SPFTZS0zaPFaepSgnLoKUoBgWjTSxESkoVU7lw5InHtP+DvIQOjkUb6NKcZgBBCNI1oGgAEAAVgCaAyhBBRFAVpSD+Bf0UhuigiBJiSwLBmCQeG3R/2Jtnhcbw/1/obbfK1PXo/9RtTvzGLnIvxKFw+OFkOWEZiysbzPe/hMvh1v/jxMctfRtdX77rXj8uT2SLeW4+Ti4NodTpI19+PPv0GguIN/ebNqHF77LxNlM+ZvzlpvTlsppPXc8+aurvz0DV36qZE+umH2eYREMVOPO8ycVe9YKzU1l0zdeShIfqyEOlaYugqJltlUajK51df7vKfQKknbvtFx9BiTVqGzmoQZd2mzXMGLziEdFRF54m7o+5qRtDq5Pk3IFlncZgObOXgmbrYb7/qhYujvimSOhbwU45nsV6TCSfhqihxoqnagJdalhXHpmLXcKASmcNEkCxVxxUOgtI2u81VMA3LLFPBVZ7b4gBCEBZGEEGqyEKw+KYYHhUP/WP/+R9kaD8a06esjAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/072.png",
+    "width": 1920
+  }
+}

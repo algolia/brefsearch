@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 585,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "isAgeRestricted": false,
+    "likeCount": 85441,
+    "name": "Bref. On a enterré croquette.",
+    "season": 1,
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths",
+    "viewCount": 6068571
+  },
+  "line": {
+    "content": "J'ai dit:\n— Ça va ?\nElle a dit:\n— Non, il est mort.",
+    "end": 10,
+    "heatBucket": 4,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E22_brefOnAEnterreCroquette/007.mp4",
+    "hash": "365c2ad848",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAYFRMdFxYVExEPDQ4GBgobFhVHMipbQDU7KiNHOjkyKCgJBwcMCwwREBEqIB41HhoAFxQSIBoZIBsaGBUTCwoMCwsMWUE4XkI2RTs6ZlpagXNxbGJhJSEhCAgIDg4OMB0ZABcUEx4ZGCUfHiEbGQ8NDwsKDGhANUs3Mq+ssLCqq3pydIuBgHFkY0I7OiEYFz0mHwAYFhQcGBYmHx4eGRgmHxwWExQbDw2Ce3vHvbXCtqionZiPiY94bWs+NTM6JB1MMCYAGRcUGxgWIx0cHBkYXDwyVDMqRD9Bwb2+rot8toh0vK6d2dPSn5iXLR0ZTS8lTjQqABkWFBsZFhcVFDsrJWA8MjEeGnhvbaiajbeOe7WCccO3q9DLyVpQTlY3LE0yKUMuJgAYFRMcGBYVFRMoGRZSMSiUdWWmhnKAaVyWgnO3ppbi3dyMhoY+KCB1UUNJMylBKyMAFhMRGRYUFhQTCgoLFBAPc1NFlGlXmnVkUkI9WE1KenFwMCcmWTkuaEg7RC4lQCkiABQSEBUTEBMREQwLDQoLCyAWFF4/NYtpV19HPBIODRMNDDkmIHFPQ082LDgkHjsnISA3btrDVot8AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E22_brefOnAEnterreCroquette/007.png",
+    "width": 1920
+  }
+}

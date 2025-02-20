@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 472,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "isAgeRestricted": false,
+    "likeCount": 95130,
+    "name": "Bref. Mon frère a quelqu'un.",
+    "season": 1,
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY",
+    "viewCount": 7361073
+  },
+  "line": {
+    "content": "À la fin, elle dit toujours:\n— C'est la dernière fois que je fais une soirée.",
+    "end": 52,
+    "heatBucket": 1,
+    "index": 23,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=49s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E51_brefMonFrereAQuelquun/049.mp4",
+    "hash": "75a69276d9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwftPEnEAAPCvW02P08O73cm9H9yBd8ch91ARThqsKMEhrc4HDNFTkHy0JpGaq6wfGlmxmmtzMVrOH+oH5//o5wMCAfhgKdetF7v10vdt70drrdda6zWXf+54g5MXvzuNb/uV97XFM//5zcX538+nAAzd21l6dN1ZvzyoDA79q6NWv73VP/QHr/3/n1713zQuO/5ROVu15dvu25uLLwAAUC/kjlcWPlaL/zpbv5rLf9r+eb38daPcb2/u5edeFtwHk+KHxflGxjxeKQEwdL9WzD9LOY8NZdtNrJpRfz6xPqN51qSfnX63kC7YsQkUPX2Sqrn2XkwGjmn12rt508hZpsLSWBAJE5jGUDA8qnFMSlcdVa2mrNkwu6pKZ2YEMBjRmo3vZh3PdSSOV+lQXFYwlBiDkSCCDkOBjCI0Lc0giX1NPInLYGwkkOWpStLIGdEIx6dVOSLKOkfHJV5jGZkiS5aaJnGbpQoC/VQgAQRBUxThypzO0QpNeenph/ZUUqTmFD7GkCyOJ8Nsgg1xBD4KwzSKAGhkOEZPmAJjiEJCjtgSn4lKMzyl0ySLjnNoUKcIkw2JOEYGEXIcuQMooGb65eU1uAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E51_brefMonFrereAQuelquun/049.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 497,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "isAgeRestricted": false,
+    "likeCount": 91737,
+    "name": "Bref. J'ai passé un entretien d'embauche.",
+    "season": 1,
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU",
+    "viewCount": 7182602
+  },
+  "line": {
+    "content": "Il y en a un seul qui m'a rappelé.",
+    "end": 15,
+    "heatBucket": 4,
+    "index": 4,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=14s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E04_brefJaiPasseUnEntretienDembauche/014.mp4",
+    "hash": "2aca24f4fb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwdy1tv0lAAAODTtT0957SlUAIVOlgL9EahF0oLbQctYy6ORcMWRRcznS8+bdGoWYwP89H4otkv8S8aff8+YPqxFc6G08xPyyBbBdnajTInSLy09JPSn5Xh/CjOT+LFaVyceXEB7HA2mmbBvIgOj+Pl47I8cfuDzSzdbl621Y7c2G91rI4+1AbjgTNp7/fAOMq8OPeTRbI8zY/Oft2+/3J5fffm5uHbb6VZZxkacRCyNKQYDtCYYoEf58ZoYowiLy50e/Jhd/7nx8+Hz99vrm4JxhgiAhFiEd7DhGIwxQB9GBpu6CXlQd9hGPL2eP3p8ur66c4aeBhC9B9VEC8IVYJFRDGAlxTbz7L1tm+6Ei9+ffU8nz6BXL2tqBUOI4qReSHxnZrSIFLtX4CA6mqO7mambt09y+9fv1iv3vFCV20oPANFRFSlGY1tqV4lYgXtsQDRsHNgiXVNEOT7i+XH7cYy8keNbq+rAQAi21wtUtO2qrKEMcEsAoQIzZZeqbZojvhae1fMNd2xjLGqtAAAgdE7TGPDMmqyhFgoSvJf24dDEOYkduoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/014.png",
+    "width": 1920
+  }
+}

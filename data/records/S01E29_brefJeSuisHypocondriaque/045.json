@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 392,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg",
+    "viewCount": 4199001
+  },
+  "line": {
+    "content": "Quand j'ai mal à la tête, j'ai une tumeur.\nQuand j'ai mal au ventre, j'ai une tumeur.",
+    "end": 48,
+    "heatBucket": 1,
+    "index": 20,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=45s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E29_brefJeSuisHypocondriaque/045.mp4",
+    "hash": "319226a643",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCCe4KKgYenoquknaCooKbCw9fBw9e8vc+xrbawqrG6rq+7i2bAi1q4n4yhoLKTjZgAmpOdn5Wduba9tK+xr6aryc3ix8rfwsTWtrO8v7m/x7i2sYNfdU8rq5eLvLzPq6ezAKiirqmgpr+7wbu3ua6lqMzR5srP5cTG2r27xYN8fW1gXXNTQjUbFI5/gcvL27i0wgCup7Oroae9uL65tbinnZ7JzN3DxdfFxteHgogXDgslHhxhSUFhNyOolY/Kytu9uskArqexqZ+jubS3ubW4nZCQw8TXwsTYwMDPSENFEwwJIxsYIRkXDAUBjoWFzcnYu7nIAKmhqameorOtsLq3u52PjMLC0sXJ3Le3xkc2MSQYFBENDSgaEk4zG4aAhMnE0LezwQChmKClmp2mn6G7t7ybjIe+vszN0uScnKdFLiRdPjBFLymCWDu6fkqfkpK7tsGtqLQAk4uSkoeHmY+PuLa/koF6t7K7yMfTgHl8EQsJFhANRzAnj1w/kF0uoJGRq6WtnJWfAHRpbHVpaH5xb5aFfXtVOIdjRollSmdLOTEqKSEcHDMmHrKCSK58OJeEfY6Gi4J5gAI57+vF6W23AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E29_brefJeSuisHypocondriaque/045.png",
+    "width": 1920
+  }
+}

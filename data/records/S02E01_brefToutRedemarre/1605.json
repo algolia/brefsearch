@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Les graffitis, je vais les enlever.",
+    "end": 1607,
+    "heatBucket": 1,
+    "index": 528,
+    "start": 1605,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1605s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1605.mp4",
+    "hash": "b0d0e3b2ce",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nBXL227SYAAA4MYLEy+UWZ0yO7ZybMsQyigthQFtcYF29G+RZi6SDEMwzjAlJBhxbUbLmTFASmTqhW/h+xm/+w9CnA6PCya829HgC5pEkpQrw6Bcws2x7iyDpuNoktpjSIQmkXgECeNOSMr6QA47VyOtGmu2+Bsjb/eKm7H6Y6Ss+/LKKs4McdQ5Npqcfpn5epGGgBBQc4G3INg4jxufuXEnf9stzrvywpLXo5I9UJc90G1wdR5z7z4TeRySBf+ZhL/Xwl/qiUFbmOrSvAvsgbqZlBcmWJjAHqrtMmUUIzsw/MgBQ0XOpxWwWjncqjFmi781JLsnz3TpRpf+h/7r5ZU01phfH7jZm8SrkAcS057TfKCuhZvvmOsmf93kJ9/ElQlWFrD7yp/vZzNd+pjB51X2r67ICRzK0HtA8FWVg0bl8FOV7lwcTa8Ky15pM1TvxurCOlkPgJrFT9lAW2PY1EsoQ+0D3lc5CV5WDo3G0bAtLI3C3UhZWfLPaen3vDQxRDLqRVEXnaKI2AH0/OlDN7KFoXDIvx0L7SRju2l6P5fyRkMITbrAMUH4nffuP3A8gTEC24If/wP0sYcXDisZfAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1605.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 474,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 60,
+    "isAgeRestricted": false,
+    "likeCount": 64483,
+    "name": "Bref. Je suis un plan cul régulier.",
+    "season": 1,
+    "slug": "brefJeSuisUnPlanCulRegulier",
+    "videoId": "5rKgC34qhFI",
+    "viewCount": 4289685
+  },
+  "line": {
+    "content": "— C'était pour voir si t'étais qu'un con.",
+    "end": 76,
+    "heatBucket": 2,
+    "index": 31,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=75s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E60_brefJeSuisUnPlanCulRegulier/075.mp4",
+    "hash": "01af26abd4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwW1TmgAAAGB+xe5217a6HdtaRnfazOVUNAhPBQsEFBRQMEVE0PCV6RWI5mxp1rXrdtfd7vZl/3LPAxj6sNe9nowXnreZzR8E/ESlYn35vCviVASyLWvq3Oh11dT0VlWSORaw7Znj3M1nm5+3z2PbQQMfGSRoSNTfp9nvqen1jal7Y6gXmkg28jCX/go4zmo2f/yx/HX/8MfUjMDOK8wPFpFDp0a/uNb3mjjodNRips7Caj6usjHAdVbu9e1kNBlYfaXAfANfM6Hd1lliXGae7MurptKQpXoe0fgTOQc3+VOgUy7WqFQJOaIP3yf332HQNukHpxK9qJX+LZ3nS6kr5qpMQmWjdTZuyTjQEdIcGlRiUDkEortbyf1twveGDn4a0ZmVJmwuzu6bTIVGWCyk8WhbxABvILdFQkf9azlTCu8RBzvE3lbhC2hTiXb6eEJGHlXKFHItgTK4pEbDwMKu9hRSifpeWkw7dVSJ+nT4cyMMmtEPxSCoxaG7csog4wMu5cq5IZ8GTIkYNugs9Hat4L1sZJQOXOUxWyp4damSPB6fh9fVrEZEhjy+1CQBDvwH3g+fyNRbSBsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E60_brefJeSuisUnPlanCulRegulier/075.png",
+    "width": 1920
+  }
+}

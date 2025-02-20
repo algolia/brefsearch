@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 392,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg",
+    "viewCount": 4199001
+  },
+  "line": {
+    "content": "J'ai déjà nettoyé le lavabo\nd'un pote sans le lui dire.",
+    "end": 65,
+    "heatBucket": 4,
+    "index": 28,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=64s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E29_brefJeSuisHypocondriaque/064.mp4",
+    "hash": "c1e66a16ea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCHdnGaiYGtnJK5qJ7EsqfOvbLPwbfPv7TJuK7JuK7Gtay+rqWyoZiol4+ejomMfXsAn46HsJ+Vwa6kzruvxrSolHtxm3twuaee0sK4z7600L+0zLqwwa+muqmgpJSNopOPAKyakr+qnMm1p9jFuZiEfJ9sWbBwWo9lV8q6sNLBtsm6ssG2sMa2q7ypoJ+Oh62emQCqmJGkjXq2kHGsjH+JZ16cZ1e4dmCWalGTjIvPvLO7rqeQXV+bZl7AsKWLeneYiocAcGJfPDAwnnhqo3Vkl2xZgFZGg09FjHZeqaOZyK2huZaFrIuFpoyHrZ+Zinx6mImFAC8hIndaUp9uYIhURrR7V8uZdcy6strLwuHSx9rLwtrMxN7TzuDUzs/Buse5s8e4sgBwTkVkRj4qFxUbDw6gj4vq18/j183m2M7l187o29Lr39bo29Xf0s3Yy8XUx8G9sa0AHxMSBgIEEQwNHhUWSUBBrqGiuKurwLSzx7u4zsC+08bE0MTCxrq5uKuqqJyblYmKAAYEBQkGBw8JCj0wLzAlJUo9PmxdX2FTWGBTWGFVWmNXXGVZXWRYXGBUWFZLTU1CQ26X8/up6LccAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E29_brefJeSuisHypocondriaque/064.png",
+    "width": 1920
+  }
+}

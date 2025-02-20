@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 305,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "isAgeRestricted": false,
+    "likeCount": 76028,
+    "name": "Bref. Mon pote s'est fait larguer.",
+    "season": 1,
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4",
+    "viewCount": 6265057
+  },
+  "line": {
+    "content": "J'ai pioché des phrases type:\n— Une de perdue décide de retrouvées.",
+    "end": 16,
+    "heatBucket": 3,
+    "index": 10,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=14s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E19_brefMonPoteSestFaitLarguer/014.mp4",
+    "hash": "4ac738215b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxj4GZj42NjE+Jg4+dgN5EXslDmM9LgMlEXtjJQjfKxK4xxT3bTKfSSbY9SCrRWU1fVYuBiY+dhYxXkZJcW4FGRFtaWFzVTE/bQlcxy1muNcMrzMk5y0WgMU56WqhbhpKMkq8gAsoGdVYiTXUdS2FZDzlhFykZVIsRYoSPCfndtfGO4U5STdnec+uwsrUhnbSFefgYukAY2CV5OLw15D11lVVFBUzlRFy2ZDBfjlmiP7jjPRDs1Dw1eSzk+F02FEEMLBjkJYRFuTiNZ0RhTTWdNBX4mZj1psUAjxWwXow3l8QvzwqfUFaaG+ppICzvJSWbYeDKoyMrLiokEGGnkOBlZq0p7WeonBbn42epHmWvWh7s0xHoe2Lp1/859m1dtSA8M8NXUY1CWklKSkjdWVXfQUAiwNY4LcIwLcPa0NfI1UU9wNJiUF7d01rTelsYj+08e2nvORFuXQV5MWFVOUVVOVk9TxdzYwNxAOzshMirQU05MyEpDPsjVobYkpzQ3Y96M2Qd3X0iPz2GQFJKSEJCQFhLQUJLR01LWUtdwsvfwdvWQl5RQkpc30FLLT4mKDw/MSopev2JbT8s0AK1Pa1FAqT0rAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E19_brefMonPoteSestFaitLarguer/014.png",
+    "width": 1920
+  }
+}

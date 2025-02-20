@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "J'ai dit: Non, ça devait être à mon ex.",
+    "end": 1955,
+    "heatBucket": 1,
+    "index": 654,
+    "start": 1953,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1953s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1953.mp4",
+    "hash": "05e1de52ba",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBTW/SYAAA4MbMpWxQaN/3bekHLdQWu7ZA6QpstXwMyrBgurmF4r4giEaDdWoWYzyo0x1NZjzvD3j0auLF636Vz4NRHGsZ9xSey3FMGsIkQHxBZGi4chd/IGULgMRW8dXE+p2VBLGebCgsVmp5y6MgsCo1y3wRurKiNna7fttBJBptKJc7tpbleIZ1deX7YvD3S4SVO80zv26lSb+q/buMpl5pw7E7nmWybEstXPn165H786z35+vx7Y/5zaKHWf2d+WCrDsCec//3m+G3Q1e3K023oiNUFsWxrX8ebl9HrV/nj24W/mFVxepBd9avNRGQBeHD0P504LithmMbOgVKuqorBTMv+mbxxC0fb5U0Lou9OmhMu1ZP4sOhfz4dXb2dxMvTk6Nw29BEACWGkSlKRTQN6CygBQZhF483n3hG9LD9Pp5dvJ4v49nT+Xgy2RvsdqQMmSPSJqQcGkAS4qkMghT2br827m7Gw+bHwItfnj5/NhlH4X44CPptCUAxQxoQ2jRiIcPlJI5lMDWHZA4qVLqa5w1T0zRFLcrFvKAKTArHCRwHawm0liCSSUnKE0TqP7DoWYkf2LBVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1953.png",
+    "width": 1280
+  }
+}

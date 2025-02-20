@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "isAgeRestricted": false,
+    "likeCount": 112972,
+    "name": "Bref. On était des gamins.",
+    "season": 1,
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY",
+    "viewCount": 6343137
+  },
+  "line": {
+    "content": "Un jour, elle m'a dit:\n— Tu fais quoi ce soir ?",
+    "end": 5,
+    "heatBucket": 1,
+    "index": 2,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=4s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E57_brefOnEtaitDesGamins/004.mp4",
+    "hash": "ed8e2a6fb2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gANBQMKBAMKBwg8KiE1KiYcHB8yMjZGPDhHLR40GApQLhdTNSIrEwZ/bmLLzMh/dnEACgYFCgcGCQcJJhcRIxwbEhQYQjg0Px4NNBcJOB4SUjMfelk9WTMihHJnvMG+cmVcAAgFBRAMCiobFUg+Ol5bXhIRE0UvIjUVCHxTPph1YGNJOmpNNodiR6WbkrS5t1hRTQAJBQUsGxVnSzxCNjNGRkwcGRo9JBdGJRaOZ1CXd2R+Y1RRNSKFaU6emJGXlpRUTUkADgcHRCMYfF1PNSYeCAcJHxwdPyMUTSYUlW5Zp4NtelpIQSIQg19DUkI4FRYYHxwaACwgGlc0JoBhUks6MgQAABESFUIiEz4aB3tRO5l3YVg3I0srF4JfQ2BJOQkCAQwFBABjT0J9ZFZzXE9BLSQHAAA3HBBbKBFIJQ9SLxxnPidPKxVlRCuGZEiwknt9X0mEZEsAgGVUemNWYEs/VCQQPB8TWCsWXicOVTAYOBgHSCEOVzIaWzggbkguoHpjUj0zVkIyAIBoWmZSRkcnG1MXBEorHm9OPGMyHUMZCEUZCEEVB1kuGGJAJk4nFHE6Im9INgYEBHk/aYNjhJf1AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E57_brefOnEtaitDesGamins/004.png",
+    "width": 1920
+  }
+}

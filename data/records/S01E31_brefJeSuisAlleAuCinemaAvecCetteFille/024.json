@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 327,
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 31,
+    "isAgeRestricted": false,
+    "likeCount": 84322,
+    "name": "Bref. Je suis allé au cinéma avec cette fille.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille",
+    "videoId": "r-cbMtBLY0g",
+    "viewCount": 7193082
+  },
+  "line": {
+    "content": "Ça m'a énervé.\nJ'ai dit:\n— Tu veux du popcorn ?",
+    "end": 25,
+    "heatBucket": 2,
+    "index": 8,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=r-cbMtBLY0g&t=24s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/024.mp4",
+    "hash": "f8631eb451",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZpJREFUeJwFwe1r00AcAOBjud9dLrncJblesiZ9TdqmcdrNtpbWjNpuk7azUHE65hu4ylAQRBE/TKYiflDwn/Z5EBigbC6YjQ1sGAYAfTk5WPS6viMCVyKEvt/8/Pvnn0cgEoITQLAD3Wi3E1cUs8rCAQxn/XyeJ5n2XYshhN5fXn66uoqF7TFTWQwJIEVSnebZMFbLdpSXgw/ze2+ngxejXlsr32JFp3k/b4/zTr3ka26hJCgN0+TsdLNdzKY1Vdd6ORw82s8O2/WjW+3T22mRNffrUap9z6QWNlDgeRebZz++3rx7tdWMSVtWwlooeFJyz4vRm8NRItleHGa7ioPhEIwsQu5297YXr799vqaEU2AEOAVTy9KD/uTL+vioU20FXsNzOMEWAGKECGo+Xqx/X//SrsI7YFPuMqdZzib9+cfl7Pkw61V0VVgOJRQTxIBghFbzh+erdSykb/E0DDq11vFkUQxPNuPxSRpWHTN2WMgZwYAoJhRDpHQeqFzJVNoNV65miyerp8VgnjfuHERhy2VN36lJW1L4D087Ot9mkhjBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/024.png",
+    "width": 1920
+  }
+}

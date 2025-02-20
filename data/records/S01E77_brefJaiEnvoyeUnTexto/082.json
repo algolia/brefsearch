@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 566,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "isAgeRestricted": false,
+    "likeCount": 85617,
+    "name": "Bref. J'ai envoyé un texto.",
+    "season": 1,
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk",
+    "viewCount": 7559587
+  },
+  "line": {
+    "content": "J'ai voulu mettre trois,\nsix points après manger.",
+    "end": 84,
+    "heatBucket": 5,
+    "index": 40,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=82s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E77_brefJaiEnvoyeUnTexto/082.mp4",
+    "hash": "9efb30e405",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwdxdtS2kAAANB8fKW2/kFREU2LVqlhhECyuyHZXFxwRmglifoAFQPpTG7uEgPDJXbgvBzu65eD0zKPUNu23en0XxwljKXv71mWzRlL4/htOvFt220rWvnkrFDY5w6LR4ZuTjw/jpMoitIdxliSxFmWpWlKKZuxdDj82yHdi/NL7rR8VjoudTrdXq8PAFBVVVEUURR5nldVVZKkarWq6/rVVRVC1LvvcxAgQRBEUTRN8/rXNUKKJEkY41arJQi1m5s6IcTQjXq9fte9i8KYU5S2aZqyDDRNwxhbloUQwhjfWpbYaAAADcOAEOi6XqlUNBVzCLVFsdlsNovfioQQWZZrQu3Hd74hge7jMA4D3/fH43EQBJ7nue4TB6Fi285oNCKEPO84jntrWc7j02yV55vNer3Ot28Wi+XgweEuf1adgUvfWJ5/bHbyrY88z9erreVyNZ8vwiDq3ffPKxfc3qfPR4clWYJ/fg/GL14QRElCKWWUziidhWH8+joZPNgQoNLxSWFv/z9/zF1d+cdG1QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E77_brefJaiEnvoyeUnTexto/082.png",
+    "width": 1920
+  }
+}

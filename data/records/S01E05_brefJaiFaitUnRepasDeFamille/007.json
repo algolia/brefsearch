@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 637,
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "isAgeRestricted": false,
+    "likeCount": 100059,
+    "name": "Bref. J'ai fait un repas de famille.",
+    "season": 1,
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M",
+    "viewCount": 8221984
+  },
+  "line": {
+    "content": "— J'ai fait du ragoût.",
+    "end": 9,
+    "heatBucket": 4,
+    "index": 4,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E05_brefJaiFaitUnRepasDeFamille/007.mp4",
+    "hash": "d3358e890c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB7WURqTTpeQy1eQy1WPSkdGRYBCA42Jx1KMydnSD1ALSUaFBMgFRNPOi1SPjFMOS4AbUYwc1E8akwzZ0kyWD8qFxUVBQsRLyEZY0Q2oG5cbUg6KRsWNSEaV0EyXUg5WUQ3AJt3V5NzU3ZVN2lLM1hAKxgWFQMJD0MwIn5XRoVZR4dYQ3BGMk4yJko4LGNMPV5LPQDPuZHczbWTcU5nSTJcQi0gGhgECQ9GMiNxTTx+U0GBUjprQS4fFhRFNCtkTj9hTT8A28mo6+PZkXNTY0UuTjkoFhQUAwkQNygcZUUxcEY2aj8qXjgnJhoWUD0wZE5AY05BAJd2V452XnNUOV1DLyYeGwUJERESFzosJ2VLQT0iGmE5KHtOOYVmW2VQRl5JO2VRQwBHNCoiGxpWPy9VPi4ZFhUYFRdSPDZqUk2iiod+VESRYU2WZ1OliIBtVlBWPjViTEAAGhYWEhIVFxYXQTEoBwoPMykoWUA4a1ROtZ6arIBwo3BbqoN1sZyZblZQUjkzTzgwAAsLDQkMDxESEyohHwoMEkY1MVI7NVxEPYRuaq+OhKd6a7Scl4hzb002L0QvKDomH6ZjeZoWgZWSAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E05_brefJaiFaitUnRepasDeFamille/007.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "— Who, tu me les fait, ces cafés ou quoi ?",
+    "end": 36,
+    "heatBucket": 1,
+    "index": 13,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=34s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/034.mp4",
+    "hash": "3af645b84b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBGKgtMLw5SLwtdOhBoRBVqRhdtShlvTh5uTB+icVXBjHBfQjdnQDeLVU0fFBIXEA4AUTINWTgRXjgMZkESck0YdE4ZdVEeelYidlIho3FSzJd5e1ZHnmlbrGleQiolGBAOAFs6EWE+EmQ8DWxFE3lRGHhRG3JPJX1ZIZJmOM+VdMmSdJNjUqFuX6xxZWxJQCIWEgBhPRBmQRJoPw1xSBN8VBl+VxqDXB+DXiGMYjOudFvDh2mSZFVoRTubal+db2RRNi4AYz4PaEISaUAPc0oTgFgaglwchV8fimMlgF4fnWpEtHtmeFJGVToyiV5Sr3lrimNXAGI+D2hBEWpAD3RLE4FaG4RdHohgH4diJYhkJIxhMWtJPUcxK1I5MXdRRrJ8a19DPQBeOw5lPxBpQA1zShKBWhqJYBttUSkoIiFjRxqGYCNxUSNnSCA7KR5+V0uPZFUmGxwAVzYMXTsOYzsNckkRflcaVz8gLSYkJx0SaU4lgl0kh2AjgVokMCAZNiYiMCMgJRsaAEotC1AyDFc1C1g3ETMnHCkfF2NGFYBaGnFRJ3BPH3xXH2lIHTQiHi4gHg8NDB4VEuuJfk3bQAn2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/034.png",
+    "width": 1920
+  }
+}

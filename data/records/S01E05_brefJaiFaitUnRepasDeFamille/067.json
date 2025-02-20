@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 637,
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "isAgeRestricted": false,
+    "likeCount": 100059,
+    "name": "Bref. J'ai fait un repas de famille.",
+    "season": 1,
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M",
+    "viewCount": 8221984
+  },
+  "line": {
+    "content": "La raison, c'était Manuela,\n22 ans, étudiante en LEA.",
+    "end": 69,
+    "heatBucket": 5,
+    "index": 28,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=67s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E05_brefJaiFaitUnRepasDeFamille/067.mp4",
+    "hash": "cf5727eec1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwU1vk2AAAGBOJovDtjDoF4WWrQVKoTR8DvoCbflwg4YWt25uc21MY2tmzA6NcQdNNPGkXmY8G6MHE5PFo4lH41/wH3jz6nk+D2TzVGrQQ6U2Mrn7kXboybHK3QMdr10PFOZBpF+exR9W4y8vZ5/eXLxaptCBzY0NeiQT0wG3SKyewj/fG3x7MrucRYFETwPl49PJu4f+j89v/11f//r+FZrY/KHN3nWY476wGIEdQ3wUu6+P/GeJFansatK7enGSWvzF2fHfP79/Xr2HvHZtZNBHDjMN5GUClrG9CM05EE4N5jy1T3fMaaiGhsiShXkarPZdSGaqY1c5CLonQ2+W7k58+zzuPvaUOWgFapMslxBkg6MpHMvXyGqzVoHWYGQdwWG0gOYJjuuoQnsg1v0GIVYKhUIF3cBvZTM31uBMFiVLxWwOgbZRtJ7JETTTt3pDf+hodqOYF8hStUw6BvDAgGebfH2T3aw1qDJHk5C8DktYHljebu92v+tu0QJRZjGMwnHKkPU70Sh0w3kaJUDeIoqR3oFy8E2GqmqS2TNdoAFbd1pNu0KKUgvoktZVgSlbsQOibbGEYQkw/gOEsWsKsGWWYAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E05_brefJaiFaitUnRepasDeFamille/067.png",
+    "width": 1920
+  }
+}

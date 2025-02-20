@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 351,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "isAgeRestricted": true,
+    "likeCount": 59466,
+    "name": "Bref. J'ai recouché avec mon ex.",
+    "season": 1,
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw",
+    "viewCount": 4228008
+  },
+  "line": {
+    "content": "Je me suis dit que ça\nintéresserait mon psy.",
+    "end": 17,
+    "heatBucket": 1,
+    "index": 6,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=16s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E27_brefJaiRecoucheAvecMonEx/016.mp4",
+    "hash": "aca91fdd76",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC2sLHBvb7LyMfSzMrc1tK5s7KJi4idiHC1kna3mHtwVkViTkRsYl2Yj4t0a2ZlXFkAo4yCsZmNuaaex7666uThvreziYR8moVutZF0uJh8pnRhq3VjPjEpfXd1ZF9eY1tXAIVXQJVfRJNvXqOcnOfh3rqxrJRzWZpzWLCMcLeUeKZzYrOAbpBpWXBcUXRsaXZubQCPYUufaE6admeknp/g2tm9sqxoW1SJX0mwim6yj3KXa1eueGathHSjlIyhl5KLgoAAlGZOoWtPnHlpn5qb0s/OtqadUExQV0pCpYBiuJqFknt2Z0g7pHxm1rmuwrq8gnp3AHlINY5UPoxjTXxdTpFrXnpIOGlAMVZCOIx6cNfL0dbO2rmssdS9u+/j6fbt+LWuswCIYE2RZlGRc1t5Sz1aNy2GY0t/Y041Kyl7cnPZ0d3DvMDOy9Xk3+7h2ubp4Ori2eMApYpws5J1wZ+CjXZlgWlbu5uCblVCZUxBlWpbn42Mur3IubvCysLL0svVz8fTzsbRAIdpVJl5YKaEaLWTdYFjTm9SPks6L0w8NIlfSnRgW7GyvLa3v7qyt7mxtqaeqbOmrd+37gYU1fQrAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E27_brefJaiRecoucheAvecMonEx/016.png",
+    "width": 1920
+  }
+}

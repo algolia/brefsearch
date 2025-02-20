@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 525,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "isAgeRestricted": false,
+    "likeCount": 88753,
+    "name": "Bref. Je joue de la guitare.",
+    "season": 1,
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M",
+    "viewCount": 6698014
+  },
+  "line": {
+    "content": "— Un Visa pour les États-Unis?",
+    "end": 30,
+    "heatBucket": 3,
+    "index": 14,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=29s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E07_brefJeJoueDeLaGuitare/029.mp4",
+    "hash": "af96ff1a95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjMNFU9ldTXpqXFu3p6Gii66inoaGtraShLiYpoaMga2GgpaehpKcsKyMqzMvFIyEhzmCmJm+vrpwVGTypIm92SWqxp6WFvramgaGQqLiGhpq6qqK0lLi4iBA/Dx8nBycrGxuDq5F2kLtbVkL0spayeZXZqU7mNtoqmloa3DwC8oqKurqacvJyomLi/PyCnFw8PLz8DOkR/llJce7mJq0pERXRgcUhXonOlg7uniHpufZOTtqaKqrqKtKy0qLiEgKCYvz8ogwl8eGlZWUzJ0yeVZ47MTdhal5imIWBY0BAQH5xfEyUuZa6mIycsJikgLA4D58IJ7cQw4Jp0zYeODV/y94li5alBnrGezm6G2oZubqZ+/lrmZgLi0pxC4jxConzCYrz8otycQsx7N9zaNnWvbmtnW0z5qVGhNgbaVg6OZr6BsgrqUnKKIpJyQuLy/AJiXPzCHNwCrKx8zMcOnB82tI1Zb0Tq6fOySursLUyrZ+z1DMqXkhITFhUml9QHIQExHn5RLm5hVjYeRl2rllX3d4VV1pZ1jelfPKstoWrKtr7FJRUxMRl+QXF+QTEePhEQIhXhItLiINdAADvu2sjFkB9wgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E07_brefJeJoueDeLaGuitare/029.png",
+    "width": 1920
+  }
+}

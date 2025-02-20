@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "isAgeRestricted": false,
+    "likeCount": 112972,
+    "name": "Bref. On était des gamins.",
+    "season": 1,
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY",
+    "viewCount": 6343137
+  },
+  "line": {
+    "content": "— Je l'aime pas trop, elle.",
+    "end": 133,
+    "heatBucket": 1,
+    "index": 36,
+    "start": 129,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=129s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E57_brefOnEtaitDesGamins/129.mp4",
+    "hash": "09fe31f380",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC6vr8lIyAaGBYaFxZhTkVcV1BnZF5HOzNTTEdRUExlZWFkYV1JQTpycm5nXVZRRj4Atbq6CAoLPSwmX0Y6aFVMZGBdaWlmRExPWGJkTk1JZGRgU1FOEwwJQEA+dHBpaWNhANXa2UxBO3teUIFjVHBZTm1pZn1+fEhKS0pLSz09O1VVUzwzLltFOTcsJlJST2liWwC6vsSyoJWNcWBQPTFNOzZtbW19fXosLC0wMDEUFBdDRERFPjmMbV1fSz89OTVubm0AqbC5o4+OhWthZWFgdXV7U09NYmBcRkZFTk5NLy4uS0tJTlNUaltTeW5pZWZmVVVVAJ+iqXw3JYMsFHgsHo6Dg3F1eVlZVktMTFpbW0FBPlZYWYRlXIJDLoxgVaittGttbQCPkqB8Zi6AWQCGVgCHdzeEipVpaGVGPzpgWFA5OzlfYWiRcTiGTwCGWQaeoKGGipEAh4SLgmIzjWIAjVAAeFYkgXt8NC0rGhYTNC0oIB0bOzs/UD4taCYJb0AqlZWXeXZ1AH9oWkcoJ2YlF3UfDjoYFXdjWDEnIgAAAA4LDRkTFREMDgoIEyk3OmBwd5qUllBANr4hkR5kRGAeAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E57_brefOnEtaitDesGamins/129.png",
+    "width": 1920
+  }
+}

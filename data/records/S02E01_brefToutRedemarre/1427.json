@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "À 24 ans, il a épousé Shifan\net il a choisi d'emprunter l'équivalent\nde 15 000 € pour le donner à un passeur\nqui lui a pris son passeport.",
+    "end": 1432,
+    "heatBucket": 1,
+    "index": 462,
+    "start": 1427,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1427s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1427.mp4",
+    "hash": "1c2c33c4a1",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlklEQVR4nAXB626aUAAAYN6gTZPF1nKHglwPF0E5XAWOBxCZZW7p2qRV61ZdzZIty/oS+7Pfe9l9H3F+fiawJE1dssyQZ68FjhR4UuQoSaAFjmTIK+Z6YKj8SBHekUOSowlZFj60WV3CZRW/X2T9crZqkqpKcZ0ilORF1K6715eP/QqJAMRNScg3fIcjlE3qEi5wVKPgZffp7qGPikhzLN0fl1+eV7e4qZOBPPJnESGIXINgnvjzPMAlXFTxn39/T2+/vMmE4UVKUZ22MlwtK8KhoqiBTXA8XaOgQnBZxygPUAH3P07r47fT7++u50uihO/XqqPEM992NN0QCcfXg8iaBiBJnSi2wtBypmNY4f3bTxgnX4+b5uGeNQ3LMyVgkKJM5NU8xUWK8wznYRHBWSADg1bNfr/tcNYl7qIrdddWgDEyJFqkiLyHd9t+e3jaHJ52r8+b4+7xsF0/fm5v28T3prKywtALvHyexuGYYmhiwJ/ptmS5hmVr9tgELjBdYDpAs01ZG/E3AsWzJMcxHKUa2sXg8j8X32LkJFnIJQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1427.png",
+    "width": 1280
+  }
+}

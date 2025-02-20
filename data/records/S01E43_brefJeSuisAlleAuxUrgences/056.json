@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "isAgeRestricted": false,
+    "likeCount": 138987,
+    "name": "Bref. Je suis allé aux urgences.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk",
+    "viewCount": 11560525
+  },
+  "line": {
+    "content": "— J'ai une arête coincée dans la gorge.",
+    "end": 57,
+    "heatBucket": 3,
+    "index": 29,
+    "start": 56,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=56s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E43_brefJeSuisAlleAuxUrgences/056.mp4",
+    "hash": "476689b3cd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBxlrdhj7lEea5Bd6tPiL0ePGMwYZREea47c6lFdqU6SGIuQWFFWHlea4Z7e4WAc18AZ5jAXJrMSYS6S4i/UJPJJkFjV19xSEZPR0hYVlBZICtGHSxJFB45Nj5RioiQhHBMAGCfz1qf1U+RyFef2EGBuDlAU3lgV2xWUXxjXntmYy5EZShDah84XjtMZpWVmodzXABhpNZYm9FNjMRRlMw0aJxQT1p0YFpYSktLP0E3LjAgLEBMZIVVb5Bid5KcnaKKgoEAWJbKVJTLTonAUI7HLFmINjVAWUZDWFJJPUE4REk9CwsQSU5bn6m2n6u3jI+WXFdbACVKcx49YitXhzxunx1CbSQvRUAxMWJbSm9vR1hfQxUXIBocKXqBjJykr3l6gD88QgAaPGQUJ0MSJkMWOGIdNlkjJTE4LzRnTzqZakdsVzsVFyAVFiFMUV5sc39eXWMhICcAHD1mFDJWFihDFSpHGTFSGiAuMiszYFM8g2lETjwpEBEaDg8ZLjA8RklVPDo/HRkcABIwVBErThIrTBUpRBctSxcmPiciKl1RRGxTPU09MREPGAkJESkqNFRYZSssNxMRF8vBkX3Ju+OkAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E43_brefJeSuisAlleAuxUrgences/056.png",
+    "width": 1920
+  }
+}

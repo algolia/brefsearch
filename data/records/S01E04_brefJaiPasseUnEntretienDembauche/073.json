@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 497,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "isAgeRestricted": false,
+    "likeCount": 91737,
+    "name": "Bref. J'ai passé un entretien d'embauche.",
+    "season": 1,
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU",
+    "viewCount": 7182602
+  },
+  "line": {
+    "content": "En fait, c'était menteur.\nIl m'a dit:\n— Ah vous.. vous aimez le kayak ?",
+    "end": 76,
+    "heatBucket": 3,
+    "index": 26,
+    "start": 73,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=73s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E04_brefJaiPasseUnEntretienDembauche/073.mp4",
+    "hash": "d5cef59097",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJxjEFIwEZA3kpRVSg3y68xJzQ71n1KcubmjalZZto+dHZe0AZ+8MZu4tk9wXFt7Z3NDLQO3jLG2no2blWV1clxTepKXhVm0o3VPRlyko42zjQOHjCGfHFhDUExbW3tLcz0Dh7SRhblrUWjQ5IrC7dO6u/PSVnXUr+9pqk8Ijw8OYZHS55c3YZfQ9QmMbm1ta29pYOCUMlLStq9Ljm9OT9jU23Rkdu/2ia3bJ7WemNGWGR3FIKnHr2DCIannGxTd3Nzc0dLIwCWpyy1tbGvlVBQV0puTPKciN93fK8DabHZhspuTO5O0Aa+8MbeMYWRsSmNDXVdbMwO3lC6ruL6ShnmUh2tJTGiil4uvhamXkUGip7OyjhWbrCGPvDGnpF5AaFR9XVV3WxMDt5QBq4i6hbm9l42lh5V5hp9HkqtTmpuzk6kRl7Q2t4IJt5wxu4SOp19wbXV5V2sjA5+EIgsXr5d3uL+bh4y4qJOpsY+lsZeliYqKGge/MJ+4Ir+sDqekrk9gWE1VaUdLPQOPkAgzJ7eplVtaRpWuppa4iDAvN7eZqY2ekQU7vwC/qLiguKSwlIKJmVV6WkpHSx0AlFl5vJvh750AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/073.png",
+    "width": 1920
+  }
+}

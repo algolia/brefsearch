@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "T'avais du champagne ?",
+    "end": 72,
+    "heatBucket": 1,
+    "index": 16,
+    "start": 71,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=71s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/071.mp4",
+    "hash": "7f7a434341",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAapJREFUeJwVzklu01AAAFCzIE5i+zv/Ox7+95zYderYiYfWjk1MBiWpWpcAqUSYFggQEqhShap2wRFYsKmE2LFB4hKcghMh3gkexQAeQAS7IiGKrWEC2xJH801a4VsYggOZPXaAwLFSh2XZdqtFU5Y38KNoUmSPNtP80Nql1lVtXp5oC6dTR873d87HtVl4xsTTbF3RZEi5vp9m6dlquqkSi0jPH3gfZvbd+96XJ/jry97PT87cxaWLc5f0dUWXIRWMRw+n+X67XJSRejB4vU4fh3gfot839t8f8dVcf3VknYRaYkm+rRoKopJ0vJpP3lys6mUmSmLmqttQ+VzhX5f6n2/F9YukDozbfVXnh55JLCJQaTquV+VsegRlRRSFsSlFhlj5yk2NL6rh3XV+u/PqMn46j10DW1igjqPgdJYppi1hfJ4623LII9QCnVBDz/L+0idnibrIR5tJYGDxf6mIhusiFlVDUdW359luEQGIGgzoCrD0SOwaFsEDk5RBf+S7JhEpBHmpi+g202i2+5pkYqFBNxt08959GgFGhBzgGK5Fywi4Tg9wzD9fQ0n7SSSelwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/071.png",
+    "width": 1280
+  }
+}

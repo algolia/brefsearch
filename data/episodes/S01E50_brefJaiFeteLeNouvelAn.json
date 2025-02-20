@@ -1,0 +1,294 @@
+{
+  "duration": {
+    "human": "1:57",
+    "inSeconds": 117
+  },
+  "episode": {
+    "index": 50,
+    "name": "Bref. J'ai fêté le nouvel an.",
+    "season": 1,
+    "slug": "brefJaiFeteLeNouvelAn"
+  },
+  "lines": [
+    {
+      "content": "Bref, c'était le 31 décembre.",
+      "end": 2,
+      "heatBucket": 5,
+      "heatValue": 57,
+      "start": 0
+    },
+    {
+      "content": "Je voulais passer un bon réveillon.",
+      "end": 3,
+      "heatBucket": 5,
+      "heatValue": 55,
+      "start": 2
+    },
+    {
+      "content": "On m'avait proposé dix soirées.\nJe savais pas laquelle choisir.",
+      "end": 4,
+      "heatBucket": 3,
+      "heatValue": 49,
+      "start": 3
+    },
+    {
+      "content": "Je me suis dit que j'allais\ntoutes les faire.",
+      "end": 5,
+      "heatBucket": 5,
+      "heatValue": 55,
+      "start": 5
+    },
+    {
+      "content": "La soirée déguisée.",
+      "end": 6,
+      "heatBucket": 5,
+      "heatValue": 55,
+      "start": 5
+    },
+    {
+      "content": "Je m'étais déguisé en Charlie Chaplin.\nJ'avais perdu mon chapeau.",
+      "end": 8,
+      "heatBucket": 5,
+      "heatValue": 58,
+      "start": 6
+    },
+    {
+      "content": "Tout le monde croyait\nque j'étais en Hitler.",
+      "end": 10,
+      "heatBucket": 5,
+      "heatValue": 60,
+      "start": 8
+    },
+    {
+      "content": "Et l'organisateur m'a demandé de partir.\n— Va falloir y aller, ça va pas le faire là.",
+      "end": 14,
+      "heatBucket": 5,
+      "heatValue": 58,
+      "start": 10
+    },
+    {
+      "content": "Je suis parti.\nLa soirée avec ma mère et ses copines.",
+      "end": 16,
+      "heatBucket": 5,
+      "heatValue": 55,
+      "start": 14
+    },
+    {
+      "content": "— Le petit jeune, j'étais à deux doigts\nde le sucer.",
+      "end": 20,
+      "heatBucket": 3,
+      "heatValue": 54,
+      "start": 16
+    },
+    {
+      "content": "— Oh ben, fallait y aller, moi j'hésite pas !",
+      "end": 21,
+      "heatBucket": 3,
+      "heatValue": 50,
+      "start": 20
+    },
+    {
+      "content": "Je suis parti.",
+      "end": 26,
+      "heatBucket": 3,
+      "heatValue": 37,
+      "start": 23
+    },
+    {
+      "content": "La soirée avec mon père et sa télé.",
+      "end": 28,
+      "heatBucket": 2,
+      "heatValue": 28,
+      "start": 26
+    },
+    {
+      "content": "En 42ème position des 100 chats les plus\nmarrants le chat qui tousse avec\ndu chocolat en poudre.",
+      "end": 31,
+      "heatBucket": 1,
+      "heatValue": 18,
+      "start": 28
+    },
+    {
+      "content": "— Haha, le petit chat.",
+      "end": 34,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 32
+    },
+    {
+      "content": "La soirée jeu de société.",
+      "end": 37,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 36
+    },
+    {
+      "content": "D'après Philippe Soupeau,\nquel est le pire ennemi de l'amitié ?",
+      "end": 40,
+      "heatBucket": 1,
+      "heatValue": 23,
+      "start": 37
+    },
+    {
+      "content": "— L'ennui ?\n— Mais non, c'était l'ambition. J'le savais moi.",
+      "end": 43,
+      "heatBucket": 2,
+      "heatValue": 28,
+      "start": 41
+    },
+    {
+      "content": "Ils ont rigolé.\nJe suis parti.",
+      "end": 46,
+      "heatBucket": 2,
+      "heatValue": 31,
+      "start": 43
+    },
+    {
+      "content": "Six.",
+      "end": 48,
+      "heatBucket": 3,
+      "heatValue": 34,
+      "start": 46
+    },
+    {
+      "content": "La soirée où il y a pas assez\nde meufs et où ça dérange pas les mecs.",
+      "end": 52,
+      "heatBucket": 3,
+      "heatValue": 33,
+      "start": 48
+    },
+    {
+      "content": "Cinq.",
+      "end": 53,
+      "heatBucket": 2,
+      "heatValue": 30,
+      "start": 52
+    },
+    {
+      "content": "La soirée chez des gens\nqui, en fait, sont pas chez eux.",
+      "end": 55,
+      "heatBucket": 2,
+      "heatValue": 29,
+      "start": 53
+    },
+    {
+      "content": "— Barrez-vous, barrez-vous.\nJe me suis barré.",
+      "end": 58,
+      "heatBucket": 2,
+      "heatValue": 29,
+      "start": 55
+    },
+    {
+      "content": "Quatre.\nLa soirée... annulée.",
+      "end": 62,
+      "heatBucket": 2,
+      "heatValue": 32,
+      "start": 58
+    },
+    {
+      "content": "La soirée à problèmes.\n— Pourquoi tu me parles ?\n— Putain !",
+      "end": 66,
+      "heatBucket": 3,
+      "heatValue": 41,
+      "start": 62
+    },
+    {
+      "content": "La soirée à thèmes.\n— Pourquoi vous mettez des baches ?\nOù t'es pas d'accord avec le thème.",
+      "end": 72,
+      "heatBucket": 5,
+      "heatValue": 84,
+      "start": 70
+    },
+    {
+      "content": "— Bha c'est une soirée urophilie.",
+      "end": 74,
+      "heatBucket": 5,
+      "heatValue": 94,
+      "start": 72
+    },
+    {
+      "content": "J'étais dans le métro,\nma copine m'a appelé.",
+      "end": 76,
+      "heatBucket": 5,
+      "heatValue": 88,
+      "start": 74
+    },
+    {
+      "content": "— Ouais chéri, t'es où ? J'suis à\nla soirée The Name.",
+      "end": 78,
+      "heatBucket": 3,
+      "heatValue": 51,
+      "start": 77
+    },
+    {
+      "content": "— Y a tout le monde, c'est génial.\n— Cool, j'arrive.",
+      "end": 80,
+      "heatBucket": 2,
+      "heatValue": 27,
+      "start": 78
+    },
+    {
+      "content": "J'y suis allé.",
+      "end": 81,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 80
+    },
+    {
+      "content": "— T'as pu venir !",
+      "end": 85,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 81
+    },
+    {
+      "content": "— Bonne année, mec.",
+      "end": 91,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 85
+    },
+    {
+      "content": "— Bonne année.",
+      "end": 94,
+      "heatBucket": 1,
+      "heatValue": 6,
+      "start": 92
+    },
+    {
+      "content": "Bref, j'ai fêté le nouvel an.",
+      "end": 99,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 94
+    },
+    {
+      "content": "— Merci d'attendre.",
+      "end": 100,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 99
+    },
+    {
+      "content": "— Hey, tu veux boire un coup ?",
+      "end": 108,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 105
+    },
+    {
+      "content": "— Non, merci.",
+      "end": 109,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 108
+    }
+  ],
+  "video": {
+    "commentCount": 520,
+    "id": "-KG96E4nu-s",
+    "isAgeRestricted": false,
+    "likeCount": 76148,
+    "viewCount": 6184265
+  }
+}

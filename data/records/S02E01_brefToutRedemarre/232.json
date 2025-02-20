@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "On s'est plus jamais parlé,\nc'était il y a trois semaines.",
+    "end": 236,
+    "heatBucket": 5,
+    "index": 65,
+    "start": 232,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=232s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/232.mp4",
+    "hash": "e3a92906ec",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nCXEu27TUAAAUC9IsZ04tX2vr31dP+M2cWMXP5PITuJEIQ+kpojSSC2RCiihgNooEUKq6MaCxGOGpUOlTswwMfAFjEx8ARsSTEwwcIZDkEwRyiJGnKsD3wRlRFcVVsVAA/lySRYYCjIUmyeLVI5dYyR9neCwDDVNkcWsquzF6q4Dj5rm/q32jSysuVbNEDwN2TIwEaeKQFYwsYZEFkscz5aEYqvELvrKUcSdPR6Pdvsuyne3sKcJNuZMxCkib+oSQXH8tTyTZ4qBAc9vb76+W3qY4fu9YJAGoYV7VTmuqLYmJVHl6cnOYtYnBuNs+XwW15zDtvVu1bo867x/EtzrbIxCq+uodQN1EyfN/KS5fTIfLo+HxNWHt7//fj9dHiwm4eeL+ac342fjjZuO2LPFdmU90IRWWM56cdYNpvvN1aMhcXH18uefby9erR7cqZ1P40mEGzof6aBhociUbMxHrtFIr6dtb28nPp0NiI9fLn/8+jpfHG4qMLVgYsFQA74GPRVua8iW+NgxGokb1Z3ppLM6HhFx6vl1N0fTNJkDBVJgSFggQeH/FE+TiGMwBpIsxIHju8Y/R2NbQPAkWF0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/232.png",
+    "width": 1280
+  }
+}

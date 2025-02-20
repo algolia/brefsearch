@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 497,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "isAgeRestricted": false,
+    "likeCount": 91737,
+    "name": "Bref. J'ai passé un entretien d'embauche.",
+    "season": 1,
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU",
+    "viewCount": 7182602
+  },
+  "line": {
+    "content": "J'ai dit:\n— Vous avez remarqué,\nça se lit dans les deux sens.",
+    "end": 84,
+    "heatBucket": 3,
+    "index": 29,
+    "start": 78,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=78s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E04_brefJaiPasseUnEntretienDembauche/078.mp4",
+    "hash": "d1fa57d32d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJxFy1tv0mAAANAmZi8mDgOzynTIxI6LDCjQUqUoZoMNxhg4L4OQ6UgMwSAawc0EIYyl0LV0tNDva+laMLq9+SN99LwfhOmcsT1m2OdF7mIijIAksyfNq9bXv2z3d+d4dvIZ1sq7FJ5JJg3FmMqXyHmvLwx4aXgBxLEyAYoMO5UyXz266v749bMhVA7Z8kFxgw573eoY6soM4RluxAlAHKsToAI417Ri8qXPdreajmcIX54mG++y6Ugg5PXoUNMVAxEGw/FQhBJQJ1BT1D8QTo/rXO1jv/Ih7FghsYfvE7HM01CKDBrgf5CACKAEZpfzyYBpF3OnR4Vvb7KtQu7722wtt13aiNbzO9eza0OdI8KAF7mRPJI1qOlTvfmpmiF9lHOVwOyleKQYC5U2o4UXVIoimvWGxIvI+RkrcuJYkBq1L9nN7VgwfLgVf02TcQ+2hbvThDdPhyKuxws3Fu6ZLc/wMDLoMd1WZz+1S/sJOhBes68mCP8e5c9GfHtUIBF0x9edVsud24sm1LK0Zn+EnLbbB7lXOPYkipMhj/c+ii6jqPOBNYLZnnsctMvuWrbeurloNpmWzBbHiu0f0sahx71Al/wAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/078.png",
+    "width": 1920
+  }
+}

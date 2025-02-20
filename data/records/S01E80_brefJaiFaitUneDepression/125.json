@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "isAgeRestricted": false,
+    "likeCount": 164024,
+    "name": "Bref. J'ai fait une dépression.",
+    "season": 1,
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E",
+    "viewCount": 9241801
+  },
+  "line": {
+    "content": "J'ai arrêté de le taper.\nIl a arrêté de me taper.",
+    "end": 127,
+    "heatBucket": 2,
+    "index": 45,
+    "start": 125,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=125s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E80_brefJaiFaitUneDepression/125.mp4",
+    "hash": "1f6d747cb1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwVy8tr02AAAPD8BS79vi9pvi+P5tE8mjUvm6bttrRNY9LOrqseykBwoI6BsovgY+hBRHQIHgRFC3PuoLBbNy1zB0EvXtTz/h/xd/9R8MKCCAsSS7d1ZkkhqSEbPvabOGzwQpOLHDEv83UFihwqoQKiaYql6RKiyxzwJNw01MS184bTrVvD2M9WvHpFDxQt0ji1CMpFRCCiMABVnpEx7xpyu+qMw8b94eDdjeHB1vjp5iQLllccz5IUEzM2AQQyFIGgwrOGVDITcmuUP9m4sn8zne30v99OX29fnjSiq2vj5ShyS6IrMDxiKAKAL+NWxQyb6eZq+ubx3ZPp7snnZ8c764cPJ3uPtsLu6qg/iH1/kUABsZTAgEDCuRX0w9re7van6fT069Gf8x+/X9z7+/Hlz1+z62uX1uNGz3csjBTMUgICi0Ix9rxBWH31/MHZ/GB+/P5sfnj65cO32f7s6O2da6ON2qBTCSoE/g8EFmyecctaZJut0E/brSyJs6ST97pZr5PES+16rea2bEUzMeQRpFh6QWGBTHhdlKyS5KrqRV2vGUZo6IGuO6pqybImKSoR9CLgQOEfUqxmze7pTnsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E80_brefJaiFaitUneDepression/125.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "isAgeRestricted": true,
+    "likeCount": 63867,
+    "name": "Bref. Ma copine travaille dans un sex-shop.",
+    "season": 1,
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8",
+    "viewCount": 3454073
+  },
+  "line": {
+    "content": "Je me suis dit: Si je lui dis oui,\nil va croire que je suis impuissant.",
+    "end": 71,
+    "heatBucket": 1,
+    "index": 31,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=69s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E48_brefMaCopineTravailleDansUnSexShop/069.mp4",
+    "hash": "a4a21c5d92",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATdJREFUeJxNkMFu2zAQRAXE4nKXS3JJ0SQlSpbjOHBjF3CQg3Popf//VYVttCjwboPBG0yHWgzFfgNqQ2qDGqz3k3WjBgvKQE93gFSP0BuN0mntNTiigNqBIpG2X2+n429jBg2sgUHRXwyidOoFtDIhroQetY1xl8tpv35v0xsoenjoH4jhbkDtvW/W5mchyDwM++PhF5sI/xk0GKTYkR2RM9vsXNVgRFrO7yLz3K5peCWuiAIKn5Ocb89CtbYwJ1CGOYW4kzDvlq+aT/foIffSRFpKbx3aimbLNhszqB41GOey83W/3qZ6sX7K9WNsP8t4zuXHkA4dy0oUvSxsC3FBDEQS4lLrRx3Pbb625bPU8zC8SliYtx27higxHdhNxja21fsxpWMqpzJd6nhJ23cv8+Nlq3r8A40fHGBYRIRmAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/069.png",
+    "width": 1920
+  }
+}

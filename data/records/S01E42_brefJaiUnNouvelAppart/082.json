@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 514,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "isAgeRestricted": false,
+    "likeCount": 91912,
+    "name": "Bref. J'ai un nouvel appart.",
+    "season": 1,
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg",
+    "viewCount": 7721508
+  },
+  "line": {
+    "content": "— Bha je sais pas, moi, parce que je t'aime !\n— Ouais, bah...",
+    "end": 89,
+    "heatBucket": 1,
+    "index": 29,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=82s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E42_brefJaiUnNouvelAppart/082.mp4",
+    "hash": "ef10e4bee5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAnEhEnAQJpRjuWgWyYgW13XlFDHxqIbV2Ncl+IbFmLcF+AZFNzWEhrU0dgS0JUQTkAMRoYKQABcks/rJaAa1dOcFVPWTYpb1BClHdkjW5ZknVhhWdSel9NeFxIaUwzWT8nADsjICwAAXlOQrWfiGlVTnxfWWI4KHJMOpV3XJV1WpV1W4lqUn5hT31gRlI1G107FgBFLCovAQJ+UEO7p5GKa1t6W1NVMiZ8WUeniGuVdFZ+XkhqTTxxVUZ0WktMOCNuTycATzc3MwMEb0A2wK6TsZd/gmBZVTApelhCqI9ulHJTf2BKZUg7ZkxAaE5FWS0VbEQiAFZBQT0REaOFbMCuh7umgH9hS1UvHm5LInhZI49yUIRpW3BYSmhOQXdfV3FCMmg0JQBWRkhfQTi+q4KgimKRelF9YjRzVCV1WCp8XSqIbURgUE9eTUyBZ12SfHWRfnl8aGMATjI0elxEqZFfe25PeWxOeWM/alYzZlIvemAyhWczNyQdMCEiaFBGn4h/qZOLfGllAEUOC31ZP494S5N/W3dqT2hXN2dWN15RM3RcNGlIKCwcGicXFh8PED4uLHJgW2FOTONZl7P5wLsoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E42_brefJaiUnNouvelAppart/082.png",
+    "width": 1920
+  }
+}

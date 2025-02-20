@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 559,
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "isAgeRestricted": false,
+    "likeCount": 109536,
+    "name": "Bref. J'ai fait les courses avec mon frère.",
+    "season": 1,
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog",
+    "viewCount": 8961396
+  },
+  "line": {
+    "content": "— Ouais ?\n— Ouais, j'ai eu mon permis !\n— J'arrive.",
+    "end": 8,
+    "heatBucket": 4,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=5s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E15_brefJaiFaitLesCoursesAvecMonFrere/005.mp4",
+    "hash": "40cfed03f4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCQiIDe29Pe3NXf3tjj5N7j6OLl6uTo7eeflYuOc2WmkoepnZbAtK2tm5LFtq7m7u8AioF72dTN6efi7u3p7/Dt7vLv+fz4y9HPVEE2toZqxJh/qIV30cK8hHRrppeP0M/LADArKFlST5uXiqmqk62vmK6wl6Sni5ybilE8Ma1/ZL6MbqCGeLSrpXhhVYd1a5GJhAAdGhc3MS9QUDtJUS1GTipHTiQ5QRxWVDZuUkSGYlCQZ1GMcGKZiX1aSzxvVUu5t7UAIB4bQTs4SUo4KTIVQEgqOkAlHx4ZHxwaXkY6lm1YlGxXcldJooh5W1hQMy8tnpuZAB0bGEE9Ok1MPx8lDj5EJzc4JxIREkg/O2BJPVxBNGhQSG1XTLKUhXBlYTArKEE8OQAdGxc5NTJFRTcrMhYxLyUkIB8EAwJpaGvAsKtvVkqLhYdhUUqVd2lPSENPTEk+OjYAHRsYODMySEc5JSgWGxkbHx0cDw0MTk1Q6Onv6ufro6OoDg0NIR0aLiglYFlVlYqEAB4cGTItK0lHOR0eFRUUFhsZGRUTFDUzNdve4fj9/4eHigcHBxcWFxoWFVVOSqmfmBrks45RfTYlAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E15_brefJaiFaitLesCoursesAvecMonFrere/005.png",
+    "width": 1920
+  }
+}

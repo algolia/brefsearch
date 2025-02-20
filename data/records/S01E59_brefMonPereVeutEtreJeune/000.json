@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 710,
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "isAgeRestricted": false,
+    "likeCount": 84316,
+    "name": "Bref. Mon père veut être jeune.",
+    "season": 1,
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM",
+    "viewCount": 6922744
+  },
+  "line": {
+    "content": "— Dis leur.\n— On divorce.",
+    "end": 1,
+    "heatBucket": 5,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=0s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E59_brefMonPereVeutEtreJeune/000.mp4",
+    "hash": "8c65021099",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwVzttummAAAGAS+MFaM0tPE7NhOYhUfkGsQBmHKlhAsRMqsazO1RqTbdmpO8Vu2cWS7Rl2u1dd9j3Bh4jUHnxUCdXGADK+dGRxFbdB+5DrQ15+XDlv18eaFGvwwoCp2ZpZCtKk9vsS+8xWjqm9ANZ6Iu1J3KWlpo7uH7ORYS9jfzU8Ww3ddWS/jEwkUITbvvpns9RFZigzX7JeaiqL4MnYdltCD4rRi3i0WaRf58m36/jnIkbaLH10QLZ5miLLKv0w0WGiwytLnVqdJu/JovdxGr2+HKp1zoaNX7cThAAEAQAOsP2tgsNWA4mZudq8b0SKoPBdgdGX/unb2C1iaBEH9/MxUsDAFsC3iUKNfHBSowadTodnY701NVtOU7BFZh2a3/PRKnIipf4pCxEMxXAMFAB+WN4pEUVFlK8851Xi34TGTIfPXfnv77t36eA+G0w0yRVoBGAY/r8EcBQoXO3DdXI3G20y70d+/n7sfs4v1qG96HUnmsSUt5uHJAIwADCAomh1d2ce2G/yyc3T0JX4U4YaaXJsKPlZN7NP5OoBQ5bocukfiStY/41aIAUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E59_brefMonPereVeutEtreJeune/000.png",
+    "width": 1920
+  }
+}

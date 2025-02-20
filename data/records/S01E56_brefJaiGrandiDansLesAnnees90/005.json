@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "isAgeRestricted": false,
+    "likeCount": 113908,
+    "name": "Bref. J'ai grandi dans les années 90.",
+    "season": 1,
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8",
+    "viewCount": 8859528
+  },
+  "line": {
+    "content": "Du coup, je rembobinais mes cassettes\navec un crayon pour pas user les piles\nde mon Walkman Auto Reverse Bass-Boost.",
+    "end": 9,
+    "heatBucket": 5,
+    "index": 1,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=5s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E56_brefJaiGrandiDansLesAnnees90/005.mp4",
+    "hash": "e0620b182c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwdz4tO01AAANCLa2/f78dtaVppu3W1bsytsGVzOmGUQpotLi2SFRwP51Q0JIKQGE0I4cdNPH9wwCjy0nZ40Il2G7WeZzcNtaErr0y166CBa47q3uUkuZ5PvhWHW4GPAwBGUbXnO5sWeqHJoSpHutxEahMpseuMu/1FXnw/Pf6zKu/O85uPs0EUAB4jREipFINYzmB5xPKIFxVWMtV1X9aSeOso3b9d5A9X5e/lh19nOXARItYgCxkKp2GFghiFJBPJhiLolqgHyDjP9vbjVpkMH3+c3l8UYDFNsTUIcZrEKJ5gIEbRBOfb1ZpT0+V1iVOzwfb7YXen9fLxqvy7OgZPP1eBbdPPoMUJrqJINI9VSJbk68/roRtqotZw7DRuzcbJspjdXRyBp5uvZ5NUIxlbUixBkmkOxyi8Qgq0aMoG0mueFXaq9d3ecPbubba9CW4/lQ/XnxsbGwxGiCTLQYaCDE0wRIXkOHU+vczGJ/328KATpa3gTeCAZTG9/7KYZwn5v87gtEzziBU1RlBYKR+9PtkbHrbDncjr+3bsmP8AsLVIiuh9NzYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/005.png",
+    "width": 1920
+  }
+}

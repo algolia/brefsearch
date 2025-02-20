@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 559,
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "isAgeRestricted": false,
+    "likeCount": 109536,
+    "name": "Bref. J'ai fait les courses avec mon frère.",
+    "season": 1,
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog",
+    "viewCount": 8961396
+  },
+  "line": {
+    "content": "Elle est venue.\n— Hey\nElle a vu les préservatifs.",
+    "end": 64,
+    "heatBucket": 4,
+    "index": 32,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=62s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E15_brefJaiFaitLesCoursesAvecMonFrere/062.mp4",
+    "hash": "23fcea8aa0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gArIB8iGBgdFRcrIyY0LC2AfHbDu7ReVFObg3i0koV0UUd8bHC2qaeok4mSjZRram4AIBcYGhIUFQ4RHBUYGhIVZl1fwK2tVUVEp4NyupSEkmRUjXJxuKqksZiNq6e0lZGWAB4WGxYQExILDhgQFRILDmBTUq+SjntaUI5oWpBmWXlOQZqHjcGyrbCYi7KpvLexxAAUDRQTDRIVDhQTDREbEhOooKa9tL6dgXmHYVRtTUVjPzaUiJDAsKmsl4eWjI+upboADwcNDgcOJRgbIRMTPzU6npmnrqqtmIB7dk9DglpQZ0Y8dm94spuQoHdupaWrkIV1ABEIDwoDCjgkIzoiHkE1OUE8P2ZgRGxXSUUtKksvKzorJx8aIDstM31hX7Grs5aBewAJAwcTCAtMMCxLLyk4Ky0iHCVIQy5KRC0zKSEsHhwzKiUgGBsLBQ8wKzGtqbe7sccAIBUWTTItTjEsNyQhIhofFg8XQz00WlQ6QDoiMCkaMiohIhscFAwWDQUOYWditLbKAGBDPVY4MysbGB8UFRUOFBMME0E8OXFtZIN9dnVvalJKQSkhHRQNFg0FDjYvMJuOkRZhiq4fiXJ+AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E15_brefJaiFaitLesCoursesAvecMonFrere/062.png",
+    "width": 1920
+  }
+}

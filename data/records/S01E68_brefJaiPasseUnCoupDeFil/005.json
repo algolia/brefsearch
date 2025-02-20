@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 348,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "isAgeRestricted": false,
+    "likeCount": 76290,
+    "name": "Bref. J'ai passé un coup de fil.",
+    "season": 1,
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98",
+    "viewCount": 5070086
+  },
+  "line": {
+    "content": "Je suis tombé sur sa messagerie,\nje lui ai laissé un message.",
+    "end": 7,
+    "heatBucket": 5,
+    "index": 2,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=5s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E68_brefJaiPasseUnCoupDeFil/005.mp4",
+    "hash": "ebb081e14b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwW1T0gAAAODVxXHyMjb2wt7YiG0EbpC0SIQNhuhtcwMbeMZwcqBghndFaNHr2V131gfRD9Zd/YL+Zs8DVKVHLVXxTfWibzkVxZIzPz3jZtz7+3p02bN9Q70YtE+c2jqMl1agcggC9KI02NHO/db3M883a6Pak5ldX4695bg/a20t/N2rN4cfDx2NYvQY3ohhgF4u27r65fTF3aeX511rblYnmxsfnhtf99uXffd6Nrx9f3z1at9M8zZKGSgJKFKxqTWmB7t/5sMf/t7Cad4d7d0Mu/8W01/TwbZWHbj256NOR8q6OGPhDPAsr+iVqsBn3nWM5cnBzNmeG/VRpfStuzMxm3GapwVJLhTrvNgnWQOngVxaJDkhhiXftvXbiVcRRasgnW5qM3tLyslcrpDK5smHWZ4VVJpbwyiAZVMQRgejmFte+3021OR8Q15tlZTHYhZEGYJKk6xAMDwnrLI4Q8IJAIYTKxHkXgDsaevXxx5BJHkmlUsJMEKDCBVPsDjDY0me5DI0nMDDMBAMwfcD0VAEcdUNo/QUCIDBEAIjFIIyCMFBeBJE6TBERGN4PByPPoj8B9Z/YvLiivgRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E68_brefJaiPasseUnCoupDeFil/005.png",
+    "width": 1920
+  }
+}

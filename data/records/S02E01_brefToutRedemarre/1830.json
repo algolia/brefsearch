@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je me suis demandé pourquoi elle passait\nde Billy super sympa à Billy Super Relou.",
+    "end": 1833,
+    "heatBucket": 1,
+    "index": 605,
+    "start": 1830,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1830s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1830.mp4",
+    "hash": "c7e2d36f5b",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE9JPFhSP1hRP3NvXUxFMxQSDSwpHlBMPE1JOkE7LDozJTQtIDIrHikjGSwnHDQvJQBQRTt8blTLvpb9+NCtnnY0LyFgWUPJwZy4sI5SRTR9b1J2ZklrXEFbTjiLfl6ShWUAEg8PEQwKpJt86+fApJZuOjQkYFhDraeFaFlBDgAAd2pUi31da1o/Z1lAV004OzYpABISEQUEB29pVt/btaaXcFJLNEVENGVOO10lGzYfGWxnT3hxVnJtVG5qU1JRP0JENgAMDA4AAANYU0ff27muoXpfWT85PjFzNCZpFBVcNy9hX0pobFVdW0ZfYExVVkQ+QDQABwgLAAACd2xY8urAq5lvUkk0UU88pmhLVBgWiHxmWEEydmtLr5ZpnJBtcGdPXlpEAAYHCQABBUs5La+ZdKmVcHZnTW1jT4taQTYHCVo+MmZAJZFuPcu3ia6WZ2VEJnldOwAFBgkCBQknExCOcFPGsou9qYKlkGq8mGtvMCcpAwl/XEGjg1iMdEpjTzBeSTNlW0kAAgMEAgMEEwsKNSYcNygbPi8hNikcQTovSD0zKx8ZSEE1QjwuFw8IJSAaSEU7NTIoXUCKS6L3Zy0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1830.png",
+    "width": 1280
+  }
+}

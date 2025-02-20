@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 145,
+    "durationHuman": "1:09",
+    "durationInSeconds": 69,
+    "index": 8,
+    "isAgeRestricted": false,
+    "likeCount": 24402,
+    "name": "Bref. J'ai vu un psy.",
+    "season": 1,
+    "slug": "brefJaiVuUnPsy",
+    "videoId": "xHTx3mYfGUQ",
+    "viewCount": 2511951
+  },
+  "line": {
+    "content": "— C'est vraiment une salope.",
+    "end": 17,
+    "heatBucket": 1,
+    "index": 5,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=16s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E08_brefJaiVuUnPsy/016.mp4",
+    "hash": "5a5328c371",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCbnJyUi32YjHSZh22agGeGcFt+ZFCYhne4uru1treys7OsraumpaGdm5aQjYV/e28AsLG1qKCRqJ2FnoVqn4t0dmlZi2NPnnVhsaqqurzBt7i7s7S2sLCvqqmmnZmTioV6AL2/xbCpnqmehqOReJeIcXFWRIZeSpJqVqqjocjN1ri6vrS2uLCwrqKdkJqVio2IfQDAwsq3tLGfmYxSSzM+Nx8uKRtXPzJsTz9pX1CAfnS0trq1uLqTjoNwZ1SBemuMiH0Av8HJyMvUeHZtIR4HJSIMLzMlCBcXTkA1p35mOi8VlZaTury/jYd5aGJSb2pdhoB3AMTGz6KjozIuGC0pFR8eDEZALFlbTzo2LHpeUGdVPUFALKaloomEdmVcTUYsHlIuFgC4ur9aVkYqJw8qKBYeHQlZSTSYfWpRSDYLDANEPi8/OiJRSzWLhnZnVEc2EgNUKg8AkpOQMS4XNTEZLy4XPzgii2VRpHxoYFE9FRYBHh4tOTtcJiUXYFdEPCEXNBUHTykPAHlyajEgEDYrHjInG0o4KWZLO5F5ZX1rWVZKMCkpSyMpekpaYDswJicFADATB0MgCmlQsrdQ16wQAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E08_brefJaiVuUnPsy/016.png",
+    "width": 1280
+  }
+}

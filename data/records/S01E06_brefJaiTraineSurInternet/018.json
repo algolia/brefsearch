@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 512,
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "isAgeRestricted": true,
+    "likeCount": 70060,
+    "name": "Bref. J'ai traîné sur internet.",
+    "season": 1,
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU",
+    "viewCount": 5741554
+  },
+  "line": {
+    "content": "Je me suis demandé si quelqu'un\nétait payé pour les dessiner.",
+    "end": 19,
+    "heatBucket": 1,
+    "index": 8,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=18s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E06_brefJaiTraineSurInternet/018.mp4",
+    "hash": "7079da51b8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwFwdtymkAAAFC+sO1L85DMtI2xGWsVTVBDFBDYcFkQWe7LbQElqLm3SdvJNFN/redQyhwAToIStHXX0pwlL+q9lskMFiNmwSsBWq/yl229d2HqwDzxbylNVAAni5c8BAuN7hjdTxY7cY3In8383iES5Ir82qz/msBBehL7N5Q0nRvA1IGlDrpK+wDpQZE9ZdHOFgAedYppn3jluvxD8H2zfiPxT0qeiRf0+azXN07e2YKIYCScT4r4LsO3FjMkk9MCmjl+qIvfZfqM0ZaSWIEbc3z76Kr1AQoqdiukB1m4beo3LIGMPlzr+qb+11SvVfqSB4+UyAoiO59/+Xg1+GaCpQODxLuOvRVJ7mLVzIYtoqjber+r93X+mvmP1Pg7zTOsMGRMBWG3DJa5MpV1XqnJMwlvYqZLLJx7uxQ1RfgD2xuKHTLc6HKh2JaoGiJEuu9ovqN6JLpP5nI8vVhFD6m9wouShE/R8pqi26f9k69nrWP+6L3aOQatAwQsgxmbnc/u+CzU/NQi2MgSq8HW1oPVf/Er66DKBITuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E06_brefJaiTraineSurInternet/018.png",
+    "width": 1920
+  }
+}

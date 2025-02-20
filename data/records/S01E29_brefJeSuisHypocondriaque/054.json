@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 392,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg",
+    "viewCount": 4199001
+  },
+  "line": {
+    "content": "Du coup, je nettoie mes toilettes\nune fois par semaine et mon clavier,\ntrois fois par semaine.",
+    "end": 57,
+    "heatBucket": 4,
+    "index": 24,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E29_brefJeSuisHypocondriaque/054.mp4",
+    "hash": "2bbea84af4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCAbF2Uhn6onpqzqKS7sKzAtbHBt7SfkYujjIO/sqyil5JeVlZ4bmyMgHuOgn2FeXYAlHpgpJGEvbOvwriyxry50cfEpJqXZUU8s4iJ0sHAjISAJiIoKyktLCcpOjU2UUtJAKKGarammsO5taCSibSnotLJxa6blYliXbWTpNPBxnJrZyMhJCsnKRoXGQgHCAAAAQCYi4a7tLnc1+CXiYOnmZPLxdGtoq2JZF+mg5PLub9XUlIWExYeGx0gHR45NjonJioAUU1SfXV35d3mqp+bta24wL7bsbHNemp1fGZ0rpmnMzAzCgkMGhYWTkI/g4CKa2p1AEE6O1pTVt3U2r6wsb660aOlx5qdvYOHqHl3k3ZgahIQEywrL2RgYmldWGhja2ZlcgBCOjdzbG7Z0tmYcmSegYGWjqJtcIVbV22OeIRkUlAAAAJdWVvb2eWbmaJOSExTUFkAFQ8OaGBixbu+iWhbjWtfiW1neV1RZ0tBaUlBPi4qAAEEWFNUz83YlZKcRkBBMCwuABIPDx0ZGSklJSslJDcvMSUgIjg2NkdERUtERUlCQgsICWBaWby6xIaEjTw4OS8sLmCMv7S3nMb6AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E29_brefJeSuisHypocondriaque/054.png",
+    "width": 1920
+  }
+}

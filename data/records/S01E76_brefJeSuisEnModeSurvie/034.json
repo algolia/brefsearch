@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "isAgeRestricted": false,
+    "likeCount": 133758,
+    "name": "Bref. Je suis en mode survie.",
+    "season": 1,
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ",
+    "viewCount": 11710298
+  },
+  "line": {
+    "content": "Alors, qu'est-ce qu'on mange aujourd'hui ?",
+    "end": 35,
+    "heatBucket": 1,
+    "index": 14,
+    "start": 34,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=34s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E76_brefJeSuisEnModeSurvie/034.mp4",
+    "hash": "5f3907dfdf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwQtzkgAAAGD+0a7Ouspdu+Nu1S67ZV1Nm92UrfbyATYebXoGgggqTwUDVBSR0UxtLrZWW16/rO8DLPdb158NJlfO9Jf9PWj1vIrUljojre8rlisZA0HrcqJGVbgSWS6WSkD3dOxMAmf2hxaNmmbHNpPrT5+l3iWKTEMyXU7tsJKpWB7DCxTNkFQZsMc/RvPf/ck1JXvQPh5/ArZOjhyOjL18BR2eJKHsznZa1Pu8qDJsla6wwGB6fhrcDOe35eZ4C8ow2zGfJEbUZ+pgB0ZpjGDz6SNZtwVVr/J1luMBZzr3L/+6F4tj3v6E0Voa6qGHHTyjIHs5lELgYvZDumk4YrPNN0S+JgDD2c/x9T/3YkEwBs4YeDJhwCmPQneja+Dz9TyCFRBM73qybgqy2hAUYHQe+MHtcL5ACuIeWrp3ZwmPR+u5j3DsRejRMlc8kNjjuu5ohi2qmqy0gLPLm6pk7mdwS+HIQnYpdD8BPihvRlJrK6G7oUo2/gXdSsKEZvYUzVCabWA0u2LlPpzHztScTLx/HF6OgCvERmQ1/DAKhuu5N9ju29XXGyW2phvdr5bzHymm3q45J8DtAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E76_brefJeSuisEnModeSurvie/034.png",
+    "width": 1920
+  }
+}

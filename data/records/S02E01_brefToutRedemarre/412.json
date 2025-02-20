@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Justement, elle est où ?",
+    "end": 414,
+    "heatBucket": 1,
+    "index": 128,
+    "start": 412,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=412s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/412.mp4",
+    "hash": "b8d13f25a9",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nAXB7Y+ScAAAYHZbZQ3BFwR/IqCCvKj40mncaQ1FDuk0PZVm6e0URHFmSrdZa63tPtzOrS997r/teSAxx9Qu8gxLJpKxVJpguTjHxZVL8bLCSiQq02iFCclUqEChMh0SyRC0WJmHH5+tqW59Uu/m+mpl7g+DnT+6rglHvehfl2Z1ylEzq1b663v+0JMg98vNzOk4S3O/6x/vhz+/W6cne+H2sgj6aKl/vW5Twjoy8eE1sBR62cpCu+N8cmta44Y9b2/X5rd9//evie+PTInZqqV//nBYJTUx2pRwLYdfFQDUHRu1pvKufX43a25cY+sZ9/veuSJjMTCu8redC0Hk1CKlF4CaI1oSDhFZLpXn61p18vHtYqZuHP2mXw8TZAAjM3I5JebPIkkYpBJptlHmyhkcItNJrcZube3hwT6dvKdH98/JW7oDJE7BTM4YDQRJgNEwjCVkGhSZOFThgFFKTjXBs94cXGNtX21cw1l2UYpD+YqstufraZQASBSnmUwcB1A0+BKE4VQsyANEoMIsjTFULMOSL2A0EMGfozGlUY3g+NmzAMmkXwWR/3VqYXODynqwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/412.png",
+    "width": 1280
+  }
+}

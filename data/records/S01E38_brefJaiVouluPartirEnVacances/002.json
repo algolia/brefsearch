@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 431,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "isAgeRestricted": false,
+    "likeCount": 96820,
+    "name": "Bref. J'ai voulu partir en vacances.",
+    "season": 1,
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc",
+    "viewCount": 8214486
+  },
+  "line": {
+    "content": "Ça faisait deux mois que\nje passais la même journée.",
+    "end": 4,
+    "heatBucket": 4,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=2s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E38_brefJaiVouluPartirEnVacances/002.mp4",
+    "hash": "708a15800d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA+NjZMQkRMQUBWS0p3amaflZRvXFGRfHKekouGXDCdfWGupaSpnJennJqglpaVjIwAa2FidGpqcWZlf3Nwh3lyZ2BgaEZAi29pnJOOqJKBsqWeua+rvrazv7W1uK+vp56fAH51eJGHiaCWlq6kpIJ4dBENECMWFjEpKaGYl7OsrbuzscC3tcCzscS7ur61tbGnpwCJgoaakpWimZqpoJ6hi4RJNTIEAwh4YFe1nImejH6olom0qKCwkpCNfHyWjo6roZ8AkIeKppaOsZyLqpN/fG5mRDc5ZEZBa09Llop9z7yjt6CFrZyRbFxWRTEsbmBcj4SDAGhfYnhqZqOZnbOoqUZFS0hGSXJXS0g/PVxeZPDp2uDSv5+UlDwoIEcwJiESDU05NAA3MTlOSE6Nhoynn6RBQkxlW1edgWujkYBFREjh18C1ootBNzdmXFtENjMZCgc3HxcANS86KCQsaGNolIyROjpDSUJDkHRhmIl8PTk6yayXhmFTWTkyfGJdQzAtNSQbOCwlACgjKg0KDRENESYhJBwaH0c5OG1JP2NDOi8kJI1jVqZvX51pXY1cUn1USVo7M0MvJd7OvKvw+my9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E38_brefJaiVouluPartirEnVacances/002.png",
+    "width": 1920
+  }
+}

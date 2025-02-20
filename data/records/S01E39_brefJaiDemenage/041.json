@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 325,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "isAgeRestricted": false,
+    "likeCount": 90460,
+    "name": "Bref. J'ai déménagé.",
+    "season": 1,
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE",
+    "viewCount": 7948865
+  },
+  "line": {
+    "content": "J'ai dit:\n— Je m'en fous. Je pars demain.",
+    "end": 42,
+    "heatBucket": 5,
+    "index": 17,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=41s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E39_brefJaiDemenage/041.mp4",
+    "hash": "1d5928f70d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCCeYOCeoVXTU9dUlJjWFpUSkpORERVSEhpU1VwUVB5UlFuS0lvSklKMS8qHRokGxgAkoiTmI+acmluXVBPV0pKPDMwVEVHdmBkTzo5Piwpck9Mg1pYgFVXcEVHVTg3V0E/AJqQmqSapZuTn1RJSkc7OC8mI2RWW3lYWmhHRmVKSmlIRlc8OXZOTWtCQyIWFFxDQgClm6aonqijmqVwaG44LisuJyRgT09yUVCGZGaLZGZrSEVCMTFcPjs/KScZEQ9zVFMAp52nq6Gqp52npJuoV1BWQzc3cltccFNReFVWdUxMeVJSelNVWTc3LBsZXEVDe19eALu1u8vGy5+XoJqRnZWOnF1LTXJWU2U+Qlk1OHJNTHtRUmxFRk8wL189O4poZl9MSgDY1tjGwMVnYGhnYGqTjJhtYmdxU1B4TlBkOz5tTEhkRUI0IyA4JyVkRkSHZ2RdSUYAvbi+r6WupJqjYVxkYFtkbmdwYlNVYERBZUlFX0lJMSgnJR8dRTs6W0hHdlxbe19dAKWfp6afpq6lrpaPl3NudpaPmWhiamNbYpGFj4Z+h01GSkpCRVdNUEtAQFdEQ2lQT/tvpKshN8pCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E39_brefJaiDemenage/041.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 495,
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "isAgeRestricted": false,
+    "likeCount": 89012,
+    "name": "Bref. J'aime bien cette photo.",
+    "season": 1,
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo",
+    "viewCount": 7007993
+  },
+  "line": {
+    "content": "Pendant qu'ils faisaient ça,\nj'ai fait des petits trucs en fil de fer.",
+    "end": 29,
+    "heatBucket": 5,
+    "index": 11,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=27s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E28_brefJaimeBienCettePhoto/027.mp4",
+    "hash": "393ec2bc7f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCHe414bHteUVdYTFSWjZHQy8nOysnQzsvOy8nIxcTDwMC8tLB0YFiMdm6EcGprW1cAlIeffXCAXlBRV0xQlIuOzsrIw7+9wb28vrm4vri3wb28sKejcVxVlIBti3Zpcl1YAJWIoHlteV1OTlVITJCGicnEwsC7usG7u763t764t8K9vpeLiXRgVJhym4ZmdHBaTgCMgJNyZnBbTEtTRUiMg4fBvLu4srG4s7K1rq65srK4s7SkmJSDbFiWapZ7WGtlTkMAf3ODYFNbVUZFUUNGioKFt7GzrqiptK6wtrGytK6urKWmn5KMiGxbh21ZZ1BFXEZEAHJmdVBGUkk3QE0+QYZ9gaigoqGanKObnaymp6egoaWgo5qNiH9jVXNYUVZAQVhERgBlWmg/M0JGMUBMPUGGfoKemJminJ6hmpyhm52el5mhnJ+Yi4huVUtgSUVRPUBhTVAASj9MPzA+RjJAU0VLem9wmI+RlYyNlo2NlYyLloyLm5GQi3x3ZU9JW0ZHU0BFZVJVAFlWdFROakM4R1lOUU4/PlFERE9AQE9APVZHQ1hIQ15MR2tYUGhTUGVRU1RCSV1LUNOg0wBASbQSAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E28_brefJaimeBienCettePhoto/027.png",
+    "width": 1920
+  }
+}

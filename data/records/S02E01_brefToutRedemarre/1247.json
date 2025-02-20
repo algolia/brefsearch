@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "D'abord, j'ai peur, j'étais pétrifiée.",
+    "end": 1250,
+    "heatBucket": 5,
+    "index": 396,
+    "start": 1247,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1247s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1247.mp4",
+    "hash": "c8fa2a1572",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABgElEQVR4nBXHy27TQBQA0CHzunNnxjP2jJ04TuKkJrZJQislqFWbCOiCV6UKIdQiNkh8AiseH8ECFvwFaz4PRTqbQySlRwCFN4nRKKTnrLDibKQvl/HFxeLddT/OtEMuOVsWikQQHkTM0m1bNrMiN/Yhwn5qPp3m32/7P19f/vv98enZdJSqaNX7bSBjI60Q0SebeRjFJCjVWjVx8Kz2nw/zL3fbvz/v7667Nqo6mJtNSmqnDBcucY/qsKhiP833bb6r3WGevn0yuz+c/Pr25seH9e3aNkN7s05JYQAZH3qza+J5O9w1xVWXv9rEx5VziQneZpk9ndjXm6wrzdUiIV5JMeBNrp+v4r7xXcSZx35sS4+ESkKl1nqYwOXSr8e2jUiAcz7gwcCqcvOoM85xIJCLzCgJqBE5YNDyfOGWhaq9Ik6KDERlZV/oyqkgRYFQWkCluESLioFuU72rkou27KIhhlMnWQoskRTYkRXHckrJgLEBfUC5ESyAWJ3MJin+ByD6Kt25HtJtAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1247.png",
+    "width": 1280
+  }
+}

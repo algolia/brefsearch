@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "Ta copine qui te prend pour un con.",
+    "end": 63,
+    "heatBucket": 1,
+    "index": 21,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=60s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/060.mp4",
+    "hash": "a78226c210",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaNJREFUeJwFwdlymlAAAFC+INosLiSCILKIyo4Br4IsIi6xoKlXY4JapiVNzEwz7UM7nWkf2r72l3sO0qTkdl1hCAkr06UzVOOvt7P3SfT0MP8Qu3DSg1Mw2w+YyNQAr8okjWh1nqiwtUsmEuR7RTRwfGwtXpKfGfwKw918kG5Hq+dQioz+UNLEag0BLM9h9QapZn33pWcENDM2b44PvzP4bR0eIjfdTe6ywIKW57UlhaghEsmRuDhSgl3HSDQ95tlbcPNp+zeD31ejdOFnsQOXwLl3/B7XlAkKYa8oXYZz73UPRqkihRyXRF+Oyb+Pqx9w/LievMb2fGna674DWB6wDURtTr3e0TN2PU6fsDRXRH0tTJe/Hu/+bCZPt0Hmy2CqXr/tdAWc0igaaZZI+gLVysWNrAZMY0jTerlkVMi4v9jMPsPweSh3fUEdyXoLI8UqhdRyJ0w+D6rVAwAHYGa+PeVY9fzCLBccrhO5e6OhtnFq0FJEos6iOELk3pAnOR3D3gGwta29awcsLZyd68WScJq3Wl1bMKniFVWuEIVL9LTwHzFzZsPAMqKWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/060.png",
+    "width": 1920
+  }
+}

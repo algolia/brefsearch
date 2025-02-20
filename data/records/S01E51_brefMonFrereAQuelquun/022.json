@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 472,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "isAgeRestricted": false,
+    "likeCount": 95130,
+    "name": "Bref. Mon frère a quelqu'un.",
+    "season": 1,
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY",
+    "viewCount": 7361073
+  },
+  "line": {
+    "content": "Maud, c'est le genre de meuf qui organise\ndes soirées pour pouvoir dire:",
+    "end": 24,
+    "heatBucket": 4,
+    "index": 9,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=22s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E51_brefMonFrereAQuelquun/022.mp4",
+    "hash": "935d961ab0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAWERAdFBJtQTYrHxwyJiJaNStZOjM2IB0WDxFZOTFzRjlBJiBXOTGGa2JcQDlHJB0AFA0NKxcSYjcsPyUfUj43WTYtSi0rSzItYT4xhk46q3Jeck9EXz81YD41OyIdWTQqAEk6OGVGPkkxLDwjH044MoRbTmNBOnpTSYBOO3NBL5BcS35aTxoUFjojHxUMDDUkIgBlUU55X1pvVU80KSlxUkmPZFaAXFGpemqea1pzSTpnPjGATj44KicSERMrHR1FKyEAhGJXUT06sYFxRTc1TDUxOyooOyspgFZLmGpcmmhUg1I+i1Y/aj8uLh4bNyMhTiwdAH1TRpdtXtSahHRTSAwNEVM4MJJhUZZsX5VgSp5nTZpiSJFZP3ZBK4ZUPWU+MDYfGwA5IRyxeWS/h3F6SjtWNS1yRjlVPTmHZFmXX0Z/TDdeMSJaMCFpOSeIUTaIUzlnPi4Abkg8cks+u4JsRCoiHRISGhESIB4gdldNaDkoQCEZKBQRLxkUWzEiUSUZWjAhUC8kAGM+M1I4Mal0YDkmIQAABQUGCTghIG1FPDIYEzYcFjshGj0hGjMaFSQTEUkoHTEYFVEtc3PHBlK3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E51_brefMonFrereAQuelquun/022.png",
+    "width": 1920
+  }
+}

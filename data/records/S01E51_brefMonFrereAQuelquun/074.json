@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 472,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "isAgeRestricted": false,
+    "likeCount": 95130,
+    "name": "Bref. Mon frère a quelqu'un.",
+    "season": 1,
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY",
+    "viewCount": 7361073
+  },
+  "line": {
+    "content": "J'ai voulu savoir qui c'était.",
+    "end": 76,
+    "heatBucket": 1,
+    "index": 35,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=74s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E51_brefMonFrereAQuelquun/074.mp4",
+    "hash": "c4f3dbe9c7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAJCQkQEBAPDg4qIiJIQENUTU1gWFofHSBeT0uqgXKTZ1huUUhRRkZfU1JcSkBeRjcADg4ODQ0NBwcIMSkoZVlaZFxcZ2BhIRwfknlxsYl7pXRlnHVpST48LyoqQTk6XU9OAAwLDBIPDwUGCDgrKHZkYo+Dg3tzdXdjYMelmItnXYheU2pOSGdYVlxSUldMS2RXVQAhGBdMMCwaFRVnTkY9MS9YT091bGxQRULIo5WqfW+gdmmPbmRPRURBOTg3MTFkWFYALR0ccUg/QS4pdFVLTkJAWFBPcGdnPzQ1nnlrhVhOe09FZU5MQDxLX1ZeXFRVZ1tZADglImpEOlk+N2lMRGNVU2BWWnFrd11IVWNEP1o/N041LioiKTEzTEA4T0A1Q2JUUwBlRDlgQTdBLitNOjZHOj1FP1BGQ1U+N0tFLzc7LCoZFRcrJjI1LjcxHyo6KjpcT1EAYEE4STMuIRkZKyIfUTs+WERVLCQwKSIqLio+MSYyGBccHBkiNSEuRCwyJiAtPDdGAFk8My0fHgsKCwYHCBEPECYjLSorPi4nMSwmNEArNDsnMFtYXnpscismNiklMCUkMdtBc8Q0ZanSAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E51_brefMonFrereAQuelquun/074.png",
+    "width": 1920
+  }
+}

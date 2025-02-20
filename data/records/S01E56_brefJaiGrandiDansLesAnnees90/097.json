@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "isAgeRestricted": false,
+    "likeCount": 113908,
+    "name": "Bref. J'ai grandi dans les années 90.",
+    "season": 1,
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8",
+    "viewCount": 8859528
+  },
+  "line": {
+    "content": "— Il dit 5, 4, 3, 0, après paf, pastèque.",
+    "end": 99,
+    "heatBucket": 3,
+    "index": 33,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=97s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E56_brefJaiGrandiDansLesAnnees90/097.mp4",
+    "hash": "7c363ae1c2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwVtv0mAAANAv0q6Xr6VX2kFL6XUMKIwWYRRmSZ0bI0LwssC6GBY3BposmjhjjJuZ8qKJMZol+kL2oDH7nZ4DwqCR0/RXp89v/9y8HvfmneJiJ38RVZYH9/6Nm9NH/cN6cZVjBYbhKOpsEoOT+OmT3oN3l4svv/8OAi+01evIXHS92LPnFaVU8ifbLVsWEiiuSanZYA9cvZl+/TBb/vwUtZuKwA236u8D/ddu/nHV9k3NNTIfhxsPCxqNY41Ga372Fox228+G989P97tRuGllr+L+eeTe9NZGtXzFNLrNYNCJDmt2y9biyfzi83ew7Zd6nfpBv/Ny9sI19K2CaWX1yFZ5ToLWDlU5ko0aTxE8I6SkrJjKAklWN71yP2oyvBy12tfffogZ8w6Cy4rD+id87TidMWiSwFZwFElgKArW9470NXfDdTFK2A+D5eIyrVo8iSumT1eP2fJoVZQllmWTLE0QHITADMe0oCg5R5BUiuLCu76T08UklNIW7U3p9aHAsJCAKdXgBdngkoDNVRGEoHgV0gIASNlxvLwj0iSfKcDimEx7DIRoYsWxHIqRSAz+B/4jVNetFWNKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/097.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 569,
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "isAgeRestricted": false,
+    "likeCount": 120051,
+    "name": "Bref. J'étais dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU",
+    "viewCount": 9827505
+  },
+  "line": {
+    "content": "J'ai dit:\n— Béatrice.",
+    "end": 73,
+    "heatBucket": 1,
+    "index": 30,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=70s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E61_brefJetaisDansLaMerde/070.mp4",
+    "hash": "28c4051fbf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwVtvmmAAANDPRGBt2plqMa3bnI2XZVpvqzLBKwNEUSlotV5IAYPFIHaVxlaNXbO9dVlj5su2f7tzAPY2kA2nEzH8UzRBY2fLodxj6UGZetLktSLxOZwlMjH/yXuPh6+LmXQG4ATlC0W97/wyS1/VuR/GqEUWRwL/PBl9bQtCqXAj9XPJRDQcUeRRIVsAHo/P5XA6D1CpzJhtYfNg/Zpb2+X9n9X9drXYLOa/1yumRKZT2EgzGKoMPMde1IW+QnZzicRYqD1dK38fF/++LTfW9OftdPtw93w3q+dzX4isrk85tgYOne5DlxuBkYP918V4ZNZvv8zMF2s6614oFXqlDhaa2kiGm/iZoU+5Sh3s7e459h2w3Q7DSDwY6tHFx2vVbPFmozLhylqdVfkqT6SGVdLUTa7KAwSGEQjaQXZSn6kiJeKRj2Ox9l0frvudeVuYdZscSYmtgSopY23C0hUA2SEAQPBDrCNNLqSbAt3ETk+7TMmSLnWxxqSTgVC8WJX4rtEfWvk8BWw2GwTBGMGct7WOZHTk2wLbC3hPgkdo6AhN+n1v3Mc42WpcmmxTpxryf+lWd1FIswF4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E61_brefJetaisDansLaMerde/070.png",
+    "width": 1920
+  }
+}

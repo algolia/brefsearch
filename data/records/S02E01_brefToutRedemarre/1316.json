@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Quand je vais regarder une série,\nje passe deux heures à chercher\nla bonne vidéo et je m'endors.",
+    "end": 1320,
+    "heatBucket": 5,
+    "index": 419,
+    "start": 1316,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1316s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1316.mp4",
+    "hash": "2967399baa",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABg0lEQVR4nBXLu24TQRQA0JVjx77znrnz2Bl7dpN1snaMkyC8kQhOYyAEBQrESwRRBAokGrqIAiokoEHiF/hUxOlPIWG7D7QHtE/5TpCKE0qo4IxSwihhMCIAFIAAwAgIkIIr01OhZ2LfT07nk6q01ljvnENbOm80GoNorFYolNbGFtHqehJUKJmPTbAB0RocgqJUa2XGwQeLUpr/UxsudXHg6PkC352m63WaRquU41x3R+OLe7t1cEJZJo1FRINcajRYZElLh3eW06O9cWVEl9VZzd4+wN+vy1+vppfH8WTXC6GV0lpr4KowWuQ63TrcX+znz5v0ZQ0vW3g2F3/ehB8v8rfL+PN6dXV/juiEQimxsGOfJr5qqnax97Cr3m/izfPFp/Pm79f196udm6fu45Plh83Z3TR7VK0e111hUjDR61j6nKKXMoXcVse3m9lh2y6bkwPXNalNszrm9XzVVctiSMmAQG84GgAoTYUkwMk2gy0YDShhnAgJW2zYp6Ss84DRfyScMf453mnyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1316.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 526,
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "isAgeRestricted": false,
+    "likeCount": 81033,
+    "name": "Bref. C'était sa chanson préférée.",
+    "season": 1,
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI",
+    "viewCount": 6245023
+  },
+  "line": {
+    "content": "Sauf que là, elle était partie trois jours\ndans sa famille et elle rentrait\npile pour la Saint-Valentin.",
+    "end": 30,
+    "heatBucket": 1,
+    "index": 8,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=26s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E58_brefCetaitSaChansonPreferee/026.mp4",
+    "hash": "3c00eb7edb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwVFzkgAAAGBuGSAqE0EmIDIYoIKODV0isFXe0iFTETf11mS2trW1nXXnuj109lB3vdR1/brueumup/oNdR19H/Dtx68zt2fAqMmtasV8nmU2ZX560B55Xd91xr73fHJ8HhxTJAmCEAxBwPefvy/2ug5GVQTe1tTFdGgpcsfePB15k0P/6vRkPru+mBzxNMWlCSweB/6G4dtx0CfYDY7d1tTZoO1U1zUu4zXs6Wgwv75c3L5+N3/VtutmQZQyaSAMww/PXgwIzs4LRTZzs787fmhksfhjvTTs+0Fwcnu3+Pzp69P9PV3kK5IA/AnDj2cvu0nGNysldqWhrBWyGTmd7OmKZdR3m24wOZ/N3gyclpyleTYH/AvDLzfzDrl61Wt29LzFUxyRfEDjlwrT10tWdatlWoa2wWdzBE4uoxhwt3jv9Q7Mmj18sjPaUh4V+TUSq+DxPoc7Uk5TFFUu4CkSBmOxaCKBoEAimcJICqdZa11xS0JVYCgE6mgFV5PqFFHTq3yOh8AYBCIgiEAQAiiS2Kjperlsl1WDIWRiWUyhQWu7qYr+Cr0jSlEEBe9HlyLwUgS+F4H/A2KeZeDW5TuCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E58_brefCetaitSaChansonPreferee/026.png",
+    "width": 1920
+  }
+}

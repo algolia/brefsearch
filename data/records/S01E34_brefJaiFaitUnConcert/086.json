@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "— Attendez.\nLa fille m'a dit:\n— Je te l'offre.",
+    "end": 88,
+    "heatBucket": 2,
+    "index": 36,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=86s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/086.mp4",
+    "hash": "eb6f6e424b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAqGhM/IhdiMxpSMB96WD/BpYvMtp+Eb19MMCaxeWWOXExuRjc+KiFZSDxSQDcqHhkANiUcTSsddkEXe0MWj2E36uPa///2joJ5WjksqnJefVBBfFBBSzIoOCYfKR0ZJxsXAEkeF2AuHpNPGY5OGYFcP+3r7PbYtqiTe1k4LLZ5Y6BmVIBSQlQ2Ky4iHSsgGykcGAByVkxnMyOOThuQVyGibTeTZVmsflmrg2R1Rzq6fWetc194STxIMCcrIBwsHxskGRUAramYbD0ubD4Ydksih1QjjEg9uotn4r+RimZQom5dl2hXhlhKUTgtKR4ZLCAcIBcTAKqolGE2LTEiHTEnITwmHJJVS9WleuzbwqF/c7R9bJhtXm9QQ3FLPTseGSIZFSIYFQCipIxeNi4wJCEwJyNKODWNZl7Tuabe19axjoXAh3W1gnKDXlCJWktcLiceFBEbEg8Al52DWTQsJRkVZV1ZzsPA08nH0MfH2tHQzsK/upCEqXRmj2ZahGJWekw/NSUfFg8LAH5/a0gmICsgHL2ysN7U09TKyNTIx9rQzuLc28q6t5lmV66KgKGXlH9YSk42LRYPDD5dqZ5IK3saAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/086.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "isAgeRestricted": false,
+    "likeCount": 117672,
+    "name": "Bref. J'ai un nouveau pote.",
+    "season": 1,
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A",
+    "viewCount": 8812723
+  },
+  "line": {
+    "content": "Le lendemain, c'était un ami.",
+    "end": 43,
+    "heatBucket": 3,
+    "index": 17,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=41s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E65_brefJaiUnNouveauPote/041.mp4",
+    "hash": "4535f968c8",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZVJREFUeJwFwdlO4lAAANBbutDSSpfbndq9dqErLVJAKFg1IhMnGoMxxHmYZObFh3mZP5gfn3OAiaEKgkIEFxFCGeBjQEjoUEEJFSMojBkRFyRK48iIHFAMRqmsAGwMExEcDoYXCMnidCrwBkHpGGmTI4HhWUbwBSEejwWayzzredcCDSAmM+5CL5HkTJKfAssdcxrBJBwvcyLPSqUsbnQ41ZQmudpUCTCG1MI2nkt3pomPoXsM3daYmDSXQugqelfkd5H/GFmHtorNS09TwfsqPaTm3IQuz5ssrI3J702z8yxfVmeW9XGdfd5353779/zydfr22q/B62I6t+TGUgKR5wl67djnRXkbuqvQ7UOntp3v183nfvPW3fz5ePn39QO0rhYpQhc7hzxqLOM0L/a+vfadCPIRhGWYt0F8X836qjyW0fluBaa6EEhcdan+ul3+3C23gdN6dq4rLhRT52qZ13VcNFHaFenCEJ8KD0S6FCm8zpAPaXhqa5Ohq4myr6rjrj/cbGdhlnnJKiu2eRZLwtLg/gO1dj7sHNtIwgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E65_brefJaiUnNouveauPote/041.png",
+    "width": 1280
+  }
+}

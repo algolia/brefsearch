@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1100,
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "isAgeRestricted": false,
+    "likeCount": 118681,
+    "name": "Bref. Je suis allé à ce mariage.",
+    "season": 1,
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw",
+    "viewCount": 11162618
+  },
+  "line": {
+    "content": "Mariés pour le meilleur et pour le pire.",
+    "end": 1,
+    "heatBucket": 4,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=0s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E17_brefJeSuisAlleACeMariage/000.mp4",
+    "hash": "63c7619c98",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAuEwZQIwtdKg1iLQ5sMAx5Ng5uMw+EWkN3TzhoNRd3OxZoMhNZLBJNJQ8/GwkvFQkAUiUMeT4Zk148jFAsn1olu28lkUoajl9EhVg9gUMbrWAlnVYjdjsYbDkZVykPQR8NAGgyEptXK49qUkErIFA6LJpeKnQ6E2o3F35JKIJRNIJIIZBQJXtONnJYU3BFME0lDgByPyKZVyxDLCAbEQ4gGBZfPi6FbWl9W05yT0OFYUx0Qyd1Ry07LiknJCdPOzRULRcAdE02eUUlIxUOIhYQGxAKRDIpwLfBgHd/UzovsI5+iFxDaEMvJxwYFw0IKBwWUTowAJ6KikoqFx4RDB8RCx8TDTwkFp+Rk2piZzYpKIWUuHBmal8/MDkuLwkGBTIjHUs1KwB8doQhEAgeDwoYDQcZDAZWPTFoUUopJCUkHh41MjhcTlMuKTQkICgVExYyLTRHOkIAMyQfFgkDGw4JFwsGFgkDSi8jf15MIBcSFBIQHhcWJh8nIx8nHxsgIR0jHRkfGxgfAEk8QBMGABYKBhAHAycVDHBNO4RnVxgUEAsJBhkUFB8cIRwZHhgVGRQSFRgWGREQEXTRYj2lL3tVAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E17_brefJeSuisAlleACeMariage/000.png",
+    "width": 1920
+  }
+}

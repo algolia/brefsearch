@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 646,
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "isAgeRestricted": false,
+    "likeCount": 63125,
+    "name": "Bref. J'étais à côté de cette fille.",
+    "season": 1,
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus",
+    "viewCount": 5561842
+  },
+  "line": {
+    "content": "J'avais dragué cette\nfille à la soirée de Maud.",
+    "end": 3,
+    "heatBucket": 2,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=2s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E40_brefJetaisACoteDeCetteFille/002.mp4",
+    "hash": "1145c29130",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCViYjIxMfNxsfn4+SypKSpmJefjo2lk5KolpWmlZSikpCbi4mVhYR0ampnW1p+cG0AoZWVv7i5xr290czNtaioh3Z0opCPsZ+etaSjoo2Koo+LrJubp5aVh3t7Z1lalYKAAJyQkYV8gY6EiZaPmZeLjUsxKIZ1c7anp7mrq4ZrYYhybaydm21gRX9rVZZ/gKeNjACnmpqhmJq0qaizrbSUe3VJKRxmWVnDsrF8cHEcFhkcFxt0aGaAcVpzYUakjomolY4Ao5SRi3l2bmRlWVNXaF1fbVhTdltRYlRSIBsfEw8TFxEVKCEkPzk6Rj08ZFdVhXZzAG1gXx0VFBsVFQkFBzY0Pl5UWnBbViceHxsVFysiJCshIikgIQ0KDhoVFw0JC1FGRQBXTU4XEhQcFhYWEREpGhZRNSkrIyYhHyMnICAODRMKCA0LChESDhMbFRYTDQ9MQ0UAWVFVFhIUEw4PHhgaRENKPzc7Xko+WkM3dlRCQS8nUTsuVT4xHRUVEg0QEAwNPDQ2AEU+QhgUFgQCBE5AO5yLiYpxaMOVd6Z7YIdjUHtXRKx9X7iFZU85LgQEBw4LDDAoKBOinjlslmbmAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E40_brefJetaisACoteDeCetteFille/002.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "isAgeRestricted": false,
+    "likeCount": 112972,
+    "name": "Bref. On était des gamins.",
+    "season": 1,
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY",
+    "viewCount": 6343137
+  },
+  "line": {
+    "content": "— Mais arrête !",
+    "end": 65,
+    "heatBucket": 1,
+    "index": 25,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=63s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E57_brefOnEtaitDesGamins/063.mp4",
+    "hash": "c8d315fed2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwly1lvmgAAAGCSRQHFAygk2HIJyC2XgHJ4VKyaZlQOXQ+7LmuzLenTXvayl/30ZVnyvX4AATZ4FMlDxSJhk4DFHpgJ6J9qfnK4w2RYJWYZ6/8VkTpXaYCEGly/nfC43AfZDhhfdrIh9r52z6FUe1yZWGVs1qlRpUYZaSuDAQiowXQhHYfpdnMzGhQW/1EmvyfG7zw4R0KZ2lVqHxf2cWmVib4yWIDptrgeLKGwhLaO5uAQjjNT/RGOfu2sp5DLI2PvyaeV8+naqRfjzBaAuUKpF20VhxkE3Az7r4n2FOrvkfIz02uPTjVWpbAqHZ83/v3KuXFEYK3TsUAqKIQ2PmgYNGOwgytvReJzcFV5zMIQUkN43k1fdtPHtbt1BaCcyTZN2gNMwREWaWJQk8UvQgp5i4exQCx17piaL9vgy372cO1mYw7IA2mhMLF4OcS6Ctaiey1P4N6y6bdUingyHjG5Lz4sra+38XkzuQ1U4M6XNArn8Z51RTJoZ8JR96lbRH4RWHeeWgdaEY5Oc+P1X/D3vvIXnQVRkr2og1AAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E57_brefOnEtaitDesGamins/063.png",
+    "width": 1920
+  }
+}

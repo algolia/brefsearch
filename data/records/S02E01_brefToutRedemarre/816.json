@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Et moi, je fais la même chose\nen boucle depuis des années.",
+    "end": 819,
+    "heatBucket": 5,
+    "index": 270,
+    "start": 816,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=816s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/816.mp4",
+    "hash": "717b30e087",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nBXETW/SYAAA4B40MVD6RaEttC/dS9tRurbrB23Bam2B4XAwZMOoQzM/ZmayrDKnJm5ZvJjocAcT5xK97LIY/6XxOTwIgaECi5cZ0pAZCdBKhdalAmApA+ZhiRA5XBNJvoipFQIwOY5GEasmrN2U276y0pQmnfqkrW73//9irb7VlSd3pK0OdNVSrwHuNoTI5JHQBLEnq4AVKTI2hcQC7iI3CuGqJYy9ii0xA0/ZXfEAna+W87bCIYkjuktg6C1+uh9ueFAWaCyHxwb/bt06myZkFpOB8OfDdBg2rt3IlVkasSTm1ZPur5NnB333XkuvQT6bxUa3lKNNZydSIVeEmevzUePqdX/IogRJIi3b+Hv15evHnaAozF5u9JImL/GPnwdvxnocVLsW/75jn8XKuU1+XiI4gkL6ndu/fx79OE17mnm893B9NbQSNZq6B7PBLN2UIJ4Gynzg7DrKsYIWCRLxl/Xz0/2Lb+m46V9+P3w06fqR2X7gnMz30rfbQq102NEv/MJ+UH+qLVBEHqFwPPK10KnJJa4Xuy3fMGRYKZOGIQp8QVsoVBnKZIllGleBmMmg/wAW9l4Vcirw6AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/816.png",
+    "width": 1280
+  }
+}

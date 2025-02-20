@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 512,
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "isAgeRestricted": true,
+    "likeCount": 70060,
+    "name": "Bref. J'ai traîné sur internet.",
+    "season": 1,
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU",
+    "viewCount": 5741554
+  },
+  "line": {
+    "content": "J'ai rechecké mes mails, rien.",
+    "end": 11,
+    "heatBucket": 1,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=10s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E06_brefJaiTraineSurInternet/010.mp4",
+    "hash": "ce55764719",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gANEBEDBAgHCgwWEQ9WNS9bU1ddXWhmZG1uaW9xam1uaG9zbnV3c3mOh46vo6mZjpEAaF1eJh8bHRUPWjsybklAcWlshX2IjoaSmpKhkYydf3uOeneJbGx+RUVGkYN7m46GAJCBg49/g3JUTHVLOlQ/NpCHkLesvbGntKujsrmyxsrD2s/I4sXA3FhUU4JwYqSXlwCpnqq7tM3Iv9ePfIFiXGGak6C6scS1rL2gmaqdl6e2scW7ts+xrsVTT1B+bGOVh4UAppqiqZ2os6u+w77YvLjTt7LIraKuvrnTvbbQvrnTxsLexsLcr6zCKyorTEQ+qqCoAI59fI59fJSEhJ2QlKqfqbiwwsrF4cK+2cK/2dPP69nV8uPe/KimuxkXFEhBPMW+zwB+a2iAbWuEcnGJd3aMfHuVhoauo7DBu9NlZG9YW2R0dYOWlql1dYJ4d4GckJivnqUAc19beGVifmtpgW5sg3Fvi3p5koODpJadh4GPCg4MEhUUFhoaHyIjv7/Tx73QqpaaAGlXUm5bVnRhXXZkYXpnZHtpZ4R0coVzcZiKkEE/QxITFAwODzg5PoiFk21oaqyYnLAr2/B7XnKfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E06_brefJaiTraineSurInternet/010.png",
+    "width": 1920
+  }
+}

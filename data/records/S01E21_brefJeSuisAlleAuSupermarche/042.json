@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 359,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "isAgeRestricted": false,
+    "likeCount": 82145,
+    "name": "Bref. Je suis allé au supermarché.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4",
+    "viewCount": 6898714
+  },
+  "line": {
+    "content": "Du coup, j'ai pris conscience que la\nsociété de consommation m'avait rattrapé.",
+    "end": 46,
+    "heatBucket": 3,
+    "index": 21,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=42s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E21_brefJeSuisAlleAuSupermarche/042.mp4",
+    "hash": "bfb1beb42b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBRfJNWgpZ4sI2Kxo+FxY+g06mHvLqHvrt4r72FtqzD2KuYxo1in4RIcZ5Qc4M6YFYAX4iZbZuqhbeyst2zu+W6t+G0otXEl9HNkL3Dp9O7t+m3gdGXXpmkWoizSHZ/XIphAFWChoe2rKPRybLOtsLQrdXzyr7fxrWqmb6bhcmmj8mrjruzlauelKafnZeaf461gAB1mnWNs5SkwrF2XU+0g27DqJOfel2eVi2cXTGofWetg2aqdF2xcFa/hGrJkHm0g28AqsNus8WTZF9RaT8xtHZaqWxVl1QvkV07pYh11tSq0OG/n6urnZuEk29TpnBctIFsALrRi7DJiTEoHkcuJKpyWr6GbLN4X6qFc67Wx8Tor6HIvZ3LvMzLpbWFaaNuWZ9wXQDV07S7vJA6Jx2NXEijbFWjblelalGzj3zb5MzV4r3Av7K7oIG4g2q/jHSmd2N0SToAvbGhxbygOi0iNR4WnWhRr3VbuHld1rqh8fLZ2b2kz5N5sXdgnG5bmGlXfFNEVy8iAKyVgsW6r3tvZQYCAHJIN7+HbsCOdseXf9S4o69+aL6Lc6BxXGs/MXNRRox8cDQgGHno8Yr+8K8oAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E21_brefJeSuisAlleAuSupermarche/042.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "duration": {
+    "human": "1:55",
+    "inSeconds": 115
+  },
+  "episode": {
+    "index": 31,
+    "name": "Bref. Je suis allé au cinéma avec cette fille.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuCinemaAvecCetteFille"
+  },
+  "lines": [
+    {
+      "content": "Bref, après beaucoup d'efforts,\nj'avais enfin rendez-vous au cinéma\navec cette fille dont j'étais amoureux.",
+      "end": 4,
+      "heatBucket": 5,
+      "heatValue": 58,
+      "start": 1
+    },
+    {
+      "content": "Le choix du film était\nimportant, pas de 3D.",
+      "end": 8,
+      "heatBucket": 5,
+      "heatValue": 49,
+      "start": 4
+    },
+    {
+      "content": "Un film suffisamment intéressant\npour qu'elle soit contente de le voir,\nmais suffisamment moyen pour qu'elle\nme jette pas si j'essayais un truc.",
+      "end": 14,
+      "heatBucket": 5,
+      "heatValue": 47,
+      "start": 10
+    },
+    {
+      "content": "— Je crois que j'ai un cancer.",
+      "end": 15,
+      "heatBucket": 4,
+      "heatValue": 39,
+      "start": 14
+    },
+    {
+      "content": "— Mon Dieu ! Mon Dieu !",
+      "end": 17,
+      "heatBucket": 4,
+      "heatValue": 34,
+      "start": 16
+    },
+    {
+      "content": "J'avais trouvé.",
+      "end": 19,
+      "heatBucket": 4,
+      "heatValue": 31,
+      "start": 17
+    },
+    {
+      "content": "Pendant qu'on faisait la queue,\ndes gens sortaient de la salle\net racontaient la fin du film.",
+      "end": 21,
+      "heatBucket": 3,
+      "heatValue": 24,
+      "start": 19
+    },
+    {
+      "content": "— J'aurais jamais cru que\nc'était le frère, le tueur, en fait.",
+      "end": 23,
+      "heatBucket": 3,
+      "heatValue": 21,
+      "start": 21
+    },
+    {
+      "content": "Ça m'a énervé.\nJ'ai dit:\n— Tu veux du popcorn ?",
+      "end": 25,
+      "heatBucket": 2,
+      "heatValue": 20,
+      "start": 24
+    },
+    {
+      "content": "Elle a dit:\n— Ouais.\nLa vendeuse m'a dit:\n— Vous voulez du popcorn ?",
+      "end": 27,
+      "heatBucket": 2,
+      "heatValue": 20,
+      "start": 25
+    },
+    {
+      "content": "J'ai dit:\n— Oui.\nElle a dit:\n— 8 Euros.",
+      "end": 29,
+      "heatBucket": 3,
+      "heatValue": 22,
+      "start": 27
+    },
+    {
+      "content": "J'ai entendu:\n— 1000 Dollars.",
+      "end": 30,
+      "heatBucket": 3,
+      "heatValue": 23,
+      "start": 29
+    },
+    {
+      "content": "J'ai aussi acheté de l'Energy 3000,\nje sais pas pourquoi.",
+      "end": 32,
+      "heatBucket": 3,
+      "heatValue": 23,
+      "start": 30
+    },
+    {
+      "content": "On s'est assis, il y a eu des pubs.",
+      "end": 34,
+      "heatBucket": 3,
+      "heatValue": 21,
+      "start": 32
+    },
+    {
+      "content": "— Énergy 3000,\nla boisson des vrais bonhommes.",
+      "end": 36,
+      "heatBucket": 2,
+      "heatValue": 18,
+      "start": 34
+    },
+    {
+      "content": "Le film a commencé, elle réagissait\nun peu trop au film.",
+      "end": 40,
+      "heatBucket": 2,
+      "heatValue": 17,
+      "start": 36
+    },
+    {
+      "content": "— Vas-y.\n— Si tu m'aimais vraiment, tu me regarderai.",
+      "end": 42,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 40
+    },
+    {
+      "content": "— Oui. Oui. Dis-lui.",
+      "end": 44,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 42
+    },
+    {
+      "content": "J'ai trouvé ça mignon.",
+      "end": 46,
+      "heatBucket": 2,
+      "heatValue": 16,
+      "start": 44
+    },
+    {
+      "content": "Je me suis senti romantique.",
+      "end": 48,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 46
+    },
+    {
+      "content": "Puis, je me suis dit\nqu'elle devait réagir pareil au lit.",
+      "end": 49,
+      "heatBucket": 3,
+      "heatValue": 22,
+      "start": 48
+    },
+    {
+      "content": "— Vas-y, vas-y. Oui, oui, oui.",
+      "end": 52,
+      "heatBucket": 4,
+      "heatValue": 30,
+      "start": 49
+    },
+    {
+      "content": "Je me suis senti excité.\nJ'ai raté 10 minutes du film.",
+      "end": 54,
+      "heatBucket": 4,
+      "heatValue": 40,
+      "start": 52
+    },
+    {
+      "content": "Du coup, je comprenais plus\nlequel avait le cancer.",
+      "end": 56,
+      "heatBucket": 5,
+      "heatValue": 45,
+      "start": 54
+    },
+    {
+      "content": "Elle a posé sa main sur mon coude.\nJ'ai ri à un truc pas marrant.",
+      "end": 58,
+      "heatBucket": 5,
+      "heatValue": 46,
+      "start": 56
+    },
+    {
+      "content": "Elle a enlevé sa main.",
+      "end": 60,
+      "heatBucket": 5,
+      "heatValue": 45,
+      "start": 58
+    },
+    {
+      "content": "C'est lui qui avait le cancer.",
+      "end": 61,
+      "heatBucket": 4,
+      "heatValue": 43,
+      "start": 60
+    },
+    {
+      "content": "Je déteste parler du film\njuste après le film.",
+      "end": 63,
+      "heatBucket": 4,
+      "heatValue": 35,
+      "start": 61
+    },
+    {
+      "content": "Elle a voulu parler du film,\non a parlé du film.",
+      "end": 64,
+      "heatBucket": 4,
+      "heatValue": 28,
+      "start": 63
+    },
+    {
+      "content": "— Depuis le début, il a jamais eu\nle cancer, c'est fou.",
+      "end": 67,
+      "heatBucket": 3,
+      "heatValue": 21,
+      "start": 64
+    },
+    {
+      "content": "Je me suis rendu compte\nque du coup, elle balançait la fin\nà ceux qui faisaient la queue.\nOn a marché.",
+      "end": 70,
+      "heatBucket": 2,
+      "heatValue": 17,
+      "start": 67
+    },
+    {
+      "content": "À un moment, elle a pris mon bras.\nYes.",
+      "end": 72,
+      "heatBucket": 2,
+      "heatValue": 15,
+      "start": 70
+    },
+    {
+      "content": "Et puis, elle m'a dit qu'il\ny avait plus de métro.",
+      "end": 73,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 72
+    },
+    {
+      "content": "— Je crois qu'il y a plus de métro.",
+      "end": 74,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 73
+    },
+    {
+      "content": "Alors j'ai pris mon courage à deux mains et\nje lui ai dit:\n— Tu veux que je...",
+      "end": 76,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 74
+    },
+    {
+      "content": "— Tu me raccompagnes au bus de nuit ? C'est sur ton chemin.",
+      "end": 78,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 76
+    },
+    {
+      "content": "J'ai dit oui, j'habitais à l'opposé.",
+      "end": 80,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 79
+    },
+    {
+      "content": "Pendant qu'on marchait, je me suis dit\nque c'était cool qu'il y avait\nun bus de nuit toutes les 45 minutes,\nque ça me laissait le temps de conclure.",
+      "end": 85,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 80
+    },
+    {
+      "content": "Je me suis demandé si je\ndevais l'embrasser.",
+      "end": 87,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 85
+    },
+    {
+      "content": "— Y a mon bus, il y en a\nun toutes les 45 minutes.",
+      "end": 90,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 87
+    },
+    {
+      "content": "— Je suis désolée, je dois le prendre.",
+      "end": 96,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 90
+    },
+    {
+      "content": "Bref, je suis allé\nau cinéma avec cette fille.",
+      "end": 101,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 96
+    }
+  ],
+  "video": {
+    "commentCount": 327,
+    "id": "r-cbMtBLY0g",
+    "isAgeRestricted": false,
+    "likeCount": 84322,
+    "viewCount": 7193082
+  }
+}

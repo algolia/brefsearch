@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 525,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "isAgeRestricted": false,
+    "likeCount": 88753,
+    "name": "Bref. Je joue de la guitare.",
+    "season": 1,
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M",
+    "viewCount": 6698014
+  },
+  "line": {
+    "content": "— Putain, j'y arrive pas.",
+    "end": 64,
+    "heatBucket": 2,
+    "index": 27,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=62s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E07_brefJeJoueDeLaGuitare/062.mp4",
+    "hash": "3ef97a4fc4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBGQjw3MCg9NSxHPTVVTkhrYVpGOTB+ZFhtXlU+NyFjWEtvZl5zaGFuVkJtUz5yXlAAeXBvU05HT0hBUUhCbmVhU01GLiIYlGpbmH5zR0AlYVlOWVRSfXJugHd1gHh3gXd1AJWLjpOJjZePlJaPk4d/gF9USEo0J35cTn5hVUc4KU5GQmllZYZ8eoN6eIR5d4N4dgCSio6XkJWXkJaUjZObk5mZiodUPTBUOi1sUkVyaGdvZWJ2bmqFfX6Hfn6Hf32GfHsAlY2UmZGZlo+XrqauzcXRrqOrXkY5VEY+raSomZCShXx7fnd3e3Boc2VagXRvgHBoAJCJkZCHi5CFiK2jrNfQ3MG5xaKNkMq4wODc6Z6WmGVdWmVbU1FANl5OQXtpXXpnWQCSgXeUf2uThX+bk5qzqbDSytXAwsK/xsPIwsxKOUMrGBoqFhshDBROPTRrWUVsWk0AmoZ0k4BthHFnloWFfnJvaIRhaKhke6JxkndxVD07KRccJxUbIw0WOygqVEY3MikgAHRhT2tYRVg9LGpIN3RkXUBdO0l4RGBsV1RCOYh5ak4+QScXITcmL2NVVWRYUDguJu8UtXsmoH6aAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E07_brefJeJoueDeLaGuitare/062.png",
+    "width": 1920
+  }
+}

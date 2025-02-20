@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Ouais, Baptiste ?",
+    "end": 1627,
+    "heatBucket": 1,
+    "index": 536,
+    "start": 1626,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1626s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1626.mp4",
+    "hash": "a0537f1634",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFpdTlJURUpLPTo7LzY2K0BCNTo5LS4sIjQzJzIwJCknHDEqH1I3JxQJCQUICQcHCADM06+4vJmqrIpgYU8xLSdlZVaCjHlpZ1FvalBtZ01WUTp7a1DFjGdpPy8eGhgFCA0Aj56IiJmEf414RTkqakUsSi0fTWBZa35tZnJhZG9eU2FVdnJavI5mvI5nclQ6MSIbAIShlYSlmYCZiX1bOpttSWQ9LlpsY22PhmqGfGaAd2KAeYuSe7SRZcuidq6HWYFbOgCzq33Mx5Sto3WddUizfVVjMidjUT+clWmnonSglmiShlqMkneLfl/BmW6MYkRLKyAA0Khi076DpZpzt66HtZdsVDktc001uo1I26pW3axX26xXmIxsVDo5SCAfKAsSGAYMAMLIpaavlZqfhrzAn5mafpSOc6SNbnVqT5uCT4xoPnlQOUslJScHDh0HDxkHDBcKDQDDy6rDyKW5vp6coomJi3WeoIXJ0Kx/aFtZKipFFBwqBRAfBw4cCw8dDBEqFxwdDRIASEo+WVpLTlJFMTQuMzQuMDEsYWRTQyspKQQNHwgNEwcJDgYICgQFCwYIIBweDQkLDBCeU8sxffEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1626.png",
+    "width": 1280
+  }
+}

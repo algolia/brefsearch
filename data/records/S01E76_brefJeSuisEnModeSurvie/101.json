@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "isAgeRestricted": false,
+    "likeCount": 133758,
+    "name": "Bref. Je suis en mode survie.",
+    "season": 1,
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ",
+    "viewCount": 11710298
+  },
+  "line": {
+    "content": "Quand je suis invité à une soirée,\nje prends une bouteille à 2 €\navec un nom de millionnaire dessus.",
+    "end": 104,
+    "heatBucket": 3,
+    "index": 37,
+    "start": 101,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=101s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E76_brefJeSuisEnModeSurvie/101.mp4",
+    "hash": "3fc63b73c3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCBfohva3RtbHltbHlxbnuNi5Sgn6eGfIKPiZBjUE1HMy1QOzVRPzlPPDdIMSxKOzoAiYeRjYyWkZCampmim5qjpqWtmZigel5copSYfHFzXkxIYVFRYlNTXU1LUUE/V0tLAIJ9h4WBiY2KkpmXnp2boqKfp5WSmWVQUYZyc1lVXnJna4l/g4F3fG1gYF9RUFtPUgBnX2eAeIBzaG5jWVxXS09VSUxmVVc9NDlHOj46MjdjW1uGfYaCeYF7cnlnXGFJPD4AbWNqf3Z/aV9lZFFNZFBJQzQyHhskHBkfHRsjSTk6o3xwenF6gXNxd2tte25taFtdAIqBimtka1ZKT2pEOnJIPHhobBcYIhAOFh0cKB8iMoRlaX1pbF5IPXJiYmFQTV5QUAB/eIJoT1R5VltuUExAMT4uNE0nKkEjJjpANz8qJDAkJC8xKzQmJDFDO0U3KSo6MDUAZ2FqXk9VW0tPUkhNFBYhQDc+ZVNVaEVFh0A6dk1JemtjU0pPBggSODZEWE5UNi42AEpDTklDTEdBSjs2PyQaIVhARE43OndEQoJjZm5dZV9PUU1FTSgjKjc0P11WXzYvNhgLmBMD+h1RAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E76_brefJeSuisEnModeSurvie/101.png",
+    "width": 1920
+  }
+}

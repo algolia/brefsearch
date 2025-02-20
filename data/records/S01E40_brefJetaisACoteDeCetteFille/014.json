@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 646,
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 40,
+    "isAgeRestricted": false,
+    "likeCount": 63125,
+    "name": "Bref. J'étais à côté de cette fille.",
+    "season": 1,
+    "slug": "brefJetaisACoteDeCetteFille",
+    "videoId": "DOMouPqhIus",
+    "viewCount": 5561842
+  },
+  "line": {
+    "content": "J'ai voulu manger avec elle,\nmais j'ai eu 47 minutes de retard.",
+    "end": 16,
+    "heatBucket": 1,
+    "index": 8,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=DOMouPqhIus&t=14s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E40_brefJetaisACoteDeCetteFille/014.mp4",
+    "hash": "f2b5b59fa7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCakJDGwsXMxsbl4uKwoaCsm5qgj4+mlZOqmJaol5eklJOdjYyXiIZ2bGxpYGB8bmsAoZWWuLGywLe4zMbIsKKifm5roY+OsaCetqakoYuGoIuIrpydpZOSjYB/Z1dZj3t6AJaKjIJ6f46EiZWPmpCDhEctJIZ2dLanprmsrIJoX4BpZa2enWxfQ3hlSpN8faOIiQClmJmkmpy3rKuzrbWRdW1IKBxpXFzDsrF5bW4YExcWEhdsYWGFdmFxYESmj4ijj4kAn4+MiXd0bGJjV1FWal9gbldTdltRYVRSIBsgFA8UFxEWJh4iPjg5Qzo5ZFdUfW1qAGRXVhwUFBsVFgkFCDk3Q19VXHBbVyYdHhsVFywjJCsgISwiIwwKDhoVFw4KDEM5OQBMQ0QVERMdFxgWEBEvHxxVOSwvJikjISYlHx8PDRMMCQ8NDBISDxQbFRcSDA5BOTsAUkpOEg8QFQ8RGxcYOjg9OzI0TTw0SzkvcVE/PCsmQS8nRDEpGRIUEw4RDQkLNS4wAEM8QBINEAYEBU9DQJaLjoJtZsOXeqN5X4ZiUHBPPqd5XbmGZlI7MQUEBw0JCiojJDTUm2EKu7DfAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E40_brefJetaisACoteDeCetteFille/014.png",
+    "width": 1920
+  }
+}

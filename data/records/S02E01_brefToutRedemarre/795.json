@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Bon, bah, on compte sur toi.",
+    "end": 799,
+    "heatBucket": 5,
+    "index": 264,
+    "start": 795,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=795s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/795.mp4",
+    "hash": "1ec434ed55",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nAXB204TQQAA0El3Z3ZnZ+8zs1e3rG0peymtBSojLS1aNUpTDZcANTxIIDGaIImXRCPwbFJ9NPHBRP/BF77Gb/EcgLFakWSkQBXJwyV3VDNaVLkT4PWEtDzU5nAzxa+3k53lSsYkSZIB47QCVdsxI4fMZ9mP3epJacx3i5u34rDDXra0+YT/+93/eypPFhUgIcBsy9aJRa1GaF9Obn+b3jrrul8eL109avZT96DUrx84NxfhnyN5o4oAQCC2jLWE2p670uCnIvg88t5vhm9E+mlUP+kG58L5OLB/HeCfe/LzXIEyAr5ONhLKQiby4MVqcN73j3v+SmSLxJ2W7ivBLvr0+1T7+lTZLzFREdBVXHo2i7x7RXi0Hs9EMMhY0zfzwGwvOPcLOuvSq7H5YUjGdYIVBCDWUm7xyBdl9KTjbxVMNN0FT08oyQJ9OTF7defsrnPctVZjDUEEoGa0Yx4mQa+Mew2axea0Qx7meFzQd7PRs0Fe8/XtFp0UdK0RKpgACSJOVEPXuKszUyWKnDJY43KNKsO8uhi6hgZ9Sw0drZ5WkYr/A6CVQv897yjEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/795.png",
+    "width": 1280
+  }
+}

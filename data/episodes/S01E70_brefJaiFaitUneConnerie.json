@@ -1,0 +1,322 @@
+{
+  "duration": {
+    "human": "2:07",
+    "inSeconds": 127
+  },
+  "episode": {
+    "index": 70,
+    "name": "Bref. J'ai fait une connerie.",
+    "season": 1,
+    "slug": "brefJaiFaitUneConnerie"
+  },
+  "lines": [
+    {
+      "content": "Bref, j'habitais chez\nma copine, ça se passait bien.",
+      "end": 3,
+      "heatBucket": 5,
+      "heatValue": 78,
+      "start": 1
+    },
+    {
+      "content": "Après, ça s'est passé pas mal.",
+      "end": 4,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 3
+    },
+    {
+      "content": "Après, ça s'est passé.",
+      "end": 6,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 4
+    },
+    {
+      "content": "J'ai douté, j'ai bu,\nj'ai couché avec une autre fille.",
+      "end": 8,
+      "heatBucket": 5,
+      "heatValue": 67,
+      "start": 6
+    },
+    {
+      "content": "C'était la première fois\nque je trompais quelqu'un.",
+      "end": 9,
+      "heatBucket": 5,
+      "heatValue": 64,
+      "start": 8
+    },
+    {
+      "content": "Le matin, je suis parti et c'était\ncomme quand tu vas dans un sex shop.",
+      "end": 12,
+      "heatBucket": 3,
+      "heatValue": 53,
+      "start": 9
+    },
+    {
+      "content": "En nt, tu as l'impression\nque tout le monde le sait.",
+      "end": 13,
+      "heatBucket": 3,
+      "heatValue": 46,
+      "start": 12
+    },
+    {
+      "content": "Je suis allé au taf.",
+      "end": 14,
+      "heatBucket": 3,
+      "heatValue": 42,
+      "start": 13
+    },
+    {
+      "content": "Absolument, et on vous enverra\nune facture en droitiquant.",
+      "end": 16,
+      "heatBucket": 3,
+      "heatValue": 37,
+      "start": 14
+    },
+    {
+      "content": "Vous avez trompé votre copine.\nPardon ?",
+      "end": 19,
+      "heatBucket": 3,
+      "heatValue": 33,
+      "start": 16
+    },
+    {
+      "content": "Vous m'enverrez une copie ?",
+      "end": 20,
+      "heatBucket": 3,
+      "heatValue": 29,
+      "start": 19
+    },
+    {
+      "content": "Oui, une copie de quoi, madame ?",
+      "end": 22,
+      "heatBucket": 3,
+      "heatValue": 27,
+      "start": 20
+    },
+    {
+      "content": "Vous, en train de coucher avec une autre.",
+      "end": 26,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 23
+    },
+    {
+      "content": "Je n'allais pas bien.",
+      "end": 26,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 26
+    },
+    {
+      "content": "À la pause déjeuner,\nj'en ai parlé à mes potes.",
+      "end": 28,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 26
+    },
+    {
+      "content": "Ils m'ont tous dit, lui dit\npas, lui dit pas, lui dit pas.",
+      "end": 30,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 28
+    },
+    {
+      "content": "Kheiron qui m'a dit: Je suis fière de toi.",
+      "end": 31,
+      "heatBucket": 2,
+      "heatValue": 24,
+      "start": 30
+    },
+    {
+      "content": "Pendant tout l'après-midi,\nj'avais l'impression que tout\nmon corps sentait une autre fille.",
+      "end": 34,
+      "heatBucket": 2,
+      "heatValue": 20,
+      "start": 31
+    },
+    {
+      "content": "Et puis, je suis rentrée.",
+      "end": 35,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 34
+    },
+    {
+      "content": "En fait, je suis restée devant la porte\npendant 5 minutes sans oser l'ouvrir.",
+      "end": 38,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 35
+    },
+    {
+      "content": "Puis, je suis rentrée.\nElle m'a dit: Avec un grand sourire.",
+      "end": 40,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 38
+    },
+    {
+      "content": "Je lui ai dit que ça allait.\nOuais ?",
+      "end": 41,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 40
+    },
+    {
+      "content": "C'était pas si compliqué.",
+      "end": 42,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 41
+    },
+    {
+      "content": "Ensuite, elle m'a demandé\nsi c'était bien avec Ben.",
+      "end": 44,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 42
+    },
+    {
+      "content": "Je lui avais dit que je Je\nt'aide à dormir chez Ben.",
+      "end": 45,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 44
+    },
+    {
+      "content": "J'ai dit: Ouais, c'était cool.\nC'était vraiment pas compliqué.",
+      "end": 47,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 45
+    },
+    {
+      "content": "Ensuite, elle m'a embrassé.",
+      "end": 49,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 47
+    },
+    {
+      "content": "Elle n'a rien senti.",
+      "end": 51,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 49
+    },
+    {
+      "content": "Elle m'a dit: Je t'aime.",
+      "end": 54,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 51
+    },
+    {
+      "content": "Et là, j'ai découvert\nle poids de la culpabilité.",
+      "end": 56,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 54
+    },
+    {
+      "content": "C'était comme une énorme boule\nde bowling que tu es obligé de porter.",
+      "end": 58,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 56
+    },
+    {
+      "content": "Quand je lui ai dit: Moi aussi, je t'aime.",
+      "end": 60,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 58
+    },
+    {
+      "content": "J'ai eu le droit\naux chaussures de la honte.",
+      "end": 62,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 60
+    },
+    {
+      "content": "On s'est couchés.",
+      "end": 63,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 62
+    },
+    {
+      "content": "J'ai posé mon téléphone face contre table,\nau cas où la fille m'écrirait\nun texto au milieu de la nuit.\nNon, je suis pas d'humeur.",
+      "end": 69,
+      "heatBucket": 2,
+      "heatValue": 22,
+      "start": 63
+    },
+    {
+      "content": "Je me suis allongé avec ma boule\net je me suis rendu compte\nqu'elle clignotait dans le noir.",
+      "end": 74,
+      "heatBucket": 2,
+      "heatValue": 20,
+      "start": 69
+    },
+    {
+      "content": "Je n'ai pas dormi de la nuit.",
+      "end": 78,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 74
+    },
+    {
+      "content": "J'ai pensé à tous mes potes qui vivaient\nsuper bien avec leur culpabilité.",
+      "end": 86,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 78
+    },
+    {
+      "content": "Le lendemain, j'ai passé\nla journée avec cette boule.",
+      "end": 93,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 88
+    },
+    {
+      "content": "En rentrant le soir, je me suis dit\nque je devais lui avouer.",
+      "end": 96,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 93
+    },
+    {
+      "content": "J'ai dit...\nIl faut que je te dise un truc.",
+      "end": 97,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 96
+    },
+    {
+      "content": "Elle m'a dit...\nQuoi ?",
+      "end": 98,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 97
+    },
+    {
+      "content": "J'ai dit...\nJe t'aime., j'ai fait une connerie..",
+      "end": 115,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 98
+    }
+  ],
+  "video": {
+    "commentCount": 646,
+    "id": "hpCO1AIWo60",
+    "isAgeRestricted": false,
+    "likeCount": 95974,
+    "viewCount": 7801971
+  }
+}

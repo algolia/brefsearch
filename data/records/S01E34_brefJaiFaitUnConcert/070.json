@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "Mes potes sont partis.\nEn avance.",
+    "end": 72,
+    "heatBucket": 3,
+    "index": 27,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=70s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/070.mp4",
+    "hash": "f511cf4438",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAjFxwaDxIYDA9WS0hjV1RaS0ZjSDlcOypgPS1EKR11Rj5aGxNVNS1qXFVbTEY6LSgAKh4fIxYVJBcWZFhVXFBNg2ZYbkw6lWVOp21TVC8dVDImYB4WPh0ZNSwmOSwnNyokAD8tJhULCSMUEFtKRGNTS4tpVHtTP5pqVI5dR1IuHkorHV4cFCoEAxMKAxcKAhUJAQCBW0pUNSkeDwwlFhJxWEqHYUuSY0yxemKIUz9XLBo9IRRaKh0tEAsgEw0gEQwfEQwAlGNObUMvHA4KIxUSh2ZSe1Q9iFdAvYlyiFI/e0s4UjEhh1VCWDYnIhMNJxQOJRIMAGdCMHBHMTAaETMmIodiTGA6J2tDMJhlTq58Y6x+ZlczIJ5oUnBFMSARCyQSDCIRCwBVSE54VkZELSRkUUt3VEBjPSldOCeicVjKnH5vRjJdOCaqeGBFJxobDQgeDwocDQkAaGBsZFFQjWhTm2VKckgyZD4pXjYifUw2r35jSCYWbEQxaEU0FQsJHw4JIRALHxAKAGpWUltOVpZwW6RrToNUO2pHM1IwH25CK6FzWUgmFXBHM2lCL0YqHjQkHh0SDx4UESglb1B3JWiFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/070.png",
+    "width": 1920
+  }
+}

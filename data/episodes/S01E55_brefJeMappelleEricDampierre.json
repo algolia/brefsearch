@@ -1,0 +1,399 @@
+{
+  "duration": {
+    "human": "1:54",
+    "inSeconds": 114
+  },
+  "episode": {
+    "index": 55,
+    "name": "Bref. Je m'appelle Eric Dampierre.",
+    "season": 1,
+    "slug": "brefJeMappelleEricDampierre"
+  },
+  "lines": [
+    {
+      "content": "— Oui, je vous appelle concernant l'offre.",
+      "end": 1,
+      "heatBucket": 3,
+      "heatValue": 54,
+      "start": 0
+    },
+    {
+      "content": "Bref. Mon nom à moi, c'est Eric Dampierre.\nLui, c'est Eric Dampierre.",
+      "end": 4,
+      "heatBucket": 3,
+      "heatValue": 40,
+      "start": 1
+    },
+    {
+      "content": "Lui, c'est Eric Dampierre.\nEt lui, c'est Eric Dampierre.",
+      "end": 6,
+      "heatBucket": 2,
+      "heatValue": 28,
+      "start": 4
+    },
+    {
+      "content": "— Eric Dampierre,\nà l'appareil de Télécom 3 000.",
+      "end": 7,
+      "heatBucket": 2,
+      "heatValue": 27,
+      "start": 6
+    },
+    {
+      "content": "— Bonjour.",
+      "end": 8,
+      "heatBucket": 2,
+      "heatValue": 27,
+      "start": 7
+    },
+    {
+      "content": "Parmi les tafs de merde que j'ai pu\navoir, il y a eu le télémarketing.",
+      "end": 10,
+      "heatBucket": 2,
+      "heatValue": 36,
+      "start": 8
+    },
+    {
+      "content": "On s'appelait tous Eric Dampierre.",
+      "end": 11,
+      "heatBucket": 3,
+      "heatValue": 44,
+      "start": 10
+    },
+    {
+      "content": "Comme ça, quand quelqu'un nous rappelait\nen nous disant:",
+      "end": 13,
+      "heatBucket": 3,
+      "heatValue": 54,
+      "start": 11
+    },
+    {
+      "content": "— Bonjour, j'aimerais parler à\nmonsieur Eric Dampierre, s'il vous plaît.",
+      "end": 15,
+      "heatBucket": 4,
+      "heatValue": 70,
+      "start": 13
+    },
+    {
+      "content": "N'importe qui pouvait répondre.\n— Oui, c'est moi.",
+      "end": 16,
+      "heatBucket": 5,
+      "heatValue": 80,
+      "start": 15
+    },
+    {
+      "content": "— Oui, c'est moi.\n— Oui, c'est moi.",
+      "end": 18,
+      "heatBucket": 5,
+      "heatValue": 88,
+      "start": 16
+    },
+    {
+      "content": "— C'est moi-même, qui le demande ?",
+      "end": 19,
+      "heatBucket": 5,
+      "heatValue": 89,
+      "start": 18
+    },
+    {
+      "content": "— Bonjour Madame Dubreuil.",
+      "end": 20,
+      "heatBucket": 5,
+      "heatValue": 83,
+      "start": 19
+    },
+    {
+      "content": "On avait une fiche qui résumait le client.",
+      "end": 21,
+      "heatBucket": 4,
+      "heatValue": 72,
+      "start": 20
+    },
+    {
+      "content": "— Alors, vous avez réfléchi\nà la proposition d'hier ?",
+      "end": 23,
+      "heatBucket": 3,
+      "heatValue": 51,
+      "start": 21
+    },
+    {
+      "content": "— Oui.\n— En fait, j'en ai pas vraiment besoin.",
+      "end": 26,
+      "heatBucket": 2,
+      "heatValue": 30,
+      "start": 23
+    },
+    {
+      "content": "— Maintenant que je suis à la retraite\net que mon mari n'est plus là.",
+      "end": 28,
+      "heatBucket": 1,
+      "heatValue": 23,
+      "start": 26
+    },
+    {
+      "content": "On avait réponse à tout\ngrâce au script d'appel.",
+      "end": 29,
+      "heatBucket": 1,
+      "heatValue": 22,
+      "start": 28
+    },
+    {
+      "content": "Le script d'appel, c'est un arbre\navec toutes les possibilités de réponses.",
+      "end": 31,
+      "heatBucket": 1,
+      "heatValue": 26,
+      "start": 29
+    },
+    {
+      "content": "C'est comme aux échecs.",
+      "end": 32,
+      "heatBucket": 2,
+      "heatValue": 29,
+      "start": 31
+    },
+    {
+      "content": "On avait dix coups d'avance préparés\npar des mecs en costard dans des bureaux.",
+      "end": 35,
+      "heatBucket": 2,
+      "heatValue": 29,
+      "start": 32
+    },
+    {
+      "content": "Du coup, ça donnait:\n— Je peux pas me le permettre.",
+      "end": 38,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 36
+    },
+    {
+      "content": "Round One Fight:\n— Oui, mais...\n— C'est vrai, mais..",
+      "end": 40,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 38
+    },
+    {
+      "content": "— Vous savez...\n— Ah bon ?\n— Oui, car...",
+      "end": 42,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 40
+    },
+    {
+      "content": "— Bha...\n— Parfait.",
+      "end": 43,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 42
+    },
+    {
+      "content": "— Et la date d'expiration de votre carte.\nYou win.",
+      "end": 46,
+      "heatBucket": 1,
+      "heatValue": 2,
+      "start": 43
+    },
+    {
+      "content": "— Merci, passez une excellente\njournée, au revoir.",
+      "end": 48,
+      "heatBucket": 1,
+      "heatValue": 2,
+      "start": 46
+    },
+    {
+      "content": "Si je rackettais cette petite vieille\nau téléphone, c'est parce qu'au-dessus\nde tous les Eric Dampierre,\nil y avait l'écran d'objectif.",
+      "end": 51,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 48
+    },
+    {
+      "content": "Si j'atteignais pas mon objectif,\nmon salaire de merde devenait\nun salaire de grosse merde.",
+      "end": 54,
+      "heatBucket": 1,
+      "heatValue": 4,
+      "start": 51
+    },
+    {
+      "content": "Mon objectif était calculé\npour être 20% supérieur à l'objectif\nque j'avais atteint le mois précédent.",
+      "end": 57,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 54
+    },
+    {
+      "content": "En gros, travailler\nplus pour gagner pareil.",
+      "end": 58,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 57
+    },
+    {
+      "content": "Le responsable de plateau nous espionnait.",
+      "end": 61,
+      "heatBucket": 1,
+      "heatValue": 6,
+      "start": 58
+    },
+    {
+      "content": "— Mais je peux vous écrire.",
+      "end": 62,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 61
+    },
+    {
+      "content": "— Je viens d'écouter\nta conversation, ça va pas du tout.",
+      "end": 65,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 62
+    },
+    {
+      "content": "— Tu fais beaucoup trop d'interro négatives.\nLui, c'est Stanley.",
+      "end": 67,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 65
+    },
+    {
+      "content": "Il utilise des mots que seuls\nles mecs de sa race comprennent.",
+      "end": 68,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 67
+    },
+    {
+      "content": "— Déjà que le presta\nqui outsource nous a sous-taffé.",
+      "end": 70,
+      "heatBucket": 1,
+      "heatValue": 18,
+      "start": 68
+    },
+    {
+      "content": "—  n est overkill à cause de leur match-coding\nmal foutu, tu peux pas te permettre ça.",
+      "end": 73,
+      "heatBucket": 1,
+      "heatValue": 22,
+      "start": 70
+    },
+    {
+      "content": "— Regarde Mamadou, lui,\nc'est un bon Éric Dampierre.",
+      "end": 76,
+      "heatBucket": 2,
+      "heatValue": 30,
+      "start": 73
+    },
+    {
+      "content": "— Qui le demande ?",
+      "end": 77,
+      "heatBucket": 2,
+      "heatValue": 35,
+      "start": 76
+    },
+    {
+      "content": "Je détestais ce taf de merde,\nmais il y avait des bons côtés.",
+      "end": 79,
+      "heatBucket": 3,
+      "heatValue": 39,
+      "start": 77
+    },
+    {
+      "content": "— Non.\n— Allez...\n— Non, je suis pas dans le délire, là.",
+      "end": 82,
+      "heatBucket": 3,
+      "heatValue": 48,
+      "start": 79
+    },
+    {
+      "content": "Round Two Fight:\n— Oui mais...\n— C'est vrai mais...\n— Tu sais ?",
+      "end": 85,
+      "heatBucket": 4,
+      "heatValue": 65,
+      "start": 82
+    },
+    {
+      "content": "— Ah bon ?\n— Oui, carrément.\n— Bon ben...",
+      "end": 86,
+      "heatBucket": 4,
+      "heatValue": 72,
+      "start": 85
+    },
+    {
+      "content": "— Parfait, alors.\nYou win! Perfect.",
+      "end": 90,
+      "heatBucket": 4,
+      "heatValue": 75,
+      "start": 86
+    },
+    {
+      "content": "Bref, je m'appelle Éric Dampierre.",
+      "end": 94,
+      "heatBucket": 4,
+      "heatValue": 66,
+      "start": 90
+    },
+    {
+      "content": "— Oui.\n— Bonjour, Bruno Dussellier.",
+      "end": 95,
+      "heatBucket": 4,
+      "heatValue": 59,
+      "start": 94
+    },
+    {
+      "content": "— Je vous appelle à propos\nde votre abonnement.",
+      "end": 97,
+      "heatBucket": 4,
+      "heatValue": 61,
+      "start": 95
+    },
+    {
+      "content": "— En fait...",
+      "end": 98,
+      "heatBucket": 4,
+      "heatValue": 73,
+      "start": 97
+    },
+    {
+      "content": "— Je ne souhaite pas\nrépondre à vos questions.",
+      "end": 100,
+      "heatBucket": 5,
+      "heatValue": 89,
+      "start": 98
+    },
+    {
+      "content": "— Ah bon ? Pourquoi ?",
+      "end": 101,
+      "heatBucket": 5,
+      "heatValue": 95,
+      "start": 100
+    },
+    {
+      "content": "— Ceci est une question,\nje ne souhaite pas y répondre.",
+      "end": 103,
+      "heatBucket": 5,
+      "heatValue": 96,
+      "start": 101
+    },
+    {
+      "content": "— Vous êtes dans la maison ?",
+      "end": 105,
+      "heatBucket": 5,
+      "heatValue": 89,
+      "start": 105
+    },
+    {
+      "content": "— Oui. Bon courage.",
+      "end": 107,
+      "heatBucket": 4,
+      "heatValue": 74,
+      "start": 106
+    }
+  ],
+  "video": {
+    "commentCount": 1200,
+    "id": "tkOuQiO-Vzg",
+    "isAgeRestricted": false,
+    "likeCount": 132781,
+    "viewCount": 9414768
+  }
+}

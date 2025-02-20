@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 680,
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "isAgeRestricted": false,
+    "likeCount": 99938,
+    "name": "Bref. J'ai couché avec une flic.",
+    "season": 1,
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ",
+    "viewCount": 8008914
+  },
+  "line": {
+    "content": "Elle a dit:\n— Dommage.\nJ'ai dit:\n— Pourquoi ?",
+    "end": 37,
+    "heatBucket": 3,
+    "index": 15,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=36s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E18_brefJaiCoucheAvecUneFlic/036.mp4",
+    "hash": "8f6709d4b3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwly01v0mAAAOA3McRg2QpIO0YyPRijZw9eTNTMxXDQLDiixqjMAtMOS6Nurt1HUTrHQGab0dK39INS3pZS5tTMHXbcP/Pgc39AvbS4s/yotb6iyy0DQlPXzZ7et22pIQpUnmdWdA1CRelIPw72G6KwA8L9qrVdatJPUOMjMrojP/CHCHmBxLOIfV5ZWugqCnKRY1km1FVZBufDdr9GS8zTsMHYIhsgFAaTMPyp7W41X2aFYt51hz7yBo4zsB1bN8C5Jytrr93au98yj/bYkQmPj/6c/j3zICws3FrNZ235MBwfjf1gYPf7PROcKIIt0JPWp18SB3nKbAmnJ2eqqi3O332cTubJxA0Cv3f/TrejjJDnGCaYtD+7YtXbrR631w2uoPBl2Dm8fm1uajpyOzl9MxnDUxgAIPtwfuwHlgbB5IALmmtuvRJ8Y9xaWeMohnqRJvG5TDI1gxMkTlyOxWKRq1fSUFVFYRs4X9+PGh8gXzT5N8bGq94mVcw9mCXxzEw8Q+JpYioRj2JYJJG4tCeKmywNvq8uWVslsZzTNgroy1u3TnNUbpaM/z9EKobjFzEsEo1eKFLLlcKzf+mavDXeEZcIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E18_brefJaiCoucheAvecUneFlic/036.png",
+    "width": 1920
+  }
+}

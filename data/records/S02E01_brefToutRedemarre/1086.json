@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Il m'a dit qu'il avait compris\nque c'était la galère.",
+    "end": 1089,
+    "heatBucket": 1,
+    "index": 348,
+    "start": 1086,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1086s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1086.mp4",
+    "hash": "506181c9d5",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABtklEQVR4nAXB3W7SUAAA4AI9Pz2nlLZCW6j0hxUoDMagQBmJbnSDTGUbzjmNQDDLjJLMLEtsXEhmsqAu3hhjYpZ4udfwJXwar/0+hkSjEoISRCpm1xTYysKWAasaKKSgLQNTBKYIMzyrx4GegAoPGC+JfE2oyNIKQr5MLncSy33xYkt43YwPXWHoJiZ1/vOeEPb4o2pi4ErMng13srQsCmkWuhR/HMg3x9rVgTptpz499cMn3qRO//0Z/P1VmfvkeUNhGincSFKHp0XMBTK9HmVu5+6P0/LioHA98sNH3llg3Z4YX58p54Hyqq0wJkX5ODEQLnN4N0lvXph3Yfv3hf/9dH2x33rfX78cOmd9a9bNzHv6tKMyWQItilQWlDjcv0eWR8bdh9aX2drbbWO2WQkfNw+bxrtte3FYnPf0sa8wOoE6B8UYW8R4SyJXo/s/35RPNp1uXuuWzGlQr7vWRsXaqOXGHWXsp5g0BmkE+Eg0h9BDkS5H2reXK+dB1XN0K6t6tULe1GqrtlvKHT9wJr7CcLEIiUVZJhKPxtIQdGzimbwuEAgAxpAnHIcg5hAm3GredFT6H15OTSiVXgWdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1086.png",
+    "width": 1280
+  }
+}

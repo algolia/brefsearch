@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 495,
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "isAgeRestricted": false,
+    "likeCount": 89012,
+    "name": "Bref. J'aime bien cette photo.",
+    "season": 1,
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo",
+    "viewCount": 7007993
+  },
+  "line": {
+    "content": "Le reste de son corps\nétait complètement bourré.",
+    "end": 67,
+    "heatBucket": 1,
+    "index": 25,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=65s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E28_brefJaimeBienCettePhoto/065.mp4",
+    "hash": "ea92f10f7b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjaI2SaoqQLPEWTbETirEUDDLkCjbi91TnclXhVhbh8NDkCdTn89HlCzbkizPnjzTmY7DV5HXX5w+1Eoq1F8rykOqKNe+MNGqK0I4x59OR5Iq2EAwz4Q8y4Eu0EsywFSh0E2HI8RRJdBQOtxL0NuLzNxWdnZG8vT5nVnGisSKXngxXgYdovotwqY9YvqtwjZ9YuacIw5Rk6Xk5svNyZGemK/TESE9PMzo9sWJDc2mig3h9pFRHjHRXjGRbpGRTiHhzqESVlwhDZ7RkZ7RkV4xkQ4hElb/klFSxGRmmezoragO1pmdIzs6Rn5om2xYp2R0n3RAoVh8oxtATC1LdEQUiu2Ml2yLEWsNUDk2o6U/2KfUSbgyRqAsUqwsQq/QWqQ8QLfMUYeiKlpycKjMzS3Zenvy8fIW5eXITkxT3dheurM4p8VJpDhNpDpOuC5QodBEudBPJtRdkqAsU64iW6gA7bEqqzIxM2Z5YsRXlgadmta2uTepPVJmbLz8nV2lGplxfgkyljyhDuY9oqYdIa4Rke6RET5xUf5J0f5JUXYDMrs78/RMabSVNIowUWiOlGkPEy33FCjxEAMwKiAdPzKjhAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E28_brefJaimeBienCettePhoto/065.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 393,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "isAgeRestricted": false,
+    "likeCount": 84499,
+    "name": "Bref. J'ai monté un meuble.",
+    "season": 1,
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c",
+    "viewCount": 6829749
+  },
+  "line": {
+    "content": "Je suis retourné en arrière, j'ai fait\nl'étape 9, je suis revenu à l'étape 14.",
+    "end": 72,
+    "heatBucket": 1,
+    "index": 29,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=70s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E35_brefJaiMonteUnMeuble/070.mp4",
+    "hash": "7912c7973a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBmW1h3a2qLfn23q63X0dTJvr+rnp+ekZKZjIyKfXyXiYeQg4CGd3R5bGlzZmR2a2kAdmlmjX9+nY+PwbW2qpWQxby9MS8xKygpKykrTkdHpZaVn5GPloeEjn98i318koWFAIBxb52Ojo5+eLOkoZJ/e4Z2cCAeHRoZGRkXF05HRqKSj5iIhpiJhp+QjZWGg5CBfwCFdnSekI+ml5OokoyDdHJ7Z18fHBsYFhYWExI7NjOnmZWWh4KOf3x8cG56bWqKfHwAcWBdcW5lf35xnomHWk9Oinl1JiQkDQwLFhQSNS4qiXZxnI6Kn5CMPDQwHBgVQDo4AFhFPXVjWXVoYXVkXVhMRlNLSSIfHg0MCgwNDDEpJGJMQnJmYoV5dCciHhwXFTQsJwBmWVVfVFEtIh08Mi14Y1lCNjEVEhAQDgwKCgkqHxhbPi88LiUnIBwWEg84LStQQz8AOCsmJhwYLBcNYEIuXEc6cE00LiAXBwcHDg4NJxsVTC0bRyobMx4TKxsTPjIuKB8gACIWESwZEF47I6BvR5htR5dlPXpKKFo0GmY/JFs3H2E8JmdDLlw6KEssGjcoIQoIBmXakzZg8Q4pAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E35_brefJaiMonteUnMeuble/070.png",
+    "width": 1920
+  }
+}

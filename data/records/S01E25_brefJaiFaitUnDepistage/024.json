@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 590,
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "isAgeRestricted": false,
+    "likeCount": 79173,
+    "name": "Bref. J'ai fait un dépistage.",
+    "season": 1,
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ",
+    "viewCount": 6825279
+  },
+  "line": {
+    "content": "J'ai trouvé ça méchant et pas marrant.",
+    "end": 26,
+    "heatBucket": 3,
+    "index": 10,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=24s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E25_brefJaiFaitUnDepistage/024.mp4",
+    "hash": "f2553fe15c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAdEhJvQ0BSMS0mHRw6LiuBYFm2hnyylpV7gZlman52fpaSfGyjj398gJZvc4xtb4gANyEfilVRa0U+OCondVRLkWZdp3pxo4WDVEZFXkAzXEhDgmhas5yPlpKcbXOPbnCJAEotJ4lZUm5NRF9FPal5bHtZUV9HRF5KSGE/L6VwYE83MGBFPamGeJ6YmXN9nXB0jgBuST1lRDtNODF1UUase2+ziYOCYl1VQDtwU0hNOTQ5MjRrW1B4Y1ORg3dlXWBrbYIAi3JwTjYsTDgxcFBHfllQiGBZmGtilISEgXR2GhUWPC8nYlA/Qz1FSzw1TzYcWVBTAHh3jkc7ODkqI1xGP2lKRFc6Nlk0MZt0bG1cWiUeHS0lJUY0JDYwQEI3OVE8KEo8NABhZINpZ3cfFxVIODJQNjFfQDuCWlKcbmSnjYsnISIpIiVJOCw6MDU2LjNHNSVALyIAg4Odio2tQkFQIB8uKB8jXlFSblJLpXlvspSRMysrKCAgeGRbgWtmaVpZg3l7PzIrAGxtioSHrF5hfTY5bVdQZHFsd007OHNRSqyIgk1CQCEeLTY7iktATjQsMUY9PzwvKPKelhidViLKAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E25_brefJaiFaitUnDepistage/024.png",
+    "width": 1920
+  }
+}

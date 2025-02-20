@@ -1,0 +1,266 @@
+{
+  "duration": {
+    "human": "1:36",
+    "inSeconds": 96
+  },
+  "episode": {
+    "index": 29,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque"
+  },
+  "lines": [
+    {
+      "content": "Bref, j'étais en train de me mettre\ndes gouttes dans le nez.",
+      "end": 6,
+      "heatBucket": 4,
+      "heatValue": 30,
+      "start": 4
+    },
+    {
+      "content": "Mon frère m'a dit:\n— T'es vraiment hypocondriaque.",
+      "end": 7,
+      "heatBucket": 3,
+      "heatValue": 27,
+      "start": 6
+    },
+    {
+      "content": "J'ai dit:\n— Non. Je fais juste attention.",
+      "end": 10,
+      "heatBucket": 3,
+      "heatValue": 25,
+      "start": 7
+    },
+    {
+      "content": "Je fais juste attention.",
+      "end": 10,
+      "heatBucket": 3,
+      "heatValue": 24,
+      "start": 10
+    },
+    {
+      "content": "Quand j'ai un doute,\nje vais sur des forums.",
+      "end": 12,
+      "heatBucket": 3,
+      "heatValue": 24,
+      "start": 10
+    },
+    {
+      "content": "Généralement, après les avoir\nconsultés, je suis sûr d'avoir\nune maladie orpheline.",
+      "end": 15,
+      "heatBucket": 3,
+      "heatValue": 27,
+      "start": 12
+    },
+    {
+      "content": "J'ai d'ailleurs tout le temps\ndeux symptômes sur trois.",
+      "end": 16,
+      "heatBucket": 4,
+      "heatValue": 31,
+      "start": 15
+    },
+    {
+      "content": "— Vomissements de sang.\n— Fièvre.",
+      "end": 20,
+      "heatBucket": 5,
+      "heatValue": 35,
+      "start": 17
+    },
+    {
+      "content": "— Toux.\n— Fièvre, toux.",
+      "end": 22,
+      "heatBucket": 4,
+      "heatValue": 34,
+      "start": 20
+    },
+    {
+      "content": "— C'est sûr, je l'ai.",
+      "end": 23,
+      "heatBucket": 4,
+      "heatValue": 31,
+      "start": 22
+    },
+    {
+      "content": "Si quelqu'un me dit\nque j'ai l'air fatigué.\n— T'as l'ai fatigué.",
+      "end": 24,
+      "heatBucket": 4,
+      "heatValue": 28,
+      "start": 23
+    },
+    {
+      "content": "Je me sens fatigué.",
+      "end": 26,
+      "heatBucket": 3,
+      "heatValue": 26,
+      "start": 24
+    },
+    {
+      "content": "Quand je vais bien, je m'inquiète.\nÇa cache quelque chose.",
+      "end": 28,
+      "heatBucket": 2,
+      "heatValue": 23,
+      "start": 26
+    },
+    {
+      "content": "Il me suffit de lire\nles effets secondaires\ndes médicaments pour que je les ai.",
+      "end": 30,
+      "heatBucket": 2,
+      "heatValue": 21,
+      "start": 28
+    },
+    {
+      "content": "Je lis aussi les contre-indications\nen cas de grossesse\net d'allaitement, on sait jamais.",
+      "end": 33,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 30
+    },
+    {
+      "content": "Dès qu'un pote a besoin\nd'un médicament, il passe chez moi\navant de passer à la pharmacie.\n— Tu veux du 500 milligrammes ou du 1 000 ?",
+      "end": 36,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 33
+    },
+    {
+      "content": "Si quelqu'un tousse, je m'éloigne.",
+      "end": 37,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 36
+    },
+    {
+      "content": "Si quelqu'un éternu, je le hais.",
+      "end": 41,
+      "heatBucket": 2,
+      "heatValue": 22,
+      "start": 37
+    },
+    {
+      "content": "Quand je vais aux toilettes,\nje me lave les mains avant et après.",
+      "end": 44,
+      "heatBucket": 2,
+      "heatValue": 22,
+      "start": 41
+    },
+    {
+      "content": "Je ne touche aucune poignée.",
+      "end": 45,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 44
+    },
+    {
+      "content": "Quand j'ai mal à la tête, j'ai une tumeur.\nQuand j'ai mal au ventre, j'ai une tumeur.",
+      "end": 48,
+      "heatBucket": 1,
+      "heatValue": 20,
+      "start": 45
+    },
+    {
+      "content": "Quand j'ai mal à l'orteil,\nj'ai une tumeur.",
+      "end": 49,
+      "heatBucket": 2,
+      "heatValue": 22,
+      "start": 48
+    },
+    {
+      "content": "J'ai appris mon numéro\nde sécu par cœur, au cas où.",
+      "end": 51,
+      "heatBucket": 2,
+      "heatValue": 23,
+      "start": 49
+    },
+    {
+      "content": "J'ai lu une statistique qui dit\nque la cuvette de nos toilettes\nest trois fois plus propre\nque notre clavier d'ordinateur.",
+      "end": 54,
+      "heatBucket": 3,
+      "heatValue": 26,
+      "start": 51
+    },
+    {
+      "content": "Du coup, je nettoie mes toilettes\nune fois par semaine et mon clavier,\ntrois fois par semaine.",
+      "end": 57,
+      "heatBucket": 4,
+      "heatValue": 34,
+      "start": 54
+    },
+    {
+      "content": "Je vérifie sept fois pendant l'acte\nsi la capote n'a pas pété.",
+      "end": 59,
+      "heatBucket": 5,
+      "heatValue": 41,
+      "start": 57
+    },
+    {
+      "content": "— Quoi ?\n— Attends, je vérifie.",
+      "end": 61,
+      "heatBucket": 5,
+      "heatValue": 41,
+      "start": 59
+    },
+    {
+      "content": "— C'est bon.",
+      "end": 64,
+      "heatBucket": 5,
+      "heatValue": 38,
+      "start": 61
+    },
+    {
+      "content": "J'ai déjà nettoyé le lavabo\nd'un pote sans le lui dire.",
+      "end": 65,
+      "heatBucket": 4,
+      "heatValue": 34,
+      "start": 64
+    },
+    {
+      "content": "— Qu'est-ce que tu fous ?\n— J'arrive.",
+      "end": 66,
+      "heatBucket": 4,
+      "heatValue": 31,
+      "start": 65
+    },
+    {
+      "content": "Entre hippocondriaques, on se reconnaît.",
+      "end": 72,
+      "heatBucket": 3,
+      "heatValue": 25,
+      "start": 66
+    },
+    {
+      "content": "De toute façon, pour reconnaître\nun hypocondriaque, c'est simple.",
+      "end": 75,
+      "heatBucket": 2,
+      "heatValue": 21,
+      "start": 72
+    },
+    {
+      "content": "Il suffit de lui dire:\n— T'es hypocondriaque.",
+      "end": 77,
+      "heatBucket": 1,
+      "heatValue": 17,
+      "start": 75
+    },
+    {
+      "content": "Il vous répondra:\n— Non. Je fais juste attention.",
+      "end": 79,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 77
+    },
+    {
+      "content": "Bref, je suis hypocondriaque.",
+      "end": 81,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 79
+    }
+  ],
+  "video": {
+    "commentCount": 392,
+    "id": "_AH6uf2dTLg",
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "viewCount": 4199001
+  }
+}

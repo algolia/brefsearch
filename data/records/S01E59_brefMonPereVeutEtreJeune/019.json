@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 710,
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "isAgeRestricted": false,
+    "likeCount": 84316,
+    "name": "Bref. Mon père veut être jeune.",
+    "season": 1,
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM",
+    "viewCount": 6922744
+  },
+  "line": {
+    "content": "Quand je suis venu vivre\nchez lui, c'est devenu invivable.",
+    "end": 22,
+    "heatBucket": 4,
+    "index": 9,
+    "start": 19,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=19s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E59_brefMonPereVeutEtreJeune/019.mp4",
+    "hash": "f1913aa7d3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwe1zknAAAODfmgYI/MCXQBAUlDdBJgYrt+Gct2hN93Jm27U55+2GupxmWFdd1+pDV1fXl25/cc8DTEU3NbOsaIHv2yXVUrSr/vksHEa3N9/vvnnV2poktSqGJ0slIR9ej0Dgb+63mmVFkzhRyDApAupycRYOP0fzoLlDoThDpxlIFxgWopih6mCrYvpO1VT1rTV73TBYOi0y7GhwtpxOLEXPM3wuw9IkTeMURUCKhOBwLzg56hiKdtnZe/+qU5fF0+fPPsxultOxV6mKbK4k5LlMNkmmYALSJAThoL+YjJ+43rbnRi87p+t2y3X8en0+upoOL3YrpsrxaSpN4UkCIykCgqDROAh2i3kZjePdzadnGzUxSQPwIAlTYf/8/u2k51gSkyVQHHmIJdAEsDUzz4kESiII8Vjkp9uexfOrMWwFxEVO+Dmf/Lruj47bTrGocJzGc8C1He4RT6IQiWGuqt4evqiZVQBiKIJjKDnodX9Hb/59Wb676I27+6936kDOFdg0x7OikC1Y5dpGvSlL2upKHENIAED7oPvj7uufj4u/nxbR5cmg3fgPHEJTpQKVXHcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E59_brefMonPereVeutEtreJeune/019.png",
+    "width": 1920
+  }
+}

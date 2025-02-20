@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Et ça pue la merde.",
+    "end": 806,
+    "heatBucket": 5,
+    "index": 266,
+    "start": 803,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=803s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/803.mp4",
+    "hash": "bbcf566ae8",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlElEQVR4nBXES2+UQAAAYGLKwPIahplhYGBgYRd2gV1gH7q0Ia3WWE2NdPuwNunGq4mJFz3oT/DgpWf/rPE7fBLUgKapyBg5lgZUdSmslxnMHeUkAlshc0uZImUM1ecBaLgsAyCVAeTMWUR0MfERdr5dZn8/zw4L+DTYvwf6NsOfSrSfoT+X5vdzaCEkVaHtElgkXjnhjJH9Ovj5Whxa58cZvijobkzuKjzk8GkwvvS2RahUR2jq2rfbqIndPOH9jH1svK+n4mrpth58U/KLnDzW9n2NmtjxhCfVMa5dp8JWIViVi76gd2v/ehvfrLwuwRVH5yt+39L3GS0JDoQnJRwjQlLbzgJWzOMPmyihUHqm7Fu2K+OAsuN5tp2KXw/djrmh70oRgYZlCwhTSvqlOC2jZewDA71q06uz7KTPd7PxTZMOL+ZrWS18W1p5mqHpgQgfumyZCRaOdRxAN2DxtGvL7rg6vGsfV5ONATcea0NL4iYYAVk1TI5NoitHqi6rmqxo/x8ZQLNsQlXdVI5AGgkPav8AvZY6zOx39pcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/803.png",
+    "width": 1280
+  }
+}

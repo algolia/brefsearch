@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 646,
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "isAgeRestricted": false,
+    "likeCount": 95974,
+    "name": "Bref. J'ai fait une connerie.",
+    "season": 1,
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60",
+    "viewCount": 7801971
+  },
+  "line": {
+    "content": "Bref, j'habitais chez\nma copine, ça se passait bien.",
+    "end": 3,
+    "heatBucket": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=1s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E70_brefJaiFaitUneConnerie/001.mp4",
+    "hash": "4036dac0e9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBhW15zbG+ak5KUi4uHg4ZeXmZcW2JiYGZXVFZISk9ITVRBQkUMChAGBQwfGR0+OT4AaGZrg4CDlYOCfnV3dW1uSUVMVlZeaGVrXVlbSk1SUFVaUlJTERAVBgUMGhYbNjI4AGFfZF5cY5GGhHt1eENCTiAcJzg5Qk5NVldTVkxPVUlPVVZXWBkXHQIDCigeIjYqLABZWF9RUFZ9dndraG4kKDsKDyEREyNbWmN7fIJdZWxFSVBbVlUeHCACBAsoHyUyJCcAcnJ5gYCIkY+Vfn2FKSw+FRcnHyEwu7nAkZOZTlZfS0tPYldOKCIjCwwVDA4YBwkQAHt6gYiHkHp6hHhtbE9HS25eV3JfV6mfnHdzd1JPU2pfXU9ISB0bIQYIERQTHBYTGQCCgIeOjJNub3mEdnNVR0R/a1+JdGlmV1A8NztSTE1kWFRVR0NPQDoTERcnISMhGx4Aa213dXeAXmFtdG1xWk1LZlhSUVBXOjI1LCkwLzE5NzEyOi8uMikqHBgbFBEVDgsQAF9gaWBhak1PWl9aX2BNSGZTSyknL05ERIh4bWBRSyUdHi0kJCUfIBAOEh4XGRENEVztgLYgwJ/QAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E70_brefJaiFaitUneConnerie/001.png",
+    "width": 1920
+  }
+}

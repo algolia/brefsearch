@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 710,
+    "durationHuman": "2:08",
+    "durationInSeconds": 128,
+    "index": 59,
+    "isAgeRestricted": false,
+    "likeCount": 84316,
+    "name": "Bref. Mon père veut être jeune.",
+    "season": 1,
+    "slug": "brefMonPereVeutEtreJeune",
+    "videoId": "7Ry1eljBOvM",
+    "viewCount": 6922744
+  },
+  "line": {
+    "content": "— Mais moi aussi, p'tit con.",
+    "end": 77,
+    "heatBucket": 3,
+    "index": 35,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=7Ry1eljBOvM&t=76s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E59_brefMonPereVeutEtreJeune/076.mp4",
+    "hash": "d71b8e7f4a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwe1P2kAcAOD7gNJe7+7H9fpCW6ENBUVhsGm2DjBazICNKUJgwYAwmawmKDNubGwm7svi/73nQV5qN79TrVXOXuwFZDMOmICEPdNsB8HtaWvROf3W74XFQhA0r5f/GDWRZ2eL2weHbz/k/TKTZCYpZEP2bSd8+epr82T6rn7XO4/O2pNmc3a9ArDRtpvv1tvvw54tkhwTVQFBqG87/ePj9bD3dzp6jr78vOg/XF6N548cLLTnl28ni+nwhhMQFDSasIDtptP98CRq1L/3Os/R7NfoYtQdNzpzTnWUTReWs4fV8kmjCUEYx0wopOC5rdrR5Ki6HnR/DAeTZuNNvpj191NbebTjFaPB5fruj60aKqaqwjRCy76fSWVc3ehUgrBUep3LbQk7mTA07qBGrbWazu+nN5ZqqAoVBOwEFFzX5CZCyFG1brVykM2ZCUMHXdmk6FOr+3u+uOr0DcaFQjmmJkAmaYEE8RiWYpLDDZDB4qZOhUYE+vzx/H48Oyztc5nohKkytQA8XadxhjcwyESKxTkGE3SNCp1q/wHG/00FdbcDxAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E59_brefMonPereVeutEtreJeune/076.png",
+    "width": 1920
+  }
+}

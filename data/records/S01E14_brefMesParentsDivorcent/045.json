@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 336,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "isAgeRestricted": false,
+    "likeCount": 84145,
+    "name": "Bref. Mes parents divorcent.",
+    "season": 1,
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M",
+    "viewCount": 6682867
+  },
+  "line": {
+    "content": "— Papa et maman ils s'aiment plus ?\n— Non.",
+    "end": 47,
+    "heatBucket": 1,
+    "index": 22,
+    "start": 45,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=45s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E14_brefMesParentsDivorcent/045.mp4",
+    "hash": "161ecbeac9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBqZ3hCOzmIgIiKg4ublaWzscSKg5ZVUXpPSWxVREtZUXFgWoZcV4Wgn766t8uvqr0Ab2p0VU5RqKS3YlthaltdxMDUi4SXPD1rPDZUjmRSc2N9aWOWZWCRrqzNsK2+mJOiAHRtdWBZX73A2ldUW29OQr63yIuGmUtHZyUlQoBsc2piek9KbmdjlrCuz5WQnXZveAB0bHNoZGufmqt+fZidmazCwtyDfpAuKzshHyp5eZM9O0suKDZhXY+qqcl7dn51b3gAZVxeWVFWcCs7aSI5oKbHzc/reHOEHx0rJSErZV1iMiw5LiczVFF9oJ/Abmh0XVZfAFVOTkQ2OV8PI24SK25rfqimuGdicRgXJBsZIDUuNi0mMyQeJk1KdHl2kEM9RkpETABORkZFR0pKGShkBh1SVmxvbXhOSVMYFyMbGCEoJDAyKzklHyk7OFliXm1KRUFNSEsATUVGNzQ3MRciYQEWY2F+fIGSTEVLFxcjHBkjJSEsLSc1PDY/ODdSbmp3npySXlxJAEdAQS0oKxoVHFUFFl41TG5ye0Q9QychLCMeJhwaJCwpMzQwLTg5UlJLV1JHRE5DOackn5PNwUekAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E14_brefMesParentsDivorcent/045.png",
+    "width": 1920
+  }
+}

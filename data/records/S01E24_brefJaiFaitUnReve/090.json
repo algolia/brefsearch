@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 597,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "isAgeRestricted": false,
+    "likeCount": 91536,
+    "name": "Bref. J'ai fait un rêve.",
+    "season": 1,
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4",
+    "viewCount": 6811734
+  },
+  "line": {
+    "content": "Je me suis pincé, ça m'a fait mal.",
+    "end": 92,
+    "heatBucket": 2,
+    "index": 28,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=90s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E24_brefJaiFaitUnReve/090.mp4",
+    "hash": "618ccc54a2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXBJREFUeJwdy9lq20AUAFB9QC3NeueOZtFIHmt37LqqK2epQ0IoTgOlBPqQp0ITAoX+RB/63YWc95NooCCI5BQlBZ55q4KDMmcxwLQNxykayRWnpcfCQa5YgsCi5qWgwImSpPQYCxUUGSO8fh0fDk2F+QcnreJvgSeEZNugvm+8lUTwdBmwr22J2f3e/3maro/toQ13Kz3UedfZt5Bmg4OXq+7MK0lTb9TY++2Z+3W/Pt12V7ftxb56GIq+0mVAgyIZA5xG93rZ/pzrnVMaxDj4T3P9+3H3dNOXFqJT59FUKFFwEDSZG33s7PNl9+NjfLzw/RJW0ezeh2lT3Byb83k5xDwWaulUgUILmgwOkDGr4VTA3+viy8FYwbSUVtKxwXmu1o0ZYl5ZQE61ZEmQNOfMofzW4j9kd5IMkReaK8lWjm9GOzamCei1AEElp4lcLFiaOclURj6/W+wha1Z8Wos+iq7WMajKQNACBeWE0Cz9D2ftOdIhkn3pAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E24_brefJaiFaitUnReve/090.png",
+    "width": 1920
+  }
+}

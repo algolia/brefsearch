@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "On a couché avec elle.",
+    "end": 736,
+    "heatBucket": 1,
+    "index": 242,
+    "start": 734,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=734s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/734.mp4",
+    "hash": "732d575813",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmUlEQVR4nAXBbW/SQAAA4INSekd7vdLrtXc9+kpbBqyMFmRuvkzJtjiiQx3DJcsSl2WJZjPRr341+tnf4C/1eYA0W0hVVNDQlYanK2a7wQmUdkd20VAYQx8bqK1BFUK11VS0VhOcl6aw4KSIXs7y0zp4dzyrU6eK6Txjfz8NfywjSonrEYcaWFNdXQNXB9Lt8dX2/Gx9kkb88/1llvqC4Thi347i28p7nvG68EKPMNQOCQLbw3DY505XF1hbSBJYeBCwyDHGLlmG9mbA1pw+Dd1cEN+AA6qDRc72E+dJ5R+W9HrErj4Uox3/bB69ZvbFVP7cVvsee0tIyYmHUUp1MOnpk9ArwjyL7DqxT9fhIJGlpDPBvlxUf74vTxK+wXjCCbE6hg5Bxo3Ml/O02g3Ei5H/rAgOitRuqau+eHw//XWz+GiTY4xjZiKkAkUFkYuxjutsvLmZfr0b/36TP7wqLkvx73rvfsffcHvldHsm5o4lXaohBCxDazYVTFB/Rkd7ZJebmc/ibicjKEJwHNqpIAi2oQaToGci7T/2DjluJNyNnwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/734.png",
+    "width": 1280
+  }
+}

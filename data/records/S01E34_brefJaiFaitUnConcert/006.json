@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "J'avais fait une affiche\navec mon pseudonyme: Amèr de toi,\navec ma photo en dessous, mais elle était\npas bien passée à l'impression.",
+    "end": 12,
+    "heatBucket": 5,
+    "index": 2,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=6s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/006.mp4",
+    "hash": "9758f07ee6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAapJREFUeJwFwc1v0lAAAPAehEEdK6Vru0rLoH19ry39fP0arQELg8HGGOC6OSSaxXkgamY2PagXE0/evOnVRG/+kf5+hMozTJnkq5X1xDuLdLPBNtlKYEAHqavZ8Ne34Z/vyWbRdOVdurKjiTVC5FiaLGnS3ttl/zg0MqOZwXqggyztYATer+Hvr9mnZ8e4VeeoSqjJxKNqlSXLGIGOhWSBXWKwSdD+Lh3YplirTULy593o7/31m4En1ihNYAlTYOhisSnwJx6cW62rED4PgERT24UCVSzEqHx/3vswSW569qkLpgcWkUiUxPObWfbj1SwPUB6AMeK57RJNlqitB1Dkpkl8O45fd01XZFMLEEeTly+uv/z7vP54lkSqqEuCDl1RaDAPtw4cN4tSU1E7ujL1NSw3mB2KwMNbd/BuPLo47/ccw2+gLopWyB5hBIdp9tiLA8OxgGEqUKnvG7JCtNpHWnylpTdqtFLwQg9z5F+q3iJ0osRy+qEftC0XmZ5mm8BoA0hIsKvYJyjIgbdQ3FOI5wAvgTcHLSt/Et09HXRNFSN06Luq2BS5vf8lNFTqWgaliAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/006.png",
+    "width": 1920
+  }
+}

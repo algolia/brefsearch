@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 376,
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "isAgeRestricted": false,
+    "likeCount": 90190,
+    "name": "Bref. J'ai un pote à conditions générales.",
+    "season": 1,
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg",
+    "viewCount": 6382304
+  },
+  "line": {
+    "content": "Amour à revendre dans la limite\ndes stocks disponibles.",
+    "end": 29,
+    "heatBucket": 3,
+    "index": 16,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=27s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E26_brefJaiUnPoteAConditionsGenerales/027.mp4",
+    "hash": "98433da5d6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAeGBcxKiqinqC2srK4s7LAu7rAu7q9uLa7trS0r66TfHSYcWN1VUxrXVmUioSLgXsAHRcWFA0NcWppxcLBwr+9xcPBxcC/wLu5w7+8opuZhGJYuIl4sH5tb1RNj4eBlYuFAB0WFRoSEUY+Pb24t8PBv8PBv8O+vr66uL67ubCjno9mWpxvYoNaT2lJQpqOh5uSigAhGRgeFRRLREPAvLzCv73CwL7Au7rAu7rFwb+qo6GccWWvfm+MXlOVdmyro5uakYgAHxYUIRYVUEhHwLy8v7y7v728wb+9trGwfXh4Sj5Kh19Yi11TYT04Wk9On5aPmpGIADUhHlo2MGJVU8C9vru4uMC+vq+trV1TWywcLSoeMnRQUXhQQ0MqLDMqNIeAf46EgQBnQTxjPDZwaGXHxMW4trfFxMWOio1NRk00JzYsIzA5KjVpQz80ISwzKzaKhIZmX2EAYzo1VzMtbF9bfHNxV0hFaFlWYltdXVtgMiwxGxcaKCQpKBwiIBgeFRATLiksQDs9AFMwLE4wK1dCPEMyLCUWEioaFUY/QU5MUjUwNRwXHFFOUSAdICAWIRwWGygkJj04O1V8uA6joKaIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E26_brefJaiUnPoteAConditionsGenerales/027.png",
+    "width": 1920
+  }
+}

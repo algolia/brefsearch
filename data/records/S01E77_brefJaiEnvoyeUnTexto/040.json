@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 566,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "isAgeRestricted": false,
+    "likeCount": 85617,
+    "name": "Bref. J'ai envoyé un texto.",
+    "season": 1,
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk",
+    "viewCount": 7559587
+  },
+  "line": {
+    "content": "Ma blague passait pas bien.",
+    "end": 41,
+    "heatBucket": 2,
+    "index": 19,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=40s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E77_brefJaiEnvoyeUnTexto/040.mp4",
+    "hash": "a87fa8ffb6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYhJREFUeJwV0Etv2jAAAOD8AkIbO37E8SO2E+JCIDwKZawa06RpmrTLbpu0tkATAoSu62G37bA/PvUHfJfPQ8DHsBsRIDm2kuWJdFb1U91PtdMqS7gWlEeIoksE/BB0PAy7jEItaKb4VZoUuS2veiOXjVw2zO0g07mWqWQqxhQHIfA9hgPNiTNqNhzMy2JeFjeT0e18trqe3ExG87IYD1y/Z1NJFUMEXXqSISPIpMhfzqdT/XisHh++f2v39dOh2d392G/um7p6u16bGFlBOQVeEiMraZHb3f1d29TNbtvW1fPp+HJu27r6/ev5398/X798NoJYQUUEPRFBw/HIpcdq9/N4eDo0++3m3OzbutpvN58+rD++f7deLVIV6RjFNPAoDlSMch0vp+VyWq7m0zfXk+VsfLuYLcZDZ1WmYsOxFURGkIRdLwQ+xYFkKGE4layXcGfUlVXOyFxLZ2RPx0YQEUGCLl5bIeiEwCfhRUyhiokRUfbKWJawVEUJxzyCEQkw7ELgA9D5D39LTx4QHVPFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E77_brefJaiEnvoyeUnTexto/040.png",
+    "width": 1920
+  }
+}

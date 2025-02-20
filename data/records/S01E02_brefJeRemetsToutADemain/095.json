@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 638,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 2,
+    "isAgeRestricted": false,
+    "likeCount": 106679,
+    "name": "Bref. Je remets tout à demain.",
+    "season": 1,
+    "slug": "brefJeRemetsToutADemain",
+    "videoId": "JmghDKkeiik",
+    "viewCount": 8541792
+  },
+  "line": {
+    "content": "— Compte sur moi, tu me connais.",
+    "end": 96,
+    "heatBucket": 1,
+    "index": 36,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=95s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E02_brefJeRemetsToutADemain/095.mp4",
+    "hash": "4e968551b0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBkUktxXFSSfXSrn5zBrJfHsprItZ/LvrHIwsCflpGclpetq62up6K/urjAtbG5q6YAWTcmZj8rZEAukIWHwa6Zw62Tzrqik4d7Vk5LdmFYj4qMsa2vn5uXn5+fu66prJ+aAGdCL3FINGpEM4p/gb6olcOqjc63oVNHPj0jGqZ8Z5eOjqKipY+Rj7Gsp42IhIF4dgBnQC10RzJqQi+Fen20npC3nYG4nIZ0WUmAV0S5jneooJuop6vOzc+spKCMhYWDfYQAZj4scEMuckw6iX5/pZubnoV2sY95e2piZlVOqI57bHWBqKmwysfHwL2+xLy2sqilAGM9K25BLWlCMYN4d7eusYNzbFFMTC0+TjtKXFZYXz1VcZGcqsnGx8G/wb+6vLqwrwBlPSpuQCxkPi6Ac3CBdW9zTkJ4Oi8zLzYyRVk9UWhFXnp5hpbKx8m9ub27tri0qqoAYzcmajsob0MwYkY4XUIwcT0uiko/R0JEKDdLQlZuRl13T2F3tri+u7i8tbCzrqWnAFIdFlcsH2U+K2I+KmlKNmouIY1aUnR3eSo4SjhLYklhfVBid52hqbSzu6qmr6Scob7F0vygCR2QAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E02_brefJeRemetsToutADemain/095.png",
+    "width": 1920
+  }
+}

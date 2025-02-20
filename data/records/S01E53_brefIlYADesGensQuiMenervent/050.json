@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "— Tu va voir, c'est un super passe-papier.",
+    "end": 52,
+    "heatBucket": 2,
+    "index": 21,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=50s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/050.mp4",
+    "hash": "1f7591cedf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwW1P00AAAODGbJCNrS/Xu971rl1fd6XdaxkqbMBkLoziAkXZAkwk06lkuBCDETHqBxNj/AEm/lyfR3iazqcXX/Z3XjxuDSJIn2FlyEtpjSehu+tZsYY5ID4yqwraUOVAloTk/G42/Xp9/+/97d9d0541yulaeNDk/Vq5V/EPm/ykxsGyLGcLO0DqUE0Yvvr26fbP1dUi3dof8WCR7H2cvV2Mx3eXL79fns2P+5O16DTy1xF8gsB5mQlHb36+vvi8zuxIRhxoXSe4n9z8OPvwe/TuVzrZsKJYd/uOGUHtIUQHLhWG45vD3qimsapGy6reMc1pd2+eHF/3h12/Wtfd7ZLb0hkHegXhGEIhtrxO0KgQh4qwwbyj1WBg06TK264TIupBowH1FmY1TLZN/ZGqCiEkoUrquhcbQc+vDlynYxjjupdW7AbRiYgtmXgy5irepPh5CQiBSnzAVolnAQOLSFxBDDptx9oq4SahFcxsiZAVaBSgLSmbpiTAbA7mFCqhYg5kM8XcElCKuqcxkpdCjcbUUJbFfEZcelAoZPJtJv4HjetNkhAI6iYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/050.png",
+    "width": 1920
+  }
+}

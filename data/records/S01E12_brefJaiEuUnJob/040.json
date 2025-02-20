@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 543,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "isAgeRestricted": false,
+    "likeCount": 114614,
+    "name": "Bref. J'ai eu un job.",
+    "season": 1,
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8",
+    "viewCount": 9722385
+  },
+  "line": {
+    "content": "Tout le monde le pliait\ndans tous les sens.",
+    "end": 41,
+    "heatBucket": 2,
+    "index": 18,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=40s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E12_brefJaiEuUnJob/040.mp4",
+    "hash": "da9dd3de03",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBpZ2tkYmdnZWlWVFxkY2k7NTYhFxEgFhEzKiRcUlAxKihhVVNgV1VZUE1oXls4MS4AaWdwZmVuYWBqWFZfZWJlRzEta0tAJhoUJxsVJx4ZQz07amFgcmtoaGFebWZjRT89ADA2VDU6WicsTTEzTEdKZHZXUZFpXG5QR3VTSicaFR8gHiwrKT06Nzc1MTIwLSAeHAAnL1YmL1sbIkklKUs1PWtvVVaSaVyUbWOWbWJJMysPEA0bGhg1NC44NzIsKSUoJiMATExcSUlaRUVVTEpWUVNjYVFQfVhOh2NZjGlflJOaY2pvXl5eU1JQQj03OzYxOzgzAFJTZ3Fwf2dnelJTZ3BvclZUW2tVT1tEPYmOlqG4yp6uvJqrupCismpveDo1NEM9PABvcIGWlJ2GhI5mZnV2dHlPTFV3dHRhUlyCjJuktcKhrbiSorGMna15iZlOTlNHQD8AbW17kY6WdHJ8Z2d1ZGNrPDhAkpqfYEdVd3SAqLnEm6i0fY2fd4iYd4aVaG53Qz09ADY1QWJhbnNzgE9TcjQ4WDQ0PJKeq1ksOYWBjaW1wZGfrGZ3im5/j3mIl2lyficmJ0JInIuRxR78AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E12_brefJaiEuUnJob/040.png",
+    "width": 1920
+  }
+}

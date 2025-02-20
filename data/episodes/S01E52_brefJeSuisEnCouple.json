@@ -1,0 +1,301 @@
+{
+  "duration": {
+    "human": "1:43",
+    "inSeconds": 103
+  },
+  "episode": {
+    "index": 52,
+    "name": "Bref. Je suis en couple.",
+    "season": 1,
+    "slug": "brefJeSuisEnCouple"
+  },
+  "lines": [
+    {
+      "content": "— Viens, on va draguer des filles.",
+      "end": 1,
+      "heatBucket": 4,
+      "heatValue": 30,
+      "start": 0
+    },
+    {
+      "content": "— Où on n'a qu'à acheter des Transformers.",
+      "end": 3,
+      "heatBucket": 3,
+      "heatValue": 25,
+      "start": 1
+    },
+    {
+      "content": "— Ou alors, on se balade\njuste pour se balader.",
+      "end": 5,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 3
+    },
+    {
+      "content": "— Ou non, viens, on mate les trois\nRetour vers le Futur en slip.",
+      "end": 7,
+      "heatBucket": 2,
+      "heatValue": 15,
+      "start": 5
+    },
+    {
+      "content": "Bref. Lui, c'est ma liberté.",
+      "end": 8,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 7
+    },
+    {
+      "content": "Quand je suis célibataire,\nil traîne tout le temps avec moi.",
+      "end": 10,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 8
+    },
+    {
+      "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
+      "end": 13,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 10
+    },
+    {
+      "content": "Quand je suis bourré, il me dit:\n— Bois.\nJe bois.",
+      "end": 19,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 16
+    },
+    {
+      "content": "— Plus.\nJe bois plus.",
+      "end": 20,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 19
+    },
+    {
+      "content": "— Vomis où tu veux.",
+      "end": 22,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 20
+    },
+    {
+      "content": "Après, il me dit:\n— Hey, tu devrais dire\nà tous ces gens que tu les aimes.",
+      "end": 25,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 22
+    },
+    {
+      "content": "— Ah et, montre ton cul, après.",
+      "end": 26,
+      "heatBucket": 2,
+      "heatValue": 15,
+      "start": 25
+    },
+    {
+      "content": "— Hey, je vais vous montrer mon cul.",
+      "end": 27,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 26
+    },
+    {
+      "content": "On se voit le soir parce que la journée,\nmon patron essaie de le tuer.",
+      "end": 30,
+      "heatBucket": 3,
+      "heatValue": 22,
+      "start": 27
+    },
+    {
+      "content": "— Ça, c'est à faire avant demain matin.",
+      "end": 34,
+      "heatBucket": 3,
+      "heatValue": 23,
+      "start": 30
+    },
+    {
+      "content": "— D'accord.",
+      "end": 36,
+      "heatBucket": 3,
+      "heatValue": 20,
+      "start": 35
+    },
+    {
+      "content": "Et le pire, c'est quand\nje me pose avec une fille.",
+      "end": 38,
+      "heatBucket": 2,
+      "heatValue": 18,
+      "start": 36
+    },
+    {
+      "content": "Au début, on est bien tous les trois.",
+      "end": 39,
+      "heatBucket": 2,
+      "heatValue": 15,
+      "start": 38
+    },
+    {
+      "content": "Et puis, petit à petit...\n— T'as pas fait la vaisselle ?",
+      "end": 42,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 40
+    },
+    {
+      "content": "Il s'éloigne.\n— Tu pourras virer tes trucs périmés, là ?",
+      "end": 43,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 42
+    },
+    {
+      "content": "Beaucoup.",
+      "end": 44,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 43
+    },
+    {
+      "content": "— Au fait, on va chez mes parents ce week-end.",
+      "end": 46,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 44
+    },
+    {
+      "content": "Beaucoup trop.\n— Cool.",
+      "end": 47,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 46
+    },
+    {
+      "content": "Et puis, un jour...",
+      "end": 49,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 48
+    },
+    {
+      "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
+      "end": 52,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 49
+    },
+    {
+      "content": "— Ah non, j'ai pas pris mon\nproduit à lentilles.",
+      "end": 56,
+      "heatBucket": 2,
+      "heatValue": 17,
+      "start": 52
+    },
+    {
+      "content": "Il disparaît.",
+      "end": 57,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 56
+    },
+    {
+      "content": "Du coup, elle le remplace.",
+      "end": 62,
+      "heatBucket": 3,
+      "heatValue": 24,
+      "start": 60
+    },
+    {
+      "content": "Des fois, c'est chiant.\n— Nan, bois pas.",
+      "end": 63,
+      "heatBucket": 3,
+      "heatValue": 29,
+      "start": 62
+    },
+    {
+      "content": "Des fois, c'est cool.\nDes fois, je le retrouve sur Internet.",
+      "end": 67,
+      "heatBucket": 4,
+      "heatValue": 37,
+      "start": 63
+    },
+    {
+      "content": "Et des fois, il demande\nà mes potes de m'appeler.",
+      "end": 68,
+      "heatBucket": 4,
+      "heatValue": 43,
+      "start": 67
+    },
+    {
+      "content": "— Non, ça me dit pas trop. Désolé, les gars.",
+      "end": 71,
+      "heatBucket": 4,
+      "heatValue": 48,
+      "start": 68
+    },
+    {
+      "content": "— Ouais, passez une bonne soirée.",
+      "end": 72,
+      "heatBucket": 4,
+      "heatValue": 53,
+      "start": 71
+    },
+    {
+      "content": "— Salut.",
+      "end": 74,
+      "heatBucket": 5,
+      "heatValue": 66,
+      "start": 72
+    },
+    {
+      "content": "— C'était qui ?\n— C'était personne.",
+      "end": 76,
+      "heatBucket": 5,
+      "heatValue": 77,
+      "start": 75
+    },
+    {
+      "content": "Mais je suis pas libre.",
+      "end": 78,
+      "heatBucket": 5,
+      "heatValue": 72,
+      "start": 76
+    },
+    {
+      "content": "Bref, je suis en couple.",
+      "end": 82,
+      "heatBucket": 4,
+      "heatValue": 42,
+      "start": 78
+    },
+    {
+      "content": "— Ouais, ma chérie. Ouais, non, mais profite,\nsi t'es avec tes copines.",
+      "end": 84,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 83
+    },
+    {
+      "content": "— T'es libre. Je t'embrasse.",
+      "end": 89,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 84
+    },
+    {
+      "content": "— Transformation.",
+      "end": 91,
+      "heatBucket": 1,
+      "heatValue": 6,
+      "start": 89
+    }
+  ],
+  "video": {
+    "commentCount": 586,
+    "id": "1m-zfWkcgrg",
+    "isAgeRestricted": false,
+    "likeCount": 94368,
+    "viewCount": 7464792
+  }
+}

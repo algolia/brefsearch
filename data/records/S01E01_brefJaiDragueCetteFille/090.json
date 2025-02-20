@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1400,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 127391,
+    "name": "Bref. J'ai dragué cette fille.",
+    "season": 1,
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY",
+    "viewCount": 10798834
+  },
+  "line": {
+    "content": "Bref, j'ai dragué cette fille.",
+    "end": 98,
+    "heatBucket": 4,
+    "index": 40,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=90s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E01_brefJaiDragueCetteFille/090.mp4",
+    "hash": "baea6817cd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwc1v0lAAAPCeZOO9vr729ZO2YCmlGS0UbYCKQRAUs24DMrAElg33kTEcMUbjjMMlahTnwcMSk13VGL148x/096M2LGPbd+ejcO9h+bx//9+L/p/p5pdB4/LZ6Nur3a2yq/OswNASAzkawDig9ire7p1bf6/OXu6sn/ebv59u/TwKLzaqbw97398fzzp1SxFUghMcIjSkAaAmQXFczl9/mO48qF6O209qxbN20M5nP84Gv5ani8mmZ2gaj5ME8wggAKihY3cL1vOTyqBVupqEPw7Wv0ati7D66Xj7enH0efb4bi6tEpzkGQEBBOPUwLXrpvpuHpwMW6N7pUVY7Xl207UOOo3lfLg8jdp+LsmzGodEBFgIqLHvdJzM62nXLwW9svfIs9uuJRJRSZphs/Zmvxs1/IzEJzCUGSAwNBVVCraxJqTyWF1rFJzATtM0CyBZ5fQYlyq6TlT3XU3SOaQRRmYZyjKzjJZDkomVDCQay4oI8ZBV4kQHRMdEqbnW7ZuJlIBVwmAaUkQ2aNFAkgllCylZliQwFmgxvcJqq1hegSSrKnlNlDFiAIjdiP0Hk6hXIX33H1oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E01_brefJaiDragueCetteFille/090.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Me bourrer la gueule jusqu'à\nJe me suis retrouvé qu'une meuf\nqui me plait pas me plaise.",
+    "end": 2041,
+    "heatBucket": 5,
+    "index": 679,
+    "start": 2039,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2039s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2039.mp4",
+    "hash": "5400934252",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABdUlEQVR4nEXR20vCUBwHcB+aO79zzpznnLm2dM0o7aabOYxQMYgyox6iC1R2oSZFUYJQVFRE9dB7Lz0k+N5fGZtF3+ffh98tMhBGkiRZlgnBmiq8SS+byS1Xi86Mx4VGMUYISZIkhZURAMAYE0JYnKUGjXx2qlbbu9ncf/KPl3bPvLxjmSbnnFCCAQNABCEEKDBxNT5sGOPZCX208dlqfvjN+ZXtWTdnmwZnjFAKgBBCIQAghHDGbdPMT+fSlY3O2nbv9KCxtVtw3IyV1DinAQjEPxCcW6a5MFtYqW81ajvfdxfX537Zm8mmLV3jikIBgmX6IyFKqeA8nRqaKzjrqxuvnfPuw8XXfateKWXSw4MJoSgUh9sHAEEAEoLZqaFy0X269G/ODh+v/O5bu14tjf0BOczvlSilmuC2lSwX3dvTo/fOSe+l3X1uL5ZLmRHb0IUaiyV0nRAS6T8hGo0CklVFEYwpVAm7A8VEF5ypsf59LMsCgB9W4jv5ynrOgQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2039.png",
+    "width": 1280
+  }
+}

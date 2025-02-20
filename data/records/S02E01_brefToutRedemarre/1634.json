@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je sais pas si elle a un toit\ndans la tête en ce moment.",
+    "end": 1636,
+    "heatBucket": 1,
+    "index": 540,
+    "start": 1634,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1634s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1634.mp4",
+    "hash": "67c385ac3a",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjElEQVR4nCXCWW7TQAAAUDvj8XjGs9kz3uM9dR0lUFtJVGK2IqiaAlULQuIH/lCRQEKoF4BTIHELTsG5+ODpGaYJ4GwmXRT5bqVJrUitcKNxo53jlLVF4LlIukhgmzoQQcsAAHJk9VW47ZPrMX63id8M4ftteH0SbApvv9BD6Y2lmFrehXjhAQMAwBzYt/GDZXy+jvZH6uokuH2W/zgUZzHuFVmnbMzosSZfH8s/d53hAKBctGzj0z4e2iDy6ash+nU7/jwUN4VzWdGplqvE7RT+/iL++/utUVN7lXnj/ep8LB/W3lEqd63+dmi/7KLXOXqS4acNnyq+L9kmI9McG71Ay7l3+ai/29cXc9EmMvbZkMvnFW8kVi6MmHPR8ZcdO83pmFJDQMgJ3ub+x4VaZ0oLkilaanovYwnHicAhxbucft7xqw6fNdwwZ7ZpQmBYNadlIDQnc5/VgSw0SwQuFMslWSjyYfQ+TenNyjdME/xvmzMXWo4NKbIFQVoQAi2KIEWQIUsRe9XkqSD/ACboMe5sUI49AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1634.png",
+    "width": 1280
+  }
+}

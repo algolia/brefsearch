@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "isAgeRestricted": false,
+    "likeCount": 164024,
+    "name": "Bref. J'ai fait une dépression.",
+    "season": 1,
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E",
+    "viewCount": 9241801
+  },
+  "line": {
+    "content": "Au sous-sol, il y a tous\nles trucs que tu as enfouis\net que tu n'as pas envie d'affronter.",
+    "end": 47,
+    "heatBucket": 1,
+    "index": 16,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=42s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E80_brefJaiFaitUneDepression/042.mp4",
+    "hash": "56d7eb4df9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAP5JREFUeJw9kMluxEAIRH1wN1QBvdizODOKNDnl//8wYpyEE0L1qIJl/atSChRQGDj72OfWo58TFZVaSynrui7/QK3VkGoqH7f76/kc0SmgQhW1pjoBVS2lSK0q4jSnEfw8ju+vV/d2AlDVKlKllHUxECKntYNOC/Otz4zkDaIjevOAKETTwWmGTKki9gaS8XDztw7XsWej6iDBdDBQJR3zYpqbh0eWx2VsH9t+6SPMerTZ50JF7gMIng9xWovWWydtRDvGbKCDQbrFIiJhPs1G+kJqxXtFi0bwNvfnfo137DCDYoGiR7uPMcx+L6GHhVsY/bjcHte70SCaHwd/AP8PEotDJt82AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E80_brefJaiFaitUneDepression/042.png",
+    "width": 1920
+  }
+}

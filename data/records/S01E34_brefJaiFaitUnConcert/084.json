@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "Le serveur m'a dit:\n— Oh la star, elle paye son verre.",
+    "end": 86,
+    "heatBucket": 3,
+    "index": 35,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=84s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/084.mp4",
+    "hash": "b9574a456f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA/JhY+KiAzHxY9IxNQHhZ8Ny9uPxs7KAhHKhpxRTOSYEp6UDSaZySeayWXZh+cdigAJxgSLx8XKRkTMx8VTSsfgj0zYjsfIRoHZTwusHFX1Jt8vo9zmW1Fz5xFjWcfWjseAC4dFjAeFTIfFkYrHmVFMXtDNWY9IzYoFlc0J4xdSLmCaq6CaplvadaiU5t5NG9LNAA1IxpGLSJLMSVcPS9+WUaAUEBrQypZOyN1STmAUkG/inHGl37Vol7ruUCYgF+jjGYAQywhTDImWD0vXD4we1ZDiFZFXDUoUDMjf0w6d0Y1uYZx4KqKtYI2wI0uaVtTc25zAEQuIlI3KlxBM10/MIRdR5ZeS04iHB0MCkgrH29DNK1zY5ZtWkIpIkofEVJKTnJ0hAA5JBtVOSxdPzFTNiiJX0mQXko5HRgIBQQoGRJPNCmMZVVvUEMyKCUxIBhEOjlcX2wAMiAXSS8jWjwuSy8ieE86fFM/IRgTDAsJMiAYVjgqbUo7OCghMCYiJx4cJBoXLCIeACsZET0lGlM2KUQqHWE7KHVNOCkdFg4LCzQoIothT0guJBANDB8YFiEZFxkTECAYFVxOeSUFydvFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/084.png",
+    "width": 1920
+  }
+}

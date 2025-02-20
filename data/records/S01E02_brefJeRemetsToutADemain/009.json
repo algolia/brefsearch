@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 638,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 2,
+    "isAgeRestricted": false,
+    "likeCount": 106679,
+    "name": "Bref. Je remets tout à demain.",
+    "season": 1,
+    "slug": "brefJeRemetsToutADemain",
+    "videoId": "JmghDKkeiik",
+    "viewCount": 8541792
+  },
+  "line": {
+    "content": "Depuis deux ans, je dois résilier\nl'abonnement internet de mon ancien\nappartement, je le remets à demain.",
+    "end": 13,
+    "heatBucket": 5,
+    "index": 2,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=9s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E02_brefJeRemetsToutADemain/009.mp4",
+    "hash": "8a2db53a9f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBTTEd8cml9dXIeKEsHEzoSJVsRHDM/Q1minaKWi4M0KycsJCFZUUtdVlFMR0MzMDAAVk9Kk4mCkIeDKzBFDxEkFiJNExouOj1RqaWqYFdRPyghakg+Tj85WFNPTkhELSopAGRbU6icl6ebljw/VRMTJBobLhMYKDk8S6Wjp3NmX2BANodbT2lUTFNOSktFQSclIgBxZ1+onZi5rKZMSE4JCxQYGBwWFho7PEaenJ9rY1xfQjl+U0dnUUlOSkZFQDwdGxkAe3BooJWQw7WwWVJSBwUKGRcYFBISPDxDj42QJiYmKyMgYUE2Ykg/NDIwOTYzEhASAH1xapyRjMK0r2hgXggGCBcUFRIQEzs7QImFhikoKBsbG1tSUDUxMCEiIigoJw8OEACAdG6RhYC8r6p2bGgNCwsUEhMQDxI7O0GDfX8kIyEyMjNgVlQ/NTIgISIgICAWFBYAgHZwgndwsqage3JsCwoKEQ8QDw0QNDQ5hX5/Ix8dRURGdFJJb0o/JyQkFxkaJiQlAHdtaHhuaKaZkoB1axkWFRYQEhYSFVNRVJqPjDctJiEyJT0wIUQvI002LzcqJjgzMP5YfHsDcmN0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E02_brefJeRemetsToutADemain/009.png",
+    "width": 1920
+  }
+}

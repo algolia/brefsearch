@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 415,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "isAgeRestricted": false,
+    "likeCount": 80337,
+    "name": "Bref. C'est la merde.",
+    "season": 1,
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc",
+    "viewCount": 6082963
+  },
+  "line": {
+    "content": "Je tenais à elle, comme je tenais à ma\nvieille paire de pommes que je ne m'étais\nplus, mes DVD que je ne regardais jamais\net ma Nintendo qui prenait la poussière.",
+    "end": 55,
+    "heatBucket": 2,
+    "index": 21,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=50s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E69_brefCestLaMerde/050.mp4",
+    "hash": "3c485b6cc4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gALBwwSDRMWEBcyHyJrT09oXGFjVFd1Z2swJy0XDhQzKS6EfoiMiJB9dXp0bHBpYWQACAULCAULFQ8WUTU1fVtZfHF3ZVRWSjk7UTs6g2VfWUE+Xlhgm5ehi4OKgXl/c2twAB8UGEEuLlZBQH1jYXVaWYmAh3pyeV5SV2BGQ2hLR2ZNS3VobaWhq6mlrZ+Zn4N7gAA2JSpTPj9rVFJ1YGFrVVOUjJWop7akoa5oTEtuTEh4W1eQfX+zsLm8ucGyrraRipEAHxYfIxchJxslLCApQTE3XlZfbmp0Z2FrWD8/YkE+dFpYa2NreHaBn5ylo6CojYiNACEWHyUZIiUaIiQZIiEXISEXIi8mMURASiwjKkMrKl1DQE9BRjo6SU9NWV9gbGtnbQAcExsdFBseFBwfFh4fFh8iGCIfFh8yKjcmJTBBMzdsTUdiTEtRVGRKR1RPTltAQE0AFQ0VFw8XGhIaHBMbHRQdHBMbGRIbIhgjMCo3SkdSc2JjbF1fSUpYQUBOLS06MzNCAA8LEhELExQNFhUPFxUNFRQNFRgRGhwUHicfKkE+Sl9XXlRKUEQ7QjI0QzI1RCssOrCMfbtDO+Y5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E69_brefCestLaMerde/050.png",
+    "width": 1920
+  }
+}

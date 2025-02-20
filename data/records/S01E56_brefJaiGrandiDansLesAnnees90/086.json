@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "isAgeRestricted": false,
+    "likeCount": 113908,
+    "name": "Bref. J'ai grandi dans les années 90.",
+    "season": 1,
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8",
+    "viewCount": 8859528
+  },
+  "line": {
+    "content": "Il y avait plein de gens à la télé\nqui faisaient des blagues racistes\net à qui on disait rien.",
+    "end": 88,
+    "heatBucket": 4,
+    "index": 29,
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=86s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E56_brefJaiGrandiDansLesAnnees90/086.mp4",
+    "hash": "faba925e85",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwVtvmmAAANBvmZp2tlZrsaBYEFRuMtQC8iGFCsg9tVrbabysbnEmu3T6sDTZw572sJ+9c0Cg99jzLJfLyFi+VcVPM1mJrDqqWj4roGfnl7mC3KzPk2g97MawzTVEoKGIiSMKLxhtibwsZ1LvmgQ1dhw0jxRzF+l0NpcthKb5aeyF5g1VE4BHYwGLKbIBoeVLXCQyCi9aKsSLJbyI9Nkmf0VqdWwbiI92D3IMSFrliK9INYIm+UE/OsweZMUFR1WaZN1253tgfY2HK9g4hOifpXDbaYGYq/hMWb+GFS7su4vXn3sIfXAithVvO5ut+sRCw8ZCfh/g/zbsYfMA1qF9L131WPG0MTHt6Wa1vTETcNIV1buXL7u5hu4sfPr+4puL/V1Svz4nwFVlXZI8w3xa/PDDpyD6MA5GPdnX9di7HY6ueadehlju2aj+nrIvkxZ4e1zCMcrXessweLTMiW2/7p7399YucnbxcD6wWgQxoEof9c7KlNYWAtJvUkepY6JSF0m6hhEI2hC6rsQIniRsQ2di6JHcHWlqYhjdNmQo+j9DYVttOyNP3AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/086.png",
+    "width": 1920
+  }
+}

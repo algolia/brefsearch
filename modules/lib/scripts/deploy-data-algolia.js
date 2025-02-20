@@ -12,19 +12,25 @@ import config from '../config.js';
   const settings = {
     searchableAttributes: ['unordered(line.content)', 'episode.name'],
     // By default, sort chronologically
-    customRanking: ['asc(episode.index)', 'asc(line.index)'],
+    customRanking: [
+      'desc(episode.season)',
+      'asc(episode.index)',
+      'asc(line.index)',
+    ],
     attributesForFaceting: [
       'searchable(episode.name)',
       'episode.isAgeRestricted',
       'episode.index',
       'episode.videoId',
     ],
-    attributeForDistinct: 'episode.videoId',
     distinct: true,
+    attributeForDistinct: 'episode.videoId',
+    attributesToSnippet: ['line.content:15'],
     replicas: {
       // Alternatively, search by popularity
       popularity: {
         customRanking: [
+          'desc(episode.season)',
           'desc(episode.viewCount)',
           'desc(line.heatBucket)',
           'desc(line.index)',

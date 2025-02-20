@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 325,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "isAgeRestricted": false,
+    "likeCount": 90460,
+    "name": "Bref. J'ai déménagé.",
+    "season": 1,
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE",
+    "viewCount": 7948865
+  },
+  "line": {
+    "content": "Mon frère pleurait dessus.",
+    "end": 92,
+    "heatBucket": 1,
+    "index": 38,
+    "start": 91,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=91s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E39_brefJaiDemenage/091.mp4",
+    "hash": "435e95e77c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCdmJepo6K4tLLCvbu9trO2rKW8tLDPyciTi4otGxc3KSZCKydYTEm0raupo5+akpEAnJOQu7a1w728zMfGyMK/vLOrurKtyMK/tq+sf11WgFZNlmtfdVxccXWMop+krKajAFlLR8bAv8XAvsO+vby2s762r8O8t8bAvtLOzbapp3VMQ1tBPH19kXiCn3uBmYiKmAAYDAqjlpLRzczLxsW/ubaom5W5sKrIw8DIwsDMx8aLf35DQ1Zsd5lyeZh3fppxdY0AS0dLSz480MnHx8PCf3VzglhOn350urSxwru6w727wb7BYWiHV2CFY2qMaG+MX2N8AI2PmRQPFpCFgKypqFNAPINXTIxhV6iZlcC8u763tbaloGRohVBZfUtScVJZd0tQagCWlZ1DQkkyJiO+t7WeiYRwSkF+VU10Y2Cxrq2+tLCYcmdZXHtGTm44PVhHTm1GS2IAg4GHhoWLMCgmW1FQRD4/TTMtPSomFxEUJiMnlI6OfnmHTVV4PEJcPURhPURgQkZbAHZzeH16gHRwcBIKDA4JCks1MDQnJhQSFw0KD11YW3F0iDxEZDc9V0FHZT5FYTo9TAST0kSHter+AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E39_brefJaiDemenage/091.png",
+    "width": 1920
+  }
+}

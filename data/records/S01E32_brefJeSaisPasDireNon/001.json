@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 699,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "isAgeRestricted": false,
+    "likeCount": 94559,
+    "name": "Bref. Je sais pas dire non.",
+    "season": 1,
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4",
+    "viewCount": 7987391
+  },
+  "line": {
+    "content": "Bref, j'étais au supermarché,\nune femme m'a proposé du saucisson.",
+    "end": 3,
+    "heatBucket": 4,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=1s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E32_brefJeSaisPasDireNon/001.mp4",
+    "hash": "b680a48343",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCHgnuUj4ejn5Weloq0sKeyrJyyrJqah3aaemOljnytomS0pVCvlmG0rYGMhWtybFQAramgv7uvyMSysKaZtK+nx8K+z8TAqp+FlG9dsZV1nIxWqJkmrZpfw694bVU+XlA7AKSgoJuUkYV7c5ePhcTDvr2yn3lpX2FaWJl9dbWmnYyEdMrCpcfCq7aqljUoKCYaHwB3Ylw2JyNPPjOMgWu5tqfLx8JDOz9sZ27W1tbQz9M7Mjyym4fBr5aKfHQZDhUTChAAq5yToZySrqeYubSYvbikopiHFwwPfnp/zs7QubW2JBofiXxutq+hiXx0Fw0VJR0jALivn6WReKqZfb22nLy2paOicRQLCHhzeczMzZqVmhgOFWpaWKCCdYFFQRsJHF1LTwCrnm29s6O9uKu6sZG3sYnDv6s5LjOFgIPCwcKOiowNBAx4a17EtqCdhXosHCyAcWkApJiLsqyinIx5tKaYururtLWngnBtiH+F0tDTiYSHHxUbenNszMe3u7iqT0hSmpWOAI6AeJR+aqacjbC3haiPfZRPRnU7NzozPVpTYFVOWFZHR5SKgcvGtqafkzAmM2VeYBSu3hmF6I+DAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E32_brefJeSaisPasDireNon/001.png",
+    "width": 1920
+  }
+}

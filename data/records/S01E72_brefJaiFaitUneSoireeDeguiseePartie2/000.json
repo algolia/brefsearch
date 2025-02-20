@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 347,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "isAgeRestricted": false,
+    "likeCount": 69621,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU",
+    "viewCount": 5660756
+  },
+  "line": {
+    "content": "Il faut qu'on parle.",
+    "end": 1,
+    "heatBucket": 5,
+    "index": 0,
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=0s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/000.mp4",
+    "hash": "048462a515",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAABNJREFUeJxjYCERMIxqIALQXgMA0mQGwY/5N7cAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/000.png",
+    "width": 1920
+  }
+}

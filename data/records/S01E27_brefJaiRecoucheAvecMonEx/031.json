@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 351,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "isAgeRestricted": true,
+    "likeCount": 59466,
+    "name": "Bref. J'ai recouché avec mon ex.",
+    "season": 1,
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw",
+    "viewCount": 4228008
+  },
+  "line": {
+    "content": "Elle a rajouté:\n— J'ai un mec.",
+    "end": 32,
+    "heatBucket": 1,
+    "index": 15,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=31s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E27_brefJaiRecoucheAvecMonEx/031.mp4",
+    "hash": "ee7edf1c5d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBILCJFKyFMLCF+XE+unJO+uLLIwr3KxcCTg32CYVd7YFehmJPKwry8tK2vpqCimZQAOCAVTDEmVzEkeVZJiHRrwbewpqGdeHBunWxcxIhxrXFbW0U+gn98hn97mJCLraSeAEAmHGI+NGY9LmI8LE01LYZzbF5WVD0xL4pdTbWAa5xsWk40LBwXFgoHBlVQTLqxqwBdPDF6TkNzSDpsSTpSPTVjUUlJQD5WREGQYVObaFeLX1BxTUMvKicMCwpXUk67sqoAflNHfE9BflhMcVRIPSoiVkQ7NSsqPC4uiVxNkGBRom5cRjEtMSorGBMTVVBMuK6nAJFwapF6eaaVk4JyblRGRmpcW15TWSQdIEcwKHZOREcuJyIaHDIoKiYdIGBXVbGnnwChlpyonqe0q7O1rLS1rbW+tr/BuMNaUlofFRNDKyRBMjAvJikrIiQgGBtbUlGkm5MAi4CIk4ePnpKcppulqJ6praOvvLS+raOsOjI2gXJzbmNnHRUXKCAjJR0gOzIzj4eBAHNocnxxe4l9hpeLk6KXn6iep6idqa6ksWphbKGapnBpcRILDCYeICceISgfIWBXVUHOq/il9gMoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E27_brefJaiRecoucheAvecMonEx/031.png",
+    "width": 1920
+  }
+}

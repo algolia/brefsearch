@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Billy, je t'aime !",
+    "end": 2134,
+    "heatBucket": 1,
+    "index": 703,
+    "start": 2132,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2132s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2132.mp4",
+    "hash": "44a1a4e593",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABW0lEQVR4nBWPW0/iQBhARzoz321KpzegtRTaQqmgRFzcXS+oJMbs//9FmyYn5+m8HGV1YHVANhDQDnWIwZT0COuItKfRYsdmEgRqolXEdsqQh1B4rGJcp7TOqMtok3M/592CtzNapVhEELM11ipPNiabOSg9rBK8L2Qz4/2czhUdSj7e8rGi/YI2ObY5ZqFVEw0I4BDWMQwzOpZcp7Rv0ksnTzX/bvh5Tacl3ZcUMjoCZQFuDKoACbHy+LTkJqftMv7cyt+WX1p6HeHXjn2I6gbVzI0DIUNgSRkSoSbn85rfWnzr6DrwpZePXr7v5LnhWUQqc1BEUCc07uacea5yflzSueGvXr4G+dzJe8/XQV4aeChBTR3mkVSJdHO3K9yvlXus3fs2vPTuTyvXQX4O7ucgH737d5qfVqKM1mANo5mS8WISZ1JnCm8Lb+ehufWmTswqMW0Gx3658PQfQdQiiY0KzAEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2132.png",
+    "width": 1280
+  }
+}

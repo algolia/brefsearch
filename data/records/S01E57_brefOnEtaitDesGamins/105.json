@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "isAgeRestricted": false,
+    "likeCount": 112972,
+    "name": "Bref. On était des gamins.",
+    "season": 1,
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY",
+    "viewCount": 6343137
+  },
+  "line": {
+    "content": "— Allez, viens.",
+    "end": 112,
+    "heatBucket": 1,
+    "index": 32,
+    "start": 105,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=105s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E57_brefOnEtaitDesGamins/105.mp4",
+    "hash": "6028e221fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwdyltPm2AAAFCe1rqqDLVYApT7V8oKWALagkWg22ilsOmqrl6oNUq0NbEmTWazJUuWJjW6xblsy562v7pk5/lA7dL8MCr2HfzSRNoaFunsiSf++TF9mN4YmiyQmAqYAk0sIzBLYLkFGIpAZtgC/Roal2e3K8K4tz0I9Z/3H79ORhVdBnmsQBMSR+HZBTKHZhEYCpjU1SZ3aS8daMiOVbzptq7b5uPt+MtkVKuUzXJRIDGexFh8eRGey8w8haLCXP8Vc+HRB2t4pFGdmjiIjMfp+Nvth6BuqhIvCxRD5LBFJJNOp56koFCEz738xUveVTlDEuzKWlSvfb/79Ovhs1+3V5Uiz1GKBCgUAXgW4Fmoyc8mLpm4tMiy8ygvKVXV8OI4/vv73rSqgKdxktiwrOPQeR+HZ+E69IJKn9h44lANTSDyIEeIDPu8JCl3k7Hv+5JimBuNRrTfeRcf7u7ttpqQS6a6FnbmMkMfGIr8DOXkkjYa9GzHj952w53ToH3qv+m5weGqs7VSbUAOOXNUxc49JjYZU5URlOPFlSRJXu8lW/v9//u4Hh45zY6+HpR07x8uz2erDPGq0QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E57_brefOnEtaitDesGamins/105.png",
+    "width": 1920
+  }
+}

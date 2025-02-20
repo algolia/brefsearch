@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "Je sais même pas pour que je te parle.",
+    "end": 65,
+    "heatBucket": 1,
+    "index": 22,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=63s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/063.mp4",
+    "hash": "f7ec1ccb4c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwVzVtTElEAAOB9kd0998uevRzWZV1AUHDVUJiYoo0SkqRctSYdS4GxbIichprebKZe+9FN3x/4jJPHh8uLT/P8w+L19SKf3OWTb6ez20E+3u38PL9dnt00StXEDwPuMkiRhY3D1v6guXX15Ohu/H6WjX5ffr0/ny9fjC/32tfZeHkyQ4BL6jHscMgJoMbTrXS43rg/nk6zo4Ny7c+7z3+n338cjD6221+Gp78uFgJLzb2Soxlk/4fdtcp2ULrJXvU3W3XpzXuDq97LbqXZL2+M0r23nWfD2vab5k6/2mCQM0CMzTDeiSoPw8SH3CciS2pFEWDIEjd8EK+vcrebbLSiqiLKLkBsYSOUvhZeN6nn6f7zYpy6oRaBwEIylcb1WOpIBj5V5goorACfScPnLsdCQfao0pi0e4n0FVXIJqHUnWrToyrkviYOB2RVeGVXG9DGyCYRdTQNImdNYMEgM01IICupIrKIg6VLnETpmqc1EwYwEbOxRgJCD6MAQwosZJkQWKhQAJYJGeQeczVXHmYC0X+m1ULvZ0jRvAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/063.png",
+    "width": 1920
+  }
+}

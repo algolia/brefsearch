@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 380,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "isAgeRestricted": false,
+    "likeCount": 79046,
+    "name": "Bref. J'étais coincé dans l'ascenseur.",
+    "season": 1,
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI",
+    "viewCount": 6207773
+  },
+  "line": {
+    "content": "Connard.\nSoudain, j'ai eu envie de pisser.",
+    "end": 65,
+    "heatBucket": 1,
+    "index": 30,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=62s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E13_brefJetaisCoinceDansLascenseur/062.mp4",
+    "hash": "91d8f1bcd4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXxJREFUeJwd0MlymzAAgGFdYoQAIYEQm2QEGMxilsRgbLfpOO04mVy6HXpKX6DTR+gj9KE77nf/Lz/YxpxiU3DW50mTirkpr8fpaZmu5+Xz5f2Pl6fraRrLXEW+4MwnGLi2xSimGHXbcqzqQXgfh3rp29Owu0z9p3k4d9UuS5LAC1ximwgIZhPbcB3y9uvv17c/dV4s++Mm5pWStRK7bN0okUY+oxhbyLEQSDmtIrctNqfLt8fnn+39h+fvv499V8pQhVz6jLvEZ1RyuvbILSC2zYjRlNuynev7x12zlyI5981U5bWKx2wdMhq6RDLbIyaCEBQ+zTiRniOk6g4v8/mLjNdQ11Ya1CDUdUiwFTi2T3FALMfUgfafjWChsm55DWSp6zoyDGzd1sXcI9gyDYQtAyF4d7cCqxsNQq1TIo0jAACEmmkapmkQG4ecKyFEGPgeIxhDCAHGmDMvCuKpbt71fa6KNMnqohrb4aHfH8bD6eF4GOZmU6cyDbj/D2PEM74qJajqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E13_brefJetaisCoinceDansLascenseur/062.png",
+    "width": 1920
+  }
+}

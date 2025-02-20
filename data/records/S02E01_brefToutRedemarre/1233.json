@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "On a gagné !\nEt un des pires moments de sa vie.",
+    "end": 1235,
+    "heatBucket": 5,
+    "index": 392,
+    "start": 1233,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1233s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1233.mp4",
+    "hash": "3ddb96c200",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABt0lEQVR4nAXBaU/aYAAA4CLt2/s+6AmUFpFj4xhXWQEd4AANQ1I1RiVxiBqzmIwt7ko2FxJHspgs+7JP+7Kf4C/c80AkApMAZhDYoVAFhQkAWAJlSZQlAIUiDAoTCExhgMQAgyE8iUAiRXA4lrfEmZ8YPDUTEl2wuIzJ2yoXk9moxBgCbQi0xlMRjhQoHMpZvOcK7bRcd+V+XvFt+WbYDKrJVk7rFC0/q3kptZKMFGwpGxVdnYV28sq8JV+1+b2CePvKnpSSQbu7CDYvdnPHL5LT7fRByx178VE9tl00/awGbaXFlkPX9LVD3/n76+3RS78SdX7fLx7/fX132gw2U5NWauQ5w3qiU7QaGQ0qxFgdR6VQ6M18//L+x3B26Y32vz8sf/55WH27uBkY86519Fzfqxn9ktrMKFBCIWV4reZod8vb8uEse3Dujs+ax+eD68Vy9fluol83wIc+/77HnRSxnQ0csgRCRMJBMf5lOvCqpXJ5q9PsPeuOx9Oz1cfZp111XsWuGtTrKhmU5N46DZEgDMKhTISumKQe4UyKc2kmFo3bmppXmQ0xtC4jSQlOKeCJaxoc/h/531EXz53FmQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1233.png",
+    "width": 1280
+  }
+}

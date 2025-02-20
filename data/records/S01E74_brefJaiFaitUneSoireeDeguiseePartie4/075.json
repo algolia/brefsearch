@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "À quoi tu sers à paraître\nplus heureux que moi ?",
+    "end": 77,
+    "heatBucket": 3,
+    "index": 27,
+    "start": 75,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=75s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/075.mp4",
+    "hash": "2d399de581",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwFwcuOk1AAAFBWLa2UAYZXucDlzS2UVwu0MtBSKNpYGSeZRJNmNpP42LowMTG6mY1x40b3utHEpf/gv/gZeg4m86oD3dRPMyvIVHthzNezFAE90p3UDW2ADtn2ctV2ebu0FwtUYwILTMVuV83DsN6rji/HcyOKDNeDtg8RnHoVdDt32Ua7SHZT1GM6sAQWbNP60fX3i+BlAkuaAgzJspTAkLylBiUq7ut+IJqpuXqweYch3XM1tJoXaf7eLL5Kag8YgaMEjhKnjGRKZmLkmXcqqrt9/7M7/cZs6DbZtk6qRA1V7ZZzXz/2541qbDX7FIe539X7j8f+29XzP8nmU3/9GZtySuxEu/k6lz2e39Ns4fDipYWeBUmhqKvDm7e//r26+7uMP/hatwl7jCZ5JMLaTspZ9bR9kaJyNCQcHqw1mz8TIIyubr4cnvwwlOMuu43tCqMJ2mOnlZWUs7KJSomVxvhkhJM0QU/GjHouWazgy7PEqo7VzUXYYGcj0mREH1jnJD8aEsPBGB9O8MEEHxDUPVrngA+M2VTRWR6yQGT0/0rtTyPDdqTOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/075.png",
+    "width": 1920
+  }
+}

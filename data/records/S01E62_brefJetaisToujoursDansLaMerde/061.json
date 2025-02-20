@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 211,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "isAgeRestricted": false,
+    "likeCount": 66207,
+    "name": "Bref. J'étais toujours dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA",
+    "viewCount": 5199983
+  },
+  "line": {
+    "content": "J'étais dégoûté, mais\nc'était pas la première fois.",
+    "end": 62,
+    "heatBucket": 2,
+    "index": 24,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=61s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E62_brefJetaisToujoursDansLaMerde/061.mp4",
+    "hash": "c5adfcf89b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwVtv0lAAAOA+mxiNgQlsY0K7eSELE2RQ6N2Wlp5eTs85bWEtlDrczIRdgnEqZkJmvMX4YPwHvvviT/CP+X1UOhwmcXz07PAoTevVx7du3JQ7PDF7xHE1WQGGaZmg1zVUSUEuhCagfJEdRfF0MnEkkclkd5kdLLYX44PpKFYlBUOPQASBDTR94AfEdamxZ0f9wdiDjwrrEr3JM1tytfJp+vzqfKbJoo9xgAhxIQRWEg1DhKj5/FUU9hu7tXymUF7L0YXtSvnJBHkhmnFsAG0Pu9CHCNtuOkoGvk8t3r7rY1JcZ7J38rkszbInreZZp33K8ZecsOiZLz3HRg6EwE5HyUEQUhdn59j1NnKlzO21UrFR3ztG8fc3v/6S8Q9Bei8pr23DckwLGGYSj0ISUKezmSqr9NbORq5Yuc9XH2CSfvv65x9Jf2r61YvkwhDlntY1uvowGgbYp1bLa74tlja383fvtfZqroIVcHmy/K12Pzro83xyqAucIkiKJAfEd2yb+rBcsU2uXKQflhilVu0J3n7nGEZfNP1aB6vQIobA79cbrUbTAZaqPP0P8KN/hzbchNEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E62_brefJetaisToujoursDansLaMerde/061.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je sais même plus\npourquoi on est ensemble.",
+    "end": 897,
+    "heatBucket": 1,
+    "index": 293,
+    "start": 894,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=894s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/894.mp4",
+    "hash": "8e6803e5b0",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABa0lEQVR4nF2QzU/CMADFuyFRNMExGVvbsTEGpd3aImPA+NAZJ35gEIkJUaOJGg969uDVP91w0ERf3uHl924/AABQlD9dE1VRVWVjQ8nllP9vq2EyvxJzmCa1bOKdHtRnh82JhEMBqWOwernLrX1mclIRzAxaFohEtSfsbOTdzILbBX9Y8vfXk8s0eF3EH6sU6nvjDk571WHHHsfOIHKAZCgK0NHAvZqS1Ty8n7PHVff6gn2+ZF9P56FjDdpwFOGBREnHjqUN9hnqBzimqEPgadLIzrp3s/A+q78v+28Xw8SHE4ISjrsC9ySOBAaCQNm0mGsGNSg9ODumi0M/Jq5HgudF2ieerpl+DUoGBYW8BYGkSFDYbuLQtcZtZzn15wfUI+0tHFRqtGi6Wzre1ioWLBdLu0a5BBysO1j3XSNsmDFHPW6OYoLqtGBUCyVU0KyCZmzuaGVNc227WNTW1v9lbf5n/cKcqtoY5fP5b68aOaxxvS9pAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/894.png",
+    "width": 1280
+  }
+}

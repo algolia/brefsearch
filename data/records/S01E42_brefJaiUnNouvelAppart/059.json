@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 514,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "isAgeRestricted": false,
+    "likeCount": 91912,
+    "name": "Bref. J'ai un nouvel appart.",
+    "season": 1,
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg",
+    "viewCount": 7721508
+  },
+  "line": {
+    "content": "Je me suis demandé si je voulais\nvraiment entendre ça pendant des mois.",
+    "end": 61,
+    "heatBucket": 1,
+    "index": 21,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=59s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E42_brefJaiUnNouvelAppart/059.mp4",
+    "hash": "b0e19344b3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwW9T0nAAAOC98k6M4cb2g7k/wAbZhKkbDtcmtoImMBWP4QT0WCczwRZGgJ2HlHcdZ3ddxguPq+tVd/UB+oY9D3SgZ89ta9R2b9+2P3ltr149LhmD8/b082T29f7h7st0cnd91lZwYgMFKQSDyvqzq7PWZDi47fW+jUfD165t5D++6/1+mP358XM2vGgauprOZOWnyqqUZFhIy6jF50Zlt6or2cZeuVku5ySpXiy0Du2aud8/KOR4jgSkKEg0QRFoENI1PUYxFIb75+Yi6GI6FhHIJUMUjrbFxsv1kWOc5FJWfi3J0si8jwmikCSILEXHSTLoh5EFP0dS6UT8dEcft4y/U+ffL/f+pvL92uyfbFIowgIMIkCYIchIOIzBAfQRjC8GU8sreUXRZFXbEN+7pe6r/GVNHta0CEAZHIdCKBZCMAIDGBwIzC88jrIxhqUIhqVjPMcnoonMqtAqyUdb6a0otUsTEAcAFwI8TSWjjBDn5BV+jWPFJ8uqkOocN/ruaddxxh33xrVcdd1cAhDu8xGw336hdmvmm8NCxzIurJ3L+r5nm569N2hWPziVK6fq2UXHUK3tzf8eeG1KkGJ0IAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E42_brefJaiUnNouvelAppart/059.png",
+    "width": 1920
+  }
+}

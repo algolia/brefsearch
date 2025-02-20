@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Ensuite, tu l'enlèves et tu recommences\nla petite artificine derrière.",
+    "end": 1033,
+    "heatBucket": 1,
+    "index": 328,
+    "start": 1030,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1030s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1030.mp4",
+    "hash": "f48c647dc2",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABv0lEQVR4nAXBTW/SYAAA4F7UDFj5hvK+ffuOlkKF0Xa0FCjUFYstX6Max0ebGMBNk+HcDsqyqJnRxOyww87Os/Piwas/wp/gyT/i8xDzl9Onvtvp71rdZq0lCcUsBZIAAzaH0lRiIxwh4/FUOESSm4FQ8F4gSPz99+fX7+/e6fL8+uLo46l3snCe7e+NHedxp+e74+eTVlszRRYzSJH4NITE+v2Lz1dvxp5z8W724XxycjScL+3XvqXlkT0yV+uD3qA1tuQtGjQqPECQkBTh+Gzh9I0SD3yvvVh2VUNz7cY2xyQRXq0PnIFRKfMZCFpqgWZootqUjs8Wpt2MxmJKTfQWw1K9usVz9l4nBtBoOti16sTdTTKealWLCCMC5xh31i2r4kaQhAzUTY2R5TyH+20tQsGGWW+a1TuBcDCakIocxjRRq4mO3WjrJV1mHb3gj01j1IMwsyMKilzodyq6zJezGQFTIpvJozRx+/P6x+3lzdXhzZfp10/ut8vZ28PhI0NavZrNJ+1Jp2zvsGaRfnAfOkq+xkPC3e+6T6xhX+89FK0Gb6pYK6RUASjbmKMTLIiiZJiKhKgYKeSyqSj5HwEFZPfn+FG0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1030.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 512,
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "isAgeRestricted": true,
+    "likeCount": 70060,
+    "name": "Bref. J'ai traîné sur internet.",
+    "season": 1,
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU",
+    "viewCount": 5741554
+  },
+  "line": {
+    "content": "J'ai vu qu'elle aimait\nles Simpson et les Daft Punk.",
+    "end": 35,
+    "heatBucket": 1,
+    "index": 16,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=33s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E06_brefJaiTraineSurInternet/033.mp4",
+    "hash": "f36b506136",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwlz1tvk2AAgGH+pXf7Ebsx0RtnZtQujcPWFkpboIeJPQI9BUYJUI4fH6eWUF3XOlc6t+mii/HeNF6+F8/Fi6Cv0fwJVkLp6geGxjrthiSNfE1aGspKkZbnk7ksJoqYSKNg0reHHQ1pk90BI8oDV+QdHK3UCaZV41r1AUNzTbJD75MftqfQTqFxBdQLROjrqrAA5tbQLiuFBo2fUVizUW69eZFB3+Yyx6fEu2KvxoXBA7RTZ/YVsZSV59zE89+O9Y3I18hi8z84eHKQfZUt5SiWEXQ59ty7wLuFdopAaxt6d/Hi0TavyoU6hTcbBEMW688On2NoiSY+kQWqz0wg2IX+/R645rUPv8eLR1Pf5LI4hhLlfKX0nqgWqtgpnsti3TPBmC6j8CGAt9DaIs5s49lpFPxwnZTtKHxPHfb1ETsbcQbfVfnebMy7Y871QArtHdg/yImjraGVek5qqmtduXTtXej//Lz868P7JP4zYB2q1LXVL0DbWHKC6IJrSnOgrlQhZD9OpXGknCemuvbADbCuk+hX5mX+6Okx0C4MMdIF+A8lRTjocI6QCwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E06_brefJaiTraineSurInternet/033.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je voulais dire aussi merci\nà toi, Bertrand, pour ce que",
+    "end": 989,
+    "heatBucket": 1,
+    "index": 311,
+    "start": 978,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=978s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/978.mp4",
+    "hash": "0ee646b169",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEUlEQVR4nHXQz0rDQBAG8NnZ2W1qkrVJTUObsE2IiK0k/jnYtEZEVMhBqlBM8SBe9OJjCAqevPtAPpdYD2KIc/yGH98wwBoGARiRQOQA9V094MiRibDnHWWj/a3IkAYyQuSM4X+AiMvX+/Ll7qLYCUfaBxDEJWITWIXkKfv9cf7xdHUzGZYHkTJNZN/n/Zg6AKDAtd+Wp5/PD7eTuNjuh54DwAlFE2AMgIcbTrkXV0Va5dFyFp/sxogtZE0NDMDueNNsnCcekZgfDhe5vizSWGtCgtXLfgEASCGV44+T6CzTvtupjpPraXI+SwfB0O32lFonoj8NREKIlmVZvqvMthF4anPg6H6XZNtYs4MglFJ8AfeAHCPxnv6DAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/978.png",
+    "width": 1280
+  }
+}

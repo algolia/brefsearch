@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Alors c'est simple, tu prends\nton marteau, ton tournevis,\ntu le pioches, tu l'inclines ici, là.",
+    "end": 1024,
+    "heatBucket": 1,
+    "index": 324,
+    "start": 1020,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1020s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1020.mp4",
+    "hash": "69ee9bfc1e",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABUOCRYOCjQ0LTU2MDAwKy8uKDw+NTs7My4qIjIvJjMxKCkjFiomGCYhFhgVDwcHBgAzJBlALh1saFRqaVdiYE9jXkxWWEt3emeGg2yDgGpybFNgUzRlWjpTSDAyKhw8NiYASDovWVIyZ1s1Zl06UkYmUUUnPSQfg3NbyMKMsadydGY6ZVk1Zlo1ZVUwaVQtcFcsADs8LVJaPnt3VYKGaWtmSmxmSWlFN4BhTn53T6WaaIiAWX92U4F0UIp6UpR+UJF4SQBFQzh6gGR+g2mOmoR1fGNQUD0rGRdMNSlLOiNjaVaZl3uVkHOVi2ymmXWvn3avm24AQ0A3en9mgotwh453UFI9MR8VMBoRRiwYMh8SIjYydnxkbmRLgH1inJJup5ZspZFlADo0Ll5eTGpsT3d9WVlZRz8oITIbETceEUQsGGlWQz5LRRcYFjo/NlRURIV6WZmDVwA2KCRHQDVlQh5pRyBPRTIzLCQyGQxGLRqUdESDZUlDQjdDPixKQzBYVECBdVaAa0cAGA8MIh4aLykiJCAcIiMeKSYgGgwGKx4SRjgjNjAiMS8kPDktOjktODYrQD42MjEpikCBdZFh1QEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1020.png",
+    "width": 1280
+  }
+}

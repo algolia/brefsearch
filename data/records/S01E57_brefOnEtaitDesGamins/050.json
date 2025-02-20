@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "isAgeRestricted": false,
+    "likeCount": 112972,
+    "name": "Bref. On était des gamins.",
+    "season": 1,
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY",
+    "viewCount": 6343137
+  },
+  "line": {
+    "content": "On regardait des films qui font peur\nen mangeant des bonbons.",
+    "end": 53,
+    "heatBucket": 1,
+    "index": 20,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=50s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E57_brefOnEtaitDesGamins/050.mp4",
+    "hash": "cd23874202",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJw1zM9r01AAAOBcFRSEefDQizcvCh4VBmN4EXRrpZ0bY24waR1zc5aVlSY2tGubpC95+fGSl74kbZqYrNloSBeb6Yb6r8kO/gHfR3EAMCzrR9HVn7+Xv671Vr1W2XE8zw/DoTsk9gAPDB0jDSmyCkUIqI+Vvbf5As3Q0zT9cX1jKKDdpMdB4AfBf4CRgVSkyJosQUAJkvz54FAQpUkcJ1kWz+fnSRJG0dj3nZFDLNMwdU1XVU2GKhQlQK29Xy8V16yRO7v6OcuyWTa/SOJwMhn7nj20TIJ1fNtDRRKlPgActbm1lS+WMCEXSfL9PJpezoKzMDgLXc+1HIJNHSFFUUQgCpwo9kRILS2/WikUTIvEaRrFU9sZ9PmObRPXGxGCsaGh2x72JVGobgsHJWq/vLtbLg9sK735jU10vJNvnXxBSBm5NrFMRZVbzXq7Ue1V3oCVXHdpgTra3jhu0E32G4K83Gl8Wl+tH+13WVqWeB3rEnPIf1jkS0+Z5Udfnz949/g+dUrXOlxbhkL3tMnU9oR+j+t12JOq0G1JEPAbL7XXC7D4ZPVZ7sXDO7l7d/8BcrTl+VWegVEAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E57_brefOnEtaitDesGamins/050.png",
+    "width": 1920
+  }
+}

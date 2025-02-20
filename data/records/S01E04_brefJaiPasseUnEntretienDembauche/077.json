@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 497,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "isAgeRestricted": false,
+    "likeCount": 91737,
+    "name": "Bref. J'ai passé un entretien d'embauche.",
+    "season": 1,
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU",
+    "viewCount": 7182602
+  },
+  "line": {
+    "content": "Il m'a dit:\n— kayak de mer\nou kayak d'eau vive ?",
+    "end": 78,
+    "heatBucket": 1,
+    "index": 28,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=77s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E04_brefJaiPasseUnEntretienDembauche/077.mp4",
+    "hash": "1a976ef88b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBhTEY0NDoJGS4bIjJmUlAuMDsAESg8Qk6Rhn6QiYipo6hnYmQMDA8NDxIJCAsJBggAQDU2LCsyBBYsNjE4soFvXk1OABAoOUBKkIV8j4iHpqGnY1xcEg0QDg8UDAoPCAUIADMtMyYlKwMSJDAvOYBaTUk8PwAULjg+SJGHfI+Ihp+coId4djYfHAYHCgkJDQoHCgA7NDclJCsLFiUgIyw+MjQlJCcHEx44PEOSiHySioWbmJiXioZQNC81Ih8SDA4JBgoAJCUsIyIlEBQWHSAiPT1OHyMoChAONzc4lYuAlY2FoJmXmZSRUD06Wjs2OisqJB0fABQfKRkdIQcMDyAjJlFPZxUaIQgODS8tLJWMf5eNhaifmIR8dzguLzsvLjInKCohIQALExcUGBwHCAsbHB5DQlkOEyAFBgcdHRyMg3iXj4Z9dW8tJCUjHB8dGBoVEhMRDxIADBMYDBAUBAYJHBweRUVfHCAwDxALEhQWhX9zjoZ8PzU0FhATEAwRDg0RDAsOCwkNABIbICIlJyAfJlZeNY6pQJS0Ppq6PWZrTKylqMG7uyUeHwwIDAwKDgsHDAoGCwgDBg1HZY9dciqaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/077.png",
+    "width": 1920
+  }
+}

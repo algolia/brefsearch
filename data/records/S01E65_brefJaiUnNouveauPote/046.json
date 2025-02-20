@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "isAgeRestricted": false,
+    "likeCount": 117672,
+    "name": "Bref. J'ai un nouveau pote.",
+    "season": 1,
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A",
+    "viewCount": 8812723
+  },
+  "line": {
+    "content": "Bâtard, va !\nSalent de cuir.",
+    "end": 47,
+    "heatBucket": 2,
+    "index": 19,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=46s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E65_brefJaiUnNouveauPote/046.mp4",
+    "hash": "1cb9aeb311",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZFJREFUeJwFwUl3k0AAAOAhrBMgCdtAWSTsA6Y0CSGAlLZJ0+XV2teYpVarB0/e9Hn01/t94O9D8vMiemmyLrDbfH7uB3euecjTY1UW4sAHwO+Rd6fhY5FeZvHjLAT/3u53zfTr5XLbltfzovOsYxn9ft3/2n5eaXpzgnyK+lKf/rhafFpOv3cT8Of1sGuWH8/STZ7dZPHad9aB8e36Yt91rW7c4hj34cPEf17gD6H31sbAHwijHun0YX6izx27NlHQ75u8GCOjjnHuBrnreZI8IHo0AKnKAxkKsMcgKJz745mmtp47QciAQhGlm7LGTtTgrIoTmWYhICEggaI5A15CohTIaqTqSXiGk5kuIR8Zq/f4Ko42abxw32n8kCZYhqABwcg9SqTpIcWMOKhIKBAUjxcRx4g8I0BmIHBDmoQEYAFgCUCBIrBXqd1GZhNatW/WkVsGTjG2p46VIdmTh4mOsCqZAj9iocpx4HbidKGxnbu7Kt5X6bHGL026bebbenYooidsry3lfowqz8o0OVPE/+0vPgTo2+w5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E65_brefJaiUnNouveauPote/046.png",
+    "width": 1280
+  }
+}

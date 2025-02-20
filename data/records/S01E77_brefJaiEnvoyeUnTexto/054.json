@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 566,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "isAgeRestricted": false,
+    "likeCount": 85617,
+    "name": "Bref. J'ai envoyé un texto.",
+    "season": 1,
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk",
+    "viewCount": 7559587
+  },
+  "line": {
+    "content": "Mais elle risquait de vouloir\naller au cinéma avec moi\net je n'avais pas les moyens.\nJ'ai mis: Une expo.",
+    "end": 58,
+    "heatBucket": 2,
+    "index": 29,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E77_brefJaiEnvoyeUnTexto/054.mp4",
+    "hash": "f7c18ff8f3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUpJREFUeJw9UNuOgjAQ5bt88LZZrHJvO63Q0hZEiSIU0d3EbPbfN6DZZDI5ycycyzjeYkbRCtA6j5DBO5N45yw5QnhiUadIgb0KfBUjtl3jz8V2PnPoZiUCt+bhJY2vAltFe0Wtgl5Dr6DLoZXknMY1D0Xgks3SkeGmxL5V9CpIK8fVV3+BXrNWjqNO0RL7ebRxKgiuAg8F6zXrNQwFtwruBR8KfjPsptmkxm6GNRk+gu8cIRwK1kp41tnjsP+9yk7S7yp9HPZfVfqsxaPc/5yFHe3RAw3eCr1mTUYGw+8lH/k0v5kRPMr9qGPYULAmSyoInDx6Z2glaSV5mf7PYBVrBWkEsYoeyJQB0EqG7mn6Uitxl1Ob0346mGokuqTJiYcycClaOd5iBmjJ0FrFyCQ7E3uNSE4srHlkNSmwX4Gv4y3ffmB3sZvP/gAhd5liqLWBogAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E77_brefJaiEnvoyeUnTexto/054.png",
+    "width": 1920
+  }
+}

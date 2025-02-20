@@ -1,0 +1,287 @@
+{
+  "duration": {
+    "human": "2:14",
+    "inSeconds": 134
+  },
+  "episode": {
+    "index": 81,
+    "name": "Bref. Lui c'est Kheiron.",
+    "season": 1,
+    "slug": "brefLuiCestKheiron"
+  },
+  "lines": [
+    {
+      "content": "Bref, lui, c'est Kheiron.",
+      "end": 2,
+      "heatBucket": 5,
+      "heatValue": 70,
+      "start": 0
+    },
+    {
+      "content": "Quand il s'agit d'aborder une meuf,\nil est toujours là pour moi.",
+      "end": 4,
+      "heatBucket": 5,
+      "heatValue": 65,
+      "start": 2
+    },
+    {
+      "content": "Parfois, je suis timide, mais il a\ndes techniques révolutionnaires.",
+      "end": 8,
+      "heatBucket": 4,
+      "heatValue": 44,
+      "start": 4
+    },
+    {
+      "content": "Désolé, j'ai perdu ma chaussure.",
+      "end": 13,
+      "heatBucket": 2,
+      "heatValue": 33,
+      "start": 10
+    },
+    {
+      "content": "Et le pire dans cette technique,\nc'est qu'elle marche.",
+      "end": 15,
+      "heatBucket": 2,
+      "heatValue": 33,
+      "start": 13
+    },
+    {
+      "content": "L'idée, c'est que...",
+      "end": 17,
+      "heatBucket": 2,
+      "heatValue": 32,
+      "start": 15
+    },
+    {
+      "content": "Il est apparu dans ma vie à l'époque\noù je me suis pris ma première claque.",
+      "end": 20,
+      "heatBucket": 2,
+      "heatValue": 31,
+      "start": 17
+    },
+    {
+      "content": "Jamais, jamais, jamais, jamais, jamais.",
+      "end": 24,
+      "heatBucket": 2,
+      "heatValue": 29,
+      "start": 20
+    },
+    {
+      "content": "J'étais pas bien.",
+      "end": 27,
+      "heatBucket": 1,
+      "heatValue": 27,
+      "start": 26
+    },
+    {
+      "content": "Il est venu s'asseoir à côté de moi.",
+      "end": 30,
+      "heatBucket": 3,
+      "heatValue": 36,
+      "start": 27
+    },
+    {
+      "content": "On s'est bien entendu.",
+      "end": 35,
+      "heatBucket": 4,
+      "heatValue": 51,
+      "start": 30
+    },
+    {
+      "content": "On s'est super bien entendu.",
+      "end": 39,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 36
+    },
+    {
+      "content": "Quand je suis pas bien,\nil me conseille de baiser des meufs.",
+      "end": 41,
+      "heatBucket": 5,
+      "heatValue": 64,
+      "start": 39
+    },
+    {
+      "content": "Quand je suis bien,\nil me conseille de baiser des meufs.",
+      "end": 43,
+      "heatBucket": 5,
+      "heatValue": 59,
+      "start": 41
+    },
+    {
+      "content": "Et quand je vais baiser une meuf,\nil me conseille de baiser des meufs.",
+      "end": 46,
+      "heatBucket": 4,
+      "heatValue": 48,
+      "start": 43
+    },
+    {
+      "content": "Quand je vais envoyer un texto à une meuf,\nil me dit d'attendre trois jours\npour faire le mec détaché, parce que\nd'après lui, plus tu seras détaché, plus",
+      "end": 51,
+      "heatBucket": 4,
+      "heatValue": 44,
+      "start": 46
+    },
+    {
+      "content": "elle te laissera l'attacher.",
+      "end": 53,
+      "heatBucket": 3,
+      "heatValue": 40,
+      "start": 51
+    },
+    {
+      "content": "C'est qui cette fille avec qui\ntu es allé au cinéma hier ?",
+      "end": 55,
+      "heatBucket": 3,
+      "heatValue": 41,
+      "start": 53
+    },
+    {
+      "content": "La plupart du temps, quand je mens...",
+      "end": 57,
+      "heatBucket": 4,
+      "heatValue": 46,
+      "start": 55
+    },
+    {
+      "content": "Aline, ma sœur.\nÇa vient de lui.",
+      "end": 59,
+      "heatBucket": 4,
+      "heatValue": 52,
+      "start": 57
+    },
+    {
+      "content": "C'est lui qui m'a appris\nla technique de lire le livre\nà Basol et alors dans un square.",
+      "end": 61,
+      "heatBucket": 5,
+      "heatValue": 66,
+      "start": 59
+    },
+    {
+      "content": "Et le pire dans cette technique,\nc'est qu'elle marche.",
+      "end": 64,
+      "heatBucket": 5,
+      "heatValue": 64,
+      "start": 61
+    },
+    {
+      "content": "En soirée, on communique\npar des signes très discrets.",
+      "end": 67,
+      "heatBucket": 4,
+      "heatValue": 52,
+      "start": 64
+    },
+    {
+      "content": "Ça, ça veut dire que la fille\nest plus ouverte d'esprit.",
+      "end": 69,
+      "heatBucket": 4,
+      "heatValue": 43,
+      "start": 67
+    },
+    {
+      "content": "Ça, ça veut dire que c'est cool.",
+      "end": 70,
+      "heatBucket": 3,
+      "heatValue": 40,
+      "start": 69
+    },
+    {
+      "content": "Et ça, ça veut dire qu'elle est\ntrès, très ouverte d'esprit.",
+      "end": 72,
+      "heatBucket": 3,
+      "heatValue": 36,
+      "start": 70
+    },
+    {
+      "content": "Salut.",
+      "end": 73,
+      "heatBucket": 3,
+      "heatValue": 35,
+      "start": 72
+    },
+    {
+      "content": "Et ça, ça veut dire et elle\naime bien les fruits.",
+      "end": 75,
+      "heatBucket": 2,
+      "heatValue": 33,
+      "start": 73
+    },
+    {
+      "content": "De tous les personnages\nqui sont dans ma tête, c'est\nà la fois le pire et le meilleur.",
+      "end": 78,
+      "heatBucket": 2,
+      "heatValue": 30,
+      "start": 75
+    },
+    {
+      "content": "Sans lui, je serais pas un connard,\ndonc je serais pas tout à fait un mec.",
+      "end": 81,
+      "heatBucket": 1,
+      "heatValue": 26,
+      "start": 78
+    },
+    {
+      "content": "36,02.\nTu t'appelles comment ?",
+      "end": 83,
+      "heatBucket": 1,
+      "heatValue": 24,
+      "start": 81
+    },
+    {
+      "content": "Sophie.\nBon, bah, à bientôt.",
+      "end": 84,
+      "heatBucket": 1,
+      "heatValue": 24,
+      "start": 83
+    },
+    {
+      "content": "Je t'appelle demain.",
+      "end": 89,
+      "heatBucket": 1,
+      "heatValue": 27,
+      "start": 84
+    },
+    {
+      "content": "Bref, en fait, Kheiron,\nc'est un mec dans ma tête.",
+      "end": 109,
+      "heatBucket": 1,
+      "heatValue": 27,
+      "start": 89
+    },
+    {
+      "content": "Attends, tu l'as jeté\nta chaussure marché ?",
+      "end": 121,
+      "heatBucket": 1,
+      "heatValue": 17,
+      "start": 117
+    },
+    {
+      "content": "Ouais.",
+      "end": 122,
+      "heatBucket": 1,
+      "heatValue": 22,
+      "start": 121
+    },
+    {
+      "content": "Je l'ai jetée doucement.",
+      "end": 126,
+      "heatBucket": 1,
+      "heatValue": 22,
+      "start": 124
+    },
+    {
+      "content": "Ouais.",
+      "end": 127,
+      "heatBucket": 1,
+      "heatValue": 18,
+      "start": 126
+    }
+  ],
+  "video": {
+    "commentCount": 1500,
+    "id": "z5tHQfjXtwc",
+    "isAgeRestricted": false,
+    "likeCount": 128353,
+    "viewCount": 10107687
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "isAgeRestricted": false,
+    "likeCount": 98202,
+    "name": "Bref. J'ai pris le métro.",
+    "season": 1,
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0",
+    "viewCount": 7606246
+  },
+  "line": {
+    "content": "Du coup, il y en a qui confondent.",
+    "end": 16,
+    "heatBucket": 2,
+    "index": 5,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=14s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E41_brefJaiPrisLeMetro/014.mp4",
+    "hash": "86c58bcbea",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDV0NbX0NjX0trX0trX0dnX0djW0NfX0tnRzdXMx9DJxMzFwczEvsjGv8fIwsjHwccA1M/V1M/V1tDX1tDX1tDW1c/W2tXcw7m/fnmmb3GohG1/aGKIT1SQhYOmxL2/pJmcANLN09TQ2NTP1tLO1NPP1tTO1NPQ13dhYXdlcbi2zmpbYT8zO5SQpcK9ypqFg1E4NQDW09m4q6zKw8jQx8y/r7Ld2eCwqrA7LjE+NjbOx8tbVFccFhidlpjYzM6KOzNBFRIAzcbPlHyTmIWWj4WOd2luzMbMxsDGQDAxTkNG2dHYb2pxLSMnqqKlzsnOlFBLMAsKAHphZlZPblE7RDkuMjcsMIt0dc/K0SokKFdPVN7V3IuIlG5pdsnAxMnEyqJZUiIBAACekZZVUl1/dHhVTU9GOz2kmp26tLpJRk2FgIbb09itp659eojHwMXGvcJ8U1I9LS0Ap5+odWtyp52jf3d9c2pvr6itmJKXcmtwmJGV29TZrqetWldjvLO5qKCmVFRZX1xgALy3vbGsssXAyLWxt7izusjCyJmLjZ2SlqeeotDL0rGqsJaNlMW+xo+FimlfZHpxdsp8AIJ3Ntd3AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E41_brefJaiPrisLeMetro/014.png",
+    "width": 1920
+  }
+}

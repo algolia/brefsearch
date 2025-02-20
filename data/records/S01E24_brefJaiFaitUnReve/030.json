@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 597,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "isAgeRestricted": false,
+    "likeCount": 91536,
+    "name": "Bref. J'ai fait un rêve.",
+    "season": 1,
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4",
+    "viewCount": 6811734
+  },
+  "line": {
+    "content": "Je me suis mis à courir\ndans un couloir sans fin en canard.",
+    "end": 31,
+    "heatBucket": 3,
+    "index": 7,
+    "start": 30,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=30s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E24_brefJaiFaitUnReve/030.mp4",
+    "hash": "f74a6e8cbc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABj0lEQVR4nAXBWW/TMAAAYD+wOo6PJLYTN865NE3J0q4XbSe6bnTiKGyq0kEVpokhboE2BC/8fr4PLH36PKQvffRlwP+t40853Vf+fj27uZg0J2kdkZ8jtVsW7w5ZE6M6IeAssje5qAt5FeDU5pve4TL0xknHp2LK4FMPj6QNDnjF6f3C/9gX4E1Xvs69u2F4HliZUrvRYKTbm37x9vTFrt99rNqV6zDMBMVfZ/79xAO70ntVxu/H6TpiARerVAfSw8jOsyU0ucN4KrjERMt8mga/Zz5opsm2dD8Mw+vCyxxnXwQnWUqIRFghRKDBzkN/LqxFOd71o78zF/xaFU0pPg9U3XVdhLexGifRAaTIZIZBWwYduk7fsRZJ+65yHiYS/JnrHxV/qKx9zheRPw/bmkvNFYQEGeRRC6+78aoTPfHYtw7+fmSDpieb3L7tWpe52PSS0uPUNCm2EGIIsRbEx9q9PMqehaIO0DYmoJnom2P3tnIuQjbXKmWEGiY0qIkYhMRBWBhwrORMu6fKPNP4PymUPVSm+IbMAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E24_brefJaiFaitUnReve/030.png",
+    "width": 1920
+  }
+}

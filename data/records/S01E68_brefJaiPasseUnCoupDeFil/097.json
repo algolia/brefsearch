@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 348,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "isAgeRestricted": false,
+    "likeCount": 76290,
+    "name": "Bref. J'ai passé un coup de fil.",
+    "season": 1,
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98",
+    "viewCount": 5070086
+  },
+  "line": {
+    "content": "C'est pour te dire, il y a Baptiste\nqui essaite de te joindre.",
+    "end": 99,
+    "heatBucket": 1,
+    "index": 56,
+    "start": 97,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=97s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E68_brefJaiPasseUnCoupDeFil/097.mp4",
+    "hash": "791110ec0c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwW1TmgAAAGDO2615NY0BgqIBmy+YDnUW3iQHuCQIEc0hzjaJrO3SbHaXaboXa8vm+WHtk9ftz+55gOMtJkP6P4ubE1OZH5rfjV0znz1Scy2N7xhSQ86ZMi+w7EFV67etrl0HBlbRyqXb25muIs4so70jnJQL/Q/qyNbOzN3zqqqmkxiI7e1sT4fd68su8PN9qVfYuiq/HVeVSV2/KMt3nf2xrf8ZHC56H+emNFBzxUSsKXA3/dO/t2Ng1nzXErgfe/K0UXroWNMD42y/cmXpi/vfDzfDsZK9q0kTXbjU8t++HC/m18DXWilNUXX2lZFizmWBZxKeQCjBpIanJ5NP9kTPT2tSk9u40PhfvaN/97fAyKzEA4S4Trf4rLqZhjHSS9FkhJnZphqjlZfrdm5DikdbhTcVkddkFShlWBjycXSUj8VfkGGMiGBEeI2KjOrloaGKyVR4LdQQsuJrDsOCCBwEnE9WHUurBOqnA8/dEA5COIwSEEqgKGkVC2wig+OxRDTpRSkQDCAeCnA8cgGO5cdL4PJTdMWNuSAfiPhXINz3zMeHwogniMAkCPrdbq/bhTmd0H+FzHHK0aftVAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E68_brefJaiPasseUnCoupDeFil/097.png",
+    "width": 1920
+  }
+}

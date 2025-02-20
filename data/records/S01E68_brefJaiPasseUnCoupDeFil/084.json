@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 348,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "isAgeRestricted": false,
+    "likeCount": 76290,
+    "name": "Bref. J'ai passé un coup de fil.",
+    "season": 1,
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98",
+    "viewCount": 5070086
+  },
+  "line": {
+    "content": "Il a raccroché.\nDu coup, j'ai voulu le reprendre.",
+    "end": 85,
+    "heatBucket": 1,
+    "index": 48,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=84s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E68_brefJaiPasseUnCoupDeFil/084.mp4",
+    "hash": "d337907410",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwf1T0mAAAOD90F3mhV60eUAgshf2AQg4JqytbcWENc7AC/lIHcTGvSDEFFo6MCO9qJ13XWde/2/Pg1QF1lQF2eOp+Dd0LvMhSVia2M4xsH5wc2HNhgZsViat/Wm1UGNTJQogTUWw6+pIzLaFnV96xXmvzfUKlLipcfLgLpaX1mzQhu+KQ4U/SNPleAyp7UmOcXg36Vw3S3ZZvqy9/WN3oSLYvc6/u5ufF+P5accdG7eN8pnCnZd45BUr7BcUEKMYHPTEXTmT2ZPFppB3+t375dfbyWDW193z3mdVGkg5SxUQLrEdjdEeNIh6/YlwBPOFvQFAAOp6DH9/d759Mhx4sjjr2+U3U4Wv7aaReDiCBSLrWBAP4Vo+H9oi0Bd4FNBXY+jOpzOof+k2H5ZXrmUe8Vl6M4IEg/gaGkIePyuy2b/G4bFaWPdtkXTKGZo/7JFjtmCjOjKMbutIjFNcFCAoFiwyGZlhknRa20lLyeQmiAMyOTGP56cfFf41SeT8/gQVS9Vesh2eQVaeeGWKWNQ1Ihx9tPp85Sm6urZBkNuwUVV42YsSgUDc56NQDNA4wZPkf4YAdnpWI0sYAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E68_brefJaiPasseUnCoupDeFil/084.png",
+    "width": 1920
+  }
+}

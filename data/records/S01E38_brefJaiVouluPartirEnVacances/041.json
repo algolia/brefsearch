@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 431,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "isAgeRestricted": false,
+    "likeCount": 96820,
+    "name": "Bref. J'ai voulu partir en vacances.",
+    "season": 1,
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc",
+    "viewCount": 8214486
+  },
+  "line": {
+    "content": "Il a frappé, j'ai dit: — Ouais.",
+    "end": 42,
+    "heatBucket": 1,
+    "index": 19,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=41s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E38_brefJaiVouluPartirEnVacances/041.mp4",
+    "hash": "dcfed23e29",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCOTpsXFqBdXOilZKmkpC5op+6rKexo6Ghj4yhjIdXTEpCNjKFe3y6s7Oup6aknJwANiIlUjY4c1tYhXdyZ1VSsqalkIiIQDc4fVNNhmBac2tuW1BNc2pqwLi4vLW0raamADwmISgTD0o1LkUyLT4vKi0kIhsVFyQbG1w8NVVFRZ+bnZqSkYuDg721tczEw721tAA+KiEsHBUfDwkZDAljUksnISEUDhA3MC9iWFgLCQpPR0xrY2tYUVl9dn1+dXmFfH0Ah3l0YlFJHQ8MEgQAOywoHxobFQ8RJR8gNjAyLCAgHhcZeHSGmpiwg4CTcm18X1llAM3Hx9TPz6qlpXRsalNIRh8bHR8aHE1HR2ZgYYByek1HTCcjJ5qWp6ilvJiWrY2KngDAubnY09Pt6+38/v/e2NO+tq7UzMLl3tT+9+xwdH0hJjkQEBdJOznSt661p6eXjZgAurS20cvL3tfS1ce5xauWzbWe3s66xK6X072ihnhvKic0JyY4LCUxl3pyzKeVs4t+AKiclbmtosCsmcKpkrichbugh9C9qbqgh6+Qdd3PvtfQyJWOlT05QykmMlBLVXhgYGoBxkMBZduwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E38_brefJaiVouluPartirEnVacances/041.png",
+    "width": 1920
+  }
+}

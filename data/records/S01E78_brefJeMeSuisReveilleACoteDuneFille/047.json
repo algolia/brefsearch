@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 520,
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "isAgeRestricted": false,
+    "likeCount": 97525,
+    "name": "Bref. Je me suis réveillé à côté d'une fille.",
+    "season": 1,
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4",
+    "viewCount": 8534561
+  },
+  "line": {
+    "content": "Alors j'ai attrapé mon portable.",
+    "end": 48,
+    "heatBucket": 1,
+    "index": 16,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=47s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E78_brefJeMeSuisReveilleACoteDuneFille/047.mp4",
+    "hash": "dee71ef047",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwVy+1zknAAAGB6WeatuRcVO4HA2MmbCDjGIsCfMxUQ1M0NR2YxU+OcpcvTD+2uedd11brq0/p/u57vDxS7H43eizzFKUlQBV7huT2RV0S2INKiLGmGbhqapWt1XW8YRpNASQh/EEUfRnO0UBBVnslTJIWn0hVZC1y/ogBFBnbtxKq2a1UPFI+wxxiEr0WyKUQuGCIvc3SOxEksDptqOeyMXFAX+YOG7R853XbzTdFwiTT+P7D47oFSkjiJy7K7GMEgqPkMfPn4bfp6ZgK35XaPGz3fG5V0O70dh4j1GM8Ie5IqsWIuy5LoExpBWob15/r26/Km0wq8k2G3E/b8C20fIJsbUGYHBkUXGHUSxTLpNJZM4kl45A1/fr49Pwsd0+ucDnvdST+Yi3Qe29qA8HiK5/Z5SiirL0pKiUgkUrHNqm5dvrs6PXQMinENa9Cbdo4HmSRMJHYgeC2SXH8kM9J8vBqfLwpUXmGEaX9xc/33w6v3vtm+COZXi1+z8coCbgZOQdt37mJbcRM4zmGz8rxmA8ezzwZeOAnmb19Owv5yefnj0/L3YvZ9Eq7scusfqqJo+grbFTkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E78_brefJeMeSuisReveilleACoteDuneFille/047.png",
+    "width": 1920
+  }
+}

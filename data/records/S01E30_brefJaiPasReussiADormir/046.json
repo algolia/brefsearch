@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 557,
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "isAgeRestricted": false,
+    "likeCount": 81978,
+    "name": "Bref. J'ai pas réussi à dormir.",
+    "season": 1,
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM",
+    "viewCount": 4963838
+  },
+  "line": {
+    "content": "J'ai lu un livre, j'ai lu sept fois\nla même ligne en boucle, j'ai abandonné.",
+    "end": 48,
+    "heatBucket": 3,
+    "index": 19,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=46s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E30_brefJaiPasReussiADormir/046.mp4",
+    "hash": "15740de8bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYVJREFUeJwdz19u0zAcAGCvtn9O0qZJ7Dh2HNP8b0JTBF27DgZVQKVsE+IFwQMS8DROwC12A3jlClyEGyE4wacPAZkB9hiLpH1umxtpLhkoxhQw5c1yrp/o/GDrU1qOcboNxYAAuxR7xuxsda3yMWtP3iwnVADVjmMAJKWSMcNYCjRhTKJArHh6URajNefWXi6aox9WdBIAUQAPGMvgH5gCaMY0UI6EOk/sM603fTMO7cuuOvCwpZgDERQrh+XBvAPIGJSUmCBcozDuZbrjYtnW10011vley5XDEqAan4lFdjEs3xBsKSkoLV23QqHo/m+WVT5udt+K7tZ1uOsIIJoSI6O6ra+02mKc4UkG1KBAtDx5POddIlfr4WNqr0RU23QT+FbJvl48HTafXn/9+eL9fdbckAlHc96G4mFsdrY5lf07njziYd0Uh6kb+76Z+zlX29u7X3f3f/r95zPkIj9qoriP9cbWr4r+ra2Pid2LZM0goHiKsTf18+OXHx++/+ZJP0HkL6MEMQhjdC3SAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E30_brefJaiPasReussiADormir/046.png",
+    "width": 1920
+  }
+}

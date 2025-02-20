@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 305,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "isAgeRestricted": false,
+    "likeCount": 76028,
+    "name": "Bref. Mon pote s'est fait larguer.",
+    "season": 1,
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4",
+    "viewCount": 6265057
+  },
+  "line": {
+    "content": "— Et toi alors ?",
+    "end": 91,
+    "heatBucket": 4,
+    "index": 36,
+    "start": 89,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=89s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E19_brefMonPoteSestFaitLarguer/089.mp4",
+    "hash": "c2fbfb7763",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjqIyNrM5I6O5tcjLT8TRUCTZRj3My8DSWC7OSLNZQ6IxxXdlglWglkOmqGGrEE2QpxzCppXHx9Mmzp/fZGOqk+NnGuZvt6S1s9jdOc9Cs1VFui/YpS7aMt5CuC1AOtxI3N9RjKI4MLYqNjXcw9zC3Cw8LnF+ZML8kOtNGsSUzpNnSINfNQlpc0FVLpjrBOyXYwcnKgEGZjUWZgcFOQjY6PkvHwLQlNWRFSXishbKNoVaCsqyZhLC0pIiBqpynpZ61rqqmnDhDjKu9vhi/q6lJUka5tpaWlrxUqpuJmig/Hw+3gaSIFBubpBCfhY6MgayQljivFDc7g626UqiXY0a0f3Zhh19AlKiwAC8Pj5yskpaGvrKUmBgnm7Iov52erCgnuzAHuwgnB4OSMHdceEBhenJmQUtwWIqxpgonG6u8rJKVlbuqhIAoJ5sQGzsvI4swGys/OwsPKyuDl6VuemxwRHCwT1BGkI9ff5qPtrSYpJikgb6pqoyUKDuLhhCXphCXGj+HBCcbJxsbQ4afdZiXQ0ign5tvoLGu5pL69FxvM1F+Pn0NdSUZeWE2Vj0RLhNJHm1BLhF2NlY2NgDGT2Bm59j28wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E19_brefMonPoteSestFaitLarguer/089.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Moi aussi.\nMais attends, mais moi aussi.",
+    "end": 1191,
+    "heatBucket": 1,
+    "index": 373,
+    "start": 1190,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1190s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1190.mp4",
+    "hash": "399da41cf0",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqklEQVR4nDXNz2vTYADG8bf59b558+ZN0ibvuyRNXGybLt1c1nZt96OuVIvtHKW0U5wwhAo9zHlwKAxEehljDHQ3UfDkwZtevHrwX5MOhM/xefgCkBEXhIWMLAElAw0FW1rWNbBDkKFBqlKbUFvHJpaxAoCoABECSQWigkw6PB6+mZ+OXwyLW+H0Wf3p1h1m4nzFLbWCMPU1roPFWoSCDC1NJZZ2/fXq99+fFzfvK7t3v50/vj6qrtuat5xLOyvLqU84vT1ICCqozCjNqd1R59X57OG43RqsfDrtTffi2hI+6G9PXk6CNa6x/wVVRgk3fN+kAWVFq9vfmJ1NPhy392MeO6TVXKu2a/lVT8sRAAQoQ8QIjpnh+WaURo8O788vT6azUS/1dstOYOtRwWV5J0hC3bktSAoKc9TPktGTwccvlxc3bx8MmnvdalzwN0uM6nqtkcSVKCiFjmsCICIgqkhBSRy+m7/+9efH5+9XG/W4P2hQhwNkUu6enD3f3L7XaNeT1QgAQVoAAl+ymzv18dGwt99hPFsoeqpGZIixrjd31m1mlcpF1+X/AFgPQqeG8YP+AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1190.png",
+    "width": 1280
+  }
+}

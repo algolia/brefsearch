@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 490,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "isAgeRestricted": false,
+    "likeCount": 93351,
+    "name": "Bref. Baptiste est Super Flippant.",
+    "season": 1,
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78",
+    "viewCount": 7580349
+  },
+  "line": {
+    "content": "Il met plusieurs heures à laisser\nun message de 10 secondes.",
+    "end": 56,
+    "heatBucket": 1,
+    "index": 23,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E49_brefBaptisteEstSuperFlippant/054.mp4",
+    "hash": "7c6986262a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAWHSkXHSkeJDAbIi4pMT0zPUcqMz4nMDs8RlBIU1s8R1I1QEwtN0QlLjsjLTogKjYAGCAsHyYyHCIvJzA7QUpRRk9YKDI+Mz5JUVtlXmlzWGVxQ1BcPklWNUFNLjlGKDI/ACIqNhwiLSEqNj9IUVphZkxUWDpDSjtETVFdZnB5jXR+k1pmdlFdaVRhbz1JVTA8SQArMj8kL0I/UGhldpFhdJRKY4dUZ35GVWRZZXKKkaehp8B/iqVod5Rmc4xPXWo9SlcAJzA6KTZDYXGOd5G7V4G6ZY7DgZ7GdIyxk6C9z9Ps29/1ztTvp7Pal6PIdIKeSFZmAFNae2FrjKetyJap1XGTy6O32rPE5KzA4b3K6tTd+uDk+u3v/eXo/dPZ97C83HCFnQCap9XAyevc4vfI3/XT5/r0+P/z9/7n8Pv4+v/2+P/6+v/7+v/49/7u7/3T2/KZtMoAQUhai4iVcXF8Q1NmkY6YtbC+o6e9rrjUwMXesLnVxc3o1trx19nvu8DZjJWuTVxsAE9OT3dvcjk4OScmK2tWU5aGiXN4iHZ/kYCKoHiEnX6Kp5SasaSluXR7jVpicDlCS7/c10oiODz5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E49_brefBaptisteEstSuperFlippant/054.png",
+    "width": 1920
+  }
+}

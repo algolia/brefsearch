@@ -1,0 +1,259 @@
+{
+  "duration": {
+    "human": "1:35",
+    "inSeconds": 95
+  },
+  "episode": {
+    "index": 28,
+    "name": "Bref. J'aime bien cette photo.",
+    "season": 1,
+    "slug": "brefJaimeBienCettePhoto"
+  },
+  "lines": [
+    {
+      "content": "Bref, ça, c'est la photo\nde la soirée d'il y a un mois.",
+      "end": 3,
+      "heatBucket": 5,
+      "heatValue": 64,
+      "start": 1
+    },
+    {
+      "content": "Ce soir-là, il y avait\nCarbon Kevlar aux platines.",
+      "end": 4,
+      "heatBucket": 5,
+      "heatValue": 55,
+      "start": 3
+    },
+    {
+      "content": "Avec ma main droite, je faisais\nun deux et j'avais les lèvres retroussées\npour faire comme tous les mecs cool\nsur les photos des années 2010.",
+      "end": 9,
+      "heatBucket": 4,
+      "heatValue": 45,
+      "start": 4
+    },
+    {
+      "content": "Dans la main gauche, j'avais un verre.",
+      "end": 10,
+      "heatBucket": 3,
+      "heatValue": 36,
+      "start": 9
+    },
+    {
+      "content": "Sous le bras, j'avais Marla, mon plan\ncul, qui est en train de me dire: T'es\nqu'un con, j'aime pas les photos.",
+      "end": 13,
+      "heatBucket": 3,
+      "heatValue": 38,
+      "start": 10
+    },
+    {
+      "content": "En plus, elle avait\nune tache sur son T-shirt.",
+      "end": 15,
+      "heatBucket": 4,
+      "heatValue": 39,
+      "start": 13
+    },
+    {
+      "content": "Derrière elle, il y avait cette fille\ndont j'étais amoureux parce que...",
+      "end": 17,
+      "heatBucket": 4,
+      "heatValue": 40,
+      "start": 15
+    },
+    {
+      "content": "Parce que...",
+      "end": 18,
+      "heatBucket": 4,
+      "heatValue": 42,
+      "start": 17
+    },
+    {
+      "content": "Parce que...\nBref.",
+      "end": 20,
+      "heatBucket": 4,
+      "heatValue": 47,
+      "start": 18
+    },
+    {
+      "content": "Si je faisais cette photo avec Marla,\nc'était pour rendre cette fille jalouse,\nce qui ne marchait absolument pas vu\ncomme elle riait avec ce beau black.",
+      "end": 25,
+      "heatBucket": 5,
+      "heatValue": 56,
+      "start": 20
+    },
+    {
+      "content": "Ils avaient passé une demi-heure dans la\ncuisine à mettre des mots sur le frigo.",
+      "end": 27,
+      "heatBucket": 5,
+      "heatValue": 64,
+      "start": 25
+    },
+    {
+      "content": "Pendant qu'ils faisaient ça,\nj'ai fait des petits trucs en fil de fer.",
+      "end": 29,
+      "heatBucket": 5,
+      "heatValue": 63,
+      "start": 27
+    },
+    {
+      "content": "Une autre chaise et un beau black\nécrasé par un bouchon de champagne géant.",
+      "end": 32,
+      "heatBucket": 4,
+      "heatValue": 47,
+      "start": 29
+    },
+    {
+      "content": "De son côté, Ben aussi passait\nune soirée pourrie, avec Cathy\nsa copine reloue, qui lui reprochait\nd'avoir encore perdu ses clopes.",
+      "end": 37,
+      "heatBucket": 3,
+      "heatValue": 26,
+      "start": 32
+    },
+    {
+      "content": "Ben avait beau dire qu'il les avait posés\nsur cette table, elle faisait la gueule.",
+      "end": 40,
+      "heatBucket": 2,
+      "heatValue": 18,
+      "start": 37
+    },
+    {
+      "content": "En fait, c'est Kheiron\nqui avait récupéré le paquet de clopes\net qui en offrait une bien gratuitement\nà une meuf sur le canapé.",
+      "end": 44,
+      "heatBucket": 2,
+      "heatValue": 18,
+      "start": 40
+    },
+    {
+      "content": "Ça, c'est le regard de Kheiron\nquand il est en mode attaque.",
+      "end": 46,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 44
+    },
+    {
+      "content": "Malheureusement, la fille au bout de cette\ncigarette, c'est Maud, la copine de\nmon frère, et au bout de ce canapé, c'est\nmon frère, donc il y avait pas moyen.",
+      "end": 52,
+      "heatBucket": 3,
+      "heatValue": 20,
+      "start": 46
+    },
+    {
+      "content": "Cathy se servit de cette histoire\nde paquets de clopes pour quitter Ben\npour la neuvième fois.",
+      "end": 54,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 52
+    },
+    {
+      "content": "Elle a fini avec le beau\nblack, d'ailleurs.",
+      "end": 55,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 54
+    },
+    {
+      "content": "Il y avait mon père aussi qui squattait\nchez moi depuis son divorce avec ma mère.",
+      "end": 58,
+      "heatBucket": 1,
+      "heatValue": 17,
+      "start": 55
+    },
+    {
+      "content": "Il s'était assis sur la tranche\ndu canapé, avait relevé son col\nde chemise et levé son doigt en l'air\npour faire comme tous les mecs cool",
+      "end": 62,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 58
+    },
+    {
+      "content": "sur les photos des années 70.",
+      "end": 63,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 62
+    },
+    {
+      "content": "À mes pieds, il y avait\nBaptiste, mon coloc.",
+      "end": 65,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 63
+    },
+    {
+      "content": "Enfin, son bras.",
+      "end": 65,
+      "heatBucket": 1,
+      "heatValue": 16,
+      "start": 65
+    },
+    {
+      "content": "Le reste de son corps\nétait complètement bourré.",
+      "end": 67,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 65
+    },
+    {
+      "content": "Il avait fait un concours de shot avec le\nbeau black que s'est tapé Cathy à la fin.",
+      "end": 69,
+      "heatBucket": 1,
+      "heatValue": 16,
+      "start": 67
+    },
+    {
+      "content": "D'ailleurs, le beau black\nl'a montré du doigt.",
+      "end": 70,
+      "heatBucket": 1,
+      "heatValue": 17,
+      "start": 69
+    },
+    {
+      "content": "Il l'avait déjà repéré.\nAttends.",
+      "end": 72,
+      "heatBucket": 2,
+      "heatValue": 19,
+      "start": 70
+    },
+    {
+      "content": "Si Keyvan était avec Maud, Kheiron en\ntrain d'essayer de le doubler, le beau black\nsur Cathy, Baptiste bourré et mon père,\nvieux, de qui elle parlait sur le frigo ?",
+      "end": 79,
+      "heatBucket": 3,
+      "heatValue": 31,
+      "start": 72
+    },
+    {
+      "content": "Quand elle dit que ce mec intéressant est\navec Miss tâche ? Miss tâche, c'est Marla.",
+      "end": 82,
+      "heatBucket": 4,
+      "heatValue": 42,
+      "start": 79
+    },
+    {
+      "content": "Ce mec intéressant, c'est moi.",
+      "end": 84,
+      "heatBucket": 4,
+      "heatValue": 43,
+      "start": 82
+    },
+    {
+      "content": "Merde, faut que je\npasse un coup de fil.",
+      "end": 86,
+      "heatBucket": 3,
+      "heatValue": 38,
+      "start": 84
+    },
+    {
+      "content": "Bref, j'aime bien cette photo.",
+      "end": 87,
+      "heatBucket": 3,
+      "heatValue": 32,
+      "start": 86
+    }
+  ],
+  "video": {
+    "commentCount": 495,
+    "id": "00r3RKxAExo",
+    "isAgeRestricted": false,
+    "likeCount": 89012,
+    "viewCount": 7007993
+  }
+}

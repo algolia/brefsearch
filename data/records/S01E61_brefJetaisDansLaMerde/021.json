@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 569,
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "isAgeRestricted": false,
+    "likeCount": 120051,
+    "name": "Bref. J'étais dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU",
+    "viewCount": 9827505
+  },
+  "line": {
+    "content": "Il y avait ma copine et mon\nplan cul que je n'avais pas vu\ndepuis des mois au milieu du salon.",
+    "end": 24,
+    "heatBucket": 3,
+    "index": 9,
+    "start": 21,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=21s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E61_brefJetaisDansLaMerde/021.mp4",
+    "hash": "d8ab56af86",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwU1r02AAAOAXBD14kMG6pm3yvkmariZd2yRLYvNlkiauSdd2bZK2Cf1ACjrmbuKl4FlRZIKIB4+CoOBBhoLzMkWYylBhCt78LT4P6Lhu2O6EW0EyiObpbKcbRzsjvlwB4JyK0a8eP397dHz47ujDx0/uumBU6yDu9mb93si2rqeTm4sbWsNUpIYuXqky3LCmL+N0MZ19+frj5PuvgJNVdgN4pjXf9kNNWSTp/u4ty2htcA5N2aWixzKOUTWa4ubx55Ozv/86rNxgWOCLm2OJH8jCRNP2dvdMY4yQz9A+SXkQOVhOr9DCg7vLb6e/BzVNIhkwYIrpemnSj6b12iSeltkeolrFYgAJG0ErjzVY1n325OnrFy+HolXFCBBVKmMSzYfJiOen/aEiBAg1EfII3CRwM5uVCpj06P7B6c8/sWBeXsHAtboQQtj1O3aZjZpO0tqikEFAl8DNQl6HUHZldb8bHr55n9gBz1QAD0lvNaPwkpjDJZLaVnUETQgdAjfyOR0RgitJ4mr24b2Dltu+cP4i4CDNXVpBmaxAUhyk9LpcKGiFvJbDlMyaRKxxnmq2NfvO7eVVwyFg6T/kcHOuFGjtMQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E61_brefJetaisDansLaMerde/021.png",
+    "width": 1920
+  }
+}

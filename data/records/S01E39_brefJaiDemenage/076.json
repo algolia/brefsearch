@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 325,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "isAgeRestricted": false,
+    "likeCount": 90460,
+    "name": "Bref. J'ai déménagé.",
+    "season": 1,
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE",
+    "viewCount": 7948865
+  },
+  "line": {
+    "content": "Il a dit:\n— C'est fini avec Maud.",
+    "end": 77,
+    "heatBucket": 1,
+    "index": 30,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=76s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E39_brefJaiDemenage/076.mp4",
+    "hash": "4b1c6b5558",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAeGR0oLkU4QV5xZFiUfnallpKvpqW5r6bBtaTLwbfOxbyYjoeAdm+zqqO1r62ak48AFhckTUlQQkxrb2NbkHl0ZllbfltVl4mG0svI19DJy8O7QDIwIhQTSjw5q6KdpZqPADk4PYF+c0pRakAyM1c+OVhHRUMxLzs0OczGx83HwcjBvDksKisgICUWFYBzarOnlwBSPTVpWk5IRE0qIy+Wi6J4bHU9MTMzJimqpanHvrjLxL5XQz4UCAYnHRyXinuwo5IAVVJYZFxaSkFDOiswh3mIcW6GWUdMRjc7mpef18/KramqW0dKOiwwSEdQloyCq52NAFlYXG9xdlhbYzExQ1pFSFBBRUU6QklFTrKrsMO8uXRyfUlJXl9gdFpYZHxxaJyPgwB8e3VYWWA/PEInKTwmIisqJjAaHzReWFy1rbKQgoJPT2FZW29hYXJXU1eLgHWViH0AaWVfREVOIRwkJiErHxwkKCQrJyIpOyomaVpbUUlWPT5RRkZXSEZRcmpll4l+hXhvADUvMSEeIyIbHSQeIjEpKzksKz4tKkg4NkM9SDw+UTk4RjAuOVVNS4d8cYF2a3NoXjrPppP3omTuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E39_brefJaiDemenage/076.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 761,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "isAgeRestricted": false,
+    "likeCount": 138299,
+    "name": "Bref. Mon coloc' a fait l'amour.",
+    "season": 1,
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI",
+    "viewCount": 11899469
+  },
+  "line": {
+    "content": "— Putain, Baptiste !\n— Entre pas, entre pas !",
+    "end": 37,
+    "heatBucket": 1,
+    "index": 18,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=35s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E23_brefMonColocAFaitLamour/035.mp4",
+    "hash": "7e86fd4a37",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwctq1FAAANBLRRGLKKMuZtVBdNy40FbEDqjgQsGFrrQbdeGvdOUnFKWlLirYlrRJpk0yeU4myZ28k5t7855niaA/4TmAOjjoHx+LNK3zvK1pvmUhzyVBkEVhEcd5FGaBnzh2YI4sWZSYU8D+PhQZRhcER1Njx6lwkqO4TFBNSE3Si6paFHmF4tR3PX2onfcBR1E6z49VxTONEqFv29tP19dfbD572dvsPdn4+vnTsiyWRV4nMbKhORDAgKEtSfJ0PYBWidDb12+uAvDq9p1eq9VdvXa3s1YlqKmrKcGp744VGUgsCxXFM4wQwjJBH969v7Sy8rzT+djt3rvVetC9XxPc1NUsxanv2aoMRLZvqZprWsF4XGH8ZWsLANC+cfNhu339yuWNx4/meXZRFhOMiOtAWQQCzeii7IzM0LZzhIaDwd7Ozt6P7/u7u79+7kNNbSaTeZaWcRRB0xA4cEadSmecpWqeCbEX1CRtptM/89nfxeLfctnMprM8q5MYO7ajqSpLA/rwiDuhFY4fSYprWJHtINfFvk+iIA1DEgbE92JoukNtxJ+L1NF/L24nr55g5mIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E23_brefMonColocAFaitLamour/035.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "duration": {
+    "human": "1:50",
+    "inSeconds": 110
+  },
+  "episode": {
+    "index": 49,
+    "name": "Bref. Baptiste est Super Flippant.",
+    "season": 1,
+    "slug": "brefBaptisteEstSuperFlippant"
+  },
+  "lines": [
+    {
+      "content": "Bref, lui, c'est Baptiste.",
+      "end": 1,
+      "heatBucket": 5,
+      "heatValue": 81,
+      "start": 0
+    },
+    {
+      "content": "— Ça va ?\n— Ouais, ça va et toi ?\n— Non\nEt ça, c'est son cœur.",
+      "end": 5,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 1
+    },
+    {
+      "content": "À chaque fois qu'il se met avec une fille,\nil lui donne beaucoup trop tôt.",
+      "end": 7,
+      "heatBucket": 4,
+      "heatValue": 62,
+      "start": 5
+    },
+    {
+      "content": "— Tiens.\n— Tiens.\n— Je t'aime.",
+      "end": 9,
+      "heatBucket": 4,
+      "heatValue": 56,
+      "start": 7
+    },
+    {
+      "content": "Du coup, elle joue avec.",
+      "end": 10,
+      "heatBucket": 4,
+      "heatValue": 52,
+      "start": 9
+    },
+    {
+      "content": "Elle se rend compte qu'il prend trop\nde place, alors elle le crève.",
+      "end": 13,
+      "heatBucket": 4,
+      "heatValue": 42,
+      "start": 10
+    },
+    {
+      "content": "La dernière en date,\nc'était Anne-Charlotte.",
+      "end": 15,
+      "heatBucket": 4,
+      "heatValue": 31,
+      "start": 13
+    },
+    {
+      "content": "Il est tombé amoureux et il est devenu...",
+      "end": 16,
+      "heatBucket": 4,
+      "heatValue": 25,
+      "start": 15
+    },
+    {
+      "content": "Super Flippant.",
+      "end": 18,
+      "heatBucket": 4,
+      "heatValue": 20,
+      "start": 16
+    },
+    {
+      "content": "Grâce à ses yeux embués d'amour, il peut\ntraduire les textos les plus banals.",
+      "end": 21,
+      "heatBucket": 2,
+      "heatValue": 16,
+      "start": 18
+    },
+    {
+      "content": "— Tu as vu ce qu'elle met ?\n\"Je préfère qu'on se voit demain.",
+      "end": 23,
+      "heatBucket": 2,
+      "heatValue": 12,
+      "start": 21
+    },
+    {
+      "content": "Ce soir, je suis fatiguée.\"\n— À ton avis, ça veut dire quoi ?",
+      "end": 26,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 23
+    },
+    {
+      "content": "— Bha, qu'elle préfère te voir demain\nparce qu'elle est fatiguée ?",
+      "end": 28,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 26
+    },
+    {
+      "content": "— Non.",
+      "end": 30,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 28
+    },
+    {
+      "content": "— Ça veut dire j'ai trop\nde sentiments pour toi.",
+      "end": 32,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 30
+    },
+    {
+      "content": "— J'ai peur.",
+      "end": 33,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 32
+    },
+    {
+      "content": "Super Flippant.",
+      "end": 35,
+      "heatBucket": 2,
+      "heatValue": 12,
+      "start": 33
+    },
+    {
+      "content": "Il peut multiplier la valeur\ndes cadeaux par 1 000.",
+      "end": 37,
+      "heatBucket": 2,
+      "heatValue": 12,
+      "start": 35
+    },
+    {
+      "content": "— La dernière fois que tu m'as offert\nce T-shirt, ça m'a fait super\nplaisir, alors du coup...",
+      "end": 43,
+      "heatBucket": 2,
+      "heatValue": 16,
+      "start": 37
+    },
+    {
+      "content": "— Surprise.\nSuper Flippant.",
+      "end": 46,
+      "heatBucket": 4,
+      "heatValue": 19,
+      "start": 44
+    },
+    {
+      "content": "Grâce à son cœur qui bat\n100 fois plus vite, il peut accélérer\nune vie de couple et présenter\nses parents au bout de huit jours.",
+      "end": 50,
+      "heatBucket": 2,
+      "heatValue": 16,
+      "start": 46
+    },
+    {
+      "content": "Super Flippant.\nIl envoie des e-cards.",
+      "end": 52,
+      "heatBucket": 4,
+      "heatValue": 19,
+      "start": 50
+    },
+    {
+      "content": "— \"Je t'aime plus que ma mère.\"\nSuper Flippant.",
+      "end": 54,
+      "heatBucket": 4,
+      "heatValue": 19,
+      "start": 52
+    },
+    {
+      "content": "Il met plusieurs heures à laisser\nun message de 10 secondes.",
+      "end": 56,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 54
+    },
+    {
+      "content": "— Pour modifier votre message, tapez étoile.",
+      "end": 58,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 56
+    },
+    {
+      "content": "— Salut.\n— Salut.\n— Salut. C'est Baptiste.",
+      "end": 61,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 58
+    },
+    {
+      "content": "— Ça te dit qu'on se voit ce soir ?\nTrop classique.",
+      "end": 63,
+      "heatBucket": 1,
+      "heatValue": 1,
+      "start": 61
+    },
+    {
+      "content": "— Ouais, salut, c'est Baptiste.",
+      "end": 64,
+      "heatBucket": 1,
+      "heatValue": 1,
+      "start": 63
+    },
+    {
+      "content": "— Ça me ferait trop trop trop trop plaisir qu'on se voit.\n— J'ai trop dit trop trop là.",
+      "end": 69,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 64
+    },
+    {
+      "content": "— Salut, c'est Baptiste.\n— Salut, c'est Baptiste.",
+      "end": 70,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 69
+    },
+    {
+      "content": "— Ouais, salut, c'est moi, c'est Batou.",
+      "end": 71,
+      "heatBucket": 1,
+      "heatValue": 1,
+      "start": 70
+    },
+    {
+      "content": "— Salut, c'est Baptiste, il est 23h00.",
+      "end": 74,
+      "heatBucket": 1,
+      "heatValue": 2,
+      "start": 71
+    },
+    {
+      "content": "— Ça fait un peu tard pour qu'on se voit.",
+      "end": 78,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 74
+    },
+    {
+      "content": "— À plus, bisous.",
+      "end": 79,
+      "heatBucket": 2,
+      "heatValue": 18,
+      "start": 78
+    },
+    {
+      "content": "Super Flippant.\nForcément, elle l'a quitté.",
+      "end": 82,
+      "heatBucket": 4,
+      "heatValue": 28,
+      "start": 79
+    },
+    {
+      "content": "Du coup, il a débarqué chez moi.\nÇa, c'est moi et ça, c'est mes couilles.",
+      "end": 84,
+      "heatBucket": 4,
+      "heatValue": 46,
+      "start": 82
+    },
+    {
+      "content": "Et Baptiste est devenu\nSuper Casse-Couilles.",
+      "end": 86,
+      "heatBucket": 4,
+      "heatValue": 63,
+      "start": 84
+    },
+    {
+      "content": "— Ça va ?\n— Non, ça va pas.",
+      "end": 88,
+      "heatBucket": 5,
+      "heatValue": 73,
+      "start": 86
+    },
+    {
+      "content": "— Pourquoi elle m'a quitté ?",
+      "end": 90,
+      "heatBucket": 5,
+      "heatValue": 80,
+      "start": 88
+    },
+    {
+      "content": "Bref, Baptiste est super flippant.",
+      "end": 96,
+      "heatBucket": 5,
+      "heatValue": 71,
+      "start": 92
+    },
+    {
+      "content": "— Oh non, tu vois pas tes copains ce soir\n— D'accord.\n— Ouais ?\n— Ouais",
+      "end": 101,
+      "heatBucket": 5,
+      "heatValue": 70,
+      "start": 96
+    }
+  ],
+  "video": {
+    "commentCount": 490,
+    "id": "lrWa9VYEb78",
+    "isAgeRestricted": false,
+    "likeCount": 93351,
+    "viewCount": 7580349
+  }
+}

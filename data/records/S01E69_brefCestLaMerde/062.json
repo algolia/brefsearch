@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 415,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "isAgeRestricted": false,
+    "likeCount": 80337,
+    "name": "Bref. C'est la merde.",
+    "season": 1,
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc",
+    "viewCount": 6082963
+  },
+  "line": {
+    "content": "Ben, dis-moi, tu te bourres la gueule\nquel soir pour oublier tes problèmes\navec ta meuf cette semaine ?",
+    "end": 66,
+    "heatBucket": 1,
+    "index": 24,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=62s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E69_brefCestLaMerde/062.mp4",
+    "hash": "f0729e7a75",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gClq7N6cHopDRVKHjA5FiMeEBNFP0BoYWWDbW6AaGmCZ2R/ZWEnHyEoKCxYVlxTUlcAr7a9h36JLA4XTR8yPhgmGw0RQz9AWlVZZFJVcVlaUT5AdlxZRTc2RDQ1XVldWFdcALW8xJOOmS4RGkweMToTIjIjJmxZWmxaXWdXWndeXmBMTIZtanVWUmZOTlNaYFdXXQC4v8ebl6IwExxGGis6FCNqWFt2WllgRUZ7ZWZ6Xl6EZmWJbmp5WVR3S0xmREg5OkUAuMHJpKixMhYfPhUlTio4blZWPjExNCotVUFDUjk7bVJQe2BbZ0tHZh4dhiglgzg3AJd4dqWTnzwjKjIKGWA/TGFNSzEdHUIZGVE5O2dRU2RMS084NUAiH2AZGHsmJIApJgB6PDWobXyRZW9RKDdzWmFeRkNMGhhTERA9FhZKMzQzIiIwGxpEGRhtHx12IyF5JSMAfUQ4nGl3nneAgGFoc2JiYC8sXBYVOw8PTg8OUyAgRTg6UjIyXx0dcSEhcCEhdCMhAFosKm5ETj4hIlM9QWZTVFsfHTkLCzcODVoVFGAaGVUxM2EgIGAYGGcdHWcdHWsfHvyCgIpfuquXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E69_brefCestLaMerde/062.png",
+    "width": 1920
+  }
+}

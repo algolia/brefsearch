@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 557,
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "isAgeRestricted": false,
+    "likeCount": 81978,
+    "name": "Bref. J'ai pas réussi à dormir.",
+    "season": 1,
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM",
+    "viewCount": 4963838
+  },
+  "line": {
+    "content": "Claquer toute ma thune à Las Vegas,\nm'éclater avec les filles d'Energy 3000,\ndemander cette fille en mariage,\nboire de l'eau de la lune.",
+    "end": 75,
+    "heatBucket": 5,
+    "index": 30,
+    "start": 72,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=72s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E30_brefJaiPasReussiADormir/072.mp4",
+    "hash": "b587f0f4aa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwX9zkmAAAOC3C3wDFBj5+xcgDF4H+ioIiGLI5tyyy+Wclk3dbSuz7rbudl22PkLXv/2xb9vzAEZQX5a6OTQp41XF2aj+3b7/XWnfVZyt6n2R7JtSfZlHk71Cm95TaE4EKSkqGBdF84MePBiHv1Fng9yFeDAUUag3x1prKuEZk0Q0LbBJjWKLIKO9kZ1trjrRu/dm9EsxR/kylioOl1QVY1APFkb/gRZkhuEZvkyxWQATechkaEFF4c6IHlV8Xqy4Gh4WtF5Obhr+3Br/zeqvyXj6BVcmKR4kpSAn1VOlmta5N/o/kTOrtc/s6Kp79gOHV5q3dqb/ZHsN4wJMpEhGABn9nVjtF5S24m2NYGNFy7o/bUXX3sm2N9nhwc6dPYnNOaQ5GE8SFA+yxmX54Li07yPv0h1+w733pju2wpV78tU5vm30P3kXT7K9JGIMATkSsoAvdPismZFa9tFnZ3DbDFe19jnuzN3hFr9a6Nap9faP1LomYgkiliAhB8hnzwEg2HQVBx9xsLDCdc2fImtkRTe6PVIbp+bho9hYwniaoDgCcv8Bxp1SVtdxb0gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E30_brefJaiPasReussiADormir/072.png",
+    "width": 1920
+  }
+}

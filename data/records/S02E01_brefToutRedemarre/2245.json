@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Where there's no one\nelse to blame but myself.",
+    "end": 2252,
+    "heatBucket": 1,
+    "index": 734,
+    "start": 2245,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2245s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2245.mp4",
+    "hash": "e8814d3401",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAcElEQVR4nKWNsQrFIAwAmwR1UMEMBkRBRFH8/x/s9KBDwcK7+Y67rv8BACJCRAD4FHjva62lFGvt2dZar7X23nPO3rsx5hAgYoxRRJhZRIjoPAkhtNbGGMx8thGx/Mg5fzq8AgDOufceHjzPKSWl1A3DrAcwl9h/kwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2245.png",
+    "width": 1280
+  }
+}

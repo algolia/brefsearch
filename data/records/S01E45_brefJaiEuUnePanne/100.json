@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 548,
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "isAgeRestricted": true,
+    "likeCount": 51384,
+    "name": "Bref. J'ai eu une panne.",
+    "season": 1,
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0",
+    "viewCount": 3643369
+  },
+  "line": {
+    "content": "— Non. Ce soir, je peux pas.",
+    "end": 102,
+    "heatBucket": 1,
+    "index": 38,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=100s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E45_brefJaiEuUnePanne/100.mp4",
+    "hash": "fbfe8b3271",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZVJREFUeJwV0F1v0lAYAOBeCI7znu/TL0rLKZSisG60NELHIEPGRE1YmDOR6TQ6JSaaGHe7K+eNV/4Cd2P8o4Yf8Nw8xvlB+mE+vH4xvZokMVRCDDGGCEOLYg+DT3CNEAdhuoNQCVXuIWM97FyMdj/O0i+Pe5vRw74jE0F6iuYW4zsVWUE+wfYWACoBlMD4uez/vpzebaY3z7Pb1cFJoN7u+acNdRaZhU00ARshiWALygiVwPg+y/99W/55V9zMk79fl9eH7Ytu9VkgFgFfarFuW4lJbYRcjAUCfB+MH6+e3H1ebHJ9uyo+FfFTrY49kUky9uS4pg49Oa+bMachIw3BXcKMl4PkdU+v08ZR3Soc0VekiVGTQGrxRNGupLnNM1u0OK3ibYBhlcvnj/Z+Xa3ej/dTk2sMHqAGhUlNzerWwBX7JstskdkyZNQFMCbdzpvZ9PKoWHSj41Yw8p2YU01gWFUDV0QMRwx3JHsgWVPQKiFGpnUehmngZ76Xek5bcQ9Dx+S7pog4bQkaCxpSUiOgGakz+h9Opz8ieNlDvwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E45_brefJaiEuUnePanne/100.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 617,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "isAgeRestricted": false,
+    "likeCount": 110917,
+    "name": "Bref. J'ai aucune mémoire.",
+    "season": 1,
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw",
+    "viewCount": 7767366
+  },
+  "line": {
+    "content": "— C'est qui ?",
+    "end": 18,
+    "heatBucket": 3,
+    "index": 8,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=17s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E54_brefJaiAucuneMemoire/017.mp4",
+    "hash": "cc46b9605e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwdtu0mAAAOC/tFB6Wks5dRTK2kKPnLGFUexmhenC2GDrOnVbNJNlMynIyC400d0YdXEX3hjjpQ/gQ/p9QDH6aU5V657jHXvjdweXP3cOl4PJ4vT64fTisz86uzoJ7lbL77eL5/0+z2VAzdqhUVTT2+OXH8Znd5ef/p27bb2kXtz8mYU/wvDrq/1A59Pb1fJ21eRoAmxNwo57KIvqs+Dji/C3/+b+vFcaDZ++Xv2d3/5aLe/nR35PSLQkelOTZLkKvMl8138fi8Bae3Tk3xgZvi7wynqq9Wg4GJysFl+up9OhlrMlusynlHIdWM6BItUAiOjtXbfldQqSlssLCaa0zlc29GA6e9J1N7VKLsGmaFIQNDC9erCdMQDAqLiWUm/kZSmT5RhKzOa6ZmPPrgp8g6BUGKajCCaKFTB++812RhCAlLLl1h53NmSvYYgcm8TJBMkUWJokxSicjMJUDMEIPAm29me1ul2I481SsyU1e5ISWGYxSRLYWgyhokg8jqZhiIIjOAyhAMCg0XVMU5cwQikaSl4tMikGx7JrJE1QKBJnKRaNskiEiEAoBBAIIP8B6hRRwTQxjaoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E54_brefJaiAucuneMemoire/017.png",
+    "width": 1920
+  }
+}

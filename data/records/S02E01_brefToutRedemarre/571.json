@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Mais au lieu de ça,\nj'étais tout seul chez moi.",
+    "end": 574,
+    "heatBucket": 1,
+    "index": 183,
+    "start": 571,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=571s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/571.mp4",
+    "hash": "44c9bdfc2e",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpElEQVR4nAXB327SUBgA8HO+73ynLXRtYVAQWsCtgwIbKww2ghtejMmF0s1Yptl0yMTEOIzJkqnzT+KFRm+3R1CvTHwDH8GH8vdjRQO9BPiLsJriQQY6edjMw6YDqzbWUlhO4rKFRQNdHR0dszFkh754HsD5Fnzsw/chXIXw+Q6dBWrkyUlDztblYUWJPDpYooEjO7bC3t3i1yP+64j9nvIfx3D9AL/clWNP3bHpWQMvejhv49M6jD0YutS2Jfu2x/7O2b8P/M8pv9qHy4HcXdHu1411x2jn1Pc9uOzBWRMe+3xUwm5GspOG+vPY+roHb3fgoo8nrdhBSXu1YTysxNN6PCrjeYvPAz6p8rCEWxlio4r+aXhjUuezFk5b1HXVRkp9M8y+vp1OatJZwFmNPynzRx6/VxQdm1gzTeFN9qLJpms8qglDIVOjfi1RLxhCiKoFpz6PlnhYgN0sBIvEulk6qoqXTZit4dgXOUMQAmOoEGUNuZHEsICDnNi25bZrrZiSWRIWCFIqunG0VYgRSATGwdREwaQ48jjyBIEpRTGf0xX6D2gCQP0mvKHMAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/571.png",
+    "width": 1280
+  }
+}

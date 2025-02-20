@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "isAgeRestricted": true,
+    "likeCount": 63867,
+    "name": "Bref. Ma copine travaille dans un sex-shop.",
+    "season": 1,
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8",
+    "viewCount": 3454073
+  },
+  "line": {
+    "content": "En fait, la fille met l'œuf\net avec la télécommande,\nle mec peut l'activer à distance.\nJ'ai compris certains trucs.",
+    "end": 55,
+    "heatBucket": 1,
+    "index": 24,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=51s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E48_brefMaCopineTravailleDansUnSexShop/051.mp4",
+    "hash": "d91040717a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwVtvmmAAAFBe9rAmc5WozQdoEcRakBX4hAFeoMomIIo477G21msbs5uJc92Srcm2pMselqXZkr3sr+4cpFmp3fj1pT+7NIJ5wZvp1b4s7jzzlaW/M9W5qLc5s80Zblr1jtQyxSB1nvs18b/1nbtO/WWpNtOcH4Pgz2Xr/sL/Ow4+6EaQ1GxCUmJMKoSd53PIxvN+jp1PVX1naTX+yVAsvTa9G7e8s/PvC8qYEWwCLsv+7aDXldVJXkbc0vCLX9ia6uBpUTrWbNj7fL7+PW2eySdbQ3XoLIcmPna76+CFlOIVnEYoridmSquiOassnhW3ojAtGeu71fy2pr+BkpNtUdHcptOeNVoUwQiARgBlReL572azny5nxQ0UlunjkZJb3F9M/y0XRXHN0teN0+u533ouKfg+QB5GMgcAfpWtAiZRqTMuPcmkRhQ5UvhJRblimSuYfcszK4U+4eMkgQIkBITHKFsA8DAC0ZiWwF0cVBOYjQMHB/UjcsimpsxhR0oKkKRYjET2UHrvER0Ow3CYeRBK7EdykaiKHZwmgBUHFom7SaIRi+YzGMuBeDqK/wfOs2pq8GRWrwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/051.png",
+    "width": 1920
+  }
+}

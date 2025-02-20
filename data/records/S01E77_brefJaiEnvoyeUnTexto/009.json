@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 566,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "isAgeRestricted": false,
+    "likeCount": 85617,
+    "name": "Bref. J'ai envoyé un texto.",
+    "season": 1,
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk",
+    "viewCount": 7559587
+  },
+  "line": {
+    "content": "J'ai écrit: Ce soir,\nmais ça faisait trop mort de fin.",
+    "end": 11,
+    "heatBucket": 4,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=9s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E77_brefJaiEnvoyeUnTexto/009.mp4",
+    "hash": "59e4c2edf7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZFJREFUeJwtxkuPk0AAAGB+oJ428eTBg1lNL/VxMRrjj6mHrk3rbqBQFqFAeRVwYAszwzDQgm21bsrL82qNWZPv8DHPe68Uw/NCFCIakQ2kBaQFykpIy/tHZBMi6oZobvoTTmb6L9/FSY7pBtOC5N/S9TbJynsk/58kK1G6jnDmgpjpv/5QlLvjsWqa7vuPw263r6q6bbu27aqqruqmadq6brvu1+3tkWYbptd/H0Xw8vKzKIr7/X46nQZBsFjomqaxLCvwPMdxlmWNx2OEUFHumKe9txAlojgbDoeOs7RtR5ZlVdMGg4HA8x9HLMQpIQQhdDgc8mzLPDl/gzExFjqM4yAAq1XoeW6SJMpcwQgW2593v0+n059/7k7LlGUePX5h2AAneYwoJjnEGSbrGNGUFhBnEKUgiEEIfbDyAbySJ8yDs2eq4Uuqs7C+zmTTdIJrxTIdcK1YuuFJc9uwgTS3LfeGE/UvypJ5eHZ+cTHheEnXDVU3BWHm+eHo0ygIItte+uBG1XTDcjmOnwoyP5P+AspLVLSERDryAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E77_brefJaiEnvoyeUnTexto/009.png",
+    "width": 1920
+  }
+}

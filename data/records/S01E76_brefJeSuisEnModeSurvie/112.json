@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "isAgeRestricted": false,
+    "likeCount": 133758,
+    "name": "Bref. Je suis en mode survie.",
+    "season": 1,
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ",
+    "viewCount": 11710298
+  },
+  "line": {
+    "content": "Et en dessert, le fameux doigt\ncollant au sucre vanillé.",
+    "end": 119,
+    "heatBucket": 1,
+    "index": 42,
+    "start": 112,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=112s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E76_brefJeSuisEnModeSurvie/112.mp4",
+    "hash": "fdd82c508c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwXtTmgAAAHA+ye52Ny9LFgKJGvMaWL5mplGjcJHKjauLzJ1bijmfieMRUSguxLO9y3W76499g32w/X6A1DXV3tVAt8tFEfUG3C5wEURerkQ+5bLVdT+JoLB3OYTHVNk+LbfjkTQwGNzp8sjUx/TmGx+y7EOCKITx+29P4+FS2ItDIOLFn3uws5rSaVzQ1B7Q+qiO7d/26Gcimgn4QosgGoCxA5YP+4l2bOkFtgB6sIU5mMuVrMEvVXYAOv26UW1d9K9fRTcQyP/0ybMomcjlTxhitbaCetzzcy4IhkLbFOeM/85m/4Bu0+jUZbmrp5I0AmHgPOz3kbHIVpJIEcEIHiCYDEVTOxvrzO3k68SeAUrfUqRLQ1bZHdrt8qySaVG0i8VLjmsmYnSeLVtaXeCzVGb38WH448sVoDbzRrdgSTmeWQsu4QWadfTb9gelVFSqlVH//O5a7p3we4UsN/3cuv+uA45+6Gi8WttsHaduxHfKIfdomJpwxFBsQxAfjNFY0ic9Zaoqaufgz70J3Gj82VGS3w69z8cb3G6F2frWOZeFY4Gh99dIq1Jzepop6UN1qLTrU9v4D4QlrzA+0SLEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E76_brefJeSuisEnModeSurvie/112.png",
+    "width": 1920
+  }
+}

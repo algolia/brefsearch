@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 614,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 36,
+    "isAgeRestricted": false,
+    "likeCount": 96372,
+    "name": "Bref. J'ai dîné avec cette fille.",
+    "season": 1,
+    "slug": "brefJaiDineAvecCetteFille",
+    "videoId": "6dyIHnUE5FY",
+    "viewCount": 8801399
+  },
+  "line": {
+    "content": "Quand je suis revenu, elle avait repris\nun verre, moins sept points de sobriété.",
+    "end": 60,
+    "heatBucket": 2,
+    "index": 24,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=6dyIHnUE5FY&t=58s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E36_brefJaiDineAvecCetteFille/058.mp4",
+    "hash": "f01a3d09ef",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwFwWtvk1AAANAb3SjPy2MUyoUChZYBRahtKWKho8WO0XbLZtykZovVxBmN0U+Lib/C+Is9B1hI9JC0dAz1RPhQpl/qvClmj1frT3XRFLOnu2rq9ATIBAbKh7YlCkCEnMzyZ55nI+MqCR6W8aHKf9+//Xm7fX82bfJRZOltHs4c/eKl48siIDBC5qVXXjzQ7NhSrifux/PsJosfzhe7iZ8PtD6SA03eBb3U6Y41CTAEyRCUKdtDs38zHx/qMjI1FjtaRf7jpsr63amFRoqwNNuJ2Zn3VCDQbAvDQ+O09Ic63roYR2XoKiQe6cp+VRzK9Ndu/i6b1I5SDzovdBVIrGCKktVBhWMuLP1pv/379fZ7lX4u42+bxb8fzX71+o1nXg7kLkszFA0QpNeuIXFcG9Kpb2eRu45Oc99OPXvuW5dpeLdI/lwXm5HDkCSFE0CFFIsTKgsh1gLPntMYZvOUColE58q+iFrHBolXobudBCrPEccY6LdZGsOxI0znaYYkki53H0mxxjVjbevK/gkMZc6gcIMmESQ9if0PvSRGaNjMcPoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E36_brefJaiDineAvecCetteFille/058.png",
+    "width": 1920
+  }
+}

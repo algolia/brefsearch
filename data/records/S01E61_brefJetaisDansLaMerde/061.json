@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 569,
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "isAgeRestricted": false,
+    "likeCount": 120051,
+    "name": "Bref. J'étais dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU",
+    "viewCount": 9827505
+  },
+  "line": {
+    "content": "— Je lui ai dit que je sortais avec toi.",
+    "end": 62,
+    "heatBucket": 4,
+    "index": 25,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=61s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E61_brefJetaisDansLaMerde/061.mp4",
+    "hash": "b5afe51cc7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVy9lP2nAAAOBf9gCadYBRBIziQsFFKNDC5HAcbUdBoRctpdhSenA5xhiSKYJGdHvYgw+LyZa57J9d9r1/IO1/kzmIx2MZFEHFEjHTlAZR+KI0v3/o66dlDi/k0Pi+z4vncYosu50OkE4V/YHwzm5QIslZR1329Hb15L6nf+3pElEcq2etSukQDjTFM47md9xbwOPZ3XJtujY8dC5/PzB/3c5/3syfb69/3y2eFld/Hu40nsdiWKdtSYIcCsDA593bcLggyBmBQ2OJf5yO/q6WP2afVj3jcTJ6ur4USySZRE2tK0tqLBIF226fA3Ks29eglw4qlVwNjIeBORVZi8InIrPsm2w6wcZD521dltQ4EgUQ9GrdZl+z2T1efzaZMarvbyztSmDnPDNtcCZ7SuePDaY86fVbsnaUeAvsNvsLAKKxVF0ekjUti2J9rvptYC3a8qTJ48f5Wt1QFOPjYCSwAnIYAQAAp2uTrhuqOW0ZF0StkwhHcAwhsWg2fPB6P/iOkml5rHYvKYr2bXv/BziIVBitLg8V80K25ozQ5YqFk1SyQRRicCCHM5zyudoYVoRzoqr9AyNKdsA6G1t5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E61_brefJetaisDansLaMerde/061.png",
+    "width": 1920
+  }
+}

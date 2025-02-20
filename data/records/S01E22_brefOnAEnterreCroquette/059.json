@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 585,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "isAgeRestricted": false,
+    "likeCount": 85441,
+    "name": "Bref. On a enterré croquette.",
+    "season": 1,
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths",
+    "viewCount": 6068571
+  },
+  "line": {
+    "content": "— Toi et tes petites patounettes.",
+    "end": 70,
+    "heatBucket": 3,
+    "index": 22,
+    "start": 59,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=59s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E22_brefOnAEnterreCroquette/059.mp4",
+    "hash": "74bc6cb254",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwU1vk2AAAGDuJsakcVtqldrpNjX9gNJBgfZdKaNAaUtL2cC+a4FSaJHRja5bFmfjNDHRRD150IMHTTzqyftu/i2fBxkolO3nunp6aoLY4mA/bx0Ax+BNWNSsnctFc+62fLhvdHBHr0xMDrF1ynUJd4xHLh6/qF1GTbVdoVm8QDzaZXdo5pk7FD69GcUeN3eEE1dFRod0YPGvz/WXcW8C6dXCpMgn82n/45UTPAfrqdv9VvF60QoscBHI/pGEhLNKOAJnnnoeHi5m6upEr+1h37+8//3BXepECl3ryE9Xp82LY/kq1kJbRHzInfnSqafEnroM9BmUGGbrz9/wc9RctnNFLE1SibFJhFbt1aI9dwVkoO45hjAdKtNh2z9Sxmajxm3d/Hv749qJwP3dwgMMvyPWUdjDYZfsCTiiSfTEqHuD/WOnGdptqHEklf318+u3d5ENHqfWb2HZDZ5NN6rpOr0pg21E4Yt9uQy7wDrgbEOEGl9lMJbB6xyJFbYfZhIlfK1Go1I1w2BotYQiIsg3QL4lEF2R0WRWFcsSV5L4nN7JM0SGLd8rEQmicLdKJsv5JJFN/gekmIUYUjwcrAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E22_brefOnAEnterreCroquette/059.png",
+    "width": 1920
+  }
+}

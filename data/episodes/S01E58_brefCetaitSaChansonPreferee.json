@@ -1,0 +1,301 @@
+{
+  "duration": {
+    "human": "2:10",
+    "inSeconds": 130
+  },
+  "episode": {
+    "index": 58,
+    "name": "Bref. C'était sa chanson préférée.",
+    "season": 1,
+    "slug": "brefCetaitSaChansonPreferee"
+  },
+  "lines": [
+    {
+      "content": "Bref, à chaque fois que\nma copine me faisait un cadeau,\nelle mettait la barre très haut.\n— Tu viens ?",
+      "end": 5,
+      "heatBucket": 4,
+      "heatValue": 71,
+      "start": 2
+    },
+    {
+      "content": "— Tu descends ?",
+      "end": 7,
+      "heatBucket": 5,
+      "heatValue": 89,
+      "start": 5
+    },
+    {
+      "content": "— Bon, tu la montres à personne.",
+      "end": 9,
+      "heatBucket": 5,
+      "heatValue": 95,
+      "start": 7
+    },
+    {
+      "content": "— C'est la vidéo où Fanny et Nadia étaient\nbourrées et où elles ont fait des trucs.",
+      "end": 14,
+      "heatBucket": 5,
+      "heatValue": 92,
+      "start": 9
+    },
+    {
+      "content": "— Bon anniversaire.",
+      "end": 16,
+      "heatBucket": 4,
+      "heatValue": 70,
+      "start": 14
+    },
+    {
+      "content": "Alors que moi, je galérais un peu plus.\n— Tiens, c'est...",
+      "end": 20,
+      "heatBucket": 4,
+      "heatValue": 50,
+      "start": 16
+    },
+    {
+      "content": "— C'est une patate avec des bras.",
+      "end": 24,
+      "heatBucket": 4,
+      "heatValue": 23,
+      "start": 20
+    },
+    {
+      "content": "— Cool.",
+      "end": 26,
+      "heatBucket": 1,
+      "heatValue": 11,
+      "start": 24
+    },
+    {
+      "content": "Sauf que là, elle était partie trois jours\ndans sa famille et elle rentrait\npile pour la Saint-Valentin.",
+      "end": 30,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 26
+    },
+    {
+      "content": "J'avais décidé d'être un homme et de\nlui faire un cadeau tellement puissant\nque je n'aurais plus besoin de rien\nlui offrir pendant au moins six mois.",
+      "end": 34,
+      "heatBucket": 1,
+      "heatValue": 4,
+      "start": 30
+    },
+    {
+      "content": "J'avais tout calculé.",
+      "end": 35,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 34
+    },
+    {
+      "content": "Le matin, je lui avais dit\nque je ne pouvais pas aller la chercher\nà la gare parce que je rangeais.\n— Si, je range, écoute.",
+      "end": 39,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 35
+    },
+    {
+      "content": "— Tu vois ?",
+      "end": 40,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 39
+    },
+    {
+      "content": "— Je sais pas moi, t'as qu'à\ndemander à Steve.",
+      "end": 42,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 40
+    },
+    {
+      "content": "En ouvrant la porte, elle allait\nfaire tomber la chaise pliante\nqui était accrochée à l'interrupteur.",
+      "end": 45,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 42
+    },
+    {
+      "content": "L'interrupteur allait déclencher\nune lumière qui allait projeter\nla constellation de la petite cuillère\nque j'avais inventée quand",
+      "end": 48,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 45
+    },
+    {
+      "content": "elle m'avait emmené en week-end.",
+      "end": 49,
+      "heatBucket": 1,
+      "heatValue": 4,
+      "start": 48
+    },
+    {
+      "content": "— Ça, là, c'est la constellation\nde la petite cuillère.",
+      "end": 52,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 49
+    },
+    {
+      "content": "— T'es con.",
+      "end": 54,
+      "heatBucket": 1,
+      "heatValue": 6,
+      "start": 53
+    },
+    {
+      "content": "Ça allait aussi allumer le mixeur,\nrelié à des ficelles, elle-même reliées\nà des poulies qui allaient\nrévéler ses plats préférés.",
+      "end": 58,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 54
+    },
+    {
+      "content": "Le poulet croustillant du chef\nde chez ???",
+      "end": 60,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 58
+    },
+    {
+      "content": "qui n'existait pas à emporter,\nmais que j'avais réussi à récupérer.",
+      "end": 62,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 60
+    },
+    {
+      "content": "Des coquillettes avec beaucoup\nde gruyère et des macarons de la boutique\nqui étaient toujours fermée\nquand on y allait.",
+      "end": 65,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 62
+    },
+    {
+      "content": "— Oh, non, c'est encore fermé.",
+      "end": 66,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 65
+    },
+    {
+      "content": "Et surtout, ça allait allumer la chaîne\nHi-Fi et lancer sa chanson préférée.",
+      "end": 68,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 66
+    },
+    {
+      "content": "Quant à moi, j'aurais qu'à attendre\navec le costume que je venais d'acheter.",
+      "end": 71,
+      "heatBucket": 1,
+      "heatValue": 4,
+      "start": 68
+    },
+    {
+      "content": "Tout l'argent que j'avais gagné\npendant trois mois de télémarketing\nétait passé là-dedans.\nJ'ai attendu.",
+      "end": 75,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 71
+    },
+    {
+      "content": "Longtemps.",
+      "end": 77,
+      "heatBucket": 1,
+      "heatValue": 2,
+      "start": 75
+    },
+    {
+      "content": "Très longtemps.",
+      "end": 78,
+      "heatBucket": 1,
+      "heatValue": 2,
+      "start": 77
+    },
+    {
+      "content": "Elle est arrivée.",
+      "end": 82,
+      "heatBucket": 1,
+      "heatValue": 3,
+      "start": 79
+    },
+    {
+      "content": "Elle a ouvert la porte.",
+      "end": 86,
+      "heatBucket": 1,
+      "heatValue": 8,
+      "start": 84
+    },
+    {
+      "content": "La ficelle a cassé.\nElle a dit:\n— C'est ça que t'appeller ranger, là ?",
+      "end": 89,
+      "heatBucket": 1,
+      "heatValue": 16,
+      "start": 86
+    },
+    {
+      "content": "— Commence par ranger la chaise.",
+      "end": 91,
+      "heatBucket": 1,
+      "heatValue": 22,
+      "start": 89
+    },
+    {
+      "content": "— Bon, Steve, je vais chez Fanny,\nil m'a saoulé, là.",
+      "end": 93,
+      "heatBucket": 4,
+      "heatValue": 25,
+      "start": 91
+    },
+    {
+      "content": "Elle est redescendue, Steve est entré.\nIl a allumé la lumière.",
+      "end": 95,
+      "heatBucket": 4,
+      "heatValue": 24,
+      "start": 93
+    },
+    {
+      "content": "— Je viens juste récupérer mon...",
+      "end": 97,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 95
+    },
+    {
+      "content": "— C'est ma chanson préférée.",
+      "end": 109,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 107
+    },
+    {
+      "content": "Bref, c'était sa chanson préférée.",
+      "end": 114,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 109
+    },
+    {
+      "content": "— Et ça, c'est la constellation\nde la petite cuillère.",
+      "end": 119,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 114
+    },
+    {
+      "content": "— C'est très joli.",
+      "end": 123,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 122
+    }
+  ],
+  "video": {
+    "commentCount": 526,
+    "id": "UURXmjwlcDI",
+    "isAgeRestricted": false,
+    "likeCount": 81033,
+    "viewCount": 6245023
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Et quand on ne se parle pas,\non se comprend sans se parler.",
+    "end": 48,
+    "heatBucket": 5,
+    "index": 7,
+    "start": 44,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=44s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/044.mp4",
+    "hash": "923f6f9bb7",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwFwVtv0lAAAOA+ubhSej2lrO2hPT3QGy0tLaUXWQuMLRsJCmGNZlOJYYvjafNFjT4aY3zyXX+s30dkscWQRyJDSlxDBZTCUwJHY11qiQwQWABYwNOiQHMcDaHKcBwRmXLWk6aecjmEmwxtxlq3qxdl5PeNroVVhNLYydOB51t+4MnIIJw29XnV+7jAu8q4vzA/zHGWuP08wTaWNdiPw1ExGhWJFQaSjji1Q6SI+3vn/jsEv976X6+9T3VQlZHhufPp8AQq9evz+uZqcTnJTyM/dGhsE/OB/PNd8OfxxY+H4vdj+bSb3M5d2JHXp+a3bfi0HXx5P9yv7Hqqn41U5GCiitGryrxbDx7q+P5NcbsuXiZagYUyQIcSVYW3WsbbSl/mndyXI0chIhduZvbhOvy+z6eFq+qdBEuBwihQbomChrV0bO1Xzm5p3pwbiwQSoQOz0Jgm3auJNUt7vqlYbcY+YX1TwYaceuoy0y7G2iyGZ1nPRi2CZxs8S/EsBfimBGiRpxrPn9HHR4AlRfa4DShJaAKWBGwDI41ukv8BogVQcW+b7GsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/044.png",
+    "width": 1280
+  }
+}

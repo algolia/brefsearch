@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 699,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "isAgeRestricted": false,
+    "likeCount": 94559,
+    "name": "Bref. Je sais pas dire non.",
+    "season": 1,
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4",
+    "viewCount": 7987391
+  },
+  "line": {
+    "content": "— Bha, avec plaisir.\nJe trouve tout ce que mes potes créent:",
+    "end": 66,
+    "heatBucket": 1,
+    "index": 32,
+    "start": 64,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=64s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E32_brefJeSaisPasDireNon/064.mp4",
+    "hash": "ffa99054bc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gALBwYcDgoeDwoRCAYkFxN8aWGXhn5UQThROzFiTENwV01zWlB6XlR9X1V4WE5xUkgACwYGJBMNNiYfHRIOQjEqlYJ5cmJaa0c8WTUrQi4lbVdNeV5UgGRZgWVafl9VdVlPAAcGBh0QDDopIR8SDWBORpeEe35lW7V/boVPQGA+M2lTSnhfVX5kWX5kWnpgVXdcUgAGBQYVDAkpGRMkFhBbRz6Rf3ehfnKfbl5qOy1iQzhwW1FyWlBxW1B9XlVbLChrU0kACwYGFwwJJhgSNCQdh3h0qJuZr5mTpXJjdEY5YkY+f29rf2tkUT40lHhuXiYkYUtCAAgGBxAKCREFAVdIQ8O3uJaHgpOCfn9dU0EiGFlHQXtsaY+Bfk8+N1g9NEIsIkkzKgAGBgYHBgYSCgh4bGmKeneBbmmMfXmGd3NqVVB3Y2KLfXqLfnpvX1pONywxLRdAMiQACAgHAgIDOiolhXFsk4J+sJ6ahmxpYFZTPzYzqp+kuLGyhHp1jYSAcWdWPDMMNyoUAAkIBwMFBDYhGnlOQZBzbJiLimlNSVpQTSMfGoiDg7avr4N3cYF1cFlPPTgtFTAjEf04h4BBvAcBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E32_brefJeSaisPasDireNon/064.png",
+    "width": 1920
+  }
+}

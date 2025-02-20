@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 199,
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 71,
+    "isAgeRestricted": false,
+    "likeCount": 56247,
+    "name": "Bref. J'ai fait une soirée déguisée (Partie 1).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
+    "videoId": "rOI3TXz-igs",
+    "viewCount": 4927821
+  },
+  "line": {
+    "content": "L'infirmière dans Kill Bill.",
+    "end": 55,
+    "heatBucket": 5,
+    "index": 26,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E71_brefJaiFaitUneSoireeDeguiseePartie1/054.mp4",
+    "hash": "a1372553f7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBtV2ZbUWIeHCUjGSE+KjCRdoadhZWAYWWHZWlsUldtT1JjR01SPEF2WFhlT0phTkoAb1hqMSk0FgwTIRMaNB8jnIKRs5uujmtwjWpuTTY4PSYnSC4uJxYcQy4ybFlTc2FZAHhgckAyPxEKEyETGkgnJpt/jMCqvpJydoNdYGdGQU4vJ1Q1LjshI085OGtIQW1UTgCEaHxCMj8SBw49ISJIKCebfYq0nqGllImUd3JgOzZKKSFOLydMMTB/YVxBHhxhTUgAWUVVGxMdEgwUKRgbPiQnpIeRt6eeopSRemNqUjYxUC4lVzMvSzMzUDY3RysuXUpJABcQGhUPGBEOFhMOGCMUG4VobLSkpHZrgXJldG5RRWpPRnVfYGRSWjMbIEInKjsmKwATDBUUDBUUDhYVDhYPCBErHCJnSUxZP0lnWGZmU1NxZWdqYGdNPEg/JSspERM+KSsADAYNEAkRDwgRDwgQEAgQBwIKKBQWWDIuXUtaYVZeXU5SKB8nLBcYMxkaJhUbNB0iAAoDCw4HDwkECwoEDAkDCwUBCBgMEj0jJF5QXVtQVlJDRy0cICkUFSYVGS0cIzMcIWuTb+wtVGryAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E71_brefJaiFaitUneSoireeDeguiseePartie1/054.png",
+    "width": 1920
+  }
+}

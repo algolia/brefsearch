@@ -1,0 +1,315 @@
+{
+  "duration": {
+    "human": "1:48",
+    "inSeconds": 108
+  },
+  "episode": {
+    "index": 1,
+    "name": "Bref. J'ai dragué cette fille.",
+    "season": 1,
+    "slug": "brefJaiDragueCetteFille"
+  },
+  "lines": [
+    {
+      "content": "— Alors, c'est ma soirée ou c'est pas ma soirée là ?",
+      "end": 2,
+      "heatBucket": 5,
+      "heatValue": 66,
+      "start": 0
+    },
+    {
+      "content": "Bref, j'avais repéré\ncette fille à la soirée de Maud.",
+      "end": 9,
+      "heatBucket": 5,
+      "heatValue": 60,
+      "start": 2
+    },
+    {
+      "content": "J'ai demandé à Maud\nsi elle avait un copain.",
+      "end": 10,
+      "heatBucket": 5,
+      "heatValue": 51,
+      "start": 9
+    },
+    {
+      "content": "Elle m'a dit:\n— Je sais pas.",
+      "end": 11,
+      "heatBucket": 5,
+      "heatValue": 49,
+      "start": 10
+    },
+    {
+      "content": "J'ai demandé à Keyvan,\nil m'a dit:\n— Je sais pas.",
+      "end": 13,
+      "heatBucket": 4,
+      "heatValue": 42,
+      "start": 11
+    },
+    {
+      "content": "J'ai demandé à Baptiste,\nil m'a dit:\n— J'entends pas.",
+      "end": 15,
+      "heatBucket": 4,
+      "heatValue": 36,
+      "start": 13
+    },
+    {
+      "content": "J'ai demandé à Christine, elle m'a\ndit:\n— *bleuargh*\nJ'ai pris ça pour un non.",
+      "end": 18,
+      "heatBucket": 4,
+      "heatValue": 31,
+      "start": 15
+    },
+    {
+      "content": "Alors, je suis allé.\nJe lui ai fait une blague, elle a rigolé.",
+      "end": 20,
+      "heatBucket": 3,
+      "heatValue": 26,
+      "start": 18
+    },
+    {
+      "content": "Je lui en ai fait une deuxième,\nelle a pas rigolé.",
+      "end": 21,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 20
+    },
+    {
+      "content": "Mais elle avait pas compris.\n— J'avais pas compris.",
+      "end": 23,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 21
+    },
+    {
+      "content": "Alors, ça va.\nUn mec est arrivé.",
+      "end": 24,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 23
+    },
+    {
+      "content": "Je m'appelle Steve.\nJ'ai cru que c'était son mec.",
+      "end": 26,
+      "heatBucket": 3,
+      "heatValue": 26,
+      "start": 24
+    },
+    {
+      "content": "Alors, je suis parti.\nEn fait, c'était son pote homo.",
+      "end": 28,
+      "heatBucket": 3,
+      "heatValue": 27,
+      "start": 26
+    },
+    {
+      "content": "Allez, j'y vais, je vais m'éclater.",
+      "end": 29,
+      "heatBucket": 3,
+      "heatValue": 27,
+      "start": 28
+    },
+    {
+      "content": "????\nJe suis revenu.",
+      "end": 32,
+      "heatBucket": 3,
+      "heatValue": 26,
+      "start": 29
+    },
+    {
+      "content": "Elle avait un popcorn sucré sur l'épaule.",
+      "end": 34,
+      "heatBucket": 1,
+      "heatValue": 24,
+      "start": 32
+    },
+    {
+      "content": "J'ai fait comme si je l'avais pas\nvu, mais je me suis demandé\ncomment il était arrivé là.",
+      "end": 36,
+      "heatBucket": 2,
+      "heatValue": 25,
+      "start": 34
+    },
+    {
+      "content": "Je lui ai demandé:\n— Tu fais quoi dans la vie ?",
+      "end": 37,
+      "heatBucket": 3,
+      "heatValue": 26,
+      "start": 36
+    },
+    {
+      "content": "— Je suis caissière.\nC'était pas intéressant.",
+      "end": 39,
+      "heatBucket": 3,
+      "heatValue": 28,
+      "start": 37
+    },
+    {
+      "content": "— Dans un sex-shop.\nC'était intéressant.",
+      "end": 40,
+      "heatBucket": 3,
+      "heatValue": 29,
+      "start": 39
+    },
+    {
+      "content": "— Du coup, j'ai plein d'échantillons.\nC'était très intéressant.",
+      "end": 42,
+      "heatBucket": 4,
+      "heatValue": 30,
+      "start": 40
+    },
+    {
+      "content": "— C'est vachement bien, ça.",
+      "end": 43,
+      "heatBucket": 4,
+      "heatValue": 30,
+      "start": 42
+    },
+    {
+      "content": "J'ai reçu un texto avec écrit\nBAISE-LAAAAAAAA, avec 8 A, très exactement.",
+      "end": 46,
+      "heatBucket": 3,
+      "heatValue": 29,
+      "start": 43
+    },
+    {
+      "content": "C'était Kheiron sur le canapé\nqui nous matait depuis tout à l'heure.",
+      "end": 49,
+      "heatBucket": 1,
+      "heatValue": 24,
+      "start": 46
+    },
+    {
+      "content": "Elle m'a demandé:\n— Pourquoi tu souris ?\nJ'ai bafouillé.",
+      "end": 51,
+      "heatBucket": 1,
+      "heatValue": 18,
+      "start": 49
+    },
+    {
+      "content": "— Non, euh\nJe lui ai dit que ma mère était malade.",
+      "end": 53,
+      "heatBucket": 1,
+      "heatValue": 16,
+      "start": 51
+    },
+    {
+      "content": "— Quoi ?\nMais, qu'elle allait mieux.",
+      "end": 54,
+      "heatBucket": 1,
+      "heatValue": 14,
+      "start": 53
+    },
+    {
+      "content": "En y réfléchissant, j'ai compris\ncomment le popcorn sucré était arrivé là.",
+      "end": 57,
+      "heatBucket": 1,
+      "heatValue": 12,
+      "start": 54
+    },
+    {
+      "content": "— Steeeeeeve\nElle m'a dit:\n— Je vais fumer.",
+      "end": 61,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 57
+    },
+    {
+      "content": "Je supporte pas la cigarette.\n— Tu viens ?",
+      "end": 63,
+      "heatBucket": 1,
+      "heatValue": 16,
+      "start": 61
+    },
+    {
+      "content": "Mais je supporte pas la solitude.\nElle m'a jeté un regard, ça m'a troublé.",
+      "end": 67,
+      "heatBucket": 1,
+      "heatValue": 21,
+      "start": 63
+    },
+    {
+      "content": "Et puis, Kheiron m'a fait\nun signe discret pour m'encourager.",
+      "end": 69,
+      "heatBucket": 1,
+      "heatValue": 24,
+      "start": 67
+    },
+    {
+      "content": "Ça m'a encouragé.",
+      "end": 72,
+      "heatBucket": 1,
+      "heatValue": 24,
+      "start": 69
+    },
+    {
+      "content": "On a rediscuté, elle m'a soufflé une,\ndeux, trois, quatre, cinq, six, sept fois\nsa putain de fumée dans le visage.",
+      "end": 78,
+      "heatBucket": 1,
+      "heatValue": 24,
+      "start": 72
+    },
+    {
+      "content": "Puis elle m'a demandé:\n— Je peux prendre ton numéro ?",
+      "end": 79,
+      "heatBucket": 3,
+      "heatValue": 27,
+      "start": 78
+    },
+    {
+      "content": "Yes.\nJe lui ai donné.",
+      "end": 81,
+      "heatBucket": 4,
+      "heatValue": 32,
+      "start": 79
+    },
+    {
+      "content": "Elle m'a dit:\n— Merci, c'est Steve qui va être content.",
+      "end": 83,
+      "heatBucket": 5,
+      "heatValue": 44,
+      "start": 81
+    },
+    {
+      "content": "— Il m'a tanné toute la soirée\npour avoir ton numéro.",
+      "end": 85,
+      "heatBucket": 5,
+      "heatValue": 52,
+      "start": 83
+    },
+    {
+      "content": "Alors, je lui ai répondu:\n— Depuis tout à l'heure, tu as\nun popcorn sucré sur l'épaule.",
+      "end": 89,
+      "heatBucket": 5,
+      "heatValue": 55,
+      "start": 85
+    },
+    {
+      "content": "— Salut.",
+      "end": 90,
+      "heatBucket": 5,
+      "heatValue": 51,
+      "start": 89
+    },
+    {
+      "content": "Bref, j'ai dragué cette fille.",
+      "end": 98,
+      "heatBucket": 4,
+      "heatValue": 34,
+      "start": 90
+    },
+    {
+      "content": "Ah le con.",
+      "end": 101,
+      "heatBucket": 1,
+      "heatValue": 22,
+      "start": 99
+    }
+  ],
+  "video": {
+    "commentCount": 1400,
+    "id": "UO8tcf3U0dY",
+    "isAgeRestricted": false,
+    "likeCount": 127391,
+    "viewCount": 10798834
+  }
+}

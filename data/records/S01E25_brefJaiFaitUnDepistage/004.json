@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 590,
+    "durationHuman": "1:49",
+    "durationInSeconds": 109,
+    "index": 25,
+    "isAgeRestricted": false,
+    "likeCount": 79173,
+    "name": "Bref. J'ai fait un dépistage.",
+    "season": 1,
+    "slug": "brefJaiFaitUnDepistage",
+    "videoId": "41X9gwbeMxQ",
+    "viewCount": 6825279
+  },
+  "line": {
+    "content": "Elle m'a dit:\n— Quoi ?\nJe lui ai dit que c'était\ntrop agréable pour pas être un problème.",
+    "end": 7,
+    "heatBucket": 5,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=4s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E25_brefJaiFaitUnDepistage/004.mp4",
+    "hash": "e25a7be8ec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwVy8lu00AAAFDfQhbvHs94m/E4sd14nDheihsncWJacsgFWhBiEYpAohKtKFDgQCkl7ZejvPvjOoLfkxkvs3ZLbbeUXsfQ1RiqzLQqfPCKsvc03pLone2/hHgjwxknw1LHx5KeSz2CFKYpIbEqVeyb9tzPzofl12j6Y1h+D7ILGm+t/imH3DUOz4Bdq+LAUBjUYteeO3pGyJOguGDVr/HyNlnejRY3w/KbN/rAeYON560NlNlgDCRfkwY2zDVpYJHjcB9+jpe3WbPLmvvR4iYoLjnXnrnWkYNyggpFpI9assxjoMUuexvkn/eh/pOu/mXNfbK8G06vub7bUFJbMDdBIvG4x9uCQJE9d9kbP/20D6td2jykq11S/42OrjmKF9iaGmCiih5EBWWvITmx+hscnvnZeVRehZNtVH5Jm4d4/jssLjlDn0A1UmVf4jFChUHXMjpE7gkOnnvhKSG1oUWigJ3g2cHjq37ykRN5RxYo3zW7bQC1EbBmghLreGW6T127wuYh0qJuB3TaGjArx3/xH2OGS8yi8DaRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E25_brefJaiFaitUnDepistage/004.png",
+    "width": 1920
+  }
+}

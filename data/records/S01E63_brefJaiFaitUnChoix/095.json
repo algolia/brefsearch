@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "isAgeRestricted": false,
+    "likeCount": 105080,
+    "name": "Bref. J'ai fait un choix.",
+    "season": 1,
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0",
+    "viewCount": 8818396
+  },
+  "line": {
+    "content": "Ma copine, c'est un bon coup et\nfranchement, j'ai pas envie de déménager.",
+    "end": 96,
+    "heatBucket": 4,
+    "index": 38,
+    "start": 95,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=95s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E63_brefJaiFaitUnChoix/095.mp4",
+    "hash": "2b1ddc72f5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwd1zkgAAAHAeKkQQkRA2ENxwMj+mCHpMkebnlCVsOmZ+IGZbxnluV3rpeauXXde6bl1vPXRdd12P/ZX9fsBseL58PVpNx7oinhXlfk1NcbQhCl/7zQe7NaspWz7Y7wELSSETCQv0FrC4sj+447v5Zbeq2s0j91yXIuF6bPfWfLZ5XhzmUwL1lPBCTMAv8lycpYH11Lm/ufr342E+6q6m483UkXeYHEu9KWVvT0vvmqrEkBTixT1gjKbSuyywcKxvn+5+//w1MerTC/OtbZlqNs0xa73w2ap/H55UohwGPsFBMBLEMzwL3PQ7H9ful/vVxGxcdk5mvXa7UZWEaJYJzrXMRlfzPBMOoCzmS9CkvLcDuF3jetBeOJaRFw0lpcsJAoZYDKVgSApRIyXJB3wE5IkS2B6BHbA08PK04V60rgdtQ5VfaJKjZfywt3OYGeRFEgJ7uZjG08ijxyEUoX0wg6FAr1kataoT87ihpAea5JZzSS70Z+W+N8qcH05vB48iIRwCGRSJBgM0igCdSsGqFbt1rSIlWtm4fXiwNMp/l69KAncsxsIYqvFMnMS3fXCMxPeJwH9wUmLe8YOLDgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E63_brefJaiFaitUnChoix/095.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "Je sais pas pourquoi,\nje me suis mis à courir.",
+    "end": 17,
+    "heatBucket": 3,
+    "index": 6,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=14s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/014.mp4",
+    "hash": "b896fae83d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwlzV1v0lAAgOFzs7nSr3P6QTltR0s7KVBGi7QBiiwjuLFBtBMWwMxC2dShS9zcxZZsI2Z6ozHRzAv15xpd8t6+ecDOutZz9IomVQ3Z16SBv3YQWJ2S4WUUG3MvatnFLLw52j8O22/Cdrdigaeu3sprni63CkY1I3fdbM8xjjbLw4aTS8JpM//lZPz1fXQ22j0ddfdqRdBz9LqpeBresPTAVB9bGWcVz1vl4KFuSVzczH0/Pfh58epqGl5Gz4YbLugU076OH6Wluqm4qymBRpBCtiLLiC/g5KRh/fgQ/bo6/vh6/3rWf9n2QDOrelqqrEq1jGKIAk2wHI1oAiZZ3lZwFGTvzie/b95+mg8Xh/14uwoq6ZSrSiUl6WtYQRxJsCwJeYa7d6LAujuf/Fm8+zwfX8/6cacOchJflIV1WXRUSWQQk4BUgkUUElk+r8gDz7iNtv4L48sonO00gM5DSxJsWcylRJaETAKSBEMT/x6VE58U0rdx79vZ9CIKTwbbe/USMAV0n8ZB8gFNrjBLy9TSMpVYYTgS2liMt/zD3WC06T1vODUT/wXukFgUU5PMbQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/014.png",
+    "width": 1920
+  }
+}

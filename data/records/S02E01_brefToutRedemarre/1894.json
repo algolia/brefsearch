@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "C'est des œufs de poisson,\nen fait, dans son pain.",
+    "end": 1895,
+    "heatBucket": 1,
+    "index": 633,
+    "start": 1894,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1894s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1894.mp4",
+    "hash": "53b06b05ed",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEpIO1ZUQkpIOWBhUHd7aXJ2ZXV3ZFJSRj08MiEiHyEkIkZIPxUXFgADBgMGCA0REgCtp4W2sY6wq4vQz6jf47zW2rXSz6WurY1bW05CQzxORjxaXFA0OTQABgsHDRE8PTMAoJp5eHRdjYtxqaeHoZx2op53pqB5j4VnW1dMYltMaEAuTEQ7NTkyAAYMCAwPYFlCAJCMcHlyWpeMb5mVeKWedqmlfaWmg5JwVHJaSmmHfjgrJkJJQzVGQgEIDAcMD2VgSQCGhnFfY1VcYVWSkHe6tpGqpIOifGWadVpDOjUuX2QvQUQsPEAfP0EIDxMIDg9TTjsAVmZbWmVaWV9TXmlef4x7kY+AXxkkfkk+Xjo4KUhQT19cOkRGDzA1BhEWCA4RKSslABMoKiEtLFVXSWNuY3Z8bYOGdWFERkIFDkUWGx0sMw8cJAYTHR8tLQ4TFgEJDRohJAAqOzwPGh9BRT92eGhSVUqId1tMKCdFBRE4ExoSIysFERwEERscKSsNFBgTGx8iKCkAERYYAwcKFxgXIiIdDA4PPjcsIhARIAIIGAgLCBIVAggNAwgLBxETBQsMHR4gDhIUi897J6+AJ/YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1894.png",
+    "width": 1280
+  }
+}

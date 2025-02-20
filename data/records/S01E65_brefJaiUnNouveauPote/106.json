@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:06",
+    "durationInSeconds": 126,
+    "index": 65,
+    "isAgeRestricted": false,
+    "likeCount": 117672,
+    "name": "Bref. J'ai un nouveau pote.",
+    "season": 1,
+    "slug": "brefJaiUnNouveauPote",
+    "videoId": "ZbGrzgcO68A",
+    "viewCount": 8812723
+  },
+  "line": {
+    "content": "Salut.\nBref, j'ai juste un pote.",
+    "end": 109,
+    "heatBucket": 3,
+    "index": 46,
+    "start": 106,
+    "url": "https://www.youtube.com/watch?v=ZbGrzgcO68A&t=106s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E65_brefJaiUnNouveauPote/106.mp4",
+    "hash": "354e274d1c",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ5JREFUeJwFwYtTmnAAAOCfi6W1EjjjpSKvH8Q7RFFRuQZhoTPFx3zkWq6Wbd21tru1v3/fB0aesexUv3xsbnvd3TDeREF+D2WPT65UORI57D0moCRECxZBVilSODwGy467jduPg/B5fPVnNXkc9vMItq4ZD75zrQoKTsCTUluCFkHbJC2jBXAbtn58ip6GcYvj4qr3Mp/pNBdJQqorc+v0WpVikU9MM5KhTVL8hzz41us+p8nvNPGLTKKe/hr1S3lmbmvbuvmz7T513EtJ4lBGwBjmiMTe5cBuEL4uxi/pYGXBiancd73YbU4972tVX9jaaz+8jS48aDSg6vDQ4wUwatYW58FNFG1qxkPDvA+Df3fbu96lz7KtCrdwrV0v+t5P3tazt83s7yoFZyW2CVVftc9lZarz4zO7RpS1LNqiqTpNJhJrY1gJZC20EEG4DDrAYSsNUe5qVqzrE1N0ULQM9ovg0CfJz6Y41XkHwwmwT2YQGoA6jgOVKtrlSk1SAoGbGYJ6hOIgR4NsBclNNG5tiVL2gAJ7xQxCZRACgP8hnFFgUtAhhAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E65_brefJaiUnNouveauPote/106.png",
+    "width": 1280
+  }
+}

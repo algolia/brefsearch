@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 560,
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "isAgeRestricted": false,
+    "likeCount": 108927,
+    "name": "Bref. Je suis comme tout le monde.",
+    "season": 1,
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM",
+    "viewCount": 8286572
+  },
+  "line": {
+    "content": "Je sais jamais quel bouton ouvre\nla porte sur l'interphone,\nalors j'appuie sur tous les boutons.",
+    "end": 65,
+    "heatBucket": 3,
+    "index": 27,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=62s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E11_brefJeSuisCommeToutLeMonde/062.mp4",
+    "hash": "d54bc3d0d3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAvHRR7YE+4nZC/qaLGsazEsKu6opqXeGWUdWB2W0tFMyplU0+FcG13X1N4XEtyVkQAOCYbc1pKw6ufybWxzLi2yra0spqRaUw4d1lFeFlIbEMxbFFIfGdgg2hWiGpYg2ZUAEQwJGNKO7aeks25t8y5uc25upyDen5jVo5zaX5TQJFZRFw/MmxWSYVoVY5vXIxuWgBJMydaQjSagXXPu7jLurzKtraMcmiOdG6SfHyEX1algnx3YFlpTj2HaVeOcF2bfnIAPyUVTTIhfmJUxrGuzbu9wq2rdVdHVzgsZVpghnV0oY6Rgm1palA/j3Ffn4J3noR6AEInE1EyHG5SRKiTj867vbOblW1OO21EM4ZsZX5iWU4zKU47MoJlWJ6CeJl/cX1kUABIKxdfPypdRDaDa2PGsLCdg3ZvSjZ1STlZOS5zRzdEKR5XQjaWeWyUeWl8ZFBkTzwASy4bWTkjVzYgZkk3o4uGnoN0dlFATzEmDAoIVDQpZUU6hG5knYBtf2ZSZE49VUAwADwjFUInFlc3IV1DM3ReU6aKempUSDgpISsiHlE5MGxRRmpYU3ViW2ZRRlQ+Lz4sIfohsSQH6DOCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E11_brefJeSuisCommeToutLeMonde/062.png",
+    "width": 1920
+  }
+}

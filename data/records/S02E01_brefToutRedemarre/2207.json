@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "What is wrong with me ?",
+    "end": 2213,
+    "heatBucket": 5,
+    "index": 728,
+    "start": 2207,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2207s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2207.mp4",
+    "hash": "b3af6098e0",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAS0lEQVR4nM3OMQ4AIQhEUcEQDRio2UC4/y0t9gBabLGv/5lp7fcAgJlV1cxE5BzMOTPT3SOiqsYY54XXV5evAcBaq/d+GyDi405EG/+VArRF7RqqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2207.png",
+    "width": 1280
+  }
+}

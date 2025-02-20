@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "J'ai négocié avec mon taf.",
+    "end": 166,
+    "heatBucket": 5,
+    "index": 53,
+    "start": 165,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=165s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/165.mp4",
+    "hash": "536531ef22",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADgwH0I5JUg+KEk+KFBHMFFIMBUTEAMDBw0KCRAIBx8WED41JDsxIDgvHjIpGzAoHACNeEychlaPekyMdEeynWiXhVtaOiZSOCccEhFFNSZhTDKLdUyxmGOSek18YjxoUDIAZFw9bV4+d1Q0b1MzcGM/h3NPeUktq3RHTS4ec0syoHpLloJTnIZWhm5Fdl89YUsxADEtIi0fGi0eG4VdPkw/LCspIHVCLMWCTKd7TXBDK3pFJ5+FVlNXPmdmRmdlSGFeQwAjHRkQDxMPDhSKWkCEXkACDREqHRpqSi+ZdU6giGROLR6UZDuLdlY7SUQQKS8cLS4ATEYzPjwvVUQzo2pJelg+ECkvSTQod1U8lX9gsZ97e2tTflAtu5BgPUpIAx4nChsjAE1GMGVcO25qQ4F5TEtQPw0xOUJLQHlxWId+YpV/XLOMXraGU5pxRzwxKSEeHQgQFgBfXD5wckl7gFOUk19GUD8AJC8KR0wJSE8HQUgJQEcaREYrSUUfLzFwRjJuV0QFERkAJicbMjUjNTgmPDwnHSAZAA4TCR0eDiQkCB4gBBweABYaABQYCg4RNSMYJiopCQwQD0V2855y9ncAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/165.png",
+    "width": 1280
+  }
+}

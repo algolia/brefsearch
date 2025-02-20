@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 780,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "isAgeRestricted": false,
+    "likeCount": 101475,
+    "name": "Bref. Je suis né.",
+    "season": 1,
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0",
+    "viewCount": 6614179
+  },
+  "line": {
+    "content": "Mais en fait...",
+    "end": 63,
+    "heatBucket": 1,
+    "index": 34,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=61s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E79_brefJeSuisNe/061.mp4",
+    "hash": "78e2543290",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXJJREFUeJxjYCAVOMjruqsa+6iZRerbZ1p75tj5ZNl6F7sE1PiENwZHz66pndfcOLWouD8hvS8ioTckjiHF0D3H3K/KIXxacNbihJJlyeXrs6r3lrecbu2/Pmfh51PH3x08cH/ZyivdUy/V9Zwva2dINHLPMPWpdY6aHJo1KyZvcVrpxvLGI63d52fMvLF29dN9u2+uWnV2yoxDdZ17cuu3JZYxJBl75FgFtPgkTI8rWJRZsbyobsfEGWdnzbm+ctmdLZsebN54cc78Y50T9pS1bU6rWR5ZyBCv7xKn71JoG9TpnzwjNm95TuXGiqbjk6eeX7Tg/JIl5+ctONjRv6W4cU1yxaKIgjnBuQzxuk5R2o4pxp6NrjHTgzJXJJduK6o/3jXh3Iw55+cuOtk3Y1d5x6rEyiURxQsCC+b75TNYymhaSmtaymp5qplF6Nslmjqn23gUegaWB0VUhMWUeIdl2fsmmbjGG7iAkL4zKTHACEIANK+ejrIWN2kAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E79_brefJeSuisNe/061.png",
+    "width": 1920
+  }
+}

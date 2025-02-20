@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "J'ai dit: Oui.",
+    "end": 104,
+    "heatBucket": 1,
+    "index": 39,
+    "start": 103,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=103s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/103.mp4",
+    "hash": "e8a97dc6ce",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYRJREFUeJxFjMlu00AAQM0SL7Mv9tjjGW+xszhJQ1JoUtI2lVrRFHVJKxWpLD32gLhwRHwAQnw1Ag5I7/Sk9xwMGIWCojAWybQqeipShGdKrUfm4qU9au2oyP0OZpApJjWXztfHT11bPnsCCp3d7U9O+nYnjZtEvd0tt4vyeJwt2yYiYeBRHLCYS2c26GU6v313f364fzYuXxV6mKhhmpzNqttFdTotLpeTvjEYcgK4wMIRSCoR//z142G72b6ozkf5JFWzylztde8Pqs28fN3WtdZGRjaMY66cTJmbN+vPN6tu3gyNnZnYcLnYaa726vcH3c1uMyqLKk1bqzMZwYA5x0er79++XJ+sUt0AEFkuOeD9PNsuex8O69N5L5VJnZpcaYYk9KgzbwcEhc+fYoEjBBX0OfSY36HjPPm4btbTfhbbkMUhVQQK4BEn4iHyGfQo9jkKuNuhvkuBxyQJF4Oy1JaTCPkMuOQfDgooAfyvoshnvkvdDsVAKpFgINCfC0PB/+A3ArIz/BooHFcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/103.png",
+    "width": 1920
+  }
+}

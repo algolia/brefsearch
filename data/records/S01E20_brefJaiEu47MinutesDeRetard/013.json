@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "J'ai raté le bus,\nje l'ai attendu 14 minutes.",
+    "end": 14,
+    "heatBucket": 3,
+    "index": 6,
+    "start": 13,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=13s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/013.mp4",
+    "hash": "f5bd57cf04",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAABNJREFUeJxjYCYRMIxqIALQXgMAXj0FEX3kpQYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/013.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 351,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 27,
+    "isAgeRestricted": true,
+    "likeCount": 59466,
+    "name": "Bref. J'ai recouché avec mon ex.",
+    "season": 1,
+    "slug": "brefJaiRecoucheAvecMonEx",
+    "videoId": "KtLp-gLL0Aw",
+    "viewCount": 4228008
+  },
+  "line": {
+    "content": "Elle m'a fait le couplet que j'adorais.",
+    "end": 66,
+    "heatBucket": 1,
+    "index": 23,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=KtLp-gLL0Aw&t=65s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E27_brefJaiRecoucheAvecMonEx/065.mp4",
+    "hash": "0087cb13c5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCTfWR2YElnUDxZRTR8Xk6AXEt3V0V1WkSKcFiSeV6GcVdlPzFwSDl2aGRsYF1rX10AinFYZ086MCAXTzcvqHZppnFjhVdKcEo8bE86f2lVemlYWTsqXzkrfGljd2xob2JfAHVaRUQxJj0sJ6d8b8WXiW5QRXpTRndOQ1Y3JllEOGtbUGBIM0wtH3ReVX9zb3BgWQBlU0hsSkuldm2/j4K1gnR9VEeda15JLyYqGBFHLBxXOSdvUEBaOy5PNCdoUkh0ZF4AbFZCk2JZwIuA1aWXvIZ5iFZKiFxRRywiJRMMRSodhF5Rk25hnHNmTzImRi0ebVxUAEsyInNTSbWKfr+Thah7bIhaTkooIDgeFEImGVM1KJBuY7KJfJxvYmE/NDkjGFdDOwAzIx1YQTebdWibeWyNZll9UkdAIBY9IRY5HRRzUUXAk4a0jH+KZFdnRjtKMCZBLSUAQyohZEU6lXBjfF9VaVBGRi8lJxMNOR8WTy8hMhkNnHdqtI+Bg19QWT0xOCMbNSMcAFUvJHpSRI9pXFQ8MzonICoZExYJBVk5LGpDMi8XC1Y7L7OShIJhVE0yKCYVDzMkHRRVkGp/E0gPAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E27_brefJaiRecoucheAvecMonEx/065.png",
+    "width": 1920
+  }
+}

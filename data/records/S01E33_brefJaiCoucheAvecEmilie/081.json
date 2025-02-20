@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "isAgeRestricted": true,
+    "likeCount": 166814,
+    "name": "Bref. J'ai couché avec Émilie.",
+    "season": 1,
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0",
+    "viewCount": 15359989
+  },
+  "line": {
+    "content": "— Toi aussi, tu aimes bien ?\n— Quoi ?",
+    "end": 83,
+    "heatBucket": 1,
+    "index": 35,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=81s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E33_brefJaiCoucheAvecEmilie/081.mp4",
+    "hash": "43d5682b99",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwVlP03AAAPB+BTUmSuRYj3/PdT3XrS3DYABZ065dr3Vd185jHjidkShGCSyi0YS4DIxx6INBHzQhccb4IA8888o38veDViqqhGJLWN6hZRNjazhrE5yDCzYmeGRp1I9/7d0+3GkfbDZ2+9bmrSWIgmcdRggIKSDEOhBrGF/N5VenGXOOun4ZNmaog43keNybDLuHr+LRug1Nn7vgAimipIASHSB4hOhiBZMWTXVx40Z3OwpCkth/Hp18eTQZdr+/bkPFGTjN6wmtJ5Teospujrfn+OW86Fvmm8HbQe9Oqsk1RZy8v/fv04Oj3ZuQgQopWWkCrYlrDbg4aN1N7XqmlJ5W1HherVH8Msxo58F2VD/98ezvhzXIJ0oZPZ/SeofRE1D+ujMabm39NFbOfGfPt4xcwUU4G2EDSvsz6h2PH0IeJiVA7ZBqhyinoJwCJeMWxk8en337/PHFSxfhAiCEpLA6xa5Xrd/7XciCC01USXC1hSsRWmwCNYLltatm3whiUg6A1AByiIshLl67xL27H0KLU0z1iujMSh4sB0gpBEpGFzNcSBA2IYU2KcU47yOFAOUWLuKerP0HB4OCoY0I0aIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E33_brefJaiCoucheAvecEmilie/081.png",
+    "width": 1920
+  }
+}

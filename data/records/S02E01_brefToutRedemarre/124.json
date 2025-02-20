@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Elle est arrivée avec un gars.",
+    "end": 126,
+    "heatBucket": 5,
+    "index": 34,
+    "start": 124,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=124s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/124.mp4",
+    "hash": "cedf1ae2b6",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABiElEQVR4nCXLyW7TQBgAYAfPzD+L11lsjz2xHdtZ2qZJoSEVrQC1QhSRA0iobK0qFTjwAhx4CE5IPAlnng0hvvvncYxCQFJAxOl/jDMWxuu92d7QZd080UYGNBaMYjQa+Z4UYEPaSb6wSaaVMZkuqvnY/rw++Xr7/vTt3bA+nrdl3zgTCDwiHsVEMYgoaWWQG6VMlpb1opAfTw/e3H46u7pxi5Ubu0lVSILBJx4npI2oEdDqODdKZrnJ1PNN+/1683J38eTmixqWrp7sVo0LBEXYI4hICiZkQymN0TIvVBLszoY/v64eb6abD5/ldDkbps8Ou6OxYQh7yCcJhQcuejRo/S9Yq+OuSn//eHV+0k0vX/fHW1s3JLX3G71vhAeI5BwuG3G31cu+iJWpC1lm0bd3q6cPJ7Plke0XoSlFag6KeJ2FHifQJ+y8DvbzwOpYazUpU6ujF9vmYlU1Y8dVFck8SPRhW7VZ6Hn3fIL8ABAQDBgDQMiBUxyFLA+pFgwDRwSAsso5zOhfmk8v5erKHJ8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/124.png",
+    "width": 1280
+  }
+}

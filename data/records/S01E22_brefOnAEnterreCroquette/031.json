@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 585,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "isAgeRestricted": false,
+    "likeCount": 85441,
+    "name": "Bref. On a enterré croquette.",
+    "season": 1,
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths",
+    "viewCount": 6068571
+  },
+  "line": {
+    "content": "J'avais le costard que je mets\naux mariages, aux entretiens d'embauche\net aux enterrements.",
+    "end": 34,
+    "heatBucket": 1,
+    "index": 14,
+    "start": 31,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=31s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E22_brefOnAEnterreCroquette/031.mp4",
+    "hash": "e48ea1ef69",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA/Rxg8RCBeVjNJNiFOOSR7VzuVb1WwmYa6p5iQb1iYh2tzfGFTYyVPXhRAPyQtKRMAIygONDoXZFYxPCcTUTsoclZAi2hNm3tjqZmMgmpXeF5EoKWEZ3c8RksTQDsiNjAaACYqE0JMKmRULT8oEBQQCwkHBSIaESEYDhILCR8YElg+JaGfeHKESz8+FDkyHElJIQBVYjqDl1x2bTpOMxc/KBo0IBVPOidYQTJHKyVkTT1qSzGJiVJtgj1gaS0/ORxSWCEAeZBFhp8+enc0XUEkVTgdckwoelM0jmdNnHVZlHNZd1U2l59cc4E5cHRJRDseV14fAHKKO4GbL3d2LmVIJz0pEl8+HmlDJ4VdRJhzWF8/JXxUMX+OMF5jJk9GL0xAKmluMwBtgEB3kURzcjZsTShMNRpILBBuSiSQZ0p8VTpaNBWbc1SYlGRbWyxNSCdQRTNqbjkAZno4aHdAdmU+el44XUYrQSgOYkAXflY0lm1QpX9jvKSQe3BrYFpTVk1DUEU6X2QxADw8J0c9M2FLN4RtTG1VPEotF29JK4xlSaWHcbWhkaaYkVZQUU5JTlJGSVlHQ0xPLJOHieZr/P7VAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E22_brefOnAEnterreCroquette/031.png",
+    "width": 1920
+  }
+}

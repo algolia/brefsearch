@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 211,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "isAgeRestricted": false,
+    "likeCount": 66207,
+    "name": "Bref. J'étais toujours dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA",
+    "viewCount": 5199983
+  },
+  "line": {
+    "content": "— Mais si, y a un chat avec un arc-en-ciel\net une musique marrante.",
+    "end": 81,
+    "heatBucket": 1,
+    "index": 32,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=76s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E62_brefJetaisToujoursDansLaMerde/076.mp4",
+    "hash": "bb5bf16d30",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwdxltvk1AAAGAeWuBwDnCAchkt1woVZmevtNiVla2Q1tbOTNbVTE03bNzTEqMmzsTER3+2id/TRxyK1U0+Xce9OGhNwqCN0AWPVnU10nUHgBNRfPXcv87SPBq+TZObRUp8/7y9u5x3XbNr22/i0S6J99nZXTYbKEr2svun/FLMzvaXy00yuV3l5bvXxNPPv+fj6RHHfcyWu/nienlVFsXhatNWlXycfHt4SofxPOrfLvPHT9uv9zuiPPxanG/DZicKwll/0hneX8wfe56PGdgJR8W6dE0fQza0rE16+uPwgdCxMBi8V40Zy9b1xijs7JPsd00waYrRsBq5gYQwCzFLARmxURgSrt1rHReCMhbUU8PdGMao3c6a7onZcJqW98L1ntmebXqO0dSVuiZphO1M1aMhgjWM7ZafuXZfZKoqFnRJ1iRZxCLmMGZ5DDkeciIvEzzXgEBkoWTZ0+P+gx+sLVk0ZUUXBA1jHkJAA7pKc4BBFKhWSIIiGapCOvVA0QYMMnkk2qrSqEkCgxDNAJIGFKAqJAKQ+Z9/6lNHhwuDIxIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E62_brefJetaisToujoursDansLaMerde/076.png",
+    "width": 1920
+  }
+}

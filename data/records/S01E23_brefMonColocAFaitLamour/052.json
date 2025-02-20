@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 761,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "isAgeRestricted": false,
+    "likeCount": 138299,
+    "name": "Bref. Mon coloc' a fait l'amour.",
+    "season": 1,
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI",
+    "viewCount": 11899469
+  },
+  "line": {
+    "content": "Puis, il m'a habilement fait comprendre\nqu'il voulait que j'y aille avec lui.",
+    "end": 54,
+    "heatBucket": 3,
+    "index": 25,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=52s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E23_brefMonColocAFaitLamour/052.mp4",
+    "hash": "053f02783f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC5sLammJa6rrHDusK0qK1NQTonGxJ9bWi3rKyck5aKgoeDfIJ7dnxya3JeVl1cVFwAv7a9q52dv7O30MfRd2hlPyUaeVJIbUg+qJybq6OnlY2Sj4iPh4GJfHd+ZV1lY1pkAMW8xK+hocW6v8a7wVhIQIdcUs2bkppvZZuMi7KrsZqTmJSOlY2HkYN9hmliamleagDJwMmwo6TFur+snZxoT0aXbWTHmI+xhHu6rrKvp6+el52WkZeQipOFgIlqY2tpXmsAycLLr6OlxrvBsKKiiHNtjmhgs4J3rIqHxb7Etq61n5igl5KakYuUhoGJaGFoZltnAMfAyrClp7uwtH1wd1xGSb2RisugmIVkYVVIUoqAiaOdpZaQmI6Kk4R/iGVdZWJaZADCu8SpnqBTQ0o1JTI0JTFxWl+7mZZcRkwvHyxAMDqWj5ecl5+VkJiJhIxjW2FaU1gAu7S8koeKMyMtPS46Oys3RDQ/fGhrXUxTQDA7NyczgHh/oJqgiYOJd3B3TkhKRT9CAK2lqXJlaCwfKTcpMzcmNF9NVLOXkYhvcUc3QSsdKFtSWoR/hXRwdmdiaEU/QkI9QIA91Nge30GwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E23_brefMonColocAFaitLamour/052.png",
+    "width": 1920
+  }
+}

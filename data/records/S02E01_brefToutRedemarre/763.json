@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "La chance.",
+    "end": 764,
+    "heatBucket": 1,
+    "index": 255,
+    "start": 763,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=763s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/763.mp4",
+    "hash": "9c3150befe",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqElEQVR4nAXBW2+TUAAAYCzlDgcO0AMHTmHQCysUOqq2pV1bmpHNLLXJVo0aN5eZxhgT4yUxmmiy7MVX/QH67KsP/kC/jwpgXeZpjr6jcLQtM5CvIcARQ/RMyVEZrLKuLgkCy3IMU6eZWo26vKvs6RwxQGQphy1Y3esUER61zGlkXVTJ0TC8PQ2fTogMZE3kVZahrmd2p4WTYYaRMUvI129viskAG5Jnw3efX7282lwl8HpMiKVastAQWGq3bA56ngm13AYfCrLsu13fCi3Vs9Q2Maauue6aRw68jyGGUlPiqHmM5ykqi8ajfePtkpSzMPTxInU3Y39uwF0efNym2z5Jod6BKlF4KnPULGqebPzTAUkH2uqw6yAUt61t3qxwY3c++fvj8ftno44GR0CBQKAGntFzozggt68Xq9zLmlHW2qvzbCqLCwNervM/388+vSimHhoLIsOwVOqhzM/KYe/XzcPnVXzgxycHQwj4AoJSVL5cTP/9fPL7Zr0iqEI2LwgUlHkTmIFjHk9DD2uaBF0d0XQNMEyH48rEWc/bDyZBXwf7LhF4/j8hnUKwX2J8ygAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/763.png",
+    "width": 1280
+  }
+}

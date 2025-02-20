@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 431,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "isAgeRestricted": false,
+    "likeCount": 96820,
+    "name": "Bref. J'ai voulu partir en vacances.",
+    "season": 1,
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc",
+    "viewCount": 8214486
+  },
+  "line": {
+    "content": "— Hey mec, t'as du courrier.",
+    "end": 7,
+    "heatBucket": 5,
+    "index": 3,
+    "start": 6,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=6s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E38_brefJaiVouluPartirEnVacances/006.mp4",
+    "hash": "a34171b883",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCPiYyclZWZjoufk42jl5Cjl5ByZmBsWlKOfHNvXz6GeGmZjIeGZ0t1US2CcGd4bWsAkYmKjoeFm46JhHdzjYB8Y1pXMBwYYjgxmnt3d2dGhHVjnI6Ji3Neg189mIJzkIOAAKymrJqTk42Cf4R4dYN2cmZWUlI2MHROSZd4eX1pST00JiooKzQqIjsqGkhAP09ISgC9uL+9t72tpaCelJB4bmxkS0ZyTEVqS0qGaGhoVkMfGxUJCQsPERIQEhcTERcUExYAvrrCwbzDsKmqXVNTJB4gOyckbEhAck5LfF9dTEFDGxkaERAQFRUVFhUWGhcbGxgbAL25w8jEzGNbXhUNERoUFx8XGTEhIEUxMTUoKhsWGRMSExERERQUExMSExMTFBAQEADBv8mcmKEiGhwYEhYTDhATDRAUDhEaFBcWEBMSDhASEhISEhIVFBUZGBkdGx0fHiEApqKpVU5SIBgZGhUXDgoMFxIXHRYYHBUZKiQnLSkqDg4OMjI3VVVfWFhiWlljOjhBAEI5NzsyL0Q5NkM6Nx8ZGx8ZHR8YGhcQFGZeX0E9PBMSE0tGTV5eaUdHUDk4QCEfJHbFgXyNujpEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E38_brefJaiVouluPartirEnVacances/006.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "C'est 1 900 € par mois.\nOh là là !",
+    "end": 429,
+    "heatBucket": 1,
+    "index": 134,
+    "start": 427,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=427s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/427.mp4",
+    "hash": "f72c117586",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXBaW/SYAAA4EYJYVxrLUdbeFvWAi09aMFRsI5uQuWwhntGAs6xFVeoso2R2GiMYmJc9MP0w36A/9TngaR8Osun4jhKUjGaxpg0Jiv0U5Ur7KFFBhVAOE/CMgUrKaRAo7kkAq3d07PloH+sT0+M+by9WJjff5x/dV+X0rGmkLxq5K06O68xTptzR9JNT4LOl+PNZ2ux7Fyveh9vRp/cV7/unMtFJxgICih6N2luhtozLtIvgYnO2E0WelytGD2jZmpzq3W96rub49vf9trpqgDt8ntfhtV1r3TEIoaINfJESyYgjE6xYkbW5PG05ly0Hdvcbk8mb0yKBMMy+6EuNzWlzJMvlERdiLVlHCpL5EDPTLr7s8nhxVn9/bumbbVAmnkI453Gk5U1CCUYbxRkeE5X6BIThSpZrKNSpy3+6m11bbculy+tWTuERHZBOpGTb/9+U/TD+KPdnWjyQJWIBAHxycgBh5tFMDOyy748H5Wm4yMES8BU1oNn7v/92f7cADQIR+KamDFUEYIDPjS0QyABBguLJLzPxQWW8PqD3jDywA8XysXnjYrH5/f4AgBQuRTxH5s/Y4gaMfeuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/427.png",
+    "width": 1280
+  }
+}

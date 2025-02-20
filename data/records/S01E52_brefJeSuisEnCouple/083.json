@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 586,
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "isAgeRestricted": false,
+    "likeCount": 94368,
+    "name": "Bref. Je suis en couple.",
+    "season": 1,
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg",
+    "viewCount": 7464792
+  },
+  "line": {
+    "content": "— Ouais, ma chérie. Ouais, non, mais profite,\nsi t'es avec tes copines.",
+    "end": 84,
+    "heatBucket": 1,
+    "index": 37,
+    "start": 83,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=83s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E52_brefJeSuisEnCouple/083.mp4",
+    "hash": "edfe0635e8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwWtXmmAAAGA+rHbSk5aVkje8BFhkQuhUQK693CGYgjrRyrKl61h2drZ2zj7uH+xP7GfueaBNKC1d7k5rj8Smx1zabapTw1polcFRunZmKeZlBS1tbdf39rkqwSAotBkq67745PJzk5uqbCgxBII8GOB9OvwsSY7qWl2ug6I8joHzc9CgoJdAfvaF5bWwsIWZxo9k9hOODThm5Tu+JLtWELjByHFCy+gbmq/p0NvY2Ay1lS/f6L2xwj75xsqzIkWMrqSJ2JtJyhSogWUNLHOgqx4A0Doa//v759djJNJ0lyTXfdun6maTstut27Py73rh/QJZN08jIIW2FRgAurm2X25Hb/OJ3etNZH4u8+ROnE5n+Hx+VYF/EoVl9XiZTz1QOEc2Lk5QCLAdvFw12NYXlvpmXmlwJsoeOHA6QLLfG5VXLHtfyjiZA49AURiOb8UgoljAjrMnR+mQ784UwUunfhDFqWEsdOE51F858hE5QlKHClHL7R8m43tQMra7/WGnlsstTOB0mvVEwi8VPVn66qoDIAZsa5ZL8aUCXS7tfkwkYsn/qKxonbJFX+YAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E52_brefJeSuisEnCouple/083.png",
+    "width": 1920
+  }
+}

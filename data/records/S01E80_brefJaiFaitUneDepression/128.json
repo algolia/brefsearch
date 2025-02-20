@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "isAgeRestricted": false,
+    "likeCount": 164024,
+    "name": "Bref. J'ai fait une dépression.",
+    "season": 1,
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E",
+    "viewCount": 9241801
+  },
+  "line": {
+    "content": "J'ai avancé vers lui.\nIl a avancé vers moi.",
+    "end": 130,
+    "heatBucket": 3,
+    "index": 47,
+    "start": 128,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=128s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E80_brefJaiFaitUneDepression/128.mp4",
+    "hash": "169c1420bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwdzU1P02AAAOD+Aunevl339rtr33a0a7t+bN2HrczRqpsFXOJHDCTgQS8aCTHGGAMxymknTkJ0IRwMB6aZM7KDB68Yb/4ig8lzfwi4cEWgCmKRTDDdVtjrhpzoYhLwfosVmkxkC6nG1RUolKAEC5AkCYZckCCplYArokhXlxwz951eYKzEteWrbriIfUWN1JLKAI2BLAUJBECVpyXEO1hasu21Ruflav/D1q3Dp/f2H94ZuFHs1gxRqSDaZAFL0QRLAZMrYkGyUn7Y8XaGg8nu+tmT3uz12snj/gPfy/Nhp1F3JMHhaQ5eDgVPRq1FI4x69/vLR/vPTg92p+M3X8Z7k0e399azIF3JsyzxahZLcZAmeAg8EWUVL/O90dvt8+np2cmnP39/XvyeX4xe/Tp6v3l3kLfD0DAsjpYRTXAQWDwT19ybYXX07sX5t/H3r4fz2fF8dvxj+nHy+eD5xupG40YdVy0OKqUiwVKkydGOpjZMoxl6vaSZduO0e+2/pJu04zAI7Fa1rBoI8hASTIFUikBGHBbEiig6ZcXHWqDrgY49rNllpSLLmqSUWR4zAAHwD9JhZy3hLRM2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E80_brefJaiFaitUneDepression/128.png",
+    "width": 1920
+  }
+}

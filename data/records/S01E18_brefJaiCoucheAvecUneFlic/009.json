@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 680,
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "isAgeRestricted": false,
+    "likeCount": 99938,
+    "name": "Bref. J'ai couché avec une flic.",
+    "season": 1,
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ",
+    "viewCount": 8008914
+  },
+  "line": {
+    "content": "Elle m'a dit:\n— Non.\n— Bon bha, à demain.",
+    "end": 12,
+    "heatBucket": 2,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=9s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E18_brefJaiCoucheAvecUneFlic/009.mp4",
+    "hash": "2f87084673",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC4sqhybVNoW0agjX2HcFhuaThucTh5fEKHiFFgaC5rVT9vU0iFemrArZu5oYqliXMA0s/IZl9UiHNm28G2upeEhnNcbmlKYmA2b2lDaWc7dWFKcFNJopWFxq+YwKqUs5yHAKWhmnRlWX1gUKyLeZJnUo58a46IfoZ+cJCEfI56bYBqW2hKPpyOfc+8qMaynbyljwCYl5GbhHalhHGRcmGHYU6Te26PjYeJhoKmo52wsaqRfXeReXHCtarNu6jCq5SzmH4AiYJ3gnx3mHlmlW5afllJZ1FIdXN2nZ6hubvCu7/Jmpyn1MjG1MG4zrypt5p/qYpwAGhkX5qXnHleTU4zIk8yJWxxgoyVrJacr4OKoYGGmox/gJ6DbbeXhcOtmbuhiribfwCDip6OjpyYemZQNSU2LipZWmV2eoyEiJdwcn1XVFVQQjx1XCyhc0OXayyjhEy7oYkAeYCaXGBwcWtyNzE3Kis1b3OGdnqOf4SXYV5fXVVLgHRzgV4leWI8VElBhmRJqoVwAHV6kXB2kEpPXx8iMD9AS2VodnV6jYCEl318gZ2Ui46Cg4xxKoNdQ1cxaHUwTKYhSBLY0Y0/iZXcAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E18_brefJaiCoucheAvecUneFlic/009.png",
+    "width": 1920
+  }
+}

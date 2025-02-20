@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "Bouge pas, il a porté qui, toi ?",
+    "end": 130,
+    "heatBucket": 4,
+    "index": 52,
+    "start": 128,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=128s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/128.mp4",
+    "hash": "30449ff80d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwFwVtv0lAAAOD+gr35sohYS7n3AvRCLystvZxzeqOVtmnFcpmg23DL4pYoCtEoiSZmLya+7Nkf6vdh1Itqj8S7+DOBpRWeCx3gnGkhQlebtS3zgSE6Cjdo1nSu66oc02xgT05OGKJqcqzKcbokRgCpg74PwSKbhgJVeAZSeIV83iOqSBmQlQpWf3rKEMREk4b9nnmm+KbJkrXA87NJOOk138VgFjhboKJ+Jwkjpt3BGLLOt1qp0oe6Bi0zAFAThSAIL85Xq5FwnbpvZtkajT+tytvtJUvRGHFaMdu1S1uEhm6PrSROXduOw8n9h/3KUjfm4P2yLOY3f37+/vf4OOQFbNSohh18pjDAGAPTzqa5C1Bg2rvt3d3m4niz/b7/8WX/6+/x8PD1syZJWCHTc6ULmAZyIHK8V/kCQZ+uNSDHJ2N0+PjtuNs97O8P129vz0uOobFMZnyW1IeK5770vSTPlxB4DCVao0hu01MbLV6vYz9aRuhqXrTIOpZLFE9UDHvqgBiAKIoKxwKy7EG4kFmhTEtgQkOzE0dfpjGB4/8Bz414hvADhMAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/128.png",
+    "width": 1920
+  }
+}

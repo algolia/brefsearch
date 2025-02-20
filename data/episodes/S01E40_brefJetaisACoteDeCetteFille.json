@@ -1,0 +1,154 @@
+{
+  "duration": {
+    "human": "1:16",
+    "inSeconds": 76
+  },
+  "episode": {
+    "index": 40,
+    "name": "Bref. J'étais à côté de cette fille.",
+    "season": 1,
+    "slug": "brefJetaisACoteDeCetteFille"
+  },
+  "lines": [
+    {
+      "content": "Bref, j'étais à côté de cette fille.",
+      "end": 2,
+      "heatBucket": 3,
+      "heatValue": 49,
+      "start": 1
+    },
+    {
+      "content": "J'avais dragué cette\nfille à la soirée de Maud.",
+      "end": 3,
+      "heatBucket": 2,
+      "heatValue": 31,
+      "start": 2
+    },
+    {
+      "content": "Elle avait pris mon numéro,\nmais c'était pour Steve, son pote home.",
+      "end": 5,
+      "heatBucket": 2,
+      "heatValue": 26,
+      "start": 3
+    },
+    {
+      "content": "Ensuite, elle m'a accepté sur Facebook.\nJe l'ai poquée.",
+      "end": 7,
+      "heatBucket": 1,
+      "heatValue": 16,
+      "start": 5
+    },
+    {
+      "content": "Je l'ai recroisé au supermarché.\nElle se souvenait plus de mon nom.",
+      "end": 9,
+      "heatBucket": 1,
+      "heatValue": 9,
+      "start": 7
+    },
+    {
+      "content": "Je lui ai dit que je m'appelais\nVincent Dubois et que j'avais\ndeux poissons clowns.\nC'était pas vrai et c'était pas vrai.",
+      "end": 12,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 9
+    },
+    {
+      "content": "Ensuite, je l'ai invitée au cinéma, mais\nje suis resté coincé dans l'ascenseur.",
+      "end": 13,
+      "heatBucket": 1,
+      "heatValue": 4,
+      "start": 12
+    },
+    {
+      "content": "Et là, j'étais à côté de cette fille.",
+      "end": 14,
+      "heatBucket": 1,
+      "heatValue": 4,
+      "start": 13
+    },
+    {
+      "content": "J'ai voulu manger avec elle,\nmais j'ai eu 47 minutes de retard.",
+      "end": 16,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 14
+    },
+    {
+      "content": "Elle m'obsédait, je rêvais d'elle.",
+      "end": 17,
+      "heatBucket": 1,
+      "heatValue": 6,
+      "start": 16
+    },
+    {
+      "content": "Je me suis rendu compte\nque je l'intéressais aussi.",
+      "end": 19,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 17
+    },
+    {
+      "content": "Et là, j'étais à côté de cette fille.\nJe l'intéressais.",
+      "end": 20,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 19
+    },
+    {
+      "content": "Du coup, je l'ai invitée au cinéma, j'ai\nvoulu l'embrasser, mais elle est partie.",
+      "end": 23,
+      "heatBucket": 1,
+      "heatValue": 4,
+      "start": 21
+    },
+    {
+      "content": "J'ai fait un concert, j'ai voulu\nl'embrasser, mais elle est partie.",
+      "end": 25,
+      "heatBucket": 1,
+      "heatValue": 5,
+      "start": 23
+    },
+    {
+      "content": "J'ai dîné avec elle, j'ai voulu\nl'embrasser, mais elle est partie.",
+      "end": 27,
+      "heatBucket": 1,
+      "heatValue": 10,
+      "start": 25
+    },
+    {
+      "content": "Avec le serveur.",
+      "end": 27,
+      "heatBucket": 1,
+      "heatValue": 13,
+      "start": 27
+    },
+    {
+      "content": "Je n'avais plus d'appart,\nelle m'a dit: Passe.",
+      "end": 29,
+      "heatBucket": 1,
+      "heatValue": 17,
+      "start": 27
+    },
+    {
+      "content": "Et là...",
+      "end": 30,
+      "heatBucket": 2,
+      "heatValue": 23,
+      "start": 29
+    },
+    {
+      "content": "Bref.",
+      "end": 30,
+      "heatBucket": 2,
+      "heatValue": 28,
+      "start": 30
+    }
+  ],
+  "video": {
+    "commentCount": 646,
+    "id": "DOMouPqhIus",
+    "isAgeRestricted": false,
+    "likeCount": 63125,
+    "viewCount": 5561842
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 415,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 69,
+    "isAgeRestricted": false,
+    "likeCount": 80337,
+    "name": "Bref. C'est la merde.",
+    "season": 1,
+    "slug": "brefCestLaMerde",
+    "videoId": "5U0CfNpXdEc",
+    "viewCount": 6082963
+  },
+  "line": {
+    "content": "Quand t'es amoureux, tous les matins, il\ny a une chorégraphie qui se met en place.",
+    "end": 6,
+    "heatBucket": 5,
+    "index": 1,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=3s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E69_brefCestLaMerde/003.mp4",
+    "hash": "cbc81c2a8d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ1JREFUeJwVy1uTklAAAGCaNlfkgBxczcu4WymCQKYNLAiowApeOEcBNda9KNvq1PTUY4/99Kbv/SNADsACA/OAvCD7HfGwWj8jlEXx42JxpxviTQvSXOESUHmaKTCApIleW5iot4uR42qG1ZU2rpPOZt/jaNjrQxo6ity8qjIky5AslaOpPEOct8nMspcT5++vn3+eHgy+k3jeESNVUqps6d42dEEo0SWh3lBbbaenEFm0HojSW+LNzvOOcVKHldQPsvX6gLGh9PT2pzul6w/6D/501PssXd8Qt7LyskL9dmeqarHraqJ03myOCJ+22zQIVo4bu2622/84nlrNVv6iQEAALVmORjYyzeXQyDD6fXje+cG3xSLUta0fvD6+RHPc/Sg0r2oVpkzkc5QhyffBNPa8fRgeMM4w2s9nyHWXQ90ffLG1YZV9z7yjq7DS4GrEdaWuCmLiOvv57DWJz2kammYyGcdTH9mWzvPgki6SLKRgkWJZiiUa5RoHuAasrCzrFEVPKMTjcWiaX7uyyvMfylWWghyATKH4PwD4D7dsVncKrz0RAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E69_brefCestLaMerde/003.png",
+    "width": 1920
+  }
+}

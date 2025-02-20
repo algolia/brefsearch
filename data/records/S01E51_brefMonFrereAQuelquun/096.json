@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 472,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 51,
+    "isAgeRestricted": false,
+    "likeCount": 95130,
+    "name": "Bref. Mon frère a quelqu'un.",
+    "season": 1,
+    "slug": "brefMonFrereAQuelquun",
+    "videoId": "m5Ezt99WggY",
+    "viewCount": 7361073
+  },
+  "line": {
+    "content": "— Justement, il y a Keyvan qui est passé. Entre.",
+    "end": 97,
+    "heatBucket": 3,
+    "index": 43,
+    "start": 96,
+    "url": "https://www.youtube.com/watch?v=m5Ezt99WggY&t=96s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E51_brefMonFrereAQuelquun/096.mp4",
+    "hash": "9b1a8548c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjaCwu0+Dg0RES89DT6shMDLcxM1aUE+IT0JKWTPWyaS7MbstOVxQVZWVlZ2JmYWFhYWivqNLjFDAQkXTS0pxYmDknN3ZJWZqXqQE3O1ewvXlDVlJnRqKlloYQD4+hnDRIw+TWNjNeEXNxWR0JqeKwgN6kkAUlKZ1pUYZyMjGezrOba5e3N7rqaTmpKyWZ6QnzcDPM6eu35pewlJJXFhRpTktYXpGxt6t8Y1NhY5RvepDX7Nqy3qzkYGOdOHPDUG01aX5+hgWTp1jyihkIiwszs/qbGVcHuE5MDW2LD4p1s08M8OgtyW1KiHBQU/TSVg010DSRl2GYN2GSq6xqkJWth4V1iI1NgrO1nYZyc2xgR2act4NdQUJcYaCXuYKcqbxMqJF2jKUBw6YVq6IdXMNtHF31Tby0tPLcbZPtzWZkRvanxHoYWyUGBPiYGOhKiZvIy/jrqQcZajNUZuVZyquYy6lYK6h6aOiVeTlmO9vFWdklWzqm27o46BlqyslqKygZKihYKcori0gy6ErKKoqKmymq+eiaemkbe+sa++mZBRlaxZjZueoYy4pLqimo2Zm7GKpoiAiIyUvJAwCi2HHKNzNeiQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E51_brefMonFrereAQuelquun/096.png",
+    "width": 1920
+  }
+}

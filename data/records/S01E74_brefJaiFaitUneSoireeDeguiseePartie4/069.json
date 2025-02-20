@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "T'es peut-être le seul\nque je mérite, vu comment\ntu t'entends pas les couilles des gens.",
+    "end": 72,
+    "heatBucket": 3,
+    "index": 25,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=69s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/069.mp4",
+    "hash": "4ea1529856",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwVyklzmlAAAGCObachUUHclQAiCE95LLK8hwbCpiTCqNE6TUZ7qba3TjvTHvrfO/3OHxFAK0NZ6GTmUN1Co9CMQb3tGenl+KsMyrmGnr0EKabBy64E5C5LZOZkH5f2BL/h8G+++hnHz9DqMPfXz7/f8mMA0dKNE3OOx5qvQqkzIIr506k4zYD7KKlf8fygGxt95ovKNj5+Wb8aguoAx1NtT4ZLC2ucSLxEm+v+EtjxycN/8vJ7EP2IYpeXFrP0Ndu7I4BUe6H7sY4zE6uDIXGId98O1wSvkSBdFlEB4HJiMJWGJtuHx7U3mtgS9DWsi9MYotkQENtwcy7Pu+WJumPCkWINeLXHsfV2haRXKPVlOBuq1tiyxmaguZCTiZWXv6SfdumZumM8XngQJe7/rr17TyLoH8PcFiSpPwI80MWpLihEaoLISaCCyY9VjmYOU9Aga9RNlSKrg0Z/62eF44M+z7VY5V4WuwKB5E6zQvc+3Ai3VVihkmYrZBi9Rj/Qdfa2xrZYLMNxl2Ub7Vat2at3/wHTtlpx/L7/rAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/069.png",
+    "width": 1920
+  }
+}

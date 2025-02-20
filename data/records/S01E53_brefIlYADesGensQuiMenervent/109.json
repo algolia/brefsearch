@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "Moi j'entends:\n— Je suce très bien.",
+    "end": 111,
+    "heatBucket": 5,
+    "index": 46,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=109s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/109.mp4",
+    "hash": "821145cec6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwFwd1Pm0AAAPBrbYHjq3wdd225AAc0QFugWNqVaYcuaodTY01mGqPJnjYflvhktmSP+8P3+4Ej0ONATwCc3IFSRzyfZ683V6/XF00yWTJ2u15uk3hXJM9N1c78uQ4BBzgIBKUraX2FQO3hpH4/7L9vqzWxCoLXLLgsso+TsKB0445KWwYQiLAjKT0lUs3zIPx1//XP4eFHnf/9vHwpk9OQnc3SUDVIX051fWErYMwjm9d8HZ2OnMfq+PfTt6ft5r1Z/NvVtzG7y+Nk5BZkfOW7X2JvMzaAJw5TzWmC8Iz5jyebi3KJJOsmnfxcZ20a1SxQeSPAtPLYFKH91AWUN0KJLCz2icVvbbOvKs+kowFJMA2RQw3HFC0sW7aMfFU9rFJgHykOp3sing7YoVy9XV8e+zGSzOFgiBWMFWyKlinopmBMybCdRUACnNqBqKe5EJdWdLdY1fF8PMC5G0SYGoKh8prYlS2oUZ3kYwoE0BdAHwJe7cqURx+c5H5d7WZJW2Qrj6ldiYgaBDBAJHf9zPX/A7sRPLgpc+UOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/109.png",
+    "width": 1920
+  }
+}

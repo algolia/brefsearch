@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 521,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 3,
+    "isAgeRestricted": false,
+    "likeCount": 93483,
+    "name": "Bref. Je me suis préparé pour un rendez-vous.",
+    "season": 1,
+    "slug": "brefJeMeSuisPreparePourUnRendezVous",
+    "videoId": "1x3P61ck0QI",
+    "viewCount": 7259855
+  },
+  "line": {
+    "content": "Entre temps, je tape son nom\net son prénom dans Google et j'apprends\nqu'elle était en seconde B\nau lycée Clemenceau, à Reims.",
+    "end": 12,
+    "heatBucket": 3,
+    "index": 1,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=1x3P61ck0QI&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E03_brefJeMeSuisPreparePourUnRendezVous/007.mp4",
+    "hash": "9e26cd54f7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gALBwVaQzOVg3ybi4emmJWZi4WjmpzCuMqwq7G4sLaxrLeoo62akZmIfYKZkJHBtbIADgoHWEQ3qJiTr6Sit62tvrS0yMDH0MnezcfRv7e8vLa7qaawlY6RkYiKrqSkqZybABANC0c7M7Wqp762tsG6u8bBxcO8xMW70MrEzczH0M7HzcjCycvFzM7I0cO7v6WciwAnHhpZSD2/tLK/ubnAurvEvsO/uMCyp73IwcvGwMjFv8bLxczJw8rFwMfFv8TIvr8AKioiZldQuq+turS0u7W2wbzBvbW+pZetwbvHyMLLy8XNwLm/yMHFzsjNzcTKw7rBABgVD0g+O7Ooprqysb22t7y3vbKrs5B+hsi8uqWdoH57gnBseHFve4yIln17iK+gmgAhGBQUEBJTTE1yb3VqaG+zrK+yqamCe3NucXE7SFAnNT9UWmAvNElTT1uYiXqzmn8AJSAdFBMOIx4bNjM2ZFlVoZWJZ21rNENJGCgzJC41Ii86RlheSlBToIp2zbOWs5p9ACIgEzc1JB0XFHtvbcq3sWZkYCYxNTU4OJCCcqmVgVJNSDI9QlFZVpSAabughKuQc0Mr6M08B0jnAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E03_brefJeMeSuisPreparePourUnRendezVous/007.png",
+    "width": 1920
+  }
+}

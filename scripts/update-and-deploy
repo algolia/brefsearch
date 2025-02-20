@@ -3,7 +3,7 @@
 yarn run update-episode-lines
 yarn run update-episode-counts
 yarn run update-episode-thumbnails
-yarn run update-episode-gifs
+yarn run update-episode-animated
 yarn run update-episode-records
 
 yarn run deploy-data-assets

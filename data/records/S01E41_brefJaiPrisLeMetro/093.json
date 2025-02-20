@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "isAgeRestricted": false,
+    "likeCount": 98202,
+    "name": "Bref. J'ai pris le métro.",
+    "season": 1,
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0",
+    "viewCount": 7606246
+  },
+  "line": {
+    "content": "— Oh, cool, des rats.",
+    "end": 94,
+    "heatBucket": 1,
+    "index": 30,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=93s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E41_brefJaiPrisLeMetro/093.mp4",
+    "hash": "d6046296d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAS5JREFUeJwtj9tqAzEQQ/e9kDiOr2OPZ8aXXSfbUEgg//9pZdOCniQOkhZ9PkVnSoIUHCN0KY3LbPJ87GvlTpi860KUoTFSiovVKkP4WFEodSmdcTb5uc9ZpXPB6NfKlfC29SG0mIvK0VZGytBrmZ1n431tj7nuo80mnGAfXUraxsEvRqt0AKmkWDlvlWaj+5B96/chWyWCcOsiBdZGlfCYFL3hEjF5Kalxbh/s1uvWeGXE6NZa/j4wpsVczt5oBJ+jKylKAUFolEelSlkQojNSMkIghAx+0er0KbHBXaM3KdjkbY5eSs7RgzP/qb2Ct1arRZ2+tDp5o/8U7DXYg+SSo7feanM5B3d15mK0+p7zmGS1SsGBtxk85UgIlXBrtcvxEiGMynP09+v5fj1/AXTuMJXvlaPQAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E41_brefJaiPrisLeMetro/093.png",
+    "width": 1920
+  }
+}

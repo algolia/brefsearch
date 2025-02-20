@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent:\n— Ouais, c'est marrant.",
+    "end": 15,
+    "heatBucket": 3,
+    "index": 5,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=12s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/012.mp4",
+    "hash": "5fa1cfbe1b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ5JREFUeJwFwW1r2kAAAODAWF09zdvd5e2SS2IS86ZLjVtsNNMlUalSKVJHcZSW1sK2Dx370NEyGGz/YD95z8M4SHJkskqCm+ngajYZa3qfFSAQNRZtEv/Pzfplv3zaVc8Xo3/39d/dmBGPmuAVwEC4Gg+/nS+mjkfacOo6d0V+mQ2ePtWHRXY9G+SuWQX2PLQZvsEiAPljMff8H9v1Nnv/dTb5Mnn3sqoPZfG5HFWxV0Vu3fM/eNZAkxm2wSGAKsebR/HDsnzerh6X1XnkH7L0oSx2RVb3gtztbIa9KnISojKtBo+bwj4O76fFWS/6tZmndjdW9F3SXycnb2lnZDtDs/Mx8lOTuhAzraN2QuhlHF7np9/rye/tmaOYRFADYoeGZ0CjT2hCaGrQvkq6SGKGhrbPTm7Hp5UfPNb5z83CkwxP1g2k64hSbGkiiRQ9wKrFYZOHjKcoiU5T0/YVPTXM0g91XjYEpStpmqAqgoY4BbVwgGQiarLkMO3XgG20uTc8akEEIGElyssYQEuQLEESAeabiDuGuMmbgqRA4z89kUjG3QfaBAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/012.png",
+    "width": 1920
+  }
+}

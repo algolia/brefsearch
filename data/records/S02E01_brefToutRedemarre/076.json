@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Désolé, on a un truc à faire.",
+    "end": 78,
+    "heatBucket": 1,
+    "index": 19,
+    "start": 76,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=76s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/076.mp4",
+    "hash": "0b315cba79",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZxJREFUeJwVz7tum1AAgGGWJgHbHGI4HA74cLENmDsG44TYXHNTRBR1qeNErdwhQ8YuVapmaB+gQ/sKVbv1IStv//INPwXoAxEwEPT69CHH9iXIYXiM4PE+BJZne2yPRtxRQBhLZmyZphzE5jN06siqOMxctVg63Zmzq/R3xbRZWnNLtojoE+7TrfzrSb8OecpFoPRQ4WMNDTNbafJgU5jvE7hNUZdbixlxNRgRtpvDvy9OQlgqwFwd4DpUxiOJjHAem/eVExM+JdzbfHLqqb4uZgZXW+DPa9i4POVhUPu4jcmYyMu561j6l936uQsuffmhNM9cNTTERAW7Rvz9efbxSts/7EFEphOjXiWrzPv5cvfvx3Z7EQQGqiMtNXGiDl7vyVOLHyuFmsHBypHqWFusTvJ23Tb5t+errw/pmIhwCMrYqDLnOsXfN7InsR8qibLh4MTGZWp6l+f+bVfe3Sz9qS2wlgLXidkurIsi6apoUxhlNDmPZAocvREAg3jAEMIYhqDrQ7bP0wcSYMYjqOGhhARF4onEh64pcIP/NA1JToUkoRkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/076.png",
+    "width": 1280
+  }
+}

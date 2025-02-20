@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 359,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "isAgeRestricted": false,
+    "likeCount": 82145,
+    "name": "Bref. Je suis allé au supermarché.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4",
+    "viewCount": 6898714
+  },
+  "line": {
+    "content": "J'ai aussi pris de la\nsalade et des frites.",
+    "end": 15,
+    "heatBucket": 2,
+    "index": 7,
+    "start": 14,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=14s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E21_brefJeSuisAlleAuSupermarche/014.mp4",
+    "hash": "18869da87a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCZjZWWh4Gek5SekpWSiXKdfmiumYe5qaK8ppi1o4qqk4iXhYKIeHh+cG59emtoYlsAqZ6lmoyHm496loyCopmJqpeQxLitupmJr5J8wrqqt6WYoJGNmIuOgXhliZJBkoxcAKebmYJ3ZIl9fKqalbusk7mnn7ignlVBWk43UK6cm8W4oKaRioiBgmpiZ3hthnNocACtnI+/tZuspZispZS/sqXMvaebYmJsTll2YnmNXGHFu6WnlISulYqkj4iOhat3aGoAwbS/kol8rqiIta+Vv7Kbxrqxqm9is4FYoHhpmFpWzbajppCGsZmVxqF/rH9dsZudAJuLis3CwsiwsLOloLekjNzQxpaIjhgNJBsJH5yJjNC8sKGMiquQi4t4erKck7mYiQCzoqi+tcHGuL28q7S7qZjazcCJg4oTECUZFyyXkpbVycKjkI2yl5ONfX1JQ0ygmKcAnpSks6m4oI2Yt6qtw7qy3dLNmI+QQDxHQjxHjIKE39PMwLa4o4qIonl2hHmAd2RfAIh2aJiGkJyNm6WUi7mtrM/DwI2DhHx0eIqBgn10ds7AuruurZuRlZR1c4lkZ56Kg1bX9fIo8HIaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E21_brefJeSuisAlleAuSupermarche/014.png",
+    "width": 1920
+  }
+}

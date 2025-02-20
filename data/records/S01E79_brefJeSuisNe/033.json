@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 780,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "isAgeRestricted": false,
+    "likeCount": 101475,
+    "name": "Bref. Je suis né.",
+    "season": 1,
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0",
+    "viewCount": 6614179
+  },
+  "line": {
+    "content": "J'ai contourné des obstacles.\nJ'ai attendu.",
+    "end": 34,
+    "heatBucket": 1,
+    "index": 18,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=33s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E79_brefJeSuisNe/033.mp4",
+    "hash": "18c82a3cee",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwVyktz0kAAAOAtYoEEyLPQJKYkgWxIspvNY0OoFOTRTASUkgrVVmfqjDMefNy8efLgyV/hP3X8zh/QwIl+UtGePLWZJmbZVOAp3w5bzYjnqMBnspRKcixKuM2TNocYBhjVev+UNasN3OLmqlKYRmFaq4veUtcL01hbZm5as56VdBUiSIQXABL0QLzAXHeiaFto34Xh3vN2rlt6+BiE9wm9xWEBvdzxI7FDeBlQZZjp/tTwNi6+i+JPy2Xpo50N34bx4/PJx9nsx+Hw8/2HhQETSaWSCqaD+Nq/XNnRDYreUXqf0AdKHyeTz3n+fbv9+nL959uXv79/rYcBPTNGnR5YuKN1NM1hfIOSQ5QeI3oIyDFOShLe+vgNInsfb+DwSjOJoBChC8Y6mvbD3Em2XrzzwzKISoQfxuM9Qq8gfO24G9uZ6yYRuw7LO3UGTEyS48trly4stOp7he0W/cFcVWaa+uKZdqVpI/kMc+L/3WgOTmsgVexMhZkK03NrpBiZqqedcyoKmSwnXAuzjWG9ZtcY2GCtarVXqfwDrlhK5W0f+McAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E79_brefJeSuisNe/033.png",
+    "width": 1920
+  }
+}

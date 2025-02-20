@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 380,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "isAgeRestricted": false,
+    "likeCount": 79046,
+    "name": "Bref. J'étais coincé dans l'ascenseur.",
+    "season": 1,
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI",
+    "viewCount": 6207773
+  },
+  "line": {
+    "content": "J'ai dit:\n— Allô, je suis bloqué.\nIl m'entendait pas.",
+    "end": 49,
+    "heatBucket": 3,
+    "index": 23,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=47s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E13_brefJetaisCoinceDansLascenseur/047.mp4",
+    "hash": "a856c6d36b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYJJREFUeJwFwUtzk0AAAGAOtgGWZV/sssubUCC8GgpFJknTxE7Gidam4+jFGfXkyav+EH+y36e1ScAJ8oUzrPLD2L8cHz4eHj497r6c3n09n36+Pl+e9nNXl7GfKtdjWEM2EAwzYmeht+ub95txqm/mIvl23B7G7jh223Xd5WnquZJhZJlaLolLEaVIClYmQZeFz5fvt80wLuPff//1VVVE3jJQghGCoANNLRS0DUURcF86ymWRrz5cfs23E8P46fOfu/tHwWxfikTxG8U4tjXlUEFRIHDssljyxJfDeto29Vjkp/OPze6sqBVJEQoiHUww1gpJ2khkioWCeg6hGHkqCJTarIp5Vaa+71AiHRpyunQpgZb25upK1w3LAgQDjAAAwDB0ACBFhNjIghBBO5TcZdg0zcVC1wzdgBYUnEdBkKeZdF3TNA3dAKZpWWBxfZ2EUVOskihyuYAW1BzGkzCty2bq592079uhKruuvuvboW+Hrlq/7ef9fBi6+zKrYj/5D0PDNy/3V116AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E13_brefJetaisCoinceDansLascenseur/047.png",
+    "width": 1920
+  }
+}

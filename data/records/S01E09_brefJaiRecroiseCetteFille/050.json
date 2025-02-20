@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 477,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "isAgeRestricted": false,
+    "likeCount": 90777,
+    "name": "Bref. J'ai recroisé cette fille.",
+    "season": 1,
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg",
+    "viewCount": 9033652
+  },
+  "line": {
+    "content": "S'allonger dans l'herbe. Lui présenter ma famille.",
+    "end": 51,
+    "heatBucket": 5,
+    "index": 19,
+    "start": 50,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=50s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E09_brefJaiRecroiseCetteFille/050.mp4",
+    "hash": "21e0fdfc78",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATtJREFUeJwljclyo0AQRPn/P7LUW3VtdEELaWQswCCNl8vYP+HAk5GHPLwX2SARCSWMLjkSQpRWSwJMCEDxyQUXfaJwDOHJ+aMLDSsC7TQyqLRFy3ybhjogIhIQIUD+P0LIOWMTwHnwKBFzPh7COj5/fX6+bVuKmXg/J8GUIxOHALsQc8gInTEkQMBtfF5vL/d5ZhRVYSFmIiYR4d80KUcVrWYp5l7073R7W18/Ho+ipsydqRU1K6WU3SRqfIpWbBpHRk4Blsvwvszf/747q7W0tWt722ulJcpI1Bx96Io9lvlknXOxJXk51W2aLqehUz3XvvZWu2JFIacE0By876w8pttyvQpJ8MlEalvet3uR9s+vYEVVJQGElBoXvSrdl+V1HM99jR4o83U4f6zreLm0wq0yMWbMzseDCz/PYVGcull6CgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E09_brefJaiRecroiseCetteFille/050.png",
+    "width": 1920
+  }
+}

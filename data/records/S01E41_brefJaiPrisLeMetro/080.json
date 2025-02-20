@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "isAgeRestricted": false,
+    "likeCount": 98202,
+    "name": "Bref. J'ai pris le métro.",
+    "season": 1,
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0",
+    "viewCount": 7606246
+  },
+  "line": {
+    "content": "Et le machiniste nous demande d'attendre.",
+    "end": 82,
+    "heatBucket": 1,
+    "index": 26,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=80s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E41_brefJaiPrisLeMetro/080.mp4",
+    "hash": "29db5d5ea5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwdzVtv0lAAAOAaN0pL6ekp7bm2Pe0pp6xQGthWNiYIGzDBzXpLvOxdH5aYzBijiYlP6ov+aKM/4MunZQxdzHZnw0GlwufrzbPV5dfbu930eCTxSAZDwfIQlzKQxFMMZczXbENPcWd6ICe95On58m394t3rm+3p4TghR2lQRDSPyLESOceK+Yr5Wo5h7IL15Ghe5ic9cdaXy1LlET+VYfUfZNRLPCeCbenDf0MlSEzQajrdVONXj3dvrrYPCkVd6Nkg8mCZ8C7xRQcQ0O4yKjpAk77DiQgRHiv5+cOnbx+/TIqB07IVoxlFGccHAenHoWQEQZgFTAOWncoTaAHsONfnFzd1/Wg25wiVUnQ5Hci4y2mnDbiPAkSHqdLCsBwd1q2mYezrESaz0fB6sSh7eR4LGfCBjAl0m3sNBD23DULMNYrTWIz3798zdcNsmpfzh3fvb7fLdVUU/SSJKWaeL1hIXN/UmzEXmmW0LMM2Gg1TN/S9xsur+s+P37++/3yy2TmmEWGkwmi7WME2sAwzjdRfHLJARfcwuTYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E41_brefJaiPrisLeMetro/080.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Et moi, ce qui m'a vraiment frappé à\nla lecture du script de Sarah, c'est que\nj'ai vu que mon personnage s'appelait Je.",
+    "end": 931,
+    "heatBucket": 1,
+    "index": 298,
+    "start": 923,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=923s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/923.mp4",
+    "hash": "5d4762d7b6",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMklEQVR4nE2Ru0oDURCG98z1nLO3RLObbDYxMRiMihY2QRDESlSQVLaCxMLGxsrKQuzE3ucQfAFfTJJdNcN0838z/8wEQRCY/4AqEYmIjTHLIlS1ShlAHQiACMyohJpE8Xgw2Cj7aZQAMAIBQAX+AmapJmG2kfdP1yfv84vD7WEUx0LKqDVTAwbAEKEIWxGXNdPP59uvl7vL6Z613qpjUkJZuqgBBLNor+JEXKuRfsxn36/3j7PTSdEBEOEKIFMDlXtSYWvVh1H6cDZ9uzm/mh7kjTXRUNjhYhP8s7SYQChM2moVnf54f2t0NBkd74y7xbC/uZsXQyJdvRKCITAU+jTLyywvfbTufZImzbTZztu9LO8ljSyOYyJafYJhVlWn1jsXqjpRZ13oXChiVV23W4rID+C1GeAa7eplAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/923.png",
+    "width": 1280
+  }
+}

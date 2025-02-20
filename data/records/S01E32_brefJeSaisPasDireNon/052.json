@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 699,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "isAgeRestricted": false,
+    "likeCount": 94559,
+    "name": "Bref. Je sais pas dire non.",
+    "season": 1,
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4",
+    "viewCount": 7987391
+  },
+  "line": {
+    "content": "J'ai participé à des cadeaux communs\nde mecs que je connaissais pas.",
+    "end": 54,
+    "heatBucket": 1,
+    "index": 25,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=52s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E32_brefJeSaisPasDireNon/052.mp4",
+    "hash": "9ea2ac8092",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwdz91q01AAAOBcuOQ0y39Ok9MmaX6btGmS7vQnS9uUxZW2TkfLtG5Yysp0k6GgiBd6LcoQBMELtztfw3cQ30nwe4OP4CkSlShXYPaQeNw0n2fROksORjkO7Ksj+2JmnqT+06zd0CqpzSzaPCFSlLYLGhKzh4SJgzbd4FXRKbq47ZsXc/txWr99efb39tPPN9tpDDcDkVBpYLOlGDK4IuY1+KRlvS3wcWzlkbEaW/eb1s360e+vH+/evUhd5TDgCLVEmgyIIYcrYqbDRbN2PYpPe85hogzc8rNBcnO+/H69/vH6fGSbBk0RArWj0aAls4nCpZr00K9ue8FZ5heJ2lKEExx83iz/3H359f5qX1cimSG4/2mPp0PIplVp6qirUN8+mOQ4hvTOwNE+LGbfLk9nkReKNFZ5QgSkAkiLAS3IDXVpYsFloM1x5OjVXUAmBlrlvcujAte9Xt3DBiIkQMoUqZWohsgcmHBiyVMPRTpCIg8F3izLwzDoN3zPMIve/jDBhAxIgbyHAGUxpXENzp1yZshuRTVVpR+2xp3+sN0RWDZy691GGDneP2ZVTGhtvt45AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E32_brefJeSaisPasDireNon/052.png",
+    "width": 1920
+  }
+}

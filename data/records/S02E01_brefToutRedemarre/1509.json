@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Si, mais je peux t'aider si tu veux.",
+    "end": 1512,
+    "heatBucket": 1,
+    "index": 490,
+    "start": 1509,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1509s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1509.mp4",
+    "hash": "fb925f848d",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AE1OQUpLPUZHOkdHOEE/MjU1KT48Lh0dGBYaGCQqJRIRDxELChQQDw8UFAoPEQcJCgC7vZuys5KmpoaioIBRTj8qIRp0aE5BQzYzPDZSYFU0KyVAGhZHMCY0Ny4sKyQZHh0An6WMm6CGhY54e35pUD0rUi8cY0s2QUlAOkdBSFpSPC4nVSMYVj0vPTsuOTAjICMgAImfj4uhkYegkX5/Z5NsQ3tIKWdRQJyumKGoj2hxYUc0J3Y8JWRLOj4/MT81KB4hHgCtlWCrlmSbjmSfl3Syp4GSc09wZVGpsZW1uJpxdmJTOyucVzZ0VkF6gmtxcFoZHBoAjnxUmYhgsa2KrKmLsK+Sn5+EmZh/nZuCnZ2EbnFeLyYgVjcoRjsvWmhfTFNMFRkXAEdFOYuLc73BpJCSfXJzZXx+bXJ0ZnFxYp+fh3JwXQULDggNDwsQEi8wKSwoJBIXFwA7Niyrp4ywp4OQf1uKeFaRf1qGc1F9akibimR8d2MLDxEKCQsKCw43Mic6MywYGBcAGxsWU1NGQTYlQDEcQjQgQTIeQDEcOiwaNycUOTMoCgsMAgIEAwQGEhANJSQiDgwKYXWJKIWkF9oAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1509.png",
+    "width": 1280
+  }
+}

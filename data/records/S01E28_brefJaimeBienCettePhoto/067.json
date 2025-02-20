@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 495,
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "isAgeRestricted": false,
+    "likeCount": 89012,
+    "name": "Bref. J'aime bien cette photo.",
+    "season": 1,
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo",
+    "viewCount": 7007993
+  },
+  "line": {
+    "content": "Il avait fait un concours de shot avec le\nbeau black que s'est tapé Cathy à la fin.",
+    "end": 69,
+    "heatBucket": 1,
+    "index": 26,
+    "start": 67,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=67s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E28_brefJaimeBienCettePhoto/067.mp4",
+    "hash": "15c17b9a3d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB8VBiDWRl5TxZpQxNjPhJXNgtYNhBNKwxGIwsiEgdHKA1RLw5MLA5TMQ5dNg9aMw4AMSALPCgNTTQQVjsSX0EXjl8+j144i180XzoPLBgKXDkQWTYQVTIPYTsRaT0Rc0YUAH1UF3BMFWFBE1U5EFU4E5lmXrmCcaJ6ajQiDC0cCm9IFXJIFHpPF3JGFH1QFnhKFACTYhuZaBycax2aaB+PXxyVZSjEjG64iHppRRyKYRuMYB2NXhqGWBmCVReEVhh7SxQAhlkZh1kZiFoZgFQZd00YkWMXkGEqvYl4gVUykWMXmmwgk2Udh1kajF4bgVEWf1EVAI1fGo9gGoxdGoxeGo5fG4dZF4JUH8KQeZZqVXFHFX5RF3tOFntOFXVIE3xOFHdKFQCJWhiSZByVZx2bbR6fcB+gcSCTZB64hmqxg3J4TiyFWBOJXB2DVht2SRV0SBRtPxEAf1IWhlgZiVwZiVsZkGIblGYdi10VoW9HzZuHtIVtjF8smWsdnW4gl2gdkGIcfFAWAHZMFXNHE4VXGIdZGYtdGpBiG5NkHH1PFq5+YsGRgjgVNUYjIXpPHH9TGHZMFW9HFNj9iJHY90gFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E28_brefJaimeBienCettePhoto/067.png",
+    "width": 1920
+  }
+}

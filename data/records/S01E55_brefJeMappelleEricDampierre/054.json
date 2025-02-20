@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "isAgeRestricted": false,
+    "likeCount": 132781,
+    "name": "Bref. Je m'appelle Eric Dampierre.",
+    "season": 1,
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg",
+    "viewCount": 9414768
+  },
+  "line": {
+    "content": "Mon objectif était calculé\npour être 20% supérieur à l'objectif\nque j'avais atteint le mois précédent.",
+    "end": 57,
+    "heatBucket": 1,
+    "index": 29,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E55_brefJeMappelleEricDampierre/054.mp4",
+    "hash": "3ff54cfe8f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwdtu0mAAAOBeucXFzA0JZYyDLaxHas8tPZ/4+7dAW0qgBbZl2RbJlphFkyVe+gpe6KX6qH4f0u0Oj04abZwTGcEU5X1Zfcuq2o1HnNrqES2MxkcsL2i6FYmKbQQp0u5gb47fn3WudAuA+frnrz//fv99ev0RJSuYb+NilxS7eFH56WriJZMgRdAecfKu+bbRFZ10WtyAbB8m6yirD/s725+FxU202HlpZURL0Yol3UdaHxm0T7YxVrKTYFYZoCTHOlCcrw8HjVM9d+7Pag+ujTA/vxiil0PkA8Y3+5RkQSMqzOlSCRbOgEloiWYlbUDHjGbGpQVKxZ2ZfqqaEXLaIc+7JG9MvWRjgDKwYTziAchtuHRJ0R7xepjLTpqubj9/ed1cPyJHjcHx2eUFzqI42yMEnJIITu9TEiOYTo+0WE32M9WdF9vHiZfAbINwqscIBq/7qpcoTsyqLiXbvObBcO6Q4hUtE6JNcfqnsdxEBwFYIAEsYLaBRZ2We5DV06xOyuv67vnp5fvt4WV7/wzy7Vi2JcXqYIxqg//KR2c/Kcut4wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E55_brefJeMappelleEricDampierre/054.png",
+    "width": 1920
+  }
+}

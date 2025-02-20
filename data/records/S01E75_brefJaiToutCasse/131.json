@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "Ils ont fermé la porte.",
+    "end": 132,
+    "heatBucket": 4,
+    "index": 53,
+    "start": 131,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=131s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/131.mp4",
+    "hash": "17a5aa8fa3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAapJREFUeJwFwWlvmmAAAGCyCDqq7KOrWA4PCqP1GF617Vpnpa13pSCCXL4gIrN1LpplS7Zk+7g/veeBCKrK5kuqpNs6GIj3XJ5PoFgcTRQzhP9QnV6X5p2rtSb379qPl/VR+wYi6QbHfLR0DxgLgWNpIofF36Fvjwp0WqmzY4HZDj+9SvdKrzvp9uX+I0RnL3m2sgQbR9V4EifT2cQRhsWxfCopcsR+0vmj9aSLojWzTR0YUwmi6PIZWwy8jWtYN40mf1qIown8farKZObN86/Dz5Pq2VDggNwBahcYOkSd5D4wjO84u7Vva2atXENjKBJFxTL7V2n/mnb/2eNw3AGKuFDElQsgAifZXG5pzQ9f/NBzm5VaDInBSOzilHoV6/vB7c/R9c6UDof9drMJAx9KH+NMhnaN2feXYBusripCFEEiSFTIpLd3tbAlBIPbH0DdbYIw8JeuA6WSx1mStFXlW+C9+G6jVEBgOIJECxS+H7dWw9ZMHoG5sl6YHnAsQ4dSySSJpzXpae0YrqlXznkkAr+JwOXsyW/72X7qdSYj+XkMrLllaLoq/wclQG6PdR+gGwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/131.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 520,
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "isAgeRestricted": false,
+    "likeCount": 97525,
+    "name": "Bref. Je me suis réveillé à côté d'une fille.",
+    "season": 1,
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4",
+    "viewCount": 8534561
+  },
+  "line": {
+    "content": "Du coup, j'ai dû enlever\nmon bras un centimètre par minute.",
+    "end": 52,
+    "heatBucket": 2,
+    "index": 18,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=49s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E78_brefJeMeSuisReveilleACoteDuneFille/049.mp4",
+    "hash": "ac37988df8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwFwVtv0lAAAOAzt+lkTnqj7aA9pz3taQ+lF0ppg1KgC9hlpVO2kQ0Usj3MyIPxksiD0cSY+GZ88yf4Q/0+oCEKFYwgURXMceIO2KkeMVl2uZjelG1vMRwNvMDRSWi1SF15//EnQNCGqqFBYiCr7XQo8QReGk+ul9NFGbivup3QMAPiRE2vifQvX/8ApFGkmseC5KhKj7bSoBv7STG9nZ9e5Y593gnbBglM+izsTQb5r9//QL2uswzPViqkxmOegxzryOK4fzovlpmpnbk0IRaF6CRJL85X7zbfQF7e23bnAQCP9/Z1jgkgDDWNCNykd3KVz/Ik1WuCrTQCQg/2D54eMqCcbZZ3PwShsQuA/KSic1VHFi2Rx7Ic+7ENMXd4ZDcaYdPnWQEAAKJulo5epqMZUTBmGanykH+0V90Fhiyv19tP279v1ltdEm2E0n7RH14AXdXdVhR1h8/TMo7HWJYQx0TUX8w3b++/364+vxgWkOegWMsGRXn2GiiiBOVjC9uul/h+jyDcNukgHqyWH65nd7FlJRZVWKYu8KaKXE3/DwARTj4mK1l9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E78_brefJeMeSuisReveilleACoteDuneFille/049.png",
+    "width": 1920
+  }
+}

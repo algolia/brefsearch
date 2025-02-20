@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 490,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "isAgeRestricted": false,
+    "likeCount": 93351,
+    "name": "Bref. Baptiste est Super Flippant.",
+    "season": 1,
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78",
+    "viewCount": 7580349
+  },
+  "line": {
+    "content": "— J'ai peur.",
+    "end": 33,
+    "heatBucket": 1,
+    "index": 15,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=32s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E49_brefBaptisteEstSuperFlippant/032.mp4",
+    "hash": "dbcde35fb3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwdtu0mAAAODeOQ6lgGOMUv7yt5090a4tEDqgtOUwHCwrYAdLJzK20DESnQFxxmTGJZqo8cLEReONdz7O3snvQxzPPzDr/nhx++GrY5scBUWGmfkvx4v37bLuOn2rfkACmqPoOIahYRRxzl9b1eZsdH0xnhgSzxOELoqDw547nMgwK0iaWa6IXI4i6QgaebQRRBrOqVVuLF99V3PyqKL9uHB/r5Zzb5pnaQEALJlhKIahucTmNhrGNgJhJF8yi7r18/7v1CyunfrdsP3tan7SHcDUlkJBniRzICOw4nYSD4WwQABFhGK9pTCfGjt7MLNyO/dn3V+rdX//KPE4tptNN572Ksf+oGaUaBhHI4EgimTV5nIvc1sAeDR+um99GffOuk6CeOLK8iQv+p//eP8enJox1DUmHguGUETT7AWPL3PEJZO6sQofu1ZP5NoQrBX2rlUevfB3+/6RWV04HSW1tRmLIc9UecYl5xJ5LYErHhgkcZjF38nwrUK/qao3z4clljVV2WvZtrAjQRLx6OSUx89FYi6kGxAQgApHojCKXQqgCdOQpEqK5tpGRy8MqnpNZP8DGGVkTlt+Kk4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E49_brefBaptisteEstSuperFlippant/032.png",
+    "width": 1920
+  }
+}

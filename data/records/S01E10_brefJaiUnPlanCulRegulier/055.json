@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 474,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 10,
+    "isAgeRestricted": true,
+    "likeCount": 49496,
+    "name": "Bref. J'ai un plan cul régulier.",
+    "season": 1,
+    "slug": "brefJaiUnPlanCulRegulier",
+    "videoId": "9zk0TrOU_cI",
+    "viewCount": 3714683
+  },
+  "line": {
+    "content": "— Bonjour.\nJe l'ai prise dans tout mon appartement.",
+    "end": 59,
+    "heatBucket": 1,
+    "index": 25,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=55s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E10_brefJaiUnPlanCulRegulier/055.mp4",
+    "hash": "918182ccc8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCLeHd5ZmR/bWuHdnWJeHeLdXSrlZSwn6CtnZ6rmZeQfXyOfX2IeHd2ZmWaiIdlVVQAl4SEg3BvbF1cinx+h3V0iWdjqYqIvrO3wLa8q6OsmomLmoaFmoWEaFpalIKBc2NjAJB9fY17fGdYWXpzfYp8gG9STnpmZ6qeo46BhZiXp6qip4+Jk4R8g2VVV5mGh21fYAB4amxxZGdnW15lWlwqKjEnICOBd3t9X1t+XFd1am6Vf397fYtzcXuwq6+gnKV0b3wANTE0e21wiHh5UUlLAQMJAQYLWkBDjFBLpomLpZugknFucm12V1BWysfPpKi1T09ZAEQ8PI99fJiEg01FSQIECAADBl87O8FpaL54fLlydZNQT5CJkod/jMLAzdPY43p9hwB5Z2d/bGyNenk7NTgDBQkHCQ88MjSNWlaaODeYS0p3YGOGeoCBeYOIanKaeoC9rbMAeGdmgG9ulIGAaFtbAgIBAAICOBUUgCgmdSQhsJicj4iMSkJFYllecVNYdEtRhlpjAHhmZoBubol3dnRlZx0dIgoOE1cfHZU2NIEtK6B/gqqdn05DRVVMUpmXobG0vZibqlUCvJ1fxcrPAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E10_brefJaiUnPlanCulRegulier/055.png",
+    "width": 1920
+  }
+}

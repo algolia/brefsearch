@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Malacompagnex 3000 ?",
+    "end": 1889,
+    "heatBucket": 1,
+    "index": 630,
+    "start": 1888,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1888s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1888.mp4",
+    "hash": "bb4b310282",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ADAsIUVCNCcgFh4RCi8fGk5BOE1AMzUjDzckEDcjDzYiDTciDSUWBCQUATIdAEg2DQBmXEKKgGFHNiI9JhRlRDWzlX2jgmRwRx1vRx9pQhpmPRZsSCF4XTNuRwabeCmoew4APyoYVz0iQioUTSYUWigYaC8ghFAzXDwbVDQWRiUUVyMcYD8xe21FYkMRoIdLiVwGAEEoFE83IDYeEVcYDnMyI3hBL5VkO4BYJnpTI0UiFjUOFmA+MLKtaKKBPJ58RZRmFwBhQSBoSyhcQiNqUjeVfVi0nnTAqoKEYj5lQBhOMBUsEAF4b0iwnmiGYCenk2WdcyUAelMnimApm3pNzr2r1sy44NzFsL3CeGtblWMghVchg1AVspNfqo5TkW4omH1AjGEaAFs5GV07GXBTNM26n9DBoNTBmHd0c29WO35PF2g/FXVIFaF/TJB3RXRYJopmLIVaGQBjPRlxSR1/VSSofEKvgkOtgUGqeTuebC2QYCOOXSCJWB6SZi+OXiCLWx+QZTF5TxoALx0LNiMOOSQOQCoSRTAVRjMXRDEWQCsRQCkOPScNPScNQS0UPCgPOiUPRDYnLx4NaTeHMTBKZRsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1888.png",
+    "width": 1280
+  }
+}

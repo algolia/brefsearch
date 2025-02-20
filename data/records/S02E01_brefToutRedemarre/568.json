@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Si on était au Moyen Âge, je devrais déjà\navoir 8 enfants en train de me demander\nde partager toute ma sagesse.",
+    "end": 571,
+    "heatBucket": 1,
+    "index": 182,
+    "start": 568,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=568s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/568.mp4",
+    "hash": "b1a5d2695d",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABpUlEQVR4nB3Ny24SURgA4HP+f/4zFwZhLsyU4X6ZAcvVqcUaRlvF0Ng2aAlVopuirWEFxkRrI9GVmrjyEhdufARfQFc+gw9kdP8lHzMVzMWxbEDdgrYD4Rr0MrCVhdCDZgp8A0oJzMf/mTUNUiqypiXGAT7uwMs+vN+FzyP4coirG+KkJU66dNwW0zrdD6TbBWnTFV2bWNWgWQe/jdnPJfw+wx9P4NNEmm/JkSvP2tJ5hIvLcNqEOyXoudSyiBkaHdSk7/fgz9vYr2f09QiX15RpXbtV0jc85VWfryK+CPk0gH6aOhaxqKTsFKRZN/Zx7Ly5yc4HdDUvHzYSzwcpSxNjH15s8sUl/iCAKP1/iLLKXoUmNXy9zd8N+dmOVDDIM5VWMZ7S6NE6e9plp+vsqAJXXGqYgnVtMcjjXhHnG7C6zuchjBqxqiXKjjKsasMMTCq4m8GejeUY5DSJ1ZIU6DRI08MA7xalbVc6DrUP+9oyUkc+5RXRTAhfF6UY+fYFTyWmIk8KzOkQujyng6PixRR0HF63sZJEU6Atg0lgyljOegmF/gIq+UDiW6/VxwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/568.png",
+    "width": 1280
+  }
+}

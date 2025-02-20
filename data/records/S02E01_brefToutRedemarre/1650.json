@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Putain, c'est un super plan appart\npour elle toute seule, pas trop\ncher, ouais, pour elle faire\nle point à se reconstruire.",
+    "end": 1657,
+    "heatBucket": 1,
+    "index": 546,
+    "start": 1650,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1650s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1650.mp4",
+    "hash": "cd08122a06",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABkUlEQVR4nAXByW7TQAAA0LE9q+3xeLxMvCUZsB3jNG5oYqWpCqirIUhUSIhSkBBqJbhw4QBIiDNw4AP4Xd4Dy4I9aZxNxevM6xu1eaAkp67LlM9ij3CX6aZMIuELD1rQMCH4chH+uy1+30w/XZY/3x2cLfM24Udtsq6jjfaLPB7evjxct+MipRhDTMH3XbxbeC9W0d8P8zdHaU7h+0X47Vm1LWU/4eM86s+Pu9mkVL6HMUIU3G6D+5zUyv5xPR+Wo62iHxfyz+vFVZ9edFF9L1m1elfJw4xPHcoQBr325sreS+1Xj6vzvuxHzk0tvp7quzP96279dFvVI38/E5tCNIJNXQrakXNSy+ddvMqFoMTHuBFsP3JTQk51cH2QfR5mQ5dtJ77mTHs2OJ7ykz31aCa1iwOIYkpCTCQimcMuq2DQ8qpLHhbCYxQY0IAYzJWTSVvHThu6GaExZRLTAFPFaBOyxGEYEmARA1EuI4s4gFomsszAJYlLbNOiFoQmRCa0IRQUmRY0LWgYlglxmo8RYf8BGOQy6O4ONKsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1650.png",
+    "width": 1280
+  }
+}

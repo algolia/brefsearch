@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 597,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "isAgeRestricted": false,
+    "likeCount": 91536,
+    "name": "Bref. J'ai fait un rêve.",
+    "season": 1,
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4",
+    "viewCount": 6811734
+  },
+  "line": {
+    "content": "Quand j'ai rouvert les yeux,\nje me suis retrouvé dans un ascenseur\navec un mec en porte-jarretelles.",
+    "end": 21,
+    "heatBucket": 3,
+    "index": 5,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=18s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E24_brefJaiFaitUnReve/018.mp4",
+    "hash": "f971a3a8fa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXlJREFUeJwlxutv0lAYgPF+1NDTnnPe99zaQgVHIYxtsIyO05VCWy5uMKfu4jQu2+IXTfz/Pxsx+eXJ4zCKyARyCVwAQ06RU2AeRKiTIOooI3xQaOzkfHw0iKPAEaA0Go0m2FOgkclYh5vx+OPZme0mzGWU8OV8Vua222k7ErRCY9A0pYmkCVBJLrLB4fOy/pxfDOK216C+y1ZlsV2Xp8dHjuBSgQ5QR0KHqAIQ/Va8TdNvVXVtbSQMI9x96+fT6c3VqswzB6mQoBRozZVmMgK1S9OXZfWyWd8WsyaaFhpBwE7Sr192m6pwgArBJTIBPjLCBRWr0ejP7vL3dlMen/TCVj0cDsNWbu3rj4d1OXM4hX88YAQY4aRBz3v9X1cfHmf56cHBNEl241EbZb2Y/3x6rIoLx3eZT/b2Q1w6SfrXdpofDrtBdBK/y3s97w2pF4vn7/fLee54Deq59H99wjyXNmXwPmiGqAzDUbtjky40/CLL7j7d1EX2F6JIPimu4NSjAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E24_brefJaiFaitUnReve/018.png",
+    "width": 1920
+  }
+}

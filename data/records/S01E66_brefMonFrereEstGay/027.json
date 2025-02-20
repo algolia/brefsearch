@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2000,
+    "durationHuman": "1:34",
+    "durationInSeconds": 94,
+    "index": 66,
+    "isAgeRestricted": false,
+    "likeCount": 134319,
+    "name": "Bref. Mon frère est gay.",
+    "season": 1,
+    "slug": "brefMonFrereEstGay",
+    "videoId": "-tInLKCRUrs",
+    "viewCount": 8408820
+  },
+  "line": {
+    "content": "Et moi, j'ai dit: Parce qu'en fait,\nje savais pas quoi en penser.",
+    "end": 31,
+    "heatBucket": 3,
+    "index": 17,
+    "start": 27,
+    "url": "https://www.youtube.com/watch?v=-tInLKCRUrs&t=27s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E66_brefMonFrereEstGay/027.mp4",
+    "hash": "d20693c7fe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAxJyhHPkA6NTgVEhYTDhIlICM1LjBUSUpnYWNJMDQzDhc+GiNWNT2bmaWNjZh5d38AOzIzUEdIV1JVWVJXYVleYlpgalZVf2Bbm5CQWkFFORAXRB0mXTpEqqm1n5+rk5KbAEU5OVdNTmFaXmVbX2RbYGVaXWFHQmNCPIVwandfYzoOFkUcJGNBS7y9yrGyv6ytuABOQkFYS0pcTkxXR0VXRkRcSkZfQzxqRT58YFeTgoNCFx5EFyBlRE68v8y3ucaxsr0AUUVEXE1LWklFVEE9TD07WUdERS4pVDYwak1CmIWBa1VbTSMqaUZPxMfVvL7MtLS/AE1BQUg8PEM3Ny8mJykmKlJDP0YvKDAhIFtANXJeWjc1Oi0lKkI0Oo+Pmru9yqensQAcFxoLDBEfHSIbGBw0LC9mT01WOjZTOjd0XFdXTEwpJCcdHCAVERIdGBqYmKOtrLYAPR8bNRsUGBMXNiUlUD09QjM0KSAjQC4tX0tLW0tLKiAhRDY7bFJXZkhEd25xf3+IAEYeIE4cFDwRCC0LCCchJDMvMhgVGCgkKCokJh8ZHCoZHFYxNmhQVnZXXDMfHhMTGfiWhR+pWOrOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E66_brefMonFrereEstGay/027.png",
+    "width": 1920
+  }
+}

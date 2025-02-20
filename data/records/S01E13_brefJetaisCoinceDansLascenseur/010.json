@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 380,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "isAgeRestricted": false,
+    "likeCount": 79046,
+    "name": "Bref. J'étais coincé dans l'ascenseur.",
+    "season": 1,
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI",
+    "viewCount": 6207773
+  },
+  "line": {
+    "content": "— Par contre, je te laisse,\nj'ai plus beaucoup de batterie.",
+    "end": 11,
+    "heatBucket": 4,
+    "index": 6,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=10s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E13_brefJetaisCoinceDansLascenseur/010.mp4",
+    "hash": "192d15e949",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwVzN1u0lAAAOC+gxvb2tPTHnp6aIG29Je2dG2hrEqZziwZkIlggMTEDbO4ZChqlGS6aGaiMbshOq9MvFN355Xv4LUPY/we4KMISwo8EQDLbwABQEQDkNvYi9zLZwejVlziWbhGwzUAcjSzQjOrDKUJvIoxgRCznAiRwHI6EU+HO98WD/uJB1au4f8Lgussm2NAjqGckmxIYlkQJJQnHJIQTqvWODKGvhISzoR0BbLs6joGvAixAPKUKiAVIxmhslgoYeKU1ZNOa8+UdjQyCPSWoQwGh6Pxo4bfVLCk4CKl4YKCiS7LbsVyNGs7DPuBUcszXUPq2VLdsmfnV59+/Pn+++/8xUdPtalNQ6+qilvR3IplqeatOB5GZmjamVZ08kw93b8///x2efXhy6/Ti5/bN+9QTc8OLT2yzXrV9nR9mDXGaRR4dUuzJJZrNLvTpxdPXi3HR2+en3/t3D2itnwntI3Ec67XvN12++D2VtOPDc2N/MAmhVq5Mj05O14se5PF7PXl8fwdldaqsWPGjpklyajTfZBtpo0sDpL2jbYvFy2E+5PZvcOz3d60P3k8f/n+H2NRbZt509WOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E13_brefJetaisCoinceDansLascenseur/010.png",
+    "width": 1920
+  }
+}

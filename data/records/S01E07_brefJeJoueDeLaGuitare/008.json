@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 525,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 7,
+    "isAgeRestricted": false,
+    "likeCount": 88753,
+    "name": "Bref. Je joue de la guitare.",
+    "season": 1,
+    "slug": "brefJeJoueDeLaGuitare",
+    "videoId": "QJEyHT7IU5M",
+    "viewCount": 6698014
+  },
+  "line": {
+    "content": "— Wow, tu joues trop bien.\nJ'ai emprunté une guitare à Ben.",
+    "end": 11,
+    "heatBucket": 4,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=QJEyHT7IU5M&t=8s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E07_brefJeJoueDeLaGuitare/008.mp4",
+    "hash": "f62518fd36",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwVy9t3knAAAODfKbcUEX4CDgWdrsIJLHBgU5hrl1TAy3RzcnGXLDsNsjrajvXQKfGll577fzt97x+oy0LsyQZMxHEUgShCQZinSI6Chip8fzP49cGeO817q7q0KuGg/ufuHOiSEItuEjgKMQRPII83kQqTHIlpg0vPrlqh787txvRk72tD+nmurT0TqHsCeLSBICiCxNkkVoCJV3niVs3fa09nl69Xvjd3mpN66VoptIqMvr0FFJEHIBKJxkEEyeHYWZ7si2xfYBx15/OotfK9B89oS4UqA6sMUWMIsC/8Dykyk6MZnsL1LDF6wV7s0ndH4sw214E37RxqO/TMqLoqNyilQU0qExhN4akK97xXYk/YZGc30+Wzl4fyJ9sIAy8YnA41fmU3Fk1lLGeBLpdpmNqCJE3SQ4Ub8oyjixOzHgytL44VBuPldfudddCTCkc5yigyQCmJaDSZIdMMTmos0d9/Zh8rH0fd34tgMe6Gvre86Uw7Nfe0LBLYcZYEUpGPx2AK0ts4oZAJU+bcs4PlW/fv+sfDTX/le99uexPz5ftura1wrWLmH+iHW967F/SyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E07_brefJeJoueDeLaGuitare/008.png",
+    "width": 1920
+  }
+}

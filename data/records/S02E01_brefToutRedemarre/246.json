@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je suis là, il va le jeter\nen l'air, il va se retrouver\ntout seul comme une grosse merde.",
+    "end": 248,
+    "heatBucket": 5,
+    "index": 69,
+    "start": 246,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=246s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/246.mp4",
+    "hash": "4e86ec03ed",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABk0lEQVR4nC3LyW7TQAAA0HFr7HgZ2/HM2OMZL/GOcfGSKK2riKQ0UUsLBIWyCCJVCClw44KExA9w5S/4ToTEuz8AjiVw/EBXJNdSsaESQ2XI4MiIHTN2zZSaCTUjAn1bo5aCjREQFEMYQY7NofC6xK0D1KZs0ybrJuwjtKzY6yG9mYYXtTcUbhsTIIygIEOGzUXFq8ixdHgWjq8aPs/pvsGHwXs5T57PoqcNPy+9Nnb+BSBDahuLiqcMW4TtT4td5704S3cnwY91dLitP66K2+lkVfvTzPsfsAVPcy/zbEL9TVN9Gviznucu/rWrv27r++uTD6ti3U1mOQeCrAMZIhPmPgkoyjlmDtr2/Elsczx+1bHf++r+qnqzfLhskzr1gSBpQNYtqLmOQxAKmb3owm832fuBXXRhHZN3vfvny+O7RfYoj/M4BIKkAkmDmuY5hDjuqiTfL4PPm/TnNjhcp/OS+ch4O/Xvlk3TzyZZCcCRCI5EURR1RZFVLUFaMpaxreaeep6b1NZdW8Vjk1KaFaVhk79l8ToaE6htrgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/246.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "— Tu viens de la prendre sur la galette.",
+    "end": 72,
+    "heatBucket": 2,
+    "index": 29,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=69s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/069.mp4",
+    "hash": "b042d30be2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwVzdtu0mAAAOBqBEoP9PBTLLTpembtSmmZ6bpCSyts1jJRs1QnA0ElkY2YjUWDmfPCxGsvzB7Y+L3AB/EwIuJ0tYS17TQKp74ZDJ6tTt/czZ5fb3uD+5Nk7roHJPJeU8+j2dnRBfToIULAJINS4mPdrZs2SRucnsTzPF6v94PvoX/eduIa8VkofxgsZqMNhJYICqEBBnTOMOtNi6mPW91P07/LdPu1G10der+P4okqnYr8anwzzTZQqYjjCGAwyrFOFHHYYYVllE/yP4v+l60f3Y/iuyR6qaqL9pNV/vNVbw4VClgFBTHPH1tPZc5v1eXjaC2K3UQfXrrhRcd+Z7smr6aGu85/5N0pVCxg5RL5WhYv/aElhvuSZ+tZyu2+3cvS3XCsqL+S3o0mBiyXOUlLPvw/sAg9N42lF+5xtroTDJWDTUOQgewJ7bxp9SX1tkHdGlqLUxRGgx5AcMzvXHeczAg01kYJPWUaM4bFMIbEGRqrEQj4VqusJZElWAkoUBOnPurqpP/C66+kqgMjwpgEIxLACCARQMAUBZNXAD2rVcvFCl2q/APm9VPsmCVRSAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/069.png",
+    "width": 1920
+  }
+}

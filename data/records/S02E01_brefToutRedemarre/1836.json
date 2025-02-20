@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "On s'est revu avec Billy,\non va se remettre ensemble.",
+    "end": 1839,
+    "heatBucket": 1,
+    "index": 607,
+    "start": 1836,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1836s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1836.mp4",
+    "hash": "41b7acca25",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAICBA8OCwoNCxgUDktKPF9iU2tuXEtHNlZURl9gUF1cTCokGhgVEywbGAkDBAIDBQAMCgovKx8cIxs0Khx5XUOmglzb17ekmXbS0bDw+Nfx9dBsX0VEOjBqRzstFRUUEBEAIxcQLyocICYcNSkch2FHd0MpnotxkYVms62Ozs6yyMepd2VFTD8uZkc4XkE4KxwaABkOCjItIScqIzUnG2pIM1kvH5uKcLGjfcrAm+3kvejfuIx4UlNINGpPPm5RQUArJQANBwY/NidEPzBWRTNUQDIxGBFTQzWahF7c1rL5+dXz8MqOeVFRSzViTjx3WUZTPDEAJBoSOzEkV08+Z1M8gnFXXEItaVA3YEw1ua+K0MymycCZgWxHVEo2YU05gmlUUjouABERERUXFjcxKllNPqiVcXhKJIZTLUw8K2hNL3tjQn5nR3hjSHtsV31uWGhYRUQ1KgAHCw8WGho7MSlFPjWAcFhjOB5wRit5alWjlHetn4Ohk3mYh26LeWB2YkthTz85LSYAAwUFDQ4OGRQQDgwLIxwXKxoTRzwxUk1ATkg9SEE2RD4yPzcsNi0iLSQbMiwoFxMRUheKQ+nbGLsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1836.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 145,
+    "durationHuman": "1:09",
+    "durationInSeconds": 69,
+    "index": 8,
+    "isAgeRestricted": false,
+    "likeCount": 24402,
+    "name": "Bref. J'ai vu un psy.",
+    "season": 1,
+    "slug": "brefJaiVuUnPsy",
+    "videoId": "xHTx3mYfGUQ",
+    "viewCount": 2511951
+  },
+  "line": {
+    "content": "Bref, j'ai vu un psy.",
+    "end": 56,
+    "heatBucket": 1,
+    "index": 22,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=xHTx3mYfGUQ&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E08_brefJaiVuUnPsy/054.mp4",
+    "hash": "64e7dd13a6",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXdJREFUeJwdzj1v1DAAgGE7dhJf/Bk7cT5tJ3FylCtCRYIeDEjsCMTaASoYqiIhdSgnxg78AX4yaqV3faUHQIwymsOCQEYTKamtZFe3vmt8X/QdbtqksrCy0NRQGUgFAFmWMZoKBphISg1tA5QGBcW6LJwHrYPtANse2g7aLjEWILbDghdGQSGTUoNSF11/eH388PFzvHyLfMQ+Jr1HvUODx70HSUHh05CVCkoJuJheXnz9+ef2998v336Q5RmJZ9m0oXFC3ZgOE6BGJJIjIfOSJ6UC2sSLV1c3p+93D9e/TnQ7362HfN6jYcZuTkME41A2fZkqkSoOlQK6arft6uZ0//Dv0/UtmSJZz3CIyRBSH9OwAq5Z26rKSm441YLYmjRNu39+/u79+ua4m2bk4qNnCKlbsI9AGk4ko0YYK9tOja5iRgBKSKWbOLEwo3HB7qmwYreAnJGdokTyqimDr+dQMyNzW4/7eLx84Q+PnnTZUFjhMMHO/QdCVyqjfMConQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E08_brefJaiVuUnPsy/054.png",
+    "width": 1280
+  }
+}

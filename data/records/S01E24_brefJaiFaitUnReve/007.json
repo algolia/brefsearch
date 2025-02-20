@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 597,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "isAgeRestricted": false,
+    "likeCount": 91536,
+    "name": "Bref. J'ai fait un rêve.",
+    "season": 1,
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4",
+    "viewCount": 6811734
+  },
+  "line": {
+    "content": "Je suis tombé direct\nsur mon lit et j'ai dormi.",
+    "end": 17,
+    "heatBucket": 4,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E24_brefJaiFaitUnReve/007.mp4",
+    "hash": "16b24960ff",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwe1PEmEAAPD7rDMbFGBdEUMjcaF0J9IEqgkjTFE/mNbIwmbgBK57f3t6jrvn6PB4Pbkz59bW/NBa/0H/Xb8florHw7PTj27PzPtnYwHfYsi/4Juu7pRtVde+iqDJIx4iCXGnXGV3v7CWxvKrq0QEfzp3ZxkPruDBx/5bey9yA6BZMjREE9KqwUoGIyAOmCJSKRlrVGu5hUgGD2YfhMg538ul2EjvedZYYyF1wvL1lq3qA4C6rGK0aHo3hW2TZDmZ2LgXKIXxfPi+wWrXzo1rTT7uvNnf3O4I2kSzLxQ0kszvjQqT92NlgqwUiqXE4kY8In9p/rn599P7i+TuyfsjSKsuPB9JbUfpXpmg3yS1dxGsRCTL6bWtFHFQLNjAdC33yvltQNcb/PL0/lCAF6AzluhLuOUppLgXwHJkMkssb2YzPdhzzGGHB5rY6xo/Jmjc54GjojGwjM+Za+25XU+cvQpiyVh0ZT58fPBhoI/62rkFHeYMqi1xKKM+/20k6xbLteuvHS5dfTZ1SN7FlqIPC+sZtsYIp4xCAVWcfHp7JNQpRIntBqs3WbV2DOqHSuVJMTqzHpr6D7MapCuRuS1/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E24_brefJaiFaitUnReve/007.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 520,
+    "durationHuman": "1:57",
+    "durationInSeconds": 117,
+    "index": 50,
+    "isAgeRestricted": false,
+    "likeCount": 76148,
+    "name": "Bref. J'ai fêté le nouvel an.",
+    "season": 1,
+    "slug": "brefJaiFeteLeNouvelAn",
+    "videoId": "-KG96E4nu-s",
+    "viewCount": 6184265
+  },
+  "line": {
+    "content": "La soirée avec mon père et sa télé.",
+    "end": 28,
+    "heatBucket": 2,
+    "index": 12,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=-KG96E4nu-s&t=26s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E50_brefJaiFeteLeNouvelAn/026.mp4",
+    "hash": "08f9c530a7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwFwVtv0lAAAODzosZhGZSWXtbLufV0rQ0jo1spFAq9UpZZ5jBc3JZIfPHBbL6oi3/AxPjgP/b7wEUQBsNpNrv8dhhPRlGel+cXgUldSUO327s/f//t7+6fn39W5WL/4Wa/XgFOUJnrvr/yITSztKjf1bvd/edPm816nSYZZU4YTZ6evhZJvKmvqnQGwBGPrK6gSh0VEss+6/tVOZ1G/XiWl4tlEo0fN3U+HhqIrKp8PhkBQTHPehBTXdKIbCDPs+KQ6YjqECNiHZbp7y8P+0XKtYRlMiuSGJiQUIsVsXPedwjzyrln2xYmzMDUcb0yGCyCweP2ZpfFdTT0PA8YkGgGIZROR6zO3cnQ0SG1mG0xRzVQFYU/tvWvh/X3j7fzS5/vSqDdVdqSyiu6qJreW0PVdUkzFQOayDIxwwivQv+wTA/X5apIX7cE0OBFTpQ6itaRTzhB4eUTXlKbotwUFcJczBwbIYZQFviDXu+NoIBGW2wK0rEoSzrE1qmJmWoSDVJITw3MWl0VvGq8OOIwhE1BeXnc+Q+2gFHqUv2p/AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E50_brefJaiFeteLeNouvelAn/026.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 477,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "isAgeRestricted": false,
+    "likeCount": 90777,
+    "name": "Bref. J'ai recroisé cette fille.",
+    "season": 1,
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg",
+    "viewCount": 9033652
+  },
+  "line": {
+    "content": "Bref, ce matin-là, je me suis réveillé\navec une envie pressante d'aller\naux toilettes.",
+    "end": 4,
+    "heatBucket": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=1s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E09_brefJaiRecroiseCetteFille/001.mp4",
+    "hash": "be8b0b47d4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwVtv0lAAAOC+OO4wRim3lp4eSkt7uHQwRrMBY52BUtt1jClulZuMlQfiSAyZ2abBCxqNmqAP/l2/D8NdW4TLEXVtxTxPZBp/high7GeDHtLrTMdCv2Yvfs9665H5aWA8Xqp33ROM9DnjXgfpc8Bt9x4gBCJQJ4NNhjAzyX0O/rjp/VsMv988X08uVsPT+5cqdsRGeNzLBJ0C4S3RRNDtaDFhBeAGgsdS3jio2Kb21ba+2Zer0fnDlY7NGsjIUSjiEyLeAzYW3/YoMIJ23FkqXkjBIsdWRMFqNT9O+6tJ7+HVGXZv7M9Pcm2UkOKBGpeIBtxvTusyIEQqmoeMxDLVHGpIuyPdfD+23lld7NGsLNvF11VeFROdMg9w/2Z+9aFbrfOkCOgCBGWBP94rNYplu9NZWhfYnV56q0qzI9GS2eV5o0ATf277P0dqC1FCkkIgKQGqWUAFCI1qfdHrYLdPc3MlO61lxofcl4EmAWKz6P+1TT1P00Q4HfLrMDKWGCUDKmh3amjYdZWbHKaHcqovp9YDTaLDn8fm5lrXEBny+7I7njYIddJRjSdFmj2rKf8BypRixBjG84sAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E09_brefJaiRecroiseCetteFille/001.png",
+    "width": 1920
+  }
+}

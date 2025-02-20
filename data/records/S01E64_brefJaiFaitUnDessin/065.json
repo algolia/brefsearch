@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 468,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "isAgeRestricted": false,
+    "likeCount": 87383,
+    "name": "Bref. J'ai fait un dessin.",
+    "season": 1,
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY",
+    "viewCount": 5904585
+  },
+  "line": {
+    "content": "la main de ma mère dans ma maison ?\nCes chaussures, elles sont pas à mon père.",
+    "end": 69,
+    "heatBucket": 5,
+    "index": 30,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=65s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E64_brefJaiFaitUnDessin/065.mp4",
+    "hash": "11af66142d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY1JREFUeJwFwdtyk0AAAFD+2wc/oQ+OVq061k6cYkzbaUnSkDGUDAQSLgtNuSyXZZeFXa424xd4jjC7PJOuzxXpyt7eR66Kwj1NQJlsCTRIbOFobx02O/VBX12vZl/vf34QltPPuiy+HNaxrVSZN3BK0wnYXUL/V/by/tTRgkCU+tBT98rd+u67oMliDJQqA1XmcxyMvCvit8A4fz5cxN6bU9cQhlmNanSMwFaTfwuesaSZ13HUkrgpwteu7lmYHBVgTgto/W0qysqWlwNHZQpcTRJC54nhoOe4p+lY5a99FXnrPLCgr5LMPrWUsLJhZGxwhY6+KQu+KdPcH3je0WRgaGzKcagazarnWkuLfyMnddlw3LMMQwfoj4KxuU2edU6ipoRdnY49reOQfpPGhZmreltlpMa8zlgRhK6qrUThcfbF3NwEzhNJHI6DnqXQNo6ynAAT7P4wHKAiQtAJHUVfT5fTC+Hmx9lc/LhdTFztIXQ2KDCK0MSpQzMAfZ1A27XV/VZS55OF+On26t1/AYtfMg/kCWkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E64_brefJaiFaitUnDessin/065.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "C'est quantique.",
+    "end": 1422,
+    "heatBucket": 1,
+    "index": 460,
+    "start": 1420,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1420s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1420.mp4",
+    "hash": "d228d759b8",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhElEQVR4nB2RyW7TQABAXcXj2RdvM/Z4d5zGchK3SaEqVBEURVVVUdoCBxRVXDlwAgFHxA/wzyhI7/6k95yjiesCV1NPYoAhIAgwBIg3AQB4ABDPlcT7DxAIUOg6SHJJ8VUpe820JJlPU4mXU/PzcTyr/FSRIRPzlHcJazTLQ+JIJQIGC44SgYzEmSJG4E1n/u7Xf+6Pz0u1LuWmlmPBe8tbwxwueBLyLFSZQGnA84DWWswz+fQs/75rbsZkrKLdEO2G4HLmj4V0EKZNYRfTss+iPg9XVdgaURpVV+bh1D5cdHcnyeeX6d1pfL2ILjvfAZBYEz2f2bHNVtNkWajWsDwNbz5uvz5tc2NuV/G31/GnF/bdWr869h1K2cwGt4uks3Gdxo3mtabDLP394/HLfhspP5BybtX9Wfp+HV3NDwbMuWCUZ3G4KnQRsEqzTW9/7S8+vFlwJhRXUvrLKnx73ox14BxNXIgghlAijx9KA0G8QJBlHWeRcMHhB4SQUnwytNpn/wDfpjAOW4Yi6AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1420.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "T'es pédé depuis deux semaines, t'es plus\nheureux que moi en 10 ans avec des meufs.",
+    "end": 88,
+    "heatBucket": 4,
+    "index": 30,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=84s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/084.mp4",
+    "hash": "71d9b2a3c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjyIvITnYPKwxO8rN0VReXDjc289Y1CtLTT7O0DNc3ija0bAyMqfAJz3cLSHP0irZwZKhJqSgNTmmIzgk3tfPX1S9wdXNQ1wrRN4g0NDaTVS6wd5sSn90VkdQYFFXqFZTl7MPQVdDaEpvfl1xS5e6faGpe7e3d7ONd4exS6uJS6ODY7hMyL6VwenzmhKjk5sDITHtXhskVvb1JpfNy6ibFZUebmBU4OmZZWQVp6ETrGeTaO1f6J02MyuqPyqzzjbJUUJfiF2WYXNk/M6O8OyYz3dEr2NA4ztQ00dg4TEM7WEOzwMkn0y+n1iuiKzQ1w96Hh5OPh4ufoT48LsfD21BOKdTQOEDf0FBGIc7ENMPCIlBbp8HNt8A3PdvGq9Y1yE5Zh4eTj5eTjyHQyFhTWlFNQrbIzS3OzEJTQkaSX0RPWk5WUCzGzCHOOSHWxDnT1E5BUIKdjYuTnZtBQkBMQlBMUVzWREE5ydIyWN/QWE5RX0ZBUkDMSEHTWsM2zMgh3dhKUUiCmZmdnZWTQZBbQIBbQFpInI2VS1pQxFZFzUNTR0tCRlxAzFhBTZ5f1FvTKN/OTYxHEKIBAC4kb+FMjUQlAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/084.png",
+    "width": 1920
+  }
+}

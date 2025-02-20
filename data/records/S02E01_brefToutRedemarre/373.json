@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Mais si je dis: T'as raison,\nc'est une connasse.",
+    "end": 376,
+    "heatBucket": 1,
+    "index": 111,
+    "start": 373,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=373s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/373.mp4",
+    "hash": "24f56cb645",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AEdKOhQWFDM0KVBQPUFAMD4+L0hINkVFNERFNENDMz9BMTs9Ljc7LTI6MS43MCkxKwCmqYQqMCx6eV+uroWMdVR2UjealXCenHSYmHKSlHCNjmyBiGl1hm5xhXJtgnJleWgAoKF9JywpeXZaqaR7s41jfU40jINgnZ12j5Bsi41pgodncH5panxra35saH1uZHhnAKWieCswLYeCYaSgeIBtTVw7KDk4LYmDYJeWcImObHyMcHCBa2x9am+Cb2yBcmd7agCWj2AqMS16bUhwVC1BOy1RTkEsHRFQMxt3cUt5hmh3iW9uf2dtfmpwgm9ug3RsgW8AjYVZKC4rUUoyjG5EUU0/XVlLhVY3RioZPT4qdIBhdIRqbHxla3tocoZxZnlqXm9fAH+CYx8pKT5AL62BUVpCNVJOQZdrSjQkGx8mIWp5Xml7Zmh5Y2t9aWJwXR8jIBQXFwBbbmAlLy83ST9vUzdaVEZod2lLNCAjJiEzOTFpeGGLk2+Jj2l6g21SQDITFRoQExYAHicjEhcWKTApGxUMMTEpOkI8IRcPDwoHDBERNjotUkwyQkMuNjQrIhoUHyIjDA0Pe3qSzBqrYfcAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/373.png",
+    "width": 1280
+  }
+}

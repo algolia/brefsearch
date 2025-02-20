@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 761,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "isAgeRestricted": false,
+    "likeCount": 138299,
+    "name": "Bref. Mon coloc' a fait l'amour.",
+    "season": 1,
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI",
+    "viewCount": 11899469
+  },
+  "line": {
+    "content": "J'ai compris que c'était pas sa taille.\nIl m'a dit qu'il osait pas en acheter.",
+    "end": 51,
+    "heatBucket": 2,
+    "index": 23,
+    "start": 49,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=49s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E23_brefMonColocAFaitLamour/049.mp4",
+    "hash": "10d666f914",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC5sbfPxsra0dLe1NTe1dbHwbmEenUXDwwwIBpONSxTNSw9JBwXDAghGRWXe3Oce20Atq+1z8fM4tjZ5t3c4tnbyMG4bGFaKhwWcU5Dc1VNa0k9WjcrQygfMiUgknlyk3RpALy2vdDJ0eXc3erg4OLY3s3Gw4B0cF4/NZ5tX4lkXGhIPmhBM3lPQm9cWLmzuLesrwC8tb3Z0dfm3t/m3N/g1t3PyM6nnZ52VUucbF2PZFluST1vRzd7UkWjlJXKx8+/uL8Au7S618/T5t3g5dzgysPItKy3pZabiGZclmdalmdZhFhIe048d1FEnIyMsaapu7O3ALqyudHK0N3W3MC4wameq6idq6ecpodmXoBYTItfUIJVRG5DMm5QR417eIVxbZSEgwC2rrbQytC7s76lmqemmqimm6mqorCTg4dxUEV4T0J5UUNePjNyX1qDc3B+bmuCdHMAta61xLzEpp2ro5imo5inpZyqoZmopZ+wiH6GclVPeldOY1ROdmpogXR1hHd4iX6AALautrCosp+Vo56Vo6CXpp+XpZ6XpZuUo5yXqJCMm4h+iH51e391eYp/iJCEjZCFja9u7kM6uzDpAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E23_brefMonColocAFaitLamour/049.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "C'est quoi ce poulet\nque vous nous avez coût ?",
+    "end": 555,
+    "heatBucket": 1,
+    "index": 175,
+    "start": 553,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=553s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/553.mp4",
+    "hash": "b0ac38652b",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABrUlEQVR4nB3Ly2/ScAAA4J/gGAMGhZZS1v2wL1rsg9IVGFBqCdDCSqHFupTnxjxoovFxMiYuUePVgxcvHrz4j5rsu39A4IkSnkuljpInicxJQqFQlkTSycfnpazIFWtsUeBwlsYoCoWwUC7nwauXltXnKZjHitkWU/owlf98Xsp0yZTww3N1s9T2UTv0G3NXnTiyNaiBN6/tsSUIDFpAMh2u7MqVX29nt7uxO1G3vhYt1JtV5zrQvalsj8R+vwo+vveuHFkViYsqEWiMr1A/1ubX++3uXbhbGRtfPay7D0FxRpJlCuD+y/XSa5gtqEukCjGbO/u+Nu6Ci8DV9mEzWtRvo3a01BZXymQsmiYPhtO2bkhU9TyHoenTjEKiW6dO5RMtKnuzUEJX2YTa6iE4Y/HZoAZAPBVD8BQrxjESPoF3c51mIS1wM4Pbe1Jg16K58sKruxNpYAmdXhXE0jmQyBwTlTNzyPSMv/++/fz9idR1/rI5m3V7w6blGnP/0h49daZ6syuAR/EEiB/FkukszSCcoHQa24NXoUkMOaUgEcvljwsYQaIQopLM4+XCfz4sVxyqcVV7AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/553.png",
+    "width": 1280
+  }
+}

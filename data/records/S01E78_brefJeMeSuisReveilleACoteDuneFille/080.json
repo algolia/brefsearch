@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 520,
+    "durationHuman": "1:55",
+    "durationInSeconds": 115,
+    "index": 78,
+    "isAgeRestricted": false,
+    "likeCount": 97525,
+    "name": "Bref. Je me suis réveillé à côté d'une fille.",
+    "season": 1,
+    "slug": "brefJeMeSuisReveilleACoteDuneFille",
+    "videoId": "9UEJzfo0_m4",
+    "viewCount": 8534561
+  },
+  "line": {
+    "content": "J'ai trouvé ça sale, mais rassurant.",
+    "end": 81,
+    "heatBucket": 1,
+    "index": 31,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=80s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E78_brefJeMeSuisReveilleACoteDuneFille/080.mp4",
+    "hash": "5f0c76fd6c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwetu0mAAANA+gomJoqzjMlDpMii0lK+DUspWKNCWXldYKW1BKJdtnXEocSNDRY1LTIhL0ETjD5/ARI2v5zkQJ1o1wRTVHss2QRqnAI3Ed6PbMVnpirKttSfHzovOYGF5r1lxAGgNqvPHamtkWGe80CZjO0QoRCcQdAumUExvKEJV7k/fTmbrk5ef9e6cqTtQDss3RMv1LiWpS8dCVAQmtmEqmSmiuMSw1SxQ+ZZ/+WW++tk7veGPzqFySWxqg8F0KSs2iEZAMJgOBGqHAleqMSm8goNiCrPd2er293h2qzsLyOz6zvDV08lSU20yEs5twcSDQJ1tNht6gypJTIVOE7Y7+/j13/nim+m9g1qW33Fn/fG1JNn7kfA+HAT37/JVRWwcFZJpFs9xoHh28enD5s+zxXfNuYYkfWh0fHd0VRXsJILhSAZ9tHdQFnhOzaYL9+48JBOZoXf1fvN3Ot+UxQnEy65sjDr9eZkz43sUkjlAMocYmjdaXiJJh+EnWHxXMU7erH95F2uGH0KVersuObrp5xkl+jgbR8idRA7PllXDKxAlgKBkCtjj1fPlj97pTZ61/gNj6IV9UzS3CAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E78_brefJeMeSuisReveilleACoteDuneFille/080.png",
+    "width": 1920
+  }
+}

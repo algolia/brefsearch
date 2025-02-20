@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 474,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 10,
+    "isAgeRestricted": true,
+    "likeCount": 49496,
+    "name": "Bref. J'ai un plan cul régulier.",
+    "season": 1,
+    "slug": "brefJaiUnPlanCulRegulier",
+    "videoId": "9zk0TrOU_cI",
+    "viewCount": 3714683
+  },
+  "line": {
+    "content": "Elle débarque à 3h00 du mat,\non couche ensemble et elle repart.",
+    "end": 14,
+    "heatBucket": 1,
+    "index": 4,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=10s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E10_brefJaiUnPlanCulRegulier/010.mp4",
+    "hash": "2213eac0ca",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAAAABEQEWxrLqxrbw/OTcAAAA9NjWKgX+FfYGHgIiRi5aOhIhzYVlgUUqJgoiDfIQAAAAALCcrsq/Bw7/QWVNSAgAAPjg2h35+hHyDhn+HkoyYjIaNYlVOeW1pm5Wgk42ZACIdG1RMTZKKkYJ6g1ZRUi0tIkY+NoB2dIB4fH13fY6IlJqVoYqDjYqEiqOgsKOfrwBvZWWCdnNnWE8uJyU8NjklHx1fTkdoV1BkWFBpYFtuZmhUSklpZGmRg4loUU9oYWYAa2JlW1FNTEE8W0pCUT84HxoeQjMtWUc6OSkeOyYXQDImLCgnRjImcEtDgGNZTy8mADUlGDcqISghIB8VDxEKBiwoKm1maoyAgYN1d5CChGpfXEg0L3EvFIJINohyb04uJQA6IA40IxYVDQkJBQQQBQB+cnTJxdSxq7WxqbSyscWXhZBdJBdRGg1fJhA4DwcqEQwAQCILPB8KOx0JQB0DSzQjhHl7lY+cq6e1rKe0mZKZalNPWDEidU1EYUY8NSUYJA4DADweCUwoDVYwE3JWQ4yAfo2HkpqUnpyWnYV7e2BPQkIlGEkzJ2VYSoR2bHhqYVFBNu9Kl4W+6Ea0AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E10_brefJaiUnPlanCulRegulier/010.png",
+    "width": 1920
+  }
+}

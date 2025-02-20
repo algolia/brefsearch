@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "Il m'a dit:\n— Vas-y, je vais\nte fouiller pour voir si tu mens.",
+    "end": 41,
+    "heatBucket": 1,
+    "index": 22,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=39s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/039.mp4",
+    "hash": "505660bce4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBiQjh9VUg/NTCUlZWdlI1gRTlpS0CteWWmb1xqRTd2U0eCVkebZlNuRzk5NTU1MzQAflBFm21cWkpBo6OhuKWYmmZPp3Bb16CMy454n2tYkGhWqHtqvodxnGdUMikmTk1PAHpFO7iCcY1uXbOro7KWhsR9YLh5ZLJ9bbp7Z82MdduhjNadh8+Rebd5ZDsrJWRjZgCASD++iXmWdGGwqaKsk4W+el2RYU9yTD+vdmXMiXHOkHm9emK+el+kcVxVPTJ0bnAAdEM5t4NxjW5csa6rrZmOnmpTkl1Rn11Up3dlvoVvxH9kv39ksXVdblJFgVFDoJOTAHhNQYpiUpN1Y8bDv6efm5VnUJRhVJ5fWKhuXraBarN4X6dzXYpiUVtFOk04MsjHzQCHX05jSz6McF/BvbmtsLOKZVKJX0yTZlPAg2yseWSMY1CHYE9oUURfRDi5razm6PMAb1FEU0A2dmBUsrKyusHGY1VNe1pKkWpZl3FgdFpLcldIZEw/RDgxelVGzsTH3d/tAF9IPUIzK2pfWIKEh1NTVjszMD0zLUY7NEQ5Mj0xLD8xKzMoI1g+NIhYRY11Z4eIj/iNw8gV5oxdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/039.png",
+    "width": 1920
+  }
+}

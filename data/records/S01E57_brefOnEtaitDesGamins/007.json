@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 57,
+    "isAgeRestricted": false,
+    "likeCount": 112972,
+    "name": "Bref. On était des gamins.",
+    "season": 1,
+    "slug": "brefOnEtaitDesGamins",
+    "videoId": "LI0mfa3sqWY",
+    "viewCount": 6343137
+  },
+  "line": {
+    "content": "J'ai dit: — On le fait ensemble ?\nElle m'a dit: — OK.",
+    "end": 9,
+    "heatBucket": 1,
+    "index": 4,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=LI0mfa3sqWY&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E57_brefOnEtaitDesGamins/007.mp4",
+    "hash": "213fc14961",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBxaGKDgX5kZGSEYU9dKRBLNixWRDxCNC1fKBCRTy6+jGqed1tYOCQxGAghCwMkEQgAaUw8bks4eFhFZ0IwKRoVlnRhlmxUZkAsXycOfUIlZkUzXT4pNx0KLhUGIwwDHwoDAHVPOpFNKptTL3RAJj8xKqF+a6h/aYdcRGQnDFsrFSkbFkIoFT0jDzcdDCwUBi0UBgBjRjRoLA1tJAFyPCJ9ZFWKbFuDX010STNhIQSAPh18VT9KMRw9IxA5IA4zGgk2Hg4AfVQ/fjkZVyoWUEA3gGdZqoVwnnhjhlc9XSkTbTUgdE02RSwYMhoLPSMQMxoILxYHADMqJXI+M1E0MUhHRWxSRYhqWYZcSFEtGjYkG08aEFAzIDgeDTMaCzohDy4VBi8VBgBBGxWHRz5dKyQuJid8bGJiSz1mQzFGMyg9IRpcGQ1PLBo8JBI6IA41HAovFwgsFAcAXiMblUo+SDMyERAWiYJ/jHpxhW1famdnMx0gZzMpVTIfNR0LNx0MOyANOx8LNhoKAGomHoMuIz8wMRUVGYN0bKOdmqWhn5WOjB4gJ0M5OVg2JEAlEU0uG0MlEEwsFlMvGwfRbMbpKJ4SAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E57_brefOnEtaitDesGamins/007.png",
+    "width": 1920
+  }
+}

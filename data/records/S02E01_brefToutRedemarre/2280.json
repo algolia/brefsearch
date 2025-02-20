@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Bref, ça y est, j'ai 40 ans.",
+    "end": 2305,
+    "heatBucket": 5,
+    "index": 736,
+    "start": 2280,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2280s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2280.mp4",
+    "hash": "e6135e6424",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAxUlEQVR4nH2R3a6EIBCDBQQGZdEBfyJq1KBieP8HPIleHne/6zadTrPsH0IIay0iCiGy3wAAIo7juCzLtm0hBCnlL4MxJoSQUjrPM8Z4XRcAkJt3AyGkqqphGPq+P45j33drbdd1xpgXNaVUCKG1/tzEGFNKTdNYa51zLyFSSufcPM/ruj41Qght2yqlKKVfT2KMEUKKG0II5xwA8jx/VyulENF7P03Tk4OIdV0/v9JaM8ZempRl+SQURQEAzxqUUu895/wPi74Psrhj5C4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2280.png",
+    "width": 1280
+  }
+}

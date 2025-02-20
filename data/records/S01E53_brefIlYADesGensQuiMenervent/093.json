@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "— Dis donc, pourquoi est-ce\nque le café il monte dans le sucre ?",
+    "end": 96,
+    "heatBucket": 4,
+    "index": 40,
+    "start": 93,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=93s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/093.mp4",
+    "hash": "c12d117a0c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwdzktzk0AAAOAtj8CGBXZZYHmE8EoYJGSSNGhIbdFp0hjaia1aD9pOm1HHx1QPevXmL3f0/h0+IPFYFsyugHWJUmjJnAp5okqsy6kYWppEIacZdqXKJu10qIKBpvQoTl0rvd/uvu1enk3mqZPqsmnIxGYT26s1iRJ94FiZqVO1i4FNIqIwS6GX1extVV7Pi/erNgwq5lSOc8j8pe089tjQZQFGJhIR6HJIE3UiGTnzVqNyM10sy2qazR0zc6zctYswmAR+YhEXQ0MVELBk5Cp6iGluO/Mw2i5Ovtzufz783p1ePM+C00dJGiQ2cQ1IVVFDvAKOI3IS0zqyjhJ3mcZv2lc/Pv/6/vDn7vXN9ZNiPRl5rE+RqUsY8UjhIGgGbJXZTWIexWwRuTPfrIfxajo9n43vz9vNcWMRB8tEFVTlAEIggSbz14W3LXttGbSj/sU4vKyKq2W93119fHdXHy7Qvwn6rzsdIIKnQ/dZ7q/HYTtLXoz7m9w7y/1m0Pt6s/9w+yn2hyKQ4AGUgCgCgQfCX/rSOudFmMRXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/093.png",
+    "width": 1920
+  }
+}

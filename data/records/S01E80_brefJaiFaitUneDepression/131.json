@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "isAgeRestricted": false,
+    "likeCount": 164024,
+    "name": "Bref. J'ai fait une dépression.",
+    "season": 1,
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E",
+    "viewCount": 9241801
+  },
+  "line": {
+    "content": "J'ai repris l'ascenseur,\nc'était celui de ma vie.",
+    "end": 133,
+    "heatBucket": 3,
+    "index": 49,
+    "start": 131,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=131s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E80_brefJaiFaitUneDepression/131.mp4",
+    "hash": "77467539d3",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwVy81r01AAAPD8Ay7Ne/l+ab6a95a1iflsG2dNXLKmHSibHUyLnhQFD14qiE4ngh6seFCwCvvwMPBQmGUTqh4UBC+K+D+Jv/uPYukFFTKyQJv+guhDrSXKLT5K5Kgt4cLCmWlEQHZPyRLUIcNVKhRP0zpbqYmAGILb0JuRfb7dSGNyqeMPrw3C4hzBukd4QwCWAGUIKQkwDuI0CflYyx13s3X28UZvcv3C5PbWs+0HWX9Q+IFdNW2RrcsAQZaSAVhCPK5qThcN0mi0lh7eLObjG/MnW+/GO6uDYf/iZqcZu6rqKhyC3P8Q6GKyROJ2fmWt2H85mu09mr7e/jh5eDx9Nbo/CtP+eq+bhmFdggrLUYgFgSqVtl9G4fOdO7/+fP799+uH3d3v345+/DyaTd/c2ijX25GPFx2F00WOUlimoQip5/Vj58XTu18+vZ+f7M2P9+cnB7Pp28OD8b2rw8teLyCmg3hD4ikZMnXEuVatVV9M4iBPk+5Kp8xXyjzrFdlqtnymmUTeslfTicQiFlJ8hTZ4qEsIV1VbVU+bRkismOCY4ABbrmnYmm6phikrWAASAP8APqFo3gEF36QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E80_brefJaiFaitUneDepression/131.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 359,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "isAgeRestricted": false,
+    "likeCount": 82145,
+    "name": "Bref. Je suis allé au supermarché.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4",
+    "viewCount": 6898714
+  },
+  "line": {
+    "content": "Je me suis dit que ça faisait longtemps\nque je ne m'étais pas fait\nun vrai hamburger.",
+    "end": 10,
+    "heatBucket": 4,
+    "index": 4,
+    "start": 8,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=8s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E21_brefJeSuisAlleAuSupermarche/008.mp4",
+    "hash": "0bcb9cfad5",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCalqekoLGjn6qEfIqFdoCVio+Vi4+Lf3SJfXO3s7S9u8C/vcLFwseelZmEe5ClmaUAp6OzpKCrnpiRnpeWinmCdmBaWEtkYlNScVtcg3RtjIJypJqJs62hura7qJ+op5mZAK6suaWipKylmbCkkrCknYRyfX1hXolwdXlkVWROO3xcQHVUQJJ9aresorWwn6WdnwC4tsCvrbO2rqGvoo6sn5eXjqagiHl7ZXNxYlmOd1p5YWiIbmyvkniumYbFwbi1srQAwMDJqKOyqpeMuauhoISAeWJ6n5mnoZSSk3pzpox4kXtQlIBws56MvLSq19TYo5yTAMbF0KijtK6bn6iSjaCAK4VoLJiKhJuJnJd9e3VkeZGEaq2gkc7M09TT3ba40ZqjvwDEw9C/vsrW1Nm4tMiQh4GOg1qbmUOblzKyrG21tc+9vtbBwM+tpq6cjYiqnJOsq7gAvbzLm5eZrquqxMPQt7LPvcE9oa4EuMQAs7lFiYCGkYZvfm5dcVNNhmZHpYNOpJWAALSxv5CLkpSOkZyWnqKdpZ2aXp2fL4qKI0hDElM/JoJ2U31kV3lYXG9NMoBpSpONj9ct9zZjvGeqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E21_brefJeSuisAlleAuSupermarche/008.png",
+    "width": 1920
+  }
+}

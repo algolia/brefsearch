@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 646,
+    "durationHuman": "2:07",
+    "durationInSeconds": 127,
+    "index": 70,
+    "isAgeRestricted": false,
+    "likeCount": 95974,
+    "name": "Bref. J'ai fait une connerie.",
+    "season": 1,
+    "slug": "brefJaiFaitUneConnerie",
+    "videoId": "hpCO1AIWo60",
+    "viewCount": 7801971
+  },
+  "line": {
+    "content": "En nt, tu as l'impression\nque tout le monde le sait.",
+    "end": 13,
+    "heatBucket": 3,
+    "index": 6,
+    "start": 12,
+    "url": "https://www.youtube.com/watch?v=hpCO1AIWo60&t=12s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E70_brefJaiFaitUneConnerie/012.mp4",
+    "hash": "4bfbf86b4c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwdwVtr01AAAOADTU6Sk5yTNG2TNJcmay5ratJ1s6hVNsa6tWq3hWmndvNBaTcVZNUHjQqiRWGMMiiKbA/DKjL8m4LfB/pJMtzb7+/0Bo+fLEdxPYzrtcbdVqe30RaxSP2HsVjSS0ZRFzEGP88vjj9/Gafp6OBwOayG5SDwK++Hg+nrI1vTKRpCCHkk5LM5AACVocDl7M/s/OLH5HT89l33RtN33DmnMnrUP9jcdE0LC4RgTLCo5hQqQyGWAd8np98m07+z3+nhs9Ug2G2vX6vWYj9c9H2CsxyHEccLgljMFbKYl3gEfp2dfUo/vnmV3oqWItP9sLc77KxhUiSk4KhWZKiZDMtAXpXzHAMlgQfT45OjF6Pb7aS90rnZaIdeY95d8soNXat4Tli1PYIw4lBBkmmKyiIETsZfn+4PNtbuJFsPF+JWXnYMPXTnrpr6FdsMeUGp+RXPtiWBMDSVFyXwcvj8fvLg3navtdp1SgsS0SyjWnYWjWKYk0ssI0bztcALBIZlIZQIATvdpLPebV5fqcdNTfFFrFhGbBmRpgSypHOs5JiuoWoIMpCmaZr6B3wEUdJlll3/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E70_brefJaiFaitUneConnerie/012.png",
+    "width": 1920
+  }
+}

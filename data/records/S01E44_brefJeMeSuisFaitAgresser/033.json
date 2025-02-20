@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 301,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "isAgeRestricted": false,
+    "likeCount": 56431,
+    "name": "Bref. Je me suis fait agresser.",
+    "season": 1,
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8",
+    "viewCount": 3657673
+  },
+  "line": {
+    "content": "— Chante !\n— La comimaaa\n— Plus fort !",
+    "end": 36,
+    "heatBucket": 3,
+    "index": 12,
+    "start": 33,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=33s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E44_brefJeMeSuisFaitAgresser/033.mp4",
+    "hash": "fc2f3a3d43",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwVtP2lAAAOD+lb3u8jJjlmy6mGzYGCIqzlLSaqEWejnltKf3g4XScgsGwkYQSAaJSRe3qIkJuOiSvfAwH+RP7fuIQ/IDtfPxlKNRqdiJnHZV6zWs6bB5HsAcncpRu57MBFjzLKiIvG2UCJZOCzmmyLMB1rpNr1EGnQD+mvU0kZGZdN8F6Ms2nUrUa9gxgO8hQlFEXHYtBMIz3bdlIGRLIhuP2yV6925Yn1+0qkwysfbSREpUsULfIgwETQPaNtKh5JY4rHGd0LocNCdnIA7UMeJaJ8n0xlvf06oebNZsAihF04CugwykNsLy3e3V38f7637wzS64R9s+9Zl+/0blM4M2jjBo1ywCqpJjaSYCo4vB6vn539PTw+Of2XnQkzMtPr3z+gVP7VdsEGI47DexfkoUhJwiCV/73dVqtVwuF4vF/e+H6WTMba3tr7+iyY2oVq05sswks6lPe+QmwbK0Ihdvbm7n80Ucx5PR6PrnVRz/4I4OyM13ipAvY7tbt1u+qou0wB4QVObQr1S+Ty/DIMimSH4vMYusWdsvqIVjgWWlEx0CD4m+JZlqXspn/gP1Y8WM5fEaQgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E44_brefJeMeSuisFaitAgresser/033.png",
+    "width": 1920
+  }
+}

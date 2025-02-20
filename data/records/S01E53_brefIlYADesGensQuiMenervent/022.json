@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "Les mecs qui ont toujours\nplus de classe que moi.",
+    "end": 24,
+    "heatBucket": 4,
+    "index": 10,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=22s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/022.mp4",
+    "hash": "2f14016dbf",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwFwV1v0lAAANA+6BZS6G1pb3t7+92Vdi100NKKdiMZVpYII0AMDYU5ncFlDrMt0bjp0ISY6IMxmTHGF3+s5xCjOMgfBoe+G+rGXtWfP0nPxqOrWbYYjyLbDW333cnz1ZvFpJcmcfVxEhLDWqVtKHVRNDkEKf6g9ej29cnVPO+Fwe3T3dQ2j4eDX6vr9eXy4uW0244ImxdkGooAymWMWNkznOtXL5bZ5KyT3M16I9/pNOO/Xz///PhhtTzNDlOCK7Ic4DmAOAaLUJUFfZlPj/v9H7PBn6N+1vAi1//3fX23uvl0vpiNDwhAsnSJpwFiacyxMizLb/N83EkvunvrfjtQdb9S/f3l5tv7y/OjybC7S5QKLFWEoAQBQDwjtit27DQUXo/NyrOGxzGSibTYa57m80E3iYIKcf8eVdikKZIjSehCPI3qTXvHlm3MafuWZYm6gbd4RmnWWqHv1r0tgqGEEsluboBigQ2QmLUiT3Oqqmsia99xPMnYtkIMdQiwhBRVRoSOdU0yBU6yIEp09YFp4bKkQM0UDB6INMkjWmZKAqRwzd5xJPE/v7ZWXRzhgQYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/022.png",
+    "width": 1920
+  }
+}

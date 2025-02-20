@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "— Maman.\nUne envolée.",
+    "end": 44,
+    "heatBucket": 1,
+    "index": 16,
+    "start": 42,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=42s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/042.mp4",
+    "hash": "cc4b493d22",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA3IRxiSC1+WiiNZjGYbzWbdDduSCl5SzeDa2CKcm9oQjyNclKbfUiRd0qFbERpUTEAPSUielk3nXQ2qX8+upBGvpVHflA3rXFflXx9bFphWjc2lXdVsZJXrJFcoohWgWY+AEY0M4tpQbmOQcugTcSdTYhtOHVKNqRuXIJnZHBjalxIUZx+XLyfX7uhZbacYpR4SQCOaj6xhkWphEBwWDA3KR0bExRCKiRhQjdHNDJ7aVe+n3C8nGTAomHDqWm9o2Wggk4AiGAsTTkdGBEOGBMQMScbIhkWNikkQS4pMyckHRYWmXtHyaRcvp9dwqNhrpFWgmo8AHpVKBoUDhIJCkokE04yGhgREBgSECMbGSceGx4XGohwRs2oXbqZV7WWVaqMUGBRKgB4UyYsGQ0vGRSBRzlQIRojCQYcCAcdFBITEA4QDRGUfUzgvWXIp13AnlmmiE1NQiEAWDwbJw0IQBYNTTIpXDovWC0dRSUZNB8WKBgSJBYTel4/s5RVgGc+cVk3SDscKygOABMJBhgHBjQSCw4IBh4QDDMVDhwOCxwSDRcOCyoZFEsvKDUnHx4TEBcQDg8RBxQWCOTnhnelOClqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/042.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 301,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 44,
+    "isAgeRestricted": false,
+    "likeCount": 56431,
+    "name": "Bref. Je me suis fait agresser.",
+    "season": 1,
+    "slug": "brefJeMeSuisFaitAgresser",
+    "videoId": "yQbvhuSlOt8",
+    "viewCount": 3657673
+  },
+  "line": {
+    "content": "C'était le moment que j'avais attendu.\nIl m'a demandé:\n— Frite ou potatoes ?",
+    "end": 79,
+    "heatBucket": 1,
+    "index": 27,
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=yQbvhuSlOt8&t=77s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E44_brefJeMeSuisFaitAgresser/077.mp4",
+    "hash": "cb36273f5e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBKHhclNCQnUT9Ma1xpST+agHmIW1CpgXWPXFCCWUx3WE1xU1BuVVCeeG2APyt5V08AGEIsCEcvCEEqA0svIFM9j5CFpmper41/mGRXg2FSc11PdVJHel1WnHhpj0cyglpQAAhLMRpYPBdRNw9HMQwrHDpxX2hyYpqLhJhpW21HOm9URl5COm5VUJFuYZtTQIpTRgAYPi0UVzsPPysKJhwLIhgYXEg4cF5SQ0A3Li1TQTtTPzdiXFogHiI6MjJPRUJNMi0AGh4bEC8jBjMjCCAXCx4VbnRtsZ+UNiYiGh0if316jYyKWlpdCAgOGhshTlBPKhwcABEhGRAgGhIdGhUaGjUjHnBhW46Fe0ZAPC0tMJGPjpOVlSopLwwMEhwbIFBKRjMhHwATERIUEBIUDQ8WDxEwIR5+cGlYR0AnHx4xMjaKiomEhYYlJSwNDBIODBMsKSo1IB0AAzwwBTYrBSYfCC0lKTMsdmxpSDw5Ew0PGRgdYmNla210GRggDQ0SCgkPGhsfKRoZAAJJOAJJOQJKOgFPPwRSQx0nIygdHRIRFBsaHzc3QE5QWyIiJwsJDwcGDCEgJISCf3i/bT7A79ogAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E44_brefJeMeSuisFaitAgresser/077.png",
+    "width": 1920
+  }
+}

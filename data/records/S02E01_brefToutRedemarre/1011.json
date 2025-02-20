@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Aujourd'hui, je vais vous parler\nd'une vraie, vraie galerie.",
+    "end": 1013,
+    "heatBucket": 1,
+    "index": 321,
+    "start": 1011,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1011s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1011.mp4",
+    "hash": "4d89f5cb8c",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABo0lEQVR4nC3LW2/SUAAAYF6E9pT2nNPTnt6AttiWFroiHVAYBQcGtuHmLtmG05kRL0uW6EzQLPGSmBl9Ncb4YGL8C/5Gg/q9f5kbOTbLgCwDAAtInlMEngo8RYKCkYqgCgUV8nKeEwGLAUAsyHCQ5JHMY1mV5KqurBb1xC4ldrHv2YOKPfTLqWNGhhaqtKpSV6HLwEEiQKJhEpfNVs13DL1br6VRkAY3e57dLBn1oh5qSlWlHpX/B4yIJYrrzShOWkmycvniZPH89M3Vk4PttcaKaxp6ZCxPoEjLACBRsOhL5DhtDDrx+cXJYnH2aKN1/Xb+49vr75/OHu50mgW9rtGA/g0cJCrEW7cq7+bbrmVNJ73huHd4J5odTz58fPn719X7+eS0G8a64svkXxALGD+b9j4/nt5Po9A2K2bpwbgz6rdv95v3Nrvlor7YHzwdxS5GmTySeEg8mVzur3+92L2eje6GztizpoF1ULOP6q7Ao4Ikfznf+flqtmpomWwOZHMsAaBh64PQXvPNyCmZiiSyjCthR0KAYajAb7are8O2hoQ/6vpJJimrtRIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1011.png",
+    "width": 1280
+  }
+}

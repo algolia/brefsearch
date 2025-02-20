@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 211,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 62,
+    "isAgeRestricted": false,
+    "likeCount": 66207,
+    "name": "Bref. J'étais toujours dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisToujoursDansLaMerde",
+    "videoId": "KM1Rsc4JyxA",
+    "viewCount": 5199983
+  },
+  "line": {
+    "content": "Par contre, j'oublie à chaque fois\nde quel côté mettre l'essence\nquand j'arrive à une station.",
+    "end": 53,
+    "heatBucket": 3,
+    "index": 20,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=KM1Rsc4JyxA&t=51s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E62_brefJetaisToujoursDansLaMerde/051.mp4",
+    "hash": "c0996e1423",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJxj0NE2dXMNqK/vmTJtwaq123bvP3Ls1NmDR09t3rZ37vwVhYX1EREZSgqanAxM/Kwc3Ow8DHq65i4u/o2NfVOmLVixesv2XQfXbdw+b+GKeQtWTZg4JzOzPCYmx8TEgYuBVZCFQ4CTj0FX19zB3quqqqOtfdLMWUs7u6akpOYZG1kHBcXn5FSFh6cFBMQ7uwTxsnIJsXIIc/AwaGuamJs6pqeX5eZW1dZ2RUelysuoSIrJWVq4+vvHOTj429n6uriECPOJCrKwi7BzM2hpGGlrmvj6xERGZqSllbk4B3CxcQvyizo6+vn6xlhYuOvoWJmYuEhLKPAxsgqxcTGoKuvJy6nr6FgbGtg7OQZqaxpzsnMrKemam7nqaFvJy2tJSCqrqhpLSSrzMLIKsnIySIgryMmoaWtbqijra6kbCvGLqqkZqaubSkgoCQlJCwlKCgpKSkqpSkur8zCz87OwM3By8ArwiyrIqasoafNwC0iIK+jqWMnJaYqKyYuKyIoKS/NwC/HyioqKKXKxcHIzszEwMTDBEQsjCxszGysjKxsTGxszOxszBzszBysTOysTOxsLJzszOw8LOwCp5l8r5Ef+aAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E62_brefJetaisToujoursDansLaMerde/051.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 33,
+    "isAgeRestricted": true,
+    "likeCount": 166814,
+    "name": "Bref. J'ai couché avec Émilie.",
+    "season": 1,
+    "slug": "brefJaiCoucheAvecEmilie",
+    "videoId": "mEu0q3Slzj0",
+    "viewCount": 15359989
+  },
+  "line": {
+    "content": "Elle a dit:\n— Là, je travaille\ndans un magasin de fringues.",
+    "end": 55,
+    "heatBucket": 1,
+    "index": 23,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=mEu0q3Slzj0&t=52s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E33_brefJaiCoucheAvecEmilie/052.mp4",
+    "hash": "1656ea0eb6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBONSp3W0OHgUyVpUmrwVaOfE2EVkxgSD57WU6yeme2fGe0e2WpdWChbVlnSTxNNjEAVjwveFtDenFEe4dCkaNIlX9Wn2dWfVhJXT00mmZVlmJRYkI4Vj82gF1QflpNczw1AGNHNn5lS3BsRnV9SKOwdKKMd6twXLd/aKNrVq50X5xpVmE+M3BOQ55xXpJlVVdAPQCBaFuOfnxrZWeYmJ+Ji6CHc3ewdVy6f2qpbVi9hG+5f2mtdWC8hG6+hW2YeG1iX2wArJWNqaSvVk5VX1pwSElrY1JXnmtVlWVUlmRTtYBsqnFdpWlUtHlioXBbcWV0WFd2AL6jj8W9wGdhaDszOT09VUM5QIRdTW1KPl8+NVw9M31VR5RiUJRiToJmX05Oa0hHagC7nIS5n45zaG81MDlDQFAwLDZkSD2WZVV+RUByPjlfPTJsTD5xT0FuZHBIR2E7OlkAjHFoknZogGxqV1NfYF1sKic0LyIeg11OgVVHf1FFglhJVj0ySDo8V1VnaGZ1Liw9AGdZW09ERk5FS0lDS0pFVCclNSYbGks2LWFEOmlJPUw3L0c2MEtFUlxabXl2hEpGVWb/qfW5elqxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E33_brefJaiCoucheAvecEmilie/052.png",
+    "width": 1920
+  }
+}

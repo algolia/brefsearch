@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je vais lui faire une tarte à la merde.",
+    "end": 1877,
+    "heatBucket": 1,
+    "index": 625,
+    "start": 1876,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1876s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1876.mp4",
+    "hash": "c7d9b8bdd4",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACMeExwbFD42ITEnFzMoFisjFDErFzUtF0Q5Hz42HkI5Hz83H0A5ID02Hz02HzcyHQBXTC9APCuOfEt0XzY/NCA7IhmDWjV2ZDadhkiij0+hikyGdEF1aTx6bj95bD93a0AAVkswQTwqhXRFVUQnHhUSSSYcpXBLeWQ+eGg1nIhLgGw6SDoiEhMTDhESExYUFxkWAFxSNTkyJWdQLUMxHUktHmU4Jo5fQpN8SnVoN4l4QmhWLDQnFgoSDxQbFxAXFgYJDgAkGRMmGRY3GhAhFxJMMB9TLyCFWjx/bUF7bTuUiVOEdEVMOiM/SC0kQxk1RiNCQDYAEAsMHhkXKCEdKiolQyscYkcsUUEuTUo+cW1Kb25NeXlZeHhaQD8obm4TlZZIb2xPADQ1KRUYGCwuKk1NQks8JVY8HDgpF0JCPGplTmtSKWBHIW1YLWpQJrqRI8yuVKWGSgA6OS0bHRs3NzNTVEpTSTZPOBtCLhc8NSk4OzdtWz54SRyAXy1/e09jWjtvTSSQZScADgwIDA0NGRkXIiIeIyEaJhwOHBQKGBQOBgcKHyEdMyUVMCEPMykYLiMTNywhKh4R3RNptO+BRc8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1876.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 954,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "isAgeRestricted": false,
+    "likeCount": 112535,
+    "name": "Bref. Je me suis bourré la gueule.",
+    "season": 1,
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w",
+    "viewCount": 10683117
+  },
+  "line": {
+    "content": "Je ne savais pas qui était cette fille.\nAh si.",
+    "end": 27,
+    "heatBucket": 3,
+    "index": 13,
+    "start": 24,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=24s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E16_brefJeMeSuisBourreLaGueule/024.mp4",
+    "hash": "9bbb367afe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwd9T0nAAAPC9tbONL+w3YxtjG0IiP90UO1LIDgc5YopzDeOA1iwsMUKNu5DOHnriIrvrqrte7EW7ruf+vD4fyHlQOajvHtt2RU0ruE/wIyth4qX58J3Xe2HubGYS+TB1tFWeua2L5u7IbkCuYQ73O61KVSRAhABiANlQ6KNG7bTzdG+9sBYVNJ4aP96+Gjz/1ut88tqQu1V74+xvqiqNzi2yRDUuOEvSidPoWVY5HSvFQlU19WX4+vrU+zVwf/ZdqGfunLXalfwK40PXZM5ISN28/KFrH1j23sb95r2csap9fXvy56x7M2xdDzuQV6sVM6l5llEYWsRBQWa9Qnzc3DZLRVWJZCPckiLNBof/ztt/h9bv4wa0HItSPlSiKYWhRMI/cKzvk8nn84uSlhMJsMBRcS44PWzf9Ov1tFSO8xCJAhIFIklyGFgIcz8+Tq+ml5Nn3Wr2jibzWUVMhEPl3KImc0kGa6QkCEMQHLmtBBkOA/Mcezl+P3bMnr6uJ6PLMh8N0UmeiVB4MOCXMV9RpCEEvoXCcJgkeAw8MYzZaPTqkd63LX1VK+YyMunX48JdRWADAIVhfA7+D78cbMP8ewxWAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E16_brefJeMeSuisBourreLaGueule/024.png",
+    "width": 1920
+  }
+}

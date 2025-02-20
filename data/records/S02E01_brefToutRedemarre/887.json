@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Il m'a planté au Nouvel An.",
+    "end": 889,
+    "heatBucket": 1,
+    "index": 289,
+    "start": 887,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=887s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/887.mp4",
+    "hash": "240d479fe9",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABqUlEQVR4nGNgZGRgZGRgYGAAEwzMzMwcXBxMzExMjIwgkpmJESoDA0aqEkZq4mZakpbakqoKkrYu1uUNOe2zm4tb8qatnLBs+wzvEG9laRF/Y2EPXWF1WVEGe30ZXTUJLSVxFwNpMwMVGVn5bHfjzu6iiSt799/Ycf7JobSiVC0Fybm5+lPSDLTlxBhUZEX4hfnYeHhkpQT1NOSMVZWSrHWaG7Kmrew5eHXL6bs7knMTdFWlMrw0YxzVdeRFGSQEeKTlRLilhXnEBGXkZO001GIsjeYs7lq6feqZh7svPtqdlBOvoy6npySvLC2vpyzJYGau7eikp2eqIiguyysorSQupausYuQb3Dqn8+S9XWcf7orPitFUldNWkFORU1KSFmOwtNG2ddHW0FETEJETFJHl5BURVdYW1bJJqKneeHrjgevb4zKiVJXktRSlxUTEeAREGCxdzXz9zRRV5Dm4hfmFJTm5BcUU1EWV9dyjImv663vndzh6O4qJiarIiqirKgqKSjIwsTAzMDGBQ5gRFhmgqGFkZGRiYmJmZmYERxMTE5OUlBQrKysAbwVc3z+rlu4AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/887.png",
+    "width": 1280
+  }
+}

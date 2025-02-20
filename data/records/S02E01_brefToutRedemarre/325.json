@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Un jour, il l'a quittée\npour une meuf qui était super.",
+    "end": 329,
+    "heatBucket": 1,
+    "index": 93,
+    "start": 325,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=325s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/325.mp4",
+    "hash": "8af7ec5a50",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXBW2/SYAAA0C9pC7RfKYWWldJ7aYV2bVm70XVjMBrYsIMMNU7CdDimzhFNjJeoMWFqjNF4i4lvvuzJB+Ob/kHPAXYWsylUgWiZQL08ssaiPoP4DOIxqFYgODK1LOB8MVWgiaGrd00R3FbwiZK2GWgXyTte7uMm8W4js2hgi83sYketFcn+Sn4nIMeR9mkQzBs6ODYzewrBQHy7wr7fq57V8cMqdupnnzRLx3W6LcKOAVsu9Sg2pzYbCRQgIVGCqRKJJ0bhwOE0Lm9J3NDTrvpqyMNLucyKyF4Pa7NVYeaw16osQNKwZSk1hkgqtEWjjw+6Px5esVi8ZwuRVmzp3KCuTqLqScDv62RfzQFF4H+eP5jvBh+G1suecdLx3o63pqGcuNLI1xJXThxpFBhnoRCLuM0SIA3JcaNy8Xr+7/vTv9+e/fn6vCdiY4+LzaW2WV6VCxoDQ0O4vy73pYzP4QCk4HYZPZ/Evz6/+v3lxZtb/XuN0hJFxrY0a9s3Qv2oqd/tuqdx/aYvhSINAILx2bROYVuueTjaTZp+pOTyFNzfWJ52nGGgHl1eH7SCVuCs1XRb5v4DHCZS55tRQ6IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/325.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 299,
+    "durationHuman": "2:14",
+    "durationInSeconds": 134,
+    "index": 73,
+    "isAgeRestricted": false,
+    "likeCount": 62306,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
+    "videoId": "WRXsFwhVzTs",
+    "viewCount": 5001029
+  },
+  "line": {
+    "content": "Et je réponds toujours la même chose.\nC'est qui ?",
+    "end": 10,
+    "heatBucket": 5,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=9s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E73_brefJaiFaitUneSoireeDeguiseePartie3/009.mp4",
+    "hash": "1dbb38df47",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBnRzhVMCtZIiKZOy+JPTQaDxcwFRY9LEtPb75CZbtOWrJPVaRXc78/RnEyGBYsGh4AaUo4WjMtZSgmnT4xeDUvHBIZNicsUj1DHxouBwgUMy5QY2GkYW6wLyY2IhMVJxkdAGxMOl02L3AuKm0kIRoHDSUUGDAeITMiKCgXGwAAAyUbJFhVkIeHsjcwNQ4IDiUYHABuTDphODFfJSVEEhReKiZDIiNCJic9JillKiZyMCtDLj5YS2xqhcZBPmAqFhQhFxwAbUs4XzgxVB4fhTYr2HVjUS8vRCIiazUyeT07fERCUzpFZV13ZmuXWEJQXTAqHxMYAGpINVY0LlIfH6hAMZNHPEIlJWI3M2U5NVs1N1c5P0MxP2ZdcmNjgWJCR3E3MC0YGgBkQzFSMi1KISM6FhcKCA8nGRuFUUtuQz8cFBodFBosHytgV2tdWHRXNDZtPDRJKykAXT4tSy8sQiIlFgwQAQMJFg4ThFBLYz07EQwSEg0TDwoPMyxAUEBPRyckYz02a0M8AFg5KkYrKDkhJA4IDAUECQUECls4NUIpKgcHDRIOEwwJDhYQGTorOjwhIj8iIF88NKc/ZCBGS4w9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E73_brefJaiFaitUneSoireeDeguiseePartie3/009.png",
+    "width": 1920
+  }
+}

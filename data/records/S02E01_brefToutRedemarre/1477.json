@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Mais en fait, être heureux,\nc'est faire des choix.",
+    "end": 1479,
+    "heatBucket": 1,
+    "index": 480,
+    "start": 1477,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1477s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1477.mp4",
+    "hash": "4d5316c3e7",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AA8GBVVQP3x+aWRhTIWFbElENgUAAA0LCQ8MChEPDA8MCwoMCwEHBwAGBwsPDw4PDgApFg+3ron//9re2Kr//9GNfF4PAAEpGxQ/MCJsUjs0KCEQEREfHxYhHRYQGBkfIB0AJxMNsaF18uixv7SCxbmCY000GwUIGhMQLyYdh2JCSS4eGRUSOiscOCYXExYVJyYeAC4ZEaybca+lfaygcsO9k2FKOyEHCCwkGj82Kk09LiQcGSslHz40JigiGjk1KDkzJQArFQ61oHWelnKsoXTUzJ9UOCsVAAAtIxsuIyYfFhwbExoTDRUrJyEqJx81MSY3MCQALBgSqZBhuKp4tah3rJ9zbVxFY1RBNCwmHxYdIhcdFhMYExAVGBMVIR8aKyggMCkfACwWE2hMK5mFVKibaYt5Ulc+LG1XQDYrJg0PExcTGRcUGBUSFhUSFRgYFCAgGSwmHQAzGhU3JBdfTTOTg1d3ZUNNIxtKMikTFBYACQ9YQzRiQTIPDRIiHBcXGBUkJCEoIhsAEQkJEw0JJBoROCwcLiMXIg8MBgcJAgYIAgYILh8YJxgRAgUICQcGCQoKHx4fDw0MPUVhJN4tzmQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1477.png",
+    "width": 1280
+  }
+}

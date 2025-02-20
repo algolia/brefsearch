@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1400,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 127391,
+    "name": "Bref. J'ai dragué cette fille.",
+    "season": 1,
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY",
+    "viewCount": 10798834
+  },
+  "line": {
+    "content": "Je supporte pas la cigarette.\n— Tu viens ?",
+    "end": 63,
+    "heatBucket": 1,
+    "index": 29,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=61s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E01_brefJaiDragueCetteFille/061.mp4",
+    "hash": "03e42a5871",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJxjCHD2iPEJTvQPSw+JKgiNCrM0CjM3czF1dFSVSTDVCNBRDDNSbQ2wXJ7hnmSrE22kzuDv6BfpGRbrE5rin5oTWp3mF90Z6x1sa6skKljnbVbgqB+oqzQt2n5trld9gEWlgwGDsYaWobqWmoKqlpJumKN3ortrhINFVkiyj5HBtHi/NRke9e4mU8JsNhf5T4iya/U0Y2iJ0w21U2RgYJWT5N860aUl2VyEXzjUzi7Txbkt0H5xgvMkf6tFiS5rszwnRdll2OgyuBpJ6yoKMzCyigjwTC6yaY+3lREStNDWCrc0sVWVy7PT7Q60WpTkvCLdtcbbVFVShIGBkYWZmZWDnZ2FlU1RTNRWQ0mQj1taXNLJ2ERNTMhTTTbCSLUz2LLW2yzCVENfToKBg52NnZ2NjY2Ng52dk5OTk5ubg5OTg4NDX0XFSknGS1W22cMkw07XRVMh2FjNQV2WgR0GODg4OLm5OLk5uXh4uXjFRMXk9BTl7VRlUqy1TRQkNaREI8w0zJWl0DRwcwuI8wsr8wrK8gjI8/IJCvHxCPHxiAvyWanJuusoCvPxAABQcVr8mJR8igAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E01_brefJaiDragueCetteFille/061.png",
+    "width": 1920
+  }
+}

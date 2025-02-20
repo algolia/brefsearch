@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 560,
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "isAgeRestricted": false,
+    "likeCount": 108927,
+    "name": "Bref. Je suis comme tout le monde.",
+    "season": 1,
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM",
+    "viewCount": 8286572
+  },
+  "line": {
+    "content": "Je me suis dit que j'étais\ncomme tout le monde, alors\ncomme tout le monde, j'ai répondu.\n— Bha non, je suis pas comme tout le monde.",
+    "end": 71,
+    "heatBucket": 1,
+    "index": 29,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=68s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E11_brefJeSuisCommeToutLeMonde/068.mp4",
+    "hash": "624a85696e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJxjYAMBDjY2TnY2Lk42Lg42bk4ObnY2Ln5uvspA10p3ywwznXB1BQ8ZyTJvh7pQDwZ2iFIObi4OHk4IYudmYGCJsDOfHOsbq6ngKyfhIiFa7Gk7JSOyOdqPgYWZg4OVi5uTl59bQIBHSIRflItTwEZba3ZySLmtQZSKjL+SbG2I++LS5ClZ0a2JIQwqcsrqimrKskrSotIaCiomOvr2pmaTk8MnBDo3+zi0hXvMKYpfVps5LTeqJz28MtybIcDNLcTT093W1s/KPMLNpaqodGJD/arK7DWNRWvbihZXJc0tTZicE9mfGdGWGJTrYcMgISElIyMnJ6egJCenraIW7Bc4tbJoWXX+gsqchRXJPckBXUkBnSkhTbF+Bd52eZ62DMxMLEyMTIwMjAwMjMxM7AwMLAEWxhMTgnvjg6ZnRrZFejaHe2Tam3nJS8fY28WZGzDwCgnzigjziooIS0oKSUqLyCsoamjYaKomOlml2pkVBXh31jXYSEmbcHG1N7QHm1kw+Lm7B/v4RAYFFmSk5melhQQFeDk7ezo6p8bEZkZF5icmVZeUBdrZumhppoRFBDs5AQDBU25kUqNgbAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E11_brefJeSuisCommeToutLeMonde/068.png",
+    "width": 1920
+  }
+}

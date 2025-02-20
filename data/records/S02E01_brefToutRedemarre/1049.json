@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "C'est qui était Jean-Jacques.\nC'est toi Jean-Jacques ?",
+    "end": 1052,
+    "heatBucket": 1,
+    "index": 335,
+    "start": 1049,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1049s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1049.mp4",
+    "hash": "40c7f3d0cb",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABXElEQVR4nF2Qy0/CQBCHt+10d2e3LS20PEKhkpICGvDZoAgkVoNETUyUqDcfIcZ4MR68+Th59W82K140+U4zv28y+RGiwwLTBAqAVCGpYVGDqhkgBRN+MwoCSAA14Ig8CmSrbCVF8XISP02XulVRsDGw0be5ZvJFkmjAicFtW7ZCJ61Ze4l1Mwrmo+hu1Ljse91QBpJ7lFEl/KBUjW0khXlWTEvyfDM3S72s6R0uB9fjYJxYcV6ElFv/hNWG+5DlB1XraCV3O/TTKL8TuY9ZJes4bU9EFB36R+C1gnidyPuUzlbwuJfvhe5a1Z12/X5dNoWIBUqmPlfCwtOBX/XoRwbv+zBpiziwkpK925AXbVh1MXKEru6axGCqJQ2Q6Bg4Yr7FPqf060yedt1JK/d2gM/bMKxxxgUBtF3fYJIs2tV+Ci5IcxDBpMPSOlsP+Tg218u6w9VKB1qphibDb1URJ0lvyzaqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1049.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 586,
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "isAgeRestricted": false,
+    "likeCount": 94368,
+    "name": "Bref. Je suis en couple.",
+    "season": 1,
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg",
+    "viewCount": 7464792
+  },
+  "line": {
+    "content": "Quand je suis bourré, il me dit:\n— Bois.\nJe bois.",
+    "end": 19,
+    "heatBucket": 1,
+    "index": 7,
+    "start": 16,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=16s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E52_brefJeSuisEnCouple/016.mp4",
+    "hash": "840d2c8af8",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVdJREFUeJwFwYeq2zAUAFAnmHjJkq62rkbs2LKdwSOPlkIHpZT+/zf1nOp9jVfrOLeMGalQSKTgQQQhwwg4CuypbYhuiLx0vO14NWN0PkubhclcXwlEprLGNcxPqhdwG3cbtyuRE1NT28sK07w93hZn6ycXl+oCAhwXGG9PJnzdq7qTHceW+oFH7ddquu3l/sEEapNyWgBcS5FwHEQaASlgDrOyyael7uQoYnVsR4iLUpHJABLT/M7bn5ZfDceXcH+P8rnfB44uzO1oz62ojMsUnI+FmJeI73T8s/Pv05hf0v9S9uVy2T993MDkhuhzKyshPQMkEMA/cfmZ1h9T+aKxFJdXHUp5ffv6HcMEGkdhL4Os0EZjgrHJ+ZzS7TaXbd3v2+PYHsuyr8s+T8X5K2gkYFuqqlPDTw2rO153shlUP2pCzcgtAzsyM1DdU90SdRlE3cG5Yf8BpncoauzgmB8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E52_brefJeSuisEnCouple/016.png",
+    "width": 1920
+  }
+}

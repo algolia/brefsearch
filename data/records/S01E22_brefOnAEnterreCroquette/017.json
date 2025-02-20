@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 585,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "isAgeRestricted": false,
+    "likeCount": 85441,
+    "name": "Bref. On a enterré croquette.",
+    "season": 1,
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths",
+    "viewCount": 6068571
+  },
+  "line": {
+    "content": "— Oh putain, il m'a griffé ton chat.\n— Oh, Croquette.",
+    "end": 19,
+    "heatBucket": 3,
+    "index": 7,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=17s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E22_brefOnAEnterreCroquette/017.mp4",
+    "hash": "56f086b0ab",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwUtvmgAAAGDO3apWUSooIgI+QBGLiIw31AeWoq6ds7Eutq5xXdqiabaQZdElTbomPfS6w5ItWbbL9h/3fUBfqR8rlfeO+m19+/vxy/fP/uOZ69tVm4JLULQIRY0i1mYppZTr8PSgWQWOTWEqM6sD49d98G+zeHgpne9lAoe/1hgRiZHxCAWGKTCC7oSg8LbF5oGJVZ3L7I3X+uq/fTox/RoyoNGgXVtptIrGud1odifkEIiYhkLPtig4AZyp5at92T/q3p4Ob7rSUiQW9dzdAb/SaQtLMGC4mgTPeYrejUWeb+UgEJiJzLVnL0e9hWuuveamw15K+XmDnIuFUSVrk4hFIt1CmoNBOLKtlyngjcK/OzQvevp6qG4cblROKSj4MOn8uBzeDeRZI/+KIw9pzCRgJQd3WRIYa/WRIX7sa0Gb6xKQjESdQurPavz3w+STI0zr5FTI94qZVh4dVHCXwQCvyY10YSbRVjb+Ih0zcWgfTzzNej+vjpY2dyGXPAYzybSCwyaZ0nII0OEZt1HplAmXzuh40sCTYiYR9NX71/ayxY/3SINApGxSQKEaArJJ8D8uemk5wC3+qgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E22_brefOnAEnterreCroquette/017.png",
+    "width": 1920
+  }
+}

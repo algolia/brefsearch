@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 761,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "isAgeRestricted": false,
+    "likeCount": 138299,
+    "name": "Bref. Mon coloc' a fait l'amour.",
+    "season": 1,
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI",
+    "viewCount": 11899469
+  },
+  "line": {
+    "content": "— J'ose pas aller en acheter.",
+    "end": 52,
+    "heatBucket": 2,
+    "index": 24,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=51s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E23_brefMonColocAFaitLamour/051.mp4",
+    "hash": "4f995a97df",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC3rbK/tb2vo6S3qqrJwMnEusGThYVGNy5lWFKxpaSkmZuGfoJ/eX52cHZuaG5bVFkAu7K4x77GtqqsvK6w2NDap5yfOiogIBUMHhEGgXBrs6qukYmOi4SKgXuCeHJ6YVphAMK4v87Fzrqvsr6xs9rR23hqZ1EyJ5RmXH1RRntkXrWus5iQlpOMkomDi396g2ZeZgDGvcXRytO7sbS+srTBtrpzXVWOY1nLnpWsf3WejY23sLeclZuWj5eNh4+EfodnYGcAx7/H0crTurCzw7m7u7CynoB5tIZ9vouCtpCMzMTLu7K5nZadlpGZjoiQhX+IZl5mAMW+xs7I0byzuJ6Qk21iaYFdWcGPhqZ2bG5UV2ZcZZuRmKOdpJaPmI2HkIN+hmNcYwDBucHJwcqtpKs9LDUpGiZPODu2kYuIamk5KDEuHShGN0KblJuZk5uPiJGGgYljXGEAu7O7wLjAloqRMiQvLB8rh2dnqIyIc2BiVkRNQC87MiItc2lwopyii4SKenR6U0xPALiwuauipHBjZEMxOVU+QbyXkKOIg6iJhHFbYkExPCweKEM3P354fnFscmhiaEdAQwJQ4UmokeYAAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E23_brefMonColocAFaitLamour/051.png",
+    "width": 1920
+  }
+}

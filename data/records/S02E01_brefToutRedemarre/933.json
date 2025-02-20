@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "En fait, c'est simple,\nle mec était tellement égocentré\nque tu pouvais pas l'appeler autrement.",
+    "end": 939,
+    "heatBucket": 1,
+    "index": 300,
+    "start": 933,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=933s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/933.mp4",
+    "hash": "b2a535a645",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABZ0lEQVR4nDVR2UrDUBCde+/cJU2bNmm8bbpmbUu00bgUFcUFqhQ3BNEHH6ov+uKbCH6Bz36yJMXDMAyHmTPMGYACpMxA/1FQhFLCaJkJWTEFQHCGlNQroigQOedKSs91lFQcZRlCcNGwLERWaE0H9lEefjyf51lSbmF53Pt9v6tXTUQ0lAIgZ1myPM9adhUIhVncfT5Nl2ejuL8GhDIhdybx23ymXa0MUwoJQK53xp+LbC9uM4ZwOI2e9oPPl7njtZGQQbcfRROtPT8Ya92VHA3Tmm1Et7v918ut6SiAw4Ps5mI2Xz42kwQBHo7zrTTVnSAdTd6vTlzLdFtd3w9cu5YmwdAPodJw6q473M5MrTmjedxx7DWv4zcddzPqSaHsZqvn9cJ222pos9YEytjKLkop50IIZZpWtWYZlapUxQ3CqC2u7n++v6IwQZTFC4r2cohRtnKdEIqIWGpJo6LD9UG2P4zGSsk/n2cl9J+k6rUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/933.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 376,
+    "durationHuman": "1:27",
+    "durationInSeconds": 87,
+    "index": 26,
+    "isAgeRestricted": false,
+    "likeCount": 90190,
+    "name": "Bref. J'ai un pote à conditions générales.",
+    "season": 1,
+    "slug": "brefJaiUnPoteAConditionsGenerales",
+    "videoId": "Z_Iqj4P90Qg",
+    "viewCount": 6382304
+  },
+  "line": {
+    "content": "— Ouais.\nBref, j'ai un pote à condition générale.",
+    "end": 79,
+    "heatBucket": 4,
+    "index": 37,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=Z_Iqj4P90Qg&t=74s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E26_brefJaiUnPoteAConditionsGenerales/074.mp4",
+    "hash": "80762650b6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZFJREFUeJwdwd1vk0AAAPBLNjg47rgPjhZuRym0o7RIV+hqS6Zu7su6JdvL0Af3sHSJbg/TR7MYja/+E/6tJv5+wPwPGha3kbltGYZtmhCa0Ni2qtBb9cODoW5SNe91i1DmgQ+gaUETKux8a7J93TG2oGvbDrTMLfgwTx6X2X4cJB5jNgqoqwUHyLJdG73W4sdhfpKGAcZ9SrVLtBAnA3U7GxyOs7ofa843TTFPIzBx8bWD7kL+UfEH4bap2u3IPqUX9exqMW+bVdusDoapdsn9y9G6zMAld78T8lXQVpBnSp7i8KyaXtSzd3vleja9PXqzOT8tVJByOpAi8T1wFLBfdboh+ANxfgr6e7m7iLpvJ3muwlf56LgsplrFlEpMlIOqQIAylO1YfRntPGfq73H157SqlIw4SzpypFWtvGkopYMZcoouv6mH4IXyE98b93YmUXddxHu6wzCWLlGc9aTnO4haFkeox8j9+fLz2QK8L1PFqRJcYCxsrCkdShlzHjAaCe4hR2DMEQoIvlvkn5riH7QlOWitSoIjAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E26_brefJaiUnPoteAConditionsGenerales/074.png",
+    "width": 1920
+  }
+}

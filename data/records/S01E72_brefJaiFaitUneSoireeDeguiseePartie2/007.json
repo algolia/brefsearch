@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 347,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "isAgeRestricted": false,
+    "likeCount": 69621,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU",
+    "viewCount": 5660756
+  },
+  "line": {
+    "content": "Je pense que je viendrai\npas à la soirée de Maud.",
+    "end": 9,
+    "heatBucket": 3,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/007.mp4",
+    "hash": "7b858ef292",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwdy71PE1EAAPAb5N7du969d32v9+7dZ3neBy3Xs16r14AVCkUlijKUAJEmGiHBgIaByGDCxqAmKi4Ork7uDg46Gv8BNyb/ElN++0/yLGpi2o5ErVpFCJMqIVXCCb0RC25iA0IdQk1VFaCAS9KwO+sylk+CiTG2LcYsnnC2P+g6uobkKQyAISsVeRIURZG+nmwsF0lLiGnHxgg7jDfS/E6RHyxcz2xqAhnJAMmqAVSoQlVVpT9fjtb7uU9pGnhIxy6zXz4YnO9uvFpbOn44XE7rWJ4ygaJdkeEl6eL7m+PtIYPQIWZFR/l0cPZ0dPpsfLozutu51g34nPAJ1CLXNxGehH+/Pr19/qjlObHvmoax1e8erC6+Hm9+ONzrZ435pF4m0eriyv74SRHH3MTSxY/3H49GISEzYSAYnQtrW0X0Ylg+XuitFdn99qxww9s3bw3mB2Uziy0q/f35+fxkh2paYLOartVxJfdqvVSEzIocO2R2nbtpKFpJs93IA+5Lv7+dvTtcp7rOKUUKICrIA6+XilboRbZlaJWlTvte2SmbM9nVKE+S/5NESjTclJASAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/007.png",
+    "width": 1920
+  }
+}

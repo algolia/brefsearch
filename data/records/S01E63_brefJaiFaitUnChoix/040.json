@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "isAgeRestricted": false,
+    "likeCount": 105080,
+    "name": "Bref. J'ai fait un choix.",
+    "season": 1,
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0",
+    "viewCount": 8818396
+  },
+  "line": {
+    "content": "— Sympa ta barrette, j'avais la même en CM2.",
+    "end": 42,
+    "heatBucket": 1,
+    "index": 16,
+    "start": 40,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=40s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E63_brefJaiFaitUnChoix/040.mp4",
+    "hash": "b5440dbbfd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBhWVhXS0haSUdsPTaETUF9XV9VIS5aFyZzU1zBx8q6u8DCyMxrTldRKzF8c3Zya28Ab2hmX1VTdG1soJ6gpKSklIWKXCEtbj0/fGRn1Nndz9LW09vehGBsazY7fHN1cWpuAF9jcUtHTVdPUV9aW15bXFVLTkgsOFhBQ0g6PV5aXV9YXFhWWV03QH44OHFoa3NrbwA3NEApISUkGRxOLzdILDA6JzNHRGxZXX82MU4XDRQhGBoaFRk/IiR9Qj94cnd1bHAAHRodJyUqKCUpeUxSgUs8glxZZWJwUEtZcXF7iIiPTUZKLDU8WTk7WCgnamNnbGFjACQeIiolKSgkK1tJRnthU39vbXlzcFJIRHxZV5uGhmdmajIuNEQ1NjEeHUM1MlU+OgAlHR8gFxpLPjuSg3h8dHNhWltvYFuQgXmIZl6fh3+Nh4VnW1tfU1JbTENPPjhLMy4AEgwPEw0PTj42Tj00Tz0xRTYubF9ZWElCW09Gal5XUkM8RjcxPColPywmRjMuSjUwAEY/QUxFRks/O1xOSnRoZGpob3Vze0hDSVZRVmdgY1VPUVhTVjguLi0fHEg3M1I9OHCOj4npGI0kAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E63_brefJaiFaitUnChoix/040.png",
+    "width": 1920
+  }
+}

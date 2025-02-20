@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "J'ai différents types de\npiles rechargeables et les chargeurs qui\nvont avec parce que je suis prévoyant.",
+    "end": 523,
+    "heatBucket": 5,
+    "index": 163,
+    "start": 520,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=520s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/520.mp4",
+    "hash": "97b61f151a",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AAQJCSMvKRgkIgAGCCAqKCQwLRMdHBUfHC48Nj5QSTtNRz9TTDlMRTtNRztLQBsmGQALHBtkfnEyR0EFDhJXbWRthng1R0M9UEmTqZjQ6s7C28CapZCuybC31b6rxatTaE8AEB8dRVhLFCQiAg4TRlZLfIt3KDMwIS4ta3xjusSjusaoQktGXWpazN27scGeQ1Q6AAkYGR8wKBMjIQQOFB4sJio7Lw4YGg4bHi03K3x4ZE1XTy9DRBckIUZbPUFWNCU2IgAMHB8XJycYKCkEDRIaKCkqOzscKiwrOzxBS0iDgnRLV1IcKCo1QTtGVj85Sy8sQCkAK0BAOExLOU1MAwwQJDU3TGJgLT4/RFpYSlpXcXBqZWJaDxodOD88b21cWFhIWl1LADRJST5TUjtPTQEKECIyNU5lYTtIRFRWTFdXTVNdWHZxYTY4MzQ1MX5vW3BkU2lcTQA0SUo/VlU/VlUWIiQnNjdVYFhbVUhdVEhiYVViXlJmX1BQT0VXVUp0aFdzaltnXk8AFB8fGiQlHigoKS4oJColJSUgKyUdJCEcJSMeKyYfKCQfLCkiMCwlLikjPDk0KichWmV1JbkkUrYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/520.png",
+    "width": 1280
+  }
+}

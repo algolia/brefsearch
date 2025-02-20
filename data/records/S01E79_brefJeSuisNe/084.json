@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 780,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "isAgeRestricted": false,
+    "likeCount": 101475,
+    "name": "Bref. Je suis né.",
+    "season": 1,
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0",
+    "viewCount": 6614179
+  },
+  "line": {
+    "content": "Hé, les mecs, il y a quelqu'un ?",
+    "end": 87,
+    "heatBucket": 1,
+    "index": 47,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=84s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E79_brefJeSuisNe/084.mp4",
+    "hash": "a2ad4fa95b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAALNJREFUeJx10NuKhTAMBdDYpiWKFULvsVX//ysHKsMcD856S8iGJDA9aa3NB6XU1wB81YhorXUDERljAB4zzwJAKcXMbRAR59y/AUSc59k5V0rJOccYW2shBER8CQAAIjJzGkIIItJa2/edmd8DxhjvfRlSSjlnEam1eu8/L/lbyVq7LMudiTHWWmXYtk1r/RIAACJKKfXeSym99+u6zvM8jmNdVyK6j3n5kh7ULxzuzjRNP4rjDghvOpJiAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E79_brefJeSuisNe/084.png",
+    "width": 1920
+  }
+}

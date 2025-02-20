@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 392,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg",
+    "viewCount": 4199001
+  },
+  "line": {
+    "content": "Je vérifie sept fois pendant l'acte\nsi la capote n'a pas pété.",
+    "end": 59,
+    "heatBucket": 5,
+    "index": 25,
+    "start": 57,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=57s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E29_brefJeSuisHypocondriaque/057.mp4",
+    "hash": "5315c9839d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAaFRcTERUaERIwGxcwHBhGKCBJLSVeNy2Vd2zj39nUycOwnY79/farnJhPRk5aVFUAZ0pAZ0tBZUo/YUY8bk1BcE1BXUE4b0o9oH9xnX5xdU9CZz4zn42HqpuUe2tmUEVCAIRhVIxnWZNtXotnWYBeUXhWSWhHPFM2LlQxJlYzKE4xKUUqIzAYElM7NWpZVEg8OABsTUNvUEZqTENXPTZFLyk8KCMyIR1SQj54amVjVVJjV1Q9My8sHRlNODNTRUBHOzkATTUuRDAqNCQhJhoYJhoYMSIfLx4bh3hy2tLK08vC3NPJqZySPTIvOi4rSj47LSMiADIjIRgRDxQODRgRDyAVEyodGiodG09CPod3boR0bHtoX0w9OS0kI0U7Ok5EQyYdHAAgFxYlHRwzKScmHhweFxYsJCM2LCpRREFkV1NdT0tkV1J1amZ2a2h3cG9uZ2cxKioAKiEgOzAvNSooLCMiNy4tRTo5TEA+XFBMa11YdWdig3Zxh3t3enBsgnx7fHZ1TkhJACMbGisiIjMpJzUrKTQoKDEmJTcsKkg7OHZnYaKRhaGMgHhoYn52dJKLioV+fXJrat8ihhKcUqkoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E29_brefJeSuisHypocondriaque/057.png",
+    "width": 1920
+  }
+}

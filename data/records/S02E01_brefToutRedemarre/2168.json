@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Mal accompagné à X 3000 existe\naussi en amitié.",
+    "end": 2173,
+    "heatBucket": 5,
+    "index": 720,
+    "start": 2168,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2168s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2168.mp4",
+    "hash": "a2cf992c9c",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcUlEQVR4nBXCXW/TMBQA0Gyt44974yR2bCdO2npJ+hHWrCVVGZsGFE17AoGQEOKBB8T//xFoRye6up7NCGGC1jkLBV/kFAXjCCwm8zmRnOaMKEFyHlNCrmfzCBG0Tned/fVY/r3UXw4q1Fr7KhOMUda5bGfg1iWtAgVCxDz6+bkfV/q4Nv9+HH6/9M8HV3vnw9Jp5azdVHmvxOCSZSqaVGDMosvBvW3kYODrZf/n+eallZ/upw8fn86n6fz+4dSX5xofg9wZ2BQIMYv2a7fR4qjxnWPfbvjFie+75mkaQ7dehW4MZqrhvEi2Bu4qRMoip5KtgsngkPEV8nuDDwa3Ri5tGqxsrQwa6kwUwJqUdxqiwcKtEb2CSuKoxEnDPuVdBmuLnYG2gJXGRSZ8wiqMm5RHg8Wjx6Cw0zjYhPKkVXKq0zsvRy/3Xr4p5cZiV+DWWyshQjrPBZHstUZ6RWIN1Ke0lLRMXruEakEU0G65kIL/By2LKU2KmU52AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2168.png",
+    "width": 1280
+  }
+}

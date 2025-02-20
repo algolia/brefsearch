@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je préfère emménager\ndans un espace vide, si ça te va.",
+    "end": 1536,
+    "heatBucket": 1,
+    "index": 501,
+    "start": 1533,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1533s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1533.mp4",
+    "hash": "960c129372",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AFdZSlFSQ0tMPklJO0lJOjs5LTEwJj05LRUWExsfHB8lIRENDBEICDYsIVlIN0w5LADR1LHAwZ+2tpSmpoaamXpAOS09LSFzalAvMis9RkBGVUwyIBw8FxN3XEXEp4C/m3cApa+WoKmQmqGIfIl3f31kWz0lXTQfXVFAQUtEQk9IP09JQCYeWikdTj4whHZZwZ5+AJOkj5OolZGlkoiejZaRcah7TWw4IG9uXq6+pZ6iiVFZTU8yIn1FLV9KPWA5Nns7QACsj1e5nGKqlGGhk2ixq4e1pH14XkR6dV6zuJqorJFjXU9rOTCMQz1rMzhVGik8DhsAbFxAkoReophzurqbpqSKoqKJkJB6kY95l5qBnJV9iktRayUzTRchPRAaPRMdPBIcACckHldVRKGiiLO1mY6QfGtuZHl6bWdrX31yY6JmZ3QoOzsRGScLECULESYJECsMFAAgHBhIQTOysJWysJOSh2h5a1GGd1iEbVWdUV2TNk59Kj5ZGyo2EBkkCxIlFBkYCg4ACgoJHRoWTk1CTEk8W080QzQeOi0aRy8kSR4oNxIbMxAYLA0UIgkQGgkOJx0gDggJ/waUkY4JXvYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1533.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Elle a toujours mis\nle projet à la seconde.",
+    "end": 91,
+    "heatBucket": 1,
+    "index": 22,
+    "start": 90,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=90s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/090.mp4",
+    "hash": "5c67ee7841",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwVzjtv00AAAOBz7Dix78535ztf6kfsOOdHE7tJRaLSNg8GlKG0qaCKymtoKeIh6ARISAyssHRiZ0L8AQYG/hyq9P2AD7SIZ2LeRsy2sGNDCB3L4Rb1DMIBlRoRgAodsYZutoxmiCxA0pGTVE6Yi04i3U7A5bCvOlHe7gysaKx5WUMWDeIbTRu1YYQRoG6MogKFORMhs+yBi2/OZxfLXXNrZPi15ioZ3GFYGEZbb0KjaQGXhbhb4qgQVCgCF13xfXPw/sEBYL1bJHZluUzCnGJg2JoJgY18FJU4zAnbyjl9O9+5OZ2u98eAKd3LAS8gi59W8dxnmmEBEwLqJTDI7bBkaTXJ1JvF+Pp4URzeB1zZLAW0R4LBwzI6y/wQI6BbAIUFTwfrs5Mnm6PH9yYndfrpw+vf//48e3ERcJn4QRr4e13vchSvlbyNObK3Pz+8fvno3fPjz1fry83qy8erv7++/fzxdbus+4ka5uWwr85H6atZNVc+aCHaS6Kd7f5ulU3rbK9Ws8nwdHV3tZwKITFyKHE5Zb5LC5U6GP0HgYs8cS/cEtoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/090.png",
+    "width": 1280
+  }
+}

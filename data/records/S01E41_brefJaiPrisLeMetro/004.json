@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "isAgeRestricted": false,
+    "likeCount": 98202,
+    "name": "Bref. J'ai pris le métro.",
+    "season": 1,
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0",
+    "viewCount": 7606246
+  },
+  "line": {
+    "content": "Bref, dans la vie,\nj'étais obligé de manger.",
+    "end": 6,
+    "heatBucket": 5,
+    "index": 0,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=4s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E41_brefJaiPrisLeMetro/004.mp4",
+    "hash": "5bd55e985b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAFlJREFUeJy9zzEOgDAIBdDe/3ZE050bQNLpF9CE2kVdOuib+cAvx6LySyAi+mQPPQGIiCtgZiKiqsxMRLXWLe2JmVtrIuLu95fcHdPYCmDMvXQYF78pvRQ4AQ/bqPwd6GySAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E41_brefJaiPrisLeMetro/004.png",
+    "width": 1920
+  }
+}

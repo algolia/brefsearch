@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 526,
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "isAgeRestricted": false,
+    "likeCount": 81033,
+    "name": "Bref. C'était sa chanson préférée.",
+    "season": 1,
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI",
+    "viewCount": 6245023
+  },
+  "line": {
+    "content": "Le poulet croustillant du chef\nde chez ???",
+    "end": 60,
+    "heatBucket": 1,
+    "index": 20,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=58s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E58_brefCetaitSaChansonPreferee/058.mp4",
+    "hash": "eb00f296e7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCahnyPgH6Mf4OShYqThYd7amVdTUmDcGtsX11fUlBdVFiIfH5uYV94a2l+c3N9c3MAb15Zj4B+hnqDiX2GjICHe21wdGNqgW5saVtaX1JRcWdti4CEaV5fd2pnfHFwfHFxAG1ZVYd5eY2AhpWIjZaAgGpSTn5sbH9ta29jY3FlY3hpb3pcYG5aXXlsaXhtbXpvbwBqXFl0Z2RhU05cTUlbS0ZXRkJXSENxYFxfTUlaTElQQT9KOzlNPzxyZWN4bW14bW0AUkZDaFxaJBcSGA0IJRkUKBsXJhkUYFBMNyYiLSEgOCklNCcjOCwocWRid2xsd2xsAExAPmdcWigcGCUZEysdGSseGh8WE1VIRlQ3JmZFLTkwLjsuKkQ3MnRlY3VqaXRpaQBOQDtlWlk6KCJCLyczJR8tHRpKDQReREKbWy/FezVTPTFANzdRRkRxZWRyaGhyZmYAZE08YllaOyggWz8zeF1UcFtTn3lzv7S7t4dkvG8pp5CGkHdzfWJZdWBYdmZjb2RkAGlLNGFPSm9ZTodfS86ilKaLgLiwr93a48CZgLZ4RtLGxa+Qhq2Edo1yYIBqW35aRrjXokSy03N2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E58_brefCetaitSaChansonPreferee/058.png",
+    "width": 1920
+  }
+}

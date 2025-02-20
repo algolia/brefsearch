@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "isAgeRestricted": false,
+    "likeCount": 113908,
+    "name": "Bref. J'ai grandi dans les années 90.",
+    "season": 1,
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8",
+    "viewCount": 8859528
+  },
+  "line": {
+    "content": "— Ça veut dire quoi castratrice ?",
+    "end": 83,
+    "heatBucket": 3,
+    "index": 26,
+    "start": 81,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=81s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E56_brefJaiGrandiDansLesAnnees90/081.mp4",
+    "hash": "5097120ac2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwdtymkAAANCdmNgk1RoFoqKCiBGB1cXLqohQoqBiRImJkgvNjNU2jVN7yUNfOtOXTv+75wBVKJTevRFj4VaOKtH08eGxKotdhKjTSOqMpOOEjlAwmzxZ1UvcLBfKQEsmdC7TQvVuFWWJ83DoBMOq3VHJaJyIkUeHb1NEejm2N4uR3tYErgyGxaQlsbWmbrQ7bh06FQFXGxiiVCzBksnWBc8l0wNI7zw86dTeowq4ElNDMSexTIFvTPqz78F9lsehE1ouVbw2/una26Hh19N/Vvn9NTRrChgJtF1mMLZIYebff37d7QWog6g0Hl1v585aZwI1s0LxX3P230fl2/MzeLS0qURD2SBkf+Isg4dNuWKCMzxwHja306CV2BrsrUL+cOi/T+LryxpcNhtYlMym+iF4GY9vpu7dYuavbNcxLEvtuuhCy53r2cinfvH3svTF7wMQJjN00dW0jW2s9O5EN3xvsb9xvnrO7sr2er0Gx8xkZm2013350WRACBxEohSVlWNxhqAKDN/gJD2Xl+f26M4aWIpioaqraU7PhBBDPv8fQHJba/hSXxgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/081.png",
+    "width": 1920
+  }
+}

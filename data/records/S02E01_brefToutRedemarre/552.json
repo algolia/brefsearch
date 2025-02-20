@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "J'ai rigolé devant un comique\nqui imitait un jeune.",
+    "end": 553,
+    "heatBucket": 1,
+    "index": 174,
+    "start": 552,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=552s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/552.mp4",
+    "hash": "38c642dc7c",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nBXLS4vTQAAA4Ng0yUxmMplkJmnaNMnk0abpYys12mqr4O5ase4DEVHEqiiIeKl68CaUihfxIJ68eBC8eXXBm3/A48L+GWHF7/5JNlQiU80tZciqPSqnRtXRqliWUaVSlc4kHLVdHFJIVEWtyHKlKvWYfpHr6zE+fsFPXjVOVrUHBeayupPw3cK/VUbLSXStxQWFlqYhRZO6tl4S8GXXPP06/Hs0P/12dnWe5AS/XXSudwOT0MXAn+dOSIADNQMAaeTq+xH8uI3+vPSPN8XPR97tVJ826JOJmAmeMnp3HC+6XmTCOgLYgNK9Ef+8TH+8Lr4/T95fJasS3ojgNPMWeW3StEeidni52N/yIxM0CcSqJq3vJL82F35/mB1tLr3ZS94dNq7ktusyC5GYWYM8bA9aO+O2IEBQ/X842GLPJtanx9n64fDpzd7sXGxyi9gWc3kqfJGFokiGk34/4h6QqQ6lMqAdF9+fNpfb2XycBKJOmOWLRtKJs14atEUz9tN+Vg7jlmNBgKSQ4YihgCPhYs8h2NA1CKhNHI+ZzAQG0g3E67zh2UnTV1T4D3VYRoQ7XJf4AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/552.png",
+    "width": 1280
+  }
+}

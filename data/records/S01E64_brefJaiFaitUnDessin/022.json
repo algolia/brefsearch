@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 468,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 64,
+    "isAgeRestricted": false,
+    "likeCount": 87383,
+    "name": "Bref. J'ai fait un dessin.",
+    "season": 1,
+    "slug": "brefJaiFaitUnDessin",
+    "videoId": "LZQUFY0W_lY",
+    "viewCount": 5904585
+  },
+  "line": {
+    "content": "Et derrière l'avion, il y avait\nun nuage, un autre nuage.",
+    "end": 24,
+    "heatBucket": 1,
+    "index": 9,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=22s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E64_brefJaiFaitUnDessin/022.mp4",
+    "hash": "69ff845e96",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYhJREFUeJwVjWtvmlAAQPnj+wdLk6ZrE5vZrEunuNU531snoqtvoYq8QeDey30AF7A/YSE5H0/OEVoP1+3HT/1WffHSNhTJ09eBtY/sja+/AkexVUmdiVupIffqvxq3Xz7fCN1GTRo01cXY11fQO5DIosBlyGfI5cQBpuwfRva+t5O/y8NvfbEmrKWOc3ylwOYkrGAgIwGFbs4Qp2cabHKs8VhDnnJYT+SRKLytxsg/5tQvM3rJyIXTMkFVnkWcwQx7ZRoVaZwzgAND20wEXZnFZ5Vjp+T0veDvBeXYxP66SKMUV+qFV6EiiSl0DHUuHORbbItl3C/jcRJOc3LKq4OXM8hZVKSwSFCR4JxBHFraVhKW3Q/Gv4/oVEdGMzo9Q6PDY42iKEUmJw5nkNOQ0xBHlqOtlpOOMGrdLX4/6ds/0HvjxC+SkAKbADdPQEbOGfYYtIGrGsp0+fd52KoJ7cebgXg/Gzzt5l1TkQNrD71jHJxwaAJr6e5+WruhMu9Oe1/7zbsfD1f/AU16YiS2+5cMAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E64_brefJaiFaitUnDessin/022.png",
+    "width": 1920
+  }
+}

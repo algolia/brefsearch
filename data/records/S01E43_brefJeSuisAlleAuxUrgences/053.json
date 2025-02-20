@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:02",
+    "durationInSeconds": 122,
+    "index": 43,
+    "isAgeRestricted": false,
+    "likeCount": 138987,
+    "name": "Bref. Je suis allé aux urgences.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuxUrgences",
+    "videoId": "1tZiw9KR6Jk",
+    "viewCount": 11560525
+  },
+  "line": {
+    "content": "Ça faisait 45 minutes,\nje me suis bien paniqué.",
+    "end": 54,
+    "heatBucket": 2,
+    "index": 27,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=1tZiw9KR6Jk&t=53s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E43_brefJeSuisAlleAuxUrgences/053.mp4",
+    "hash": "96115f25c4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYTVVvb3l5f4iChIuNjpRhW19dV1uHiI+Kj5iSkpq5wc9ubHOKeFV7bU95eYRrYGIAfYORk5qlaGBjVEpLqquvmpmgk5eipKGmmZCTyMnVvsjam5+oeWJThHFfhYiSc3R/AHmDkHN9iUtJTT00NnZ7hKGnspqgrYGGkFNDRIuGkHd9jn2Ai1VITWdZW4RxYHFqagBndoZ2eIBERUovMjtrYWGOcEygfE5USD4xNkWToLR0fpJ7fYkuLTUkISZqTjdwYl0AlKi3jJCaTE1ZWVhkbGNkd1gykGk4RjgtXWp+obPLcICYd4CRLiwzFBIaJSQsQ0FHAEFRZholOVpOTj86QSs0Q2xYRXFdSTw/SHB/lZqqwGZ3j2t3iy0uOBUVHSouO0FPZABWYHAVGiYvMjopLzolKjZOT1VRU1gsM0BncIGBjaJseZFqdotJXHUzTmw/V3RPaIUAW3aUN0ddJCo2KTNDKDA/LzdGLTZDLThJcn6TZm6Bc4GYZnSLWXGOUHCTVGuHSl95AEZmiURgf0ZlhEpqikFffkVnikRtkmN2jn+ImVdqg2pxg1RgdFFhd0tddkpackJSavpqr0AlaWvwAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E43_brefJeSuisAlleAuxUrgences/053.png",
+    "width": 1920
+  }
+}

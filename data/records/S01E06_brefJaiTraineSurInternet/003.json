@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 512,
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "isAgeRestricted": true,
+    "likeCount": 70060,
+    "name": "Bref. J'ai traîné sur internet.",
+    "season": 1,
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU",
+    "viewCount": 5741554
+  },
+  "line": {
+    "content": "Bref, j'avais rien à faire.",
+    "end": 4,
+    "heatBucket": 1,
+    "index": 0,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=3s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E06_brefJaiTraineSurInternet/003.mp4",
+    "hash": "adbc10fd5f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB+YkiDbmGLfXyThoSajo6hlZepn6Ock5aWhIGtoKKnnJ5aU1FsYl+HenaWh4KdjYcAhmM7jHFamo+QppyerqSqtau0tKy2XU1Jjm1svrC8nJSZIiIiHB4eGh0cJykoSENDAI5pQqKIc62kq5mNiJaLi763wLSstYZoYpmCkbWkuoh/iB4fHhweHwwSEwEGCAAAAACDbmClmqPKyOujm6eAc2q5tNGwrNV5YmJ7ZWmwnrlybXsHDAoQFRcOExQgICM2NDsATktQUExPwbzeuLLFlIydtbXnrK3fj4urWVNjkoOUWVdiAAABEBASKSQhXVZXf32QAEM8OSUkI6ulwLy1y6qjw6Sl2ImNu3Z3nnFwmH9ufS4rMgcIDEpJUFxYVlFJRmlmdQA1MS0/Oje1s9GlmKSCXVCRgIpoY2lKSFVwYXFyXVwQEhUUFBepp7q5uthOSkxJREgAEBEPKiknsq3BloOFcU89fF9Tb1NHZEk+XkQ8RDEpCgwPFBUWoJyssbHMTkpMMi4rABQUEhISESonJiwpJywpKCcmKSAgIUFCQTc1NUZBPxUWFiEeG56YpKuov0tISjUxLWesrujKkxKaAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E06_brefJaiTraineSurInternet/003.png",
+    "width": 1920
+  }
+}

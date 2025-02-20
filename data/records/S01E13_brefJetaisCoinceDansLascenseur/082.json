@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 380,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "isAgeRestricted": false,
+    "likeCount": 79046,
+    "name": "Bref. J'étais coincé dans l'ascenseur.",
+    "season": 1,
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI",
+    "viewCount": 6207773
+  },
+  "line": {
+    "content": "Je lui ai donné ce que j'avais.",
+    "end": 84,
+    "heatBucket": 4,
+    "index": 36,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=82s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E13_brefJetaisCoinceDansLascenseur/082.mp4",
+    "hash": "ae88ee52f6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYlJREFUeJwdy82Ok0AAAGBMurD8DTPDDMP8MEALLdQtZatQW1LbbbdukyYarx7MHvdivHnw5gOY+Bw+pYnf/TMSgpDnjgVbFtl+tTivV8euPfary9B/Pu0+Hbb9fDqRTLMwxgi4joGBh4HHMKhTOSyqoam7unhbFf18urmbfXhzd2nriWAkAL59g4BvsMBF/08ShbOEzzNVpbLO1EyLMombTA5l8vL99/O3P+1yfV+OjTEBlcAJRRwHMQ4URZqFGacqCgVBnGAt9fXjy49ff58uXyRjhm/bDHqSBIpATaGiSBGko1BGWFG0XdT7+/ahO3x9/lnkpcC+UcWo4mFOURLChEARBjGGLIQB8CHwUx4tJ3ozy9f1lFHmObZhmZZ7e0uBK0JIIYC+63uO69iWZd2YpmmZr0YjZzRSMLAd2zQtwzJN13EJRjElBCOMECWER0wwrrjUMkmlToXKYx7TCENswAAqLqd5uaybddu974fTZv+0O10fztfD+bI7Pm4P+27zrmleF2Um1D9ENzbUWoVsvAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E13_brefJetaisCoinceDansLascenseur/082.png",
+    "width": 1920
+  }
+}

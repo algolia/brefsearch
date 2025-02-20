@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 514,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "isAgeRestricted": false,
+    "likeCount": 91912,
+    "name": "Bref. J'ai un nouvel appart.",
+    "season": 1,
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg",
+    "viewCount": 7721508
+  },
+  "line": {
+    "content": "Mes chaussettes en train de sécher ont dit: — Si.\nMa brosse à dents et mon fil dentaire\nont dit: — Si.\nEt mon ordinateur vidé de ses 240 films pornos a",
+    "end": 27,
+    "heatBucket": 1,
+    "index": 9,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=23s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E42_brefJaiUnNouvelAppart/023.mp4",
+    "hash": "ccc0b8fe33",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwFwW1TmgAAAGC+rcn09EpPOS0puzkpYAsp5B1RXkUFUUnMZVpJzVZGs21eXbdP2/Vhtz+85wGwfG4/mzbxwtygF7Z22zZvW5qCIygML0b+vx/3rw/hn4dv4fD4pC4RhW2AhCE8m7pSDl+nbujaX1r2pa4fc9TC9/+unn4vbl7uvv8KV6vxyc++Ehg0UIKS8Hq8SZSW7dpMV89102H4Hi/MDOPO9x8nF/PRVdA/vXfNx658bdIAlIivg2AyFi1vbw04mkKwxhET6KpToU2y7FUtT1SuVWrpKkHTsMo4kIrFwDdvk2AEzWbEPaTD8h1OrmKfpD1cwXGdZG76vaexE5iSr1k8igEJMJqIRKo7UAPbJbYy3HtY3i+ypaKMoiLBaHT1ZTZ5PutNFMHiamYZA96treXiUWIzReQhBErZJBLa8kCoDEV6ajZOdfV5Olh6+liptxj2s3QESDs5tZAvppOZRHxzY2OqiF8dpyvWB6Iwt7QzSZgZyqXGegLXraB9ngW8EnaB5M/x3caHYiGV1klqpLabbM2q8C4rGwesccj0WKpDfRxKnHRA/wcWY3KuC9nYKQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E42_brefJaiUnNouvelAppart/023.png",
+    "width": 1920
+  }
+}

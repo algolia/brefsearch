@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "Par contre, quand une fille me dit:\n— J'ai 40 ans.",
+    "end": 109,
+    "heatBucket": 5,
+    "index": 45,
+    "start": 108,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=108s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/108.mp4",
+    "hash": "940fe8ca48",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwVtvk1AAAOAzWxh3GNcDHO6XCpZLoWN2MmFb1ttaG6LRucSoidHE9ME9+LKf4S/2+wAGRqcAo05OCYDnlvt9dXM8bB7aJkdm9yrdN3U7id4vys/t7BJJmUgBHOAkILkRLY2ZNkn/fDg8DetlZLWWkahwXc1qz3cEqY393lVziQYEIClAu8zZlWU99lfPXz79vnvz1BbPt03n2csyTxUIMebCtjpPyyQKyGPe4aSFbtwnL4/D7tdu81gl/w7d1yodsqhy/ClES8/+2BSrCVqYIggo7dL2rgNvk08frjtPRoGo/3yd75JgmyUGD5FoZoaTmWiXWHeRAxxCmQr2ue7/6BfHVV87scZqjqhPNMtXEOQNlZFVRpn7/jq1v/UNgGMOEbJPo01U/L2/3c8vDA4aPDQEXWVVyEGRONNZpbDdxkFDmQAa4OIL2sTlhHW2abmu5qFmx9CuvVChJZGUmBHHY6zOKaFqvo1jgAOMABh9QihjIRPdd+fNUBf7crqd5TolaCSvEjyPMXUQlq5X+uF/g41AW1HhxLMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/108.png",
+    "width": 1920
+  }
+}

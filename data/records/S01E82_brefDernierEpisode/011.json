@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 3900,
+    "durationHuman": "1:58",
+    "durationInSeconds": 118,
+    "index": 82,
+    "isAgeRestricted": false,
+    "likeCount": 156445,
+    "name": "Bref. Dernier épisode.",
+    "season": 1,
+    "slug": "brefDernierEpisode",
+    "videoId": "1cZ_H0rgwCU",
+    "viewCount": 7205429
+  },
+  "line": {
+    "content": "Je me suis toujours dit\nque si j'en attrapais un,\nje raterais pas la poubelle.\nÀ un moment, on a arrêté de parler.",
+    "end": 15,
+    "heatBucket": 5,
+    "index": 5,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=11s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E82_brefDernierEpisode/011.mp4",
+    "hash": "54a5c79419",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBSTylUUixua0h4c1g8LSNjWTd8ck6Sh2FrXCxSNChsYDtuazVYUyZmWzh8dV1MRiEASkgXV1MskIx4g3xpRDQtvLGfqJ95sah7aF88Zj4tYFZKXWVFcGg1hXlch3pnVEooADApEEVAHmpnNllQMUo8MZ2ZZoyHP1ZVLRYfKDc2NUBHSy8+R5GUc6eafYp7aXlwSAAxKhEqIgteXCNRRyI5LBpeWyZdWSpHSD8iJiclLjQ5RUswODg+RDl6a0l6ZlOJglwAKCEMLCIQMywVMyUcQzUoPzokPzclgn1iUE5EFx4kJzY+PEAzRTccfmlKbFlHfnVXAC0nHTIqGDs0G1xJLFpNNEhDMUg+L11XRUNBOhoiKCQzPDo/N3JiPHRjRVlDMndlTgA3MSIzLBc9NRlUTDNrdG59iotwdnFKRSg3OC0iMDkhMTlQV1WOcVeFbFWOeWWWg3AAJB0OJR4PNi4ZTUQ1dnZjfn5rg35mlIVmV1ZOKztCLzQ3TVVVmYFrmod0loVxjnxpABcRCh4YDzEoG1NMOn15YHx4XZWMdbijkVpbV0FMTUtKRkRLS5B9anhlUXVjTnJfS3E2h1+TcSppAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E82_brefDernierEpisode/011.png",
+    "width": 1920
+  }
+}

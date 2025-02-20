@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 490,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 49,
+    "isAgeRestricted": false,
+    "likeCount": 93351,
+    "name": "Bref. Baptiste est Super Flippant.",
+    "season": 1,
+    "slug": "brefBaptisteEstSuperFlippant",
+    "videoId": "lrWa9VYEb78",
+    "viewCount": 7580349
+  },
+  "line": {
+    "content": "— Ça te dit qu'on se voit ce soir ?\nTrop classique.",
+    "end": 63,
+    "heatBucket": 1,
+    "index": 26,
+    "start": 61,
+    "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=61s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E49_brefBaptisteEstSuperFlippant/061.mp4",
+    "hash": "d9fb93a0da",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwly19TmgAAAHC+RE+77a51O11XnVO3M9uclY0UBcRMmAoZIqJ5lfzTAhGMy9RkF7qcXHatrXbrYV9xD/3ef0CL53VZ7rZalmna512R46RKVRNkvsSioTW+XD6t1Vg8Q0DRkNfndbkBXRIHuj7u9Wej0cwekQmITqLlPHW8A9MffSye6avqIZXPxWOJVX9gcRnoqsro4mJm2483N78dpwDHqO2IiEFaEjz+8tk+6/RVpckWaQxFg/6g+w0w0PXJcHg/mfy9vX1wHBKBWTBiFYmTPC4Xip2GYsrSaZmhMfSDyxV4/QK4NIyp9e053P+YkggiUV+/S1yvIf7782TIqiHwxtFBIYmurbxdnp8HBnp7alm/ps7T3c+78TVDEFICVKLhQgpTjurCPv14fTU+N6p4etOzgm1uAG2pYWqdnmZ2lY5Wb9ZrkpKAD32eVCyGQ4hS48Yt6aqjFOHt1Vcvwx4PQMK7lUiUSedKeYZO79FZ5mQ9LIeCLJlj8exQ1y6bQvugciZEc9i7T74lIOML8HNz4sJCxevPxtPoFsIuufdACAHjocDWLpSqE9g+luKo9Wrp/Q60+B/Nva4U36zfswAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E49_brefBaptisteEstSuperFlippant/061.png",
+    "width": 1920
+  }
+}

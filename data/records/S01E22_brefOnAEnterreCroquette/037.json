@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 585,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "isAgeRestricted": false,
+    "likeCount": 85441,
+    "name": "Bref. On a enterré croquette.",
+    "season": 1,
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths",
+    "viewCount": 6068571
+  },
+  "line": {
+    "content": "J'ai dit:\n— Un de perdu...",
+    "end": 38,
+    "heatBucket": 1,
+    "index": 17,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=37s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E22_brefOnAEnterreCroquette/037.mp4",
+    "hash": "6ec8449989",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBKVC49RxlCTxI1PgwzOA8vJReCW0epfWOnf2i5m4mLg2lZaytTXz5OVDlCRTBERywASFMuTlovQE0fOkwFSUEgdVJBjGVNjmdTp3hfqH9tdmxMSlsrYGxITVE0T1JBVVhEAC42D0hTDkdUHkpaKUtLLYtkT6R6XZJmUJ5yWp12Z3d1RkFKIl1gSlFWPEZSGHiCXQBpd0dEThIrMBJWYzdodlFvYUawgGKuf2GzjXW+mIF9glVBSCM9RSI5RCYiKgdQYBsAQkokPkETMjsLS1gWXmhFZllFkWhQjmFPgVZGjW5bSlMwOkoZS1guanlVLjoeJjIFACEhCTQyFyw1DDQ3HTw4M25nXV5FNn5VQYBWRWBSUEE9Pz1AMDxGKTI/IEZTMC45EwAlJBEtKhooJSEVEA84MyyNjYhWTEtIOTSBeXhMRks0LTMzLDI9ODgsLSklLRkoMg8AIBwbHRoaGxkXEw8KLSkkTEdEODM/PztRaWNpODI2KSMmKyUoLCYpODA3MS0pOEMZABMQDBUSDxYUERYSDhEMCCQdGkM8RUdCVllSVislKCkjJiYgIyciJCQeICUfHklNL3sec84FGi/TAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E22_brefOnAEnterreCroquette/037.png",
+    "width": 1920
+  }
+}

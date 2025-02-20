@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 512,
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "isAgeRestricted": true,
+    "likeCount": 70060,
+    "name": "Bref. J'ai traîné sur internet.",
+    "season": 1,
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU",
+    "viewCount": 5741554
+  },
+  "line": {
+    "content": "Je suis allé sur son profil,\nj'ai cherché ses photos, j'ai cherché\nun album Été 2011, rien.\nÉté 2010, rien.",
+    "end": 31,
+    "heatBucket": 1,
+    "index": 14,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=26s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E06_brefJaiTraineSurInternet/026.mp4",
+    "hash": "ffcda2af8a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWtJREFUeJxN0ElPwkAAhuH55V7lqjHxoFESD2gilGKX6TItHWft1BaRFghUaYtLXGKif8CAB02ew/tdP7C709pvHRzttduHF51To9cJjZ50jFsEi8CbBd4MwcK3xu5VCjVhdTE43j85P+lrHWT3JXIm1+GSkRXnjdjirGa0orjEwTx0c2SmoHtmEjRNxHo8+sgnX9Piu9ia/lPkX5Px5yh5SVgNAitjwzLmjRJrQauYN5LWkjWCVpLVnK42k1aCVDFreHQPOm3d1qXZF0aPmBoPnTs4UJ6Z2bqEg9jqC9dMLY3bumT4gUUlcHTpGAoO4gDepvI1VW+ZekvjTYySj633TL3fxK+S1jRcgJ52EXkFCRcYzTYRLEi4xGiG/bliT4o/K/4k+aMgFR0usJcD49KFGvOtzLdHgTuhuGTXD3/wPY2WvxcFVuYNJIgsieEN9XMWzjkuY14lYp3ILbFWrJFkJYZLjqbEG2OofgBxYVCOgKRzjwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E06_brefJaiTraineSurInternet/026.png",
+    "width": 1920
+  }
+}

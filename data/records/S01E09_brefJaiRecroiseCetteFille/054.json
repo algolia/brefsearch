@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 477,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "isAgeRestricted": false,
+    "likeCount": 90777,
+    "name": "Bref. J'ai recroisé cette fille.",
+    "season": 1,
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg",
+    "viewCount": 9033652
+  },
+  "line": {
+    "content": "— Ça va ?\nQu'elle me réponde:",
+    "end": 55,
+    "heatBucket": 3,
+    "index": 22,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E09_brefJaiRecroiseCetteFille/054.mp4",
+    "hash": "9d9c7d8fbe",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBJMRxYOyNZPCN0TzFwSiyAVTOEWzmEWDRnSDFCNSpYQzJjQylySiljQSVaOh9SNRsAWTsjb0ksaUgtg1o4jmVFZlVGhXFjgFw/RjkwZlVLaVhOUEM4XUIub0gpZ0MmY0AjAGJCKHpRMHZPMquKc8OtnZ2TjLWgkk85KnhjV+bLwOTEtpFzYjMpI19AKHNKKm5HKQBlQymFWTR/UzCZbk7bzMHr39epjXs4KR6SdGXGo5S7m4y4kHs+MilFMiN4TittRykAZUQpgFUyfVMyj2E82si72cCveVpDTDwxk3NjvpmGpYV1t497Tz0xOC8nbkwxc0opAGhFKXVOMW9HKZ56X+na0LiTeWBBJ1dCNayCbrWNfMKcjcSYg2NLPD41L1pENG1HKQBXOiNnRyxqQya6oY/lz8GYblBcPiVINyqgeGi7k4qvhXGnfGM+LiQtJB9CNClYOiEASzMeWDohfFk+38u8z7Gdd08xY0UsNCgfhWlczaSUtIx3a1A+BgUFIBoXLyQcSC8ZADwoF0ItGqOFb9/Esq2Jc1o8IlU+LEI0KSUcF0EwJXpbR1I9LggHBg0KCCYbFj8qFwGEnv5zZaFYAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E09_brefJaiRecroiseCetteFille/054.png",
+    "width": 1920
+  }
+}

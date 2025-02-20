@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "isAgeRestricted": false,
+    "likeCount": 113908,
+    "name": "Bref. J'ai grandi dans les années 90.",
+    "season": 1,
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8",
+    "viewCount": 8859528
+  },
+  "line": {
+    "content": "Et pendant toute ma troisième.\n— Prenez un chewing-gum, Émile.",
+    "end": 109,
+    "heatBucket": 1,
+    "index": 37,
+    "start": 108,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=108s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E56_brefJaiGrandiDansLesAnnees90/108.mp4",
+    "hash": "0edd7f550e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwV1v0lAAANCbGLZUHQQcMAasMKC7XSm9lEJpK1uL0FLWUj4yBpXSTpCoi8MJWZaYuBij8W2S+GLii/GPeg4gw+GTo4wtwOO9qO/RDksxDb6ilpihps6nswtdP5cYR8wPRbaKyhyqAAUhiy8MeEgl8AAWijwJhjH/cwa5tZLHkS6XUw9jXku+//Dm9Xji9Pugnt5XiuUOTToVJubfrWQOXfV0qso2yoyEgsPTmijOjPrNxKppdt/sgzxO8KzMHbOWbmBbAZ2lv88Hd7Z1t3CvPG/eM0ZaczVsLF92DdWc9jqgwYu6osIUlAU5sBPLxfHFmdyU6ubI/fTlx3ujuqrtvjNP7bZxXi162glow7hSEduIINOwmCJKyTiJp/BE7vrV7Ovt7dI2vlnZsSxUSa6H4KVSAvlkQmBFCs88xqJ0ZK9dpM9aHUigP78efm8e7MHYog/Wk+7K7lpV5LUkEAvFYQpi2yHfVvAFeaTQiMxQDKTXm5+bv//ulzcSSbr18oXE6CLvdZog/Szq334KgI/NZT87XRkV8WCEgvT1+urjwnlrNkRItFhazB5I6aReyP4HlulpgUkDlZsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/108.png",
+    "width": 1920
+  }
+}

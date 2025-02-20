@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 569,
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "isAgeRestricted": false,
+    "likeCount": 120051,
+    "name": "Bref. J'étais dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU",
+    "viewCount": 9827505
+  },
+  "line": {
+    "content": "Et comme dans les films américains,\non n'attendait personne.",
+    "end": 6,
+    "heatBucket": 4,
+    "index": 1,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=5s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E61_brefJetaisDansLaMerde/005.mp4",
+    "hash": "fb1790d362",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwFwVtvmmAAAFCSLY0KyLX95NJSBJlchH6UW0VBoKDS9eY0W3Rro31Y9rCHNcu2zqct++E7B5lp2tpzdxdhbRoyzQokq4qS2hEEggYYybRpggI4zjZbVKNJiryE3Dv253H87TK7s0ztCLA4uSomV/GIwykep1iCIalOC2NaKIVh9LFwinzw3K9Zsr+pa73PtDAFgO20mAWBCvgjtE2iFIYzPM22ULqJMprcQzah/73Mf9TlDNqGrDinElSU1NR9VSVeN9xjPh90x11e5w41igwkEXnw3V/X81UcLWL/7/NzZNmNV81AVVJv2D8xpqqYWj2ZILokDg4OIN1GHI6vhskkGq6L9N/L3jiRZcDPfW/kJ0q/ONP9NM7g4NxWNEeUIM8hTJsdJ2URRrvF4nHz9AaAc0X5uFzX+bx/llpB1XcnOkySrK6ulqOkQjosN62up2HwsHzvw2FowWw4ud++vHvab778yd8+ds3I8jLPCc3ewLRDpAPEvKh9G+Z+UFzEdZrdrbblp5+3u9/l7U61IqkHBdWxDRhYrgiU/31sUcCvv4OCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E61_brefJetaisDansLaMerde/005.png",
+    "width": 1920
+  }
+}

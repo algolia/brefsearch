@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 780,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 79,
+    "isAgeRestricted": false,
+    "likeCount": 101475,
+    "name": "Bref. Je suis né.",
+    "season": 1,
+    "slug": "brefJeSuisNe",
+    "videoId": "lGBPAoLUn-0",
+    "viewCount": 6614179
+  },
+  "line": {
+    "content": "Allez, mes Zetins, on se remue le plagelle\net on fonce tout droit jusqu'à l'ovule.",
+    "end": 26,
+    "heatBucket": 3,
+    "index": 14,
+    "start": 23,
+    "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=23s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E79_brefJeSuisNe/023.mp4",
+    "hash": "29fa14aaaa",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwdtu0gAAANDGDCFKM2QwtvVK78ECFdpSSlh1tl1bkq5NLcqYMrEIIo7MJWri4qJZdEaXabIH9cGEqFuMxm/0HMCiiDV45SYCmXncY7mR2niqaRNZenFde2OZh459Erin4cas3zkfbv7oh0CLoU0ca9GUx3HdsvBM1/dN85WhHwfe53b47V73+/3uLLr798ngz7j3b7INODTjMmynWO6LUlSTn+v6W9d97djHt4LTrc3ZePBrb3q+t/N7d3w2Hf3cGQI2xTgEuVUsR2JtqNR3V7Ujb+PQdd/7/tHt8NPo4ddo+6OpfdCbJ47xpe0BazhtkXRY4HtCpV+VhrKyv269C4ID338ZBActe8oXIpIY0OQDkpgUOKCOMipCGmwxEMRQqHYqUk9pRKs3HuvmI1luI6iTg4xFyFxC9BxkLcOAinF1lNXoolOS/GtyIIh3ZLUr1toEtZ7ONFKZ5iIsp5dKYKY0nxXms4CKcwrCaBRv8qLOlQyWd/myDaN18IqUylRS2Wo6dxVcyMeSWOwSlUgCMkxLEKlirILQygrehDAluyyAqfzFBBZLEPEklQCxucvQhTgWi6Nz8f+Dd23tk2BL+gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E79_brefJeSuisNe/023.png",
+    "width": 1920
+  }
+}

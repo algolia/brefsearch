@@ -1,0 +1,301 @@
+{
+  "duration": {
+    "human": "1:53",
+    "inSeconds": 113
+  },
+  "episode": {
+    "index": 45,
+    "name": "Bref. J'ai eu une panne.",
+    "season": 1,
+    "slug": "brefJaiEuUnePanne"
+  },
+  "lines": [
+    {
+      "content": "Bref, c'était nuit comme les autres.",
+      "end": 3,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 0
+    },
+    {
+      "content": "Enfin, presque.\nElle m'a demandé.",
+      "end": 4,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 3
+    },
+    {
+      "content": "— Ça va ?\nJ'ai répondu:\n— Oui, oui.",
+      "end": 5,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 4
+    },
+    {
+      "content": "Elle a dit:\n— On peut arrêter si tu veux.\nJ'avais une panne.",
+      "end": 8,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 5
+    },
+    {
+      "content": "Je sentais que ça voulait pas repartir.\nJ'avais pas envie d'arrêter.",
+      "end": 10,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 8
+    },
+    {
+      "content": "J'ai pensé à tout ce\nque je connaissais d'excitant.",
+      "end": 12,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 10
+    },
+    {
+      "content": "Ma cousine qui s'était penchée pour\nme faire la bise quand j'avais 15 ans.",
+      "end": 14,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 12
+    },
+    {
+      "content": "Les filles de la pub Energ 3000.",
+      "end": 15,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 14
+    },
+    {
+      "content": "Mademoiselle Chiffre dans le Petit Spirou.",
+      "end": 16,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 15
+    },
+    {
+      "content": "Les vidéos de Nina Roberts,\nde Dolly Golden, Katsuni.",
+      "end": 19,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 16
+    },
+    {
+      "content": "Puis, j'ai pensé\nà ce qu'elle allait dire à ses copines.",
+      "end": 20,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 19
+    },
+    {
+      "content": "— Et alors là, il est devenu tout mou !",
+      "end": 24,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 20
+    },
+    {
+      "content": "J'ai re-essayé de m'excité.",
+      "end": 25,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 24
+    },
+    {
+      "content": "— Venez les filles, on s'embrasse.",
+      "end": 26,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 25
+    },
+    {
+      "content": "— Oh, oui, quelle bonne idée.",
+      "end": 28,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 26
+    },
+    {
+      "content": "J'ai aussi essayé de penser\nà Marla et moi dans un plan à quatre\navec les flics d'Energy 3000.\nÇa marchait pas.",
+      "end": 32,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 28
+    },
+    {
+      "content": "Moi qui suis le seul homme\nsur Terre et qui dois choisir\nentre Nina Roberts, Dolly\nGolden et Kaptsuni.",
+      "end": 34,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 32
+    },
+    {
+      "content": "Ça marchait pas.\n— Il est devenu tout mou !",
+      "end": 39,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 36
+    },
+    {
+      "content": "Elle a dit:\n— Attends, attends, je viens sur toi.",
+      "end": 42,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 39
+    },
+    {
+      "content": "J'ai pensé à tous mes ancêtres\nque j'étais en train de décevoir.",
+      "end": 46,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 42
+    },
+    {
+      "content": "J'ai abandonné.",
+      "end": 54,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 51
+    },
+    {
+      "content": "Je savais qu'elle allait dire\nque c'était pas grave.",
+      "end": 56,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 54
+    },
+    {
+      "content": "— C'est pas grave, hein.\nC'était grave.",
+      "end": 58,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 56
+    },
+    {
+      "content": "Vu qu'en temps normal, quand je faisais\nquelque chose de pas grave, elle\nse sentait pas obligée de me le dire.",
+      "end": 60,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 58
+    },
+    {
+      "content": "Elle ne m'avait jamais dit:\n— Tu fais des pâtes, c'est pas grave.",
+      "end": 62,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 60
+    },
+    {
+      "content": "Ni:\n— Tu bois de l'eau, c'est pas grave.",
+      "end": 64,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 62
+    },
+    {
+      "content": "Ou encore:\n— Tu respires de l'oxygène\net tu recraches du dioxyde de carbone.",
+      "end": 67,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 64
+    },
+    {
+      "content": "— C'est pas grave.",
+      "end": 68,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 67
+    },
+    {
+      "content": "Parce que tout ça,\nc'était vraiment pas grave.",
+      "end": 69,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 68
+    },
+    {
+      "content": "Là, c'était grave.",
+      "end": 70,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 69
+    },
+    {
+      "content": "D'ailleurs, dans pas longtemps,\nelle allait me demander\nsi c'était de sa faute.\n— J'ai fais quelque chose qu'il fallait pas ?",
+      "end": 73,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 70
+    },
+    {
+      "content": "Voilà.",
+      "end": 74,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 73
+    },
+    {
+      "content": "Après, on a discuté 25 minutes\ndans le noir alors que\nj'avais pas envie de parler.",
+      "end": 76,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 74
+    },
+    {
+      "content": "Elle me parlait comme si j'avais\nhuit ans et que j'avais fait pipi au lit.",
+      "end": 78,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 76
+    },
+    {
+      "content": "— Ça arrives, tu sais.",
+      "end": 79,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 78
+    },
+    {
+      "content": "Allez, on dort maintenant.",
+      "end": 81,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 79
+    },
+    {
+      "content": "J'ai fini par m'endormir et tout\nd'un coup, au milieu de la nuit.",
+      "end": 95,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 86
+    },
+    {
+      "content": "Bref, j'ai eu une panne.",
+      "end": 100,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 95
+    },
+    {
+      "content": "— Non. Ce soir, je peux pas.",
+      "end": 102,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 100
+    },
+    {
+      "content": "— J'ai mes problèmes de fille.\n— C'est pas grave.",
+      "end": 107,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 102
+    }
+  ],
+  "video": {
+    "commentCount": 548,
+    "id": "BJoEGR47rk0",
+    "isAgeRestricted": true,
+    "likeCount": 51384,
+    "viewCount": 3643369
+  }
+}

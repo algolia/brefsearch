@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "isAgeRestricted": false,
+    "likeCount": 132781,
+    "name": "Bref. Je m'appelle Eric Dampierre.",
+    "season": 1,
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg",
+    "viewCount": 9414768
+  },
+  "line": {
+    "content": "On avait réponse à tout\ngrâce au script d'appel.",
+    "end": 29,
+    "heatBucket": 1,
+    "index": 17,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=28s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E55_brefJeMappelleEricDampierre/028.mp4",
+    "hash": "aa682993c0",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBnSjZlRTBvUD9KODVALShdSEJLPDxZRD50XldRPj4uHBwgERMqFhZEPUeOnrOarcQAUTYpQSkhTzYsRjMvYkpGd1dRVEFFQTtFblhUXk1ONSMkSjo9eXqIk5+zmKe8jp60ADkjHDgoKUk4PEY4PV9GRHJMRmA/PVFBRkc+RVVERUo4OXp4iLLB2bPE26y/16S81QBELyhALzBFNTo6KzBPOztwTUdtSUdwUU5DPUhFNzlFMjJ+eomnscetutKww9ukutIARzMrQzExRDE0eWBfjHJwXUM/WEJCaU9Pg3B2bl9kPC0ub2JpfnV/g3+Ni4+gYWZ3AEYyK0IxMEs4O6GCfZt7enphYEMxLnZcW4t2eYJ1fjYtNSEXHDAnLR4VGxkSGBsXHwA9KCI5KSlLO0CVdnOScm+VdnV2XVt+Yl+YfHyLfYY6LzcUCQ8zMkA+PEk3N0QlJjEAMRYNPCclPS4zgGZljG1rjG5sjW5sh2hljW9tiXV4SDxEGg0RJB0lLy88KSs3IiQxADIaFzMkJzQhIlxHRXpdW3tcWXtcWXpZVm9TUVBBRSYcIykeJRQRGgIBBQEAAgIBA3sYi4mhVlWqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E55_brefJeMappelleEricDampierre/028.png",
+    "width": 1920
+  }
+}

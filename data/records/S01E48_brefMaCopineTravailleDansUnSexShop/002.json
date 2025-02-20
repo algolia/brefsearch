@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 48,
+    "isAgeRestricted": true,
+    "likeCount": 63867,
+    "name": "Bref. Ma copine travaille dans un sex-shop.",
+    "season": 1,
+    "slug": "brefMaCopineTravailleDansUnSexShop",
+    "videoId": "vrbqkwd6Zi8",
+    "viewCount": 3454073
+  },
+  "line": {
+    "content": "Elle était caissière.\n— Dans un sex shop.",
+    "end": 3,
+    "heatBucket": 1,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=vrbqkwd6Zi8&t=2s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E48_brefMaCopineTravailleDansUnSexShop/002.mp4",
+    "hash": "6db6fcdd97",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ1JREFUeJwVyztv00AAAGCLkaTkgc/PO5/vnHv47eZh2bWTNpSmrQI4BFBAEMEQIWVjQAgGFhYQTJ0QMMAEv4T/hfj2T6FtlbbAhU6fuv4G+6XNK56YunuGGOjDQR9CgHt9O1CdExJy1VEucYCugw2RE0i0HhzZXCKBIM9FxrAoRWxb7AbAroZzxJmKlYYmpKVVmrvPYt/C9SCeyqzk8Yvjk/2sqkVkmAxZ3DG9ggT/Q2FQ78CwO1bDONHgjCXP8modpQ8no4oJDWDbZrbpha7f8DTWqZL1jG4LXGtrrY7lG/Tl0fzPq9dvHjzp3ITCkUMSMShcyAXid72Iaa6yISIFKDFcH6A1T64eb/9++vL89nKMg+1heT/LExpJJAqZ1TQcQap8jtKfef6jPEp1vAyH71frX7t9JbMJ8T+Us9+ni3dni4EjqmAYYml2TOXj8uJqcfq1Wa7GeYRFTf07weF0ECem9/bW+ffz5lsx2xbl1M+E7XXbujKXwSKOV2l2KeSjcX7PD0HXmBBZU7ErprviODXJELE5jyBA6oH+D7/0UY9oHvPCAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/002.png",
+    "width": 1920
+  }
+}

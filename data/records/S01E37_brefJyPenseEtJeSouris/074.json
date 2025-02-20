@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 684,
+    "durationHuman": "1:23",
+    "durationInSeconds": 83,
+    "index": 37,
+    "isAgeRestricted": false,
+    "likeCount": 84798,
+    "name": "Bref. J'y pense et je souris.",
+    "season": 1,
+    "slug": "brefJyPenseEtJeSouris",
+    "videoId": "O1BZzYB3X6U",
+    "viewCount": 5141702
+  },
+  "line": {
+    "content": "C'était l'une des plus belles choses\nque j'ai vues dans ma vie.",
+    "end": 76,
+    "heatBucket": 2,
+    "index": 25,
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=O1BZzYB3X6U&t=74s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E37_brefJyPenseEtJeSouris/074.mp4",
+    "hash": "d86d8ba895",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZBJREFUeJwtwttP01AcAODTc05/59abp7eNbi0utWUrcSOMhBkkLjg2xgiWGGQImVGmJGJIfPBBH3zwHzcmfvkQIcS2LEsp7TlF1kpjP/a9KGroKJFuJKwnUlnABTBOKZiUIsZ4lmxqnZwfH3+8vXv4+vPuy6+r9e/605/u9DGs5rr5TDm+FyRM2EowJIQCytN8txy9XVzer5br1e3Dt8/rd6fTtD/3Bu/98shvb3tBykBaUiIG4ITpi/GbvDeaLT4s6/X3xx/r67p4mgdhujmYZ9Wh5TYcJyAYLCWRYFw4YdCd6O403F68mlyvljdnk/HR4fhsMis7eVUUcRAXaQsbxJICSWkhhEBFdrrnNHu6/Xwj3rg4mV2eX9zfrA6GBzvd3lanU2ZJQ7uSc6SkjTGhBsEGAXC4ioW3FTby/Z3h7rCuBlejweu9MqunLzvtBBkGsm3PMAxCKSEmQSbBpqlaoPe515NuwZqnblb3y37VjpJAY0wQA4YJJv/RfzEiJqc8ZAAmSOC+EB4DygEoIX8BcBE3L4ySnUgAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E37_brefJyPenseEtJeSouris/074.png",
+    "width": 1920
+  }
+}

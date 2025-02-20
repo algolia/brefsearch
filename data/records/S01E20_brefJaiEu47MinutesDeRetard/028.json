@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "— Excuse-moi, tu peux me prêter ton portable ?\nJ'ai entendu:",
+    "end": 30,
+    "heatBucket": 2,
+    "index": 15,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=28s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/028.mp4",
+    "hash": "1a2490e358",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAhGhkjHh8pIyUoJitZSD52X0xNQ0GNeGXFrItldHxVaHZZZW2EhYW6rJqooZqSj5AAHhYVIx0dJB8gPTMyVUhEU0JARj5AOjpBkINzeYmQXHOFW214io6Oy76ruK+olJKVABkQDyAZGCUdHX9ZTZJmWMN9as2Me4RjXEE9QE5idFt4i19yfoWIiNHFs6qknKaosQAQBgUYERE+LCijbl+YcF+cYVCgbF20dWJXR0E8UmZfeIpXaXWJjYzZ0MeysrTM0OEAHBQTJx8fcVVKnXBflm1cqm1cmmhasnNhb01BXW55VnOIXnOCgYmNv7itu73G0NPkAFdAN1tFPJ1zYpZxYGFBOJJcTsZ+ap1iUZZnVXmAg1Vzild1jm18hrWxrMbL2MrN3QCVa1iedmTBk315XVBXODGPW0yQYU9dQDeqj3aTmJFXeZhlf5OamZevsrbDyNjJzd4ApX5vp4FyxaiUYE9GOyYeWUE5QjMuYkQ5n4Ftc3t7YoCalZGNlpOOoqivuLzKvMDPAKiSja6enr65wLi3wnVnZ0MuJ2JEOZllUGxTSSYpMlphaomFf3uAg5OZnaetuLK3xtlDxAnFigyoAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/028.png",
+    "width": 1920
+  }
+}

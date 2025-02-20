@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 392,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg",
+    "viewCount": 4199001
+  },
+  "line": {
+    "content": "— C'est sûr, je l'ai.",
+    "end": 23,
+    "heatBucket": 4,
+    "index": 9,
+    "start": 22,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=22s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E29_brefJeSuisHypocondriaque/022.mp4",
+    "hash": "446d1176bd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXSUdkVVJtXlp1ZGB/bmlpW1heSEKGY1iAaGGAcGp+b2qAb2pWS0o7OUA6Nz01MTYAbl5bd2dje2tmf25qhHNuSzw6eVZLwZGBwJmKh3ZugXJrhXNsVkxMPz1ETEpRPDpAAIFyb5CAe5uKhZ2NiZeBfHpVS4pnWn9dU6iDdIt4cIJxaod2cFNKSz06QHh7h32BjgCXhHyHen5rX2BsYF9rXFl/W0+ofW+Yb2KOb2WPfnqKeXSIeHRKQ0Y/PEJ1cXmRl6YAnot7NjFHIBokGxYXJxsaWT00fVpPlGpdn3tvl4R+koN/h3dyQjxAQD1FREBGWFhgAKSViZWRlzgzOBgTFScdHTUhHJlyZZZwZFE8Oo9/e5SDfIFxbTw3O0A+RT47QTQxNgC6qJLk3MynnpQ0LSsLCAwxIR6VbmCSbGFALi1MQz59aVB1Z2U5NDlAPUI8OT43MjcAmmdJspF1zrSYgWZabE9Hlm9hfl5VNSkvOSwsimtgk3hhY1dUMSwwPDg9OjU6MiswAJJ9d6SIfK2QhaaKgZZyZmpRSjInKC4nKnFbVJlzZ5R2a2NXUzw1ODcyOC8oLCYgIxW1o4/9ZhoOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E29_brefJeSuisHypocondriaque/022.png",
+    "width": 1920
+  }
+}

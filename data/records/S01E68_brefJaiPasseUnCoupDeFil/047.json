@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 348,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 68,
+    "isAgeRestricted": false,
+    "likeCount": 76290,
+    "name": "Bref. J'ai passé un coup de fil.",
+    "season": 1,
+    "slug": "brefJaiPasseUnCoupDeFil",
+    "videoId": "8matlnmBY98",
+    "viewCount": 5070086
+  },
+  "line": {
+    "content": "Je lui ai dit que je n'avais pas eu\nle temps vu que Julien l'avait appelé.",
+    "end": 49,
+    "heatBucket": 1,
+    "index": 27,
+    "start": 47,
+    "url": "https://www.youtube.com/watch?v=8matlnmBY98&t=47s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E68_brefJaiPasseUnCoupDeFil/047.mp4",
+    "hash": "65b526034f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVzm1zknAAAPD/67Z1tziGisJEwOUDPjFwQoKJNMQtAcEhJhZYnraa5aXe7uq869rVta43veldH6Cv0AfoU3X9PsEPHMP73TTWOUra9eOJoY7akidxQ6H8PbS/hf1Ak8yTUmBo/UaNTdOOKgOTjj5jqTctfuFoy7E1d/RVX7/SxLWlbXr69aj7sttceNZ746HBpJ8bp2BcxAcZbHMm/djMbhbB26GxHXSvTfWLb356Yg10NWjLM70ZytxAZCeGBlok5uaSn59af3///PPr9nYZrp2OxZcvmzVfkZDkEYZTvbrQEQX2PoNhecBFEI3Cx6eqpppzP/i6mn0Ymko+ozA5+CABoykYJQgin0pVSIpPYAwQ8Lhdznb4aj4nZjM1XdHPG3I8dhhBMAiOR1ACQYl9CCdJjiK5e1ASeG3l49V0Ffr9StavFtaji7VrbOeTm+Xl9tV0FY5eOF00RpEkf4DQu3dRYMnCa9d0m3WvQHkM+Yg+tBnKrZUm6oN3Q2sTelP7MY7n/pcIZmcPBaV4rBSP0hCk0rhO40U0lolGi1jivJI9K6StarHXEHf2kJNCucVWALjzDzX5cPaCAy8qAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E68_brefJaiPasseUnCoupDeFil/047.png",
+    "width": 1920
+  }
+}

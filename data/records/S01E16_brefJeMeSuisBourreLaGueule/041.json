@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 954,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 16,
+    "isAgeRestricted": false,
+    "likeCount": 112535,
+    "name": "Bref. Je me suis bourré la gueule.",
+    "season": 1,
+    "slug": "brefJeMeSuisBourreLaGueule",
+    "videoId": "4tdCI0GUy7w",
+    "viewCount": 10683117
+  },
+  "line": {
+    "content": "Plus 100 points.\n— J'ai déjà fait des plans à trois.",
+    "end": 42,
+    "heatBucket": 5,
+    "index": 21,
+    "start": 41,
+    "url": "https://www.youtube.com/watch?v=4tdCI0GUy7w&t=41s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E16_brefJeMeSuisBourreLaGueule/041.mp4",
+    "hash": "0eb301bbf7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUDJIqCh5MCl51DsNKDENSEyg9ExtmFT6EE5e9C75VDToaCg1OCWJIC1NWCKlfBMsAZhC4YBGQZg+WZA+VTw03NQ4VXC0pcEIubBWBtgXvbhFdUxstgQjDYwmYbAvHdAXjAHIU03UV1mgQtUIMRzYMFjIWGmI0M35MOWgYbmUEpC0DNB8HETkDUHIBxI0D928FzAB4FuByFtZbDqw+CzkoChBGICdwOjmIT0c5GCQRBQ8rJCUnHiYlIx06KzyIFtVnAbgAfBPoexbvVBCjPw4lLxEQJQ8TVyoqcj82SRwhLxUjZmZmTkxKYVthZHFYejikagDDAH4L6VsNvEcPbEEQFToZFkklIWI3MXFBOGo4N2A2PSkYHhMIEBYMFRYRCmgQlHED4gBvDc89E3xIEGZLHx1eNzN+TEF4SD5zQjlpQDlvRkJeOTcGAAUQBBElDB19OatpFuMAVyE7WyJbdCWoekJGZUA7hVNIhVBEhlBDbkQ/bUQ/eU9IEAUNDwUNLhEflSK4qxDiAD0aOzQQO0kRSX5FSFw5NHlJQYROQXtLQXBHRHtMRXdKQhQHEAkEBFYNY5UVtmoVcWt9eUWaf9FOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E16_brefJeMeSuisBourreLaGueule/041.png",
+    "width": 1920
+  }
+}

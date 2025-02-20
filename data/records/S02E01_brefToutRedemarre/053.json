@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Elle est morte, c'est ça ?",
+    "end": 54,
+    "heatBucket": 5,
+    "index": 10,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=53s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/053.mp4",
+    "hash": "19b07484c4",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwVy1tvk1AAAGCSSYUeLj1cDxRK4UALJ6UjFJu2tLbuEgqursZbms7p7BKzh/m2TE2Ml0X/gYlv/lXj9/5Rjgyx2fENUqdps844HDv3pFGgE40ftRqhLnRUzoN1nWMd25IFniqS6GwxTzBRWHBoKy8x+jLDv98Or6fuXYHPB84qQg8dOTFggl1PkahlSi5mWV/VdI47aqmFq21DdDVuXy/wtwK/6jf3dXHuwMwUW3zd4AC1SsmLp6tsXRHAVBg96+hbYtw9Jp+W3R9VcOxrkcyfx2hiQxcKJg+oMu29LssPm9OR2qhcdRMalavuUuv2EP886SwDLVaFmQUjmceS+D8c9eNyePnkzcf9bjNHjcJTT33tMmuepdavde/Pu/FFjjcTf4pRSxSbPKDmUW842ELvwUDjMgSJIiws6XnPmLva55LcnsTf18nf3eQq94ZIaAuASj3iKEhmahiKj2xlbEoJgjlW133j/dS/Oeje5O2vM3cXmweBnWiQYmvMvb09pnafoWnEsaHEWQILanRogK4uDAzBE9lABp7EubZt8uAf/q1IqWlg8qoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/053.png",
+    "width": 1280
+  }
+}

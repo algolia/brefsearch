@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 805,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "isAgeRestricted": false,
+    "likeCount": 79231,
+    "name": "Bref. J'ai eu 30 ans.",
+    "season": 1,
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8",
+    "viewCount": 6367294
+  },
+  "line": {
+    "content": "Bref, j'ai eu 30 ans.",
+    "end": 73,
+    "heatBucket": 1,
+    "index": 30,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=68s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E46_brefJaiEu30Ans/068.mp4",
+    "hash": "4140269920",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXpJREFUeJwlzk1r20AUhWEtkmp0Z+4djaSZ0egzViy7xq7j2MZxQ5tWLnESCoUWsukXBUN22bXQ0D9f1MJZngdeD1gAPlvl5vXA7UflqyZ/05aP3eLHdjJN42kad215WVnLGT07Cv1jD3x2dOx3jfuyOH0/LnZN2tX28Wr+eTW+qs3bQXo3qbeF1sAU8yPm94D5bFHor8vht+Xp73dnv3bzp/36sJ08bNqHTXu/GI4SFUOQCtBB4DmJeUhNrG4n9cfZyc/d2dP18s/dxeFy+n01PGzGXVtq5IawUKEj9MqQKiUrJTOJTRzePq8+zAb382Y/zNeFPc9NJimEwJDIQ2lQeJmkUsn/qxQZEuvCXA/cNtfTNI44RAIUB43cSuyBJXSS8pBSiReVfeHiQtHIRE6iJZEgR4CQQ9JXCY3cSwQ3KJykhHCs1afZyaowmURHWEcyQeQBSIBYQCIg5uCpf9oS6l7yl5W9afPzLBklyiJnPsMgiHh/jXjf9hdm/DFxdLizCgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E46_brefJaiEu30Ans/068.png",
+    "width": 1920
+  }
+}

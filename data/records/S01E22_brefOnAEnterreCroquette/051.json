@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 585,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 22,
+    "isAgeRestricted": false,
+    "likeCount": 85441,
+    "name": "Bref. On a enterré croquette.",
+    "season": 1,
+    "slug": "brefOnAEnterreCroquette",
+    "videoId": "LRzOCN7zths",
+    "viewCount": 6068571
+  },
+  "line": {
+    "content": "— Croquette, tu vas nous manquer.",
+    "end": 58,
+    "heatBucket": 1,
+    "index": 21,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=LRzOCN7zths&t=51s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E22_brefOnAEnterreCroquette/051.mp4",
+    "hash": "fc1bb4f725",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXaTdWaTVQYCxlXTVGNCZsTjqQa1OtlIHIvbu7qaGdhGyEhmtGVidQZxpARx4vLBUARlUgPEobUFowc2I/OigaSzotWUc7emBPbF5WZ2FfXkc2r6aMe45oUWoYTlggPjokACYuEyIrEUZNJWtUMjMhEhAMCgYDAysiGxcNCh4ODjwoHqiTcZ6vh1hoKUA7Gj02HgBETzM+Sy1mdktqVzNOMx1QNSk/KB2BZlRwUEWHZluCZVCbgl6hrX5fcjNCPxpAPCAAb4dKeZFVkq1gdm08X0MsWz0kb00vdVE9nntmu52BhGBFrJR2lqFnf5ZVVVopREAgAH6XUISiRoilMnlyOmRJMDwmFGJCJmpFM6eBapZ3XmtFKb2qiJKkVm92Qk9HMUpEJgBziUl4lEODojl0bzlrTjBFMRtJLBNtSy6SbFFVMht1TzO+r4iGmUZaVy1IQSlSSTIATmMacIpLeIpNfGxEe2BCYUw0QigPWzwdd1A0b0Qrj21QuqmWe3lmWFQ5S0QxT0YyAFJeOk1TNVxOQ3lcRIp2V29dRkIoFWdFLIJbQ5hxW6mPd5uSjl9ZZFdRWE9GSVpRSKojk21ozaYOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E22_brefOnAEnterreCroquette/051.png",
+    "width": 1920
+  }
+}

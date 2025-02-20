@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 597,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 24,
+    "isAgeRestricted": false,
+    "likeCount": 91536,
+    "name": "Bref. J'ai fait un rêve.",
+    "season": 1,
+    "slug": "brefJaiFaitUnReve",
+    "videoId": "gYSzEUcLIZ4",
+    "viewCount": 6811734
+  },
+  "line": {
+    "content": "Bref, j'ai fait un rêve.",
+    "end": 103,
+    "heatBucket": 3,
+    "index": 33,
+    "start": 102,
+    "url": "https://www.youtube.com/watch?v=gYSzEUcLIZ4&t=102s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E24_brefJaiFaitUnReve/102.mp4",
+    "hash": "b2c310d2e1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAASdJREFUeJxNj8tuwkAMRWdJxo+xZ/IOJSGQEEC0ECpVRf2Bbtj2//+kSqJKla4sS7732DZINbmWpCM5sD+yP7E/z/XI0rMeWQfAchJtkGqD1BC3NM9IB9Ilc2I9kOzYDxbyyCazYnKtQW5Yh8ktvSZjXHxpcnfTkrOmI/BmsU6KPLrW5M23JDfANbm26n6K7TMUD5KeZA+0ma3Jv0BjQv4AXFsoNR2L7dPnn5LcXLgAVqtILSQWsiVjIeVwNhZyCxlgqcko8ZWkk/iq6Tv7k6Xq7/opAFiR7M0MCCy9zz5YDqwDuR25PevUL3gL5QJFbo2FdBUFks6FC+uA3CDVyNu5ebFQLmzWwcVvLL1ZHpoAtLaQA1aAlYXCQjbXIrIBuZb07uLXCPJfTGoi3Cb6z3gAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E24_brefJaiFaitUnReve/102.png",
+    "width": 1920
+  }
+}

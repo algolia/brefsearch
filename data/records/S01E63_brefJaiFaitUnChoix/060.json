@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:17",
+    "durationInSeconds": 137,
+    "index": 63,
+    "isAgeRestricted": false,
+    "likeCount": 105080,
+    "name": "Bref. J'ai fait un choix.",
+    "season": 1,
+    "slug": "brefJaiFaitUnChoix",
+    "videoId": "UNbu1DM-jk0",
+    "viewCount": 8818396
+  },
+  "line": {
+    "content": "— Franchement, ça se fait pas ce qu'elle a\ndit.",
+    "end": 66,
+    "heatBucket": 1,
+    "index": 24,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=UNbu1DM-jk0&t=60s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E63_brefJaiFaitUnChoix/060.mp4",
+    "hash": "d29892dd3f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBxbGp2cW98eXeBfn6EgIKDgYBkOEJbHyxbNjrAv8LExsrd4eWXiI5HGCQ1Fh9PREIAcGpoenRzhYGAkIZ5kIR0j4Z4aTpFdDZAfmRZtbCv2dzh7fP3qZmfUhkoPiMnUEVAACAXFi4kI2heW4NtTGFJK5B7UGs6RXU8Sm5WUK2prOTn6vr//66ZoFcpLUs6MUYyKwAeExMkGRiLhIBUTEdMOyVwXUZnUWtbUn5MRF80LUmNipbGysyol55mSEFiT0JWQTcAHxMTIxcXdW5sXT87ajMhf2BTZWCGWVeEYnKNLipJUUpZgndzimRiclFKalZIW0c9ACUZFyITEU5APHpmYXVPQ4Z1bXRgaGBbg1dhfSQaM3tvb8/R1JBVTXRKPGBQQ1E1LAAbDw4sHRtRQ0B1YFR8aF+PjIlmR0hlXYdWV3oeEyplV1fR19qdiZFoOjdhNyxcHxgAFgsJQDQ0V0Q/ZkU3SDg0SkFBZE9PSUFsPzpeHRUrPi40Rj4+QC81ViAiayIZaSUcACIUEzMmJU03L0YwKh4WGCYaHHRaWGFbczApPiojMDopKxwTFRcND00cGGkiGW8lHJ+xl2+cQMyxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E63_brefJaiFaitUnChoix/060.png",
+    "width": 1920
+  }
+}

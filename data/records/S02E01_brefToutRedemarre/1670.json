@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Sur ce coup-là, t'es un génie.",
+    "end": 1671,
+    "heatBucket": 1,
+    "index": 551,
+    "start": 1670,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1670s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1670.mp4",
+    "hash": "506aebfcff",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjklEQVR4nBXCy2sTQRwA4HHn8ZvZmc1uNjv7fiZtJjFN07TSLCU1ULCJiEJDaHvoQYSi0IuoBxEP6kE9evAPFj8+dFyIpVGTwhnl3ukoqpOOlOA6InG5AqzTsBrk2lNSSYotggn6uQ3/vs4f1uX9evjrbbt72sRdOa385wdB5YvpYv5se/nY1HEaK0oJ5WhzoD6+iH5c199uR38eWpO4maBv2uzTpsm7MJyZ+fKJ6WdZFEhKMGVIYrxo5Jer+vNu/PXuJHPti1S8XyTft2ZcdMyobPfjs9I1WnnAKOUo7zATil2bb1fmej2bFb2XpX2z7/2+mXy4PTJVNNTqbC88rfyYMcUATSK5PtSbo2Q+SFwAn/OBgovaXZbd48hrou609N+dV/dt3rf5wBVo0XirSbQa69QG1yKaQUCZBh4wpgkbd9R5473ac04CLikFBqivVRE6h3UvYhABr4VIABLgMXDFIBMi60hlc0y59HoWSEQfWYxg7XCJMcdYEaIwURhLQtj/1LIIQpZFaJrlFMQ/fM0zFuHE2OIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1670.png",
+    "width": 1280
+  }
+}

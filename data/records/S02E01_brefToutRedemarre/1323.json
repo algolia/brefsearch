@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Là, je tombe.",
+    "end": 1324,
+    "heatBucket": 5,
+    "index": 421,
+    "start": 1323,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1323s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1323.mp4",
+    "hash": "4daedd8607",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABn0lEQVR4nAXBzXLSQAAA4O2YzW5IdvNHsiTETWA3pJCQlFoRgdqU4linUNQqrbaXXqoz6tGjnfExvPkAPoAnb76X3wdMYngO5S0r407voS3blgho0tRN9YEBYZwIkUoVN4CCdyDWDANknA0TdpAG9X5ycdK/XPS2M347D79vol+f878/b77drTUa7DRcRXdPno8BRZAT9Cz2jko5L/kwtrJAf71v/bkv//2Qv+/rxaMBMlpEI7qKegMBdAgdjOrY2VTdo6obWUqPqaelOU0MaeMvK7Eed3ybZVRzMWqGDJiqkgbWerY7ktFItJ8OwuMDcb16cj4tLlbLj9cv3h2mXb/ZN7GDsUYpsJEy3Q2v6uy44NtF8fWmvt1MXk36Lw8n9ePq/bL/dp5QYmi6QajJwghYCLYpflP42zK4msq7s3JV8aLlLbP4PI/3EiZDmxIdKKppNGLOgYWRi+FZ6lwW/iwyT6Vb+vYecz5NxIdxPsor0R3wTu6FMpJDNy4AQQpFMNBVYSPp4IhiApU2wSUj0jdDz2aua9o+dcNOmmsW+w+mdT69KOZBxgAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1323.png",
+    "width": 1280
+  }
+}

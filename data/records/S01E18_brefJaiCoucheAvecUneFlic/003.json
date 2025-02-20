@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 680,
+    "durationHuman": "1:16",
+    "durationInSeconds": 76,
+    "index": 18,
+    "isAgeRestricted": false,
+    "likeCount": 99938,
+    "name": "Bref. J'ai couché avec une flic.",
+    "season": 1,
+    "slug": "brefJaiCoucheAvecUneFlic",
+    "videoId": "if3EipAM2WQ",
+    "viewCount": 8008914
+  },
+  "line": {
+    "content": "Bref, j'avais accosté\ncette meuf dans la rue.",
+    "end": 4,
+    "heatBucket": 4,
+    "index": 0,
+    "start": 3,
+    "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=3s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E18_brefJaiCoucheAvecUneFlic/003.mp4",
+    "hash": "51a271e347",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBwXFBbSD+HenKaj4qupJ/Dt6rFuKvSyb3Rx7rZ0cSll4x1X1RjRzymlYrYz8O8rqAAgWteZE1Cn5CJqZ+Yp5qQp52TmZeT0ca41Mm8v7itf3FmZk1CY0c8p5aL5uPYz8W5AIBrXV5KP35uZY2AeaGVjLyyprOpn8/Bs9XIusK3p4J1aGVORGJHPaWUievq4NjRxgCCa15kUUdhTUNbSkJpWlHIvrK0q6a3nWLNu4O5kIaZf3dhS0FkSj+ikYbm5dra1coAdF1QZVFGcVxSd2VcaFVJp5iMk5amsJQyw6lAhlJag1tXcV5RZkxBnoyB4+DV2M/EAH5rXG9cTW5aTHtqW3xqWaKPgHRydWlcSpeCZWZYVJaEdYx4Z3JcTLCkltzWy8i8rQCVg3V9a1xfTj6PfGyci3ymlIdRS0GDdmq8rJ98enPKvrCkk4KPgG/Tx7nLwra9sqYAiXtwkoN3k4R5lYZ6l4h8iXlrQz42ZFZHjXppWlBHraOWzL+xxLmtx76zx76zxr20AIh+d5CGgJaNhpeOh5mQiZuSi4qFf6GakrexqaqclMa/t9DKwcjBuMW8s7+2rbetpZzk7v0oAVAIAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E18_brefJaiCoucheAvecUneFlic/003.png",
+    "width": 1920
+  }
+}

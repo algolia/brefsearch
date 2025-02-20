@@ -1,0 +1,371 @@
+{
+  "duration": {
+    "human": "2:02",
+    "inSeconds": 122
+  },
+  "episode": {
+    "index": 33,
+    "name": "Bref. J'ai couché avec Émilie.",
+    "season": 1,
+    "slug": "brefJaiCoucheAvecEmilie"
+  },
+  "lines": [
+    {
+      "content": "— Attends, attends.",
+      "end": 3,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 2
+    },
+    {
+      "content": "Bref, j'ai recroisé Emilie, la fille dont\nj'étais amoureux quand j'avais 15 ans.",
+      "end": 6,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 3
+    },
+    {
+      "content": "Je lui ai dit:\n— Hey !\nElle m'a pas reconnu.\nJ'ai dit:\n— C'est moi.",
+      "end": 8,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 6
+    },
+    {
+      "content": "Elle m'a pas reconnu.\nJe lui ai donné mon nom.",
+      "end": 10,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 8
+    },
+    {
+      "content": "Elle m'a pas reconnu.",
+      "end": 11,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 10
+    },
+    {
+      "content": "J'ai rajouté:\n— Avec la morve au nez.",
+      "end": 12,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 11
+    },
+    {
+      "content": "— Oh, Morve-au-nez, lol !",
+      "end": 14,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 13
+    },
+    {
+      "content": "Elle a dit: Lol, je déteste ça.",
+      "end": 15,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 14
+    },
+    {
+      "content": "Puis elle a dit:\n— Ajoute-moi sur Facebook.\nCe que j'ai fait.",
+      "end": 17,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 15
+    },
+    {
+      "content": "Avant d'appuyer sur le bouton Ajouter,\nj'ai repensé à ce qu'elle m'avait dit\nquand j'avais 15 ans.",
+      "end": 21,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 17
+    },
+    {
+      "content": "— Émilie, tu veux sortir avec moi ?",
+      "end": 24,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 21
+    },
+    {
+      "content": "— Jamais je sortirai avec toi.",
+      "end": 26,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 24
+    },
+    {
+      "content": "— Jamais, jamais, jamais,\njamais, jamais.",
+      "end": 33,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 26
+    },
+    {
+      "content": "J'ai appuyé cinq fois sur Ajouter.",
+      "end": 37,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 33
+    },
+    {
+      "content": "— Jamais, jamais, jamais, jamais, jamais.",
+      "end": 39,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 37
+    },
+    {
+      "content": "Elle m'a accepté.",
+      "end": 40,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 39
+    },
+    {
+      "content": "J'ai vu ses photos été 2011, ça allait.",
+      "end": 42,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 40
+    },
+    {
+      "content": "Sur le chat, elle m'a dit:\n— Salut.",
+      "end": 43,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 42
+    },
+    {
+      "content": "Elle a vu une photo\nde moi avec Carbon Kevlar.",
+      "end": 44,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 43
+    },
+    {
+      "content": "Elle m'a demandé:\n— Tu les connais ?",
+      "end": 46,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 44
+    },
+    {
+      "content": "Non.\nJ'ai dit:\n— Carrément, on est potes.",
+      "end": 48,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 46
+    },
+    {
+      "content": "On s'est revu, on a pris\nun verre, on a comparé nos vies.",
+      "end": 50,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 48
+    },
+    {
+      "content": "Le match a commencé.",
+      "end": 52,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 50
+    },
+    {
+      "content": "Elle a dit:\n— Là, je travaille\ndans un magasin de fringues.",
+      "end": 55,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 52
+    },
+    {
+      "content": "— Ce n'est pas top.\nJ'ai dit:\n— Moi, j'adore mon taf.",
+      "end": 59,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 55
+    },
+    {
+      "content": "C'était pas vrai,\nmais 1 à 0 pour moi.",
+      "end": 61,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 59
+    },
+    {
+      "content": "— Je viens de me faire larguer.\n— Ah, merde.",
+      "end": 64,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 61
+    },
+    {
+      "content": "— Ah moi, c'est cool. Je vois\ndes filles, je papillonne.",
+      "end": 66,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 64
+    },
+    {
+      "content": "Reprise de vol, 2-0.",
+      "end": 67,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 66
+    },
+    {
+      "content": "— Je fais de la guitare.\nTête plongeante, 3-0.",
+      "end": 70,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 67
+    },
+    {
+      "content": "— C'est exactement ce\nque dit Carbon Kevlar.",
+      "end": 71,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 70
+    },
+    {
+      "content": "Poteau rentré en 4-0.",
+      "end": 72,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 71
+    },
+    {
+      "content": "Alors j'ai dit:\n— On va chez moi ?",
+      "end": 74,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 72
+    },
+    {
+      "content": "On est allé chez moi.\n— Bienvenue chez moi.",
+      "end": 77,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 74
+    },
+    {
+      "content": "Sur son profil, j'avais analysé des trucs\nqu'elle aimait bien, alors j'ai disposé\ndes objets l'air de rien sur mon lit.",
+      "end": 81,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 77
+    },
+    {
+      "content": "— Toi aussi, tu aimes bien ?\n— Quoi ?",
+      "end": 83,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 81
+    },
+    {
+      "content": "Retourné acrobatique, 5-0.",
+      "end": 85,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 83
+    },
+    {
+      "content": "Ensuite, elle s'est déshabillée.",
+      "end": 89,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 85
+    },
+    {
+      "content": "J'ai pensé à moi 15 ans plus tôt.",
+      "end": 90,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 89
+    },
+    {
+      "content": "Pendant qu'on faisait l'amour,\nj'ai dit:\n— jamais, jamais, jamais, jamais.",
+      "end": 95,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 90
+    },
+    {
+      "content": "— De quoi ?\n— Non, rien, j'aime, j'aime, j'aime.",
+      "end": 98,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 95
+    },
+    {
+      "content": "J'étais vengé.",
+      "end": 100,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 98
+    },
+    {
+      "content": "Je l'ai raccompagnée à ma porte,\nelle m'a dit:\n— On se revoit ?",
+      "end": 102,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 100
+    },
+    {
+      "content": "J'ai dit:\n— Absolument.\nPas.",
+      "end": 104,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 102
+    },
+    {
+      "content": "Elle est partie.",
+      "end": 105,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 104
+    },
+    {
+      "content": "Quand j'ai fermé la porte, je\nme suis checké moi quand j'avais 15 ans.",
+      "end": 107,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 105
+    },
+    {
+      "content": "Bref, j'ai couché avec Emilie.",
+      "end": 108,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 107
+    },
+    {
+      "content": "Jamais, jamais, jamais, jamais, jamais.\n— Wow, c'est stylé Facebook.",
+      "end": 111,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 108
+    },
+    {
+      "content": "— Quand est-ce qu'ils vont inventer ça ?",
+      "end": 113,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 111
+    },
+    {
+      "content": "— T'inquiètes.",
+      "end": 114,
+      "heatBucket": 1,
+      "heatValue": 0,
+      "start": 114
+    }
+  ],
+  "video": {
+    "commentCount": 1900,
+    "id": "mEu0q3Slzj0",
+    "isAgeRestricted": true,
+    "likeCount": 166814,
+    "viewCount": 15359989
+  }
+}

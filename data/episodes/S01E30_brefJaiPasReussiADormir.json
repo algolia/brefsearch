@@ -1,0 +1,266 @@
+{
+  "duration": {
+    "human": "1:42",
+    "inSeconds": 102
+  },
+  "episode": {
+    "index": 30,
+    "name": "Bref. J'ai pas réussi à dormir.",
+    "season": 1,
+    "slug": "brefJaiPasReussiADormir"
+  },
+  "lines": [
+    {
+      "content": "Bref, toute la journée, j'ai dit à tout\nle monde: Ce soir, je me couche tôt.",
+      "end": 4,
+      "heatBucket": 5,
+      "heatValue": 60,
+      "start": 2
+    },
+    {
+      "content": "— Ce soir, je me couche tôt.\n— Ce soir, je me couche tôt.",
+      "end": 6,
+      "heatBucket": 4,
+      "heatValue": 51,
+      "start": 4
+    },
+    {
+      "content": "— Ce soir, je me couche tôt.",
+      "end": 8,
+      "heatBucket": 4,
+      "heatValue": 54,
+      "start": 6
+    },
+    {
+      "content": "Bien sûr, je l'ai pas fait.",
+      "end": 10,
+      "heatBucket": 5,
+      "heatValue": 63,
+      "start": 10
+    },
+    {
+      "content": "J'ai passé la soirée sur Facebook à\nregarder des trucs qui servaient à rien.",
+      "end": 13,
+      "heatBucket": 5,
+      "heatValue": 64,
+      "start": 10
+    },
+    {
+      "content": "J'ai maté un documentaire\nsur la reproduction humaine\net je me suis couché.\nAh non.",
+      "end": 16,
+      "heatBucket": 5,
+      "heatValue": 61,
+      "start": 13
+    },
+    {
+      "content": "Aussi, j'ai maté une série.",
+      "end": 17,
+      "heatBucket": 4,
+      "heatValue": 50,
+      "start": 17
+    },
+    {
+      "content": "J'ai mis huit épisodes de 52 minutes\nà me rendre compte que je l'aimais\npas trop et je me suis couché.",
+      "end": 23,
+      "heatBucket": 2,
+      "heatValue": 35,
+      "start": 17
+    },
+    {
+      "content": "J'ai pas réussi à m'endormir.",
+      "end": 24,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 24
+    },
+    {
+      "content": "J'ai pensé à ma mère\nqui m'a dit qu'il fallait\nque je me mette les pieds en l'air.\nÇa marchait pas.",
+      "end": 27,
+      "heatBucket": 1,
+      "heatValue": 17,
+      "start": 24
+    },
+    {
+      "content": "J'ai essayé d'autres positions,\nça marchait pas.",
+      "end": 28,
+      "heatBucket": 1,
+      "heatValue": 15,
+      "start": 27
+    },
+    {
+      "content": "J'ai mis un pied dehors, un pied dedans\npour avoir à la fois chaud et pas chaud.",
+      "end": 32,
+      "heatBucket": 1,
+      "heatValue": 16,
+      "start": 28
+    },
+    {
+      "content": "Ça marchait pas.",
+      "end": 33,
+      "heatBucket": 1,
+      "heatValue": 17,
+      "start": 32
+    },
+    {
+      "content": "J'ai cherché des conseils\npour dormir sur Internet.",
+      "end": 35,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 33
+    },
+    {
+      "content": "Ils conseillaient de ne\npas aller sur Internet.",
+      "end": 36,
+      "heatBucket": 1,
+      "heatValue": 20,
+      "start": 35
+    },
+    {
+      "content": "Je me suis recouché, je me suis pas\nendormi, je me suis fait chier.",
+      "end": 37,
+      "heatBucket": 2,
+      "heatValue": 21,
+      "start": 36
+    },
+    {
+      "content": "J'ai appelé des gens, ils répondaient\npas, sauf un, mais ils m'a engueulé.",
+      "end": 39,
+      "heatBucket": 2,
+      "heatValue": 22,
+      "start": 37
+    },
+    {
+      "content": "J'ai regardé un truc captivant.",
+      "end": 40,
+      "heatBucket": 2,
+      "heatValue": 22,
+      "start": 39
+    },
+    {
+      "content": "— Le zèbre cours de toutes ses forces,\nc'est là le prix de sa liberté.",
+      "end": 46,
+      "heatBucket": 2,
+      "heatValue": 30,
+      "start": 40
+    },
+    {
+      "content": "J'ai lu un livre, j'ai lu sept fois\nla même ligne en boucle, j'ai abandonné.",
+      "end": 48,
+      "heatBucket": 3,
+      "heatValue": 39,
+      "start": 46
+    },
+    {
+      "content": "J'ai remarqué des trucs au plafond.",
+      "end": 49,
+      "heatBucket": 3,
+      "heatValue": 45,
+      "start": 49
+    },
+    {
+      "content": "J'ai essayé de les compter\net de détecter des formes dedans.",
+      "end": 51,
+      "heatBucket": 4,
+      "heatValue": 47,
+      "start": 49
+    },
+    {
+      "content": "J'ai fait un peu de sport, j'ai rien fait,\nj'ai pensé des trucs cool, je suis allé\nsur Twitter, personne twittait,\nj'ai twitté, personne m'a répondu.",
+      "end": 56,
+      "heatBucket": 4,
+      "heatValue": 54,
+      "start": 51
+    },
+    {
+      "content": "J'ai compté dans ma tête pour savoir\nsi j'étais calé avec le réveil.",
+      "end": 60,
+      "heatBucket": 3,
+      "heatValue": 45,
+      "start": 56
+    },
+    {
+      "content": "— 55, 56, 57...",
+      "end": 62,
+      "heatBucket": 3,
+      "heatValue": 38,
+      "start": 60
+    },
+    {
+      "content": "J'ai repensé à des trucs cool.",
+      "end": 63,
+      "heatBucket": 3,
+      "heatValue": 42,
+      "start": 62
+    },
+    {
+      "content": "À un moment, je me suis endormi, mais\nje me suis réveillé quatre minutes après.",
+      "end": 65,
+      "heatBucket": 3,
+      "heatValue": 45,
+      "start": 63
+    },
+    {
+      "content": "— Ah, je tombe.",
+      "end": 66,
+      "heatBucket": 4,
+      "heatValue": 49,
+      "start": 65
+    },
+    {
+      "content": "J'ai fait bouger ma lampe de chevet\nen fermant un œil, puis l'autre, un œil,\npuis l'autre, un œil, puis l'autre.",
+      "end": 70,
+      "heatBucket": 4,
+      "heatValue": 50,
+      "start": 66
+    },
+    {
+      "content": "J'ai pensé à tout ce que\nje ferais si je gagnais au loto.",
+      "end": 71,
+      "heatBucket": 4,
+      "heatValue": 51,
+      "start": 70
+    },
+    {
+      "content": "Claquer toute ma thune à Las Vegas,\nm'éclater avec les filles d'Energy 3000,\ndemander cette fille en mariage,\nboire de l'eau de la lune.",
+      "end": 75,
+      "heatBucket": 5,
+      "heatValue": 56,
+      "start": 72
+    },
+    {
+      "content": "Et tout d'un coup, je me suis endormi.",
+      "end": 78,
+      "heatBucket": 3,
+      "heatValue": 45,
+      "start": 75
+    },
+    {
+      "content": "— Rha putain, ce soir, je me couche tôt.",
+      "end": 82,
+      "heatBucket": 1,
+      "heatValue": 20,
+      "start": 80
+    },
+    {
+      "content": "Bref, j'ai pas dormi de la nuit.",
+      "end": 83,
+      "heatBucket": 1,
+      "heatValue": 19,
+      "start": 82
+    },
+    {
+      "content": "Et là, tu vois, le zèbre, il court. Et *pwaa*\n— Nan mais, ça court vite, un zèbre.",
+      "end": 93,
+      "heatBucket": 2,
+      "heatValue": 21,
+      "start": 85
+    }
+  ],
+  "video": {
+    "commentCount": 557,
+    "id": "vxJ3BL7-IhM",
+    "isAgeRestricted": false,
+    "likeCount": 81978,
+    "viewCount": 4963838
+  }
+}

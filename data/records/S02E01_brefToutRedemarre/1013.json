@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Comment ouvrir une boîte\nde conserve sans ouvre-boîte ?",
+    "end": 1019,
+    "heatBucket": 1,
+    "index": 322,
+    "start": 1013,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1013s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1013.mp4",
+    "hash": "6e61554a44",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+AC01LTE5MC42Li43LygsJRwhHSMuKScwKiQsJSQpIx8nIjc/NyswKBcdGRsYFBkSDgByjH52k4Zph3tyd2OXfFhONCdARkFYeG5WcmhUbmVQa2GOoo1ueGQ4RDtDOy9ALyQAl5l3kZV0bXVeZVhGroRcZDUjTTIna21Rb25QbGhKYGRNe4t6YmxbOUM7SUI0RjQmAJV6R5+CSo94SFhEMpNqSF41JlEyJYJhM4ViMXpWJ2ROLX6Nemx2YjpEO1dPPFlFMwAyNSxZYExnb1WKc1SgdFB0STJkPi06NS06QDRKTDtISTl2gnFvemY/Rzw3OC8uKyQAFhgXOj4yWGVTRVNLkHZWjWZHTjElEhMWBxAWERkdISgnbntqa3ViQEc8GCAgBA0SABIUEy85NCxAPwQTHGhlU6OCXkcrIRIUFgsSFgoSFwUOFSYxMFdgUUBGOhgeHgkPEwAbIB83UE4OICUTHCCQf2KCYkdLPzQYGxwLFRkRGBweHiAaGx0aIiQzOzUmLSwMEhcADhMSFiQkAwgLExoaPjUnKSAZHB4aCAoLCAwODg8QGhEPIRcSCwwNCA4PISQkCQwOuElqyHVlo3EAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1013.png",
+    "width": 1280
+  }
+}

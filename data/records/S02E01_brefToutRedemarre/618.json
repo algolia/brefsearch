@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je me suis dit que je\nn'allais pas le déranger.",
+    "end": 620,
+    "heatBucket": 1,
+    "index": 204,
+    "start": 618,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=618s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/618.mp4",
+    "hash": "eff59851f1",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nB3Nz0uTcRzA8c/39/f7/Njz6H482/PMpz1TcVub4mxO3fBRjAyzssS6RIZKWg6hqEGB0lEYHcNINOpSByHrIDmsS3Tp1t3/oHvnMHgfX/AGk6GERns6SCmGhl1c9/F4BocBDgMy2UNGfdrvsOE0y8dZV4SlDAa+ycqOulsUmzXcukR2b5C9ebK/QHZu8lfXxUa/DCIsDMStvDbiqhFPQdbiQ0nVqLA31+DdbfRpCR3cQx8X8ds7fDOU00nhcNoh6Lgvq66qpOTZIR/VVgZ5exV+PEa/t9Cv56S9QQ/XRLMu59J8wBJ1T05mZNUVVU9CyZELRb49w7+vw+m29ve9f9oyvjbwySP14rKeVbxbF4W4GEyKUkxUXAkXeyMvZ/FJA7em4Hhd/Hmd+NmkRw/IhxV9NDBmstqFlGbpWqeu0iY/HxUQdptXM+joybl2s2urBgeL6PMy/rLKpwtGrc/59iw3VYhauq4EZxgHFoeKqyZ8NlvuvFK2lwfQzhx9OMbuj8laX+LwaXFvLWfr/znntm17JoeYIhFBABAAxDSci2OAs3KesTSRGMpaAJhRwhh1Pc+U/B9rcFCFwxuquAAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/618.png",
+    "width": 1280
+  }
+}

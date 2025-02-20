@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1400,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 127391,
+    "name": "Bref. J'ai dragué cette fille.",
+    "season": 1,
+    "slug": "brefJaiDragueCetteFille",
+    "videoId": "UO8tcf3U0dY",
+    "viewCount": 10798834
+  },
+  "line": {
+    "content": "En y réfléchissant, j'ai compris\ncomment le popcorn sucré était arrivé là.",
+    "end": 57,
+    "heatBucket": 1,
+    "index": 27,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E01_brefJaiDragueCetteFille/054.mp4",
+    "hash": "f95ab3241e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwlwtlOE1EAANBJo5n17neWe21namfaMtPSKdBiwRawkGplKTapJiySIEJLAphUUYnrB/iEL/rob/hzPnhyFAoMG1uD7tq38cH78eWH8fTj2dvPJ5OTjdbr3sbFavpz9HCY3m8k5evjo8loW2FAJ6aGTDWU9tZKb3r49frll6v9N2fD08mjpR+Dxb/TnXdPFqCh7/V7p8NNxUWmJOB/n8HlahLIYhqX+u3V0XyyNx/dPm/vPyhLhl1Gus1UCTjM27jo0VjQapYvltxMRuu0gpvjZ7cHT8/b8a/DtU/9xk4lr+tqKecpOWpFLpnxaDNwOpFs5gUw9MwdtV2d/b7d+v2i8+fV+s3jRt13oamlOUeRxAodHEu2HHqbFX83LXA7AiyqRcmoFp53qlfd+latYEDiu/Z6HCgc6D5DkUuXQtFPcoO5spAlgLjNnUrWnZF8d65Y9x0dIEht6QkFmqrEls9RM++uRGKhcI9xB0BkAKyZJsdQMKxqOsLUQgQgqhBLlwQKAmpZ3vDtwLMpF4hwA2CEEADmXVWllEHCACIWQP8AkN9I8LR/eHQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E01_brefJaiDragueCetteFille/054.png",
+    "width": 1920
+  }
+}

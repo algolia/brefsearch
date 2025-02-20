@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 805,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "isAgeRestricted": false,
+    "likeCount": 79231,
+    "name": "Bref. J'ai eu 30 ans.",
+    "season": 1,
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8",
+    "viewCount": 6367294
+  },
+  "line": {
+    "content": "Mes potes me parlent\nde crédit d'impôt et de retraite.",
+    "end": 27,
+    "heatBucket": 2,
+    "index": 10,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=26s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E46_brefJaiEu30Ans/026.mp4",
+    "hash": "3d5425c0be",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwFwVtv0lAAAOBmWRChV0pv55yeltL2FFouvdAWgZZtiLMEIhtRFx0zGuM0+uBefPBhT8b4r/0+SuH5IUY/N8uH3coAugGwpcEPZbZPhlAQm0+Y2kmdbXDEdojrhN0OFQCt8Jzf+9XD9gIroA/hmWd/XCSPr86/LNPC6QRAk2nO0k3TtHwdUZ8Wyf3z+Z+b6lhOXSuY2N2bPHzpu++zURWQzMSxDlSG5eq8LbS3AaE+l5PjPHk8vPh3uz+Ps2WPVAPvvkyPs7grQ74paiIQmsKlgX8QqzR0aulau9D/vl7cFVNd604cx1eVlWePMG61zA5yF+msdL1vrvUWoxQjypGkAVC3435K/AaDMbLX4eCQx1eznGEhUGwko5mqXUOwQbAaeFSE9Y4KjZYIlY4oE5pVb4v877vdr8NGk02WhbXTxpATziSplKQ304jKe72qLLIopRkgq736U2mM8V2Rfl3PxyRsq0GL10a8EPP8mOW2yZDybScNgtfVZRblHG8wtHJCnTZrNGgjRes7dhQGaaLjEcsSmn3mWv8ByBJJedbfvdsAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E46_brefJaiEu30Ans/026.png",
+    "width": 1920
+  }
+}

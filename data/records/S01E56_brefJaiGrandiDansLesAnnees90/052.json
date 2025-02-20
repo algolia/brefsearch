@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "isAgeRestricted": false,
+    "likeCount": 113908,
+    "name": "Bref. J'ai grandi dans les années 90.",
+    "season": 1,
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8",
+    "viewCount": 8859528
+  },
+  "line": {
+    "content": "— Wow, c'était vraiment une super\nrépét', les copains.",
+    "end": 54,
+    "heatBucket": 1,
+    "index": 18,
+    "start": 52,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=52s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E56_brefJaiGrandiDansLesAnnees90/052.mp4",
+    "hash": "31d4d13248",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwdtummAAAOA/aUxWs61aW0HOQj0wraKAWhEBQQuCghaHVldbazu1W7N0TTPXbNnNLna5qz3Bstfc9wFF7gz6E9PwppOb2+tPl7NNMH7/0Q9+X/q+d65rvZvF3fjtlVFvOflMK38MpJqePiqmDuG5f3H/4Xl9+6Cr7tId/rubXQzONdXuaHZH95SKPK0WrhslwLEccgBxFPoUmNvH78FowReU+fThh+8NdFuWOtJJ29D7PdVYDZz10AauYeRQqEAiv5bWz+dvXSt4k+JkQf3a18cSn8bIZr3F5QSlyJtW4NgjsJp0R9Xs45n2ZztfL++H7hVNlY7T3N8vi89nVhYhTKMrCnIxz1f4hia1wMSx3sncypHnGj/qbwJvI9e8GoVve+KTdxpIoiVJRkNrnjQtVWMzJVAVFJEh21LZrNectqvJZrVsCniSQyCRrTiaW06xRIKCIRKN4ySRASjC4AkizRBoAkNg9GU4EYuxyAGdTJZOzRmTaRyxKgChnZ0X+1EkFkFA5BUUeQ1jKEyhFE3Qu7txhuZwLBUKRfajVDi8lyuYUJyK7sEkwZJY9j8LpWYSTqi++wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/052.png",
+    "width": 1920
+  }
+}

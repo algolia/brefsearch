@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "isAgeRestricted": false,
+    "likeCount": 132781,
+    "name": "Bref. Je m'appelle Eric Dampierre.",
+    "season": 1,
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg",
+    "viewCount": 9414768
+  },
+  "line": {
+    "content": "— Déjà que le presta\nqui outsource nous a sous-taffé.",
+    "end": 70,
+    "heatBucket": 1,
+    "index": 36,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=68s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E55_brefJeMappelleEricDampierre/068.mp4",
+    "hash": "c2edd38406",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gApLzgsMjswN0A3PEQjJCwNDxgOERoeIis/QUhCQ0hAP0U9PEA5NzszMTUsKi0mJCYALzdANDxFPUROOT1HFBcgCw8YCQ0WExchNThAT1FYTE1TSkpQR0ZKQkBEOjg8MjA0ADdBTD1FUEdPWj9FTxgbJBIVHiolLTUvNkRESVpZXlBQVlFSWFBQVUxMUEVESTs6PQAtND5LVF9HUV5BSFMaGSAlHydLPkVLQkpmZ2x6fIBgYWdQUVVWV1xTU1lJSk9ERk0AKScuOUFNO0ZSVmBtVltnNC82TUFIYllhcoCSeIugiZqubnaBXV1gZ2ZqT1BVS1BYACQfJCQsOG18joubroeYrFRUX0MzOE9HTm6AlHeKn4ear5KmvFdkcl5dYGFgZEhNVQAjIChZZnaFlqqImKyLm69ncYJKSlVESldtf5OFmK2ClaqGmK2MoLVXXmk8ODpLT1YAP0VQY3GCYG6AcH+RfIudYm9/Mz1KR1VmfpCmgparbn6ReIich5mtgJOnVFpkSUtRAFhkc0xXZUROXGBtfnSClYCQo0xWZU9cbYKTqG6Bl0RJVkE/R1VfbWFwgWt7jVtmcx4IkmTpFF1tAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E55_brefJeMappelleEricDampierre/068.png",
+    "width": 1920
+  }
+}

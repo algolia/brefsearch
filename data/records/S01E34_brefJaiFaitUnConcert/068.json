@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "Les gens ont applaudi.\nLa fille a applaudit.",
+    "end": 70,
+    "heatBucket": 2,
+    "index": 26,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=68s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/068.mp4",
+    "hash": "da843ae05b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBwUCdoSiUiFQ1SMB91RjGaYEekZ0yWZ1OGYlNyUUeTZz2jdjGQbEl4ZWVkUU1SQDsAg18ukms1TS8fTS8fOCQZa0Evo2hRYkE0f11QmW5dsIJDtYU3pn9XjHh6emZjX01JAJtzN7WJQm1JLIFNNp5kTJZbQrl/Z7+Gb8qRebODa76QRMCOO7GLXpiEhoJua1hHRACTbTWSbjZGMB16SDO2cVScXkO8gWnTk3rNkHy2h1/MnUbIlkC8lmaWg4VNPj0yJSIAHRQPGBEOJBgSXjonfUw2XjkocEs7n25brXpquIxS1KZJy5pBxqBwf25yQTMzSTw7ABQOCxoTDjkmGz8oG3RKNnNBMoNGP5BiVH1cUKeCROOyT9OiRb6ba1RGSlNDRGZXWAAWDwwXEQ5bOSk+Jxs8KB12STWNW0ubcGE+MCo2KyKDZjnLnETJo3NmTk5PPj5TR0sACwgHDgsJakU0dko3HBUPLyMcTzoxNCYgFhENMiclJh0hRzYim4Bls5qTlH95fmxrABINCQ4LCUkwJXFJOB8VDyogGDMoIycZEh8WESoiHjAmISghICAaGnhcOJx1QXxbNPnEkijfBEkyAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/068.png",
+    "width": 1920
+  }
+}

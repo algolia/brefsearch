@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 566,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "isAgeRestricted": false,
+    "likeCount": 85617,
+    "name": "Bref. J'ai envoyé un texto.",
+    "season": 1,
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk",
+    "viewCount": 7559587
+  },
+  "line": {
+    "content": "J'ai mis Demain soir,\nmais je voulais l'avoir ce soir\nparce que j'étais mort de fin.",
+    "end": 14,
+    "heatBucket": 4,
+    "index": 4,
+    "start": 11,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=11s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E77_brefJaiEnvoyeUnTexto/011.mp4",
+    "hash": "954fdef34f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYpJREFUeJw9yrFu2lAUgGE/H4O7NK67caVECogNFBcH5ESw+AVoGFhsFiR3SUsxAwMIRUSQDEhmcFWsUlG7GWy4vr4HgfCpBFK/8dcvvL/4IIrvbm8rqqpKkpQkST6fr9fr2WxWlmVCiKJ8urlRZPmj+8N7msyEb93ebPbiOE6/33ccBxELhYJhGKvVajqdDofDxWJh27bneYwlf/w3Yb8/AECapoh4OBy2220YhgCAiOPx2Pf94/GIiL1eL5fLWdYX4fHx63Xu2jTNNE11Xa9Wq4PBQFXVRqPRarU0TSuVSkEQjEajcrlcLBYFSZIIIZVKBQA0Tbu6usxkMoZhKIpCCBFF0TRNRGSM1Wq19XotdLvfFUWx7X6app1OR1XVdrt9d3//+eHBsixd1+fzOSL6vt9sNimlAudAKd2dcM7jOEbEOI53u93+BAD4CQCEYST8XP6Kog2L2f/KGAOA5OQcOedJkkRh5Hm/hcnzi+suff9vFG0opSxm5/WMMUYpjaJNELy57nLy/PoPhD1JqPcM+4MAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E77_brefJaiEnvoyeUnTexto/011.png",
+    "width": 1920
+  }
+}

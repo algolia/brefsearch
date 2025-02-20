@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 557,
+    "durationHuman": "1:42",
+    "durationInSeconds": 102,
+    "index": 30,
+    "isAgeRestricted": false,
+    "likeCount": 81978,
+    "name": "Bref. J'ai pas réussi à dormir.",
+    "season": 1,
+    "slug": "brefJaiPasReussiADormir",
+    "videoId": "vxJ3BL7-IhM",
+    "viewCount": 4963838
+  },
+  "line": {
+    "content": "Je me suis recouché, je me suis pas\nendormi, je me suis fait chier.",
+    "end": 37,
+    "heatBucket": 2,
+    "index": 15,
+    "start": 36,
+    "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=36s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E30_brefJaiPasReussiADormir/036.mp4",
+    "hash": "d533b0b939",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXtJREFUeJxNkMtu00AARf1TiG13SMCuKyS+APErCDZQVd2UDWpaIIu2iZO0tCqJA43H8/aMPeN52Ynt9CdQ2g3S2V5dnROdnpzGoziZJwQzBNHl+cVkHF9Np5fnF7PJNB6N49F4+P3n4GRweHD46cPH6Hp2nQEoRVkZXxYKQ5gzTiDCEBGEUZZRjAlC93/+3vy6Gf4YRukKSFEqbSsTpCwgAGCVpverLAWlLHSpSiFLWRRCMkIXv+cRo1wpoytXGW+MzVKQrdIsBRQRCADFtF1v+rbrNu26aSqlI86F0lZXTleuqdfBeW9dcL4JtbfWGdu33bbrnzbO2Ij+96CU5pTljAuec8ooxoUQFBMMEScUArBMkicH9ejgtarwoy6njCBEEBI8JwhzlgshKaaLebKrBNJdJaVtU68f+u2263f0Ox76rTcGJbfgbvLt6/HRl8/R2eAsHk+WiyVGVCsdnK9DaELdhDp4327au6vZ+7ev3r15+Xrv2f6L5/8AMxRb5uZEC9QAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E30_brefJaiPasReussiADormir/036.png",
+    "width": 1920
+  }
+}

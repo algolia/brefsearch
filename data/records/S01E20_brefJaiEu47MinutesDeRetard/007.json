@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "— Oh, merde.\nJ'ai voulu l'appeler pour la prévenir.",
+    "end": 9,
+    "heatBucket": 5,
+    "index": 3,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/007.mp4",
+    "hash": "5190aef479",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCSgYKaiYyajJSelpyvpKqim6WXnLuXmriVnrmao7mclKacj52VjJiLgYp/dX6QhI8AknpxlYWFfWdtfmVvnYOMhnaNYWKOZWWPW2eNX3CUSoa+RnStTWmiaG2Hc2hrjoONAJaIjZCIkGI3OlQUF0wZHE4ZHFYZGlsYGFwTEV4YGWyUtm2YwFR7tFxjeGBXWoV7gwCglqNiXmtVLjI7BAA2BwQ2BgM/BwVPCAhUBwlJDwihiVmvpaZ3eIVsY2mVe3eog30Ao4+QrpudakVENAYCOREOORENQhQPRhcRSxgTTR4Vh2VNlXVksYp5zKac16qdvIyAAKB6ZLONdah7YZhkSZxpTp1qTZ9rTqBrTZ9pSqVwU7uSfMmjlOG5r+O5rc+kmbiKfwCCXkeMZ06Ua0+Zbk6bcE+abk2XbEugdFa+lnvMp47SqJfjua3ft6rUqp3GmIyvgHYATDUoXEM3Ykg7Zk0/bFBBfmFPnH1oy66X4cuy3cSpwZd+wpSF0KWaw5aLtIV7oHFoAHNoboR4f4t8f5GEh6CTlL2rpdK9sNa/q8qtkr2bf6uCaZ9yY61/dap9c59xaJFlW5+6zSQpdeuXAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/007.png",
+    "width": 1920
+  }
+}

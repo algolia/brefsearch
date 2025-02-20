@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Moi, je viens de quitter mon taf.",
+    "end": 737,
+    "heatBucket": 1,
+    "index": 243,
+    "start": 736,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=736s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/736.mp4",
+    "hash": "5b52d636b0",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABm0lEQVR4nAXByW7TQAAA0EniZcbLjLfxjJfEYzuO7UbBbUyCSwNJpVBC1dKqKkKgcmgFB6SCQJzgBCf4Av6A/+Q9EJoSlAZKr2chmRkDovYDC8aOFjto5KKhiwxNUaGsQknqD6A0AKe1wQksh/6EGU9q9vxoOk/dNqOPJ/Tv2/riIPCZTSnxXMNUZG6o4NWjKEiipydrh+jLtvr07U4M/cDHVeJ938RXe3RVxftjOmLYQ0piQfD6KMnTgLtmF+FdZqecTCIndrSSWy8y57pwLrmzFCwPSKDBmuqgK/2u5AcP6WaIb7bhs11RjfjFoTj07OPU+3I+XTJvR8iMY9+EY6qDWaTvJ6LMRJO6RUG6dhzTsCv8ltE32/r35802Dy9N3DBCLA0bEJSBMebRem/x/ny+W4iUhetpVlio9ey7s+bPx9VL3zo1cUoxhBLoy0AwU1bgJE5v75cffjU/35X/bh78OMm/rpL7hbjNgzMLC2xyzw59V0UIWLoqSxLoAZpoeUNmwqg8LXPQPDAzTY11mLiGhhQI1XQYm0j9D3FyOKTWXJnUAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/736.png",
+    "width": 1280
+  }
+}

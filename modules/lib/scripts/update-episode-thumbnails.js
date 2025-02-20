@@ -10,8 +10,8 @@ const episodes = await glob('*.json', {
  * Read through all the episode metadata, and their lines. For each line,
  * extract a thumbnail from the video at that exact timestamp
  **/
-const progress = spinner(episodes.length);
-const concurrency = 1;
+const progress = spinner();
+const concurrency = 4;
 await pMap(
   episodes,
   async (episodePath) => {
@@ -19,11 +19,12 @@ await pMap(
     const basename = path.basename(episodePath, '.json');
     const videoPath = absolute(`<gitRoot>/tmp/mp4/${basename}.mp4`);
     const lines = episode.lines;
+    const lineCount = lines.length;
     progress.tick(`Thumbnails: ${episode.episode.name}`);
 
     await pMap(
       lines,
-      async (line) => {
+      async (line, lineIndex) => {
         const timestamp = line.start;
         const paddedIndex = _.padStart(timestamp, 3, '0');
         const thumbnailPath = absolute(
@@ -33,6 +34,10 @@ await pMap(
           return;
         }
         await mkdirp(path.dirname(thumbnailPath));
+
+        progress.tick(
+          `Thumbnails: ${episode.episode.name} [${lineIndex}/${lineCount}]`,
+        );
 
         // Extract thumbnail
         const extractCommand = [
@@ -47,8 +52,8 @@ await pMap(
         await run(extractCommand, { shell: true });
 
         // Compress thumbnail
-        const compressCommand = ['imgmin', `"${thumbnailPath}"`].join(' ');
-        await run(compressCommand, { shell: true });
+        // const compressCommand = ['imgmin', `"${thumbnailPath}"`].join(' ');
+        // await run(compressCommand, { shell: true });
       },
       { concurrency },
     );

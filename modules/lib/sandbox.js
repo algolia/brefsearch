@@ -13,18 +13,9 @@ import {
 import { _, pMap } from 'golgoth';
 import { convertVtt } from './convertVtt.js';
 
-const list = await glob('*.json', {
-  cwd: absolute('<gitRoot>/data/episodes/'),
+const list = await glob('**/*.json', {
+  cwd: absolute('<gitRoot>/data/records/'),
 });
-
-const restrictedList = [
-  'br82-adJ0FU',
-  '9zk0TrOU_cI',
-  'KtLp-gLL0Aw',
-  'mEu0q3Slzj0',
-  'BJoEGR47rk0',
-  'vrbqkwd6Zi8',
-];
 
 const concurrency = 1;
 await pMap(
@@ -32,12 +23,9 @@ await pMap(
   async (filepath) => {
     const item = await readJson(filepath);
     const basename = path.basename(filepath, '.json');
-    const isAgeRestricted = _.includes(restrictedList, item.video.id);
+    const season = basename[2];
 
-    item.video.isAgeRestricted = isAgeRestricted;
-    if (isAgeRestricted) {
-      console.info(item.episode);
-    }
+    delete item.thumbnail.gifUrl;
 
     await writeJson(item, filepath);
   },

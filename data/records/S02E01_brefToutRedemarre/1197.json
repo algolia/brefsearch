@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Dans le nord de la France.",
+    "end": 1198,
+    "heatBucket": 1,
+    "index": 377,
+    "start": 1197,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1197s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1197.mp4",
+    "hash": "0c77e66818",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnUlEQVR4nB3NW2+TUAAA4EO5Hw5QKDfBtoPDxdHGQUuB9ebsxc5bUWPtolHTNFlmZhZndD57eTD+aqMv3+sHRpHhWTIDRYKFAuQ5KDQsk2BFABUAFUK9VW9oDVngoMhyUNc1kGPdVERFUQDS815cFInU9rvH5fOnkw8PO7DlwyA13KjtuQdus8h6AACKIOgGgnxdqx4Uu9en+TD78+3N793kY2mUgTk+KZKku5vhqvDKqA1IBgoszGzZMO3xIR6UqYmjH1/ffjmbJgq96Fj7db5ZZLN+WMR4HjiA4xEPRd/Qht4dAwnhIGU6+ZNlcbEKj5z6JDQulng7T1ZlfDxIVKsFagwkGYiQ/ChM17PJ1bvl5f7FeZVPsfRs3r/c3jvLjKpnPR514wizogoIimM4ASEJSWpyGO5f3f9+vb05Xy+S9vX71ctRMPXEYWgW8UEaNBEPAaB48l/CkzQPAJ10w1+ftz8/bW6q/tVmPMby6V1nPcv9lo09FyIJgBoFauR/KUBQNM0WR36ZBE0V+U3drrOuKeGW7Riac7vJQ/QXeIdB8XYKfs0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1197.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 569,
+    "durationHuman": "2:23",
+    "durationInSeconds": 143,
+    "index": 61,
+    "isAgeRestricted": false,
+    "likeCount": 120051,
+    "name": "Bref. J'étais dans la merde.",
+    "season": 1,
+    "slug": "brefJetaisDansLaMerde",
+    "videoId": "I4-bhdkKSfU",
+    "viewCount": 9827505
+  },
+  "line": {
+    "content": "J'ai dit:\n— Aline ? C'est ma sœur.",
+    "end": 84,
+    "heatBucket": 2,
+    "index": 34,
+    "start": 82,
+    "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=82s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E61_brefJetaisDansLaMerde/082.mp4",
+    "hash": "ece3dfaee2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwFwf1zkmAAAGD+j7rzdrtYbabug2nNbQryoa/HR7wKgsgLCO8IVFwyA2S13ep29UtXV39vz0NAUYrQDFumN9FlAchA8pEX2q6v6aYKbzEObGSOdIkfXFKt5vEZoYrK+gZnyeJLXohDhetyAYQrTbUACB3v759/cCgyV7TAcOxV57pNEyqc3iXrIokf86JItz5y1RNKqzX4ayYP5r+fn8fQ6NFCt8OdU+1avUVYJtoskySMym32VH4F/ODisMa9Omo227Eq3TnWrx8/fRc79lwW4cX7DqGI6hga6SZPN1my+NRuXdKnTaHaOG+cLaD8GHrfkihwsYv8uYMVCRI8C3gW3PhR/rncZaXQ4+n6SXePPK7Wy8DNbeNWU+6zIo4SU58JLCCk4QfQl6YGyrblLrvX1Mkh+ZbcP+IZHkMFSwOLZ9J16jnYNh0RyMSwL3G9gT6aREGYxKvxxKuQFFl9F/jx/t7rN2TN1Kynh++74iHb7uIoIUYyHPYlTdWdmRPjSDfnpy22QdHxx1WlcvDi5YFlomW49JA/myJ9ZPwHoZOTpRxsUu0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E61_brefJetaisDansLaMerde/082.png",
+    "width": 1920
+  }
+}

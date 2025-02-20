@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 716,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "isAgeRestricted": false,
+    "likeCount": 87826,
+    "name": "Bref. J'ai perdu mes cheveux.",
+    "season": 1,
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk",
+    "viewCount": 7385243
+  },
+  "line": {
+    "content": "Des mots qui servent à rien,\nmais qui rapportent beaucoup d'argent\nà des mecs avec des blouses.",
+    "end": 56,
+    "heatBucket": 1,
+    "index": 19,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=53s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E67_brefJaiPerduMesCheveux/053.mp4",
+    "hash": "da306915b9",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwt0OFu0kAAAOA+mL+2xE3NlswZhghsxkQmEo2lrC0gDbIqTolGpyFuBGPQYpQNd8sYJW1twh3QXmF3TdcSps9ilvgEX/IxAIBer6dpGsdtlZ5tF55KXDrTVBTPnZidU2uMRxMMh8gwfquqCgBgNE2zLOvkpMOynChk47H11ZXVe/fZUuWXuBQbKkf0CDkqsscYQqjrBgMhdF139/1u6FZofv7q7XCU3xIikYzAN3JLG2at8bn89rjxw/PPMcYIDRjbtl3XrdXq0Ug8wwnydlkqFKRiPcE1uVCq027H7twslsSLiz9nZxPbthmMMaXU98/7fXjQOnwuv/xUrR60+uGHyubiRntv/9ry8oNkcjabEUIwxpcCIcTzvCAIFKWZz0lZQcznP2zyLXZd6Da/fdn/evi97Qc+IeRSQAg5jkMppYSGw9Erc3ML1xdurDxaS/58Uz2dBn4w/RsEU0KI4ziDwYDRdR1ChDEeO+Od8ovK3utXH3dkQa6/U1heTj0pJ5I52xpi7PxfOgZAVVXdMKzRKC9Ji6G1eCKR5nJFuZLiubuP01kxa+iaaZrdbhcA8A8OwhA9EBia4gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E67_brefJaiPerduMesCheveux/053.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 699,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 32,
+    "isAgeRestricted": false,
+    "likeCount": 94559,
+    "name": "Bref. Je sais pas dire non.",
+    "season": 1,
+    "slug": "brefJeSaisPasDireNon",
+    "videoId": "OmEx0mpHFG4",
+    "viewCount": 7987391
+  },
+  "line": {
+    "content": "On m'en a reproposé.\nJ'ai dit oui.",
+    "end": 64,
+    "heatBucket": 1,
+    "index": 31,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=63s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E32_brefJeSaisPasDireNon/063.mp4",
+    "hash": "6644c9020d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAiEAocEAsVCgc9KyWRfXSSgXecd2mOXU1tTEFxWU93XVN+Y1iFZ1uBYlZ6W1BxVEkAJBQOJxgSGw0IW0Q7mod9fGher4h5k2BQakQ5cVlPe2BVg2dciWxgh2xfg2dadlpQACIUETAgGSMRDG9VTJF+c5J4a6d9boteT3FGOnRXTXZcUn5iWINpXndRSHBPRnxiVwAWDQsvHxgtHRdgS0KcjIesmJOziXqRX1BfOC54YlyCbmdzWlB4Y1eHTEhXLSh9ZlwAEgkIIxQPMiAZiXl2vbO1oJSUpIqDcUg7TDEpbFpXjn15emhiUEA3cExFSSkicVlPAAsHCA0EAygcGLGmqaqcm5KBfaSSjnhaU2dQS3hmY5WFgZiLiF1JQj0yITcpGVM7MgAFBgcMBgRtWlWWhoOcj5CfkZCKenptYF1lTVSLdnmckI6plJCJbGFKQiU9NBNdSkAABAUFGhANc0g8dlRKnpGSjXh5aVFUIyEcOy0vjXt+cWRgonVoflpLPTYbNiwJVkE1AAcGByQXEW5MP62Dc4VtZ0QuK0kwK2haVWRZVndlY2ZGPYVbUGZJOmRQO1Q8J045LsAolE4/Yf9gAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E32_brefJeSaisPasDireNon/063.png",
+    "width": 1920
+  }
+}

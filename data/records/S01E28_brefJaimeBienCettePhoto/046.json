@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 495,
+    "durationHuman": "1:35",
+    "durationInSeconds": 95,
+    "index": 28,
+    "isAgeRestricted": false,
+    "likeCount": 89012,
+    "name": "Bref. J'aime bien cette photo.",
+    "season": 1,
+    "slug": "brefJaimeBienCettePhoto",
+    "videoId": "00r3RKxAExo",
+    "viewCount": 7007993
+  },
+  "line": {
+    "content": "Malheureusement, la fille au bout de cette\ncigarette, c'est Maud, la copine de\nmon frère, et au bout de ce canapé, c'est\nmon frère, donc il y avait pas moyen.",
+    "end": 52,
+    "heatBucket": 3,
+    "index": 17,
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=46s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E28_brefJaimeBienCettePhoto/046.mp4",
+    "hash": "ada0dd0f90",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAZCgYYCgcjDgSyi2z96dT/5syHYEMUBQAVCQYWCAUTBgMbDAcqFgsxGQwwGQwyGg0AFgkGEwYEPSIW6riM57yUwpl0qHZOKBQKEwcEFQgFEwYEFQgEGwwHHg4IHg0HHw8HACINAxYGAF5BLe/Gn31PN3k/I4BSNCASChUIBBUIBRcKBiISCisXDCcVCxkLBg4EAQCGYUp9PybBjG/EpolkJw+xUi1BFwsPBgEnFg0nFgwfEAgZCwYVCAMZCwUpFw5CKBoA/N6+6ryZ0Zx8kWZLXTUdgE40pox4XD8qHgoAHg0DLRkOQigZXz0ocEkxbkYvYj4pAMybcrJ/Wsqfe4FaQSIKACoeGr+nle2/m5d6ZYFmVXhQOHJHL1YyHzgcERoKBQ0DAACWak+telmZa02KcmLBoYu5mYSefmmHaFR2UjxGKxwnFQsdDAMmEwgvGg0xGg4vGg8A3Lyf6cmr5sGeoHpha0w5QigYJA8FHwwGoG9NpnlXkWJAn2tGqXBIdkgtjl4+yIxgAINWLKh8Sr2NXU8qFCELAT8fETUcERgKBntTOWlMO35LLLFzSsKAVjwiFVg3JatxTjq7es5Jgk0QAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E28_brefJaimeBienCettePhoto/046.png",
+    "width": 1920
+  }
+}

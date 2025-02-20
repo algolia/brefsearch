@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1000,
+    "durationHuman": "2:13",
+    "durationInSeconds": 133,
+    "index": 76,
+    "isAgeRestricted": false,
+    "likeCount": 133758,
+    "name": "Bref. Je suis en mode survie.",
+    "season": 1,
+    "slug": "brefJeSuisEnModeSurvie",
+    "videoId": "ZQHDDjV-KgQ",
+    "viewCount": 11710298
+  },
+  "line": {
+    "content": "À bientôt.\nÇa, j'espère.",
+    "end": 130,
+    "heatBucket": 1,
+    "index": 47,
+    "start": 128,
+    "url": "https://www.youtube.com/watch?v=ZQHDDjV-KgQ&t=128s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E76_brefJeSuisEnModeSurvie/128.mp4",
+    "hash": "636111d9c7",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwdtu0gAAAND+kc4Yo2a+aMjcFmG4lCAbRYHCVmjXdr3CyrVcSi9A72AzFCEDnBFDBk00vpgl+uovmJj4F54DMGUtkczCmXyeEAiuibMijLAILiB4ieTqpyjNsCW+UCYJEslmYAgCqtYNUhp3h0vFWryb+4o1zYCg3lLc90u1rR0Fnr5OIaruVKoix7K54xjAq58oZWNMb/maeUbVIlH4JLgrMBfacGaYHnawgyTjVcmpNzRRbBRjEYBqXqGVmTO73d0/vH/34b2tJxRZwGjRHl9LvWEJfVNAIvEU1mooitZtJRMAVfNOmX5FNEJgJvQyBYKpH7//DSZfpY7bVu25Z5zHAwdRSJJ1y/EMmgFqbSOHMXxRFNXROSd3uuPNzz9id44mckSeunQHcHj72c6eUG0rii7LJsAKzZNguBjdb0g9KM2PJhv/11+2bGM4b41WHyeLSPjwRRBk6CL4PBDafgyIsk0THB7bK6Bwo8iqmlfXv6Bk/dUxnM5dWO7VdLa0nEvbeXuWTUMP7gBK32XyMBbcqhw9Gtbz9mhhetey+UHuDdT+YLpYrf312vf9b98/r26MjvofXyPWG+tXNi8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E76_brefJeSuisEnModeSurvie/128.png",
+    "width": 1920
+  }
+}

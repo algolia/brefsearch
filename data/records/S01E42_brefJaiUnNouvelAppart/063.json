@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 514,
+    "durationHuman": "2:01",
+    "durationInSeconds": 121,
+    "index": 42,
+    "isAgeRestricted": false,
+    "likeCount": 91912,
+    "name": "Bref. J'ai un nouvel appart.",
+    "season": 1,
+    "slug": "brefJaiUnNouvelAppart",
+    "videoId": "c-51sCEAiCg",
+    "viewCount": 7721508
+  },
+  "line": {
+    "content": "Tu as l'air bizarre.\nJ'ai dit :",
+    "end": 64,
+    "heatBucket": 1,
+    "index": 23,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=c-51sCEAiCg&t=63s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E42_brefJaiUnNouvelAppart/063.mp4",
+    "hash": "7ef06a1969",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwdy1lP2gAAAOC+LlvclIDhKEfbOeJRVme5pKVAC/Sgt60UyqGlHLJBAIVNZe6ISzRZluzBJ//rkn3vH/DOvx0PbKdhMBPzn2YPVk1+bAiuJri60K4x9IeETOV0mjwpZhyV60hlAI0EjmJBh9gjEJBLH6379qJlLLr2rNMUUwntEE7uQHWWbrH5SUMdmSKARYPsAXzD43wCptDdL2fG8sz6Nh1fWGZ1P7bk8OIe1FXEDk9Nm8q8pQMpKNRnkrdStk2gZTS+sLXL7un9cuFoIg56Lyg0B4GWwPYkeqCzn+oS0GPwh3Pp+qQ0k7N6cndsSiuncX81F9MYuPEiH/EzsRASCoo5/KNZ66sV4MFV/wzNKZe8Mgtq9n1f4W4G7R+zSSkOIZ6NjM+jvY0GNzdRODaxZFetAo8j5fdImdfIX3WiXcA6PHM3dj4P3QwSDr9+yXg9BhyN+nxwIDTQeUdhgb+r0vP36s9R5c5mmvnDRpn6H3rnskBimLSDKHAY9Hr9W16bp22BBtaD48d58em2/LSWhsqxxZDXg65VY+sk/rVrXFpyr4DtR8CtV28EImVWqH8PJn0GgaScGQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E42_brefJaiUnNouvelAppart/063.png",
+    "width": 1920
+  }
+}

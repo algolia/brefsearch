@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Pas de problème, c'est\npas facile de choisir.",
+    "end": 1446,
+    "heatBucket": 5,
+    "index": 468,
+    "start": 1444,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1444s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1444.mp4",
+    "hash": "43886e4e47",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuklEQVR4nGPg4eDg4WBnY+HQlGCzVmXlYufk4ORkZmbTkWbJ8ebM9WSzVWMR4GTn52QTZGczlWNmUBYUUhIUkhMU0hIX0pHiF+PjN9dWSve3nZEi8f+oyv/dggszOMS5+RUF+bSF+U2l+Bg0hfgNxYW0xYRF2HlN5STirTVyfYynlwT4GSmZynK4qHEpCfFJ8vDL8vGpC/Hpi/Iy6IsJGAvzqHFzORtqFnkZ1AUadiQ61Ce4OGjJC7DxinMLyPAJyAvwy/PzqQnyawnzM8jxCXhZ6NeVJm3aPHXB7Lpsf5OKQKNcV0NzGTF5fn5lQQFFAX4FkAYQkuPnY4jysly7rn/H0ZVbDizZcmhZU31mRbpfqpuZsQi/vKCggoCAAliDAj8YCfAzTOjMm796ytJNs9btmLflwJL1uxet27Noy7YZPuY6Utw8CoJCCoICcmAbZHl5FAX4GWbMalq1Y+GaHQs37V+6/8zGQxe27D+78ey9/aUF8VJsHGqiompCQiCHCQroyspoiggzOLlY+gZ7eQW6ewW4BUX6hUT7h0T5RSWFWpgb8DKzCHFxCnFy8LOzC3BxqsrLi/HyAABDS2Yu+C7M1wAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1444.png",
+    "width": 1280
+  }
+}

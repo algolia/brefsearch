@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 347,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 72,
+    "isAgeRestricted": false,
+    "likeCount": 69621,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 2)",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie2",
+    "videoId": "m7Y624w6MFU",
+    "viewCount": 5660756
+  },
+  "line": {
+    "content": "J'ai eu envie de pleurer.\nJe suis partie.",
+    "end": 67,
+    "heatBucket": 1,
+    "index": 27,
+    "start": 65,
+    "url": "https://www.youtube.com/watch?v=m7Y624w6MFU&t=65s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/065.mp4",
+    "hash": "32b0087fc6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwVys1r01AAAPCAVLp2eXnJS16Sl9d8LE2XdG3aNK5Nu6Rtyuw62ZTFCYplzMPmRARxqCBeRHADPQl+okK9uIswT8JuguDBf0r8nX+MhhwVGdPx1t1s92E2DZ3a0G9nydqkHsauP6oGsxfvTl59eXn70ePxpV1TYTqNHU2pUR4vyrShlwNibLaivfTizWglrTYDvfz1+MPZ59OPh8+frF/eQoDpEJKYCw9u3e9W6hZEyjzs2N5ef3g1CKftaGi7p29Pfn87+/7s9XZ/DeTyTAuTdc/f37h+7ULcN6ymrHqadZCu3huN7sTJwLBnR+///vjz8/jNtDtoaTrTpgsaovT83EArdaluQ+QTY7sZ7oTLE9drEOPo4PDXp9nT6f4VTc9MkykTmwBRLHKRbg9slwpqSaJ1zeyZ9nLJWqnU4sXqjXR16MYODRLFYkJBciTVgpKCqFNyVF6WWMTmWVBgdQHHXkPhJG6Oi0QhU9UlM2DGPOxJeAlrDqaExyonEk4S5/ncuTwocj3Xl4FIoAhZPuXhBGOmWgQ9wBkQ4f9PkAFSOFFk+XyuAAqgaVYkViAQwSIsszDh+H+1e1Z/uWQBOQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E72_brefJaiFaitUneSoireeDeguiseePartie2/065.png",
+    "width": 1920
+  }
+}

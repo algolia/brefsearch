@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Un jour, Billy a trouvé un billet de 20 €.",
+    "end": 1948,
+    "heatBucket": 1,
+    "index": 651,
+    "start": 1940,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1940s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1940.mp4",
+    "hash": "08017824cc",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nBXLzWvTUAAA8GibJi95Sd5LlyYvyV7btPmsXbJs7da4bmOzC3MTL9PMKYha5vwADxPEwQ7zoIIXGaLoDoLgHzC8eBQEL178fzwog9/1x0yIZR2yZyRWlyt1zDoq62lcaHApBYM2zHy0GmvrPXIp1fsuZlLCJ6YYENi1pYQqM3V5msqLHt6Ita058ji3X+60jvemPj/tf3zSO9oJmYRwXSK4hhRZcseSY6r4pjxtSRddPO9WlwN0PVUejsjhVvPgKr3Rn2Big09MEJlnIbTkjq10qOLWYE3kM08d+vhyKOUu2F+rfXsx/+lBxMya/KwNAiK1Dckhcosg30K9Jsqj6pVUX/DVIkVFDE/GzX9/xn9/bjMZ5ZcaoE/FtiFRHTaI7NnqXEv9+ih6c8tdcJV7Gb478t+Pg19vh9+PUmbY4FccMGwATQIIAqpJ3qSaUFx05YNN++ZA39+wn98enDxbfbd34fCaw2R1YaUleJpQFQWRB1gEnoXXAhxpogn53WVyvDt1+ir/8aH4/eXO6et1RoPlGixjwNYRhwB7/lxJESqTiMOgwpdKkSnkM9Zm5hSj8P72YjGK/gNWmU+Z+sZiSQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1940.png",
+    "width": 1280
+  }
+}

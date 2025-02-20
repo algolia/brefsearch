@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 586,
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "isAgeRestricted": false,
+    "likeCount": 94368,
+    "name": "Bref. Je suis en couple.",
+    "season": 1,
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg",
+    "viewCount": 7464792
+  },
+  "line": {
+    "content": "— Non, ça me dit pas trop. Désolé, les gars.",
+    "end": 71,
+    "heatBucket": 4,
+    "index": 31,
+    "start": 68,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=68s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E52_brefJeSuisEnCouple/068.mp4",
+    "hash": "01bab976ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwVy+tT0gAAAPB96KDRHmAZatFIExiDIQOUMeY2nMM59jJA8ZWoMCUe6xINp5wV2EXd1XX1/3b+vv8AJZ9TWGZrTdjekHbk4oGm7It0JvxGzqZNgWuUZNvU2oZ6Lheb0trxOg9oHLtV4PcU+chQj03dqlWrsqgxmb+dekukVVGafB6Pndth/+qya/csCzB5tiYVTozSWdk4favXTW2TWa5vFH61jg7oZF3iJ4NPE+d61O/f9rofm6fA9qasiVJVL+/qRmtv1+m0VZ4v5Vb+dBu1FHH/rvz7yv42GIwvH8JFswFIUiXP6zSjiMV9tbQzvHDKipmK4DeH1fXF4Lla/Of0h3bv7oN93X7/ELBgPLHERfEslRDSS9nFefz1q9Aj0LccI+lYnAhFRq0TiiDT8SQVJcgwDmSIRAxPBQIhDIvMvpj3+wNYYCGf5YaDu1rlkIiQ37sWR8Z8UzMI5EUgFGDCCy+fz7g9qNuDeJCn036MiFJfbr7+GP/sWr10MjfqnFV4bm4WewKhMOwFUNgHehAXCLlAGPU+g5ApYbXICwZFra5k2GAwXKDZuUAIQqcfg7DLDf0HdNR00rca3VAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E52_brefJeSuisEnCouple/068.png",
+    "width": 1920
+  }
+}

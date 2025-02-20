@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 325,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 39,
+    "isAgeRestricted": false,
+    "likeCount": 90460,
+    "name": "Bref. J'ai déménagé.",
+    "season": 1,
+    "slug": "brefJaiDemenage",
+    "videoId": "YFLtnewtqAE",
+    "viewCount": 7948865
+  },
+  "line": {
+    "content": "— Hey, mais c'est mon caleçon, ça.",
+    "end": 100,
+    "heatBucket": 1,
+    "index": 40,
+    "start": 98,
+    "url": "https://www.youtube.com/watch?v=YFLtnewtqAE&t=98s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E39_brefJaiDemenage/098.mp4",
+    "hash": "568524c22b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCNCCeyL0/Lwr/Sz8rRy8TNxr69s6mypZqtnpGrnY+voZSsnpJFPDtsYl2LfndvYlwAngkquy9P3NLO4N/a2tjT0s3GwLass6ecr6GUq5yPrp+Tq52SdWhhin12kIJ5PzIvAK4GKco7WuPg3NjVzq2Uibqnnb2zqLChlKOUiKKViambkKydkqibkJmKgWhbVR4XFwCBM0y6Kk2ggnZ+cmdoaG1yXVNyVURbRz1eQDF1WFCPeXGej4WekId0Zl8zKCYcFRUAj3J1pG5sdk48ZUo5cWRfZFNPPC4tFBMZLiEhUDIuUi8kaVZLmo+HbmFbLCEfFQ8OAJVpXr6RgG1MO1o8KW5IMmRHNzcrJzssJyQfIE8/NlZCN1xJQXVkW2ZYUlNFQTEqKgBvTEWne3FeQS9UNyVXOShvTjllRjRNNitHMy1nU019amRfS0VIODROQT1aTUlbUU4AWj03jWZfVjksTjMiWTwqUzgpNSIbLBwYNCEcTz03VUVBSkA9SUJARDs5PTEvOS8sAEcvKHFPSmE/MkoqGU4vIEMoHDQdEikaFDYqJz83NEA5NkI7OEE5Nj02NDcxMC8qKW6FpYE7+7ivAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E39_brefJaiDemenage/098.png",
+    "width": 1920
+  }
+}

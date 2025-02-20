@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 617,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 54,
+    "isAgeRestricted": false,
+    "likeCount": 110917,
+    "name": "Bref. J'ai aucune mémoire.",
+    "season": 1,
+    "slug": "brefJaiAucuneMemoire",
+    "videoId": "elOH0CasAPw",
+    "viewCount": 7767366
+  },
+  "line": {
+    "content": "Je me souviens que le truc qui ne servait\nà rien comme: Mais où est donc Ornicar ?",
+    "end": 64,
+    "heatBucket": 3,
+    "index": 25,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=62s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E54_brefJaiAucuneMemoire/062.mp4",
+    "hash": "5f9a891b95",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwW1Pm0AAAGAW3bQvTktZoQWvVw44uIMDDgqUttBi+qaY6tRu0yxZZvZp37Zlf2F/e88jaMrQQc4kSuMgwZYXyIODS1cIXZsm6UrgrKO1L9TWRb95LjfOPpy0hWKc2CbBJo2ClJIw1MADNpcQGufdqWE8Jlx61xo03iun7e7bpnjcFL7vdxvPZghzxn0vsmT1c1GuwlA8af3clP++PoBOD4oyFGXQVUa9gbAfu7cO2PtG7QIHDDWpXybl1fqT7c6frjavd4/bql4kUx8R3yIM20Ks9Waj/pMPamYVHpsEMU+2Cj/Qm1949wet/17mP5Lx0kW2qekONARbEmMICuJcp2kVhHm2ePnyLcpvQfysLX/D/HVR3N3sDtM4hwogI1PILHvNeRnwKkootEI/+3j/PJlts2ieRdWMz16K7H5TJ4SFlsOwI+QsSAmLaXCpDI+PWsjwy2WdTVY68iQZp4T5yKLQ4MicU4rUocApY45PCW80OkdvmgC6cVJhHGrqSB0Ytk6HsubploN9qluugf8D8PpNJE65CxkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E54_brefJaiAucuneMemoire/062.png",
+    "width": 1920
+  }
+}

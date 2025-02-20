@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 359,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "isAgeRestricted": false,
+    "likeCount": 82145,
+    "name": "Bref. Je suis allé au supermarché.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4",
+    "viewCount": 6898714
+  },
+  "line": {
+    "content": "En arrivant, j'ai vu qu'ils faisaient\ndes promotions sur les pains à hamburger.",
+    "end": 8,
+    "heatBucket": 4,
+    "index": 3,
+    "start": 5,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=5s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E21_brefJeSuisAlleAuSupermarche/005.mp4",
+    "hash": "71f3c6e316",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBgXGpbVmN2dYl8e42Afo+CgJCFg5OFhJOFhZdrZF5iXFZ3dodzZmhzanN0dItbTmAAVVFdY19qaGVzUkxTXFdfamZxc3F+eHaCioqbbmheaGJaf32Ma1I8dGFWf36UTT1ZAGhodmtodWhodS4fHTwvLTkyNFtUWm1obn18jGFaTmZjXIB9im5RNHxqX4aGmk9BWQCEiJpycoB+fo6ZhYOslpCDdXVuaG5wbG+BgZFZUU9SQUN8eYeBcGWHfH2Hhph+eooAh4yecXSDhnd+xLGr08vJs5mVdW91d3V9e3mGb2x4cmt1enaCgoOThoaVhoORgoCRAIuTpHBzg4F1fKyRi8i4s6CFgGZaWmlmbG9sdGxocXd0fXh0fXx5hYKAjYJ/jn14iQCHjqFoantvX2Sig3u+raeXe3V7Z1V3ZlNwYVdqXFVrWk5uYVhybW5uYGRpVmBwa3oAbG6BQD9LW0xNe290jZCdhoOOnpSMlI6Li4aOf3l+cWVjb2JccF9UWkY/PS0yPzhBAComMhQSGk5BRF1SXW1tf4N+i66wvLrD07nBz7C3xp2gsYeHl3x2hEY6Ph4REB8REJLDwevtrssEAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E21_brefJeSuisAlleAuSupermarche/005.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 359,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 21,
+    "isAgeRestricted": false,
+    "likeCount": 82145,
+    "name": "Bref. Je suis allé au supermarché.",
+    "season": 1,
+    "slug": "brefJeSuisAlleAuSupermarche",
+    "videoId": "onb8vNaHYB4",
+    "viewCount": 6898714
+  },
+  "line": {
+    "content": "J'ai aussi pris du Energy\n3000 pour aucune raison.",
+    "end": 27,
+    "heatBucket": 4,
+    "index": 15,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=onb8vNaHYB4&t=25s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E21_brefJeSuisAlleAuSupermarche/025.mp4",
+    "hash": "998ec8087d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAqIkUZEjkQCy4cFTQeIDxzUVOnhnqwpJ6pmI96TEOjjpm2tsu2sr6yrrqQhYWSh4QAIyJEKB1GIBpBIBlBHiBAUExfwbaxvby4y8TKlVtQg1FKs6y7xcTWwL3JqKGko5udACEjQDcvTyYdRhsYPiYkRjAaNFsnMZKwhcHGxrySgrBkR6eCccHDxc3J1cXD0b67yQAkITs1MUwpHEcdGj8jHUQiGzZkDiONUE2rjoe4oJy8kXCvmnKwrpHS0ODNzeCtrs0AKhQrJSdDIxhBHBg8Fxw9ExQxUAQXgQYcfR8yXlhniWZhnoZ5vLi1sKuwtLG6xMPfADcOIx4mPyIcRBIXPQoRNAwPL2A3PmwmMGAfLWNZaX5vcJB5Sbqvp6ipm3N7NrCtuABBCRs3Izc6GTk6Gzc9PVuLcHLGnoyeeHOflZGaloyqpqOtn2jBuLCwuZhhZSBxam0AYgwbfBUmgREiexgqWldqhWlnjGdflnx2r6aegX5hr6uqvbSbuq+dmZSFe21Mhn+PAGENIGQPIloJGksJGBMJHwAAICknMqKekrCrrKabi6eUkKimra+ppZCIjI5+VUk8eMYYtfo4wrx7AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E21_brefJeSuisAlleAuSupermarche/025.png",
+    "width": 1920
+  }
+}

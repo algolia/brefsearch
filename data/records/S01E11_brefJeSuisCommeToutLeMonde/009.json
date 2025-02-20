@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 560,
+    "durationHuman": "1:31",
+    "durationInSeconds": 91,
+    "index": 11,
+    "isAgeRestricted": false,
+    "likeCount": 108927,
+    "name": "Bref. Je suis comme tout le monde.",
+    "season": 1,
+    "slug": "brefJeSuisCommeToutLeMonde",
+    "videoId": "tkMoSaUMsiM",
+    "viewCount": 8286572
+  },
+  "line": {
+    "content": "J'ai déjà envoyé un second mail intitulé:\n\"Avec la pièce jointe, c'est mieux.\"\nJ'ai déjà démonté une pince à linge.",
+    "end": 14,
+    "heatBucket": 5,
+    "index": 3,
+    "start": 9,
+    "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=9s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E11_brefJeSuisCommeToutLeMonde/009.mp4",
+    "hash": "ce43487c29",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwd1P00AAAPAmuI3R9fvuete7tVvbjUK7ygpDJuvYBmEsfjBhJEwmA7KJ4INg4mdUEg2JMcFEH0zUBx5898V/0N+P09Mpn2aq09IsnkKppDwxYUmCz1Ds0idrS683m1+PD67fv/v9/ORuJVTEDLc+D7oxbC8AR02DZLIAZN/QAkOtuiwuZA9qYTea3a4tXQx65717d6KbXLeOV8sooIKeTqHJVNnUi1i7bZP75UKjSK8eDx/Gi+PO2p+LNx+P9k5Wm9x6pC46EhMmlcQNIvBUUQhgsZffrcwMluf+fvpw/ers14vzf18uv58eHu2OuHlbKzE+q8gUWlmc0xUIACmZxmZoby34l8P+t/Gjn8+Of5wOzvr79eYDzgZCYOI8zWFUlAWiShoEmomNuMDmGNyp3fo8Hl6N+i97G63Wjud1OFflpwlwHI8SS5GAKisCL6syiXJkxaLbYWm00Xq7t9UMvTCsO84yR6YSOaTZed9kLtYxgkDkNUkieQRihx42ak+7nf12o+Q4brHCDMplEgmGdZPlgUJ1CBECkqhKIpQyog3llaDQjoLqjAs1xLK2ga3/CdBSVGWJS1IAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E11_brefJeSuisCommeToutLeMonde/009.png",
+    "width": 1920
+  }
+}

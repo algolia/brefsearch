@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Pareil pour moi, tranquille.",
+    "end": 685,
+    "heatBucket": 1,
+    "index": 221,
+    "start": 682,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=682s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/682.mp4",
+    "hash": "f27450f4bd",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABi0lEQVR4nB3L227TMAAAUKvtmqZxEydOEztxfCFxEjeXthldN5gm1qmaxKZJu0gI8cIL/wEI8QNIfALfiUA6rwesVcBDh/rzXvoZDQqGA4x87FGKU0lEkaSKJjyOEoyw57gQfD6WH4/t7V4fh/RyV7wZdK7Z9+f2z5fTw1l+djPsr4fdVb/d1cVKJSoFb1v6dGjPVxlG8Gqfd51qC/rjvvr1WB2qqNzo7nXVbAvTKVVmiUrAqV4+X682FfMW9m4tTf/q7kL/fDDfbvOXc6m73KwL06u6EVL/D5cmylkUBl5NFv2KmXXR1uKujp9MuG8z3eZ1q8pGaMOFzmJOwFbHYOqMZnAjUKl5wAvKRU8QR47lYiJVUUtdZUxRn4RLFoFSRifOAiF3UDgg7MRPkox9OjSNolOfwCjDCWOKEoJdx/ZJCDgNHNfLYmRENHbDMcQhE7+/fni5vwAwmvnxHJMgTWC4lJL7JAaObU2mU9exPDgHkxmYWC5C79+1khMwskbT2diaT+x/hJQ2hH8BKsI4cffS+88AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/682.png",
+    "width": 1280
+  }
+}

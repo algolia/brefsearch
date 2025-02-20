@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 566,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 77,
+    "isAgeRestricted": false,
+    "likeCount": 85617,
+    "name": "Bref. J'ai envoyé un texto.",
+    "season": 1,
+    "slug": "brefJaiEnvoyeUnTexto",
+    "videoId": "94NzqAY2Yhk",
+    "viewCount": 7559587
+  },
+  "line": {
+    "content": "Kheiron m'a envoyé un texto.",
+    "end": 26,
+    "heatBucket": 4,
+    "index": 9,
+    "start": 25,
+    "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=25s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E77_brefJaiEnvoyeUnTexto/025.mp4",
+    "hash": "51e90716a4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWNJREFUeJxNkdlqwkAUQOf/f6B9qAXFhZI0xlRtS0lr26gxZsYlVaQgWYzJZGaSmbg9Fw1I4TxcuBv3HmD2dDgcrBZL3w3CEMcxjTHDF2LMopiGW+y5we9yNRmZZk8HDrKjCGd8z9Jc5EcuDmfyYxHnuxMXB5GfME5913eQDTw3+PwaGIa5XvuD4XhsT9H0xx4jy4Kz+dIwzMnEMfqjhGSEcs8NQLjFmta9vbmT5ZYkq4qiVSt1qaN3X99bartUKsuyao4gZYIyEWMKCOWa1lVbnVrt4VFpSVKzUq7e1+TOi648ao2GpDSfuDiwNKdMJCQDhGTPz2+a1i2Xa5VKvam2IXJ6H9+WhYz+yLKQ87MilBcbMGbA9zY2nEE0/zbM6WwRY5bvTmJ3Epe7RX7M+L6oJpT73gbMob0N4/TyoiKXkOwKobwYj5PUdwMHQmD2dHTx4Ln+2QNm/xtwkkZREnibq4c/OzNquDgTtYYAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E77_brefJaiEnvoyeUnTexto/025.png",
+    "width": 1920
+  }
+}

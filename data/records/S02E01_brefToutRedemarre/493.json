@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Je dis: Non, pas de café\naprès 16h00, après, je ne dors plus.",
+    "end": 495,
+    "heatBucket": 5,
+    "index": 148,
+    "start": 493,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=493s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/493.mp4",
+    "hash": "d38484850b",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsElEQVR4nB3EvXPSUAAA8Jf3leQ9SFNCQsILcCnNhbQBow0g0qNiuesHFr1rlaW9o4MW2uDH1bp4p56Dg4urLC6unouLo6v/jquLp7/hByQJQYgQQkCCvq0f3Ch5edUzeU1oq3a25miRyI43y++n3beT5lY1CzCVEZGJojDOd+LK18vto0QM6nY/tB41nVd7weO+9yXd+PNz+vv7yfSOCTChCqWBpa1Y+vNhtJh2D1vlfmTXxdL8pvNuf+3lvfVPafvHh/u/FuP5OAIA4DDHz2JnGBZej9a+vdi+GkY7cfEkKaatwpOudzmszXYrH0/jz087FwcN4OczIz/3rC0eNJx5f3UxaQ5CK/HN3opxHBnjyDlMSncb+dlt92HLGcUFkHaKV5ticr3YdJePYpEOgnrZcE1d59zV+TU3l2FMVZmd04wst3UOJi3vIrHPu95g3W0HwheGqXFFVonMqcJlWQWQAqQAiQJA/j3f2zjvhW92g1nPP9tPtuIqxhQTmVBGZA4JQ4RJWJGIsrScVxkHjYoVla1bVbNeyPiW3glLCqUSxBDh/xOICJAwRFS4JcbUvxMSSOSYIxAzAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/493.png",
+    "width": 1280
+  }
+}

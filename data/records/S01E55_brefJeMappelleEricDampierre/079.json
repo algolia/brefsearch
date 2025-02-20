@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 55,
+    "isAgeRestricted": false,
+    "likeCount": 132781,
+    "name": "Bref. Je m'appelle Eric Dampierre.",
+    "season": 1,
+    "slug": "brefJeMappelleEricDampierre",
+    "videoId": "tkOuQiO-Vzg",
+    "viewCount": 9414768
+  },
+  "line": {
+    "content": "— Non.\n— Allez...\n— Non, je suis pas dans le délire, là.",
+    "end": 82,
+    "heatBucket": 3,
+    "index": 41,
+    "start": 79,
+    "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=79s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E55_brefJeMappelleEricDampierre/079.mp4",
+    "hash": "ce4ef7448f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXpJREFUeJwdkU1vmzAAQG0M2GAw/gKMCThNmoSwtIx0mtal6TY1Ug+r2lwqtdJ2mnbqof//NmXv/g5PD2zdtJWaACSDyASkjakO4wzhIowcZTWXoYcCACEAHgABgOC4239b95OEN0zd9Be3Hy5HO1lJ7VK+6/rbfhN7BHs4QgFFAQIeOH75ehjGOhH7zce319/DfN0w1UntmFjkVcNzS3kWJBEiCtMI+uDv49P1ohvd/M/x+enmR2ddyXRJ+VTka1PnifzUtIOpfIBjSAgMwPvLy/24/XX/82F/2J0vhtJYXsxlvpJ6Y5uK6ZlQV8YQj+CTgMHn+fL75fbu6vqsbDsz6aQuqGgyNePKyaJKhMRpX5ixsgzFIfDBhW3OZKEi3ijbSOMyVVNhE+Ey7TKlI1ak6m61PMymKQxP0W0mJY6pFwrCNBV5nBnK61SeCzVJeEG5ZflQVsuUeeA/qecLiDj0MUAh9LlPiiitEm4oy0kicWqoWLCMnjachH9O/ihuOlaaIQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E55_brefJeMappelleEricDampierre/079.png",
+    "width": 1920
+  }
+}

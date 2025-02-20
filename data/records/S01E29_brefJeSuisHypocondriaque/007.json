@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 392,
+    "durationHuman": "1:36",
+    "durationInSeconds": 96,
+    "index": 29,
+    "isAgeRestricted": false,
+    "likeCount": 67863,
+    "name": "Bref. Je suis hypocondriaque.",
+    "season": 1,
+    "slug": "brefJeSuisHypocondriaque",
+    "videoId": "_AH6uf2dTLg",
+    "viewCount": 4199001
+  },
+  "line": {
+    "content": "J'ai dit:\n— Non. Je fais juste attention.",
+    "end": 10,
+    "heatBucket": 3,
+    "index": 2,
+    "start": 7,
+    "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=7s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E29_brefJeSuisHypocondriaque/007.mp4",
+    "hash": "0b842b094a",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAeFBMSCgpqXFmpnJevoJmHd3B8bmi/r6bJt6zLua3DtKu6sKuzqaaqoqCgmZmRi4sAIBQTFAsLdmdiuKmhiHlyTjgyXj0zp5OK2ci718S2z7+0yLq0vLGsu7Kvt7GwrKanADgrKS0jIo17dMGuo39uaFtAOYlaS56Fe3xzcnVraYuBf4B6e3ZydIB6fJuXmZuXmwBnXFx5a2mBcm6JeHKRe3J7XFFrRTuliXw9NTgUDhUyLjQxMzlMTFM6OT09PEFCQkgADQgKFA8RFQ8SGRIVKCAhemJaSy4mW0tGLSUnIRoeLCgrKSoxMC82JCEjKycpKikvACMcHSIcHhcSFBcSFBsWGJiLi6mTjy8qKw4JChQQERQQEhkXHB4cIi0mJj40NCEiKQAmHh8kHB4bFhgVEBIVDxFMSExraW05MzUTDQ4tIyJFOTVGOTVCNjRGOzo2Li5QQUAAJBscGxQXGRMVFA8RGxYZIR8kDwwOFxQVHBcZQDQxemdhkX55k4B6pZSLopKLe2JZABkTFRgSFRcRExQPECQfIyAeIRIQEBQSExUTFBIQEiEcHjozNGVYV4l5dX5uajwuLClPhmxjGd3gAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E29_brefJeSuisHypocondriaque/007.png",
+    "width": 1920
+  }
+}

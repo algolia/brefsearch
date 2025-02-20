@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 637,
+    "durationHuman": "1:37",
+    "durationInSeconds": 97,
+    "index": 5,
+    "isAgeRestricted": false,
+    "likeCount": 100059,
+    "name": "Bref. J'ai fait un repas de famille.",
+    "season": 1,
+    "slug": "brefJaiFaitUnRepasDeFamille",
+    "videoId": "yC7LPgNlD9M",
+    "viewCount": 8221984
+  },
+  "line": {
+    "content": "Mon oncle a dit:\n— Eh ben mon *gros mots*\n— Tu te fais pas *gros mots*\n— Excusez-le.",
+    "end": 66,
+    "heatBucket": 4,
+    "index": 27,
+    "start": 63,
+    "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=63s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E05_brefJaiFaitUnRepasDeFamille/063.mp4",
+    "hash": "62dc49cc89",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAaDw0uGhRMMSeHbmKZfnCbgHGeg3OghHSpinl/ZlopHx0rHx1yWk2xk3qpjXKmiW4AJBUSQiYcWj0xln1wn4J1nYFznoNzpYh3mHxtWDgsRisiIRcXLyEdn4NsvJ+Ctpl9ACcXFE8vI3NSRJh/cpyAcpt/cZuAcKeJeX5jVmQ7K3ZFMk8vIikZFXthUMWniLyfgQAqGhZPLiJ8W0ychHiYfXCZfW+af26hhHSKbV5tQzNzRjZ2RjM1HxiBaFfCpIi+oYQANiEbRSkegWRYn4V7lXtulXptl3tso4d0i2taWjQne0o4d0YxYT4vsZJ3w6SEvaCDADkjG0UsIY50aZqBd5J5a5V6bJt9bpF4cF9MTFIxJVYzJl45KTgqMWNWapB5e7ucgQAyHBZgSD6je2mlgG+Uem6Uem1ZTmYxMGIRFjcxIiNMLB9PLicsKlgjJl4rK2V1ZXoAXUY+ckw+mGVNtYRsn3tpZ1lnJihgLy9kFBg6EBAgQyIaPyYmISJGKSpdPThaXU9jAG5WTUkmGoxbRqh5ZIhsYjMxWCQmViwsXhkbPQQNJCkeJntgVWlZWyIkUzszSmFOTJeimvWqBb0XAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E05_brefJaiFaitUnRepasDeFamille/063.png",
+    "width": 1920
+  }
+}

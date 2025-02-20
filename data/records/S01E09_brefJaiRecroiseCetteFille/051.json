@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 477,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 9,
+    "isAgeRestricted": false,
+    "likeCount": 90777,
+    "name": "Bref. J'ai recroisé cette fille.",
+    "season": 1,
+    "slug": "brefJaiRecroiseCetteFille",
+    "videoId": "r7LVaWeM_bg",
+    "viewCount": 9033652
+  },
+  "line": {
+    "content": "Partir en vacances avec elle.\nEmménager avec elle.",
+    "end": 53,
+    "heatBucket": 5,
+    "index": 20,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=r7LVaWeM_bg&t=51s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E09_brefJaiRecroiseCetteFille/051.mp4",
+    "hash": "2a207be8f4",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAbMQgqRw4hPAojQAxLayJWfSFxlSV3nCBihxlhiylXdwZZfRtLbRNLbBRAWggtRQcARWUPVXsRSnMRVYEVapMdcJYcfZwXeJYSbI4Ta5MeW3oGaY4capYxWHsSTW4LOlcOAENfC1Z8EleEEl2LE2mTEoGjEW2PEWGCDGiPIFR4EU5pB111CGOBDFBuEC5LCSRAAABQbRBSdhBUfxRciBpkgx5yjCp0lClrkRlVggZPeAdSbwhohBRXfApcghNaeStefGMAUW8SZo4vX3wsUlUrhX5nuaqfr6iSx8Gitr+TgaJOW4wbVoUXYY0+kLOVlLeshKGyAEtjHmKCNDg8FiwpHpB4YsGikIt4aJN9bqiPjLSgkr3BoqC0gnSXfmeMi1ByakNSUgBERCNaUTdEPSkZIQ9LPiVqWT5MRStXRydOOidjTTbIrJjdyMe1pZtUXEYkQSotRjcAMjUVR0UkV1AyQEEhUVIpbHE5T1YZXGQhUlMjTFAZa2knoYhlwaOPrZJ9WllDKTskABcqByI1CCw8DTVGDUphFlFnFz9cCjZYCj1aETFQCCpCB1lXKlxOL1JPK1FRLkpNLSZqkARUrziLAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E09_brefJaiRecroiseCetteFille/051.png",
+    "width": 1920
+  }
+}

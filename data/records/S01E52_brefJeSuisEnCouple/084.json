@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 586,
+    "durationHuman": "1:43",
+    "durationInSeconds": 103,
+    "index": 52,
+    "isAgeRestricted": false,
+    "likeCount": 94368,
+    "name": "Bref. Je suis en couple.",
+    "season": 1,
+    "slug": "brefJeSuisEnCouple",
+    "videoId": "1m-zfWkcgrg",
+    "viewCount": 7464792
+  },
+  "line": {
+    "content": "— T'es libre. Je t'embrasse.",
+    "end": 89,
+    "heatBucket": 1,
+    "index": 38,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=1m-zfWkcgrg&t=84s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E52_brefJeSuisEnCouple/084.mp4",
+    "hash": "4ca1bee078",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwetumlAAAGB+LE0xpWq1l9nSItQLBJupAy845Fg5wuGAFQQvNI11uuHUtslis6Z/+gh7ib3nvo/YuO0lVsJufahKuFHVpUqtkBevmMIlo9Y169bOJ5LX+2SN5jRBUosVYjsEvwbaArdnhjrRVV9TImz8wObRYVKtg8Aew0q1JfB6STSqck9SiLULojtt6YC5BUJDe4DabhysHCzQdA+gYT8MHG/i2COMfOwMzD7xFPSeAmNhdx5M8BPDkdoM1NajCadqcwZAqMMJ1EcI+RbykTXomcTHNvr392OCIFKUTd9osazXrIddgMul3U32/ebqvcz9/lpYN8vTXteFXeLeNv9Es0fXnmFzocideFw5p5scN8hn30rMq0Bvc5noMr3OZcYtSS4WiLIgfOF5T6ut+uacyawu0u1EEqVTzwX6pUhvubMlc+adppzsRYNjE7FDgqdpJn3SKYm7sftmtFfs5yh3PtXhxtJePLiVxGf2VDo5bvPFTPwotk8RB+QBuRdzGvLr6M751hApyrtmrc7td9S9d+BMleeZlC/k6fTx3ieSIqn//KZqONjDrQkAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E52_brefJeSuisEnCouple/084.png",
+    "width": 1920
+  }
+}

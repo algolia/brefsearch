@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 305,
+    "durationHuman": "1:59",
+    "durationInSeconds": 119,
+    "index": 19,
+    "isAgeRestricted": false,
+    "likeCount": 76028,
+    "name": "Bref. Mon pote s'est fait larguer.",
+    "season": 1,
+    "slug": "brefMonPoteSestFaitLarguer",
+    "videoId": "J9EL_bGpdP4",
+    "viewCount": 6265057
+  },
+  "line": {
+    "content": "— Je penses à elle, tu sais.",
+    "end": 41,
+    "heatBucket": 3,
+    "index": 23,
+    "start": 39,
+    "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=39s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E19_brefMonPoteSestFaitLarguer/039.mp4",
+    "hash": "7038ceb067",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUxJREFUeJwtkctO40AURL2g+9Z1P+1uE8exY4eEiaVEGIiVh4KQZhgJ+P8fGjnMUemsqlaVgCRoQt7QWnnnwEwkFYMBIYkZRsMoWM1JtAiGcOuLO7FZra6Xc+5dymhnYdvMvHO5N8M6vvyavW6rxGn2zkJpAqI3D23ddV0RI5OYR7/vqu2ybBbzGLwCmZST1AUVShVKH4sid+uuqRdV1za55WU9L0K2KPzLsP/78d61DRMl7O5TX6T5ZJgshPD40C1mRV2Vw7CPMQDo+8fPz9/H8XkakA4wOemMVEbKg1XK5J07nw67XW+0EYKennbfXx+n4yuABNpDOeLJ0I6Vl0JUVXk+jX2/aZf1fVG8XU/fX38Oh4EZCSlL0AQlYZBa6AzKWWuqah5iyEO+3qzersfLZRzHZ6N1IiXd8gNJIsJ0jPiPBGCM1lpZY5j5H5PcIkmahYe9AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E19_brefMonPoteSestFaitLarguer/039.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1900,
+    "durationHuman": "2:16",
+    "durationInSeconds": 136,
+    "index": 56,
+    "isAgeRestricted": false,
+    "likeCount": 113908,
+    "name": "Bref. J'ai grandi dans les années 90.",
+    "season": 1,
+    "slug": "brefJaiGrandiDansLesAnnees90",
+    "videoId": "HO2SLJQShJ8",
+    "viewCount": 8859528
+  },
+  "line": {
+    "content": "J'ai connu le monde sans Wikipédia.",
+    "end": 81,
+    "heatBucket": 3,
+    "index": 25,
+    "start": 80,
+    "url": "https://www.youtube.com/watch?v=HO2SLJQShJ8&t=80s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E56_brefJaiGrandiDansLesAnnees90/080.mp4",
+    "hash": "f1d684a570",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwe1TmnAAAGDu2k5ERQP5qRWIqIhcqChCvAiGW5qvI0U9tTKtXOVy7ZrW3T7t9mW3f3rPA3Xtyupp828z6ZQSH/a8AS/qhwMkABRB2JLw6FQu68qsaY7rmmPL57oIDc6s7W73a9ZRmVjIh+77Q0EkkIoAIX5k5DM3PWv+pXbdNqd1zamWm3oBGimsSxGGB8kEUDubUBJHjUK2X5Ev9PI8l+yVhaqhjZr2tFXt2vq5pUAuBRx4zwzjlt9fT5F1nn5o2X8fr8cnpUme/yZxb7fj7fPt+/e73fNyfTOCLvZ9fYGvHfMyjBRBWKUP5rY+UqUcHrpsnr4sxz+Ww9fV5GXh/t4+vT5cQRbDnImiETuQPLBLRVxVnJ2Ibpo2OHrcrS2GnU/K8aRpNkrJ7dfpn/c1dMpxVoLRYHgBgjuaGJLRHoYO9KJW4HMJspiOy9lkpyo31Pzb5n59NYB0ltXCuENgP1OxFhESPnr0KGhX5ZYpqQInpmklS7NRTCCjq1l/0v0M8QSWxoJpxCshvnYINQEu4hgJAHN4yMYpjiKzVIyJhMkgWswka4r4H7n5XpXQobcuAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/080.png",
+    "width": 1920
+  }
+}

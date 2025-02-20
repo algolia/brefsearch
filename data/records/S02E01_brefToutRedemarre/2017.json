@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Et là où je pense que j'étais amoureux,\nen fait, j'étais complètement accro\nau mal à Compagnax.",
+    "end": 2024,
+    "heatBucket": 1,
+    "index": 675,
+    "start": 2017,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=2017s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/2017.mp4",
+    "hash": "b5fcf880aa",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nBXCzW/SUAAA8BfDpNi+ln5Ayyh977WvLRTQQSkrHw0QoHyMKXUTsizR6GK8zMMuetF42XEmnkxMjDFGT/4FevTqwZt37/4Rxl9+AGlZpEm4IGFNMlSxpIqlfFaTeYZlUxmW4yEUhP+zPBR4FkKwDO07/fKq4yz37WVoTwM68a2WhwjRLw4bJ4OqWtzVCdZNw6C4gBA4COlBh87b1iIwZy08aeLRHq7ZeryH3xzdGjhamskgXUNYF/O5NAvB1CdJ377bp+sujX0c+yS6iRrl0qaJXsblswCHJUlTFc/FnCilrjNgN8smXbqJ6LpjLfet2DenTdOvGENLPe+RZyPnqF5UZBGjYjansBwEMpuJWziJnO3Qvd2l88CcNEjgGVVD7dPCeWR+vJi/vXxccQmUJI7nAQDXaljZjivHAyfp0VVoxT5pukVC0ZNN9Op+/9un539/f3l39ZQTBI6HQLjB0LywHboPZtXTcflk5D6KvUWb3FsEHy5PP78++/H1xa/vV39+vt+uR5IogpLMp3dSugLrZs5DsmfIbSdXx1LNLs6j6jpuJDN/swofbseDns+kM/8AMNxTnTRSL38AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/2017.png",
+    "width": 1280
+  }
+}

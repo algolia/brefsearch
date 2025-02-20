@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 526,
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "isAgeRestricted": false,
+    "likeCount": 81033,
+    "name": "Bref. C'était sa chanson préférée.",
+    "season": 1,
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI",
+    "viewCount": 6245023
+  },
+  "line": {
+    "content": "Des coquillettes avec beaucoup\nde gruyère et des macarons de la boutique\nqui étaient toujours fermée\nquand on y allait.",
+    "end": 65,
+    "heatBucket": 1,
+    "index": 22,
+    "start": 62,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=62s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E58_brefCetaitSaChansonPreferee/062.mp4",
+    "hash": "25a4c0746f",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYpJREFUeJwFwVlz0kAAAOC0EHLuEbK72c25OTiMGGJkgNKW0knpZcfSA550rM70xfEP+O/9PuUjJ0uf1AwTVzDiExqWnhc6rmmTaT4oE9nrgc3s4mxxWc/Om/mFsmTgNsHbnAciCYX0g2LBeekyG4n3h6vD+iRh4b+vz38e9+3N09nmXhEYp4QkhDIvFlxSnjaEVoSZiDd58TqfjiK5nFa3m+3jy9vV3V5BkALEByLacbDNwtGgrAgdQWwALvNyHES6hgyaOCKdztvN9llxHeZiNpPpL6r+beTlyaJvOb7jyXTsBjnA/rz+UpeVgbwon3wqZwoEbt9y1pk8CPRDoiqXRx04yYpv56tQFm+H1/fDy+lkQkQCsQc6mgJsbOlgXcgH0b9hcBDHtk3b1er37vr7013b1EMHH6uw24N61zK6pmIZQFNNycMxwkOIsrgI/ezn7n7fnoZ+Wsjh50CoKjg6NoAOgAEVTTXUjg50O8Zu4hDBAgQItJyeapmAhukH5meERYYO1Y6ua9Z/egg4yKc/CkIAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E58_brefCetaitSaChansonPreferee/062.png",
+    "width": 1920
+  }
+}

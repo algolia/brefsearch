@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Un jour, il y a un mec\nqui arrive et qui nous dit.",
+    "end": 1333,
+    "heatBucket": 5,
+    "index": 426,
+    "start": 1332,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1332s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1332.mp4",
+    "hash": "1eb8ddc358",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfUlEQVR4nAXB25LSMAAA0LiU5p60SZqmLbTZ0gK2W5blIrjAODiyoz46O+P44pNP+wP+n1/mOQBBjCCCiMCQPOXo1oatCZ2AWYSFpDwRaqrj0kgroSSQYxCJmHPjEvd5NXs7F//+urczP1bRh9rU7/P+1u1ft5tfx8WlzR9LUafAcAqJLpS5zu2uqn6si5cuHgr5aZ6ttv7wc/P40n/5c3Fea8Wk5mAaE0LVfaK9tQ+T8lRPdj7ppnqo8naZPb+u+2Hy9dsyZVDHLBACOA4xjRUXbWYOjb921W6WHuq0dbpcZOffz6Yt9idvBX4XIhwLoCIeYBUzMU/l/r44L8v1zM1slFFivW0+zovGCSuDEIIxCggGjNMAS4zYwrLbUF1X/tTnSxctOMlLU/TFZuVTJccIgSAECAFEyBgxDGmp6OHB3/bN96fppa+2Xd23+XHtT9vZ4NNUiarIEhOBu9HobhTAYMwJslpaLSVBgjKIGScoi4iLWKao4bjxpaTkP1RZLruqZWKqAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1332.png",
+    "width": 1280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 393,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "isAgeRestricted": false,
+    "likeCount": 84499,
+    "name": "Bref. J'ai monté un meuble.",
+    "season": 1,
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c",
+    "viewCount": 6829749
+  },
+  "line": {
+    "content": "Je me suis rendu compte que\nj'avais confondu la planche B\navec la planche H, qui est pareil,\nmais avec deux autres trous sur le côté.",
+    "end": 32,
+    "heatBucket": 1,
+    "index": 14,
+    "start": 28,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=28s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E35_brefJaiMonteUnMeuble/028.mp4",
+    "hash": "b0e4c7ff17",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBkWFZ2ammMf3+2q6vZ0tTIvb+5rK2ypKStnp6ll5eXiYejlpajmZh/cXB8cG57cG8AdGhmj4KBoJSTwri64t3e1MzOyr/Bx72/u66wr6Chq52cuK6turKxmo2MkYOCmIyLAIJ0cqWYmJODfqqalMS8vY5+eKeYltfP0amYmquam7+0tbWrq7KoqK2hoKyenrSpqQCHenifk5GjlZLDtbTGvLuRfHWhko/d1trWz9DQw8XHvL23ra2roaGPhISkmZm8srIAemhld3Rqfn5yy7zAz8fGsaOhpZWTloJ+0sbFwKunp5OPwrm5u7CvR0A8JyMgTUVDAFVCOWZUS2dZUod7eJyRj19bW4tgU2Q2KIR8fquSiYVtZKCXmJyQjzkyLSchHjcvKwBhT0d0Y1tWSkNYTkpmVlJEOjZxSjxnXFsxPEVyXVmFYFBeSzljW1c1LSpDNjNQREEAPC8qOi8rSD04QDYyOSceZks+VktHLy8vKywtPzMta0IsZkItnpOOem1iPTArJh0eAA8JBRsXFS4qKC8hGUs1KnVNNGxMODgsJiAaFyEaF0Q0LGtIN3xhVKOVj4B3dBENCzgPzW9yyNJBAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E35_brefJaiMonteUnMeuble/028.png",
+    "width": 1920
+  }
+}

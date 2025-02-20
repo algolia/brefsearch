@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 761,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 23,
+    "isAgeRestricted": false,
+    "likeCount": 138299,
+    "name": "Bref. Mon coloc' a fait l'amour.",
+    "season": 1,
+    "slug": "brefMonColocAFaitLamour",
+    "videoId": "2u0BYLUyyBI",
+    "viewCount": 11899469
+  },
+  "line": {
+    "content": "Je lui ai demandé comment\nc'était avec Anna.",
+    "end": 30,
+    "heatBucket": 2,
+    "index": 14,
+    "start": 29,
+    "url": "https://www.youtube.com/watch?v=2u0BYLUyyBI&t=29s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E23_brefMonColocAFaitLamour/029.mp4",
+    "hash": "08cf94ada2",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDKv7/Qw8Lb0dDg1tbr4OHj2NiaioV6bGTIvLn06Ofm19TezsfdysTu49/o4d7IuroAy8HA18rJ39TU4NfX7uTkdGtkFg0AFQ4BYVFH9Obk6dzY5NPN5NPM8efj6ODeyby8AM3BwNjLydrPztrPzt3S0TYyKg4MADAlGVlGOuLRzerc2eTTzOjWz/Pp5eXd2su+vgDNwcDVyMXRxsTNwcDDtLFBNiwuIRVsSD2JaV3m1tPl1tLi0Mrn1c7y6OTg2NbLv70AyLy8zb68x7q3sqiqjX19jGNWgFpOSCwgk3tz6dza3s7L4M7H5NLL9Orm4trXx7q6ALmtrLusqbirqq2kqpqWn5WCgXxgV4p9eMS3tODSz9rJxdzKxOHPyPPq5N3T0L+ysgCkmJiomJSkm56fmKGzq7OYk5t4cHLWycnUxcPUxcLWxcDXxb7izsa/rJ6ShoC5rKwAjYB/jYB9jIaNjIePmJKbwbnAm5OXpZWRzL67zL67zry30L632Ma/t5WDoIN1r6SlAHxwbXdtbHx4gH56gnh0fZuVnMa9woVpYaSJgbeno72qpcGtp8u4sciijaJ9a6GYmU9BJFrjHxiRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E23_brefMonColocAFaitLamour/029.png",
+    "width": 1920
+  }
+}

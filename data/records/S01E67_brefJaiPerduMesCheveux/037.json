@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 716,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "isAgeRestricted": false,
+    "likeCount": 87826,
+    "name": "Bref. J'ai perdu mes cheveux.",
+    "season": 1,
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk",
+    "viewCount": 7385243
+  },
+  "line": {
+    "content": "J'avais l'impression\nde dire: J'ai perdu Babit.",
+    "end": 40,
+    "heatBucket": 4,
+    "index": 14,
+    "start": 37,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=37s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E67_brefJaiPerduMesCheveux/037.mp4",
+    "hash": "23443678d1",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwVy1lvmgAAAGBeGlap4E2Vwwtt0SIKAuU+pBON4NHaWmxEYprVLVlCmmVL1qTZy/7I/ujS9+8DeE4PpsFDePQ3P9ePLxNnslju7qNXVXRGqurfx6bmOte6I/CWJE11HRCNRb8jB5sfh/d/s/Hy10PwHh8Ou0QRLEe85nq8wjBrQ12pskgz3QseGAgjgXMlJ7aNaeS5r3eztyh+uo0sUZG6LIWR9TJGk1WuSdFEg2r0AYaiNHdr3OzkduMt2vyN13+eD9t52L/o9tq9FlGrl4kaitdQnCjiJNEBKLwquduxHzLN+pd58DtcJOHeUsad1lW72q6iBF6olDKlPFzIwaVioQE0yRZDDy17ErBMEnhf1/O9t7q7YmeTW7UvVrIfNHOWS6cyEIggcAVAc+f8JfPZ9XbCMOE6R1PeDwbLHmub3kq3OBxLQ3k4lYVA+PQknYZQoFwkXMMdmTdjWXuR5UTXj0zXVS1Ddae6bTSbWKGMfJzcGZRPfcoCJEbpouboXuT735+2yf5bJCm2bMpDzRjKNju4rNNZ5DwFIqdgBjyB/wM6t12E0z2H0gAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E67_brefJaiPerduMesCheveux/037.png",
+    "width": 1920
+  }
+}

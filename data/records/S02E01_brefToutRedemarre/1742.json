@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Mais quand il réfléchit\nbien, c'est complètement con.",
+    "end": 1746,
+    "heatBucket": 1,
+    "index": 576,
+    "start": 1742,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1742s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1742.mp4",
+    "hash": "d8ebb6caae",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuUlEQVR4nAXByXLSYAAA4NxkMYJk+7P8aVZAmoQQ+DElkIVULWAximgH63SkhnJSGcelWkfH0Y4zbsfePKqXjgfHV/AZfBy/DyPzufP5nL4GDIk2ywIlSZwsAYEnWZYAAC8RFFHM53JnMtlsJpvJZDGHpS+w4M5oY7GNntz2lteDcLAZm3bXdho9T7VsKEC6RAoUBWmaIhmsDUFFYIZx/SC5uH/ZSjuVeKsfaYZvmK3I1+o2zzCQLFkyb4isAADmShyQad7i5gl6sBPe3e6/f5EmYS8OuvU4UhpNhWN0hkQVGemiyFCYJ3GsSKq2sJ+0Pjy6+efHp9Ovj3dm42g6nu+O/W5bg4IlMKgsORos8wwWqrwm066npTfaL9PRycenx4fL2G2ulrNfr+/N3drEt68i3RSBytKawGKhwlfW6CCophN3Ne1+frU8/fZutje9Nbv27/fx2/tbk2FnEdYUosCcwykcxy7psKGwydBZ7YaLQetoMf15cvTs+cF6FP79/ubL4V6/Zz/0qyNDiZHloSYmFnG6cLassqgmVnnCVOAgbLnILHD8laC56a5LoOhAsl2VPNTY6Lj/ASuGXsIforbOAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1742.png",
+    "width": 1280
+  }
+}

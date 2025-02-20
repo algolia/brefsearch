@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 431,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 38,
+    "isAgeRestricted": false,
+    "likeCount": 96820,
+    "name": "Bref. J'ai voulu partir en vacances.",
+    "season": 1,
+    "slug": "brefJaiVouluPartirEnVacances",
+    "videoId": "FThJiyU25jc",
+    "viewCount": 8214486
+  },
+  "line": {
+    "content": "Ce courrier, c'était 197 €.",
+    "end": 56,
+    "heatBucket": 2,
+    "index": 24,
+    "start": 53,
+    "url": "https://www.youtube.com/watch?v=FThJiyU25jc&t=53s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E38_brefJaiVouluPartirEnVacances/053.mp4",
+    "hash": "7b00253490",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJw1z2tP01AcgPF+WmN8ZTRBXuhCEI04NxAo7bRjY4FpyCKi2xypysVtbisb1JX1fj09/3NO1yofwWBi8nv/5OEO3u3Lx+2xMjD1aeBZunrROjronZ+0DhuSKOYeLRq6Nruedn+cfvr4obZT5k6/y9fTqzBwAaJ5ys5O5E6rMR71CY5qO5Wnj58EvovjKHCdiTIsCwKnqZMo9ICg3ynpDgfru/uMQo3fMPXpXrX6LLeEUWCYs1f8+uLyUjGf5xxbJwRRiqe9Y4nP5QsLlqltrq0apr5XqbxYXiGAxlcXd+7fu/vwwbevMud7FmVAafylLta3c5ejjqIMhLWC73u7UrnwfBVFPsaRY5u2of9SLznftRgDRpExOQtMlUHMEpKl85ubTBJKr18WYxQAxAgFYeDJnTZn6BoAShKa/cnSbM4SkvyTZkzaLvHFDYxCgMj3HdexGu/r3KDfdRwL4HbjNvXfPGVv+dKbLRHHIcaRbZtjZdRuNrnPR4f93rmmqZ7nxHEIgAiJKcWUQWlTLAuS7zmmMRv+7LebzVq1+hfF/1B52uTx8AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E38_brefJaiVouluPartirEnVacances/053.png",
+    "width": 1920
+  }
+}

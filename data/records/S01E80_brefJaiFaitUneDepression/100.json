@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "2:31",
+    "durationInSeconds": 151,
+    "index": 80,
+    "isAgeRestricted": false,
+    "likeCount": 164024,
+    "name": "Bref. J'ai fait une dépression.",
+    "season": 1,
+    "slug": "brefJaiFaitUneDepression",
+    "videoId": "DwfwmxOF_3E",
+    "viewCount": 9241801
+  },
+  "line": {
+    "content": "Je suis devenu adulte.",
+    "end": 102,
+    "heatBucket": 1,
+    "index": 34,
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=DwfwmxOF_3E&t=100s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E80_brefJaiFaitUneDepression/100.mp4",
+    "hash": "bf9c159c99",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBePkxZLD1gNT5vPjxyPEF2P0N2QERySUFlTD1NUDxkg2tmhG1reltqWzJxXDVJPCUAYSY3Zik8bi09eTQ/fzdFhDlIhjtIiUBIajFEjGkkkXkmXFdHZ11BoIdLoYdLmoFGAGw4SXM7THtAU4NDWIVEWIdGVopHWX5CVHtSV7qKOat5SXdiaH5qaaGJXaaMT5iBTgCsno6ypZq9rp3Huae6oHe6qZrJv7+4rai3npDBjlLElVeFaluVdmZyY2aLdl2yji8AanVPn5p+3ceS2cqa1cCJ1ciu08y729HEuphxyaBhqnxdgVxRfF1MXFBUdGBLyZgDADxSLYJ4a76rkrmpl66fmLalmbmtpMCvosWZYrjAWVVGU043TXtkWFRLVYtwMtShAABLSzxwVVR7amuDcG+GcXCZeG2UeHCGc3OqjXSlkldfSEV4V0yQd2qRgn2FbUSleBAAalRUbFNSdGFee2dkhG5qhm5miHFshHBsk2tXwIJclnBalWZKdVxVtZxyinBPiXFjAFpNS11PTmBRT2RTUmdWVWhYV2xaWW5cW3JeWnJeWGVVVWBSUllMTox3WqSIWp2EXmazwCEZLTKxAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E80_brefJaiFaitUneDepression/100.png",
+    "width": 1920
+  }
+}

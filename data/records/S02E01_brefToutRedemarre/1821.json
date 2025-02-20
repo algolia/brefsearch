@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Ça m'a rappelé que moi, quand j'étais\nen primaire, on m'appelait\ntout le temps Billy the Kid.\nJe trouvais ça marrant.",
+    "end": 1827,
+    "heatBucket": 1,
+    "index": 602,
+    "start": 1821,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1821s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1821.mp4",
+    "hash": "f137711897",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ACAZFDw3LlpTQVxVQH15ZVZPPBkUDSklHFpXRllXRzw3KTgxIzYuIDMsHychGTk1KgA4KiM+My1oXEfMv5X//+PBsIc9MSBhWUO4r4uSd1iMeVydkW56aElvXkBhUDmDdVYAHRcWFRESCAUGmpBy/vnQtaZ+QjYiX1hCg35hYzshY0IuqKCAi3tbdmVId2ZMWE45ABYUFBEREgQEB2xmVOvmvrSmfl1QNUhBMEIeGls1KFE0KFs9M395W3JtVWpnUFZWQgAMDQ4MDA8AAAVpYFLx6sa+sIhjWDxRTDpqOjNSFBhUIiJjQDd1emBmXUVraVFhYk4ABwgLCQoNAAADg3Jc//nLuaV6UkIqbGZQhHBbNwYLOAEJWCwjf2lFz7B6u6h8g3RXAAcICwgJDAEECEgwJaGEYLqogZCBZJWHZ1sqHzUABToFC2s1JJZsO8m1hqWMXGhEJAAGCQ4HCg0EBwsxGhaPb1K5oHm4oHqniGCBU0FfMzBYKya5lm+ti2Z5Wj1oVjtkUjsAAgUHAgUHAwQGFw0LLB4WKR0UKx0TLx8TRDsvSEU6RkA0aWhUZGFPKSIcMTAtRUM1snOHh8+w0K8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1821.png",
+    "width": 1280
+  }
+}

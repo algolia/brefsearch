@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 805,
+    "durationHuman": "1:29",
+    "durationInSeconds": 89,
+    "index": 46,
+    "isAgeRestricted": false,
+    "likeCount": 79231,
+    "name": "Bref. J'ai eu 30 ans.",
+    "season": 1,
+    "slug": "brefJaiEu30Ans",
+    "videoId": "Xi-oROsTsG8",
+    "viewCount": 6367294
+  },
+  "line": {
+    "content": "En hiver, je prends des vitamines.",
+    "end": 33,
+    "heatBucket": 3,
+    "index": 13,
+    "start": 32,
+    "url": "https://www.youtube.com/watch?v=Xi-oROsTsG8&t=32s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E46_brefJaiEu30Ans/032.mp4",
+    "hash": "507f72c3cc",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwVwVtvk1AAAGD+3vZgvGTJnrTRxMQnzeLDZqZG49yc08QtdenDWlbtbd1SoExKSy/A4LiDQKEHBgK2QFtbqfoXjN+H5SvEW/z8Q6mZPuUzJMBZI8+hPIcKve+fu06ONTIk+HjaOyg13uFUqUpg6XJz5b14+1BLHVl3c86NrS83XzPLG8Wl9cLyk8rKbvvesfcg2398rNzZY7In51iZkTYK2oszfYse7TA/n1XQ0zJ6fnK1ngObJfUl6W8zszf0cJdwNvNSjRWwb5rp2kJgpqex+iuZJItxkviLxPv9dx7afmijxSKczeI4ND0/UDUNM0wvQPgQpmJzLVKvRdpqCK+PlFVPWCum7jOvHk3Q0th8GMi3AverYVqY3reGLjfq70X2UWwfxtbByD6bDDsTO8vvZ6TKp3lUnPl4jPZdC2i6iXW7nUajJQPdMB1FsbS+M5v/CX5EvAhFAFrtDi9AXoAU1TQHFgAyRtM0QRDtdksQeFVVXNeZTseOc3Uhir3/ugDIl5eA45qyLHEch9VqtWq1SpIkRVEAgMFggBDSdR1CKEmSKIqqqkIIL0SRZdl6vf4Ph7w7vFu5+FUAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E46_brefJaiEu30Ans/032.png",
+    "width": 1920
+  }
+}

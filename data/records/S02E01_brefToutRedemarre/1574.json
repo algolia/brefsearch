@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Oui, j'aime pas trop la couleur,\nmais bon, ça a pas l'air\ntrop compliqué à repeindre ça.",
+    "end": 1579,
+    "heatBucket": 1,
+    "index": 519,
+    "start": 1574,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1574s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1574.mp4",
+    "hash": "c32429f4cf",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABwNCh0OChUIBiMdFCglGRsXEBMSDgUJCQwPDREVERAWEhgYEhAGBRETEBYbFREVEQBaLR5YLyBDGxNqVj1wakhNRC5LQihOOCVFOSs6RjQ9SjhMTTcrDw0vMyg/SzgwOi0AaTgiaj0mVScYfmpNfXtWWVI3Wls/UEc0Skk3U2BHTFE6VU01NBgTMjMpPUk3MTkuAHpGKX5LLGgzHZF+W4uMZWlpSWp4XFJeS0xWQ1ppUUs+K1Q6KEImHTQ0KjlFNTE5LQCDTS17Rih3QSWfjWWXmG59gV57im1mcVpTXUlcalI/FBRZOC1UQjQvLyYxPS8pMCcAQjUuZjkjgUorl4ZhhIVfhIpmhZR2bnxhYnFYWFlHSgkMWUUzTysgJSIdJzMpIikiAB4uMG9cSX5IKY1+W3t8WISJZXqIbWJuVXSEaV5SRj4KC1dKNlInGx8dGR0qJBwkHwCWo4mzt5mzq4qusIyYnHqEh2WUmXt4gm2vwJx0cV0qDw5eTThcLh4hFxQkKSUZGxkAMjYtMzcuMzkwLzMqLS0kLi8jPkE1LTEqTlRENTkuDwUFJhsUIxIMFAgHIhwcDAgJQOxyMfP2vHQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1574.png",
+    "width": 1280
+  }
+}

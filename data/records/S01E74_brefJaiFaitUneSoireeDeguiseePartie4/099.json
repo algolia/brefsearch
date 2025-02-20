@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "Tout le monde t'aime.\nToi, t'es parfait, toi.",
+    "end": 102,
+    "heatBucket": 1,
+    "index": 34,
+    "start": 99,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=99s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/099.mp4",
+    "hash": "3cb1fd29fd",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwU1v0mAAAODe3NqXvqWln0BfWtrStX0L/YAMSqEBNmA0OJIxNI5tmGXejB+JVxMvJiY7GePBePHiyZPJTvsB/gev/hCfh6ApplIqu6od6m7PiTbzXdJMcc06tL2sGQ2acc8f5ukii+ajdj6MrwlAQqEoRFW9p5qhGe9O37SsfqNijII21hrdg7Afni6CQVgLTpLtLHlFSEWhLDltZ52qgWfMb9d3bW8KC5zIykhUFUHFKOojcxrm6/W3x/lnosyJtpa6yRfLf12t7J5vfuB6B4IiCwWBVUqMiI1sMny/PP91+eHv+c1PgoW8oWiufiz7H7Wj39eb+6Y9m+goQ4YnqWNNy/JPk+2fxe3D7ub+6eqOoCnGlrWG4oPSSg6+Xrz7Z/h5V1GeOHhtH4wtPJ5+D5svx52Lk+RqNX5BcCTEIjpsDGJ32Wm9nT17kMoO2CvEldqR2UCiVkdTV89Hna3Cm4N4SpTIgiWoI9zfZGfL7pkmtxiqCEgGkJABLEdzliRhZA9bmYO8NDomShRdKwoYeb4e85AvUDQgIbVfIPfA/iPAQ86UVVuu6rxYYXlcx/8BMERWISZ/0w0AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/099.png",
+    "width": 1920
+  }
+}

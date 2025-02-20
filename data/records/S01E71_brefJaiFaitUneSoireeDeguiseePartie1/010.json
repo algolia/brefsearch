@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 199,
+    "durationHuman": "1:54",
+    "durationInSeconds": 114,
+    "index": 71,
+    "isAgeRestricted": false,
+    "likeCount": 56247,
+    "name": "Bref. J'ai fait une soirée déguisée (Partie 1).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie1",
+    "videoId": "rOI3TXz-igs",
+    "viewCount": 4927821
+  },
+  "line": {
+    "content": "J'allais sortir du taf, mon boss m'a\ndit: Tu peux me classer les devis, là,\nil y en a pour cinq petites minutes.\nJ'ai dit: En fait, je dois y aller.",
+    "end": 15,
+    "heatBucket": 1,
+    "index": 7,
+    "start": 10,
+    "url": "https://www.youtube.com/watch?v=rOI3TXz-igs&t=10s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E71_brefJaiFaitUneSoireeDeguiseePartie1/010.mp4",
+    "hash": "b1df481ade",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAALVJREFUeJyVkbGKAzEMRP3/H2biYtdbWacFFxa2D1wYqfDKpApZEgiEhLupNQx6z1hrnXN+9SGEGCMR1Vp/z9RaiSjGCAG83y4XZ601y7JC+EkptdZEZIwxXzLGEJHWGiWCAMuyGkQspTCzql4/RFWZuZSy425SSr33L9fXZ6f3TkQm58zMc87vhTmniOSc/7+AuP/9B0Q8KQFQondKqnocx4MSEcBJ6eHBb/DZQwiw+c25u4cb68CM94nC1hQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E71_brefJaiFaitUneSoireeDeguiseePartie1/010.png",
+    "width": 1920
+  }
+}

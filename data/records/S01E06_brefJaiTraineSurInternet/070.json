@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 512,
+    "durationHuman": "1:39",
+    "durationInSeconds": 99,
+    "index": 6,
+    "isAgeRestricted": true,
+    "likeCount": 70060,
+    "name": "Bref. J'ai traîné sur internet.",
+    "season": 1,
+    "slug": "brefJaiTraineSurInternet",
+    "videoId": "br82-adJ0FU",
+    "viewCount": 5741554
+  },
+  "line": {
+    "content": "Il a vu le sopalin, j'ai compris\nqu'il avait compris.",
+    "end": 72,
+    "heatBucket": 1,
+    "index": 30,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=70s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E06_brefJaiTraineSurInternet/070.mp4",
+    "hash": "9189dc3022",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCvl39ZSD0ODAobGBUdGBMaFRAiHRdZT06Ad3uxsMG0tMewrr+tqbippLGqpK9yXlkArpV/WUc8GBMMMCUcZUlBTTkwIx0WXVNSgnh8s7HDtLTIsa/Arqu7ram4rae0fWpnAKySfVhGOR4YDSofFnhWTXhbUioiHF5TU4N4fLOxw7m5z7e2yq+ruZeKi6egq4l8fQCqkHpWRjgiGhAiGxNqS0FwV00mIBpgVVWAd3u0ssWiorKWlKCNg4qckpuZkpxrXVoAqJOGVkU1IhoSDw4POzExRDo5IBwaYVZUgXh7t7fNgICGdXR6m5ieiYaErae0kYmOAKyen1hEMwoJCAsMEU9LV3x3im5pcVpPS3JjYK2ntLe3z7W0y5ONjXpxaouEk5aOmAC3s8NyYlxNPTgPDhBZUlyfl6x5cXhLOjJSPzmgl6C7vNWxsMaLf4SelZ2QiYx0amwAtbXJmouOjHJmHxcTNzI5dm15bGJnXk1GeHBxt7fNt7bOs7LHr67AqqayqaSMn5mfAKeisKOcpqagq3x2exMSFRQUFyciIF5RTHdsbra1y7OzyLKxx66svKiks6OeqqGbpKjUxi4glmxlAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E06_brefJaiTraineSurInternet/070.png",
+    "width": 1920
+  }
+}

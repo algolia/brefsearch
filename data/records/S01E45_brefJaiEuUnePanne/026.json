@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 548,
+    "durationHuman": "1:53",
+    "durationInSeconds": 113,
+    "index": 45,
+    "isAgeRestricted": true,
+    "likeCount": 51384,
+    "name": "Bref. J'ai eu une panne.",
+    "season": 1,
+    "slug": "brefJaiEuUnePanne",
+    "videoId": "BJoEGR47rk0",
+    "viewCount": 3643369
+  },
+  "line": {
+    "content": "— Oh, oui, quelle bonne idée.",
+    "end": 28,
+    "heatBucket": 1,
+    "index": 14,
+    "start": 26,
+    "url": "https://www.youtube.com/watch?v=BJoEGR47rk0&t=26s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E45_brefJaiEuUnePanne/026.mp4",
+    "hash": "982254100e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAyGyJBIi1vOD5sNTt1OkOHOzqMQ1GZVGKiUl5uND5pLjV8PUqOVV91Rk9tQklmPUQANx0oWS80omFZo2BgcTg7UyUmkUpUjUY7jklGrFFjYS0uOiEjiVJbf0tWfU5Ud0tPADcdKVwxMY1QN5lcUlUuNGw6KYlIS31COYFGN5hDS49KQUwtI4ZLWI1TXoJMVHxKUQBmNT6VVEmZWkjBd3h/QjiDSDODQ0aPUEVqOCaXSUJ0PTU0GhZsPDWNS0+OSk+ofnAAdkA9oVxKllRQoVNQqEVAiUI3ezYvfDsycTEui0Q9dUA2PR8cYTUog0ZCtGNkyqCHAGU0M5pVRIpKS3c3N2kfIoYpMG4pKIA0NZdDQ7ZhWOGDjrdqa3Y8MXg9NqdZU6JqXgBXKzGGRDqNQz6jTk63X12/cG20Y163Qke6T1GhUkzYe4HDZ2V9QjZsODOnX1eXYVAAYiszeTY1m00/u2hepWJXkFVHnE9En0g/okdCokZBslRJkkI6h0U0hU5Gjk5Fg0g9AKpITLROT5I9PIo/N5JKQZZMQ5BEP6NMSIE1L59FQLVNTblPT59RR2o9LIFEP4FGR0ILmyqMMCV5AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E45_brefJaiEuUnePanne/026.png",
+    "width": 1920
+  }
+}

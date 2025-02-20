@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "Je me suis dit: Je suis large.",
+    "end": 5,
+    "heatBucket": 5,
+    "index": 1,
+    "start": 4,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=4s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/004.mp4",
+    "hash": "e573449b4e",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCekpinm6GwpKu5rbTBtrzPxMvb0NfWzNPb0dvXzNOwlZC2mpXKusDGvMe9sbyyprAAp5uhtqqww7e9z8TL39XcysDGsqer3dLX1sjDzLq4j2ZWkmVTpn1uxaynv6+ssJ+gALCkqr+zusq/xtPHzMW4u0c3My4aE31YTbmfiaaJendRQ4NcTYJUQZRmVJp3XJByVgCzp63Atbu/sbOFZltsUkBlQS9qQjRlQDFbPDFxTDqEZEdvTjdoQTFpQzOHXkx4WD4AnpGOppmXloZ/aEo+blA6WD0oWTMlWzgqTDcnim1Mj3FKdFY5VDYmWzkqdEs9Y0EvAI+Be5aIg49/dWhOPn9cUXhYSUktI1o/LZBzUnxfRpJ1VbiZdKqKamVFMkoqG1k6JwCXiYKdjoiej4d/b2ZaQTh4UERvSDxxUDmAYUJ2Vz2hgl20lW+3mHGniGJqTjRqTTQAkYN9mYqCoJCJopOKi3tyeF5TdFpPc19Tf2ZLfF8+fF07hWZDhmhFlHZRgmVGVz0qAIl6dZuMiKWXk6SVj6qakqmakaeYjaaWi4x7b4drT4hpR3hZOXBRM2pMLWZKMVI5KDHL0dGRXt5sAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/004.png",
+    "width": 1920
+  }
+}

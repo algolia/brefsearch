@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Quand on doit aller en soirée et qu'on ne\npeut pas aller en soirée, on en soirée.",
+    "end": 60,
+    "heatBucket": 5,
+    "index": 11,
+    "start": 54,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=54s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/054.mp4",
+    "hash": "5ecc76cc13",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABmElEQVR4nAXB3U+bQAAAcCKUj+M4uIPj66AIlAp0NVCwtS7dalVE3ctsYjYT30y6B2O2hyXTLEv24Pv+5P1+nKPjyJuZmocGPFPlVJfPShqZsHZhSUFCQGTIPpSwIoaMGRrk1kX2oZwjYMaaesrIeUj+dMldG/xcBbvG+1w6/Yi0rpYSOInCgGDuYjraNw1hT0g0tQ9JF5Le0+8r/6Xb3x35N2NaUXgZG4WlukC0VIXr6jJwWaKCKYYb33jI7I2DHir39Sp5OgkWgdHY8FtFMwKZplIgc+f1u+vpYQGUOUELiraptfH0x9r9+yl5WrITHx2a4NiFCYY+BKYicctRdXP6vVivp1A6svVjV68t2MV4t/B/9+N/X6qv82EbkdsDmpsQigOujRvWPiOWtlj56OISwzFWCwv1qfVykf3oDt621etlfj+xVx5kQOLKMPcQ0Xgh1eGZjzc+bjw0C4zrzHxcDJ/fx7+Ww7fVcJvbE8+aWYiTBInf40VhIPK8o0iZrlAg6cogo0pM1MbREl0eYTm3tTgMPAj+A+YYPEAliWbJAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/054.png",
+    "width": 1280
+  }
+}

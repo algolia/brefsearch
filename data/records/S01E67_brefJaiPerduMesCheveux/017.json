@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 716,
+    "durationHuman": "1:20",
+    "durationInSeconds": 80,
+    "index": 67,
+    "isAgeRestricted": false,
+    "likeCount": 87826,
+    "name": "Bref. J'ai perdu mes cheveux.",
+    "season": 1,
+    "slug": "brefJaiPerduMesCheveux",
+    "videoId": "akriQ9yTodk",
+    "viewCount": 7385243
+  },
+  "line": {
+    "content": "Rien.",
+    "end": 18,
+    "heatBucket": 3,
+    "index": 6,
+    "start": 17,
+    "url": "https://www.youtube.com/watch?v=akriQ9yTodk&t=17s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E67_brefJaiPerduMesCheveux/017.mp4",
+    "hash": "1fcebf1087",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwFwc1P2lAAAPCeJh+Ffr+Pvvf6XktBN8oqMMQ5yEKcIoWKIaLBEEVSNCEzcW47zBDnZTss22mXneZtf+d+P8lQoaFBOa1qOYvZnBNBEDtoNn7dXD89fP337fu0F5saQCa2NKjJhpRNqbmMns/ohgo9pyCYV+CFcad1Fe3/+XT3tFrdz+bYIgRSZGFDBVLmmSKndEW2GOK+KDJbtMNwOewONiuP05NFv3/S2S1xn2KHQApNImXXtGxKb5QqnVqTU0Exf1urPs6OH07jH9fzv6v7nzfLnZdVDBlBHJtUSq9p1KTd8FVYLDvU5URUSs8/nw2T3Z1l1P398cPlIHaIYLYgyMEWlbIpzQe0F2wGbtFlLiX+9ovyVb9zvF2/Gx0uhkcUcYIdZrsEcWRSKZdW13U0qDWDSpsGPRSMtoL6Yq912n6dxHErbOgK4MQjSNjAAbotgby1YeK9sOFVR7h+SbaSIHw3j6Pl4cHtZBLtjwEpU+xii0CDGAqUfOSUmReKEvLegHCC6zM36Cfn72+nF1+Sxdk4ges9uBEB4Bp5oMjmfz3BUnT/MYMtAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E67_brefJaiPerduMesCheveux/017.png",
+    "width": 1920
+  }
+}

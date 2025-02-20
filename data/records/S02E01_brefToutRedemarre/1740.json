@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Ouais.\nMe permet, mais moi, je faisais pareil.",
+    "end": 1742,
+    "heatBucket": 1,
+    "index": 575,
+    "start": 1740,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1740s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1740.mp4",
+    "hash": "1db867f42d",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxElEQVR4nAG5AUb+ABQHBxgJCBcJCRgKCRwODB0PDEI6LYGFcn2Dc25vXF9cSnh+bnp/bVVSQhYLCAwICAAxIx4xIh0vHxorHBhDIh1IJBugiWnI0LZ1gHaimn3WyqP//+r//+m/s485JBoXGBYALCoiJyEZQjkrLywkQCAbSyYef2VHKSopQi0qWDospqOD8PfT7PLOsqaBOS8jFRwaACUdFjAhGlFFNDk1KjscGFQuIkgxICEXF5FcRVg1K5SRePn91u/zzreogjUjFyIXFQAcFRQkHRovJyEpIBs9HhpTLSFeUUVGNjFxRTM2JSC1poPy9tHy+NW3qYM6HxQdDw4AIA8QIw8QJQ8QNRgXRSEcXkY5nZyNn5aFbGBVblg9pXVQm3Rbwql5jWxHOSAXMCccABsODiUTEygVFTcbGT0cGGZXSo+OgZeUhIZ5botyWpRlQp18YMOod4lnRDUeE0o6KgAWFBcyLSsuIh4uFBUzFhVJNzJ2cWialoiajn+McF6LaE+4t5m/wKKDc1gyHxkfHR0ABwkLExISFA8PEgkJEwkJGxQTKyknOzk0Skc/PigdMyMbJh4ZIhoVGBIOIB4eFBIRVwKCu2hYl24AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1740.png",
+    "width": 1280
+  }
+}

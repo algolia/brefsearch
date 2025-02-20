@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 543,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 12,
+    "isAgeRestricted": false,
+    "likeCount": 114614,
+    "name": "Bref. J'ai eu un job.",
+    "season": 1,
+    "slug": "brefJaiEuUnJob",
+    "videoId": "DUDE5JWW-q8",
+    "viewCount": 9722385
+  },
+  "line": {
+    "content": "C'était un problème.\n— Vous êtes sûr ?",
+    "end": 85,
+    "heatBucket": 1,
+    "index": 38,
+    "start": 84,
+    "url": "https://www.youtube.com/watch?v=DUDE5JWW-q8&t=84s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E12_brefJaiEuUnJob/084.mp4",
+    "hash": "7a5afb9934",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwVtP01AAAOD+FeOD8qALo0WCuIQNWO+Xc9rTnvb0tKe3sQ54mImEy1DRDcSh0TAfRIyaaIgPJoLEmBCfZozxF/hv/D5u5uqVgJ8MFcXUoKVBRdSkplyfXyTAWSGhLpohzoDh6CoEJnIszE1PXDNqc8iwEHBd4EITSJJMDP1yNPw5OtiOPENxfBRB00MwcADhxBnBECUXYuwQ7BAXurKsEbl5+mjz7OD+VmApTT3EzLE8zw4RDLmOWsea6iMSBSwizHcD24JdD24G9rpr0oU7KcIxyX2XUp9RHHMfBv29rQEjRUrTLM6jIEaO18vp89VikOAege24xWiLeCyhWUZjbvz993D/xFBJiFmZd1Ka+ggDWdKFSShUQl0ri7WEFjTICla0WML1d181GlgQZFnCSVi0ktbOw6flvSezVaHG80nZW98+7CzfjYO8na2UWcnxvHjzRkMQ1FvTqmawF+/Ov/769/LzuDZvLy3YG89O944vjj7+eNAfrba7Zd7hrk/crlTq1ao4NSXNzgFa7g7ffntz/kesgcXq0uPjs6NPl6+/jN9f/N0/PFlb7v4HiJ2kFl4MQTMAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E12_brefJaiEuUnJob/084.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "J'ai vite découvert que\nJean-Jacques était un moi aussi.",
+    "end": 1183,
+    "heatBucket": 1,
+    "index": 369,
+    "start": 1181,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1181s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1181.mp4",
+    "hash": "2a542f1ea8",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoUlEQVR4nBXLOW/TUAAAYA9Vc9bP9x07tvN8PR+JjziBEJy0kNgVAQtUKleJ1IFWalVAlUCIDcTCys5/RXz7h7Xb3U6ne9RqyyI1VBiGOpF5YiCQqkQKLBBZIAmkyBEsA2gKB3gPoyhmIPAqzWyKoDoNfUtZJOY6h8vMvH87/VYGiSk/mdr52PRd1TIVDAAC8XwxlC/Ok2Juo5E4j/RFrC8z88/j+Y86iSWmrpKmziNPGxkyJnO8QVClo46RZupiYCmz0Fimo6pAf7/XD0t3a8vlWXx7/WKWwP8hHXuha8W2kbmDIh2+PvXu3jmfd9xqlTxcLt+EmsIyLUqI8/Dx5vm+nmBP8/G2yMrVdPdy1lTBp8P01316+Sroi8NJ7O2rmBXEnqgRsnZ7WHw8zDBD1z0HRoGHbGeV2s0G7neR7vtHBKdD4/fPa3+CcFnDBaXIRx8uYky3LM+xHQh9154nwd3Vs6bZaMjvMBKQ1K9friByKR0SA6PInJv3GdbDAaDpPkmRHEezzHqdbMu545nH3ZNWH48iiJNkh6CO+yBEFoLiPz+FTN+ihQsFAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1181.png",
+    "width": 1280
+  }
+}

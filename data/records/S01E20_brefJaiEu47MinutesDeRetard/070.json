@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 343,
+    "durationHuman": "1:38",
+    "durationInSeconds": 98,
+    "index": 20,
+    "isAgeRestricted": false,
+    "likeCount": 86290,
+    "name": "Bref. J'ai eu 47 minutes de retard.",
+    "season": 1,
+    "slug": "brefJaiEu47MinutesDeRetard",
+    "videoId": "K0XI5d8080Q",
+    "viewCount": 7270328
+  },
+  "line": {
+    "content": "J'ai eu envie qu'il perde son boulot,\nqu'il perde sa femme, qu'il obtienne\nla garde de son enfant, mais\nqu'il le perde dans un accident,",
+    "end": 73,
+    "heatBucket": 5,
+    "index": 37,
+    "start": 70,
+    "url": "https://www.youtube.com/watch?v=K0XI5d8080Q&t=70s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E20_brefJaiEu47MinutesDeRetard/070.mp4",
+    "hash": "2e01b1967b",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAjHRsSDw0tIhdhUjp6cFhmUUBePTmPemikk4d8dHAjISETExMfHRySiYyVjI5HRDoALCUkHhsaDg4QTUEypp2EjHNhaj42sZuKw7arRTk1Mh4ZJRsZCwgGUUxRn5iNbGZcACwmJBwYFhIREh8dG5KMe6CMgG0+NbOVgI+Cd0w0LKRqXYVUSUIoIQ0MDGpkWoiDbAAYFhYWFBIVExEOCgluY0+DY0xlMyyohm5rW051TUSpa12UWkxiPTIbFxVcV0p7eFkAERESERESEhISDgsIlYx3l3ZcXiojkm9Ue2NQiVtOkltPklVIXTYsKiIfVU87fHxFABcWFxYVFhAREUcuKsGzpsKxqWAuKIFgQoNoT35kV4NUTWpEOjYlITUuKEtFMH19RwAWFhoRExUeFxZzRD66rp7Ar6hXJR1uTiqTf2uxmpqGXFNePDSIZmSKf3xdU0tIQDYAFBIVCgwMKx0bbEA6f3BTeVtAXjAssJ+Z3tXe3s/XuImHrnVvvKSqpZqfopWYhHh5AA4ODxIRETIhH08xKZOGcaOWj7Sjrd3U5NLG1M7G08OzvLaiqKqgqaaaoqCUm5SHigalmJ+hgR1dAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E20_brefJaiEu47MinutesDeRetard/070.png",
+    "width": 1920
+  }
+}

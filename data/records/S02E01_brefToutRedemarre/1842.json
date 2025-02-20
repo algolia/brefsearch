@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "On s'est séparé, c'est\nvraiment fini cette fois.",
+    "end": 1844,
+    "heatBucket": 1,
+    "index": 609,
+    "start": 1842,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1842s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1842.mp4",
+    "hash": "38cc257efd",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABoElEQVR4nAXBS3OaQAAAYA5tJigElveCKwsLiCAoErTRRscgRpPRqs37peNMx/bWtJdOe+mtv6LH/s9+H2VWkY2RZVskDOOo7jkkS4KsHcSRm7Z8y4GqIQIFsALH8GyZK1PT1Xh+nd9u593h6c/t/Ovr3f71ev9Y/H7KN7vLYpGlg8Bru2aADceAFqTyRdorwuaomdatP9vJ5/3w8iE7z8Nf63fFeeMkD+Oug2oVGUPNgqqpUrgqqTZmGun7ydlmOVrPar4tc5LWiTzHJhCbcYyvxsmwT3wsYyhRgD8Crm+20347enm5SZdzURJ4BSHbk3XzkJFEXlz26jiQBQsQQ6SAJNAacrKuViVq2m/dPwFRYYACgHTRaw7Wq+NxPjltOkkAE68WIYoVBM7AZn/IB23Rqo1mg+l0aFSQCeGHu9WPf3+n3763Pt6Q0eTkeXP1vKCALJcE1e0PKkkmGhjoSG0kx8WZbiIYxPl2M/vyCXe6hkuK3W58f0vRJfrtIX2karLI8hx7QJfelDlOkXVN8n1yUGIUy0Iu8eok7mS64/4HvuJNHsCLtKoAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1842.png",
+    "width": 1280
+  }
+}

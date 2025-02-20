@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 526,
+    "durationHuman": "2:10",
+    "durationInSeconds": 130,
+    "index": 58,
+    "isAgeRestricted": false,
+    "likeCount": 81033,
+    "name": "Bref. C'était sa chanson préférée.",
+    "season": 1,
+    "slug": "brefCetaitSaChansonPreferee",
+    "videoId": "UURXmjwlcDI",
+    "viewCount": 6245023
+  },
+  "line": {
+    "content": "Bref, c'était sa chanson préférée.",
+    "end": 114,
+    "heatBucket": 1,
+    "index": 37,
+    "start": 109,
+    "url": "https://www.youtube.com/watch?v=UURXmjwlcDI&t=109s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E58_brefCetaitSaChansonPreferee/109.mp4",
+    "hash": "83c9706f5d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwVz1tv0lAAAOA+GSfJpPTe05b29HJo6Tm9gFIQti5suiKOYYAxh26Ak2UXIyYaFZ+Mi/q2RN/1p5r9gO/hoxoWGLWT3mY1gCAwldCSA1PyDaGsclBkNyp4kKXdrWTS77w7Pd6qRVSGhBdEexwgYqoBVAiUCRQdwIQKX1EFbOmvnmfD3fTiZLxcnDz0Hcplc4cWu6GKgaUFEGBD8otiCbAp0vqx0yRoOuhOek8+XswvZ0fY1Cg/d+c8Vp6agBgKgQDrt8BVubZb3PWMrPngbDKYDZ99XZ7NRj2kCNRxpK9Se68R4duDig3ZkjiNK/RquBOXiANHne2r6fjmejXstENLow5c8Xvb7rdiT5dDS7WBwK7T7Dqdxe68Gcj380yeXr55+ff3z73t1iOCqH2d/pYa4yYpm8XI1jWB4/KMwPCbUH0d2R6Q1+7eu5pP/v35tdOo7NQI1dXpT3X1qO5hB8bIABzH5QsCK9RN/TIpu0DKreU+vz29uf5SJ6VWVKb2kbSo6tPEIcgMEVR4gacZmZcCo7hIfB9IDF34sXr/4Xxade0q9v4DZKZZEbEJ3ygAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E58_brefCetaitSaChansonPreferee/109.png",
+    "width": 1920
+  }
+}

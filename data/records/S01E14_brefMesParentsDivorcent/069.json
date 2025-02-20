@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 336,
+    "durationHuman": "1:40",
+    "durationInSeconds": 100,
+    "index": 14,
+    "isAgeRestricted": false,
+    "likeCount": 84145,
+    "name": "Bref. Mes parents divorcent.",
+    "season": 1,
+    "slug": "brefMesParentsDivorcent",
+    "videoId": "cDWcCpqFh_M",
+    "viewCount": 6682867
+  },
+  "line": {
+    "content": "C'était la mauvaise nouvelle.\n— Ah, c'est bien ça.",
+    "end": 71,
+    "heatBucket": 3,
+    "index": 34,
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=cDWcCpqFh_M&t=69s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E14_brefMesParentsDivorcent/069.mp4",
+    "hash": "9659476346",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwdtO2mAAAOBezqTF/qUn/rZQPOxg5mnLpjQQReq0ExmB2lYKuLYgE8cUkyGDEJ20XQoT8GJXe4C95r4PAQAwNBOLxqtGeVeSVpcWEquvl6NC1Sg9jWeTYNLv9NZerfARNkKGOTKM4DiOoRhBhLMHivbxaFiv3VcMLbVVVdWxH8zGU6t8FuMFEUKBpjiKRERRBAAQgPiQzny3renVt3YhV1P2zwoF/8F7+j3NH+U4lhV5yNEUQ5KIsievPH8RCoW0TwX/6uax1fJqTtdQO+d178GdjSanqs5S5IIoCJClSRpZjC/HxUWKos0TfXbn/+0PurpaSkltx3LvhyMvuL3pCBwncGxMgFwEIgAHKIahKKoVdbfnDy4uPysHxcT7S6fu/Rz+GvojN9h5+4YhiCiEkGEQfH5+bu6ZwHO21W3b14/Ncyt3nE9u5w+zdsVqNS4CNyjL8ksAeIZmaQpBsdD+3qFdqvQH/xrm16567Mjp4rt1PWueak46sd27vatrWiYeW6IpmgwjWwml9+NPNpMuG02jYJspqbabbMiybXYyyR1pc6NhN68bX3Kb6xswIsLIfy+cdp+fSKr/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E14_brefMesParentsDivorcent/069.png",
+    "width": 1920
+  }
+}

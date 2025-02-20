@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1200,
+    "durationHuman": "3:02",
+    "durationInSeconds": 182,
+    "index": 74,
+    "isAgeRestricted": false,
+    "likeCount": 73509,
+    "name": "Bref. J'ai fait une soirée déguisée (partie 4).",
+    "season": 1,
+    "slug": "brefJaiFaitUneSoireeDeguiseePartie4",
+    "videoId": "UDko2X994U4",
+    "viewCount": 4770369
+  },
+  "line": {
+    "content": "Moi, tu me donnes un truc,\nmoi, je le pète.",
+    "end": 112,
+    "heatBucket": 4,
+    "index": 38,
+    "start": 111,
+    "url": "https://www.youtube.com/watch?v=UDko2X994U4&t=111s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/111.mp4",
+    "hash": "348c475fec",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwUtz0kAAAODMVJ0+FEJCsnltkt1sNi/CNoFAIEBJ6AM6lUc76gE5aGXGi44eenXUSy/OePDqf/Av+n3cleffENLHwaJcf9rud9PqXVle55OBnw5IlGGvb9Me8s5Pi9Xs7nKy5grTKjGZYrp7uV1e3BHVvr9eTlnWp+0561VefOZGHQOfs+zh/vP29iM3o8E6ZjPXf7t6P+pWkQJfjcrMCca0tU7ztgqprLeAsRkUfx8fv+6/cYlhDxFhJE7DTKw1PQDnnWEESYW9KQl0XlJ42Zf110n335/fPx5+cVVxk3pJZFNGWq6kjpGTO4Gl4lhDpc8ym54hsqT+Gy/YjCbfv/zkdpt9npYWgMwkqAkWvl85jiEABuDCjTLk3wbBhyTpmY54yK/CNncVp7N8bgDLEuTGSaOj6wVyMfQuIB4bKIBkiD0XQJ0HrgyxqHI9EpgGBTWh+bxxcHCo1YVQMajuzDWzpUBNMi0Jqg3ATEplwxAUbnA6gVYsHr+oH9efPjk6enYi1UTU1JgMLQUBXoaiGpq0H3aRDJW69B8+zU4PV42q/AAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E74_brefJaiFaitUneSoireeDeguiseePartie4/111.png",
+    "width": 1920
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Perte de confiance en soi.",
+    "end": 1905,
+    "heatBucket": 1,
+    "index": 639,
+    "start": 1904,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1904s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1904.mp4",
+    "hash": "d7eb5346a0",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABnElEQVR4nEXL32/SQAAA4EZWl7bHj7brrru73rXQKYOWEmhLR6GMoEaDA0KbbRHqNMBMtmz/gb7pq28mmpiY+I8affH1Sz4OAFEColISnkDQxEUHARcBqgolaZ+pYl2X3H/yFEoiv8cXCpxhHBIKnerhZYg3Q7oZkNsRXriqg+V+Vb3q6jcDsotR3kO4IgKe/x+WPlr3ybuY5NHRiSZ+WY8+50lcla/7OI/wqoccXP4bGIWU6q0aTEOcD9juzJycqD5Vvu0mvx6m556RdvRNYr6JyLMGRCWRY1RnTG/ZcBmQ1dDcjq3ArIRE+Xp5+mMz+TB2QrOSdvQsJLM2CqjKUQMyqns1uPDJxSlbD1hoypoo3I/qn557ZzasQXkR2ZlPX/iNaRxxBtGoAZuW9tJDs66RBiS2lPI+byvS2y67TcfXy8nHh1UyX4JkLg/nHCGazWDvWHvl4ZnPZj7pUAWWi6/j9v377Ofv78n27ii74bM7Yb4tRFMOAKEIRK0sOHqpjir0AMhAAKDoNOquH6J2xFkOZ7mPrCZqBY9R9Q8Rr0tyKl4mRwAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1904.png",
+    "width": 1280
+  }
+}

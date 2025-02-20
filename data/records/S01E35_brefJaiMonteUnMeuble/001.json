@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 393,
+    "durationHuman": "1:47",
+    "durationInSeconds": 107,
+    "index": 35,
+    "isAgeRestricted": false,
+    "likeCount": 84499,
+    "name": "Bref. J'ai monté un meuble.",
+    "season": 1,
+    "slug": "brefJaiMonteUnMeuble",
+    "videoId": "46O65gqs03c",
+    "viewCount": 6829749
+  },
+  "line": {
+    "content": "Bref, ça faisait déjà quelques mois\nqu'il me fallait une vraie armoire.",
+    "end": 3,
+    "heatBucket": 5,
+    "index": 0,
+    "start": 1,
+    "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=1s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E35_brefJaiMonteUnMeuble/001.mp4",
+    "hash": "599cc67b54",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAzO0ljWFM2KyOrpKVYUlIAAABXVFfSycmHe3dEPjyJemvBpYa5m3mEcV9TSUVaT0gATS0eclA5aVxQwLm7R0E+AAAAQT4/3tjZX1laDQ0RUEpJdGhhk35ni3dkX1RQZ1xVAF88KmdDLZSDc8vFx1dRTwAAACQhI8K9v0VCRSgnK19XVDItL25gUYl3ZWZcVXFmXgByVkk+GweekIX//f97dncAAAALCwo1NTwiIiY0MTRIQD8pJipqXE58a11qYVp6cGcAjXVpKhEEdmpgvrm5VVddAgAADgsMFhYaHRsdLCouOTMzPDtAWE1GcGJXbGJaioB5AFhMSR0YGkc8NFZJGFVGGAsQEwkJDQoHCyclKCspLRcUEychIW5eUHBjWWpfWJmQigAlLkAVFRo+NC1jUjKlXSyReCpTXCFHNhErLTMnJisTDQwfFRNjU0VqXldtYlqon5sAIik6FRcgMisnU0M2GREQZlcfhoM/W107MDE6GxsfIRkYLSIfUUM7YlZRbmRerqemAB0kMhIWIDEzOk09LwAAABMUJBkYGkQ+PTk5QwwKDAYEBWpaSX1rWU9GQ25lYKmiolopf/qw73z2AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E35_brefJaiMonteUnMeuble/001.png",
+    "width": 1920
+  }
+}

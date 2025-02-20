@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 380,
+    "durationHuman": "1:45",
+    "durationInSeconds": 105,
+    "index": 13,
+    "isAgeRestricted": false,
+    "likeCount": 79046,
+    "name": "Bref. J'étais coincé dans l'ascenseur.",
+    "season": 1,
+    "slug": "brefJetaisCoinceDansLascenseur",
+    "videoId": "l4Dz4EKZExI",
+    "viewCount": 6207773
+  },
+  "line": {
+    "content": "Il a dit:\n— Je serai là dans cinq heures.",
+    "end": 59,
+    "heatBucket": 1,
+    "index": 28,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=l4Dz4EKZExI&t=58s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E13_brefJetaisCoinceDansLascenseur/058.mp4",
+    "hash": "3801bc63ae",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJw1zbtqFFEYAOAjyeZc/jPn+s+cuezMbvYyZAnGWwyCaCCFNwybStYEIhYKC4GQQkFBm6hoYWxMYRNRsRUjgqWFCIKVffAZFF9ALPxe4CPe6oAuj30zxFUWOkXeK4u6KrpFVoSkzJI8weCtM9pbjVYRLYXV4LREpzN0RRyXaeg387l2c7bMYqeNlkaBkmB1ZBSQSEoVSaOUd/+qVppUaZI4c6RTbY8un6rbHKhWIpLCG5V6S4QAKaXSGgSLvTm3PBoOV5cG06dn663lpZPdkgOPIqkAvNVFgoQxBiCnGhOH58/cff5p9/OvnRf71xfnb54/u7Iwl6PjQgCAkjJBLLKUcM4bkxNVZ2b348HLL7939n8+fPW1X5UL9fSJbit1hjMuhUhDQIxDSAkAHCLk4mjz7bc/9/e+bzz+sHhp3fu01e5bn1BKGWWcsUGvh4jOe8KFEKyxtvn02fuD8YN367f3ro4fDeqjVVZKpel/6NEY6xEJMOqVunHv9fabH1fGTy6Mbg2v3Tk2ON5BZEIwxiilU5SqSGoVWWv/AvzSRars/cU/AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E13_brefJetaisCoinceDansLascenseur/058.png",
+    "width": 1920
+  }
+}

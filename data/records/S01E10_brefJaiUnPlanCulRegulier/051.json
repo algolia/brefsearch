@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 474,
+    "durationHuman": "1:48",
+    "durationInSeconds": 108,
+    "index": 10,
+    "isAgeRestricted": true,
+    "likeCount": 49496,
+    "name": "Bref. J'ai un plan cul régulier.",
+    "season": 1,
+    "slug": "brefJaiUnPlanCulRegulier",
+    "videoId": "9zk0TrOU_cI",
+    "viewCount": 3714683
+  },
+  "line": {
+    "content": "— Hey, les bouffons !\n— Hey, vas-y, je t'emmerde !",
+    "end": 53,
+    "heatBucket": 1,
+    "index": 23,
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=9zk0TrOU_cI&t=51s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E10_brefJaiUnPlanCulRegulier/051.mp4",
+    "hash": "86a38f86f6",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLPjx4ZmRwXFltWVRxXViGcm+ahH6eiIOWgHyWgX2Xg4BQTjxPUjhlZE1oZU9ua1QAVEdGi3h3inZyoIqGnI6Nn4+OmYWCm4aDmYSBoY2Ko5GPTUk7XVNDamBNVFQ9SEkyAFVIRo16eI55d5aCf3lfWnZjYKSVlrOio6aTlK2doKiVmIdnYFZDQks/PTczLDEsJABcT06bhoZuZ2eaUVB5NjFhPDSLdn15e4FqZGlnYGs2MjYzJCIbGBwODxRMRk52bHUAWE1OTkhLUTg4sTk7pV9bmVNMbzQ1SEhNXVBRW01PV05RBwgLBAUIioWTwbjKuK7BAKijrnN3gWhCRZ9RS6N3a4NFPopMSVxQUlhMT4R0d39zeQkJDBAPEsG6zc7H2r20xgDDu83OxthnVFluMCmYcFueVUxiOjg7MzJSR0ilk5RkaoAaIzROT13IwtTJwNHBtsUAtaa0pJyofVdcbi4rmnxtpnJiTh8dUUZFlH58joKHUVdsUlVmdHmPz8fYxr3OvbLAAHNqckE+Q0UwMC4dHXF7lktHU3dNSZaCgZmEhIp6fFJOVnV0hISEl8/E1MC1xbmtuK4jumFGyfjdAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E10_brefJaiUnPlanCulRegulier/051.png",
+    "width": 1920
+  }
+}

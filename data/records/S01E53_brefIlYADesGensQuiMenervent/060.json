@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 2900,
+    "durationHuman": "2:19",
+    "durationInSeconds": 139,
+    "index": 53,
+    "isAgeRestricted": false,
+    "likeCount": 209093,
+    "name": "Bref. Il y a des gens qui m'énervent.",
+    "season": 1,
+    "slug": "brefIlYADesGensQuiMenervent",
+    "videoId": "tjRXxJaupoc",
+    "viewCount": 11882596
+  },
+  "line": {
+    "content": "— T'es pas déguisé ?",
+    "end": 62,
+    "heatBucket": 3,
+    "index": 27,
+    "start": 60,
+    "url": "https://www.youtube.com/watch?v=tjRXxJaupoc&t=60s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E53_brefIlYADesGensQuiMenervent/060.mp4",
+    "hash": "ea85d21e0c",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwdy1tP01AAAOBudPRyTnu69vTedWvt2u5SNtetKxVZ5yawRBYgQEGEGWMMJmZqTPTBBxIejAkvPPpzjX7vH4FJjt1gKRKINDIErWsPI7HWlfVBe3Gbnt3n2cP+ZKxbJzJ5rW4Uw30CkJDahIBGGGINKb7qB9geadZ0cHozOvs6Gn7bTo4970QDcxlcZ0uCqkCW4gWIJU6xJTOw4lBxi8HsffH4Lr1cJ8k6Te5201UYHlnSKjskyApgaIQgFnjZUeytRhLg2nL24XT5+2P65m5n+3Fvsgi7rtE8cutXcf4v0DQPodQQjVdeuBukHaWe94+3vHnRXdy0olUUfRrFc8uuy7U9N/wfKJ4FUoSNn9n4sBP7ZjRtH7yttafNfO4+LYJwHfcebOnC8x21QVQqgNrkOVqc2c6PbLzzpCdrg/N651yxON5oqW5Hb7QQ/mWgVTPURZMolZlSmfGQ/Dnuv+49i5yJgLwrxXguagynVqFMMTjixXsNTVUTUgIhkUCn+QvH/fLi5cHtH0XLq8C8rMo+kBgWC6wEKKHFct8x6HNCucT8BWDURXMRuj4XAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E53_brefIlYADesGensQuiMenervent/060.png",
+    "width": 1920
+  }
+}

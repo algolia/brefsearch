@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "En fait, c'est un peu\ncomme un poison lent, le gars.",
+    "end": 955,
+    "heatBucket": 1,
+    "index": 304,
+    "start": 951,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=951s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/951.mp4",
+    "hash": "ad40ad8d44",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJUlEQVR4nGWQy07CUBCGz5kzp5cDvaRtWmxtsQYVbyBBrYgxBDShC+tCY5DEjRsWxlfgBVy6ceW7+GamJVrBP7OamW/+mSF0SYRSWIQsyQBQJCEvEPLbUQoAGHBkUuzXrk4Pd+trDDhQhFzlyFIMEIDrQrzPbuePw2THbwQOoTzHfoglABkCyJFjfL7efcyyrBsOWnWhCKA89y6QVQdEpeEZb9Ph1/x5kmxeNGvboUsIFLOKY1ZXojz2rLQdv6S9yXk87W9kScxQzov/AUqoaQcnrf3+loOMp93woRc9XR+cdZoAbPGoEiCUcJRsN4qj+s1xZGnVUSccHYX3g73xZdv3A103EPEPQAhDlGWhqMJ3jKqqOGbF1IVn666lqRUtWA8lzr8B1xgdX3iONSQAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/951.png",
+    "width": 1280
+  }
+}

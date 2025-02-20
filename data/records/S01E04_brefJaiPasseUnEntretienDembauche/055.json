@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 497,
+    "durationHuman": "1:46",
+    "durationInSeconds": 106,
+    "index": 4,
+    "isAgeRestricted": false,
+    "likeCount": 91737,
+    "name": "Bref. J'ai passé un entretien d'embauche.",
+    "season": 1,
+    "slug": "brefJaiPasseUnEntretienDembauche",
+    "videoId": "7_VQCD863CU",
+    "viewCount": 7182602
+  },
+  "line": {
+    "content": "parce que je suis un vrai déglingo.\nÇa m'a fait rigoler.",
+    "end": 57,
+    "heatBucket": 3,
+    "index": 20,
+    "start": 55,
+    "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=55s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E04_brefJaiPasseUnEntretienDembauche/055.mp4",
+    "hash": "724344f042",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAJBwkMDg4QFBQQExEsLCuVkpSfnKCgnaKnpKuloql9eHuUkZqMjZypmZLdyMHQu7EACQEECgcIDAwNDRAQIiEflpKTpqOnrquvvLnBaWJkKRwVYVVVhoeTtaej59XQ2MS5AAgABAkEBgkKCxAODUE1MJiVlqajp4OAhG5na0k2MVU3K15EPFRPUpeJhL2on7ujkwAIAAMIAAMJCQobExJQPjiWkZCFgoI2Li0yJyYyJSJDKSAvIR4sJCNORUBNQTxQQToACAEECgUGGRYUOCsmUEQ+lpGPfHl4JR0cLCMhLyUiMicjHxgWIRkXeHJ0npuhjYmQAAkBBAsHBzMsKUY0LVVOSo+NiXVxbyMbGhYPDSQcGVJAOSkgHRIMDDYuLpuXnJ6bogAJAQQHAQMYFxpOSktwb2yDgX5dWFYkGxoTDQ4LCAhKOzQsHxs6NTMkHRtiXF6dnKMACQMFCwoLAwgINT09d318d3x6VllYKCIhJRwcQS0nclNIPTIvMCwuV05LiG5olYqLAAkFBgoLDAsQEAkRDyw0M4eLlaenuGdobyMmJEg1LXVZUpSVooiGkHFlYXJVToZ7h4FNgnQH0YzRAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/055.png",
+    "width": 1920
+  }
+}

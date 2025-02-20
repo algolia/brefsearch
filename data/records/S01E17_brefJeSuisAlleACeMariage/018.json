@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1100,
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "isAgeRestricted": false,
+    "likeCount": 118681,
+    "name": "Bref. Je suis allé à ce mariage.",
+    "season": 1,
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw",
+    "viewCount": 11162618
+  },
+  "line": {
+    "content": "La mariée a lancé le bouquet,\nune fille l'a attrapé.",
+    "end": 20,
+    "heatBucket": 3,
+    "index": 10,
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=18s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E17_brefJeSuisAlleACeMariage/018.mp4",
+    "hash": "2c2455cb58",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCMe2+YiX6jkoeZiX5dTEA1Jh8rHhg6LiiPfnWol42cin+Ed2ZgUTlSQSFURSdBMhkAnot/o5CDsJyOnIl9KhsTjmhZlm1dMR0VSz0vgG1eY1hTioaKlZWWV1E0PDIMOzQSAKeThqeShKSQhJWHf3BRQ5VqWZRlVEguIyYeDEIuHmtMQFI5LF5ST4J9dzcvDz83EwB4XUZ8YE1oRTlaOjB8W0qKYE95UEBLMCU3Lh9nSTmveWWAVkU1IhpIOi80KhkuJhEAWTkkUDQeRy0aRykWU0Q6fFpMXj4xQC4ePzQhYEQ2lGVTkWNSXTstRDIkQDUgPjIeAE5AJFRDJ21iUZSTk4ujuUtEREY3MVBDMFY/JmJCK4lbTZNiUWY/MFU/KVZEIVRDIwBrVkKxsLXEytbQ1OCcrsRmdIYzN0JRSEh6bm1+ZlJ9Xj14RzKHZVyPdmRhRR1lTigAhXRmx8zcwcbRxsnUrbnKrr7Sd4iem5mgxsnVm5WNVEAZWz4qr42EsXVdcFAuTkEcAI1/frCyvbW2wL7BzL7BzcDF06i2ycDF0cXH0KabmWBBL4JkW6t+bqhpToFNOEg9G5v4rCyXqp26AAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E17_brefJeSuisAlleACeMariage/018.png",
+    "width": 1920
+  }
+}

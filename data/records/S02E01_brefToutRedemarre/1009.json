@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "Salut, Ligue Galérienne.\nSalut, Ligue Galérienne.",
+    "end": 1011,
+    "heatBucket": 1,
+    "index": 320,
+    "start": 1009,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1009s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1009.mp4",
+    "hash": "f5238d37cd",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABlUlEQVR4nE3NT0/TUAAA8HpwtK/t+9PX1/dKu/V1W2lH13ajbm6SwRagQBgcmZhBQlBAEz16UhMSiDcT7570C/gRjX8OfoBffsrjFa2mgpoKNA1YhsGh6SKTY8gxEhgKZLoI2oZuAWABgDWg6Mg2MDOIwyhPXFE2vNStl1JOO61p0pwlzc12kHsidfm6cNY4U3Ro6YgayOaE9prBII2vD5vzQZCFchCFo0gOQ7+oe39B7DBFR1RHFGM7sMiszLtF//Mpvl8wB5G3B7124EGLNYTI/dVUOJ3fwx/ACI1tejbdKLP0/Kn+cgzfHG9+vZhUhfcIYE/wsfRz4XQc+x+wIa6y6MPlfNVxb4/E/c32z2+fvt8tT4bt8XprkkVX273e/0BAtJw9ebg8WG71i6DebwUX1ej53nBN+rNu9O742eu98nTYiQhWDMwgopKQ62r05dX8brFzUiQ7kdyPg0r6XZf7lvWw3P3xfvHxRZUyW6mtgJqqEVXL63ySynHc2Eha0nWopoYEER2YqjpJw7PdcqvMmGn8AukIQmerZC7yAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1009.png",
+    "width": 1280
+  }
+}

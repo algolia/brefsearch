@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1100,
+    "durationHuman": "1:41",
+    "durationInSeconds": 101,
+    "index": 17,
+    "isAgeRestricted": false,
+    "likeCount": 118681,
+    "name": "Bref. Je suis allé à ce mariage.",
+    "season": 1,
+    "slug": "brefJeSuisAlleACeMariage",
+    "videoId": "gx9ph_0tzRw",
+    "viewCount": 11162618
+  },
+  "line": {
+    "content": "Bref, je suis allé à ce mariage.",
+    "end": 88,
+    "heatBucket": 2,
+    "index": 35,
+    "start": 87,
+    "url": "https://www.youtube.com/watch?v=gx9ph_0tzRw&t=87s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E17_brefJeSuisAlleACeMariage/087.mp4",
+    "hash": "2ab7c2aa73",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYFJREFUeJwVzktv0zAAAOC0ArRNtF3bJHbiR2I7Tuy8U8dpuxKVMVXaBpo0Tbv1hOCA4AL//4D2Az7pc5i7kP6qIUGFYc/JXsaGkSGJ89C/fjcpgXceyr935vdtn3mzyw9TRwdehYHlpOf4kxKj4j2jQ8JKBJbvpxp4j4U8b/Nfx86glXbnTo1BS6DlxDC8l+yQMsPoVvICwcV00gTuUy0fc/HvNLy0yQ+Tv4GGAMNJF4VvpZT1PBoSXmA4n0x3FH7flT8Pmz+fu3OfnRLiVMivsLeJUUMDy+mxkNsktpLnKFhMHHh1cUPBg6LfcvJVU0Ogo0O3CP2WBhUONjEZtbQi7iUvCUILl4Moh55YXYnl5YMirzejo+FaB+sKwxLBNkI2iToe9VJUrORhqmgtQiGhv2P42dqX8d5h63niLwsECgSbCFkRW8lakSlaV7wpWZeRvGN8n+o7Mz4dTg6YXeDrjyl0s9AvSWBEtM9EzVSbmNvNl7E5NqJfzdwIEKuMVd1/6utBCf1AXN8AAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E17_brefJeSuisAlleACeMariage/087.png",
+    "width": 1920
+  }
+}

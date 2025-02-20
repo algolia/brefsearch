@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 559,
+    "durationHuman": "1:44",
+    "durationInSeconds": 104,
+    "index": 15,
+    "isAgeRestricted": false,
+    "likeCount": 109536,
+    "name": "Bref. J'ai fait les courses avec mon frère.",
+    "season": 1,
+    "slug": "brefJaiFaitLesCoursesAvecMonFrere",
+    "videoId": "Htm39YuNOog",
+    "viewCount": 8961396
+  },
+  "line": {
+    "content": "— Prends ceux-là.",
+    "end": 37,
+    "heatBucket": 2,
+    "index": 18,
+    "start": 35,
+    "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=35s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E15_brefJaiFaitLesCoursesAvecMonFrere/035.mp4",
+    "hash": "23892c3540",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwV1v0lAAANAmkxYG5XL7dSncUkrLLW1pocjozMBuGWFDpRKYk7BhQARF54xmiVnUZPpksgdffPN37Hl/zXMoLsUVeFEVJCHNy1Bc9MOPo+67aP/rbPi03fB01cDZIha1guQY+U/TARVnQCoB2SQHWYGNZ7q+e3s5+7WefJuPOlUTA4ihYKlZUsoSDQ0PGhTNAJrJMAzcTnAgkenWrd/vJz8Wo+v5KAq8dbvy4iGpYtE35bBeGOzpFE2zNJ2O0QAkYAfLZ2Hz9mJ6sxzfvBlPQv9t27w6boSVvGtI/Zby53OPim0l6Rj7IAZwPH1qqucd73LY+f4q2jw/3LX0Ay0fuaUdvdAkymbo3N/9pdh4mt5ihRQMkPRYkU9a5uqwFlTKIkQckBQgnDjFvm8T1XgSWPd3/6j9Ym5HzfXKysDRfCStdqtXYWNskxwQZUFWET5ySccmeYRtrfRz2afOBXZRUydN/UjHZ6Zx4Vc3dedL0xsTI5PiZF5GvCxkUEVRT/fqr3uPqBncnqPkSzM3JfrKJkubrF1r7Vof6k4N5VJJHnFZCFCrrF0/a0WB9x8DQVJEjJn3WQAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E15_brefJaiFaitLesCoursesAvecMonFrere/035.png",
+    "width": 1920
+  }
+}

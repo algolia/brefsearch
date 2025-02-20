@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 861,
+    "durationHuman": "2:52",
+    "durationInSeconds": 172,
+    "index": 75,
+    "isAgeRestricted": false,
+    "likeCount": 89384,
+    "name": "Bref. J'ai tout cassé.",
+    "season": 1,
+    "slug": "brefJaiToutCasse",
+    "videoId": "9u9X-FzVWZ0",
+    "viewCount": 7053468
+  },
+  "line": {
+    "content": "Un mec Il est arrivé, il a dit...\nC'est qui ?",
+    "end": 121,
+    "heatBucket": 3,
+    "index": 48,
+    "start": 119,
+    "url": "https://www.youtube.com/watch?v=9u9X-FzVWZ0&t=119s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E75_brefJaiToutCasse/119.mp4",
+    "hash": "4283391aeb",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXpJREFUeJwly0tzmkAAAGAOHRmXZd+wC8gboovgGsAoJiZtbTNpncRDOtPHvf//L/TQ7/5Z2HE5dBIpV2l6XK+2ZREINQd0ZqOZTc67/Glox7Zvi0JgMrddi7lQIFhF0WFZvu/NdWgV9/8HCPkyK/pmc2d6U+YxZ9RFlsSuh+Guys5Gf92snpq6jhYA0A8zDBzOqErC7LBu7nXZLFQsmCVcqCh61MXf8/73dPuoqy/d0sMMOhg6jGJpdHd9OHwfmj6LEo9bAUUhQ6Xk17F9NXoq0y5NfEJjjwhMFir+dj/9+Xy49DfbNEg8ZkmCFMWJVKemfNmsjnWBXI5cHnssZLSr6sv+9m2nPzaZjvzU4xaFmCCRBfHPoxmrPPFVwGWk4vmcSi6nbv3ct8+m7LMw90UouEWxcB2KIP3UrX6dhpfteqzLNEpnNinC+HUaL3fmpHMd+bHgnBALAgwBAYDYNsqD8GaRMOJnYQIAHer8x0N/Nss+j2olJKOUkH846TYvc85X1QAAAABJRU5ErkJggg==",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E75_brefJaiToutCasse/119.png",
+    "width": 1920
+  }
+}

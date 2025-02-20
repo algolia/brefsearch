@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 623,
+    "durationHuman": "38:39",
+    "durationInSeconds": 2319,
+    "index": 1,
+    "isAgeRestricted": false,
+    "likeCount": 17174,
+    "name": "Bref. Tout redémarre.",
+    "season": 2,
+    "slug": "brefToutRedémarre",
+    "videoId": "_OymDvz34Pc",
+    "viewCount": 1072683
+  },
+  "line": {
+    "content": "L'abus de ma compagne AX3 000\nn'engage ni la responsabilité\ndu laboratoire, ni celle du\nmédecin incompétent ou de le prescrit.",
+    "end": 1917,
+    "heatBucket": 1,
+    "index": 643,
+    "start": 1912,
+    "url": "https://www.youtube.com/watch?v=_OymDvz34Pc&t=1912s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S02E01_brefToutRedemarre/1912.mp4",
+    "hash": "615c1599ac",
+    "height": 720,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABT0lEQVR4nBWO2W7bMBRE55KiuJMiJZuirdSxvGSxExdGUbRJi/a9//8/hYDB4LwMzgCthg0ICTaCCzABZcBbMo5cJBsp9ujXKBXjdgGogFCQKvkVCUvCtD5zP/Dpifdb8gOvB6QRYUXrCfMryA5kB3QVoZRpr33e3+7ztw+kafxy9N0KrYOKS4cBuzNIdaQzuo16+5XnV9kX9/TVjo9U9iZXYbrGRJ3WrU+IAx6OQKMgA5nkLj9YPcEN0JGEE5sTdSNikXkcpl0s2+VwXGHRyUAqurQqx4uqBwjXSltuP9nu2mzPLG8gLBoNYcR0AqQnGcBk44cwndPj83T/rPPz7vuf/d9/6fbB6pGpAGEAQUximUqPRpPNKAc93/rDdTxd83xZ33+H90/28EK2R2Nc7LlyAHHwdkkjSXvyGSoo67ntoAOFgbkEaRgXdTMJqf8DxnIaP+W4IRAAAAAASUVORK5CYII=",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S02E01_brefToutRedemarre/1912.png",
+    "width": 1280
+  }
+}

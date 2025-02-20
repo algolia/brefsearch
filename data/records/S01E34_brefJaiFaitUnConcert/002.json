@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 295,
+    "durationHuman": "2:00",
+    "durationInSeconds": 120,
+    "index": 34,
+    "isAgeRestricted": false,
+    "likeCount": 65615,
+    "name": "Bref. J'ai fait un concert.",
+    "season": 1,
+    "slug": "brefJaiFaitUnConcert",
+    "videoId": "04gASg8-J3Y",
+    "viewCount": 5216215
+  },
+  "line": {
+    "content": "Bref, ça faisait un an que je jouais\nde la guitare et j'allais\nfaire mon premier concert.",
+    "end": 6,
+    "heatBucket": 5,
+    "index": 1,
+    "start": 2,
+    "url": "https://www.youtube.com/watch?v=04gASg8-J3Y&t=2s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E34_brefJaiFaitUnConcert/002.mp4",
+    "hash": "6ad412a040",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCckZeto6fEu8CjmJlgUEm2op7e1Nnb0dXg1tzf1drs5ujMwbyQhYLSy87SzNK2qq0AraKnwbe8187TTENAIhAFkW5e287Q2c/T3dPX3dLX5+DhlW9gVjQk2tDP7OfsyLy+ALqvs87EyLmrqlxLQ1EuIYNdTdbJytjP09rR1NnP0uHX13hVRnZOO9bIxfTu8trR1ACrmZGUfG1nUkVrVEZ5Y1iwop7Mvr7Ds7PQwMLPw8XYy8hlRTNWPC92Z2Xg1tje1dcAnYd9XkY2TDkvY05BjnlvmY+MjHNoo4d/j25prJyYxbm4RDIpQDMyXlBLzL692c/PAJR4YlA9MjkpIGBKPXZhVmxQQYNqXYBpYFc6LXFaUHtqZCglJD4yKnNjX7OioMi2swB2WUVEMyc1KB8/LyVbST+KcmWHcWiXjIl+cGphT0poTURJPTtZUE5uYmWRfXiolIcAWkQ4NykfIBYQGhAMMx0UVD0yXEpBSkI/RUJCQjs6V0I5TkRDVExWcmVicV1haUlYAEQzKDIlHBUNCAoIB1UmEWYwFCEgHi8rKUY8NIh2Z4BuajYYL0chO1wzT1QqSEgcRpElzdBZoXgvAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E34_brefJaiFaitUnConcert/002.png",
+    "width": 1920
+  }
+}
