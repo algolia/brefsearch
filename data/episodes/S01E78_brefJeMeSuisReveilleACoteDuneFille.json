@@ -193,7 +193,7 @@
       "start": 65
     },
     {
-      "content": "Elle a dit: Je me suis relevé.",
+      "content": "Elle a dit:\n— *mmrrblll*\nJe me suis relevé.",
       "end": 70,
       "heatBucket": 5,
       "heatValue": 55,
@@ -214,7 +214,7 @@
       "start": 71
     },
     {
-      "content": "Elle n'a rien dit d'autre.",
+      "content": "Elle a rien dit d'autre.",
       "end": 78,
       "heatBucket": 2,
       "heatValue": 26,
@@ -256,7 +256,7 @@
       "start": 84
     },
     {
-      "content": "Elle a dit: Tu peux partir quand tu veux.",
+      "content": "Elle a dit:\n— Tu peux partir quand tu veux.",
       "end": 92,
       "heatBucket": 4,
       "heatValue": 41,
@@ -277,21 +277,21 @@
       "start": 95
     },
     {
-      "content": "J'ai rêvé que ton père t'appelait\nparce que ta mère avait un problème.",
+      "content": "— J'ai rêvé que ton père t'appelait\nparce que ta mère avait un problème.",
       "end": 102,
       "heatBucket": 3,
       "heatValue": 35,
       "start": 99
     },
     {
-      "content": "Et t'avais un bras en moins et tu avais\nun bras en moins, et tu me disais que t'étais gay.",
+      "content": "— Et t'avais un bras en moins,\net tu me disais que t'étais gay.",
       "end": 107,
       "heatBucket": 2,
       "heatValue": 22,
       "start": 104
     },
     {
-      "content": "Et après, il y avait une girafe.\nChut.",
+      "content": "— Et après, il y avait une girafe.\n— Chut.",
       "end": 113,
       "heatBucket": 1,
       "heatValue": 13,

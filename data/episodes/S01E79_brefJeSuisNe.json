@@ -46,49 +46,49 @@
       "start": 5
     },
     {
-      "content": "Carnage de la salle de bains !",
+      "content": "— Carrelage de la salle de bains !",
       "end": 10,
       "heatBucket": 5,
       "heatValue": 55,
       "start": 8
     },
     {
-      "content": "Non !",
+      "content": "— Non !",
       "end": 11,
       "heatBucket": 5,
       "heatValue": 55,
       "start": 10
     },
     {
-      "content": "Revue par non !",
+      "content": "— Revue porno !",
       "end": 13,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 53,
       "start": 11
     },
     {
-      "content": "Non !",
+      "content": "— Non !",
       "end": 14,
       "heatBucket": 4,
       "heatValue": 49,
       "start": 13
     },
     {
-      "content": "Sopalin !",
+      "content": "— Sopalin !",
       "end": 16,
       "heatBucket": 4,
       "heatValue": 45,
       "start": 14
     },
     {
-      "content": "Non !",
+      "content": "— Non !",
       "end": 17,
       "heatBucket": 4,
       "heatValue": 42,
       "start": 16
     },
     {
-      "content": "Il y a des mecs payés\npour faire ce dessin ?",
+      "content": "— Il y a des mecs payés\npour faire ce dessin ?",
       "end": 19,
       "heatBucket": 4,
       "heatValue": 40,
@@ -97,7 +97,7 @@
     {
       "content": "Trois minutes après, c'était le départ.",
       "end": 21,
-      "heatBucket": 3,
+      "heatBucket": 4,
       "heatValue": 37,
       "start": 19
     },
@@ -109,28 +109,28 @@
       "start": 21
     },
     {
-      "content": "Allez, mes Zetins, on se remue le plagelle\net on fonce tout droit jusqu'à l'ovule.",
+      "content": "— Allez, mes têtards, on se remue le flagelle\net on fonce tout droit jusqu'à l'ovule.",
       "end": 26,
       "heatBucket": 3,
       "heatValue": 26,
       "start": 23
     },
     {
-      "content": "Non !",
+      "content": "— Non !",
       "end": 27,
       "heatBucket": 3,
       "heatValue": 22,
       "start": 26
     },
     {
-      "content": "Allez-y, les mecs, continuez sans moi.",
+      "content": "— Allez-y, les mecs, continuez sans moi.",
       "end": 30,
       "heatBucket": 3,
       "heatValue": 21,
       "start": 27
     },
     {
-      "content": "Ok.\nJ'ai traversé des vallées obscures.",
+      "content": "— Ok.\nJ'ai traversé des vallées obscures.",
       "end": 32,
       "heatBucket": 2,
       "heatValue": 19,
@@ -172,14 +172,14 @@
       "start": 40
     },
     {
-      "content": "Je lui ai dit: Mec, tu es chelou, ça va ?\nNon, ça va pas.",
+      "content": "Je lui ai dit:\n— Mec, t'es chelou, ça va ?\n— Non, ça va pas.",
       "end": 44,
       "heatBucket": 2,
       "heatValue": 19,
       "start": 42
     },
     {
-      "content": "Je suis mal formé, putain,\nc'est à cause de l'alcool.",
+      "content": "— Je suis mal formé, putain,\nc'est à cause de l'alcool.",
       "end": 47,
       "heatBucket": 1,
       "heatValue": 18,
@@ -214,35 +214,35 @@
       "start": 50
     },
     {
-      "content": "Il aurait des beaux\ncheveux et il me cuirait.",
+      "content": "Il aurait des beaux\ncheveux et il me dirait:",
       "end": 55,
       "heatBucket": 1,
       "heatValue": 15,
       "start": 53
     },
     {
-      "content": "Ovula ?\nJohnny, c'est toi ?",
+      "content": "— Ovula ?\n— Johnny, c'est toi ?",
       "end": 57,
       "heatBucket": 1,
       "heatValue": 15,
       "start": 55
     },
     {
-      "content": "Ovula.\nJe suis là maintenant.",
+      "content": "— Ovula. Je suis là maintenant.",
       "end": 59,
       "heatBucket": 1,
       "heatValue": 15,
       "start": 57
     },
     {
-      "content": "Je t'aime.",
+      "content": "— Je t'aime.",
       "end": 60,
       "heatBucket": 1,
       "heatValue": 15,
       "start": 59
     },
     {
-      "content": "Johnny.",
+      "content": "— Ah, Johnny.",
       "end": 61,
       "heatBucket": 1,
       "heatValue": 16,
@@ -256,7 +256,7 @@
       "start": 61
     },
     {
-      "content": "C'est vous, bordel !",
+      "content": "— Poussez-vous, bordel !",
       "end": 64,
       "heatBucket": 1,
       "heatValue": 18,
@@ -291,14 +291,14 @@
       "start": 68
     },
     {
-      "content": "Elle m'a dit: T'as des cheveux\ndans ton code génétique ?",
+      "content": "Elle m'a dit:\n— T'as des cheveux dans ton code génétique ?",
       "end": 72,
       "heatBucket": 3,
       "heatValue": 32,
       "start": 70
     },
     {
-      "content": "J'ai dit: Bien sûr.",
+      "content": "J'ai dit:\n— Bha, bien sûr.",
       "end": 73,
       "heatBucket": 4,
       "heatValue": 38,
@@ -340,25 +340,18 @@
       "start": 80
     },
     {
-      "content": "Hé, les mecs, il y a quelqu'un ?",
+      "content": "— Hé, les mecs, il y a quelqu'un ?",
       "end": 87,
       "heatBucket": 1,
       "heatValue": 17,
       "start": 84
     },
     {
-      "content": "Ouais, il y a moi,\nmais je crois que c'est mort.",
+      "content": "— Ouais, il y a moi,\nmais je crois que c'est mort, là.",
       "end": 90,
       "heatBucket": 1,
       "heatValue": 8,
       "start": 87
-    },
-    {
-      "content": "Là.",
-      "end": 91,
-      "heatBucket": 1,
-      "heatValue": 6,
-      "start": 90
     }
   ],
   "video": {

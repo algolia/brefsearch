@@ -11,7 +11,7 @@
   },
   "lines": [
     {
-      "content": "Capitaine, capitaine,\nvous n'êtes pas le capitaine.",
+      "content": "— Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
       "end": 2,
       "heatBucket": 5,
       "heatValue": 65,
@@ -32,14 +32,14 @@
       "start": 4
     },
     {
-      "content": "J'ai pleuré.\nJe me suis dit que j'étais fatigué.",
+      "content": "J'ai pleuré.\n— C'est pas la bonne clé.\nJe me suis dit que j'étais fatigué.",
       "end": 10,
       "heatBucket": 3,
       "heatValue": 22,
       "start": 8
     },
     {
-      "content": "Je me suis couché, j'ai reploré.",
+      "content": "Je me suis couché, j'ai repleuré.",
       "end": 13,
       "heatBucket": 3,
       "heatValue": 18,
@@ -53,14 +53,14 @@
       "start": 13
     },
     {
-      "content": "Je me suis réveillé, j'ai re-reploré.",
+      "content": "Je me suis réveillé, j'ai re-repleuré.",
       "end": 17,
       "heatBucket": 1,
       "heatValue": 12,
       "start": 14
     },
     {
-      "content": "Les gens m'ont dit: Tu\nfais une dépression.",
+      "content": "Les gens m'ont dit:\n— Tu.\n— Fais\n— Une.\n— Dépression.",
       "end": 19,
       "heatBucket": 1,
       "heatValue": 12,
@@ -116,14 +116,14 @@
       "start": 33
     },
     {
-      "content": "Et quand tu essaies d'appeler\nle dépanneur, tu te rends compte\nque le dépanneur, c'est toi.",
+      "content": "Et quand t'essaies d'appeler\nle dépanneur, tu te rends compte\nque le dépanneur, c'est toi.",
       "end": 41,
       "heatBucket": 1,
       "heatValue": 12,
       "start": 36
     },
     {
-      "content": "Au sous-sol, il y a tous\nles trucs que tu as enfouis\net que tu n'as pas envie d'affronter.",
+      "content": "Au sous-sol, il y a tous\nles trucs que t'as enfouis\net que t'as pas envie d'affronter.",
       "end": 47,
       "heatBucket": 1,
       "heatValue": 8,
@@ -144,7 +144,7 @@
       "start": 49
     },
     {
-      "content": "Et une nuit, les plans ont sauté.",
+      "content": "Et une nuit, les plombs ont sauté.",
       "end": 53,
       "heatBucket": 1,
       "heatValue": 4,
@@ -158,42 +158,42 @@
       "start": 53
     },
     {
-      "content": "Les seules que j'avais, c'était celle\nde la fille dont j'étais un peu, Marla.",
+      "content": "Les seules que j'avais, c'était celle\nde la fille dont j'étais amoureux, Marla.",
       "end": 61,
       "heatBucket": 1,
       "heatValue": 2,
       "start": 57
     },
     {
-      "content": "Je suis tombé sur un mot qu'elle\nm'avait écrit un jour en disant: Tiens.",
+      "content": "Je suis tombé sur un mot qu'elle\nm'avait écrit un jour en disant:",
       "end": 65,
       "heatBucket": 1,
       "heatValue": 7,
       "start": 61
     },
     {
-      "content": "C'est quoi ?",
+      "content": "— Tiens.\n— C'est quoi ?",
       "end": 67,
       "heatBucket": 1,
       "heatValue": 10,
       "start": 66
     },
     {
-      "content": "Tu me dis que si un jour,\ntu n'es vraiment pas bien, OK ?",
+      "content": "— Tu le lis que si un jour,\nt'es vraiment pas bien, OK ?",
       "end": 71,
       "heatBucket": 1,
       "heatValue": 12,
       "start": 67
     },
     {
-      "content": "Ok.",
+      "content": "— Ok.",
       "end": 73,
       "heatBucket": 1,
       "heatValue": 9,
       "start": 71
     },
     {
-      "content": "Je n'étais vraiment pas\nbien, alors je l'ai lu.",
+      "content": "— J'étais vraiment pas\nbien, alors je l'ai lu.",
       "end": 78,
       "heatBucket": 1,
       "heatValue": 6,
@@ -235,7 +235,7 @@
       "start": 91
     },
     {
-      "content": "Le boss, c'était à mes parents.",
+      "content": "Le boss, c'était mes parents.",
       "end": 98,
       "heatBucket": 1,
       "heatValue": 11,
@@ -291,7 +291,7 @@
       "start": 112
     },
     {
-      "content": "Je me suis rendu compte que la solution,\nc'était de buter le mec qui criait fight.",
+      "content": "Je me suis rendu compte que la solution,\nc'était de buter le mec qui criait \"Fight\".",
       "end": 115,
       "heatBucket": 5,
       "heatValue": 83,
@@ -368,14 +368,14 @@
       "start": 133
     },
     {
-      "content": "Il y a quoi d'écrit sur le mot, alors ?",
+      "content": "— Il y a quoi d'écrit sur le mot, alors ?",
       "end": 140,
       "heatBucket": 5,
       "heatValue": 76,
       "start": 137
     },
     {
-      "content": "C'est pas ce qui est\nécrit qui est important..",
+      "content": "— C'est pas ce qui est\nécrit qui est important.",
       "end": 141,
       "heatBucket": 5,
       "heatValue": 93,

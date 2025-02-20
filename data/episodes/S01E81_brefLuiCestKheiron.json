@@ -32,7 +32,7 @@
       "start": 4
     },
     {
-      "content": "Désolé, j'ai perdu ma chaussure.",
+      "content": "— Désolé, j'ai perdu ma chaussure.",
       "end": 13,
       "heatBucket": 2,
       "heatValue": 33,
@@ -46,7 +46,7 @@
       "start": 13
     },
     {
-      "content": "L'idée, c'est que...",
+      "content": "— L'idée, c'est que...",
       "end": 17,
       "heatBucket": 2,
       "heatValue": 32,
@@ -60,7 +60,7 @@
       "start": 17
     },
     {
-      "content": "Jamais, jamais, jamais, jamais, jamais.",
+      "content": "— Jamais, jamais, jamais, jamais, jamais.",
       "end": 24,
       "heatBucket": 2,
       "heatValue": 29,
@@ -130,7 +130,7 @@
       "start": 51
     },
     {
-      "content": "C'est qui cette fille avec qui\ntu es allé au cinéma hier ?",
+      "content": "— C'est qui cette fille avec qui\nt'es allé au cinéma hier ?",
       "end": 55,
       "heatBucket": 3,
       "heatValue": 41,
@@ -144,14 +144,14 @@
       "start": 55
     },
     {
-      "content": "Aline, ma sœur.\nÇa vient de lui.",
+      "content": "— Aline, ma sœur.\nÇa vient de lui.",
       "end": 59,
       "heatBucket": 4,
       "heatValue": 52,
       "start": 57
     },
     {
-      "content": "C'est lui qui m'a appris\nla technique de lire le livre\nà Basol et alors dans un square.",
+      "content": "C'est lui qui m'a appris\nla technique de lire le livre\n\"Papa seul, et alors ?\" dans un square.",
       "end": 61,
       "heatBucket": 5,
       "heatValue": 66,
@@ -193,14 +193,14 @@
       "start": 70
     },
     {
-      "content": "Salut.",
+      "content": "— Salut.",
       "end": 73,
       "heatBucket": 3,
       "heatValue": 35,
       "start": 72
     },
     {
-      "content": "Et ça, ça veut dire et elle\naime bien les fruits.",
+      "content": "Et ça, ça veut dire que...\nelle aime bien les fruits.",
       "end": 75,
       "heatBucket": 2,
       "heatValue": 33,
@@ -221,21 +221,21 @@
       "start": 78
     },
     {
-      "content": "36,02.\nTu t'appelles comment ?",
+      "content": "— 36 02.\n— Tu t'appelles comment ?",
       "end": 83,
       "heatBucket": 1,
       "heatValue": 24,
       "start": 81
     },
     {
-      "content": "Sophie.\nBon, bah, à bientôt.",
+      "content": "— Sophie.\n— Bon, bah, à bientôt.",
       "end": 84,
       "heatBucket": 1,
       "heatValue": 24,
       "start": 83
     },
     {
-      "content": "Je t'appelle demain.",
+      "content": "— Je t'appelle demain.",
       "end": 89,
       "heatBucket": 1,
       "heatValue": 27,
@@ -244,37 +244,37 @@
     {
       "content": "Bref, en fait, Kheiron,\nc'est un mec dans ma tête.",
       "end": 109,
-      "heatBucket": 1,
-      "heatValue": 27,
-      "start": 89
+      "heatBucket": 2,
+      "heatValue": 31,
+      "start": 95
     },
     {
-      "content": "Attends, tu l'as jeté\nta chaussure marché ?",
+      "content": "— Attends mais, tu lui as jeté\nta chaussure ?",
       "end": 121,
       "heatBucket": 1,
       "heatValue": 17,
       "start": 117
     },
     {
-      "content": "Ouais.",
+      "content": "— Ouais.\n— Et ça a marché ?",
       "end": 122,
       "heatBucket": 1,
       "heatValue": 22,
       "start": 121
     },
     {
-      "content": "Je l'ai jetée doucement.",
+      "content": "— Ouais.",
       "end": 126,
       "heatBucket": 1,
       "heatValue": 22,
       "start": 124
     },
     {
-      "content": "Ouais.",
+      "content": "— Mais, je l'ai jetée doucement, hein.\n— Ah, ouais...",
       "end": 127,
       "heatBucket": 1,
-      "heatValue": 18,
-      "start": 126
+      "heatValue": 20,
+      "start": 125
     }
   ],
   "video": {

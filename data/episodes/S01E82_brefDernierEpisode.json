@@ -39,14 +39,14 @@
       "start": 6
     },
     {
-      "content": "Ce qui m'a toujours énervé, c'est pas les\ngens qui jettent leur papier par terre,\nc'est les gens qui jettent leur papier\npar terre juste à côté de la poubelle.",
+      "content": "Bref. Ce qui m'a toujours énervé, c'est pas les\ngens qui jettent leur papier par terre,\nc'est les gens qui jettent leur papier\npar terre juste à côté de la poubelle.",
       "end": 11,
       "heatBucket": 5,
       "heatValue": 37,
       "start": 7
     },
     {
-      "content": "Je me suis toujours dit\nque si j'en attrapais un,\nje raterais pas la poubelle.\nÀ un moment, on a arrêté de parler.",
+      "content": "Je me suis toujours dit\nque si j'en attrapais un,\nje raterais pas la poubelle.\nOn s'était retrouvé dans ce square. À un moment, on a arrêté de parler.",
       "end": 15,
       "heatBucket": 5,
       "heatValue": 25,
@@ -55,7 +55,7 @@
     {
       "content": "J'ai eu envie de l'embrasser.",
       "end": 16,
-      "heatBucket": 2,
+      "heatBucket": 1,
       "heatValue": 15,
       "start": 15
     },
@@ -67,7 +67,7 @@
       "start": 16
     },
     {
-      "content": "Je me suis assis\nsur un bon pour l'attendre.",
+      "content": "Je me suis assis\nsur un banc pour l'attendre.",
       "end": 20,
       "heatBucket": 1,
       "heatValue": 12,
@@ -88,7 +88,7 @@
       "start": 24
     },
     {
-      "content": "Je rentre dans le bureau de mon boss\net je lui dis c'est fini.",
+      "content": "Demain je rentre dans le bureau de mon boss\net je lui dis c'est fini.",
       "end": 28,
       "heatBucket": 1,
       "heatValue": 12,
@@ -102,7 +102,7 @@
       "start": 28
     },
     {
-      "content": "Je veux me lancer dans l'humanitaire,\nje veux être délégué.",
+      "content": "Je vais me lancer dans l'humanitaire,\nje veux aider les gens.",
       "end": 30,
       "heatBucket": 1,
       "heatValue": 9,
@@ -116,14 +116,14 @@
       "start": 30
     },
     {
-      "content": "J'ai quand même mis mes écouteurs\npour éviter les relous\nqui m'abordent dans l'art.",
+      "content": "J'ai quand même mis mes écouteurs\npour éviter les relous\nqui m'abordent dans la rue.",
       "end": 35,
       "heatBucket": 1,
       "heatValue": 5,
       "start": 32
     },
     {
-      "content": "Cette fille arrivée, je me suis dit\nqu'elle allait lui jouer\nmon morceau: Special Meuf.",
+      "content": "Quand cette fille est arrivée, je me suis dit\nqu'elle allait lui jouer\nmon morceau Special Meuf.\n— Je suis seul...",
       "end": 37,
       "heatBucket": 1,
       "heatValue": 3,
@@ -144,13 +144,6 @@
       "start": 39
     },
     {
-      "content": "C'était exactement le rôle.",
-      "end": 43,
-      "heatBucket": 1,
-      "heatValue": 3,
-      "start": 41
-    },
-    {
       "content": "Et puis j'ai vu ce panneau: interdit\nde marcher sur la pelouse.",
       "end": 45,
       "heatBucket": 1,
@@ -165,14 +158,14 @@
       "start": 45
     },
     {
-      "content": "J'avais envie de l'embrasser,\nalors je l'ai regardé.",
+      "content": "J'avais envie de l'embrasser,\nalors je l'ai regardée.",
       "end": 51,
       "heatBucket": 2,
       "heatValue": 16,
       "start": 49
     },
     {
-      "content": "Elle m'a regardé.\nJe l'ai regardé.",
+      "content": "Elle m'a regardé.\nJe l'ai regardée.",
       "end": 52,
       "heatBucket": 2,
       "heatValue": 21,
@@ -207,23 +200,30 @@
       "start": 62
     },
     {
-      "content": "Manger, jouer, jouer, manger, jouer,\njouer, manger, jouer, jouer, jouer,\njouer, Les connasses qui me bousculent.",
-      "end": 75,
+      "content": "Manger, jouer, jouer, manger, jouer,\njouer, manger, jouer, jouer, jouer,\njouer. Oh un pigeon, un pigeon, un pigeon,\nun pigeon.",
+      "end": 70,
       "heatBucket": 2,
-      "heatValue": 22,
+      "heatValue": 21,
       "start": 64
     },
     {
-      "content": "J'ai regardé ma montre, j'étais en retard.",
+      "content": "Manger, jouer, jouer, manger, jouer,\njouer, manger, jouer, jouer, jouer,\nOh, une meuf. Baiser. Baiser. Baiser.",
       "end": 77,
       "heatBucket": 2,
-      "heatValue": 20,
+      "heatValue": 19,
+      "start": 70
+    },
+    {
+      "content": "Connasse qui me bouscule. J'ai regardé ma montre, j'étais en retard.",
+      "end": 76,
+      "heatBucket": 2,
+      "heatValue": 21,
       "start": 75
     },
     {
       "content": "À chaque fois que je suis en retard, je me\nfais la liste des raisons de ce retard.",
       "end": 79,
-      "heatBucket": 2,
+      "heatBucket": 1,
       "heatValue": 15,
       "start": 77
     },
@@ -243,27 +243,20 @@
     },
     {
       "content": "Bref.",
-      "end": 88,
-      "heatBucket": 1,
-      "heatValue": 10,
-      "start": 87
-    },
-    {
-      "content": "Bref.",
-      "end": 101,
+      "end": 104,
       "heatBucket": 1,
       "heatValue": 5,
-      "start": 89
-    },
-    {
-      "content": "Ouais.",
-      "end": 107,
-      "heatBucket": 1,
-      "heatValue": 6,
       "start": 102
     },
     {
-      "content": "Ouais, t'inquiète, j'arrive au cinéma.\nÀ tout de suite.",
+      "content": "— Ouais ?",
+      "end": 108,
+      "heatBucket": 1,
+      "heatValue": 7,
+      "start": 107
+    },
+    {
+      "content": "— Ouais, t'inquiète, j'arrive au cinéma.\nÀ tout de suite.",
       "end": 113,
       "heatBucket": 1,
       "heatValue": 10,
