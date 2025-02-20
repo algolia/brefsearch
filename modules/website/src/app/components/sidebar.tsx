@@ -1,7 +1,11 @@
+import cx from 'classnames';
+
+import { X } from 'lucide-react';
 import { useEffect, useState } from 'react';
+import { Drawer } from 'vaul';
+
 import { BrefHit } from '../types';
 import { youtubeGivenTimeUrl } from '../utils/functions';
-import { Drawer } from 'vaul';
 
 const Sidebar = ({
   selectedVideo,
@@ -25,20 +29,33 @@ const Sidebar = ({
 
   const content = (
     <>
-      <header>
-        <div className="flex justify-between items-center p-4">
-          <button
-            className="text-white hover:text-blue-500"
-            onClick={() => setSelectedVideo(null)}
-          >
-            Fermer
-          </button>
-        </div>
-      </header>
-      <div className="p-8">
-        <h2 className="text-lg font-bold text-white">
-          {selectedVideo.episode.name}
-        </h2>
+      <span
+        className={cx(
+          'h-[5px] w-12 bg-white/20 block rounded-md mx-auto border-b-[1px] border-white/40',
+          'md:hidden',
+        )}
+      />
+
+      <div className="md:p-8">
+        <header
+          className={cx(
+            'py-2 w-full flex items-center justify-between my-4',
+            'md:py-0 md:my-0',
+          )}
+        >
+          <h2 className="text-lg font-bold text-white">
+            {selectedVideo.episode.index}. {selectedVideo.episode.name}
+          </h2>
+          <span className={cx('text-right', 'md:p-4')}>
+            <button
+              className="text-white/50 hover:text-blue-500"
+              onClick={() => setSelectedVideo(null)}
+            >
+              <X />
+            </button>
+          </span>
+        </header>
+
         <div
           className="w-full h-[400px] relative p-2"
           style={{
@@ -71,7 +88,7 @@ const Sidebar = ({
         <Drawer.Overlay className="fixed inset-0 bg-black/50" />
         <Drawer.Portal>
           <Drawer.Content className="fixed bottom-0 left-0 right-0 h-[80vh] bg-slate-900 rounded-t-lg shadow-lg p-4 z-10">
-            <Drawer.Title className="text-lg font-bold text-white">
+            <Drawer.Title className="text-lg font-bold text-white hidden">
               Détails de l&apos;épisode
             </Drawer.Title>
             {content}
