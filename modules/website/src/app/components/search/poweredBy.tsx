@@ -11,7 +11,7 @@ const PoweredBy = () => {
       >
         <span className="sr-only">Algolia</span>
         <Image
-          src="/Algolia_3000_4.webp"
+          src="/Algolia_3000.webp"
           alt="Algolia"
           width={180}
           height={30}
