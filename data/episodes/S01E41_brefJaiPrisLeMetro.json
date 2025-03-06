@@ -158,11 +158,25 @@
       "start": 51
     },
     {
+      "content": "— Nin nin nin nin nin nin.",
+      "end": 54,
+      "heatBucket": 5,
+      "heatValue": 39,
+      "start": 53
+    },
+    {
       "content": "Je me suis dit que ça ferait\nun super tube de l'été.",
       "end": 60,
       "heatBucket": 3,
       "heatValue": 34,
       "start": 54
+    },
+    {
+      "content": "— 🎵 Nin nin nin nin nin nin.",
+      "end": 61,
+      "heatBucket": 3,
+      "heatValue": 31,
+      "start": 58
     },
     {
       "content": "Quand je m'ennuie, je m'amuse à bailler\net compter les gens que je fais bailler.",

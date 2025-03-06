@@ -1,0 +1,31 @@
+{
+  "episode": {
+    "commentCount": 1800,
+    "durationHuman": "1:50",
+    "durationInSeconds": 110,
+    "index": 41,
+    "isAgeRestricted": false,
+    "likeCount": 98202,
+    "name": "Bref. J'ai pris le métro.",
+    "season": 1,
+    "slug": "brefJaiPrisLeMetro",
+    "videoId": "aqrab4lKVm0",
+    "viewCount": 7606246
+  },
+  "line": {
+    "content": "— 🎵 Nin nin nin nin nin nin.",
+    "end": 61,
+    "heatBucket": 3,
+    "index": 23,
+    "start": 58,
+    "url": "https://www.youtube.com/watch?v=aqrab4lKVm0&t=58s"
+  },
+  "thumbnail": {
+    "animatedUrl": "https://assets.pixelastic.com/brefsearch/animated/S01E41_brefJaiPrisLeMetro/058.mp4",
+    "hash": "c1d8e7d08d",
+    "height": 1080,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABfUlEQVR4nC3M2U7bQBhA4fE/m2e8zcTxON7iLCYYBxK3dhWREhwIqqgK4qKVEFWrXvf9X6BC6rn+dJCFkIUsCwBsSpTEgcSRixMP+zZIbjGKCcEAYP0PWZQAJcQTREscShL71kiyRNHII0pgX2LJgTN4Z9jCgETsSON6Uz9aT/LNXOZaVRNYhTIPi/MZ8hkPHRK872goRWAjG8DhVIxd0+Srw9Xm9br98dm8dsu3ffvnIe4X87728xEPHe4yYVPkZsrOFC+VWU+rulp2i6RbPD6ffv1+6Z72zdfd4edj/3Z0bkt9M/O7DNFDQj8acqZFnxXNUq+L6HA23B1fvt1f3n86v233Tzd6X7Bjwq5T1hsEc4/cJVarvXUyv2z8bRl/aaqhPX0/LYZtcbwa/j6jfUx2E2hDqBWCiONMwgctLsbaxP4qTYd6WhqVxiwbFUtT7yqUC1y4OJc4lQgMwzGHiPE6lKm2w2AciVlA3UDpPNxcmG1bosgmiQOJgMT+B6uOKprmlU/UAAAAAElFTkSuQmCC",
+    "url": "https://assets.pixelastic.com/brefsearch/thumbnails/S01E41_brefJaiPrisLeMetro/058.png",
+    "width": 1920
+  }
+}
