@@ -37,6 +37,8 @@ import config from '../config.js';
         ],
       },
     },
+    // TODO: Synonym nin nin nin to na na na
+    // TODO: Synonym 3000 to Trois mille
   };
 
   indexing.verbose();
