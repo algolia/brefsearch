@@ -28,7 +28,7 @@ understand:
    yourself. 
 
 2. **Media Asset Repository**: All generated images and video clips are stored
-   in a separate repository (`pixelastic/brefsearch-images`) to avoid
+   in a separate repository ([pixelastic/brefsearch-images](https://github.com/pixelastic/brefsearch-images)) to avoid
    bloating the main codebase. This repository is expected to be stored one level higher (ie. `./brefsearch` and `./brefsearch-imagesr side by side in the same directory.)
 
 3. **Media Hosting**: The media files are synced to a personal server using
