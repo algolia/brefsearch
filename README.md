@@ -1,7 +1,7 @@
 # brefsearch
 
 > [!WARNING]
-> This codebase was specifically developed to index the "Bref" YouTube series.
+> This codebase was specifically developed to index the ["Bref" YouTube playlist](https://www.youtube.com/watch?v=UO8tcf3U0dY&list=PLlFikkv2B2ffwYiFQJmcao3RKtw1DFMz5).
 > While it can theoretically work for any YouTube playlist with some
 > modifications, those adaptations haven't been implemented yet. The code's
 > structure, logic, and various elements could be improved, but the primary goal
@@ -15,6 +15,8 @@ subtitles, generating screenshots and video clips at specific timestamps, and
 making everything searchable through Algolia. The end result allows users to
 search for specific dialogue and instantly see the relevant video moment.
 
+![Bref Search](./overview.png)
+
 ## File Storage Architecture
 
 The project uses a specific file storage structure that's important to
@@ -27,15 +29,14 @@ understand:
 
 2. **Media Asset Repository**: All generated images and video clips are stored
    in a separate repository (`pixelastic/brefsearch-images`) to avoid
-   bloating the main codebase.
+   bloating the main codebase. This repository is expected to be stored one level higher (ie. `./brefsearch` and `./brefsearch-imagesr side by side in the same directory.)
 
 3. **Media Hosting**: The media files are synced to a personal server using
-   `rsync` commands with aliased credentials (not included in the repository
-   either). The URLs in the JSON records point to this server. Cloudinary
+   `rsync`. Credentials for this server are personal and not shared in that repo either. The URLs in the JSON records point to this server. Cloudinary
    functions as a CDN, retrieving assets from this origin server.
 
 This separation of code and data repositories is intentional for
-maintainability, but means that you will probably need to establish your own
+maintainability, but means that you will probably need to do some plumbing to replicate the structure and establish your own
 media storage solution when adapting this system.
 
 ## Important Note About The Pipeline
@@ -119,7 +120,7 @@ result display.
 
 ### 1. Download YouTube videos
 
-I used `yt-dlp` to download all videos of my playlist in `./tmp/mp4`. I think it
+I used `yt-dlp` to download all videos of the playlist in `./tmp/mp4`. I think it
 was something like `yt-dlp "{playlistId}"`.
 
 > [!TIP]
@@ -143,7 +144,7 @@ I used `yt-dlp` to download only the audio from the videos. I used
 `--extract-audio` to only download the audio.
 
 > [!TIP]
-> You'll probably only need a mono 16khz file for the audio.
+> You'll probably only need a mono 16khz file for the audio, as this is what Whisper accept as input.
 
 > [!CAUTION]
 > Still no script to do that for you. Sorry again.
@@ -156,23 +157,22 @@ files. I used
 that: I uploaded each `.mp3` file to their UI and downloaded the resulting
 `.vtt` file.
 
-I the proofread them all (re-watching the whole TV Show locally with subtitles
+I then proofread them all (re-watching the whole TV Show locally with subtitles
 added). I would say HappyScribe did a 90% good job, but I still had to fix some
 proper nouns and when multiple people were speaking at the same time.
 
 `.vtt` files are stored and committed in `./data/vtts`, following the same
-pattern as the video/audio files.
+pattern as the video/audio files. If you need to do proofreading, this is where you'll need to edit the content.
 
 > [!NOTE]
-> You can probably automate that with a call to OpenAI Whisper API.
+> You can probably automate that with a call to OpenAI Whisper API or HappyScribe if you're looking to build an automated pipeline.
 
 > [!TIP]
-> YouTube can generate automatic captions for its videos, accessible through
-> `yt-dlp`, but the quality on french content was horrible, so I couldn't use
-> it. Maybe if your content is well spoken in clear english it could work for
+> YouTube generate sautomatic captions for its videos, that you can get with `yt-dlp --write-subs` but the quality on french content was horrible, so I couldn't use
+> them. Maybe if your content is well spoken in clear english it could work for
 > you.
 
-### 5. Scaffold the ./data/episodes folder
+### 5. Scaffold the `./data/episodes` folder
 
 Here, I also did some manual work. I called `yt-dlp --dump-json` on each video
 of the playlist and extracted the name and duration from each video and created
@@ -180,7 +180,7 @@ an entry in `./data/episodes` for each video.
 
 Each entry looked someting like this:
 
-```
+```json
 {
   "duration": {
     "human": "1:48",
@@ -198,18 +198,18 @@ Each entry looked someting like this:
 
 ### 6. Cleanup subtitles
 
-Here, we starting to get into script territory. If you run `yarn run
+Here, we are starting to get into script territory. If you run `yarn run
 update-episode-lines`, it will read all `.vtt` files and update the `.lines`
 array of the episode files we created earlier.
 
 Each element of the array will contain the `.content` (what is being said) and
-the `.start` (when is it being said).
+the `.start` (when it is being said).
 
 > [!NOTE]
 > There is also some data sanitization in place in that step. Basically, you
 > don't want lines to be cut in the middle of a sentence, so the script merges
-> several subtitles together until the have complete sentence, while keeping an
-> optimum width.
+> several subtitles together until they form a complete sentence, while keeping an
+> optimal width.
 
 > [!NOTE]
 > I also saved the `.end` value in there, but I don't really use it anywhere.
@@ -239,7 +239,7 @@ I will be using both metrics later in the ranking formula of Algolia.
 > segment. This make the ranking way more useful.
 >
 > Now that I think of it, I should have done the same thing with the
-> `.view_count` ¯\_(ツ)_/¯
+> `.view_count` ¯\\_(ツ)_/¯
 
 
 ### 8. Generate thumbnails
@@ -257,7 +257,7 @@ repository (expected to be one level higher in the hierarchy, and named
 > compression script on them before committing them to the repo.
 > I chose to extract high quality version of the images, even if Cloudinary will
 > resize and compress them later, to have a baseline with the highest possible
-> quality, in case I want to make Cloudinary less aggressive in its compression.
+> quality, in case I want to make Cloudinary less aggressive in its compression later.
 
 
 ### 9. Generate previews
@@ -297,8 +297,8 @@ what is being said. `.start` is when it is being said. `.heatBucket` is the
 
 > [!TIP]
 > `.end` is never used. `.index` indicates that this is the nth subtitle of that
-> video; not very useful either. `.url` is redondant because we can craft it
-> from other keys in the record.
+> video. `.url` is redundant because we can craft it
+> from other keys in the record. One can potentially infer the URL from the other parts of the records rather than storing them.
 
 `.thumbnail` contain info about the static thumbnail and animated preview. Of
 importance are the `.url` (for the thumbnail) and `.animatedUrl` (for the
@@ -319,7 +319,7 @@ a private server of mine, using `rsync`. You will have to replace that step with
 another way to deploy the static assets and modifiy the `thumbnail.url` and
 `thumbnail.animatedPreview` accordingly in the records.
 
-You can try running `yarn run deploy-data-assets` but it will probably not work
+You can try running `yarn run deploy-data-assets` but it will not work
 for you.
 
 ### 12. Configure & Push to Algolia
@@ -336,9 +336,9 @@ first sentence displayed.).
 
 But a trick on the front-end will swap to a secondary replica (called
 `popularity`) that ranks episodes based on the number of view per episodes, and
-the most popular sentence (matching the query) inside of an episode.
+the most popular sentence (matching the query) inside of an episode, the moment you start typing something in the search bar.
 
-The indexing uses an **atomic** strategy, meaning that each update will only
+The indexing uses an **[atomic](https://github.com/pixelastic/algolia-indexing)** strategy, meaning that each update will only
 add/delete/update the records that actually changed, rather than deleting
 everything and re-adding them.
 
@@ -354,6 +354,6 @@ or `yarn run build` to build it.
 
 ### Thanks
 
-- @lukyvj for the front-end
-- @sarahdayan for the subtitle best practices
-- @fluf22 for the video compression tips
+- [@lukyvj](https://bsky.app/profile/lukyvj.bsky.social) for the front-end
+- [@sarahdayan](https://bsky.app/profile/sarahdayan.com) for the subtitle best practices
+- [@fluf22](https://github.com/fluf22) for the video compression tips
