@@ -343,7 +343,7 @@ add/delete/update the records that actually changed, rather than deleting
 everything and re-adding them.
 
 > [!WARNING]
-> You need to have you own `appId`, `indexName` and `adminApiKey` configured in
+> You need to have your own `appId`, `indexName` and `adminApiKey` configured in
 > `./modules/lib/config.js` for this to work.
 
 ### 13. Build the front-end
