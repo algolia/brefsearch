@@ -62,7 +62,7 @@ const CustomHit = ({
         {/* Image */}
         <div ref={ref} className="relative w-full h-full group overflow-hidden">
           {/* Animated preview inserted when cursor is near */}
-          {/* {isMouseNear && <AnimatedPreview hit={hit} />} */}
+          {isMouseNear && <AnimatedPreview hit={hit} />}
 
           {/* LQIP Background always displayed */}
           <div
