@@ -17065,6 +17065,7 @@ __metadata:
     "@types/react": "npm:^19"
     "@types/react-dom": "npm:^19"
     algoliasearch: "npm:5.20.2"
+    classnames: "npm:2.5.1"
     eslint: "npm:^9"
     eslint-config-next: "npm:15.1.7"
     next: "npm:15.1.7"
