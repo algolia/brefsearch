@@ -10,7 +10,7 @@ const Hero = ({
   inputRef: RefObject<HTMLInputElement | null>;
 }) => {
   return (
-    <div className="hero grid md:grid-cols-2 sticky top-0 z-10 bg-black/90 backdrop-blur-lg p-4">
+    <div className="hero grid md:grid-cols-2 sticky top-0 z-10 bg-black p-4">
       <div className="flex-row md:flex items-center justify-center gap-4 text-center">
         <span className="sr-only">Bref.</span>
         <Link href="/" className="flex items-center justify-center gap-2">
