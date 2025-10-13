@@ -48,6 +48,21 @@ export function formatSubtitle(rawSubtitle: string) {
   // We wrap the word where the highlight is in a whitespace-nowrap, so it never gets cut
   return subtitle.replace(
     /(<mark>.*?<\/mark>)([^ ]*)/,
-    '<span class="whitespace-nowrap">$1$2</span>'
+    '<span class="whitespace-nowrap">$1$2</span>',
   );
+}
+
+/**
+ * Parses a URL hash to extract the search query.
+ * Assumes the hash format is: #query
+ *
+ * @param {string} hash - The URL hash to parse.
+ * @returns {{ query: string }} An object containing the decoded search query. Returns an empty string if the hash is invalid or empty.
+ */
+export function parseUrlHash(hash: string): { query: string } {
+  if (!hash || !hash.startsWith('#')) {
+    return { query: '' };
+  }
+
+  return { query: decodeURIComponent(hash.slice(1)) };
 }
