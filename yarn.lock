@@ -5929,11 +5929,9 @@ __metadata:
     "@typescript-eslint/eslint-plugin": "npm:8.46.0"
     "@typescript-eslint/parser": "npm:8.46.0"
     aberlaas: "npm:2.17.0"
-    classnames: "npm:2.5.1"
     eslint-import-resolver-typescript: "npm:4.4.4"
     eslint-plugin-react: "npm:7.37.4"
     globals: "npm:15.15.0"
-    lucide-react: "npm:0.475.0"
     netlify-cli: "npm:23.9.1"
   languageName: unknown
   linkType: soft
@@ -17068,6 +17066,7 @@ __metadata:
     classnames: "npm:2.5.1"
     eslint: "npm:^9"
     eslint-config-next: "npm:15.1.7"
+    lucide-react: "npm:0.475.0"
     next: "npm:15.1.7"
     postcss: "npm:^8"
     react: "npm:^19.0.0"

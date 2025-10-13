@@ -14,6 +14,11 @@ export const metadata: Metadata = {
   description: "Bref. J'ai cherché dans les épisodes",
 };
 
+/**
+ *
+ * @param root0
+ * @param root0.children
+ */
 export default function RootLayout({
   children,
 }: Readonly<{

@@ -24,7 +24,7 @@ const Hero = ({
         </Link>
         <CustomSearchbox inputRef={inputRef} />
       </div>
-      <div className="flex items-center justify-center md:justify-end">
+      <div className="hidden md:flex items-center justify-center md:justify-end">
         <PoweredBy />
       </div>
     </div>

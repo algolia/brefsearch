@@ -1,8 +1,8 @@
 import { useHits } from 'react-instantsearch';
-import { BrefHit } from '@/app/types';
 import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
 import CustomHit from './hit';
 import NoResults from './noResults';
+import { BrefHit } from '@/app/types';
 
 const CustomHits = ({
   setSelectedVideo,
@@ -15,7 +15,7 @@ const CustomHits = ({
   const hits = results?.hits as AlgoliaHit<BrefHit>[];
 
   if (!hits?.length) {
-    return <NoResults />
+    return <NoResults />;
   }
 
   return (

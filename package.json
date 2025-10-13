@@ -38,9 +38,5 @@
     "lint:fix": "./scripts/meta/lint-fix",
     "test": "./scripts/meta/test",
     "test:watch": "./scripts/meta/test-watch"
-  },
-  "dependencies": {
-    "classnames": "2.5.1",
-    "lucide-react": "0.475.0"
   }
 }

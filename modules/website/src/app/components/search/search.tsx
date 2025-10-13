@@ -3,9 +3,10 @@
 import cx from 'classnames';
 import { Configure, InstantSearch } from 'react-instantsearch';
 import { useEffect, useRef, useState } from 'react';
-import Sidebar from '../sidebar';
+import Modal from '../modal';
 import Hero from '../hero';
 import CustomHits from './hits';
+import PoweredBy from './poweredBy';
 import { BrefHit } from '@/app/types';
 import { searchClient } from '@/app/utils/algolia';
 import { brefRouter } from '@/app/utils/brefRouter';
@@ -18,33 +19,28 @@ const RenderHits = ({
   setSelectedVideo: (video: BrefHit | null) => void;
 }) => {
   return (
-    // Wrapper
-    <div
-      className={cx('grid gap-4', {
-        'md:grid-cols-1': !selectedVideo,
-        'md:grid-cols-3': selectedVideo,
-      })}
-    >
+    <>
       {/* Hits */}
-      <div
-        className={cx('transition-all duration-300', {
-          'md:col-span-2': selectedVideo,
-        })}
-      >
+      <div className="w-full">
         <CustomHits
           setSelectedVideo={setSelectedVideo}
           selectedVideo={!!selectedVideo}
         />
       </div>
 
-      {/* Selected video (optional) */}
+      {/* PoweredBy logo - visible only on mobile, at the bottom */}
+      <div className="mt-8 md:hidden">
+        <PoweredBy />
+      </div>
+
+      {/* Modal - rendered above everything when video is selected */}
       {selectedVideo && (
-        <Sidebar
+        <Modal
           selectedVideo={selectedVideo}
           setSelectedVideo={setSelectedVideo}
         />
       )}
-    </div>
+    </>
   );
 };
 
@@ -59,7 +55,7 @@ const Search = () => {
   }, [selectedVideo]);
 
   return (
-    <div className="grid px-4 md:px-8">
+    <div className="grid px-4 md:px-8 pb-8">
       <InstantSearch
         searchClient={searchClient}
         indexName="brefsearch"
