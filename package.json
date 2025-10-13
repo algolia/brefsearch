@@ -15,7 +15,10 @@
   },
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
-    "aberlaas": "2.13.0",
+    "@typescript-eslint/eslint-plugin": "8.46.0",
+    "@typescript-eslint/parser": "8.46.0",
+    "aberlaas": "2.17.0",
+    "eslint-import-resolver-typescript": "4.4.4",
     "eslint-plugin-react": "7.37.4",
     "globals": "15.15.0",
     "netlify-cli": "23.9.1"
