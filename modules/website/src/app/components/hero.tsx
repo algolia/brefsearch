@@ -6,12 +6,8 @@ import PoweredBy from './search/poweredBy';
 
 const Hero = ({
   inputRef,
-  setCustomQuery,
-  initialQuery,
 }: {
   inputRef: RefObject<HTMLInputElement | null>;
-  setCustomQuery: (newQuery: string) => void;
-  initialQuery: string;
 }) => {
   return (
     <div className="hero grid md:grid-cols-2 sticky top-0 z-10 bg-black/90 backdrop-blur-lg p-4">
@@ -26,11 +22,7 @@ const Hero = ({
             className="mx-auto md:mx-0"
           />
         </Link>
-        <CustomSearchbox
-          inputRef={inputRef}
-          setCustomQuery={setCustomQuery}
-          initialQuery={initialQuery}
-        />
+        <CustomSearchbox inputRef={inputRef} />
       </div>
       <div className="flex items-center justify-center md:justify-end">
         <PoweredBy />

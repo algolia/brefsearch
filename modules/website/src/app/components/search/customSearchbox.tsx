@@ -1,20 +1,15 @@
 import { RefObject, useEffect, useState } from 'react';
 import { useSearchBox } from 'react-instantsearch';
+import { parseUrlHash } from '@/app/utils/functions';
 
 type CustomSearchboxProps = {
   inputRef: RefObject<HTMLInputElement | null>;
-  setCustomQuery: (newQuery: string) => void;
-  initialQuery?: string;
 };
 
-const CustomSearchbox = ({
-  inputRef,
-  setCustomQuery,
-  initialQuery = '',
-}: CustomSearchboxProps) => {
+const CustomSearchbox = ({ inputRef }: CustomSearchboxProps) => {
   const { query, refine } = useSearchBox();
 
-  const [inputValue, setInputValue] = useState(initialQuery || query);
+  const [inputValue, setInputValue] = useState('');
 
   /**
    * Updates the query state and triggers refinement.
@@ -26,15 +21,16 @@ const CustomSearchbox = ({
    */
   function setQuery(newQuery: string) {
     setInputValue(newQuery); // Update what is displayed in the input
-    setCustomQuery(newQuery); // Tell React this is the current value
     refine(newQuery); // Tell Algolia to search on that value
   }
 
-  // Set initial query when component mounts
+  // Initialize query from URL hash on mount
   useEffect(() => {
-    if (!initialQuery) return;
-    setQuery(initialQuery);
-  }, [initialQuery]);
+    const urlState = parseUrlHash(window.location.hash);
+    if (urlState.query) {
+      setQuery(urlState.query);
+    }
+  }, []);
 
   // Keep what is displayed in the input sync with the current search term
   // (useful mostly when using the back button)

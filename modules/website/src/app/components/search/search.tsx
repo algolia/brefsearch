@@ -8,7 +8,6 @@ import Hero from '../hero';
 import CustomHits from './hits';
 import { BrefHit } from '@/app/types';
 import { searchClient } from '@/app/utils/algolia';
-import { parseUrlHash } from '@/app/utils/functions';
 import { brefRouter } from '@/app/utils/brefRouter';
 
 const RenderHits = ({
@@ -52,15 +51,6 @@ const RenderHits = ({
 const Search = () => {
   const [selectedVideo, setSelectedVideo] = useState<BrefHit | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
-  const [query, setQuery] = useState('');
-
-  // Initialize query from URL hash on mount
-  useEffect(() => {
-    const urlState = parseUrlHash(window.location.hash);
-    if (urlState.query) {
-      setQuery(urlState.query);
-    }
-  }, []);
 
   useEffect(() => {
     if (!selectedVideo) {
@@ -89,11 +79,7 @@ const Search = () => {
         }}
       >
         <Configure hitsPerPage={18} />
-        <Hero
-          inputRef={inputRef}
-          setCustomQuery={setQuery}
-          initialQuery={query}
-        />
+        <Hero inputRef={inputRef} />
         <RenderHits
           selectedVideo={selectedVideo}
           setSelectedVideo={setSelectedVideo}
