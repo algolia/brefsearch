@@ -59,7 +59,8 @@ const CustomHit = ({
         className="clip block relative aspect-video"
         onClick={() => setSelectedVideo(hit)}
       >
-        <div ref={ref} className="relative w-full h-full group">
+        {/* Image */}
+        <div ref={ref} className="relative w-full h-full group overflow-hidden">
           {/* Animated preview inserted when cursor is near */}
           {/* {isMouseNear && <AnimatedPreview hit={hit} />} */}
 
@@ -85,20 +86,21 @@ const CustomHit = ({
           <Subtitle hit={hit} />
         </div>
 
-      <div className="p-4">
-        <h2 className="font-bold text-lg mb-2 text-white dark:text-gray-200 line-clamp-2">
-          {hit.episode.index}. {hit.episode.name}
-        </h2>
-        <div className="flex items-center text-sm text-white dark:text-gray-400">
-          <Clock className="w-4 h-4 mr-1" />
-          <span>{hit.episode.durationHuman}</span>
-          <Eye className="w-4 h-4 ml-4 mr-1" />
-          <span>
-            {hit.episode.viewCount && hit.episode.viewCount.toLocaleString()}{' '}
-            vues
-          </span>
+        {/* Metadata */}
+        <div className="p-4">
+          <h2 className="font-bold text-lg mb-2 text-white dark:text-gray-200 line-clamp-2">
+            {hit.episode.index}. {hit.episode.name}
+          </h2>
+          <div className="flex items-center text-sm text-white dark:text-gray-400">
+            <Clock className="w-4 h-4 mr-1" />
+            <span>{hit.episode.durationHuman}</span>
+            <Eye className="w-4 h-4 ml-4 mr-1" />
+            <span>
+              {hit.episode.viewCount && hit.episode.viewCount.toLocaleString()}{' '}
+              vues
+            </span>
+          </div>
         </div>
-      </div>
       </div>
     </div>
   );
