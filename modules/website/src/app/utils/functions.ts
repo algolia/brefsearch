@@ -37,11 +37,17 @@ export const deslugifyCategory = (slug: string): string => {
  * @returns {string} Subtitle ready for display
  */
 export function formatSubtitle(rawSubtitle: string) {
-  return rawSubtitle
+  const subtitle = rawSubtitle
     .replace(/\n/g, ' ')
     .replace(/— /g, '\n— ')
     .replace(/ \?/g, ' ?')
     .replace(/… /g, '…')
     .replace(/ …/g, '…')
     .trim();
+
+  // We wrap the word where the highlight is in a whitespace-nowrap, so it never gets cut
+  return subtitle.replace(
+    /(<mark>.*?<\/mark>)([^ ]*)/,
+    '<span class="whitespace-nowrap">$1$2</span>'
+  );
 }

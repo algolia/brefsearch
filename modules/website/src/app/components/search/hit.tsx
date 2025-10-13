@@ -47,6 +47,8 @@ const CustomHit = ({
     return () => document.removeEventListener('mousemove', handleMouseMove);
   }, [isMouseNear]);
 
+  const thumbnailUrl = `https://res.cloudinary.com/det9vl8xp/image/fetch/f_jpg/q_auto/fl_progressive:steep/w_900/${hit.thumbnail.url}`;
+
   return (
     <div
       key={hit.objectID}
@@ -58,29 +60,31 @@ const CustomHit = ({
         onClick={() => setSelectedVideo(hit)}
       >
         <div ref={ref} className="relative w-full h-full group">
-          {/* Hover GIF */}
-          {isMouseNear && <AnimatedPreview hit={hit} />}
+          {/* Animated preview inserted when cursor is near */}
+          {/* {isMouseNear && <AnimatedPreview hit={hit} />} */}
 
-          {/* Static Thumbnail (Lazy-loaded below the fold) */}
-          {hit.thumbnail.url && (
-            <Image
-              src={hit.thumbnail.url || '/placeholder.svg'}
-              alt={hit.episode.name}
-              fill
-              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-              className="object-cover"
-              placeholder="blur"
-              blurDataURL={hit.thumbnail.lqip}
-              priority={priority}
-              loader={({ src }) =>
-                `https://res.cloudinary.com/det9vl8xp/image/fetch/f_auto/q_auto/w_900/${src}`
-              }
-            />
-          )}
+          {/* LQIP Background always displayed */}
+          <div
+            className="absolute inset-0 bg-cover bg-center"
+            style={{
+              backgroundImage: `url(${hit.thumbnail.lqip})`,
+              filter: 'blur(8px)',
+            }}
+          />
+
+          {/* High Quality Image with smooth transition */}
+          <Image
+            src={thumbnailUrl}
+            alt={hit.episode.name}
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            className="object-cover"
+            priority={priority}
+          />
 
           <Subtitle hit={hit} />
         </div>
-      </div>
+
       <div className="p-4">
         <h2 className="font-bold text-lg mb-2 text-white dark:text-gray-200 line-clamp-2">
           {hit.episode.index}. {hit.episode.name}
@@ -94,6 +98,7 @@ const CustomHit = ({
             vues
           </span>
         </div>
+      </div>
       </div>
     </div>
   );
