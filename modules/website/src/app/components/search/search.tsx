@@ -68,10 +68,8 @@ const Search = () => {
         }}
         searchFunction={(helper) => {
           // Dynamically switch index based on query
-          const currentQuery = helper.getQuery();
-          const expectedIndex = currentQuery
-            ? 'brefsearch_popularity'
-            : 'brefsearch';
+          const { query } = helper.getQuery();
+          const expectedIndex = query ? 'brefsearch_popularity' : 'brefsearch';
 
           helper.setIndex(expectedIndex);
 
