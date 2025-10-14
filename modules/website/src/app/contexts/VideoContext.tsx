@@ -2,6 +2,7 @@
 
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import { parseUrlHash, removeVideoFromUrl } from '@/app/utils/functions';
+import { searchClient } from '@/app/utils/algolia';
 
 export type VideoData = {
   videoId: string;
@@ -36,16 +37,45 @@ export const VideoProvider = ({ children }: { children: ReactNode }) => {
     setRawVideoData(data);
   };
 
+  // Fetch video data from Algolia when we only have videoId
+  const fetchVideoDataFromAlgolia = async (videoId: string, timestamp: number) => {
+    const fallbackVideoData = {
+      videoId,
+      timestamp,
+      title: '__placeholder__',
+      lqip: '',
+    };
+
+    const result = await searchClient.search([{
+      indexName: 'brefsearch',
+      query: '',
+      params: {
+        filters: `episode.videoId:${videoId}`,
+        hitsPerPage: 1,
+      }
+    }]);
+
+    // Fallback if can't find the video data
+    if (!result.results[0].hits.length ) {
+      setRawVideoData(fallbackVideoData);
+      return;
+    }
+
+    // Pass all data
+    const hit = result.results[0].hits[0] as any;
+    setRawVideoData({
+      videoId,
+      timestamp,
+      title: `${hit.episode.index}. ${hit.episode.name}`,
+      lqip: hit.thumbnail.lqip,
+    });
+  };
+
   // Check URL on startup for video info
   useEffect(() => {
     const { videoId, timestamp } = parseUrlHash(window.location.hash);
     if (videoId && timestamp) {
-      setVideoData({
-        videoId,
-        timestamp: parseInt(timestamp),
-        title: '__placeholder__',
-        lqip: '', // No LQIP available from URL
-      });
+      fetchVideoDataFromAlgolia(videoId, parseInt(timestamp));
     }
   }, []);
 
