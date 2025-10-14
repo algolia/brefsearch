@@ -7,16 +7,16 @@ import AnimatedPreview from './animatedPreview';
 
 // Types
 import { BrefHit } from '@/app/types';
+import { VideoData } from '../modal';
 
 const CustomHit = ({
   hit,
   hitIndex,
-  setSelectedVideo,
+  setVideoData,
 }: {
   hit: AlgoliaHit<BrefHit>;
   hitIndex: number;
-  setSelectedVideo: (value: BrefHit) => void;
-  selectedVideo: boolean;
+  setVideoData: (value: VideoData) => void;
 }) => {
   const [isMouseNear, setIsMouseNear] = useState(false);
   const ref = useRef<HTMLDivElement | null>(null);
@@ -57,7 +57,12 @@ const CustomHit = ({
       <div
         role="button"
         className="clip block relative aspect-video"
-        onClick={() => setSelectedVideo(hit)}
+        onClick={() => setVideoData({
+          videoId: hit.episode.videoId,
+          timestamp: hit.line.start,
+          title: `${hit.episode.index}. ${hit.episode.name}`,
+          lqip: hit.thumbnail.lqip,
+        })}
       >
         {/* Image */}
         <div ref={ref} className="relative w-full h-full group overflow-hidden">

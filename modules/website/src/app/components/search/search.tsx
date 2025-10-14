@@ -2,29 +2,27 @@
 
 import { Configure, InstantSearch } from 'react-instantsearch';
 import { useEffect, useRef, useState } from 'react';
-import Modal from '../modal';
+import Modal, { VideoData } from '../modal';
 import Hero from '../hero';
 import CustomHits from './hits';
 import PoweredBy from './poweredBy';
 import { BrefHit } from '@/app/types';
 import { searchClient } from '@/app/utils/algolia';
 import { brefRouter } from '@/app/utils/brefRouter';
+import { parseUrlHash } from '@/app/utils/functions';
 
 const RenderHits = ({
-  selectedVideo,
-  setSelectedVideo,
+  videoData,
+  setVideoData,
 }: {
-  selectedVideo: BrefHit | null;
-  setSelectedVideo: (video: BrefHit | null) => void;
+  videoData: VideoData | null;
+  setVideoData: (video: VideoData | null) => void;
 }) => {
   return (
     <>
       {/* Hits */}
       <div className="w-full">
-        <CustomHits
-          setSelectedVideo={setSelectedVideo}
-          selectedVideo={!!selectedVideo}
-        />
+        <CustomHits setVideoData={setVideoData} />
       </div>
 
       {/* PoweredBy logo - visible only on mobile, at the bottom */}
@@ -33,25 +31,36 @@ const RenderHits = ({
       </div>
 
       {/* Modal - rendered above everything when video is selected */}
-      {selectedVideo && (
-        <Modal
-          selectedVideo={selectedVideo}
-          setSelectedVideo={setSelectedVideo}
-        />
-      )}
+      <Modal
+        videoData={videoData}
+        onClose={() => setVideoData(null)}
+      />
     </>
   );
 };
 
 const Search = () => {
-  const [selectedVideo, setSelectedVideo] = useState<BrefHit | null>(null);
+  const [videoData, setVideoData] = useState<VideoData | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
+  // Check URL on startup for video info
   useEffect(() => {
-    if (!selectedVideo) {
+    const { videoId, timestamp } = parseUrlHash(window.location.hash);
+    if (videoId && timestamp) {
+      setVideoData({
+        videoId,
+        timestamp: parseInt(timestamp),
+        title: '__placeholder__',
+        lqip: '', // No LQIP available from URL
+      });
+    }
+  }, []);
+
+  useEffect(() => {
+    if (!videoData) {
       inputRef.current?.focus();
     }
-  }, [selectedVideo]);
+  }, [videoData]);
 
   return (
     <div className="grid px-4 md:px-8 pb-8">
@@ -74,8 +83,8 @@ const Search = () => {
         <Configure hitsPerPage={18} />
         <Hero inputRef={inputRef} />
         <RenderHits
-          selectedVideo={selectedVideo}
-          setSelectedVideo={setSelectedVideo}
+          videoData={videoData}
+          setVideoData={setVideoData}
         />
       </InstantSearch>
     </div>

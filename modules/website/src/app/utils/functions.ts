@@ -35,14 +35,14 @@ export function formatSubtitle(rawSubtitle: string) {
 }
 
 /**
- * Parses a URL hash to extract the search query.
+ * Parses a URL hash to extract the search query, videoId, and timestamp.
  * Assumes the hash format is: #query or #query▮videoId:timestamp
  * Content after ▮ is ignored for query parsing.
  *
  * @param {string} hash - The URL hash to parse.
- * @returns {{ query: string }} An object containing the decoded search query. Returns an empty string if the hash is invalid or empty.
+ * @returns {{ query: string, videoId?: string, timestamp?: string }} An object containing the decoded search query, videoId, and timestamp.
  */
-export function parseUrlHash(hash: string): { query: string } {
+export function parseUrlHash(hash: string): { query: string; videoId?: string; timestamp?: string } {
   if (!hash || !hash.startsWith('#')) {
     return { query: '' };
   }

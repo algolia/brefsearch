@@ -4,35 +4,45 @@ import { useEffect } from 'react';
 import { BrefHit } from '../types';
 import { youtubeGivenTimeUrl, updateUrlWithVideo, removeVideoFromUrl } from '../utils/functions';
 
+export type VideoData = {
+  videoId: string;
+  timestamp: number;
+  title: string;
+  lqip: string;
+};
+
 const Modal = ({
-  selectedVideo,
-  setSelectedVideo,
+  videoData,
+  onClose,
 }: {
-  selectedVideo: BrefHit;
-  setSelectedVideo: (value: BrefHit | null) => void;
+  videoData?: VideoData;
+  onClose: () => void;
 }) => {
+  // Don't render modal if no videoData
+  if (!videoData) return null;
+
   // Update URL when modal opens
   useEffect(() => {
-    updateUrlWithVideo(selectedVideo.episode.videoId, selectedVideo.line.start);
+    updateUrlWithVideo(videoData.videoId, videoData.timestamp);
 
     // Clean up URL when modal closes
     return () => {
       removeVideoFromUrl();
     };
-  }, []);
+  }, [videoData.videoId, videoData.timestamp]);
   // }, [selectedVideo.episode.videoId, selectedVideo.line.start]);
 
   // Close modal on Escape key
   useEffect(() => {
     const handleEscape = (event: KeyboardEvent) => {
       if (event.key === 'Escape') {
-        setSelectedVideo(null);
+        onClose();
       }
     };
 
     document.addEventListener('keydown', handleEscape);
     return () => document.removeEventListener('keydown', handleEscape);
-  }, [setSelectedVideo]);
+  }, [onClose]);
 
   // Prevent body scroll when modal is open
   useEffect(() => {
@@ -47,7 +57,7 @@ const Modal = ({
       {/* Semi-transparent black background */}
       <div
         className="fixed inset-0 bg-black/70 backdrop-blur-sm"
-        onClick={() => setSelectedVideo(null)}
+        onClick={onClose}
       />
 
       {/* Modal content - responsive sizing */}
@@ -55,11 +65,11 @@ const Modal = ({
         {/* Header - reduced padding on mobile */}
         <div className="px-3 pt-2 pb-2 md:px-6 md:pt-4 md:pb-4 flex items-start md:items-center justify-between border-b border-white/10">
           <h2 className="text-base md:text-xl font-bold text-white pr-2">
-            {selectedVideo.episode.index}. {selectedVideo.episode.name}
+            {videoData.title}
           </h2>
           <button
             className="text-white/50 hover:text-blue-500 transition-colors p-1 md:p-2 flex-shrink-0"
-            onClick={() => setSelectedVideo(null)}
+            onClick={onClose}
           >
             <X size={20} className="md:hidden" />
             <X size={24} className="hidden md:block" />
@@ -71,17 +81,14 @@ const Modal = ({
           <div
             className="w-full aspect-video relative rounded-md md:rounded-lg overflow-hidden"
             style={{
-              background: `url(${selectedVideo.thumbnail.lqip}) no-repeat center / cover`,
+              background: `url(${videoData.lqip}) no-repeat center / cover`,
             }}
           >
             <iframe
               className="absolute inset-0 w-full h-full"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              src={youtubeGivenTimeUrl(
-                selectedVideo.line.url,
-                selectedVideo.line.start,
-              )}
+              src={`https://www.youtube.com/embed/${videoData.videoId}?&autoplay=1&start=${videoData.timestamp}`}
               allowFullScreen
             />
           </div>
