@@ -1,6 +1,6 @@
 import { algoliasearch } from 'algoliasearch';
 
 export const searchClient = algoliasearch(
-  process.env.NEXT_PUBLIC_ALG_APP_ID!,
-  process.env.NEXT_PUBLIC_ALG_API_KEY!,
+  'O3F8QXYK6R',
+  '6a47b9b62c58a7a4cd2338f095630b15',
 ) as any;
