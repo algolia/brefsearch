@@ -3,11 +3,25 @@ import react from 'eslint-plugin-react';
 import globals from 'globals';
 import tseslint from '@typescript-eslint/eslint-plugin';
 import tsparser from '@typescript-eslint/parser';
+import nextPlugin from '@next/eslint-plugin-next';
 
 export default [
   ...config,
   {
     ignores: ['data/**/*', 'modules/website/out/**/*'],
+  },
+  // Next.js rules for website module
+  {
+    files: ['modules/website/**/*.{js,jsx,ts,tsx}'],
+    plugins: {
+      '@next/next': nextPlugin,
+    },
+    rules: {
+      ...nextPlugin.configs.recommended.rules,
+      ...nextPlugin.configs['core-web-vitals'].rules,
+      // Configure for App Router instead of Pages Router
+      '@next/next/no-html-link-for-pages': ['error', 'modules/website/src/app'],
+    },
   },
   {
     files: ['**/modules/website/**/*.{js,jsx}'],
