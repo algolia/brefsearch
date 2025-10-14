@@ -1,5 +1,5 @@
 import { useHits } from 'react-instantsearch';
-import type { Hit as AlgoliaHit } from 'react-instantsearch';
+import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
 import CustomHit from './hit';
 import NoResults from './noResults';
 import { BrefHit } from '@/app/types';

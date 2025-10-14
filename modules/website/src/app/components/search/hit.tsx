@@ -1,7 +1,7 @@
 import { Clock, Eye } from 'lucide-react';
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
-import type { Hit as AlgoliaHit } from 'react-instantsearch';
+import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
 import Subtitle from '../subtitles';
 import AnimatedPreview from './animatedPreview';
 

@@ -356,6 +356,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/runtime@npm:^7.27.6":
+  version: 7.28.4
+  resolution: "@babel/runtime@npm:7.28.4"
+  checksum: 10c0/792ce7af9750fb9b93879cc9d1db175701c4689da890e6ced242ea0207c9da411ccf16dc04e689cc01158b28d7898c40d75598f4559109f761c12ce01e959bf7
+  languageName: node
+  linkType: hard
+
 "@babel/types@npm:7.28.4, @babel/types@npm:^7.28.4":
   version: 7.28.4
   resolution: "@babel/types@npm:7.28.4"
@@ -5241,6 +5248,17 @@ __metadata:
   peerDependencies:
     algoliasearch: ">= 3.1 < 6"
   checksum: 10c0/b6065ef5404e25f3cb65430f92b7926a7e597be34855eff86a616ae75bfb6d5f524fe8e34dcccde5df617a1eec1c01c20706f53a778d0006337ca40451e773d0
+  languageName: node
+  linkType: hard
+
+"algoliasearch-helper@npm:3.26.0":
+  version: 3.26.0
+  resolution: "algoliasearch-helper@npm:3.26.0"
+  dependencies:
+    "@algolia/events": "npm:^4.0.1"
+  peerDependencies:
+    algoliasearch: ">= 3.1 < 6"
+  checksum: 10c0/1b644ba6b5f2dcf46438f0200fc442c25725492f8e2fb046453c2b6c68403c0a8d128fd6f092a598ea7ce1a7737baa88bc466bc1cfc477f60105ab0c0c41bec2
   languageName: node
   linkType: hard
 
@@ -10382,6 +10400,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"instantsearch-ui-components@npm:0.11.2":
+  version: 0.11.2
+  resolution: "instantsearch-ui-components@npm:0.11.2"
+  dependencies:
+    "@babel/runtime": "npm:^7.27.6"
+  checksum: 10c0/4d945de476bd74d5a4223ce87792fb17f11a777c23fe6f9aea2888806a591404dd965ccd9423989a4b1e8849000a38ded551a9075ea86b78421943f7a9028eb8
+  languageName: node
+  linkType: hard
+
 "instantsearch.js@npm:4.77.3":
   version: 4.77.3
   resolution: "instantsearch.js@npm:4.77.3"
@@ -10401,6 +10428,28 @@ __metadata:
   peerDependencies:
     algoliasearch: ">= 3.1 < 6"
   checksum: 10c0/0537ca2cd5c185c9352aa55a8c4300c70e7bff74a53ef4d1ecd960b767fef5b8ec99dc7b8253bf7973aa1237875f3acf72656bfe9e8124b11631bb8206eaa67a
+  languageName: node
+  linkType: hard
+
+"instantsearch.js@npm:4.80.0":
+  version: 4.80.0
+  resolution: "instantsearch.js@npm:4.80.0"
+  dependencies:
+    "@algolia/events": "npm:^4.0.1"
+    "@types/dom-speech-recognition": "npm:^0.0.1"
+    "@types/google.maps": "npm:^3.55.12"
+    "@types/hogan.js": "npm:^3.0.0"
+    "@types/qs": "npm:^6.5.3"
+    algoliasearch-helper: "npm:3.26.0"
+    hogan.js: "npm:^3.0.2"
+    htm: "npm:^3.0.0"
+    instantsearch-ui-components: "npm:0.11.2"
+    preact: "npm:^10.10.0"
+    qs: "npm:^6.5.1 < 6.10"
+    search-insights: "npm:^2.17.2"
+  peerDependencies:
+    algoliasearch: ">= 3.1 < 6"
+  checksum: 10c0/4e6ae9ee55038d876f99c3795dde2cd88bfec26dc8286883cb7ef969dcba5abbe4b77804877e0e1a72a113952177f8eec8a678adb8b9132d65d8747b70c85216
   languageName: node
   linkType: hard
 
@@ -17066,6 +17115,7 @@ __metadata:
     classnames: "npm:2.5.1"
     eslint: "npm:^9"
     eslint-config-next: "npm:15.1.7"
+    instantsearch.js: "npm:4.80.0"
     lucide-react: "npm:0.475.0"
     next: "npm:15.1.7"
     postcss: "npm:^8"
