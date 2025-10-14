@@ -15,7 +15,7 @@
   "packageManager": "yarn@4.6.0",
   "dependencies": {
     "algolia-indexing": "2.0.0",
-    "firost": "4.9.0",
+    "firost": "5.2.1",
     "golgoth": "3.0.0",
     "imoen": "2.0.0"
   },
