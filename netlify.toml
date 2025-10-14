@@ -3,6 +3,9 @@
 command = "yarn run build"
 publish = "modules/website/out"
 
+[build.environment]
+NETLIFY_NEXT_PLUGIN_SKIP = "true"
+
 # Custom 404
 [[redirects]]
 from = "/*"
