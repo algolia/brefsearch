@@ -1,11 +1,11 @@
 import { Clock, Eye } from 'lucide-react';
-import { useState, useRef, useEffect } from 'react';
+import { useEffect, useRef, useState } from 'react';
+import Image from 'next/image';
+import type { Hit as AlgoliaHit } from 'react-instantsearch';
 import Subtitle from '../subtitles';
 import AnimatedPreview from './animatedPreview';
-import Image from 'next/image';
 
 // Types
-import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
 import { BrefHit } from '@/app/types';
 
 const CustomHit = ({
@@ -14,7 +14,7 @@ const CustomHit = ({
   setSelectedVideo,
 }: {
   hit: AlgoliaHit<BrefHit>;
-  hitIndex: number,
+  hitIndex: number;
   setSelectedVideo: (value: BrefHit) => void;
   selectedVideo: boolean;
 }) => {

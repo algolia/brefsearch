@@ -1,7 +1,7 @@
 import { useRef } from 'react';
 
 // Types
-import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
+import type { Hit as AlgoliaHit } from 'react-instantsearch';
 import { BrefHit } from '@/app/types';
 
 const AnimatedPreview = ({ hit }: { hit: AlgoliaHit<BrefHit> }) => {

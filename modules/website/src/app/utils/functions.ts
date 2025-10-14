@@ -1,8 +1,8 @@
 /**
- *
- * @param url
- * @param start
- * @returns {string}
+ * Converts a YouTube watch URL to an embed URL with a specific start time and autoplay.
+ * @param {string} url - The original YouTube watch URL
+ * @param {number} start - The start time in seconds
+ * @returns {string} The modified embed URL with autoplay and start time parameters
  */
 export const youtubeGivenTimeUrl = (url: string, start: number) => {
   const newstart = start;
@@ -11,24 +11,6 @@ export const youtubeGivenTimeUrl = (url: string, start: number) => {
     url.replace('watch?v=', 'embed/').split('&t=')[0] +
     `?&autoplay=1&start=${newstart}`
   );
-};
-
-/**
- *
- * @param name
- * @returns {string}
- */
-export const slugifyCategory = (name: string): string => {
-  return name.split(' ').map(encodeURIComponent).join('-');
-};
-
-/**
- *
- * @param slug
- * @returns {string}
- */
-export const deslugifyCategory = (slug: string): string => {
-  return slug.split('-').map(decodeURIComponent).join(' ');
 };
 
 /**

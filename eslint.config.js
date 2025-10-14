@@ -7,6 +7,9 @@ import tsparser from '@typescript-eslint/parser';
 export default [
   ...config,
   {
+    ignores: ['data/**/*', 'modules/website/out/**/*'],
+  },
+  {
     files: ['**/modules/website/**/*.{js,jsx}'],
     plugins: {
       react,

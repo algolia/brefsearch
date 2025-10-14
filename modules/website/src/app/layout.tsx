@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import React from 'react';
 
 import './globals.css';
 
@@ -18,9 +19,11 @@ export const metadata: Metadata = {
 };
 
 /**
- *
- * @param root0
- * @param root0.children
+ * Root layout component for the Next.js application.
+ * Sets up the HTML structure, fonts, and global styles for all pages.
+ * @param {object} props - The component props
+ * @param {React.ReactNode} props.children - The page content to render within the layout
+ * @returns {React.ReactElement} The root HTML structure with fonts and styling applied
  */
 export default function RootLayout({
   children,

@@ -1,6 +1,5 @@
 'use client';
 
-import cx from 'classnames';
 import { Configure, InstantSearch } from 'react-instantsearch';
 import { useEffect, useRef, useState } from 'react';
 import Modal from '../modal';

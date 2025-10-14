@@ -4,7 +4,7 @@ const NoResults = () => {
       <div>
         <h2 className="font-bold">Bref. J&apos;ai rien trouvé&hellip;</h2>
         <p>
-          Mais peut-être que c&apos;est dans 
+          Mais peut-être que c&apos;est dans&nbsp;
           <a
             href="https://www.disneyplus.com/fr-fr/browse/entity-b329134e-b113-49d6-827e-dd4e0616457f"
             target="_blank"

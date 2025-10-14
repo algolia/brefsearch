@@ -29,4 +29,5 @@ yarn-error.log
 .netlify
 
 # Claude
-.claude/*
+.claude/
+**/.claude/
