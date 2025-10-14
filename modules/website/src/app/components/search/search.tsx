@@ -1,28 +1,21 @@
 'use client';
 
 import { Configure, InstantSearch } from 'react-instantsearch';
-import { useEffect, useRef, useState } from 'react';
-import Modal, { VideoData } from '../modal';
+import { useEffect, useRef } from 'react';
+import Modal from '../modal';
 import Hero from '../hero';
 import CustomHits from './hits';
 import PoweredBy from './poweredBy';
-import { BrefHit } from '@/app/types';
 import { searchClient } from '@/app/utils/algolia';
 import { brefRouter } from '@/app/utils/brefRouter';
-import { parseUrlHash } from '@/app/utils/functions';
+import { VideoProvider, useVideo } from '@/app/contexts/VideoContext';
 
-const RenderHits = ({
-  videoData,
-  setVideoData,
-}: {
-  videoData: VideoData | null;
-  setVideoData: (video: VideoData | null) => void;
-}) => {
+const RenderHits = () => {
   return (
     <>
       {/* Hits */}
       <div className="w-full">
-        <CustomHits setVideoData={setVideoData} />
+        <CustomHits />
       </div>
 
       {/* PoweredBy logo - visible only on mobile, at the bottom */}
@@ -31,30 +24,14 @@ const RenderHits = ({
       </div>
 
       {/* Modal - rendered above everything when video is selected */}
-      <Modal
-        videoData={videoData}
-        onClose={() => setVideoData(null)}
-      />
+      <Modal />
     </>
   );
 };
 
-const Search = () => {
-  const [videoData, setVideoData] = useState<VideoData | null>(null);
+const SearchContent = () => {
+  const { videoData } = useVideo();
   const inputRef = useRef<HTMLInputElement>(null);
-
-  // Check URL on startup for video info
-  useEffect(() => {
-    const { videoId, timestamp } = parseUrlHash(window.location.hash);
-    if (videoId && timestamp) {
-      setVideoData({
-        videoId,
-        timestamp: parseInt(timestamp),
-        title: '__placeholder__',
-        lqip: '', // No LQIP available from URL
-      });
-    }
-  }, []);
 
   useEffect(() => {
     if (!videoData) {
@@ -82,12 +59,17 @@ const Search = () => {
       >
         <Configure hitsPerPage={18} />
         <Hero inputRef={inputRef} />
-        <RenderHits
-          videoData={videoData}
-          setVideoData={setVideoData}
-        />
+        <RenderHits />
       </InstantSearch>
     </div>
+  );
+};
+
+const Search = () => {
+  return (
+    <VideoProvider>
+      <SearchContent />
+    </VideoProvider>
   );
 };
 

@@ -1,25 +1,16 @@
 import { X } from 'lucide-react';
 import { useEffect } from 'react';
 
-import { BrefHit } from '../types';
-import { youtubeGivenTimeUrl, updateUrlWithVideo, removeVideoFromUrl } from '../utils/functions';
+import { updateUrlWithVideo, removeVideoFromUrl } from '../utils/functions';
+import { useVideo } from '../contexts/VideoContext';
 
-export type VideoData = {
-  videoId: string;
-  timestamp: number;
-  title: string;
-  lqip: string;
-};
+const Modal = () => {
+  const { videoData, setVideoData } = useVideo();
 
-const Modal = ({
-  videoData,
-  onClose,
-}: {
-  videoData?: VideoData;
-  onClose: () => void;
-}) => {
   // Don't render modal if no videoData
   if (!videoData) return null;
+
+  const closeModal = () => setVideoData(null);
 
   // Update URL when modal opens
   useEffect(() => {
@@ -36,13 +27,13 @@ const Modal = ({
   useEffect(() => {
     const handleEscape = (event: KeyboardEvent) => {
       if (event.key === 'Escape') {
-        onClose();
+        closeModal();
       }
     };
 
     document.addEventListener('keydown', handleEscape);
     return () => document.removeEventListener('keydown', handleEscape);
-  }, [onClose]);
+  }, []);
 
   // Prevent body scroll when modal is open
   useEffect(() => {
@@ -57,7 +48,7 @@ const Modal = ({
       {/* Semi-transparent black background */}
       <div
         className="fixed inset-0 bg-black/70 backdrop-blur-sm"
-        onClick={onClose}
+        onClick={closeModal}
       />
 
       {/* Modal content - responsive sizing */}
@@ -69,7 +60,7 @@ const Modal = ({
           </h2>
           <button
             className="text-white/50 hover:text-blue-500 transition-colors p-1 md:p-2 flex-shrink-0"
-            onClick={onClose}
+            onClick={closeModal}
           >
             <X size={20} className="md:hidden" />
             <X size={24} className="hidden md:block" />

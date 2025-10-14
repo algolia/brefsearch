@@ -3,13 +3,8 @@ import type { Hit as AlgoliaHit } from 'instantsearch.js/es/types';
 import CustomHit from './hit';
 import NoResults from './noResults';
 import { BrefHit } from '@/app/types';
-import { VideoData } from '../modal';
 
-const CustomHits = ({
-  setVideoData,
-}: {
-  setVideoData: (value: VideoData) => void;
-}) => {
+const CustomHits = () => {
   const { results } = useHits();
   const hits = results?.hits as AlgoliaHit<BrefHit>[];
 
@@ -24,7 +19,6 @@ const CustomHits = ({
           key={hit.objectID}
           hit={hit}
           hitIndex={hitIndex}
-          setVideoData={setVideoData}
         />
       ))}
     </div>

@@ -7,17 +7,16 @@ import AnimatedPreview from './animatedPreview';
 
 // Types
 import { BrefHit } from '@/app/types';
-import { VideoData } from '../modal';
+import { useVideo } from '@/app/contexts/VideoContext';
 
 const CustomHit = ({
   hit,
   hitIndex,
-  setVideoData,
 }: {
   hit: AlgoliaHit<BrefHit>;
   hitIndex: number;
-  setVideoData: (value: VideoData) => void;
 }) => {
+  const { setVideoData } = useVideo();
   const [isMouseNear, setIsMouseNear] = useState(false);
   const ref = useRef<HTMLDivElement | null>(null);
   const priority = hitIndex <= 6;
