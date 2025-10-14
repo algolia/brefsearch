@@ -14,84 +14,84 @@
       "content": "Bref, j'étais au milieu de mon salon,\nentre mon plan cul et ma copine,\nil fallait que je m'explique.",
       "end": 4,
       "heatBucket": 5,
-      "heatValue": 53,
+      "heatValue": 51,
       "start": 1
     },
     {
       "content": "Alors j'ai dit:\n— Euh...\nÀ chaque fois que je suis dans la merde\nj'essaie de penser à autre chose.",
       "end": 8,
-      "heatBucket": 4,
-      "heatValue": 49,
+      "heatBucket": 5,
+      "heatValue": 48,
       "start": 4
     },
     {
       "content": "Bref, plusieurs fois par an, je me dis:\nIl faut que je me mette au sport.",
       "end": 11,
       "heatBucket": 5,
-      "heatValue": 57,
+      "heatValue": 55,
       "start": 9
     },
     {
       "content": "— Faut que je me mette au sport.\n— Faut que je me mette au sport.",
       "end": 12,
       "heatBucket": 5,
-      "heatValue": 57,
+      "heatValue": 54,
       "start": 11
     },
     {
       "content": "— Putain, faut que je me mette au sport.",
       "end": 13,
       "heatBucket": 5,
-      "heatValue": 52,
+      "heatValue": 50,
       "start": 12
     },
     {
       "content": "Alors, plusieurs fois par an,\nje me mets au sport.",
       "end": 15,
       "heatBucket": 4,
-      "heatValue": 49,
+      "heatValue": 47,
       "start": 13
     },
     {
       "content": "Je me suis déjà renseigné sur les clubs\nde sport pas trop loin de chez moi parce\nque je voulais pas me fatiguer à y aller.",
       "end": 18,
       "heatBucket": 4,
-      "heatValue": 40,
+      "heatValue": 38,
       "start": 15
     },
     {
       "content": "J'ai acheté des magazines\nparce qu'il y avait un nombre précis\nde conseils pour devenir musclé.",
       "end": 21,
-      "heatBucket": 3,
-      "heatValue": 29,
+      "heatBucket": 4,
+      "heatValue": 28,
       "start": 18
     },
     {
       "content": "J'ai voulu acheter des haltères,\nmais j'ai pas réussi à les soulever\npour les sortir du magasin.",
       "end": 23,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 20,
       "start": 21
     },
     {
       "content": "Un jour, mon frère m'a dit:\n— Tu devrais\nvenir avec moi à la salle de muscu.",
       "end": 25,
       "heatBucket": 2,
-      "heatValue": 20,
+      "heatValue": 19,
       "start": 23
     },
     {
       "content": "Je l'ai regardé.\nIl m'a regardé.",
       "end": 26,
       "heatBucket": 2,
-      "heatValue": 20,
+      "heatValue": 19,
       "start": 25
     },
     {
       "content": "Je l'ai regardé.\n— Wow, tu réponds ?",
       "end": 30,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 20,
       "start": 26
     },
     {
@@ -105,21 +105,21 @@
       "content": "Quand il faisait froid à l'extérieur, il\nfaisait encore plus froid à l'intérieur.",
       "end": 39,
       "heatBucket": 1,
-      "heatValue": 16,
+      "heatValue": 15,
       "start": 37
     },
     {
       "content": "Et quand il faisait chaud\nà l'extérieur, il faisait\nencore plus chaud à l'intérieur.",
       "end": 40,
       "heatBucket": 1,
-      "heatValue": 16,
+      "heatValue": 15,
       "start": 39
     },
     {
       "content": "Quand je conduisais,\nmon père arrêtait pas de me répéter.",
       "end": 43,
       "heatBucket": 1,
-      "heatValue": 16,
+      "heatValue": 15,
       "start": 40
     },
     {
@@ -140,98 +140,98 @@
       "content": "Je connaissais cette voiture par cœur.\nJ'ai dormi dans cette voiture.",
       "end": 50,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 19,
       "start": 46
     },
     {
       "content": "— Je tombe.\nJ'ai baisé dans cette voiture.",
       "end": 51,
-      "heatBucket": 3,
-      "heatValue": 25,
+      "heatBucket": 4,
+      "heatValue": 22,
       "start": 50
     },
     {
       "content": "Par contre, j'oublie à chaque fois\nde quel côté mettre l'essence\nquand j'arrive à une station.",
       "end": 53,
-      "heatBucket": 3,
-      "heatValue": 24,
+      "heatBucket": 4,
+      "heatValue": 21,
       "start": 51
     },
     {
       "content": "Du coup, je tire le tuyau\npour faire le plein et c'est\nplus compliqué pour faire 20 € pile.",
       "end": 56,
-      "heatBucket": 2,
-      "heatValue": 18,
+      "heatBucket": 1,
+      "heatValue": 16,
       "start": 53
     },
     {
       "content": "— Arrête de penser, réponds-nous.",
       "end": 59,
       "heatBucket": 1,
-      "heatValue": 15,
+      "heatValue": 13,
       "start": 57
     },
     {
       "content": "J'avais vraiment pas envie d'être là.",
       "end": 61,
       "heatBucket": 1,
-      "heatValue": 17,
+      "heatValue": 15,
       "start": 59
     },
     {
       "content": "J'étais dégoûté, mais\nc'était pas la première fois.",
       "end": 62,
       "heatBucket": 2,
-      "heatValue": 19,
+      "heatValue": 17,
       "start": 61
     },
     {
       "content": "Bref, je suis dégoûté quand\nje m'assois sur un banc mouillé.",
       "end": 64,
-      "heatBucket": 3,
-      "heatValue": 26,
+      "heatBucket": 4,
+      "heatValue": 24,
       "start": 62
     },
     {
       "content": "Je suis dégoûté quand le téléchargement\ns'arrête à 99% et que ça fait deux mois.",
       "end": 67,
       "heatBucket": 4,
-      "heatValue": 35,
+      "heatValue": 33,
       "start": 64
     },
     {
       "content": "Je suis dégoûté quand une fille\nme rajoute sur Facebook.",
       "end": 68,
       "heatBucket": 4,
-      "heatValue": 42,
+      "heatValue": 41,
       "start": 67
     },
     {
       "content": "Quelles sont deux sur la photo de profil.",
       "end": 69,
       "heatBucket": 4,
-      "heatValue": 42,
+      "heatValue": 41,
       "start": 68
     },
     {
       "content": "Je prie pour que ce soit la plus belle\net que c'est celle de derrière.",
       "end": 71,
       "heatBucket": 4,
-      "heatValue": 39,
+      "heatValue": 37,
       "start": 69
     },
     {
       "content": "Je suis dégoûté quand Windows\nme demande si je veux redémarrer\nsix fois pendant un film.",
       "end": 73,
-      "heatBucket": 3,
-      "heatValue": 30,
+      "heatBucket": 4,
+      "heatValue": 29,
       "start": 71
     },
     {
       "content": "Quand je dis \"attends, tu vas voir,\nelle est trop marrante cette vidéo\" et que\nje la trouve pas pendant une heure.",
       "end": 76,
       "heatBucket": 2,
-      "heatValue": 20,
+      "heatValue": 19,
       "start": 73
     },
     {
@@ -259,15 +259,15 @@
       "content": "— Des fois, il fait ça pendant des heures.",
       "end": 101,
       "heatBucket": 5,
-      "heatValue": 91,
+      "heatValue": 92,
       "start": 99
     }
   ],
   "video": {
-    "commentCount": 211,
+    "commentCount": 226,
     "id": "KM1Rsc4JyxA",
     "isAgeRestricted": false,
-    "likeCount": 66207,
-    "viewCount": 5199983
+    "likeCount": 69082,
+    "viewCount": 5518289
   }
 }

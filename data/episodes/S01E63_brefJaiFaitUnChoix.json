@@ -14,63 +14,63 @@
       "content": "Bref.",
       "end": 1,
       "heatBucket": 5,
-      "heatValue": 72,
+      "heatValue": 76,
       "start": 1
     },
     {
       "content": "Elle, c'était mon plan cul que je voyais\nplus depuis que j'étais avec elle.",
       "end": 3,
-      "heatBucket": 4,
-      "heatValue": 62,
+      "heatBucket": 5,
+      "heatValue": 66,
       "start": 1
     },
     {
       "content": "Le problème, c'est\nqu'elle ne savait pas que j'avais été\navec elle et elle ne savait pas\nque maintenant, j'étais avec elle.",
       "end": 7,
       "heatBucket": 4,
-      "heatValue": 39,
+      "heatValue": 44,
       "start": 3
     },
     {
       "content": "Et surtout, elle et elle étaient\navec moi dans la même pièce.",
       "end": 9,
       "heatBucket": 4,
-      "heatValue": 34,
+      "heatValue": 38,
       "start": 7
     },
     {
       "content": "Il y avait lui aussi.",
       "end": 10,
       "heatBucket": 4,
-      "heatValue": 33,
+      "heatValue": 37,
       "start": 9
     },
     {
       "content": "Lui, c'est le mec qui additionne\nmes mensonges pour me dire\ncombien je vais payer.",
       "end": 13,
       "heatBucket": 4,
-      "heatValue": 34,
+      "heatValue": 38,
       "start": 10
     },
     {
       "content": "— Ouais, bha, là, il faut courir.",
       "end": 15,
       "heatBucket": 4,
-      "heatValue": 35,
+      "heatValue": 38,
       "start": 13
     },
     {
       "content": "Je pouvais pas courir.\nJ'étais pris au piège.",
       "end": 17,
       "heatBucket": 4,
-      "heatValue": 26,
+      "heatValue": 28,
       "start": 15
     },
     {
       "content": "Marla a dit:\n— Bon, tu t'expliques,\nça fait deux épisodes qu'on veut\nsavoir ce qui se passe.",
       "end": 23,
       "heatBucket": 4,
-      "heatValue": 19,
+      "heatValue": 20,
       "start": 17
     },
     {
@@ -84,42 +84,42 @@
       "content": "— Je t'ai pas dit que j'étais avec elle\nparce que si elle me quittait comme ça,\nje pouvais retourner baiser avec toi.",
       "end": 30,
       "heatBucket": 4,
-      "heatValue": 18,
+      "heatValue": 19,
       "start": 25
     },
     {
       "content": "J'avais besoin d'un miracle.\n— Ouais, c'est qui cette pétasse ?",
       "end": 32,
       "heatBucket": 1,
-      "heatValue": 16,
+      "heatValue": 17,
       "start": 30
     },
     {
       "content": "— C'est qui que tu traites\nde pétasse, sale conne ?",
       "end": 34,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 13,
       "start": 32
     },
     {
       "content": "J'ai eu un miracle.",
       "end": 35,
       "heatBucket": 1,
-      "heatValue": 8,
+      "heatValue": 9,
       "start": 34
     },
     {
       "content": "— C'est qui que tu traites\nde sale conne, pétasse ?",
       "end": 37,
       "heatBucket": 1,
-      "heatValue": 9,
+      "heatValue": 10,
       "start": 35
     },
     {
       "content": "Elles se sont mises à se disputer\npour savoir laquelle était\nla meilleure pour moi alors\nque j'en méritais aucune des deux.",
       "end": 40,
       "heatBucket": 1,
-      "heatValue": 8,
+      "heatValue": 9,
       "start": 37
     },
     {
@@ -175,14 +175,14 @@
       "content": "— Quoi ?",
       "end": 59,
       "heatBucket": 1,
-      "heatValue": 5,
+      "heatValue": 6,
       "start": 57
     },
     {
       "content": "— Franchement, ça se fait pas ce qu'elle a\ndit.",
       "end": 66,
       "heatBucket": 1,
-      "heatValue": 5,
+      "heatValue": 6,
       "start": 60
     },
     {
@@ -203,7 +203,7 @@
       "content": "— On n'a qu'à lui demander.",
       "end": 73,
       "heatBucket": 1,
-      "heatValue": 7,
+      "heatValue": 8,
       "start": 71
     },
     {
@@ -217,120 +217,120 @@
       "content": "— Tu préfères qui ?\nJ'ai dit:",
       "end": 77,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 13,
       "start": 74
     },
     {
       "content": "— Nan, mais parce qu'en fait, je digère\npas bien les saucisses et...",
       "end": 80,
       "heatBucket": 4,
-      "heatValue": 17,
+      "heatValue": 19,
       "start": 77
     },
     {
       "content": "— Ah ouais...",
       "end": 82,
       "heatBucket": 4,
-      "heatValue": 19,
+      "heatValue": 21,
       "start": 81
     },
     {
       "content": "Alors j'ai dit:\n— Euh...",
       "end": 87,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 11,
       "start": 84
     },
     {
       "content": "Pendant tout ce \"euh\"\nJ'ai fait la liste\ndes avantages de chacune.",
       "end": 90,
       "heatBucket": 1,
-      "heatValue": 8,
+      "heatValue": 9,
       "start": 87
     },
     {
       "content": "Ma copine:\nJ'habite chez elle et j'ai pas envie de déménager.",
       "end": 92,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 14,
       "start": 90
     },
     {
       "content": "Marla, elle est mignonne et marrante.",
       "end": 92,
-      "heatBucket": 1,
-      "heatValue": 16,
+      "heatBucket": 4,
+      "heatValue": 18,
       "start": 92
     },
     {
       "content": "Ma copine, elle est mignonne et marrante\net j'ai pas envie de déménager.",
       "end": 94,
       "heatBucket": 4,
-      "heatValue": 20,
+      "heatValue": 23,
       "start": 92
     },
     {
       "content": "Marla, c'est un bon coup.",
       "end": 95,
       "heatBucket": 4,
-      "heatValue": 25,
+      "heatValue": 28,
       "start": 94
     },
     {
       "content": "Ma copine, c'est un bon coup et\nfranchement, j'ai pas envie de déménager.",
       "end": 96,
       "heatBucket": 4,
-      "heatValue": 26,
+      "heatValue": 30,
       "start": 95
     },
     {
       "content": "Alors j'ai dit:",
       "end": 98,
       "heatBucket": 4,
-      "heatValue": 33,
+      "heatValue": 38,
       "start": 96
     },
     {
       "content": "— Elle.",
       "end": 101,
       "heatBucket": 4,
-      "heatValue": 41,
+      "heatValue": 47,
       "start": 99
     },
     {
       "content": "— Faut qu'on parle.",
       "end": 116,
       "heatBucket": 4,
-      "heatValue": 39,
+      "heatValue": 46,
       "start": 115
     },
     {
       "content": "Bref, j'ai fait un choix.",
       "end": 119,
       "heatBucket": 4,
-      "heatValue": 42,
+      "heatValue": 49,
       "start": 116
     },
     {
       "content": "— Pourquoi tu m'as choisie ?",
       "end": 123,
       "heatBucket": 4,
-      "heatValue": 56,
+      "heatValue": 61,
       "start": 122
     },
     {
       "content": "— Parce que t'as un petit truc en plus.",
       "end": 126,
       "heatBucket": 5,
-      "heatValue": 68,
+      "heatValue": 79,
       "start": 126
     }
   ],
   "video": {
-    "commentCount": 1000,
+    "commentCount": 1100,
     "id": "UNbu1DM-jk0",
     "isAgeRestricted": false,
-    "likeCount": 105080,
-    "viewCount": 8818396
+    "likeCount": 108106,
+    "viewCount": 9186348
   }
 }

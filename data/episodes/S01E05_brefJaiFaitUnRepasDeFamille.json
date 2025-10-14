@@ -14,77 +14,77 @@
       "content": "Bref, c'est un repas de famille\nclassique qui part en couille.",
       "end": 1,
       "heatBucket": 5,
-      "heatValue": 66,
+      "heatValue": 69,
       "start": 0
     },
     {
       "content": "Et pour que ça parte en couille,\nil faut une bonne équipe.",
       "end": 3,
-      "heatBucket": 4,
-      "heatValue": 57,
+      "heatBucket": 5,
+      "heatValue": 60,
       "start": 1
     },
     {
       "content": "Il faut un père qui n'aime plus\nsa femme et qui fait avec.",
       "end": 5,
       "heatBucket": 4,
-      "heatValue": 45,
+      "heatValue": 49,
       "start": 3
     },
     {
       "content": "Une mère qui n'aime plus\nson mari et qui fait du ragoût.",
       "end": 7,
       "heatBucket": 4,
-      "heatValue": 42,
+      "heatValue": 45,
       "start": 5
     },
     {
       "content": "— J'ai fait du ragoût.",
       "end": 9,
       "heatBucket": 4,
-      "heatValue": 41,
+      "heatValue": 44,
       "start": 7
     },
     {
       "content": "Un oncle un peu vulgaire.",
       "end": 10,
       "heatBucket": 3,
-      "heatValue": 39,
+      "heatValue": 42,
       "start": 9
     },
     {
       "content": "— Je reviens des chiottes,\nn'y allez pas avant 2h00.",
       "end": 12,
       "heatBucket": 3,
-      "heatValue": 36,
+      "heatValue": 38,
       "start": 10
     },
     {
       "content": "Une tante qui s'excuse.\n— Excusez-le.",
       "end": 14,
       "heatBucket": 3,
-      "heatValue": 30,
+      "heatValue": 32,
       "start": 12
     },
     {
       "content": "Un frère complice.\nEt moi.",
       "end": 16,
-      "heatBucket": 2,
-      "heatValue": 24,
+      "heatBucket": 3,
+      "heatValue": 25,
       "start": 14
     },
     {
       "content": "Comme d'hab, j'avais mangé trop\nde pain parce que l'apéro\navait duré 2h et 34 minutes.",
       "end": 20,
       "heatBucket": 2,
-      "heatValue": 16,
+      "heatValue": 17,
       "start": 16
     },
     {
       "content": "Et comme d'hab, ils parlaient politique\nparce que l'apéro avait duré\n2 bouteilles et 34 verres.\n— Tu peux pas dire ça.",
       "end": 24,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 10,
       "start": 20
     },
     {
@@ -133,7 +133,7 @@
       "content": "*Gros mots.*\n*Gros mots.*",
       "end": 41,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 13,
       "start": 40
     },
     {
@@ -154,7 +154,7 @@
       "content": "J'ai dit:\n— Pourquoi ?\nMon père a fait...\n— Hein?",
       "end": 47,
       "heatBucket": 1,
-      "heatValue": 9,
+      "heatValue": 10,
       "start": 44
     },
     {
@@ -175,106 +175,106 @@
       "content": "Mon frère a fait...\nMon oncle a fait...",
       "end": 55,
       "heatBucket": 2,
-      "heatValue": 17,
+      "heatValue": 18,
       "start": 52
     },
     {
       "content": "Ma tante a fait...",
       "end": 57,
       "heatBucket": 2,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 55
     },
     {
       "content": "Et ma mère a fait la gueule.\nJ'ai redemandé:\n— Pourquoi ?",
       "end": 59,
       "heatBucket": 3,
-      "heatValue": 25,
+      "heatValue": 27,
       "start": 57
     },
     {
       "content": "Ma mère a dit:\n— Une petite *gros mots*\nMon père a dit:\n— Je l'aime, elle me comprend.",
       "end": 63,
       "heatBucket": 3,
-      "heatValue": 34,
+      "heatValue": 36,
       "start": 59
     },
     {
       "content": "Mon oncle a dit:\n— Eh ben mon *gros mots*\n— Tu te fais pas *gros mots*\n— Excusez-le.",
       "end": 66,
-      "heatBucket": 4,
-      "heatValue": 57,
+      "heatBucket": 5,
+      "heatValue": 63,
       "start": 63
     },
     {
       "content": "La raison, c'était Manuela,\n22 ans, étudiante en LEA.",
       "end": 69,
       "heatBucket": 5,
-      "heatValue": 80,
+      "heatValue": 89,
       "start": 67
     },
     {
       "content": "C'était ma mère avec 35 ans\nde moins, 15 kilos de moins\net trois tailles de bonnet en plus.\nElle était bonne, bonne et bonne.",
       "end": 75,
       "heatBucket": 5,
-      "heatValue": 70,
+      "heatValue": 77,
       "start": 69
     },
     {
       "content": "— Bon, j'y vais.",
       "end": 76,
       "heatBucket": 4,
-      "heatValue": 51,
+      "heatValue": 57,
       "start": 75
     },
     {
       "content": "— Elle, elle me comprend.",
       "end": 78,
       "heatBucket": 4,
-      "heatValue": 41,
+      "heatValue": 45,
       "start": 76
     },
     {
       "content": "Il l'avait mal compris.",
       "end": 85,
-      "heatBucket": 3,
-      "heatValue": 40,
+      "heatBucket": 4,
+      "heatValue": 44,
       "start": 83
     },
     {
       "content": "Depuis, mon père dort chez moi.",
       "end": 87,
-      "heatBucket": 3,
-      "heatValue": 40,
+      "heatBucket": 4,
+      "heatValue": 44,
       "start": 85
     },
     {
       "content": "— Oh putain, la vie, c'est de la merde.",
       "end": 89,
       "heatBucket": 3,
-      "heatValue": 34,
+      "heatValue": 37,
       "start": 87
     },
     {
       "content": "Bon, là, il y avait des gros\nmots, mais j'étais d'accord.",
       "end": 91,
-      "heatBucket": 2,
-      "heatValue": 24,
+      "heatBucket": 3,
+      "heatValue": 26,
       "start": 89
     },
     {
       "content": "Bref, j'ai fait un repas de famille.",
       "end": 93,
       "heatBucket": 2,
-      "heatValue": 16,
+      "heatValue": 18,
       "start": 91
     }
   ],
   "video": {
-    "commentCount": 637,
+    "commentCount": 667,
     "id": "yC7LPgNlD9M",
     "isAgeRestricted": false,
-    "likeCount": 100059,
-    "viewCount": 8221984
+    "likeCount": 104302,
+    "viewCount": 8735476
   }
 }

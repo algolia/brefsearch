@@ -14,56 +14,56 @@
       "content": "Bref, c'était un soir\navec Marla, je me suis arrêté.",
       "end": 4,
       "heatBucket": 5,
-      "heatValue": 87,
+      "heatValue": 89,
       "start": 2
     },
     {
       "content": "Elle m'a dit:\n— Quoi ?\nJe lui ai dit que c'était\ntrop agréable pour pas être un problème.",
       "end": 7,
       "heatBucket": 5,
-      "heatValue": 86,
+      "heatValue": 87,
       "start": 4
     },
     {
       "content": "La capote avait craqué,\nMarla avait craqué.",
       "end": 9,
       "heatBucket": 5,
-      "heatValue": 81,
+      "heatValue": 82,
       "start": 7
     },
     {
       "content": "— T'es qu'un con !\nJ'ai craqué.\n— C'est pas de ma faute.",
       "end": 10,
       "heatBucket": 5,
-      "heatValue": 75,
+      "heatValue": 76,
       "start": 9
     },
     {
       "content": "— T'as pas pincé le réservoir ?\n— Si, si, j'ai pincé le réservoir.",
       "end": 12,
-      "heatBucket": 5,
-      "heatValue": 69,
+      "heatBucket": 4,
+      "heatValue": 70,
       "start": 10
     },
     {
       "content": "J'avais pas pincé le réservoir.\nMarla m'a demandé d'aller faire un test.",
       "end": 14,
-      "heatBucket": 5,
-      "heatValue": 62,
+      "heatBucket": 4,
+      "heatValue": 64,
       "start": 12
     },
     {
       "content": "Dans la salle d'attente, j'ai essayé\nde deviner qui pouvait avoir le sida.",
       "end": 18,
       "heatBucket": 3,
-      "heatValue": 48,
+      "heatValue": 50,
       "start": 14
     },
     {
       "content": "J'ai trouvé ça méchant, mais marrant.",
       "end": 20,
       "heatBucket": 3,
-      "heatValue": 35,
+      "heatValue": 36,
       "start": 19
     },
     {
@@ -91,14 +91,14 @@
       "content": "Pour me changer les idées,\nj'ai regardé les affiches.",
       "end": 30,
       "heatBucket": 3,
-      "heatValue": 41,
+      "heatValue": 42,
       "start": 26
     },
     {
       "content": "— Numéro 19.",
       "end": 34,
       "heatBucket": 3,
-      "heatValue": 32,
+      "heatValue": 33,
       "start": 33
     },
     {
@@ -119,7 +119,7 @@
       "content": "J'ai entendu.\n— On y va ?",
       "end": 40,
       "heatBucket": 1,
-      "heatValue": 16,
+      "heatValue": 17,
       "start": 38
     },
     {
@@ -189,21 +189,21 @@
       "content": "J'ai regardé des vidéos\nque j'avais jamais osé regarder.",
       "end": 65,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 22,
       "start": 61
     },
     {
       "content": "J'ai avoué à mon frère\nque j'avais pété sa Game Boy.",
       "end": 70,
       "heatBucket": 2,
-      "heatValue": 30,
+      "heatValue": 31,
       "start": 68
     },
     {
       "content": "Il m'a giflé, il m'a pris dans ses bras.\nJ'ai filmé mes dernières volontés.",
       "end": 71,
       "heatBucket": 2,
-      "heatValue": 29,
+      "heatValue": 30,
       "start": 70
     },
     {
@@ -224,7 +224,7 @@
       "content": "Trois jours après, je suis allé\nchercher mes résultats.",
       "end": 84,
       "heatBucket": 1,
-      "heatValue": 17,
+      "heatValue": 18,
       "start": 78
     },
     {
@@ -245,7 +245,7 @@
       "content": "Bref, j'ai fait un dépistage.",
       "end": 96,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 12,
       "start": 93
     },
     {
@@ -257,10 +257,10 @@
     }
   ],
   "video": {
-    "commentCount": 590,
+    "commentCount": 597,
     "id": "41X9gwbeMxQ",
     "isAgeRestricted": false,
-    "likeCount": 79173,
-    "viewCount": 6825279
+    "likeCount": 82145,
+    "viewCount": 7180577
   }
 }

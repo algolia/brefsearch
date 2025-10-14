@@ -14,7 +14,7 @@
       "content": "Bref, j'étais dans cette soirée\nde merde quand ce mec\nque je connaissais pas m'a demandé.\n— C'est quoi ton problème ?",
       "end": 4,
       "heatBucket": 4,
-      "heatValue": 36,
+      "heatValue": 33,
       "start": 0
     },
     {
@@ -28,70 +28,70 @@
       "content": "Ces gens-là ne voulaient\nsurtout pas avoir de problèmes.",
       "end": 7,
       "heatBucket": 3,
-      "heatValue": 30,
+      "heatValue": 29,
       "start": 5
     },
     {
       "content": "Que de toutes façons, ils en avaient rien à foutre.",
       "end": 8,
-      "heatBucket": 4,
-      "heatValue": 31,
+      "heatBucket": 3,
+      "heatValue": 30,
       "start": 7
     },
     {
       "content": "Je m'en bats les couilles,\nje vais leur dire.",
       "end": 9,
       "heatBucket": 4,
-      "heatValue": 34,
+      "heatValue": 32,
       "start": 8
     },
     {
       "content": "J'ai pris l'iPod, je l'ai arrêté.\n— Quoi ?",
       "end": 13,
       "heatBucket": 4,
-      "heatValue": 41,
+      "heatValue": 39,
       "start": 9
     },
     {
       "content": "— Quoi, y a un problème ?",
       "end": 19,
       "heatBucket": 4,
-      "heatValue": 35,
+      "heatValue": 32,
       "start": 17
     },
     {
       "content": "— La gueule que vous faites, c'est marrant.",
       "end": 24,
       "heatBucket": 2,
-      "heatValue": 22,
+      "heatValue": 21,
       "start": 20
     },
     {
       "content": "Désolé, je gache votre soirée de merde.",
       "end": 27,
-      "heatBucket": 2,
-      "heatValue": 19,
+      "heatBucket": 1,
+      "heatValue": 18,
       "start": 24
     },
     {
       "content": "— C'est ma faute aussi, je devrai pas venir à\ndes soirées que j'aime pas\navec des gens que j'aime pas.",
       "end": 30,
-      "heatBucket": 2,
-      "heatValue": 19,
+      "heatBucket": 1,
+      "heatValue": 18,
       "start": 27
     },
     {
       "content": "— J'ai promis trois fois.",
       "end": 33,
-      "heatBucket": 2,
-      "heatValue": 19,
+      "heatBucket": 1,
+      "heatValue": 18,
       "start": 32
     },
     {
       "content": "— Enfin, on m'a fait promettre trois fois.",
       "end": 35,
-      "heatBucket": 2,
-      "heatValue": 19,
+      "heatBucket": 1,
+      "heatValue": 18,
       "start": 33
     },
     {
@@ -112,35 +112,35 @@
       "content": "— À part faire des photos, les mettre\nsur Facebook et dire: J'ai\ndes amis, j'ai des amis.\n— Personne n'a d'amis ici.",
       "end": 44,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 20,
       "start": 39
     },
     {
       "content": "— Maud, t'as pas d'amis.\n— Tu crois quoi ?",
       "end": 46,
       "heatBucket": 3,
-      "heatValue": 27,
+      "heatValue": 26,
       "start": 44
     },
     {
       "content": "— Tu passes ta soirée dans la cuisine\nà faire des cakes aux olives.",
       "end": 48,
-      "heatBucket": 4,
-      "heatValue": 31,
+      "heatBucket": 3,
+      "heatValue": 30,
       "start": 46
     },
     {
       "content": "— Ça va pas ?\n— Tu fermes ta gueule !",
       "end": 51,
-      "heatBucket": 4,
-      "heatValue": 31,
+      "heatBucket": 3,
+      "heatValue": 30,
       "start": 48
     },
     {
       "content": "— Je suis là, j'ai mis un bandana, je me suis déguisé.",
       "end": 54,
       "heatBucket": 2,
-      "heatValue": 22,
+      "heatValue": 21,
       "start": 51
     },
     {
@@ -154,7 +154,7 @@
       "content": "— Je me suis déguisé toute l'année\nen chien-chien au boulot.",
       "end": 56,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 13,
       "start": 55
     },
     {
@@ -168,35 +168,35 @@
       "content": "— Ta copine qui te prend pour un con.",
       "end": 63,
       "heatBucket": 1,
-      "heatValue": 15,
+      "heatValue": 14,
       "start": 60
     },
     {
       "content": "— Je sais même pas pour que je te parle.",
       "end": 65,
       "heatBucket": 1,
-      "heatValue": 17,
+      "heatValue": 16,
       "start": 63
     },
     {
       "content": "— Ton téléphone va vibrer,\net tu vas plus me calculer.",
       "end": 67,
-      "heatBucket": 2,
-      "heatValue": 19,
+      "heatBucket": 1,
+      "heatValue": 18,
       "start": 65
     },
     {
       "content": "— Et toi, là ?",
       "end": 69,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 20,
       "start": 67
     },
     {
       "content": "— T'es peut-être le seul\nque je mérite, vu comment\ntu t'en bas les couilles des gens.",
       "end": 72,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 23,
       "start": 69
     },
     {
@@ -238,14 +238,14 @@
       "content": "— Tu crois qu'elle fait quoi là,\navec ses cakes aux olives ?",
       "end": 90,
       "heatBucket": 5,
-      "heatValue": 49,
+      "heatValue": 52,
       "start": 88
     },
     {
       "content": "— Pourquoi tu crois qu'elle t'a invité ?\n— Pour que tu sois heureux ?",
       "end": 92,
       "heatBucket": 5,
-      "heatValue": 45,
+      "heatValue": 47,
       "start": 90
     },
     {
@@ -287,7 +287,7 @@
       "content": "— Moi, je suis comme tout le monde,\nje crois que je suis unique.",
       "end": 111,
       "heatBucket": 3,
-      "heatValue": 27,
+      "heatValue": 26,
       "start": 108
     },
     {
@@ -308,49 +308,49 @@
       "content": "— Tu me donnes un couple,\nje vais baiser une autre meuf.",
       "end": 119,
       "heatBucket": 5,
-      "heatValue": 57,
+      "heatValue": 58,
       "start": 116
     },
     {
       "content": "— Elle est moins bien que toi.",
       "end": 126,
       "heatBucket": 5,
-      "heatValue": 58,
+      "heatValue": 59,
       "start": 124
     },
     {
       "content": "— C'était pas bien.",
       "end": 127,
       "heatBucket": 5,
-      "heatValue": 55,
+      "heatValue": 56,
       "start": 126
     },
     {
       "content": "— Ouais, je t'ai trompé, ouais.",
       "end": 132,
       "heatBucket": 5,
-      "heatValue": 44,
+      "heatValue": 45,
       "start": 130
     },
     {
       "content": "— Tu sais quoi ? Je m'en bats les couilles.",
       "end": 134,
       "heatBucket": 4,
-      "heatValue": 41,
+      "heatValue": 42,
       "start": 132
     },
     {
       "content": "— Toi t'es parfaite, toi. Tu trompes personne.",
       "end": 138,
       "heatBucket": 5,
-      "heatValue": 49,
+      "heatValue": 50,
       "start": 134
     },
     {
       "content": "— De toute façon, je te quitte. C'est fini, Sarah.",
       "end": 145,
       "heatBucket": 5,
-      "heatValue": 73,
+      "heatValue": 74,
       "start": 138
     },
     {
@@ -364,14 +364,14 @@
       "content": "— Bref, je me casse.",
       "end": 155,
       "heatBucket": 5,
-      "heatValue": 66,
+      "heatValue": 65,
       "start": 152
     },
     {
       "content": "— Allez, allez, on oublie tout.",
       "end": 169,
       "heatBucket": 1,
-      "heatValue": 15,
+      "heatValue": 14,
       "start": 165
     },
     {
@@ -386,7 +386,7 @@
     "commentCount": 1200,
     "id": "UDko2X994U4",
     "isAgeRestricted": false,
-    "likeCount": 73509,
-    "viewCount": 4770369
+    "likeCount": 76452,
+    "viewCount": 5060834
   }
 }

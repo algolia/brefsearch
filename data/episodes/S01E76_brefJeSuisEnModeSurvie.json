@@ -14,84 +14,84 @@
       "content": "Comme souvent, j'avais 20 €\nen poche alors que c'était le 5 du mois.",
       "end": 3,
       "heatBucket": 5,
-      "heatValue": 71,
+      "heatValue": 74,
       "start": 1
     },
     {
       "content": "Alors comme souvent,\nje me suis mis en mode survie.",
       "end": 5,
       "heatBucket": 5,
-      "heatValue": 57,
+      "heatValue": 62,
       "start": 3
     },
     {
       "content": "Quand je suis en mode survie, je regarde\nles tickets de jeux déjà grattés par\nterre en espérant qu'ils soient gagnants.",
       "end": 9,
       "heatBucket": 5,
-      "heatValue": 38,
+      "heatValue": 41,
       "start": 5
     },
     {
       "content": "Je mets de l'eau dans les bouteilles\nde shampoing vide pour les réutiliser.",
       "end": 11,
       "heatBucket": 3,
-      "heatValue": 23,
+      "heatValue": 25,
       "start": 9
     },
     {
       "content": "Pareil pour le liquide vaisselle\net je découpe le tube de dentifrice\npour pas le gâcher.",
       "end": 13,
       "heatBucket": 3,
-      "heatValue": 20,
+      "heatValue": 21,
       "start": 11
     },
     {
       "content": "Quand j'ai plus de lessive,\nje lave mes fringues à l'adoucissant.",
       "end": 15,
       "heatBucket": 3,
-      "heatValue": 16,
+      "heatValue": 17,
       "start": 13
     },
     {
       "content": "Quand j'ai plus d'adoucissant,\nje lave mes fringues au déodorant.",
       "end": 18,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 15,
       "start": 15
     },
     {
       "content": "Je cherche de l'argent dans\nle canapé, dans toutes mes poches.",
       "end": 21,
       "heatBucket": 1,
-      "heatValue": 13,
+      "heatValue": 14,
       "start": 18
     },
     {
       "content": "J'appelle les gens qui me doivent\nde l'argent, ils répondent pas.",
       "end": 22,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 15,
       "start": 21
     },
     {
       "content": "Je réponds pas aux gens\nà qui je dois de l'argent.",
       "end": 23,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 15,
       "start": 22
     },
     {
       "content": "Je me dis que je dois avoir au moins\n100 € en centime, alors je les trie,\nmais j'ai que sept euros.",
       "end": 27,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 13,
       "start": 23
     },
     {
       "content": "Pour manger, j'ai appris à inventer\ndes plats avec ce qui reste.",
       "end": 30,
       "heatBucket": 1,
-      "heatValue": 9,
+      "heatValue": 10,
       "start": 27
     },
     {
@@ -168,140 +168,140 @@
       "content": "— Et en guise de pain, les croûtes de pizza.",
       "end": 71,
       "heatBucket": 3,
-      "heatValue": 18,
+      "heatValue": 20,
       "start": 67
     },
     {
       "content": "— C'est fameux.",
       "end": 75,
       "heatBucket": 5,
-      "heatValue": 38,
+      "heatValue": 41,
       "start": 71
     },
     {
       "content": "— Bon appétit.\nJ'achète des sous-marques qui font peur.",
       "end": 77,
       "heatBucket": 5,
-      "heatValue": 48,
+      "heatValue": 52,
       "start": 75
     },
     {
       "content": "Je réutilise le même sachet\nde thé pendant une semaine.",
       "end": 80,
       "heatBucket": 5,
-      "heatValue": 50,
+      "heatValue": 54,
       "start": 78
     },
     {
       "content": "Moins il y a de thé,\nplus je mets de sucre.",
       "end": 81,
       "heatBucket": 5,
-      "heatValue": 48,
+      "heatValue": 52,
       "start": 80
     },
     {
       "content": "Moins j'ai d'argent...\n— On se commande un jap ?",
       "end": 82,
       "heatBucket": 5,
-      "heatValue": 41,
+      "heatValue": 44,
       "start": 81
     },
     {
       "content": "...moins j'ai faim.\n— J'ai pas faim.",
       "end": 84,
       "heatBucket": 5,
-      "heatValue": 39,
+      "heatValue": 42,
       "start": 82
     },
     {
       "content": "— On commande une pizza ?\n— J'ai pas faim.",
       "end": 85,
       "heatBucket": 3,
-      "heatValue": 31,
+      "heatValue": 32,
       "start": 84
     },
     {
       "content": "— On se fait un resto ?\n— J'ai pas faim.",
       "end": 87,
       "heatBucket": 3,
-      "heatValue": 30,
+      "heatValue": 32,
       "start": 85
     },
     {
       "content": "— Je t'invite.\n— Une entrecôte, s'il vous plaît.",
       "end": 90,
       "heatBucket": 3,
-      "heatValue": 29,
+      "heatValue": 31,
       "start": 87
     },
     {
       "content": "Sur Internet, je clique\nsur des pubs \"Gagne 3000€\npar mois en restant chez vous.\"",
       "end": 92,
       "heatBucket": 3,
-      "heatValue": 29,
+      "heatValue": 31,
       "start": 90
     },
     {
       "content": "Puis j'achète 1 €, une méthode\nqui m'explique comment vendre\ncette méthode à 3 000 personnes.",
       "end": 95,
       "heatBucket": 3,
-      "heatValue": 30,
+      "heatValue": 31,
       "start": 92
     },
     {
       "content": "Je fais des soirées où je dis\naux gens de ramener des trucs à manger.",
       "end": 97,
       "heatBucket": 3,
-      "heatValue": 31,
+      "heatValue": 32,
       "start": 95
     },
     {
       "content": "— Non, tu ramèneras rien. Un petit truc à manger, à la rigueur.",
       "end": 99,
-      "heatBucket": 3,
-      "heatValue": 34,
+      "heatBucket": 5,
+      "heatValue": 37,
       "start": 97
     },
     {
       "content": "Après, pendant deux semaines, je mange\ndes chips, des cacahuètes et des olives.",
       "end": 101,
-      "heatBucket": 3,
-      "heatValue": 34,
+      "heatBucket": 5,
+      "heatValue": 37,
       "start": 99
     },
     {
       "content": "Quand je suis invité à une soirée,\nje prends une bouteille à 2 €\navec un nom de millionnaire dessus.",
       "end": 104,
       "heatBucket": 3,
-      "heatValue": 33,
+      "heatValue": 34,
       "start": 101
     },
     {
       "content": "J'enlève l'étiquette orange\npour pas me faire griller.",
       "end": 105,
-      "heatBucket": 3,
-      "heatValue": 34,
+      "heatBucket": 5,
+      "heatValue": 36,
       "start": 104
     },
     {
       "content": "Quand j'arrive, on me dit:\n— Je vais la mettre à la cuisine.",
       "end": 107,
       "heatBucket": 3,
-      "heatValue": 30,
+      "heatValue": 32,
       "start": 105
     },
     {
       "content": "C'est ce qui veut dire:\n— Je vais la mettre à la poubelle.",
       "end": 110,
       "heatBucket": 3,
-      "heatValue": 26,
+      "heatValue": 27,
       "start": 107
     },
     {
       "content": "Bref, je suis en mode survie.",
       "end": 112,
       "heatBucket": 3,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 110
     },
     {
@@ -315,35 +315,35 @@
       "content": "— Hmmm. Irresistible.",
       "end": 124,
       "heatBucket": 1,
-      "heatValue": 9,
+      "heatValue": 10,
       "start": 122
     },
     {
       "content": "— C'est fameux.",
       "end": 125,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 12,
       "start": 124
     },
     {
       "content": "— Bon, je vous laisse.",
       "end": 127,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 13,
       "start": 125
     },
     {
       "content": "— J'ai mon traineau qui est mal garé.",
       "end": 128,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 13,
       "start": 127
     },
     {
       "content": "— À bientôt.\n— Ça, j'espère.",
       "end": 130,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 12,
       "start": 128
     }
   ],
@@ -351,7 +351,7 @@
     "commentCount": 1000,
     "id": "ZQHDDjV-KgQ",
     "isAgeRestricted": false,
-    "likeCount": 133758,
-    "viewCount": 11710298
+    "likeCount": 137207,
+    "viewCount": 12101485
   }
 }

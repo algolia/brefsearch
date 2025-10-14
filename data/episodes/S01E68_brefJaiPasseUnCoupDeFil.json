@@ -21,48 +21,48 @@
       "content": "J'ai appelé Ben pour savoir\nquel film on allait voir.",
       "end": 5,
       "heatBucket": 5,
-      "heatValue": 31,
+      "heatValue": 33,
       "start": 3
     },
     {
       "content": "Je suis tombé sur sa messagerie,\nje lui ai laissé un message.",
       "end": 7,
       "heatBucket": 5,
-      "heatValue": 26,
+      "heatValue": 28,
       "start": 5
     },
     {
       "content": "— Ouais Ben, dis-moi, je voulais savoir\nquel film on allait...",
       "end": 9,
       "heatBucket": 5,
-      "heatValue": 24,
+      "heatValue": 25,
       "start": 7
     },
     {
       "content": "— Ah attends, c'est toi qui me rappelle.",
       "end": 10,
       "heatBucket": 5,
-      "heatValue": 21,
+      "heatValue": 22,
       "start": 9
     },
     {
       "content": "J'ai voulu prendre l'appel,\nmais comme d'hab, ça marchait pas.",
       "end": 12,
       "heatBucket": 5,
-      "heatValue": 20,
+      "heatValue": 21,
       "start": 10
     },
     {
       "content": "J'ai rappuyé, j'ai dit:\n— Allô ?\nIl avait raccroché.",
       "end": 14,
       "heatBucket": 5,
-      "heatValue": 17,
+      "heatValue": 18,
       "start": 12
     },
     {
       "content": "J'ai rappelé. Je suis\ntombé sur sa messagerie.",
       "end": 17,
-      "heatBucket": 5,
+      "heatBucket": 1,
       "heatValue": 15,
       "start": 14
     },
@@ -77,21 +77,21 @@
       "content": "J'ai écouté ma messagerie.",
       "end": 21,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 11,
       "start": 19
     },
     {
       "content": "— Bon bha, rappelle-moi,\nj'arrive pas à te joindre.",
       "end": 22,
       "heatBucket": 1,
-      "heatValue": 9,
+      "heatValue": 10,
       "start": 21
     },
     {
       "content": "J'ai compris qu'on était piégé.\nJ'ai décidé d'attendre qu'il me rappelle.",
       "end": 25,
       "heatBucket": 1,
-      "heatValue": 8,
+      "heatValue": 9,
       "start": 22
     },
     {
@@ -112,7 +112,7 @@
       "content": "— Vous êtes bien sur le répondeur de Ben,\nlaissez moi un message. Tchao.",
       "end": 30,
       "heatBucket": 1,
-      "heatValue": 5,
+      "heatValue": 6,
       "start": 29
     },
     {
@@ -203,105 +203,105 @@
       "content": "Je lui ai dit que je n'avais pas eu\nle temps vu que Julien l'avait appelé.",
       "end": 49,
       "heatBucket": 1,
-      "heatValue": 5,
+      "heatValue": 4,
       "start": 47
     },
     {
       "content": "Mon téléphone fixe a sonné.",
       "end": 50,
       "heatBucket": 1,
-      "heatValue": 5,
+      "heatValue": 4,
       "start": 49
     },
     {
       "content": "— Y a mon téléphone fixe\nqui sonne, c'est chelou.",
       "end": 51,
       "heatBucket": 1,
-      "heatValue": 5,
+      "heatValue": 4,
       "start": 50
     },
     {
       "content": "C'est qui ?\nAllô ?",
       "end": 54,
       "heatBucket": 1,
-      "heatValue": 6,
+      "heatValue": 5,
       "start": 51
     },
     {
       "content": "C'était Charles, il appelait d'une cabine.\n— Ouais, c'est Charles.",
       "end": 56,
       "heatBucket": 1,
-      "heatValue": 6,
+      "heatValue": 5,
       "start": 54
     },
     {
       "content": "— Putain, j'ai perdu mon portable\net t'es le seul qui est dans l'annuaire.",
       "end": 58,
       "heatBucket": 1,
-      "heatValue": 6,
+      "heatValue": 5,
       "start": 56
     },
     {
       "content": "— Ouais, ouais.\n— Oui, oui.",
       "end": 59,
       "heatBucket": 1,
-      "heatValue": 6,
+      "heatValue": 5,
       "start": 59
     },
     {
       "content": "— Oui, oui.\n— Oui, C'est qui ?",
       "end": 60,
       "heatBucket": 1,
-      "heatValue": 7,
+      "heatValue": 6,
       "start": 59
     },
     {
       "content": "J'ai eu un double appel de Xavier.\n— Ouais Christophe, c'est Xavier.",
       "end": 62,
       "heatBucket": 1,
-      "heatValue": 13,
+      "heatValue": 15,
       "start": 60
     },
     {
       "content": "Je ne connaissais pas de Xavier\net je m'appelais pas Christophe,\nalors j'ai dit:\n— Désolé, c'est une erreur.",
       "end": 65,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 15,
       "start": 62
     },
     {
       "content": "Charles a dit:\n— Tu peux dire\nà Baptiste que je vais être en retard ?",
       "end": 67,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 15,
       "start": 65
     },
     {
       "content": "— Charles sera en retard.",
       "end": 69,
       "heatBucket": 1,
-      "heatValue": 7,
+      "heatValue": 6,
       "start": 67
     },
     {
       "content": "— C'est qui Charles ?\nCharles a dit merci et a raccroché.",
       "end": 72,
       "heatBucket": 1,
-      "heatValue": 7,
+      "heatValue": 6,
       "start": 69
     },
     {
       "content": "Pendant ce temps,\nBen avait fini avec Julien.",
       "end": 73,
       "heatBucket": 1,
-      "heatValue": 7,
+      "heatValue": 6,
       "start": 72
     },
     {
       "content": "J'ai raccroché avec Xavier\net j'ai récupéré Baptiste.",
       "end": 74,
       "heatBucket": 1,
-      "heatValue": 6,
+      "heatValue": 5,
       "start": 73
     },
     {
@@ -432,10 +432,10 @@
     }
   ],
   "video": {
-    "commentCount": 348,
+    "commentCount": 357,
     "id": "8matlnmBY98",
     "isAgeRestricted": false,
-    "likeCount": 76290,
-    "viewCount": 5070086
+    "likeCount": 79575,
+    "viewCount": 5402089
   }
 }

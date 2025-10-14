@@ -13,29 +13,29 @@
     {
       "content": "— Putain, j'ai perdu mes clés.",
       "end": 1,
-      "heatBucket": 4,
-      "heatValue": 35,
+      "heatBucket": 5,
+      "heatValue": 30,
       "start": 0
     },
     {
       "content": "Bref, s'il y a un truc qui m'énerve encore\nplus que perdre mes clés, c'est les mecs\nqui me donnent des conseils pourris.\n— T'as regardé dans ton autre poche ?",
       "end": 6,
       "heatBucket": 3,
-      "heatValue": 25,
+      "heatValue": 23,
       "start": 1
     },
     {
       "content": "Et qui ont raison.",
       "end": 7,
       "heatBucket": 2,
-      "heatValue": 19,
+      "heatValue": 18,
       "start": 6
     },
     {
       "content": "Je suis comme ça, il y a\ndes gens qui m'énervent.",
       "end": 9,
       "heatBucket": 2,
-      "heatValue": 19,
+      "heatValue": 18,
       "start": 7
     },
     {
@@ -49,14 +49,14 @@
       "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent:\n— Ouais, c'est marrant.",
       "end": 15,
       "heatBucket": 3,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 12
     },
     {
       "content": "Il y a les filles qui te parlent\npendant des heures de trucs\nqui t'intéressent pas.",
       "end": 17,
       "heatBucket": 3,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 15
     },
     {
@@ -69,21 +69,21 @@
     {
       "content": "— J'ai pas de cheveux.",
       "end": 21,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 26,
       "start": 20
     },
     {
       "content": "— C'est bien une réponse de mec, ça.",
       "end": 22,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 27,
       "start": 21
     },
     {
       "content": "Les mecs qui ont toujours\nplus de classe que moi.",
       "end": 24,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 27,
       "start": 22
     },
@@ -91,7 +91,7 @@
       "content": "— Moi, franchement,\nça me fait un petit style.",
       "end": 25,
       "heatBucket": 3,
-      "heatValue": 25,
+      "heatValue": 24,
       "start": 24
     },
     {
@@ -105,84 +105,84 @@
       "content": "Les mecs qui te coupent\ndans ton histoire pour te\nraconter une autre histoire.\n— Non, non mais on dit \"au Châtelet\".",
       "end": 32,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 13,
       "start": 28
     },
     {
       "content": "— Excuse-moi de te reprendre.\nOn dit pas \"à Châtelet\", on dit \"au Châtelet\".",
       "end": 33,
       "heatBucket": 1,
-      "heatValue": 8,
+      "heatValue": 7,
       "start": 32
     },
     {
       "content": "Parce qu'avant d'être une station\nde métro, le Châtelet, c'était\nune petite forteresse qui a permis\naux Parisiens de résister face",
       "end": 38,
       "heatBucket": 1,
-      "heatValue": 7,
+      "heatValue": 6,
       "start": 33
     },
     {
       "content": "à la grande invasion des Vikings en 885.",
       "end": 40,
       "heatBucket": 1,
-      "heatValue": 8,
+      "heatValue": 7,
       "start": 38
     },
     {
       "content": "— Vas-y, je t'en prie,\nc'est quoi ton histoire ?",
       "end": 42,
       "heatBucket": 1,
-      "heatValue": 8,
+      "heatValue": 7,
       "start": 40
     },
     {
       "content": "— Le mec me bouscule et me dit pas pardon.",
       "end": 45,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 9,
       "start": 42
     },
     {
       "content": "— Ça m'étonne pas.",
       "end": 48,
       "heatBucket": 1,
-      "heatValue": 15,
+      "heatValue": 13,
       "start": 46
     },
     {
       "content": "Les mecs qui t'offrent un truc\nparce qu'ils l'ont déjà en double.",
       "end": 50,
       "heatBucket": 1,
-      "heatValue": 17,
+      "heatValue": 15,
       "start": 48
     },
     {
       "content": "— Tu va voir, c'est un super passe-papier.",
       "end": 52,
       "heatBucket": 2,
-      "heatValue": 20,
+      "heatValue": 18,
       "start": 50
     },
     {
       "content": "Du coup, je le refile à quelqu'un.\n— Tiens, c'est un super passe-papier.",
       "end": 54,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 19,
       "start": 52
     },
     {
       "content": "Et je suis sûr qu'il va\nle remettre à quelqu'un d'autre.",
       "end": 55,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 19,
       "start": 54
     },
     {
       "content": "— Joyeux anniversaire\nUn autre truc qui m'énerve,\nc'est les mecs qui passent toute",
       "end": 58,
-      "heatBucket": 3,
-      "heatValue": 22,
+      "heatBucket": 2,
+      "heatValue": 21,
       "start": 55
     },
     {
@@ -245,21 +245,21 @@
       "content": "— Vous pouvez le mettre où vous voulez, dans\nla rue, à la campagne, même dans un lac.",
       "end": 82,
       "heatBucket": 1,
-      "heatValue": 13,
+      "heatValue": 12,
       "start": 78
     },
     {
       "content": "— Bon, c'est bon, tu le prends ?",
       "end": 84,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 10,
       "start": 82
     },
     {
       "content": "Les mecs qui bougent les lèvres en\nmême temps que toi pendant que tu parles.",
       "end": 86,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 10,
       "start": 84
     },
     {
@@ -273,41 +273,41 @@
       "content": "— Ça va ?",
       "end": 91,
       "heatBucket": 1,
-      "heatValue": 17,
+      "heatValue": 16,
       "start": 89
     },
     {
       "content": "— Ouais.",
       "end": 91,
-      "heatBucket": 2,
-      "heatValue": 18,
+      "heatBucket": 1,
+      "heatValue": 17,
       "start": 91
     },
     {
       "content": "Les mecs qui posent des questions\nqui servent à rien.",
       "end": 93,
       "heatBucket": 2,
-      "heatValue": 20,
+      "heatValue": 19,
       "start": 91
     },
     {
       "content": "— Dis donc, pourquoi est-ce\nque le café il monte dans le sucre ?",
       "end": 96,
-      "heatBucket": 4,
-      "heatValue": 27,
+      "heatBucket": 3,
+      "heatValue": 26,
       "start": 93
     },
     {
       "content": "Et les mecs qui ont la réponse.\n— Mais c'est la capillarité.",
       "end": 98,
-      "heatBucket": 4,
-      "heatValue": 34,
+      "heatBucket": 5,
+      "heatValue": 33,
       "start": 96
     },
     {
       "content": "— C'est les molécules d'eau\nqui sont attirées par les molécules\ndu sucre et ça remonte.",
       "end": 102,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 44,
       "start": 98
     },
@@ -343,7 +343,7 @@
       "content": "Et j'aime bien.",
       "end": 112,
       "heatBucket": 5,
-      "heatValue": 89,
+      "heatValue": 90,
       "start": 111
     },
     {
@@ -356,37 +356,37 @@
     {
       "content": "Par contre, je ne sais pas\npourquoi, j'aime bien les gens\nqui disent:\n— Bref.\nBref, il y a des gens qui m'énervent.",
       "end": 124,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 36,
       "start": 115
     },
     {
       "content": "— Excusez-moi.\n— Oui ?",
       "end": 127,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 29,
       "start": 126
     },
     {
       "content": "— Vous êtes Chantal Lauby ?",
       "end": 128,
-      "heatBucket": 4,
+      "heatBucket": 5,
       "heatValue": 31,
       "start": 127
     },
     {
       "content": "— Non, je suis le pape et j'attends ma sœur.",
       "end": 130,
-      "heatBucket": 4,
-      "heatValue": 32,
+      "heatBucket": 5,
+      "heatValue": 33,
       "start": 128
     }
   ],
   "video": {
-    "commentCount": 2900,
+    "commentCount": 3000,
     "id": "tjRXxJaupoc",
     "isAgeRestricted": false,
-    "likeCount": 209093,
-    "viewCount": 11882596
+    "likeCount": 216668,
+    "viewCount": 12492334
   }
 }

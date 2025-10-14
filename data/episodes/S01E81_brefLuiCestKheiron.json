@@ -14,56 +14,56 @@
       "content": "Bref, lui, c'est Kheiron.",
       "end": 2,
       "heatBucket": 5,
-      "heatValue": 70,
+      "heatValue": 69,
       "start": 0
     },
     {
       "content": "Quand il s'agit d'aborder une meuf,\nil est toujours là pour moi.",
       "end": 4,
       "heatBucket": 5,
-      "heatValue": 65,
+      "heatValue": 64,
       "start": 2
     },
     {
       "content": "Parfois, je suis timide, mais il a\ndes techniques révolutionnaires.",
       "end": 8,
       "heatBucket": 4,
-      "heatValue": 44,
+      "heatValue": 46,
       "start": 4
     },
     {
       "content": "— Désolé, j'ai perdu ma chaussure.",
       "end": 13,
-      "heatBucket": 2,
-      "heatValue": 33,
+      "heatBucket": 3,
+      "heatValue": 35,
       "start": 10
     },
     {
       "content": "Et le pire dans cette technique,\nc'est qu'elle marche.",
       "end": 15,
       "heatBucket": 2,
-      "heatValue": 33,
+      "heatValue": 34,
       "start": 13
     },
     {
       "content": "— L'idée, c'est que...",
       "end": 17,
       "heatBucket": 2,
-      "heatValue": 32,
+      "heatValue": 33,
       "start": 15
     },
     {
       "content": "Il est apparu dans ma vie à l'époque\noù je me suis pris ma première claque.",
       "end": 20,
       "heatBucket": 2,
-      "heatValue": 31,
+      "heatValue": 33,
       "start": 17
     },
     {
       "content": "— Jamais, jamais, jamais, jamais, jamais.",
       "end": 24,
       "heatBucket": 2,
-      "heatValue": 29,
+      "heatValue": 30,
       "start": 20
     },
     {
@@ -77,28 +77,28 @@
       "content": "Il est venu s'asseoir à côté de moi.",
       "end": 30,
       "heatBucket": 3,
-      "heatValue": 36,
+      "heatValue": 37,
       "start": 27
     },
     {
       "content": "On s'est bien entendu.",
       "end": 35,
       "heatBucket": 4,
-      "heatValue": 51,
+      "heatValue": 53,
       "start": 30
     },
     {
       "content": "On s'est super bien entendu.",
       "end": 39,
       "heatBucket": 5,
-      "heatValue": 71,
+      "heatValue": 72,
       "start": 36
     },
     {
       "content": "Quand je suis pas bien,\nil me conseille de baiser des meufs.",
       "end": 41,
       "heatBucket": 5,
-      "heatValue": 64,
+      "heatValue": 65,
       "start": 39
     },
     {
@@ -133,42 +133,42 @@
       "content": "— C'est qui cette fille avec qui\nt'es allé au cinéma hier ?",
       "end": 55,
       "heatBucket": 3,
-      "heatValue": 41,
+      "heatValue": 42,
       "start": 53
     },
     {
       "content": "La plupart du temps, quand je mens...",
       "end": 57,
       "heatBucket": 4,
-      "heatValue": 46,
+      "heatValue": 48,
       "start": 55
     },
     {
       "content": "— Aline, ma sœur.\nÇa vient de lui.",
       "end": 59,
       "heatBucket": 4,
-      "heatValue": 52,
+      "heatValue": 53,
       "start": 57
     },
     {
       "content": "C'est lui qui m'a appris\nla technique de lire le livre\n\"Papa seul, et alors ?\" dans un square.",
       "end": 61,
       "heatBucket": 5,
-      "heatValue": 66,
+      "heatValue": 70,
       "start": 59
     },
     {
       "content": "Et le pire dans cette technique,\nc'est qu'elle marche.",
       "end": 64,
       "heatBucket": 5,
-      "heatValue": 64,
+      "heatValue": 67,
       "start": 61
     },
     {
       "content": "En soirée, on communique\npar des signes très discrets.",
       "end": 67,
       "heatBucket": 4,
-      "heatValue": 52,
+      "heatValue": 53,
       "start": 64
     },
     {
@@ -182,14 +182,14 @@
       "content": "Ça, ça veut dire que c'est cool.",
       "end": 70,
       "heatBucket": 3,
-      "heatValue": 40,
+      "heatValue": 41,
       "start": 69
     },
     {
       "content": "Et ça, ça veut dire qu'elle est\ntrès, très ouverte d'esprit.",
       "end": 72,
       "heatBucket": 3,
-      "heatValue": 36,
+      "heatValue": 37,
       "start": 70
     },
     {
@@ -203,7 +203,7 @@
       "content": "Et ça, ça veut dire que...\nelle aime bien les fruits.",
       "end": 75,
       "heatBucket": 2,
-      "heatValue": 33,
+      "heatValue": 34,
       "start": 73
     },
     {
@@ -231,7 +231,7 @@
       "content": "— Sophie.\n— Bon, bah, à bientôt.",
       "end": 84,
       "heatBucket": 1,
-      "heatValue": 24,
+      "heatValue": 25,
       "start": 83
     },
     {
@@ -252,21 +252,21 @@
       "content": "— Attends mais, tu lui as jeté\nta chaussure ?",
       "end": 121,
       "heatBucket": 1,
-      "heatValue": 17,
+      "heatValue": 18,
       "start": 117
     },
     {
       "content": "— Ouais.\n— Et ça a marché ?",
       "end": 122,
       "heatBucket": 1,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 121
     },
     {
       "content": "— Ouais.",
       "end": 126,
       "heatBucket": 1,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 124
     },
     {
@@ -281,7 +281,7 @@
     "commentCount": 1500,
     "id": "z5tHQfjXtwc",
     "isAgeRestricted": false,
-    "likeCount": 128353,
-    "viewCount": 10107687
+    "likeCount": 132377,
+    "viewCount": 10536408
   }
 }

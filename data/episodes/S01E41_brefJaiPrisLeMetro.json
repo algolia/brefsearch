@@ -14,21 +14,21 @@
       "content": "Bref, dans la vie,\nj'étais obligé de manger.",
       "end": 6,
       "heatBucket": 5,
-      "heatValue": 79,
+      "heatValue": 82,
       "start": 4
     },
     {
       "content": "Du coup, j'étais obligé de travailler.",
       "end": 7,
       "heatBucket": 5,
-      "heatValue": 65,
+      "heatValue": 68,
       "start": 6
     },
     {
       "content": "Du coup, j'étais obligé de prendre\nle métro tous les matins.",
       "end": 9,
       "heatBucket": 5,
-      "heatValue": 46,
+      "heatValue": 48,
       "start": 7
     },
     {
@@ -70,35 +70,35 @@
       "content": "Parce qu'avant, les pauvres gens\ndormaient dans le métro.",
       "end": 26,
       "heatBucket": 1,
-      "heatValue": 20,
+      "heatValue": 21,
       "start": 24
     },
     {
       "content": "Maintenant, ils dorment mal dans le métro.",
       "end": 27,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 22,
       "start": 26
     },
     {
       "content": "Le métro, ça attaque tes cinq sens.",
       "end": 29,
       "heatBucket": 2,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 27
     },
     {
       "content": "La vue, l'odorat, le toucher, l'ouïe.",
       "end": 32,
       "heatBucket": 2,
-      "heatValue": 23,
+      "heatValue": 24,
       "start": 29
     },
     {
       "content": "Pour le goût, un jour,\nj'ai vu un mec faire ça.",
       "end": 36,
       "heatBucket": 2,
-      "heatValue": 22,
+      "heatValue": 23,
       "start": 32
     },
     {
@@ -119,7 +119,7 @@
       "content": "Et des familles super contentes de s'endetter\n20 ans pour une machine à laver.",
       "end": 43,
       "heatBucket": 1,
-      "heatValue": 20,
+      "heatValue": 21,
       "start": 41
     },
     {
@@ -133,21 +133,21 @@
       "content": "— Ayant perdu mon emploi\nla semaine dernière.",
       "end": 48,
       "heatBucket": 3,
-      "heatValue": 33,
+      "heatValue": 34,
       "start": 46
     },
     {
       "content": "Et comme tous les mendiants,\nil avait la même mélodie.",
       "end": 49,
       "heatBucket": 3,
-      "heatValue": 36,
+      "heatValue": 37,
       "start": 48
     },
     {
       "content": "— Mes trois enfants sont morts.",
       "end": 51,
       "heatBucket": 3,
-      "heatValue": 37,
+      "heatValue": 38,
       "start": 49
     },
     {
@@ -175,7 +175,7 @@
       "content": "— 🎵 Nin nin nin nin nin nin.",
       "end": 61,
       "heatBucket": 3,
-      "heatValue": 31,
+      "heatValue": 32,
       "start": 58
     },
     {
@@ -203,7 +203,7 @@
       "content": "Puis, parfois, le wagon s'arrête\nau milieu de nulle part, alors on attend.",
       "end": 79,
       "heatBucket": 1,
-      "heatValue": 7,
+      "heatValue": 8,
       "start": 75
     },
     {
@@ -253,7 +253,7 @@
     "commentCount": 1800,
     "id": "aqrab4lKVm0",
     "isAgeRestricted": false,
-    "likeCount": 98202,
-    "viewCount": 7606246
+    "likeCount": 101728,
+    "viewCount": 7985729
   }
 }

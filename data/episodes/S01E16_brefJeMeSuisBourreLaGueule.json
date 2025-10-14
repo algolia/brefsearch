@@ -14,14 +14,14 @@
       "content": "Bref, j'étais complètement bourré.",
       "end": 2,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 22,
       "start": 1
     },
     {
       "content": "Je n'avais aucune idée\nde ce que j'avais fait.",
       "end": 4,
       "heatBucket": 2,
-      "heatValue": 18,
+      "heatValue": 17,
       "start": 2
     },
     {
@@ -55,7 +55,7 @@
     {
       "content": "— Hey, j'suis pas bourré.\n— J'suis pas bourré.",
       "end": 13,
-      "heatBucket": 2,
+      "heatBucket": 1,
       "heatValue": 13,
       "start": 12
     },
@@ -76,7 +76,7 @@
     {
       "content": "Je me suis souri dans la glace\nde la salle de bain et je me suis\ndit:\n— Tu es le meilleur.",
       "end": 19,
-      "heatBucket": 2,
+      "heatBucket": 1,
       "heatValue": 13,
       "start": 16
     },
@@ -84,7 +84,7 @@
       "content": "J'ai respiré dans mon\nT-shirt pour ne pas vomir.",
       "end": 20,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 11,
       "start": 19
     },
     {
@@ -97,22 +97,22 @@
     {
       "content": "J'ai voulu faire la paix,\nmais il m'a poussé.",
       "end": 24,
-      "heatBucket": 2,
-      "heatValue": 14,
+      "heatBucket": 1,
+      "heatValue": 13,
       "start": 22
     },
     {
       "content": "Je ne savais pas qui était cette fille.\nAh si.",
       "end": 27,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 23,
       "start": 24
     },
     {
       "content": "Avant d'être bourré,\nj'avais dragué une fille.",
       "end": 29,
       "heatBucket": 5,
-      "heatValue": 49,
+      "heatValue": 48,
       "start": 27
     },
     {
@@ -126,21 +126,21 @@
       "content": "Pour vous donner une idée,\nMarla vaut 6 500 points.",
       "end": 32,
       "heatBucket": 5,
-      "heatValue": 80,
+      "heatValue": 79,
       "start": 30
     },
     {
       "content": "Mon ex vaut 7 200 points, Laure vaut 4 200\npoints et elle, elle vaut énormément.",
       "end": 36,
       "heatBucket": 5,
-      "heatValue": 88,
+      "heatValue": 87,
       "start": 32
     },
     {
       "content": "Donc 100 points, c'est pas top.",
       "end": 37,
       "heatBucket": 5,
-      "heatValue": 76,
+      "heatValue": 75,
       "start": 36
     },
     {
@@ -161,14 +161,14 @@
       "content": "Plus 100 points.\n— J'ai déjà fait des plans à trois.",
       "end": 42,
       "heatBucket": 5,
-      "heatValue": 25,
+      "heatValue": 24,
       "start": 41
     },
     {
       "content": "Plus pour cent.\n— Avec qui ?",
       "end": 43,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 23,
       "start": 42
     },
     {
@@ -182,14 +182,14 @@
       "content": "— Franchement, ça va, c'est cool.",
       "end": 46,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 23,
       "start": 46
     },
     {
       "content": "— Il y a pas trop d'wesh. Enfin, pas trop d'arabes, quoi.",
       "end": 49,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 23,
       "start": 46
     },
     {
@@ -203,7 +203,7 @@
       "content": "Elle est passée à -1000,\nalors je me suis mis à boire.\nVoilà pourquoi j'avais bu.",
       "end": 61,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 9,
       "start": 52
     },
     {
@@ -217,49 +217,49 @@
       "content": "Ah si.",
       "end": 65,
       "heatBucket": 1,
-      "heatValue": 6,
+      "heatValue": 7,
       "start": 63
     },
     {
       "content": "Arrivé à la soirée, c'était mort.",
       "end": 66,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 11,
       "start": 65
     },
     {
       "content": "Il y avait que des filles à zéro point.",
       "end": 67,
       "heatBucket": 2,
-      "heatValue": 13,
+      "heatValue": 14,
       "start": 66
     },
     {
       "content": "Puis, Kheiron m'a subtilement signifié\nqu'une d'entre elles était\nAh s00:01:09.825 --> 00:01:11.960\nplus ouverte que les autres.\nJ'y suis allé.",
       "end": 69,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 9,
       "start": 67
     },
     {
       "content": "Et ça ?\n— Ça, c'est à moi.",
       "end": 76,
       "heatBucket": 2,
-      "heatValue": 16,
+      "heatValue": 15,
       "start": 71
     },
     {
       "content": "— Mais, j'suis pas chez moi.",
       "end": 78,
-      "heatBucket": 3,
-      "heatValue": 19,
+      "heatBucket": 2,
+      "heatValue": 18,
       "start": 76
     },
     {
       "content": "— J'ai fait du café.",
       "end": 80,
-      "heatBucket": 3,
-      "heatValue": 21,
+      "heatBucket": 2,
+      "heatValue": 20,
       "start": 78
     },
     {
@@ -278,10 +278,10 @@
     }
   ],
   "video": {
-    "commentCount": 954,
+    "commentCount": 984,
     "id": "4tdCI0GUy7w",
     "isAgeRestricted": false,
-    "likeCount": 112535,
-    "viewCount": 10683117
+    "likeCount": 115774,
+    "viewCount": 11096985
   }
 }

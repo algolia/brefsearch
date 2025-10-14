@@ -21,70 +21,70 @@
       "content": "J'attendais sur un banc quand\nj'ai aperçu cette vieille dame.",
       "end": 6,
       "heatBucket": 4,
-      "heatValue": 46,
+      "heatValue": 47,
       "start": 3
     },
     {
       "content": "Bon, alors, pour résumer, à chaque fois\nque je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
       "end": 12,
       "heatBucket": 5,
-      "heatValue": 55,
+      "heatValue": 56,
       "start": 7
     },
     {
       "content": "Ensuite, je prends un bain\npendant 10 minutes et puis\nje sors du bain pendant deux heures.",
       "end": 17,
       "heatBucket": 5,
-      "heatValue": 59,
+      "heatValue": 61,
       "start": 12
     },
     {
       "content": "Je mets du parfum, j'oublie,\nj'en remets, je réoublie.",
       "end": 21,
       "heatBucket": 5,
-      "heatValue": 49,
+      "heatValue": 50,
       "start": 17
     },
     {
       "content": "Alors, je remets et vu\nque je cocotte trop, je reprends\nun bain et je suis prête.",
       "end": 27,
       "heatBucket": 4,
-      "heatValue": 42,
+      "heatValue": 44,
       "start": 21
     },
     {
       "content": "Lui, c'est la solitude.\nIl m'accompagne partout.",
       "end": 29,
       "heatBucket": 4,
-      "heatValue": 40,
+      "heatValue": 41,
       "start": 27
     },
     {
       "content": "Je le vois tous les jours\ndepuis que Paul est parti.",
       "end": 31,
       "heatBucket": 4,
-      "heatValue": 39,
+      "heatValue": 40,
       "start": 29
     },
     {
       "content": "Paul, je l'oublie jamais.",
       "end": 32,
       "heatBucket": 4,
-      "heatValue": 39,
+      "heatValue": 40,
       "start": 31
     },
     {
       "content": "Parce que j'ai plus toute ma tête,\nmais j'ai encore tout mon cœur.",
       "end": 35,
       "heatBucket": 4,
-      "heatValue": 38,
+      "heatValue": 39,
       "start": 32
     },
     {
       "content": "Par contre, je sais plus\nsi j'ai mis du parfum.",
       "end": 37,
       "heatBucket": 4,
-      "heatValue": 35,
+      "heatValue": 36,
       "start": 35
     },
     {
@@ -140,7 +140,7 @@
       "content": "— Oui, oui, avancez, madame.",
       "end": 52,
       "heatBucket": 1,
-      "heatValue": 20,
+      "heatValue": 21,
       "start": 50
     },
     {
@@ -175,21 +175,21 @@
       "content": "— Oui, oui.\n— Aïe.",
       "end": 61,
       "heatBucket": 3,
-      "heatValue": 32,
+      "heatValue": 33,
       "start": 59
     },
     {
       "content": "Et des fois, il me demande:\n— À qui tu parles ?",
       "end": 66,
       "heatBucket": 3,
-      "heatValue": 30,
+      "heatValue": 31,
       "start": 61
     },
     {
       "content": "— À personne. Allez, viens.",
       "end": 68,
       "heatBucket": 2,
-      "heatValue": 25,
+      "heatValue": 26,
       "start": 66
     },
     {
@@ -223,8 +223,8 @@
     {
       "content": "Parfois, ça me rend triste.",
       "end": 78,
-      "heatBucket": 3,
-      "heatValue": 27,
+      "heatBucket": 2,
+      "heatValue": 26,
       "start": 75
     },
     {
@@ -245,70 +245,70 @@
       "content": "— Je n'en sais rien, je ne sais pas,\nj'ai pas la solution. Ça va, maman ?",
       "end": 86,
       "heatBucket": 3,
-      "heatValue": 31,
+      "heatValue": 30,
       "start": 84
     },
     {
       "content": "Et ils repartent tous les deux.",
       "end": 87,
       "heatBucket": 4,
-      "heatValue": 36,
+      "heatValue": 35,
       "start": 86
     },
     {
       "content": "— Salut, mamie !\n— Oh, j'ai pas le temps, là, je suis mal garé. On se voit demain, hein.",
       "end": 90,
       "heatBucket": 4,
-      "heatValue": 46,
+      "heatValue": 47,
       "start": 87
     },
     {
       "content": "— À demain.",
       "end": 91,
       "heatBucket": 5,
-      "heatValue": 62,
+      "heatValue": 65,
       "start": 90
     },
     {
       "content": "— Tiens, tu es là, toi ?",
       "end": 95,
       "heatBucket": 5,
-      "heatValue": 60,
+      "heatValue": 64,
       "start": 93
     },
     {
       "content": "— Viens, on va regarder la télé.",
       "end": 97,
       "heatBucket": 5,
-      "heatValue": 47,
+      "heatValue": 50,
       "start": 95
     },
     {
       "content": "Bon, alors, pour résumer, je suis vieille.",
       "end": 100,
       "heatBucket": 4,
-      "heatValue": 37,
+      "heatValue": 39,
       "start": 97
     },
     {
       "content": "— Bonjour.",
       "end": 105,
       "heatBucket": 1,
-      "heatValue": 20,
+      "heatValue": 21,
       "start": 104
     },
     {
       "content": "— Bonjour.",
       "end": 108,
       "heatBucket": 1,
-      "heatValue": 13,
+      "heatValue": 14,
       "start": 107
     },
     {
       "content": "— Il ne fait pas très beau aujourd'hui, hein ?\n— Ouais.",
       "end": 111,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 12,
       "start": 108
     }
   ],
@@ -316,7 +316,7 @@
     "commentCount": 3400,
     "id": "5pr4Q09-16k",
     "isAgeRestricted": false,
-    "likeCount": 195186,
-    "viewCount": 8192406
+    "likeCount": 200672,
+    "viewCount": 8555934
   }
 }

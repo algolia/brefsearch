@@ -14,91 +14,91 @@
       "content": "Bref. Quand je dois prendre rendez-vous avec\nune fille, j'attends toujours trois jours\navant de lui envoyer un texto\npour montrer que je suis un gars détaché.",
       "end": 7,
       "heatBucket": 5,
-      "heatValue": 56,
+      "heatValue": 59,
       "start": 2
     },
     {
       "content": "Entre temps, je tape son nom\net son prénom dans Google et j'apprends\nqu'elle était en seconde B\nau lycée Clemenceau, à Reims.",
       "end": 12,
       "heatBucket": 3,
-      "heatValue": 48,
+      "heatValue": 52,
       "start": 7
     },
     {
       "content": "Génial.",
       "end": 13,
       "heatBucket": 3,
-      "heatValue": 44,
+      "heatValue": 48,
       "start": 12
     },
     {
       "content": "À chaque fois que je me prépare pour\nun rendez-vous, je prends une douche,\ndeux fois, pour être bien propre.",
       "end": 16,
       "heatBucket": 3,
-      "heatValue": 39,
+      "heatValue": 44,
       "start": 13
     },
     {
       "content": "Après, pendant une heure, je m'occupe\nde ma barbe pour avoir l'air d'un mec\nqui s'occupe pas de sa barbe.",
       "end": 19,
       "heatBucket": 3,
-      "heatValue": 31,
+      "heatValue": 36,
       "start": 16
     },
     {
       "content": "Je teste une tenue 1, une tenue 2,\nune tenue 3, une tenue 4.",
       "end": 22,
       "heatBucket": 3,
-      "heatValue": 23,
+      "heatValue": 26,
       "start": 19
     },
     {
       "content": "Je reviens à la tenue 1, je vérifie\nsi j'ai pas de crotte de nez, je vérifie\nsi ma braguette est pas ouverte.",
       "end": 26,
       "heatBucket": 2,
-      "heatValue": 17,
+      "heatValue": 19,
       "start": 22
     },
     {
       "content": "Je me mets du parfum, j'oublie,\nj'en remets, je réoublie,\nje sens trop le parfum, je reprends\nune douche et je remets du parfum.",
       "end": 31,
       "heatBucket": 2,
-      "heatValue": 14,
+      "heatValue": 15,
       "start": 26
     },
     {
       "content": "Je répète mes phrases d'accroche.\n— Salut.",
       "end": 33,
       "heatBucket": 2,
-      "heatValue": 16,
+      "heatValue": 17,
       "start": 31
     },
     {
       "content": "— Salut.\n— Salut.",
       "end": 34,
       "heatBucket": 2,
-      "heatValue": 18,
+      "heatValue": 20,
       "start": 33
     },
     {
       "content": "— Oh, comment tu vas ?\n— Ça va ?",
       "end": 36,
       "heatBucket": 2,
-      "heatValue": 19,
+      "heatValue": 21,
       "start": 34
     },
     {
       "content": "— Excuse-moi, je suis en retard, je...\nJe bosse également mon regard.",
       "end": 39,
       "heatBucket": 2,
-      "heatValue": 19,
+      "heatValue": 21,
       "start": 36
     },
     {
       "content": "\"Je suis un homme, mais j'ai des félures.\"\nJ'accorde ma guitare et je la mets bien\nen évidence dans ma chambre",
       "end": 47,
       "heatBucket": 2,
-      "heatValue": 15,
+      "heatValue": 16,
       "start": 39
     },
     {
@@ -154,14 +154,14 @@
       "content": "— Hey, mais que voilà !",
       "end": 67,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 11,
       "start": 64
     },
     {
       "content": "Je regarde si je suis musclé,\nje suis pas musclé, je fais des pompes,\nje suis toujours pas musclé,\nmais j'ai transpiré, alors je reprends",
       "end": 71,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 11,
       "start": 67
     },
     {
@@ -196,7 +196,7 @@
       "content": "Je me réveille en retard, je cours,\nje transpire, je reprends pas\nde douche, je remets pas de parfum,\nj'accorde pas ma guitare, je range pas",
       "end": 85,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 12,
       "start": 81
     },
     {
@@ -222,10 +222,10 @@
     }
   ],
   "video": {
-    "commentCount": 521,
+    "commentCount": 529,
     "id": "1x3P61ck0QI",
     "isAgeRestricted": false,
-    "likeCount": 93483,
-    "viewCount": 7259855
+    "likeCount": 98082,
+    "viewCount": 7782463
   }
 }

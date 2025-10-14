@@ -14,7 +14,7 @@
       "content": "Bref, j'étais au supermarché,\nune femme m'a proposé du saucisson.",
       "end": 3,
       "heatBucket": 4,
-      "heatValue": 41,
+      "heatValue": 40,
       "start": 1
     },
     {
@@ -41,7 +41,7 @@
     {
       "content": "Elle m'a dit:\n— Vous voulez en acheter ?\nJ'ai dit:\n— Non.",
       "end": 10,
-      "heatBucket": 5,
+      "heatBucket": 4,
       "heatValue": 48,
       "start": 8
     },
@@ -49,7 +49,7 @@
       "content": "Elle avait l'air déçue.",
       "end": 11,
       "heatBucket": 5,
-      "heatValue": 63,
+      "heatValue": 64,
       "start": 10
     },
     {
@@ -63,7 +63,7 @@
       "content": "Trois.\nJe suis comme ça, je ne sais pas dire non.",
       "end": 15,
       "heatBucket": 5,
-      "heatValue": 86,
+      "heatValue": 87,
       "start": 13
     },
     {
@@ -105,7 +105,7 @@
       "content": "Je laisse régulièrement un pourboire\nà un serveur que je déteste.",
       "end": 28,
       "heatBucket": 4,
-      "heatValue": 40,
+      "heatValue": 41,
       "start": 25
     },
     {
@@ -132,8 +132,8 @@
     {
       "content": "— C'est clair, moi, je voulais partir aussi.",
       "end": 41,
-      "heatBucket": 2,
-      "heatValue": 16,
+      "heatBucket": 1,
+      "heatValue": 15,
       "start": 38
     },
     {
@@ -167,8 +167,8 @@
     {
       "content": "Une copine m'a recommandé\nun livre: \"Savoir dire non\".",
       "end": 49,
-      "heatBucket": 2,
-      "heatValue": 16,
+      "heatBucket": 1,
+      "heatValue": 15,
       "start": 47
     },
     {
@@ -196,14 +196,14 @@
       "content": "Un jour, j'en ai parlé\nà Baptiste, il m'a dit:",
       "end": 55,
       "heatBucket": 1,
-      "heatValue": 11,
+      "heatValue": 10,
       "start": 54
     },
     {
       "content": "— Tiens au fait, je peux pas payer le loyer ce mois-ci.",
       "end": 58,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 9,
       "start": 55
     },
     {
@@ -258,7 +258,7 @@
     {
       "content": "Un jour, Fabien m'a dit:\n— Ça te dérange pas si j'écoute de la musique ?",
       "end": 72,
-      "heatBucket": 3,
+      "heatBucket": 2,
       "heatValue": 19,
       "start": 68
     },
@@ -279,7 +279,7 @@
     {
       "content": "— Ils s'appellent Euforik, ils sont Norvégiens.",
       "end": 83,
-      "heatBucket": 4,
+      "heatBucket": 3,
       "heatValue": 36,
       "start": 81
     },
@@ -334,10 +334,10 @@
     }
   ],
   "video": {
-    "commentCount": 699,
+    "commentCount": 604,
     "id": "OmEx0mpHFG4",
     "isAgeRestricted": false,
-    "likeCount": 94559,
-    "viewCount": 7987391
+    "likeCount": 97819,
+    "viewCount": 8385139
   }
 }

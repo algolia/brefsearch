@@ -14,112 +14,112 @@
       "content": "Bref, ça faisait huit mois\nque j'étais avec ma copine\net ça se passait super bien.",
       "end": 3,
       "heatBucket": 5,
-      "heatValue": 68,
+      "heatValue": 73,
       "start": 1
     },
     {
       "content": "Quand t'es amoureux, tous les matins, il\ny a une chorégraphie qui se met en place.",
       "end": 6,
       "heatBucket": 5,
-      "heatValue": 59,
+      "heatValue": 65,
       "start": 3
     },
     {
       "content": "— T'as bien dormi ?\n— Ouais.",
       "end": 7,
       "heatBucket": 5,
-      "heatValue": 59,
+      "heatValue": 66,
       "start": 6
     },
     {
       "content": "— Ils sont où les Chocapic ?\n— Je sais pas.",
       "end": 10,
       "heatBucket": 5,
-      "heatValue": 56,
+      "heatValue": 62,
       "start": 7
     },
     {
       "content": "— J'ai ronflé ?\n— Non.",
       "end": 11,
       "heatBucket": 4,
-      "heatValue": 54,
+      "heatValue": 60,
       "start": 10
     },
     {
       "content": "— Tu m'aimes ?\n— Grave.",
       "end": 12,
       "heatBucket": 4,
-      "heatValue": 54,
+      "heatValue": 60,
       "start": 11
     },
     {
       "content": "— Pas autant que moi.\n— Tant mieux.",
       "end": 14,
       "heatBucket": 4,
-      "heatValue": 51,
+      "heatValue": 56,
       "start": 12
     },
     {
       "content": "— Bon bha, j'y vais.\n— Et mon bisou ?",
       "end": 17,
       "heatBucket": 4,
-      "heatValue": 43,
+      "heatValue": 48,
       "start": 14
     },
     {
       "content": "Et puis, un jour, tu sais pas\npourquoi, tout se décale.",
       "end": 23,
       "heatBucket": 3,
-      "heatValue": 32,
+      "heatValue": 35,
       "start": 19
     },
     {
       "content": "— T'as bien dormi ?\n— Non.",
       "end": 25,
       "heatBucket": 4,
-      "heatValue": 33,
+      "heatValue": 37,
       "start": 23
     },
     {
       "content": "— Tu m'aimes ?\n— Je sais pas.",
       "end": 27,
       "heatBucket": 4,
-      "heatValue": 33,
+      "heatValue": 37,
       "start": 25
     },
     {
       "content": "— J'ai ronflé ?\n— Pas autant que moi.",
       "end": 28,
       "heatBucket": 4,
-      "heatValue": 33,
+      "heatValue": 37,
       "start": 27
     },
     {
       "content": "— Grave.\n— Bon bha, j'y vais.",
       "end": 30,
       "heatBucket": 3,
-      "heatValue": 30,
+      "heatValue": 34,
       "start": 28
     },
     {
       "content": "— Tant mieux.\n— Et mon bisou ?",
       "end": 34,
       "heatBucket": 3,
-      "heatValue": 25,
+      "heatValue": 27,
       "start": 30
     },
     {
       "content": "C'était plus comme avant.\nC'était la merde.",
       "end": 36,
-      "heatBucket": 1,
-      "heatValue": 16,
+      "heatBucket": 2,
+      "heatValue": 18,
       "start": 35
     },
     {
       "content": "Je me demandais si j'étais\nencore amoureux d'elle.",
       "end": 38,
       "heatBucket": 1,
-      "heatValue": 12,
+      "heatValue": 13,
       "start": 36
     },
     {
@@ -168,7 +168,7 @@
       "content": "Et puis mon frère a dit:\n— Bourre-toi la gueule ce soir,\nt'auras ta réponse demain matin.\nSon copain Marc a dit:\n— Oh oui.",
       "end": 60,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 22,
       "start": 55
     },
     {
@@ -189,7 +189,7 @@
       "content": "— Ce soir ?",
       "end": 68,
       "heatBucket": 1,
-      "heatValue": 14,
+      "heatValue": 15,
       "start": 66
     },
     {
@@ -217,35 +217,35 @@
       "content": "Le matin, mes questions étaient\nparties, mes sentiments étaient revenus.",
       "end": 75,
       "heatBucket": 2,
-      "heatValue": 21,
+      "heatValue": 22,
       "start": 71
     },
     {
       "content": "J'avais ma réponse.\nLa chorégraphie pouvait reprendre.",
       "end": 77,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 25,
       "start": 75
     },
     {
       "content": "J'ai dit:\n— T'as bien dormi ?",
       "end": 79,
       "heatBucket": 3,
-      "heatValue": 27,
+      "heatValue": 28,
       "start": 77
     },
     {
       "content": "— Ouais.\nMais c'était pas elle.",
       "end": 83,
       "heatBucket": 3,
-      "heatValue": 27,
+      "heatValue": 28,
       "start": 79
     },
     {
       "content": "Bref, c'est la merde.",
       "end": 85,
       "heatBucket": 3,
-      "heatValue": 23,
+      "heatValue": 24,
       "start": 83
     },
     {
@@ -264,10 +264,10 @@
     }
   ],
   "video": {
-    "commentCount": 415,
+    "commentCount": 436,
     "id": "5U0CfNpXdEc",
     "isAgeRestricted": false,
-    "likeCount": 80337,
-    "viewCount": 6082963
+    "likeCount": 83023,
+    "viewCount": 6400892
   }
 }

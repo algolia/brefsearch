@@ -14,7 +14,7 @@
       "content": "Bref, en 1873, pendant la période Bouc\net Moustache, Amédé Bolé commercialise\nen France la première automobile.",
       "end": 5,
       "heatBucket": 5,
-      "heatValue": 87,
+      "heatValue": 86,
       "start": 0
     },
     {
@@ -90,36 +90,36 @@
     {
       "content": "Pendant ce temps, Thomas\nEdison, propre sur lui et bien rasé,\ninvente la lampe électrique.",
       "end": 35,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 4,
       "start": 31
     },
     {
       "content": "En 1908, le fordisme créé par Henry Ford,\ntout le temps bien rasé aussi, popularise\nl'automobile et le rend très riche aussi.",
       "end": 39,
-      "heatBucket": 2,
-      "heatValue": 4,
+      "heatBucket": 1,
+      "heatValue": 3,
       "start": 35
     },
     {
       "content": "De plus en plus de gens\nont accès à la voiture.",
       "end": 41,
-      "heatBucket": 2,
-      "heatValue": 4,
+      "heatBucket": 1,
+      "heatValue": 3,
       "start": 39
     },
     {
       "content": "Dans les années 80, mon père,\ndans sa période moustache, convaincu par\nles publicités, dans leur période cocaïne\nà gogo, achète une voiture pour aller",
       "end": 46,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 4,
       "start": 41
     },
     {
       "content": "à la campagne avec mon frère et moi.",
       "end": 48,
-      "heatBucket": 2,
-      "heatValue": 4,
+      "heatBucket": 1,
+      "heatValue": 3,
       "start": 47
     },
     {
@@ -153,14 +153,14 @@
     {
       "content": "Les garnir de platanes,\nles équiper de lampadaires éclairant\nla chaussée grâce à des ampoules.\nDehors, il y a plein de lumière.",
       "end": 58,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 4,
       "start": 54
     },
     {
       "content": "À 12 ans, trois mois et six jours,\nj'étais dans une voiture imaginée\npar Améd& Bollé, roulant grâce au moteur\nimaginé par Jean-Joseph Étienne Le Noir,",
       "end": 64,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 4,
       "start": 58
     },
@@ -181,14 +181,14 @@
     {
       "content": "Il pleuvait.\nJ'ai posé ma tête contre la vitre.",
       "end": 74,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 4,
       "start": 71
     },
     {
       "content": "C'était l'une des plus belles choses\nque j'ai vues dans ma vie.",
       "end": 76,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 4,
       "start": 74
     },
@@ -201,10 +201,10 @@
     }
   ],
   "video": {
-    "commentCount": 684,
+    "commentCount": 691,
     "id": "O1BZzYB3X6U",
     "isAgeRestricted": false,
-    "likeCount": 84798,
-    "viewCount": 5141702
+    "likeCount": 87602,
+    "viewCount": 5453577
   }
 }

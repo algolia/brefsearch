@@ -13,247 +13,247 @@
     {
       "content": "Bref, j'avais rien à faire.",
       "end": 4,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 30,
       "start": 3
     },
     {
       "content": "Donc, j'ai fait comme tous ceux qui n'ont\nrien à faire, je suis allé sur Internet.",
       "end": 7,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 33,
       "start": 4
     },
     {
       "content": "J'ai checké mes mails, rien.",
       "end": 8,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 33,
       "start": 7
     },
     {
       "content": "J'ai checké Facebook, rien.\nJe me suis branlé.",
       "end": 10,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 31,
       "start": 8
     },
     {
       "content": "J'ai rechecké mes mails, rien.",
       "end": 11,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 27,
       "start": 10
     },
     {
       "content": "J'ai bloqué la touche i de mon clavier.\n— IIIIIIIII\nJe l'ai tapé, ça s'est arrêté.",
       "end": 15,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 21,
       "start": 11
     },
     {
       "content": "Je me suis rebranlé.",
       "end": 16,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 2,
+      "heatValue": 16,
       "start": 15
     },
     {
       "content": "J'ai remarqué qu'il y avait des\npetits dessins dessinés sur le Sopalin.",
       "end": 18,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 15,
       "start": 16
     },
     {
       "content": "Je me suis demandé si quelqu'un\nétait payé pour les dessiner.",
       "end": 19,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 15,
       "start": 18
     },
     {
       "content": "Ça m'a déconcentré.",
       "end": 22,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 14,
       "start": 19
     },
     {
       "content": "J'ai rechecké Facebook.\nRien.",
       "end": 23,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 12,
       "start": 22
     },
     {
       "content": "Non, attends.",
       "end": 24,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 11,
       "start": 23
     },
     {
       "content": "C'était cette fille\nque j'avais croisée en soirée.",
       "end": 25,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 9,
       "start": 24
     },
     {
       "content": "Elle venait d'accepter ma demande d'amis.",
       "end": 26,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 8,
       "start": 25
     },
     {
       "content": "Je suis allé sur son profil,\nj'ai cherché ses photos, j'ai cherché\nun album Été 2011, rien.\nÉté 2010, rien.",
       "end": 31,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 6,
       "start": 26
     },
     {
       "content": "Il y avait seulement des photos\nde ski, pas terrible.",
       "end": 33,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 5,
       "start": 31
     },
     {
       "content": "J'ai vu qu'elle aimait\nles Simpson et les Daft Punk.",
       "end": 35,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 6,
       "start": 33
     },
     {
       "content": "J'ai été content parce que moi aussi,\nj'aime les Simpson et les Daft Punk.",
       "end": 37,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 7,
       "start": 35
     },
     {
       "content": "Après, je me suis dit que tout le monde\naime les Simpson et les Daft Punk.",
       "end": 39,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 9,
       "start": 37
     },
     {
       "content": "J'étais moins content.",
       "end": 40,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 11,
       "start": 39
     },
     {
       "content": "Kheiron m'a écrit:\n— Hey, t'es ami avec cette fille ?",
       "end": 41,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 12,
       "start": 40
     },
     {
       "content": "Je lui ai pas répondu.",
       "end": 42,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 13,
       "start": 41
     },
     {
       "content": "Il m'a envoyé un email qui\nme demandait:\n— Tu vas la baiser ?",
       "end": 44,
       "heatBucket": 1,
-      "heatValue": 0,
+      "heatValue": 15,
       "start": 42
     },
     {
       "content": "Un tweet:\n— Tu vas la baiser ?\nJ'ai reçu un texto:\n— Tu vas la baiser ?",
       "end": 48,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 29,
       "start": 44
     },
     {
       "content": "Je lui ai gentiment demandé\nde me laisser tranquille.",
       "end": 54,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 4,
+      "heatValue": 69,
       "start": 51
     },
     {
       "content": "À 15h32, il lui a laissé\nun message bien faux-cul.",
       "end": 57,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 5,
+      "heatValue": 87,
       "start": 54
     },
     {
       "content": "À 15h33, il m'a envoyé\nun message:\n— C'est le jeu, mec !",
       "end": 59,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 5,
+      "heatValue": 81,
       "start": 57
     },
     {
       "content": "Je suis allé voir les photos où elle était tagguée.\nElle était tout le temps jolie.",
       "end": 61,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 4,
+      "heatValue": 58,
       "start": 59
     },
     {
       "content": "En regardant de plus près,\nj'ai remarqué qu'un mec revenait\nbeaucoup de fois sur les photos.",
       "end": 64,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 4,
+      "heatValue": 35,
       "start": 61
     },
     {
       "content": "Mon coloc est arrivé, il m'a\ndemandé:\n— Il est où le sopalin ?",
       "end": 68,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 3,
+      "heatValue": 23,
       "start": 64
     },
     {
       "content": "Il a vu le sopalin, j'ai compris\nqu'il avait compris.",
       "end": 72,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 2,
+      "heatValue": 17,
       "start": 70
     },
     {
       "content": "Il a compris que j'avais compris\nqu'il avait compris.",
       "end": 73,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 2,
+      "heatValue": 18,
       "start": 73
     },
     {
       "content": "Je lui ai dit:\n— Il est là.\nAlors, il a répondu:",
       "end": 77,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 2,
+      "heatValue": 17,
       "start": 73
     },
     {
       "content": "— Je vais prendre un autre rouleau.",
       "end": 79,
-      "heatBucket": 1,
-      "heatValue": 0,
+      "heatBucket": 2,
+      "heatValue": 18,
       "start": 77
     }
   ],
   "video": {
-    "commentCount": 512,
+    "commentCount": 540,
     "id": "br82-adJ0FU",
     "isAgeRestricted": true,
-    "likeCount": 70060,
-    "viewCount": 5741554
+    "likeCount": 75138,
+    "viewCount": 6312546
   }
 }

@@ -14,21 +14,21 @@
       "content": "Bref, ce jour-là, je n'avais plus de déo.",
       "end": 2,
       "heatBucket": 5,
-      "heatValue": 58,
+      "heatValue": 60,
       "start": 1
     },
     {
       "content": "Je déteste les gens\nqui ne mettent pas de déo.",
       "end": 3,
       "heatBucket": 5,
-      "heatValue": 43,
+      "heatValue": 45,
       "start": 2
     },
     {
       "content": "Je n'avais pas envie de me détester.\nJe suis allé en acheter au supermarché.",
       "end": 5,
       "heatBucket": 4,
-      "heatValue": 39,
+      "heatValue": 40,
       "start": 3
     },
     {
@@ -42,21 +42,21 @@
       "content": "Je me suis dit que ça faisait longtemps\nque je ne m'étais pas fait\nun vrai hamburger.",
       "end": 10,
       "heatBucket": 4,
-      "heatValue": 28,
+      "heatValue": 29,
       "start": 8
     },
     {
       "content": "Je n'en voulais qu'un, mais\nils en vendaient que par 10.",
       "end": 11,
       "heatBucket": 4,
-      "heatValue": 28,
+      "heatValue": 30,
       "start": 10
     },
     {
       "content": "Du coup, j'ai pris des steak\npar 10, du fromage par 10, des oignons\npar 10, des tomates par 10.",
       "end": 14,
       "heatBucket": 3,
-      "heatValue": 24,
+      "heatValue": 25,
       "start": 11
     },
     {
@@ -112,14 +112,14 @@
       "content": "Perdu pour perdu,\nj'ai aussi pris des pattes.",
       "end": 25,
       "heatBucket": 3,
-      "heatValue": 26,
+      "heatValue": 27,
       "start": 23
     },
     {
       "content": "J'ai aussi pris du Energy\n3000 pour aucune raison.",
       "end": 27,
       "heatBucket": 4,
-      "heatValue": 37,
+      "heatValue": 38,
       "start": 25
     },
     {
@@ -147,7 +147,7 @@
       "content": "En y réfléchissant, j'ai compris\npourquoi j'ai acheté de l'Energy 3000.",
       "end": 38,
       "heatBucket": 5,
-      "heatValue": 45,
+      "heatValue": 46,
       "start": 34
     },
     {
@@ -224,15 +224,15 @@
       "content": "— Energy 3000, la boisson des vrais bonhommes.",
       "end": 73,
       "heatBucket": 3,
-      "heatValue": 21,
+      "heatValue": 23,
       "start": 70
     }
   ],
   "video": {
-    "commentCount": 359,
+    "commentCount": 369,
     "id": "onb8vNaHYB4",
     "isAgeRestricted": false,
-    "likeCount": 82145,
-    "viewCount": 6898714
+    "likeCount": 85327,
+    "viewCount": 7326158
   }
 }

@@ -14,77 +14,77 @@
       "content": "Bref, il fallait que je parte en vacances.",
       "end": 2,
       "heatBucket": 4,
-      "heatValue": 81,
+      "heatValue": 85,
       "start": 1
     },
     {
       "content": "Ça faisait deux mois que\nje passais la même journée.",
       "end": 4,
       "heatBucket": 4,
-      "heatValue": 78,
+      "heatValue": 83,
       "start": 2
     },
     {
       "content": "Dodo, ordi, série, musique, porno.",
       "end": 6,
-      "heatBucket": 4,
-      "heatValue": 83,
+      "heatBucket": 5,
+      "heatValue": 89,
       "start": 4
     },
     {
       "content": "— Hey mec, t'as du courrier.",
       "end": 7,
       "heatBucket": 5,
-      "heatValue": 86,
+      "heatValue": 92,
       "start": 6
     },
     {
       "content": "— Ah putain, mais frappe !\n— Haha, pardon.",
       "end": 9,
       "heatBucket": 4,
-      "heatValue": 80,
+      "heatValue": 85,
       "start": 7
     },
     {
       "content": "Et dodo.",
       "end": 9,
       "heatBucket": 4,
-      "heatValue": 76,
+      "heatValue": 81,
       "start": 9
     },
     {
       "content": "Le lendemain, je lui ai\ndit:\n— Je pars en vacances.",
       "end": 11,
       "heatBucket": 4,
-      "heatValue": 67,
+      "heatValue": 71,
       "start": 9
     },
     {
       "content": "Il a rien dit.\nJe suis allé sur Internet, j'avais 0 €.",
       "end": 13,
-      "heatBucket": 3,
-      "heatValue": 47,
+      "heatBucket": 4,
+      "heatValue": 49,
       "start": 11
     },
     {
       "content": "Vu que j'avais le droit\nà 500 € de découvert, j'ai béni\nle monde moderne qui permet\nà un homme qui a 0 € de voyager.",
       "end": 17,
       "heatBucket": 3,
-      "heatValue": 31,
+      "heatValue": 32,
       "start": 13
     },
     {
       "content": "J'ai trouvé un billet\nà 300 € pour le Mexique,\nmais le décollage était dans 8 h.",
       "end": 20,
       "heatBucket": 3,
-      "heatValue": 25,
+      "heatValue": 26,
       "start": 17
     },
     {
       "content": "Ils m'ont demandé si je voulais\nune assurance annulation à 10 €.",
       "end": 22,
       "heatBucket": 3,
-      "heatValue": 21,
+      "heatValue": 22,
       "start": 20
     },
     {
@@ -147,14 +147,14 @@
       "content": "Il a frappé, j'ai dit: — Ouais.",
       "end": 42,
       "heatBucket": 1,
-      "heatValue": 9,
+      "heatValue": 10,
       "start": 41
     },
     {
       "content": "Il m'a dit.\n— T'as vu. J'ai frappé.",
       "end": 43,
       "heatBucket": 1,
-      "heatValue": 10,
+      "heatValue": 11,
       "start": 42
     },
     {
@@ -175,7 +175,7 @@
       "content": "— Tiens, c'est le courrier\nque je t'ai pas donné hier\nparce que t'avais les mains prises.",
       "end": 50,
       "heatBucket": 2,
-      "heatValue": 13,
+      "heatValue": 14,
       "start": 47
     },
     {
@@ -202,7 +202,7 @@
     {
       "content": "J'ai fait le calcul, il me restait 200 €.",
       "end": 63,
-      "heatBucket": 2,
+      "heatBucket": 3,
       "heatValue": 17,
       "start": 61
     },
@@ -236,10 +236,10 @@
     }
   ],
   "video": {
-    "commentCount": 431,
+    "commentCount": 441,
     "id": "FThJiyU25jc",
     "isAgeRestricted": false,
-    "likeCount": 96820,
-    "viewCount": 8214486
+    "likeCount": 99763,
+    "viewCount": 8587104
   }
 }
