@@ -2,7 +2,7 @@ import { X } from 'lucide-react';
 import { useEffect } from 'react';
 
 import { BrefHit } from '../types';
-import { youtubeGivenTimeUrl } from '../utils/functions';
+import { youtubeGivenTimeUrl, updateUrlWithVideo, removeVideoFromUrl } from '../utils/functions';
 
 const Modal = ({
   selectedVideo,
@@ -11,6 +11,17 @@ const Modal = ({
   selectedVideo: BrefHit;
   setSelectedVideo: (value: BrefHit | null) => void;
 }) => {
+  // Update URL when modal opens
+  useEffect(() => {
+    updateUrlWithVideo(selectedVideo.episode.videoId, selectedVideo.line.start);
+
+    // Clean up URL when modal closes
+    return () => {
+      removeVideoFromUrl();
+    };
+  }, []);
+  // }, [selectedVideo.episode.videoId, selectedVideo.line.start]);
+
   // Close modal on Escape key
   useEffect(() => {
     const handleEscape = (event: KeyboardEvent) => {
