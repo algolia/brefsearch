@@ -34,4 +34,10 @@ export const brefRouter = {
   dispose() {
     // Required method for InstantSearch router interface
   },
+
+  createURL(routeState: any) {
+    const query = routeState.brefsearch?.query || '';
+    const hash = query ? `#${encodeURIComponent(query)}` : '';
+    return `${window.location.origin}${window.location.pathname}${hash}`;
+  },
 };

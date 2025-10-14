@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-
 import { algoliasearch } from 'algoliasearch';
 
 export const searchClient = algoliasearch(
