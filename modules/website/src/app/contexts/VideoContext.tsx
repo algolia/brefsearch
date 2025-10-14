@@ -1,7 +1,7 @@
 'use client';
 
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import { parseUrlHash } from '@/app/utils/functions';
+import { parseUrlHash, removeVideoFromUrl } from '@/app/utils/functions';
 
 export type VideoData = {
   videoId: string;
@@ -26,7 +26,15 @@ export const useVideo = () => {
 };
 
 export const VideoProvider = ({ children }: { children: ReactNode }) => {
-  const [videoData, setVideoData] = useState<VideoData | null>(null);
+  const [videoData, setRawVideoData] = useState<VideoData | null>(null);
+
+  // Custom setter that also clears URL when setting to null
+  const setVideoData = (data: VideoData | null) => {
+    if (data === null) {
+      removeVideoFromUrl();
+    }
+    setRawVideoData(data);
+  };
 
   // Check URL on startup for video info
   useEffect(() => {

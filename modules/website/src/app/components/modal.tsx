@@ -1,30 +1,25 @@
 import { X } from 'lucide-react';
 import { useEffect } from 'react';
 
-import { updateUrlWithVideo, removeVideoFromUrl } from '../utils/functions';
+import { updateUrlWithVideo } from '../utils/functions';
 import { useVideo } from '../contexts/VideoContext';
 
 const Modal = () => {
   const { videoData, setVideoData } = useVideo();
 
-  // Don't render modal if no videoData
-  if (!videoData) return null;
-
   const closeModal = () => setVideoData(null);
 
-  // Update URL when modal opens
+  // Open modal if videoData is passed, close it otherwise
   useEffect(() => {
+    if (!videoData) return;
+
+    // Update URL
     updateUrlWithVideo(videoData.videoId, videoData.timestamp);
 
-    // Clean up URL when modal closes
-    return () => {
-      removeVideoFromUrl();
-    };
-  }, [videoData.videoId, videoData.timestamp]);
-  // }, [selectedVideo.episode.videoId, selectedVideo.line.start]);
+    // Prevent body scroll
+    document.body.style.overflow = 'hidden';
 
-  // Close modal on Escape key
-  useEffect(() => {
+    // Close modal on Escape key
     const handleEscape = (event: KeyboardEvent) => {
       if (event.key === 'Escape') {
         closeModal();
@@ -32,16 +27,16 @@ const Modal = () => {
     };
 
     document.addEventListener('keydown', handleEscape);
-    return () => document.removeEventListener('keydown', handleEscape);
-  }, []);
 
-  // Prevent body scroll when modal is open
-  useEffect(() => {
-    document.body.style.overflow = 'hidden';
+    // Cleanup function
     return () => {
       document.body.style.overflow = 'unset';
+      document.removeEventListener('keydown', handleEscape);
     };
-  }, []);
+  }, [videoData]);
+
+  // Don't render modal if no videoData
+  if (!videoData) return null;
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center">
