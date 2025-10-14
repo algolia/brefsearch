@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 497,
+    "commentCount": 516,
     "durationHuman": "1:46",
     "durationInSeconds": 106,
     "index": 4,
     "isAgeRestricted": false,
-    "likeCount": 91737,
+    "likeCount": 96434,
     "name": "Bref. J'ai passé un entretien d'embauche.",
     "season": 1,
     "slug": "brefJaiPasseUnEntretienDembauche",
     "videoId": "7_VQCD863CU",
-    "viewCount": 7182602
+    "viewCount": 7728853
   },
   "line": {
     "content": "J'ai tapé le nom de la\nsociété sur Internet.",
     "end": 22,
-    "heatBucket": 3,
+    "heatBucket": 2,
     "index": 8,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=7_VQCD863CU&t=20s"

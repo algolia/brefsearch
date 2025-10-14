@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 780,
+    "commentCount": 781,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 79,
     "isAgeRestricted": false,
-    "likeCount": 101475,
+    "likeCount": 104524,
     "name": "Bref. Je suis né.",
     "season": 1,
     "slug": "brefJeSuisNe",
     "videoId": "lGBPAoLUn-0",
-    "viewCount": 6614179
+    "viewCount": 6934818
   },
   "line": {
     "content": "J'ai attendu.\nJ'ai fait la course avec numéro 986 321.",
     "end": 38,
-    "heatBucket": 1,
+    "heatBucket": 2,
     "index": 20,
     "start": 36,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=36s"

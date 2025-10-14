@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 699,
+    "commentCount": 604,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 32,
     "isAgeRestricted": false,
-    "likeCount": 94559,
+    "likeCount": 97819,
     "name": "Bref. Je sais pas dire non.",
     "season": 1,
     "slug": "brefJeSaisPasDireNon",
     "videoId": "OmEx0mpHFG4",
-    "viewCount": 7987391
+    "viewCount": 8385139
   },
   "line": {
     "content": "Elle m'a dit:\n— Vous voulez en acheter ?\nJ'ai dit:\n— Non.",
     "end": 10,
-    "heatBucket": 5,
+    "heatBucket": 4,
     "index": 4,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=8s"

@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 559,
+    "commentCount": 584,
     "durationHuman": "1:44",
     "durationInSeconds": 104,
     "index": 15,
     "isAgeRestricted": false,
-    "likeCount": 109536,
+    "likeCount": 113598,
     "name": "Bref. J'ai fait les courses avec mon frère.",
     "season": 1,
     "slug": "brefJaiFaitLesCoursesAvecMonFrere",
     "videoId": "Htm39YuNOog",
-    "viewCount": 8961396
+    "viewCount": 9424813
   },
   "line": {
     "content": "Elle a dit:\n— Et ben ça va, tu perds pas de temps.\nJ'ai paniqué.",
     "end": 66,
-    "heatBucket": 4,
+    "heatBucket": 5,
     "index": 33,
     "start": 64,
     "url": "https://www.youtube.com/watch?v=Htm39YuNOog&t=64s"

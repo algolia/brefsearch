@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 617,
+    "commentCount": 639,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 54,
     "isAgeRestricted": false,
-    "likeCount": 110917,
+    "likeCount": 114666,
     "name": "Bref. J'ai aucune mémoire.",
     "season": 1,
     "slug": "brefJaiAucuneMemoire",
     "videoId": "elOH0CasAPw",
-    "viewCount": 7767366
+    "viewCount": 8158108
   },
   "line": {
     "content": "J'oublie les anniversaires\nde ma famille, de mes amis.",
     "end": 11,
-    "heatBucket": 3,
+    "heatBucket": 2,
     "index": 4,
     "start": 9,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=9s"

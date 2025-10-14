@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 638,
+    "commentCount": 656,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 2,
     "isAgeRestricted": false,
-    "likeCount": 106679,
+    "likeCount": 112494,
     "name": "Bref. Je remets tout à demain.",
     "season": 1,
     "slug": "brefJeRemetsToutADemain",
     "videoId": "JmghDKkeiik",
-    "viewCount": 8541792
+    "viewCount": 9182902
   },
   "line": {
     "content": "Je dois faire quelque\nchose de mes centimes.",
     "end": 47,
-    "heatBucket": 2,
+    "heatBucket": 3,
     "index": 15,
     "start": 45,
     "url": "https://www.youtube.com/watch?v=JmghDKkeiik&t=45s"

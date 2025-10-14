@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 520,
+    "commentCount": 526,
     "durationHuman": "1:55",
     "durationInSeconds": 115,
     "index": 78,
     "isAgeRestricted": false,
-    "likeCount": 97525,
+    "likeCount": 100334,
     "name": "Bref. Je me suis réveillé à côté d'une fille.",
     "season": 1,
     "slug": "brefJeMeSuisReveilleACoteDuneFille",
     "videoId": "9UEJzfo0_m4",
-    "viewCount": 8534561
+    "viewCount": 8863201
   },
   "line": {
     "content": "J'ai marché sur un truc,\nc'était une capote.",
     "end": 80,
-    "heatBucket": 1,
+    "heatBucket": 2,
     "index": 30,
     "start": 78,
     "url": "https://www.youtube.com/watch?v=9UEJzfo0_m4&t=78s"

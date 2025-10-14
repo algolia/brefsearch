@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 468,
+    "commentCount": 474,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 64,
     "isAgeRestricted": false,
-    "likeCount": 87383,
+    "likeCount": 90032,
     "name": "Bref. J'ai fait un dessin.",
     "season": 1,
     "slug": "brefJaiFaitUnDessin",
     "videoId": "LZQUFY0W_lY",
-    "viewCount": 5904585
+    "viewCount": 6203669
   },
   "line": {
     "content": "Ma mère m'avait dit: \"Va\nlà-haut faire un dessin.\"\nAlors, je me suis dessiné\nen haut en train de faire un dessin.",
     "end": 6,
-    "heatBucket": 5,
+    "heatBucket": 4,
     "index": 1,
     "start": 3,
     "url": "https://www.youtube.com/watch?v=LZQUFY0W_lY&t=3s"

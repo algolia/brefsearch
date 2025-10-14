@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 392,
+    "commentCount": 398,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 29,
     "isAgeRestricted": false,
-    "likeCount": 67863,
+    "likeCount": 70655,
     "name": "Bref. Je suis hypocondriaque.",
     "season": 1,
     "slug": "brefJeSuisHypocondriaque",
     "videoId": "_AH6uf2dTLg",
-    "viewCount": 4199001
+    "viewCount": 4522452
   },
   "line": {
     "content": "Il me suffit de lire\nles effets secondaires\ndes médicaments pour que je les ai.",
     "end": 30,
-    "heatBucket": 2,
+    "heatBucket": 1,
     "index": 13,
     "start": 28,
     "url": "https://www.youtube.com/watch?v=_AH6uf2dTLg&t=28s"

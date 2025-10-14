@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 557,
+    "commentCount": 570,
     "durationHuman": "1:42",
     "durationInSeconds": 102,
     "index": 30,
     "isAgeRestricted": false,
-    "likeCount": 81978,
+    "likeCount": 85145,
     "name": "Bref. J'ai pas réussi à dormir.",
     "season": 1,
     "slug": "brefJaiPasReussiADormir",
     "videoId": "vxJ3BL7-IhM",
-    "viewCount": 4963838
+    "viewCount": 5306924
   },
   "line": {
     "content": "— Ce soir, je me couche tôt.",
     "end": 8,
-    "heatBucket": 4,
+    "heatBucket": 5,
     "index": 2,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=vxJ3BL7-IhM&t=6s"

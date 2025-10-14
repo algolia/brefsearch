@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 560,
+    "commentCount": 568,
     "durationHuman": "1:31",
     "durationInSeconds": 91,
     "index": 11,
     "isAgeRestricted": false,
-    "likeCount": 108927,
+    "likeCount": 112567,
     "name": "Bref. Je suis comme tout le monde.",
     "season": 1,
     "slug": "brefJeSuisCommeToutLeMonde",
     "videoId": "tkMoSaUMsiM",
-    "viewCount": 8286572
+    "viewCount": 8693044
   },
   "line": {
     "content": "J'ai 15 Seb et 11 Nico sans nom\nde famille dans mon répertoire.",
     "end": 44,
-    "heatBucket": 3,
+    "heatBucket": 2,
     "index": 19,
     "start": 42,
     "url": "https://www.youtube.com/watch?v=tkMoSaUMsiM&t=42s"

@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 680,
+    "commentCount": 703,
     "durationHuman": "1:16",
     "durationInSeconds": 76,
     "index": 18,
     "isAgeRestricted": false,
-    "likeCount": 99938,
+    "likeCount": 103863,
     "name": "Bref. J'ai couché avec une flic.",
     "season": 1,
     "slug": "brefJaiCoucheAvecUneFlic",
     "videoId": "if3EipAM2WQ",
-    "viewCount": 8008914
+    "viewCount": 8622549
   },
   "line": {
     "content": "Elle a dit:\n— Je termine mon service à 18h00.\nJ'ai dit:\n— T'es serveuse ?",
     "end": 9,
-    "heatBucket": 2,
+    "heatBucket": 3,
     "index": 2,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=if3EipAM2WQ&t=6s"

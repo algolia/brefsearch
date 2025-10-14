@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 637,
+    "commentCount": 667,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
     "isAgeRestricted": false,
-    "likeCount": 100059,
+    "likeCount": 104302,
     "name": "Bref. J'ai fait un repas de famille.",
     "season": 1,
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewCount": 8221984
+    "viewCount": 8735476
   },
   "line": {
     "content": "Mon oncle a dit:\n— Eh ben mon *gros mots*\n— Tu te fais pas *gros mots*\n— Excusez-le.",
     "end": 66,
-    "heatBucket": 4,
+    "heatBucket": 5,
     "index": 27,
     "start": 63,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=63s"

@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 512,
+    "commentCount": 540,
     "durationHuman": "1:39",
     "durationInSeconds": 99,
     "index": 6,
     "isAgeRestricted": true,
-    "likeCount": 70060,
+    "likeCount": 75138,
     "name": "Bref. J'ai traîné sur internet.",
     "season": 1,
     "slug": "brefJaiTraineSurInternet",
     "videoId": "br82-adJ0FU",
-    "viewCount": 5741554
+    "viewCount": 6312546
   },
   "line": {
     "content": "À 15h33, il m'a envoyé\nun message:\n— C'est le jeu, mec !",
     "end": 59,
-    "heatBucket": 1,
+    "heatBucket": 5,
     "index": 26,
     "start": 57,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=57s"

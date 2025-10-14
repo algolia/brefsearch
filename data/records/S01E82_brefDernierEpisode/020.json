@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 3900,
+    "commentCount": 4000,
     "durationHuman": "1:58",
     "durationInSeconds": 118,
     "index": 82,
     "isAgeRestricted": false,
-    "likeCount": 156445,
+    "likeCount": 163130,
     "name": "Bref. Dernier épisode.",
     "season": 1,
     "slug": "brefDernierEpisode",
     "videoId": "1cZ_H0rgwCU",
-    "viewCount": 7205429
+    "viewCount": 7651735
   },
   "line": {
     "content": "À chaque fois que je m'assois dans\nun parc, je me demande où je me placerais\nsi j'étais un sniper dans un jeu vidéo.",
     "end": 24,
-    "heatBucket": 5,
+    "heatBucket": 3,
     "index": 9,
     "start": 20,
     "url": "https://www.youtube.com/watch?v=1cZ_H0rgwCU&t=20s"

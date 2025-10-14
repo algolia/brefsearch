@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 474,
+    "commentCount": 492,
     "durationHuman": "1:40",
     "durationInSeconds": 100,
     "index": 60,
     "isAgeRestricted": false,
-    "likeCount": 64483,
+    "likeCount": 67474,
     "name": "Bref. Je suis un plan cul régulier.",
     "season": 1,
     "slug": "brefJeSuisUnPlanCulRegulier",
     "videoId": "5rKgC34qhFI",
-    "viewCount": 4289685
+    "viewCount": 4650596
   },
   "line": {
     "content": "Il a dit:\n— De qui ?\nJe lui ai dit:\n— T'es qu'un con.",
     "end": 72,
-    "heatBucket": 3,
+    "heatBucket": 4,
     "index": 29,
     "start": 70,
     "url": "https://www.youtube.com/watch?v=5rKgC34qhFI&t=70s"

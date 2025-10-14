@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 299,
+    "commentCount": 313,
     "durationHuman": "2:14",
     "durationInSeconds": 134,
     "index": 73,
     "isAgeRestricted": false,
-    "likeCount": 62306,
+    "likeCount": 64911,
     "name": "Bref. J'ai fait une soirée déguisée (partie 3).",
     "season": 1,
     "slug": "brefJaiFaitUneSoireeDeguiseePartie3",
     "videoId": "WRXsFwhVzTs",
-    "viewCount": 5001029
+    "viewCount": 5288607
   },
   "line": {
     "content": "Quand je sors du taf, je rentre\ndans un immeuble si j'entends du bruit.",
     "end": 8,
-    "heatBucket": 3,
+    "heatBucket": 2,
     "index": 1,
     "start": 5,
     "url": "https://www.youtube.com/watch?v=WRXsFwhVzTs&t=5s"

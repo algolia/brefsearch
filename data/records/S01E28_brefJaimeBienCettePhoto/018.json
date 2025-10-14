@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 495,
+    "commentCount": 515,
     "durationHuman": "1:35",
     "durationInSeconds": 95,
     "index": 28,
     "isAgeRestricted": false,
-    "likeCount": 89012,
+    "likeCount": 91908,
     "name": "Bref. J'aime bien cette photo.",
     "season": 1,
     "slug": "brefJaimeBienCettePhoto",
     "videoId": "00r3RKxAExo",
-    "viewCount": 7007993
+    "viewCount": 7375935
   },
   "line": {
     "content": "Parce que...\nBref.",
     "end": 20,
-    "heatBucket": 4,
+    "heatBucket": 5,
     "index": 8,
     "start": 18,
     "url": "https://www.youtube.com/watch?v=00r3RKxAExo&t=18s"

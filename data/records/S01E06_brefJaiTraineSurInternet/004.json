@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 512,
+    "commentCount": 540,
     "durationHuman": "1:39",
     "durationInSeconds": 99,
     "index": 6,
     "isAgeRestricted": true,
-    "likeCount": 70060,
+    "likeCount": 75138,
     "name": "Bref. J'ai traîné sur internet.",
     "season": 1,
     "slug": "brefJaiTraineSurInternet",
     "videoId": "br82-adJ0FU",
-    "viewCount": 5741554
+    "viewCount": 6312546
   },
   "line": {
     "content": "Donc, j'ai fait comme tous ceux qui n'ont\nrien à faire, je suis allé sur Internet.",
     "end": 7,
-    "heatBucket": 1,
+    "heatBucket": 3,
     "index": 1,
     "start": 4,
     "url": "https://www.youtube.com/watch?v=br82-adJ0FU&t=4s"

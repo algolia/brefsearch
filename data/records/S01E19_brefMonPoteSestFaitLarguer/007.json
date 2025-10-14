@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 305,
+    "commentCount": 334,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 19,
     "isAgeRestricted": false,
-    "likeCount": 76028,
+    "likeCount": 79486,
     "name": "Bref. Mon pote s'est fait larguer.",
     "season": 1,
     "slug": "brefMonPoteSestFaitLarguer",
     "videoId": "J9EL_bGpdP4",
-    "viewCount": 6265057
+    "viewCount": 6682236
   },
   "line": {
     "content": "Je l'avais déjà vu sept fois\nà la même place pour les mêmes conneries.",
     "end": 8,
-    "heatBucket": 3,
+    "heatBucket": 4,
     "index": 6,
     "start": 7,
     "url": "https://www.youtube.com/watch?v=J9EL_bGpdP4&t=7s"

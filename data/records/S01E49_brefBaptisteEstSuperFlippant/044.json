@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 490,
+    "commentCount": 523,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 49,
     "isAgeRestricted": false,
-    "likeCount": 93351,
+    "likeCount": 97003,
     "name": "Bref. Baptiste est Super Flippant.",
     "season": 1,
     "slug": "brefBaptisteEstSuperFlippant",
     "videoId": "lrWa9VYEb78",
-    "viewCount": 7580349
+    "viewCount": 7966973
   },
   "line": {
     "content": "— Surprise.\nSuper Flippant.",
     "end": 46,
-    "heatBucket": 4,
+    "heatBucket": 3,
     "index": 19,
     "start": 44,
     "url": "https://www.youtube.com/watch?v=lrWa9VYEb78&t=44s"

@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 1200,
+    "commentCount": 1300,
     "durationHuman": "1:54",
     "durationInSeconds": 114,
     "index": 55,
     "isAgeRestricted": false,
-    "likeCount": 132781,
+    "likeCount": 136224,
     "name": "Bref. Je m'appelle Eric Dampierre.",
     "season": 1,
     "slug": "brefJeMappelleEricDampierre",
     "videoId": "tkOuQiO-Vzg",
-    "viewCount": 9414768
+    "viewCount": 9803807
   },
   "line": {
-    "content": "— Eric Dampierre,\nà l'appareil de Télécom 3 000.",
+    "content": "— Eric Dampierre,\nà l'appareil de Télécom 3000.",
     "end": 7,
-    "heatBucket": 2,
+    "heatBucket": 1,
     "index": 3,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=tkOuQiO-Vzg&t=6s"

@@ -2,7 +2,7 @@ import path from 'node:path';
 import {
   absolute,
   exists,
-  error as firostError,
+  firostError,
   glob,
   readJson,
   remove,

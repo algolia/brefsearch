@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 590,
+    "commentCount": 597,
     "durationHuman": "1:49",
     "durationInSeconds": 109,
     "index": 25,
     "isAgeRestricted": false,
-    "likeCount": 79173,
+    "likeCount": 82145,
     "name": "Bref. J'ai fait un dépistage.",
     "season": 1,
     "slug": "brefJaiFaitUnDepistage",
     "videoId": "41X9gwbeMxQ",
-    "viewCount": 6825279
+    "viewCount": 7180577
   },
   "line": {
     "content": "— T'as pas pincé le réservoir ?\n— Si, si, j'ai pincé le réservoir.",
     "end": 12,
-    "heatBucket": 5,
+    "heatBucket": 4,
     "index": 4,
     "start": 10,
     "url": "https://www.youtube.com/watch?v=41X9gwbeMxQ&t=10s"

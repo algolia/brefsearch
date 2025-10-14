@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 637,
+    "commentCount": 667,
     "durationHuman": "1:37",
     "durationInSeconds": 97,
     "index": 5,
     "isAgeRestricted": false,
-    "likeCount": 100059,
+    "likeCount": 104302,
     "name": "Bref. J'ai fait un repas de famille.",
     "season": 1,
     "slug": "brefJaiFaitUnRepasDeFamille",
     "videoId": "yC7LPgNlD9M",
-    "viewCount": 8221984
+    "viewCount": 8735476
   },
   "line": {
     "content": "Il l'avait mal compris.",
     "end": 85,
-    "heatBucket": 3,
+    "heatBucket": 4,
     "index": 32,
     "start": 83,
     "url": "https://www.youtube.com/watch?v=yC7LPgNlD9M&t=83s"

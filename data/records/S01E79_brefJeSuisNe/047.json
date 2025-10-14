@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 780,
+    "commentCount": 781,
     "durationHuman": "1:36",
     "durationInSeconds": 96,
     "index": 79,
     "isAgeRestricted": false,
-    "likeCount": 101475,
+    "likeCount": 104524,
     "name": "Bref. Je suis né.",
     "season": 1,
     "slug": "brefJeSuisNe",
     "videoId": "lGBPAoLUn-0",
-    "viewCount": 6614179
+    "viewCount": 6934818
   },
   "line": {
     "content": "Je me suis promis que jamais\nje boirais si je devenais un humain.",
     "end": 49,
-    "heatBucket": 1,
+    "heatBucket": 2,
     "index": 26,
     "start": 47,
     "url": "https://www.youtube.com/watch?v=lGBPAoLUn-0&t=47s"

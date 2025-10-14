@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 1400,
+    "commentCount": 1500,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 1,
     "isAgeRestricted": false,
-    "likeCount": 127391,
+    "likeCount": 135754,
     "name": "Bref. J'ai dragué cette fille.",
     "season": 1,
     "slug": "brefJaiDragueCetteFille",
     "videoId": "UO8tcf3U0dY",
-    "viewCount": 10798834
+    "viewCount": 11814233
   },
   "line": {
     "content": "Je m'appelle Steve.\nJ'ai cru que c'était son mec.",
     "end": 26,
-    "heatBucket": 3,
+    "heatBucket": 2,
     "index": 11,
     "start": 24,
     "url": "https://www.youtube.com/watch?v=UO8tcf3U0dY&t=24s"

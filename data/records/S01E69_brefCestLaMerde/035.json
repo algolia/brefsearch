@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 415,
+    "commentCount": 436,
     "durationHuman": "1:50",
     "durationInSeconds": 110,
     "index": 69,
     "isAgeRestricted": false,
-    "likeCount": 80337,
+    "likeCount": 83023,
     "name": "Bref. C'est la merde.",
     "season": 1,
     "slug": "brefCestLaMerde",
     "videoId": "5U0CfNpXdEc",
-    "viewCount": 6082963
+    "viewCount": 6400892
   },
   "line": {
     "content": "C'était plus comme avant.\nC'était la merde.",
     "end": 36,
-    "heatBucket": 1,
+    "heatBucket": 2,
     "index": 14,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=5U0CfNpXdEc&t=35s"

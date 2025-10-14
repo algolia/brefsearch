@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 566,
+    "commentCount": 568,
     "durationHuman": "1:59",
     "durationInSeconds": 119,
     "index": 77,
     "isAgeRestricted": false,
-    "likeCount": 85617,
+    "likeCount": 88065,
     "name": "Bref. J'ai envoyé un texto.",
     "season": 1,
     "slug": "brefJaiEnvoyeUnTexto",
     "videoId": "94NzqAY2Yhk",
-    "viewCount": 7559587
+    "viewCount": 7867596
   },
   "line": {
     "content": "Alors j'ai ajouté: \"J'ai\nun truc qui s'est annulé ce soir.\"\nAprès, je me suis demandé si\nc'était annulé avec deux N, annulé avec",
     "end": 20,
-    "heatBucket": 3,
+    "heatBucket": 1,
     "index": 6,
     "start": 16,
     "url": "https://www.youtube.com/watch?v=94NzqAY2Yhk&t=16s"

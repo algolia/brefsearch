@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 617,
+    "commentCount": 639,
     "durationHuman": "1:45",
     "durationInSeconds": 105,
     "index": 54,
     "isAgeRestricted": false,
-    "likeCount": 110917,
+    "likeCount": 114666,
     "name": "Bref. J'ai aucune mémoire.",
     "season": 1,
     "slug": "brefJaiAucuneMemoire",
     "videoId": "elOH0CasAPw",
-    "viewCount": 7767366
+    "viewCount": 8158108
   },
   "line": {
     "content": "J'oublie que j'ai regardé un film,\nje le re-regarde et je me souviens\nde la fin dix minutes avant la fin.",
     "end": 39,
-    "heatBucket": 4,
+    "heatBucket": 5,
     "index": 15,
     "start": 35,
     "url": "https://www.youtube.com/watch?v=elOH0CasAPw&t=35s"

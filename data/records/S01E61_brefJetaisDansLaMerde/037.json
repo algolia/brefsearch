@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 569,
+    "commentCount": 582,
     "durationHuman": "2:23",
     "durationInSeconds": 143,
     "index": 61,
     "isAgeRestricted": false,
-    "likeCount": 120051,
+    "likeCount": 123475,
     "name": "Bref. J'étais dans la merde.",
     "season": 1,
     "slug": "brefJetaisDansLaMerde",
     "videoId": "I4-bhdkKSfU",
-    "viewCount": 9827505
+    "viewCount": 10228402
   },
   "line": {
     "content": "Pourquoi il ne l'avait pas prévenu\nque j'avais une copine ?",
     "end": 38,
-    "heatBucket": 3,
+    "heatBucket": 4,
     "index": 15,
     "start": 37,
     "url": "https://www.youtube.com/watch?v=I4-bhdkKSfU&t=37s"

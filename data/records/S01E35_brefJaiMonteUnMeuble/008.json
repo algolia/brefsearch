@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 393,
+    "commentCount": 403,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
     "isAgeRestricted": false,
-    "likeCount": 84499,
+    "likeCount": 87450,
     "name": "Bref. J'ai monté un meuble.",
     "season": 1,
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewCount": 6829749
+    "viewCount": 7173752
   },
   "line": {
     "content": "Il était quand même compliqué.",
     "end": 10,
-    "heatBucket": 5,
+    "heatBucket": 4,
     "index": 4,
     "start": 8,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=8s"

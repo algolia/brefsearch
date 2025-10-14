@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 699,
+    "commentCount": 604,
     "durationHuman": "1:48",
     "durationInSeconds": 108,
     "index": 32,
     "isAgeRestricted": false,
-    "likeCount": 94559,
+    "likeCount": 97819,
     "name": "Bref. Je sais pas dire non.",
     "season": 1,
     "slug": "brefJeSaisPasDireNon",
     "videoId": "OmEx0mpHFG4",
-    "viewCount": 7987391
+    "viewCount": 8385139
   },
   "line": {
     "content": "— C'est clair, moi, je voulais partir aussi.",
     "end": 41,
-    "heatBucket": 2,
+    "heatBucket": 1,
     "index": 17,
     "start": 38,
     "url": "https://www.youtube.com/watch?v=OmEx0mpHFG4&t=38s"

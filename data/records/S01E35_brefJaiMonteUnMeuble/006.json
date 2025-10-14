@@ -1,21 +1,21 @@
 {
   "episode": {
-    "commentCount": 393,
+    "commentCount": 403,
     "durationHuman": "1:47",
     "durationInSeconds": 107,
     "index": 35,
     "isAgeRestricted": false,
-    "likeCount": 84499,
+    "likeCount": 87450,
     "name": "Bref. J'ai monté un meuble.",
     "season": 1,
     "slug": "brefJaiMonteUnMeuble",
     "videoId": "46O65gqs03c",
-    "viewCount": 6829749
+    "viewCount": 7173752
   },
   "line": {
     "content": "Le plan du meuble était super\ncompliqué, mais il était à l'envers.",
     "end": 8,
-    "heatBucket": 5,
+    "heatBucket": 4,
     "index": 3,
     "start": 6,
     "url": "https://www.youtube.com/watch?v=46O65gqs03c&t=6s"
