@@ -37,8 +37,18 @@ import config from '../config.js';
         ],
       },
     },
-    // TODO: Synonym nin nin nin to na na na
-    // TODO: Synonym 3000 to Trois mille
+    synonyms: [
+      {
+        objectID: 'synonymNinNinNin',
+        type: 'synonym',
+        synonyms: ['nin nin nin', 'na na na'],
+      },
+      {
+        objectID: 'synonym3000',
+        type: 'synonym',
+        synonyms: ['3000', 'trois mille'],
+      },
+    ],
   };
 
   indexing.verbose();
