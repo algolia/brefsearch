@@ -1,6 +1,12 @@
 'use client';
 
-import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import {
+  ReactNode,
+  createContext,
+  useContext,
+  useEffect,
+  useState,
+} from 'react';
 import { parseUrlHash, removeVideoFromUrl } from '@/app/utils/functions';
 import { searchClient } from '@/app/utils/algolia';
 
@@ -38,7 +44,10 @@ export const VideoProvider = ({ children }: { children: ReactNode }) => {
   };
 
   // Fetch video data from Algolia when we only have videoId
-  const fetchVideoDataFromAlgolia = async (videoId: string, timestamp: number) => {
+  const fetchVideoDataFromAlgolia = async (
+    videoId: string,
+    timestamp: number,
+  ) => {
     const fallbackVideoData = {
       videoId,
       timestamp,
@@ -46,17 +55,19 @@ export const VideoProvider = ({ children }: { children: ReactNode }) => {
       lqip: '',
     };
 
-    const result = await searchClient.search([{
-      indexName: 'brefsearch',
-      query: '',
-      params: {
-        filters: `episode.videoId:${videoId}`,
-        hitsPerPage: 1,
-      }
-    }]);
+    const result = await searchClient.search([
+      {
+        indexName: 'brefsearch',
+        query: '',
+        params: {
+          filters: `episode.videoId:${videoId}`,
+          hitsPerPage: 1,
+        },
+      },
+    ]);
 
     // Fallback if can't find the video data
-    if (!result.results[0].hits.length ) {
+    if (!result.results[0].hits.length) {
       setRawVideoData(fallbackVideoData);
       return;
     }

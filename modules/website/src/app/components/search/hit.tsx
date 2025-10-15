@@ -56,12 +56,14 @@ const CustomHit = ({
       <div
         role="button"
         className="clip block relative aspect-video"
-        onClick={() => setVideoData({
-          videoId: hit.episode.videoId,
-          timestamp: hit.line.start,
-          title: `${hit.episode.index}. ${hit.episode.name}`,
-          lqip: hit.thumbnail.lqip,
-        })}
+        onClick={() =>
+          setVideoData({
+            videoId: hit.episode.videoId,
+            timestamp: hit.line.start,
+            title: `${hit.episode.index}. ${hit.episode.name}`,
+            lqip: hit.thumbnail.lqip,
+          })
+        }
       >
         {/* Image */}
         <div ref={ref} className="relative w-full h-full group overflow-hidden">

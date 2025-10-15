@@ -3,7 +3,10 @@ set -e
 
 # Detect current directory relative to project root
 CURRENT_DIR=$(pwd)
-PROJECT_ROOT=$(cd ../..; pwd)
+PROJECT_ROOT=$(
+  cd ../..
+  pwd
+)
 RELATIVE_PATH=$(realpath --relative-to="$PROJECT_ROOT" "$CURRENT_DIR")
 
 cd "$PROJECT_ROOT"

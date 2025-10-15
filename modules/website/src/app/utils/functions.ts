@@ -42,7 +42,11 @@ export function formatSubtitle(rawSubtitle: string) {
  * @param {string} hash - The URL hash to parse.
  * @returns {{ query: string, videoId?: string, timestamp?: string }} An object containing the decoded search query, videoId, and timestamp.
  */
-export function parseUrlHash(hash: string): { query: string; videoId?: string; timestamp?: string } {
+export function parseUrlHash(hash: string): {
+  query: string;
+  videoId?: string;
+  timestamp?: string;
+} {
   if (!hash || !hash.startsWith('#')) {
     return { query: '' };
   }
