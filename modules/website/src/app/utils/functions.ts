@@ -55,7 +55,7 @@ export function parseUrlHash(hash: string): {
   const hashContent = decodeURIComponent(hash.slice(1));
   const queryPart = hashContent.split('▮')[0];
   const videoPart = hashContent.split('▮')[1];
-  const [videoId, timestamp] = videoPart ? videoPart.split(':') : [null, null];
+  const [videoId, timestamp] = videoPart ? videoPart.split(':') : [undefined, undefined];
 
   return { query: queryPart, videoId, timestamp };
 }
