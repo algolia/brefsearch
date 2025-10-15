@@ -1,9 +1,14 @@
+import { createRequire } from 'node:module';
 import config from 'aberlaas/configs/eslint';
 import react from 'eslint-plugin-react';
 import globals from 'globals';
 import tseslint from '@typescript-eslint/eslint-plugin';
-import tsparser from '@typescript-eslint/parser';
 import nextPlugin from '@next/eslint-plugin-next';
+
+// @typescript-eslint/parser is CommonJS, I need to import it that way for the
+// linter to see it's actually imported
+const require = createRequire(import.meta.url);
+const tsparser = require('@typescript-eslint/parser');
 
 export default [
   ...config,
