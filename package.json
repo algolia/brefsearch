@@ -39,6 +39,7 @@
     "serve": "./scripts/meta/serve",
     "lint": "./scripts/meta/lint",
     "lint:fix": "./scripts/meta/lint-fix",
+    "typecheck": "./scripts/meta/typecheck",
     "test": "./scripts/meta/test",
     "test:watch": "./scripts/meta/test-watch"
   }
