@@ -24,7 +24,8 @@
     "firost": "5.2.1",
     "globals": "15.15.0",
     "golgoth": "3.0.0",
-    "netlify-cli": "23.9.1"
+    "netlify-cli": "23.9.1",
+    "typescript": "5.7.2"
   },
   "scripts": {
     "update-episode-lines": "node ./modules/lib/scripts/update-episode-lines.js",
