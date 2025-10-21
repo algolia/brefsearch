@@ -13,11 +13,11 @@ const tsparser = require('@typescript-eslint/parser');
 export default [
   ...config,
   {
-    ignores: ['data/**/*', 'modules/website/out/**/*'],
+    ignores: ['modules/website/out/**/*'],
   },
   // Next.js rules for website module
   {
-    files: ['modules/website/**/*.{js,jsx,ts,tsx}'],
+    files: ['src/app/**/*.{js,jsx,ts,tsx}'],
     plugins: {
       '@next/next': nextPlugin,
     },
@@ -25,11 +25,11 @@ export default [
       ...nextPlugin.configs.recommended.rules,
       ...nextPlugin.configs['core-web-vitals'].rules,
       // Configure for App Router instead of Pages Router
-      '@next/next/no-html-link-for-pages': ['error', 'modules/website/src/app'],
+      '@next/next/no-html-link-for-pages': ['error', 'src/app'],
     },
   },
   {
-    files: ['**/modules/website/**/*.{js,jsx}'],
+    files: ['src/app/**/*.{js,jsx}'],
     plugins: {
       react,
     },
@@ -49,7 +49,7 @@ export default [
     },
   },
   {
-    files: ['**/modules/website/**/*.{ts,tsx}'],
+    files: ['src/app**/*.{ts,tsx}'],
     plugins: {
       react,
       '@typescript-eslint': tseslint,
@@ -71,7 +71,7 @@ export default [
       'import/resolver': {
         typescript: {
           alwaysTryTypes: true,
-          project: './modules/website/tsconfig.json',
+          project: './tsconfig.json',
         },
       },
     },

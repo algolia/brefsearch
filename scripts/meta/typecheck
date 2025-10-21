@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -e
 
-yarn run tsc --noEmit --project modules/website/tsconfig.json
+yarn run tsc --noEmit --project ./tsconfig.json

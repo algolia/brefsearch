@@ -1,11 +1,9 @@
 {
   "name": "brefsearch",
+  "version": "1.0.0",
   "private": true,
-  "workspaces": [
-    "modules/*"
-  ],
   "author": "pixelastic",
-  "description": "brefsearch monorepo",
+  "description": "Search interface for the Bref YouTube series",
   "repository": "pixelastic/brefsearch",
   "homepage": "https://github.com/pixelastic/brefsearch",
   "type": "module",
@@ -14,34 +12,43 @@
     "node": ">=18.18.0"
   },
   "packageManager": "yarn@4.6.0",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "./scripts/meta/lint",
+    "lint:fix": "./scripts/meta/lint-fix",
+    "test": "./scripts/meta/test",
+    "test:watch": "./scripts/meta/test-watch"
+  },
+  "dependencies": {
+    "algoliasearch": "5.20.2",
+    "classnames": "2.5.1",
+    "instantsearch.js": "4.80.0",
+    "lucide-react": "0.475.0",
+    "next": "15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-instantsearch": "7.15.3",
+    "vaul": "1.1.2"
+  },
   "devDependencies": {
     "@next/eslint-plugin-next": "15.5.5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
     "@typescript-eslint/eslint-plugin": "8.46.0",
     "@typescript-eslint/parser": "8.46.0",
     "aberlaas": "2.18.1",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.7",
     "eslint-import-resolver-typescript": "4.4.4",
     "eslint-plugin-react": "7.37.4",
     "firost": "5.2.1",
     "globals": "15.15.0",
     "golgoth": "3.0.0",
-    "netlify-cli": "23.9.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
     "typescript": "5.7.2"
-  },
-  "scripts": {
-    "update-episode-lines": "node ./modules/lib/scripts/update-episode-lines.js",
-    "update-episode-counts": "node ./modules/lib/scripts/update-episode-counts.js",
-    "update-episode-thumbnails": "node ./modules/lib/scripts/update-episode-thumbnails.js",
-    "update-episode-animated": "node ./modules/lib/scripts/update-episode-animated.js",
-    "update-episode-records": "node ./modules/lib/scripts/update-episode-records.js",
-    "deploy-data-assets": "./scripts/deploy-data-assets",
-    "deploy-data-algolia": "node ./modules/lib/scripts/deploy-data-algolia.js",
-    "update-and-deploy": "./scripts/update-and-deploy",
-    "build": "./scripts/meta/build",
-    "serve": "./scripts/meta/serve",
-    "lint": "./scripts/meta/lint",
-    "lint:fix": "./scripts/meta/lint-fix",
-    "typecheck": "./scripts/meta/typecheck",
-    "test": "./scripts/meta/test",
-    "test:watch": "./scripts/meta/test-watch"
   }
 }
