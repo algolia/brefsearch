@@ -3,5 +3,5 @@ set -e
 
 arg=${@:-.}
 
-yarn run aberlaas lint "${arg}"
+yarn run aberlaas lint ${arg}
 ./scripts/typecheck

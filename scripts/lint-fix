@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -e
 
-yarn run aberlaas lint --fix "$@"
+yarn run aberlaas lint --fix $@
