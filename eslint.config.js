@@ -13,7 +13,7 @@ const tsparser = require('@typescript-eslint/parser');
 export default [
   ...config,
   {
-    ignores: ['modules/website/out/**/*'],
+    ignores: ['out/**/*'],
   },
   // Next.js rules for website module
   {
@@ -49,7 +49,7 @@ export default [
     },
   },
   {
-    files: ['./*.ts', './src/app/**/*.{ts,tsx}'],
+    files: ['*.ts', 'src/app/**/*.{ts,tsx}'],
     plugins: {
       react,
       '@typescript-eslint': tseslint,
