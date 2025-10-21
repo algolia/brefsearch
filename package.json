@@ -13,6 +13,7 @@
   },
   "packageManager": "yarn@4.6.0",
   "scripts": {
+    "ci": "./scripts/ci",
     "serve": "./scripts/serve",
     "build": "./scripts/build",
     "lint": "./scripts/lint",
