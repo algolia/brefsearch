@@ -49,7 +49,7 @@ export default [
     },
   },
   {
-    files: ['src/app**/*.{ts,tsx}'],
+    files: ['./*.ts', './src/app/**/*.{ts,tsx}'],
     plugins: {
       react,
       '@typescript-eslint': tseslint,

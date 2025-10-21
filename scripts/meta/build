@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-set -e
-
-cd ./modules/website
-yarn run build

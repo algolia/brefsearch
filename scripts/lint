@@ -3,4 +3,4 @@ set -e
 
 yarn run aberlaas lint "$@"
 
-./scripts/meta/typecheck
+./scripts/typecheck

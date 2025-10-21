@@ -13,13 +13,12 @@
   },
   "packageManager": "yarn@4.6.0",
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
-    "start": "next start",
-    "lint": "./scripts/meta/lint",
-    "lint:fix": "./scripts/meta/lint-fix",
-    "test": "./scripts/meta/test",
-    "test:watch": "./scripts/meta/test-watch"
+    "serve": "./scripts/serve",
+    "build": "./scripts/build",
+    "lint": "./scripts/lint",
+    "lint:fix": "./scripts/lint-fix",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
   },
   "dependencies": {
     "algoliasearch": "5.20.2",
