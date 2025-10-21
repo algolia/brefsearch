@@ -8,7 +8,7 @@ A searchable interface for the ["Bref" YouTube series](https://www.youtube.com/w
 
 This website allows users to search through the entire "Bref" video series by dialogue. Search results show relevant video moments with thumbnails and animated previews, making it easy to find specific scenes.
 
-The data processing pipeline (subtitle extraction, thumbnail generation, Algolia indexing) is maintained in a separate repository: [brefsearch-data](https://github.com/pixelastic/brefsearch-data).
+The data processing pipeline (subtitle extraction, thumbnail generation, Algolia indexing) is maintained in a separate repository: [brefsearch-data](https://github.com/algolia/brefsearch-data).
 
 ## Features
 
@@ -21,11 +21,12 @@ The data processing pipeline (subtitle extraction, thumbnail generation, Algolia
 
 ## Technology Stack
 
-- **Next.js 15** - React framework with App Router
+- **Next.js** - React framework with App Router
 - **Algolia InstantSearch** - Search UI components
 - **Tailwind CSS** - Styling
 - **TypeScript** - Type safety
-- **React 19** - UI library
+- **Cloudinary** - Image CDN
+
 
 ## Installation
 
@@ -36,7 +37,7 @@ yarn install
 ## Development
 
 ```bash
-yarn dev
+yarn serve
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the app.
@@ -45,7 +46,6 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ```bash
 yarn build
-yarn start
 ```
 
 ## Linting & Testing
@@ -53,8 +53,6 @@ yarn start
 ```bash
 yarn lint          # Run linter
 yarn lint:fix      # Fix linting issues
-yarn test          # Run tests
-yarn test:watch    # Run tests in watch mode
 ```
 
 ## Configuration
@@ -64,15 +62,13 @@ The Algolia search is configured to connect to:
 - Index: `brefsearch`
 - Search API Key: `6a47b9b62c58a7a4cd2338f095630b15` (public, read-only)
 
-Configuration can be found in `src/app/utils/algolia.ts`.
-
 ## Search Features
 
 The search interface includes:
 - **Default sorting**: Episodes appear in chronological order
 - **Search sorting**: Results ranked by popularity and relevance when searching
 - **Distinct results**: Only one match per episode shown
-- **Faceting**: Can filter by episode name, video ID, and other metadata
+- **Popularity**: Episodes ranked by view count, and segments inside of an episode ranked by most replayed.
 
 ## Deployment
 
@@ -80,7 +76,7 @@ The site is deployed on Netlify. Configuration is in `netlify.toml`.
 
 ## Related Repositories
 
-- [brefsearch-data](https://github.com/pixelastic/brefsearch-data) - Data processing scripts for subtitle extraction and indexing
+- [brefsearch-data](https://github.com/algolia/brefsearch-data) - Data processing scripts for subtitle extraction and indexing
 - [brefsearch-images](https://github.com/pixelastic/brefsearch-images) - Media assets (thumbnails and animated previews)
 
 ## Thanks
