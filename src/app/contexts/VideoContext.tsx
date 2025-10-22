@@ -9,6 +9,7 @@ import {
 } from 'react';
 import { parseUrlHash, removeVideoFromUrl } from '@/app/utils/functions';
 import { searchClient } from '@/app/utils/algolia';
+import { config } from '@/app/utils/config';
 
 export type VideoData = {
   videoId: string;
@@ -57,7 +58,7 @@ export const VideoProvider = ({ children }: { children: ReactNode }) => {
 
     const result = await searchClient.search([
       {
-        indexName: 'brefsearch',
+        indexName: config.indexName,
         query: '',
         params: {
           filters: `episode.videoId:${videoId}`,

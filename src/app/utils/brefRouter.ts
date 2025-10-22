@@ -1,18 +1,19 @@
 import { parseUrlHash } from '@/app/utils/functions';
+import { config } from '@/app/utils/config';
 
 export const brefRouter = {
   read() {
     const { query } = parseUrlHash(window.location.hash);
     if (!query) return {};
     return {
-      brefsearch: {
+      [config.indexName]: {
         query,
       },
     };
   },
 
   write(routeState: any) {
-    const query = routeState.brefsearch?.query || '';
+    const query = routeState[config.indexName]?.query || '';
     const hash = query ? `#${encodeURIComponent(query)}` : '';
 
     if (window.location.hash !== hash) {
@@ -36,7 +37,7 @@ export const brefRouter = {
   },
 
   createURL(routeState: any) {
-    const query = routeState.brefsearch?.query || '';
+    const query = routeState[config.indexName]?.query || '';
     const hash = query ? `#${encodeURIComponent(query)}` : '';
     return `${window.location.origin}${window.location.pathname}${hash}`;
   },

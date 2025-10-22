@@ -9,6 +9,7 @@ import PoweredBy from './poweredBy';
 import { searchClient } from '@/app/utils/algolia';
 import { brefRouter } from '@/app/utils/brefRouter';
 import { VideoProvider, useVideo } from '@/app/contexts/VideoContext';
+import { config } from '@/app/utils/config';
 
 const RenderHits = () => {
   return (
@@ -43,14 +44,16 @@ const SearchContent = () => {
     <div className="grid px-4 md:px-8 pb-8">
       <InstantSearch
         searchClient={searchClient}
-        indexName="brefsearch"
+        indexName={config.indexName}
         routing={{
           router: brefRouter,
         }}
         searchFunction={(helper) => {
           // Dynamically switch index based on query
           const { query } = helper.getQuery();
-          const expectedIndex = query ? 'brefsearch_popularity' : 'brefsearch';
+          const expectedIndex = query
+            ? config.indexNamePopularity
+            : config.indexName;
 
           helper.setIndex(expectedIndex);
 
