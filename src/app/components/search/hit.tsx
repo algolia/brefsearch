@@ -46,7 +46,9 @@ const CustomHit = ({
     return () => document.removeEventListener('mousemove', handleMouseMove);
   }, [isMouseNear]);
 
-  const thumbnailUrl = `https://res.cloudinary.com/det9vl8xp/image/fetch/f_jpg/q_auto/fl_progressive:steep/w_900/${hit.thumbnail.url}`;
+  const { thumbnailPath, lqip } = hit.media;
+  const thumbnailUrl = `https://assets.pixelastic.com/brefsearch/${thumbnailPath}`;
+  const thumbnailProxyUrl = `https://res.cloudinary.com/det9vl8xp/image/fetch/f_jpg/q_auto/fl_progressive:steep/w_900/${thumbnailUrl}`;
 
   return (
     <div
@@ -58,10 +60,10 @@ const CustomHit = ({
         className="clip block relative aspect-video"
         onClick={() =>
           setVideoData({
-            videoId: hit.episode.videoId,
-            timestamp: hit.line.start,
+            videoId: hit.episode.id,
+            timestamp: hit.subtitle.start,
             title: `${hit.episode.index}. ${hit.episode.name}`,
-            lqip: hit.thumbnail.lqip,
+            lqip,
           })
         }
       >
@@ -74,14 +76,14 @@ const CustomHit = ({
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: `url(${hit.thumbnail.lqip})`,
+              backgroundImage: `url(${lqip})`,
               filter: 'blur(8px)',
             }}
           />
 
           {/* High Quality Image with smooth transition */}
           <Image
-            src={thumbnailUrl}
+            src={thumbnailProxyUrl}
             alt={hit.episode.name}
             fill
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -99,7 +101,7 @@ const CustomHit = ({
           </h2>
           <div className="flex items-center text-sm text-white dark:text-gray-400">
             <Clock className="w-4 h-4 mr-1" />
-            <span>{hit.episode.durationHuman}</span>
+            <span>{hit.episode.duration}</span>
             <Eye className="w-4 h-4 ml-4 mr-1" />
             <span>
               {hit.episode.viewCount && hit.episode.viewCount.toLocaleString()}{' '}

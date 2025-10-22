@@ -6,7 +6,9 @@ import { BrefHit } from '@/app/types';
 
 const AnimatedPreview = ({ hit }: { hit: AlgoliaHit<BrefHit> }) => {
   const videoRef = useRef<HTMLVideoElement | null>(null);
-  const animatedUrl = hit.thumbnail.animatedUrl;
+
+  const { previewPath } = hit.media;
+  const previewUrl = `https://assets.pixelastic.com/brefsearch/${previewPath}`;
 
   const onMouseEnter = async () => {
     if (!videoRef.current) return;
@@ -39,7 +41,7 @@ const AnimatedPreview = ({ hit }: { hit: AlgoliaHit<BrefHit> }) => {
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
     >
-      <source src={animatedUrl} type="video/mp4" />
+      <source src={previewUrl} type="video/mp4" />
     </video>
   );
 };
