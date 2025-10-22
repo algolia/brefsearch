@@ -1,31 +1,24 @@
 export type BrefHit = {
   episode: {
-    commentCount: number;
-    durationHuman: string;
-    durationInSeconds: number;
+    basename: string;
+    duration: string;
+    id: string;
     index: number;
-    isAgeRestricted: boolean;
-    likeCount: number;
     name: string;
-    season: number;
     slug: string;
-    videoId: string;
     viewCount: number;
   };
-  line: {
+  subtitle: {
     content: string;
-    end: number;
-    heatBucket: number;
     index: number;
+    mostReplayedScore: number;
     start: number;
-    url: string;
   };
-  thumbnail: {
-    animatedUrl: string;
-    hash: string;
+  media: {
     height: number;
     lqip: string;
-    url: string;
+    previewPath: string;
+    thumbnailPath: string;
     width: number;
   };
   objectID: string;
@@ -35,7 +28,7 @@ export type BrefHit = {
 };
 
 export type SnippetType = {
-  line: {
+  subtitle: {
     content: {
       matchLevel: string;
       matchedWords: string[];
@@ -50,7 +43,7 @@ export type HighlightType = {
       value: string;
     };
   };
-  line: {
+  subtitle: {
     content: {
       value: string;
     };
