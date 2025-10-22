@@ -16,6 +16,24 @@ export const metadata: Metadata = {
   icons: {
     icon: '/favicon.ico',
   },
+  openGraph: {
+    title: 'Bref Search',
+    description: "Bref. J'ai cherché dans les épisodes",
+    images: [
+      {
+        url: '/overview.png',
+        width: 1920,
+        height: 1200,
+        alt: 'Bref Search Preview',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Bref Search',
+    description: "Bref. J'ai cherché dans les épisodes",
+    images: ['/overview.png'],
+  },
 };
 
 /**
