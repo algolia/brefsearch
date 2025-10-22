@@ -11,6 +11,7 @@ const brefFont = localFont({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.brefsearch.com'),
   title: 'Bref Search',
   description: "Bref. J'ai cherché dans les épisodes",
   icons: {
