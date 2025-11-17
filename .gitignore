@@ -1,5 +1,6 @@
 # Hidden files
 .DS_Store
+.env
 .envrc
 
 # Directories
