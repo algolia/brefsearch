@@ -60,7 +60,7 @@ const SearchContent = () => {
           helper.search();
         }}
       >
-        <Configure hitsPerPage={18} />
+        <Configure {...config.configure} />
         <Hero inputRef={inputRef} />
         <RenderHits />
       </InstantSearch>
