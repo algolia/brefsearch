@@ -59,7 +59,7 @@ const SearchContent = () => {
 
           // Exclude all easter eggs by default
           let filters = 'NOT episode.easterEgg.takima:true';
-          if (query.toLowerCase().includes('takima')) {
+          if (query && query.toLowerCase().includes('takima')) {
             filters = '';
           }
           helper.setQueryParameter('filters', filters);
