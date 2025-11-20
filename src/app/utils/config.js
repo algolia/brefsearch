@@ -29,6 +29,5 @@ export const config = {
   searchApiKey: value('searchApiKey'),
   configure: {
     hitsPerPage: 18,
-    filters: 'NOT episode.easterEgg.takima:true',
   },
 };
