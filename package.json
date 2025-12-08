@@ -9,7 +9,7 @@
   "type": "module",
   "license": "MIT",
   "engines": {
-    "node": ">=18.18.0"
+    "node": ">=22.18.0"
   },
   "packageManager": "yarn@4.6.0",
   "scripts": {
@@ -26,7 +26,7 @@
     "classnames": "2.5.1",
     "instantsearch.js": "4.80.0",
     "lucide-react": "0.475.0",
-    "next": "15.1.7",
+    "next": "16.0.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-instantsearch": "7.15.3",
